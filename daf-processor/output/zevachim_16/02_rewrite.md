@@ -30,7 +30,7 @@ With the prohibition of the *zar* established, the *tzad hashaveh* from *tamei* 
 
 To address this challenge, the Gemara introduces the *onen* — a *kohen* who has just suffered the death of an immediate relative — alongside the *baal mum*. Rather than using *tamei* and *baal mum* as the two poles of the *tzad hashaveh*, the Gemara substitutes *onen* for *tamei*. The critical question is whether an *onen* is prohibited on a *bamah*. Rav Samra son of Rava pointedly asks: *u'man leima lan de'onen assur bebama* — who says an *onen* cannot bring on a *bamah*? There is no explicit basis for that restriction. Since we have no evidence that an *onen* is barred from a *bamah*, we assume he is permitted there. This allows the *tzad hashaveh* to proceed: both *onen* and *baal mum* are prohibited in the *Beit HaMikdash* and invalidate — and crucially, at least one of them (the *onen*) may be permitted on a *bamah*, just like the *zar*. Therefore, the fact that a *zar* can bring on a *bamah* cannot be used to exempt him from the rule that prohibited persons invalidate.
 
-### Common Denominator Accep…
+### Zar, Onen, Bamah Accept
 
 The resulting *tzad hashaveh* is simply that both *onen* and *baal mum* are prohibited in a given state and, if they perform the *avodah* in that state, they invalidate. Since the *zar* is equally prohibited, he equally invalidates — and one cannot narrow the rule by pointing to the *bamah* permissibility of the *zar*, given that the *onen*, who shares in the common denominator, may himself be permitted on a *bamah*.
 
@@ -38,7 +38,7 @@ The resulting *tzad hashaveh* is simply that both *onen* and *baal mum* are proh
 
 ## Yoshev Kal VaChomer
 
-### Yoshev Kal VaChomer
+### Yoshev Kal VaChomer (II)
 
 Rav Mesharshiya offers an independent derivation: a *kal vachomer* from the case of *yoshev* — a *kohen* who performs the *avodah* while sitting. The *kal vachomer* runs as follows: a *kohen* who sits is permitted to eat the *korbanot* — even *kodshei kodashim* need not be eaten while standing — yet if he performs the *avodah* while sitting, he invalidates it. A *zar*, who is not permitted to eat *kodshei kodashim* at all, should certainly invalidate if he performs the *avodah*.
 
@@ -118,7 +118,7 @@ The Gemara answers: *tamei yochiach* — throw *tamei* into the *tzad hashaveh*.
 
 ---
 
-## Rava's Korban Yachid/Tzi…
+## Rava: Onen, Korban Yachid
 
 ### Rava's Position
 

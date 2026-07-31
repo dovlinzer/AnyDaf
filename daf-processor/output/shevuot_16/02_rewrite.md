@@ -10,7 +10,7 @@ The daf opens with a point left unaddressed in the previous session: the debate 
 
 Tosfos raises a significant objection to Rashi's position. If both participants walk on the outside, two difficulties arise. First, it is somewhat peculiar to sanctify a space by walking around its exterior. Second — and more decisively — if both participants remain outside the perimeter throughout the procession, both *todah* breads should become invalid, since neither would have entered the sanctified space at any point. Tosfos therefore concludes that both participants walk on the inside of the perimeter.
 
-### Single-File Sanctificati…
+### Single-File Procession
 
 On Tosfos's reading, the procession proceeds along the interior edge of the new boundary wall. Walking in single file, the lead participant is constantly sanctifying the space ahead, which simultaneously renders invalid the bread that participant carries — the space was unsanctified a moment before, and becomes sanctified as the procession advances. The second participant, following immediately behind, moves through space that has just been sanctified. The Gemara ultimately rejects the notion that a single participant could accomplish the sanctification alone, insisting that the two must work in tandem, but Tosfos's construction explains the basic geometry of the procession.
 
@@ -20,7 +20,7 @@ A further complication for Tosfos arises from an established *halacha*: the thic
 
 ---
 
-## Sanctification w/ Korban…
+## Sanctification: Todah
 
 ### Todah for Jerusalem
 
@@ -98,7 +98,7 @@ The Gemara cites Abba Shaul: *shenei bitza'in hayu b'Har HaMishcha* — there we
 
 ---
 
-## Two Swamps on Har HaMish…
+## Abba Shaul: Two Swamps
 
 ### Lower Swamp: Complete
 

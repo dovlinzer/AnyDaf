@@ -1,4 +1,5 @@
 # Bava Batra 136b — Daf Yomi Shiur
+[DAF:136a]
 
 ## Son's Sale After Death
 
@@ -48,6 +49,7 @@ From this perspective, the son, though technically holding title, has no actuali
 
 It is worth pausing to note, as the Rashba makes explicit, that the son's technical title does carry some real consequences. A second wife the father marries would have no lien on the property, since it is no longer legally registered in the father's name. And if the son were to die without having sold the property, it would pass to the son's own heirs — because it *is* registered in the son's name. The distinction that *kinyan peirot k'kinyan haguf* draws is more nuanced: the son has title in the registered sense, but he lacks the powers and status of an *owner* in the functional sense. He cannot exercise dominion over it, cannot transfer it as a true owner would. One might frame it this way: under whose name is the property registered? The son's. But who holds the owner's practical power and role? The father. Since the son lacks the owner's role, his purported sale transfers only his contingent future interest — and if he predeceases the father, that interest evaporates.
 
+[DAF:136b]
 ### Reish Lakish Explains
 
 > **Hebrew/Aramaic:** וְרֵישׁ לָקִישׁ אָמַר: קָנָה לוֹקֵחַ – קִנְיַן פֵּירוֹת לָאו כְּקִנְיַן הַגּוּף דָּמֵי.

@@ -114,7 +114,7 @@ The *Gemara* partially resolves the *braisa*'s implication by noting: *hacha b'm
 
 ---
 
-## Special Cases (III)
+## Special Cases
 
 ### Hidden Objects
 
@@ -122,7 +122,7 @@ The general principle emerges: an object that was intentionally hidden or buried
 
 ---
 
-## Population & Ownersh (II)
+## Population & Ownership
 
 ### Wine - Non-Jewish City
 
@@ -132,7 +132,7 @@ This ruling implies that even once the Jewish origin of the object is establishe
 
 ---
 
-## Special Cases (III)
+## Special Cases (II)
 
 ### River Biran
 
@@ -160,7 +160,7 @@ This is illustrated by the father of Shmuel, who found donkeys in the wilderness
 
 ---
 
-## Special Cases (III)…
+## Special Cases (III)
 
 ### Owner Protest
 

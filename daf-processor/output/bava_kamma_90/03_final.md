@@ -1,4 +1,5 @@
 # Bava Kamma 90 — Daf Yomi Shiur
+[DAF:90a]
 
 ## Mechila & Debt Markets
 
@@ -176,6 +177,7 @@ The tension is obvious. The *mishna* has just set fixed amounts, and then immedi
 
 Rabbi Akiva is drawing a distinction between class and wealth. One may be financially impoverished while belonging, in terms of lineage and social standing, to the nobility. The analogy is apt: there exists such a thing as the impoverished aristocracy — people of distinguished lineage living in straitened circumstances. Their poverty does not diminish their *kavod*, their honor and standing. Rabbi Akiva argues that every Jew, as a descendant of the Patriarchs, is in exactly this position: even the poor are *bnei chorin she-yardu min-nachaseihem*, free people of noble lineage who have come upon hard times. Since the *boshet* assessment is keyed to *kavod* rather than to wealth, and since everyone's *kavod* is, as a matter of halachic principle, maximum, the fixed high amounts specified in the *mishna* apply universally. *Hakol lefi kevodo* and the fixed amounts are not in tension — the fixed amounts represent what *kavod* demands for everyone.
 
+[DAF:90b]
 ### Hair Uncovering Story
 
 > **Hebrew/Aramaic:** וּמַעֲשֶׂה בְּאֶחָד שֶׁפָּרַע רֹאשׁ הָאִשָּׁה בַּשּׁוּק, בָּאת לִפְנֵי רַבִּי עֲקִיבָא, וְחִיְּיבוֹ לִיתֵּן לָהּ אַרְבַּע מֵאוֹת זוּז. אָמַר לוֹ: רַבִּי, תֵּן לִי זְמַן. וְנָתַן לוֹ זְמַן. שְׁמָרָהּ עוֹמֶדֶת עַל פֶּתַח חֲצֵרָהּ, וְשָׁבַר אֶת הַכַּד בְּפָנֶיהָ, וּבוֹ כְּאִיסָּר שֶׁמֶן. גִּילְּתָה אֶת רֹאשָׁהּ, וְהָיְתָה מְטַפַּחַת וּמַנַּחַת יָדָהּ עַל רֹאשָׁהּ. הֶעֱמִיד עָלֶיהָ עֵדִים, וּבָא לִפְנֵי רַבִּי עֲקִיבָא; אָמַר לוֹ: לָזוֹ אֲנִי נוֹתֵן אַרְבַּע מֵאוֹת זוּז?!

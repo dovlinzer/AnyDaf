@@ -1,4 +1,5 @@
 # Hullin 102 — Daf Yomi Shiur
+[DAF:101b]
 
 ## Ever Min HaChai Intro
 
@@ -14,6 +15,7 @@ The *braita* opens: the prohibition of *ever min hachai* applies to domesticated
 
 One implication of Rabbi Yehudah's view is that when a Jew eats an *ever min hachai* from a non-kosher animal, two prohibitions are simultaneously violated — the prohibition of non-kosher food and the prohibition of *ever min hachai*. This raises the question of *issur chal al issur*, which the Gemara will address in turn.
 
+[DAF:102a]
 ### Verse Derivation
 
 > **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: וּשְׁנֵיהֶן מִקְרָא אֶחָד דָּרְשׁוּ, ״רַק חֲזַק לְבִלְתִּי אֲכֹל הַדָּם כִּי הַדָּם הוּא הַנָּפֶשׁ לֹא תֹאכַל הַנֶּפֶשׁ עִם הַבָּשָׂר״. רַבִּי יְהוּדָה וְרַבִּי אֶלְעָזָר סָבְרִי: כֹּל שֶׁאַתָּה מְצוֶּּוה עַל דָּמוֹ אַתָּה מְצוֶּּוה עַל אֵבָרָיו, וְהָנֵי טְמֵאִין נָמֵי, הוֹאִיל וְאַתָּה מְצוֶּּוה עַל דָּמָן אַתָּה מְצוֶּּוה עַל אֵבָרָין.
@@ -196,6 +198,7 @@ If the bird is non-kosher, the rule is different in the other direction: whether
 
 The distinction can be stated as follows. The principle of *biryah* — that a whole entity suffices even without a *kezayis* — depends on whether the Torah identifies the forbidden item as a specific unit. When the Torah says do not eat non-kosher birds, it identifies the bird as the unit, and eating the whole bird transgresses even if it is tiny. When the Torah says do not eat from a *neveilah*, it refers to the flesh generically, not to any specific creature, and therefore the standard *kezayis* applies. *Ever min hachai*, when the whole living bird is eaten, is treated like the former: the *ever* or the unit is identified as what is prohibited, and the whole suffices.
 
+[DAF:102b]
 ### Small Bird Debate
 
 > **Hebrew/Aramaic:** תָּא שְׁמַע: נָטַל צִפּוֹר שֶׁאֵין בּוֹ כְּזַיִת וַאֲכָלוֹ – רַבִּי פּוֹטֵר, וְרַבִּי אֶלְעָזָר בַּר רַבִּי שִׁמְעוֹן מְחַיֵּיב. אָמַר רַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן: קַל וָחוֹמֶר, עַל אֵבֶר מִמֶּנָּה חַיָּיב, עַל כּוּלָּהּ לֹא כׇּל שֶׁכֵּן! חֲנָקָהּ וַאֲכָלָהּ – דִּבְרֵי הַכֹּל בִּכְזַיִת.

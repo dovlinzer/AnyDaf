@@ -46,7 +46,7 @@ The *gemara* raises an immediate difficulty: perhaps the word *vekiper* is neede
 
 Having established that three *vekipers* teach a reduction in the number of *matanos*, the *gemara* asks whether those three *vekipers* might be teaching something different altogether — not a reduction in the number of corners, but a shift in the *location* of the blood on the *mizbe'ach*. Perhaps the first *vekiper* teaches that atonement is achieved even if only three applications were placed above and one below; the second, even if two were above and two below; and the third, even if none were above and all four below.
 
-### Rejection: Eliminate Cor…
+### Rejection: Cut Corners
 
 This reading is rejected: if the three *vekipers* are used to permit placing all the blood below the *chut hasikra* (the red line dividing the *mizbe'ach*), then the requirement to place blood on the corners — which are above — is entirely eliminated. One might respond that if the *Torah* teaches this, so be it; perhaps there is an alternative path of placing blood below, just as there are other variations in blood service. However, Rava rejects this: three *vekipers* are structurally suited to reduce a fourfold requirement by one step at a time, arriving at the number one. If the endpoint were "all four below," four *vekipers* would be required, not three.
 

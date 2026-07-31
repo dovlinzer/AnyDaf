@@ -1,4 +1,5 @@
 # Pesachim 61 — Daf Yomi Shiur
+[DAF:61a]
 
 ## Shelo Lishmo Overview
 
@@ -226,6 +227,7 @@ First comparison: *ma tumah lo asa bah miktzat tumah k'chol tumah* — just as b
 
 Second comparison: *hu b'arlah poselet v'zman posel* — but *arlah* invalidates and an improper time (*piggul*) invalidates. And by *piggul*, *ma zman asa bo miktzat zman k'chol zman* — a partial intention of eating at the wrong time — even just a *kezayit* worth — renders the entire *korban* *piggul*. If so, *af arlah*, even thinking about just some *arelim* should invalidate.
 
+[DAF:61b]
 ### Full Group Only
 
 > **Hebrew/Aramaic:** נִרְאֶה לְמִי דּוֹמֶה: דָּנִין דָּבָר שֶׁאֵינוֹ נוֹהֵג בְּכׇל הַזְּבָחִים מִדָּבָר שֶׁאֵינוֹ נוֹהֵג בְּכׇל הַזְּבָחִים, וְאַל יוֹכִיחַ זְמַן שֶׁנּוֹהֵג בְּכׇל הַזְּבָחִים.

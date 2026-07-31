@@ -1,6 +1,6 @@
 # Nazir 40 — Daf Yomi Shiur
 
-## Shiurim: Hairs & Impleme…
+## Hairs & Implements
 
 ### Rav Chisda: Shiurim
 

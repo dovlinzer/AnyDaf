@@ -106,7 +106,7 @@ This also illuminates the husband's leverage within this structure: because the 
 
 ---
 
-## Condition/Prohibition Va…
+## Condition Until Pesach
 
 ### Condition Expires First
 

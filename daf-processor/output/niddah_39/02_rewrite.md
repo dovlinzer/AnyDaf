@@ -1,6 +1,6 @@
 # Niddah 39 — Daf Yomi Shiur
 
-## Fourth Perek & Eleven Da…
+## Fourth Perek: Eleven Days
 
 ### Fourth Perek Context
 
@@ -26,7 +26,7 @@ The *mishna* continues: *yashva lo velo badka* — if a woman who was supposed t
 
 However, the *mishna* introduces a different case: *higia zman vesta velo badka* — the time of her expected period arrived and she did not check. This situation carries a different weight. That day she is assumed to have seen blood unless she can demonstrate otherwise. Accordingly, *harei zu tmeia* — she must consider herself *tmeia*. This principle is the foundational basis for the practice that women check on the day they anticipate their period. The twice-daily checking discussed earlier, which is an obligation within a system of *tuma ve-tahara*, does not carry consequences if left undone; it does not shift her presumptive status. But the day of the *veset* — the expected onset — does. If she fails to check on that day, she is presumed to have bled. This distinction is critical for contemporary practice: the obligation to check at the anticipated time of one's period, and the consequence of not having done so, remains operative today.
 
-### Rabbi Meir - Fear & Hidi…
+### Rabbi Meir: Fear Wins
 
 *Rabbi Meir* introduces an exception: *im haysa bemachvo* — if she was in hiding, fearing for her life, and the time of her *veset* arrived without her having checked, *harei zu tehora* — she is considered pure. The reason given: *mipnei shecharada mesalekes es hadamim* — fear causes the bleeding to be suspended. This overrides the normal assumption that a woman who fails to check at the time of her expected period is presumed *tmeia*.
 
@@ -44,7 +44,7 @@ So in sum, the *mishna* delineates three tiers of checking. First, the standard 
 
 The *Gemara* now asks: *l'mai hilchata* — for what practical purpose does the *mishna* state that the eleven days are *bechezkas tahara*? *Rav Yehuda* answers: to teach us *she'eina tzricha bedika* — that a woman does not need to check during those days. This seems reasonable on its face.
 
-### Contradiction: Daily Che…
+### Contradiction Daily
 
 But the *Gemara* immediately raises a difficulty. The *seifa* of the *mishna* — the latter portion — states *yashva velo badka tehora*, implying by implication (*miklal d'lechatchila ba'ei bedika*) that she was in fact required to check beforehand. If the opening line is telling us she is exempt from checking during the eleven days, why does the *mishna* right afterward speak of a woman who failed to check when she was supposed to — as if those are the very same eleven days?
 
@@ -110,7 +110,7 @@ There is, of course, a significant leniency on the other side. *Rabbi Meir* held
 
 ---
 
-## Counting Methods (II)
+## Counting Methods
 
 ### Lo Shmi'a Li
 
@@ -156,7 +156,7 @@ To demonstrate that we count from actual events, the *Gemara* introduces a strik
 
 ---
 
-## Reish Lakish & R. Yochan…
+## Reish Lakish v. Yochanan
 
 ### Reish Lakish Position
 

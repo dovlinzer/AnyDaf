@@ -136,7 +136,7 @@ This raises an immediate question: if a non-Jew who steals from a Jew is also *a
 
 This yields a sharp and somewhat ironic contrast: the stereotyped generosity of the Jew — quick to forgive a petty debt — is precisely what limits the legal liability of a non-Jew who steals from him, while the non-Jew's insistence on full recovery even of minimal amounts means that any taking, however small, constitutes a real wrong.
 
-### Restitution vs. Punishme…
+### Restitution vs Punishment
 
 But this answer creates a new difficulty: if the reason less than a *prutah* from a Jew is not actionable is that the Jew will be *mochel*, why should the non-Jewish thief transgress at all? After the theft, the Jew says *machel* — forgiven — so no harm was ultimately done. The *gemara* responds: *tzara b'shaita miha ita* — at the moment of the taking, there was a genuine harm. The act of appropriating something from another, however small the amount and however willing the victim is to forgive it afterward, constitutes the violation. The subsequent *mechila* does not retroactively undo the act.
 

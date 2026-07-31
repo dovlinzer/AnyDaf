@@ -18,7 +18,7 @@ The *gemara* immediately challenges the *baraita*: does *shema* truly have only 
 
 The *gemara* therefore reframes the principle: it is not that each paragraph exclusively embodies one element, but rather that each paragraph contains *more* of one than the next. *Shema* has all three — *lilmod*, *lelamed*, *la'asot*. *V'haya im Shamoa* has two — *lelamed* and *la'asot*. *Vayomer* has only one — *la'asot*. The order reflects a descending richness: three, then two, then one.
 
-### Foundation vs. Chronolog…
+### Foundation vs. Chronology
 
 The *gemara* then asks: given that we already have the teaching of Rabbi Yehoshua ben Korcha about *kabbalat ol malchut shamayim*, why did we need the separate approach of *lilmod u'lelamed ve'la'asot*? The answer is *chada ve'od ka'amar* — one good reason and yet another. One reason is to first accept the yoke of heaven and then accept the yoke of *mitzvot*. A second, additional reason is the progression of *lilmod u'lelamed ve'la'asot* within the paragraphs themselves. Both reasons apply simultaneously and reinforce each other.
 
@@ -34,7 +34,7 @@ The *gemara* now moves from the conceptual ordering of the *shema* paragraphs to
 
 The hand-washing here is not primarily focused on the question of *ruach ra*; the *gemara*'s concern is the washing that prepares a person for *davening* — a matter of cleanliness in preparation for prayer. This practice leads *Tosafot* into a detailed discussion: if one receives one's *tefillin* (or *tallis*) between *shema* and *Shemoneh Esrei*, can one put them on with a *bracha* at that point, or must the *bracha* be recited afterward? *Tosafot* notes that wearing *tefillin* during *Shemoneh Esrei* takes priority over wearing a *tallis*, though the underlying reasoning is not entirely clear, given that the concern about wearing *tefillin* while reciting *shema* — since one speaks of *tefillin* in the text — is itself a significant consideration. *Tosafot* concludes that Rav's practice demonstrates the importance of having *tefillin* on for *Shemoneh Esrei*, but does not resolve the question of when the *bracha* is made. One cannot interrupt *shema* to make the *bracha*, yet since one is still in the midst of fulfilling the *mitzvah* of *tefillin* even after *Shemoneh Esrei*, a *bracha* beforehand would not constitute a *bracha* after the *mitzvah*'s completion.
 
-### Work Interruption Obliga…
+### Work Interruption Obliga
 
 The *gemara* asks: how could Rav have done this — that is, how could he have said *shema* before donning *tefillin*? A *baraita* is cited: one who is digging a niche for a corpse in a burial cave is exempt from *krias shema*, *tefillah*, *tefillin*, and all *mitzvot* mentioned in the Torah — the principle of *osek bemitzvah patur min hamitzvah*, one who is engaged in a *mitzvah* is exempt from another *mitzvah*. However, when the time for *krias shema* arrives, the *baraita* continues: *oleh venoteil yadav u'meni'ach tefillin vekore krias shema umispaleil* — he ascends from the cave, washes his hands, puts on *tefillin*, recites *shema*, and prays.
 
@@ -58,7 +58,7 @@ Yet the *gemara* remains unsatisfied: *mikol makom kashya le-Rav* — the proble
 
 ---
 
-## Tefillin & Shema Require…
+## Tefillin & Shema
 
 ### False Testimony Concept
 
@@ -68,7 +68,7 @@ Having established that the norm is to don *tefillin* before *shema*, the *gemar
 
 Notably, the *gemara* does not make this point about *tallis*. This is deliberate: the obligation of *tzitzit* applies only when one is actually wearing a four-cornered garment; there is no freestanding obligation to always wear *tzitzit*. The charge of *k'ilu me'id ed sheker* therefore attaches specifically to *tefillin* and not to *tallis*.
 
-### Incomplete Offering Anal…
+### Offering Without Gifts
 
 Rabbi Chiya bar Abba in the name of Rabbi Yochanan offers a milder formulation: *k'ilu hikriv olah b'lo mincha v'zevach b'lo nesachim* — it is as if one offered a *olah* without its accompanying *mincha*, or brought a *zevach* without the *nesachim*. The *olah* and *zevach* are still brought; the *mincha* and *nesachim* were required accompaniments in the Temple service. One has not made a mockery of the enterprise, but one has failed to bring the offering in its fullest form. The act of declaring is not false; it is simply incomplete.
 
@@ -110,7 +110,7 @@ This creates a textual difficulty, since earlier the same *gemara* cited Rav Chi
 
 ## Hearing Shema Dispute
 
-### Must Hear Shema Obligati…
+### Hearing Shema Obligation
 
 The *gemara* turns to a new *mishna*. The *mishna* states: *ha-korei et shema v'lo hishmia le-ozno yatza* — if one recited *shema* and did not make it audible to oneself, one has fulfilled the obligation. *Divrei Rabbi Yehuda* — this is the view of Rabbi Yehuda. Rabbi Yosi says: *lo yatza* — one has not fulfilled the obligation; one must hear what one says. A second dispute: if one read but was imprecise in articulating the letters (*lo dikdek be-otiotav*), Rabbi Yosi says one is *yotzei*; Rabbi Yehuda says one is not.
 
@@ -130,7 +130,7 @@ This case focuses attention on a subtle distinction: the issue is not merely tha
 
 The *gemara* identifies this position with Rabbi Yosi: it is Rabbi Yosi who holds that failure to hear oneself even *be-di'avad* disqualifies. The implication is that the case of *terumah* — where failure to hear results in disqualification *le-chatchilah* but valid *terumah* *be-di'avad* — should align with some other opinion.
 
-### Three Positions Reconcil…
+### Three Positions: Yehuda
 
 The *gemara* now works through the logical possibilities. Rav Chisda initially identifies the *terumah mishna* as following Rabbi Yosi. But the *gemara* challenges this: Rabbi Yosi says that even *be-di'avad* one is not *yotzei* by *shema* without hearing — so how can the *terumah* case allow it *be-di'avad*? The response is that the *terumah* case is different because the problem there is the failure to hear the *bracha*, which is only rabbinic, and *be-di'avad* the *terumah* is valid because the *bracha* requirement does not *taly milta* — does not determine the validity of the *terumah* itself.
 
@@ -142,7 +142,7 @@ This gives us three positions: (1) Rabbi Yosi — even *be-di'avad* one is not *
 
 The question is how to distribute these positions between Rabbi Yehuda and the other authorities. One resolution: the middle position (*le-chatchilah* yes, *be-di'avad* it works) is the position of Rabbi Yehuda *in the name of his teacher* — as we find in a *baraita*: *Rabbi Yehuda omer mishum Rabbi Elazar ben Azarya, ha-korei et shema tzarich she-yashmia le-ozno* — one who recites *shema* is required to make it audible to oneself. The word *tzarich* — "is required" — signals a *le-chatchilah* standard without necessarily disqualifying *be-di'avad*. Rabbi Yehuda thus transmits his teacher's position as the middle one.
 
-### Rabbi Meir: Heart Intent…
+### Rabbi Meir: Heart Intent
 
 At this point, *Rabbi Meir* is introduced with a striking position. He cites the verse *asher anochi metzavecha ha-yom al levavecha* — "which I command you today upon your heart." From this Rabbi Meir derives: *achar kavanat ha-lev hen hen ha-devarim* — everything follows the intention of the heart. On this view, not only is audibility unnecessary, but perhaps even the verbal articulation of *shema* is dispensable; pure thought — *hirhur* — may suffice. This opens the question of whether *hirhur ke-dibbur dami* — whether mental contemplation is legally equivalent to speech.
 

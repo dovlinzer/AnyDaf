@@ -1,4 +1,5 @@
 # Sanhedrin 72 — Daf Yomi Shiur
+[DAF:72a]
 
 ## Haba b'Machteret Intro
 
@@ -270,6 +271,7 @@ An interesting debate among *acharonim* concerns whether the license to kill the
 
 The *baraita* continues: *ve-met be-chol mita she-ata yakhol le-hamito* — he may be killed by whatever means are available. You are not restricted to a particular method. The *Gemara* asks: why does this need to be stated?
 
+[DAF:72b]
 ### Murderer Execution
 
 > **Hebrew/Aramaic:** מֵרוֹצֵחַ נָפְקָא, דְּתַנְיָא: ״מוֹת יוּמַת הַמַּכֶּה רֹצֵחַ הוּא״ – אֵין לִי אֶלָּא בְּמִיתָה הָאֲמוּרָה בּוֹ. וּמִנַּיִן שֶׁאִם אִי אַתָּה יָכוֹל לַהֲמִיתוֹ בְּמִיתָה הַכְּתוּבָה בּוֹ, שֶׁאַתָּה רַשַּׁאי לַהֲמִיתוֹ בְּכׇל מִיתָה שֶׁאַתָּה יָכוֹל לַהֲמִיתוֹ? תַּלְמוּד לוֹמַר: ״מוֹת יוּמַת״ – מִכׇּל מָקוֹם.

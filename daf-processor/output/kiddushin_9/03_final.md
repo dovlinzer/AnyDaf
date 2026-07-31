@@ -1,4 +1,5 @@
 # Kiddushin 9 — Daf Yomi Shiur
+[DAF:9a]
 
 ## Rejection via Condition
 
@@ -184,6 +185,7 @@ The broader stakes of this *machloket* are significant. *Gerushin* is not simply
 
 Since *shtar kiddushin* was never practically employed, many of these *halachot* were never fully *paskened*, and a number of foundational questions — including whether *shtar kiddushin* must include names and a date like a *get*, as the Rashba holds, or not, as the Ritva holds — remain contested without definitive ruling.
 
+[DAF:9b]
 ### Writing Knowledge Dispute
 
 > **Hebrew/Aramaic:** אִיתְּמַר: כְּתָבוֹ לִשְׁמָהּ, וְשֶׁלֹּא מִדַּעְתָּהּ – רָבָא וְרָבִינָא אָמְרִי: מְקוּדֶּשֶׁת. רַב פָּפָּא וְרַב שֵׁרֵבְיָא אָמְרִי: אֵינָהּ מְקוּדֶּשֶׁת. אָמַר רַב פָּפָּא: אֵימָא טַעְמָא דִידְהוּ וְאֵימָא טַעְמָא דִידִי. אֵימָא טַעְמָא דִידְהוּ – דִּכְתִיב: ״וְיָצְאָה״ ״וְהָיְתָה״ – מַקִּישׁ הֲוָיָיה לִיצִיאָה, מָה יְצִיאָה לִשְׁמָהּ וְשֶׁלֹּא מִדַּעְתָּהּ, אַף הֲוָיָיה נָמֵי לִשְׁמָהּ וְשֶׁלֹּא מִדַּעְתָּהּ.

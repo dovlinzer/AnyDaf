@@ -8,13 +8,13 @@ We pick up on 72b, *amud bet*, with a new *mishna*. The *mishna* continues in th
 
 It is worth noting that our *perek* in Nedarim follows a pattern common to many *masechtos* and *perakim*: it begins with the more obscure and in some ways more fascinating *halacha* — the intricate details of the partnership between father and groom, who is the *ikar*, how the combination functions, and so on — rather than starting from first principles. A more straightforward pedagogical approach would have first explained how *hafara* works, what the twenty-four-hour period entails, what *hakama* is, and so forth. Instead, all of that gets addressed along the way, as the *gemara* works through the more complex and nuanced cases. This is simply further confirmation that the *gemara* and the *mishnayos* were organized for those already in the conversation — not as Nedarim for beginners.
 
-### Father & Groom Partnersh…
+### Father & Groom Annulment
 
 The *mishna* at the top of 72b opens with a striking phrase: *derech talmidei chachamim* — it is the way of Torah sages. It is worth pausing on this, as it is unusual for a *mishna* to invoke the category of *talmidei chachamim* so directly. The *mishna* then describes the following practice: before a man's daughter is about to leave his home — and *yotzes* here means *nissu'in*, marriage proper, since *kiddushin* and *erusin* leave her still legally in her father's house — a conscientious father would ensure that any outstanding vows were addressed. Once she becomes *nesu'ah*, the father exits the picture entirely: he can no longer annul, and her husband cannot annul vows that predate the *nissu'in* because they are *kodmim* — they preceded his jurisdiction. The only window for annulling such prior vows is before the *chuppah*.
 
 So the *mishna* tells us: *derech talmidei chachamim*, before his daughter departs his home, a father would say to her, *kol nedarim she-nadart betoch beisi harei hein mefurim* — any vows you have taken in my house are hereby annulled. This is a blanket annulment, reminiscent in structure of *hataras nedarim* on *erev Rosh Hashana*. Clearly, he does not know the specific content of the vows; if he did, the situation would have played out differently, and the urgency of doing it now, before the window closes, would not have the same character. The *mishna* then adds: *vechain haba'al*, and so too the groom, before she enters his domain — since once she is *mekudeshes* his participation is already required — would similarly say: *kol nedarim she-nadart ad shelo tikanesi lirshusi harei hein mufarim* — any vows you may have taken before the *chuppah* are annulled. Because once the *chuppah* occurs and she is *nesu'ah*, he can no longer address vows that preceded his jurisdiction.
 
-### Blanket Annulment Practi…
+### Blanket Annulment Vows
 
 The implication of the *mishna* is immediately apparent: both the father and the groom are issuing blanket annulments of vows they have not heard. The framing could not be clearer — they say "any vows you may have taken," which indicates they are unaware of any specific vow. And crucially, there is no sense of a clock running out that would require them to speak now rather than later. The only urgency is the impending *nissu'in* after which the window closes entirely.
 
@@ -22,7 +22,7 @@ This raises an obvious question rooted in the *pesukim* in *Matos*: the Torah sa
 
 ---
 
-## Hearing Requirement Deba…
+## Hearing Required Annul
 
 ### Rami Bar Chama's Query
 
@@ -88,7 +88,7 @@ The *pshat* of the *mishna* clearly reads as genuine pre-emptive annulment. But 
 
 ---
 
-## Shaliach (Agent) Authori…
+## Shaliach: Annulling Vows
 
 ### Appointed Manager Role
 
@@ -220,7 +220,7 @@ The Ran is careful to note, however, that one should not conclude from this that
 
 One might think, for example, that if someone vows explicitly *al da'as* a specific individual — say, "I am taking this vow subject to So-and-so's approval" — that person could annul the vow without formal *hafara* language, simply by withholding consent. The Ran firmly rejects this: *vazu hi shegagas hora'ah* — this would be a genuine error in *psak*. The mechanism of *hafara* is formal and its rules are fixed; *al da'as* informs the underlying rationale but does not replace the formal act.
 
-### Husband Category Expansi…
+### Husband Category: Arus
 
 The Ran develops the point further in a direction that is conceptually illuminating. If *al da'as ba'alah* is the *reason* the Torah gave the husband power over his wife's vows, then we are essentially engaged in *darshinan ta'ama di-kra* — deriving the law from the reasoning behind the *pasuk*. And if so, when the Torah says *ba'al* — husband — we need to ask: what does the Torah mean by husband in this context? The Torah means the person standing in that relationship of presumptive agreement with her vows.
 

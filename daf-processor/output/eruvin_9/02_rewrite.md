@@ -10,13 +10,13 @@ The Gemara had entertained opinions in both directions on this question, and the
 
 ## Under the Korah (II)
 
-### Rav Chisda: Inside/Outsi…
+### Rav Chisda: In vs Out
 
 Rav Chisda states that whatever one's position on the *korah*, there is one point of universal agreement: *bein lechayayim* — opposite the *lechi*, the vertical post that marks the side of the *mavoy* opening — is forbidden (*she'assur*). The prohibition holds regardless of how one understands the function of the *lechi*.
 
 This prompts a natural question: why should the *lechi* be treated differently from the *korah*? After all, the same inside/outside debate that applies to the *korah* could equally apply to the *lechi*. Tosafos explains that the *lechi* is categorically different because, unlike the *korah* — which must be at least a *tefach* wide — a *lechi* may be of infinitesimal thinness. Since the *lechi* is permitted to be arbitrarily narrow, the rabbis ruled that one may not use the space directly opposite it. Were they to permit that space, a person might easily step over an extremely thin post without even noticing, rendering the *lechi* functionally meaningless. Notably, the Gemara itself does not offer this explanation; Tosafos supplies it as a logical rationale for the distinction.
 
-### Rami bar Chama: External…
+### Rami bar Chama: Ext. Pegs
 
 Rami bar Chama poses a challenge to Rav Chisda. The case: *na'atz shtay yetaydot bishnay kotlay mavoy mibachutz* — someone drove two pegs into the outer face of the two walls of the *mavoy* and rested the beam on them, so that the beam sits flush against the outer face of the walls rather than resting directly on top of them. What is the law in this scenario?
 
@@ -42,7 +42,7 @@ The Gemara resolves the apparent contradiction with Rava's ruling by reinterpret
 
 Why must the *braita* teach both cases? Because one might have thought: from one side, we can apply *lavud* and consider the beam as though it reaches the wall. But perhaps we would not apply *lavud* in two directions simultaneously — that is, we would not extend the beam imaginarily to both sides at once. The *braita* teaches *kamashma lan* that *lavud* can indeed be applied in both directions.
 
-### Rav Ashi: Diagonal Dista…
+### Rav Ashi: Diagonal Dist
 
 Rav Ashi offers an alternative reading: *meshucha ve-hi tluyah* — the beam is simultaneously extended away from the edges and elevated above the top of the walls. It is both horizontally displaced and vertically elevated. The scenario is: pegs are driven into the walls at an angle (*akumot*), and the beam rests on them — neither touching the side walls (*she'ein begovahan gimel* — the vertical gap is less than three *tefachim*) nor spanning all the way to the edges (*she'ein be-akmimutan gimel* — the diagonal distance is less than three *tefachim*).
 

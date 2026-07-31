@@ -2,7 +2,7 @@
 
 ## Minhagim Review
 
-### Binding Nature of Minhag…
+### Minhagim & Scripture Auth
 
 Today's *daf* is 52. We pick up in the middle of 51b to review some of the highlights from the previous session, which raised a number of important issues regarding *minhagim*, even if it lacked a certain systematic quality. One foundational question that arose was the very nature of what makes *minhagim* binding upon later generations. The *pasuk* of *shma bni musar avicha* was cited as a way of giving expression to the idea that being bound by tradition is a fundamental, core operating principle of a religious traditional society — indeed more than a core value. That at least begins to open the question of the source and nature of that binding force.
 

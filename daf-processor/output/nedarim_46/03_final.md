@@ -1,4 +1,5 @@
 # Nedarim 46 — Daf Yomi Shiur
+[DAF:46a]
 
 ## Shutfin Mishnah Review
 
@@ -128,6 +129,7 @@ The answer implied by the *gemara* is that the *ones* argument cuts the other wa
 
 But in a *chatzer* that is too small to be meaningfully subdivided — *ein bah kedei chalukah* — *divrei hakol mutar*: everyone agrees, including the *Rabbanan*, that entry must be permitted. The reason is that in such a small space the "private" portions of the two partners would necessarily overlap; there is no way to allocate each of them a distinct private zone. Given this physical reality, the logic of *Rabbi Eliezer ben Yaakov* becomes irresistible: each partner's use of any part of the *chatzer* simply is use of his own portion, because the space cannot be divided otherwise. The *Rabbanan* therefore concede to *Rabbi Eliezer ben Yaakov* when the *chatzer* is too small to divide.
 
+[DAF:46b]
 ### Yosef: BK Analogy
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב יוֹסֵף: הֲרֵי בֵּית הַכְּנֶסֶת, דִּכְמִי שֶׁאֵין בּוֹ כְּדֵי חֲלוּקָּה דָּמֵי, וּתְנַן: שְׁנֵיהֶן אֲסוּרִין בְּדָבָר שֶׁל אוֹתָהּ הָעִיר!

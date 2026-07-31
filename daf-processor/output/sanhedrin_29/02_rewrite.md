@@ -18,7 +18,7 @@ The *Gemara* entertains the first possibility: *ee'leima hachi ka'amar* — perh
 
 The *Gemara* therefore rereads the dispute as one of mutual exclusion. Rabbi Yehuda — who is the author of our *mishnah* — says only the stepson fails to pass down: *chorgo levado*, but *aval giso hu bino ve'chasno* — the brother-in-law does extend to his son and son-in-law, reaching the nephew through marriage. Rabbi Yosi counters: *giso levado* — it is the brother-in-law who does not extend, *aval chorgo hu bino ve'chasno* — but the stepson would pass down a generation. On this reading the two authorities are in complete disagreement, each identifying a different figure as the one who stops at himself.
 
-### Chiyya's Eight & Twenty-…
+### Chiyya: Eight & Twenty
 
 Having established that the debate is one of mutual exclusion, the *Gemara* raises a further complication from Rabbi Chiyya's *braisa*: *shmonah avos shehen esrim ve'arba* — there are eight primary relatives, and when extended to their sons and stepsons, these become twenty-four. The *Gemara* asks: *keman* — who does this go like? It cannot fit Rabbi Yehuda, who removes only the stepson from the list of those who extend, and it cannot fit Rabbi Yosi either, who removes only the brother-in-law.
 
@@ -34,7 +34,7 @@ The *Gemara* concludes this section: *amar Rav Yehuda amar Shmuel halacha keRabb
 
 ## Document & Inheritance
 
-### Two Brother-in-law Witne…
+### Gift by Two Brothers-Law
 
 A case now arrives to ground this dispute in practice. A gift document — a *shtar* — was produced in which two brothers-in-law had signed as witnesses. The *kinyan* that effected the transfer of property was the *shtar* itself, so if the witnesses on the document were *pesulim*, the transfer never occurred. It was not merely a question of evidentiary proof; the validity of the *shtar* was the mechanism of acquisition itself.
 
@@ -66,7 +66,7 @@ The *Gemara* never fully resolves the ambiguity about which Rabbi Yosi Shmuel in
 
 ## Dead Wife Case
 
-### Yehuda: Kids = Still Pas…
+### Yehuda: Children Bar Levi
 
 The *mishnah* now addresses a situation of *karov v'nitrachak* — someone who was once a relative and became distant. This arises typically through a marriage-based relationship that is severed by death or divorce. If a man's daughter was married to someone, that son-in-law is a *karov* through marriage; if the daughter dies, the connection dissolves and the ex-son-in-law is *kasher*.
 
@@ -82,7 +82,7 @@ A case is then brought involving Mar Ukva. *B'nei chamu'eh d'Mar Ukva* — the s
 
 *Atu l'kamei l'dina* — they came before him for judgment. Mar Ukva declared: *psilna l'chu l'dina* — I am *pasul* to judge your case.
 
-### Real Reason: Troublemake…
+### Mar Ukva's Real Reason
 
 The brothers-in-law protested: *mai daitach k'Rabbi Yehuda* — do you really rule like Rabbi Yehuda, finding yourself disqualified merely because you are still their children's uncle? *Anan maitina igarta mi'Maarava* — we will obtain a letter from the west, from Eretz Yisrael, attesting that *ein halacha k'Rabbi Yehuda*, and you should be fully eligible to judge us.
 
@@ -124,7 +124,7 @@ With both categories established, the *Gemara* accounts for the position of the 
 
 *Amar Rabbi Yossi beRabbi Yehuda*: from the same verse — *v'hu lo oyev lo v'lo mivakesh ra'ato* — we derive *mikan lishnei talmidei chachamim she'son'im zeh et zeh she-ein yoshvin badin ke'echad* — two scholars who are enemies of one another may not sit together as a panel of judges. The prohibition is not only about judging someone one hates, but about sitting *alongside* someone one hates.
 
-### Enemies Can't Sit Togeth…
+### Enemies Can't Sit
 
 This last point requires a distinction. Two judges who are close friends may serve together on a *beit din* — friendship does not impair the deliberative dynamic between them; they can disagree vigorously and reconcile warmly, as the model of *chavruta* study illustrates. Two judges who are enemies, however, cannot function together. Each will reflexively oppose the other's reasoning, resist listening, and subvert the open atmosphere the court requires. The *pesul* of enemies sitting together is therefore real and distinct from the general disqualification of *sonei* when judging the person one hates. Enemies cannot sit together as a panel. Regarding friends on a shared panel, no analogous concern applies.
 
@@ -232,6 +232,6 @@ Additional derivations of the principle are cited: *Rav Mesharshiya* from the wo
 
 *Amar Abaye lo shanu ela de'amar mishteh ani bach* — Abbaye clarifies the scope of the *meshateh* rule. The claim of jest is available only as long as the defendant affirmatively says *meshateh ani bach*. If instead the defendant says *lo hayu devarim me'olam* — it never happened — and witnesses then attest that it did happen, he is *huchzak kafran* — established as a proven liar. His credibility is destroyed; he can no longer make the *meshateh* claim having first denied the event entirely. According to Rashi, this *kafran* status would also preclude him from taking an oath.
 
-### Papa: Jest & Forgetfulne…
+### Papa: Jest & Forgetful
 
 Rav Papa, however, disagrees. His ruling is cited in the name of Rava: *kol midei de'chadi lo dachir inash* — things that are of no serious consequence people do not remember. The same lack of seriousness that underlies the claim of *meshateh* — the statement was made carelessly, without weight — also explains why the defendant might fail to remember having made it at all. His initial denial that the statement ever occurred is therefore not to be treated as a lie; it is equally consistent with having genuinely forgotten something that was said in passing without intent. Just as he may claim *meshateh*, so too may he claim *lo dachir* — I simply do not recall — and neither amounts to *huchzak kafran*.

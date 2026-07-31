@@ -38,7 +38,7 @@ In the time of the Gemara, wine was routinely mixed with water before drinking �
 
 The Mishnah adds a sharper restriction: *velo le-tagar af al pi she-hodio* — one may not sell diluted wine even to a *tager*, a wholesaler or middleman, even if one informs him. The concern is that the *tager* will in turn sell it to storekeepers without disclosing its diluted state, or sell it directly to consumers without informing them. By handing him a product that is already diluted, one creates an irresistible temptation: the *tager* now bears the burden of disclosure with every subsequent sale, and he may simply not bother. Although this is not precisely *lifnei iver*, since the *tager* hardly needs one's assistance to add water to wine if he wished to deceive, nonetheless one is placing him in a situation of temptation and easing the path toward deception in a way that one must avoid.
 
-### Standard Practice Except…
+### Standard Dilution Prac
 
 There is an important qualification: *makom she-nahagu le-hatil mayim be-yayin yatilu* — in a place where it is the accepted practice to dilute wine before sale, one may do so. When dilution is the norm, every buyer already knows what to expect, and there is no element of misrepresentation. The standard ratio — whether half, a third, or a quarter — should be observed according to local custom.
 

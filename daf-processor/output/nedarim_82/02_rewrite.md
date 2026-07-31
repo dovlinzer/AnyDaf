@@ -1,6 +1,6 @@
 # Nedarim 82 — Daf Yomi Shiur
 
-## Inuy Nefesh vs. Beino L'…
+## Inuy Nefesh vs Beino
 
 ### Bathing & Makeup
 
@@ -66,7 +66,7 @@ This is a significant *chiddush* — and, as the Gemara immediately observes, on
 
 The *mishnah* states: *peirot medinah zo alai* — if a woman declares that the fruit of a particular country is forbidden to her, *yavi lah mimedinah acheret* — her husband should bring her fruit from a different country, and since she retains access to the same type of item through another source, the vow does not constitute *inuy nefesh*, and the husband cannot annul it. This is a direct challenge to Shmuel's position: the *mishnah* explicitly rules that if another source is available, there is no *inuy nefesh*.
 
-### Difficult Reading Propos…
+### Mishnah: Fruit Source
 
 To salvage Shmuel's position, Rav Yosef — and the Gemara working through this — proposes a forced reading of the *mishnah*. The case, on this reading, is not that she simply forbade herself from a country's fruit; rather, she said: "I may not have the fruit of this country *that you, my husband, bring.*" On this interpretation, she has not really denied herself access to that fruit at all — she can still obtain it through anyone else. Because the deprivation is purely contingent on the husband's role as provider, and she retains full access through any other channel, it falls outside *inuy nefesh* and the husband cannot annul it.
 

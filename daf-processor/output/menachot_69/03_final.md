@@ -1,4 +1,5 @@
 # Menachot 69 — Daf Yomi Shiur
+[DAF:68b]
 
 ## Omer & Shtei HaLechem
 
@@ -180,6 +181,7 @@ The third argument — *davar acher* — is directly relevant to our question: *
 
 The *Gemara* now applies this *braita* to Rami bar Chama's question. The argument runs as follows: if the *shtei halechem* can operate *shelo kesidran* — permitting grain that encountered the *shtei halechem* before the *omer* — then one could in theory bring the *omer* from wheat without violating the *bikkurim* status of the *shtei halechem*. Here is how: one takes grain that took root between the *omer* and the *shtei halechem* of the previous year — grain that first encountered the *shtei halechem* and then the *omer*, in reverse order — and uses it for the *omer* as wheat. For the *shtei halechem* itself, one uses grain that grew in the normal sequence — taking root after the previous year's *shtei halechem* and before the current *omer*. The *shtei halechem* could then claim to be *bikkurim* of the new wheat in the *Mikdash*, since the wheat used for the *omer* would be defined as "old" grain (having already passed through both the *omer* and *shtei halechem*) while the wheat used for the *shtei halechem* would be "new." This argument would explain how a wheat *omer* need not compromise the *bikkurim* status of the *shtei halechem* — and thus the third proof that the *omer* must come from barley would be unnecessary. Since that proof is in fact cited, it must be that we cannot bring the *omer* from wheat through this device, which in turn implies that the *shelo kesidran* mechanism does not work.
 
+[DAF:69a]
 ### Refutation
 
 > **Hebrew/Aramaic:** מִי סָבְרַתְּ בִּכּוּרִים לְפֵירָא קָא אָמְרִינַן? לְמִזְבֵּחַ קָא אָמְרִינַן! וְהָא אָכֵיל לֵהּ מִזְבֵּחַ מִפֵּירֵי דְּהָא שַׁתָּא.
@@ -336,6 +338,7 @@ The *Gemara* clarifies the question: *l'mai halacha?* For what legal purpose? If
 
 The real question is a different one: the elephant swallowed not a finished basket but raw palm leaves (*utzam*) — strips of palm used for weaving — and then excreted them. Someone took these excreted palm leaves and fashioned them into an Egyptian basket. *Mi havei ikul* — are they considered digested, *havei lehu k'chlei glalim* — and must the resulting basket be classified as a vessel made from dung? If so, *ein mikablin tumah* — it cannot become *tamei*, since dung vessels, along with stone and unbaked earthen vessels, do not become *tamei*, neither biblically nor rabbinically (*lo midivrei Torah v'lo midivrei Sofrim*). Or *lo havi ikul* — are they not considered digested, and is the material therefore still legally palm, making the basket susceptible to *tumah* as a normal woven vessel?
 
+[DAF:69b]
 ### Wolves story
 
 > **Hebrew/Aramaic:** תִּפְשׁוֹט לֵיהּ מֵהָא דְּאָמַר עוּלָּא מִשּׁוּם רַבִּי שִׁמְעוֹן בַּר יְהוֹצָדָק: מַעֲשֶׂה וּבָלְעוּ זְאֵבִים שְׁנֵי תִינוֹקוֹת בְּעֵבֶר הַיַּרְדֵּן, וּבָא מַעֲשֶׂה לִפְנֵי חֲכָמִים, וְטִהֲרוּ אֶת הַבָּשָׂר. שָׁאנֵי בָּשָׂר, דְּרַכִּיךְ. וְלִפְשׁוֹט מִסֵּיפָא: וְטִמְּאוּ אֶת הָעֲצָמוֹת! שָׁאנֵי עֲצָמוֹת, דַּאֲקוֹשֵׁי טְפֵי.

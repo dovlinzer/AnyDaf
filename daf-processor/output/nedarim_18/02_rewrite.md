@@ -50,7 +50,7 @@ This is a good moment to clarify the logical structure at play. A *qal vachomer*
 
 ---
 
-## Issur Cheftza vs. Ga (II)
+## Issur Cheftza vs. Gavra
 
 ### Order of Neder/Shvua
 
@@ -134,7 +134,7 @@ The *Gemara* attempts to derive Rava's principle from the case of two *neziruyot
 
 The *Gemara* deflects the proof: *hacha b'mai askinan k'gon shekibel alav shtei neziruyot b'vat achat* — perhaps the case of two *neziruyot* refers specifically to the scenario where both were accepted simultaneously in a single utterance. In that case, we have already accepted that the simultaneous acceptance creates the hovering phenomenon: one takes effect, the other hovers, and if the first is dissolved, the second retroactively fills its place. This is structurally different from the sequential case, where one *shvua* was already in force before the second was uttered. In the *bat achat* scenario, because they were created together as a single package, the hovering status is constitutive and built-in. The *Gemara* is suggesting that perhaps Rava's extension to the sequential *shvua* case is not proven from the *nezirut* example.
 
-### Sequential vs. Simultane…
+### Sequential vs
 
 And yet Rava's assertion stands: even in the sequential case, where the second *shvua* was uttered after the first was already operative, the second one nonetheless hovers — *revacha hu de-leit lei* — and will take effect if the first is dissolved. The *lishna achrina* of the *Gemara* reinforces this: *chiyuva hu de-leka, ha-shvuah ika* — the obligation to bring a *korban* or the liability for violation may not exist, but the *shvua* itself is still present. The practical implication — *le-mai hilchata* — is precisely *de-Rava*: if you dissolve the first *shvua*, *chala lo shniya tachteiha*, the second takes its place. Even by *shvua*, where we say *ein shvua chala al shvua*, the focus remains on the obligation-creating dimension of the *shvua*, and even there the second one hovers with just no room to operate, until the first is removed.
 

@@ -1,6 +1,6 @@
 # Chagigah 24 — Daf Yomi Shiur
 
-## Hand Contamination Mecha…
+## Hand Tumah: Rashi v
 
 ### Terumah vs. Kodesh Hands
 
@@ -24,7 +24,7 @@ The practical difference is directional: in Rashi's model the *tamei* hand is on
 
 The Gemara introduces the principle of Rav Shizbi: *be-chiburin shanu* — the rule that one hand renders the other *tamei* for *kodesh* applies only when they are in connection, but not otherwise (*she-lo be-chiburin lo*). Before the implications of this limitation are drawn out, Abaye poses a challenge from a *braisa*: even a *yad neguvah* — a dry hand — renders its companion hand *tamei* for *kodesh* but not for *terumah*. The significance of specifying *dry* is that when something is wet, *tumah* is far more easily transferred, and a *sheni* touching a wet substance can readily render it a *rishon*. The *chiddush* of the *braisa* is precisely that even when the hand is dry, this inter-hand contamination operates for *kodesh*.
 
-### Rabbi Yose: Psul not Tam…
+### Rabbi Yose: Psul not
 
 Alongside this *braisa*, Rabbi Yose bei Rabbi Yehuda registers a qualification: the second hand does not make *kodesh* fully *tamei* — it only renders it *pasul*. To appreciate this distinction: if a hand that is a *sheni* touches *kodesh*, it would normally make the *kodesh* into a *shlishi*, which is called *metamei* kodesh, because a *shlishi* of *kodesh* can still pass on its *tumah* one further degree to a *revii*. Rabbi Yose bei Rabbi Yehuda says that this secondary hand does not have the power to create a *shlishi*; it can only produce a *revii*, which is *posel kodesh* but no longer *metamei* it. The second hand is thus treated as a derivative — diminished in power compared to the original.
 

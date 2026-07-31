@@ -1,6 +1,6 @@
 # Zevachim 45 — Daf Yomi Shiur
 
-## Non-Jewish Sacrifice (II)
+## Non-Jewish Sacrifices
 
 ### Mishna Setup
 

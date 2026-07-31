@@ -1,4 +1,5 @@
 # Yevamot 41 — Daf Yomi Shiur
+[DAF:41a]
 
 ## Shniyot B'Chalutza
 
@@ -350,6 +351,7 @@ The Gemara now analyzes the *mishna*'s reasoning. The most obvious question is: 
 
 For *yibbum*, the concern is particularly weighty. If the woman is pregnant and the child is viable, there is no *mitzvah* of *yibbum*, and performing *yibbum* would constitute a violation of the biblical prohibition of *eshet ach* — *vekapaga be'issur eshet ach de'oraisa*.
 
+[DAF:41b]
 ### Karoz
 
 > **Hebrew/Aramaic:** לֵימָא תֶּיהְוֵי תְּיוּבְתָּא דְּרַבִּי יוֹחָנָן, דְּאָמַר: חֲלִיצַת מְעוּבֶּרֶת שְׁמָהּ חֲלִיצָה. וְלָאו מִי אוֹתְבִינֵּיהּ לְרַבִּי יוֹחָנָן חֲדָא זִימְנָא?! לֵימָא מֵהָא נָמֵי תֶּיהְוֵי תְּיוּבְתָּא!

@@ -1,6 +1,6 @@
 # Hullin 36 — Daf Yomi Shiur
 
-## Blood of Slain vs. Shech…
+## Blood Status: Shechita
 
 ### Rabbi Shimon & Shechita
 
@@ -22,7 +22,7 @@ The comparison of *shechita* blood to water, then, is not establishing it as a *
 
 Picking up at the top of 36a, the *gemara* adds that one might have supposed the following: since certain restrictions still apply to *psulei mukdashim* even after redemption — specifically, they may not be shorn and may not be put to work — some remnant of their original sanctity remains. One might therefore have thought that their blood, too, retains a sacred character: if not used upon the altar, perhaps it should be buried and no benefit derived from it. The verse therefore comes to tell us — *kamashma lan* — that no, their blood is like water and benefit is permitted. Not that it is permitted to drink it, since the prohibition on blood remains, but that benefit may be derived in other ways.
 
-### Restrictions & Blood Sta…
+### Sanctity & Blood: Benefit
 
 The conclusion, then, is that the verse about *shechita* blood cannot be used to establish it as a *machshir*. The *gemara* takes it as given that *dam chalalim* is *machshir* and that other categories of blood are not. The precise distinctions here may seem somewhat arbitrary, but that is the framework the *gemara* is working within. Having established what is and is not *machshir* in principle, the discussion now turns to the exact parameters of what kind of blood — even within the qualifying categories — actually functions as a *machshir*.
 
@@ -70,13 +70,13 @@ But *rabbi oshaya* redirects attention to *rabbi shimon* in our *mishna*, who ho
 
 ## Shechita Start & End
 
-### Blood Remaining Througho…
+### Blood Remains Until End
 
 *Rav Pappa* provides a clarifying framework. Setting aside *rabbi shimon*'s position for a moment and focusing on the debate between *rabbi* and *rabbi chiya*, he identifies the point of agreement and the point of dispute.
 
 First, the key clarification: the scenario of "blood remaining from beginning to end" does not mean that blood was actively spurting throughout the entire *shechita*. Rather, it means that the blood that spurted at the start of the *shechita* landed on the gourd and remained there when the *shechita* was completed. In that scenario, *kulei alma lo pligi de-machshir* — everyone agrees it is *machshir*.
 
-### Blood Wiped Off Mid-Shec…
+### Blood Wiped Mid-Process
 
 The dispute arises in a different scenario: *b'nitkane'ach ha'dam bein siman l'siman* — the blood spurted onto the gourd, was quickly wiped off, and then the *shechita* was completed. This is the case about which *rabbi* and *rabbi chiya* disagree.
 

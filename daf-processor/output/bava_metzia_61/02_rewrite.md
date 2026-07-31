@@ -22,7 +22,7 @@ The *beraita* then extends the prohibition further. Food and money are explicitl
 
 Ravina raises an alternative approach. He contends that one did not need the *pesukim* in Devarim at all in order to learn that *neshech* and *marbit* apply equally to both food and money. The earlier analysis had assumed that the *pesukim* in Vayikra initially distinguished the two — *neshech* for money and *marbit* for food — and required Devarim to correct that impression. Ravina argues that had the Torah written *et kaspcha lo titein lo beneshech uve'ochlecha bemarbit*, one might indeed have read the two terms as categorically divided. But the *pasuk* as actually written places *neshech* and *marbit* in direct juxtaposition: *et kaspcha lo titein lo beneshech uv'marbit lo titein ochlecha*. This allows for a reading in which the break falls after *b'marbit* — "do not give your money with *neshech* and *marbit*" — and simultaneously for a reading in which *b'neshech uv'marbit lo titein ochlecha* — "with *neshech* and *marbit* do not give your food." Through the juxtaposition of the two terms, the *pasuk* in Vayikra already teaches that both apply equally to food and to money, without needing to invoke Devarim at all.
 
-### Why Gezeirah Shavah Need…
+### Gezeirah Shavah: Davar
 
 The Gemara raises an objection: does the *tanna* of the *beraita* not explicitly invoke the *gezeirah shavah* of *ne'emar neshech beloveh vene'emar neshech bemalveh*? How can Ravina simply set that aside?
 
@@ -114,7 +114,7 @@ Ravina responds: *af al gav d'lo nafish agreih t'fei, me'isa l'michlinhu* — ev
 
 The Gemara returns to the *mishnah* and the *beraita* to clarify the distinction between *ribis* that falls under Torah law and *ribis* that is rabbinic. Rabbi Abbahu states explicitly: *ad kan shel Torah mikan v'eilach shel divreihem* — up to this point in the *mishnah* we are dealing with Torah-level *ribis*; from this point forward, with rabbinic. Rava echoes the same formulation. The *mishnah* uses *tarbit* and *marbit* to describe the rabbinic category, though as the Gemara has noted, those terms are also used in the *pesukim* for Torah-level *ribis*. What matters is the structural division: explicit, contracted *ribis* — *ribis ketzutza* — is Torah-level, while the gray-area rabbinic extensions constitute *avak ribis*, the dust of *ribis*.
 
-### Father Collects, Son Inh…
+### Father Collects Ribis
 
 Rava then cites the verse *yachin rasha v'yilbash tzadik* — the wicked one prepares and the righteous one wears. In the context of *ribis*, the *rasha* is the lender who collected *ribis*; he will not ultimately benefit from it. Yet his children — who inherit what he gathered — are not obligated to return it. This stands in stark contrast to ordinary *gezel*, where stolen property must be returned regardless of whose hands it passes into. The verse thus implies that even *ribis ketzutza*, Torah-level *ribis*, is not fully equivalent to *gezel*: the father who collected it must give it back, but the son who inherits it does not.
 

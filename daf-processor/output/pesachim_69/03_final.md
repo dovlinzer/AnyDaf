@@ -1,4 +1,5 @@
 # Pesachim 69 — Daf Yomi Shiur
+[DAF:69a]
 
 ## Preparatory Acts
 
@@ -366,6 +367,7 @@ Rava now articulates a complete reorientation. Rabbi Eliezer actually holds *sho
 
 This completely inverts the earlier analysis. The earlier framework assumed that *haza'ah* is prohibited because the person is too far outside the category of obligation. Rava now says the opposite: the reason *haza'ah* is not done is that it is *unnecessary*. The person is so thoroughly within the category — the *korban* can be brought for him even in his current state — that the only reason he would ever need *haza'ah* is so that he can *eat* the *korban* that night. And on this point, *achilat pesachim lo me'akva* — eating the *korban Pesach* is not indispensable. One can be *yotzei* the *mitzvah* of *korban Pesach* without eating it, at least in circumstances such as this. Therefore, since *haza'ah* is needed only to enable eating, and eating is not strictly required, there is no basis to permit *haza'ah* on Shabbat even according to Rabbi Eliezer. Not because he is too *outside* the obligation — but because he is already so *inside* it that *haza'ah* adds nothing to the core *mitzvah*.
 
+[DAF:69b]
 ### Shelo Lochlav
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אַדָּא בַּר אַבָּא לְרָבָא: אִם כֵּן, נִמְצָא פֶּסַח נִשְׁחָט שֶׁלֹּא לְאוֹכְלָיו. אֲמַר לֵיהּ: שֶׁלֹּא לְאוֹכְלָיו — לְחוֹלֶה וּלְזָקֵן, דְּלָא חֲזֵי. אֲבָל הַאי — מִיחְזֵא חֲזֵי, תַּקּוֹנֵי הוּא דְּלָא מְתַקַּן.

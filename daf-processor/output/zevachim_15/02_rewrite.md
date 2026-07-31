@@ -2,7 +2,7 @@
 
 ## Holacha Shelo Baragel
 
-### Intro: Holacha Shelo Bar…
+### Intro: Holacha Shelo Bar
 
 The sugya opens in the middle of a discussion concerning the act of *holacha* — the conveying of the blood, after *kabbalah*, from the point of slaughter to the *mizbeach* for *zerika*. The preceding *mishnah* had focused on whether *machshava she-lo lishma* (an invalidating intent) during *holacha* disqualifies a sacrifice, and on Rabbi Shimon's position that since *holacha* is theoretically dispensable — the animal could in principle have been slaughtered right next to the *mizbeach* — a disqualifying thought during *holacha* cannot affect the sacrifice's status. Setting aside *machshava* for the moment, the *gemara* now turns to a distinct question: *holacha she-lo baragel* — conveyance accomplished not by walking but by passing the vessel from hand to hand. If the *mizbeach* is at point B and the blood is at point A, and the *kohen* hands it across rather than physically walking it over, does this constitute a valid act of *holacha*?
 
@@ -34,7 +34,7 @@ The *gemara* thus introduces a crucial distinction. If the blood is passed in th
 
 A fresh challenge is brought. Rav Nachman challenges Ulla from the following ruling: *nishpach min hakli al haritzpa, ve'asfo kasher* — if the blood spilled from the vessel onto the floor during the *kohen*'s conveyance from A to B, one may collect it and continue. The sacrifice is not invalidated.
 
-### Problem: Spillage Toward…
+### Blood Spillage Mizbeach
 
 The difficulty is immediate. If the *kohen* spills the blood at point X — some midpoint between A and B — some of the spilled blood will naturally flow in the direction of the *mizbeach*, toward B. That forward movement is *holacha she-lo baragel*: the blood has been propelled toward the *mizbeach* not by deliberate walking but by the spillage. Yet the *mishnah* says we collect it and proceed — implying that this movement does not invalidate.
 
@@ -44,11 +44,11 @@ One might argue that spillage is categorically different, since it may not quali
 
 The *gemara* first attempts to resolve this by limiting the case. Perhaps the *mishnah* is discussing a case where the blood spilled *away* from the *mizbeach* — *kesheyatza lachutz* — not toward it. The *gemara* finds this implausible: *levarai nafik legavai lo ayeil?* If it can spill outward, away from the *mizbeach*, can it really be that none of it spills inward, toward it? The *gemara* then offers three technical scenarios in which forward movement could be prevented: *bemakom midron* — a slight incline in the floor such that all the blood flows backward; *beguma* — a small indentation right at point X into which all the blood collected; or *besmicha* — the blood was thick and coagulated, landing exactly where it fell.
 
-### Proof: Initial Kabbalah…
+### Nishpach Without Kabbalah
 
 But the *gemara* then objects to this entire approach. Would the *tanna* really go out of his way to construct the ruling only for these narrow, specialized circumstances? Furthermore, the *gemara* adduces a proof from another *perek*: *nishpach al haritzpa ve'asfo pasul* — if the blood went directly from the neck of the animal to the floor, without ever being received into a vessel, and one then collected it, the sacrifice is invalid. The invalidity there is due to the absence of an initial act of *kabbalah*. Critically, the *gemara* points out: if forward spillage during *holacha* were itself invalidating, the later *mishnah* need not have gone to the extreme case of no initial *kabbalah* at all. It could have drawn the distinction internally within the *holacha* case: spillage toward the *mizbeach* is invalid, spillage away is not. The fact that it does not make this distinction proves that forward spillage does not invalidate.
 
-### Conclusion: No Invalidat…
+### Movement Invalid
 
 The *gemara* concludes: *tyuvta tyuvta* — this is a decisive refutation of the position that non-foot movement actively invalidates. Even if blood moves toward the *mizbeach* in a manner other than walking, it does not render the *holacha* *pasul*. It is simply null — zero — and the process can be corrected. Whether the blood was handed over or spilled forward, the answer is the same: it does not count as *holacha*, but neither does it destroy the *holacha*. One can return to point A and proceed properly.
 
@@ -122,7 +122,7 @@ Similarly, when the *kohen* acts first: just because the *kohen* walked it to X 
 
 ## Rabbi Eliezer's View
 
-### Eliezer: Necessity Requi…
+### Eliezer: Necessity Requi
 
 Rabbi Yirmeyah, citing this to Rav Ashi, adds: the precise principle of *tzarich le-amtuye* — that at each stage the *holacha* obligation is freshly constituted and must be fulfilled by the appropriate person — is itself subject to a *machloket*. Specifically, it is the debate between Rabbi Eliezer and the *Chachamim* as found in our *mishnah*. The relevant portion of the *mishnah* states: *Rabbi Eliezer omer, ha-mahalach mi-makom she-tzarich le-halech, machshavah poselet; makom she-ein tzarich le-halech, ein machshavah poselet* — if the *kohen* moved through a space he had to traverse in order to bring the blood to the *mizbeach*, *machshavah* invalidates. If he moved through a space he had no obligation to traverse, *machshavah* does not invalidate.
 
@@ -152,7 +152,7 @@ With this, the *gemara* closes the first *perek* — *Kol HaZvachim* — which c
 
 ---
 
-## Person-Based Invalidatio…
+## Person-Based Invalidation
 
 ### New Perek Overview
 

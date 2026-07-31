@@ -52,7 +52,7 @@ Tosafot draws one further inference from this *Gemara*: it appears that drinking
 
 ---
 
-## Makom Seudah Evidenc (II)
+## Makom Seudah Evidence
 
 ### Ein Kiddush Principle
 
@@ -82,7 +82,7 @@ The *Gemara* had initially speculated that the restriction of *makom seudah* mig
 
 While the testimony of Rav Anan bar Tachlifa establishes that different floors within one building can be distinct locations for purposes of *kiddush bimkom seudah*, Tosafot introduces a qualification. Examining the phrase *mimakom lemakom bechad beisa*, Tosafot reads the case as involving a room-to-room change — *micheder levayit* — or a floor-to-floor change like *igra le'ara*. However, Tosafot rules that going from one corner of a room to another — *mipina lepina* — does not constitute a problematic *shinuy makom*. This is consistent with the later *Gemara* on *shinuy makom* and *berakhot*, which distinguishes *mipina lepina* from *mibayit lebayit*.
 
-### House vs. Room Distincti…
+### Houses vs. Rooms
 
 Two clear extremes emerge from the discussion: moving from one building to another is unambiguously a new *makom* that invalidates *kiddush bimkom seudah*; moving from one corner of a room to another within a large space is not. The intermediate case — different rooms or different floors within the same building — is less clear from the *Gemara* itself.
 
@@ -148,7 +148,7 @@ Rabbi Yochanan goes according to a principle he is quoted as holding in the name
 
 The *Gemara* immediately challenges Rabbi Yochanan with a *braita*: *shinuy makom tzarich levarech, shinuy yayin ein tzarich levarech* — a change of location requires a new *berakhah*, a change of wine does not. This *braita* is unambiguous: *shinuy makom* requires a new *berakhah*. The *Gemara* concludes: *tyuvta d'Rabbi Yochanan tyuvta* — Rabbi Yochanan's position is refuted. So *shinuy makom* does require a new *borei pri hagafen*. A question is noted: if one recited a *berakhah acharona* before leaving the first location, that would certainly break the continuity; but even absent a *berakhah acharona*, the objective change of location requires a new *berakhah rishona*.
 
-### Rav Chisda's First Teach…
+### Rav Chisda: Bayit vs
 
 With the refutation of Rabbi Yochanan established, the *Gemara* turns to define what constitutes a *shinuy makom* requiring a new *berakhah*. The passage is: Rav Idi bar Abin was sitting before Rav Chisda, and Rav Chisda was seated and transmitting in the name of Rav Huna: *ha de'amrat shinui makom tzarich levarech, lo shanu ela mibayit lebayit* — what we said, that changing location requires a new *berakhah*, applies only when going from one *bayit* to another *bayit*. But *mimakom lemakom* — from one location to another — or more precisely *mipina lepina* — from one corner of a room to another — does not require a new *berakhah*. That is not considered a *shinuy makom*.
 
@@ -156,7 +156,7 @@ Rav Idi bar Abin then notes that this was actually already taught in a *braita* 
 
 The operative parameters are thus: one building to another — definitely *shinuy makom* requiring a new *berakhah*; one corner of a room to another — definitely not *shinuy makom*. The intermediate case — different rooms or different floors within the same building — parallels the same ambiguity encountered in the *kiddush bimkom seudah* discussion. The term *bayit lebayit* in the *Gemara* can refer to different rooms within a building, so different rooms presumably create a *shinuy makom*, though this is not absolutely explicit. Moving from one visible space to another visible space within a room, on the other hand, does not. Whether having intent in mind helps in these intermediate cases — as Tosafot argued it does for *kiddush bimkom seudah* — is a question that the *Gemara* does not address directly here but is implicitly raised.
 
-### Rav Chisda's Second Teac…
+### Rav Chisda: Beracha Achor
 
 Rav Chisda then makes a further ruling, this time in his own name: *ha de'amrat shinui makom tzarich levarech, lo amran ella bidvarim she'ein te'unin berakhah le'achareihem bimkoman* — the rule that a *shinuy makom* requires a new *berakhah rishona* applies only to foods that do not require a *berakhah acharona* in the specific location where they were eaten. But for foods that *do* require a *berakhah acharona* in the specific place — *devarim hate'unin berakhah le'achareihem bimkoman* — one does not make a new *berakhah rishona* upon moving to a new location.
 

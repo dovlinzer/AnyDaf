@@ -1,4 +1,5 @@
 # Pesachim 119 — Daf Yomi Shiur
+[DAF:118b]
 
 ## Hallel & Red Sea
 
@@ -340,6 +341,7 @@ The Gemara does not provide the full context for each of these attributions, but
 
 ## Doubling Verses (III)
 
+[DAF:119b]
 ### Custom Doubling
 
 > **Hebrew/Aramaic:** תְּנַן הָתָם: מָקוֹם שֶׁנָּהֲגוּ לִכְפּוֹל — יִכְפּוֹל, לִפְשׁוֹט — יִפְשׁוֹט, לְבָרֵךְ אַחֲרָיו — יְבָרֵךְ, הַכֹּל כְּמִנְהַג הַמְּדִינָה. אָמַר אַבָּיֵי: לֹא שָׁנוּ אֶלָּא לְאַחֲרָיו, אֲבָל לְפָנָיו — [מִצְוָה] לְבָרֵךְ. דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: כׇּל הַמִּצְוֹת מְבָרֵךְ עֲלֵיהֶן עוֹבֵר לַעֲשִׂיָּיתָן.

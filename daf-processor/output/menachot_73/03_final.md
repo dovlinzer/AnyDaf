@@ -1,4 +1,5 @@
 # Menachot 73 — Daf Yomi Shiur
+[DAF:73a]
 
 ## Menachot with Kemitzah
 
@@ -178,6 +179,7 @@ The pasuk concludes *asher yashivu* — that which they return. This is interpre
 
 ## Non-Jews Sending Offerin…
 
+[DAF:73b]
 ### 'Ish' Verse Analysis
 
 > **Hebrew/Aramaic:** אָמַר רַב הוּנָא: שַׁלְמֵי הַגּוֹי – עוֹלוֹת, אִיבָּעֵית אֵימָא קְרָא, וְאִיבָּעֵית אֵימָא סְבָרָא. אִיבָּעֵית אֵימָא סְבָרָא – גּוֹי לִבּוֹ לַשָּׁמַיִם.

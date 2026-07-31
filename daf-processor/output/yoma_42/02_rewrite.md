@@ -1,8 +1,8 @@
 # Yoma 42 — Daf Yomi Shiur
 
-## Service Overview & Red S…
+## Yom Kippur & Strings
 
-### Service Steps & Red Stri…
+### Yom Kippur Service Steps
 
 Before turning to the substance of today's *daf*, it is worth pausing to situate ourselves within the *avodat Yom Kippur* as we have been tracking it. The first step of the day is the *kohen gadol*'s *vidui* over his *par*, performed in the northern portion of the *azarah*. The second step is the *goralot*, the drawing of lots over the two goats. The third step — and the one that has been occupying the *Gemara*'s attention — is the tying of the red string. The fourth step is a second *vidui* over the *par*, this time on behalf of all the *kohanim*.
 

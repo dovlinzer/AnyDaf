@@ -22,7 +22,7 @@ Consider first the view of *don minah u'minah*. The analogy would run: just as h
 
 But a second objection remains, and this one is decisive. For him, his mother and his daughter-in-law are both punished by *skila* — there is uniformity across that set of non-daughter-line relatives. If we now apply the analogy and give her step-daughter-in-law a punishment of *skila*, we create an inconsistency on her side: her mother is *sreifa*, yet her daughter-in-law would be *skila*. The principle is *af hi lo tachlok bah bein imo l'chalato*: just as the analogy requires us to preserve the relationship between mother and daughter-in-law as it exists in the original case — both *skila* — we cannot disrupt that symmetry on the other side. This asymmetry makes the analogy fail.
 
-### Context application prob…
+### Context & Sreifa
 
 What about *don minah v'okimah b'atrah*? Here the argument runs: his daughter-in-law is forbidden, so her daughter-in-law should be forbidden, but now apply the local context — since her relatives are all *sreifa*, her step-daughter-in-law would also be *sreifa*. This would eliminate the inconsistency between mother and daughter-in-law on her side, since all become *sreifa*. But now the problem shifts: if *skila* is the weightier penalty, then the entire analogy is suspect from the start because his side is weighted more heavily than hers — *ika l'mifrach mah l'hu sheken imo biskila*, we can challenge the analogy by noting that his mother is *skila* whereas her mother is *sreifa*, demonstrating that his side is intrinsically weightier. Beyond that, a second difficulty emerges: the very act of applying local context and giving her step-daughter-in-law *sreifa* erases the distinction that existed in the original case between daughter and daughter-in-law. For him, the daughter is *sreifa* and the daughter-in-law is *skila* — there is a meaningful difference. The analogy, to be valid, would need to preserve that difference, requiring *tachlok bein bitah l'chalatah* — a distinction between her daughter and her daughter-in-law. But putting it all in the local context of *sreifa* collapses that distinction. Even if one holds that *sreifa* is weightier and thus sidesteps the first challenge, *me'hai kushya lo nidon* — this second problem remains and blocks the analogy entirely.
 
@@ -220,7 +220,7 @@ Rabbi Yishmael holds: *oto ve'et achat mehen* — him and one of them. The plura
 
 The *gemara* explains Rabbi Yishmael's reading: *sheken bilshon Yavani korin le'achat Hina* — in Greek, the word for "one" is *hina*. The *ethen* of the verse thus echoes the Greek *hina* and should be understood as "one." This is a striking use of Greek lexicography in a Talmudic hermeneutical argument, illustrating that the *amora'im* were conversant with the broader linguistic world in which they lived.
 
-### Yishmael learns grandmot…
+### Yishmael: Grandmother gez
 
 If Rabbi Yishmael reads *ethen* as referring to only one relative — the mother-in-law — how does he account for the prohibition of the grandmother-in-law and her penalty? He derives it separately through a *gezeirah shavah* or another *drasha*, as we established earlier in the *sugya*.
 

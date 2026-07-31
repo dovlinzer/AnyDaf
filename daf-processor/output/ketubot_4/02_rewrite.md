@@ -40,7 +40,7 @@ What *chuppah* means in this context deserves attention. It may refer to a *yich
 
 The *braita* continues: *u-vo'el bi'as mitzvah u-foresh* — he has relations once, the act of *mitzvah*, and then separates. Why is this required? Two explanations present themselves. One is a kind of *rachmanus*: they have prepared for this night, they anticipated it, and it would be deeply cruel to deny it entirely. The second, and perhaps more structural, reason is that the act of *bi'ah* concretizes and actualizes the status of *chosson va-kallah* — it makes the marriage genuinely real, not merely formal. Since the entire enterprise depends on establishing that the *shivas yemei ha-mishteh* status of *chosson va-kallah* precedes the onset of *avelus*, having the *bi'ah* makes that status more robust and unambiguous.
 
-### Celebration Before Mourn…
+### Shivas Yemei Hamishteh
 
 Having had *bi'as mitzvah*, the *braita* continues: *ve-nohag shivas yemei ha-mishteh, ve-achar kach nohag shivas yemei avelus* — the full seven days of the wedding feast are observed, and only afterward does the week of mourning begin.
 
@@ -112,7 +112,7 @@ The exceptions are three specific acts designated as intimate: *chutz mi-mezigat
 
 By contrast, when a woman is an *aveilah*, a *braita* teaches: *af al pi she-amru ein adam rashai lichof ishto lihyot kochelet lihyot pokeset* — a husband cannot compel his *aveilah* wife to beautify herself; he cannot insist she apply eye makeup (*kochelet*, which Rashi may read as rouge) or braid her hair (*pokeset*). Even so, *be-emet amru* — the halakhic truth is — she still performs all the intimate domestic acts, including mixing his drink, making his bed, and washing his face, hands, and feet. The *harchakot* that apply by *niddah* do not apply by *avelus*. An *aveilah* may perform all of these acts.
 
-### Beautification Prohibiti…
+### Husband Cannot Force
 
 The asymmetry is noteworthy. During *niddah*, certain intimate domestic acts are prohibited to preserve appropriate boundaries; during *avelus*, those same acts are permitted — the restriction runs the other way: the husband cannot compel the *aveilah* wife to beautify herself against her will. Her state of mourning is hers to observe, and he may not override it by demanding she present herself in a way that contradicts her *avelus*.
 

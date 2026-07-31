@@ -6,13 +6,13 @@
 
 The sugya opens with a brief orientation to the anatomy under discussion. Ruminants possess, in effect, four stomach compartments. The first and largest is the *keres* (rumen), where food initially passes and begins to be ground down. From there it enters the *masess* and the *beit hakosot*, two intermediate chambers where further grinding occurs. Food deemed sufficiently processed moves on to the *keivah* — the true stomach, analogous to the human stomach — where digestion takes place; food that requires more processing is pumped back up through the esophagus to be chewed again.
 
-### Holes: Between vs. Outsi…
+### Holes: Between vs Outside
 
 The halachic framework for these two intermediate chambers differs from other organs precisely because of their functional relationship to one another: since food naturally passes between the *masess* and the *beit hakosot* in both directions depending on the stage of processing, the membrane dividing them is effectively permeable. A hole in the wall *between* the two chambers is therefore not a concern — it does not render the animal a *treifa* — because food traverses that wall in the normal course of digestion. It is only a hole that penetrates from the inner cavity of the *beit hakosot* all the way through to the outside that constitutes a *treifa*, and as we shall see, that wall is itself double-layered, introducing additional nuance.
 
 ---
 
-## Holes in Beit Hakoso (II)
+## Holes in Beit Hakosot
 
 ### Needle Perforation Rules
 

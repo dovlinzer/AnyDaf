@@ -156,7 +156,7 @@ The Gemara suggests a possible resolution from a verse: *midama amar Rachmana* �
 
 A *braita* is adduced: *pirkesa v'nikhnesa lifnim v'hazra kesheira* — if after *melikah* the bird thrashed about in its death throes, rolled into the *heikhal*, and then rolled out, the offering remains *kesheira*. The Gemara observes that the implicit reasoning is that the bird moved itself — there was no human act of *bringing* the blood inside *l'khaper*, with intent toward atonement, which is part of what triggers the invalidation. The *braita* might therefore be read to imply that had one *intentionally* brought the bird inside, it would have been *pesulah*.
 
-### Intentional vs. Unintent…
+### Intentional vs
 
 The Gemara immediately rejects this implication by analogy. A similar *braita* about an animal *chatat* teaches: *pirkesa v'yatzah l'darom v'hazra kesheira* — if the animal thrashed after *shechita* and moved to the south (outside the *tzafon* area), and then returned, it remains valid. No one would suggest that if a person intentionally moved the blood to the south it would invalidate — there is simply no invalidating act in taking blood southward. The *braita* records the case of thrashing not to contrast it with intentional action, but to teach something else.
 

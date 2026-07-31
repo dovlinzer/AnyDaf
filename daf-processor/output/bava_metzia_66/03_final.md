@@ -1,4 +1,5 @@
 # Bava Metzia 66 — Daf Yomi Shiur
+[DAF:66a]
 
 ## Mishkeno, Asmachta
 
@@ -228,6 +229,7 @@ Two answers are offered. The first: *matnitin Rabbi Yose de-amar asmachta kanya*
 
 The second answer: *iba'it eima amar lei kani me'achshav* — one can say that the *mishnah* involves a case where the borrower said the acquisition takes effect *me'achshav*, from now, in the event that he does not repay. This formulation is different in kind from a standard *asmachta*. When the lender receives the field *me'achshav* — immediately, at the time of the loan — the forfeiture is not a distant, abstract contingency three years in the future. It is a present reality: the field belongs to the lender now, subject to being reclaimed upon repayment. That concreteness makes the borrower's commitment serious; he is not dealing in hypotheticals. The three-year deadline is the window within which he may buy it back, not the moment at which the transfer occurs. This is why *me'achshav* removes the arrangement from the category of *asmachta*: the transfer is immediate and real, not contingent and speculative.
 
+[DAF:66b]
 ### Neharde'i Rule
 
 > **Hebrew/Aramaic:** אֲמַרוּ לֵיהּ מָר יָנוֹקָא וּמָר קַשִּׁישָׁא בְּנֵי דְּרַב חִסְדָּא לְרַב אָשֵׁי, הָכִי אָמְרִי נְהַרְדְּעָאֵי מִשְּׁמֵיהּ דְּרַב נַחְמָן: הַאי אַסְמַכְתָּא, בְּזִמְנֵיהּ קָנְיָא, בְּלָא זִמְנֵיהּ לָא קָנְיָא.

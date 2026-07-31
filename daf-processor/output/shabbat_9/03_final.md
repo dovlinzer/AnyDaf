@@ -1,4 +1,5 @@
 # Shabbat 9 — Daf Yomi Shiur
+[DAF:9a]
 
 ## Mekomah Patur
 
@@ -156,6 +157,7 @@ Tosafot resolves this by distinguishing between a structure whose status as a se
 
 ## Mincha Time Restrictions
 
+[DAF:9b]
 ### Prohibited Activities
 
 > **Hebrew/Aramaic:** מַתְנִי׳ לֹא יֵשֵׁב אָדָם לִפְנֵי הַסַּפָּר סָמוּךְ לַמִּנְחָה עַד שֶׁיִּתְפַּלֵּל. לֹא יִכָּנֵס אָדָם לַמֶּרְחָץ, וְלֹא לַבּוּרְסְקִי, וְלֹא לֶאֱכוֹל, וְלֹא לָדִין, וְאִם הִתְחִילוּ — אֵין מַפְסִיקִין. מַפְסִיקִין לִקְרוֹת קְרִיאַת שְׁמַע וְאֵין מַפְסִיקִין לִתְפִלָּה.

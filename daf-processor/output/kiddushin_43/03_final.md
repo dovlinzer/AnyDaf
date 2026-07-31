@@ -1,4 +1,5 @@
 # Kiddushin 43 — Daf Yomi Shiur
+[DAF:42b]
 
 ## Shelichus Sources
 
@@ -100,6 +101,7 @@ The *Gemara* then notes: this all works well for *Beis Hillel*, who has two exce
 
 ## Tevicha Umechira Case
 
+[DAF:43a]
 ### Stolen Livestock
 
 > **Hebrew/Aramaic:** הָנִיחָא לְמַאן דְּאָמַר שְׁנֵי כְתוּבִים הַבָּאִים כְּאֶחָד אֵין מְלַמְּדִין. אֶלָּא לְמַאן דְּאָמַר מְלַמְּדִין, מַאי אִיכָּא לְמֵימַר? גַּלִּי רַחֲמָנָא בִּשְׁחוּטֵי חוּץ, ״דָּם יֵחָשֵׁב לָאִישׁ הַהוּא דָּם שָׁפָךְ״ – הוּא וְלֹא שְׁלוּחוֹ. אַשְׁכְּחַן גַּבֵּי שְׁחוּטֵי חוּץ, בְּכׇל הַתּוֹרָה מְנָלַן? דְּיָלֵיף מִשְּׁחוּטֵי חוּץ. אַדְּיָלֵיף מִשְּׁחוּטֵי חוּץ, נֵילַיף מֵהָנָךְ! הֲדַר כְּתַב רַחֲמָנָא: ״וְנִכְרַת הָאִישׁ הַהוּא״ – אִם אֵינוֹ עִנְיָן לְגוּפוֹ, תְּנֵהוּ עִנְיָן לְכׇל הַתּוֹרָה כּוּלָּהּ.
@@ -254,6 +256,7 @@ The same rule applies *b'gerushin* — in the case of divorce. If two people are
 
 The same rule applies *b'dinei mamonot* — if two people are sent to repay a debt, they too can serve as witnesses to the repayment. Here the concern is different: perhaps they will pocket the money and then falsely testify that they paid the creditor. Again, however, the concern is addressed.
 
+[DAF:43b]
 ### Why Concerns Addressed
 
 > **Hebrew/Aramaic:** וּצְרִיכָא דְּאִי אַשְׁמְעִינַן בְּקִידּוּשִׁין – מִשּׁוּם דִּלְמֵיסְרַהּ קָאָתֵי, אֲבָל גֵּירוּשִׁין – נֵיחוּשׁ שֶׁמָּא עֵינָיו נָתַן בָּהּ. וְאִי אַשְׁמְעִינַן גֵּירוּשִׁין – מִשּׁוּם דְּאִיתְּתָא לְבֵי תְרֵי לָא חַזְיָא, אֲבָל מָמוֹנָא – אֵימָא: הָנֵי מִיפְלָג פָּלְגִי. צְרִיכִי. מַאי קָסָבַר? אִי קָסָבַר הַמַּלְוֶה חֲבֵירוֹ בְּעֵדִים צָרִיךְ לְפוֹרְעוֹ בְּעֵדִים – הָנֵי נוֹגְעִים בְּעֵדוּת נִינְהוּ, דְּאִי אָמְרִי: ״לָא פְּרַעְנֵיהּ״ אָמַר לְהוּ: ״פְּרָעוּנִי״!

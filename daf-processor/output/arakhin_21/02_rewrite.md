@@ -28,7 +28,7 @@ The *mishnah* appends a parenthetical remark that on its surface seems unrelated
 
 ---
 
-## Exceptions: Nazir & Metz…
+## Exceptions: Nazir/Metzora
 
 ### Rav Pappa Exceptions
 
@@ -38,7 +38,7 @@ The *gemara* records the following statement: *amar Rav Pappa pe'amim she'chayav
 
 The case where confiscation is applied to a *chatas* is the *chatat nazir* — the sin-offering brought by a *nazir* upon completing or terminating his *nezirut*. A *nazir* is required to bring three *korbanot*: a *chatas*, an *olah*, and a *shelamim*. The *chatat nazir* is notable because it is not brought in response to any specific sin, and therefore does not carry the *kapparah* that would normally motivate compliance. The *nazir* does, however, stand to gain substantially: the completion of his *nezirut* restores his right to drink wine and to come into contact with the dead.
 
-### Three Korbanos Requirement
+### Chatas Nazir: Offerings
 
 Why, then, does the *gemara* permit confiscation for the *chatat nazir* despite this benefit? The answer lies in the rule that *de'keivan de'amar mar im gile'ach al achat mi'shloshtan yatza ve'im nizrak alav echad min ha'damim hutar ha'nazir lishtot yayin u'letamei le'metim* — since, as the Sages taught, once the *nazir* has shaved his head and the blood of any one of the three *korbanot* has been sprinkled on the *mizbe'ach*, he immediately regains the right to drink wine and to become *tamei* from the dead. He need not bring all three first. The three *korbanot* may be brought in any order, and upon the *zerika* of the first one, his restrictions are lifted. At that point, the remaining two *korbanot* represent obligations from which he gains nothing further. Therefore, *u'pashia velo mayti* — we are concerned that once he has recovered his freedoms, he will be negligent and simply not bring the remaining offerings. Hence confiscation is warranted even for the *chatas*.
 
@@ -56,7 +56,7 @@ The *gemara* therefore turns instead to the *olat metzora*, supported by a *brai
 
 ---
 
-## Coercion & Consent
+## Coercion & Consent (II)
 
 ### Baraita: Yakriv Oto
 

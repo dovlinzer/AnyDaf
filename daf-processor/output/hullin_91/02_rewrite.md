@@ -1,6 +1,6 @@
 # Hullin 91 — Daf Yomi Shiur
 
-## Gid Hanasheh: Both or On…
+## Gid Hanasheh: Both Thighs
 
 ### Mishna vs. Rabbi Yehuda
 
@@ -48,7 +48,7 @@ This again raises the question of a *minhag* — or here a rabbinic enactment �
 
 ---
 
-## Which Side? Right or Bot…
+## Gid Hanasheh: Which Side
 
 ### Eating Both Thighs
 

@@ -104,7 +104,7 @@ This resolution raises a broader and troubling observation. The structure of thi
 
 ---
 
-## Impossible Condition (II)
+## Impossible Conditions
 
 ### Absurd Conditions
 

@@ -44,7 +44,7 @@ In scenario two, where the survivor is *tahor*: at thirty days, the *korban taha
 
 The mechanism for permitting the shaving, then, is not that the haircut carries positive ritual significance for the stranger. It is purely preventive: by stipulating that his *nezirut* does not begin until after thirty days in this scenario, we ensure that when he does cut his hair at the thirty-day mark, he is not violating a *nezirut* that has not yet commenced.
 
-### Hair Cutting Justificati…
+### Hair Cutting & Nezirut
 
 The question of why cutting the stranger's hair is permissible at all — given that he is not yet completing a *nezirut* — connects to the broader discussion of *hakafas kol harosh* treated in the previous day's *sugya*, and the conclusion there governs here as well.
 

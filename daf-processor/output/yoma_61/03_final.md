@@ -1,4 +1,5 @@
 # Yoma 61 — Daf Yomi Shiur
+[DAF:61a]
 
 ## Yehuda vs. Nechemia
 
@@ -272,6 +273,7 @@ According to Rabbi Meir's principle — *chatat achat*, focus on one sin-offerin
 
 Rabbi Eliezer and Rabbi Shimon are caught in a paradox. Their principle says *mimakom shepasak hu matchil* — one picks up precisely where one left off — and that one may not duplicate the process. Here, that would mean: bring another *asham*, take its blood, and proceed directly to the *behonot*, skipping the *mizbeach* application since that was already done. But this runs directly into the problem of *oto* — the Torah says *vehikriv oto la'asham*, implying one specific animal, *oto*, the very same one. One cannot use a second animal to complete what was begun with the first. And yet if one cannot use a second animal, and one also cannot go back to the beginning because that would mean two full processes of application, Rabbi Eliezer and Rabbi Shimon are left with *ein lo takana* — there is no remedy. The *metzora* is stuck in an incomplete state from which there is no halakhic exit under their framework.
 
+[DAF:61b]
 ### Chisda Challenge
 
 > **Hebrew/Aramaic:** מַתְקֵיף לֵיהּ רַב חִסְדָּא: וְהָא ״אוֹתוֹ״ כְּתִיב? קַשְׁיָא.

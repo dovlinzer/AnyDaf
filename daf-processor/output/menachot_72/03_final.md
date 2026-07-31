@@ -1,4 +1,5 @@
 # Menachot 72 — Daf Yomi Shiur
+[DAF:71b]
 
 ## Fodder Cutting Rules
 
@@ -44,6 +45,7 @@ The practical upshot, to wrap up this thread, is that cutting for fodder is not 
 
 ## Mitzvah Harvesting
 
+[DAF:72a]
 ### Cutting Purposes
 
 > **Hebrew/Aramaic:** סָבַר לַהּ כְּוָותֵיהּ בַּחֲדָא, וּפְלִיג עֲלֵיהּ בַּחֲדָא. קוֹצְרִין מִפְּנֵי הַנְּטִיעוֹת, וּמִפְּנֵי בֵּית הָאֵבֶל, וּמִפְּנֵי בֵּית הַמִּדְרָשׁ. מַאי טַעְמָא? ״קְצִירְכֶם״ אָמַר רַחֲמָנָא, וְלֹא קְצִיר מִצְוָה.
@@ -196,6 +198,7 @@ The *Gemara* then notes that Rebbi was also a student of Rabbi Shimon bar Yochai
 
 Why then does Rebbi not adopt the same conclusion? The *Gemara* answers: *savar lah ke-idach de-Rabbi Shimon* — Rebbi follows a different ruling of Rabbi Shimon himself.
 
+[DAF:72b]
 ### Rebbi Position
 
 > **Hebrew/Aramaic:** וְרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן לָא שְׁמִיעַ לֵיהּ?!

@@ -1,6 +1,6 @@
 # Arakhin 10 — Daf Yomi Shiur
 
-## Intro: Trumpets & Instru…
+## Intro: Trumpet Blasts
 
 ### Opening Remarks
 
@@ -14,7 +14,7 @@ The *mishna* opens: *Ein pochtin me-esrim v'achas teki'os ba-mikdash* — there 
 
 To understand the range, one must recognize that every blast comes in a set of three: *tekiah*, *teruah*, *tekiah*. The minimum of twenty-one blasts thus represents seven such sets, and the maximum of forty-eight represents sixteen sets. What are the standard seven? One set accompanies the opening of the gates at the start of the day. Three sets are sounded at the *tamid shel shachar* — the morning daily offering — specifically during the three pauses in the Levitical song. And three sets accompany the *tamid shel bein ha-arbayim*, the afternoon daily offering. Those seven sets, representing twenty-one blasts, constitute the baseline for any ordinary day in the *mikdash*.
 
-### Additional Days & Occasi…
+### Trumpet Blasts: Yom Tov
 
 The number expands on special occasions. On *Erev Shabbat*, two additional sets are sounded: one to signal the approaching *Shabbat* and give people in the fields time to cease their activities and return, and one at the precise onset of *Shabbat* itself — bringing the total to nine sets. On a *Yom Tov* with a *korban musaf*, three more sets are added, reaching twelve. Notably, when *Erev Shabbat* coincides with *Yom Tov*, those two additional *Erev Shabbat* blasts are still sounded, since work must cease before *Shabbat* even when *Yom Tov* immediately precedes it.
 
@@ -86,7 +86,7 @@ The *Gemara* now turns to practical implications. The question is raised: *ke-ma
 
 *Rav Kahana* states: *ein bein tekiah le-teruah ve-lo klum* — there cannot be even the smallest interruption between *tekiah* and *teruah*. They must flow one into the other without any pause whatsoever — essentially in a single breath. The *Gemara* identifies this as following *Rabbi Yehuda*: if *tekiah-teruah-tekiah* is one unit, one sound, then any break within it is a disruption of the sound itself.
 
-### Rabbi Yochanan Rosh Hash…
+### Yochanan: Shofar Blasts
 
 The *Gemara* then asks: is *Rav Kahana*'s statement not self-evident? Of course it follows *Rabbi Yehuda*. The answer is that it comes to exclude the position of *Rabbi Yochanan*, who said regarding *Rosh Hashana* that *shama tisha tekiyot be-tisha sha'ot ba-yom yatza* — if one heard the nine required blasts of *shofar* spread across nine different hours of the day, one has fulfilled the obligation.
 
@@ -94,7 +94,7 @@ The *Gemara* then asks: is *Rav Kahana*'s statement not self-evident? Of course 
 
 One might have thought that *Rav Kahana*'s only intent was to rule out hearing the blasts hours apart — that is, to exclude *Rabbi Yochanan*'s position — while still allowing for a brief pause between *tekiah* and *teruah* within a single sequence. The *Gemara* rejects this: the phrase *ve-lo klum* — absolutely nothing — is too strong to allow even the slightest interruption. It establishes that the sounds must be literally continuous, not merely in proximity.
 
-### Independent vs. Group Bl…
+### Independent vs Group
 
 This analysis yields three distinct positions. According to *Rabbi Yehuda*, *tekiah-teruah-tekiah* is one unit — one sound — and there can be no interruption whatsoever between its components. According to the *Rabbanan*, the three are distinct units, but they form a group: they must cohere, there must be some proximity, though one may pause to take a breath between them. And the most extreme position, that of *Rabbi Yochanan* regarding *Rosh Hashana*, treats the nine blasts as completely independent sounds, such that one could hear them spread across nine different hours of the day and still fulfill the obligation. The *Rabbanan* clearly reject this final position. This same conceptual issue — whether the sequence is one sound, a group, or entirely independent units — applies equally to the trumpet blasts in the *Beit Hamikdash* as to the *shofar* on *Rosh Hashana*.
 
@@ -120,7 +120,7 @@ Outside of Israel, where second days of *Yom Tov* are observed, the number of fu
 
 The *Gemara* now takes up the central question that the *mishna* already prompted: *mai shna de-chag d'amrinan kol yoma ve-yoma u-mai shna de-Pesach de-lo amrinan* — why is *Hallel* said every single day of *Sukkot*, while on *Pesach* it is said only the first day?
 
-### Midrash: Egyptians Drown…
+### Midrash: Egyptians Drown
 
 Before turning to the *Gemara*'s answer, it is worth noting the explanation most commonly taught: the *Midrash* records that when the Egyptians were drowning in the *Yam Suf*, the angels wished to sing *shira*, and God replied, *ma'aseh yadai tove'im ba-yam ve-atem omrim shira* — My creations are drowning in the sea and you would sing song? The argument then proceeds that if one does not say full *Hallel* on the seventh day of *Pesach* because of the Egyptian deaths, one certainly does not say it on *Chol Hamoed*, which is less distinguished than the seventh day itself. This *Midrash* raises its own conceptual questions — notably, *Bnei Yisrael* did sing *shira* at the sea. The point may be that we, removed from the direct experience of salvation, are positioned more like the angels than like the generation that witnessed it firsthand. But in any event, this is not what the *Gemara* says.
 
@@ -130,7 +130,7 @@ The *Gemara*'s answer is halakhic in character: *kol yoma de-chag chalukin be-ko
 
 This answer, however, requires careful handling when applied to our practice today, since we no longer bring *korbanot*. One position would be that our *Hallel* is essentially a *zecher*, a memorial act linked to the *Hallel* that was once said in connection with the *korbanot*. That is, however, a position one would generally resist — we normally understand our *Hallel* as a response to the *kedusha* and significance of the day itself, not merely as a commemoration of a Temple-era practice. And in any case, such an explanation could not account for *Chanukah*, where full *Hallel* is said without any *korban* connection whatsoever. The more satisfying reading is that the difference in *korbanot* is a *siman* — an indicator of a deeper distinction — rather than the cause in itself.
 
-### Pesach Unity vs. Succos…
+### Pesach Unity vs. Succos
 
 What is that deeper distinction? *Pesach* was a process, a narrative. The *geulah* began with *Yetziat Mitzrayim* and culminated in *Kriat Yam Suf*. The entire seven-day period is one connected story — each day leads into the next, and the whole constitutes a single arc of redemption. On *Sukkot*, by contrast, the commemoration is *ki ba-sukkot hoshavti et Bnei Yisrael* — that God caused the Jewish people to dwell in *sukkot*. Sitting in a *sukkah* could have been commemorated on any single day of the year. There is no narrative that binds day two to day one, no progression by which each subsequent day is intelligible only in light of what preceded it. Therefore, if one wishes to observe *Sukkot* for eight days, each day stands as an independent commemoration. Each day of *Sukkot* is a separate unit; the entirety of *Pesach* is one unit.
 
@@ -142,7 +142,7 @@ This distinction is not merely theoretical — it manifests in *halacha*. On *Sh
 
 Returning now to the phrase in the *Gemara* — *yachid gomer et ha-Hallel* — two aspects deserve attention. First, the word *gomer*, "completes," implies that on other days there is some partial form of *Hallel* being said. *Tosafot* is uncertain on this point. There are *Gemarot* that indicate a practice of saying a *chatzi Hallel* — an abbreviated *Hallel*, skipping certain sections — on days such as *Rosh Chodesh* and *Chol Hamoed Pesach*, though *Tosafot* raises the possibility that the *minhag* of saying even the partial *Hallel* on those days developed later and was not yet implied by this statement.
 
-### Half-Hallel Bracha Dispu…
+### Half-Hallel Bracha Minhag
 
 Second, the word *yachid* — "individual" — raises the question of whether there is a difference between an individual saying *Hallel* and a congregation saying *Hallel*. This has implications for whether one says *Hallel* at all on those lesser days when alone, and whether a *beracha* is recited on *chatzi Hallel*. The *beracha* on *chatzi Hallel* is a major debate. If the *minhag* to say it is later than the Talmudic period, and possibly not even directed by the *rabbanim* in a binding way, the question of making a *beracha* on a *minhag* becomes central.
 
@@ -150,7 +150,7 @@ In practice, *Ashkenazim* do recite a *beracha* on *chatzi Hallel*. When *Sefard
 
 ---
 
-## Why Hallel: Kedusha & Mi…
+## Hallel: Kedusha & Melacha
 
 ### Shabbat Objection
 
@@ -164,7 +164,7 @@ The answer: *lo ikri moed* — *Shabbat* is not called a *moed* in the manner of
 
 This raises a natural question: if *Hallel* is a response to *kedushat hayom*, is not the *kedusha* of *Shabbat* higher than that of *Yom Tov*? The *Rav* — *Rav Soloveitchik* — offers an elegant distinction here. He observes that on *Shabbat*, we welcome the *kedusha* into our space — we perform *Kabbalat Shabbat*, as though inviting God's sanctity into our week. On *Yom Tov*, particularly understood through the lens of *aliyah la-regel*, it is we who enter God's space. The absence of a *Kabbalat Yom Tov* parallel to *Kabbalat Shabbat* is telling. However different the qualities of *kedusha* may be, *Yom Tov* carries a more acute sense of directly standing before God, of entering a sacred realm — and perhaps that is what the *Gemara* means by *moed*, the sense of a special appointed encounter that is by its nature less regular than *Shabbat*.
 
-### Rosh Chodesh: No Melacha…
+### Rosh Chodesh: No Melacha
 
 The *Gemara* continues: *Rosh Chodesh d'ikri moed leima* — *Rosh Chodesh* is also called a *moed*, so why not say *Hallel* on *Rosh Chodesh*? The answer: *lo ikadesh be-asiyat melacha* — *Rosh Chodesh* was not sanctified through the prohibition of *melacha*. There is no formal *issur melacha* on *Rosh Chodesh*.
 
@@ -202,7 +202,7 @@ The *Gemara* now addresses *Chanukah*: *la-Chanukah d'lo hachi ve-lo hachi ve-ka
 
 The obvious next question: *Purim d'ika nisa leima* — *Purim* also has a miracle, so why not say *Hallel* on *Purim*?
 
-### Outside Eretz Yisrael Lo…
+### Outside Eretz Yisrael
 
 *Rabbi Yitzchak* answers: *lefi she-eino omrim shira al nes she-be-chutz la-Aretz* — because one does not say *shira* over a miracle that occurred outside *Eretz Yisrael*. The miracle of *Purim* lacked the eternal significance that would warrant *Hallel*.
 
@@ -228,13 +228,13 @@ The *Gemara* answers with a *baraita*: *ad she-lo nichnesu Yisrael la-Aretz huch
 
 By contrast, *Chanukah* represented a moment of genuine independence — the *Hasmoneans* threw off foreign domination and achieved actual sovereignty. The *nes* of *Chanukah* thus crossed the threshold where one can honestly say *halelu avdei Hashem ve-lo avdei* whoever came before. The *Purim* miracle, as wondrous as it was, left the Jewish people in the same unredeemed condition. In this sense, *Rava*'s answer converges thematically with the *chutz la-Aretz* reasoning: both point to a *nes* that was transformative but incomplete, a salvation embedded within the condition of *galut* rather than transcending it.
 
-### Rav Nachman Reconciliati…
+### Rav Nachman: Hallel
 
 The *Gemara* reconciles *Rav Nachman*'s position — that reading the *Megillah* constitutes *Hallel* — with the *baraita* that states one does not say *shira* over a miracle in *chutz la-Aretz* after entering the land. *Rav Nachman* holds that we do in fact have an obligation to say some form of *Hallel* for *Purim*, fulfilled through the reading of the *Megillah*. The *baraita*'s restriction applies to the direct singing of *shira*; the *Megillah* reading satisfies the obligation through a different medium. He further argues that since the miracle of *Purim* occurred during *galut*, after *Churban ha-Bayit*, it falls under a different framework — *keivan she-galu chazru le-heteran ha-rishon* — returning, in a sense, to the pre-land status where miracles in *chutz la-Aretz* retain their significance. During the *galut* period, the *nes* in *chutz la-Aretz* was very much relevant and very much a reason for *Hallel*.
 
 ---
 
-## Instruments: Materials &…
+## Flutes & Cymbals
 
 ### Reed vs. Copper Flute
 

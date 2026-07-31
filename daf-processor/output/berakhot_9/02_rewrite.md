@@ -214,7 +214,7 @@ Having traversed the various opinions, the Gemara's material can be organized in
 
 ## Beruriah & Minim
 
-### Biryonei Trouble Rabbi M…
+### Biryonei in Rabbi Meir
 
 Certain *biryonei* — boors or violent troublemakers — who lived in the neighborhood of Rabbi Meir caused him great distress. Rabbi Meir prayed that they should die.
 

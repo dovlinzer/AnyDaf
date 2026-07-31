@@ -22,7 +22,7 @@ One might observe that in practice this question rarely arises, given that Ashke
 
 ---
 
-## Mitzvah vs. Kedusha Stat…
+## Tashmishei Mitzvah vs
 
 ### Tzitzit vs. Tefillin
 
@@ -92,7 +92,7 @@ These measures have practical implications in two categories of situations: when
 
 ---
 
-## Rashi-Rabbeinu Tam Histo…
+## Rashi vs. Rabbeinu Tam
 
 ### Rambam's Evolution
 
@@ -214,7 +214,7 @@ Rav Yehuda's requirement that the *kesher* be *l'ma'alah* — above — means it
 
 ## Shin Variants
 
-### Shin Variants
+### Shin Variants (II)
 
 The *Shimusha Rabba*, cited by Tosafot on the preceding *daf*, addresses the *shin* on the *shel rosh*. It specifies that one side of the *shel rosh* bears a three-armed *shin* and the other bears a four-armed *shin* — and this is indeed the practice today, though, notably, the source is the *Shimusha Rabba* rather than the *Gemara* itself.
 
@@ -316,7 +316,7 @@ But there is a deeper dimension to consider. If, as argued above, the *shel yad*
 
 ---
 
-## Order of Putting On (III)
+## Order of Putting On
 
 ### Putting On Order
 
@@ -340,7 +340,7 @@ The Gemara asks: *mei'ematai nevarech aleihen?* — from when does one make the 
 
 ---
 
-## Order of Putting On (III)
+## Order of Putting On (II)
 
 ### Veyayu Plural
 
@@ -348,7 +348,7 @@ Rav Kahana, in explaining the dependency of the *shel rosh* on the *shel yad*, g
 
 ---
 
-## Order of Putting On (III)…
+## Order of Putting On (III)
 
 ### Building Dependency
 

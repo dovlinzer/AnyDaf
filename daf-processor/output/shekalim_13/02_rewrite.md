@@ -4,7 +4,7 @@
 
 ### Intro & Approach
 
-Today's daf is 13, and we pick up at the very bottom of 12a. This passage proved difficult at the end of the previous shiur — and rightly so, as it is much debated among the commentators. The explanation presented here follows that of the *Tosafot HaRosh*, which is, on balance, the simplest available.
+ This passage proved difficult at the end of the previous shiur — and rightly so, as it is much debated among the commentators. The explanation presented here follows that of the *Tosafot HaRosh*, which is, on balance, the simplest available.
 
 ### Unblemished Redemption
 
@@ -36,7 +36,7 @@ The argument from our own *mishnah* is ultimately the strongest. Rabbi Chizkiyah
 
 ---
 
-## Female Sanctity Stat (II)
+## Female Sanctity Status
 
 ### R. Shimon Gender
 
@@ -58,7 +58,7 @@ The illustrative case is from a *baraita*: an *asham* requiring a one-year-old f
 
 ---
 
-## Sanctity Distinction (II)
+## Sanctity Distinctions
 
 ### Sanctity Categories
 

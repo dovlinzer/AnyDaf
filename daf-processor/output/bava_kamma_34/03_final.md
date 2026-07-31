@@ -1,4 +1,5 @@
 # Bava Kamma 34 — Daf Yomi Shiur
+[DAF:34a]
 
 ## Akiva vs. Ishmael
 
@@ -218,6 +219,7 @@ What is actually at stake between them? The Gemara notes that in the case Rabbi 
 
 Rava answers: *pachat neveilah ika beinaihu* — the question of who bears the depreciation of the carcass. If after the goring the carcass continues to lose value, who absorbs that loss — the *nizak* or the *mazik*? Rabbi Meir holds *pachat neveilah de-nizak havei* — the depreciation of the carcass falls entirely on the *nizak*. The *mazik* pays for the loss at the time of death, but the carcass itself and any further decline in its value belong to the *nizak*. Rabbi Yehuda, insisting that the Torah says *vegam et ha-met yechetzun*, holds that the carcass is actually split between them, making the *mazik* a part-owner in the carcass — and therefore *pachat neveilah de-mazik havei palga*: the *mazik* absorbs half of any subsequent depreciation.
 
+[DAF:34b]
 ### Tam vs. Muad
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: אִם כֵּן, מָצִינוּ לְרַבִּי יְהוּדָה תָּם חָמוּר מִמּוּעָד!

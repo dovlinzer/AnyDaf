@@ -1,6 +1,6 @@
 # Sanhedrin 79 — Daf Yomi Shiur
 
-## Intent & Different V (II)
+## Intent & Different Victim
 
 ### Intent Framework
 

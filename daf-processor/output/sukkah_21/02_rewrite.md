@@ -176,7 +176,7 @@ The *Gemara* asks: *mai ta'ameh de'Rabbi Yehuda*? What is Rabbi Yehuda's reasoni
 
 The other opinion says: *ve'chad amar mipnei she'ma'amidah bedavar hamekabel tumah* — the problem is that the *schach* is being supported by something that is *mekabel tumah*. Just as the *schach* itself cannot be made of something susceptible to *tumah*, so too the direct support of the *schach* cannot be such an object. The walls of the *sukkah* may be made of anything, but what physically holds up the *schach* must not be *mekabel tumah*.
 
-## Direct vs. Indirect Support
+## Direct vs. Indirect
 
 ### On Top vs. By
 

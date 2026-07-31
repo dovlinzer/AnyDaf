@@ -60,7 +60,7 @@ This principle has interesting modern implications. Since *Hazal* measured time 
 
 ## Multiple Hazamot
 
-### Defendant Guilty, Differ…
+### Defendant Guilty Other
 
 *Rava* now presents a case that adds a further layer of complexity. Two witnesses testify that on Sunday, so-and-so killed someone. A second pair comes and says, "You were with us on Sunday" — they *hazim* the first pair. But the second pair adds: "In fact, the same person killed the same victim — but on Monday." Or even, they say, "He killed him on Friday" — multiple days removed from what the first pair claimed.
 
@@ -80,7 +80,7 @@ This principle connects to a broader theme regarding *gmar din* as a legal statu
 
 One might wonder: in practice, could such a scenario arise in *Babylonia*, where *dinei nefashot* were not conducted? *Rava* frames his cases using Sura and Nehardea — cities in *Bavel*. Presumably such examples would have applied before the *churban*, when capital jurisdiction existed, though the question is worth noting.
 
-### Monetary Penalties & Gma…
+### Knas & Final Rulings
 
 The same principle extends to monetary *knas* cases. *Ve-chen le-inyan tashlumei knas* — the same logic applies to fines imposed by a court. Two witnesses testify that on Sunday so-and-so stole a cow and slaughtered it or sold it — an act that incurs the fourfold or fivefold payment of *daled* or *hei*. A second pair of witnesses says, "On Sunday you were with us." The second pair also testifies that in fact the theft and slaughter occurred on Monday, or even on Friday. The ruling: *meshalmin* — the first pair pays. Because *be-idna de-ka-mashadi gavra, gavra lav bar tashlumin hu* — at the time they testified, the defendant had not yet been declared liable to pay the fine. Their testimony was the operative cause of his financial liability, so the reciprocal punishment applies to them.
 

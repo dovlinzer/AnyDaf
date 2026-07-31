@@ -194,7 +194,7 @@ Rav Ashi ultimately returns to and reformulates Rav Yosef's approach, applying i
 
 The *konam* the woman declares operates through this mechanism. She is not trying to transfer ownership of her labor to some third party. She is, as it were, changing the identity of her hands — making them like a *korban*, not in a literal sense (her hands will not be used in the Temple), but in the legal-structural sense that the *neder* invokes *kedushat haguf*. This is more powerful than what the husband attempted in the *mishnah*'s original case, where he sought to sanctify the *motar* through *hekdesh* — a simple ownership transfer — which fails when the object is not in his possession.
 
-### Husband's Lien Strengthe…
+### Husband's Lien Strength
 
 Yet even this more powerful mechanism has limits. The *gemara* asks: if *kedushat haguf* can overcome liens, why does the woman's *konam* not take effect immediately, dissolving the husband's rights on the spot? The answer: *amru rabanan le-shibuda de-ba'al ki heichi de-lo tikdesh me-hashtah* — the Rabbis strengthened the husband's lien specifically so that the *konam* cannot take effect during the marriage. This is a rabbinic reinforcement of the husband's entitlement, designed to prevent the identity-altering power of *konamot* from unraveling the marital arrangement mid-marriage. The result is a carefully constructed compromise: the *konam* is real and will take effect upon divorce, but the Rabbis ensured that during the marriage, the husband's lien is robust enough to suppress it.
 

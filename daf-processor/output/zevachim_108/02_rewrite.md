@@ -146,7 +146,7 @@ The Gemara presses Rabbi Yosi HaGlili: even without *migu*, is not *tumas haguf*
 
 ---
 
-## Stringencies (III)
+## Stringencies
 
 ### Shchita Stringent
 
@@ -176,7 +176,7 @@ The *mishnah* then addresses the case where one places multiple limbs or pieces 
 
 ---
 
-## Stringencies (III)
+## Stringencies (II)
 
 ### Source: Ish Ish
 
@@ -184,7 +184,7 @@ The Gemara returns to ground the differential treatment of slaughter and offerin
 
 ---
 
-## Stringencies (III)…
+## Stringencies (III)
 
 ### Partnership & Divine
 

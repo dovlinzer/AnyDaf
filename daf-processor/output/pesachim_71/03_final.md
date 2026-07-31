@@ -1,4 +1,5 @@
 # Pesachim 71 — Daf Yomi Shiur
+[DAF:71a]
 
 ## Chagigah Status
 
@@ -320,6 +321,7 @@ But this reading generates an impossible result. We have a firm tradition that s
 
 The resolution is found in a separate verse: *im neder o nedava zevach korbano ba-yom zivcho ye'achel u-mi-macharat ve-ha-notar mimenu ba-esh yisaref* — if it is a *neder* or *nedava*, one eats the *korban* on the day it is slaughtered and the day after, and what remains is burned. From this verse, *chazal* derive — through an extra textual element, which Rashi identifies as the word *im* — that the *chagigah* of the fifteenth is eaten for two days and the intervening night. Once the *chagigah* of the fifteenth is relocated to this verse for its two-day span, the original verse — *lo yalin min ha-basar asher tizbach ba-erev ba-yom ha-rishon la-boker* — is now read as referring exclusively to the *chagigah* of the fourteenth.
 
+[DAF:71b]
 ### Fourteenth Proof
 
 > **Hebrew/Aramaic:** אָמַר מָר: אוֹ אֵינוֹ אֶלָּא בֹּקֶר רִאשׁוֹן. הָא אָמַרְתָּ: כְּשֶׁהוּא אוֹמֵר "בַּיּוֹם הָרִאשׁוֹן (לַבֹּקֶר)" — הֲרֵי בֹּקֶר שֵׁנִי אָמוּר? הָכִי קָאָמַר: אוֹ אֵינוֹ אֶלָּא בִּשְׁתֵּי חֲגִיגוֹת הַכָּתוּב מְדַבֵּר, אַחַת חֲגִיגַת אַרְבָּעָה עָשָׂר וְאַחַת חֲגִיגַת חֲמִשָּׁה עָשָׂר, וְזוֹ לְבוֹקְרָהּ וְזוֹ לְבוֹקְרָהּ.

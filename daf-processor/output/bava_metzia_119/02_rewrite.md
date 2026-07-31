@@ -12,7 +12,7 @@ As was observed at the close of the previous session, *reshus harabim* is not a 
 
 Two distinct questions animate this entire area of law, and they will continue as a dominant theme into the opening of *Bava Batra*. The first is the question of freedom to act: what degree of latitude does a person have when operating in his own domain, or in the public domain, in ways that may cause indirect harm to another? Must I conduct myself so as to prevent all indirect damage to my neighbor, or does he bear the responsibility to protect himself — *al hamazik leharchik et atzmo o al hanizak leharchik et atzmo*? The second question is a *Bava Kamma*-style inquiry: even if I do have the right to act in a certain way, am I *chayav* to pay if someone is actually damaged as a result?
 
-### Operating in Reshus Hara…
+### Reshus Harabim Liability
 
 These two levels of analysis do not necessarily travel together. One might hold that a person is permitted to empty refuse into the *reshus harabim* because it creates no sufficient hazard — yet still hold him liable if injury results. Conversely, one might hold that such an act is forbidden because of the potential hazard — yet exempt the actor from payment if injury does occur, on the grounds that the harm was indirect. The *Gemara* has presented instances running in both directions: *potchin bevibar birshus harabim*, where even a licensed activity may generate liability. And indeed, this last *perek* of *Bava Metzia*, which really ought to have been the opening *perek* of *Bava Batra*, sits precisely at the intersection of private domain and public domain, exploring both the scope of permitted action and the consequences of damage after the fact.
 
@@ -44,7 +44,7 @@ One might read Rabbi Shimon's formulation extremely literally — as if to say t
 
 ## Worker Chain Liability
 
-### Individual Stage Liabili…
+### Stone Workers Liability
 
 The *Gemara* now turns to a *braita* that addresses liability across a chain of workers — and here, I confess, the full analysis resists easy resolution. The *braita* describes a sequence: *hachatzav shemasar lesatat* — the quarrier, who removes the stone from the mountain, hands it to the *satat*, the one who cuts and smooths it to the correct dimensions. *Hasatat chayav*. If the stone then slips from the *satat*'s hand and causes damage, he is *chayav*. This is presumably a case of *adam hamazik*: it does not matter who owns the stone; if I am holding it and it falls and injures someone, I am liable, much as one who is asked to hold a knife and it slips from his hand is liable for any resulting injury.
 

@@ -16,7 +16,7 @@ Nevertheless, the second requirement remains: in order to serve as a *shaliach* 
 
 A slave can serve as a *shaliach* for *terumot u'maasrot* because those obligations are relevant to the slave.
 
-### Gittin/Kiddushin Exclusi…
+### Slaves Excluded: Gittin
 
 A slave, however, cannot serve as a *shaliach* for *gittin ve'kiddushin*, because there is no binding *kiddushin* or *gittin* that applies to a slave — even though a slave is *chayav* in *mitzvot* more broadly. That is the conceptual exclusion.
 

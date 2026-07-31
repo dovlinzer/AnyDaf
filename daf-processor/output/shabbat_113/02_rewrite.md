@@ -1,6 +1,6 @@
 # Shabbat 113 — Daf Yomi Shiur
 
-## Kesher Uman & Weaver's R…
+## Kesher: Permanent vs Temp
 
 ### Bucket & Belt
 

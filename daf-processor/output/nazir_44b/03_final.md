@@ -1,4 +1,5 @@
 # Nazir 44b — Daf Yomi Shiur
+[DAF:44a]
 
 ## Opening Remarks
 
@@ -34,6 +35,7 @@ The *mishnah* continues: *ve'im gilach bashmini mevi korbanosav bo bayom* — if
 
 Rabbi Tarfon challenged: *u'mah ma bein zeh l'metzora?* — how is the *nazir* different from the *metzora*? Rabbi Tarfon takes it as given that a *metzora* who delays shaving until a day later than prescribed must bring his *korban* one day later still — in that case on day nine rather than day eight. By the same logic, he argues, a *nazir* who postpones shaving until day eight should have to wait until day nine to bring his *korbanos*. (In the *metzora*'s case the relevant delay is not about day eight per se, but about waiting the full seven days until the *kohen* revisits and the subsequent shaving cycle is completed — the structure is parallel even if the precise day count differs.)
 
+[DAF:44b]
 ### Akiva's Response
 
 > **Hebrew/Aramaic:** אָמַר לוֹ: זֶה טׇהֳרָתוֹ תְּלוּיָה בְּיָמָיו, וּמְצוֹרָע טׇהֳרָתוֹ תְּלוּיָה בְּתִגְלַחְתּוֹ. וְאֵינוֹ מֵבִיא קׇרְבָּן אֶלָּא אִם כֵּן הָיָה מְעוֹרַב שֶׁמֶשׁ.

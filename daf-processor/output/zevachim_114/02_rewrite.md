@@ -16,7 +16,7 @@ The *mishna* proceeds to discuss other categories of invalidity: animals used in
 
 ---
 
-## Rabbi Shimon & Mechusar…
+## Rabbi Shimon: Mechusar
 
 ### Shimon's Principle
 

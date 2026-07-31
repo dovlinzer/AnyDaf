@@ -8,7 +8,7 @@ The daf picks up in the middle of a *gemara* discussing the parameters of *Eretz
 
 The *gemara* ties this debate to a dispute between Rabbi Yehuda and the *Chachamim* regarding a boat carrying soil on which crops are growing while the boat travels through a river in *Eretz Yisrael* — are those crops obligated in *terumot u'ma'asrot*? The *Chachamim* say yes; Rabbi Yehuda says only when the boat is actually scraping against the riverbed. The *gemara* also draws a comparison to the case of an *atzitz*, a flowerpot with a hole in it. Rashi understands the boat to be made of pottery, while Tosafot explains it is a wooden boat, which is considered porous. Regardless, the key question is why this agricultural consideration — whether the boat is touching the riverbed — has any bearing on the entirely separate question of *bifnei nichtav*, which concerns different practical matters such as *lishma* and the ability to validate signatures.
 
-### Tosafot: Formal Definiti…
+### Tosafot: Terumot Terms
 
 The answer becomes clear from Tosafot's explanation. The *gemara* is not examining whether the pragmatic concerns underlying the *takana* of *bifnei nichtav* are actually satisfied in any given case. Rather, it is drawing on a pre-existing, formal definition of what constitutes *Eretz Yisrael* — derived from the laws of *terumot u'ma'asrot* — and importing that definition wholesale into the context of *gittin*.
 

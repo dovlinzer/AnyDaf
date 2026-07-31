@@ -1,6 +1,6 @@
 # Ketubot 54 — Daf Yomi Shiur
 
-## Daughters & Ketubah Stat…
+## Daughters: Ketubah Status
 
 ### Bat Arusah
 

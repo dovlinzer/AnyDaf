@@ -1,4 +1,5 @@
 # Menachot 51 — Daf Yomi Shiur
+[DAF:51a]
 
 ## Death Between Portions
 
@@ -94,6 +95,7 @@ The *Gemara* then raises the question: *banav eilu kohanim hedyotot* — does *b
 
 Once this division is established, the *halacha* of the *kohen hedyot* comes into focus. Before a *kohen hedyot* begins his Temple service for the first time, he brings a *mincha* — a full *issaron* of *solet* — as his inaugural offering. This is the meaning of *zeh korban Aharon u-vanav asher yakrivu l'Hashem b'yom himashach oto*: on the day they are initiated into their *avodah*, each *kohen* brings this offering. Note that even the *kohen gadol* himself, when he first assumes his role, brings such a *minchat solet*. The transition to *machatzitah ba-boker u-machatzitah ba-erev* — half in the morning and half in the afternoon — then shifts attention to the *kohen gadol*'s ongoing daily obligation, the *chavitai* that continues every day, split between morning and afternoon.
 
+[DAF:51b]
 ### Mibnav Reconciled
 
 > **Hebrew/Aramaic:** אִם כֵּן לִכְתּוֹב קְרָא ״הַכֹּהֵן הַמָּשִׁיחַ תַּחְתָּיו בָּנָיו יַעֲשֶׂה״, מַאי ״מִבָּנָיו״? שָׁמְעַתְּ מִינַּהּ תַּרְתֵּי.

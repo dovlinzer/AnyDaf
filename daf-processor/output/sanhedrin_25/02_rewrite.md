@@ -132,7 +132,7 @@ Rabbi Nechemia adds that repentance in this domain requires not merely behaviora
 
 The *beraita* further records that the Sages added *gazlanim* — thieves — and *chamsanim* — violent takers — to the list of the disqualified. A *chamsan* is one who takes an item from another even when the owner objects, but pays for it nonetheless. The *gazlan* disqualification requires explanation: a *gazlan* commits an *issur de-oraita* and would obviously be *pasul* without any new ruling.
 
-### Finding from Incapacitated…
+### Stealing from Cheresh
 
 The answer is that the ruling is necessary specifically for the case of one who takes a found object belonging to a *cheresh*, *shoteh*, or *katan* — a deaf person, a fool, or a minor. Since none of these three can halachically perform an act of *kinyan*, they technically cannot acquire a found object, and taking it from them would not constitute biblical theft. Nevertheless, the *chachamim* instituted a rabbinic prohibition against this *mipnei darchei shalom* — for the sake of social peace. Originally, the Sages did not include such a person among the disqualified for testimony, reasoning that the situation was uncommon. Ultimately, however, since this person is demonstrably unscrupulous with money, the Rabbis extended the disqualification to him as well.
 

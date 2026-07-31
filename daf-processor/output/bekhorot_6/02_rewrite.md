@@ -1,6 +1,6 @@
 # Bekhorot 6 — Daf Yomi Shiur
 
-## Bechor Shor Chesev E (II)
+## Bechor Shor Chesev Eiz
 
 ### Intro: Mother-Child Match
 
@@ -16,13 +16,13 @@ This brings us to Rabbi Yose HaGlili's position. If all three species must be st
 
 ---
 
-## Donkey Firstborn Lim (II)
+## Donkey Firstborn Limit
 
 ### Broad to Narrow
 
 This raises a question about the plain sense of the verses. One *pasuk* speaks broadly — redeem the firstborn of non-kosher animals generally — while another specifies the *peter chamor* redeemed with a sheep. How do these coexist? One could read the broad verse as applying universally while the sheep-redemption clause is limited to donkeys. But Rabbi Yose HaGlili asks: perhaps we should take the general verse at face value, and the firstborn of horses and camels would also require redemption?
 
-The *baraita* records his reasoning: we hear from the verse *bechor behemah hatmeiah tifdeh* that one might include even *pitrei susim v'gamalim* — firstborn horses and camels. The Torah therefore says *u'peter chamor tifdeh vaseh*: the firstborn donkey you redeem with a sheep — *peter chamor amarti lecha v'lo pitrei susim u'gamalim*, only the firstborn donkey, not those of horses or camels. Still, one might think the restriction is only regarding the sheep: horses and camels cannot be redeemed *with a sheep*, but the underlying *mitzvah* of redeeming firstborn non-kosher animals still applies to them, albeit with money or other value. At the top of 6a, the Torah's repetition of *peter chamor* a second time forecloses this: *pitrei chamorim amarti lecha v'lo pitrei susim u'gamalim* — not merely the sheep mechanism, but the entire *mitzvah* of redeeming firstborn non-kosher animals is restricted to donkeys alone. Why the broad opening verse states the *mitzvah* in such generic terms without the restriction remains, as the lecturer notes, an open question.
+The *baraita* records his reasoning: we hear from the verse *bechor behemah hatmeiah tifdeh* that one might include even *pitrei susim v'gamalim* — firstborn horses and camels. The Torah therefore says *u'peter chamor tifdeh vaseh*: the firstborn donkey you redeem with a sheep — *peter chamor amarti lecha v'lo pitrei susim u'gamalim*, only the firstborn donkey, not those of horses or camels. Still, one might think the restriction is only regarding the sheep: horses and camels cannot be redeemed *with a sheep*, but the underlying *mitzvah* of redeeming firstborn non-kosher animals still applies to them, albeit with money or other value. At the top of 6a, the Torah's repetition of *peter chamor* a second time forecloses this: *pitrei chamorim amarti lecha v'lo pitrei susim u'gamalim* — not merely the sheep mechanism, but the entire *mitzvah* of redeeming firstborn non-kosher animals is restricted to donkeys alone. Why the broad opening verse states the *mitzvah* in such generic terms without the restriction remains an open question.
 
 ---
 

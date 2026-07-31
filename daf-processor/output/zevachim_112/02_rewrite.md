@@ -142,11 +142,11 @@ The basis for the prohibition is the verse in Devarim 12:9: *ki lo vatem ad atta
 
 The *mishnah* now addresses the question of sacrifices sanctified and offered during different periods of *issur bamot* and *heter bamot* — a scenario that could only have arisen historically during the transitions between these periods, and which has no future applicability, but which nonetheless defines the boundaries of the prohibition. The first case: *she-hikdishan bi-sha'at issur ha-bamot ve-hikrivan bi-sha'at issur ha-bamot bachutz* — if an animal was sanctified during a period when *bamot* were prohibited, and was then offered outside the Temple also during a period when *bamot* were prohibited, the full array of consequences applies: *harei elu b'aseh ve-lo ta'aseh ve-chayavin aleihem karet* — one has violated a *mitzvat aseh*, a *mitzvat lo ta'aseh*, and incurs *karet*.
 
-### Sanctify Hetter Offer Is…
+### Sanctify During Perm
 
 The second case: *hikdishan bi-sha'at hetter bamot ve-hikrivan bi-sha'at issur ha-bamot* — if the animal was sanctified during a period when *bamot* were permitted, and then offered outside the Temple during a period when *bamot* were prohibited. This could occur if, for example, the animal was sanctified while *bamot* were allowed, and then the *Beit HaMikdash* was built in Jerusalem before the sacrifice was offered, and the owner was still in the countryside when he brought it as a sacrifice. In such a case: *harei elu b'aseh ve-lo ta'aseh ve-ein chayavin aleihem karet* — one violates both an *aseh* and a *lo ta'aseh*, but does not receive *karet*. This represents exactly the intermediate category that Rabbi Shimon had articulated earlier in the chapter, and it may suggest that even the *chachamim* agree to Rabbi Shimon's framework in these historical cases, even if they dispute his principle for the categories addressed at the beginning of the *perek*.
 
-### Sanctify Issur Offer Het…
+### Sanctify During Issur
 
 The third case is the inverse: *hikdishan bi-sha'at issur ha-bamot ve-hikrivan bi-sha'at hetter bamot* — the animal was sanctified during a period of *issur bamot*, such as the time of Shiloh, but was then offered during a subsequent period of *heter bamot*, such as Nob. In this case: *harei elu b'aseh ve-ein bahem lo ta'aseh* — one violates a *mitzvat aseh* only, without any *lo ta'aseh*, since at the time of the offering one is in a period of *heter bamot*.
 

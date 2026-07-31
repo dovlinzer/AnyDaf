@@ -1,4 +1,5 @@
 # Avodah Zarah 10 — Daf Yomi Shiur
+[DAF:10a]
 
 ## Shtar Dating Systems
 
@@ -152,6 +153,7 @@ Rabbi's response is characteristically oblique. Rather than speaking directly, h
 
 One might ask why Rabbi could not simply have told Antoninus this directly, or at minimum whispered it to him. The Gemara explains that even a whisper was considered too dangerous: as the pasuk in Kohelet warns, the birds of the sky will carry the word. The danger of political intelligence leaking, even from a private conversation, is too great. The Gemara adds a parallel teaching: a secret shared between two people is a secret of the heart; shared among three, it is a secret of the street. When political intrigue is involved and powerful parties have an interest in the information, the risk of exposure demands the most indirect possible communication.
 
+[DAF:10b]
 ### Vegetable Codes
 
 > **Hebrew/Aramaic:** הֲוָה לֵיהּ הָהוּא בְּרַתָּא דִּשְׁמַהּ ״גִּירָא״, קָעָבְדָה אִיסּוּרָא. שַׁדַּר לֵיהּ ״גַּרְגִּירָא״, שַׁדַּר לֵיהּ ״כּוּסְבַּרְתָּא״, שַׁדַּר לֵיהּ ״כַּרָּתֵי״, שְׁלַח לֵיהּ ״חַסָּא״.

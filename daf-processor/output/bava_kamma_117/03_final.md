@@ -1,4 +1,5 @@
 # Bava Kamma 117 — Daf Yomi Shiur
+[DAF:117a]
 
 ## Ship & Caravan Loss
 
@@ -308,6 +309,7 @@ When Rabbi Yochanan's eyelids were lifted, he observed that Rav Kahana's lips we
 
 The narrative carries a layered tragic irony. Rav Kahana had killed a man and gone into exile as a form of punishment and atonement. The terms of his exile — seven years of silence — were meant to be the instrument of his rehabilitation. By breaking those terms and then challenging Rabbi Yochanan with such force that the master was humiliated, Rav Kahana failed to fulfill the conditions of his exile and suffered its ultimate consequence.
 
+[DAF:117b]
 ### Revival Condition
 
 > **Hebrew/Aramaic:** הָדְרָא לֵיהּ עַכְנָא. אֲמַר לֵיהּ: ״עַכְנָא, עַכְנָא, פְּתַח פּוּמָּיךְ וְיִכָּנֵס הָרַב אֵצֶל תַּלְמִיד״, וְלָא פְּתַח. ״יִכָּנֵס חָבֵר אֵצֶל חָבֵר״, וְלָא פְּתַח. ״יִכָּנֵס תַּלְמִיד אֵצֶל הָרַב״, פְּתַח לֵיהּ. בְּעָא רַחֲמֵי וְאוֹקְמֵיהּ.

@@ -1,6 +1,6 @@
 # Shabbat 135 — Daf Yomi Shiur
 
-## Exceptions to Bris M (II)
+## Exceptions to Bris Milah
 
 ### Safek, Androgynos, Bein
 
@@ -8,7 +8,7 @@ The Gemara picks up at the very bottom of 134b and addresses the question of whe
 
 The *baraisa* begins with a *derashah* from the verse *uvayom hashmini yimol besar arlaso* — "on the eighth day you shall circumcise the flesh of his *arlah*." The possessive *arlaso*, "his *arlah*," is read as a limiting term: *arlaso vadai docheh es haShabbos* — a definite *arlah* overrides *Shabbat*, but a doubtful one does not. The *baraisa* then derives three cases from this principle. First: *arlaso vadai docheh es haShabbos velo androgynos docheh es haShabbos* — the *androgynos*, the person born with both sets of genitalia, does not override *Shabbat*, since his male status is not beyond doubt. *Rabbi Yehuda* disagrees: since the *androgynos* possesses male genitalia, the *arlah* is definite, and the *bris milah* does override *Shabbat* — and, he adds, there is a penalty of *kares* for failing to perform it. We will return to the *androgynos* case at greater length below.
 
-### Bein Hashmashos - Birth…
+### Bein Hashmashos: Birth
 
 The second exclusion: *velo nolad bein hashmashos docheh es haShabbos* — a child born during *bein hashmashos*, the twilight period, does not override *Shabbat*. If born between Friday and *Shabbat*, the child may be a Friday baby, in which case *Shabbat* falls on the ninth day and the *bris milah* would not override it. If born between *Shabbat* and Sunday, the child may be a Sunday baby, making *Shabbat* the seventh day — equally insufficient. Either way, the doubt prevents *Shabbat* from being overridden.
 

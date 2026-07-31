@@ -1,6 +1,6 @@
 # Zevachim 31 — Daf Yomi Shiur
 
-## Piggul w/ Intervening Th…
+## Piggul & Intervening
 
 ### Half-portions Case
 
@@ -24,7 +24,7 @@ Rashi invokes a closely related phrase — *chozer v'nei'or*, "it wakes up again
 
 Tosafot, however, flags an important disanalogy. In the physical case, at the moment the second half-unit is added, both halves are *physically present simultaneously* — there is an actual full unit of forbidden substance co-existing in the mixture at one moment in time. In the case of *piggul*, we are dealing with thoughts that existed sequentially and have passed. There is no moment at which a full *k'zayis* of *piggul* thought exists simultaneously in any coherent sense. These are distinct mental acts distributed across time, not physical quantities occupying space together. Tosafot therefore regards Rava's analogy as illuminating but imperfect, and maintains that in the domain of thought, one should not so readily say the *piggul* "wakes up."
 
-### Rav Hamnuna: Erev M'chav…
+### Rav Hamnuna: Machshavos
 
 Rav Hamnuna takes the opposing position: *erev machshavos havei* — the thought of *chutz limkomo* constitutes an *erev machshavos*, an extraneous thought that invalidates the sequence, and the offering remains *pasul* rather than becoming *piggul*. His reasoning, it may be presumed, turns on the fact that by the time the third thought arrives, the *korban* has already become *pasul* through the combination of the first two half-thoughts, and once *pasul*, it cannot be reconstituted as *piggul*.
 

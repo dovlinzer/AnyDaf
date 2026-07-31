@@ -10,7 +10,7 @@ We begin the final *perek* of Tractate Yoma, moving beyond the *avoda* of the *K
 
 The issue that launches the *gemara* is the language of the *mishnah*, which describes it as *assur* to eat and drink on Yom Kippur. The *gemara* finds this something of an understatement: the prohibition is biblical in force and carries an *issur kares*. Why would the *mishnah* reach for the word *assur*, which typically connotes something lighter — indeed, something closer to a rabbinic prohibition — rather than the weightier *chayav*, or at minimum *chayav kares*?
 
-### Rabbi Yochanan vs. Reish…
+### Yochanan vs. Reish Lakish
 
 The *gemara's* answer is that *assur* is the appropriate term when discussing eating less than the minimum *shiur* — *chatzi shiur*. This introduces the famous debate between Rabbi Yochanan and Reish Lakish. Rabbi Yochanan holds that *chatzi shiur* is *assur min haTorah* — forbidden by the Torah itself. Reish Lakish holds it is only rabbinically prohibited. Either way, the term *assur* fits, because we are speaking of something forbidden but not deserving the full weight of *chayav kares*, since the act involved is less than the minimum *shiur*.
 
@@ -34,7 +34,7 @@ Reish Lakish offers an alternative resolution: the case involved an oath specifi
 
 Rabbi Akiva goes further, holding that one need not even specify *chatzi shiur* explicitly. Any normal oath not to eat implies even the smallest amount. So either by explicit formulation or by implication, the person is not *mushba ve'omed* against *chatzi shiur*, and the oath therefore takes hold.
 
-### Rabbinic Prohibitions Qu…
+### Mushba Ve'Omed: Rabbinic
 
 This raises a pointed question: according to Reish Lakish, who holds that *chatzi shiur* is at least rabbinically forbidden — since rabbinic prohibitions exist under the broader biblical mandate not to violate the words of the Rabbis — shouldn't the person still be *mushba ve'omed* even rabbinically? How can the oath take effect on something that is at minimum rabbinically prohibited?
 
@@ -52,7 +52,7 @@ The *gemara* then immediately challenges this principle: if a rabbinic prohibiti
 
 To illustrate this challenge, the *gemara* introduces the case of *shvuat ha'edut* — the oath of testimony. In the absence of formal subpoena, the Torah provides a mechanism by which one may impose an oath upon a person believed to possess relevant testimony. If that person knows the testimony and withholds it, the verse states *im lo yagid venasa avono* — if he does not testify, he bears the burden of his sin. The question becomes: on whom does this oath-obligation operate?
 
-### Mishnah: Eligible Witnes…
+### Mishnah: Eligible Witness
 
 The *mishnah* states that *shvuat ha'edut* applies only to those who are *re'uyim lehiahid* — eligible to testify. The *mishnah* had already explicitly excluded women, minors, and *gazlanim*. So the additional phrase "eligible to testify" must be excluding someone beyond those already listed.
 
@@ -78,13 +78,13 @@ Two reasons are given for their disqualification. The first is that gamblers are
 
 ---
 
-## Rabbinic Prohibition Eff…
+## Rabbinic Prohibitions
 
 ### Paradox Raised
 
 This creates a striking difficulty. We see that a rabbinic disqualification from testimony is enough to prevent a *shvuat ha'edut* from taking hold. If so, why doesn't the rabbinic prohibition of eating *chatzi shiur* similarly prevent the oath from taking effect there? In both cases, something is rabbinically off-limits; in both cases, a biblical oath is at play. Why is the result different?
 
-### Practical Ability Requir…
+### Verse Requires Ability
 
 The *gemara* answers by pointing to the precise language of the verse: *im lo yagid* — if he does not testify. The Torah imposes liability only on someone who *has the practical ability* to testify and chooses not to. The gambling dice player, rabbinically barred from court, has no such practical ability — if he were to appear and offer testimony, the court would turn him away. *Ve'hai lav bar hagadah hu klal* — he simply cannot testify in any practical sense. The verse cannot be talking about him.
 
@@ -114,13 +114,13 @@ The *gemara* immediately challenges this principle from a *braisah*: *af al pi s
 
 The *braisah* thus confirms that the same word *assur* is used for the entire list, while noting that eating and drinking (and *melachah*) carry *kares* while the others do not. Far from supporting the *gemara's* principle, the *braisah* seems to demonstrate that *assur* can be used even for things punishable by *kares* — it is the *braisah's* clarifying role to explain the differential gravity.
 
-### Chatzi Shiur Interpretat…
+### Chatzi Shiur: Assur Only
 
 The *gemara* responds with what is admittedly a forced rereading of the *braisah*. It maintains its position that *assur* would never properly apply to a prohibition carrying *kares*, and therefore reinterprets the *braisah* as follows: when the *mishnah* says *assur* regarding eating and drinking, it is referring specifically to *chatzi shiur* — less than the minimum amount. For a full *shiur*, one incurs *kares*. The *braisah* comes to point out that of the categories listed, only eating, drinking, and *melachah* can ever reach the level of *kares* — but the use of *assur* in the *mishnah* itself applies only to the *chatzi shiur* case. This is, as noted, quite a strained reading, since the entire point of the *braisah* was precisely to acknowledge that the same term covers activities of differing weight.
 
 ---
 
-## Assur for Other Item (II)
+## Assur for Other Items
 
 ### Assur Justification
 

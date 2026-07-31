@@ -34,7 +34,7 @@ The widow's final reply was pointed: regarding Torah, she said, she had not know
 
 The *gemara* now asks what the basis was for the common knowledge that Rabbi Elazar was greater than Rabbi in *Torah*. The answer lies in a story from their shared youth. Rabban Shimon ben Gamliel and Rabbi Yehoshua ben Korcha were seated on stools — the position of teachers — in the *beit midrash*, while Rabbi (then still simply the young Yehudah, son of the *nasi*) and Rabbi Elazar ben Rabbi Shimon sat on the ground before them, as students.
 
-### Students Challenge Teach…
+### Students Challenge Rabbis
 
 As the session proceeded, the two younger men sitting on the ground were asking difficult questions and providing sharp answers — *makshu u'mfarku* — demonstrating that they were, intellectually speaking, the equals if not the superiors of those seated above them. Rabban Shimon ben Gamliel and Rabbi Yehoshua ben Korcha took note: "We are drinking from their waters, yet they are sitting on the ground?" They arranged for stools to be brought for the two younger scholars and elevated them to equal footing.
 
@@ -126,7 +126,7 @@ The *yissurin* departed through a different act. One day, Rabbi's maidservant wa
 
 A question presents itself: if Rabbi's *yissurin* departed through an act of compassion — through *rachamim*, through what one might call *ahavah* — why does the *gemara* still distinguish his *yissurin* unfavorably from those of Rabbi Elazar ben Rabbi Shimon, whose *yissurin* departed *me'ahava*? The answer seems to lie in the overall religious orientation of the experience. Rabbi Elazar ben Rabbi Shimon related to his *yissurim* in an explicitly religious framework throughout — he invited them religiously and released them for religious reasons. Rabbi, at least according to this account, was not relating to the experience in that same religious mode. He was ill, and he happened to perform a compassionate act. The act was beautiful, but the frame was different.
 
-### Blessings During Sufferi…
+### Blessings in Afflictions
 
 A further dimension of the *yissurin* narrative: *kulhu sheinei yissurei de'Rebbi Elazar, lo shachiv inish belo zimnei* — all the years that Rabbi Elazar ben Rabbi Shimon was suffering his afflictions, no one died before their proper time. The suffering of the righteous appears to have conferred a kind of protection on the community around him. Similarly, *kulhu sheinei yissurei de'Rebbi, lo itzterich alma lemitra* — all the years of Rabbi's afflictions, the world did not need rain. This is, admittedly, a slightly ambiguous blessing. Rain, after all, is generally understood as a gift, and its withholding evokes the curse of Eliyahu. The *gemara* addresses this: *Rabbah bar bar Shila* teaches that the day of rain is as difficult as the day of judgment — as necessary as both may be, neither is exactly pleasant. And *Ameimar* adds: were rain not needed to sustain the world, the rabbis would simply pray for it to stop altogether.
 

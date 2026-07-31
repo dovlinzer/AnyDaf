@@ -1,4 +1,5 @@
 # Zevachim 75 — Daf Yomi Shiur
+[DAF:74b]
 
 ## Intro & Pasul Animals
 
@@ -108,6 +109,7 @@ The *gemara* raises a challenge: *ve-ha ba'ei semichah* — does not a *korban* 
 
 ## Abaye Challenge
 
+[DAF:75a]
 ### Baraita Cases
 
 > **Hebrew/Aramaic:** אֵיתִיבֵיהּ אַבָּיֵי: קׇרְבַּן יָחִיד שֶׁנִּתְעָרֵב בְּקׇרְבַּן יָחִיד, וְקׇרְבַּן צִיבּוּר שֶׁנִּתְעָרֵב בְּקׇרְבַּן צִיבּוּר, וְקׇרְבַּן יָחִיד וְקׇרְבַּן צִיבּוּר שֶׁנִּתְעָרְבוּ זֶה בָּזֶה – נוֹתֵן אַרְבַּע מַתָּנוֹת מִכׇּל אֶחָד וְאֶחָד. וְאִם נָתַן מַתָּנָה מִכׇּל אֶחָד – יָצָא, וְאִם נָתַן אַרְבַּע מִכּוּלָּן – יָצָא.
@@ -144,6 +146,7 @@ Abaye's challenge to Rav Yosef emerges from the *baraita*'s language: *katani ya
 
 *She-nitarvu shechutim ke-ein chayyim* — "mixed after *shechita* in a manner similar to when alive" means that even after *shechita*, the blood was kept in separate containers (*be-kossot*), treating each animal's blood as distinct — analogous to the animals being separate while alive. *Aval be-vulul* — if, however, the blood was blended together into one vessel, then one gives four *matanot* from the combined blood, and a single *matanah* from the mixture suffices.
 
+[DAF:75b]
 ### Rabbi's Volume Test
 
 > **Hebrew/Aramaic:** רַבִּי אוֹמֵר: רוֹאִין אֶת הַמַּתָּנָה; אִם יֵשׁ בָּהּ כְּדֵי לָזֶה וּכְדֵי לָזֶה – כְּשֵׁרָה, וְאִם לָאו – פְּסוּלָה.

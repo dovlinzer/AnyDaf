@@ -56,7 +56,7 @@ The *gemara* then raises a further question: if we are operating within Rabbi Ak
 
 The *gemara* responds: *hatam Rabbi Akiva legaziziah* — Rabbi Akiva blunted the force of his own ruling. Even though he holds that a *tam* ox pays full damages when it injures a person, he also holds that the payment is limited to the body of the animal itself: *miguf meshalem v'eino meshalem min ha'aliyah* — you pay from the animal's body, not from general assets, even though the payment is nominally full rather than half. As a result, this is not a standard unrestricted payment that would belong on a list whose purpose is to declare that all enumerated categories require payment from the best property. Tosafot makes this precise: since the distinctive purpose of these lists is to establish the rule of *meitav* — that payment from land must come from the best land — Rabbi Akiva's special case of *tam* goring a person is excluded because it is categorically limited to the body of the animal and cannot invoke the *meitav* rule at all.
 
-## Personal Injury & Hidden…
+## Personal Injury & Libel
 
 ### Ones & Mifateh
 
@@ -136,7 +136,7 @@ The *gemara* then introduces a dissenting position: *u'leman d'amar adrabba kere
 
 Rashi notes — significantly — that this *maan d'amar* is not identified anywhere, and Tosafot fills in the gap by connecting it to a debate that will emerge later in the *perek*: is *keren* fundamentally below or above the line of expected liability?
 
-### Keren: Fine or Compensat…
+### Keren: Kanassa or Mamona
 
 The question can be framed in two ways. One approach holds that ordinary animals do not have a propensity to gore — *stam shor bechezkat shimur*, a standard ox is presumed to be watched and not dangerous. If an ox gores, it is essentially an *ones* for the owner; strictly speaking, the owner should be fully exempt. The Torah, however, imposes a half-payment as a kind of incentive to be more vigilant. On this reading, the half-payment of *keren* is a *knas* — the owner is technically not negligent, and the payment is not compensation for recognized harm but rather a punitive imposition.
 

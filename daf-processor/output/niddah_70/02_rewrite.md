@@ -26,7 +26,7 @@ With this in hand, the *gemara* draws an inference. If one holds that the counti
 
 At this point, Rav Acha son of Rav Yosef raises an objection to Rav Ashi: *lav kematartzinan lah* — you have already taken liberties with this *baraita*. Not only have you acknowledged that it sometimes yields sixteen rather than the stated fifteen, but more significantly, the original version of the *baraita* stated that the woman said she had not bled at all. If she did not bleed, why is she going to the *mikvah*? The *baraita* was already reinterpreted to mean: she bled but has no idea how much. Once such reinterpretation is already in play, one further step in the same direction is permissible.
 
-### Alternative Interpretati…
+### Alternative Interpretatio
 
 The *gemara* therefore proposes: *tirtza hachi* — interpret the *baraita* this way. She says: *safarti ve'eini yoda'at kama safarti* — I counted, but I do not know how many days I counted. Perhaps I counted as a *niddah*, perhaps as a *zavah*, perhaps I counted at all, perhaps I did not. On this reading, *matbilin otah tesha tvilot* — she is immersed nine times.
 

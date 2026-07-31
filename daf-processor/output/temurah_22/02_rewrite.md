@@ -12,7 +12,7 @@ The *Mishna* opens with three unambiguous cases: *vlad chatat* (the offspring of
 
 Beyond those three clear cases, the *Mishna* introduces two further categories that are conventionally listed among the five, but which are here presented with an important qualification. The *Mishna* speaks of an animal that has passed its first year (*avar shnata*) and of one that was lost and subsequently found to be *ba'alat mum* (blemished). What is striking is that neither of these two cases is stated as an absolute rule. Rather, the *Mishna* frames them as conditional: only under certain circumstances do these animals enter the category of *chatat meita*.
 
-### Manuscript Reading Analy…
+### Manuscript Reading: kipru
 
 There is a significant textual question surrounding the exact *girsa* of the *Mishna*. The printed text reads *im mishe'kiperu ba'alim tamut* — if after the owners have atoned, it must die — which would limit the case to where the animal was found only after the owners had already achieved atonement through a replacement. Both Rashi and Tosafot, however, emend the *girsa* to *im kiperu ba'alim tamut*, meaning: even if the animal was found beforehand, once the owners subsequently went ahead and brought another *korban* for atonement, it must die.
 
@@ -60,7 +60,7 @@ What emerges from this reading is quite striking. We began by assuming that *ava
 
 ---
 
-## Double Problem Requireme…
+## Double Problem Req
 
 ### Separate Listings
 
@@ -152,7 +152,7 @@ The answer depends on a pre-existing dispute about the rule of *kos oseh chaveir
 
 ---
 
-## Rabbi vs Chachamim
+## Rabbi vs Chachamim (II)
 
 ### Unanimous Case
 

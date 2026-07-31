@@ -46,7 +46,7 @@ Why? *Tashlumei arba'a v'chamisha rachmana*, the Torah declared that one pays fo
 
 ---
 
-## Alternative Brayta Readi…
+## Brayta Against Hoda'ah
 
 ### Tana'im Debate
 
@@ -56,7 +56,7 @@ Since the *brayta* fails to resolve the question definitively, the Gemara propos
 
 The *brayta* presents the following scenario. Two witnesses testify that a defendant committed *gneivah*, and two additional witnesses testify that he performed the *tevicha u'mechira*. If the witnesses to the *gneivah* are subsequently proven to be *zomemim* — their testimony is discredited — then by the principle of *eidut shebatla miktzatah batla kulah*, once part of the testimony falls, it all falls. Since one cannot establish that the defendant was a *ganav*, the testimony to the *tevicha u'mechira* becomes meaningless. Perhaps he was slaughtering his own animal. Accordingly, the discredited witnesses pay him *kefel*, and the defendant pays nothing, even though there remain witnesses to the *tevicha u'mechira*.
 
-### Slaughter Witnesses Discredited
+### Slaughter Witnesses Kefel
 
 In the reverse case, where the witnesses to the *tevicha u'mechira* are proven *zomemim*, the result is different. The *gneivah* still stands, so the defendant pays the owner *tashlumei kefel*, and the discredited witnesses pay the defendant three (the extra component beyond *kefel* that constitutes the "four" for a sheep or "five" for an ox).
 
@@ -110,7 +110,7 @@ The *Rabbanan* hold that the testimony of *Reuven* and *Shimon* in this scenario
 
 The practical consequence, according to the *Rabbanan*, is that since *Reuven* and *Shimon's* testimony is invalid, it cannot obligate the defendant. The *zomemim* pay him two, and he pays the owner nothing beyond the *keren* — not because of any *hoda'ah* exemption, but because the testimony that would have obligated him is inadmissible.
 
-### Sumchus Position
+### Sumchus Position (II)
 
 Sumchus holds that *edut she'ei atah yachol lehazimah* is still valid testimony. He maintains that such testimony, though it cannot be subjected to *hazamah*, is not thereby disqualified. On this view, *Reuven* and *Shimon's* testimony stands, and the defendant is obligated for the full four or five. The *zomemim* pay him two, and he pays the owner the remaining three.
 
@@ -186,13 +186,13 @@ Conversely, if the owner is not *chayav b'achrayutan* — if this particular *ko
 
 ---
 
-## Shechicha Outside Beis H…
+## Shechicha Outside Mikdash
 
 ### Problem Setup
 
 Having established that in the case where a *ganav* steals a *korban* that is *chayav b'achrayutan* he must pay four-and-five, the Gemara identifies a serious difficulty. Rabbi Shimon himself holds that *shechita she'einah re'uyah lo shma shechita* — a *shechita* that does not render the animal permissible for consumption is not considered a *shechita* for the purposes of the four-and-five obligation. But if the *ganav* steals this *korban* from the owner's house and slaughters it in his backyard, outside the *Beis HaMikdash*, this is a classic case of *shchutei chutz* — slaughtering a *korban* outside the Temple — and the animal is *assur b'hana'ah*. One cannot benefit from it. How then can such a *shechita* be the basis for a four-and-five payment?
 
-### First Answer: Brought to…
+### Korban Shechinacha
 
 Rav Dimi, citing Rabbi Yochanan, provides the first answer. The case is one where the *ganav* felt remorseful and, recognizing that the animal is a *korban*, brought it to the *Beis HaMikdash* and slaughtered it there on the owner's behalf — *l'shem ba'alim*. In this setting, the *shechita* is entirely proper and the animal could be eaten. It qualifies as *shechita re'uyah*. The *ganav* has, in effect, brought the owner's *korban* on the owner's behalf — which might seem like an act of restoration rather than an act of *geneivah*. How can this be the predicate for a four-and-five payment?
 
@@ -200,11 +200,11 @@ The Gemara resolves this: *she'harei chazar keren l'ba'alim* — it would appear
 
 There is something striking in this analysis: we assess the validity of the *shechita* as of the moment it was performed — at which point it was indeed *re'uyah* — while we assess the *geneivah* character of the act retrospectively, based on the spilled blood revealing that the owner received no benefit. The two assessments are, in a sense, made at different moments in time.
 
-### Second Answer: Not For O…
+### Second Answer: Ravin
 
 Ravin, also citing Rabbi Yochanan, offers a second answer that does not require the *ganav* to be so well-intentioned. In this version, the *ganav* brings the animal to the *Beis HaMikdash* and slaughters it inside — but *shelo l'shem ba'alim*, not on the owner's behalf. He claims it as his own *korban*. The owner therefore receives no credit — the *korban* is not attributed to him — so there is no act of restoration. At the same time, the *shechita* is performed inside the *Beis HaMikdash* and the meat is fit to be eaten, either by the *kohanim* or, if it is a *shelamim*, by others as well. It is thus unambiguously a *shechita re'uyah*, and the four-and-five obligation follows. The *ganav* did not return the animal to the owner and did advance the *geneivah*, and the *shechita* was a proper one — both conditions for liability are satisfied.
 
-### Third Answer: Animal Had…
+### Third Answer: Animal Mum
 
 Reish Lakish proposes a third approach. The animal had a *mum* — a blemish — and was slaughtered outside the *Beis HaMikdash*. An animal with a *mum* cannot be brought as a *korban* in any case, and therefore slaughtering it outside the *Beis HaMikdash* does not violate the prohibition of *shchutei chutz*, which applies only to animals that could have been offered inside. Accordingly, the *ganav* has not transgressed *shchutei chutz*, and the animal is not *assur b'hana'ah* on that basis.
 

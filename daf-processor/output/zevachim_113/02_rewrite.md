@@ -48,7 +48,7 @@ This is a striking Gemara. The Torah states *tachat kol hashamayim* — under al
 
 Rav Nachman bar Yitzchak adds: *u'shneihem mikra echad darshu* — remarkably, both opinions derive from the same verse, reading it in opposite directions.
 
-### Eretz Yisrael Lo Metoharah
+### Eretz Lo Metoharah
 
 The verse in question is from *Yechezkel* (22:24): *ben adam emor lah at eretz lo metoharah hi, lo gushmah beyom zaam* — Son of man, say to her: you are a land that is not pure; you have not been rained upon on the day of wrath. Rabbi Yochanan reads the verse as a rhetorical question addressed to *Eretz Yisrael*: *Eretz Yisrael mi lo metoharah at?* — Land of Israel, are you not a *tahor* land? Of course you are! *Lo gushmah beyom zaam* — the rains of the *mabul* did not fall upon you, and therefore the people of the *mabul* did not die and get buried in your soil. The verse is thus a declaration of *Eretz Yisrael*'s purity, grounded in the fact that the flood did not reach it.
 

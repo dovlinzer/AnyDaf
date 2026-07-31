@@ -122,7 +122,7 @@ The question is whether this case is analogous to *mei geshamim*. On one level i
 
 Rabbi Yirmiyah challenged Rabbi Zeira directly: is not swamp water also collected water — effectively *mei geshamim* — and why should it be treated differently?
 
-### Bavel Swamps Inexhaustib…
+### Bavel Swamps Never Dry
 
 Rabbi Zeira responded with characteristic affection: *Yirmiyah beri* — Yirmiyah, my son — the swamps of *Bavel* are so vast and deep that they never run dry. Their water is, for all practical purposes, inexhaustible. This is precisely where the two explanations diverge. If the concern about *mei geshamim* is that this case itself will eventually require the *kilon*-like effort of drawing from a depleted source, then swamp water in *Bavel* never presents that concern — the water will never reach a level where raising it becomes laborious. If, however, the concern is purely that permitting collected water will lead people to permit *mei kilon* in other scenarios, then the infinite supply of the *Bavel* swamps is irrelevant — it remains collected water, and allowing it sets a precedent. The *gemara* concludes that the two *amora'im* who debate the reason for prohibiting *mei geshamim* disagree precisely over whether Rabbi Zeira's ruling is correct: the one who holds the concern is about this case itself becoming *mei kilon* accepts his ruling; the one who holds the concern is about leading to other *mei kilon* scenarios does not.
 

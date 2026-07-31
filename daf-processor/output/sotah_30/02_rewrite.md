@@ -30,7 +30,7 @@ The Gemara responds that if we accept Abba Shaul's position — that the *tvul y
 
 The Gemara then considers whether one might deflect this proposed inference with a *pircha*: perhaps the *tvul yom* case cannot serve as the basis for the derivation because *mah la-tvul yom she-ken av tumah* — the *tvul yom* could be an *av tumah*, a primary source of *tumah*, which is a stringency that food can never possess. Food can never be an *av tumah*, and so one cannot argue from the *tvul yom*'s *tumah* extending to a *revii* in *kodashim* to the same being true for food that is itself *tamei*. The Gemara notes that this same *pircha* would apply equally to the case of the *mechussar kippurim* — he too is a person, who could potentially be an *av tumah*.
 
-### Person-to-Object Challen…
+### Person-to-Object Tvul Yom
 
 The challenge of learning from a person to food is a recurring structural problem in this entire *sugya*. The *tvul yom* and the *mechussar kippurim* are both persons, and persons have a dimension of *tumah* — their potential to be an *av tumah* — that food simply does not share. This asymmetry means that any inference from the person's *tumah* behavior to what food does with *tumah* is potentially flawed by this *pircha*. It is worth noting that this objection could have been raised much earlier in the entire deliberation; indeed, it was, and the Gemara dealt with it by invoking a *tzad ha-shaveh* involving *keli cheres*, drawing on the *Sotah* context in which the very problematic of persons being *tamei* generating rules about objects being *tamei* is central to the tractate.
 

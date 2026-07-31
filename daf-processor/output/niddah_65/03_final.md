@@ -1,4 +1,5 @@
 # Niddah 65 — Daf Yomi Shiur
+[DAF:65a]
 
 ## No Blood First Time
 
@@ -89,6 +90,7 @@ The Gemara resolves this tension by abandoning the *bogeret* component entirely:
 
 ## Kashrering Digression
 
+[DAF:65b]
 ### Vat Cleaning
 
 > **Hebrew/Aramaic:** וּרְמִינְהִי: הֲרֵי שֶׁהָיוּ גִּתָּיו וּבֵית בַּדָּיו טְמֵאוֹת, וּבִקֵּשׁ לַעֲשׂוֹתָן בְּטָהֳרָה, כֵּיצַד הוּא עוֹשֶׂה? הַדַּפִּין וְהַלּוּלָבִין וְהָעֲדָשִׁין — מְדִיחָן,

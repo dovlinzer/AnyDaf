@@ -1,4 +1,5 @@
 # Bava Kamma 33 — Daf Yomi Shiur
+[DAF:32b]
 
 ## Reshut & Negligence
 
@@ -48,6 +49,7 @@ The *Gemara* then presents the structural contrast: according to the one who tea
 
 The *Gemara* then introduces a *braita* about a metalworker's shop: someone enters the ironworker's premises and is killed by a flying spark — and the *braita* rules *patur* even though he entered *bireshut*, with permission. This seems to flatly contradict the reading that permission triggers *galus* liability.
 
+[DAF:33a]
 ### The Apprentice
 
 > **Hebrew/Aramaic:** הָכָא בְּמַאי עָסְקִינַן – בִּשְׁוַלְיָא דְנַפָּחֵי. שְׁוַלְיָא דְנַפָּחֵי לְמִקְטְלֵאּ קָאֵי? כְּשֶׁרַבּוֹ מְסַרְהֵב בּוֹ לָצֵאת, וְאֵינוֹ יוֹצֵא.
@@ -270,6 +272,7 @@ The dispute is anchored in the reading of the verse *u-machru et ha-shor ha-chai
 
 Rava poses a question to Rav Nachman: according to Rabbi Ishmael, if Reuven — the owner of the goring ox — sells the ox before Shimon collects, what is the result? According to Rabbi Akiva, this question is easy: Reuven cannot sell what is no longer fully his; Shimon already owns a portion of the ox. But according to Rabbi Ishmael, Reuven is simply a debtor who owes money. In ordinary cases, a debtor can sell his assets and pay his creditor cash. Is that true here, or does Shimon's relationship to *this specific ox* constrain Reuven's ability to alienate it?
 
+[DAF:33b]
 ### Sale & Collection
 
 > **Hebrew/Aramaic:** וְהָתַנְיָא: מְכָרוֹ – מָכוּר! חוֹזֵר וְגוֹבֵהוּ. וְכִי מֵאַחַר שֶׁחוֹזֵר וְגוֹבֵהוּ, לָמָּה מָכוּר? לְרִידְיָא.

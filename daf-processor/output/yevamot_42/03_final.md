@@ -1,4 +1,5 @@
 # Yevamot 42 — Daf Yomi Shiur
+[DAF:42a]
 
 ## Three-Month Wait
 
@@ -50,6 +51,7 @@ Then Rabbi Yehuda — and some have the variant reading *Rabbi Yossi*, since bot
 
 Rabbi Chiya bar Abba then reports: *chazar bo Rabbi Yochanan* — Rabbi Yochanan reversed himself. He now reverts to *lo plug* and holds that the three-month wait is always required. Rav Yosef explains the reason for this reversal: *mi-misneisa d'karma hadar bei* — he reversed himself on account of the *braisa* from *Kerem B'Yavne*. As the *braisa* records, Rabbi Yishmael the son of Rabbi Yochanan ben Broka testified: I heard from the sages gathered in *Kerem B'Yavne* — the seat of rabbinic authority established after the destruction of the Temple, so called because the sages sat in rows like a vineyard — *kulam tzrichin l'hamtin shlosha chodashim*, all women, without exception, must wait three months. No distinction is made based on the possibility or impossibility of pregnancy.
 
+[DAF:42b]
 ### Stam Mishna Challenge
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבִּי יִרְמְיָה לְרַבִּי זְרִיקָא: כִּי עָיְלַתְּ לְקַמֵּיהּ דְּרַבִּי אֲבָהוּ, רְמִי לֵיהּ: מִי אָמַר רַבִּי יוֹחָנָן הֲלָכָה כְּרַבִּי יוֹסֵי? וְהָאָמַר רַבִּי יוֹחָנָן: הֲלָכָה כִּסְתַם מִשְׁנָה. וּתְנַן: כׇּל הַנָּשִׁים לֹא יִנָּשְׂאוּ וְלֹא יִתְאָרְסוּ עַד שֶׁיְּהוּ לָהֶם שְׁלֹשָׁה חֳדָשִׁים, אַחַת בְּתוּלוֹת וְאַחַת בְּעוּלוֹת!

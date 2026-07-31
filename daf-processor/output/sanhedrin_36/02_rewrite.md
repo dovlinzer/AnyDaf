@@ -1,6 +1,6 @@
 # Sanhedrin 36 — Daf Yomi Shiur
 
-## Speaking Order: Money vs…
+## Speaking Order: Money
 
 ### Intro: Monetary & Capital
 
@@ -12,7 +12,7 @@ The *Gemara* opens with a dispute about the verse *lo ta'aneh al riv*. The word 
 
 Rabbi Yosei ben Chanina reads the same defective spelling in the opposite direction: *she-lo saaneh kodem la-rav* — do not speak up before the elder, *ella le-achar ha-rav* — only afterward. On this reading, the honor afforded to the elder in monetary cases is that he speaks first, and the others follow.
 
-### Honor in Court: Mirror I…
+### Honor: Monetary vs
 
 How do we reconcile these two readings into a coherent system? The answer is that they form a mirror image. In monetary cases, the honor owed to the senior member is expressed by allowing him to speak first; the others may then speak afterward, and as *Tosafos* notes, the conversation does not simply end there. In capital cases, however, because the paramount concern is that every voice be heard independently — so that no one is inhibited from disagreeing with a more distinguished colleague — the honor is accorded differently: you are not permitted to respond after the elder has spoken, and therefore the junior members must speak first. The elder, by speaking last, is in fact given a position of greater weight, while simultaneously the system ensures that all other opinions are aired without the chilling effect of deference.
 
@@ -20,7 +20,7 @@ How do we reconcile these two readings into a coherent system? The answer is tha
 
 The *Gemara* then cites Rav Abba: *lo ta'aneh afilu achar me'ah* — you may not violate this rule even after a hundred people have already done so. The *Radvaz* explains this most precisely. Imagine that in a monetary case, where the elder should have spoken first, a hundred people have already jumped in and spoken before him. One might reason: I am not actually speaking before the elder — he has already been bypassed by everyone else — so my speaking now hardly adds to the problem. Or consider the reverse in capital cases: the elder spoke first as he should not have, and everyone has already responded in violation of the rule. One might say: at this point I am not responding directly to the elder; I am merely reacting to what the last speaker said. Both rationalizations are rejected. Every person who continues to contribute to the violation — whether by speaking before the elder when they should not, or by responding after the elder when they should not — is responsible for their own infraction, regardless of how many have transgressed before them. The message is that one cannot exempt oneself simply because others have already created the problem.
 
-### Dineinu v. Dineihem Deba…
+### Dineinu v. Dineihem
 
 Rav Chilkiah in the name of Rabbi Simon reports a dispute between Rabbi Yochanan and Resh Lakish: *dineinu ke-dineihem* — are our procedural rules about the order of speaking comparable to the practices of non-Jewish courts — or not? The one who says they are comparable has no difficulty. But the one who says our rules are distinctly our own must contend with scriptural evidence suggesting that this practice was in fact universal.
 
@@ -38,13 +38,13 @@ Finally, Rav Teima bar Pappayas in the name of Rav Hoshaiah rules: *af be-psul m
 
 ---
 
-## Monetary Cases: Who Qual…
+## Monetary Cases: Mamzerin
 
 ### Hakol Kasherim Principle
 
 The *mishnah* states *hakol kesherim ladun dinei mamonos* — everyone is eligible to judge monetary cases. The *Gemara* then explores who precisely this includes, beginning with the teaching of Rabbi Yehuda.
 
-### Rav Yehuda: Mamzerim & W…
+### Rav Yehuda: Mamzerim Wine
 
 Two statements of Rabbi Yehuda are placed together. First, even *mamzerim* are eligible to sit in monetary judgment. Second, *ein medakdekin be-yayin nesech* — one is not excessively strict in cases involving *yayin nesech*. The connection between these two statements is not immediately apparent and may simply represent two independent rulings of Rabbi Yehuda that have been compiled together. The *rishonim* explain the *yayin nesech* ruling to mean not that one is careless, but that in borderline situations — for example, where a non-Jew touches wine in a manner that is entirely incidental and contextually insignificant — one need not apply the strictest possible reading. One might also observe, intriguingly, that wine is shortly to be used as a metaphor for the *Sanhedrin* itself, and so there may be an implicit suggestion here that in certain *batei din* contexts one is not maximally restrictive about who may participate.
 
@@ -56,7 +56,7 @@ The verse *lo tateh mishpat evyoncha be-rivo* — do not pervert the judgment of
 
 Rabbi Abbahu in the name of Rabbi Yochanan clarifies: *u-milvad devarim she-bein dinei mamonos le-dinei nefashos* — beyond the one point of distinction that applies to *shor haniskal*, namely the requirement of 23 judges. That is the single borrowing from *dinei nefashos*: we treat the ox as we would treat a person for purposes of the formal *beit din* of 23, because there is a verse that compares the procedure. But every other distinction that exists between capital and monetary cases — the majority required, the order of deliberation, whether judgment may be completed in a single day — does not apply. In fact, the logic runs in reverse: rather than protecting the *shor haniskal* from a guilty verdict, we arguably want to ensure that a dangerous animal is indeed removed from our midst.
 
-### Nine vs. Eleven Differen…
+### Monetary vs Capital Cases
 
 The *Gemara* asks: *kama inun* — how many differences are there between *dinei mamonos* and *dinei nefashos* as listed in the *mishnah*? *Anan taninan tish'a* — our *mishnah* lists nine. But Rabbi Chiya teaches eleven.
 
@@ -74,13 +74,13 @@ Tracking the count toward thirteen: the *saris* and the childless man are two, t
 
 ---
 
-## Rav's Case & Rabbi's Mod…
+## Rav's Case & Rabbi's Mod
 
 ### Rav in Rabbi's Court
 
 We now turn to the *Bavli*, picking up on daf 36 at roughly the midpoint of the page, directly paralleling what we have seen in the *Yerushalmi*. The *Gemara* introduces a personal anecdote: Rav says, *ana havina be-minyana de-vei Rabbi* — I was present in a vote in Rabbi's *beit din*, in a particular matter involving a *sikrikon* ruling in the area of *Gittin*, which was treated as a monetary case. Despite this being a monetary case — where the elder should speak first — they began with Rav: *u-minai didi havu maschali be-reisha*. Yet the *mishnah* explicitly states that in monetary cases one begins with the greatest. How do we account for this?
 
-### Rav Papa: Rabbi's Humili…
+### Rav Papa: Rabbi's
 
 Rav Papa bar Rav Avya — or, as the *Gemara* offers as an alternative attribution, Rav Hillel bar Rabbi Valles — explains: *shani minyana de-Rabbi* — the proceedings of Rabbi's court were different — *de-kulhu mi-menai u-me-hatzad havu maschali* — because Rabbi, in his extraordinary *anavah*, his humility, did not assert his prerogative to speak first even in a monetary case where that honor was rightfully his. He voluntarily yielded his right to the others.
 
@@ -100,7 +100,7 @@ What about David? *Havai Ira HaYairi*, who is viewed in the rabbinic tradition a
 
 What about Chizkiah? *Havai Shevna*, a great Torah authority — who was subsequently killed. Same analysis applies. What about Ezra? *Havai Nechemiah ben Chakalyah*, again a competing political and Torah figure.
 
-### Adda Bar Ahava: Rabbi to…
+### Adda bar Ahava: Rabbi-Rav
 
 Adda bar Ahava then offers a parallel observation: *mi-yemot Rabbi ve-ad Rav Ashi lo matzinu Torah u-gedulah be-makom echad* — from the time of Rabbi until Rav Ashi, we do not find Torah greatness and political greatness combined in one person. Rav Ashi himself apparently held both. The *Gemara* challenges: was there not Huna bar Natan, who was very close to the royal court and thus wielded political influence? As *Tosafos* notes, Huna bar Natan had significant proximity to power. The *Gemara* responds: *Huna bar Natan mikaf hava kayaf le-Rav Ashi* — he submitted to and deferred to the authority of Rav Ashi. He was therefore not the supreme authority in the Torah domain; that remained with Rav Ashi exclusively.
 
@@ -124,7 +124,7 @@ This immediately raises a question: does the same prohibition apply in monetary 
 
 The *Yerushalmi* offers a cleaner resolution. On its reading, *lo ta'aneh* does not mean "do not respond after the elder"; it means "do not speak up before the elder" — that is, afford him the honor of speaking first, and thereafter others may freely offer their opinions. This interpretation preserves the full integrity of monetary-case deliberation without any chilling effect on subsequent speakers.
 
-### Mirror: Respect Mechanis…
+### Mirror: Speaking Order
 
 The mirror image is then fully explained. In monetary cases, the elder speaks first — that is the honor afforded to him — and the junior members may respond and share their views freely thereafter. In capital cases, the concern for the accused's innocence demands that even after the elder speaks, no one feel inhibited from disagreeing. The way the system ensures this is by having the elder speak last. And the way the elder's honor is maintained is through the rule that one may not respond once he has spoken — his word carries finality. By speaking last and having his word stand, the elder retains his dignity, while the process of reaching that point has been an entirely open deliberation. The two systems are thus symmetrical expressions of the same underlying respect for both honor and justice.
 
@@ -132,7 +132,7 @@ The mirror image is then fully explained. In monetary cases, the elder speaks fi
 
 ## Teacher-Student Voting
 
-### Rabbah: Student Negates…
+### Rabbah: Student Negates
 
 The *Gemara* cites Rabbah bar bar Chana in the name of Rabbi Yochanan, deriving from the same verse about David and his men girding their swords — understood as a metaphor for deliberation before the judgment of Naval — that *shoneh adam le-talmido ve-dan imo be-dinei nefashos*: a person may teach his student and the student may then count as a distinct vote alongside his teacher in a capital case. Rashi explains this explicitly as meaning the student is counted as a separate vote. This is in itself a striking statement, because ordinarily one cannot simply add a person to the *Sanhedrin* ad hoc; the student would have to be a duly constituted member. But beyond the question of how the student gets to vote at all, the *Gemara*'s focus is on a different and more subtle question: why does the student's vote count as a *separate* vote, and not merely as a second expression of his teacher's view?
 
@@ -158,7 +158,7 @@ This point has interesting resonances beyond the specific *Sanhedrin* context. I
 
 ---
 
-## 10 Differences: Mamo (II)
+## 10 Differences: Mamonos
 
 ### Abbahu: Ten Differences
 
@@ -168,7 +168,7 @@ Rabbi Abbahu states: there are ten differences between *dinei mamonos* and *dine
 
 The *Gemara* immediately challenges Rabbi Abbahu: *ha tish'a havyan* — there are only nine in our *mishnah*, not ten. This is a striking moment because the *Yerushalmi* similarly counted nine.
 
-### Resolution: Criteria Uni…
+### Resolution: Unified
 
 The *Gemara* then responds with an equally pointed counter-challenge: *ha asara havyan* — there are actually ten! The dispute is about how to count. The *Gemara* resolves it by explaining: *mishum de-ein hakol kesherin le-esrim u-shelosha khada hi* — the criterion of who may judge and the requirement of 23 are a single unified point, not two separate distinctions. Once you establish that this is a *Sanhedrin* of 23, the eligibility requirements for who may serve on it are implicitly determined. They are two sides of the same coin, and so they count as one difference, not two. Once we recalibrate and treat that as nine, Rabbi Abbahu's claim of ten requires identification of a tenth difference.
 
@@ -182,7 +182,7 @@ Rav Yehuda adds that the cruel — *achzarim* — are also excluded from the *Sa
 
 ---
 
-## Money: Mamzer & Ger Incl…
+## Money: Mamzer & Ger
 
 ### Hakol Kasherim Scope
 

@@ -10,7 +10,7 @@ The *daf* opens with a striking account of Resh Lakish engaged in the practice o
 
 A *bat kol* responded: *Torah kamoto pilpalta* — yes, in your analytical prowess and depth of understanding, you were his equal. But *Torah kamoto lo ravatzta* — you did not spread *Torah* as he did. This response draws us back to a theme that will recur throughout the *daf*: the distinction between intellectual greatness and *ma'asim tovim* — the actual work of disseminating *Torah* throughout *Klal Yisrael*.
 
-### R. Chanina & R. Chiya De…
+### R. Chanina & R. Chiya
 
 This tension is given its sharpest expression in the dispute between Rabbi Chanina and Rabbi Chiya. When they would argue, Rabbi Chanina would say to Rabbi Chiya: *bahadi didi menatzat*? You think you can contend with me? *Chas v'shalom* if *Torah* were ever forgotten from the Jewish people, *mehadreina lah mipilpuli* — I would be able to restore it through my great analytical ability, deriving everything from first principles. Rabbi Chiya responded: and you think *you* can contend with *me*? For *d'avdi l'Torah d'lo tishtakach m'Yisrael* — I have already acted to ensure it will never be forgotten in the first place. And what exactly did he do?
 

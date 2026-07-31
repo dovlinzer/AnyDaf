@@ -58,7 +58,7 @@ Rava ruled that the wine could be sold to non-Jews — implying that while it ma
 
 Subsequently, Rav Huna son of Rav Nachman came to *Mechuza*, which was Rava's city. Rava — who had studied under Rav Huna — went to speak with him privately. Tosafos reads the instruction to close the door differently from Rashi: rather than an attempt to keep Rav Huna out (which Tosafos finds both grammatically strained and uncharacteristic of Rava, who was known to concede when corrected), Tosafos reads it as Rava seeking private time with his teacher, away from disturbance. Rava then asked Rav Huna: given that the non-Jew acted in anger, with no intent toward *nisuch*, did you not teach me that such a case does not produce *yayin nesech*?
 
-### Clarification: Subtracti…
+### Rav Huna: Mixing Wine
 
 Rav Huna clarified that Rava had misunderstood him. When Rav Huna had said the wine could be sold, he meant something precise: *eimar de'amri ana lebar midmei* — I meant that you subtract the value of the forbidden wine and sell the remainder. In the specific scenario where the non-Jew's touch affected a small quantity of wine that was then mixed into a larger barrel, the forbidden portion does not render the entire barrel forbidden in *hana'ah*. You may sell the full barrel but must not charge for the portion that was forbidden — that amount is deducted from the price. What Rav Huna never said was that the touched wine itself was permissible. It remains *assur behana'ah*; you simply are not required to discard the entire barrel on account of it.
 
@@ -110,7 +110,7 @@ The foregoing discussion generates a coherent four-category matrix. The first ca
 
 The second category is direct touch without intent to touch wine — the non-Jew made physical contact with the wine but did not know it was wine (believing it to be oil, as in the *braita*'s case). This produces a lesser prohibition: *assur beshtiya* — the wine is forbidden for drinking but permissible in benefit. It may be sold.
 
-### Indirect + No Intent
+### Indirect + No Intent (II)
 
 The third category is indirect touch without intent to touch wine — the non-Jew's contact was mediated through an implement or pour, and he did not know the substance was wine. This is entirely permissible, even for drinking. This is the case resolved by the Gemara in the pouring incident and the theoretical case underlying the palm branch story as reread by Tosafos.
 

@@ -1,4 +1,5 @@
 # Niddah 21 — Daf Yomi Shiur
+[DAF:20b]
 
 ## Yalta & Override
 
@@ -160,6 +161,7 @@ One might ask why indirect sunlight is superior to direct sunlight, given that t
 
 ## Wine color standards
 
+[DAF:21a]
 ### Sharon wine ratio
 
 > **Hebrew/Aramaic:** הַשָּׁרוֹנִי נִידּוֹן כַּכַּרְמְלִי, חַי וְלֹא מָזוּג, חָדָשׁ וְלֹא יָשָׁן.
@@ -354,6 +356,7 @@ The baseline ruling: *harei zu safek leida safek ziva* — she is of uncertain s
 
 ## Opening chunk debate
 
+[DAF:21b]
 ### Sumachus view
 
 > **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הַמַּפֶּלֶת חֲתִיכָה, סוֹמְכוֹס אוֹמֵר מִשּׁוּם רַבִּי מֵאִיר, וְכֵן הָיָה רַבִּי שִׁמְעוֹן בֶּן מְנַסְיָא אוֹמֵר כִּדְבָרָיו: קוֹרְעָהּ, אִם יֵשׁ דָּם בְּתוֹכָהּ — טְמֵאָה, וְאִם לָאו — טְהוֹרָה.

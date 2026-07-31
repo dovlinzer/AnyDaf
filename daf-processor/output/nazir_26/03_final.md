@@ -1,7 +1,9 @@
 # Nazir 26 — Daf Yomi Shiur
+[DAF:26a]
 
 ## Maot Stumot Rule
 
+[DAF:26b]
 ### Intro: Money to Olah
 
 > **Hebrew/Aramaic:** אָמַר רַב הוּנָא אָמַר רַב: לֹא שָׁנוּ אֶלָּא מָעוֹת, אֲבָל בְּהֵמָה — הֲרֵי הִיא כִּמְפוֹרֶשֶׁת.

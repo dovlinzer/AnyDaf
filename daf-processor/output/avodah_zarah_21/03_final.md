@@ -1,4 +1,5 @@
 # Avodah Zarah 21 — Daf Yomi Shiur
+[DAF:21a]
 
 ## Sale/Rental Restrictions
 
@@ -120,6 +121,7 @@ The *gemara* raises a practical concern: what if a Jew sells to one non-Jew, and
 
 Even in places where renting is permitted — whether to Rabbi Yossi's leniency allowing rental in *Eretz Yisrael* itself, or Rabbi Meir's allowance in *Surya*, or the broader permissions in *chutz la'aretz* — the *mishna* qualifies: The permission to rent does not extend to renting as a domicile. One may rent for a storehouse or other non-residential purpose, but not as a place of actual dwelling. The reason: because the non-Jew will bring his idols into the home. The verse invoked is do not bring an abomination into your house. Since a rented property is still halakhically considered the owner's house — as the *gemara* demonstrated earlier in the tractate when discussing the rental of animals on *Shabbat* — the non-Jew's worship within it constitutes a violation of this verse.
 
+[DAF:21b]
 ### Bathhouse Ban
 
 > **Hebrew/Aramaic:** וּבְכׇל מָקוֹם לֹא יַשְׂכִּיר לוֹ אֶת הַמֶּרְחָץ, מִפְּנֵי שֶׁהוּא נִקְרָא עַל שְׁמוֹ.

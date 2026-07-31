@@ -1,6 +1,6 @@
 # Menachot 70 — Daf Yomi Shiur
 
-## Stalk Uprooted & Replant…
+## Stalk Uprooted & Replant
 
 ### R. Shimon ben Pazi's Case
 
@@ -28,7 +28,7 @@ A parallel ruling, cited by Rav Shmuel bar Nachmani in the name of Rabbi Yonatan
 
 The *Gemara* proposes drawing the inverse inference for the replanted stalk: just as a forbidden *ikar* renders forbidden even a massive addition of *heter*, so too a permitted *ikar* should render permitted even a significant addition of *chadash*.
 
-### Foundation Principle Lim…
+### Foundation Principle
 
 The *Gemara* deflects this reasoning. *Hi gufah ka-miba'ya lei* — that very case was precisely the question Rabbi Shimon ben Pazi was asking. He wanted to know whether one could learn from the *orlah* and *kilayim* rulings. The *Gemara* then articulates two possible readings of those earlier rulings: either it is perfectly clear to the Rabbis that one always goes *batar ikar* regardless of whether that yields stringency or leniency — *lo shenah le-kula ve-lo shenah le-chumra* — and the inference to our case is straightforward; or perhaps the Rabbis actually had a doubt about the *ikar* principle and adopted it only in cases where it produced a stringency, *le-chumra*, but would not apply it to produce a leniency, *le-kula*. The question remains unresolved — *teiku*.
 
@@ -100,7 +100,7 @@ The *Gemara* understands this to mean not merely where the egg was at the moment
 
 A question naturally arises — one that students raise: how does one eat half of an egg while it is inside a bird? One answer suggested by the *Gemara*'s framing is that you ate the whole egg, but halachically we only attribute to you the eating of the half that was inside at the relevant moment. The *shiur* for *tum'ah* purposes counts only that portion. The *Gemara* then asks why eating the inside portion while it is still within the bird is considered a normal act of eating at all. Who eats an egg while it is still inside a chicken? Should that not also be classified as *batla da'ato etzel kol adam* — an act so bizarre as to be disqualified from the category of *achilah*?
 
-### Attached Objects Not Eat…
+### Attached Objects: Eating
 
 The *Gemara* draws the distinction: when an object is *talush* — fully detached, like an egg that has come out of the bird — *avid inish de-achli hachi*, people can and do eat such things in various ways, even unconventional ones. The egg is a normal food object in a normal state, and how you choose to consume it does not redefine the act. But *mechubar la-karka* — or here, something still physically connected to and enclosed within a living body — *lav avid inish de-achli* — no person normally eats things in that manner. The attachment itself redefines the act, not merely the quirky posture of the eater. This is the conceptual key: it is the state of the *object* — being attached — that renders the act of eating categorically abnormal, whereas eccentricities in the manner of eating a detached, normal object do not undermine the act's status as *achilah*.
 

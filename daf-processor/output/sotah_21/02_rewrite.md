@@ -1,6 +1,6 @@
 # Sotah 21 — Daf Yomi Shiur
 
-## Merit Forestall Puni (II)
+## Merit Forestall Punish
 
 ### Merit Three Years
 
@@ -72,7 +72,7 @@ The contrast with the *sotah* herself is also worth observing. The *sotah* was w
 
 ## Merit Forestall Puni (II)
 
-### Crossroads Interpretatio…
+### Crossroads: 3 Views
 
 The *gemara* now returns to the unresolved element of the parable — the *parshas drachim*, the crossroads where the traveler is finally saved from everything and knows which path to take. *Mai parshas drachim?* Three *amoraim* offer interpretations, and taken together they form a suggestive continuum.
 

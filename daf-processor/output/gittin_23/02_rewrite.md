@@ -1,6 +1,6 @@
 # Gittin 23 — Daf Yomi Shiur
 
-## Eliezer vs. Meir: Get De…
+## Eliezer vs. Meir: Get
 
 ### Get Nature Intro
 
@@ -70,7 +70,7 @@ The *mishna* continues: *ha'isha kotevet et gitah veha'ish kotev et shovro* — 
 
 The *mishna* closes: *she'ein kiyum haget ela b'chotamav* — the validation of the *get* rests exclusively on its signatures. This is the operative principle. Writing without signatures is nothing — it is equivalent to printing a document without authorization. It becomes a *get* only when witnesses sign it, and witnesses will not sign unless the act is genuinely occurring.
 
-### Misrepresentation Preven…
+### Witness Signatures
 
 This is why there is no concern about misrepresentation. A woman cannot falsely claim she received a *get* by writing the text herself, because without proper signatures the document has no standing whatsoever. Similarly, a man cannot fabricate a receipt for the *ketuba* by writing it himself; the witnesses must sign, and they will only sign if the *ketuba* was actually paid. The entire structure of protection against fraud is built into the requirement of witness signatures, not into any restriction on who may write the text.
 
@@ -156,7 +156,7 @@ How then does one account for the *braita* that explicitly says *oved kochavim p
 
 ---
 
-## Final Position: Rabbi Me…
+## Final Position: Rabbi Me
 
 ### Braiata Problem
 
@@ -230,7 +230,7 @@ This reading is confirmed by the tradition in the name of Rabbi Yochanan, transm
 
 ## Next Mishna: Bringing Get
 
-### Hakol Kosherim
+### Hakol Kosherim (II)
 
 The next *mishna* shifts from writing to delivery: *hakol kesherim l'havi et haget chutz m'cheresh shoteh vekatan* — everyone is eligible to bring a *get*, meaning to serve as a *shaliach* for its delivery, except for a *cheresh*, *shoteh*, and *katan*. Here, unlike the previous *mishna*, we are dealing explicitly with *shlichut* — the formal appointment of an agent — and the exclusions reflect the requirements of agency.
 

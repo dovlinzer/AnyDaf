@@ -1,12 +1,12 @@
 # Sanhedrin 40 — Daf Yomi Shiur
 
-## Intro: Witness Inte (III)rroga…
+## Witness Interrogation
 
 ### Transition & Topic Intro
 
 The fifth *perek*, *Hayu Bodkin*, opens at the top of Sanhedrin 40a with the *mishnah*. Having dealt in the previous *perek* with the early stages of the court process — accepting witnesses and the general framework of capital proceedings — the *mishnah* here addresses specifically the rules governing the *chakiros* and *drishot*, or *bedikos*: the different types of questions the court must put to witnesses. Some of these questions are mandatory; others are discretionary. Some are sufficiently precise that if the witnesses err in answering them, the entire testimony is disqualified; others leave room for ignorance or even contradiction without invalidating the testimony. Crucially, this framework of *drisha ve-chakira* applies only to *dinei nefashot* — capital cases. As established in the first *perek*, the Rabbis did not apply this regime to *dinei mamonos*, civil suits, not because it would not be required by Torah law but because the rigors of the process would make it impractical for people to resolve monetary disputes. The economic cost of making litigation too cumbersome was a serious concern the Rabbis sought to avoid.
 
-## Seven Chakiros: Tim (III)e/Pla…
+## Seven Chakiros: Time
 
 ### Seven Questions Listed
 
@@ -16,25 +16,25 @@ The *mishnah* states: *hayu bodkin otan be-sheva chakirot* — the judges would 
 
 *Rabbi Yose omer be-eizo yom be-eizo sha'ah be-eizo makom* — Rabbi Yosi holds that only three *chakiros* are required: which day of the week, at what hour, and in what place. His position stands in direct contrast to the majority view of seven, and the question of what drives this disagreement will become central to the *gemara*'s later analysis of the biblical sources.
 
-### Act Details: Idol & Meth…
+### Act Details: Idol Method
 
 The *mishnah* continues with a set of questions that the *Rambam*, in his *Perush ha-Mishnayos*, regards as even more fundamental than the *chakiros* proper — so fundamental, in fact, that without them there is no testimony at all, since they go to the very content of the act being testified about. These are: *makirin atem oto* — do you, the witnesses, recognize him? This includes whether they could identify the defendant as a Jew, since Jewish identity bears on culpability. *Hitartem bo* — did you administer a warning (*hatra'ah*) about the consequences of the act? In *dinei nefashot* the witnesses must have warned the person that the specific act he was about to perform carries a death penalty. In the *mishnah*'s context of idolatry, they would have had to say explicitly: if you worship this idol you will be liable to *skila*.
 
 Beyond these preliminary questions, if the case involves *avodah zarah*, the court asks *et mi avad* — which idol did he worship? — and *u-ve-mah avad* — by what mode of worship? This second question matters because *avodah zarah* has two distinct tracks of culpability. First, four categories of worship — sacrifice, libation, incense-offering, and prostration — are forbidden regardless of what the idol's normal mode of worship is, because these replicate the modes of divine service. Second, if an idol has a characteristic mode of worship native to it, performing that mode is likewise prohibited. The *gemara*'s classic example is *Markulis*, likely the Roman god Mercury, worshipped by throwing or placing stones at the idol's location or at crossroads. Even one who throws a stone at *Markulis* sarcastically, intending it as an act of contempt, has nonetheless performed its characteristic form of worship and is culpable. The question *bameh avad* therefore needs to establish which of these tracks applies.
 
-## Intro: Witness Inte (III)rro…
+## Intro: Witness Inter (II)
 
 ### Purpose: Hazimah
 
 *Rashi* makes a point of emphasizing the fundamental purpose of the *chakiros*: they exist specifically in order to create testimony that is *edut sheyachol lehazimah* — testimony susceptible to being exposed as conspiratorial. The mechanism of *hazimah*, the disqualification of *eidim zomemim*, which we will reach in the first *perek* of *Masechet Makkos*, works by a counterclaim of *imanu hayitem* — "you, the witnesses, were with us elsewhere at the very time you claim to have witnessed the crime." For such a counterclaim to be possible, the testimony must be anchored to a specific time and place. Without those coordinates, there is no basis for *hazimah*. *Rashi*'s point is therefore that the *chakiros* are not merely procedural safeguards but are constitutive of valid testimony in capital cases: the time and place of the event are not themselves elements of the *aveira* but are essential to the testimonial quality that allows the judicial process to function with integrity.
 
-## Seven Chakiros: Tim (III)e/P…
+## Seven Chakiros: Time (II)
 
 ### Bdikot Example
 
 The *mishnah* continues: *kol hamarbeh bivdikot harei zeh meshubach* — one who multiplies *bedikot* questions is praiseworthy. The *bedikot* are the discretionary questions, left to the court's judgment, and an illustrative case is cited: *maaseh uvadak Ben Zakkai be'uktzei te'einim* — there was an incident in which Rabbi Yochanan Ben Zakkai examined witnesses about the fig stems at the site of a murder committed under a fig tree. Different varieties of figs have stems of different thicknesses, and Ben Zakkai asked the witnesses to describe them. This *bdikah* was designed to verify whether two witnesses were truly describing the same tree and the same scene. Naturally, each witness was examined separately — the entire system of interrogation requires the witnesses to be questioned apart from one another so that they cannot coordinate answers — and if one described thick stems while the other described thin ones, their accounts would be revealed as incompatible, exposing the inconsistency in their testimony.
 
-## Intro: Witness Inte (III)rro…
+## Intro: Witness Inte (III)
 
 ### Chakiros vs. Bdikot
 
@@ -42,7 +42,7 @@ The *mishnah* continues: *kol hamarbeh bivdikot harei zeh meshubach* — one who
 
 For *bedikot*, by contrast, *afilu shenayim omrim ein anu yode'im edutan kayemet* — even if both witnesses say they do not know, the testimony stands. *Bdikot* are designed to catch witnesses in a contradiction, not to affirm the factual foundation of the testimony. So if one witness says the stems were thick and the other says he was not paying attention to the stems at all, that is perfectly acceptable — there is no contradiction and no deficiency in the core testimony. The *mishnah* then adds that both *chakiros* and *bedikot* share one rule: *bizman shemachchishim ze et ze edutan beteilah* — if the witnesses contradict one another, the testimony falls regardless of which type of question produced the contradiction.
 
-## Seven Chakiros: Tim (III)e/P…
+## Seven Chakiros: Tim (III)
 
 ### Month/Day Errors
 
@@ -60,7 +60,7 @@ For *bedikot*, by contrast, *afilu shenayim omrim ein anu yode'im edutan kayemet
 
 *Echad omer bachamesh ve-echad omer besheva* — one says the fifth hour and the other says the seventh: *edutan beteilah*, even according to Rabbi Yehuda, because *shebachamesh chama bamizrach u-vesheva chama bama'arav* — in the fifth hour the sun is in the east, while by the seventh hour it has already crossed to the western half of the sky. No reasonable person could mistake one for the other, since the sun's position has shifted unmistakably from one side to the other. This marks the outer limit beyond which even Rabbi Yehuda concedes the discrepancy is fatal to the testimony.
 
-## Post-Interrogation P (II)
+## Witness Interrogation
 
 ### Acquittal Presumption
 
@@ -92,7 +92,7 @@ A judge who previously said guilty may now have been persuaded to say innocent �
 
 This creates a striking catch-22. If on the first day the entire court unanimously found the defendant guilty, and the following day some judges switch to innocent, that switch — although formally permitted — would actually move the verdict from the status of non-execution (since a unanimous guilty verdict results in acquittal) to possible execution. The precise *psak* in such a case is genuinely unclear.
 
-## Voting & Court Expan (II)
+## Voting & Court Expansion
 
 ### No Unanimous Guilt
 

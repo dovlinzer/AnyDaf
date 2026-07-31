@@ -10,7 +10,7 @@ The *daf* opens by continuing a discussion that began at the bottom of 5b: can n
 
 The story from *Ezra-Nechemia* is the textual anchor for this entire discussion. When the rebuilding of the Second *Beit HaMikdash* began, those who sought to contribute from outside the Jewish community were rebuffed. The concern was not merely theological abstraction — it was the vulnerability of the enterprise itself. The text describes the surrounding peoples working to weaken the hands of those who were building. In that charged climate, accepting outside contributions risked importing with them outside interests, outside influence, and ultimately outside ownership of what was meant to be an exclusively Jewish national undertaking. The *Gemara* will ultimately need to grapple with how much general policy can be derived from this singular historical episode.
 
-### R. Yehuda: Erech Valid,…
+### R. Yehuda: Erech, Money
 
 The *Gemara* asks: since *Rabbi Yehuda* holds that a non-Jew can be *maarich* — can give an *erech* that takes effect — what does he do with the verse from *Ezra-Nechemia* that seems to prohibit accepting non-Jewish contributions to the *Beit HaMikdash*? The answer given is that of *Rav Chisda* in the name of *Rav Avimi*: *ve'erko nignaz* — even *Rabbi Yehuda* would agree that as a matter of policy the contribution should not be accepted. Nevertheless, if a non-Jew does set aside the money for an *erech*, the money becomes sanctified. The question then becomes: what does one do with it? The answer: it must be buried.
 
@@ -30,7 +30,7 @@ If the *erech* money of a non-Jew is destined for burial, the same should apply.
 
 With this, *Tosafot*'s observation becomes all the more pointed: even the opinion that does derive some policy from the *Ezra* story applies that policy narrowly — only to *erchin*, not to *nedarim*. The *Mishnah* is explicit that non-Jews may give a *neder*. So if one presses the question of what precisely distinguishes *erchin*, *Tosafot*'s answer is essentially that there is nothing uniquely disqualifying about *erchin* — but given that there are grounds for some concern, if any limitation is to be drawn, this is where it lands. That said, the simple reading of the *Gemara* we have just concluded, along with what follows at the top of 6a, suggests that the policy implications extend more broadly than *erchin* alone.
 
-## Contributions: Beginning…
+## Non-Jewish Contributions
 
 ### Two Baraitot on Neder
 

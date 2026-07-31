@@ -1,4 +1,5 @@
 # Nedarim 51 — Daf Yomi Shiur
+[DAF:51a]
 
 ## Rabbi's Wedding & Bar Kappara
 
@@ -146,6 +147,7 @@ Accordingly, when someone says *yored la-tanur*, what goes into the oven, the na
 
 ## Pickled & Prepared Foods
 
+[DAF:51b]
 ### Kavush & Shaluk
 
 > **Hebrew/Aramaic:** מַתְנִי׳ ״מִן הַכָּבוּשׁ״ — אֵין אָסוּר אֶלָּא מִן הַכָּבוּשׁ שֶׁל יָרָק. ״כָּבוּשׁ שֶׁאֲנִי טוֹעֵם״ — אָסוּר בְּכׇל הַכְּבוּשִׁים. ״מִן הַשָּׁלוּק״ — אֵינוֹ אָסוּר אֶלָּא מִן הַשָּׁלוּק שֶׁל בָּשָׂר. ״שָׁלוּק שֶׁאֲנִי טוֹעֵם״ — אָסוּר בְּכׇל הַשְּׁלוּקִים.

@@ -1,4 +1,5 @@
 # Gittin 90 — Daf Yomi Shiur
+[DAF:89b]
 
 ## Kol: Substantiation
 
@@ -123,6 +124,7 @@ Rav Papa holds that even in this case of two competing rumors, she remains const
 
 Ashmeimar disagrees: *muteres li-shneihem* — she is permitted in relation to both. When both marriages are based purely on rumors and neither is established by evidence, we cannot treat either *kol* as so definitive that we become worried about the appearance of *machzir grushaso*. Since it is enough for only one of the rumors to have been false in order for her to remain with Reuven without any taint of a prohibited remarriage, we do not impose that constraint here. Both competing *kolot* weaken each other, and the strict perception-management that drove Rav Huna's concern is simply inapplicable when everything is rumor.
 
+[DAF:90a]
 ### Halacha Ruling
 
 > **Hebrew/Aramaic:** וְהִלְכְתָא: מוּתֶּרֶת לִשְׁנֵיהֶם.
@@ -259,6 +261,7 @@ The third type: there is a person into whose stew a fly falls, who wrings out ev
 
 The *baraita* now enumerates the categories of women's public conduct that fall under the rubric of *ervat davar* in its broader sense — not necessarily adultery, but behavior that constitutes *dat Yehudit*, the norms of modest Jewish conduct within marriage. These include: going out with her hair uncovered, spinning in the marketplace in a manner that exposes her arms, and wearing clothing that is open at the sides.
 
+[DAF:90b]
 ### Public Bathing
 
 > **Hebrew/Aramaic:** ״עִם בְּנֵי אָדָם״ סָלְקָא דַּעְתָּךְ?! אֶלָּא בִּמְקוֹם שֶׁבְּנֵי אָדָם רוֹחֲצִין.

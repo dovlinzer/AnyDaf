@@ -1,4 +1,5 @@
 # Hullin 91 — Daf Yomi Shiur
+[DAF:91a]
 
 ## Gid Hanasheh: Both or On…
 
@@ -250,6 +251,7 @@ This is worth pausing over, because there is a conventional reading of the verse
 
 Rabbi Abba bar Kahana derives from the same episode — Jacob left alone as the angel arrived — that a Torah sage should not go out alone at night. *Tosafot* notes that there is also the concern of *mazikim*, harmful spiritual forces that attack Torah sages in particular; in any event, night carries greater danger, whether from people or from supernatural forces, and the angel's insistence on leaving at daybreak is itself a sign that the night domain operates differently. Three additional proof-texts are adduced: Naomi knew Boaz would remain in the field overnight rather than walk home alone; Abraham rose early in the morning before setting out; Jacob's brothers were sent to check on the flocks during daylight; and the verse the sun shone upon him — tells us that the fight with the angel only ended at sunrise, meaning the entire episode was a nighttime event.
 
+[DAF:91b]
 ### Folded Geography
 
 > **Hebrew/Aramaic:** ״הִנֵּה הוּא זֹרֶה אֶת גֹּרֶן הַשְּׂעֹרִים״.

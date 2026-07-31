@@ -72,11 +72,11 @@ The *gemara* provides the *midrash* of Yehoyada HaKohen: *asham hu asham asham l
 
 In the face of this challenge, Rabbi Yehuda apparently fell silent and retracted his position. Rav Nachman accordingly needs a different reading of *olat ha-hekdesh*.
 
-### Bedek Habayis Sanctifica…
+### Abba & Yannai: Olah+Bedek
 
 Rabbi Abba in the name of Rabbi Yannai offers a distinct case. *Prat l'matfis olah l'vedek ha-bayis* — the exclusion applies to a case where someone sanctified an animal as an *olah* and then, on top of that, additionally sanctified it as a gift to the Temple treasury (*bedek ha-bayis*). This seems paradoxical: if the animal is already an *olah*, what remains to give to the temple treasury? Everything is going onto the *mizbeiach*. Is the second sanctification even meaningful? The *gemara* explains that the standard practice is to redeem the animal before it is slaughtered — the person would pay the animal's value to the *Beis HaMikdash*, and the animal would then proceed to be offered as an *olah*. But the question is whether, biblically, the second sanctification accomplished anything at all.
 
-### Skin Ownership After Red…
+### Skin Ownership Bedek
 
 The *gemara* now analyzes the skin's status with particular care. There are two positions regarding whether *kodshei vedek ha-bayis* — the sanctification for the Temple treasury — takes halachic effect when the animal was already an *olah*:
 
@@ -156,19 +156,19 @@ Rabbi (Rebbi) goes further still. For him, the premise that skin follows flesh i
 
 Similarly for *kodashim kalim* belonging to the owners: since the *Torah* never mandates flaying, the owners receive the full animal including its skin and may handle it as they see fit.
 
-### Rabbi's Specification Vi…
+### Rabbi's Position: Olah
 
 According to Rabbi, the only case requiring explicit *Torah* specification is the *olah*, where the verse *ve-hifshit et ha-olah ve-nitteach otah li-netacheha* — flay the *olah* and cut it into its pieces — actively separates the skin from the flesh. Once separated, one might not have known what to do with the skin. Therefore the *Torah* states explicitly: *or ha-olah asher hikriv la-kohen ha-makriv otah lo yihyeh* — the skin of the *olah* that was brought belongs to the *kohen* who offered it. That verse was needed only for the *olah*. Everything else follows automatically from the baseline assumption that skin accompanies flesh.
 
 ---
 
-## Service Fitness Requirem…
+## Kohanim Service Fitness
 
 ### Excluded Categories
 
 The section of the *baraisa* that addresses who among the *kohanim* is entitled to the skin is anchored in the verse *ve-ha-kohen ha-makriv et olat ish* — the *kohen* who brings the *olah*. This phrase links the entitlement to the capacity to perform the service (*avodah*). A *tuvul yom* (one who immersed that day but whose purification is not yet complete), an *onen* (one in acute mourning before burial), and a *mechusar kipurim* (one who still lacks atonement) are excluded from receiving their portion.
 
-### Consumption vs. Non-Cons…
+### Meat vs. Skin Fitness
 
 One might have thought the exclusion applied only to the meat — since the disqualification of these *kohanim* from service is related to their inability to eat consecrated food — but that perhaps they retain a claim to the skin, which is not for consumption. The *baraisa* counters with the phrase *lo yihyeh*: it is the *kohen ha-makriv* — the one fit to perform the service — who receives the skin, just as he receives the meat. The fitness requirement for the skin tracks the fitness requirement for the *avodah*, not the fitness for *achilah*. A *kohen* unfit to perform the service receives neither meat nor skin.
 
@@ -180,7 +180,7 @@ The *lo yihyeh* in the *olah* verse is indeed superfluous (*mufni*), since the v
 
 ---
 
-## Timing of Skin Entitleme…
+## Skin Entitlement: When
 
 ### Psul Before/After Flaying
 

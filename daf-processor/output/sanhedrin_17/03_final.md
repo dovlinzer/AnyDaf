@@ -1,4 +1,5 @@
 # Sanhedrin 17 — Daf Yomi Shiur
+[DAF:17a]
 
 ## Ir Nidachas
 
@@ -230,6 +231,7 @@ The Gemara illustrates this with historical examples. In Beitar there were three
 
 ## Rabbinic Titles
 
+[DAF:17b]
 ### Learning vs. Deliberating
 
 > **Hebrew/Aramaic:** לְמֵידִין לִפְנֵי חֲכָמִים – לֵוִי מֵרַבִּי. דָּנִין לִפְנֵי חֲכָמִים – שִׁמְעוֹן בֶּן עַזַּאי, וְשִׁמְעוֹן בֶּן זוֹמָא, וְחָנָן הַמִּצְרִי, וַחֲנַנְיָא בֶּן חֲכִינַאי. רַב נַחְמָן בַּר יִצְחָק מַתְנֵי חֲמִשָּׁה: שִׁמְעוֹן, שִׁמְעוֹן, וְשִׁמְעוֹן, חָנָן, וַחֲנַנְיָה.

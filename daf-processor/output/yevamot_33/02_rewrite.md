@@ -130,7 +130,7 @@ The Gemara resolves this by the comment of Rabbi Abba bar Chiya: *hacha bitrumah
 
 ## Bevas Achas Reconcile
 
-### Simultaneous Transgressi…
+### All Four Transgressions
 
 The final alternative the Gemara entertains is that the *Mishnah* need not be attributed to Rabbi Meir at all. Instead, one could read all four transgressions as arising literally simultaneously — *bevas achas* — in which case even Rabbi Shimon, who otherwise rejects *issur chal al issur*, would concede that all four apply. The challenge is constructing a scenario in which *eishet ish*, *eishet ach*, *achos isha*, and *niddah* can all genuinely take effect at the identical moment.
 
@@ -170,7 +170,7 @@ But a new difficulty arises: Tamar had been married to Er and Onan before Yehuda
 
 The Gemara resolves the apparent tension between the *beraita* (which equates early withdrawal with the sin of Er and Onan) and its own characterization of Er and Onan's sin as *bi'ah shelo kedarkan* (non-vaginal sex, not early withdrawal): *k'ma'aseh Er v'Onan ve'lo k'ma'aseh Er v'Onan* — the nursing practice is *like* what they did in one respect (the semen is expelled outside the body, *ve'shichet artzah*) but *not* exactly what they did, because theirs was *bi'ah shelo kedarkan* while the nursing practice involves normal vaginal intercourse (*kedarkan*) with withdrawal at the end.
 
-### Early Withdrawal Forbidd…
+### Early Withdrawal: Marital
 
 The Gemara then asks: we understand from the verse *ve'shichet artzah* that Onan practiced this form of emission, but what is the source that it was *bi'ah shelo kedarkan* rather than early withdrawal? And separately, the verse only explicitly describes Onan's act — what is the basis for assuming Er sinned in the same way? Rav Nachman bar Yitzchak answers from the word *gam* in *vayamot gam oto* — "he too died." The word *gam* implies "also," meaning Er died by the same cause and in the same manner as Onan. The reason given for Onan's act is explicit: *lo lo yihyeh hazera* — he knew the child would be reckoned under his deceased brother's name, not his own, and he resisted that. Er's motive, by contrast, is inferred by the Gemara as having been aesthetic: *kedei shelo titaber ve'yachahish yofyah* — he did not want Tamar to become pregnant and lose her beauty. In both cases, the act was *bi'ah shelo kedarkan*.
 

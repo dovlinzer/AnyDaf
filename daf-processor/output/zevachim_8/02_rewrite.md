@@ -94,7 +94,7 @@ In every configuration, the third *chatas* cannot be learned from the other two,
 
 The *gemara* resolves the impasse by returning to a *pasuk* cited earlier: *zos hatorah la'olah u'laminchah v'lachatat v'la'asham v'lamiluim u'lizevach hashelamim* — this is the teaching for the *olah*, the *minchah*, the *chatas*, the *asham*, the *miluim*, and the *zevach hashelamim*. *Hikishu hakasuv leshelamim* — the verse compares *chatas* to *shelamim*. Just as *shelamim* requires *lishmah* and *l'shem ba'alim* at least *lechatchila* for both *shinui kodesh* and *shinui ba'alim* — as established in earlier discussions — the same applies to *chatas*. This *hekesh* to *shelamim* is the foundation that all *korbanos*, including *chatas*, must be performed *lishmah* and *l'shem ba'alim* at least *lechatchila*. That is our starting point.
 
-### Extra Pesukim Teach Me'a…
+### Extra Pesukim Teach
 
 Once that baseline is established through the connection to *shelamim*, the individual *pesukim* by each *chatas* category — *chatas chelev*, *chatas nazir*, and *chatas metzora* — are no longer needed to teach the *lechatchila* requirement, since that is already known. Each of those sets of *pesukim* is now available to teach something additional: *hanach kra'ei l'akeiv* — those verses come to teach that the requirement is *me'akev*. If you fail to perform the *avodah* *lishmah* or *l'shem ba'alim* in any of these *chatas* categories, the *korban* is *pasul*.
 

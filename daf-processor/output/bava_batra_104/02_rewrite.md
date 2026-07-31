@@ -12,7 +12,7 @@ Before turning to the *gemara*, it is worth pausing on a foundational question: 
 
 The more pressing question is *bitul mekach* — the voiding of a mistaken transaction. Normally, when you receive something materially different from what you contracted for, the sale is null. Why then does the Mishnah not say that the entire sale is void when the measurement is off? The *Rashbam* explains that by landed property, people do not generally wish to unwind the transaction entirely. They understand that a field may not come out to an exact figure and they remain attached to the underlying object — the field itself — rather than to the precise quantity. Accordingly, the remedy is adjustment, not nullification.
 
-### Tosafot: Measured vs. Un…
+### Tosafot: Measured vs
 
 *Tosafot* takes a different and arguably more precise approach. At the top of 104a, in the *tosafot* beginning *pachot kolshehu yenakeh*, the *Ri* draws a critical distinction between two fundamentally different types of discrepancy. The first is where the seller claimed to have actually measured the land and represented a specific figure, which then turned out to be false — whether through deception or error. In that case, the *Ri* says, we have a genuine *mekach ta'ut*: the buyer was led to believe a precise measurement had been conducted and relied upon it, so when the measurement proves wrong, the transaction is vitiated.
 
@@ -98,13 +98,13 @@ The *gemara* deflects each of Rava's challenges in turn. For the first: *lo d'za
 
 The *gemara* proceeds similarly with the ruling attributed to Rabbi Akiva. Rabbi Akiva holds that a *ginah* is usable even at the size of a *rova kav* — a quarter of a *kav* — so that the seller loses his prerogative when the excess reaches that size. Rava's challenge here parallels the earlier ones: *mai lav d'zavin lei se'ah?* — does this not apply even for a *se'ah*-sized garden sale, meaning the quarter-*kav* is absolute? The *gemara* answers: *lo d'zavin lei chatzi se'ah* — Rabbi Akiva's ruling applies to a sale of half a *se'ah*, scaled accordingly.
 
-This pattern of responses is somewhat strained, and as the lecturer candidly notes, the *gemara* is reading the Mishnah's examples as each applying only to a specific total sale size rather than as absolute thresholds — a reading that serves Rav Nachman's proportional framework but does not emerge naturally from the Mishnah's language.
+This pattern of responses is somewhat strained, and the *gemara* is reading the Mishnah's examples as each applying only to a specific total sale size rather than as absolute thresholds — a reading that serves Rav Nachman's proportional framework but does not emerge naturally from the Mishnah's language.
 
 ---
 
 ## Unresolved Cases
 
-### Field-to-Garden Conversi…
+### Field-to-Garden Convert
 
 Rav Ashi poses a question left unresolved: *sadeh ve-na'aset ginah, ginah ve-na'aset sadeh mai?* — what if a field became a garden, or a garden became a field, in the interim between the sale and the measurement?
 

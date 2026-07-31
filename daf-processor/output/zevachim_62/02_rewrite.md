@@ -2,21 +2,21 @@
 
 ## Locating the Altar
 
-### Question: Locating Mizbe…
+### Locating Mizbeach
 
 The *gemara* on 62b opens with a question that follows naturally from a discussion a few lines earlier, where the *gemara* had been addressing how the *Anshei Knesset HaGedolah* knew how to construct the Second *Beit Hamikdash* and in what respects they modified the *mizbe'ach* from the one built by Moshe. The *gemara* now narrows its focus: *bishlama bayit minkar tzurato* — it is understandable how the *Anshei Knesset HaGedolah* knew where to locate the structure of the *Beit Hamikdash* itself, since the foundations of the first *Beit Hamikdash* were still visible. *Ela mizbe'ach mena yad'ei* — but how did they know where to place the *mizbe'ach*? The *mizbe'ach* itself was gone, and there was apparently nothing obvious to mark its precise location.
 
-### R. Elazar: Michael's Vis…
+### R. Elazar: Michael Vision
 
 Rabbi Elazar answers: *ra'u mizbe'ach banuy u-Michael haSar haGadol omeid u-makriv alav* — they had some form of prophetic vision in which they saw the *mizbe'ach* already built, and Michael, the great angelic *sar*, standing there and offering a sacrifice upon it. This is a striking passage. The image of Michael as *sar melitz* — the angelic advocate — bringing *korbanot* invites the question of what kind of offering an angel would bring, and to what end. One natural inference is that these were *olot*, which are not brought for sin, consistent with Michael's role as *melitz yosher*. More broadly, the vision suggests that when the earthly *Beit Hamikdash shel mata* does not exist, some sort of spiritual *Beit Hamikdash shel ma'ala* continues to operate at the level of the *malachim*, and the *Maharsha* connects this to the well-known idea that the heavenly Jerusalem is directly above its earthly counterpart, as discussed in *Taanit*. When *Yisrael* returns and reconstructs the *Beit Hamikdash shel mata*, they fill in the gap below. The *Anshei Knesset HaGedolah* were shown the heavenly *mizbe'ach* as a kind of template — a divine blueprint — so they would know exactly where to build on earth. The analogy is evocative: what could not be recovered archaeologically was instead revealed spiritually.
 
 This also bears on the relationship between *ruach hakodesh* and the act of building the *Beit Hamikdash*. One recalls that Moshe himself, when confronted with the construction of the *menorah*, did not know precisely how it should be made, and the Torah says *kazeh* — God showed him the form. Something similar seems to be at work here: when human understanding reaches its limit, divine assistance bridges the gap.
 
-### R. Yitzchak: Ashes of Yi…
+### R. Yitzchak: Ashes Mark
 
 Rabbi Yitzchak Nafcha offers a second answer: *afro shel Yitzchak hu she-munach b'oto makom* — the ashes of Yitzchak are deposited in that very spot. This opinion draws on the imagery of the *Akeida* and the *olah*, connecting the *mizbe'ach* in Jerusalem to the binding of Yitzchak on that same site. The precise nature of the ashes is worth noting: the *efer* mentioned here is presumably from the ram that was sacrificed in Yitzchak's place, though certain *midrashim* develop this idea further, suggesting — in ways that may reflect later martyrological contexts — that Yitzchak himself was in some sense sacrificed and then revived. The ashes, whatever their precise nature, served as a physical marker — a trace of the primordial sacrifice that identified the exact location of the future *mizbe'ach*.
 
-### R. Shmuel: Smell Distinc…
+### R. Shmuel: Smell Distinc
 
 Rabbi Shmuel bar Nachmani provides a third answer, which operates on an entirely different register: *mi-kol ha-bayit kulo herichu rei'ach ketoret, mi-sham herichu rei'ach evarim* — throughout the entire area of the *Beit Hamikdash*, which was recognizable from its foundations, the air smelled of *ketoret*, the incense. But from that one spot, the smell was different — it was the smell of *evarim*, of burnt animal limbs. The location of the *mizbe'ach* was thus distinguished by a distinct olfactory signature, the residual smell of centuries of animal sacrifice, as against the pervasive fragrance of *ketoret* that characterized the rest of the *chatzer*. This answer, like the others, points to a form of knowledge unavailable through ordinary architectural or archaeological investigation — whether visionary, physical, or sensory, the location had to be revealed.
 

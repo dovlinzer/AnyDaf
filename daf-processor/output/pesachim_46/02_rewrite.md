@@ -1,6 +1,6 @@
 # Pesachim 46 — Daf Yomi Shiur
 
-## Moldy Bread & Dog Standa…
+## Moldy Bread & Chametz
 
 ### Moldy Bread Case
 

@@ -24,7 +24,7 @@ The underlying conceptual problem that Beit Hillel is navigating can be framed t
 
 ---
 
-## Woman Dies: Property Spl…
+## Woman Dies: Property
 
 ### Beit Shammai: Equal Split
 
@@ -100,7 +100,7 @@ But what if he then remarries her? *Hehzirah harei hi kechol hanashim ve'ein lah
 
 Having worked through the intricacies of property rights, the Gemara raises what might seem like a separate question but is in fact deeply connected: *shomeret yavam shemeisa — mi kovra?* If the woman awaiting *yibum* dies, who is obligated to bury her? The question arises from the peculiar split of her estate. As we have seen, the *nichsei tzon barzel* — the dowry — goes to the husband's heirs, while the *nichsei melog* goes to her father's family. There are, in effect, two sets of heirs, each receiving a portion of her estate. Normally, the obligation to bury a woman falls on whoever receives her dowry, because the husband acquires the dowry precisely in exchange for taking on the obligation of burial. But here, with two distinct sets of heirs, the question is genuinely open.
 
-### Baraita: Ketubah Heirs B…
+### Baraita: Ketubah Heirs
 
 Rav Amram resolves the matter by citing a *baraita*: *shomeret yavam shemeisah, yorshei ketuvatah chayavin bikevuratah* — when a *shomeret yavam* dies, the heirs of her *ketubah* — that is, the heirs of the husband who receive her *nedunya* — bear the obligation of burial. The *baraita* explicitly acknowledges that there may be two sets of heirs but identifies specifically that the obligation falls on those who receive the *nedunya*. It is the receipt of the dowry that generates the burial obligation, not the receipt of the *nichsei melog*.
 
@@ -114,7 +114,7 @@ This contrast sharpens the principle: it is the receipt of the *nedunya* that ge
 
 Rava raises a striking objection: why cannot the *yavam* simply disclaim any relationship to the woman and avoid the burial obligation? His argument, as developed by Tosafot, would run roughly as follows: "I don't recognize this woman as anyone to me. I inherited my dead brother's estate — including the Ferrari he acquired twenty years ago — not because she has any claim on it, but simply because I am his heir. I am not a continuation of my brother's marital relationship. She is a stranger to me. Why must I bury her?"
 
-### Abaye's Both Ways Argume…
+### Abaye: Both Ways Argument
 
 Abaye's response is incisive: *mishum deba'u lo mishnei tzedadim* — because the argument works against him from both directions. *Im achiv yoresh yikvor ishto* — if you are an heir of your brother in the sense that you are stepping into his shoes as a continuation of the marriage, then you stand in the husband's position vis-à-vis the wife, and you must bury her. *Im eino kover ishto yiten ketuvatah* — and if you are not a continuation of your brother and have no marital obligation toward her, then when your brother died she was entitled to extract her *nedunya* back from the estate, and you must return it to her. You cannot claim the dowry on the grounds that it is simply part of your brother's general estate while simultaneously denying that you bear any marital obligations toward her. Either the marital nexus continues — in which case you bury her — or it does not — in which case she takes back the *nedunya*. You cannot have it both ways.
 
@@ -128,7 +128,7 @@ The *yavam*'s attempted counter-argument is that even if he is not a continuatio
 
 The Gemara now introduces a conceptual framework that clarifies the underlying structure of the dispute: *midrash ketubah*. This refers to a precise, almost hyper-literal reading of the *ketubah* document's language. The *ketubah* specifies when the wife becomes entitled to collect: upon her husband's death, or more precisely, when she is free to remarry. *Midrash ketubah* means that the conditions specified in the document are read with exactness, and the wife's right to collect is triggered only when those conditions are literally met.
 
-### Beit Shammai: Prepared=C…
+### Beit Shammai: Doc Ready
 
 Beit Shammai holds that *shtar ha'omed ligvot ke-gavuy dami* — a document that is in a position to be collected is treated as though it has already been collected. This is a general principle of Beit Shammai: once the legal mechanism for collection is in place and the entitlement exists in principle, the practical question of whether collection has yet occurred is secondary. The document's existence and validity give the holder constructive possession of the underlying asset.
 
@@ -144,17 +144,17 @@ Rav Ashi draws the connection to the *shomeret yavam* explicitly: *yavam nami ke
 
 ---
 
-## Solutions & Ketubah Coll…
+## Solutions: Ketubah Coll
 
 ### Kohen Option: Appeasement
 
 A *baraita* cited in connection with Rava's inquiry to Abaye provides the practical resolution for a *yavam* who wishes to sell some of the dead brother's estate. The *baraita* is introduced by Rabbi Abba, who reports that he posed the question to Sumchus: *harotzeh sheyimkor benichsei achiv keitzad hu oseh* — one who wishes to sell his dead brother's estate, what can he do? If the *yavam* is a *kohen*, his options are severely limited. A *kohen* may not divorce his wife and remarry a divorcée, and since she would become a divorcée upon receiving a *get*, he cannot use the divorce-and-remarry strategy. His only available path is *ya'aseh seudah veyefayeis* — throw her a feast, lavish her with gifts and attention, and try to get her to voluntarily waive her rights to the lien on specific properties. It is an entirely consensual process; he can do nothing unilaterally.
 
-### Israelite: Divorce-Remar…
+### Israelite: Divorce
 
 For a non-*kohen* Yisrael, the superior solution is available: *im Yisrael hu megaresh be-get le-hachzir* — if he is a Yisrael, he divorces her and then remarries her. As the Mishna explained, this accomplishes a critical transformation. According to Rashi, he need not even pay her *ketubah* upon the divorce; the mere act of divorcing and remarrying shifts the lien. Once he remarries her, her *ketubah* obligation is no longer a claim against the dead husband's finite estate; it becomes a claim against the living husband's — his own — estate. He is now free to sell the dead brother's property because it is no longer the exclusive pool from which her *ketubah* must be paid. The constraint lifts, and he regains ordinary marital freedom over his property holdings.
 
-### Can Ketubah Be Collected…
+### Ketubah: Property Rights
 
 Rava's inquiry to Abaye, sent through Rav Shemaya bar Zeira, presses the conceptual question: *vechi nitan ketuvah ligvot mechayim* — can the *ketubah* actually be collected while the *yavam* is still alive? The question has practical force. If one says that she already has some degree of entitlement to collect — that her rights have been triggered in some sense by the death of the first husband — then why not allow the *yavam* to pre-designate certain property as corresponding to the *ketubah* obligation and free the rest? *Meyached lah she'er ketuvah ve-hashar yimkor* — designate enough property to cover the *ketubah* and sell everything else. If she is already in a position to collect, surely the *yavam* ought to be able to satisfy that claim now and then deal freely with the remainder.
 

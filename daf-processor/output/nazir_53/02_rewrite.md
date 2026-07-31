@@ -124,7 +124,7 @@ The *Gemara* proceeds with what reads as a somewhat unusual reverse order throug
 
 Rabbi Yochanan rules: *ein ha-nazir megaleach aleihem* — the *nazir* does not shave over them. His reasoning: *de-katani b'reisha* — the first *mishnah* explicitly requires *she-yesh alav ke-zayit basar*, and the implicit reading is that without that amount of flesh, it does not cause *tuma*. Furthermore, if a limb lacking sufficient flesh could cause *tumas maga*, it should have appeared on the *maga* list in the *mishnah*. It is on neither list, and therefore the *nazir* is not *megaleach*.
 
-### Reish Lakish: Tumah via…
+### Reish Lakish: Tumah Flesh
 
 Reish Lakish disagrees: *megaleach*. He derives this from the fact that the second *mishnah* — the one listing cases where the *nazir* does *not* shave — does not include *ever she-ein alav basar ka-rauy* in its list. Since it is absent from that negative list, Reish Lakish infers that the *nazir does* shave upon touching it — it is a case of *tumas maga*, not *tumas ohel*.
 

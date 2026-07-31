@@ -1,6 +1,6 @@
 # Bava Kamma 9 — Daf Yomi Shiur
 
-## Land Grades & Creditor R…
+## Land Grades & Creditors
 
 ### Rava's Choice Rule
 

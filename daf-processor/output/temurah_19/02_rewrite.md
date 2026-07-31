@@ -1,6 +1,6 @@
 # Temurah 19 — Daf Yomi Shiur
 
-## Toda: Children & Substit…
+## Toda: Children & Subs
 
 ### Mishna 22 Introduction
 
@@ -28,7 +28,7 @@ The question of why Rabbi Eliezer's position does not generate a debate here is 
 
 ---
 
-## Olah: Gender & Derivativ…
+## Olah: Gender & Status
 
 ### Olah Chain Structure
 
@@ -48,7 +48,7 @@ This generates an apparent inconsistency within the *mishna*. In the first half,
 
 The *gemara* puts this question directly: *mai shna reisha d'lo palgi u'mai shna seifa d'palgi*? Why is there no debate in the first clause, but there is in the second?
 
-### Rabbah bar Chana's Posit…
+### Rabbah bar Chana: Kedusha
 
 Rabbah bar bar Chana answers: *b'machlokes shnuya* — actually, the first clause is also disputed. The opening of the *mishna*, which seems to permit bringing any male that appears in the descendant chain, reflects only the position of Rabbi Eliezer. The rabbis would actually hold that once a derivative male goes through a female, even in the first scenario, one may never bring the descendant directly — only the proceeds. According to this reading, there is no inconsistency between the two halves; the apparent consensus in the first half is simply Rabbi Eliezer's uncontested position, while the rabbis would contest it there as well.
 

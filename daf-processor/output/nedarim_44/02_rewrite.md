@@ -10,7 +10,7 @@ We begin on daf 44a, though in order to organize the relevant background, we mus
 
 Rabbi Yose, however, rejects this solution. The *gemara* explains, through Rabbi Yochanan's analysis, why Rabbi Yose considers this approach ineffective.
 
-### Rabbi Yochanan's Matana…
+### Yochanan: Hefker/Matana
 
 Rabbi Yochanan explains that Rabbi Yose holds *hefker* to be analogous to a *matana*: a gift does not take legal effect until the recipient takes possession of it. Accordingly, until a third party actually comes and claims the *hefker* item, that item is still considered to be within the *reshut* of the original owner. Since it remains in the *reshut* of the *madir*, the *mudar* is still forbidden to benefit from it. Only after an intermediate party has claimed it and removed it from the *madir*'s *reshut* could it then pass to the *mudar*.
 
@@ -42,7 +42,7 @@ The question naturally arises: why three days specifically? The answer offered i
 
 The second clause of the mishnah introduces a distinction. When a person declares his field *hefker* only for a limited period — a day, a week, a month, a year, or a seven-year cycle — the three-day retraction mechanism does not apply in the same way. Instead, the rule is: as long as no one has taken possession, whether the owner himself or another, he may retract; once someone has taken possession, he may not.
 
-### Possession & No Retracti…
+### Kinyan Blocks Retraction
 
 To clarify the practical distinction between retracting a *hefker* declaration and actively claiming the field from *hefker*: retracting means saying, "I withdraw the declaration; the field was never *hefker*." Claiming means going out and physically taking possession — building a fence, walking the boundaries — which is the standard method of acquiring a field. One who claims it thereby obtains it as *hefker* property, and if the *hefker* was valid, that acquisition carries a *petur* from *trumot u'maasrot*. Retracting, by contrast, is asserting that the field never left one's possession at all.
 
@@ -50,9 +50,9 @@ The question of whether the owner may then claim the field for himself as an act
 
 ---
 
-## Reisha vs. Seifa Attribu…
+## Reisha vs. Seifa Attrib.
 
-### Rabbinic Three-Day Solut…
+### Rabbinic 3-Day Retraction
 
 Having laid out the two clauses of the mishnah, the *gemara* now asks whether the *reisha* (the first clause, with the three-day rule) reflects the position of the *rabbanan*, while the *seifa* (the second clause, which ties retractability to possession rather than time) reflects the position of Rabbi Yose. The reasoning is as follows: the *seifa*, which allows retraction so long as no one has taken possession, fits naturally with Rabbi Yose's underlying view that *hefker* never truly exits the owner's *reshut* until someone claims it. The *reisha*, by contrast, which cuts off retraction after three days regardless of whether anyone has claimed it, seems to reflect the *rabbanan*'s view that *hefker* is a real act of dispossession.
 
@@ -76,7 +76,7 @@ One might press: if the scheme is to declare *hefker* for just one day, complete
 
 ## Reish Lakish: Both Yose
 
-### Reish Lakish's Attributi…
+### Reish Lakish: Rabbi Yose
 
 Reish Lakish offers an entirely different reading of the mishnah. Rather than splitting the clauses between *rabbanan* and Rabbi Yose, or attributing both to *rabbanan*, Reish Lakish holds that both the *reisha* and the *seifa* reflect the position of Rabbi Yose. The *seifa* is identifiable as Rabbi Yose for the reasons already discussed — it conditions retractability on possession rather than time, consistent with Rabbi Yose's view that *hefker* remains in the owner's *reshut* until claimed. And since the *seifa* is Rabbi Yose, says Reish Lakish, the *reisha* must be as well.
 
@@ -86,7 +86,7 @@ But then why does the *reisha* impose a three-day limit at all? If Rabbi Yose's 
 
 The Ran offers what he considers the most coherent account of Reish Lakish's reading. Rabbi Yose, says the Ran, is concerned about a particular confusion that would arise if *hefker* were always revocable up to the moment of possession. If people knew that the owner could retract at literally any moment before someone claims the field — that the field is, in Rabbi Yose's view, still in the owner's *reshut* the entire time — they might begin to think that *hefker* is not really *hefker* at all, but simply a kind of deferred *matana*.
 
-### Hefker vs. Matana Confus…
+### Hefker vs. Matana: Ran
 
 The Ran develops this concern. If the owner can retract up until the very moment someone takes possession, then from the perspective of the person who ultimately claims the field, what he received was not truly ownerless property — it was property that the original owner could have reclaimed at any instant. This makes the transaction look far more like a *matana* than a claim from *hefker*. And that confusion has practical consequences.
 
@@ -94,7 +94,7 @@ The person who claimed the field might reason as follows: since the owner retain
 
 To make this vivid: the field was declared *hefker*, but the owner could have retracted at any moment. The person who ultimately claimed it is in a state of genuine uncertainty. Was this a real *hefker*? Or was this more like receiving a gift from someone who retained ownership throughout? That uncertainty is precisely what Rabbi Yose sought to prevent.
 
-### Terumot U'Maasrot Confus…
+### Terumot U'Maasrot Mix
 
 The Ran elaborates further on why this confusion is specifically dangerous in the context of *trumot u'maasrot*. He writes (at the top of 44b) that if we allow the owner to retract at any point before someone has claimed it, people will say: since the owner could have retracted even after a long period, that means the property must have been in his *reshut* the whole time, which in turn means that anyone who claims it is really receiving a *matana* — and therefore the field remains *chayav* in *trumot u'maasrot*.
 
@@ -120,7 +120,7 @@ Rava provides the answer: there are two competing considerations. On one side is
 
 The three-day period represents this balance. During the first three days, the owner retains the right to retract — consistent with Rabbi Yose's *de'oraita* position — and during this period the field remains *chayav de'rabbanan* in *trumot u'maasrot*, frustrating the *rammaim*. After three days, the *de'rabbanan* rule kicks in: the *hefker* becomes fully irrevocable, and the field is now genuinely *hefker de'rabbanan*, so that people understand it to be truly ownerless.
 
-### Long-Term Reclaim Confus…
+### Reclaim Confusion Chiyuv
 
 Without this three-day limit, a further problem would emerge. Suppose the owner declares *hefker* and simply waits — for weeks or months — until he is ready to reclaim the field. He then walks in and takes possession. According to Rabbi Yose's *de'oraita* position, that is entirely permissible: the field was in his *reshut* the whole time, and no one else has claimed it. But if the public observes this pattern — someone declares *hefker*, and then months later simply takes the field back — they will be deeply confused about the *chiyuv* in *trumot u'maasrot*. Did the person who eventually harvests this field acquire it from genuine *hefker*? Or is it still the original owner's property? That long-term ambiguity is even more dangerous than the short-term confusion the three-day rule is designed to address. By cutting off retractability at three days *de'rabbanan*, the system ensures that any claim made after three days is understood to be a fresh *zechiya* from *hefker*, carrying a *petur* from *trumot u'maasrot*.
 
@@ -146,7 +146,7 @@ The Ran offers a resolution. The key is in what the owner did on the morning aft
 
 If this is a retraction, then according to Rabbi Yose — whose *de'oraita* position allows retraction at any point before someone has taken possession — the retraction is valid *de'oraita*, and the field was never *hefker*. If the field was never *hefker*, then it is *chayav* in *trumot u'maasrot* and not *patur*. But the *baraita* says *patur from maaser* — a result which, under this reading, fits precisely because the retraction is understood as a reversal within Rabbi Yose's framework, and the *baraita* is speaking to the resulting status.
 
-### Reish Lakish: Attribute…
+### Reish Lakish: Rabbi Yose
 
 Reish Lakish sidesteps the difficulty entirely with a clean solution: he attributes the entire *baraita* to *rabbanan*, not to Rabbi Yose. In other words, Reish Lakish says: when I associated the mishnah with Rabbi Yose, that did not require me to associate this *baraita* with Rabbi Yose as well. The *baraita* can simply be understood as following the *rabbanan*, and the various technical details work themselves out under that attribution without generating the contradictions that plague the alternative reading.
 

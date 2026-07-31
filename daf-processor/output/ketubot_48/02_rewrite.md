@@ -2,7 +2,7 @@
 
 ## Framework of Ketubot
 
-### Women's Status & Transit…
+### Women's Status & Transit
 
 The daf we take up today — picked up in the middle of 47b, roughly ten lines below the two dots — sits at the heart of *masechet Ketubot*, the section that deals with the *ketubah* proper: the reciprocal rights and responsibilities between husband and wife. Before arriving at those obligations, however, it is worth situating the *masechet* within a broader framework.
 
@@ -56,7 +56,7 @@ Since the *ketubah* in Israel occupies a dual status — simultaneously a ritual
 
 Having established the three paired exchanges, the *Gemara* asks why specifically these obligations are matched to these rights — why *mezonot* for earnings, *pirkyon* for *peiros*, and burial for *nedunya*, and not some other pairing. *Abaye* supplies the organizing principle: *tiknu matzui l'matzui ve'she'eino matzui l'she'eino matzui* — common things are matched with common things, and uncommon things with uncommon things.
 
-### Classification of Obliga…
+### Obligations: Food, Burial
 
 The matching follows accordingly. *Mezonot* — the daily obligation to feed his wife — is an everyday, ongoing expense. It is matched against *maasei yadeha* — her earnings — which are likewise an ongoing, regular matter, whether from labor outside the home, or more commonly, from the domestic work she performs within it: cooking, sewing, running the household. Common is matched with common.
 
@@ -158,7 +158,7 @@ One might observe that in the *ketubah* text itself, *onah* appears somewhat sep
 
 The *Gemara* now returns to the *mishnah*, which addresses the standard for the husband's obligation to bury his wife when she predeceases him. *Rabbi Yehuda* rules that even the poorest man in Israel must provide his wife with a burial that includes no fewer than two flutes (*chalilim*) and a wailer (*mekonenes*) — professional mourners of a minimum standard.
 
-### Family Practice vs. Mini…
+### Family Practice vs Std
 
 The *Gemara* reads this ruling in contrast to the *Tanna Kamma*, who appears to accept a lower standard. The *Gemara* clarifies the precise case of dispute: everyone agrees that the husband must provide for the burial at *at least* the standard to which the wife's family is accustomed. The question is what happens when his family standard is higher than hers. In that case, does he owe her the higher standard?
 
@@ -174,7 +174,7 @@ The *Gemara* frames this as follows: everyone may agree that *olah immo ve'einah
 
 ---
 
-## Absent/Incapacitated Hus…
+## Absent Husband
 
 ### Deranged Husband
 

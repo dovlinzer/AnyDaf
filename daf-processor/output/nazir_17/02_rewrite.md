@@ -1,6 +1,6 @@
 # Nazir 17 — Daf Yomi Shiur
 
-## Nazir Tamei: Yochanan vs…
+## Nazir Tamei: Yochanan v R
 
 ### Nazir in Cemetery
 
@@ -74,7 +74,7 @@ The *gemara* thus concludes: accepting *nezirut* while *tamei* creates a full *n
 
 ## Tarrying Question
 
-### Unintentional Tumah Fram…
+### Tumah: Continued Presence
 
 With the *nezirut* question settled, the *gemara* turns to a new and subtle inquiry raised by *Rava*: when a *nazir* is in a cemetery, is *shehiya* — continued tarrying — necessary in order to become liable for *malkus*, or does liability attach immediately?
 
@@ -98,7 +98,7 @@ Now someone warns them: "You are *tamei* and you are a *nazir* — you must leav
 
 The *gemara* frames this as a straight question: *ki gamrinan shehiya b'veis hamikdash, aval a'barai lo* — perhaps the principle of *shehiya* as the operative act was taught specifically for the *Beis Hamikdash*, and does not apply outside it, as in the case of a *nazir* in a cemetery. Or perhaps — *o dilma lo shna* — it makes no difference, and *shehiya* can constitute the transgression anywhere. The *gemara* concludes: *teiku*. The question remains undecided.
 
-### Sacred Space vs Sacred P…
+### Sacred Space vs Person
 
 The unresolved status of this question points to something conceptually significant, and the *gemara*'s hesitation is not merely technical. There is a profound structural difference between the two cases.
 
@@ -120,7 +120,7 @@ The question requires some background. Normally, when a *nazir tahor* becomes *t
 
 The first attempt to answer comes from our *mishna* itself: *korban tumah hu d'lo maity* — the *mishna* says only that such a person does not bring a *korban tumah*. It does not explicitly say there is no shaving. One might infer from the *mishna*'s silence on shaving that shaving is still required. Perhaps the *mishna* only addressed the *korban* because that was the *halacha* under discussion, and the shaving — which is also part of restarting — still applies.
 
-### Baraita Day Seven vs Eig…
+### Day Seven vs Day Eight
 
 The *baraita* returns: *ein bein tamei nazir l'nazir tahor shenitma* — there is no difference between a person who was *tamei* and accepted *nezirut* and a person who was *tahor* and became *tamei*, except that the *tamei* person starts counting on day seven while the *tahor* person starts on day eight. The *baraita* enumerates this as the *only* difference.
 
@@ -154,7 +154,7 @@ The *baraita* then introduces a new comparison involving the *nazir* in the ceme
 
 On this reading, the *baraita* is establishing the following comparison: the *nazir* in the cemetery, even though he began as *tamei* and brings no *korban*, is still required to shave his hair (on this reading, to restart his *nezirut*). He is therefore still operating within the framework of *nezirut* law in a meaningful sense. His hair is "fit for shaving" because the *nezirut* laws still actively govern him. A *metzora nazir*, by contrast, has no shaving of the hair specifically in the context of *nezirut*; the shaving that occurs is about exiting *metzora* status, not about *nezirut*. Since the *nazir* in the cemetery remains more squarely within the *nezirut* mode — his days still do not count — a *metzora nazir*, who is less connected to active *nezirut* governance, should certainly have his days not count either.
 
-### Hair Safety Interpretati…
+### Hair Safety & Nezirut
 
 The second interpretation rejects this reading: *lo, tiglachat taharah* — no, the phrase refers not to shaving at the *beginning* of the restart, but to shaving at the *end* of the *nezirut* period.
 

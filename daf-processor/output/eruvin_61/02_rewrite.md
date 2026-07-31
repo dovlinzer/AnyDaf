@@ -80,7 +80,7 @@ The *Gemara* then records a dispute about attribution: Rav Kahana and Rav Tavyum
 
 Tosafot also notes a textual curiosity: some had the *girsa* in the *Gemara* of *v'od hitir Rebbi* — "and furthermore *Rebbi* permitted." Tosafot explains this as a misreading. The original context, reflected in the *Tosefta*, had an elder testifying before *Rebbi*: *zakhur ani she-hayu bnei Migdal yordim l'Chamtsan ad hachatzer hachitzonah hasmucha l'gesher v'od* — I remember that the people of Migdal would descend to Chamtsan until the outermost courtyard near the bridge and a bit further. The word *v'od* properly belonged to the end of that testimony, indicating they could go slightly beyond. It was subsequently misread as the opening of the next sentence, *v'od hitir Rebbi*, suggesting a new ruling. According to Tosafot's reading, the elder's testimony about how far people previously traveled served as the evidentiary basis upon which *Rebbi* then established the parameters of who could go where.
 
-## Eiruv Membership
+## Eiruv Membership (II)
 
 ### Eiruv Integration
 
@@ -102,7 +102,7 @@ The final line of the *mishnah* then restates the principle established at the b
 
 ## Desolate Cities
 
-### Physical Presence Requir…
+### Shabbat in Desolate City
 
 Rav Yehudah in the name of Shmuel now introduces the case of a *ir chareiva* — a desolate, formerly inhabited city, a ghost town. The question is whether such a place retains enough of its former status to confer the benefits of city membership. Shmuel rules: if someone actually began *Shabbat* physically present in a desolate city, *mehalech es kullah vechutzah lah alpayim amah* — he may traverse the entire city and 2000 *amot* beyond it. Physical presence in the ghost town, when *Shabbat* begins, is sufficient to invoke city-level entitlements — even though nobody else lives there.
 

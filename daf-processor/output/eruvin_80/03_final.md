@@ -1,4 +1,5 @@
 # Eruvin 80 — Daf Yomi Shiur
+[DAF:80a]
 
 ## Shituf Mevo'os Setup
 
@@ -282,6 +283,7 @@ The *Gemara* then turns to a brief related ruling: *Rabbi Chiya bar Ashi* says o
 
 ## Quantities Rules
 
+[DAF:80b]
 ### Self Replenish
 
 > **Hebrew/Aramaic:** מַתְנִי׳ נִתְמַעֵט הָאוֹכֶל — מוֹסִיף וּמְזַכֶּה, וְאֵין צָרִיךְ לְהוֹדִיעַ. נִתּוֹסְפוּ עֲלֵיהֶן — מוֹסִיף וּמְזַכֶּה, וְצָרִיךְ לְהוֹדִיעַ.

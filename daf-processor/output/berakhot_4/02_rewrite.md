@@ -4,7 +4,7 @@
 
 ### Harp Wakes Dovid
 
-We pick up at the bottom of daf 3b, at the line beginning וְנוֹשֶׁבֶת בּוֹ. The Gemara has been discussing how Dovid HaMelech would rise at midnight to praise God, and it now explains the mechanism: a northern wind would blow through his harp — וּמְנַגֵּן מֵאֵלָיו — and the harp would play by itself at midnight. מִיָּד הָיָה עוֹמֵד וְעוֹסֵק בְּתוֹרָה — he would immediately rise and engage in Torah study. This is interesting because an earlier verse had framed his rising as לְהוֹדוֹת לָךְ, to praise God, yet here it is framed as learning Torah. Perhaps the learning was prior to the praise, but in any case the Gemara presents it as his midnight practice. עַד שֶׁעָלָה עַמּוּד הַשַּׁחַר — he continued until the morning star rose, until the first light approximately an hour before sunrise.
+ The Gemara has been discussing how Dovid HaMelech would rise at midnight to praise God, and it now explains the mechanism: a northern wind would blow through his harp — וּמְנַגֵּן מֵאֵלָיו — and the harp would play by itself at midnight. מִיָּד הָיָה עוֹמֵד וְעוֹסֵק בְּתוֹרָה — he would immediately rise and engage in Torah study. This is interesting because an earlier verse had framed his rising as לְהוֹדוֹת לָךְ, to praise God, yet here it is framed as learning Torah. Perhaps the learning was prior to the praise, but in any case the Gemara presents it as his midnight practice. עַד שֶׁעָלָה עַמּוּד הַשַּׁחַר — he continued until the morning star rose, until the first light approximately an hour before sunrise.
 
 ### Sages Seek Parnassah
 
@@ -140,7 +140,7 @@ How then does שֶׁמָּא יִגְרוֹם הַחֵטְא work? The case of Y
 
 ---
 
-## Chatzos as Rabbinic (II)
+## Chatzos as Rabbinic Fence
 
 ### Chatzos Fits Neither
 

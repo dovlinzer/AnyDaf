@@ -28,7 +28,7 @@ The case of *gadlah etzlo* — the girl who was re-married as a minor but became
 
 The Gemara notes that *Rabbi Eliezer* (in the name of *Rabbi Eliezer*) dissents even in these latter cases, ruling *choletzet ve-lo mityabemes* — only *chalitzah*, not *yibum* — out of concern that permitting *yibum* in the cases where the second marriage did become fully valid will lead people to permit it even in the case where the marriage remained merely rabbinic. This is a precautionary ruling. But the *tanna kamma* and Raba's analysis both take seriously the principle that continued relations can constitute new *kiddushin* in certain circumstances.
 
-### Tnai vs. Ta'ut Distincti…
+### Tnai vs. Ta'ut Cases
 
 The Gemara now presses Raba: the case of the *ketanah* who matured during the second marriage shows that continued sexual relations can indeed create binding *kiddushin* even when the original marriage was defective. How then can Raba claim that everyone agrees that a *tnai* negates the binding force of subsequent relations?
 
@@ -100,7 +100,7 @@ The Gemara now introduces a strikingly different teaching. Rav Yehuda, citing Ul
 
 This is the exact opposite of what Raba established. Raba argued that in the *tnai* case, everyone agrees no *get* is needed — the *tnai* governs and there is no binding marriage. Here Rav Yehuda rules that in all three categories — *milve*, *tnai*, and *pachos mi-shaveh perutah* — everyone agrees a *get* is required. Once sexual relations have occurred following even a defective *kiddushin*, the marriage is treated as binding enough to require dissolution. The implications for *hilchos mamzerut* and the *agunah* question are severe.
 
-### Rav Yosef: Knowledge Mat…
+### Rav Yosef: Pruta Kidushin
 
 Rav Yosef bar Abba, in the name of Rav Nachman and Rav Ami, offers a narrower ruling: *hamikadesh be-pachos mi-shaveh perutah, tzarich heimenu get* — only the case of less than a *perutah* requires a *get* after subsequent relations. The reasoning is rooted in awareness. In the *pachos mi-shaveh perutah* case, everyone knows — or ought to know — that giving less than a *perutah* is not valid *kiddushin*. Because the defect is universally understood, the man's subsequent sexual relations are presumed to carry independent intent: he is aware the original act was void and therefore has *kavanah* for the *bia* to serve as a new, independent act of *kiddushin*. That intent transforms the sexual act into a binding *kiddushei bia*.
 

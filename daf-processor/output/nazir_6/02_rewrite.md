@@ -140,7 +140,7 @@ More striking is the *mishna*'s ruling: even if someone says *hareini nazir mika
 
 ---
 
-## Mishna-Braita Reconcilia…
+## Mishna-Braita Reconcili
 
 ### Braita Distance-Time
 

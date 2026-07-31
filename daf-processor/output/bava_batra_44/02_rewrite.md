@@ -1,8 +1,8 @@
 # Bava Batra 44 — Daf Yomi Shiur
 
-## Initial Baraita & Comple…
+## Baraita & Witness
 
-### Baraita: No Testimony Po…
+### Baraita: Testimony Ban
 
 The sugya of today's daf opens in the middle of 43b, with the *Tanna* presenting a *baraita* that sets out the fundamental rule governing witness disqualification in cases involving sales. The *baraita* states: *machar lo bayit, machar lo sadeh* — if Reuven sells Shimon a house or a field, *ein me'id lo aleha*, Reuven cannot testify on Shimon's behalf if someone challenges Shimon's ownership of that property. The reason the *baraita* gives is *mipnei she-achrayuto alav* — because the liability rests upon him. The straightforward reading of this phrase is that Reuven has insured the sale: if Shimon loses the property, Reuven will have to reimburse him. This obvious interest in the outcome of any ownership dispute disqualifies Reuven from testifying.
 
@@ -22,13 +22,13 @@ One might initially wonder: if Shimon wants his field back, he is going to have 
 
 The question becomes sharper when one notes that Shimon, by testifying that the field is not Yehuda's, is effectively saying it belongs to Levi. But in doing so he is also implicitly admitting that the field does not belong to him, since the only way to claim it for Levi in court is to act as a witness on Levi's behalf rather than as a claimant on his own behalf. One might therefore argue that by testifying, Shimon relinquishes his own claim — and a person is surely not going to surrender his own rights without something to gain. This leads the *Gemara* to scrutinize carefully what Shimon does and does not stand to gain.
 
-### Shimon's Self-Interest I…
+### Shimon's Self-Interest
 
 The *Gemara* raises the following point: *vekivan de-asei lei de-Levi hu, heichi mati mapik lei minei* — once Shimon testifies that the field belongs to Levi, how could he ever subsequently extract the field from Levi's hands? By testifying that it is Levi's, he has made an implicit admission in court that it is not his own. That admission should bind him, and he should not be able to subsequently claim the field for himself.
 
 In response, the *Gemara* clarifies the precise nature of Shimon's potential testimony. Shimon is not testifying affirmatively that the field *is* Levi's. His testimony is *yadana dehai ara delav Yehuda hi* — he is testifying that this field is not Yehuda's. Together with another witness, Shimon can establish a negative fact about Yehuda's claim without making a positive assertion about his own ownership or about Levi's title. This distinction is what allows Shimon theoretically to retain his own claim even after testifying. The *Gemara* then asks: if Shimon testifies that it is not Yehuda's and the field therefore stays with Levi, what has Shimon gained? He still has to prove the field is his in a subsequent proceeding, and he can do that whether his adversary is Levi or Yehuda.
 
-### Opponent Preference Moti…
+### Opponent Preference: Levi
 
 The *Gemara*'s answer is: *hasheini noach li, harishon kasheh mimenu* — it is easier for Shimon to prevail against Levi than against Yehuda. The two adversaries are not equal in Shimon's estimation. Since Shimon knows he will eventually have to litigate to reclaim his field, it matters to him who his opponent will be. If Yehuda is a more formidable litigant, Shimon has a concrete interest in ensuring the field lands with Levi rather than with Yehuda. Since this interest exists, Shimon is disqualified from testifying in the dispute between Levi and Yehuda.
 
@@ -54,7 +54,7 @@ Abaye adds another objection. The *baraita* says Shimon cannot testify because o
 
 To summarize the difficulties: the construction requires an improbably complex multi-party scenario, depends on the death of one of the central figures, is unnecessary on one of the two positions regarding inherited possession, and misuses the term *achrayut*. These converging objections leave the *Gemara* no choice but to seek an entirely different reading of the *baraita*.
 
-### Rabin bar Shmuel Explana…
+### Rabin: Seller No Warranty
 
 The *Gemara* introduces the resolution with: *ela ki de-Rabin bar Shmuel* — the correct way to read this *baraita* is in light of a teaching reported by Rabin bar Shmuel in the name of Shmuel. That teaching states: *ha-mocher sadeh le-chavero shelo be-achrayut, ein me'id lo aleha mipnei she-maamidah bifnei ba'al chovo* — one who sells a field to another person *shelo be-achrayut*, that is, without warranty, without guaranteeing to reimburse the buyer if the field is taken from him, nonetheless cannot testify on the buyer's behalf if someone challenges the buyer's title. The reason: *mipnei she-maamidah bifnei ba'al chovo* — because by keeping the field in the buyer's hands, the seller is facilitating recovery by his own creditor.
 
@@ -76,7 +76,7 @@ The critical distinction is that this lien mechanism applies to land but not to 
 
 ## Liens & Collateral Rules
 
-### Non-Designated Chattel R…
+### Non-Designated Chattel
 
 The *Gemara* now examines the boundaries of this rule more carefully. The general principle is that chattel is not subject to creditor liens. This is true in the standard case where no explicit designation of the chattel as collateral was made. *D'la mishtabdei lei* — the property simply is not encumbered. A creditor who is owed money by Reuven has no claim on Bessie once Bessie has been sold to Shimon. Mordechai's recourse is limited to property that remains in Reuven's hands or, in the case of land, to property that has passed through Reuven's hands via a documented sale.
 
@@ -114,7 +114,7 @@ The *Gemara* then asks whether from this analysis we should derive a general rul
 
 ---
 
-## False Sale & Reimburseme…
+## False Sale & Mekach Taut
 
 ### Mekach Taut Issue
 

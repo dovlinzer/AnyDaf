@@ -1,4 +1,5 @@
 # Bekhorot 9 — Daf Yomi Shiur
+[DAF:8b]
 
 ## Athens Riddles & Parables
 
@@ -146,6 +147,7 @@ Rabbi Yehoshua won the disputation. Having bested them, *asinhu kol khad ve'khad
 
 Each sage entered a separate chamber. But each chamber contained sixty seats, so upon seeing the sixty seats every sage assumed that the others would be joining him — no one felt he was being trapped because each assumed they would all be together. That collective sense of safety prevented resistance. In the end, Rabbi Yehoshua placed each one in a separate chamber and presumably secured it. Before departing, he took some dirt from Athens — *shakal afra me'afra* — which will prove relevant at the end of the story.
 
+[DAF:9a]
 ### Bei Beli Waters
 
 > **Hebrew/Aramaic:** כִּי מָטֵי לְבֵי בְלִיעֵי, מְלָא כּוּזָא דְּמַיָּא מִבֵּי בְלִיעֵי. כַּד אֲתוֹ, אוֹקְמִינְהוּ קַמֵּי קֵיסָר. חֲזָנְהוּ דַּהֲווֹ מְעַנִּי, אֲמַר לֵיהּ: הָנֵי לָאו נִינְהוּ. שְׁקַל מֵעַפְרַיְיהוּ וּשְׁדָא עִילָּוַיְיהוּ, אַקְשׁוֹ לְאַפֵּי מַלְכָּא. אֲמַר לֵיהּ: כֹּל דְּבָעֵית עֲבֵיד בְּהוּ.
@@ -262,6 +264,7 @@ Abaye responds: one might still say the *mishnah* follows Rabbi Yose HaGlili. Th
 
 The Gemara then presents an explicit *Braita* that resolves the question: *chamor she'bikra veyaldah shnei zacharim, yatzu shnei rasheihem ke'echad mamash* — a donkey that had never previously given birth, and it gave birth to two males whose heads emerged simultaneously in every sense. Rabbi Yose HaGlili says: *shneihem la'kohen* — the *kohen* receives both, *shene'emar hazcharim la'Hashem*, since the verse uses the plural form just as it does for sheep. This is a direct *tiyuvta* — full refutation — of Abaye's position. *Tiyuvta de'Abaye tiyuvta*. Rabbi Yose HaGlili applies his position equally to donkeys, and therefore our *mishnah* indeed does not follow Rabbi Yose HaGlili.
 
+[DAF:9b]
 ### Chatitzah Issue
 
 > **Hebrew/Aramaic:** וְרַבָּנַן, לֵימָא קָסָבְרִי רַבָּנַן מִקְצָת רֶחֶם מַקְדֵּישׁ? דְּאִי כּוּלֵּיהּ רֶחֶם מַקְדֵּשׁ — נְהִי דְּאִי אֶפְשָׁר לְצַמְצֵם, חֲצִיצָה מִיהָא אִיכָּא!

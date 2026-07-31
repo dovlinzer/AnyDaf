@@ -1,12 +1,12 @@
 # Kiddushin 11 — Daf Yomi Shiur
 
-## Terumah: Erusin/Kiddushi…
+## Kohen's Wife Eats Terumah
 
 ### Kohen's Wife Terumah
 
 The *gemara* on daf 11 opens in the midst of a discussion about whether the wife of a *kohen* eats *terumah* from the time of *erusin* or only from the time of *nisuin*. This question arose organically from the *gemara*'s broader examination of the modes by which *kiddushin* is effected — *kesef*, *shtar*, and *bia*. The specific issue with *bia* is whether it creates *kiddushin* alone or whether, since the second stage of *nisuin* is when the couple actualizes their marriage and begins living together, an act of *bia* in the context of *kiddushin* automatically advances directly to *nisuin*. As a way of probing that question, the *gemara* turned to the case of a *kohen*'s wife and the point at which she becomes entitled to eat *terumah*.
 
-### Kinyan Kaspo vs. Beveitc…
+### Kinyan Kaspo vs. Beveitch
 
 Two distinct models emerge from the discussion. The first, evoked by the *braita* that the *gemara* cites in connection with Yochanan ben Bag Bag, frames *kiddushin* as analogous to the acquisition of a slave: just as a slave eats *terumah* by virtue of *kinyan kaspo* — the master's act of purchase — so too the *arusah* should eat *terumah* from the moment of *kiddushin*, since she has been, in a sense, acquired. The second model is grounded in the verse *kol tahor beveitcha yochal kodesh* — every pure member of your household may partake of holy things. Under this reading, the woman enters the man's household only at *nisuin*, when she leaves her father's house and moves into his. She would therefore have no biblical entitlement to *terumah* until *nisuin*.
 
@@ -44,11 +44,11 @@ The *gemara* thus reframes the entire debate. Rather than a dispute over the bib
 
 Having established the two competing rabbinic rationales, the *gemara* asks why *simpon* should concern us more with regard to the wife than it does with regard to the slave, given that we clearly do not defer the slave's *terumah* eating on account of *simpon*. The answer unfolds in two steps.
 
-### Visible vs. Hidden Defec…
+### Visible vs. Hidden Defect
 
 First: *i mi-mah she-bi-galui ha kakhazi lei* — anything visible about the slave, the buyer could have seen at the time of purchase. What remains to discover? The slave market is buyer beware. Whatever was evident, the buyer either noticed and accepted or had the responsibility to notice. As for a hidden physical defect — *mum she-bi-seser* — the *gemara* asks: *mai nafka mina?* What difference does a hidden physical flaw make in a slave? *Bemlacha kabaie lei* — you buy a slave for labor, not for appearance. A hidden physical mark has no bearing on the purpose of the purchase and cannot be claimed as a substantive defect. By a wife, the calculus is different: once they are intimate, a physical characteristic that the husband finds objectionable could, within this framework, become the basis for a claim that the *kiddushin* was a *mekach ta'os*. The asymmetry is troubling, and it reflects a commodification model that has serious implications.
 
-### Gannav, Kubyustos (Gambl…
+### Gannav, Kubyustos Slaves
 
 What about character defects that could not have been observed at the slave market? The *gemara* raises the case of *nimtza gannav o kubyustos* — if the slave turned out to be a thief or a *kubyustos*. The *gemara* answers: *hige'o* — you got what you bargained for. Such qualities are to be expected among slaves, and the buyer cannot claim surprise.
 
@@ -104,7 +104,7 @@ Rav Moshe Feinstein strongly disagreed. His position is that *kiddushei bia*, li
 
 ---
 
-## Kesef Amount: Dinар vs.…
+## Shammai v. Hillel
 
 ### Shammai vs. Hillel
 

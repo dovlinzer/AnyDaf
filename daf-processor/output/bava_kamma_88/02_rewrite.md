@@ -123,11 +123,11 @@ The crucial inference is: *ki meit av miha itei lalokeiach* — when the father 
 
 This case maps directly onto the mother's situation: she transferred her title to *Rav Shmuel* even while her husband retained the *kinyan peiros*. The *Mishna* demonstrates that such a transfer of title is valid.
 
-### Kinyan Peiros & Guf
+### Kinyan Peirot & Guf
 
 The *Mishna*'s conclusion — that the purchaser from the son receives the property when the father dies, even when the son predeceased the father — is the subject of a fundamental dispute between *Rabbi Yochanan* and *Resh Lakish*.
 
-### Resh Lakish: Lav K'Kinya…
+### Resh Lakish: Kinyan
 
 *Rabbi Yochanan* holds *lo kana lokeach* — the purchaser from the son does not acquire. His reasoning: since the father holds *kinyan peiros*, the father is considered a co-owner or even the primary owner. The son cannot sell a title while the father's rights effectively prevent the son from exercising any ownership. *Kinyan peiros ke-kinyan haguf dami* — the right to benefit from the produce is legally equivalent to title ownership. The sale the son attempted while the father was alive and active is therefore void. The purchaser could only receive the property if the father died first, allowing full possession to pass to the son before the sale took effect.
 

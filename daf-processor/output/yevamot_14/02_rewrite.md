@@ -60,7 +60,7 @@ This episode — the fact that Rabbi Abba took care to inform his attendant of t
 
 ---
 
-## Beit Shammai Questio (II)
+## Beit Shammai Question
 
 ### Mishna Statement
 
@@ -72,7 +72,7 @@ The Gemara now revisits the two possible ways of reading this Mishna. If one say
 
 ---
 
-## Tzarot Practices (III)
+## Tzarot Practices
 
 ### Asymmetric Fear
 
@@ -122,7 +122,7 @@ The *braita* draws its conclusion with a verse: *ha'emet ve'hashalom ahavu* — 
 
 ---
 
-## Tzarot Practices (III)
+## Tzarot Practices (II)
 
 ### Information Exchange
 
@@ -176,7 +176,7 @@ The Gemara then clarifies what the *chiddush* is: *le'afukei mid'Rabbi Akiva* �
 
 ---
 
-## Tzarot Practices (III)…
+## Tzarot Practices (III)
 
 ### Two Scenarios
 

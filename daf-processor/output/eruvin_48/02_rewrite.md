@@ -1,6 +1,6 @@
 # Eruvin 48 — Daf Yomi Shiur
 
-## Ownerless Objects & Tech…
+## Ownerless Objects & Tech
 
 ### 2000 Amah Debate
 

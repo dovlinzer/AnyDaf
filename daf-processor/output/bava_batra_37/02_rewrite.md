@@ -1,8 +1,8 @@
 # Bava Batra 37 — Daf Yomi Shiur
 
-## Chazakah: Years vs. Harv…
+## Chazakah: Years vs Crops
 
-### Opening & Previous Summa…
+### Opening & Previous Debate
 
 We pick up at the bottom of 36b, having just concluded a discussion about whether *nir* — upturning and tilling the soil — constitutes a valid *chazakah*. More significantly, the *Gemara* there established that the positions of Rabbi Yishmael and Rabbi Akiva in the *Mishnah* — permitting partial years at the beginning and end of the three-year period — represent only those two views. Rav and Shmuel clarified that the *Chachamim* require three full calendar years, while Shmuel adds that three full harvests may suffice, which could in principle be achieved in less than three years, provided the harvests themselves are complete.
 

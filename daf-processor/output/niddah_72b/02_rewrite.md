@@ -132,7 +132,7 @@ The textual basis for this asymmetry is the word *hi* — she — in the *pasuk*
 
 ---
 
-## Akiva vs. Tradition (III)
+## Akiva vs. Tradition
 
 ### Pesukim Conclusion
 
@@ -164,7 +164,7 @@ The *gemara* then raises the same question it raised about the *tumah* of her pe
 
 ---
 
-## Akiva vs. Tradition (III)
+## Akiva vs. Tradition (II)
 
 ### Two Schools
 
@@ -184,7 +184,7 @@ For a one-day *zavah*, the phrase *kol yemei* is read as encompassing any config
 
 ---
 
-## Akiva vs. Tradition (III)…
+## Akiva vs. Tradition (III)
 
 ### Rambam Defense
 

@@ -1,6 +1,6 @@
 # Shabbat 42 — Daf Yomi Shiur
 
-## Metzaref & Unintended Ac…
+## Metzaref & She'eino Mitka
 
 ### Tempering Problem Intro
 
@@ -10,7 +10,7 @@ The discussion opens on *daf* 42a, beginning with the second word, *lemaymra*. T
 
 The *gemara* offers two answers. The first answer is that in order to achieve tempering, one would have to fill the vessel completely with cold water, which is more than the case described. The answer the *gemara* primarily focuses on, however, turns on whether we follow *Rabbi Yehuda* or *Rabbi Shimon*. According to *Rabbi Shimon*, the principle of *davar she'eino mitkaven* applies: if one does not intend for a particular outcome, and that outcome is not an inevitable consequence of the action, the act is permissible. Tempering is not one's intention, and it is not a *psik reisha*, so according to *Rabbi Shimon* there is no prohibition. The other answer — applicable even according to *Rabbi Yehuda*, who is stringent regarding *davar she'eino mitkaven* — is that the scenario of the *mishnah* does not actually involve immersing a dry hot vessel into cold water. Rather, the pot that was removed from the fire still contains hot water; one is simply adding cold water to a vessel already full of hot liquid. Under those circumstances, *metzaref* would not apply regardless of intent.
 
-### Shmuel's Metal/Wood Dist…
+### Shmuel: Metal/Wood Coals
 
 Having established that *Shmuel*'s answer invoked *Rabbi Shimon*'s principle of *davar she'eino mitkaven*, the *gemara* now asks whether *Shmuel* consistently holds like *Rabbi Shimon*. This is one of the central questions in *Masechet Shabbat*: how do we rule regarding an activity that might give rise to a *melacha* even though that outcome is unintended? If we follow *Rabbi Yehuda*, a great many ordinary activities on *Shabbos* would be prohibited. The *halacha* follows *Rabbi Shimon* that *davar she'eino mitkaven* is permitted — and that is *Shmuel*'s stated position.
 
@@ -56,7 +56,7 @@ This establishes a vital principle across *hilchos Shabbos*: one may violate a *
 
 The *mishnah* now turns to a related case, though the connection will become clear. The *mishnah* states that one may take cold water and place it into a hot vessel or cup in order to warm it, provided the quantity of cold water is large enough that it will not reach the point of *bishul*. The *gemara* now moves to examine a *baraita* that addresses the mixing of hot and cold water more directly.
 
-### Beit Shammai's Restricti…
+### Beit Shammai: Hot/Cold
 
 The *baraita* reads: *noten adam chamin letoch hatzonen velo hatzonen letoch hachamin — divrei Beit Shammai* — one may pour hot water into cold, but not cold water into hot; that is the position of *Beit Shammai*. *Uveit Hillel omrim* — *Beit Hillel* permits both: whether hot into cold or cold into hot.
 
@@ -64,7 +64,7 @@ The *baraita* reads: *noten adam chamin letoch hatzonen velo hatzonen letoch hac
 
 Why should the direction of mixing matter at all? *Rashi* and *Tosafot* offer two different explanations. *Rashi* invokes a discussion familiar from *Pesachim* and other tractates — primarily relevant in the context of *kashrut* — about whether we say *ila'ah gavar* (the upper element wins out) or *tata'ah gavar* (the lower element wins out). When one substance is poured into another, the question is which one dominates. *Rashi* applies this principle here: when cold water is poured into hot water, the hot water on the bottom wins out — *tata'ah gavar* — and heats up the cold water, potentially bringing it to the point of *bishul*. When hot water is poured into cold, the cold water on the bottom wins out, cooling off the hot water rather than being heated by it, so there is no concern of cooking. That is why *Beit Shammai* permits hot into cold but forbids cold into hot.
 
-### Tosafot: Majority Princi…
+### Tosafot: Majority Element
 
 *Tosafot* rejects this explanation entirely and offers a different reading. According to *Tosafot*, the relevant factor is not which element is on top or bottom as a matter of abstract principle, but rather which element constitutes the majority. When one pours liquid into a vessel, the assumption is that the vessel already contains the greater quantity; what one is adding is the smaller amount. Therefore, if one pours a small quantity of cold water into a large amount of hot water, the hot water — being the majority — will heat up the cold water and may cook it. Conversely, if one pours a small amount of hot water into a large amount of cold water, the cold water dominates and cools everything down. There is no general metaphysical principle that the bottom always wins; rather, the bottom wins because it is assumed to be the greater quantity into which the other substance is being poured. This difference between *Rashi* and *Tosafot* has practical implications — the case of tea, for instance, may come out differently depending on which reading one adopts.
 
@@ -78,7 +78,7 @@ However, *aval be-ambati* — if one is dealing with a bath (*ambati*), the situ
 
 *Tosafot*, it should be noted, reads the distinction differently: even if the bath were technically a *kli sheni*, it would still be treated more stringently because bath water is typically heated to a far higher temperature than drinking water, making the risk of cooking more significant in appearance if not in strict law. According to *Rashi*, however, the reason is purely structural — the bath is a *kli rishon*.
 
-### R. Shimon ben Menasya St…
+### R. Shimon: Hot into Cold
 
 *V'Rabbi Shimon ben Menasya oser* — *Rabbi Shimon ben Menasya* goes further and forbids even placing hot water into the cold bath. *Amar Rav Nachman halacha k'Rabbi Shimon ben Menasya* — *Rav Nachman* rules that the *halacha* follows *Rabbi Shimon ben Menasya*. In the bath, even hot into cold is forbidden.
 
@@ -150,7 +150,7 @@ The second version — *Rav Nachman*'s position, which the *gemara* ultimately a
 
 But the first version — the initial statement of *Abaye* citing *Rabbi Chiyya* — opened the door to something quite different: the possibility that salt cooks in a *kli sheni*, because it cooks more readily than ordinary spices. If salt can cook in a *kli sheni*, what else might? The answer is: potentially many things. From this emerges the category of *kallei habishul* — items that cook easily — and the attendant question of whether the *kli sheni* principle can be relied upon when dealing with such items. Even though the *gemara* apparently rejects the first version, the fact that it was raised as a possibility means that the door was opened, however slightly, and it was not simply dismissed out of hand.
 
-### Modern Halachic Approach…
+### Kli Sheni: Modern Views
 
 Contemporary *halacha* offers essentially three approaches to the *kli sheni* question, rooted in the *gemara*'s discussion.
 

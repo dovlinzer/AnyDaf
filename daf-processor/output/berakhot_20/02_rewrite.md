@@ -126,7 +126,7 @@ Beyond the *aggadic* content, these cases carry significant *halachic* weight fo
 
 ---
 
-## Women & Mitzvot Obligati…
+## Women, Mitzvot & Time
 
 ### Time-Bound Principle
 
@@ -156,13 +156,13 @@ Returning to the topic of *tefilla* and its underlying nature, the *gemara*'s re
 
 The *halachic* consequence of this analysis is significant, and the *gemara* states it without qualification: women are obligated in *tefilla* — by which the *gemara* means *Shemoneh Esrei*, the *Amidah* — at least twice daily, *Shacharit* and *Mincha*, and perhaps *Maariv* as well, though *Maariv* has its own question of *reshut*. Virtually all *Rishonim* and *Poskim* affirm this. Yet for centuries, the practice departed dramatically from this ruling. Women were often illiterate, did not attend *shul*, and did not recite *Shemoneh Esrei* regularly. Private *tehinot* and personal prayers substituted for formal *davening*.
 
-### Historical Practice Gap
+### Birkat HaMazon
 
 The gap between the clear *halachic* ruling and the historical reality has generated significant discussion among *Poskim*. Some looked at the widespread phenomenon of women not reciting *Shemoneh Esrei* and felt compelled to reinterpret the obligation. Rather than holding women accountable for an obligation they were universally not fulfilling, they proposed a distinction between the biblical foundation of prayer — the personal, existential turning to God that requires no fixed formula — and the rabbinic superstructure of fixed texts twice daily at fixed times. Women are obligated in the former; the latter, being rabbinic and time-structured, might be categorized as *mitzvat asei shehazman grama* from which women are exempt. Saying *Modeh Ani* or reciting any personal prayer would then discharge the biblical obligation.
 
 This position is frankly a post-facto accommodation of practice rather than the straightforward reading of the *gemara*. The simple reading — that women are fully obligated in *Shemoneh Esrei* — is what most *Rishonim* say. In contemporary Modern Orthodox communities, this reading has become increasingly prominent, with the recognition that the historical non-practice was a function of social conditions — illiteracy, confinement to the home, exclusion from communal religious life — rather than *halacha*. It is worth noting that in *Chareidi* communities, where one might least expect this, women do in fact recite *Shacharit* and *Mincha* privately, though not in communal settings. It appears that the *Poskim* who grappled with the phenomenon of women not *davening* were addressing conditions that predate the modern period, and that those conditions no longer describe the reality for large segments of the observant community.
 
-### Birkat HaMazon
+### Historical Practice Gap
 
 The *mishnah* also obligates women in *Birkat HaMazon*. This might seem puzzling: even though *Birkat HaMazon* is not formally time-bound, there is a natural rhythm to eating — *b'erev basar le'echol v'lechem baboker lishboa*, evening for meat and morning for bread — suggesting that eating itself follows temporal patterns, which could render *Birkat HaMazon* quasi-time-bound. The *gemara* rules that this does not make it a *mitzvat asei shehazman grama*; women are obligated. The *gemara* will continue to develop the discussion of *Birkat HaMazon* in the next session, and we will address it then.
 

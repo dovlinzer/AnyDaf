@@ -1,4 +1,5 @@
 # Shabbat 28b — Daf Yomi Shiur
+[DAF:28a]
 
 ## Rav Yosef's Leather
 
@@ -56,6 +57,7 @@ One might object: does not Rav Yitzchak's teaching that *retzuot shchorot halach
 
 ## Tachash Identity
 
+[DAF:28b]
 ### Unique Creature
 
 > **Hebrew/Aramaic:** מַאי הָוֵי עֲלֵהּ דְּתַחַשׁ שֶׁהָיָה בִּימֵי מֹשֶׁה? אָמַר רַבִּי אִלָּעָא אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ, אוֹמֵר הָיָה רַבִּי מֵאִיר: תַּחַשׁ שֶׁהָיָה בִּימֵי מֹשֶׁה בְּרִיָּה בִּפְנֵי עַצְמָהּ הָיָה, וְלֹא הִכְרִיעוּ בּוֹ חֲכָמִים אִם מִין חַיָּה הוּא, אִם מִין בְּהֵמָה הוּא.

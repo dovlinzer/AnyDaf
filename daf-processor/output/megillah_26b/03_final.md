@@ -1,4 +1,5 @@
 # Megillah 26b — Daf Yomi Shiur
+[DAF:26a]
 
 ## Rava's Sale Conditions
 
@@ -34,6 +35,7 @@ Other *rishonim* prefer to maintain a *kedushah* model but apply it more flexibl
 
 ## Ravina's Mound Case
 
+[DAF:26b]
 ### Fallen Synagogue Sale
 
 > **Hebrew/Aramaic:** רָבִינָא הֲוָה לֵיהּ הָהוּא תִּילָּא דְּבֵי כְנִישְׁתָּא. אֲתָא לְקַמֵּיהּ דְּרַב אָשֵׁי, אֲמַר לֵיהּ: מַהוּ לְמִיזְרְעֵהּ? אֲמַר לֵיהּ: זִיל זַבְנֵיהּ מִשִּׁבְעָה טוֹבֵי הָעִיר בְּמַעֲמַד אַנְשֵׁי הָעִיר, וְזַרְעֵהּ.

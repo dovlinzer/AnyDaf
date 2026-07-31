@@ -1,4 +1,5 @@
 # Taanit 13b — Daf Yomi Shiur
+[DAF:13a]
 
 ## Bathing Rules: Aveil
 
@@ -94,6 +95,7 @@ The argument is grounded in a pointed analogy: *midi dehavay abisra vechamra* �
 
 ## Bogeret Proof
 
+[DAF:13b]
 ### Bogeret Concern
 
 > **Hebrew/Aramaic:** אֵין הַבּוֹגֶרֶת רַשָּׁאָה לְנַוֵּול אֶת עַצְמָהּ בִּימֵי אֵבֶל אָבִיהָ. הָא נַעֲרָה — רַשָּׁאָה.

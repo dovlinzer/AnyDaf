@@ -1,4 +1,5 @@
 # Pesachim 109 — Daf Yomi Shiur
+[DAF:109a]
 
 ## Intro: Reclining
 
@@ -202,6 +203,7 @@ The *gemara* challenges this reasoning: *mai kushya* — what is the difficulty?
 
 ## Four Cups
 
+[DAF:109b]
 ### Pairs Danger
 
 > **Hebrew/Aramaic:** וְלֹא יִפְחֲתוּ לוֹ מֵאַרְבָּעָה. הֵיכִי מְתַקְּנִי רַבָּנַן מִידֵּי דְּאָתֵי בֵּהּ לִידֵי סַכָּנָה, וְהָתַנְיָא: לֹא יֹאכַל אָדָם תְּרֵי, וְלֹא יִשְׁתֶּה תְּרֵי, וְלֹא יְקַנַּח תְּרֵי, וְלֹא יַעֲשֶׂה צְרָכָיו תְּרֵי?

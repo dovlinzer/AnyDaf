@@ -22,7 +22,7 @@ The *Gemara* pushes further on the concept of *af al pi chen* as a vehicle for r
 
 Abaye challenges this directly. The *mishnah* elsewhere specifies that when the debtor does repay after the creditor has said *meshameit ani*, he should not say "I am giving this to you on account of my debt" — *be-chovi ani noten lach* — but rather "this is mine, and I am giving it to you as a gift" — *sheli hen u-v'matana ani noten lach*. If the very framing of the repayment must avoid any acknowledgment of debt, how can one pressure the debtor to pay at all? That pressure itself seems to acknowledge that a real debt is being pursued.
 
-Rava responds: *talyuhu v'yahiv* — you pressure him until he gives it as a gift. The pressure is not framed as debt collection; it is an appeal to moral conscience. You are not saying "pay me what you owe me" but rather nudging him to understand that it is the right thing to do, and then he gives — voluntarily, framed as a gift. This is admittedly a fine line, and even a somewhat counterintuitive one. As the lecturer notes, it sits in obvious tension with the spirit of *shmitat kesafim*, much as the *pruzbul* does — it is the *Gemara* trying to balance the ideal of debt release with the practical reality that creditors have legitimate interests and debtors have genuine moral obligations. According to the *Rosh*'s reading, however, this is somewhat less strained: if the debt truly still exists during *shmita*, then the debtor is being encouraged to honor an obligation that is real, even if uncollectable.
+Rava responds: *talyuhu v'yahiv* — you pressure him until he gives it as a gift. The pressure is not framed as debt collection; it is an appeal to moral conscience. You are not saying "pay me what you owe me" but rather nudging him to understand that it is the right thing to do, and then he gives — voluntarily, framed as a gift. This is admittedly a fine line, and even a somewhat counterintuitive one. It sits in obvious tension with the spirit of *shmitat kesafim*, much as the *pruzbul* does — the *Gemara* is trying to balance the ideal of debt release with the practical reality that creditors have legitimate interests and debtors have genuine moral obligations. According to the *Rosh*'s reading, however, this is somewhat less strained: if the debt truly still exists during *shmita*, then the debtor is being encouraged to honor an obligation that is real, even if uncollectable.
 
 ### Abba bar Marta Story
 
@@ -40,13 +40,13 @@ This story is striking on multiple levels. Rabba himself, after the fact, said t
 
 The *Gemara* now pivots to the *pruzbul* — the mechanism instituted by Hillel to circumvent *shmitat kesafim* by transferring debts to a court, which is not subject to the *shmitta* release. Rav Nachman rules: *ne'eman adam lomar pruzbul hayah be-yadi ve-avad* — a person is believed to claim that he had a *pruzbul* and lost it, without having to produce the document. This is a significant leniency: previously we had seen opinions suggesting that certain *talmidei chakhamim* might not even need a formal written *pruzbul* or could rely on a verbal declaration; Rav Nachman does not go quite that far, but he does rule that production of the document in court is not required.
 
-### Rationale: Presumed Dili…
+### Rationale: Presumed Dili
 
 The reasoning is straightforward: *keivan de-tikinu rabanan pruzbul* — since the Rabbis instituted the *pruzbul* as the legitimate and permitted path for collecting debts after *shmita*, *lo shevik heteира ve-achil issurah* — we presume that people would not abandon the permissible path and proceed in a transgressive manner. In other words, anyone who is claiming to collect a debt almost certainly wrote a *pruzbul*; we simply presume they did. This is a generalized principle used elsewhere in halakhic reasoning: where a straightforward permissible path exists, we assume people availed themselves of it.
 
 ### Rava's Suggestion
 
-Rava applied this principle in practice. When a case came before him and the creditor had not produced a *pruzbul*, Rava asked him directly: *midi pruzbul havah lach ve-avad?* — "Is it possible that you had a *pruzbul* and you lost it?" This is the principle of *ptach picha le-ilem* — "open up your mouth to the mute" — the idea that someone who had indeed written a *pruzbul* and lost it might not even think to assert that fact. Rava's prompt invited the creditor to recall and state what was presumably the truth. There is, the lecturer acknowledges, something of a wink and nod in this exchange — Rava is actively facilitating the creditor's claim — but the underlying principle is sound: we presume people acted in the permitted manner.
+Rava applied this principle in practice. When a case came before him and the creditor had not produced a *pruzbul*, Rava asked him directly: *midi pruzbul havah lach ve-avad?* — "Is it possible that you had a *pruzbul* and you lost it?" This is the principle of *ptach picha le-ilem* — "open up your mouth to the mute" — the idea that someone who had indeed written a *pruzbul* and lost it might not even think to assert that fact. Rava's prompt invited the creditor to recall and state what was presumably the truth. There is something of a wink and nod in this exchange — Rava is actively facilitating the creditor's claim — but the underlying principle is sound: we presume people acted in the permitted manner.
 
 ### Mishnah Contradiction
 
@@ -110,7 +110,7 @@ Rava resolves this by saying: *Rabban Gamliel lo hava yada mai kamri rabbanan* �
 
 ---
 
-## Non-Jewish Slave Ownersh…
+## Non-Jewish Slave: Kinyan
 
 ### Captors' Rights
 

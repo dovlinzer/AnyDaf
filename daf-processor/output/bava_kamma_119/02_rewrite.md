@@ -2,7 +2,7 @@
 
 ## Purchasing from Shepherds
 
-### Home vs. Wilderness Anim…
+### R. Yehuda: Home vs. Wild
 
 The final *daf* of *Bava Kamma* opens with a *mishnah* concerning the permissibility of purchasing goods from shepherds, given the ever-present concern that such goods may be stolen from the flock's owner. The question is whether one may buy sheep, milk, or wool from a shepherd, and *Rabbi Yehuda* weighs in with a distinction based on where the animals are kept.
 
@@ -26,7 +26,7 @@ A *braita* adds a further avenue of permissibility: one may purchase from fruit 
 
 ---
 
-## Known Thieves Majority R…
+## Known Thieves Majority
 
 ### Rav: Majority of Property
 

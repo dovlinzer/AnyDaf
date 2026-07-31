@@ -1,4 +1,5 @@
 # Taanit 16 — Daf Yomi Shiur
+[DAF:15b]
 
 ## Intro: Rashi & Tosafot
 
@@ -180,6 +181,7 @@ Where precisely on the head are the ashes placed? *Amar Yitzchak: bimkom tefilli
 
 Having established the *what* of the special practices, the *gemara* now turns to *why*. Why does the community leave the synagogue and move to the public square? *Amar Rabbi Hiyya bar Abba*: to declare — *za'aknu betzina velo ne'aninu* — we cried out in private and were not answered. Now, *nivzeh atzmenu befarhesya* — let us degrade ourselves publicly. Perhaps public self-humiliation will succeed where private prayer has not. The implicit theory is one of divine compassion: if God sees how utterly miserable and humbled the community has made itself in the open square, perhaps that sight will move God to respond.
 
+[DAF:16a]
 ### Resh Lakish: Exile
 
 > **Hebrew/Aramaic:** רֵישׁ לָקִישׁ אָמַר: גָּלִינוּ, גָּלוּתֵינוּ מְכַפֶּרֶת עָלֵינוּ. מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ, דְּגָלוּ מִבֵּי כְנִישְׁתָּא לְבֵי כְנִישְׁתָּא.
@@ -354,6 +356,7 @@ A *baraita* sets out the qualifications in detail. He must be *metupal ve-ein lo
 
 When the *gemara* finished reciting this list, *yahivu beh rabanan einaihu b'Rabbi Yitzchak bar Ami* — all the rabbis turned and looked at *Rabbi Yitzchak bar Ami*. The glance conveyed recognition: here is the person this description is talking about.
 
+[DAF:16b]
 ### Clarifications
 
 > **Hebrew/Aramaic:** הַיְינוּ ״מְטוּפָּל וְאֵין לוֹ״, הַיְינוּ ״בֵּיתוֹ רֵיקָם״? אָמַר רַב חִסְדָּא: זֶהוּ שֶׁבֵּיתוֹ רֵיקָם מִן הָעֲבֵירָה. ״וּפִרְקוֹ נָאֶה״, אָמַר אַבָּיֵי: זֶה שֶׁלֹּא יָצָא עָלָיו שֵׁם רַע בְּיַלְדוּתוֹ.

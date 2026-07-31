@@ -28,7 +28,7 @@ This connects to a deeper philosophical point: to what degree is speech simply e
 
 ## Workers at Height
 
-### Mishna: Workers Read Alo…
+### Workers: Shema Aloft
 
 The *mishna* states: *ha'umnin korin berosh ha'ilan uverosh hanidbach* — laborers who are at the top of a tree picking fruit, or at the top of a layer of scaffolding at a construction site, may recite *shema* from where they are and need not descend. *Mah she'ein ken la'asos ken bitefila* — this is not the case for *davening*, where the requirements of *kavana* are far more stringent and *Chazal* insist on a settled state of mind before one may pray.
 
@@ -38,7 +38,7 @@ This *mishna* touches on a tension that plays out constantly: the balance betwee
 
 ---
 
-## Groom Exemption (III)
+## Groom Exemption
 
 ### Groom Exempt Mishna
 
@@ -76,7 +76,7 @@ This raises a related question: when these workers say *shema*, are they saying 
 
 ---
 
-## Groom Exemption (III)
+## Groom Exemption (II)
 
 ### Exemption Grounds
 

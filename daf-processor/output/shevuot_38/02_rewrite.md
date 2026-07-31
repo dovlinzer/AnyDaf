@@ -2,7 +2,7 @@
 
 ## Gezel Karka Debate
 
-### R. Yochanan vs. R. Eleaz…
+### R. Yochanan vs. Eleazar
 
 The daf opens by picking up approximately two-thirds of the way through 37b, with Rav Yirmiyah addressing Rabbi Abahu. The topic at hand is whether a *shevuah* may be taken when the underlying obligation involves *shibud karkos* — a lien on land. The Gemara had already established that this question was the subject of a dispute between two Amoraim: Rabbi Yochanan, who held that one is *patur* from a *shevuah* in such a case because *karka* is categorically excluded from the laws of *shevuah* and its associated *korban*, and Rabbi Eleazar, who held one is *chayav*. With this framework in place, the Gemara now asks whether these two Amoraic positions can be mapped directly onto an underlying Tannaitic dispute.
 
@@ -56,7 +56,7 @@ Rabbi Yehuda then states: *shvua lo lecha ve-lo lecha ve-lo lecha chayav al kol 
 
 Rav Yehuda citing Shmuel reads the *baraita* as follows: *klalo shel Rabbi Meir prato shel Rabbi Yehuda* — what Rabbi Meir calls a *klal* is what Rabbi Yehuda calls a *prat*, and conversely, *klalo shel Rabbi Yehuda* is *prato shel Rabbi Meir*. In other words, Shmuel reads the two authorities as strict inverses. For Rabbi Yehuda, when you say *ve-lo lecha ve-lo lecha ve-lo lecha* — with *vav* connectives — those are separate *shevuot*, what he calls *prat*. What Rabbi Yehuda calls *klal* would be the case without *vav*: *lo lecha, lo lecha, lo lecha*. For Rabbi Meir, this is reversed: with the *vav* is *klal*, and without the *vav* is *prat*.
 
-This inversion — that the absence of a *vav* could make a statement more of a *klal* than the presence of one — is genuinely difficult to understand intuitively. One might speculate that the *vav* extending the word *shevuah* across multiple denials unifies them into one statement, whereas without the *vav* each stands alone. But the lecturer frankly acknowledges that this reasoning is elusive, and invites the reader to sit with that difficulty.
+This inversion — that the absence of a *vav* could make a statement more of a *klal* than the presence of one — is genuinely difficult to understand intuitively. One might speculate that the *vav* extending the word *shevuah* across multiple denials unifies them into one statement, whereas without the *vav* each stands alone. But I frankly acknowledge that this reasoning is elusive, and invite you to sit with that difficulty.
 
 ### R. Yochanan Counter
 

@@ -26,7 +26,7 @@ Returning to the original question: how then do we know that arifah cannot be pe
 
 The Gemara answers: mi'eit rachmana gabi eglah ha-arufah — the Torah minimizes the applicability of arifah through the language it uses by the calf whose neck is broken.
 
-### Definite Article Exclusi…
+### Ha-Arufah Excludes Parah
 
 The Torah uses the expression eglah ha-arufah banachal — the calf, the one with the broken neck. The definite article heh identifies this animal uniquely: zot ba-arifah ve'ein acheret ba-arifah — this one undergoes neck-breaking, and nothing else does. This excludes even the Parah Adumah from the method of arifah.
 

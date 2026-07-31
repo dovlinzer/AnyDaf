@@ -8,7 +8,7 @@ Yesterday's discussion centered on a fundamental and far-reaching debate: are *v
 
 The woman entered that window with a *chezkas tahara* — a presumptive status of *tahara*. Now an expectation has arisen that that status will change. Is that expectation strong enough to override her status quo? The *Gemara* frames this as the question of whether *vestos* are *de'oraisa*. The meaning of "biblical" here is that there exists a general biblical principle of *chazaka* — that we follow established patterns and habits. A woman who habitually sees blood every thirtieth day exhibits a clear pattern. The question is whether that habitual pattern is sufficient to say it has changed her status quo without specific knowledge that the anticipated event has actually occurred.
 
-### Three Status Possibilities
+### Woman's Status: Tahora
 
 There are in fact three possible positions. First: she remains completely *tehora*, going by her status quo until we know otherwise. Second: she is completely *teme'ah* — the time of her expected period passed, and she is assumed to be definitively *teme'ah* unless there is absolute evidence to the contrary. Third, and intermediate: the expectation was enough to say she is no longer definitively *tehora*, but not enough to declare her definitively *teme'ah* — it places her in a state of *safek*.
 

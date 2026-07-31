@@ -1,7 +1,9 @@
 # Nazir 26b — Daf Yomi Shiur
+[DAF:26a]
 
 ## Maot Setumot
 
+[DAF:26b]
 ### Unspecified Money Intro
 
 > **Hebrew/Aramaic:** אָמַר רַב הוּנָא אָמַר רַב: לֹא שָׁנוּ אֶלָּא מָעוֹת, אֲבָל בְּהֵמָה — הֲרֵי הִיא כִּמְפוֹרֶשֶׁת.

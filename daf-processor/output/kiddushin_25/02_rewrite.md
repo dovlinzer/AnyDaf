@@ -18,7 +18,7 @@ The *gemara* asks why both directions need to be taught, since both reduce to th
 
 ## Intent & Act Nature
 
-### Accidental vs. Intention…
+### Master-Doctor Injury
 
 The *gemara* next presents a *baraita*: what if the master himself was a doctor, and the slave asked him to apply an ointment to his eye (*lechkhol lo eino*), or to treat a tooth (*lachator lo shino*), and in the course of this therapeutic intervention the master accidentally blinded the eye or knocked out the tooth? The *baraita* rules: *sicheik b'adon ve-yatzah le-cheirut*—the slave laughs in his master's face and goes free. The unintended result governs; the therapeutic purpose does not shield the master.
 

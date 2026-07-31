@@ -1,4 +1,5 @@
 # Sanhedrin 75 — Daf Yomi Shiur
+[DAF:75a]
 
 ## Yeihareg Ve'al Ya'avor
 
@@ -244,6 +245,7 @@ But first, a difficulty. The *baraita* says the *zimah*-*zimah* connection exten
 
 Abaye offers his interpretation of the *baraita*. First he addresses *zecharim ki-nekevot* — "males like females." This does not mean granddaughter through a son versus granddaughter through a daughter (which are both explicit in the same verse). Rather, it means: descendants of the wife (*she'er haba mimena*) — her daughters and granddaughters — are already covered by the *zimah* verses. How do we know that descendants of the husband (*she'er haba mimenu*) — his own daughters and granddaughters from other relationships — also receive *sereifah*? That is the question of *zecharim ki-nekevot*: making the male line like the female line.
 
+[DAF:75b]
 ### Hena Link
 
 > **Hebrew/Aramaic:** אָמַר רָבָא: אֲמַר לִי רַב יִצְחָק בַּר אֲבוּדִימִי, אָתְיָא ״הֵנָּה״ ״הֵנָּה״, אָתְיָא ״זִמָּה״ ״זִמָּה״.

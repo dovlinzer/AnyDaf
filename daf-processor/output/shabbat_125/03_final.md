@@ -1,4 +1,5 @@
 # Shabbat 125 — Daf Yomi Shiur
+[DAF:125a]
 
 ## Burning Vessels
 
@@ -334,6 +335,7 @@ This is the precise inverse of the *shever kli* discussion: there, an object beg
 
 The two positions regarding the barrel stone are in direct tension with the *mishnah*'s case of the stone in the gourd. Rabba raises the challenge against his own position (that the stone on the barrel remains *muktzah*): the *mishnah* in the *kiruyah* case says that if the stone does not fall out, one may use the gourd — implying that the tight-fitting stone is automatically rendered a *kli*, even without any deliberate act. Does that not prove that merely using an object functionally suffices to make it a *kli*?
 
+[DAF:125b]
 ### Rav Ami vs Rav Yosef
 
 > **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף, וּמוֹתְבִינַן אַשְּׁמַעְתִּין: אִם לָאו — אֵין מְמַלְּאִין בָּהּ! וְלָא הִיא. הָתָם, כֵּיוָן דְּלָא הַדְּקַהּ — בַּטּוֹלֵי בַּטְּלַהּ. בְּמַאי קָמִיפַּלְגִי? מָר סָבַר בָּעֵינַן מַעֲשֶׂה, וּמָר סָבַר לָא בָּעֵינַן מַעֲשֶׂה.

@@ -1,4 +1,5 @@
 # Gittin 61 — Daf Yomi Shiur
+[DAF:61a]
 
 ## Eruv & Reputation
 
@@ -246,6 +247,7 @@ This last clause — that you cannot help someone who eats their produce in *tum
 >
 > **Translation:** **Rabbi Ile'a says: With what are we dealing here,** in the previously mentioned *baraita*, which teaches that one may deposit his tithed produce with one who eats his own produce in a state of ritual purity? This is referring to a case where one deposited the produce **in an earthenware vessel with a tightly bound cover.** In such a case, there is no concern that the priest who is suspected of partaking of *teruma* in a state of ritual impurity will touch the produce and render it impure.
 
+[DAF:61b]
 ### Unsoaked Grain
 
 > **Hebrew/Aramaic:** וְלֵיחוּשׁ שֶׁמָּא תְּסִיטֶנּוּ אִשְׁתּוֹ נִדָּה!

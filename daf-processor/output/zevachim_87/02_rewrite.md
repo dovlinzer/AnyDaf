@@ -22,7 +22,7 @@ The *Gemara* therefore addresses a case in which the pieces of meat (*pirshu kod
 
 Rabbah answers: *Chatzos sheni ochaltan* — the second midnight, Monday night, will confer the status of "consumed" upon this hardened meat. In Rabbah's view, every *chatzos* carries the power to reclassify hardened meat as consumed, so if the meat missed Sunday midnight, Monday midnight will suffice.
 
-### Rav Chisda: Alot Hashach…
+### Rav Chisda: Alot Shachar
 
 Rav Chisda disagrees: *Amud Hashachar ochaltan* — daybreak, rather than the following midnight, will change the status. For Rav Chisda, it is not necessary to wait until Monday midnight; the dawn of Monday morning renders the meat no longer fit for the *mizbe'ach*. This is not because it becomes classified as ash — rather, the meat becomes *notar*: with the arrival of the morning of the following day it is legally leftover and may not be returned to the altar.
 

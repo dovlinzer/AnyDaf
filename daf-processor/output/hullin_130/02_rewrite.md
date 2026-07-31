@@ -22,7 +22,7 @@ It bears noting that these gifts are not *kadosh* in the manner of *terumah*; th
 
 ---
 
-## Non-sanctified vs sacrif…
+## Non-sanctified vs
 
 ### Application scope
 
@@ -80,7 +80,7 @@ Similarly with *ma'aser behemah*: one gathers all newly born animals of the year
 
 The *Mishnah* now presents the contrasting case: *kol shekadam hekdeshan es mumam* — where the sanctification preceded the blemish — or *mum over kodem hekdeshan* — where a *mum over*, a transient blemish, preceded sanctification. A transient blemish does not define the animal's identity, since it will heal; it does not bar the animal from *kedushat korban*, and it does not prevent the sanctity from taking hold. If the animal was then sanctified and only later developed a permanent blemish — *ve'achar kach nolad lahem mum kavua* — the permanent blemish occurred after the animal already possessed the full sanctity of a *korban*. As a result, all of the rules of *kedushat korban* apply.
 
-### Post-redemption restrict…
+### Post-redemption limits
 
 For such an animal, once it acquires its permanent blemish and is redeemed, the following consequences obtain: *peturim min habechorahumin hamatnot* — it is exempt from the laws of *bechorah*, and one does not give *zeroa lechayayim vekeivah* from it after *shechita*. *Ve'einam yotzim lechulin lehiggazez ulehe'aved* — it does not fully return to *chullin*; it may not be shorn and may not be worked. *Uveladan vechalban assur le'achar pidyonam* — even after redemption, its offspring and milk are forbidden for benefit.
 
@@ -152,7 +152,7 @@ Before the *kohen* takes possession, Rav Chisda's rule holds: one who damages th
 
 ## Poor gifts analogy
 
-### Traveler taking poor gif…
+### Traveler Takes Poor Gifts
 
 The *Gemara* introduces a *baraita* from a related domain to test Rav Chisda's ruling. The *baraita* discusses a *ba'al habayit* — a person of means — who is traveling from place to place and finds himself with no funds or food. Being temporarily without resources, he is permitted to take *leket*, *shikcha*, *pe'ah*, and *ma'aser ani* — the agricultural gifts designated for the poor — even though he is not ordinarily eligible.
 

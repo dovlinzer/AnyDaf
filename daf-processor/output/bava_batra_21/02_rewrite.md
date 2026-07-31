@@ -2,7 +2,7 @@
 
 ## Store in Courtyard
 
-### Mishnah: Store in Courty…
+### Mishnah: Courtyard Store
 
 The *mishnah* at the bottom of 20b introduces a set of zoning questions that are highly practical and immediately relatable: what commercial activity may one conduct in a shared residential *chatzer*? The *mishnah* opens with the case of *chanut she-be-chatzer* — a store opened within a courtyard shared by multiple households. The ruling is that the other residents may object: *yachol limchot beyado*. The basis for objection, as the *mishnah* phrases it, is "I cannot bear all those coming and going" — the disruption caused not merely by noise, but by the influx of outside foot traffic into what is fundamentally a private residential space.
 
@@ -18,7 +18,7 @@ The underlying principle, familiar to anyone who has lived in an apartment build
 
 The *gemara* immediately asks: *mai shna reisha u-mai shna seifa*? Why is it that in the first clause (*reisha*) one can object to outside traffic, yet in the last clause (*seifa*) one cannot object to the sound of children? The *gemara* initially assumes *tinokot* refers to children coming in to make purchases — which would seem to be exactly the kind of outside foot traffic the *reisha* prohibits. Why then is it permitted?
 
-### Abaye: Neighboring Court…
+### Abaye: Neighboring Court
 
 Abaye resolves the difficulty by reframing the case of the *seifa*: *seifa atiyan l'chatzer acheret* — the store in the *seifa* was opened not in this *chatzer* but in a neighboring one. Imagine two adjacent courtyards opening onto the same *mavoi*. If the residents of the neighboring *chatzer* have no objection to a store operating among them, a resident of the adjacent *chatzer* cannot complain that the resulting foot traffic in the shared alleyway disturbs him. People are not entering his *chatzer* at all. There is a limit to what one may object to: interference must be direct and within one's own space.
 

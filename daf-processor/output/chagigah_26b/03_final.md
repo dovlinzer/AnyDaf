@@ -1,4 +1,5 @@
 # Chagigah 26b — Daf Yomi Shiur
+[DAF:26a]
 
 ## Testimony & Trust
 
@@ -202,6 +203,7 @@ The *gemara* notes that a parallel *baraita* warns against touching not only the
 
 The *gemara* explains: the *shulchan* carries the requirement of *tamid* — it says *lechem panim lefanai tamid*, always before God — and therefore it can never be removed for immersion. The *menorah*, by contrast, does have the word *tamid* associated with it — *leha'alos ner tamid* — but Rashi clarifies that this *tamid* refers only to the nighttime burning: the *menorah* is to be burning from evening to evening, not continuously through the day. Since the *menorah* does not have a round-the-clock *tamid* requirement, it can in principle be removed and immersed during the daytime.
 
+[DAF:26b]
 ### Tamei Question
 
 > **Hebrew/Aramaic:** וְאִידָּךְ: כֵּיוָן דִּכְתִיב: ״וְאֶת הַמְּנוֹרָה נֹכַח הַשֻּׁלְחָן״, כְּמַאן דִּכְתִיב בַּהּ ״תָּמִיד״ דָּמֵי. וְאִידַּךְ: הָהוּא לִקְבּוֹעַ לָהּ מָקוֹם הוּא דַּאֲתָא. וְתִיפּוֹק לִי דִּכְלִי עֵץ הֶעָשׂוּי לְנַחַת הוּא, וְכׇל כְּלִי עֵץ הֶעָשׂוּי לְנַחַת לָא מְטַמֵּא. מַאי טַעְמָא — דּוּמְיָא דְשַׂק בָּעֵינַן: מָה שַׂק מִיטַּלְטֵל מָלֵא וְרֵיקָם — אַף כֹּל מִיטַּלְטֵל מָלֵא וְרֵיקָם!

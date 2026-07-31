@@ -86,7 +86,7 @@ From there the *Gemara* reasons by inference: if *nuksha* — which is by itself
 
 The first attribution, then, is that of Rav Yehuda in the name of Rav: the *Mishnah* reflects Rabbi Meir's view. Rabbi Meir's ruling about *se'or* demonstrates the existence of a *lav*-without-*karet* category for *nuksha*, and the *Mishnah*'s enumeration of both *chametz betaarovet* and *chametz nuksha* can be understood through his framework — with *nuksha* being the more obviously lesser case that anchors the inference to *taaruvet*.
 
-### Rav Nachman: Rabbi Eliez…
+### Rav Nachman: R. Eliezer
 
 Rav Nachman offers an alternative attribution: the *Mishnah* is Rabbi Eliezer. The evidence is a *baraita* that states explicitly: *chametz dagan gamur onasho karet* — fully fermented *chametz* carries *karet* — *al eruvo belav* — for *chametz* in a mixture, there is a *lav*. This is a stark, direct statement from Rabbi Eliezer that *chametz betaarovet* falls into the middle category of a negative prohibition without *karet*. According to this attribution, the inference runs in the opposite direction: from the mixture (where real *chametz* exists but is embedded in other things) we infer that *nuksha* by itself — which though unencumbered by a mixture is nevertheless lesser *chametz* — is at least as obviously forbidden.
 
@@ -104,7 +104,7 @@ The resolution implicit in the *Gemara* is that each view holds that one *tanna*
 
 ---
 
-## Summary & Explanatio (II)
+## Summary & Explanations
 
 ### Small Proportions
 

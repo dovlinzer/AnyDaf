@@ -1,6 +1,6 @@
 # Eruvin 88 — Daf Yomi Shiur
 
-## Chananya's Tiberias Leni…
+## Chananya: Leniencies Tib.
 
 ### Intro & Chananya Overview
 
@@ -40,11 +40,11 @@ Rav Shizvi raises a challenge: *vechi mah bein zeh le-ukkah* — what is the dif
 
 The parallel seems to undercut Rabbah bar Rav Huna's ruling. Why should pouring water from the balcony be forbidden on the grounds that it will flow out into the *karmelis*? If we permit pouring into a pit in the courtyard even when we know the water will flow from the pit into the *reshut harabim*, the same logic should apply here: one's act is directed at the virtual *reshut hayachid* below, and whatever flows from there into the *karmelis* is incidental.
 
-### Resolution: Absorption v…
+### Resolution: Absorption
 
 The Gemara's answer is captured in the phrase *hani tayeimi vehani lo tayeimi* — the waters in the one case cease and the waters in the other do not. In the case of the courtyard pit, the fundamental design of the pit is that the water absorbs into the earth. Even if there is currently water standing in the pit, that is a temporary state; the ground will eventually absorb it. Therefore, the pit regularly and typically has available capacity, and one's act of pouring into it is genuinely an act of putting water into a receiving vessel that will hold it. By contrast, when water is poured down from the balcony onto the open surface of the Kinneret, there is no such absorption. The water flows outward continuously and immediately. There is never a state of rest within the virtual *reshut hayachid*. The water's movement out into the *karmelis* is not an occasional overflow but the constant, predictable reality. It is therefore treated as though one is pouring directly into the *karmelis*, even if technically the water passes through the *reshut hayachid* first.
 
-### Alternative: No Distinct…
+### No Distinction
 
 The Gemara then presents an alternative version of Rabbah bar Rav Huna's ruling: *lo teima lemalos hu deshari lishpoch assur* — do not say that drawing is permitted and pouring is forbidden. Rather, *lishpoch nami shari* — pouring too is permitted. Rav Sheshes remarks that this is obvious — *hainu uka*, this is simply the case of the pit. The Gemara then notes: one might have thought the distinction *hani tayeimi vehani lo tayeimi* applies — that the pit case is better because the water is eventually absorbed, and the balcony case is worse because it is not — and therefore, *kamashmalan*, the ruling comes to teach us that we do not draw that distinction. According to this second view, there is no meaningful difference between drawing and pouring, and the balcony case is treated the same as the pit: once the act is directed at a valid receptacle within the *reshut hayachid*, what subsequently happens to the water is not the actor's concern.
 

@@ -1,4 +1,5 @@
 # Kiddushin 61 — Daf Yomi Shiur
+[DAF:61a]
 
 ## Al Menat Conditions
 
@@ -188,6 +189,7 @@ The fundamental disagreement can now be sharpened. *Rabbi Meir* holds that witho
 
 To illustrate his position, *Rabbi Hanina ben Gamliel* offers a *mashal*. A man on his deathbed distributes his estate among his sons. He says: Reuven shall inherit such-and-such a field; Shimon shall inherit such-and-such a field; and Levi, if he gives two hundred *zuz* to the estate, shall inherit field number three. If he had stopped there, one might have worried that Levi is disinherited entirely if he fails to give the money. The father therefore adds: if he does not give, he shall inherit together with his brothers among the remaining assets. *Mi garam lo l'yerash im echav b'shar nechasim? Kefelo garam lo* — what enabled him to share with his brothers in the remainder? The repetition — the doubled statement — did that. The parable's point: the doubled language was needed not to prevent the original promise from standing in the absence of fulfillment, but affirmatively to confer a benefit that would not otherwise have existed.
 
+[DAF:61b]
 ### Final Resolution
 
 > **Hebrew/Aramaic:** וְהָא לָא דָּמְיָא מָשָׁל לְמַתְנִיתִין! הָתָם קָתָנֵי: יֵשׁ בַּמַּשְׁמָע שֶׁאֲפִילּוּ בְּאֶרֶץ כְּנַעַן לֹא יִנְחָלוּ, אַלְמָא כְּפֵילָה לְאֶרֶץ גִּלְעָד נָמֵי מַהֲנֵי. וְהָכָא קָתָנֵי: מִי גָּרַם לוֹ לִירַשׁ עִם אֶחָיו בִּשְׁאָר נְכָסִים – כְּפֵילוֹ גָּרַם לוֹ, אַלְמָא כְּפֵילָה לִשְׁאָר נְכָסִים הוּא דְּקָמַהֲנֵי! לָא קַשְׁיָא. הָא – מִקַּמֵּי דְּנֵימָא לֵיהּ רַבִּי מֵאִיר ״וְנֹאחֲזוּ״, הָא – לְבָתַר דְּנֵימָא לֵיהּ רַבִּי מֵאִיר ״וְנֹאחֲזוּ״.

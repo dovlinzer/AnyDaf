@@ -1,4 +1,5 @@
 # Bava Batra 170 — Daf Yomi Shiur
+[DAF:170a]
 
 ## Otiyot Niknas Bimesira
 
@@ -258,6 +259,7 @@ Rabbi Yosi responds: *kach yafe lo* — let the borrower bear that responsibilit
 
 *Rav Huna* transmitting in the name of *Rav* rules: *ein halacha lo k'Rabbi Yehuda velo k'Rabbi Yosi* — we rule neither like Rabbi Yehuda nor like Rabbi Yosi. Instead, *beis din mekri'in hashtar*, the *beis din* tears up the original *shtar*, *vekotvim lo shtar acher mizman rishon* — and writes a new *shtar* for the reduced amount, but dated from the original date. This resolves both concerns: the borrower has no vulnerable receipt to guard (Rabbi Yehuda's concern is met), and the lender suffers no loss of lien because the new document bears the original date (Rabbi Yosi's concern is met). As *Tosafot* notes, the critical phrase in Rav's formulation is *mizman rishon* — from the original time.
 
+[DAF:170b]
 ### Edim Authority
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב נַחְמָן לְרַב הוּנָא, וְאָמְרִי לַהּ רַב יִרְמְיָה בַּר אַבָּא לְרַב הוּנָא: אִי שְׁמִיעָא לֵיהּ לְרַב הָא [בָּרַיְיתָא] דְּתַנְיָא: עֵדִים מְקָרְעִין אֶת הַשְּׁטָר, וְכוֹתְבִין לוֹ שְׁטָר אַחֵר מִזְּמַן רִאשׁוֹן – הֲוָה הָדַר בֵּיהּ. אֲמַר לֵיהּ: שְׁמִיעַ לֵיהּ, וְלָא הֲדַר בֵּיהּ.

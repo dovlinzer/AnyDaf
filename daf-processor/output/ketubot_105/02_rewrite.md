@@ -202,7 +202,7 @@ The resolution reframes the *kal v'chomer* entirely. The statement *ki hashochad
 
 ---
 
-## King & Judge Self-Suffic…
+## King & Judge: Land
 
 ### King Verse
 

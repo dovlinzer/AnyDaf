@@ -1,4 +1,5 @@
 # Nazir 54b — Daf Yomi Shiur
+[DAF:54a]
 
 ## Mishna Review
 
@@ -56,6 +57,7 @@ To understand the stakes: if the concern is the ground (*gusha*), then the *tuma
 
 ## Tosafot Airspace
 
+[DAF:54b]
 ### Transport Cases
 
 > **Hebrew/Aramaic:** הָכִי נָמֵי מִסְתַּבְּרָא, מִדְּקָתָנֵי: וְכֵלִים הַנּוֹגְעִים בְּמֵת. הָנֵי כֵּלִים בְּנֵי הַזָּאָה אִינּוּן? אֶלָּא שְׁמַע מִינַּהּ אַשְּׁאָרָא.

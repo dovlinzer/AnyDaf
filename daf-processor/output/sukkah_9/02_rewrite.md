@@ -1,6 +1,6 @@
 # Sukkah 9 — Daf Yomi Shiur
 
-## Beis Shammai vs. Beis Hi…
+## Beis Shammai vs Hillel
 
 ### Old Sukkah Definition
 

@@ -1,6 +1,6 @@
 # Yevamot 51 — Daf Yomi Shiur
 
-## Framework: Acts After Ac…
+## Framework: Yibum Acts
 
 ### Mishna Overview
 
@@ -32,7 +32,7 @@ The practical upshot is that the Rabbis needed these institutions to carry some 
 
 ---
 
-## Biah Pesulah Doctrin (II)
+## Biah Pesulah Doctrine
 
 ### Biah After Get
 
@@ -150,6 +150,6 @@ The *Gemara* resolves this by placing Shmuel's ruling in its proper doctrinal co
 
 Rabban Gamliel, however, holds *ein zikah* — there is no *zikah*. While there is a *mitzvah* of *chalitzah* binding the *yevama* to the process, Rabban Gamliel does not recognize the category of a quasi-marital bond called *zikah* as such.
 
-### Consequence: One Chalitz…
+### Chalitzah Without Zikah
 
 If there is no *zikah* to be weakened, then a *get* given to a *yevama* cannot diminish what does not exist. The *chalitzah* that follows the *get* is therefore not a weakened *chalitzah* — it is as full and effective as any other *chalitzah*. Consequently, Rabban Gamliel can consistently hold that one *chalitzah* with the first *yevama* suffices, with no need to repeat the process for the second. Shmuel's ruling of multiple *chalitzahs* and Rabban Gamliel's ruling of a single *chalitzah* reflect not a contradiction but the application of each position to its own foundational premise — *yeish zikah* versus *ein zikah* — and the two rulings are entirely coherent with one another.

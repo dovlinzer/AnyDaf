@@ -112,7 +112,7 @@ Where precisely on the head are the ashes placed? *Amar Yitzchak: bimkom tefilli
 
 ## Ark Out, Sackcloth On
 
-### Public Square: No Respon…
+### Public Square: No Reply
 
 Having established the *what* of the special practices, the *gemara* now turns to *why*. Why does the community leave the synagogue and move to the public square? *Amar Rabbi Hiyya bar Abba*: to declare — *za'aknu betzina velo ne'aninu* — we cried out in private and were not answered. Now, *nivzeh atzmenu befarhesya* — let us degrade ourselves publicly. Perhaps public self-humiliation will succeed where private prayer has not. The implicit theory is one of divine compassion: if God sees how utterly miserable and humbled the community has made itself in the open square, perhaps that sight will move God to respond.
 

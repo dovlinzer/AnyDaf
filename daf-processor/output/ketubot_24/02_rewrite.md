@@ -1,12 +1,12 @@
 # Ketubot 24 — Daf Yomi Shiur
 
-## Captive Women & Single W…
+## Captive Women & Witness
 
 ### Captive Women Testimony
 
 The daf opens by picking up from the *mishna* on the bottom of 23b, which addressed two women who had been taken captive. The fundamental *chiddush* established there is that although each woman is not believed to testify about her own status — if witnesses already established that she was taken captive — she is believed to testify about her fellow captive. This holds even where there exists a possible concern of reciprocity, a concern the *Gemara* will make explicit in the course of today's discussion.
 
-### Single Witness Despite R…
+### Believing Single Witness
 
 Beyond the mutual testimony of the two women, the *mishna* also establishes a broader principle regarding *ed echad*: even a single witness is believed in matters relating to captivity. Moreover, the *Gemara* indicated that even in a case of one witness against one — where one *ed* says she was violated and another says she was not — we follow the witness who says she was not violated, even if that witness would normally occupy a weaker evidentiary position under standard *halacha*, as in the case where the exonerating witness is a woman testifying against a man's claim. This represents a particular leniency, parallel to principles encountered in Yevamos, in extending credibility to the *ed* who exonerates. Further implications of this principle will emerge as the daf proceeds.
 
@@ -104,7 +104,7 @@ This still leaves a question: what is the case of the first *baraita*, where the
 
 The application to the *baraita* about the donkey drivers follows: when *khlei uminuto b'yado*, when the merchant has his scales and commercial equipment visibly deployed, it is apparent that he is preparing to sell his grain in the next city. In that circumstance, the concern about reciprocal collusion is heightened and credibility is withheld. *Tosafot* reads the application of *khlei uminuto b'yado* in the opposite direction — as explaining why we do believe the *kohen* in the *mishna*'s case: the *kohen* carries the vessels and apparatus associated with *kehuna* practice, which independently serves as circumstantial evidence of his status.
 
-## Terumah to Yichus Transl…
+## Terumah to Yichus: Status
 
 ### Elevation Question
 
@@ -140,11 +140,11 @@ Conversely, even according to the view that eating *terumah* does not translate 
 
 *HaTirshatha* — identified by *Rashi* as *Nechemia* — then addressed them: *harei atem b'chezkatchem*, you retain your presumptive status. He asked: what were you eating in exile? *B'kodshei gvul* — *terumah*, the *kodshim* eaten outside the *Beit HaMikdash*. Very well, *af kan b'kodshei gvul* — you may continue eating *terumah*. But *asher lo yochlu mikodesh hakodashim* — they may not eat from the *korbanot*, and this restriction remains *ad amod kohen l'urim v'tumim* — until *mashiach* comes, since there was no *urim v'tumim* in the second *Beit HaMikdash* to verify status with certainty. The principle being illustrated is *gedola chazaka*: the fact that they had been eating *terumah* in exile serves as a *chazaka* that allows them to continue doing so, despite their inability to produce documentation.
 
-### Chazaka Prevents Escalat…
+### Chazaka Escalation Check
 
 The *Gemara* then asks: if we hold *ma'alin mi'nesiat kapayim leyuchsin*, and these *kohanim* were presumably also performing *duchaning* in exile as part of their established practice, then by allowing them to continue their practice upon their return, we would be allowing them to *duchan* — and through *duchaning* they would be elevated to full *yichus* status, thereby allowing them to work in the *Beit HaMikdash*. But that is precisely what *Nechemia* was trying to prevent. The very structure of *Nechemia*'s ruling — allowing *terumah* but withholding full *kehuna* recognition — therefore implies that *duchaning* does not translate into *yichus*. Or does it?
 
-### Terumah Levels Distincti…
+### Terumah: Torah vs
 
 The *Gemara* responds: *shani hacha d'raiah chezkaihu* — the case of *bnei Barzillai* is different, because their status had been openly stigmatized and thrown into question. Since everyone knew their status was doubtful — and indeed the *pasuk* says explicitly that they were excluded from the *kehuna* — no one would translate their *duchaning* into full *yichus*, because the stigma was communally recognized. This does not prove that in ordinary circumstances *duchaning* cannot translate into *yichus*.
 

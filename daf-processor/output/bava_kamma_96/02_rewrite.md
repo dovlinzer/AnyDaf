@@ -74,7 +74,7 @@ Rav Pappa raises a difficulty against this ruling. He asks Rav Ashi: does Shmuel
 
 There is a second statement attributed to Shmuel: *ba'al chov goveh et ha-shevach* — the creditor collects the *shevach* along with the principal. This appears to say that the creditor takes the full improved value of the land without any obligation to reimburse the purchaser at all. The two statements of Shmuel are directly contradictory.
 
-### Resolution: Ready vs. Na…
+### Ready vs. Natural Growth
 
 The resolution given is: *lo kashya, kan be-shevach ha-magiya li-ktefayim, kan be-shevach she-eino magiya li-ktefayim* — it is not difficult; one ruling applies to *shevach ha-magiya li-ktefayim* and the other to *shevach she-eino magiya li-ktefayim*. Rashi explains *magiya li-ktefayim* as referring to wheat that has grown tall enough to be harvested — crops that are effectively ready to be reaped and are therefore conceptually distinct from the land itself. Since such produce is on the verge of being separable from the land, the creditor must reimburse the purchaser for it. By contrast, if the *shevach* has not yet reached that stage, it is treated as simply an enhancement to the land's value, which the creditor is entitled to seize along with the land.
 
@@ -100,7 +100,7 @@ If, however, the loan equals or exceeds the total current value of the land, the
 
 ## Purchaser's Rights
 
-### Purchaser Can Force Paym…
+### Purchaser Forces Payment
 
 This resolution, however, creates a tension with a separate debate. The *gemara* raises the question: according to the view that if the purchaser has cash on hand, he may pay the creditor off and thereby prevent the creditor from seizing the land — if that is true, then consider the following. The creditor comes to seize the land and pay the purchaser the value of his improvement. The purchaser, who has invested $500 in the land, might argue: had I had the funds, I could have paid you off entirely and kept the whole land. Now that you are seizing the land, you should at least leave me a plot of land corresponding to my $500 share of the improvement.
 
@@ -114,7 +114,7 @@ The *gemara* resolves the tension by invoking a special case: *de-shaviyah nihal
 
 The broader point of this entire digression is that when a *gazlan* has increased the stolen object's value, and the time comes for the *nigzal* to reclaim it, the *gazlan* — or his *lokeach* — can be paid off rather than remaining a partner. This principle is consistent across the *bechor*, creditor, and *gazlan* cases.
 
-## Transfer of Shevach Righ…
+## Gazlan & Purchaser
 
 ### Rights Transfer
 
@@ -226,7 +226,7 @@ Rav Nachman clarified: *mi kamina neshumei kulei? ela palga kamina* — I did no
 
 Rava's second objection was more fundamental: *sof sof gezeilah hi ve-ka hadra be-einah* — ultimately this is a case of *gezeilah*, and the stolen object is being returned in its original form. The *mishnah* itself states: *kol ha-gazlanin meshalmin ke-sha'at ha-gezeilah* — all *gazlanim* pay the value at the time of the theft. If the oxen are returned intact, the *gazlan* has discharged his obligation. The principle of *keshat hag'zeilah* should mean he owes no more. Why should he be required to pay for the increase his land derived from their use?
 
-## Habitual Gazlan Punishme…
+## Habitual Gazlan: Extra
 
 ### Judicial Authority
 

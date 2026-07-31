@@ -1,4 +1,5 @@
 # Bekhorot 40b — Daf Yomi Shiur
+[DAF:40a]
 
 ## Doubled Ear & Pig Tail
 
@@ -50,6 +51,7 @@ The *gemara* then gives a corresponding formulation regarding the ear: *oznav kf
 
 *Rav Pappa* then offers a clarification about the pig-like tail: *lo teima dekatina* — do not think the concern is only that the tail is small, since a pig's tail is indeed small and short. Rather, *de'kericha af al gav de'alima* — even if the tail is of normal thickness or size, if it is rounded like a pig's tail, that suffices. As for the meaning of "rounded," Rashi explains that the cross-section of a pig's tail is more circular, whereas that of other animals is more oblong. The possibility that "rounded" means curled is also a natural reading, and Rashi does address that as well.
 
+[DAF:40b]
 ### Vertebrae Count
 
 > **Hebrew/Aramaic:** אוֹ שֶׁאֵין בָּהּ שָׁלֹשׁ חוּלְיוֹת וְכוּ׳. אָמַר רַב הוּנָא: בַּגְּדִי — שְׁתַּיִם הֲרֵי זֶה מוּם, שָׁלֹשׁ אֵינוֹ מוּם. בַּטָּלֶה — שָׁלֹשׁ הֲרֵי זֶה מוּם, אַרְבַּע אֵינוֹ מוּם. מֵיתִיבִי: בַּגְּדִי — אַחַת הֲרֵי זֶה מוּם, שְׁתַּיִם אֵינוֹ מוּם. בַּטָּלֶה — שְׁתַּיִם הֲרֵי זֶה מוּם, שָׁלֹשׁ אֵינוֹ מוּם. תְּיוּבְתָּא דְרַב הוּנָא.

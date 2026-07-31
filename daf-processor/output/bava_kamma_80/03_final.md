@@ -1,4 +1,5 @@
 # Bava Kamma 80 — Daf Yomi Shiur
+[DAF:79b]
 
 ## Takkanot: Animals & Traps
 
@@ -114,6 +115,7 @@ A related episode involves Rabban Gamliel's students, who asked him: *mahu la'as
 
 The *gemara* now presents a vivid narrative that throws these rulings into relief. A certain righteous person (*chasid echad*) fell ill with a heart condition and consulted physicians, who prescribed a striking remedy: he must drink boiling-fresh milk — *chalav rotei'ach* — from morning to morning, meaning either directly from the animal or expressed and consumed immediately, while still at the animal's body temperature. A goat was brought for him and tied to the legs of his bed — precisely the arrangement Rabban Gamliel had described.
 
+[DAF:80a]
 ### Visitors' Recoil
 
 > **Hebrew/Aramaic:** לְיָמִים נִכְנְסוּ חֲבֵירָיו לְבַקְּרוֹ, כֵּיוָן שֶׁרָאוּ אוֹתָהּ הָעֵז קְשׁוּרָה בְּכַרְעֵי הַמִּטָּה – חָזְרוּ לַאֲחוֹרֵיהֶם, וְאָמְרוּ: לִסְטִים מְזוּיָּין בְּבֵיתוֹ שֶׁל זֶה, וְאָנוּ נִכְנָסִין אֶצְלוֹ?!
@@ -250,6 +252,7 @@ The *gemara* introduces one of the more memorable episodes of the *daf*. Rav, Sh
 
 While they were sorting out this arrangement — *adahachi ve-hachi* — a cat suddenly attacked the baby, biting off his hand. *Rashi* and the context suggest this was no ordinary house cat; the violent nature of the attack implies a larger or unusually aggressive feline. Rav immediately went out and taught: *chatul mutar le-hargo* — a cat may be killed; *ve-assur le-kaymo* — and it is forbidden to keep one; *ve-ein bo mishum gezel* — and one who takes it commits no *gezel* (theft); *ve-ein bo mishum hashavas aveidah* — and one who finds it has no obligation to return it to its owner.
 
+[DAF:80b]
 ### Gemara Questions
 
 > **Hebrew/Aramaic:** וְכֵיוָן דְּאָמְרַתְּ ״מוּתָּר לְהוֹרְגוֹ״, מַאי נִיהוּ תּוּ ״אָסוּר לְקַיְּימוֹ״? מַהוּ דְּתֵימָא: מוּתָּר לְהוֹרְגוֹ, אִיסּוּרָא לֵיכָּא; קָא מַשְׁמַע לַן.

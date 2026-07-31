@@ -1,4 +1,5 @@
 # Sanhedrin 8b — Daf Yomi Shiur
+[DAF:8a]
 
 ## Motzi Shem Ra Intro
 
@@ -86,6 +87,7 @@ Now the question is inverted: do we need to keep all twenty-three judges to hear
 
 ## Baraita & Cases
 
+[DAF:8b]
 ### Baraita Statement
 
 > **Hebrew/Aramaic:** מֵיתִיבִי: וַחֲכָמִים אוֹמְרִים, תְּבָעוֹ מָמוֹן – בִּשְׁלֹשָׁה, תְּבָעוֹ נְפָשׁוֹת – בְּעֶשְׂרִים וּשְׁלֹשָׁה.

@@ -72,11 +72,11 @@ Rabban Gamliel takes neither approach: *lo yachadesh bah davar* — do nothing a
 
 The *gemara* attempts to draw a correspondence between the two disputes. Rabbi Meir of the *baraita*, who permits bloodletting only where no *mum* results — addressing the animal's need while avoiding anything halachically problematic — is said to parallel Rabbi Eliezer, who protects the *terumah* without taking any questionable action. The common thread is: help the object at risk, but do nothing that crosses a halachic line. The *chachamim* of the *baraita*, who permit doing something halachically questionable (creating a *mum*) for the sake of salvaging the situation, parallel Rabbi Yehoshua, who permits the indirect exposure of *terumah* to *tumah* in order to make it usable. Rabbi Yehuda, who says do nothing and let the animal die, parallels Rabban Gamliel's hands-off approach.
 
-### Objection 1: Direct/Indi…
+### Direct vs Indirect Action
 
 The *gemara* immediately subjects this comparison to a battery of objections. The first: *dilma ad kan lo ka'amar Rabbi Meir hatam — dekavid beyadayim* — perhaps Rabbi Meir's restriction in the *bechor* case is specifically because one is performing a direct, hands-on act that may produce a *mum*. By contrast, in Rabbi Yehoshua's scenario with the wine, the *tumah* would come about only indirectly (*de-garma*) — the person merely exposes the barrel, and external agents cause the *tumah*. Perhaps, then, Rabbi Meir would actually agree with Rabbi Yehoshua by the *terumah* case, where only indirect action is involved.
 
-### Objection 2: Facts/Urgen…
+### Objection: Facts v
 
 The second objection runs in the opposite direction: perhaps Rabbi Eliezer's protectiveness by the wine is specifically because the facts remain unresolved — *shema yavo Eliyahu ve-yitaharenu*, perhaps Elijah will come and clarify matters, and the doubt will be resolved. There is something unknown, so one must be cautious. But in the *bechor* case, the facts are not in doubt — if nothing is done, the animal will die within hours. Given that urgency, perhaps Rabbi Eliezer would permit even making a *mum* in order to save the animal, in line with the *rabbanan*.
 
@@ -90,7 +90,7 @@ The conclusion is clear: the two disputes are not genuinely comparable despite t
 
 ---
 
-## Scripture: Mum B'Ba'al M…
+## Scripture: Mum B'Ba'al
 
 ### Assumption: Blemished
 

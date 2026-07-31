@@ -40,7 +40,7 @@ The verse in the context of the *Kohanim* — *yayin veshechar al teisht ata u-v
 
 The technical distinction matters: for a *kohein* and wine, there is a formal measure — a *revi'is*, approximately three and a half ounces, which is less than the size of most *kiddush* cups. For *shechar* in the ordinary sense, the prohibition requires actual intoxication. The *gemara* reasons that since *shechar* cannot carry its plain meaning in the context of *nazir*, and the verse in *Mikdash* uses the identical phrase, it too must be restricted to wine-based drinks.
 
-### Rabbi Yehuda: Broad Shec…
+### Rabbi Yehuda: Shechar
 
 This leads to a rejection of Rabbi Yehuda's position. A *baraita* records that Rabbi Yehuda holds: if a person ate pressed figs from Ke'ilis, or drank honey and milk, and then entered the *Beit HaMikdash*, he is liable — because all of these substances, even some that are solid foods rather than drinks, can cause a state of intoxication and are therefore encompassed within *shechar*. For Rabbi Yehuda, *shechar* extends to anything that produces this state of being intoxicated or somewhat elevated, regardless of whether it is a beverage at all.
 

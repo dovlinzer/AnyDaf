@@ -1,4 +1,5 @@
 # Yevamot 24 — Daf Yomi Shiur
+[DAF:24a]
 
 ## Intro & Theme
 
@@ -74,6 +75,7 @@ The *braita* raises a *braita* as a challenge: *echad ish shenitgayer leshum ish
 
 The *gemara* resolves the apparent contradiction with the *mishnah* by citing a ruling: *amar Rav Yitzchak bar Shmuel bar Marta mishmei deRav: halacha kedivrei ha'omer kulam gerim heim* — the *halacha* follows the view that says they are all valid *gerim*. We do not rule like Rabbi Nechemia. What is notable is that no alternative *tanna* is even explicitly quoted; the *gemara* simply asserts the existence of an opposing voice — *ha'omer kulam gerim* — and rules accordingly. This is itself a striking feature of the passage. *Bedi'avad*, conversions with ulterior motives are valid, and the *giyoret* in our *mishnah* is fully Jewish.
 
+[DAF:24b]
 ### Marriage Allowance Q
 
 > **Hebrew/Aramaic:** אִי הָכִי, לְכַתְּחִלָּה נָמֵי! מִשּׁוּם דְּרַב אַסִּי. דְּאָמַר רַב אַסִּי: ״הָסֵר מִמְּךָ עִקְּשׁוּת פֶּה וּלְזוּת שְׂפָתַיִם וְגוֹ׳״.

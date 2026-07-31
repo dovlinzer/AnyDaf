@@ -1,6 +1,6 @@
 # Shabbat 37 — Daf Yomi Shiur
 
-## Garuf vKatum: Shehiya vs…
+## Garuf vKatum: Shehiya
 
 ### Mishna Overview
 
@@ -36,7 +36,7 @@ The *chiddush* here is that even though the two ovens are a single unit and the 
 
 ---
 
-## Baraita: What Foods Allo…
+## Baraita: Flame-Left Foods
 
 ### Rabbi Meir's Position
 
@@ -66,7 +66,7 @@ This is acknowledged to be a strained reading of our *Mishna*. As Tosafot notes,
 
 ---
 
-## Somech (Leaning Agai (II)
+## Somech (Leaning Against)
 
 ### Somech Question
 
@@ -136,7 +136,7 @@ Rabbah bar Bar Chana citing Rabbi Yochanan restates the same rule: *kitmah ve-hu
 
 ---
 
-## Lenient View: Shehiya On…
+## Lenient View: Shehiya
 
 ### Rav Sheshet's Teaching
 
@@ -164,7 +164,7 @@ The *Rosh*, who began in *Ashkenaz* and moved to *Sepharad*, navigates between t
 
 ---
 
-## Mitztemek v'Yafeh Lo Deb…
+## Mitztemek v'Yafeh Lo
 
 ### Stringent Position
 

@@ -10,7 +10,7 @@ We begin the twelfth *perek* of *Ketubot* at the bottom of 101b, with the openin
 
 The *mishnah* opens: *hanosei et ha'ishah upaskah imo* — a man marries a woman and she arranges with him a specific condition. The initiative here is hers. She has a daughter from a prior marriage or another relationship, and she stipulates before the wedding that her new husband must support that daughter for five years. The husband bears no automatic legal obligation toward a stepdaughter — she is not his child, and the standard conditions of the *ketubah* do not extend to her. So the wife makes this a precondition: *kedei sheyezanet bitah chamesh shanim* — that he undertake to feed her daughter for five years. He agrees in order to marry her. The *mishnah* states simply: *chayav lezanah chamesh shanim* — he is obligated to feed her for five years. The force and mechanism of that obligation is precisely what the *gemara* will examine.
 
-### Remarriage & Dual Obliga…
+### Remarriage & Dual Support
 
 The *mishnah* continues with the less obvious scenario. She subsequently divorces this first husband and remarries. With the second husband, she again stipulates: *paskah imo kedei sheyezanet bitah chamesh shanim* — you must agree to feed my daughter for five years. He agrees. The *mishnah* states that the second husband is also now obligated for five years of support — and critically, this obligation is entirely independent of the first husband's. The first husband's duty does not dissolve simply because she has remarried.
 
@@ -22,7 +22,7 @@ The first husband cannot argue: *lichishetavo etzli azanah* — let her come sta
 
 *Vechain lo yomru shneihem* — nor may the two husbands collude and say: *harei anu zanin otah ke'echad* — between the two of us we will manage to keep her fed, and we will divide the responsibility. Each bears an independent, full obligation. Therefore: *ella echad zanah ve'echad noten lah dmei mezonot* — one actually provides the food, and the other, since she is already being fed, must pay the monetary equivalent of the food costs. Both obligations run simultaneously and neither cancels the other.
 
-### After Stepdaughter Marri…
+### Stepdaughter Marries
 
 The *mishnah* continues: if the daughter herself marries, her husband becomes obligated to feed her, as is standard. Nevertheless, *vehein notnim lah dmei mezonot* — both former stepfathers must still pay the food costs. She is being fed at her husband's table, but both stepfathers continue to pay for that food. The situation resembles what occurs in secular legal contexts as well: if a divorced woman remarries, the prior husband's child support obligation does not automatically terminate simply because the child now lives in a new household.
 
@@ -62,7 +62,7 @@ Rabbi Yochanan holds: *alima milta d'shtara k'man d'amar lehu atem eidai dami* �
 
 The *gemara* proposes that our *mishnah* itself supports the position of Rabbi Yochanan. The opening clause — that if a man stipulates to feed the daughter for five years he is obligated — should be unremarkable if he signed a formal *shtar*. The *chiddush*, the novelty, must lie in the mechanism of obligation. The *gemara* therefore reads the *mishnah* as speaking of a case where he wrote an informal written admission, and yet is held obligated — which would vindicate Rabbi Yochanan.
 
-### Stipulations Before Wedd…
+### Wedding Stipulations
 
 The *gemara* declines this reading, however. It suggests instead that the *mishnah* concerns *bishtarei psikta* — stipulation documents, the type of financial arrangements negotiated and committed to prior to the wedding. Such obligations, the *gemara* argues, occupy a special legal category and become binding through a mechanism distinct from ordinary debt creation — even where ordinary means would be insufficient.
 
@@ -104,7 +104,7 @@ The *mashal* was puzzling until clarified through discussion: the strangling is 
 
 The underlying legal principle is one of *gmirat da'at* — settled, serious intent. Ben Nanas holds that a commitment made after the debt is already established, when there are no special conditions making it obligatory, lacks the requisite *gmirat da'at*. The written signature does not suffice to supply that seriousness independently.
 
-### Rabbi Yochanan vs Resh L…
+### Yochanan vs Resh Lakish
 
 The *gemara* now maps the *Tanna'im* onto the *Amoraim*: *leima Rabbi Yochanan d'amar k'Rabbi Yishmael, v'Reish Lakish d'amar k'Ben Nanas*. Rabbi Yochanan holds like Rabbi Yishmael — writing obligates, even when the commitment came after the loan was made, even without special preconditions; the act of writing is itself sufficient *gmirat da'at*. Resh Lakish holds like Ben Nanas — writing alone does not obligate; there must be special conditions, and a post-facto signature without those conditions is an empty gesture.
 
@@ -114,7 +114,7 @@ The *gemara* refines the comparison, however. *Aliba d'Ben Nanas kulei alma lo p
 
 ## Stipulation Binding
 
-### Words + Marriage = Bindi…
+### Words + Marriage = Kinyan
 
 The *gemara* returns to the statement of Rav Giddel cited earlier. The in-laws gather, negotiate their financial contributions to the couple, agree on specific amounts, and then the couple proceeds to *kiddushin*. *Hen hen had'varim hanniknin b'amira* — these become binding obligations through speech alone, by virtue of the *kiddushin* that followed. The mechanism is *kinyan amira* — the words acquire binding force through the subsequent act of marriage, without any conventional *kinyan* of handkerchief or coin. Because both families wanted the marriage to occur, and committed financially in order to make it happen, and the marriage then occurred, the benefit they sought and received — the *hana'ah d'kamichtani ahadadi*, the joy of their children's marriage — serves as the consideration that seals the obligation.
 
@@ -140,7 +140,7 @@ The *gemara* then engages the specifics of the *shtar kiddushin*. *Kasvu li-shma
 
 ## Liens Distinction
 
-### Stepdaughter Creditor St…
+### Stepdaughter as Creditor
 
 We return to the end of our *mishnah*. *Meisu* — when the stepfathers die, their natural daughters are supported from *nechasim bnei chorin* — property in the estate. The stepdaughter, however, *nizonis minechasim meshubadim* — may collect even from encumbered property, property that has been sold, *mipnei shehi kebaalas chov* — because she stands as a creditor with a formal debt against the estate. The *mishnah* is explicit: she has liens.
 

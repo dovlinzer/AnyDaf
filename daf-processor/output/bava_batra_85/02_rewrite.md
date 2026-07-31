@@ -16,7 +16,7 @@ This framework immediately generates a sharp question. If the vessel functions a
 
 The *gemara* opens the formal discussion at the top of 85a with a paired ruling attributed to Rav and Shmuel, who state together: *kelo shel adam koneh lo b'chol makom* — a person's vessel acquires on his behalf anywhere — *chutz mirshut harabim*, except in the public domain. The reason for this exclusion is that in *reshut harabim* one has no right to leave one's vessels on the ground; absent that entitlement, the vessel cannot function as a surrogate domain. Importantly, this formulation of Rav and Shmuel implies that *kinyan kli* would work even in *reshut hamocher*, since the seller does permit the buyer to place his bags in the store — a question the *gemara* will press later.
 
-### Rabbi Yochanan EY Positi…
+### Yochanan & Reish Lakish
 
 Against this, Rabbi Yochanan and Reish Lakish — the preeminent *Eretz Yisrael* authorities — state that *kinyan kli* works *afilu birshut harabim*, even in the public domain. On its face, this creates a direct dispute: Rav and Shmuel say it fails in *reshut harabim*; Rabbi Yochanan and Reish Lakish say it succeeds even there. One might speculate whether this *Bavel*–*Eretz Yisrael* divergence reflects genuine differences in how *reshut harabim* functioned practically in those respective societies, though the *gemara* itself does not pursue that line.
 

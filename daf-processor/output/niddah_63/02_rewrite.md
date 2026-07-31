@@ -2,7 +2,7 @@
 
 ## Rok Tafal
 
-### Definition of Tasteless…
+### Tasteless Spit Definition
 
 The daf opens at the top of 63a, where the Gemara continues its treatment of the various cleansers used to remove or examine blood stains. Among these cleansers is *rok tafal* — tasteless spit. The Mishnah describes it simply as spit from one who has not tasted anything since the evening (*kol she-lo ta'am klum me-ha-erev*), but this formulation requires further precision.
 
@@ -144,7 +144,7 @@ Rav Yosef, who had forgotten many of his teachings due to illness, responds to A
 
 Abaye reminds Rav Yosef of the following teaching from a coming Mishnah: if a woman was accustomed to seeing on day fifteen and switched to day twenty, she must worry about both days until the new pattern is firmly established. And specifically: *shalosh pe'amim le-yom esrim* — three consecutive occurrences on day twenty are required before day fifteen is released and day twenty is established as the exclusive *veset*. This Mishnah, like the one we just read, requires three times.
 
-### Shmuel's Hierarchy
+### Shmuel's Hierarchy (II)
 
 Abaye then recalls that Rav Yosef had taught in the name of Rav Yehuda in the name of Shmuel: *zu divrei Rabban Gamliel bar Rabbi she-amar mi-shum Rabban Shimon ben Gamliel* — the requirement of three times consistently stated in our Mishnayot reflects the position of Rabban Shimon ben Gamliel. But the *chachamim* disagree: *veset einah tzericha lo lishnot velo leshalesh* — a *veset* need not be repeated twice or three times. The blanket requirement of three belongs to Rabban Shimon ben Gamliel alone.
 

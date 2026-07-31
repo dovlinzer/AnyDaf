@@ -1,4 +1,5 @@
 # Ketubot 17 — Daf Yomi Shiur
+[DAF:16b]
 
 ## Praise the Bride Debate
 
@@ -88,6 +89,7 @@ The Gemara then describes Rabbi Abbahu: when he would come from the *metivta* to
 
 What is striking throughout this passage is the persistent way in which discussions of weddings and brides fold into discussions of Torah learning and scholars. The woman as purchase, the *kallah* as beloved, and the *talmid chacham* as one who is himself like a bride — these images keep circling back on one another.
 
+[DAF:17a]
 ### Dancing with Hadassim
 
 > **Hebrew/Aramaic:** אָמְרוּ עָלָיו עַל רַבִּי יְהוּדָה בַּר אִילְעַאי שֶׁהָיָה נוֹטֵל בַּד שֶׁל הֲדַס, וּמְרַקֵּד לִפְנֵי הַכַּלָּה, וְאוֹמֵר: ״כַּלָּה נָאָה וַחֲסוּדָה״.
@@ -220,6 +222,7 @@ Rashi draws the implication in the other direction as well: *shemeinan de-le-man
 
 ## First Marriage Evide (II)
 
+[DAF:17b]
 ### Hinuma Practice
 
 > **Hebrew/Aramaic:** וְאִם יֵשׁ עֵדִים שֶׁיָּצְתָה בְּהִינוּמָא וְכוּ׳. מַאי הִינּוּמָא?

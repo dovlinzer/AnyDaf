@@ -308,7 +308,7 @@ Rabbi Hiyya bar Abba, citing Rabbi Yochanan, explains the *mishnah*'s ruling abo
 
 If such a slave stops drilling pearls to pick up a *metzia*, he is off the clock for the duration. He must compensate the master for the value of his time away from pearl-drilling, but the *metzia* itself is his. The master's labor-ownership is complete in principle, but because it is channeled into a specific, exclusively designated task, any deviation from that task removes the slave from the scope of his service obligation for that moment.
 
-### Rava's Alternative
+### Collecting While Working
 
 Rava offers a different way of reading the case: *be-magbi'ah metzi'ah im melachto askinan* — the slave is picking up the *metzia* in the same physical act as he is performing another assigned task. For example, if the slave has been told to collect garbage from the yard, and in the course of picking up garbage he encounters a diamond and retrieves it in the same motion, that act of retrieval is considered independent of his service to the master. The service obligation covers the garbage collection; the simultaneous pickup of the *metzia* is treated as a separate act not performed on the master's behalf.
 

@@ -1,4 +1,5 @@
 # Menachot 82 — Daf Yomi Shiur
+[DAF:82a]
 
 ## Stipulated Conditions
 
@@ -218,6 +219,7 @@ The same principle extends to other offerings that are not eaten by the owner. A
 
 The Gemara now asks: we have used the Pesach as the paradigm case for the rule that obligatory offerings come only from Chulin — but how do we know that the Pesach itself may not be brought from *ma'aser sheni money*? A Baraita records the dispute. Rabbi Eliezer argues by a gezerah shavah of sorts, comparing the *pesach mitzrayim* to the *pesach le-dorot*: just as the Pesach in Egypt did not come from *ma'aser sheni money* — because *ma'aser sheni* had not yet been commanded, and in any case *ma'aser sheni* applies only to produce grown in the Land of Israel — so too the Pesach for all future generations comes only from Chulin.
 
+[DAF:82b]
 ### Direct Sanctification
 
 > **Hebrew/Aramaic:** אָמַר לוֹ רַבִּי עֲקִיבָא: וְכִי דָּנִין אֶפְשָׁר מִשֶּׁאִי אֶפְשָׁר? אָמַר לוֹ: אַף עַל פִּי שֶׁאִי אֶפְשָׁר, רְאָיָיה גְּדוֹלָה הִיא, וְנִלְמַד הֵימֶנָּה.

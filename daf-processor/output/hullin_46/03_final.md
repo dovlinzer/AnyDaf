@@ -1,4 +1,5 @@
 # Hullin 46 — Daf Yomi Shiur
+[DAF:45b]
 
 ## Spinal Cord
 
@@ -120,6 +121,7 @@ Rav Pappa then asks: if you conclude that the first point itself is not included
 
 Rabbi Yirmiya's question goes in the other direction: if you conclude that the first point is included in the *vadai treifa* zone — what is the status of the *parasha atzma*, the separation itself? On the first reading of Rashi, this refers to the actual small rib bones that branch off. But on a more satisfying reading, it refers to the *space* between the first and second branching points. If the first point is *vadai treifa* and the second is *safek*, is the intervening space treated as *vadai* or as *safek*?
 
+[DAF:46a]
 ### Bones Insignificant
 
 > **Hebrew/Aramaic:** בָּעֵי רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ:
@@ -270,6 +272,7 @@ This raises a converse question. We have established that if the outer membrane 
 
 Rav Acha and Ravina debate this. One holds that the outer membrane does not protect if the inner has been breached; the other holds that it does. The *halacha* is that the outer membrane does protect: Thus both membranes must be pierced for the animal to be *treifa* — a hole only in the inner membrane, with the outer intact, is not sufficient.
 
+[DAF:46b]
 ### Avsha Test
 
 > **Hebrew/Aramaic:** פְּלִיגִי בַּהּ רַב אַחָא וְרָבִינָא, חַד אָמַר: לָא מַגֵּין, וְחַד אָמַר: מַגֵּין. וְהִלְכְתָא מַגֵּין, כִּדְרַב יוֹסֵף, דְּאָמַר רַב יוֹסֵף: הַאי רֵיאָה דְּאָוְושָׁא, אִי יָדְעִינַן הֵיכָא אָוְושָׁא – מוֹתְבִינַן עֲלַהּ גַּדְפָּא אוֹ רוּקָּא אוֹ גִילָא, אִי מְבַצְבְּצָא – טְרֵפָה, וְאִי לָא – כְּשֵׁרָה. וְאִי לָא יָדְעִינַן הֵיכָא אָוְושָׁא – מַיְיתִינַן מְשִׁיכְלְתָא דְּמַיָּא פָּשׁוֹרֵי וּמוֹתְבִינַן לַהּ בְּגַוַּהּ.

@@ -1,4 +1,5 @@
 # Yoma 81 — Daf Yomi Shiur
+[DAF:80b]
 
 ## Food Combination
 
@@ -86,6 +87,7 @@ This raises a conceptually interesting question. The Gemara frames the second pe
 
 ## Food & Drink
 
+[DAF:81a]
 ### Don't Combine
 
 > **Hebrew/Aramaic:** הָאוֹכֵל וְהַשּׁוֹתֶה אֵין מִצְטָרְפִין. מַאן תַּנָּא? אָמַר רַב חִסְדָּא: בְּמַחְלוֹקֶת שְׁנוּיָה, וְרַבִּי יְהוֹשֻׁעַ הִיא. דִּתְנַן, כְּלָל אָמַר רַבִּי יְהוֹשֻׁעַ: כֹּל שֶׁטּוּמְאָתוֹ וְשִׁיעוּרוֹ שָׁוֶה — מִצְטָרֵף.
@@ -256,6 +258,7 @@ A separate tradition then cites the school of Rabbi Yishmael: *ne'emar kan inuy 
 
 Rav Acha bar Yaakov offers a different derivation: *yalif Shabbat Shabbaton mi-Shabbat Bereishit* — the term *Shabbat Shabbaton* used for Yom Kippur is the same term used for the weekly Shabbat. Just as the weekly Shabbat is accompanied by a negative prohibition against violating it, so too is Yom Kippur. The shared language creates the equation.
 
+[DAF:81b]
 ### Intrinsic Meaning
 
 > **Hebrew/Aramaic:** רַב פָּפָּא אָמַר: הוּא גּוּפֵיהּ שַׁבָּת אִיקְּרִי, דִּכְתִיב: ״תִּשְׁבְּתוּ שַׁבַּתְּכֶם״. בִּשְׁלָמָא רַב פָּפָּא לָא אָמַר כְּרַב אַחָא בַּר יַעֲקֹב — דִּקְרָא דִּכְתִיב בְּגוּפֵיהּ עֲדִיף. אֶלָּא רַב אַחָא בַּר יַעֲקֹב, מַאי טַעְמָא לָא אָמַר כְּרַב פָּפָּא?

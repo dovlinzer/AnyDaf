@@ -22,7 +22,7 @@ At the top of 13a, the Gemara raises a *Tosefta* in challenge: *Rabban Gamliel o
 
 The Gemara offers two possible resolutions. The first is that *rashei parshiyosav* — "reading" here refers only to reading the beginnings of the portions, consistent with the limitation already established. The second, and more interesting, resolution is *shani tinokot* — children are different. Why? *Ho'il v'eimas rabban aleihem lo asi l'atzloyei* — because the fear of their teacher is upon them, they will not come to tilt the candle. Even on a weekday, no child would dare move the candle without the teacher's permission. The *eimas rabban* functions as an effective deterrent against the prohibited action that the decree was designed to prevent.
 
-### Group Protection Princip…
+### Group Protection Rule
 
 The *eimas rabban* explanation is one instance of a broader principle at work here: when multiple people are engaged in an activity together as a group, we are less concerned that they will violate the relevant prohibition, because one person will remind the other. This is distinct from a case where multiple individuals happen to be using the same candle independently for their own separate purposes — in that case, each is acting alone and the mutual-reminder dynamic does not apply. But where they are acting in concert, the group dynamic itself provides a measure of protection.
 
@@ -108,7 +108,7 @@ This analysis also illuminates what was said earlier about the case in the inn. 
 
 The Gemara then introduces a *pasuk* from Ezekiel to anchor the prohibition of husband and wife in bed during *niddah*. The verse describes a *tzaddik* who *el ha-harim lo achal* — did not eat toward the mountains (understood by the Gemara as not relying on *zechut avot* but maintaining his own merits), *ve-einav lo nasa el gillulei beit Yisrael* — did not worship idols, *ve-et eshet re'ehu lo timme* — did not defile his fellow's wife through adultery, *ve-el isha niddah lo yikrav* — and did not draw near to a woman in her *niddah*. The Gemara draws a *hekesh*: *mah eshet re'ehu hu bevigdo ve-hi bevigdah assur* — just as being in bed with another man's wife wearing pajamas is prohibited, *af ishto niddah hu bevigdo ve-hi bevigdah assur* — so too, a man may not be in bed with his own wife when she is a *niddah*, even if both are wearing pajamas. This *hekesh* effectively overrides the reasoning that had seemed to permit it.
 
-## Niddah Prohibition Appro…
+## Niddah Bed: Rashi
 
 ### Rashi's Yichud
 

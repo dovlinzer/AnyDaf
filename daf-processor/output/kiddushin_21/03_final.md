@@ -1,4 +1,5 @@
 # Kiddushin 21 — Daf Yomi Shiur
+[DAF:21a]
 
 ## Partial Redemption
 
@@ -280,6 +281,7 @@ The Gemara once again cycles through *u-vekhol ge'ulah titnu* and the triple *yi
 
 Rashi clarifies the final move. The verse *u-vekhol ge'ulah titnu* establishes — according to the Gemara's conclusion — that by *eved Ivri* sold to a non-Jew, the relatives' redemption is a *chovah*, not merely a *reshut*, and this ruling holds *even according to Rabbi Yehoshua*. That is a notable shift: Rabbi Yehoshua holds that *ge'ulas krovim* is generally a *reshut* (as in the case of *sdeh achuza*), yet even he agrees that by an *eved Ivri* sold to *ovdei kochavim* it rises to the level of *chovah*. As Rashi explains: *de-lo yitma be-ovdei kochavim* — so that he not become assimilated among the gentiles. The urgency of that concern generates an obligation that the less urgent cases do not.
 
+[DAF:21b]
 ### Final Conclusion
 
 > **Hebrew/Aramaic:** הָהוּא לְקוֹבְעוֹ חוֹבָה, וַאֲפִילּוּ לְרַבִּי יְהוֹשֻׁעַ.

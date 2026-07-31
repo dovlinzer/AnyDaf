@@ -1,4 +1,5 @@
 # Shevuot 24 — Daf Yomi Shiur
+[DAF:24a]
 
 ## Inedible vs. Non-Kosher
 
@@ -130,6 +131,7 @@ This also dissolves the earlier need to suppose that the *mishnah*'s closing cla
 
 ## Kolel vs. Mosif
 
+[DAF:24b]
 ### Rava's Mechanism
 
 > **Hebrew/Aramaic:** אָמַר רָבָא: מַאי טַעְמָא דְּמַאן דְּאִית לֵיהּ אִיסּוּר כּוֹלֵל? מִידֵּי דְּהָוֵה אַאִיסּוּר מוֹסִיף.

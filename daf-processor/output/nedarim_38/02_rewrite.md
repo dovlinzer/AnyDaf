@@ -1,6 +1,6 @@
 # Nedarim 38 — Daf Yomi Shiur
 
-## Torah Teaching & Fee (II)
+## Torah Teaching & Fees
 
 ### Torah Teaching Rules
 

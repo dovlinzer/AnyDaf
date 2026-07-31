@@ -2,7 +2,7 @@
 
 ## Sale of Debt & Mechilah
 
-### Wife's Debt & Ketubah Sa…
+### Wife's Debt & Ketubah
 
 Daf 86 continues the Gemara's extended treatment of a husband's rights to his wife's property — and, in particular, the legal complications that arise when a wife holds debts owed to her by third parties. Can she perform *mechilah*, waiving those debts? And what happens when a woman sells her *ketubah* to a third party, subsequently dies, and her daughter seeks to waive that same debt?
 
@@ -48,7 +48,7 @@ Two interpretations appear in Rashi, one here and one in *Bava Kamma* where the 
 
 ---
 
-## Creditor vs. Wife Priori…
+## Creditor vs. Wife Ketubah
 
 ### Payment Distribution Rule
 

@@ -134,7 +134,7 @@ Despite the local coherence of each of Bar Kappara's arguments, the Gemara is go
 
 ---
 
-## Simultaneous Prohibi (II)
+## Simultaneous Prohibitions
 
 ### All Three Are Kolel
 

@@ -1,4 +1,5 @@
 # Gittin 89 — Daf Yomi Shiur
+[DAF:89a]
 
 ## Gett Me'useh
 
@@ -254,6 +255,7 @@ The *mishnah* had already established the principle that a rumor is halachically
 
 Rabba bar Rav Huna holds: *amatla she'amru afilu mikan v'ad asara yamim* — an explanation can neutralize a rumor even if it is offered as much as ten days later. The *amatla* need not be contemporaneous with the establishment of the *kol*.
 
+[DAF:89b]
 ### Possibility Suffices
 
 > **Hebrew/Aramaic:** אֵיתִיבֵיהּ רַב פָּפָּא לְרַב זְבִיד: וּבִלְבַד שֶׁלֹּא תְּהֵא שָׁם אֲמַתְלָא! אֲמַר לֵיהּ: בִּמְקוֹם אֲמַתְלָא קָאָמַר.

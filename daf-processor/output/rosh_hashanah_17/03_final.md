@@ -1,4 +1,5 @@
 # Rosh Hashanah 17 — Daf Yomi Shiur
+[DAF:17a]
 
 ## Arba'ah Devarim
 
@@ -284,6 +285,7 @@ The verse cited — *nosei avon v'over al pesha lish'erit nachalato* — to the 
 
 ## Justice vs. Compassion
 
+[DAF:17b]
 ### Tzaddik and Chasid
 
 > **Hebrew/Aramaic:** רַב הוּנָא רָמֵי, כְּתִיב: ״צַדִּיק ה׳ בְּכׇל דְּרָכָיו״, וּכְתִיב: ״וְחָסִיד בְּכׇל מַעֲשָׂיו״! בַּתְּחִלָּה — צַדִּיק, וּלְבַסּוֹף — חָסִיד.

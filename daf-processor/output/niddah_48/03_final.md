@@ -1,4 +1,5 @@
 # Niddah 48 — Daf Yomi Shiur
+[DAF:48a]
 
 ## Stages of Development
 
@@ -298,6 +299,7 @@ The *Chakhamim* read the verse differently: *keivan she-shadayim nakhonu, yadu'a
 
 *Rashi* offers a somewhat different analysis. The verse, on *Rashi*'s reading, simply describes the sequence as it presents to the observer — first the breasts become visible, then the hair is noted — without implying anything about which necessarily precedes the other in a biological sense. This reading keeps the verse from being decisive proof for either position and focuses the dispute on the halakhic inference from one sign to the other, not on the biological sequence per se.
 
+[DAF:48b]
 ### Pubic Hair Definitive
 
 > **Hebrew/Aramaic:* דְּכוּלֵּי עָלְמָא מִיהָא אַתַּחְתּוֹן סָמְכִינַן, מְנָלַן?

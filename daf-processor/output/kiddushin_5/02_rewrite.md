@@ -204,7 +204,7 @@ We note that while *Rava*'s objections are serious and we generally rule like *R
 
 The *gemara* now pivots to the practical mechanics of *kiddushei kesef*. A *baraita* is cited: *natan lah kesef o shaveh kesef v'amar lah harei at mekudeshet li, harei at me'ureset li, harei at li le'intu* — he gives her money or its equivalent and says one of several designated formulas: "You are *mekudeshet* to me," "You are betrothed to me," "You are my wife." *Harei zu mekudeshet* — she is thereby married. The *kiddushin* requires both the act of giving and an accompanying verbal declaration, an *amira*.
 
-### Woman's Declaration Und…
+### Woman's Declaration
 
 The *baraita* continues: *aval hi she'natnah lo v'amrah hi* — but if she gives the ring to him and she is the one who speaks — *lo havei kiddushin* — they are not married. Two variables have changed: she gave rather than he, and she spoke rather than he. This reflects the *pasuk* of *ki yikach ish isha* — the man takes the wife, giving him the more active legal role in the process.
 

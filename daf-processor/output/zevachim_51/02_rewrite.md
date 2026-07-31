@@ -34,7 +34,7 @@ The *braita* continues with a series of additional comparisons, each establishin
 
 Finally, the case of *pasul kohanim* who received and threw the blood: *be-hanach psulim de-chazu le-avodat tzibur* — this applies specifically to the type of *psulim* who would be valid for a communal offering, which in practice limits this to kohanim who are *tamei*.
 
-### Challenge: Kosher to Pas…
+### Challenge: Kosher-Pasul
 
 The *gemara* now raises a sharp objection — one that had been lurking throughout the *braita*'s entire presentation: *ve-chi danim davar she-lo be-hechsheiro mi-davar she-be-hechsheiro?* — how can one draw an inference from something that is fundamentally *kasher* (meat on the second day of a *shelamim*, or something outside the *Mikdash* by a *bamah*) to establish that something which is fundamentally *pasul* may remain on the *mizbe'ach*? The comparison is not genuinely analogous: one case is inherently valid, the other is inherently disqualified.
 

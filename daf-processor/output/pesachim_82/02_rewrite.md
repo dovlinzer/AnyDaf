@@ -10,7 +10,7 @@ The overarching discussion on this *daf* concerns *tumah* of a *korban pesach*. 
 
 Before proceeding, it is important to recall a foundational principle: once the *korban pesach* has been brought and the *dam* has been *nizrak*, whatever occurs afterward does not affect whether one has discharged the obligation of bringing the *pesach*. If the meat subsequently became *tamei*, or if one failed to eat it, the bringing itself was valid so long as the offering was fit to be eaten at the time of the *zrikat hadam*. The question of the *mitzvah* of eating is a separate matter entirely. The *mishnah* now addresses how one handles the meat in cases where it did become *tamei* after the *korban* was brought.
 
-## Mishnah: Burning Pes (II)
+## Mishnah: Burning Pesach
 
 ### Entire/Majority Tamei
 
@@ -24,7 +24,7 @@ The general *halakhah* regarding *kodshim* that become *pasul* is, as the *Gemar
 
 The *mishnah* then addresses a less severe case: *nitma mi'uto* — only a minority of the meat became *tamei* — or the case of *notar*, where the meat was not *tamei* but simply remained uneaten as leftover. These are regarded as less severely negligent occurrences. In such cases, *sorfin oto bechatzeroteihen o al gagoteihen* — one burns it at home, in one's courtyard or on one's roof, presumably within *Yerushalayim* where the meat was being eaten. There is no requirement to bring it to the *Beit HaMikdash*. However, *me'atzei atzman* — one must use one's own firewood.
 
-### Two Issues: Location & W…
+### Location & Firewood
 
 There are two distinct issues operating simultaneously throughout this *mishnah*, and the *Gemara* will return to both. The first is where one burns it: burning it wherever one wishes is obviously easier, sparing one the need to bring it to the *Beit HaMikdash*. The second is what wood one uses. The *Gemara* will explain that when the entirety became *tamei*, the requirement to burn it before the *Beit HaMikdash* functions as a kind of fine — a consequence for allowing the entire *korban* to become *tamei* through negligence. The purpose, as will become clear, involves an element of public embarrassment designed to deter such negligence in the future.
 
@@ -186,7 +186,7 @@ The *Gemara* derives *yatzah* from the exchange between Moshe and Aharon during 
 
 The *Gemara* reads the exchange as implying: had the meat gone out — had it not remained *bakodesh*, *penimah* — it would have been appropriate to burn it. Alternatively, had the blood been brought too far *pnimah* into the *heichal*, it would similarly have required burning. *Miklal de'im nafkuh* — from the logic of Moshe's question we infer that *yatzah* is a ground for burning *pasul kodshim*. The *Gemara* thus treats these as the two primary scriptural anchors: *nitmah* from the explicit *pesuk* about *tamei* meat, and *yatzah* derived from the Moshe-Aharon dialogue.
 
-## Expansion: Kodshim K (II)
+## Expansion: Kodshim Kalim
 
 ### Question: Shelamim
 

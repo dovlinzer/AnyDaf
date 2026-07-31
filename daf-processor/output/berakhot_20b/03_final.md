@@ -1,4 +1,5 @@
 # Berakhot 20b — Daf Yomi Shiur
+[DAF:19b]
 
 ## Women & Kiddush
 
@@ -18,6 +19,7 @@ The *gemara* opens with a statement of Rav Adda bar Ahava: *nashim chayavot beki
 
 The immediate challenge is obvious: *kiddush* is a *mitzvat aseh shehazman grama* — a positive time-bound commandment — and the principle is that women are exempt from all such commandments. Abaye attempts to resolve this by saying the obligation is only rabbinic (*miderabbanan*), not biblical. Rava, however, objects on two grounds. First, the statement explicitly says *d'oraita*. Second, and more fundamentally, if we are going to say the rabbis independently obligated women in *kiddush* even though it is time-bound, then we should have obligated them in every time-bound *mitzvah* — which we clearly have not done. There must therefore be something uniquely compelling about *kiddush*. The question is what.
 
+[DAF:20b]
 ### Zachor v'Shamor link
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא: וְהָא ״דְּבַר תּוֹרָה״ קָאָמַר. וְעוֹד, כׇּל מִצְוַת עֲשֵׂה נְחַיְּיבִינְהוּ מִדְּרַבָּנַן! אֶלָּא אָמַר רָבָא: אָמַר קְרָא ״זָכוֹר וְשָׁמוֹר״ — כׇּל שֶׁיֶּשְׁנוֹ בִּשְׁמִירָה יֶשְׁנוֹ בִּזְכִירָה. וְהָנֵי נְשֵׁי הוֹאִיל וְאִיתַנְהוּ בִּשְׁמִירָה, אִיתַנְהוּ בִּזְכִירָה.

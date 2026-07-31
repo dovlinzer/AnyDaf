@@ -114,7 +114,7 @@ The Gemara then asks about *yayin nesech*: how does the concept of division by s
 
 This raises the question anew: does not the *ger* have an interest in the preservation of the idolatrous estate, given that his own inheritance depends on his brother receiving it? Rav Papa addresses this: *shani yerushat hager deakilu bah rabanan gezeirah shema yakhzor lekilkulo* — the inheritance of the *ger* is a different matter, because the Rabbis were lenient in this domain out of concern that if the *ger* is denied his inheritance, he might return to his former ways. The potential for *kibbul kilkulo* — his spiritual backsliding — justifies a leniency that would not otherwise apply.
 
-### Inheritance vs. Partners…
+### Ger, Oved Kochavim
 
 A *baraita* at the top of 64b confirms and sharpens the ruling: *bamedebarim amurim sheyerashu aval nishtatefu assur* — these leniencies apply only when the *ger* and the *oved kochavim* are heirs; if they are business partners, it is forbidden. The distinction is clear: a halachic inheritance relationship carries leniencies that a commercial partnership does not. A Jew may be a business partner with a non-Jew, but not in a venture that involves deriving benefit from *avodah zarah*.
 

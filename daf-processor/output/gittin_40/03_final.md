@@ -1,4 +1,5 @@
 # Gittin 40 — Daf Yomi Shiur
+[DAF:40a]
 
 ## Property vs. Status
 
@@ -268,6 +269,7 @@ A case arose in which one owner sought to circumvent this compulsion. Knowing th
 
 The case was sent by *Rav Yosef the son of Rava* to *Rav Papa* for resolution.
 
+[DAF:40b]
 ### Guardian Solution
 
 > **Hebrew/Aramaic:** שַׁלְחַהּ רַב יוֹסֵף בְּרֵיהּ דְּרָבָא לְקַמֵּיהּ דְּרַב פָּפָּא, שְׁלַח לֵיהּ: ״כַּאֲשֶׁר עָשָׂה כֵּן יֵעָשֶׂה לּוֹ, גְּמוּלוֹ יָשִׁיב לוֹ בְּרֹאשׁוֹ״ – אֲנַן קִים לַן בְּיָנוֹקָא דִּמְקָרְבָא דַּעְתֵּיהּ לְגַבֵּי זוּזֵי; מוֹקְמִינַן לֵיהּ אַפּוֹטְרוֹפּוֹס, וּמְקַרְקֵישׁ לֵיהּ זוּזֵי, וְכָתֵב לֵיהּ גִּיטָּא דְחֵירוּתָא עַל שְׁמֵיהּ.

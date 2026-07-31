@@ -56,7 +56,7 @@ One might observe that this reasoning has its tensions. The shame in question is
 
 ## Slave Market Valuation
 
-### Virgin vs. Non-Virgin Sl…
+### Virgin vs Non-Virgin
 
 Having established that *pegam* is paid as a separate monetary compensation to the father, the *gemara* asks how its amount is determined. The *mishna* already stated that the evaluation is done as though she were a slave woman being sold. The *gemara* asks: *heichi shammenan lah?* — how exactly is she evaluated? Rav Yehuda said in the name of Shmuel: *omdim kamma adam rotze liten bein shifcha betula le-shifcha be'ula lishamesho* — we estimate how much more a person would pay for a virgin maidservant versus a non-virgin one in order to have her serve him.
 

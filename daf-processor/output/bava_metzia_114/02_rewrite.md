@@ -182,7 +182,7 @@ So the Rambam's ruling is a both-and position. *Ein merahamin* is real: the cred
 
 What is striking about the Rambam is how he holds these two principles in tension. The sense of *ein merahamin badin* — no mercy in law — is genuinely meant: you are entitled to demand a full, comprehensive inventory and you need not be moved by the debtor's poverty when the legal right to collect has arrived. And yet woven into that same legal structure is an obligation to leave the person with enough to live on. The *ein merahamin* is not a license to be cruel; it is a statement about legal entitlement. The *mesadrim* then operates as a kind of mandatory minimum, baked into the collection process itself.
 
-## Taking & Returning Colla…
+## Taking Collateral
 
 ### Baraita on Poor/Rich
 

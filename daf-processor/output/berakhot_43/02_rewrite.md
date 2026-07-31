@@ -10,7 +10,7 @@ We begin on daf 43, picking up from the bottom of 42b. The *mishnah* had establi
 
 The underlying question is whether *haseiba* is purely a formal social convention — a matter of choreography defining the character of the meal — or whether it also reflects something about the subjective inner intention of each participant. The *mishnah* requires *haseiba*; the *braita* permits even sitting. This is the tension the *gemara* must resolve.
 
-### Resolution: Designated P…
+### Designated Place Haseiba
 
 The *gemara*'s resolution is that when the group designates a shared location for eating, this designation creates the equivalent of *haseiba*. Even without physical reclining, the verbal act of "let us go eat bread in that place" constitutes the group as a group. In one reading, the social construct of *haseiba* itself — independent of any individual's inner state — accomplishes this. In another reading, it is precisely the *kavanah* expressed through that declaration that reframes the gathering: the participants are understood to have intended to constitute themselves as a collective, and this is what allows a single representative to speak for all.
 
@@ -72,7 +72,7 @@ Then they went up into the main dining hall. Once there, even though each person
 
 This naturally raises the question of how one is making yet another *borei pri ha-gafen* during the meal if the pre-meal *borei pri ha-gafen* was meant to cover wine throughout. *Tosafot* explains, based on *Rashi*, that since the guests moved from one room to another — entering the dining hall — this constitutes a *shinui makom*, a change of location, which necessitates a new *berachah*. This principle has ramifications for many situations in which someone begins eating or drinking in one place and moves to another, and the *Tosafot* opens significant questions about what counts as a disqualifying change of place and what conditions — such as being under the same roof, or having it explicitly in mind — might prevent the need for a new blessing. We will not pursue those questions here, but the underlying reasoning is clear.
 
-### Tosefta-Mishnah Contradi…
+### Tosefta-Mishnah: Wine
 
 What is striking is that the *Tosefta* directly contradicts the *mishnah* on the question of who blesses for wine during the meal. The *mishnah* says that during the meal each person blesses for himself, while one person blesses for the group for the post-meal wine. The *Tosefta* says the opposite: during the meal one person blesses for the group, and before the meal each person blesses individually. The *gemara* does not smooth over this contradiction immediately; it will engage with it in the following discussion.
 
@@ -160,7 +160,7 @@ By contrast, a well-known parallel case clarifies the distinction between the tw
 
 ---
 
-## Types of Incense Blessin…
+## Incense Blessings & Types
 
 ### General Rule
 
@@ -170,7 +170,7 @@ By contrast, a well-known parallel case clarifies the distinction between the tw
 
 The *gemara* immediately challenges this with a *braita*: one only makes *borei atzei besamim* on *afarsamon* (balsam) — and specifically on the balsam of the house of *Rebbe* and of the house of Caesar (both of whom apparently held private royal orchards of this extraordinarily valuable plant, which in its time was said to be worth its weight in gold) — and on *hadas* (myrtle) everywhere. Nothing else, according to this *braita*, would receive *borei atzei besamim*. This appears to contradict the broad ruling that all *mugmarot* receive that *berachah*. The *gemara* declares this a *tiyuvta* — a refutation.
 
-### Resolution of Contradict…
+### Resolution: Braita
 
 *Tosafot* notes that the *Ba'al Halachot Gedolot* did not have the word *tiyuvta* in his text at all, and instead presents a different version of the *gemara* that harmonizes the sources. The reading he proposes is: the *braita* should be understood as saying "myrtle and anything similar to it." That is, the *braita* uses *hadas* as a paradigm example, not as an exclusive list. The principle derived is: *kol she-ikaro la-rei'ach* — anything whose primary purpose in society is its aroma. This excludes items such as quinces and apples (*tapuchim* and *chavushim*), which do have pleasant aromas but whose primary social function is as food. For those, one does not say *borei atzei besamim*. For any aromatic wood or plant whose defining characteristic is its aroma — not its food value or other utility — one does say *borei atzei besamim*, provided also that it has the quality of *etz* (to be further discussed below). This resolution also implies that *borei atzei besamim* can be said even when the material is being burned as incense, not merely when it is present in its natural state.
 

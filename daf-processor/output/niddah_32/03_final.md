@@ -1,4 +1,5 @@
 # Niddah 32 — Daf Yomi Shiur
+[DAF:31b]
 
 ## Gender & Procreation
 
@@ -198,6 +199,7 @@ The *gemara* opens with the classic *heichi dami* — what exactly is the case? 
 
 Rava, son of Rav Acha bar Rav Huna, citing Rav Sheshet, resolves this: *hacha be'mai askinan be'stama* — we are dealing with a case of uncertainty, where we simply do not know whether a given infant has bled. And *de'keivan de'ika mi'uta de'chazya* — since there is a small minority of infants who do in fact experience some bleeding, we are *chaishinan* — concerned — that it may have occurred. The *gemara* then asks: whose view is this in the *Mishnah*, that we are concerned for a minority? The answer is Rabbi Meir.
 
+[DAF:32a]
 ### Rabbi Meir Minority
 
 > **Hebrew/Aramaic:** רַבִּי מֵאִיר הִיא, דְּתַנְיָא: קָטָן וּקְטַנָּה לֹא חוֹלְצִין וְלֹא מְיַבְּמִין, דִּבְרֵי רַבִּי מֵאִיר. אָמְרוּ לוֹ לְרַבִּי מֵאִיר: יָפֶה אָמַרְתָּ שֶׁאֵין חוֹלְצִין, ״אִישׁ״ כָּתוּב בַּפָּרָשָׁה, וּמַקְּשִׁינַן אִשָּׁה לְאִישׁ. וּמָה טַעַם אֵין מְיַבְּמִין? אָמַר לָהֶן: קָטָן — שֶׁמָּא יִמָּצֵא סָרִיס, קְטַנָּה — שֶׁמָּא תִּמָּצֵא אַיְלוֹנִית, וְנִמְצְאוּ פּוֹגְעִין בְּעֶרְוָה שֶׁלֹּא בִּמְקוֹם מִצְוָה. וְרַבָּנַן? זִיל בָּתַר רוּבָּא דִּקְטַנִּים, וְרוֹב קְטַנִּים לָאו סָרִיסִים נִינְהוּ; זִיל בָּתַר רוּבָּא דִּקְטַנּוֹת, וְרוֹב קְטַנּוֹת לָאו אַיְלוֹנִיּוֹת נִינְהוּ.
@@ -278,6 +280,7 @@ Rava resolves this: *hilchata ninhu ve'asmi'chinhu rabbanan akra'ei* — both *s
 
 This leads to a further question: if the *pasuk* of *v'isha* by the *tumah* of *shichvat zera* is not needed for the *shiur* of three years (since that is *halacha le'Moshe mi'Sinai*), and if the one-day-old *niddah* can alternatively be inferred once we know that an infant can become a *zavah* (since there can be no *zivah* without *niddah* preceding it), what function does the *pasuk* of *v'isha* actually serve in each context? The *gemara* answers: *l'mautei ish mi'odem* — to exclude the male from the *tumah* of red blood. By emphasizing *v'isha* — the woman — the Torah underscores that *tumah* through blood or through *shichvat zera* applies to women in these forms and not to men. Specifically, two exclusions are operative: one by *niddah* and one by *shichvat zera*, excluding respectively (a) semen that appears red, and (b) actual blood that emerges from the male organ — neither renders the man *tamei* in the manner of a *niddah*.
 
+[DAF:32b]
 ### Zavah Question
 
 > **Hebrew/Aramaic:** וְהָא דְּתַנְיָא: אִשָּׁה — אֵין לִי אֶלָּא אִשָּׁה, בַּת עֲשָׂרָה יָמִים לְזִיבָה מִנַּיִן? תַּלְמוּד לוֹמַר ״וְאִשָּׁה״. לְמָה לִי? לִיגְמַר מִנִּדָּה!

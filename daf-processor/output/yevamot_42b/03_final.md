@@ -1,4 +1,5 @@
 # Yevamot 42b — Daf Yomi Shiur
+[DAF:42a]
 
 ## Lo Pelug Principle
 
@@ -58,6 +59,7 @@ However, Rabbi Chiyya bar Abba then reports that Rabbi Yochanan subsequently rev
 
 ## Stam vs Machloket
 
+[DAF:42b]
 ### Contradiction Raised
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבִּי יִרְמְיָה לְרַבִּי זְרִיקָא: כִּי עָיְילַתְּ לְקַמֵּיהּ דְּרַבִּי אֲבָהוּ, רְמִי לֵיהּ: מִי אָמַר רַבִּי יוֹחָנָן הֲלָכָה כְּרַבִּי יוֹסֵי? וְהָאָמַר רַבִּי יוֹחָנָן: הֲלָכָה כִּסְתַם מִשְׁנָה. וּתְנַן: כׇּל הַנָּשִׁים לֹא יִנָּשְׂאוּ וְלֹא יִתְאָרְסוּ עַד שֶׁיְּהוּ לָהֶם שְׁלֹשָׁה חֳדָשִׁים, אַחַת בְּתוּלוֹת וְאַחַת בְּעוּלוֹת!

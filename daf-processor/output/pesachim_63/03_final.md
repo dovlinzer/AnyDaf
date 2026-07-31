@@ -1,4 +1,5 @@
 # Pesachim 63 — Daf Yomi Shiur
+[DAF:63a]
 
 ## Shelo L'Ochlav
 
@@ -156,6 +157,7 @@ The continuation of the mishna addresses the *chag* — the intermediate days of
 
 The logic driving all of Rabbi Shimon's exemptions is consistent: *shechita she'eina reu'ya lo kriya shchita*. Wherever the *shechita* did not produce a valid *korban*, it does not legally qualify as an act of *shechita*, and the prohibition of *lo tishchat* does not apply. Where the *shechita* produced a valid *korban* — even if it was not the intended *korban Pesach* — the prohibition does apply. This principle is at work throughout Rabbi Shimon's position and will recur in subsequent analysis.
 
+[DAF:63b]
 ### Ownership Requirement
 
 > **Hebrew/Aramaic:** גְּמָ׳ אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: לְעוֹלָם אֵינוֹ חַיָּיב עַד שֶׁיְּהֶא הֶחָמֵץ לַשּׁוֹחֵט אוֹ לַזּוֹרֵק אוֹ לְאֶחָד מִבְּנֵי חֲבוּרָה, וְעַד שֶׁיְּהֵא עִמּוֹ בָּעֲזָרָה. רַבִּי יוֹחָנָן אָמַר: אַף עַל פִּי שֶׁאֵין עִמּוֹ בַּעֲזָרָה.

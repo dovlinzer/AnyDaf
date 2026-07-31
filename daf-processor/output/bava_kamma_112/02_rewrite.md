@@ -1,6 +1,6 @@
 # Bava Kamma 112 — Daf Yomi Shiur
 
-## Rav Chisda & Rami bar Ch…
+## Rav Chisda & Rami: Gezel
 
 ### Gozel u-Ma'akhil Overview
 
@@ -66,7 +66,7 @@ This distinction carries decisive consequences. *Le-didei kamzahar lei rachmana*
 
 ---
 
-## Application to Mishna/Br…
+## Rami bar Chama: Mishna
 
 ### Braita Application
 
@@ -92,7 +92,7 @@ The *gemara* cites a *braita* that tracks the structure of our *mishna*. *Ha-goz
 
 ---
 
-## Gezeilah Be'ein Rule (II)
+## Gezeilah Be'ein Rules
 
 ### Adult Ignorance Claim
 
@@ -142,13 +142,13 @@ The *gemara* now introduces a new case. *Hiniach lahem avihem para she'ula* — 
 
 The reasoning here is layered. We have already established that the children bear no obligation as *sho'el* — they did not personally assume that liability. One might then argue they should pay as *mazik* — as ones who damaged another's property — since they slaughtered someone else's cow. But *adam mu'ad le-olam* applies only when one's relationship to the property is understood from the outset as an encounter with another's object; it is only in that context that even accidental damage generates liability. Here, the children had every reason to believe the cow was their own father's property, located in their home when he died. Their relationship to it was fundamentally one of assumed ownership, not of engagement with another's property. They are therefore not *mazik* in the full sense. The only claim against them is the benefit they received — the value of the meat they consumed — and that benefit is assessed at two-thirds of market value.
 
-### Achrayut Nechasim Releva…
+### Achrayut Nechasim Minors
 
 There is a final clause: *heniach lahem avihem achrayut nechasim chayavim le-shalem* — if the father left them real property with liens on it, they are obligated to pay. The *gemara* debates which of the two preceding cases this clause refers to, noting that some teach it against the first case — the cow dying of natural causes — and some teach it against the second case — the slaughter and consumption.
 
 ---
 
-## Rav Papa on Obligation T…
+## Rav Papa: Shoal Obligat
 
 ### Obligation at Damage
 
@@ -174,13 +174,13 @@ If, on the other hand, one teaches the *achrayut nechasim* clause against only t
 
 ---
 
-## Pasuk on Returning Gezei…
+## Pasuk: Returning Gezeilah
 
 ### Veheishiv Pasuk
 
 The *gemara* now turns to an explicit *pasuk*. *Ve-heishiv et ha-gezeila asher gazal* — you shall return the stolen object that you stole. The *braita* asks: *mah talmud lomar asher gazal* — what does the added phrase "that you stole" come to teach? *Yachzir ke-ein she-gazal* — one must return it in the form in which it was stolen, i.e., only when the object still exists as it was.
 
-### Children Exempt When Con…
+### Children Exempt: Gezeilah
 
 From this the *gemara* derives: *mikan amru, ha-gozel u-ma'akhil et banav peturim li-shalem* — from here they said that one who steals and feeds the stolen object to his children, those children are exempt from payment. Tosafot notes that this *pasuk*-based derivation actually works better *not* according to Rav Chisda. Rav Chisda grounded the children's exemption in the *ye'ush* framework — the obligation of the consuming party depends on whether *ye'ush* has occurred. But this *pasuk* says something broader: the obligation to return a stolen object applies only when it still exists. If it has been consumed — even before *ye'ush* — the children are not obligated, not as *gazlan* and not as *mazik*. The Torah here provides a special teaching: for the children of the thief, the obligation to make restitution applies only when the object is still present.
 
@@ -236,7 +236,7 @@ The common denominator is the principle of preserving the status quo. When a min
 
 ---
 
-## Testimony Without Defend…
+## Testimony w/o Defendant
 
 ### General Rule with Limits
 

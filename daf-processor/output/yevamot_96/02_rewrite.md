@@ -70,7 +70,7 @@ One alternative: perhaps the debate concerns the ruling of Rav Hamnuna, who teac
 
 A third possibility: the debate between Rav and Shmuel concerns whether *kiddushin* from another man can take effect with a *yevamah* while she still awaits *yibum*. Rav holds that her *zika* to the brother-in-law renders her sufficiently like a married woman that *kiddushin* from an outside man cannot bind her. Shmuel holds she is not treated as a married woman, and therefore *kiddushin* from another man would be effective.
 
-### One Debate, Multiple Fra…
+### Chada Miklal Chaverta
 
 The *gemara* notes that Rav and Shmuel are recorded as having debated the *yevamah*'s status using various formulations on multiple occasions, and raises the question of why the same dispute would be articulated twice. The answer: *chada miklal chaverta itmar* — the debate was actually stated only once, and the second formulation was derived inferentially from the first. The two framings are not independent disputes but different expressions of a single underlying *machlokes*. The last two cases — whether *zina* disqualifies and whether outside *kiddushin* can bind — fit together especially naturally, since both ask how thoroughly the *yevamah*'s bond to her brother-in-law resembles the bond of marriage.
 
@@ -126,7 +126,7 @@ To resolve the contradiction, the *gemara* proposes a revised reading of the *mi
 
 This is admittedly a strained reading of the *mishnah*, which appears to use the example of *bi'ah* when saying the minor is effective only first. But the *gemara* accepts this reinterpretation in order to maintain consistency with the *baraita*.
 
-### Gemara Probes: Does a Minor Even Have Maamar or Get?
+### Minor's Acts
 
 Having now said that the minor's *bi'ah* is powerful even at the end, while *maamar* is only effective at the beginning, the *gemara* probes further: does a minor have a legally recognized *maamar* at all? And does he have a legally recognized *get*? This question challenges the newly expanded picture of the minor's legal capacities.
 

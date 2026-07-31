@@ -1,4 +1,5 @@
 # Shabbat 79 — Daf Yomi Shiur
+[DAF:79a]
 
 ## Shiur Framework
 
@@ -278,6 +279,7 @@ But this only resolves the end of the *braita*. The beginning said *klaf ve-duch
 
 With this reconstruction, the *braita* is perfectly consistent and confirms that *duchsustus* is for *mezuzah* (full *Shema* and *Ve-haya im shamoa*) and *klaf* is for *tefillin* (the single *Shema Yisrael parshah*).
 
+[DAF:79b]
 ### Physical Structure
 
 > **Hebrew/Aramaic:** אָמַר רַב: דּוּכְסוּסְטוֹס הֲרֵי הוּא כִּקְלָף. מַה קְלָף כּוֹתְבִין עָלָיו תְּפִילִּין — אַף דּוּכְסוּסְטוֹס כּוֹתְבִין עָלָיו תְּפִילִּין. תְּנַן: קְלָף כְּדֵי לִכְתּוֹב פָּרָשָׁה קְטַנָּה שֶׁבַּתְּפִילִּין שֶׁהִיא ״שְׁמַע יִשְׂרָאֵל״, קְלָף — אִין, דּוּכְסוּסְטוֹס לָא?! לְמִצְוָה. תָּא שְׁמַע: הֲלָכָה לְמֹשֶׁה מִסִּינַי, תְּפִילִּין עַל הַקְּלָף וּמְזוּזָה עַל דּוּכְסוּסְטוֹס. קְלָף — בִּמְקוֹם בָּשָׂר, דּוּכְסוּסְטוֹס — בִּמְקוֹם שֵׂיעָר.

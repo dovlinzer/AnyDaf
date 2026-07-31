@@ -1,6 +1,6 @@
 # Shabbat 112 — Daf Yomi Shiur
 
-## Kesher Kayama & Definiti…
+## Kesher Kayama & Rashi
 
 ### Rashi: Permanence
 
@@ -20,7 +20,7 @@ The resulting halakhic map for the Rambam is as follows: a knot that is *muttar*
 
 ---
 
-## Permitted: Garments & Da…
+## Permitted Knots: Garments
 
 ### Miftach Chaluka
 

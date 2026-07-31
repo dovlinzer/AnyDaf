@@ -1,4 +1,5 @@
 # Yevamot 57 — Daf Yomi Shiur
+[DAF:57a]
 
 ## Forbidden Marriage S (II)
 
@@ -252,6 +253,7 @@ This is a ratcheted version of Rebbi Meir's *mishnah* position: Rebbi Meir held 
 
 Shmuel notes that Rav — whom Shmuel refers to as *Abba* (Tosafot notes, against Rashi's reading of this as an honorific, that *Abba* was simply Rav's actual name, as the *Aruch* explains) — agrees with him in one specific case: *betinoket p'chuta mi-bas shalosh shanim ve-yom echad* — a girl under three years old and one day. *Ho'il ve-ein lah bi'ah ein lah chuppah* — since an act of *bi'ah* with such a girl has no halachic standing, an act of *chuppah* similarly has no standing. Even Rav concedes this exception.
 
+[DAF:57b]
 ### Sex Possible Rule
 
 > **Hebrew/Aramaic:** אָמַר רָבָא, אַף אֲנַן נָמֵי תְּנֵינָא: בַּת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד מִתְקַדֶּשֶׁת בְּבִיאָה, וְאִם בָּא עָלֶיהָ יָבָם — קְנָאָהּ, וְחַיָּיבִין עָלֶיהָ מִשּׁוּם אֵשֶׁת אִישׁ, וּמְטַמְּאָה אֶת בּוֹעֲלָהּ לְטַמֵּא מִשְׁכָּב תַּחְתּוֹן כְּעֶלְיוֹן.

@@ -180,7 +180,7 @@ Rav Papa offers the definitive resolution, one that operates without restricting
 
 ## Minchah Scenarios
 
-### Pre-Sanctity Contamination
+### Pre-Sanctity Tumah
 
 Rami bar Rav Mari enumerates the various scenarios systematically. If the *minchah* became *tamei* before it was placed in the *kli sharet*, it has not yet acquired *kedushat ha-guf*: *harei hi ke-chol ha-menachot ve-tipade* — it is treated like any ordinary *minchah* in that state, and may be redeemed.
 

@@ -32,13 +32,13 @@ When Rabbi Tarfon initially announced this position, the merchants were pleased.
 
 Rabbi Tarfon then issued a second ruling: whereas the Rabbanan's *ad she-yeira* standard amounted to something like a few hours — the time practically needed to consult a merchant or relative — he extended that window to *kol ha-yom*, the entire day. At that point, the merchants reversed course and returned to the position of the Rabbanan (*chazru l'divrei chachamim*). This reversal requires explanation, since even *kol ha-yom* is shorter than *le'olam*, and one would think the merchants would still prefer Rabbi Tarfon's bounded window over the Rabbanan's indefinite *le'olam* for *bitul mekach*.
 
-### Mechila Automatic or Tim…
+### Mechila: Automatic/Ad Hoc
 
 The Gemara now examines two possible readings of the merchants' behavior. One reading suggests that *mechila* is *not* automatic — that even the less-than-a-sixth category carries a clock, so that the buyer, within the *ad she-yeira* window, could potentially reclaim even a small undercharge. Under this reading, Rabbi Tarfon's expansion of *ona'ah* to cover up to a third simply shifts the clock's application to a wider range of overcharges, and the merchants' preference and subsequent reversal make intuitive sense as a response to the length of that window.
 
 The alternative reading is that *mechila* is automatic. Under this reading, Rabbi Tarfon is not expanding the zone of *mechila*; rather, he is redefining what the Rabbanan call *ona'ah* — specifically, what for the Rabbanan triggers *ona'ah* rights at exactly one-sixth, Rabbi Tarfon treats as still within the *mechila* zone. The entire range that the Rabbanan classify as *ona'ah* (from one-sixth upward to one-third) Rabbi Tarfon instead calls *ona'ah* only starting at one-third. The zone the Rabbanan call *ona'ah* is, for Rabbi Tarfon, redefined as *mechila*, which is automatic. The argument then becomes focused only on the behavior at the *ona'ah* threshold itself — which, at whatever level it is set, carries the *ad she-yeira* clock.
 
-### Mechila Automatic Soluti…
+### Mechila Automatic, Ona'ah
 
 After considerable analysis, the Gemara proposes a resolution: it is possible that *mechila* is automatic — that is, below-threshold deviations require no action and are simply absorbed. What changes between Rabbi Tarfon and the Rabbanan is not the automatic nature of *mechila* but the placement of the threshold itself. For the Rabbanan, a deviation of exactly one-sixth is *ona'ah*; for Rabbi Tarfon, a deviation of exactly one-sixth falls within *mechila*. It is this definitional shift that motivated the merchants' initial enthusiasm and subsequent reversal.
 
@@ -140,7 +140,7 @@ The rationale for the exemption is now articulated. *De-yakrei lei* — these pe
 
 ---
 
-## Merchant vs. Homeown (II)
+## Merchant vs. Homeowner
 
 ### Equal Rules for All
 

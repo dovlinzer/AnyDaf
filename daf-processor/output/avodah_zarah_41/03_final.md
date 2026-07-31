@@ -1,4 +1,5 @@
 # Avodah Zarah 41 — Daf Yomi Shiur
+[DAF:41a]
 
 ## Statues & Iconography
 
@@ -136,6 +137,7 @@ This reasoning consciously echoes the argument attributed to Avraham Avinu in th
 
 That said, one should be careful not to take this rhetoric too far. The problem of *avodah zarah* is not that its adherents naively believe a stone statue possesses independent powers. The prophets — Hoshea, Yeshayahu, and others — employ this sharp polemic, but it does not fully capture the actual theology of ancient idol worship, in which the statue served as a vehicle or representation for a divine being. Reish Lakish borrows the prophetic rhetoric, but the psychological reality of the worshippers was more sophisticated than the argument implies.
 
+[DAF:41b]
 ### Dagon Proof
 
 > **Hebrew/Aramaic:** אֵיתִיבֵיהּ רַבִּי יוֹחָנָן לְרַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: "וְרֹאשׁ דָּגוֹן וּשְׁתֵּי כַּפּוֹת יָדָיו כְּרֻתוֹת וְגוֹ׳", וּכְתִיב: "עַל כֵּן לֹא יִדְרְכוּ כֹהֲנֵי דָגוֹן וְגוֹ׳"!

@@ -1,4 +1,5 @@
 # Megillah 5b — Daf Yomi Shiur
+[DAF:5a]
 
 ## Purim on Shabbat
 
@@ -50,6 +51,7 @@ The *gemara* thus accepts the premise that *melacha* is forbidden on Purim, and 
 
 The first explanation offered is that Rabbi was from an unwalled city, where Purim is observed on the fourteenth. When he planted, he planted on the fifteenth — which was not *his* Purim — and there was therefore no prohibition in force.
 
+[DAF:5b]
 ### Tiberia Walled
 
 > **Hebrew/Aramaic:** אִינִי? וְהָא רַבִּי בִּטְבֶרְיָא הֲוָה, וּטְבֶרְיָא מוּקֶּפֶת חוֹמָה מִימוֹת יְהוֹשֻׁעַ בִּן נוּן הֲוַאי! אֶלָּא, רַבִּי בַּר חֲמֵיסָר הֲוָה, וְכִי נְטַע — בְּאַרְבֵּיסַר הֲוָה.

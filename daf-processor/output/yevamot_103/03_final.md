@@ -1,4 +1,5 @@
 # Yevamot 103 — Daf Yomi Shiur
+[DAF:103a]
 
 ## Chalitza & Leather
 
@@ -264,6 +265,7 @@ Having cited the *pasuk* from Yael and Sisera in the linguistic discussion, the 
 
 The *Gemara* immediately raises a serious theological and moral difficulty: *v'ha kamistanya mei'aveira?* — but was Yael not deriving pleasure from a transgression? This question would seem to undermine the moral heroism for which she is celebrated. If she experienced physical pleasure in the course of her sin, even if the sin was committed for a righteous purpose, how does the tradition valorize her act? The concern is not merely whether she *could* do it — the concept of *aveirah lishmah* addresses that — but whether an act from which one derives pleasure can be celebrated as self-sacrifice.
 
+[DAF:103b]
 ### Zuhama Solution
 
 > **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַי: כׇּל טוֹבָתָן שֶׁל רְשָׁעִים — רָעָה הִיא אֵצֶל צַדִּיקִים. שֶׁנֶּאֱמַר: ״הִשָּׁמֶר לְךָ פֶּן תְּדַבֵּר עִם יַעֲקֹב מִטּוֹב עַד רָע״, בִּשְׁלָמָא רַע — לְחַיֵּי, אֶלָּא טוֹב אַמַּאי לָא? אֶלָּא שְׁמַע מִינַּהּ: טוֹבָתָן שֶׁל רְשָׁעִים — רָעָה הִיא אֵצֶל צַדִּיקִים. בִּשְׁלָמָא הָתָם, דִּלְמָא מַדְכַּר לֵיהּ שְׁמָא דַּעֲבוֹדָה זָרָה. אֶלָּא הָכָא, מַאי רָעָה אִיכָּא? דְּקָא שָׁדֵי בָּהּ זוּהֲמָא.

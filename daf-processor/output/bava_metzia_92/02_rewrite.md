@@ -48,11 +48,11 @@ The *gemara* introduces yet another possible axis of the *mishnah*'s debate: *am
 
 Rav reacted sharply: *lo shavki Issi chayei l'chol birya* — Issi's position would not allow anyone to survive. If any person could walk into any field and begin eating the produce, farming would become an impossibility. Not everyone fences in their fields — one does not fence in a field of wheat — and a society cannot function on such a basis.
 
-### Kahana's Solution
+### Ashi's Problem
 
 Rav Ashi reports that he related this exchange to Rav Kahana, who offered a reinterpretation: *dilma b'osim b'seudatam d'avdi v'achli* — perhaps Issi ben Yehuda does not mean that a random passerby may simply enter and eat. Rather, his position may be that a person may self-appoint as a worker — seeing grapes that need to be picked, entering the vineyard, doing the work, and feeding himself in the process. It is not trespassing and eating; it is uninvited labor with incidental eating. This represents a middle ground between explicit employment and outright foraging.
 
-### Ashi's Problem
+### Kahana's Solution
 
 Rav Ashi himself was not satisfied with this reinterpretation. Even granting Rav Kahana's reading, *nicha leh l'inish l'ogurei agurei u'lichdafei l'fardiseih* — any vineyard owner would vastly prefer to hire workers for pay and manage his orchard in an orderly fashion, *v'lo leisu kulei alma v'achlu leh* — rather than have a free-for-all in which anyone can wander in, declare themselves a worker, and eat from his crop. Even the softened version of Issi's position creates practical chaos. The debate in the *mishnah*, then, may reflect these competing orientations — the more liberal approach represented by the *Tanna Kamma* and the more conservative stance of the Sages.
 

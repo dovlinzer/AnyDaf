@@ -70,7 +70,7 @@ Rav Adda bar Abba poses the question to Rav Ashi: if the law is simply that it i
 
 The answer: *mishum d'amar lei parah me'ubertah aziktech, parah me'ubertah shamna lach* — because the *mazik* can say: "I damaged a pregnant cow; assess for me a pregnant cow." What he damaged was the pregnant cow as a single object. You cannot take that object and artificially separate it into components that he never engaged with as separate items. The pregnant cow is the object of the tort, and it must be assessed as such.
 
-### Separate Valuation Problem
+### Valuing Cow and Fetus
 
 This creates a practical challenge. If the cow and fetus are owned by different people — say, the cow belongs to one person and the fetus has been sold or transferred to another — we must determine how to divide the total assessed damage between the two owners. The intuitive approach would be to ask: what would the cow be worth without the fetus? The difference between that figure and the total value of the pregnant cow represents the fetus's contribution, and that amount goes to the owner of the fetus.
 
@@ -106,7 +106,7 @@ We now make a significant shift. The next *mishnah* moves beyond goring cows int
 
 *Ve'im huzka bahen ba'al hakedeirot chayav* — if the homeowner's animal slipped on the pots and injured itself, the potter is liable. This is akin to a *bor*: he left his pots — his hazard — in a place where he had no right to leave them, and the homeowner's animal was damaged as a result.
 
-### Permission Implies Liability
+### Liability Presumption
 
 *Ve'im hichnis birshut* — but if the homeowner explicitly gave permission for the potter to enter, then *ba'al hachatzer chayav* — the homeowner is liable if his animal then tramples and breaks the pots.
 

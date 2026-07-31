@@ -138,9 +138,6 @@ def process_dir(daf_dir: Path, dry_run: bool, force: bool) -> str:
     if not macro_segments:
         return "SKIP (no macro_segments)"
 
-    if seg.get("amud") == "b":
-        return "SKIP (amud b only)"
-
     if not force and "amud_b_segment_index" in seg:
         return "SKIP (already set)"
 

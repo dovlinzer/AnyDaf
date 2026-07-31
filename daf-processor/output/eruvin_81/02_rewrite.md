@@ -2,23 +2,23 @@
 
 ## Replenishing & Informing
 
-### Replenishing with Same/D…
+### Eruv: Same/Different Food
 
 The daf begins at 81b, precisely at the passage of *nitosfu alehem mosif u'mezake* — the case of replenishing a depleted *eruv*. The context is one in which food had been collected for an *eruv* or *shituf* and then became depleted — eaten, lost, or otherwise consumed. If one is replenishing with the same type of food as was originally used, the Gemara indicates that one need not seek the participants' permission anew. If, however, one wishes to replenish with a different type of food — say, the original was wine and one now wishes to add oil — then depending on circumstances, particularly if the original supply had been entirely consumed and one is effectively starting from scratch, consultation may be required.
 
 An underlying ambiguity runs through this entire discussion: whose food is being used for the replenishment? If one is contributing from one's own stores and simply conferring the benefit upon the courtyard's residents, why should their permission be necessary at all? One is merely doing them a benefit. If, however, one is drawing upon the participants' own food to which one happens to have access, then any significant new action might well require their authorization, since they had initially consented to participate but not necessarily to this new arrangement. The Gemara does not address this distinction directly, and the ambiguity persists.
 
-### New Residents & Notificati…
+### New Residents & Eruv
 
 The Mishnah adds that if new residents have moved into the courtyard between one Shabbat and the next, one must add food to the *eruv* and *tzarich lehodiya* — one must inform the newcomers. Again, it is not entirely clear whether the obligation to inform arises because one is taking from their food, or whether even when using one's own food there is still a requirement to notify them. The Gemara leaves this ambiguous as well.
 
-### R. Yehuda: No Notificati…
+### R. Yehuda: No Notifctn
 
 In response to this Mishnah, Rav Shizbi said in the name of Rav Chisda: *zot omeret chalukin alav chaverav al Rabbi Yehuda* — this teaches that Rabbi Yehuda's colleagues disagree with him. The Rabbi Yehuda in question is the one who appears in the upcoming Mishnah: *bameh devarim amurim be-eruvei techumin* — when is it that a person's awareness and buy-in are required? It is specifically by *eruv techumin*, where making an *eruv* in one direction benefits the person in that direction but curtails his range in the opposite direction. There, one clearly needs the person's participation from the outset. *Aval be-eruvei chatzerot* — but when it comes to a courtyard *eruv*, which only benefits everyone involved, *me'arvin ben l'daato ben shelo l'daato* — one may make the *eruv* whether or not the person is aware, since it is an unqualified benefit.
 
 The Gemara thus assumes that our Mishnah, which requires informing new residents even when doing something beneficial for them, conflicts with Rabbi Yehuda's position. The Gemara does not entertain the possibility that the cases differ based on whose food is being used — it simply assumes that the question of notification applies equally in both scenarios. The Gemara notes: *peshita de-chalukin* — obviously they disagree! Our Mishnah requires notification; Rabbi Yehuda does not.
 
-### Two-Alleyway Courtyard I…
+### Two-Alleyway Courtyard
 
 But then the Gemara reconsiders. One might have thought that our Mishnah requiring notification applies only to the case of *chatzer she-bein shtei mavo'ot* — a courtyard situated between two alleyways, as discussed the previous day, where the courtyard has a choice of which alleyway to affiliate with. In such a case, joining alleyway A is not obviously to one's benefit over alleyway B, and the courtyard's participation may not even obstruct other courtyards. There, naturally, one would need the residents' buy-in. But *aval chatzer she-bemavoi echad* — if the courtyard has only one alleyway it can join, where the benefit is clear and non-participation would obstruct others, *eima lo* — perhaps even our Mishnah would agree that no notification is needed, or one could even compel participation. *Kama shma lan* — so the Gemara tells us that our Mishnah speaks even of the single-alleyway case, and still requires notification.
 
@@ -26,7 +26,7 @@ The conclusion of this passage is therefore that there is a genuine dispute betw
 
 ---
 
-## Shiur: Seudot vs. Groger…
+## Eruv: Seudot vs. Grogeret
 
 ### Large Number Threshold
 
@@ -36,7 +36,7 @@ The Mishnah concludes with the question of *kama shiuro* — what is the minimum
 
 Rav Yehuda said in the name of Shmuel: *shmonah asar bnei adam* — eighteen people. The Gemara immediately asks: *shmonah asar v'tu lo* — only exactly eighteen, and no more? The clarification follows: the intent is *mishmonah asar v'eilach* — eighteen and above. Any group of eighteen or more is considered a "large number," and *shtei seudot* worth suffices for everyone.
 
-### Grogeret to Seudot Calcu…
+### Grogeret to Seudot Math
 
 The Gemara then asks: why specifically eighteen? Rav Yitzchak the son of Rav Yehuda explained it in the name of his father: *kol she'ilu mechalko le'mazon shtei seudot beineihem ein magia k'grogeret le'chol echad v'echad* — if you were to divide two meals' worth of food among all the participants and each person would receive less than a *grogeret*, that is a large group and two meals' worth applies. The logic is that the required quantity is the lesser of the two standards: either a *grogeret* per person or *shtei seudot* for everyone. For seventeen people, each contributing a *grogeret* amounts to a total less than *shtei seudot*; therefore one still goes by a *grogeret* per person. But once there are eighteen people, eighteen *grogeros* exceeds the value of *shtei seudot*, so the *shtei seudot* figure becomes the operative standard. And in passing, the Gemara notes: *d'shtei seudot havyan shmonah asar grogerot* — two meals' worth of food equals eighteen dried fig portions in volume.
 
@@ -86,7 +86,7 @@ The conclusion is striking: by *eruv techumin* everyone agrees any food works; b
 
 ## Whole Loaf & Eivah
 
-### Broken Loaves & Competit…
+### Broken Loaves & Comp
 
 *U-frusa mai ta'ama lo* — why does Rabbi Yehoshua disqualify a broken loaf? Rabbi Yosi ben Shaul said in the name of Rabbi: *mishum eivah* — because of enmity or social rivalry. The concern is that if broken loaves were permitted, participants would begin comparing contributions: one person gives a whole loaf while another gives a partial loaf, and this gives rise to ill-feeling and competition. Just as there is a takkanah that on Tu B'Av all the young women should dress uniformly so as to eliminate the embarrassment of the less wealthy, so too by the *eruv* one requires a uniform standard — everyone gives a whole loaf — in order to prevent this sort of invidious comparison.
 
@@ -148,13 +148,13 @@ The passage has gained a certain notoriety in contemporary culture, as the verse
 
 ---
 
-## Practical Halacha & Cust…
+## Shulchan Aruch & Rema
 
 ### Shulchan Aruch Ruling
 
 The Shulchan Aruch rules in siman 366, se'if 6: *ein me'arvin be-ferusah afilu gedolah harbeh aval bishelimah afilu ketanah me'od me'arvin bah* — one may not make an *eruv* with a broken piece of bread, regardless of how large it is; but with a whole loaf, even an extremely small one, one may make an *eruv*, provided the total quantity meets the *shiur*. The Shulchan Aruch proceeds to address the *challah* and *dimua* cases as well.
 
-### Rema's Flour Interpretat…
+### Rema: Flour from Many
 
 The Rema adds an important qualification: *ve-yesh she-perishu ha de'ein me'arvin rak be-pas shalem hainu she-kol ha-eruv be-yachad yihiye pas shalem* — there are those who interpret the requirement of a whole loaf to mean not that each individual must contribute a whole loaf, but rather that the *eruv* as a combined unit should constitute a whole loaf. Under this reading, *shalem* describes the end product of the collective contribution, not each individual's portion.
 
@@ -168,7 +168,7 @@ In modern practice, the procedure has been simplified considerably: a box of *ma
 
 ---
 
-## Money & Ownership Transf…
+## Money & Ownership Xfer
 
 ### R. Eliezer: Money Works
 
@@ -180,7 +180,7 @@ The next Mishnah introduces the mechanism of transferring ownership through mone
 
 Moreover, there is a compounding problem. One might think that even without a personal *kinyan*, the person would be included in the communal *zechiyah* when someone takes possession of the bread on behalf of the entire courtyard. But the Sages hold that by paying the baker, the person has signaled his intent to purchase — and by doing so has effectively excluded himself from those who receive the bread as a free benefit from the communal *zechiyah*. He indicated he wants to buy bread, not receive it. The result is that the purchase did not go through (no *meshichah*), and he has excluded himself from the communal acquisition — leaving him in limbo.
 
-### Private Individual Except…
+### Private Individual Agent
 
 *U-modim bi-sh'ar kol adam she-zachu lo ma'osav* — the Sages, however, agree that paying an ordinary private individual does work. The distinction is fundamental: when one gives money to a baker, one is attempting to purchase bread from a vendor — a commercial transaction requiring *meshichah*. But when one gives money to a friend and says "make an *eruv* for me," one is not purchasing an object at all. One is appointing that person as a *shaliach* — an agent — and the *shaliach* then goes and takes physical possession of the bread on the person's behalf. When the agent lifts or draws the bread, the *kinyan* is complete, and one is fully included in the *eruv*.
 
@@ -214,7 +214,7 @@ The converse principle is equally clear: *ve-ein chavin le-adam ela be-fanav* �
 
 The Gemara asks: *mai ta'ama de-Rabbi Eliezer* — what is Rabbi Eliezer's reasoning for holding that money effects the *kinyan* for the baker scenario? After all, there was no *meshichah*. Rav Nachman said in the name of Rabbah bar Avuha: *asa'un Rabbi Eliezer k'arba'ah perakim ba-shanah* — Rabbi Eliezer applied the principle of the four times of the year, where money alone suffices to complete a transaction.
 
-### Butcher Slaughter Princip…
+### Butcher Slaughter
 
 The four times of the year are described in a Mishnah in Chullin: *b'arba'ah perakim elu mashchitin es ha-tabbah al karcho* — at these four times one may compel the butcher to slaughter an animal even against his will. The case: *afilu shor shaveh elef dinar ve-ein lokeach ela dinar* — even if the ox is worth a thousand dinars and the buyer purchased only a dinar's worth of meat, since the buyer has acquired that portion and the only way to provide it is by slaughtering the ox, the butcher may be compelled to do so. Furthermore, *im meis meis la-lokeach* — if the animal dies in the interim, the loss falls on the buyer, because from the moment the money was paid the buyer already became the owner.
 
@@ -238,7 +238,7 @@ The rest of the year, however, the calculus is different. The buyer might prefer
 
 ---
 
-## Biblical Kinyan & Ra (II)
+## Kinyan: Biblical Rule
 
 ### Biblical Kinyan Invoked
 
@@ -304,11 +304,11 @@ Rav Yehuda said in the name of Shmuel: *halacha ke-Rabbi Yehuda* — we rule in 
 
 Rav Chana bar Katina challenges this broad statement: does Shmuel's ruling apply even to the case discussed later, where a *mavoi*'s beams or posts were removed on Shabbat — where Rabbi Yehuda rules leniently? Rav Yehuda responds: *be-Eruvin amarti lakh ve-lo be-mechitza* — I said we follow Rabbi Yehuda regarding the laws of *Eruvin* themselves, not regarding the laws of *mechitza* — the construction and maintenance of partitions. The question of whether a *mavoi*'s walls remain valid after a structural change belongs to a different halakhic category from the rules of joining courtyards and establishing communal food-sharing. This distinction has been noted before in the masechta.
 
-### Disagreement or Explanati…
+### Disagreement/Explanation
 
 Rav Acha the son of Rava then raises a further question to Rav Ashi: if the halacha follows Rabbi Yehuda, it implies *mi-klal de-pligi* — that there are those who disagree with him. But who actually disagrees with Rabbi Yehuda's position that *eruvei chatzerot* may be made without the residents' awareness? Rabbi Yehoshua ben Levi said: *kol makom she-amar Rabbi Yehuda eimasi u-vameh be-mishnasennu eino ela le-faresh divrei Chachamim* — whenever Rabbi Yehuda uses the phrases "when does this apply?" or "in what circumstances?" in a Mishnah, he is not disagreeing with the Sages but merely elaborating and qualifying their ruling in an expository fashion. Under this reading, Rabbi Yehuda's "when does this apply? By *eruv techumin*" is not a dissenting opinion but an explanation of the Sages' own position, and therefore no one actually disputes him.
 
-### New Residents Contradict…
+### New Residents: Two Alley
 
 The Gemara asks: *ve-lo pligi*? Can one really say they do not disagree? But we just learned in the Mishnah at the beginning of today's daf: *nitosfu aleihem mosif u-mezakeh ve-tzarich le-hodia* — when new residents move in, one adds food and must inform them. If no one disagrees with Rabbi Yehuda, why does our Mishnah require notification for what is an unambiguous benefit?
 

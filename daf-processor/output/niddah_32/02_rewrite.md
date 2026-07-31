@@ -6,7 +6,7 @@
 
 The *aggadata* of 31b concludes with a teaching of Rabbi Yitzchak in the school of Rabbi Yannai: *kivan sheba zachar l'olam ba shalom l'olam* — when a male comes into the world, peace comes into the world. The proof-text offered is *shilchu kar moshel aretz* ("send out the *kar*, master of the land"), where Rashi reads *zachar* as a contraction of *ze kar* — "this is the gift," the peace-offering, the thing of value that the male brings into the world.
 
-### Male Production, Female…
+### Male, Female Roles
 
 A second teaching from the same school continues the wordplay: *ba zachar l'olam ba k'reih beyado* — when a male comes into the world, his loaf of bread is in his hands. The word *zachar* is again parsed as *ze kar*, this time in the sense of productive capacity, supported by the verse *vayikra lahem k'ra gedolah* ("he dug for them a great pit"), which is taken to evoke the ability to produce and be productive. By contrast, *nekeivah ein imah klum* — the female comes with nothing. The wordplay here is *nekiyah ba'ah*, she comes empty-handed. The proof-text is *nakvah s'charach alai v'etenah* ("articulate your fee and I will pay it"), Lavan's words to Yaakov, which is read to mean that she must ask — *ad d'amrah mezuni lo yahavu lah* — "until she says, give me my sustenance, they do not give her."
 
@@ -118,7 +118,7 @@ There is a significant *Tosafos* here. Elsewhere in the *gemara* (in the tractat
 
 The reason given is: *ve'hen yoshvot al kol dam va'dam* — they sit upon every type of blood. That is, they do not distinguish between the different colors of blood, some of which render a woman *tamei* and some of which do not. Whatever blood they see, they treat as *niddah* blood. One might think this is a *chumra* — they're being stricter than the law requires. But in fact this is a textbook case of *chumra de'ati lidei kula* — a stringency that produces a leniency.
 
-### Stringency/Leniency Para…
+### Stringency/Leniency
 
 The mechanism works as follows. If a woman begins to bleed with a color that is not actually a *niddah* color — say, a brownish discharge two or three days before the true red flow — and she begins counting her seven days from that non-qualifying blood rather than from the onset of the actual qualifying *niddah* flow, her seven-day count ends too early. She will go to the *mikvah* while she is still technically a *niddah*, and thus never actually becomes *tehorah*. Her *chumra* of counting from the earliest drop, regardless of color, causes her to go to the *mikvah* at the wrong time, and her *tumah* is never resolved. This is the fundamental problem: the stringency of not distinguishing blood colors ends up producing the leniency of never actually achieving *taharah*.
 

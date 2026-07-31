@@ -1,4 +1,5 @@
 # Nazir 59 — Daf Yomi Shiur
+[DAF:59a]
 
 ## Partner Dies: Stranger
 
@@ -120,6 +121,7 @@ Rav Nachman offered an additional critique from a different angle. The *Gemara* 
 
 ## Safek Tamei & Metzora
 
+[DAF:59b]
 ### Complex Case Setup
 
 > **Hebrew/Aramaic:** מַתְנִי׳ נָזִיר שֶׁהָיָה טָמֵא בְּסָפֵק וּמוּחְלָט בְּסָפֵק — אוֹכֵל בְּקָדָשִׁים אַחַר שִׁשִּׁים יוֹם.

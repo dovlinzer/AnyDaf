@@ -1,4 +1,5 @@
 # Bava Batra 40 — Daf Yomi Shiur
+[DAF:40a]
 
 ## Machaa & Modaa
 
@@ -132,6 +133,7 @@ Against this, Abaye and Rava both rule in the opposite direction: *afilu alai ve
 
 The scholars of Nehardai add a further requirement from a different direction: *kol moda'ah delo ketiv bah anan yadinan beh be'onsa de'planya lav moda'ah hi* — any *modaa* that does not contain the words "we know that so-and-so is being coerced" is not a valid *modaa*. This is a striking limitation. If the *modaa* merely records that the seller told the witnesses he was being coerced, that is insufficient — it is merely his hearsay claim, and a *shtar* that records someone's assertion about himself carries little independent weight. For the *modaa* to be valid, the witnesses must themselves have independent knowledge of the coercion: they must have witnessed a threat, observed pressure being applied, or at minimum have sufficient awareness of the circumstances that they can attest *anan yadinan* — *we* know — rather than merely relaying what the seller told them.
 
+[DAF:40b]
 ### Modaa Subject
 
 > **Hebrew/Aramaic:** מוֹדָעָא דְמַאי? אִי דְּגִיטָּא וּדְמַתַּנְתָּא – גַּלּוֹיֵי מִילְּתָא בְּעָלְמָא הִיא! וְאִי דִּזְבִינֵי, וְהָאָמַר רָבָא: לָא כָּתְבִינַן מוֹדָעָא אַזְּבִינֵי!

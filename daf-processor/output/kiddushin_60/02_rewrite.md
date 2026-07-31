@@ -12,7 +12,7 @@ The underlying tension is that while Reish Lakish concedes that purely verbal ac
 
 The *Gemara* presents two versions of Reish Lakish's position. In the first, he disputes only the case of the postponed monetary act. In the second, far more striking version, he disputes even the case of a woman who designated a *shaliach* to receive *kiddushin* on her behalf — arguing that she cannot verbally revoke the appointment. This position is difficult to the point of being untenable: it would mean a woman could be married against her will. Tosafot grapples with this reading, but the *Gemara* clearly concludes that it cannot be correct. If a woman designates a *shaliach*, she may verbally void the *shlichus*.
 
-### Hilchesa Ke-Rabbi Yochan…
+### Hilchesa Ke-R. Yochanan
 
 The *Gemara* records a definitive contradiction to Reish Lakish — *tiuvta de-Reish Lakish tiuvta* — demonstrating that a *shaliach* appointment can indeed be verbally revoked. And then the *Gemara* goes further: *ve-hilchesa ke-Rabbi Yochanan ve-afilu be-kameita* — we rule like Rabbi Yochanan even in the first version of the dispute, even where money was physically given with the effect designated to take place thirty days later. Even that can be verbally voided before it takes effect.
 
@@ -44,7 +44,7 @@ This distinction clarifies the ruling. Because the *get* document itself has und
 
 ---
 
-## Me'achshav U'Le'achar Zm…
+## Postponed Kiddushin
 
 ### Rav: Safek Le'olam
 

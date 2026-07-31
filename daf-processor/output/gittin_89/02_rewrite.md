@@ -62,7 +62,7 @@ This generates substantial halachic literature about the precise scope of contem
 
 What is particularly striking is that forcing a *get* — which involves physical compulsion and the halachic paradox of treating a coerced act as voluntary — should seemingly require the clearest possible credentialing. Yet the *gemara* not only affirms that contemporary courts were empowered to do this, but describes it as *milsa d'shchicha* — a common matter. That characterization is itself a sobering commentary: even in the time of the *gemara*, husbands who were legally obligated to give a *get* and refused were a sufficiently frequent occurrence to be classified as routine. This makes the contemporary failure of the Israeli rabbinical establishment — which possesses actual coercive power (including imprisonment) yet largely declines to use it — all the more difficult to understand.
 
-### Tosafot: Gerim & Shtlich…
+### Tosafot: Gerim & Shlichus
 
 *Tosafot* raises two additional points of interest. The first concerns the acceptance of converts (*geirim*). The *gemara* in *Yevamos* establishes that conversion requires three expert judges with *semicha* (*mishpat kesiv bei*). *Tosafot* answers, in the name of the *Ri*, that we perform the conversion as agents of the ordained court (*d'avdinan shlichusaihu*), since the matter is considered sufficiently common (*d'chashiv k'shchiach*) — though the *Tosafot* acknowledges the irony, given that conversion to Judaism in medieval Christian or Muslim lands was punishable by death and was anything but common. Indeed, various *poskim* writing about the laws of *geirim* felt compelled to include disclaimers that the entire subject was theoretical, given the legal dangers of the time.
 
@@ -90,7 +90,7 @@ Rava adds a further restriction: *yatza la shem mezana ba'ir ein chosheshin lah*
 
 This reflects a dispute among *tanna'im*. If a woman was seen eating in the marketplace (*achla bashuk*), or walking with an outstretched neck in a manner designed to attract attention (*gargara bashuk*), or nursing her child in a public place (*henika bashuk*) — Rabbi Meir rules that she must be divorced from her husband, the assumption being that such behavior indicates adultery has occurred. Rabbi Akiva sets the threshold much higher: *mishe-yishiu ve-yitnu bah mezarot balevanah* — not until the women who spin wool by moonlight — the proverbial neighborhood gossips — have taken up the story. Even by Rabbi Akiva's account, however, communal yenta-talk carries some weight, which is itself a striking position.
 
-### R. Yochanan: Two Witness…
+### R. Yochanan: Two
 
 Rabbi Yochanan ben Nuri finally provides the voice of genuine caution: *im ken lo hinachta bat le-Avraham Avinu she-yoshevet tachat ba'alah* — if we give this weight, no woman will remain with her husband. He then invokes a *gezeirah shavah*: the word *davar* appears both in the verse requiring a husband to find an *ervat davar* before writing a *get* and in the verse *al pi shenei edim o al pi sheloshah edim yakum davar* — establishing matters through two or three witnesses. *Mah le-halan davar barur af kan davar barur* — just as the latter verse requires clear, established evidence, so too does the former. Nothing short of clear evidence suffices.
 

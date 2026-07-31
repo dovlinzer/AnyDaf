@@ -40,7 +40,7 @@ Moshe replied: amar lehu — amri inshi, l'mata yarka yarka shakil — people sa
 
 ---
 
-## Grain Quality & Crop Rot…
+## Grain Quality & Crop Rot
 
 ### Non-Ideal Fields Mishna
 

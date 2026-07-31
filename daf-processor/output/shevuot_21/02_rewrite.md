@@ -238,7 +238,7 @@ This analysis also provides a proof for the conclusion reached earlier — that 
 
 ---
 
-## Oath vs Vow Measure (III)
+## Oath vs Vow Measures
 
 ### Word vs Act
 
@@ -254,7 +254,7 @@ The underlying principle, then, is that the *kezayit* requirement is a function 
 
 ---
 
-## Oath vs Vow Measure (III)
+## Oath vs Vow Measures (II)
 
 ### Konamos Parallel
 

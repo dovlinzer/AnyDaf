@@ -1,10 +1,10 @@
 # Eruvin 28 — Daf Yomi Shiur
 
-## Mishnah & Global Stateme…
+## Eruv, Ma'aser Sheni
 
 ### Mishnah Overview
 
-Today's daf is 28, and we pick up from the bottom of 27b. The *mishnah* had established two parallel rules: one may use virtually anything for *eruv*, and virtually anything for *maaser sheni*, with the exception of *maaser sheni* money, water, and salt. The structure of today's discussion follows from those two broad permissions, and the bulk of the daf is devoted to qualifying and limiting them — adding, case by case, to the list of exceptions.
+ The *mishnah* had established two parallel rules: one may use virtually anything for *eruv*, and virtually anything for *maaser sheni*, with the exception of *maaser sheni* money, water, and salt. The structure of today's discussion follows from those two broad permissions, and the bulk of the daf is devoted to qualifying and limiting them — adding, case by case, to the list of exceptions.
 
 ### Reb Yochanan's Warning
 

@@ -1,4 +1,5 @@
 # Sukkah 11 — Daf Yomi Shiur
+[DAF:11a]
 
 ## Sukkah tachat Sukkah
 
@@ -228,6 +229,7 @@ The Gemara, however, offers an alternative reading of Shmuel's statement. Perhap
 
 A *baraita* is then cited that poses a more direct challenge to Rav. It invokes the principle of *ta'aseh velo min ha-asuy* in connection with the *sukkah* case: if one bent a gourd, vine, or ivy over the *sukkah* and covered it as *schach*, it is invalid. The Gemara asks: how does this illustrate *ta'aseh velo min ha-asuy*? If the vine is still attached at the time we are discussing, the invalidity derives simply from *mechubar* — attachment to the ground — not from any principle of indirect making. The only way the *baraita* makes sense as an application of *ta'aseh velo min ha-asuy* is if we are discussing a case where the vine was already cut — where the vine is no longer *mechubar* — and the invalidity comes from the fact that the physical placement was done when the material was still attached and invalid. The *baraita* then rules this invalid, demonstrating that cutting after the placement does not retroactively constitute the act of making. This is a substantive contradiction to Rav, who holds that the cutting is the making.
 
+[DAF:11b]
 ### Rav's response
 
 > **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִילֵּימָא בְּשֶׁלֹּא קְצָצָן, מַאי אִירְיָא מִשּׁוּם ״תַּעֲשֶׂה״ — וְלֹא מִן הֶעָשׂוּי? תִּיפּוֹק לֵיהּ דִּמְחוּבָּרִין נִינְהוּ! אֶלָּא בְּשֶׁקְּצָצָן, וְקָתָנֵי פְּסוּלָה, וּשְׁמַע מִינַּהּ דְּלָא אָמְרִינַן קְצִיצָתָן זוֹ הִיא עֲשִׂיָּיתָן, וּתְיוּבְתָּא דְּרַב!

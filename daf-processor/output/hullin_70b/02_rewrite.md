@@ -16,11 +16,11 @@ This ruling stands in direct contrast to the subsequent *mishnah*, which discuss
 
 ## Tanna Kamma vs. R. Yose
 
-### R. Yose: Kosher/Non-Kosh…
+### R. Yose
 
 *Rabbi Yose HaGlili* dissents from the anonymous first opinion: *b'tme'ah tamei, uv'tehorah tahor*—by a non-kosher animal, such as a horse, touching the dead fetus in the womb renders one *tamei*; by a kosher animal, such as a cow, it does not. This distinction, which might initially seem strange given that both a dead horse and a dead cow generate the same *tumah* of *nevelah*, becomes intelligible upon reflection.
 
-### Logic: Shechita & Edibil…
+### Logic: Shechita Fetus
 
 The key consideration is what would happen if the mother were slaughtered. If the mother cow were subject to *shechita* while the dead fetus was inside her, that fetus would be treated as a piece of meat belonging to the mother and could be eaten—this was precisely the ruling discussed earlier in the *perek*. By a horse, of course, *shechita* is irrelevant because the animal can never be eaten in any case.
 
@@ -42,7 +42,7 @@ The *kal vachomer* is formulated as follows: *im ho'il imo lehatirah ba'achilah,
 
 The *gemara* thus establishes: *ashkachan behemah tehorah*—we have accounted for the kosher animal. This is the basis for Rabbi Yose HaGlili as well as the *tanna kamma* with respect to the kosher species. The next question is how to extend this ruling to the non-kosher animal.
 
-## Non-Kosher Fetus Derivat…
+## Fetus: Tumah via Midrash
 
 ### Q: Non-Kosher Status
 
@@ -60,7 +60,7 @@ The structure of the argument is now clear. Logically, one can only prove on ind
 
 ## Refining Hekesh Criteria
 
-### Challenge: Hooves vs. Ko…
+### Hekesh: Kalut BeEi Para
 
 The *gemara* is not yet satisfied. The verse used by the *tanna kamma* to create the *hekesh* does not actually speak in terms of kosher versus non-kosher. Rather, it invokes the language of *mahalchei kapayim*—things that walk on paws. This raises an immediate question: should the relevant criterion be kosher status, or the physical characteristic of having split hooves versus non-split hooves?
 
@@ -82,7 +82,7 @@ But the *gemara* is still not satisfied, because the analysis still tracks hoove
 
 At this point, *rav achtva'i bar ami* raises a decisive objection. The entire discussion has been struggling to locate a case where the hoof-based criterion yields the same result as the kosher/non-kosher criterion. But, he notes, there is an obvious counterexample that has been overlooked: the pig. A pig has split hooves but is not kosher. Therefore, *chazir b'mei chazirta*—the fetus of a pig inside a sow—presents the case of a split-hooved creature inside a split-hooved creature: *d'mahalchei shmonah meimalchei shmonah hu*, an eight-footed within an eight-footed. According to the hoof-based reading, this case *should not* cause *tumah*. But there is no logical basis for saying that the dead fetus of a pig in its mother's womb is *tahor*—neither the *kal vachomer* (which depends on the mother's *shechita* being effective) nor any other consideration applies. This demonstrates conclusively that the dividing line cannot be hooves; it must be kosher versus non-kosher status.
 
-## Rav Nachman: Vayikra Sou…
+## Rav Nachman: Vayikra
 
 ### Pasuk Omission Analysis
 
@@ -94,7 +94,7 @@ The *gemara* asks the obvious question: *v'chi nivalat behemah tme'ah metamei, u
 
 Rav Nachman bar Yitzchak's answer is elegant: the omission is intentional. There exists precisely one context in which the corpse of a non-kosher animal creates *tumah* but the corpse of a kosher animal does not—and that is the case of the fetus in the womb. The verse, by listing only non-kosher animals, is specifically teaching about fetal status.
 
-### Resolution: Non-Kosher O…
+### Resolution: Fetus Tumah
 
 *Ela eizehu zeh—ubar she'bitme'ah tamei u'vitehorah tahor*: which case is this? This is the fetus—where the fetus of a non-kosher animal causes *tumah* and the fetus of a kosher animal does not. This is the position of Rabbi Yose HaGlili, and Rav Nachman bar Yitzchak's verse provides a clean *scriptural* basis for it: the *torah* itself encodes the asymmetry between kosher and non-kosher fetuses precisely in this *parshah* by mentioning only the non-kosher animal's corpse.
 
@@ -104,7 +104,7 @@ Rav Nachman bar Yitzchak's answer is elegant: the omission is intentional. There
 
 The *gemara* now raises a natural follow-up: *ume'achar denafkah lei mi'd'Rav Nachman bar Yitzchak, d'Rabbi Yitzchak lamah li*—once we can derive the whole ruling from Rav Nachman bar Yitzchak's verse, what is still the purpose of the verse used by Rabbi Yitzchak, which spoke about paw-walkers inside of animals? If Rav Nachman's *pasuk* already establishes that only the non-kosher fetus causes *tumah*, why do we need Rabbi Yitzchak's verse at all?
 
-### Combined Verses: Distinc…
+### Combined Verses: Kosher
 
 The *gemara* answers: *ei lav d'Rabbi Yitzchak, hava amina kullah k'Rabbi hu de'asa*—had it not been for Rabbi Yitzchak's verse, one might have concluded that the entire point of the verse in *vayikra* that mentions non-kosher animals is not to address the question of fetuses at all, but rather to convey a different *drasha* attributed to *rabbi* (whose teaching will be encountered shortly). Without Rabbi Yitzchak's verse drawing our attention to the possibility that a fetus within a mother might have distinct *tumah* status, we would not have known to read the *vayikra* verse in the way Rav Nachman bar Yitzchak proposes.
 
@@ -116,7 +116,7 @@ It is the *combination* of both verses that does the work. Rabbi Yitzchak's vers
 
 The preceding discussion involved verses that speak of any *behemah* that dies or any *chayah* that dies, and this brings the *gemara* to a brief but illuminating digression concerning the terms *behemah* and *chayah* in *tanach*. These terms can be used in a technical sense—where *behemah* refers to domesticated animals and *chayah* to non-domesticated ones—or in a non-technical sense, where both terms simply mean "animal" in general. The *gemara* now explores how this ambiguity affects the determination of which animal corpses cause *tumah*.
 
-### Tanya: R. Yonatan/Ben Az…
+### Yonatan & Ben Azzai
 
 A *braita* is introduced: *amar Rabbi Yonatan, namti lo l'Ben Azzai*—Rabbi Yonatan said, I spoke to Ben Azzai. Rabbi Yonatan recounts that he told Ben Azzai: we have learned that the corpse of a kosher *behemah* causes *tumah*—this is explicit in the verse *v'chi yamut min habehemah asher hi lachem l'ochlah, hanogea b'nivlatah yitma ad ha'erev*. We also know that the corpse of a non-kosher *behemah* causes *tumah*, and that the corpse of a non-kosher *chayah* causes *tumah*—both are stated explicitly in the *vayikra* passage.
 

@@ -1,6 +1,6 @@
 # Hullin 47 — Daf Yomi Shiur
 
-## Sirchos & Lobe Connectio…
+## Sirchos & Lobe Adhesions
 
 ### Definition of Sirchos
 
@@ -18,7 +18,7 @@ The Gemara immediately qualifies: *velo amran ela shelo kesidra* — this ruling
 
 *Aval kesidra* — but if the lobes are connected in order — lobe one to lobe two, or lobe two to lobe three on the right, or the two lobes on the left connecting to each other — *hainu revuyseyhu*, that is their normal manner of growth, and there is no problem. The precise meaning of *hainu revuyseyhu* is the subject of a significant dispute between Rashi and Tosafot.
 
-### Rashi: Healing Through P…
+### Rashi: Healing, Lobes
 
 Rashi reads this Gemara as follows. In the out-of-order case, the assumption is that there was a hole, and the *sircha* grew to cover it — but because these lobes are not naturally adjacent, they will eventually pull apart, the covering will tear, and the hole will reassert itself. The animal is therefore a *treifah*.
 
@@ -26,7 +26,7 @@ In the in-order case, Rashi takes a more striking position: even if there was a 
 
 This reading raises a question about the phrase *leis lei livdika* — if the lobes are adjacent and the healing is successful, why can one not simply check? It is not entirely clear from Rashi's position, and the matter is discussed among the *rishonim*.
 
-### Tosafot: Future vs. Pres…
+### Tosafot: Future vs Now
 
 Tosafot reads the Gemara quite differently. Tosafot notes that the Gemara here never mentions a hole at all. Tosafot therefore proposes that the problem of a *sircha* connecting out-of-order lobes is not that it covers an existing hole — rather, it is that these lobes, being non-adjacent, will naturally pull apart over time, and since they are connected by a *sircha*, that pulling apart will rip the tissue and create a hole. The animal is a *treifah* now, at the time of slaughter, because a hole is foreseen as inevitable.
 
@@ -56,7 +56,7 @@ The underlying structure of the debate is clear: those who forbid maintain that 
 
 ## Multiple Blisters
 
-### Two Blisters Indicate Ho…
+### Two Blisters: Hole Test
 
 *V'amar Rava hanei tarti bo'ei d'smichi l'hadadi* — Rava also says: if you have two blisters on the lung that are close to one another, *leis lehu bdikusa* — you cannot check them, and the animal is a *treifah*. Tosafot specifies that anything more than one hair's breadth separating two blisters would be considered distant; if they are within one hair's breadth of each other, that counts as close.
 
@@ -92,7 +92,7 @@ When the butcher returned to Mareimar and relayed this exchange, Mareimar said: 
 
 *V'hani mili d'kayma b'dara d'onei* — this permissibility of an extra lobe applies only when the extra lobe appears within the row of lobes. If the three on the right and two on the left are arranged in their proper row, and the extra lobe appears as an additional one within that same row, it is not a *treifah*. *aval beini beini treifa* — but if it appears out of the row, it is a *treifah*.
 
-### Beini Beini & Wild Anima…
+### Beini & Wild Animals
 
 *Hahu beini beini d'asai l'kamei d'Rav Ashi* — a case of precisely this sort — an extra lobe appearing between the rows — came before Rav Ashi. *savar rav ashi l'mitrefah* — Rav Ashi was inclined to declare it a *treifah*, consistent with the rule just stated.
 
@@ -108,7 +108,7 @@ There is also a practical question this raises: if it turns out that the majorit
 
 ---
 
-## Lung Deformations & Colo…
+## Lung Deformations & Color
 
 ### Chopped Wood (Ufta)
 
@@ -136,7 +136,7 @@ Both rulings — red kosher and green kosher — are supported by stories about 
 
 Rashi's reading here is that the excess blood had not yet been absorbed into the flesh — the child was in a state where any wound risked fatal hemorrhage. Once the blood normalized, the danger passed. Applied to the lung: a reddish lung indicates that excess blood has pooled there, but that condition is temporary and will resolve, and therefore the animal is kosher.
 
-### Green = Insufficient Blo…
+### Green: Insufficient Blood
 
 *Veshuv pa'am achat halachti limdinat Kaputkia* — and on another occasion Rabbi Nasan went to Cappadocia, in Asia Minor. A similar situation: two sons had died from *bris milah*, and the third was brought to him. *vera'itiv shehayah yarok* — I saw that he was greenish. *hitzatzti bo velo hayah bo dam bris* — I looked closely and saw that he lacked sufficient blood flowing through him. The phrase *dam bris* — blood of circumcision — is noteworthy; the concern here is not about the ritual significance of blood in *milah* but about the biological danger to the child. Without adequate blood circulation, a wound would not heal, and the child would die. Rabbi Nasan told the mother: *himtini lo ad sheyipol bo damo* — wait until his blood gets flowing into him. She waited, the blood normalized, the child was circumcised and survived, and again the child was named Nathan the Babylonian.
 

@@ -1,4 +1,5 @@
 # Hullin 131 — Daf Yomi Shiur
+[DAF:130b]
 
 ## Rav Chisda's Ruling
 
@@ -40,6 +41,7 @@ The *gemara* now brings a *ta shema* — a challenge to Rav Chisda's position fr
 
 The answer provided is the verse: *velo yechalelu et kodshei benei Yisrael asher yarimu l'Hashem* — "they shall not desecrate the sanctified things of the children of Israel which they shall separate off to God." The *braita* derives: you, the *kohen* or the *levi*, have no standing in them until the moment of separation. Their ownership does not begin until the gift is actually set apart.
 
+[DAF:131a]
 ### Ukimta Distinction
 
 > **Hebrew/Aramaic:** הָא מִשְּׁעַת הֲרָמָה וְאֵילָךְ מִיהָא מְשַׁלֵּם, אַמַּאי? לֶיהֱוֵי כְּמַזִּיק מַתְּנוֹת כְּהוּנָּה אוֹ שֶׁאֲכָלָן! הָכָא נָמֵי דַּאֲתוֹ לִידֵיהּ בְּטִבְלַיְיהוּ, וְקָסָבַר הַאי תַּנָּא: מַתָּנוֹת שֶׁלֹּא הוּרְמוּ – כְּמִי שֶׁהוּרְמוּ דָּמְיָין.
@@ -268,6 +270,7 @@ The *gemara* turns to enumerate the scriptural sources for each gift. For the th
 
 For trees, the *gemara* establishes only two gifts: *shikcha* and *pe'ah*; there is no *leket* equivalent for trees. The source is: *ki tachbot zeitecha lo tefa'er acharecha* — when you beat your olive tree, do not *tefa'er* it afterward. Rav Levi explains that the word *acharecha* — "after you" or "behind you" — refers to *shikcha*, things left behind that were forgotten. The school of Rabbi Yishmael interprets *lo tefa'er* as meaning "do not strip it of its glory" — that is, leave some behind — which is the law of *pe'ah*. The word *tefa'er* is understood as a verb meaning to remove *pe'ah*, parallel to the way certain Hebrew verbs denote the removal of something rather than its addition. Having established both *shikcha* and *pe'ah* for olive trees, the *gemara* applies a *gezeirah shavah* from the word *acharecha* to derive the same two gifts for vineyards.
 
+[DAF:131b]
 ### Poverty Lesson
 
 > **Hebrew/Aramaic:** שְׁלֹשָׁה שֶׁבַּתְּבוּאָה: הַלֶּקֶט, הַשִּׁכְחָה, וְהַפֵּאָה, דִּכְתִיב: ״וּבְקֻצְרְכֶם אֶת קְצִיר אַרְצְכֶם לֹא תְכַלֶּה פְּאַת שָׂדְךָ בְּקֻצְרֶךָ וְלֶקֶט קְצִירְךָ וְגוֹ׳״, ״כִּי תִקְצֹר קְצִירְךָ בְשָׂדֶךָ וְשָׁכַחְתָּ עֹמֶר בַּשָּׂדֶה״.

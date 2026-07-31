@@ -1,4 +1,5 @@
 # Bava Kamma 85 — Daf Yomi Shiur
+[DAF:85a]
 
 ## Tza'ar Introduction
 
@@ -206,6 +207,7 @@ Conversely, if the injured party proposes to receive a fixed sum directly and ma
 
 A *baraita* establishes that all five categories of damages — *nezek*, *tza'ar*, *ripuy*, *shevet*, and *boshet* — are payable together: *v'chulan mishtalmin bimkom nezek*, all of them are payable in the context of *nezek*. This does not mean *nezek* absorbs or exempts the others; rather, when *nezek* is owed, the other four are owed as well — each covering a distinct dimension of the injury.
 
+[DAF:85b]
 ### Petza Source
 
 > **Hebrew/Aramaic:** הַאי מִבְּעֵי לֵיהּ לְרַבּוֹת שׁוֹגֵג כְּמֵזִיד וְאוֹנֶס כְּרָצוֹן! אִם כֵּן, נִכְתּוֹב קְרָא: ״פֶּצַע בְּפָצַע״; מַאי ״פֶּצַע תַּחַת פָּצַע״? שְׁמַע מִינַּהּ תַּרְתֵּי.

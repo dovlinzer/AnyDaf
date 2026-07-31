@@ -1,4 +1,5 @@
 # Zevachim 22 — Daf Yomi Shiur
+[DAF:22a]
 
 ## Kiyor Capacity
 
@@ -176,6 +177,7 @@ A *braisa* is cited in which Rabbi Yishmael rules: *mayim she'ein bahem shem l'v
 
 The *gemara* therefore reinterprets: the *kal v'chomer* means not that the actual *kiyor* water may be used, but that water of the *type* used for the *kiyor* may be used — namely, *mayim chayim*, spring water. The argument runs: if rainwater can wash the animal's limbs, spring water certainly can — and spring water is indeed the type appropriate for the *kiyor*. This reading, in turn, implies that the *kiyor* requires *mayim chayim*.
 
+[DAF:22b]
 ### Tannaim Dispute
 
 > **Hebrew/Aramaic:** אֶלָּא לָאו דִּרְאוּיִין לְמֵי כִיּוֹר? אַלְמָא מַיִם חַיִּים נִינְהוּ! תַּנָּאֵי הִיא. דְּאָמַר רַבִּי יוֹחָנָן: מֵי כִיּוֹר – רַבִּי יִשְׁמָעֵאל אוֹמֵר: מֵי מַעְיָן הֵן, וַחֲכָמִים אוֹמְרִים: שְׁאָר מֵימוֹת הֵן.

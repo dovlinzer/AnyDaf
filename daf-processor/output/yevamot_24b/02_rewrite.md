@@ -16,7 +16,7 @@ We now return to the governing theme: what is the *halakhah* when a marriage tha
 
 ---
 
-## Suspected Liaison: Non-J…
+## Suspected Non-Jewish
 
 ### Freed Slave Case
 
@@ -32,7 +32,7 @@ The reason the *mishnah* permits these marriages *b'di'avad* — even while disc
 
 ---
 
-## Suspected Liaison: Marri…
+## Suspected Liaison: Get
 
 ### Married Woman Case
 
@@ -48,7 +48,7 @@ One further complication deserves mention: forcing a divorce from the second man
 
 ---
 
-## Conversion Intent & Moti…
+## Gerim: Intent & Motives
 
 ### Conversion Validity Q
 
@@ -94,9 +94,9 @@ A more stringent argument has been raised in some quarters, pushing back against
 
 ---
 
-## Historical Conversion Ac…
+## Conversion: Periods
 
-### Rejection in Prosperous…
+### Gerim in Prosperous Times
 
 The *gemara* now extends the discussion beyond individual motivation to the question of historical periods. *Ein mekabbelim gerim li-ymot ha-Mashiach* — we will not accept converts in the messianic era, because at that moment everyone will wish to convert, and the motivation will be purely self-interested. *Lo kiblu gerim lo bi-ymei David ve-lo bi-ymei Shlomo* — similarly, converts were not accepted in the time of David or in the time of Solomon, periods when Jewish prosperity made conversion materially advantageous.
 
@@ -136,7 +136,7 @@ The *gemara* then reasons: in what case does this scenario make sense? If there 
 
 ---
 
-## Rav's Clarification (III)
+## Rav's Clarification
 
 ### Rav Maintains Position
 
@@ -162,7 +162,7 @@ This *baraita* poses a powerful challenge to Rav. The implication is that withou
 
 ---
 
-## Rav's Clarification (III)
+## Rav's Clarification (II)
 
 ### Court Force Language
 
@@ -170,7 +170,7 @@ Rav responds by drawing attention to the precise language of the *mishnah*: *hot
 
 ---
 
-## Rava's Reinterpretat (II)
+## Rava's Reinterpretation
 
 ### Language Question
 
@@ -178,9 +178,9 @@ Rava presses this point further. Why does the *baraita* itself employ the langua
 
 ---
 
-## Rav's Clarification (III)…
+## Rav's Clarification (III)
 
-### Non-Disagreement Resolut…
+### Rav Interpreting Mishnah
 
 The resolution that emerges is that Rav is not engaged in a substantive dispute about the *halakhah* itself. Everyone agrees: without witnesses but without children, rumors alone suffice to compel divorce from the second husband; with children, only witnesses trigger the forced divorce. Rav's contribution is not a competing *halakhic* position but an interpretive reading of the *mishnah's* language. The phrase *hotzi'uha* led Rav to understand the *mishnah* as speaking to the case where witnesses are present and children too — and under those conditions, of course the divorce is compelled. There is, in other words, no real *machloket* between Rav and the *baraita*.
 

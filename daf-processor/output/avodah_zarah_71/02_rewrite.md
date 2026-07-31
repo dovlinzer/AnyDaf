@@ -1,10 +1,10 @@
 # Avodah Zarah 71 — Daf Yomi Shiur
 
-## Wine & Non-Jews Intr (II)
+## Wine & Non-Jews Intro
 
 ### Daf Overview
 
-Today's *daf* is 71a. The preceding *dappim* were occupied with the question of wine left unattended with a non-Jew: under what circumstances may one assume, with sufficient confidence, that the non-Jew did not touch the wine or otherwise handle it? Now, with the *mishna* at the top of 71a, the discussion returns to an earlier cluster of themes — when does wine become the property of the non-Jew, and when is it still considered the Jew's wine? Related to this is the question of at what stage one is deemed to have derived benefit (*hana'ah*) from *yayin nesech*. These are the central concerns of the current *daf*.
+ The preceding *dappim* were occupied with the question of wine left unattended with a non-Jew: under what circumstances may one assume, with sufficient confidence, that the non-Jew did not touch the wine or otherwise handle it? Now, with the *mishna* at the top of 71a, the discussion returns to an earlier cluster of themes — when does wine become the property of the non-Jew, and when is it still considered the Jew's wine? Related to this is the question of at what stage one is deemed to have derived benefit (*hana'ah*) from *yayin nesech*. These are the central concerns of the current *daf*.
 
 ## Workers Refuse Wine
 

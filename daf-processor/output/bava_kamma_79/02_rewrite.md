@@ -26,7 +26,7 @@ The *mishnah* continues: *hayah moshcho ve-yotze u-met bi-reshut ha-ba'alim — 
 
 This leads to a crucial question raised by Tosafot. In the opening chapter of *Bava Metzia*, Rav Acha and Ravina dispute the following: one opinion holds that *meshikhah* out of the owner's domain requires that one bring the object into a *simta* — a side street or alley — while the other holds that bringing it directly into the *reshut ha-rabim* suffices. The question is conceptually rich: is the act of *geneivah* complete by the mere fact of removing the object from the owner's control, or must the thief also bring it under his own control?
 
-### Meshikhah: Simta or Publ…
+### Meshikhah: Reshus HaRabim
 
 This is a striking question from a conceptual standpoint. For an ordinary *kinyan meshikhah*, it is universally assumed that one must drag the object in a *simta* — a semi-private space where the acquirer can exercise some degree of control. *Meshikhah* in a fully public domain does not work, because there is no demonstration of the new owner taking possession. But for a *ganav*, perhaps the analysis is different. The owner does not care whether the thief has established his own control over the object; what concerns him is that the thief has removed it from *his* control. So perhaps taking the object out of the owner's *reshut* into a *reshut ha-rabim* suffices — not because the thief took possession, but because the owner lost it.
 

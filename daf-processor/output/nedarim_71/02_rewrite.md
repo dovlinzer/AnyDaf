@@ -1,12 +1,12 @@
 # Nedarim 71 — Daf Yomi Shiur
 
-## Erusin & Divorce Framewo…
+## Erusin & Divorce Law
 
 ### Opening
 
-Today's daf is 71a. We pick up in the middle of the page at *tanya kevatei deShmuel*, but since there is time available, it is worth starting from the very beginning of the daf to set the frame.
+ We pick up in the middle of the page at *tanya kevatei deShmuel*, but since there is time available, it is worth starting from the very beginning of the daf to set the frame.
 
-### Mishnah: Multiple Divorc…
+### Mishnah: Vows
 
 The daf opens with a *mishnah* presenting a striking scenario involving a *na'arah me'urasah* — a betrothed maiden — whose vow was made during *erusin*. The *mishnah* states: *nadra vehi arusa* — she made a *neder* while betrothed — *nisgaresh bo bayom* — and she was divorced that same day. We will return later to precisely why the same-day requirement matters; for now, the point is that at least the person who heard the vow has a twenty-four-hour window within which to act. *venisarsa bo bayom* — she then became betrothed again to a second man — *afilu leme'ah* — even if this sequence repeated a hundred times over on the same day — *aviha uba'al ha'acharon meferin nedareha* — the father and the last groom may nonetheless annul her vows.
 
@@ -18,7 +18,7 @@ The governing principle is stated explicitly: *kol shelo yatza lireshut atzmah s
 
 ---
 
-## Last Groom & Prior Heari…
+## Last Groom Annuls Vows
 
 ### Niru L'Arus Rishon Q
 
@@ -48,7 +48,7 @@ With Shmuel's position established — that even vows heard by the first groom c
 
 The first scenario in the *braita*: *shama aviha veheifer lah* — the father heard the vow and annulled it — *velo hispik haba'al lishmo'a ad shemeis* — and the groom did not manage to hear before he died. *Venisarsa bo bayom* — she became betrothed to another man that day — *ve'afilu me'ah pe'amim* — even a hundred times over — *aviha veba'ala ha'acharon meferin nedareha* — the father and the last groom annul her vows. As stated, at this point we have not yet advanced beyond the *mishnah's* basic case, and the scenario explicitly describes the first groom as having died *before* hearing the vow — that is, it is a case of *lo nir'u le'arus rishon*. This is not yet a proof for Shmuel's more far-reaching claim.
 
-### Groom Annuls, Father Fin…
+### Groom Annuls, Father Dies
 
 The second scenario is more interesting: *shama ba'alah veheifer lah* — the groom heard and annulled his portion — *velo hispik ha'av lishmo'a ad shemeis haba'al* — and the father had not yet heard when the groom died. The father is the anchor of the entire process; we would therefore expect that since the father remains, he can complete the annulment. And indeed: *chozer ha'av u'meifer chelko shel ba'al* — the father goes back and annuls the groom's portion.
 
@@ -94,7 +94,7 @@ The question has several layers. On one reading, divorce could be seen as *hakam
 
 Alternatively, perhaps divorce is simply neutral — like *shtika* — a circumstantial exit from the marriage that says nothing about the *neder* one way or the other.
 
-### Father's Right After Div…
+### Father's Rights After Get
 
 The most direct *nafka mina* — practical consequence — is whether the father retains the ability to be *meifer* after the *arus* has divorced the woman. If *gerushin* functions as *shtika*, then the *arus* has simply exited the picture without having done anything to the *neder*, and the father can proceed and annul his own portion (and, arguably, the groom's as well). But if *gerushin* functions as *hakama*, then the *arus* has effectively affirmed the *neder* by divorcing her, and the father's ability to annul is compromised just as it would be had the *arus* explicitly confirmed the vow verbally.
 
@@ -130,7 +130,7 @@ The answer is that the clock that is running belongs to the *father*, not to the
 
 ## Gerushin Braita Test
 
-### Vow Divorce Remarry Brai…
+### Vow Divorce Remarry Same
 
 The *Gemara* tries once more: *ta shema* — *nadara bo bayom, girsha vehachzira bo bayom, ein yachol lehafer* — she made a vow that day, he divorced her and took her back that day, and he cannot annul.
 
@@ -150,7 +150,7 @@ The Ran presses this further. One might try to salvage the proof by noting that 
 
 ## Hakama Nature & Form
 
-### Gerushin Status Unresolv…
+### Gerushin: Hakama vs Shtik
 
 The upshot is that the question — *gerushin k'shtika damya o k'hakama damya* — remains unresolved. No available source definitively settles whether the act of divorce, when a groom has heard the *neder* and then divorces the woman, constitutes an affirmation of the vow or merely a neutral exit.
 

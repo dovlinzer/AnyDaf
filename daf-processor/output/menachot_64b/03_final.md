@@ -1,4 +1,5 @@
 # Menachot 64b — Daf Yomi Shiur
+[DAF:64a]
 
 ## Omer Source & Karmel
 
@@ -28,6 +29,7 @@ The application here is somewhat unusual. Normally, *ein ma'avirin* describes a 
 
 ## Hashmonean Siege Story
 
+[DAF:64b]
 ### Siege Context
 
 > **Hebrew/Aramaic:** מַעֲשֶׂה שֶׁבָּא [הָעוֹמֶר] מִגַּגּוֹת צְרִיפִין. תָּנוּ רַבָּנַן: כְּשֶׁצָּרוּ מַלְכֵי בֵּית חַשְׁמוֹנַאי זֶה עַל זֶה, וְהָיָה הוּרְקָנוֹס מִבַּחוּץ וַאֲרִיסְטוֹבְּלוּס מִבִּפְנִים, בְּכׇל יוֹם וָיוֹם הָיוּ מְשַׁלְשְׁלִין לָהֶן דִּינָרִין בְּקוּפָּה וּמַעֲלִין לָהֶן תְּמִידִין.

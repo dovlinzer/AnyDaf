@@ -64,7 +64,7 @@ The Gemara proposes a resolution: we are dealing with a case where Dov accepted 
 
 The operative *achrayut* must therefore be *achrayut d'ati leh machmateh* — liability arising from Dov's own debts. Specifically: Dov accepts upon himself that if his creditor Joe were to seize the field from Bobby in order to satisfy a loan Dov owes, Dov will reimburse Bobby for that loss. This changes the calculus entirely. If Joe seizes the field from Bobby, Bobby can recover from Dov. If Dov benefits from Joe collecting the field — because his debt to Joe is now satisfied — he simultaneously incurs an equivalent new debt to Bobby. The net gain is zero. By accepting this form of *achrayut*, Dov has neutralized the financial benefit he would otherwise derive from the testimony, and he is now permitted to testify.
 
-### Achrayut Permits Testimo…
+### Achrayut Permits Test
 
 The resulting *halacha* is as follows: Dov may perform a proper *kinyan* transferring his half of the field to Bobby, accept *achrayut* specifically for losses arising from his own debts (*achrayut d'ati leh machmateh*), and thereafter testify on Bobby's behalf against David's claim. Under these conditions, he neither benefits from defeating David (since that protects Bobby against *achrayut d'alma*, for which Dov accepted no liability), nor benefits from preserving the field's legal lineage (since any gain from a creditor collecting from Bobby would be offset by his obligation to reimburse her). The Gemara does not yet directly confront the concern that Dov is simply executing a temporary maneuver — transferring the field, testifying, and then reclaiming his stake from Bobby afterwards. That concern lurks behind the entire discussion and will be addressed through the cases that follow.
 

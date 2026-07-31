@@ -80,13 +80,13 @@ In the grain case, one might think the silence is not admission — perhaps he r
 
 In the ox case, one might think silence means nothing — perhaps he never intended to bring the ox as a *korban* anyway, so he sustains no real loss by remaining silent. That case also needed to be stated.
 
-### Tosafot Silence Distinct…
+### Tosafot
 
 This *tzrichuta* leads Tosafot to a crucial interpretive conclusion: the operative legal mechanism in all three cases is not that the single witness is believed in his own right, but that the owner's silence is read as an admission. The witness functions as the prompt for an admission; it is the admission itself that carries legal weight. A critical *nafka mina* follows: if the owner says *eini yode'a* — I don't know — this is not silence, and therefore not admission, and the witness would not be believed. Similarly, if the witness testifies about something that occurred in the owner's absence — where silence cannot possibly constitute acknowledgment — the witness would likewise not be believed.
 
 Tosafot also raises a broader question: given the principle of *ed echad ne'eman be-issurin* — a single witness is ordinarily believed regarding matters of prohibited status — why do these cases require the owner's silence at all? The answer seems to lie in the fact that all three cases involve a direct economic consequence to the owner of the property in question. This is qualitatively different from the general rule about *issurin*, where the witness is speaking about the status of an item without directly threatening the owner's assets. When a witness's testimony would force the owner to incur a loss — sacrificing an animal, discarding grain, losing the use of an ox — additional indicia of reliability are required, and the owner's own silence provides that assurance.
 
-## Personal Status & Witnes…
+## Personal Status & Edei
 
 ### Wife Adultery Case
 
@@ -152,7 +152,7 @@ If two witnesses had originally testified that she was taken captive, and then t
 
 Abaye's reading of the story is that the evidence was one witness against one witness or one witness unopposed — and since an unopposed single witness is believed even in matters of *davar she-be-erva*, the rumor initially gained traction until it was directly contradicted.
 
-## Unopposed Witness Conclu…
+## Unopposed Witness Davar
 
 ### Rava Position
 

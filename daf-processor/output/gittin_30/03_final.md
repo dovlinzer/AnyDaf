@@ -1,4 +1,5 @@
 # Gittin 30 — Daf Yomi Shiur
+[DAF:30a]
 
 ## Shliach shelo nitan
 
@@ -290,6 +291,7 @@ The *baraita* adds: *he'eshir he'ani, ein mafrish alav* — if the *ani* became 
 
 Why does the rabbinic enactment cover death but not wealth? The Gemara answers: *misa shchicha, ashirus lo shchicha* — death is common; getting rich is not. The Rabbis constructed the institution to address predictable and frequent occurrences. Death is universal and inevitable; the Rabbis therefore made provision for it, allowing the institution to continue functioning when the *kohen*, *levi*, or *ani* dies. But enrichment of a poor man is unusual enough that the Rabbis did not extend the *takkanah* to cover it. Rav Pappa encapsulates this with a folk saying: if you hear that your friend died, you can take it as true — as the *chazakah* holds, people do die. But if you hear that your friend got rich, do not be so quick to believe it.
 
+[DAF:30b]
 ### Heirs and land
 
 > **Hebrew/Aramaic:** מֵת – צָרִיךְ לִיטּוֹל רְשׁוּת וְכוּ׳: תַּנְיָא, רַבִּי אוֹמֵר: יוֹרְשִׁין שֶׁיָּרְשׁוּ. וּמִי אִיכָּא יוֹרְשִׁין דְּלָא יָרְתִי?! אֶלָּא אָמַר רַבִּי יוֹחָנָן: שֶׁיָּרְשׁוּ קַרְקַע, וְלֹא שֶׁיָּרְשׁוּ כְּסָפִים.

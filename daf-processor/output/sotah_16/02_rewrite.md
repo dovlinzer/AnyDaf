@@ -54,7 +54,7 @@ Rashi explains *be-karka ha-mishkan* to mean that even if you may take dirt out 
 
 ## Halacha Okevet HaMikra
 
-### Rabbi Yishmael's Princip…
+### Rabbi Yochanan/Yishmael
 
 The *gemara* now pivots to a celebrated ruling: *ta shema, de-amar Rabbi Yochanan mishum Rabbi Yishmael* — come and hear, as Rabbi Yochanan says in the name of Rabbi Yishmael. *Be-shelosha mekomot halacha okevet mikra* — in three places the *halacha* undermines the plain sense of scripture. The word *okevet* — which may be translated as "undermines" or "overrides" — captures the idea that in these three cases, if one were to follow the simple reading of the verse, one would arrive at a *halacha* different from what the tradition mandates. Rashi explains that *halacha* here means *halacha le-Moshe mi-Sinai* — an ancient received tradition — and it is this received tradition that stands in apparent tension with the plain sense of the text.
 
@@ -116,7 +116,7 @@ The *gemara* proposes: *shayer metzora* — the shaving of the *metzora* was als
 
 The plain sense of the verse, following this *klal u-frat u-klal*, would limit the shaving on day seven to the gathered, visible areas. Yet the *halacha* — *megalcho ke-dala'at* — requires shaving the *metzora* completely bald, like a gourd. This appears to be another case of *halacha okevet mikra*.
 
-### Addition vs. Contradicti…
+### Shaving Metzora Adds
 
 But the *gemara* rejects this reasoning. *Rav Nachman bar Yitzchak* objects: *ki ka chashiv halacha okevet mikra* — when Rabbi Yishmael lists cases of *halacha okevet*, he means cases where the *halacha* genuinely contradicts and displaces the plain sense of the verse. *Ha okevet midirabanan hi* — this case undermines not the plain sense of the *mikra* but the *drasha* of the *mikra*. The *mikra* itself says *kol se'aro* — all his hair — which on its face sounds comprehensive. It is only because of the *klal u-frat u-klal* derivation that we would narrow it to gathered areas. The *halacha* of shaving like a gourd contradicts the narrowed *drasha*, not the plain verse. This is therefore not the same category as the three cases Rabbi Yishmael listed.
 
@@ -128,7 +128,7 @@ The *gemara* records the full *drasha* for both hermeneutical approaches. Accord
 
 According to *ribbuy u-miut u-ribbuy* (Rabbi Akiva's method): *riba* — *ve-et kol se'aro* (expansion); *mi'et* — the listed body parts (limitation); *riba* — *ve-et kol se'aro yigalach* (expansion again). When you have *ribbuy, miut, ve-ribbuy*, you include virtually everything, excluding only the most categorically different thing. *Ma mi'et* — what is excluded? *Mi'et se'ar she-betoch ha-chotem* — the nose hair. Everything else is included, and one shaves him like a gourd.
 
-### Rabbi Akiva vs. Rabbi Yi…
+### Rabbi Akiva Hermeneutics
 
 This analysis generates Rav Ashi's third and cleanest answer to why the *metzora* shaving does not belong on Rabbi Yishmael's list. *Ha matnita mani? Rabbi Yishmael hi* — the *braisa* listing the three cases of *halacha okevet* is the position of Rabbi Yishmael himself. *De-darash klal u-frat* — Rabbi Yishmael applies *klal u-frat u-klal*, which yields on day seven only the shaving of bunches of hair. According to Rabbi Yishmael, that is precisely what the *halacha* of day seven *is*: you do not shave the *metzora* like a gourd on day seven. The position that requires shaving like a gourd on day seven belongs to Rabbi Akiva, *de-darash ribbuy u-miut* — who reads *ribbuy, miut, ve-ribbuy* and therefore includes the whole body. This is not *halacha* against *drasha*; it is simply Rabbi Yishmael's *drasha* against Rabbi Akiva's *drasha*. There is no *okevet* at all from Rabbi Yishmael's perspective.
 
@@ -168,7 +168,7 @@ Rabbi Yishmael's requirement that the blood be *nikar* in the water is not merel
 
 The practical consequence of this position is a limit on the amount of water: *revi'it*. If more than a *revi'it* of water is added, the blood will be so diffused that it can no longer be said to be *nikar*. At a *revi'it* or less, the blood remains visibly and substantively present.
 
-### Mamshut Principle
+###  Mamshut Principle
 
 Tosafot deepens this analysis. The word *nikar* does not mean merely that one can detect that blood was once present, the way a forensic trace might indicate a prior substance. Tosafot explains that the blood must retain its *mamashus* — its essential, physical substantiality. The question is framed this way: are we looking at blood that has had some water added, or at water that has had some blood added? Rabbi Yishmael requires the former. There must be enough blood relative to the water that the mixture can still be characterized as *dam* — blood — into which one is dipping. The verse *ve-taval otam be-dam ha-tzippor* obligates one to dip into *blood*, and therefore the *mamashus* of the blood must remain. This is why the water is limited to a *revi'it*: at that volume, one can still say the blood is present as blood, not merely as a colorant dissolved into water. This point parallels broader questions of *bittul* — at what point has a substance ceased to be present in its essential form and become merely a trace?
 

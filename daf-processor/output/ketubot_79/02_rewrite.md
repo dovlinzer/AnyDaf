@@ -1,6 +1,6 @@
 # Ketubot 79 — Daf Yomi Shiur
 
-## Rabbi Shimon & Shtar Mav…
+## Rabbi Shimon: Mavrachat
 
 ### Rabbi Shimon Overview
 
@@ -132,9 +132,9 @@ The Gemara formulates the general principle: *d'giz'o machlif peirot* — if the
 
 ---
 
-## Offspring & Fruit of Fru…
+## Offspring & Fruit Concept
 
-### Animal vs. Slave Offspri…
+### Animal vs. Slave Children
 
 Rabbi Yehoshua ben Levi is cited — some attribute the tradition to Rabbi Ami, others to Rabbi Chiya bar Abba — with the following rule: one who steals the offspring of a *milog* animal — that is, an animal that a wife brought into the marriage — pays the double penalty (*tashlumei kefel*) to the wife. This implies that the wife owns the offspring. But this is puzzling: why should not the offspring of her animal be *peirot*, belonging to the husband?
 
@@ -150,7 +150,7 @@ Tosafot points out a striking asymmetry. First, Tosafot clarifies that the princ
 
 Tosafot then notes the irony: if someone steals the original ewe — the mother, which the wife owns as *keren* — the husband receives the *kefel*, because the *kefel* is *peirot* of the wife's principal, and the husband receives all *peirot*. But if someone steals the lamb — which the husband owns as his *peirot* — the husband does not receive the *kefel* for the theft of his own property; instead, the wife receives it, as *peira de-peira*. The result is genuinely bizarre: the husband collects the *kefel* when his wife's property is stolen, but not when his own *peirot* are stolen.
 
-### Principal Protection Log…
+### Principal & Offspring
 
 The Gemara then returns to the debate about the offspring of the slave. The question is posed: if the Rabbanan are concerned about the death of the animals — that is, if they recognize that animals, unlike *karka*, can die and thereby erode the wife's principal — then they should also not give the husband the offspring of the animals. The logic is that the offspring should be retained by the wife and used to reinvest in the principal, compensating for the inevitable attrition of the flock over time. Just as the dividends of a depreciating asset might be reinvested to maintain its value, so too the lambs born to the flock should replenish the principal rather than flowing to the husband as pure *peirot*.
 

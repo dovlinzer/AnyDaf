@@ -138,7 +138,7 @@ Rav Yeimar objects to Rav Ashi: *tzurva meRabanan mashlach glima d'inshi?* — d
 
 ### Case Delayed
 
-The Gemara's resolution is striking: *lo mizdakkinan lei l'dinei* — the court simply never hears his case. Unable to ask the scholar to take a *shvua* (which would impugn his integrity) and equally unable to exempt him from it without creating an unjust favoritism, the court resolves the tension by indefinitely deferring his claim. A *tzurva meRabanan* with a *shtar* in hand — even a substantial debt document — will find his case perpetually delayed. This is, as the lecturer observes, a paradoxical outcome: the defendant's bad faith in demanding a *shvua* is accommodated at the scholar's expense, and the scholar is in effect penalized for his status. Yet that appears to be the Gemara's conclusion.
+The Gemara's resolution is striking: *lo mizdakkinan lei l'dinei* — the court simply never hears his case. Unable to ask the scholar to take a *shvua* (which would impugn his integrity) and equally unable to exempt him from it without creating an unjust favoritism, the court resolves the tension by indefinitely deferring his claim. A *tzurva meRabanan* with a *shtar* in hand — even a substantial debt document — will find his case perpetually delayed. This is a paradoxical outcome: the defendant's bad faith in demanding a *shvua* is accommodated at the scholar's expense, and the scholar is in effect penalized for his status. Yet that appears to be the Gemara's conclusion.
 
 ## Witnesses Required
 

@@ -124,7 +124,7 @@ More conceptually: the significance of Nisan as *rosh hashanah* is tied to its i
 
 ## Yovel Release
 
-### Rosh Hashanah vs Yom Kip…
+### Yovel: Yom Kippur vs Rosh
 
 The Gemara asks: the *mishnah* includes *yovelot* among the things for which Tishrei is the *rosh hashanah* — but is *yovel* really from the first of Tishrei? The Torah explicitly says *be-yom ha-kippurim ta'aviru shofar be-chol artzechem* — the *shofar* of *yovel* is sounded on *Yom Kippur*, the tenth of Tishrei! The Gemara answers: the *mishnah* reflects the position of Rabbi Ishmael the son of Rabbi Yochanan ben Beroka, who gives the first of Tishrei a distinct role even in *yovel*.
 

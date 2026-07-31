@@ -1,4 +1,5 @@
 # Niddah 35 — Daf Yomi Shiur
+[DAF:35a]
 
 ## Dam Tehorah Shemetzora'at
 
@@ -208,6 +209,7 @@ However, the *Gemara* pushes back: *midi irya* — these may simply be independe
 
 The discussion then turns to the dispute between the *Tanna Kamma* and *Rabbi Elazar* about checking the third flow. *Rabbi Elazar* holds that one checks even the third flow for *ones*, lest it lead to an improper *korban*. The *Tanna Kamma* does not require checking the third flow for *korban* purposes. The *Gemara* suggests this debate may imply that the *Tanna Kamma* requires checking for *tumah* purposes even through the earlier flows, but the *Gemara* rejects this as well: both agree that checking for *korban* purposes is sometimes necessary; they disagree only about whether *ones* matters at flow three for the *korban*, with the *Tanna Kamma* holding it does not (the verse *lazachar velanekevah* equates flow three with the *zavah*, whose *ones* is disregarded), while *Rabbi Elazar* holds that the verse extends the *ones* exemption through flow three. Neither view yields a clear answer about the first flow and *tumah*.
 
+[DAF:35b]
 ### Rabbi Yitzchak's Solution
 
 > **Hebrew/Aramaic:** תָּא שְׁמַע: רַבִּי יִצְחָק אוֹמֵר, וַהֲלֹא זָב בִּכְלַל בַּעַל קֶרִי הָיָה, וְלָמָּה יָצָא — לְהָקֵל עָלָיו וּלְהַחְמִיר עָלָיו; לְהָקֵל עָלָיו — שֶׁאֵין מְטַמֵּא בְּאוֹנֶס, וּלְהַחְמִיר עָלָיו — שֶׁהוּא עוֹשֶׂה מִשְׁכָּב וּמוֹשָׁב.

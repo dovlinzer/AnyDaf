@@ -22,7 +22,7 @@ Looking ahead, the next *masechet* is *Sanhedrin*, followed by *Makkot*. One can
 
 One interesting feature of *Bava Batra* is that almost none of its content can be anchored directly to a *pasuk* in the *Torah*. When we reach *Yesh Nochalim*, there is indeed a scriptural basis for the order of inheritance — though that *perek* is immediately followed by the laws of deathbed bequests that in many ways subvert that order. There is also some connection to *Torah* law in the provisions about honest weights and measures as they arise in the context of *mechirah*. But the bulk of this *masechet* represents *Chazal* legislating the ordering of society entirely on their own authority — not as interpretation of a *mitzvah*, and not merely as a safeguard, but as substantive, original law. For some learners, this is precisely what makes it exciting: it demonstrates the creative legislative power of *Chazal* acting in their own right. For others, the absence of a running conversation with a *pasuk* or *mitzvah* of the *Torah* makes for a less engaging experience.
 
-### Rashi Ends, Rashbam Begi…
+### Rashi Ends, Rashbam
 
 The density of *Bava Batra* is also shaped by its unique commentary situation. At the beginning of the third *perek* — specifically at 29a — Rashi's commentary ends and the Rashbam takes over. Right in the middle of the Rashi column one finds the notation *ad kan peirash Rashi zatzal*, and then *mikan ve'eilach peirash Rabbeinu Shmuel bar Meir*, the Rashbam, who was Rashi's grandson. An earlier printed edition, it is noted in the margin, actually read *nidpas kan met Rashi* — "printed here: Rashi died" — though this is not to be taken literally as meaning he died mid-composition of this tractate. There is extensive scholarship on the multiple editions of Rashi's *gemara* commentary, which is why the Rashi found in the Rif does not always match the Rashi on the *gemara* — the former is likely an earlier edition. In other *masechtot*, what appears as Rashi is actually the Rivan or another rishon. In any case, something about the state of Rashi's commentary to *Bava Batra* remains incomplete or unrevised.
 
@@ -94,7 +94,7 @@ This observation opens onto a broader conceptual point. There is an important di
 
 ---
 
-## Gemara: Compulsion Quest…
+## Gemara: Hezek Re'iyah
 
 ### Mechitza: Noun or Verb
 

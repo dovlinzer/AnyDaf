@@ -1,4 +1,5 @@
 # Berakhot 31b — Daf Yomi Shiur
+[DAF:31a]
 
 ## Hannah's Prayer
 
@@ -112,6 +113,7 @@ The passage continues: *va-tidor neder va-tomar — Hashem Tzevaot*. Rabbi Elaza
 
 The Gemara offers a *mashal* to illuminate Hannah's posture: a human king made a feast for his servants, and a poor person stood at the doorway asking for a scrap of bread. When the servants ignored him, he forced his way in to the king himself and said: *Adoni ha-Melech, kol se'udah she-asita, kashe be-einecha liten li prusah achat?* — My master the king, with this entire lavish feast you have prepared, you cannot give me one piece of bread? The parallel to Hannah's prayer is clear: she forced her way, as it were, to the King Himself, bypassing every intermediary, to demand what should have been a simple request. As was noted, the image of forcing one's way into the king's presence echoes the broader theme of aggressive, insistent prayer running through this entire passage.
 
+[DAF:31b]
 ### Conditional Threat
 
 > **Hebrew/Aramaic:** ״אִם רָאֹה תִרְאֶה״, אָמַר רַבִּי אֶלְעָזָר: אָמְרָה חַנָּה לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: רִבּוֹנוֹ שֶׁל עוֹלָם, ״אִם רָאֹה״ — מוּטָב, וְאִם לָאו — ״תִּרְאֶה״. אֵלֵךְ וְאֶסְתַּתֵּר בִּפְנֵי אֶלְקָנָה בַּעֲלִי, וְכֵיוָן דְּמִסְתַּתַּרְנָא מַשְׁקוּ לִי מֵי סוֹטָה, וְאִי אַתָּה עוֹשֶׂה תּוֹרָתְךָ פְּלַסְתֵּר, שֶׁנֶּאֱמַר ״וְנִקְּתָה וְנִזְרְעָה זָרַע״.

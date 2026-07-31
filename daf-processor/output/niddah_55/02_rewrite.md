@@ -14,7 +14,7 @@ The *Mishna* established that only two substances remain a source of *tumah* eve
 
 ## Basar Hamet
 
-### Resh Lakish vs R. Yochan…
+### Basar Hamet Tumah
 
 The *Gemara* begins with *basar hamet* — the flesh of a corpse — and asks: *minalan*, where do we know that the flesh of a dead body is itself *tamei*? The Torah's discussion of a *meit* speaks of the corpse as a whole; it is evident that one who touches a corpse or is under the same roof as one becomes *tamei*. But what is the source that individual portions of the body, specifically the flesh, are *tamei* as well?
 
@@ -28,7 +28,7 @@ The *Gemara* then asks: *mai beinaihu*, what practical difference does it make w
 
 The *Gemara* then raises a challenge from a *Mishna* in *Ohalot*: *basar hamet shehuphrach* — flesh of a corpse that has been so thoroughly dried that it crumbles — is *tahor*. Does this not show that the degree of dryness does matter? The *Gemara* resolves this: the *Mishna* in *Ohalot* refers to flesh that has disintegrated to the point of becoming actual dust (*d'ikmach v'havei afra*). In that case, everyone agrees it is no longer considered flesh at all and is *tahor*. The dispute between Resh Lakish and Rabbi Yochanan concerns only an intermediate case: flesh so dry it shatters, but not so far gone as to become dust.
 
-### Body Parts & Intrinsicne…
+### Body Parts Causing Tumah
 
 The *Gemara* next cites a separate *Beraita*: *kol shebames metamei* — everything in a dead body causes *tumah* — *chutz min hashinayim v'hase'ar v'hatzipporen*, with the exception of teeth, hair, and fingernails. However, *b'sha'at chiburan hakol tamei* — while they are still attached, everything is *tamei*; only when separated do these three fail to convey *tumah*.
 

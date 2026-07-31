@@ -32,7 +32,7 @@ In the first of the three *yibbum* orderings, Shimon performs *yibbum* with Rach
 
 In the second ordering, Levi is born first, and only then does Shimon perform *yibbum* with Rachel, and then dies. When Levi was born, Shimon had not yet altered Rachel's status; she still bore the identity of Reuven's widow, as *eshet achiv shelo haya be'olamo* with respect to Reuven. Shimon's subsequent *yibbum* does not retroactively change the status that was already fixed at the moment of Levi's birth. Everyone also agrees that this is a problem.
 
-### Yibbum → Birth → Death (…
+### Yibbum, Birth, Death
 
 The third scenario is the exception: Shimon performs *yibbum* with Rachel, then Levi is born, and then Shimon dies. When Levi enters the world, Rachel is Shimon's wife. She has never stood before him in any prohibited status — *lo amda alav sha'ah achat be'issur*. Rabbi Shimon therefore rules that Levi may perform *yibbum* or *chalitzah* with either woman.
 
@@ -100,7 +100,7 @@ The *mishna*'s concluding formulation — *klal amru* — is taken by the *gemar
 
 Rav Pappa offers one reading: the *klal* comes to include the case of *tzaras ailonit* — the *tzarah* of a woman who is an *ailonit*, a woman physiologically incapable of bearing children. Since there is no *mitzvas yibbum* with an *ailonit* — the entire purpose of *yibbum* being to perpetuate the deceased brother's name through offspring — her *tzarah* is likewise excluded from *yibbum* and *chalitzah*. This follows the position of Rav Assi. Rav Pappa acknowledges, however, that this is not the accepted ruling.
 
-### Alternative Interpretati…
+### Woman as Ervah View
 
 A second reading of the *klal* goes in the opposite direction. According to this view, the *mishna* is specifying that the prohibition on the *tzarah* applies only where the woman herself is an *issur ervah* — *kol she-issurah issur ervah hi d'assira tzarasah*. The implication: if the woman is excluded not because she is an *erva* but only because there is no *mitzvas yibbum* — as in the case of an *ailonit* — then her *tzarah* is not forbidden. This is the operative ruling: an *ailonit* is excluded from *yibbum* not on account of *ervah* but because there is no *mitzvah* to perform, and therefore her *tzarah* remains entirely permitted. This reading of the *klal* thus excludes *tzaras ailonit* from the prohibition — the inverse of Rav Assi's position — and this is indeed how we rule in practice.
 

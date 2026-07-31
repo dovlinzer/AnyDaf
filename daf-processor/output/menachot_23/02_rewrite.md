@@ -14,7 +14,7 @@ The *gemara* opens with an *itmar*: *kometz mi-minchas choteh she-shimno* — wh
 
 Resh Lakish disagrees. His position is that not only is this permissible, but it is the correct procedure: *hu atzmo meshachshacho bi-sheyarei ha-log u-malo'ehu* — one rubs this *kometz* against the residue of the *log* of oil and thereby gives it a slight coating of oil before placing it on the *mizbeach*. The idea behind Resh Lakish's view appears to be that it is not proper to place anything on the *mizbeach* without some oil. The source of this oil is the film of residue remaining in the measuring vessel after a full *log* of oil has been poured out for a normal, oil-and-flour *mincha* — not the *minchat chotei* itself, which takes no oil.
 
-### Tosafot: Practical Impos…
+### Tosafot: Lo Nitnah Torah
 
 *Tosafot* immediately raises a question: if there is still a residual film of oil left in the measuring vessel, how was the original *mincha* for which that oil was measured *kasher*? It would have been *chasar shemanav* — lacking its full required oil content. *Tosafot* resolves this with the important principle of *lo nitnah Torah l'malachei ha-shareis* — the Torah was not given to ministering angels. It is practically impossible to extract every last trace of oil from a vessel, and therefore the tiny residual film does not constitute a deficiency. The oil is considered to have been fully dispensed. This principle has broad application in *halacha* — for instance, in the requirement that *tefillin* be perfectly square, the standard of precision demanded must be one achievable by human beings, not angels.
 
@@ -48,7 +48,7 @@ Rashi's second reading understands the wood to be ordinary firewood, unrelated t
 
 Ravina raises this question to Rav Ashi: *lav hainu d'Rabbi Yochanan v'Reish Lakish* — is this not already the subject of an existing dispute between Rabbi Yochanan and Resh Lakish? That dispute, previously cited in another context, concerns someone who is *ma'aleh* — who offers up — a limb outside the *Beit HaMikdash*, creating a question of liability for *ha'alas chutz*. The rule is that one is liable only if one offers up a *kezayit* of meat. If the limb contains less than a *kezayit* of meat but has a bone that brings the total to a *kezayit*, is that sufficient? Rabbi Yochanan rules *chayav* — liable — because *chiburei olin k'olin damu*, what is attached to something that goes up is treated as if it goes up. Resh Lakish rules *patur* — exempt — because *chiburei olin lav k'olin damu*, attachment does not render something equivalent to the thing going up.
 
-### Oil as Intrinsic vs. Add…
+### Oil: Intrinsic vs Added
 
 The *gemara* responds that the question about the squeezed oil cannot simply be resolved by reference to the Rabbi Yochanan–Resh Lakish dispute, because the question remains open under either position. One could ask according to Rabbi Yochanan: perhaps Rabbi Yochanan said *chiburei olin k'olin damu* only in the case of bone attached to meat, because a bone is a natural part of the animal — it grows together with the flesh in its natural formation, and one is offering the limb in its natural state. But oil is not a natural part of the *kometz*. Flour and oil do not grow together. The Torah prescribes mixing them together, but the oil is introduced from outside. Perhaps even Rabbi Yochanan would not extend the principle of *chiburei olin k'olin damu* to an externally added substance like oil.
 
@@ -62,7 +62,7 @@ The *gemara* reaches no resolution and concludes with *teiku* — the question i
 
 ## Two Unmeasured Mixed
 
-### Separate Measurement Wor…
+### Measure Each Separately
 
 The *gemara* turns to the next *mishnah*, which presents a series of cases involving *menachot* that have become partially mixed before the *kometz* is taken. The image is that of two circles overlapping: *mincha* A and *mincha* B each retain distinct sections, but there is an AB overlap zone where the flour and oil of both have blended into a single homogeneous mass. The *mishnah* rules: *im yakhol likmotz mi-zo bifnei atzmah u-mi-zo bifnei atzmah, kesherot* — if one can take a full *kometz* from the A section alone, and a full *kometz* from the B section alone, without relying on the AB overlap, both *menachot* are *kesherot*. One simply takes the *kometz* from each distinct section, and the overlapping zone does not compromise either offering.
 
@@ -90,7 +90,7 @@ Yet if one violated this and offered the mixture anyway — *v'im hiktir, alu li
 
 ## Rav Chisda: Bittul Rules
 
-### Neveilah Batel to Schechu…
+### Neveilah Batel Shechutah
 
 The *gemara* introduces a new principle from Rav Chisda. If one has three pieces of meat — one piece of *neveilah* (an animal not properly slaughtered) and two pieces of *shechutah* (properly slaughtered meat) — and one needs to determine whether *bittul* operates, Rav Chisda rules: *neveilah betelah bishchutah* — the *neveilah* is *batel* to the *shechutah*. The reason is *she'ei efshar lishchutah she-te'aseh neveilah* — because it is impossible for the *shechutah* to become a *neveilah*. Once an animal has been properly slaughtered, that piece of meat can never revert to *neveilah* status. This matters for the larger framework Rav Chisda is developing, as will become clear.
 
@@ -102,11 +102,11 @@ The reverse case does not work. If one has two pieces of *neveilah* and one piec
 
 The *gemara* now establishes the conceptual framework underlying Rav Chisda's principle. The cases of *neveilah* and *shechutah* involve meat and meat — physically the same substance. Rav Chisda and Rabbi Chanina are operating within the model of *min b'mino lo batel*, which is the position of Rabbi Yehuda. The standard understanding of Rabbi Yehuda is that *min b'mino* means the same physical object: blood with blood, *mincha* with *mincha*. What Rav Chisda and Rabbi Chanina are doing is *narrowing* Rabbi Yehuda's rule. It is not enough, they are saying, that objects be physically identical. For Rabbi Yehuda's *min b'mino lo batel* to apply, the objects must also have a sufficiently close relationship in terms of their *halakhic* status.
 
-### Rav Chisda: Look at Meva…
+### Rav Chisda: Mevatel Batel
 
 Rav Chisda's formulation is that one looks at the *mevatel* — the majority, the thing performing the *bittul*. If the *mevatel* can never achieve the same status as the minority, then despite being the same physical substance, it is considered *min b'eino mino* with respect to status, and *bittul* does occur. In the case of the *shechutah* majority trying to perform *bittul* on the *neveilah*: the *shechutah* can never become a *neveilah*, and therefore it is treated as *min b'eino mino*, *bittul* operates, and the *neveilah* is nullified. But in the reverse case — where the *neveilah* majority tries to perform *bittul* on the *shechutah* — the *neveilah* could spoil and lose its *tumah*, thereby arriving at a status comparable to the *shechutah*. That makes it *min b'mino*, and no *bittul* occurs.
 
-### Rabbi Chanina: Look at B…
+### Rabbi Chanina: Batel
 
 Rabbi Chanina articulates the same principle but measures it differently: *kol she-efshar lo lihyot kamohu eino batel* — whatever is capable of becoming like the thing doing the *bittul* is not *batel*. Rabbi Chanina looks at the *batel* — the minority, the thing at risk of being nullified — rather than the *mevatel*. If the minority could potentially achieve a status similar to the majority, it is *min b'mino* and does not undergo *bittul*. If it cannot, it is *min b'eino mino* and *bittul* applies. Applied to the *neveilah*/*shechutah* cases: when there are two *shechutah* pieces and one *neveilah*, the *neveilah* (the *batel*) could spoil and lose its *tumah*, thereby becoming like the *shechutah* — so it is *min b'mino* and is not *batel*. When there are two *neveilah* pieces and one *shechutah*, the *shechutah* (the *batel*) can never become *neveilah* — it is *min b'eino mino*, and the *shechutah* is therefore *batel* to the *neveilah* majority.
 
@@ -172,7 +172,7 @@ Testing Rav Chisda's framework: one looks at the *mevatel* — the spices, which
 
 Testing Rabbi Chanina's framework: one looks at the *batel* — the *matzah*, which is in the minority. Can the *matzah* become like the spices? *Delakhi me'akhsha havei lei k'tavlin* — if the *matzah* spoils, it becomes like spices in the sense that it is no longer usable for the *mitzvah* of *matzah*. So the *matzah* could arrive at a status similar to that of the spices, making it *min b'mino*, and no *bittul* would occur. This supports the *mishnah*'s ruling. It would thus seem to be a proof for Rabbi Chanina over Rav Chisda.
 
-### Resolution: Matza Majori…
+### Gemara: Matza Majori
 
 The *gemara* dismisses the challenge: *hacha b'mai askinan — de-lo afshi lei tavlin* — the case in the *braita* does not involve a majority of spices at all. *De-ruba matzah hi* — the *matzah* is the majority. That is why there is no *bittul*. The *braita* never contemplated a scenario where spices dominate; it describes spiced *matzah* in which the *matzah* predominates.
 

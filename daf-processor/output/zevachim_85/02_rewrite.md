@@ -8,7 +8,7 @@ The daf opens in the midst of the broader discussion of *hamizbeach mekadeshan* 
 
 The Gemara now continues on 85a, six lines from the top, with a statement of Ulla. *Imurei kodshim kalim she'he'elu lifnei zrikas hadam lo yerdu, na'asu lachmo shel mizbeach* — the *imurim* (the sacrificial portions, the fats and organs designated for the altar) of *kodshim kalim* that were placed on the altar before the blood-throwing (*zrikas hadam*) do not come down; they have become the bread of the altar. It is worth noting that Ulla chooses this distinctive phrase — *lachmo shel mizbeach*, the bread of the altar — rather than the standard formulation *hamizbeach mekadeshan*. This shift in language might have suggested that the fire must already have begun consuming them, but Ulla does not say that; that qualification will arise separately later.
 
-### Chiddush: Partial Design…
+### Chiddush: Imurim & Mizbe
 
 The *chiddush* here is subtle but significant. One might have thought that just as the *kometz* of a *mincha* before it is placed in a *klei sharet* is not yet fully designated for the altar — and therefore falls outside the protective scope of *hamizbeach mekadeshan* — so too the *imurim* of *kodshim kalim* before *zrikas hadam* should be considered insufficiently designated. And indeed, the analogy is apt in a particular way: by *kodshim kalim*, there is not yet *me'ila* (the prohibition against misappropriating consecrated property) in the *imurim* prior to the blood-throwing, because *kodshim kalim* are fundamentally under the owner's control — the owner will be eating the meat, and the *imurim* only pass fully into God's domain, as it were, after the blood is thrown. Nevertheless, says Ulla, they are sufficiently connected to the altar that once placed upon it, they do not come down. The rule of *hamizbeach mekadeshan* applies even here.
 
@@ -106,7 +106,7 @@ The *pshat* of the *braita*, however, clearly envisioned rinsing in preparation 
 
 ---
 
-## Rabbi Yochanan's Questio…
+## Yochanan: Kodshim Kalim
 
 ### Yerida Question
 

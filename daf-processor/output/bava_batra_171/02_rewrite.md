@@ -1,6 +1,6 @@
 # Bava Batra 171 — Daf Yomi Shiur
 
-## Rewriting After Partial…
+## Debt Rewrite After
 
 ### Mishna Debate
 

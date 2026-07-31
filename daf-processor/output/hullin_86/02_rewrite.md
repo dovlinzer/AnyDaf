@@ -6,7 +6,7 @@
 
 The daf begins at the bottom of 85b, picking up with Rav Papa's question to Abaye. The discussion concerns *shechita she'eina re'uya* — a *shechita* that is technically valid but not fit for eating — and its application to the prohibition of *chullin ba'azarah*, the slaughter of non-consecrated animals within the Temple precincts. The specific context involves Rabbi Shimon's position: he holds that a *shechita she'eina re'uya* is nonetheless sufficient to prevent the slaughtered animal from being classified as a *neveilah*. This means that even if a *treifa* was slaughtered in the *azarah* — an act of *chullin ba'azarah* — Rabbi Shimon counts that act as a valid enough *shechita* to prevent the animal from being considered *neveilah*, while simultaneously exempting the one who performed it from the prohibition of *chullin ba'azarah* on account of the *shechita she'eina re'uya* not being a fully effective *shechita*. The *gemara* now turns to examine whether this analysis presupposes that Rabbi Shimon holds *chullin ba'azarah* to be a biblical prohibition.
 
-### Biblical vs. Rabbinic Lo…
+### Biblical vs. Rabbinic Law
 
 The *gemara* asks: *v'savar Rabbi Shimon chullin ba'azarah d'oraita hi?* Does Rabbi Shimon truly hold that *chullin ba'azarah* is a biblical concern? The question arises from a subtle but important assumption embedded in his ruling. If *chullin ba'azarah* were only a rabbinic prohibition, it is hard to see why the formal technicality of *shechita she'eina re'uya* would be relevant at all.
 

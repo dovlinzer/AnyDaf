@@ -24,7 +24,7 @@ And why is *ain shiur l'mayim* also required? Because one might concede that int
 
 It is worth noting that *Tosafot* raises an important question here. Why is the concern specifically about *linah* — invalidation by remaining overnight? The moment one walks outside the *Mikdash* to draw the water, the vessel is outside the Temple precinct, and if it were sanctified it would immediately become invalid through *yotzei* — being removed from the sacred space. The answer is that something cannot become sanctified outside the *Mikdash* in the first place. Sanctification requires the vessel to be inside the *Beit HaMikdash*. Only once the water is brought in does the sanctification take effect — and at that point, the problem of *linah* applies.
 
-### Sanctification Without I…
+### Sanctify Without Intent
 
 Chizkiyya offers a counterargument: *kli shares ein mekadshin ela midaas* — sanctified vessels do not sanctify their contents unless one intends them to do so. According to Chizkiyya, the officiant could stipulate that the water should not be sanctified when it is placed in the barrel on *erev Shabbat*, and this would be effective. If so, there should be no problem using a sanctified barrel — simply stipulate that the sanctification not take effect until morning.
 

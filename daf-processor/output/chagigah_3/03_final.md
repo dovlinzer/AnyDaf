@@ -1,4 +1,5 @@
 # Chagigah 3 — Daf Yomi Shiur
+[DAF:3a]
 
 ## Re'iyah & Two Eyes
 
@@ -208,6 +209,7 @@ Now Rabbi Yehoshua himself opens with a *drasha*: *divrei chachamim kadorbanot u
 
 But a prod is also movable, not fixed. Is Torah similarly portable, shifting? *Talmud lomar masmerot* — the verse also says nails, something fixed and planted. Perhaps Torah is like a nail: stable, immovable. Yet a nail also only diminishes over time — it rusts, corrodes, never grows. Surely Torah is not merely static?
 
+[DAF:3b]
 ### Parah V'Rabah
 
 > **Hebrew/Aramaic:** אִי מָה מַסְמֵר זֶה חָסֵר וְלֹא יָתֵר — אַף דִּבְרֵי תוֹרָה חֲסֵירִין וְלֹא יְתֵירִין, תַּלְמוּד לוֹמַר: ״נְטוּעִים״, מָה נְטִיעָה זוֹ פָּרָה וְרָבָה — אַף דִּבְרֵי תוֹרָה פָּרִין וְרָבִין.

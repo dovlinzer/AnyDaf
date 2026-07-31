@@ -104,7 +104,7 @@ This brings the *gemara* back to the anomaly that was flagged at the outset: *ve
 
 ---
 
-## Infant & Dough (III)
+## Infant & Dough
 
 ### Setup
 
@@ -160,7 +160,7 @@ The *chazakah* involved in capital cases — a family presumed to be a family ov
 
 ---
 
-## Infant & Dough (III)
+## Infant & Dough (II)
 
 ### Rodents & Frogs
 
@@ -182,7 +182,7 @@ These cases thus represent a middle category: more stringent than a pure *safek 
 
 ---
 
-## Infant & Dough (III)…
+## Infant & Dough (III)
 
 ### Clear Liquid
 

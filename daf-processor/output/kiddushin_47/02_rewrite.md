@@ -22,7 +22,7 @@ The *gemara* challenges Shmuel's position from a case involving one who separate
 
 The *gemara* explains that according to Shmuel, the reason the *kohen* must return the flour is not because of any general principle about invalid transactions, but rather to prevent confusion about the law. If the *kohen* keeps the flour, the *ba'al habayit* or the *kohen* himself might come to think the *challah* separation was valid, leading to further violations. The flour is therefore returned as a way of reinforcing that it was not effective *challah*. Shmuel's broader position — that recipients may generally keep what was given in such contexts — remains intact; it is only the specific concern about legal confusion that mandates return here.
 
-### Alternative: 2nd Separat…
+### Kohen Keeps Flour
 
 The *gemara* then asks: within the logic of Shmuel's reasoning, why not find an intermediate solution? Let the *kohen* keep the flour, but instruct him to separate *challah* again from it — or, equivalently, once it becomes dough. That would signal to everyone that the original separation was invalid, and the *kohen* would still benefit from keeping the flour. The *gemara* supports this suggestion by noting that the *kohen* would be willing to listen (*metzayet*) to such an instruction.
 
@@ -46,7 +46,7 @@ The *gemara* presses further: is it really true that a person will not listen to
 
 The *gemara* answers its own challenge from a *mishnah*: one who separated a gourd (*kishut*) as *terumah* and it turned out to be bitter, or a watermelon and it turned out to be sour (*avatiach ve-nimtzet saruach*) — the *kohen* keeps what was given, and the owner must separate again. Here it is all the same category — all watermelons — yet we say the separation was effective and the owner must repeat it. This would seem to show that even from a single type, people do listen to a second separation.
 
-### Distinction: Biblical Va…
+### Distinction: Terumah
 
 The *gemara* distinguishes this case. Even in the watermelon situation, it is not clear that people will actually comply with the instruction to separate again. But it does not matter, because even if they do not listen, the first *terumah* is *min ha-Torah* valid — it is biblically effective *terumah de-Oraita*. Since the sour watermelon is still, at least nominally, somewhat edible, the separation takes effect *bedi'avad*. If they fail to separate again, we are not left with a complete violation, because the first separation was already biblically sound. The flour case is entirely different — there the first separation was not valid at all, and if the owner does not separate again, the dough will be eaten as *tevel*. Therefore, the watermelon precedent does not apply.
 
@@ -84,7 +84,7 @@ The *gemara* notes that a *baraita* supports Rava's position. The *baraita* read
 
 The *gemara* asks: in the first case of the *baraita* — the acorn, pomegranate, and nut — what exactly is the case? If the man said "either with the acorn, or with the pomegranate, or with the nut" (*o be'alon o be'rimon o be'egoz*), how could it suffice for them to be collectively worth a *perutah*? He spoke in the disjunctive — he named one at a time. But if we read it as simply listing them together (*be'alon be'rimon u've'egoz*), then that is identical to *bezu bezu bezu* — individual labeling — not a *ba'elu* formulation. So in what sense is the opening case of the *baraita* a *ba'elu* case?
 
-### First Case: No Distincti…
+### First Case: Eating/Not
 
 The *gemara* resolves this: the first clause of the *baraita* (*be'alon be'rimon u've'egoz*) is simply an example of how *ba'elu* works — it is explaining the *ba'elu* case by specifying what kind of items might be included. The formulation is *perusha kampfaresh* — an explanatory gloss, not a distinct case. Understood this way, the *baraita*'s structure becomes clear: first it presents the *ba'elu* scenario and rules that collective worth suffices; then it presents the *bezu* scenario with eating and rules that one individual date must be worth a *perutah*. The eating clause appears only in connection with the *bezu bezu bezu* case — not the *ba'elu* case — which is precisely what Rava argued.
 
@@ -124,7 +124,7 @@ The *chiddush* here is the sharp distinction between money and other objects. Wh
 
 The *gemara* introduces an apparent contradiction. A *mishnah* dealing with land purchase (*mechirah*) seems to indicate that *kiddushin be-milveh* can work. If Rav's principle is absolute — the loan money is never the lender's to give — then it should fail equally in any transactional context, whether *kiddushin* or sale of land. Why, then, does the *mishnah* in *mechirah* suggest otherwise?
 
-### Special Case: Short Paym…
+### Rav Nachman: Maneh Chaser
 
 Rav Nachman resolves this by introducing a completely different scenario. The *mishnah* in question is not addressing the classic *mekadesh be-milveh* case that Rav ruled on. Rather, says Rav Nachman citing Rav Huna, it deals with a case of *maneh chaser* — a short payment. A man said to a woman, "marry me with a hundred dollars (*maneh*)," she took the money and counted it, and it came up five short — only ninety-five. The missing five is in the nature of a *milveh*: he owes her the remainder. Does the *kiddushin* work?
 

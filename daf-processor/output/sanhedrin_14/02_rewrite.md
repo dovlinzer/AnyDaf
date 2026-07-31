@@ -2,7 +2,7 @@
 
 ## Semikhat Zekeinim: 3 vs 1
 
-### Can One Person Give Semi…
+### One Person Semikha?
 
 The *mishnah* established that *semikhat zekeinim* — the classical *semikhah* tracing its lineage all the way back to Moshe Rabbeinu, conferring the authority to represent God, to be called a *beit din* of *Elohim*, and to adjudicate *dinei kenasos*, administer *malkos*, and carry out *misos beit din* — requires three participants. The *gemara*, picking up four lines from the bottom of 13b, immediately challenges this: *v'chad lo samikh?* Is it truly impossible for a single individual to confer *semikhah*?
 
@@ -10,7 +10,7 @@ The challenge is rooted in a tradition cited by Rav Yehuda in the name of Rav: *
 
 The *gemara* immediately presses the language: what does it mean they would have been "forgotten"? Surely the laws themselves could simply be relearned. The answer: the word *nishtakhu* must be understood not as a forgetting of legal content but as a complete cessation of authority — *batlu dinei kenasos mi-Yisrael*. The entire chain of *semikhah*, and with it the power to actually adjudicate *kenasos*, administer *malkos*, and carry out *misos beit din*, would have been irrevocably severed.
 
-### Rabbi Yehuda ben Bava's…
+### Rabbi Yehuda ben Bava
 
 The historical context is the Hadrianic persecutions, the period of Rabbi Akiva and his students. The Roman government had issued a series of sweeping decrees: anyone who confers *semikhah* will be killed; anyone who receives *semikhah* will be killed; any city in which *semikhah* takes place will be laid waste; and anything within the city limits of those cities will be uprooted.
 
@@ -24,7 +24,7 @@ When the enemies discovered what was happening — and one wonders about the his
 
 This powerful story seems to present a difficulty: it sounds as though Rabbi Yehuda ben Bava acted alone, yet the *mishnah* requires three for *semikhah*. The *gemara* resolves this cleanly: *achrini hava bahadei* — there were two others with him. *V'hai d'lo khashiv lehu mishum kevodo d'Rabbi Yehuda ben Bava* — the reason they are not mentioned is out of deference to his honor. He was the one who mattered; the story wanted to be told about him. The other two, who must themselves have possessed *semikhah*, accompanied him and participated, but they were secondary figures in what was fundamentally his act of heroism. One wonders, of course, what became of those two as well.
 
-### Rabbi Meir's Semikha Cha…
+### Rabbi Meir's Semikha
 
 The *gemara* now turns to a detail within the story: was it truly Rabbi Yehuda ben Bava who conferred *semikhah* upon Rabbi Meir? Rabba bar bar Chana said in the name of Rabbi Yochanan: *kol ha'omer Rabbi Meir lo samcho Rabbi Akiva eino ela to'eh* — whoever says that Rabbi Akiva did not give *semikhah* to Rabbi Meir is simply mistaken. This is a striking formulation, clearly directed against some tradition or claim to the contrary, and it underscores that these figures were all, at their core, *talmidei Rabbi Akiva*.
 
@@ -32,9 +32,9 @@ The resolution: Rabbi Akiva did indeed confer *semikhah* upon Rabbi Meir, but *l
 
 ---
 
-## Semikha Outside Eretz Yi…
+## Semikha Outside Israel
 
-### No Semikha in Chutz LaAr…
+### Semikha: Eretz Yisrael
 
 Rabbi Yehoshua ben Levi now asserts a geographic restriction: *ein semikhah b'chutz la'aretz* — *semikhah* cannot be conferred outside of the Land of Israel. This is somewhat analogous to the principle that *nevuah* is fundamentally rooted in *Eretz Yisrael*: the authority being transmitted traces back to Moshe and ultimately represents a kind of divine presence, and the source of that presence is anchored in the Land.
 
@@ -50,7 +50,7 @@ The more interesting question is the reverse: *somkhin ba'aretz v'nismakhin b'ch
 
 The *gemara* poses this question, and the evidence suggests that the real issue is not the geographic category of *chutz la'aretz* per se, but rather the requirement of physical proximity between the grantor and the recipient.
 
-### Physical Presence Exampl…
+### Physical Presence Stories
 
 Several narratives converge to establish this point. First: *Rabbi Yochanan hava mitzta'er alei de-Rav Shemen bar Abba d'lo hava gabei d'lismachiei* — Rabbi Yochanan was deeply anguished that Rav Shemen bar Abba was never in the same location as him and that he was therefore never able to confer *semikhah* upon him. The very fact that Rabbi Yochanan's anguish was precisely that they were never together — and not that he simply sent a letter of appointment — demonstrates that physical co-presence is a prerequisite.
 
@@ -166,7 +166,7 @@ The *mishnah* states that *neta revai* and *maaser sheni* of uncertain value req
 
 The *beraita* specifies: *eizo hu maaser sheni she'ein damav yedu'in?* What constitutes *maaser sheni* of uncertain value? Three cases: produce that has rotted — *peiros she-hirkivu* — and can now be sold only as animal fodder; wine that has developed a film — *yayin she-hikrim* — making it substandard; or coins that have become rusted — *ma'os she-hechlidu*. In each case, there is no standard market price, and judgment is required to assess value. The fear is that without external oversight, the owner may not be fully objective in his assessment.
 
-### Three Assessors, Not Jud…
+### Three Assessors, No Judge
 
 The *beraita* then clarifies who these three must be: *maaser sheni she'ein damav yedu'in, podno oto b'shlosha lakuchos* — one redeems it with three buyers, meaning three commercial experts who are practiced in assessment. Rashi defines *lakuchos* as *socharim b'ki'in b'shuma* — merchants who are skilled in appraisal.
 

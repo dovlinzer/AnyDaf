@@ -1,4 +1,5 @@
 # Nazir 29b — Daf Yomi Shiur
+[DAF:29a]
 
 ## Father Making Son Nazir
 
@@ -20,6 +21,7 @@ This concept of *onat nedarim* requires some elaboration. A child — whether bo
 
 The *Gemara* asks whether this *Tannaitic* dispute mirrors the *Amoraic* one. The initial reading suggests that Rabbi's position — that the father retains power until the son becomes a full adult with two pubic hairs — is consistent with viewing the father's authority as a *halacha*, an intrinsic legal power over his minor son. Even if the son has already reached *onat nedarim* and can make his own vows to some degree, the father's power is conceived broadly: the son is still a minor in the overall legal sense, and the father retains dominion over him until the son becomes a full adult. Rabbi Yose b'Rebbi Yehuda's position, by contrast — that the father's power ends already at *onat nedarim* — seems consistent with the *chinuch* framework: once the son has some independent standing in the domain of vows, the father's role as educator in that area becomes inapplicable.
 
+[DAF:29b]
 ### Halacha Debate: Mufla
 
 > **Hebrew/Aramaic:** אָמְרִי: לָא. דְּכוּלֵּי עָלְמָא הֲלָכָה הִיא בְּנָזִיר, וְהָכָא בְּ״מוּפְלָא הַסָּמוּךְ לְאִישׁ״ קָמִיפַּלְגִי. רַבִּי סָבַר: מוּפְלָא הַסָּמוּךְ לְאִישׁ — דְּרַבָּנַן, וְאָתְיָא דְּאוֹרָיְיתָא דָּחֲיָא דְּרַבָּנַן. וְרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה סָבַר: מוּפְלָא הַסָּמוּךְ לְאִישׁ — דְּאוֹרָיְיתָא.

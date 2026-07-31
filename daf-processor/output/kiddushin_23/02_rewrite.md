@@ -1,6 +1,6 @@
 # Kiddushin 23 — Daf Yomi Shiur
 
-## Eved Knaani: Kesef, Shta…
+## Eved Knaani: Kesef, Shtar
 
 ### Eved Knaani Status
 
@@ -120,7 +120,7 @@ This raises a sharp question. If the slave cannot own anything — since his han
 
 But the *mishnah* then seems to be read as excluding third-party delivery of the *shtar*: *al yedei atzmo* but not *al yedei acheirim*. That is puzzling: since the slave has agreed to be freed (*mi-da'ato*), why can a third party not receive the *shtar* on his behalf? The *gemara* brings a *baraita*: *be-shtar al yedei atzmo ve-lo al yedei acheirim, divrei Rabbi Meir* — only *al yedei atzmo*, explicitly excluding others. The reason emerges from the subsequent analysis.
 
-### Abbaye: Kesef Shelo M'Da…
+### Abbaye: Kesef Shelo Mida
 
 *Amar Abbaye le-olam shelo mi-da'ato* — Abbaye proposes a fundamental reorientation: in fact, the third-party money works even *without* the slave's consent. *Ho'il ve-kana-o be'al korcho, makni-o be'al korcho* — since the slave was originally sold against his will, he can be freed against his will. The act of purchasing a slave is done without requiring the slave's agreement, and therefore the parallel act of purchasing his freedom is likewise valid without his agreement.
 

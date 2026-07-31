@@ -1,4 +1,5 @@
 # Sanhedrin 6b — Daf Yomi Shiur
+[DAF:6a]
 
 ## Peshara & Kinyan
 
@@ -34,6 +35,7 @@ Tosafot addresses this directly. The requirement for three judges persists even 
 
 A *baraita* is introduced: just as *din* requires three judges, so too *bitzua* — compromise — requires three. This confirms that *peshara* is understood, at least procedurally, as a form of adjudication rather than a purely private arrangement. The *baraita* further establishes that once *gmar din* — the finalized judgment — has been pronounced, *bitzua* is no longer permitted.
 
+[DAF:6b]
 ### R. Eliezer: Assur
 
 > **Hebrew/Aramaic:** סרמ״ש בנק״ש סִימָן. רַבִּי אֱלִיעֶזֶר בְּנוֹ שֶׁל רַבִּי יוֹסֵי הַגְּלִילִי אוֹמֵר: אָסוּר לִבְצוֹעַ, וְכׇל הַבּוֹצֵעַ – הֲרֵי זֶה חוֹטֵא, וְכׇל הַמְבָרֵךְ אֶת הַבּוֹצֵעַ – הֲרֵי זֶה מְנָאֵץ. וְעַל זֶה נֶאֱמַר: ״בֹּצֵעַ בֵּרֵךְ נִאֵץ ה׳״.

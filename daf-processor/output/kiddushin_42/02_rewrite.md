@@ -56,7 +56,7 @@ The word *gam* — "even" — resolves this. *Gam atem*, "even you," extends the
 
 ---
 
-## Korban Pesach Shlich (II)
+## Korban Pesach Shlichut
 
 ### Rabbi Yonatan's Use
 

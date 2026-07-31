@@ -154,7 +154,7 @@ The *gemara* now attempts to use our original *mishna* about flaying to resolve 
 
 The *gemara* answers: if this were a case of *tumah deoraita* — biblical *tumah* — you would be correct, and we would make such a *gezeirah*. But what case are we actually discussing? A case of *tumah derabbanan* — rabbinic *tumah*. Something rabbinically *tamei* touches the skin, and the question is whether this communicates *tumah* to the meat beneath. For rabbinic *tumah*, we do not apply the same stringencies and we do not impose additional safeguards.
 
-### Biblical vs. Rabbinic Tumah
+### Biblical vs. Rabbinic
 
 But one might object: the case in which a *tahor* person touches the skin of an animal that is a *neveilah* is certainly a *deoraita* concern. The *gemara* responds: *teinach tamei betahor* — it works when something rabbinically *tamei* touched *tahor* meat. But *tahor betamei* — when a *tahor* person touches the skin of a *tamei* animal — that is *tumah deoraita*. So why does the *mishna* not impose a *gezeirah* in that direction?
 
@@ -196,7 +196,7 @@ This too runs against the simple sense of the *mishna*, which permits majority w
 
 Reish Lakish introduces a different qualification: *lo shanu ela talit* — the rule that tearing the majority renders the object *tahor* applies only to a cloth garment. But *aval or* — a leather garment — *cholim*, is strong and resilient. Because leather holds together better, tearing the majority of a leather garment does not sever its identity as a single unit in the same way, and therefore it does not become *tahor* by majority tearing. The reason appears to be one of the following: either that leather, even after the majority is torn, will not continue to tear naturally and still effectively retains its structural integrity; or, as Rashi explains, that when one sews up a torn leather garment it retains its integrity better than cloth.
 
-### Leather Strength Challen…
+### Yochanan's Leather Chall
 
 Rabbi Yochanan challenges Reish Lakish: *afilu or nami lo cholim* — even leather is not particularly strong, and therefore the same rule as cloth should apply. He then cites a case that implicitly challenges the proposition that we never rely on less-than-full destruction for leather: a leather item that has become *tamei midos* — because a *zav* sat upon it — where the owner decides to cut it into strips for sandals or a belt. According to Rabbi Yehuda, the moment one places the awl to the leather — even before actually cutting it, merely beginning the transformation — it becomes *tahor*. The Sages say: not until the leather has been reduced to less than five *tefachim*. Tosafos notes that less than five *tefachim* of leather corresponds to less than the majority for cloth.
 

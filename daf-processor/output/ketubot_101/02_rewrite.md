@@ -22,11 +22,11 @@ In all three of these cases — the *mema'enes*, the *shniya*, and the *ailonis*
 
 The *mishnah* adds that not only do these women forfeit the *ketubah*, they also lose *peiros*, *mezonos*, and *bla'os*. Rashi explains that in this context *peiros* does not refer to the husband's right to enjoy the income from his wife's property — which is his benefit — but rather to what the wife is normally entitled to receive in exchange, namely the right to be redeemed if she is taken captive. *Mezonos* refers to her ongoing food support; she is not entitled to it, and indeed if she borrowed money to cover her food expenses during the marriage she cannot seek reimbursement. *Bla'os* — worn-out or consumed property — means either, as Tosafot reads it, that she cannot be reimbursed for property she brought into the marriage that was consumed during it, or, as Rashi reads it, that she cannot even take with her property that is still present but has become worn. The general thrust is that she walks away with nothing — an outcome even more severe than the departure of a freed slave.
 
-### Biblical Prohibition Par…
+### Forbidden Marriages Label
 
 The end of the *mishnah*, however, is striking. The *mishnah* lists cases of biblically forbidden marriages — a *kohen gadol* marrying a widow (*almanah*), an ordinary *kohen* marrying a divorcée or a woman who performed *chalitzah*, and a *mamzeret* or *nesinah* marrying a *yisrael* — and rules that in all these cases, even though the marriage is prohibited by the Torah itself, *yesh lahen ketubah*: these women do receive a *ketubah*. This is genuinely puzzling. One would think that the Rabbis' institution of the *ketubah*, designed to protect the wife and structure the marriage, would be the last thing one would apply to a biblically prohibited union. Extending the *ketubah* to such a marriage seems almost to confer on it a stamp of rabbinic recognition, even legitimacy.
 
-### Rashi: Rabbinic vs. Bibl…
+### Rashi: Rabbinic vs
 
 Rashi's explanation addresses this paradox directly, and it rests on a specific sociological assumption about who is the driving force behind each type of forbidden marriage. In the case of the *shniya*, a rabbinically forbidden marriage, Rashi reasons that the woman is unlikely to be deterred by the prohibition on her own, because the consequences fall lightly on her: her personal status is unaffected, she is not rendered forbidden to a *kohen*, and her children's status is not impaired. She therefore has an incentive to pursue the marriage and, in the Rabbis' framing, to seduce or persuade the man into it. The penalty of losing the *ketubah* is thus directed at her as a disincentive.
 
@@ -66,7 +66,7 @@ Rabbi Eliezer holds: *ein maaseh ketanah klum* — the legal acts of a *ketanah*
 
 Rabbi Yehoshua disagrees fundamentally: *maaseh ketanah klum* — the acts of a *ketanah* do mean something. He holds that this rabbinic marriage is a genuine marriage in every respect. The husband is entitled to her found objects, her earnings, and the annulment of her vows; he inherits her; he becomes *tamei* to her. *Harei hi k'ishto l'chol davar* — she is his wife in every legal dimension. The one difference between her status and that of a fully adult wife is that she can exit by *mi'un* alone, without requiring a *get*. For an adult woman, only a *get* terminates the marriage; for this *ketanah*, *mi'un* suffices. But absent *mi'un*, the marriage is fully in force.
 
-### Amoraim Align with Tanna…
+### Rav & Shmuel Dispute
 
 The *gemara* then maps the *amoraic* dispute onto the *tanaitic* one. Rav, who says that even a *get* does not give the *ketanah* any *ketubah*, follows Rabbi Eliezer: since the marriage was never real, giving a *get* changes nothing about its essential non-status, and no *ketubah* was ever owed. Shmuel, who distinguishes between *mi'un* and *get*, follows Rabbi Yehoshua: since the marriage was real — rabbinically binding and carrying all the normal marital consequences — a *get* is a genuine termination of a genuine marriage, and the *ketubah* is owed.
 
@@ -74,13 +74,13 @@ The *gemara* refines this, however. It notes that according to Rabbi Eliezer, th
 
 ---
 
-## Asymmetrical Marriage Ri…
+## Rav's Asymmetrical Rights
 
 ### Rashi: Husband Incentive
 
 Rashi explains the logic behind Rav's asymmetrical position. The institution of *kiddushei ketanah* by the mother and brothers was created entirely for the girl's benefit — to protect her in the absence of a father. But for the institution to function, a man had to be willing to enter it. Why would a man agree to marry a minor girl under these circumstances, especially given that, as Rashi notes, *ki heichi delo limnu mil'misbah* — we need to ensure that men not refrain from marrying her? An arrangement that gives him nothing while requiring financial obligations from him would provide no incentive whatsoever.
 
-### Mother's Protection Moti…
+### Mother's Protection
 
 The mother's motive for arranging such a marriage is clear: she either cannot afford to support another child, or she fears the girl will be taken advantage of without male protection. Rashi cites the formulation from the relevant chapter in Yevamos: *shema yinhagu bah minhag hefker* — lest people treat her as ownerless, with no one to protect her — *she'ein ketanah yoda'at lishmor atzmah me'lehitpatot* — since a minor girl does not know how to protect herself from being seduced. The marriage is thus a protective institution, not primarily a financial one. The girl moves into the man's household, where he provides for and protects her, until she comes of age and the marriage becomes fully binding.
 
@@ -136,7 +136,7 @@ A further ruling of Shmuel addresses the *tosefet ketubah* — the supplementary
 
 A different category of cases, however, receives harsher treatment. The *mishnah* elsewhere describes women who are divorced for actively violating the norms of Jewish law and marriage — women who behave in ways that constitute *overet al das*, going against the standards of conduct expected of a Jewish wife: flirting with other men, going out with her hair uncovered, feeding her husband non-*kosher* food. In those cases, not only does she forfeit the base *ketubah*, she forfeits the *tosefes* as well. The formulation there is not merely that she lacks a *ketubah* but that she must leave without one — a stronger formulation expressing active rabbinic censure of her conduct. *Ein lahem tosefes, v'chol sheken maneh masayim* — she loses the supplementary gift and certainly loses the mandated base amount.
 
-### Adultery Case: Possessio…
+### Divorced Woman Keeps Item
 
 A related but distinct case involves a woman who is divorced because of a *shem ra* — a suspicion of adultery. Even in this extreme case, the ruling is: *notelet mah she-lefaneha v'yotzet* — she takes whatever property is physically present before her and leaves with it. The focus here shifts from the *ketubah* — which she does not collect — to the physical property she owns that is still present. She brought certain items into the marriage; they are still in the house; she is entitled to take them with her even in disgrace.
 
@@ -144,11 +144,11 @@ A related but distinct case involves a woman who is divorced because of a *shem 
 
 This ruling supports a position of Rav Huna, who states: *zinsah lo hifsidah bla'oseha* — even if a woman commits adultery, she does not forfeit her *bla'os*, her worn clothing and physical belongings that are still present. The act of adultery, however grave, does not strip her of ownership of her physical possessions.
 
-### Clothing Forfeiture Deba…
+### Worn Clothing Forfeiture
 
 A *tanna* taught before Rav Nachman an opposing view: *zinsah hifsidah bla'oseha kayamin* — if she commits adultery, she loses even her clothes that are still present. Rav Nachman's response is terse and pointed: *im hi zinsah, kalei mi zanai?* — if she committed adultery, did her clothing commit adultery? The penalty falls on her moral conduct; her physical property is an entirely separate matter. It would be a kind of absurdity to penalize inanimate objects for their owner's moral failing.
 
-### Consensus: Property Pres…
+### Consensus: Adulteress
 
 The *gemara* resolves the dispute by attributing the stricter position — that she loses even her clothing — to a *stam baraita* in the name of Rabbi Menachem, a minority opinion. Rabbi Yochanan in the name of Rabbah bar bar Chana confirms: *aval chachamim omrim, zinsah lo hifsidah bla'oseha kayamin* — the sages hold that even an adulteress does not forfeit the physical property that is still present and in her possession. The consensus of the *chachamim* is that whatever she may have done, any property over which she held title and which is still physically present remains hers.
 
@@ -160,15 +160,15 @@ The *gemara* resolves the dispute by attributing the stricter position — that 
 
 Returning to the *ailonis*, the *mishnah* states: *im techilah nisa'ah l'shem ilonis* — if from the outset he married her knowing she was an *ailonis*, then *yesh lah ketubah* — she receives a *ketubah*. If he knew, it was not a *mekach ta'ut*; he entered with full knowledge and consented to this woman as his wife. Rav Huna draws a general principle from this: *ailonis isha v'einah isha* — an *ailonis* is in some respects his wife and in some respects not. The determining factor is his knowledge. *Heikir bah* — if he recognized her condition — *yesh lah ketubah*. *Lo heikir bah* — if he did not — *ein lah ketubah*.
 
-### Almanah: No Knowledge Ne…
+### Almanah: No Knowledge
 
 By contrast, Rav Huna holds that an *almanah* — a widow who married a *kohen gadol*, or analogously a divorcée who married an ordinary *kohen* — is *ishah gemurah*, fully his wife in every respect, and she always receives a *ketubah* regardless of whether the *kohen* knew of her status or not. In Rav Huna's reading, the biblical prohibition does not transform the marriage into a *mekach ta'ut*. She was not hiding anything about her personal nature — she is simply a widow, a status that does not affect her fitness as a woman but happens to disqualify her for a *kohen*. Whether he knew or not, the marriage was real, and she is entitled to the *ketubah*.
 
-### Yehudah: Knowledge for B…
+### Yehudah: Ailonit Almanah
 
 Rabbi Yehuda disagrees. He holds: *achat zu v'achat zu isha v'einah isha* — the same rule applies to both the *ailonis* and the *almanah*. In both cases, knowledge is the determining factor. *Heikir bah, yesh lah ketubah; lo heikir bah, ein lah ketubah*. If the *kohen* did not know he was marrying a woman forbidden to him, then however we classify the marriage legally — whether or not it is technically binding — she is not entitled to a *ketubah*, because there was a fundamental failure of informed consent on his part.
 
-### Metivta: Declaration vs.…
+### Metivta: Declaration vs
 
 A *metivta* — a *yeshiva* tradition — challenges the position of Rav Huna on the *almanah*. The *baraita* states: *kinsah b'chezkat shehi ken v'nimtzat shehi ken, yesh lah ketubah* — if he married her in the presumption that she was an *almanah* and she turned out to be an *almanah*, she receives a *ketubah*. The implication appears to be that this is precisely because he knew; had he not known, and had she turned out to be an *almanah*, she would not receive a *ketubah*. A second *baraita* makes this fully explicit: *kinsah biyeduah v'nimtzas biyeduah, yesh lah ketubah* — he married her knowingly and she turned out as expected, she gets the *ketubah*. *Kinsah stam v'nimtzat ken* — he married her without any explicit discussion and she turned out to be an *almanah* or *gerushah* — *ein lah ketubah*. This is a direct *tiyuvta* — a refutation — of Rav Huna's position that an *almanah* always receives a *ketubah* regardless of the *kohen*'s knowledge.
 
@@ -178,6 +178,6 @@ The logic makes intuitive sense: why would we presume that a *kohen* would be co
 
 The *gemara* accounts for Rav Huna's error: *veRav Huna matnisin at'yei* — Rav Huna was misled by the *mishnah*. He observed that the *mishnah* explicitly introduced the knowledge distinction in the case of the *ailonis* — stating that if he knew she was an *ailonis* she gets a *ketubah*, implying that without knowledge she does not — but made no such explicit distinction in the case of the *almanah*, simply stating she gets a *ketubah*. He reasonably concluded that the *almanah*'s *ketubah* was unconditional. This was a defensible reading of the *mishnah* on its face.
 
-### Resolution: Distinction…
+### Resolution: Ailonit
 
 The *gemara* resolves the difficulty: when the *mishnah* moved from the *ailonis* to the *almanah*, it did so within the context of the distinction it had already established for the *ailonis*. The knowledge requirement was already on the table. When the *mishnah* then stated that the *almanah* receives a *ketubah*, it meant within that same framework — namely, that she receives it when he knew of her status, just as the *ailonis* does. The *mishnah* did not need to restate the distinction because it had already been set as the operative framework. Rav Huna read the silence as a contrast; the *gemara* reads it as continuation. In the end, both the *ailonis* and the *almanah* share the same rule: *yesh lah ketubah* only when he married her with knowledge of her status.

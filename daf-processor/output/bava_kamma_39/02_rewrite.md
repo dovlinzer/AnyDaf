@@ -2,7 +2,7 @@
 
 ## Samaritans & Knas
 
-### Mishna: Jew/Samaritan Go…
+### Jew/Samaritan Ox Goring
 
 We continue from 38b, picking up with the *braita* beginning *shor shel Yisrael*. The broader theme of the *mishna* — that an ox of a Jew that gores an ox of a non-Jew is *patur*, while a non-Jew whose ox gores a Jew's ox pays full damages — has already been addressed by the *gemara*. We now turn to how these rules operate with respect to Samaritans (*kutim*).
 
@@ -42,7 +42,7 @@ This resolution immediately raises a question from Rav Zeira, who cites the *mis
 
 The challenge: if Rabbi Meir imposes a *knas* on Samaritans' money in the goring context *shelo yitame'u bahem*, why not apply the same principle here and declare that a man who seduces or rapes a Samaritan woman need not pay the *knas*? That would similarly create barriers and separation.
 
-### Abaye & Rav Mari: Liabil…
+### Abaye & Rav Mari: Knas
 
 Abaye answers: *kedei shelo yehei chotei niskar* — so that the wrongdoer should not profit from his sin. If a man seduces or rapes a Samaritan woman and we exempt him from the *knas* in the name of communal separation, he faces no consequences for profoundly harmful behavior. The concern about *yitame'u* — intermingling — is real, but it cannot come at the price of allowing a perpetrator to act with impunity. The imperative that a wrongdoer face consequences outweighs the goal of social distancing in this case, and therefore the *knas* is paid as the *halacha* demands.
 
@@ -50,7 +50,7 @@ One might still ask: why not require the man to pay, but direct the money to the
 
 ## Cheresh/Shoteh/Katan Ox
 
-### Mishna: Liability & Exem…
+### Mishna: Ox Gores Cheresh
 
 We now turn to the top of 39a and a new *mishna*. The *mishna* states: *shor she-pikeach she-nagach shor she-cheresh shoteh ve-katan chayav* — if a normal person's ox gores the ox of a *cheresh* (a deaf-mute, who lacks full legal competency), a *shoteh* (one with mental illness who does not process reality normally), or a *katan* (a minor), the owner of the goring ox is liable. *Ve-shel cheresh shoteh ve-katan she-nagach shor she-pikeach patur* — but if the ox of a *cheresh*, *shoteh*, or *katan* gores the ox of a competent adult, it is exempt, because these individuals bear no legal responsibility for their actions or negligence.
 
@@ -74,7 +74,7 @@ If, however, the purpose is *yi'udei gavra* — the warnings establish the owner
 
 This framework can also apply more broadly: if one purchases an ox already classified as *muad*, does it revert to *tam*? What if the ox was in the care of a *shomer* when it became *muad* and the owner then reclaims it? In the case of a *shomer*, one might argue the possession never truly changed because the *shomer* acts as an agent of the owner — a *ben da'as* — and so it remains the same *reshus* throughout. But the question remains open in many configurations.
 
-### Payment Phase of Liabili…
+### Payment Phase: Muad/Tam
 
 The *gemara* now identifies an internal contradiction within the *mishna* itself. The opening clause states that when a *cheresh*, *shoteh*, or *katan*'s ox gores a competent person's ox, it is *patur* — exempt. This implies, as the *gemara* reasons, that even with an *apitropas* in place, as long as the ox is still a *tam*, one does not collect from its body. The *mishna* makes a point of going straight to the testimony before the *apitropas* and the creation of *muad* status, implying that collection only begins once the ox is *muad*.
 
@@ -94,7 +94,7 @@ Once the ox does achieve *muad* status and then gores again, who pays? *Me'aliya
 
 It is worth noting that although the *mishna* speaks of *cheresh*, *shoteh*, and *katan*, the *gemara* frames the discussion in terms of *yesomim* — orphans — because the institution of the *apitropas* is most naturally associated with orphaned minors who have inherited an estate. The case in view is precisely that: minors who possess this ox.
 
-### Orphan Protection Princi…
+### Orphan Protection Act
 
 A significant objection is raised against attributing the position "orphans pay" to Rabbi Yochanan. Rabbi Yehuda cites Rav Assi: *ein nizkakim le-nichsei yesomim ella im ken ribis ocheles bahem* — the court does not intervene in matters involving the property of orphaned minors, except where interest is accruing on a loan. The concern is that a non-Jewish creditor to whom the deceased father owed money with interest should not continue accruing that interest indefinitely — so the court steps in to discharge the debt and stop the ongoing loss. Similarly, Rabbi Yochanan himself had held that the *kesuba* of the father's widow could be paid out in order to stop the ongoing expense of her maintenance from the estate. But apart from such cases of ongoing loss, the court categorically protects orphan property while the heirs are still minors and does not allow claims to be processed against the estate until they come of age.
 
@@ -136,7 +136,7 @@ The *gemara* answers: *harei hu be-tmimuso* — the phrase does not mean "it rem
 
 In the second clause — the *seifa* — both Sumchus and Rabbi Yosi address what happens when the owners return to competency or majority. Sumchus says *chazar le-tamuso* — it reverts to *tam* status — invoking the principle of *reshus meshaneh*: changing ownership or control resets the ox's status. Rabbi Yosi says *harei hu be-chezakaso* — it retains its *muad* status regardless of the change in ownership. Thus the *seifa* of the *braita* maps cleanly onto the *mishna*: the debate over *reshus meshaneh* — whether a change of possession reverts a *muad* to *tam* — is the same dispute we saw between Rabbi Meir and Rabbi Yosi in the *mishna*.
 
-## Rabbi Yaakov: Half Damag…
+## Rabbi Yaakov: Chatzi Nzk
 
 ### Rabbi Yaakov Braiта
 

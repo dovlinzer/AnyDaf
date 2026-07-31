@@ -1,4 +1,5 @@
 # Yevamot 29 — Daf Yomi Shiur
+[DAF:29a]
 
 ## Maamar Status (Beit Shammai and Beit Hillel)
 
@@ -22,6 +23,7 @@ The *gemara* introduces this question through Rabbi Elazar: *lo teima maamar l'B
 
 The formulation is precise: *maamar l'Beit Shammai eino koneh ela lidechot bi-tzarah bilvad* — what the *maamar* accomplishes is to push off Leah, to give her a sufficiently strong *erva* status that she can walk away, while the relationship with Rachel remains not yet fully concluded. It is strong enough to free Leah but not strong enough to fully discharge the *yibum* obligation with Rachel.
 
+[DAF:29b]
 ### Maamar de-Heitera
 
 > **Hebrew/Aramaic:** אָמַר רַבִּי אָבִין: אַף אֲנַן נָמֵי תְּנֵינָא, בֵּית שַׁמַּאי אוֹמְרִים: יְקַיְּימוּ. יְקַיְּימוּ אִין — לְכַתְּחִלָּה לָא. וְאִי סָלְקָא דַּעְתָּךְ מַאֲמָר לְבֵית שַׁמַּאי קוֹנֶה קִנְיָן גָּמוּר: זֶה יַעֲשֶׂה מַאֲמָר וְיִקְנֶה, וְזֶה יַעֲשֶׂה מַאֲמָר וְיִקְנֶה.

@@ -6,7 +6,7 @@
 
 The daf opens two lines from the bottom of 94b, three words from the end of the line: *v'hashta d'amar Rav Nachman*. We are in the middle of a discussion about the *takkanah* of Rebbi. Rebbi enacted that when a *gazlan* — or someone who lent money with *ribbis* — comes to do *teshuvah* and wishes to return his ill-gotten gains, we are instructed to refuse to accept the return. The purpose is to lower the barrier to *teshuvah*: we are, in effect, more concerned with the spiritual rehabilitation of the wrongdoer than with the immediate demands of justice. One might find this a striking moral calculus, but it is coherent as a communal policy. If the obstacle to *teshuvah* is the crushing financial burden of making full restitution, then society has an interest in removing that obstacle — we would rather the thief cease stealing and the lender cease charging *ribbis* than demand an accounting that prevents them from ever turning back. That, in any event, is the reasoning behind Rebbi's *takkanah*.
 
-### Rav Nachman's Qualificat…
+### Rav Nachman: Takkanah
 
 Now, however, the *takkanah* is qualified. *V'hashta d'amar Rav Nachman b'she'ein gezeilah kayyemes* — now that Rav Nachman has clarified that Rebbi is speaking only about a case where the stolen object is no longer in its original form or is no longer physically present, we must reconsider the scope of Rebbi's ruling. If the stolen object is still exactly as it was — if someone stole my laptop and still has my laptop — then the ownership is vivid and explicit, and there the *takkanah* does not apply. In that case, one must accept the object back. The underlying logic may be that asking the *gazlan* to liquidate his own assets to compensate for past wrongs is the real obstacle to *teshuvah*, whereas returning the tangible stolen object itself may not present the same difficulty. Either way, Rav Nachman's position is that Rebbi's *takkanah* is limited to cases where the *gezeilah* is no longer present.
 
@@ -28,11 +28,11 @@ This also clarifies something about the *marish* case. Rebbi's *takkanah* in its
 
 ## Sheared Sheep/Cow
 
-### Mishna: Return & Compens…
+### Mishna: Return Object
 
 The *Gemara* moves to the next section of the *mishna*: *gazal parah meuberet veyaldah* — one who stole a pregnant cow that subsequently gave birth, or a sheep and sheared it. The *mishna* rules that the thief returns the object as it currently stands — the shorn sheep or the cow that has now given birth — together with monetary compensation for the diminution in value, since at the time of the theft the sheep was worth more (it had its wool) and the cow was worth more (it was pregnant). The shearings and the calf, however, the thief acquires through *shinuy* and does not return. The owner receives the animal in its current state plus the difference in value.
 
-### Baraita: Rebbi Meir's Po…
+### Baraita: Meir Returns All
 
 A *baraita* now presents this as a *tannaic* dispute. *Hagozel rachel vegezezah, parah veyaldah* — one who stole a sheep and sheared it, or a cow and it gave birth: *meshalem otah ve'et gizoteiha ve'et veladoteiha* — according to Rebbi Meir, you pay back the animal together with the shearings and together with the offspring. Rebbi Meir holds that you return everything, even though the animal underwent a *shinuy*. Rebbi Yehudah disagrees: *gezeila chozeret be'eineha* — the stolen object is returned as it is, meaning you return the shorn sheep or the post-partum cow, plus the difference in value, but not the shearings or the calf — which is precisely the ruling of our *mishna*. Rebbi Shimon offers yet another formulation: you assess the value at the moment of the theft and that is what you pay. The difference between Rebbi Yehudah and Rebbi Shimon will be explored tomorrow; for now, the focus is on Rebbi Meir.
 

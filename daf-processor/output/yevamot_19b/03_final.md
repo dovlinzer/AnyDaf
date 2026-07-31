@@ -1,4 +1,5 @@
 # Yevamot 19b — Daf Yomi Shiur
+[DAF:19a]
 
 ## Rav Pappa's Reading
 
@@ -76,6 +77,7 @@ A natural question arises: if Rachel was already married to Shimon through *yibb
 
 The conceptual crux is this: at the moment of Levi's birth, a legal status attaches to him regarding Rachel. If *yibbum* occurred before he was born, then when he arrived in the world, Rachel was Shimon's wife — and that is how he encounters her. But if he was born before *yibbum* occurred, then at the moment of his birth, Rachel was Reuven's childless widow — and that status, *eshet achiv shelo haya be'olamo*, is fixed with respect to him from that moment forward. The subsequent act of Shimon's *yibbum* does not undo what was already legally established. The status attaches to the woman relative to Levi at the time of his birth, and it does not dissolve simply because circumstances later change.
 
+[DAF:19b]
 ### Status Retention Logic
 
 > **Hebrew/Aramaic:** אָמַר מָר: עָמַד הַשֵּׁנִי לַעֲשׂוֹת מַאֲמָר בִּיבִמְתּוֹ, וְלֹא הִסְפִּיק לַעֲשׂוֹת מַאֲמָר בִּיבִמְתּוֹ עַד שֶׁנּוֹלַד לוֹ אָח, וָמֵת — רִאשׁוֹנָה יוֹצְאָה מִשּׁוּם אֵשֶׁת אָחִיו שֶׁלֹּא הָיָה בְּעוֹלָמוֹ, וּשְׁנִיָּה — אוֹ חוֹלֶצֶת אוֹ מִתְיַיבֶּמֶת. מַאי ״עָמַד״, וּמַאי ״לֹא הִסְפִּיק״? אִי עֲבַד — עֲבַד, וְאִי לָא עֲבַד — לָא עֲבַד!

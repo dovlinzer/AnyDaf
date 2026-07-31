@@ -74,7 +74,7 @@ As for which foods qualify as *davar charif*: the Gemara mentions the radish exp
 
 We now arrive at the actual beginning of today's daf, four lines down on 112a. *Ba'a minei Rav Dimi me-Rav Nachman* — Rav Dimi posed a question to Rav Nachman: *mahu lehaniach kada de-milcha gabi kada de-kimcha* — may one place a dish of salt next to a dish of *kutach*? *Kutach* was a sour-milk dip, used in their cuisine as a condiment. The salt in question was not a shaker but an open bowl from which one would pinch or sprinkle salt by hand. The concern is straightforward: both vessels are open, there is a risk of inadvertent cross-transfer, and a drop of the *milchig kutach* landing in the salt dish could then be transferred into *fleishig* food at a subsequent meal.
 
-### Salt Forbidden, Vinegar…
+### Forbidden Salt, Vinegar
 
 Rav Nachman's response: *amar lei assur* — it is forbidden to place the salt dish beside the *kutach*. Rav Dimi then asked the follow-up: *dechala mai* — what if instead of salt, one has an open dish of vinegar next to the *kutach*? *Amar lei shari* — that is permitted. The difference prompted Rav Dimi to press further, and Rav Nachman, in an idiomatic response that is also a playful allusion to the very subject under discussion, invited him to measure out some salt before he would explain — a phrase meaning, essentially, think a bit harder.
 
@@ -90,17 +90,17 @@ The reason is as follows: *hai ita issura be-hai ve-hai leita issura be-hai* —
 
 A case is now presented: *hahu bar gozla denafal lakada detimcha* — a pigeon fell into a pitcher of *kutach*, that is, a yogurt-like sour milk dip. Here we have meat and dairy together, but without any apparent heat source to drive the taste transfer. *Sharya Rav Chinana brei deRav miParshunya* — Rav Chinana son of Rav Mishparshunya permitted it. *Amar Rava* — Rava remarked with evident admiration: *man chakim lemishrei ki hai gavna i lav Rav Chinana brei deRav miParshunya* — who would have been clever enough to find the basis for permitting this, if not for Rav Chinana? The implied question is why this case requires any particular ingenuity to permit. The pigeon had been salted, as all meat must be, and the principle *maliach ke-roteach* — salted is like boiled — would seem to trigger taste transfer even without heat. Why then is it permitted?
 
-### Maliach K'Roteach Princi…
+### Maliach K'Roteach Princ
 
 The answer is that Rav Chinana rules in accordance with a qualification of Shmuel's principle. *Ki amar Shmuel maliach harei hu ke-roteach* — when did Shmuel say that salting is equivalent to boiling? *Hani mili heicha de'eino ne'echal machamat milcho* — only where the food cannot be eaten because of its saltiness. *Aval hai kutcha* — but this *kutach*, *harei ne'echal machamat milcho* — is indeed edible despite its saltiness. It may be salty, but it is not at the threshold level of inedible saltiness that would trigger *maliach ke-roteach*. Therefore, the principle does not apply, and the pigeon is permitted.
 
 The context that produces inedible saltiness is worth clarifying. There are two relevant scenarios: the saltiness of meat that is in the process of being kashered, with heavy salt still resting upon it before rinsing; and in earlier times, the heavy salting used to preserve meat before refrigeration. That is the level of saltiness Shmuel had in mind — salt so heavy that one would never eat the meat in that state.
 
-### Rashi vs Tosafot Saltine…
+### Rashi vs Tosafot: Maliach
 
 Rashi and Tosafot disagree on the precise threshold. Rashi maintains that *eino ne'echal machamat milcho* refers to the extreme saltiness of preserved meat — the kind that would be buried in salt for preservation and would only become edible after rinsing. According to Rashi, this level of saltiness is almost never encountered in practice today, making *maliach ke-roteach* a rarely triggered principle. Tosafot disagrees and sets the threshold lower. According to Tosafot, *eino ne'echal machamat milcho* does not require complete inedibility of that extreme degree. Rather, it is sufficient that the food is as salty as *melach kadronit* — the salt used in the kashering process — meaning salty enough that a normal person would not eat the meat in that state without first rinsing off the salt. This is a lower and more common threshold than Rashi's. The practical *halacha* follows Tosafot.
 
-### Ashkenazi Strict Saltine…
+### Ashkenazi Stringency
 
 The matter does not end with Tosafot's ruling. True to the broader *Ashkenazi* approach of resolving uncertainty through stringency, the *Ashkenazi* position is that since we cannot precisely determine the exact point at which saltiness crosses the threshold of *eino ne'echal machamat milcho*, we apply stringency to all serious saltiness. This does not mean that a trivial pinch of salt used to season food is a concern — that level is not problematic. But once food becomes significantly salty, *Ashkenazim* treat it with the stringency of *maliach ke-roteach* out of concern that it may have crossed the threshold.
 
@@ -112,7 +112,7 @@ Tosafot builds on this to derive the type of saltiness that triggers taste trans
 
 ---
 
-## Blood Extraction Law (II)
+## Blood Extraction Laws
 
 ### Roasted vs Raw Meat
 
@@ -152,7 +152,7 @@ The practical ruling follows Rava: after proper roasting, the red juices are per
 
 ---
 
-## Catching Juices While Ro…
+## Juices While Roasting
 
 ### Vessel Under Roasting
 
@@ -170,7 +170,7 @@ Rav Ashi objects to this criterion: *dilma mitata mata ila lo mata* — perhaps 
 
 *Ela amar Rav Ashi: leit leh takanta ela mishdei bah tarti galalei milcha* — the only reliable solution, says Rav Ashi, is to place two mounds of salt in the collection vessel. The principle, striking as it seems to modern sensibilities, is that blood is attracted to the salt and absorbed into it, while the meat juices remain separate and can be collected from around the salt mounds. The blood, being drawn to the salt, is contained within the mounds; what remains is permissible gravy.
 
-### Tosafot Rejects Salt Met…
+### Tosafot: Salt Measure
 
 Tosafot cites the *Bahag* in rejecting the practical applicability of this method. The *Bahag* states explicitly that it must be precisely two mounds: *aval harbeh melach posek koach ha-dam* — if there is more salt than the prescribed amount, it breaks the power of the blood and the mechanism fails, presumably because excess salt disperses the blood throughout the liquid rather than drawing it in and containing it. Too little salt is equally insufficient. Since we are no longer able to determine with confidence the exact measure of two mounds — *ve-ein anu beki'in ba-davar*, we are not expert in this matter — neither more nor less is acceptable, and we therefore cannot rely on this method at all. This is the characteristic *Ashkenazi* formulation: when a precise measure is required and we cannot guarantee it, the entire practice is set aside.
 
@@ -220,7 +220,7 @@ It follows that if fish were placed on top and birds on the bottom on a slanted 
 
 The Gemara now presents the case of Rav Mari bar Rachel: he had salted pieces of meat together, and one of the pieces turned out to be *trefa* — it was done unwittingly, as when meat is purchased and only afterward is a disqualifying defect discovered in the animal. The kosher pieces had been salted together with the *trefa* piece on the same platform.
 
-### Non-Kosher Juices Forbid…
+### Non-Kosher Meat Juices
 
 He brought the question before Rava. *Amar lei Rava: ha-teme'im, le-asor tsiran ve-rotban ve-kippa shelahen* — Rava cited the verse regarding forbidden animals: not only is the meat of a *trefa* forbidden, but its *tsir* — juices — and *rotev* — gravy — and the *kippa* — the residue or goop in the vessel — are equally forbidden. The great *chiddush* here is that the juices of a non-kosher item carry the same legal status as the item itself and are forbidden just as the meat is.
 

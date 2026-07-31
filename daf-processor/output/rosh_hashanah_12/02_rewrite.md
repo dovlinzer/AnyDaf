@@ -1,6 +1,6 @@
 # Rosh Hashanah 12 — Daf Yomi Shiur
 
-## Creation to Year Categor…
+## Creation Year Categories
 
 ### Constellations & Creation
 
@@ -16,7 +16,7 @@ The *Gemara* now returns from its extended excursus on the *pesukim* of Noach an
 
 ---
 
-## Vegetables Cross-Year Mi…
+## Vegetables Ma'aser
 
 ### Year Boundary Rules
 
@@ -34,7 +34,7 @@ These two questions — the fixed calendar date and the determining event — op
 
 The *Gemara* cites a *braita*: *u'leyerakot u'lema'asrot u'lenedarim* — not just vegetables, but also *ma'asrot* generally, encompassing fruit and grain, and also vows. The *Gemara* immediately asks: why does the *braita* mention both *yerakot* and *ma'asrot*? If *yerakot* means the *ma'aser* obligation as it pertains to vegetables, is that not simply a subset of *ma'asrot*?
 
-### Rabbinic vs. Biblical Ma…
+### Rabbinic vs Biblical
 
 The answer is that the two categories are legally distinct: *tana d'rabbanan v'tana d'oraita*. The obligation of *ma'aser* on vegetables is rabbinic — *ma'aser yerek* is *derabbanan* — while *ma'asrot* in the second clause refers to the biblical obligations on grain, olives, and grapes. This raises a significant question: what precisely falls within the biblical obligation? Reading the *Gemara* plainly, it sounds as though anything other than vegetables would be biblical, which would include all fruit. Whether *ma'aser* on fruit is indeed *d'oraita* is a major dispute among the *rishonim*. Rashi, throughout *Shas*, maintains that the Torah's obligation of *terumot u'ma'asrot* applies only to *degancha tiroshcha ve'yitzharecha* — the five grains, oil from olives, and wine from grapes — and that everything else, including fruit, is rabbinic.
 
@@ -96,7 +96,7 @@ The phrase *shenat ha'ma'aser* — the year of *the* tithe — is interpreted to
 
 The *Gemara* raises an objection: perhaps *shenat ha'ma'aser* means that even *ma'aser rishon* is suspended, leaving only *ma'aser ani* altogether? This is resolved by the verse: *v'el ha'Levi'im tedaber v'amarta aleihem ki tikchu mei'et b'nei Yisrael et ha'ma'aser asher natati lachem mei'itam b'nachalatchem* — "and to the Levites you shall speak... the tithe that I have given you from them as your inheritance." The verse links *ma'aser rishon* to an inheritance: just as an inheritance has no interruption — *ma nachala ein lah hefsek* — so too *ma'aser rishon* has no interruption. It follows that *shenat ha'ma'aser* signifies the suspension of *ma'aser sheni* only, not of *ma'aser rishon*.
 
-### Second Braita Confirmati…
+### Second Braita: Ma'aser
 
 A second *braita* confirms this reading independently. The same verse — *ki techaleh la'aser... shenat ha'ma'aser* — is quoted, and the same conclusion is reached: only *ma'aser rishon* and *ma'aser ani*, while *ma'aser sheni* is suspended. The *braita* then asks whether *ma'aser rishon* might also be suspended, and resolves this from a different verse: *u'va ha'Levi* — "and the Levi shall come" — which appears in the context of the third year. The verse *u'va ha'Levi ki ein lo chelek v'nachala imach v'ha'ger v'ha'yatom v'ha'almana* singles out the Levi distinctly, alongside the *ger*, *yatom*, and *almana*, demonstrating that even in the year of *ma'aser ani*, the Levi continues to receive his tithe. The ruling is thus: *u'va ha'Levi kol zman sheba ten lo* — whenever the Levi comes, give to him — even during the third year.
 
@@ -132,7 +132,7 @@ The *Gemara* now cites a *mishnah* from tractate *Ma'asrot*: *ha'taltan mishetit
 
 The *Gemara* focuses first on the rule of *shelish* for grain. Rav Assi cites Rabbi Yochanan — with some transmitters attributing it to Rabbi Yose HaGlili — who derives this from the verse concerning *hakhel*: *miketz sheva shanim b'mo'ed shnat ha'shmitah b'chag ha'sukkot* — "at the end of seven years, at the appointed time of the year of *shmita*, during *Sukkot*." The verse presents an apparent difficulty: if it is *at the end* of seven years, then *Sukkot* must already be in the eighth year. Why does the Torah call it *shnat ha'shmitah*? The answer is: *kol tvuah shehevia shelish bi'shvi'it lifnei Rosh Hashana, atah noheg bah minhag shevi'it bi'shminit* — any grain that reached a third of its ripeness during the seventh year before *Rosh Hashanah* retains the sanctity of the *shmita* year even when harvested in the eighth year. The verse calls it *shnat ha'shmitah* because there is still grain being harvested in that eighth year that carries *kedushat shevi'it*, having crossed the *Rosh Hashanah* threshold while already a third ripe.
 
-### Challenge to Shelish Mea…
+### Shelish Measure Challenge
 
 Rav Zeira raises two challenges to this derivation. The first: perhaps the verse does not speak of the sanctity of fruit at all, but rather of a continuation of *shmita* practices — an extension of *shmita* law until *Sukkot*, analogous to the principle of *mosifin me'chol al ha'kodesh*, adding from the ordinary into the sacred. The *Gemara* dismisses this by reading the word *asif* — used in the verse *v'chag ha'asif b'tzet ha'shanah* — as referring to active harvesting, not to the general practices of *shmita*. If *Sukkot* is called the time of *asif*, it means people are harvesting then; one does not harvest during *shmita*, so the verse must be addressing grain that is being harvested, grain that grew during *shmita* and is now being cut in year eight.
 

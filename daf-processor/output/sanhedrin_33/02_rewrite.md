@@ -46,7 +46,7 @@ In any case, Rav Nachman's position — understood through Rashi — is that eve
 
 ---
 
-## Dvar Mishna vs Shikul Ha…
+## Dvar Mishna vs Shikul
 
 ### Rav Sheshet's View
 
@@ -160,7 +160,7 @@ The *gemara* now turns to the asymmetric rules governing capital cases. The firs
 
 Rav Shimi bar Ashi notes a striking exception: *vechilufa lemeisit* — the rules are reversed for the *meisit*, one who seduces others to commit idolatry. For this category, *lo tachmol velo techaseh alav* — the Torah explicitly commands that no compassion be shown and nothing be concealed on his behalf. As discussed elsewhere in this tractate, the *meisit* is treated with unique stringency: the court actively looks for reasons to convict, and finds none to acquit. Rav Kahana cites the verse *ki harog tahargenu* — "you shall surely put him to death" — as the basis for this inversion.
 
-### Extension to Galus & Mal…
+### Extension: Galus & Malkos
 
 Rav Zeira asks Rav Sheshet whether the principle of no double jeopardy extends beyond capital cases to *chayei galuyos* — those subject to exile. The answer is yes: *atia rotzeach rotzeach* — a verbal analogy (*gezeirah shavah*) is drawn between the word *rotzeach* as it appears in the context of the *goel hadam* and *rotzeach* in the context of intentional killing, establishing that the same rule that applies to capital cases applies to cases of *galut*.
 

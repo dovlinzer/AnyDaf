@@ -8,7 +8,7 @@ The *daf* begins in the middle of a discussion about the three-month waiting per
 
 The *Gemara* opens with a textual question: since virgins are by definition women whose only prior relationship was *erusin*, why does the *mishna* list "virgins" and "those who were only *arusa*" as if they were two separate categories? Similarly, being a *be'ula* is equivalent to having been *nesua*. The *Gemara* answers through *Rav Yehuda*, who explains that the *mishna* is not presenting two independent categories but rather is clarifying a single one: women who were either divorced or widowed whether from *erusin* or *nissuin*. The mention of *erusin* and *nissuin* is therefore explanatory of the earlier distinction between *betulot* and *be'ulot*, not an additional case.
 
-### Divorced/Widowed Categor…
+### Divorced/Widowed: Erusin
 
 With this reading established, the discussion moves to a practical ruling. Rabbi Eliezer had missed the session in the *beis medrash* and sought out Rabbi Assi to learn what had been said. Rabbi Assi reported that Rabbi Yochanan had ruled: *halacha k'Rabbi Yossi* — the law follows Rabbi Yossi. Rabbi Yossi's position, shared in substance with Rabbi Yehuda, is that the three-month wait is necessary only when the woman was *nesua* to her prior husband and is entering *nissuin* with the new one, meaning there was opportunity for marital relations at both ends. If either the prior or the new relationship is only *erusin*, no such wait is required.
 

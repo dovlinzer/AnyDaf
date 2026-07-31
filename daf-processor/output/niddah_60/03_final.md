@@ -1,4 +1,5 @@
 # Niddah 60 — Daf Yomi Shiur
+[DAF:60a]
 
 ## Tliyah & Attribution
 
@@ -272,6 +273,7 @@ This is a striking principle. It is not about ascertaining physical facts — if
 
 ## Braita Reinterpretation
 
+[DAF:60b]
 ### Abaye Reframes
 
 > **Hebrew/Aramaic:** מִכׇּל מָקוֹם קַשְׁיָא! אָמַר רָבִינָא: לָא קַשְׁיָא, הָכִי קָאָמַר: הִשְׁאִילָה חֲלוּקָהּ לְנׇכְרִית — בַּעֲלַת כֶּתֶם הֲרֵי זוֹ תּוֹלָה בָּהּ. וְהָא ״אוֹ לְיוֹשֶׁבֶת עַל הַכֶּתֶם״ קָתָנֵי! הָכִי קָאָמַר: אוֹ לְיוֹשֶׁבֶת עַל דַּם טוֹהַר — בַּעֲלַת כֶּתֶם תּוֹלָה בָּהּ.

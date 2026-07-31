@@ -6,7 +6,7 @@
 
 The *mishnah* on 59b continues the discussion of the different types of *menachos* and their constituent ingredients. The *mishnah* on 59a had established that some *menachos* receive both oil and *levonah* (frankincense), some receive one or the other, and some receive neither. The two offerings that receive neither are the *minchas chotei* — the sin-offering *minchah* brought in the context of a *korban oleh v'yored*, whose form varies according to the donor's economic means — and the *minchas kena'os*, the *minchah* of a *sotah*. In both of these cases the *Torah* states explicitly: *lo yasim aleha shemen v'lo yiten aleha levonah* — one may not place oil on it nor give frankincense upon it. This constitutes a negative prohibition, and it is the subject of the present *mishnah*.
 
-### Oil/Frankincense Transgr…
+### Oil/Frankincense Transgr
 
 The *mishnah* establishes that one transgresses the prohibition for placing oil alone and for placing *levonah* alone; even a single violation is sufficient. Furthermore, if one places oil on the *minchah*, the *mishnah* states *nasan aleha shemen pasalah* — one has not only transgressed but has invalidated the *minchah*, rendering it unfit for use. The *levonah*, by contrast, is different: *yelaktenah*, one simply picks it off, and the *minchah* remains *kasher*. This is because *levonah* — as has been noted previously — is not like salt or other loose substances but resembles crystals or pebble-like granules, and it can therefore be physically removed from the surface of the flour. One transgresses even though the violation is correctable.
 
@@ -134,7 +134,7 @@ A *baraita* then raises the question: if one has already placed oil on a *mincha
 
 *Tosafot* notes, however, that the answer is ambiguous and can be read in the reverse direction as well: *aleha* might mean each prohibition must be committed on its own separate *minchah*, such that putting *levonah* after *shemen* on the same *pasul minchah* would not constitute a second transgression. The plain reading of the *baraita*, however, supports the first interpretation — that one does transgress both prohibitions even on a single *minchah*.
 
-### Vessel Upon Vessel Revis…
+### Vessel Upon Vessel Rule
 
 The *baraita* also addresses the *kli al gabei kli* case again: if one places oil inside a vessel and sets that vessel on top of the *minchah*, *lo pasalah* — the *minchah* is not invalidated. The prohibition of *lo yasim aleha shemen* requires direct application to the body of the *minchah* itself. The *Torah*'s language, on this reading, speaks to the *minchah* directly — *b'gufa shel minchah* — and not to an indirect placement via an intervening vessel. Accordingly, such an act neither invalidates the *minchah* nor constitutes a transgression.
 

@@ -1,6 +1,6 @@
 # Yoma 2 — Daf Yomi Shiur
 
-## Masechet Organizatio (II)
+## Masechet Organization
 
 ### Welcome & Overview
 
@@ -16,7 +16,7 @@ Once you have the three *masechtot* of *Yoma*, *Sukkah*, and *Rosh Hashanah*, it
 
 ---
 
-## Kohen Gadol Separati (II)
+## Kohen Gadol Separation
 
 ### Seven-Day Separation
 
@@ -40,7 +40,7 @@ A comparable structure appears in *Masechet Shabbat*, where six *perakim* deal w
 
 Continuing the *Mishna*: *u'matkinin lo kohen acher tachtav shema ye'arei bo psul* — they would also prepare another *kohen* as a stand-in in case the *kohen gadol* were to become disqualified. Since he was carefully sequestered and protected during this period, the most plausible concern for *tuma* was that he would experience a seminal emission. The stand-in was not the regular *segan*, the designated deputy *kohen gadol*, but rather a specifically designated understudy appointed for this contingency.
 
-### Backup Wife & Ein Ladava…
+### Backup Wife & Ein Ladavar
 
 *Rabbi Yehuda omer af isha acheret matkinin lo* — Rabbi Yehuda adds that they would also prepare for him a second wife, in case his wife should die during this period. The basis is the *pasuk*: *v'chiper ba'ado u-va'ad beito* — "he shall atone for himself and for his household" — and *beito zo ishto*, "his household" means his wife. A *kohen gadol* who is unmarried is invalid to perform the *Yom Kippur* service. There is a broader principle running through *halacha* — touching on the *shliach tzibbur* and members of the *Sanhedrin* as well — that being married draws a person out of a purely self-oriented existence and renders him more capable of representing and empathizing with others. Here the requirement is grounded in a *pasuk*, but the thematic resonance with those other contexts is notable.
 
@@ -78,7 +78,7 @@ Rather, *Tosafot* explains, citing the *Mishna* in *Parah* 3: *samchu yadeihem a
 
 ---
 
-## Chamber Location & Signi…
+## Chamber Location & Role
 
 ### Why Stone & Northeast
 

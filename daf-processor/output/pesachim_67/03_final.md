@@ -1,4 +1,5 @@
 # Pesachim 67 — Daf Yomi Shiur
+[DAF:67a]
 
 ## Mesorah vs. Interpretation
 
@@ -198,6 +199,7 @@ The *Gemara* then challenges the next step: *ve-zav chamur mitmei sheretz* — i
 
 The *Gemara* responds by citing Rav Huna, who states on 69b that the *ra'iyah rishonah shel zav* — the first flow of a *zav* — renders him *tamei* even *be'ones*. On his first flow, a *zav* has the same one-day *tumah* status as a *ba'al keri*, and a *ba'al keri* is *tamei* regardless of how the emission occurred. So even by *ones*, the *zav* category is not entirely exempt. The counterargument from *ones* therefore fails to establish the superiority of *tamei sheretz*, and the hierarchy stands: *tamei meit* (including *tamei sheretz*) is the most lenient, and *zav* is more severe.
 
+[DAF:67b]
 ### Zav/Ba'al Keri/Metzora
 
 > **Hebrew/Aramaic:** אָמַר קְרָא ״זָב״, ״וְכׇל זָב״, לְרַבּוֹת בַּעַל קֶרִי. וּמְצוֹרָע חָמוּר מִבַּעַל קֶרִי.

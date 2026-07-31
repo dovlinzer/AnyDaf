@@ -12,7 +12,7 @@ The *daf* opens two lines from the bottom of 96b, picking up from the preceding 
 
 What is striking here is that the emphasis falls not on the glory and triumph that *Mashiach* will bring, but on the suffering and collapse from which he will emerge. The very name given to *Mashiach* — Bar Nafli, son of the fallen — frames the redemption as something that rises out of hardship and tragedy.
 
-### R. Yochanan: Generation…
+### R. Yochanan: Mashiach Era
 
 *Hachi amar Rabbi Yochanan*: Rabbi Yochanan taught that in the generation when the son of David comes, *talmidei chakhamim* will be diminished — their numbers will shrink. The rest of the people will have their eyes dimmed with anguish and mourning. Tremendous afflictions and harsh decrees will come in rapid succession — before the effects of the first tragedy have passed, the next is already on its way. This portrait of the generation preceding *Mashiach* is entirely consistent with the epithet Bar Nafli: it will be a time of great difficulty and suffering, with the redemption emerging from the depths of the fall.
 

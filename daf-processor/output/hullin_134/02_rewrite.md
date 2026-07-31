@@ -176,7 +176,7 @@ Moreover, *Tosafot* notes that the question is not limited to Rabbi Meir's posit
 
 Rabbi Yochanan responded: *al taknitani* — "do not press me on this." He claims that the *Mishnah* which says doubtful *leket* goes to the poor reflects only a single, non-authoritative opinion — specifically that of Rabbi Yehuda ben Agra in the name of Rabbi Meir. Since it is a *da'at yachid*, we do not rule like it. The *baraita* records: *safeik leket leket, safeik shikcha shikcha, safeik peah peah* — each category of doubt about gifts to the poor is resolved in favor of the poor. But this, Rabbi Yochanan insists, represents only Rabbi Meir's minority view, not normative *halacha*.
 
-### Reish Lakish: Tzedek Mishelcha
+### Tzedek Mishelcha
 
 Reish Lakish was unmoved. He replied: even if it is an obscure opinion — even if it is attributed to someone as unknown as Ben Tada, as Rashi identifies him, essentially a nobody — I don't care. The opinion gives a compelling reason, and the reason should be examined on its merits. *Ve-ha-ta'ama ka'amar* — the reasoning stands on its own.
 

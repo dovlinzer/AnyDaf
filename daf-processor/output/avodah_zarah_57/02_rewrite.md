@@ -40,7 +40,7 @@ This distinction can itself be parsed in two ways. It could reflect Rav's genera
 
 ---
 
-## Children & Yayin Nes (II)
+## Children & Yayin Nesech
 
 ### Rav Restatement
 

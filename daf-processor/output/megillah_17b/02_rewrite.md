@@ -1,6 +1,6 @@
 # Megillah 17b — Daf Yomi Shiur
 
-## al ha-seder in Shmoneh E…
+## Sequential Order Shmoneh
 
 ### al ha-seder & Tosafot
 
@@ -26,7 +26,7 @@ Having established that the order of *Shmoneh Esrei* is authoritative and obliga
 
 The *Gemara* cites a verse from Isaiah: *v'hikdishu et Kadosh Yaakov v'et Elohei Yisrael ya'aritzu* — "they shall sanctify the Holy One of Jacob and the God of Israel they shall glorify." The immediately following verse reads: *v'yadu to'ei ruach binah* — "those who are of wayward or searching spirit will know understanding." The structural juxtaposition of *kedushah* and *binah* in the verse provides the textual anchor. The *Gemara* does not at this point offer a deeper logical argument; it grounds the sequence in the *pasuk*.
 
-### Understanding & Repentan…
+### Understanding & Repent
 
 The next question is why *teshuvah* follows *binah*. The *Gemara* cites a verse: *u'l'vavo yavin v'shav v'rafa lo* — "and his heart will understand, and he will repent, and it will be healed for him." The verse makes the sequence explicit: first comes understanding, and understanding leads directly to *teshuvah*. When a person truly comprehends the nature of his actions and their consequences, the natural result is repentance. The connection between *binah* and *teshuvah* is thus not merely sequential but causal.
 

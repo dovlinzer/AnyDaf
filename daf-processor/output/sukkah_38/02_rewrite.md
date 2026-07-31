@@ -108,7 +108,7 @@ The larger point of the *mishnah* in context remains significant. The *gemara*'s
 
 The *mishnah* returns to *hallel*, and this transition itself is revealing. The natural structure of the *daf* has been: an elaborate discussion of waving during *hallel*, then a brief digression about taking the *lulav* outside its proper time and context, and now a return to *hallel*. The implication is that the primary context of the *mitzvah* of *lulav* is precisely the shaking during *hallel* in *shul*. This is not presented as a supplemental enhancement — "first you make the *beracha*, take the *lulav*, and by the way also shake it during *hallel*." Rather, the shaking in the context of *hallel* is the *mitzvah*.
 
-### Tosafot Minor's Obligati…
+### Tosafot: Shaking & Minor
 
 Tosafot raises a pointed question: when one makes the *beracha* at the moment of taking the *lulav*, must one shake it then, or does merely holding it suffice? *Lo matzinu dechayav lina'anea bitchilat netilah* — we do not find any explicit source requiring shaking at the moment of taking. But then Tosafot invokes the principle underlying the *mishnah*'s formulation of a minor's obligation: *katan hayodeia lina'anea chayav belulav* — a minor who knows how to shake is obligated in *lulav*. Notice: not "a minor who is able to take it," but "a minor who knows how to shake it." This is how the threshold of educational obligation is defined. Since the capacity to shake defines when the *mitzvah* begins to be taught, shaking is evidently central to what the act of the *mitzvah* is.
 
@@ -232,7 +232,7 @@ And what about the second repetition, *ana Hashem hatzlicha na*? *Mikan she'im b
 
 ---
 
-## Shomeia K'Oneh
+## Shomeia K'Oneh (II)
 
 ### Technical Meaning
 

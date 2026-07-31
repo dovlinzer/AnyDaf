@@ -96,7 +96,7 @@ Furthermore, regarding the basket: *nasno be-kalkala, afilu lemala me-asara tefa
 
 The *Chachamim* disagree: *kol makom she-asur litlo ein eruvo eruv* — wherever it is forbidden to take the *eruv*, it does not count as an *eruv*. The *gemara* clarifies which case the *Chachamim* are disputing. If they are arguing about the basket case specifically, this would imply they hold *tzedadin asurin* — that using an item connected to a tree even indirectly is forbidden. Since we do not want to lock the *Chachamim* into that position, the *gemara* concludes that they are disputing the middle case: the *eruv* placed between three and ten *tefachim*, which may not be removed from the tree. Rebbi says this counts; the *Chachamim* say it does not, because if you cannot take it, it is not considered accessible.
 
-### Generalization to Bein H…
+### D'Rabbanans Bein Hashmash
 
 What is remarkable about how the *gemara* processes this dispute is its degree of abstraction. The *baraita* seems, on its face, to be presenting a narrow halachic ruling within *hilchos eruvin*: in this specific scenario, does a rabbinic obstacle prevent the *eruv* from counting? One might have thought this was purely an internal principle of *eruv* law — that within the conceptual framework of *eruvin*, we evaluate accessibility in a particular way.
 
@@ -170,7 +170,7 @@ The access, according to Rebbi Yirmiyah, thus proceeds in two stages. First, by 
 
 The elegance of Rebbi Yirmiyah's explanation is that it avoids entirely the complex theoretical apparatus of the previous explanation. One does not need to invoke *chokekin lehashlim*, analyze the dimensions of base versus top, or distinguish between the basket's walls descending or not. The reason the basket case works is simply that the basket is tiltable, and tilting it provides a two-step path to the *eruv* that never requires a biblical violation.
 
-This is, as the lecturer notes, a considerably simpler explanation than Ravina's. The reason a basket works, and a bare branch does not, is not because of dimensional analysis but because a basket can be physically tilted — something a fixed branch cannot replicate.
+This is a considerably simpler explanation than Ravina's. The reason a basket works, and a bare branch does not, is not because of dimensional analysis but because a basket can be physically tilted — something a fixed branch cannot replicate.
 
 ## Physical Placement Q
 

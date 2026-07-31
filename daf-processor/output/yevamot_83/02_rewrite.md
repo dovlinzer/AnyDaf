@@ -1,6 +1,6 @@
 # Yevamot 83 — Daf Yomi Shiur
 
-## Shmuel & Rav Positio (II)
+## Shmuel & Rav Positions
 
 ### Dvei Rav Review
 

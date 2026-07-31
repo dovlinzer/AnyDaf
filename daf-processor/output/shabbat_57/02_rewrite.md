@@ -72,7 +72,7 @@ Rav replied: *ari kamarta?* — are you speaking of something that is woven? *Ko
 
 *Ve-ika de-amri* — there is an alternative version of Rav Huna brei de-Rav Yehoshua's statement: *chazina le-achvasi de-lo kapdan alaihu* — I observed my sisters, and they were not *makpid* about these items, meaning they did not trouble themselves to remove them when going to bathe. *Rashi* notes that the reference is not only to *mikvah* immersion but to regular bathing; indeed, *Rashi* argues that one is actually more careful about removing things when washing one's hair in an ordinary bath than when immersing in a *mikvah* for halachic purposes, since for the *mikvah* one need only ensure water can flow through — if the item is porous, one need not remove it. In an ordinary bath, by contrast, one wants clean hair and will naturally remove anything that might impede washing. Rav Huna's sisters did not remove these items even when bathing, demonstrating that water passes through them freely.
 
-### Categorical vs. Individu…
+### Categorical vs Individual
 
 The *Gemara* then asks: *mai ika bein hai lishna u-vein hai lishna?* — what practical difference exists between these two formulations? One version says that all *arig*-type items are categorically excluded from the prohibition; the other focuses on whether a woman is *makpid* — whether she would actually be bothered to remove the item.
 

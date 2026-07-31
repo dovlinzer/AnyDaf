@@ -162,7 +162,7 @@ Rashi makes a striking observation. Why is it that if one intends to return, one
 
 ---
 
-## Bitul after bedika (II)
+## Bitul after bedika
 
 ### Issur hana'ah paradox
 

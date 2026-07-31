@@ -18,7 +18,7 @@ These sources give rise to two principal categories: *makhruhu beit din*, the ca
 
 ---
 
-## Tanna Kamma Distinc (III)tions
+## Tanna Kamma Distinctions
 
 ### Gezeirah Shavah Question
 
@@ -30,7 +30,7 @@ The *baraita* sets out the position of the *tanna kamma* alongside that of Rabbi
 
 ---
 
-## Sakhir Sakhir Debat (III)
+## Sakhir Sakhir Debate
 
 ### Tavyumi on Abaye
 
@@ -38,7 +38,7 @@ The *gemara* now resists this framing. Rav Tavyumi cites Abaye: in fact, everyon
 
 ---
 
-## Tanna Kamma Distinc (III)tio…
+## Tanna Kamma Distinct (II)
 
 ### Six Year Limit
 
@@ -46,7 +46,7 @@ The *gemara* proceeds to work through each of the four differences in turn. It b
 
 ---
 
-## Sakhir Sakhir Debat (III)
+## Sakhir Sakhir Debate (II)
 
 ### Reframing Debate
 
@@ -54,7 +54,7 @@ This brings the *gemara* to its reframing of the entire dispute. The disagreemen
 
 ---
 
-## Tanna Kamma Distinc (III)tio…
+## Tanna Kamma Distinc (III)
 
 ### Eliezer on Avadcha
 
@@ -110,7 +110,7 @@ Tosafot raises the question: if *lo* tells us it can be done against his will, w
 
 ---
 
-## Sakhir Sakhir Debat (III)e…
+## Sakhir Sakhir Debat (III)
 
 ### Fundamental Link
 

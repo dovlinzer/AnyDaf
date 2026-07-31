@@ -294,7 +294,7 @@ Another *braisa*: *arba prutos ein bahem siman beracha le-olam* — four types o
 
 The case of the translators is understandable: *mishum demechzei k'sechar Shabbat* — it looks like payment for work performed on *Shabbat*, which is inherently problematic even when technically permitted. The case of orphans' money: *lav bnei mechila ninhu* — minors cannot grant forgiveness; if one misuses their funds, even unwittingly, there is no pardon available, as there would be with an adult who might be *mochel*. Overseas investments: *mishum delo kol yoma misrachesh nisa* — one cannot rely on a miracle every day; ships sank regularly in those waters, and building an enterprise on such unpredictable risk will not yield lasting blessing.
 
-### Why Scribes Specifically
+### Scribes Fasts
 
 The case of scribes requires more explanation: why should writing *Sifrei Torah*, *tefillin*, and *mezuzot* not be a well-rewarded enterprise? The answer comes from Rabbi Yehoshua ben Levi: *chaf daled taaniyot yashvu Anshei Knesses Ha-Gedolah al kosvei Sfarim Tfillin u-Mezuzos* — the Men of the Great Assembly sat in twenty-four fasts, directed at God, for the scribes who write sacred texts.
 

@@ -1,8 +1,8 @@
 # Bekhorot 15 — Daf Yomi Shiur
 
-## Blemish & Non-Altar Sanc…
+## Blemish & Purity
 
-### Blemish Before Sanctific…
+### Blemish Before Sanctity
 
 We pick up at the bottom of 14b, two lines before the lines widen. The subject is a *korban* that had a *mum* before it was sanctified. Because the blemish preceded the sanctification, the *kedusha* was never oriented toward the altar — never *kedushas mizbe'ach*. It was always destined to be redeemed, with the redemption money then directed toward the altar, but the animal itself was never going to be brought as an offering. We are thus dealing with *kedushas damim* — sanctity of monetary value only — and the *gemara* explores several consequences that flow from this non-altar sanctity.
 
@@ -18,7 +18,7 @@ To state the reading precisely: even when the verse speaks of *ra b'tov* — a b
 
 ---
 
-## Redemption & Alive Requi…
+## Redemption: Alive Req
 
 ### Rabbi Shimon's Position
 
@@ -84,7 +84,7 @@ It is worth pausing on *Abaye*'s underlying logic, which at the end of the day c
 
 ---
 
-## Post-Redemption Restrict…
+## Post-Redemption: No Work
 
 ### Slaughter & Eat Verse
 
@@ -96,7 +96,7 @@ The source: *d'tanu rabanan*, the sages taught from the verse *tizbach ve'achalt
 
 An alternative reading of the same verse: rather than parsing word by word, this second opinion reads *tizbach ve'achalta* holistically — slaughter and eat. The Torah is telling us that the only benefit permitted from *kodshim* that have been redeemed is benefit that comes *mishat zvicha ve'eilach* — from the point of slaughter onward. Before slaughter, while the animal is alive, no benefit is permitted — no shearing, no working, no milking. This reading, however, has a different implication for the dog-food prohibition: since benefit is only restricted while the animal is alive, once it is dead (or becomes a *treifah*) you might have thought it could be redeemed for dog food. The *gemara* explores this: if the animal is a *treifah* — alive but unable to be eaten by a human — there is no *ha'amada veha'aracha* issue since it is alive, but there is the concern of redeeming for dog food.
 
-### No Redemption for Dog Fo…
+### Redeem Sanctified for Dog
 
 This establishes the biblical basis for the principle that one may not redeem consecrated animals destined for dog food. As noted earlier, the distinction between this concern and the *ha'amada veha'aracha* requirement is meaningful: the former applies even to a *treifah*, which is alive but whose end use would be dog food; the latter applies even to an animal that is not a *treifah* but is dead. Both reasons are operative for *kodshei mizbe'ach*, and our *mishna*'s statement that *kodshei mizbe'ach* cannot be redeemed once they die reflects both underlying principles. For *kodshei damim* — the first case in our *mishna* — neither concern applies with the same force, which is why Rabbi Shimon permits their redemption even after death.
 
@@ -122,7 +122,7 @@ That said, there is a *machlokes* regarding such offspring. Some say *kadshi l'h
 
 ---
 
-## Offspring After Redempti…
+## Offspring After Saving
 
 ### Rav Kahuna's Ruling
 
@@ -152,7 +152,7 @@ The *gezeirah shavah* teaches that the same restriction applies to *pesulei mukd
 
 ---
 
-## Comprehensive Baraita Re…
+## Baraita: Blemish Timing
 
 ### Blemish-Before Case
 
@@ -160,7 +160,7 @@ A *braisa* is now cited that systematically reviews both categories and serves a
 
 *Kodshim she'kadam mum kavua le'hakdeshan* — if the blemish preceded the sanctification, and the animal was then redeemed, it is *chayav be'bechor u've'matanot*: the *bechor* and *matanot* obligations apply in full. There is no residual *kedusha* to exempt it. This applies both before and after redemption. Similarly, *hagozez ve'oveid bahen eino soveg et ha'arba'im* — if one shears or works with the animal before redemption, one does not receive the forty lashes, because there is no *kedushas haguf* here that makes those acts intrinsically prohibited. Before redemption, *moalin bahen* — there is *me'ila*, since the animal belongs to the Temple. After redemption, *ein moalin bahen* — no *me'ila* applies. It does not effect *tmura*. And *vladoseihem chol* — offspring born after redemption are completely *chulin*, entirely de-sanctified. Those offspring are *nifdim tmimim* — they can even be redeemed while unblemished, since their *kedusha* was never *kedushas mizbe'ach*. And *matpisin l'chol zevach she'yirtzeh* — once redeemed, one may dedicate the animal to any sacrifice one wishes. *Klalo shel davar harei hen k'chulin l'chol divreihem* — they are entirely like *chulin* in every respect. *Ein l'cha bahem ela mitzvas pidyon bilvad* — the only *mitzva* that applies to them is redemption; after that, nothing residual remains.
 
-### Sanctification-Then-Blem…
+### Sanctification-Then-Flaw
 
 *Aval kodesh hikdishan ba'al mum* — if the animal was sanctified first and then acquired a fixed *mum*, or if it had a transitory *mum* at the time of consecration and later acquired a fixed one, and it was then redeemed — this is the second category, the one with residual *kedusha*. The following rules apply:
 

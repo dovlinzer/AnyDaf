@@ -1,4 +1,5 @@
 # Yevamot 78 — Daf Yomi Shiur
+[DAF:78a]
 
 ## Rabbi Shimon vs. Rabbanan
 
@@ -268,6 +269,7 @@ It is worth noting that the Gemara's entire discussion oscillates between three 
 
 When Ravin arrived from Eretz Yisrael, he cited a third version of Rabbi Yochanan's teaching, one that synthesizes the various strands: *ba'umot halech achar hazachar* — among non-Jews, before conversion, you follow the male. When two individuals of different national backgrounds — say, a *Mitzri* and an *Ammonit*, or any two nationalities — have a child, and neither parent is Jewish, the child's national identity follows the father. This is the straightforward expression of the patrilineal principle in a context of non-Jewish nationality.
 
+[DAF:78b]
 ### Canaanite Case
 
 > **Hebrew/Aramaic:** יָכוֹל אֲפִילּוּ אֶחָד מִן הַכְּנַעֲנִים שֶׁבָּא עַל אַחַת מִן הָאוּמּוֹת וְהוֹלִיד בֵּן, שֶׁאַתָּה רַשַּׁאי לִקְנוֹתוֹ בְּעֶבֶד — תַּלְמוּד לוֹמַר: ״אֲשֶׁר הוֹלִידוּ בְּאַרְצְכֶם״ — מִן הַנּוֹלָדִים בְּאַרְצְכֶם, וְלֹא מִן הַגָּרִים בְּאַרְצְכֶם.

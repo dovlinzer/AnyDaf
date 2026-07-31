@@ -58,9 +58,9 @@ An interesting adjacent question arises: if witnesses had their testimony accept
 
 ---
 
-## R. Yosi: Part Negates Wh…
+## Yosi: Part Negates Whole
 
-### Sh'tei Eduyot vs. Edut A…
+### Sh'tei Eduyot vs. Edut
 
 The *Gemara* now introduces a *tanna'ic* debate and asks whether it maps onto the Abaye-Rava dispute. The *baraita* presents two scenarios. In the first, two witnesses testify that someone stole an animal (*geneivah*) and that he subsequently slaughtered it (*tavichah*). They are then proven *zomemim* only on the *geneivah* — but not on the *tavichah*. In this case, *edut she-batlah miktzatah batlah kullah* — because the theft testimony is void, the slaughter testimony becomes meaningless (one cannot be liable for the enhanced penalty of four or five without the predicate theft), and nobody pays four or five. The witnesses pay *kefel* for the false theft testimony alone.
 

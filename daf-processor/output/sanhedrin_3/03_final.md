@@ -1,4 +1,5 @@
 # Sanhedrin 3 — Daf Yomi Shiur
+[DAF:3a]
 
 ## Dinei Mamonot Reading
 
@@ -200,6 +201,7 @@ Rabbi Yonatan disagrees: *rishon techilah ne'emar ve'ein dorshin techilot* — t
 
 The *gemara* asks whether this reflects a general dispute about the hermeneutic principle of *dorshin techilot* — counting the first occurrence of a word. *Mar savar dorshin techilah*, one holds you do count it; *u-mar savar ein dorshin techilah*, the other holds you do not. That seems to be the debate. The *gemara* then says: perhaps not. *Dekulei alma ein dorshin techilah* — perhaps everyone agrees you do not count the first occurrence. How then does Rabbi Yoshiya justify counting it here? *Amar lach Rabbi Yoshiya*: the *Torah* could have written *ve-nikrav ba'al habayit el ha-shofet* — "the householder shall approach the judge" — and subsequently used *elohim*. Instead it used *elohim* all three times. That deliberate repetition of the same word signals that every occurrence is to be counted. Had the *Torah* not wanted us to count the first, it would have used a different word to introduce the subject. Rabbi Yonatan responds: *lishna de'alma nakat* — the *Torah* was simply speaking in a natural, echoing idiom. As people say: *man de'it lei dina likrav legabei dayana* — one who has a legal matter should approach a judge. The phrase uses *dina* and *dayana* — din and its cognate — for stylistic resonance, not because every instance of the word carries halachic weight. Similarly, the *Torah*'s repeated use of *elohim* is a matter of style, not instruction to count. Rashi offers a related explanation, and the *gemara* notes that the simpler reading remains that they are debating the general hermeneutic principle of *dorshin techilot*.
 
+[DAF:3b]
 ### Rabbi Yehuda Exception
 
 > **Hebrew/Aramaic:** וְרַבִּי יֹאשִׁיָּה לֵית לֵיהּ בֵּית דִּין נוֹטֶה? וְהָתַנְיָא: רַבִּי אֱלִיעֶזֶר בְּנוֹ שֶׁל רַבִּי יוֹסֵי הַגְּלִילִי אוֹמֵר, מָה תַּלְמוּד לוֹמַר ״לִנְטֹת אַחֲרֵי רַבִּים לְהַטֹּת״? הַתּוֹרָה אָמְרָה: עֲשֵׂה לְךָ בֵּית דִּין נוֹטֶה.

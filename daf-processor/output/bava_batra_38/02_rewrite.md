@@ -1,6 +1,6 @@
 # Bava Batra 38 — Daf Yomi Shiur
 
-## Tree Sale & Land Ownersh…
+## Tree, Land & Chazaka
 
 ### Intro: Trees & Land
 

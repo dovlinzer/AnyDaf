@@ -1,4 +1,5 @@
 # Sanhedrin 11 — Daf Yomi Shiur
+[DAF:11a]
 
 ## Appointment & Shmuel HaK…
 
@@ -206,6 +207,7 @@ Compare this to the earlier generation — the father — Rabban Gamliel, who is
 
 The Gemara cites a *baraita* describing Rabban Gamliel seated on the steps of the Temple Mount, with his scribe Yochanan standing before him and three pieces of cloth already prepared for writing. He directed Yochanan to take each cloth in succession and compose three separate letters.
 
+[DAF:11b]
 ### Galilee & South Letters
 
 > **Hebrew/Aramaic:** אָמַר לוֹ: טוֹל אִיגַּרְתָּא חֲדָא וּכְתוֹב: לַאֲחַנָא בְּנֵי גָּלִילָאה עִילָּאָה וְלַאֲחַנָא בְּנֵי גָּלִילָאה תַּתָּאָה, שְׁלוֹמְכוֹן יִסְגֵּא. מְהוֹדְעִין אֲנַחְנָא לְכוֹן דִּזְמַן בִּיעוּרָא מְטָא לְאַפְרוֹשֵׁי מַעְשְׂרָא מִמַּעְטָנָא דְזֵיתָא. וְטוֹל אִיגַּרְתָּא חֲדָא וּכְתוֹב: לַאֲחַנָא בְּנֵי דָרוֹמָא, שְׁלוֹמְכוֹן יִסְגֵּא. מְהוֹדְעִין אֲנַחְנָא לְכוֹן דִּזְמַן בִּיעוּרָא מְטָא לְאַפְרוֹשֵׁי מַעְשְׂרָא מֵעוּמְרֵי שׁוּבְלַיָּא.

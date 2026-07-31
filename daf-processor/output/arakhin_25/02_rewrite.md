@@ -1,6 +1,6 @@
 # Arakhin 25 — Daf Yomi Shiur
 
-## Intro: Arachin & Makdish…
+## Intro: Arachin & Makdish
 
 ### Masechet Overview
 
@@ -20,7 +20,7 @@ The *mishna* had stated that one may not be *makdish* a *sadeh* within two years
 
 According to Shmuel, if one is *makdish* a *sadeh* during the *yovel* year, the sanctification does not take effect — it is not *kadosh*. According to Rav, the sanctification is valid and the person pays the full fifty *shekel*.
 
-### Baraita: No Sanctify Yov…
+### Baraita: Sanctify Yovel
 
 The *gemara* now challenges Rav's position from a *baraita*. We read: *makdishin bein lifnei hayovel bein achar hayovel* — one may sanctify a field whether before *yovel* or after *yovel* — *uvesha'at hayovel atzmo lo yakdish* — but during the *yovel* year itself one shall not sanctify — *ve'im hikdish einah kedushah* — and if one did sanctify, it does not take effect. This appears to be a straightforward ruling like Shmuel's: just as *yovel* causes the field to revert to the *kohanim* and effects all manner of change, if one attempts to be *makdish* during *yovel* itself, it accomplishes nothing.
 
@@ -52,7 +52,7 @@ The net result of the discussion: everyone agrees the division is by forty-nine.
 
 ---
 
-## No Partial Years: Whole…
+## No Partial Years Rule
 
 ### Baraita: Full Year Units
 
@@ -70,7 +70,7 @@ The real meaning of the *baraita*, according to Rav, is this: if one is *makdish
 
 The *gemara* proceeds to ask: what does the *baraita* add that we did not already know? *She'ein mechashevin chodashim im hahekdesh* — that one does not count months when dealing with *hekdesh* — is already stated explicitly in the *mishna*. The *gemara* responds: *mah ta'am ka'amar* — the *baraita* is providing the rationale. Why may one not redeem in units less than a year? Because *she'ein mechashevin chodashim im hahekdesh* — when it comes to *hekdesh*, one reckons by years, not months. The two statements reinforce each other. The *tanna* derives this from the verse: *vechishev lo hakohen et kesef al pi hashanim hanotarot* — the *kohen* calculates the money based on the remaining *years* — *shanim ata mechashev ve'ei ata mechashev chodashim*: you count by year units, not month units.
 
-### Months for Hekdesh Benef…
+### Months Hekdesh Rounding
 
 One might ask: is it ever possible to count months? The *tanna* continues: *minayin she'im ata rotze la'asot chodashim leshana ose?* How do we know that if you wish to count months toward a year, you may do so? The *gemara* asks what case this addresses. The answer: *kegon de'akdesha bepalga de'arba'in vetamnei* — suppose the field was sanctified when forty-eight and a half years had already elapsed in the cycle, meaning there is a year and a half remaining. Recall the rule: if fewer than two full years remain until *yovel*, there is no *girua* and the full fifty *shekel* is charged. Now, if one rounds up the remaining time to two years, the owner is still in the *girua* zone and pays less. If one rounds down to one year remaining, the owner pays the flat fifty *shekel* — which is more. Rounding down here benefits *hekdesh*. In such a case, the *tanna* teaches from the verse *vechishev lo hakohen* — the *kohen* will calculate for him in whatever manner — *mikol makom*, broadly — meaning the calculation can run either way so long as it serves *hekdesh's* interest.
 
@@ -214,19 +214,19 @@ The case for the son: *shekein notel baraui kevemuchzak* — the son inherits wh
 
 One can frame the distinction conceptually: when a husband inherits from his wife, it has the quality of a transfer — the property passes from her domain to his. When a son inherits from his mother, it has the quality of continuity — the property flows through her to him as an extension of her line.
 
-### Unresolved: Husband vs S…
+### Husband vs Son: Field
 
 The *gemara* leaves this question unresolved: *teiku*. We do not know whether it is the husband or the son who functions as the operative "continuity" figure for a woman who was *makdish* a field.
 
 ---
 
-## Within Two Years & Pries…
+## Two Years & Kohen
 
 ### Within Two Years
 
 *Ba'ei mineih Rami bar Chama meRav Chisda*: if a field was sanctified less than two years before *yovel* — in which case we know the owner pays the full fifty *shekel* with no *girua* deduction — does that field still go to the *kohanim* if not redeemed by *yovel*? One might think not: the *Torah* juxtaposes the going-to-*kohanim* with *venigra me'erkecha*, the deduction mechanism. Perhaps only fields subject to *girua* — proportional deduction — are subject to the *yovel* transfer to *kohanim*. A field sanctified within two years, where no *girua* applies, might be a different category.
 
-### Redeemable Goes to Pries…
+### Redeemable to Priests
 
 *Amar leih mai da'atach* — Rav Chisda asks: what exactly are you thinking? The concern is that the verse *venigra me'erkecha* implies that fields subject to deduction go to the *kohanim*. *Debat girayon hi* — only something eligible for deduction goes to the *kohanim*; *delav bat girayon lo* — something not eligible for deduction does not.
 

@@ -6,7 +6,7 @@
 
 The dominant theme of this section of the *masechta* continues to be minimum sizes required to be *chayav* for carrying on *Shabbos*. The *mishna* states: *tavlin kidei letaveil beitza kalla* — spices sufficient to season a light egg, which Rashi identifies as a hen's egg prepared scrambled or fried. That much is the threshold for *chiyuv*. The *gemara* then raises a contradiction from a *braisa*: *tavlin shnayim b'gimmel shemos mimin echad o mishlosha minim assurim umitztarfin zeh im zeh* — spices with two or three different names, whether of one type or of three different types, are forbidden and combine with one another. The plain implication is that different types of spices combine to reach a minimum amount.
 
-### Tosafos: Combining Prohi…
+### Tosafos: Combining Lavim
 
 Tosafos has a lengthy discussion on this point. He focuses on the phrase *shnayim b'gimmel shemos*, understanding it to refer not merely to different varieties of the same spice, but potentially to spices with different underlying *issurim*. The key line in Tosafos runs: *d'gimmel minei issur k'gon orlah kilayim kerem v'shel asher v'shel ir nidachas kari gimmel shemos* — that there are times the *gemara* uses the word *shem* to refer to the nature of the *issur* itself. From here Tosafos is drawn into a broader discussion: if one has a small amount of spices from *avoda zara*, a small amount from *orlah*, and a small amount from *kilayim*, and their combined volume equals a *k'zayis*, does he receive *malkus*? He has not consumed a minimum of any single category — yet Tosafos entertains the possibility of a generic *lav* that would combine across different prohibited categories, making one *chayav* even on a mixture of distinct *issurim*. That larger question can be set aside for now. The operative point is that different types of spices combine — both for the purpose of reaching the minimum *shiur*, and for the purpose of *bitul*, where the combined flavor of multiple forbidden spices in a dish prevents any one of them from being considered *batel*.
 
@@ -60,7 +60,7 @@ Beyond these, the *mishna* includes *kimuliya*, which Rav Yehuda identifies as *
 
 ---
 
-## Sacred Items & Geniz (II)
+## Sacred Items & Geniza
 
 ### Idolatry Items
 
@@ -140,7 +140,7 @@ For cucumber seeds (*zera kishu'in*), gourd seeds (*zera dilu'in*), and Egyptian
 
 *Tzippores keramim* — a non-kosher vine grasshopper — is *kol shehu* whether alive or dead. Since it is not kosher and thus not food, the ordinary food measure does not apply. Instead, even the smallest amount is significant because *shematznino lah l'refuah* — one sets it aside for medicinal use, as will be elaborated later in the *gemara*.
 
-### Tanna Kamma vs. Rabbi Ye…
+### Tanna Kamma vs. R. Yehuda
 
 Rabbi Yehuda adds: *af hamotzi chagav chai tamei kol shehu* — even a live non-kosher locust, the smallest amount renders one *chayav*. His reasoning: *shematznino lekatan litzchok bah* — one sets it aside for a child to play with. The Tanna Kamma, by contrast, does not assign significance to a live non-kosher locust. This sets up the question: if a live *kosher* locust is *kol shehu* because children play with it, why is a live *non-kosher* one any different? And conversely, why does the kosher/non-kosher distinction matter for the living creature at all, since one does not eat a live grasshopper? These questions are taken up in the *gemara*.
 

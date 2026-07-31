@@ -184,7 +184,7 @@ The *Gemara* then introduces the case of *kibel shtei nezirus be'vas achas* — 
 
 This is a crucial clarification of *Rav Huna*'s position. His requirement of temporal offset — *hayom* versus *lemakhar* — is not a reflection of some conceptual difficulty with two coinciding *neziruyot* as such. *Rav Huna* has no objection to the model of complete overlap, where the second *nezirut* coincides entirely with the first and simply waits. What he objects to is creating that model through sequential, identical declarations. When someone says *hareni nazir hayom* and then, with the first *nezirut* already in place, repeats *hareni nazir hayom*, the second statement is simply a repetition — it is not doing anything. It does not introduce a second *nezirut*; it merely restates the first.
 
-### Sequential vs. Simultane…
+### Sequential vs
 
 The distinction *Rav Huna* draws is therefore not about conceptual structure but about the mechanics of halakhic speech acts. A simultaneous declaration — "I accept two *neziruyot* beginning today" — is unambiguous: both are accepted at once, one takes effect, the other hovers. But a sequential declaration — *hareni nazir hayom*, and then later *hareni nazir hayom* — is a problem not because of any impossibility of overlapping *neziruyot* but because the second utterance, made after the first has already taken hold, is indistinguishable from mere repetition. If someone wanted to create a hovering second *nezirut* through sequential speech, he would need to say something meaningfully different — such as *hareni nazir lemakhar* — to signal that he is designating a distinct, second *nezirut* and not simply echoing the first.
 

@@ -16,7 +16,7 @@ The *gemara* opens by pressing a contradiction. We say *stam nedarim le-hachmir*
 
 Rabbi Zeira offers the resolution: *lo kashya, ha Rabbi Eliezer, ha Rabbanan* — there is no true contradiction, because the two rulings reflect the positions of Rabbi Eliezer and the *Rabbanan* respectively. The source is a *baraita*: if one consecrates all his *chaya* (wild animals) or all his *behema* (domesticated animals) to *hekdesh*, the question arises whether a *koi* — a hybrid creature of disputed zoological classification — is included. Rabbi Eliezer says it is not consecrated; the *Chachamim* say it is.
 
-## Koi Consecration Cas (II)
+## Koi Consecration Case
 
 ### Koi Baraita
 
@@ -28,7 +28,7 @@ At this point the *gemara* makes a significant observation. One might have thoug
 
 Woven into this discussion is the concept of *ma'eil inish nafshei le-sfeika* — whether a person would willingly subject himself to a doubtful status — and *ma'eil mamonei le-sfeika* — whether a person would willingly subject his property to such doubt. Until this point, one might have assumed that *stam nedarim le-hachmir* is purely a legal interpretive principle — a rule for how courts construe ambiguous language — with no reference to the vower's subjective intent. But the *gemara*'s introduction of the *ma'eil* framework suggests that the question of what a person would have wanted is itself part of the legal analysis. This can be understood as follows: rather than asking about this particular individual's intent, we adopt a general interpretive presumption — that people making these types of declarations typically intend either the broader or the narrower meaning — and apply that presumption uniformly as a matter of law. The *Ran* supports the more formalist reading: even if the person says he had no specific meaning in mind, the legal principle determines the meaning of his words regardless.
 
-## Safek Bechoros Digre (II)
+## Safek Bechoros Digression
 
 ### Safek Bechoros
 
@@ -124,9 +124,9 @@ The *gemara* now returns to the *mishnah* regarding regional linguistic variatio
 
 The *gemara* infers from this: if in *Galil* the people *were* familiar with *terumat halishka*, making the word ambiguous in their region as well, the declaration would be forbidden — *ha makirim, assurin*. This confirms that Rabbi Yehuda endorses the principle of *stam nedarim le-hachmir* in any case of genuine ambiguity.
 
-## Stam Charamim Region (II)
+## Stam Charamim Regions
 
-### Charamim Permitted Forbi…
+### Charamim: Yehuda vs Galil
 
 Immediately following is the parallel ruling about *charamim*: *stam charamim bi-Yehudah mutarin, uva-Galil assurin* — an ambiguous declaration of *cherem* in *Yehuda* is permitted, while in *Galil* it is forbidden. The reasoning: in *Galil*, the people are unfamiliar with *charmei kohanim* — the type of dedication that goes to the *kohanim* rather than to *hekdesh* — so the word *cherem* can only mean *cherem* dedicated to the *Beis HaMikdash*, which is a binding *neder*. In *Yehuda*, the word *cherem* could mean either *cherem* to *hekdesh* or *charmei kohanim*, and since the latter is not a *neder*, the ambiguity renders it permissible.
 

@@ -54,7 +54,7 @@ The Gemara resolves an apparent difficulty through the mechanism of seasonal pri
 
 The Mishnah turns to a new and more conceptually rich case: *ha-mafkid chavit etzel chaveiro v'lo yichadu lo ba'alim makom* — one who deposits a barrel with his fellow without designating a specific place for it. If the *shomer* subsequently moves the barrel and it breaks, his liability depends on the circumstances.
 
-### Letzorkho Distinction
+### Letzorko Distinction
 
 If the barrel broke while still in his hands — *mitoch yado* — the analysis turns on why he moved it. *Letzorkho chayav*: if he moved it for his own purposes, he is liable. *Letzorkhah patur*: if he moved it for the barrel's sake — to protect it, or simply as part of his duties as *shomer* — he is exempt. Moving it *letzorkhah* is simply fulfilling the role of a guardian; moving it *letzorkho*, for his own benefit, transforms his relationship to the object in a way that creates liability. The precise nature of that transformation — whether it makes him a *gazlan*, a *sholei'ach yad*, or a *sho'el she-lo bi-reshut* — is a question the Gemara will address at length.
 

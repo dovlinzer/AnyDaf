@@ -88,7 +88,7 @@ Zeiri adds a qualification: the break must occur in the half of the rib *toward 
 
 Rabba bar bar Chana in the name of Rabbi Yochanan clarifies that throughout this discussion, we are speaking of *tzalot gedolot* — the large ribs that have marrow — eleven on each side.
 
-### Ben Zakkai vs. R. Yochan…
+### Ben Zakkai vs. Yochanan
 
 Ulla cites Ben Zakkai (not to be confused with the Tanna Rabbi Yochanan ben Zakkai, given the generational distance, but some other Sage of that name): *ne'ekru b'rov tzad echad* — if the ribs are not merely broken but *uprooted* — fully detached from where they join the spinal column — then a majority of *one side* suffices. Six uprooted ribs from one side would render the animal a *treifah*. If, however, the ribs are merely *broken* (*nishtabru*), the majority must span *both* sides — twelve ribs total.
 
@@ -146,7 +146,7 @@ An objection is raised by Rav Hoshaya: given that Shmuel's teaching about verteb
 
 Rava responds: the original debate between Beit Shammai and Beit Hillel was framed entirely in the context of *tumah* — specifically, the *tum'at ohel* of a human skeleton. In that framing, Beit Shammai is indeed stringent and Beit Hillel lenient. Shmuel then extrapolated the same principle to *treifah*, at which point the positions with respect to stringency and leniency swap. But the debate itself was not framed as a *treifah* debate, and therefore it does not appear in the canonical lists of *kulei* and *chumrei*. This, incidentally, is the classic model of a ruling that is consistent in its internal logic even as it appears to produce reversed stringency across two domains.
 
-### Skull Height or Circumfe…
+### Skull: Height vs Circumf.
 
 The second item on Shmuel's list — *gulgoles shenichbesa beruba*, the skull bashed in over its majority — prompts a question from Rami bar Ami: when we say "majority," do we measure *rov govha* — the majority of the skull's height — or *rov heikeifa* — the majority of its circumference? Rashi notes that the circumference is larger than the height; the two measures therefore yield meaningfully different thresholds. Rashi locates the midpoint of the height at approximately the level of the eyes — a consideration familiar from the anatomy of the face, where the eyes fall at the midpoint of the skull's vertical dimension. The Gemara offers no resolution: *teiku*.
 

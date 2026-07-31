@@ -1,4 +1,5 @@
 # Berakhot 54b — Daf Yomi Shiur
+[DAF:53b]
 
 ## Crossings & Wadis
 
@@ -28,6 +29,7 @@ The crossing of the Red Sea is understood from the verse *vayavo'u Bnei Yisrael 
 
 Similarly, the crossing of the Jordan River at the time of Joshua is anchored in the verse describing how the *kohanim* bearing the Ark stood fixed in the dry riverbed while all of Israel crossed on dry land: *vaya'amdu hakohanim nosei aron berit Hashem becharava betoch hayarden hachen, vechol Yisrael overim becharava*. The Jordan crossing differed somewhat from the Red Sea in that the water was not split in the same manner — a wall formed at one point while the lower waters drained away — but it was nonetheless a manifest miracle, and the location of the crossing is accordingly a place upon which one recites a *bracha*.
 
+[DAF:54b]
 ### Wadis of Arnon
 
 > **Hebrew/Aramaic:** אֶלָּא מַעְבְּרוֹת נַחֲלֵי אַרְנוֹן מְנָלַן? — דִּכְתִיב: ״עַל כֵּן יֵאָמַר בְּסֵפֶר מִלְחֲמֹת ה׳ אֶת וָהֵב בְּסוּפָה וְגוֹ׳״. תָּנָא: ״אֶת וָהֵב בְּסוּפָה״ — שְׁנֵי מְצוֹרָעִים הָיוּ, דַּהֲווֹ מְהַלְּכִין בְּסוֹף מַחֲנֵה יִשְׂרָאֵל. כִּי הֲווֹ קָא חָלְפִי יִשְׂרָאֵל אֲתוֹ אֱמוֹרָאֵי עָבְדִי לְהוֹן נְקִירָתָא וּטְשׁוֹ בְּהוֹן. אָמְרִי: כִּי חָלְפִי יִשְׂרָאֵל הָכָא — נִקְטְלִינּוּן, וְלָא הֲווֹ יָדְעִי דְּאָרוֹן הֲוָה מְסַגֵּי קַמַּיְיהוּ דְּיִשְׂרָאֵל וַהֲוָה מַמֵּיךְ לְהוּ טוּרֵי מִקַּמַּיְיהוּ. כֵּיוָן דַּאֲתָא אָרוֹן, אִדְּבַקוּ טוּרֵי בַּהֲדֵי הֲדָדֵי, וְקַטְלִינּוּן, וּנְחַת דְּמַיְיהוּ לְנַחֲלֵי אַרְנוֹן. כִּי אֲתוֹ אֶת וָהֵב, חֲזוֹ דְּמָא דְּקָא נָפֵיק מִבֵּינֵי טוּרֵי. אֲתוֹ וְאָמְרִי לְהוּ לְיִשְׂרָאֵל וַאֲמַרוּ שִׁירָה. הַיְינוּ דִּכְתִיב: ״וְאֶשֶׁד הַנְּחָלִים אֲשֶׁר נָטָה לְשֶׁבֶת עָר וְנִשְׁעַן לִגְבוּל מוֹאָב״.

@@ -90,7 +90,7 @@ Rabbi Abba bar Zavda adds another transgression inferred from the indictment: *m
 
 The answer, then, is that the killing of *Achan*'s children and the destruction of his property were not punishments in the retributive sense but public acts of institutional messaging. *Ela lirdosam* — to impress upon Israel the gravity of what had occurred. Just as the *sotah* ritual is performed publicly to serve as a deterrent to others, the totality of *Achan*'s destruction — family, property, animals — served a communal pedagogical function.
 
-### Disproportionate Punishm…
+### Disproportionate Punish
 
 The *Ramban* identifies a pattern that runs through this week's *parasha*: in several cases, the punishment appears to exceed what simple retributive justice would demand. The *zaken mamre* who rules against the *Sanhedrin* is put to death; *edim zomemim* are executed; the *ben sorer u-moreh* is put to death for what is, in strict terms, very minor misconduct; the *navi sheker* is executed. In each of these cases, the Torah appends the phrase *v'chol Yisrael yishme'u v'yira'u* — and all Israel will hear and fear. The *Ramban* points out that this phrase itself is the justification. The institutions being protected — the authority of interpretation (*zaken mamre*), the integrity of the court system (*edim zomemim*), the structure of parental authority (*ben sorer u-moreh*), the authority of divine communication (*navi sheker*) — are of such foundational importance that their protection warrants punishments that would otherwise be disproportionate.
 

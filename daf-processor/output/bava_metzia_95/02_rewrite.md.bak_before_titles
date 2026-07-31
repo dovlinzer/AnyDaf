@@ -1,0 +1,141 @@
+# Bava Metzia 95 — Daf Yomi Shiur
+
+## Shoel & Ba'alav Imo
+
+### Opening & Context
+
+The daf begins toward the bottom of 94b, picking up a discussion about where we learn certain *p'turim* — exemptions — and how we can derive that a *shoel* (one who borrows an object) is exempt in a case of *ba'alav imo*, where the owner is present and working alongside the borrower. The broader inquiry involves contrasting the liabilities of a *shoel* with those of a *shomer sachar*, someone who is paid to guard an object but does not have permission to use it. Underlying this discussion is a *machloket* between Rabbi Yoshiya and Rabbi Yonatan in a *braita*, concerning the methodology of certain *drashot* — specifically, whether two criteria mentioned in a *pasuk* must both be fulfilled simultaneously in order to generate liability, or whether each independently suffices.
+
+The *braita* derives its point from the *pasuk* concerning one who curses his parents: *ish asher yekallel et aviv ve'et imo*. One might have thought that liability requires cursing both parents together. Rabbi Yoshiya demonstrates otherwise: since each parent is placed next to the word *killel* at various points, each is independently sufficient to generate liability. Rabbi Yonatan agrees with the *halacha* but arrives there differently. His principle is that unless the Torah explicitly specifies *yachdav* — together, as it does in the prohibition against plowing with an ox and donkey — we assume that two criteria in a *pasuk* apply independently. Rashi notes that the word *yachdav* in the case of *lo yacharosh b'shor vachamor* is precisely what tells us that only the two animals together are forbidden, while without such explicit specification, each criterion stands on its own. The Ritva, citing Rabbi Pinchas Halevi (believed by many to be the author of *Sefer Hachinuch*, the brother of the Ra'ah), adds that this principle of *yachdav* applies only to *mitzvot lo ta'aseh*, since for a *mitzvat asei* such as taking the *daled minim*, it is self-evident that all four species must be taken together — the absence of *yachdav* would not imply that a single species suffices.
+
+With this *machloket* as background, the *gemara* moves to the top of 95a.
+
+### Shoel Liability Review
+
+The *gemara* opens with the question: *gneiva ve'aveida bishoel minalan* — how do we know that a *shoel* is liable in a case of *gneiva ve'aveida*, where the borrowed animal was stolen or lost? The attempt to learn this from *shvura u'meta* — the case where the animal was injured or died — is immediately challenged: *mah lishvura u'meta delo efshar lemitrach vela'atuyei*. If an animal dies or is injured, there is nothing further the *shomer* can do; it is categorically an unpreventable situation. But *gneiva ve'aveida* is different — *de'efshar lemitrach vela'atuyei* — one could exert additional effort to recover a stolen or lost animal, to track it down or reclaim it from the thief. The two categories are thus fundamentally different in character, and one cannot be derived from the other.
+
+Instead, the *gemara* turns to a *braita*: from the explicit *pasuk* we learn only *shvura u'meta*. For *gneiva ve'aveida*, we make a *kal vachomer*: a *shomer sachar*, who is exempt if the animal was injured or died, is nonetheless liable if the animal was stolen or lost. A *shoel*, who is liable even in cases of *shvura u'meta*, should certainly be liable for *gneiva ve'aveida* as well. The *gemara* declares this a *kal vachomer she'ein alav tshuva* — a *kal vachomer* that admits of no refutation. The very fact that this characterization must be stated signals that a potential counter-argument exists and must be addressed.
+
+The potential challenge is as follows: a *shomer sachar* can, in certain circumstances, become liable for *kefel* — double payment. If a *shomer sachar* claims the animal was taken by an armed robber (*listim mezuyyan*) — which ordinarily qualifies as an *ones* and exempts him — and that claim is proven false, he is treated as a thief and becomes liable for *kefel*. A *shoel*, by contrast, can never find himself in such a situation. Since a *shoel* has no exemption to exploit by claiming the animal was stolen — he remains liable regardless — he can never be proven to have made a false exempting claim, and thus can never become liable for *kefel*. One might therefore argue that the *shomer sachar*'s liability structure is qualitatively superior, and the *kal vachomer* would fail.
+
+The *gemara* rejects this: *afilu hachi karna deshoel adifa* — even so, the principal liability of a *shoel* is greater. The capacity to become liable for *kefel* is actually a function of having an exemption available to exploit. The *shomer sachar*'s exposure to *kefel* arises precisely because he has an out — the claim that it was stolen — which, if falsified, generates double liability. The *shoel* pays only one hundred percent, never two hundred percent, but his *karna* — the basic principal obligation — is broader and more demanding, precisely because he has virtually no exemptions. *Karna deshoel adifa*: the *shoel*'s underlying liability exceeds that of the *shomer sachar*, even though he never pays *kefel*. Alternatively, the *gemara* offers a second resolution: *kasavar listim mezuyan gazlan hu* — one might hold that an armed robber (*listim mezuyan*) is not classified as a *ganav* at all but as a *gazlan*, a category that would not generate *kefel* liability in the first place. This is itself a *machloket* debated across multiple places in *Shas*.
+
+### Shoel vs. Shomer Sachar
+
+Having established the *shoel*'s liability for *gneiva ve'aveida*, the *gemara* asks the inverse: *ashkachan lachiyuv* — we have learned what obligates. *Liftor minalan* — how do we learn the exemption? That is, how do we know that when *ba'alav imo* obtains, the *shoel* is exempt even in cases of *shvura u'meta*?
+
+The attempt to derive this from *shvura u'meta* itself is challenged: *mah lishvura u'meta shekein ones* — the case of *shvura u'meta* involves a genuine unpreventable catastrophe, which has its own logic for generating exemption. The *gemara* therefore looks to the *shomer sachar* as the source. But *shomer sachar gufai minalan* — how does the *shomer sachar* himself acquire an exemption for *shvura u'meta*? The answer is: *gemiri chiyuvei deshomer sachar mechiyuvei deshoel* — the liabilities of a *shomer sachar* are derived from the liabilities of a *shoel*. The *gemara* thus proposes a cross-derivation: just as the *shoel* is exempt when the owner is present (*b'baalim patur*), so too the *shomer sachar* is exempt when the owner is present.
+
+At this point, the *gemara* invokes the principle of *dayo*: when something is derived by *kal vachomer* or by *hekesh*, the derived law cannot exceed the source. *Dayo lavo min hadin lihyot k'nidon* — whatever is concluded from the *drasha* can be no more expansive than the original case. Therefore: just as *gneiva ve'aveida* of a *shomer sachar* is exempt *b'baalim*, so too *gneiva ve'aveida* of a *shoel* is exempt *b'baalim*. The *dayo* principle constrains the derivation from expanding beyond what is explicitly present in the source case.
+
+The *gemara* then asks: what of those who do not accept the principle of *dayo*? *Ela l'man d'leit lei dayo* — for that opinion, how is the derivation structured? The answer: *amar kra v'chi yishal* — the Torah uses the letter *vav* at the opening of the section dealing with the *shoel*: *v'chi yishal*. The *vav*, as a conjunction linking the *shoel*'s section to the preceding section on the *shomer sachar*, allows bidirectional learning. *Vav mosif al inyan rishon v'yilamed elyon mi'tachton v'tachton me'elyon*: we can learn the upper case (*shomer sachar*) from the lower case (*shoel*), and the lower case from the upper case. This resolves the need for *dayo* by grounding the derivation in the structure of the *pesukkim* themselves.
+
+## Ba'alav Imo Exemption
+
+### Gezerah Shava Derivation
+
+Having established the *shoel*'s liability for *gneiva ve'aveida* through *kal vachomer*, the *gemara* derives the *shoel*'s exemption when *ba'alav imo* applies by learning from the *shomer sachar* through a *gezerah shava*-style comparison. The *shomer sachar* is exempt for *gneiva ve'aveida* when the owner is present; since the *shoel*'s liability for *gneiva ve'aveida* was itself derived from the *shomer sachar*, the exemption of *ba'alav imo* must travel back along the same path. *Mah gneivah v'aveidah b'shomer sachar b'baalim patur, af gneivah v'aveidah shoel nami b'baalim patur* — just as a *shomer sachar* who is normally liable for *gneiva ve'aveida* is exempt when *ba'alav imo*, so too a *shoel* is exempt for *gneiva ve'aveida* when the owner is present. And by extension, since the *shoel* is exempt for *gneiva ve'aveida ba'alav imo*, he is certainly exempt for the more catastrophic cases of *shvura u'meta* as well, which are greater *ones*.
+
+This leads to a striking result: *ba'alav imo* is a sweeping exemption for the *shoel*. The *shoel* normally bears the highest level of *shmirah* liability — liable even for *ones* — yet the single fact of the owner's presence essentially nullifies all liability. This is one of only two exemptions available to the *shoel* (the other being *metah machmat melacha*, where the animal dies in the normal course of the borrower's work), and it is remarkably broad in its reach.
+
+### Principle of Dayo
+
+The *gemara* raises the concern that the *dayo* principle might constrain the cross-derivation. As noted, *dayo* limits what can be learned through *kal vachomer* or *hekesh* to no more than what was already established in the source case. The question is whether *dayo* applies here in a way that would prevent the *shoel*'s exemption from being derived from the *shomer sachar*'s exemption in *ba'alav imo* cases beyond *gneiva ve'aveida*. An extensive treatment of *dayo* appears in Bava Kamma. *Dayo lavo min hadin lihyot k'nidon* — the derived conclusion must mirror the source.
+
+For those who accept *dayo*, the *ba'alav imo* exemption is learned carefully through the *shomer sachar* case: just as *gneiva ve'aveida* for *shomer sachar* is *b'baalim patur*, so too for *shoel*. The principle does not permit extending the exemption further than what is explicitly established in the source.
+
+### Vav Conjunctions
+
+For those who do not hold of *dayo*, the *vav* of *v'chi yishal* provides an independent basis for bidirectional learning. The conjunction connects the *shoel*'s section to the *shomer sachar*'s section, allowing the Torah's rulings to flow in both directions. *Vav mosif al inyan rishon v'yilamed elyon mi'tachton v'tachton me'elyon* — the *vav* supplements the preceding subject, permitting us to learn the upper case from the lower case and vice versa. This is the mechanism for deriving the *shoel*'s exemption of *ba'alav imo* without relying on *dayo* at all. Both directions of learning — from *shoel* to *shomer sachar* and from *shomer sachar* to *shoel* — are grounded in the structure of the *pesukkim*.
+
+## Peshiah B'Baalim
+
+### Rav Acha vs. Ravina
+
+Having established the scope of *ba'alav imo*, the *gemara* turns to a harder question: *itmar peshiah b'baalim* — what is the *halacha* regarding *peshiah*, outright negligence, when the owner is present? Does *ba'alav imo* exempt a *shoel* even when his loss of the animal resulted from his own gross negligence? On this, *pligi bah Rav Acha u'Ravina* — Rav Acha and Ravina disagree. One holds *chayav*, and one holds *patur*.
+
+### Peshiah Not Exempted
+
+The opinion that holds *chayav* — that the *shoel* remains liable for *peshiah* even when *ba'alav imo* — reasons as follows: *mikra nidrash l'fanav* — a *pasuk* is interpreted to apply to what is directly adjacent, one step removed, but not *l'fne fanav*, two steps removed. The Torah's structure places *shomer chinam* first, *shomer sachar* second, and *shoel* third. The exemption of *ba'alav imo* is written in connection with *shomer sachar* and *shoel* and cannot be extended back to *shomer chinam*. *Peshiah*, however, is the liability of a *shomer chinam* — it is the *shomer chinam*'s baseline obligation, which is then applied to *shomer sachar* and *shoel* by way of *kal vachomer*. Since the *ba'alav imo* exemption does not reach *shomer chinam*, and *peshiah* enters the liability of *shomer sachar* and *shoel* only through a *kal vachomer* from *shomer chinam*, the *ba'alav imo* exemption cannot neutralize a liability that traces its source to a *shomer* category to which *ba'alav imo* does not apply.
+
+More precisely: *hanach chiyuva d'ktiv behu b'hedya hu d'miftar b'hedya* — only those liabilities explicitly written in the Torah with respect to *shoel* and *shomer sachar* fall within the *ba'alav imo* exemption. *Peshiah*, which arrives by way of *kal vachomer* from *shomer chinam*, does not fall within the explicit ambit of *ba'alav imo*. Therefore, the *shoel* who is negligent while the owner is present remains *chayav*.
+
+### Peshiah Exempted
+
+The opposing opinion holds *patur* — *ba'alav imo* does exempt *peshiah*. This position maintains *kasavar mikra nidrash l'fanav u'l'fne fanav* — a *pasuk* can indeed be interpreted two steps removed. The *ba'alav imo* exemption can therefore reach all the way back to *shomer chinam*, and since it applies even to *shomer chinam*, *peshiah ba'alav imo* is fully exempt across all three categories of *shomrim*, including *shoel*. The exemption of *im ba'alav imo lo yishalem* is thus read as applying even to *shomer chinam*, which brings *peshiah* — the *shomer chinam*'s foundational liability — within its scope. This is the *machloket Amoraim* between Rav Acha and Ravina.
+
+## Mishnah Analysis
+
+### Four Mishnah Cases
+
+The *gemara* introduces the *mishnah* directly: *tnan hashoel para v'sha'ala ba'aleha ima* — if one borrows the cow and also asks the owner to work alongside, *hashoel hapara v'sachar ba'aleha ima* — or one borrows the cow and hires the owner, *sha'al ba'aleha o s'charan v'achar kach sha'al hapara* — or one first hired the owner and then borrowed the cow afterward — *v'meta patur*, the borrower is exempt. The *mishnah* thus presents the full matrix: borrowing the cow while the owner works alongside for free, borrowing the cow while hiring the owner, hiring the owner first and then borrowing the cow, and renting the cow while asking the owner to work alongside without pay.
+
+### Explicit vs. Derived
+
+One might notice that the *mishnah* mentions *shoel* and *socher* but omits *shomer chinam*. And it also omits *shomer sachar*. The *gemara* explains: *tana milta d'ktiv b'hedya b'kra katani* — the *tanna* of the *mishnah* includes only those cases that are written explicitly in the Torah. *D'atya midrasha lo katani* — cases derived through *drashot* are not enumerated in the *mishnah*. *Shomer sachar* and *shomer chinam* are categories whose *ba'alav imo* exemptions are derived through *drashot*, and therefore they are not spelled out in the *mishnah*. One might observe that this is not an entirely consistent principle across *Shas* — sometimes *chazal* preferred to include things learned from *Torah she'be'al peh* in the *mishnah*, reasoning that what is already in *Torah shebichtav* need not be repeated. The application here, however, is that only the explicitly textual cases appear.
+
+### Socher Liability
+
+The *gemara* then asks whose opinion the *mishnah* reflects, since it includes a *socher* — a renter. *Svara ha mani Rabbi Yehuda hi* — it sounds like Rabbi Yehuda's position. Rabbi Yehuda holds *socher k'shomer sachar dami* — a renter is treated like a paid guardian. This is somewhat counterintuitive: a *shomer sachar* is paid to watch an object without using it, while a *socher* pays to be permitted to use it. Yet Rabbi Yehuda equates their liability levels. If the *mishnah* reflects Rabbi Yehuda, it includes a liability level derived by *drasha* (since *shomer sachar* itself is derived from the *shoel* through *drasha*), which would undermine the principle just stated.
+
+The *gemara* then suggests the *mishnah* might instead reflect Rabbi Meir's view: *d'amar socher k'shomer chinam dami* — Rabbi Meir holds the *socher* is treated like a *shomer chinam*, with a lower liability threshold, exempt for *gneiva ve'aveida* and liable only for *peshiah*. Under this reading, the *mishnah*'s inclusion of *socher* amounts to inclusion of *shomer chinam*, which itself implies that the *ba'alav imo* exemption extends to *shomer chinam* and that *shomer sachar* follows by *kal vachomer*.
+
+The *gemara* further notes that Rabba bar Avuha transmits the *machloket* in reverse: under his version, Rabbi Meir is the one who equates *socher* to *shomer sachar*, and Rabbi Yehuda equates *socher* to *shomer chinam*. Either way, the *mishnah* can be read consistently with one of these positions, and the *machloket Amoraim* over whether *ba'alav imo* reaches *shomer chinam* (and thus *peshiah*) remains intact.
+
+## Rav Hamnuna Rejected
+
+### Rav Hamnuna's Conditions
+
+Rav Hamnuna restricts the *ba'alav imo* exemption considerably. In his view, a *shoel* is *l'olam chayav* — always liable — unless two very specific conditions are jointly satisfied. First, the *shoel* must be engaged in the precise labor for which the animal was borrowed: *ad she'tehei para v'choresh ba* — the cow must be actively plowing, or *chamor u'mechamer achareha* — the donkey being driven along. Second, the owner must be present and working with the borrower *mishe'as she'ila ad she'as shevura u'meisa* — from the moment of the borrowing all the way through until the moment of the injury or death. *Alma kasavar ba'alav imo akula milta mashma* — Rav Hamnuna reads *ba'alav imo* as requiring the owner's presence throughout the entire episode.
+
+### Rava's Challenge
+
+Rava challenges Rav Hamnuna from the *mishnah*. The *mishnah* states: *af al pi she'haba'alim osim melacha b'makom acher u'meisa patur* — even though the owner is doing his work somewhere else, if the animal dies, the *shoel* is exempt. The challenge is direct: *mai lav b'melacha acheres* — does this not mean the owner is doing a different kind of work? Rava reads it as: *lo b'osa melacha* — no, he is doing the same type of work but at a different location. Practically, the image is one of the owner walking slightly ahead of the animal, loosening the earth with a shovel (*d'ka marpei v'azil kama*) while the borrower drives the plow from behind — two feet away, doing the same job, but not standing right next to the animal.
+
+### Reisha & Seifa Analysis
+
+This interpretation creates a tension with the *seifa* of the *mishnah*, which states: if the borrower hired the owner *after* taking the animal, and the owner is plowing right next to the animal (*al gabbah*) when it dies, the *shoel* is *chayav*. The *gemara* resolves this: *amri reisha ve'seifa be'otah melachah* — both the *reisha* and the *seifa* are discussing the same type of labor. *Reisha le'rabuta ka mashma lan* — the *reisha* comes to teach us something novel: even though the owner is not standing right next to the animal but rather working at a different spot (*de'af gav de'lav al gabbah*), as long as it is the same type of labor and the owner was present *bishe'at she'elah* — at the time of the borrowing — the *shoel* is exempt. *Seifa le'rabuta ka mashma lan* — and the *seifa* comes to teach the converse: even though the owner is right there next to the animal (*de'af gav de'al gabbah*), if he was not present at the time the borrowing agreement was made, the *shoel* remains *chayav*. The crucial factor, Rava demonstrates, is not the owner's proximity at the time of the animal's death, but his presence at the moment of *she'elah*.
+
+## Ba'alav Imo Concepts
+
+### Three Explanations
+
+The discussion of Rava's rejection of Rav Hamnuna opens a conceptual question: what is the underlying rationale for *ba'alav imo*? Why should the owner's presence at the time of borrowing exempt a *shoel* who would otherwise bear the highest liability, even when that same owner is entirely absent at the time the animal is harmed?
+
+### Employment Model
+
+One explanation: once you have hired the owner to work alongside you, you cannot simultaneously be understood as a renter of the animal. The agreement to employ the laborer subsumes the transaction regarding the animal — the animal comes along as part of the labor arrangement, not as a standalone rental. In a sense, you hired the person, and the person brought his cow. The animal is incidental to the employment of the worker, not the other way around. This resonates with discussions elsewhere in the tractate (*pirkei* preceding this one) about workers who bring their own tools — in a similar way, if one hires a laborer, the laborer's equipment comes along as part of the package. The fundamental transaction is about the human labor, not about the animal.
+
+### Quasi-Ownership
+
+A third explanation: the reason a *shoel* bears such high liability in the first place is that he acquires a kind of quasi-ownership over the borrowed item by virtue of his permission to use it. His liability is, in a sense, commensurate with his ownership-like status. But when the actual owner is present, the borrower's quasi-ownership is negated — the real owner is there, his dominion is fully in force, and the borrower cannot be treated as a partial owner at all. This explanation works particularly well in combination with the employment model: if the fundamental agreement was about hiring the person rather than renting the animal, then the borrower's quasi-ownership over the animal never fully crystallized, and there is accordingly no *shoel* liability to speak of. These two models reinforce one another — and they also help explain why reversing the order matters: if you borrow the animal first and only afterward hire the worker, the foundational agreement was about the animal, the quasi-ownership has already attached, and no subsequent employment arrangement can undo it.
+
+## Hamnuna Rejected Further
+
+### Second Braitah
+
+Having refuted Rav Hamnuna's first condition through the *mishnah*, Rava brings a second *braita* to reject Rav Hamnuna's second requirement — that the owner's presence must persist from *she'elah* through to *shevura u'meta*. The *braita* states: *mimashma shene'emar im ba'alav imo lo yeshalem* — from the fact that the *pasuk* already says "if the owner is with him, he need not pay," I would already know the converse: if the owner is not with him, he must pay. Why then does the Torah also write *ba'alav ein imo shalem yeshalem*? The *braita* answers: *lomar lach haya imo besha'at she'eilah ein tzarich lihyot imo besha'at shevurah ve'metah* — it comes to teach that if the owner was present at the time of the borrowing, he need not be present at the time of the injury or death in order for the exemption to apply.
+
+### Rava's Conclusion
+
+The *braita* continues with the reverse formulation: from the positive statement (*im ba'alav imo lo yeshalem*) I know the owner's presence exempts; but what if he was only present at the time of injury but not at the time of borrowing? The *braita* teaches: *haya imo besha'at shevurah ve'metah, tzarich lihyot imo besha'at she'eilah* — presence at the time of injury is insufficient; the owner must have been present at the time of *she'eilah*. Presence at *she'elah* alone suffices; presence at the time of the death alone does not. This is Rava's definitive conclusion: *tiyuvta de'Rav Hamnuna tiyuvta* — Rav Hamnuna's position is comprehensively rejected. The *ba'alav imo* exemption hinges entirely on the owner's presence at the inception of the borrowing arrangement. Once that condition is met, the exemption endures regardless of whether the owner is present when the animal is eventually injured or dies.
+
+This conclusion is striking, since it means that in the vast majority of ordinary borrowing situations — where one goes to the owner's home, the owner hands over the animal, and the borrower takes it directly from the owner — the *shoel* would be exempt by virtue of *ba'alav imo*. Rava's reading makes the exemption remarkably broad in practical scope.
+
+## Abaye vs. Rava
+
+### Abaye's Position
+
+The *gemara* now returns to the *machloket* between Rabbi Yoshiya and Rabbi Yonatan from 94b, which Abaye and Rava respectively adopt as their interpretive frameworks. *Abaye savar lah ke'Rabbi Yoshiya umitaretz likra ke'Rabbi Yoshiya* — Abaye holds like Rabbi Yoshiya and reads the *pesukkim* accordingly. *Rava savar lah ke'Rabbi Yonatan umitaretz likra ke'Rabbi Yonatan* — Rava holds like Rabbi Yonatan and interprets the *pesukkim* in that manner.
+
+### Rava's Position
+
+Rabbi Yoshiya's interpretive method, as Abaye adopts it, requires an explicit textual basis for each distinct criterion — one cannot assume that a single *pasuk* teaches two separate conditions simultaneously. Rabbi Yonatan's method, as Rava adopts it, allows a single *pasuk* to carry multiple implications: unless the Torah specifies *yachdav*, any two criteria apply independently of one another.
+
+### Abaye's Criteria
+
+Abaye reads the two *pesukkim* as follows. The *pasuk ba'alav ein imo shalem yeshalem* — "if the owner is not with him, he must pay" — implies *ta'ama deleita betarvaihu*: the liability arises because the owner is absent at both relevant times, that is, both at the time of *she'elah* and at the time of *shevura u'meta*. One might therefore think that the exemption requires the owner's presence at both times. But the *pasuk im ba'alav imo lo yeshalem* — "if the owner is with him, he need not pay" — implies that the exemption applies when the owner is present at both times. The tension between the two *pesukkim* is resolved as follows: *ha ita bechada veleita bechada mechayev* — if the owner is present at one time and absent at the other, you might be *chayav* according to one reading and *patur* according to the other. Abaye resolves the tension by holding: *lomar lach haya imo besha'at she'eilah ein tzarich lihyot imo besha'at shevurah ve'metah* — if the owner was present at the time of borrowing, he need not be present at the time of injury for the exemption to apply. But crucially — and this is Abaye's distinctive position — the converse also holds: *haya imo besha'at shevurah ve'metah, tzarich lihyot imo besha'at she'eilah* — if the owner was present only at the time of injury and not at the time of borrowing, the *shoel* is still *chayav*. For Abaye, the exemption is triggered only by presence at *she'elah*, but his reading of the *pesukkim* reflects Rabbi Yoshiya's methodology, requiring explicit derivation for each criterion separately.
+
+### Rava's Criteria
+
+Rava reads the same *pesukkim* differently, following Rabbi Yonatan. *Mashma de'ita betarvaihu* — from *im ba'alav imo lo yeshalem*, one might read that the exemption requires the owner's presence at both times. *Mashma nami dechi ita bechada velo ita bechada patur* — and from the same *pasuk*, one could also read that presence at even one of the two times suffices for exemption. These two readings pull in opposite directions. The tension is resolved by *lomar lach* — the Torah is teaching: *haya imo besha'at she'eilah ein tzarich lihyot imo besha'at shevurah ve'metah* — presence at the time of *she'eilah* alone generates the full exemption, and the owner need not be present at the time the animal is harmed. Conversely, *haya imo besha'at shevurah ve'metah tzarich lihyot imo besha'at she'eilah* — presence only at the time of the animal's death, without prior presence at *she'elah*, does not exempt the *shoel*. For Rava, following Rabbi Yonatan's principle that a *pasuk* teaches multiple independent criteria simultaneously, a single *pasuk* suffices to establish both the primacy of *she'elah* and the dispensability of presence at the time of injury. The bottom line is identical to Abaye's in practical outcome — only *she'elah* matters — but the derivational logic differs, rooted in their respective allegiances to Rabbi Yoshiya and Rabbi Yonatan.

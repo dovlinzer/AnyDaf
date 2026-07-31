@@ -1,4 +1,5 @@
 # Niddah 46 — Daf Yomi Shiur
+[DAF:46a]
 
 ## Mishna Redundancy
 
@@ -346,6 +347,7 @@ The biblical source is *ish ki yafli lindor neder* — if a man enunciates a vow
 
 Rav Huna bar Yehuda brings a *baraita* in apparent support of this position. The *baraita* states: the Torah treats a minor like an adult with respect to willful violation of an oath (*zadon shevuah*), with respect to the prohibition, and with respect to *lo yachel*. However, the *baraita* continues: one might have thought the minor is also obligated to bring a *korban* (sacrifice) for an unwitting violation (*shogeg*). Therefore, the Torah writes *zeh ha-davar* — "this is the matter" — limiting the parallel to the area of prohibitions, but not extending it to *korbanos*. The minor is treated as an adult for the oral acts and their prohibitions, but not for the sacrificial consequences.
 
+[DAF:46b]
 ### Bal Yachel Issue
 
 > **Hebrew/Aramaic:** לְפִי שֶׁמָּצִינוּ שֶׁהִשְׁוָה הַכָּתוּב הַקָּטָן כַּגָּדוֹל לִזְדוֹן שְׁבוּעָה וּלְאִיסָּר וּלְבַל יַחֵל, יָכוֹל יְהֵא חַיָּיב עַל הֶקְדֵּשׁוֹ קׇרְבָּן?

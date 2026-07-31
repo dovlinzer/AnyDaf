@@ -1,6 +1,6 @@
 # Avodah Zarah 56 — Daf Yomi Shiur
 
-## When Does Juice Become W…
+## Grape Juice to Yayin
 
 ### Wine Processing Overview
 
@@ -14,7 +14,7 @@ The *mishna* establishes that grape juice does not become *yayin nesech* until i
 
 Against the *mishna rishona*, the *gemara* introduced the position of Rav Huna: *keivan she'hitchil lehimashech* — from the moment the juice begins to flow, it acquires the status of *yayin* and becomes forbidden, even before it reaches the *bor*. The *gemara* sought initially to reconcile this with the *mishna* but ultimately concluded that Rav Huna's ruling represents a later revision — *mishna achrona* — that supersedes the earlier position. The tradition records an evolution: first the ruling was *b'dad*, then *b'dabbah*, reflecting successive tightenings of the standard.
 
-### Tosafos: Pooling vs. Lea…
+### Tosafos: Hitchil vs Pool
 
 Tosafos engages a fine-grained question about the precise meaning of *hitchil lehimashech*. Does this threshold require that the liquid actually exit the barrel — that it literally "begin to flow" outward — or is it triggered even earlier, when juice merely pools at the bottom of the pressing barrel before leaving it? The plain sense of the word *lehimashech* — to be drawn out — suggests the former: actual egress from the barrel. But if a small barrel is being used and the juice might sometimes pool at the bottom without escaping, whether that would already constitute a problem is a live question. What is clear, at minimum, is that as long as the juice is entirely mixed in with the grape mass and has not pooled at all, it is certainly not yet *yayin*.
 
@@ -42,17 +42,17 @@ The *gemara* then raises a further question: *kipui debor o kipui dechavis* — 
 
 A proof is adduced from a *baraisa*: *yayin misheyikpeh* — and yet, *af al pi shekappah*, even after the skins have floated, one may still draw wine from the upper *gat* or from the *tzinor* and drink it without having separated *terumos u'ma'asros*. The inference is clear: since the *baraisa* contrasts the floating stage with the ability to still draw from the *gat* and *tzinor*, the *kipui* in question must be the floating *within the bor*. If *kipui* referred to floating in the barrels, there would be nothing remarkable about permitting the use of wine still sitting in the *gat* — that wine would be in an entirely different part of the process. The *gemara* concludes: *shema mina kipui debor ka-amran* — the floating in the cistern is what is meant.
 
-### Three-Stage Tannaim Deba…
+### Tannaim: Wine Obligation
 
 At this point the analysis is complicated by a second *baraisa*, taught in the name of Rabbi Oshaya, which sets out a different version of the debate. According to this *baraisa*, the *Tanna Kamma* does not simply say *misheyared labor*; rather, his position is *misheyared labor veyikpeh* — both the descent into the cistern and the floating of the skins are required. Rabbi Akiva, by contrast, holds an even later standard: *misheyishleh bachaviyos* — only when the wine is scooped into the storage barrels. Under this reading, every position has shifted one stage later. The first *baraisa* can be harmonized with this by reading *misheyared labor* in the first *baraisa* as also implying *veyikpeh* — the two are conflated — and Rabbi Akiva's position there likewise corresponds to the barrel stage.
 
 But this creates a new problem. Our *mishna* on *yayin nesech* holds that the wine becomes forbidden already at the simple *misheyared labor* stage, without any requirement of *kipui*. Under the revised reading of the *braitot*, no *tanna* holds that position for purposes of *terumos u'ma'asros*. The *gemara* therefore asks: *layma telata tannai hi* — should we conclude there is a three-way *tannaim* debate, with one position (the *bor* alone), a second (the *bor* plus floating), and a third (the barrels)? That would mean the position of our *mishna* on *yayin nesech* corresponds to a third *tanna* who also applies that earliest standard to *terumos u'ma'asros*.
 
-### Rava: Yayin Nesech Stric…
+### Rava: Yayin Nesech Rules
 
 The *gemara* offers an alternative: *shani yayin nesech de'achmiru bei rabbanan* — perhaps *yayin nesech* is simply more stringent, and the rabbis applied an earlier threshold uniquely to this domain. This would mean that even if no *tanna* holds the bare *bor* standard for *terumos u'ma'asros*, the rabbis set that stricter threshold for *yayin nesech* — or in this context, for *stam yeinam* (the rabbinic prohibition on wine handled by non-Jews). One might note that *terumos u'ma'asros* are themselves *de'Oraisa*, whereas *stam yeinam* is *derabbanan*, which makes the stricter treatment of the rabbinic prohibition in *yayin nesech* somewhat surprising — though not inconceivable given the particular gravity with which the rabbis treated the *avoda zara* context.
 
-### Three Positions Both Dom…
+### Three Tannaim Positions
 
 This is precisely where Rava's approach comes into focus. The *gemara* notes: *u'leRava de'lo shani leh* — Rava, who originally posed the contradiction between the two domains and sought to resolve it by assigning the positions to different *tannaim*, evidently did not accept the distinction between *stam yeinam* and *terumos u'ma'asros*. Had he been willing to invoke that distinction, he could have answered immediately: the *bor* standard applies only to *yayin nesech* because the rabbis were stricter there. Instead, Rava tried to map the positions onto each other across both domains. This means Rava would maintain that there are indeed three *tannaim* positions, and those three positions apply equally to both *yayin nesech* and *terumos u'ma'asros*. Tosafos further notes that once one factors in the *mishna achrona*'s position — *misheyachol lehimashech*, from when it begins to flow — there is arguably a still earlier fourth stage. Whether Rava would extend the parallel all the way to that position or treat it differently is worth considering, though the *gemara* does not resolve this fully.
 
@@ -104,11 +104,11 @@ The *gemara* is reluctant to commit to that conclusion, since *nitzok chibbur* i
 
 If one does accept *nitzok chibbur* as operative, a further question arises: why does the effect not travel further back — back through the *tzinor* and into the *gat* itself? The entire system, from *gat* to pipe to strainer to *bor*, is one continuous flow. Rashi's answer is that *nitzok bar nitzok* — a flow that derives from another flow — does not create a connection. The connection established by *nitzok* extends one degree, but not two. Tosafos explains that this second-degree quality arises from a change in the direction or character of the flow: the wine strikes the strainer, collects, and then exits from the side, so that the flow out of the strainer is not a direct continuation of the flow from above but rather a new, secondary stream emerging from the impact. In such a case, the second-degree connection does not propagate the prohibition further upstream.
 
-### Tosafos Example: Pouring…
+### Tosafos: Non-Jew Wine
 
 Tosafos applies this principle to a practical case that came before Rashi himself. A non-Jew poured wine from a *kankan* (a flask or pitcher) into a cup. Since the non-Jew's *kocho* — the force of his arm — drove the wine out of the *kankan*, the wine in the cup is forbidden. The wine remaining in the *kankan* is then also forbidden because of *nitzok*: the continuous stream connecting the *kankan* to the cup renders the contents of the *kankan* connected to the forbidden wine in the cup. Subsequently, a Jew drew wine from a large barrel into that same (now-forbidden) *kankan*. The question is whether the *nitzok* from the *kankan* to the barrel now renders the wine in the barrel forbidden as well. Rashi ruled leniently: this is *nitzok bar nitzok*, a second-degree flow, and the prohibition does not travel that far. The wine in the *kankan* remains forbidden, but the wine in the barrel is unaffected.
 
-### Nitzok Debate: Wine Stat…
+### Nitzok: Wine Status
 
 An alternative approach, distinct from Rashi's, rejects the framework entirely. This position argues that the question of why the prohibition does not travel back from the strainer all the way to the *gat* has nothing to do with *nitzok bar nitzok*. The answer is simpler: the juice in the *gat* is not yet *yayin*. Even direct contact with a non-Jew would not render it *yayin nesech*, because it lacks the legal status of wine. Naturally, then, *nitzok* — which presupposes that the connected substance is wine — cannot extend a prohibition to something that is not yet wine. Under this reading, the *chiddush* of the *gemara* is not about degrees of *nitzok* at all, but about the status of what is in the *gat*.
 
@@ -118,7 +118,7 @@ This generates a sharp conceptual divergence. Rashi's approach turns on the arch
 
 ---
 
-## Six-Year-Old Prodigy Sto…
+## Prodigy & Yayin Nesech
 
 ### Question: Stomp Together
 

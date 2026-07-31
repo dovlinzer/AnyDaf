@@ -1,4 +1,5 @@
 # Chagigah 20 — Daf Yomi Shiur
+[DAF:19b]
 
 ## Intro & Prior Review
 
@@ -82,6 +83,7 @@ The *Gemara* now introduces a new question by way of *Rav Mari*: *amar Rav Mari 
 
 The practical question this generates is the following. Consider a person who is not a *kohen*, who does not eat *korbanot*, who has not recently been in the *Beis Hamikdash* — in short, who eats only *chulin*, never *kodesh* in any literal sense. Yet every single thing he eats, he treats as though it were a *korban*. What is the status of his garments? Are they *midras* to *ochlei terumah* because, at the end of the day, he is a man who eats only *chulin b'taharah*? Or, since the level of care he exhibits is that of *al taharat ha-kodesh*, do we place him in that category — such that his clothes are entirely *tahor* for everyone except someone handling a *parah adumah*? This is the question of whether exhibiting a higher level of care can elevate a person into a higher social stratum, even without the technical act of eating *kodesh*.
 
+[DAF:20a]
 ### Category Inference
 
 > **Hebrew/Aramaic:** מִמַּאי — מִדְּלָא קָתָנֵי בְּהוּ מַעֲלָה.
@@ -250,6 +252,7 @@ A second, closely parallel incident follows. Again a woman came before *Rabbi Yi
 
 ## Barrel & Provision C (II)
 
+[DAF:20b]
 ### Barrel Distance Case
 
 > **Hebrew/Aramaic:** וְהָתַנְיָא: הֲרֵי שֶׁהָיוּ חֲמָרָיו וּפוֹעֲלָיו טְעוּנִין טְהָרוֹת, אַף עַל פִּי שֶׁהִפְלִיג מֵהֶן יוֹתֵר מִמִּיל — טַהֲרוֹתָיו טְהוֹרוֹת. וְאִם אָמַר לָהֶם: "לְכוּ וַאֲנִי אָבוֹא אַחֲרֵיכֶם״, כֵּיוָן שֶׁנִּתְעַלְּמוּ עֵינָיו מֵהֶן — טַהֲרוֹתָיו טְמֵאוֹת.

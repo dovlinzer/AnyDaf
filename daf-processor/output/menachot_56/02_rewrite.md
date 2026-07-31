@@ -80,7 +80,7 @@ The case where one person does both *arichah* and *afiyah* is the more conceptua
 
 ---
 
-## Mechametz Achar Mech (II)
+## Mechametz Achar Mechametz
 
 ### Universal Consensus
 
@@ -144,7 +144,7 @@ The verse cited in this context is *tamim yihiyeh le-ratzon* — "it shall be pe
 
 The *Gemara* asks: does *Rebbe Meir* not also hold by the verse *tamim yihiyeh le-ratzon*? He does — but he reads that verse differently.
 
-### Redeemed Animals Excepti…
+### Rebbe Meir: After Redemp.
 
 According to *Rebbe Meir*, *tamim yihiyeh le-ratzon* comes to exclude *psulei hamukdashim achar pidyon* — sanctified animals that bore a *mum*, were redeemed, and are no longer formally *kodshim* though they retain certain restrictions. *Rebbe Meir* holds that normally, even an already-blemished animal with *kedushah* remains subject to the prohibition of *matil mum*. However, once that animal has been redeemed — once its *kedushah* for the *mizbe'ach* has been formally dissolved — there is no longer any prohibition of creating a *mum* in it.
 

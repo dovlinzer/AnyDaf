@@ -20,7 +20,7 @@ The Gemara now cites a *baraita* of Rabbi Chanina brought specifically to suppor
 
 The critical asymmetry is this: *kefel* is triggered by witnesses; the *korban* and *chomesh* are triggered by admission. The *baraita* now distinguishes three scenarios based on the timing of each.
 
-### Admission Before Witnesses…
+### Admission by Witnesses
 
 If the bailee admitted to his false oath before witnesses arrived, he is exempt from *kefel* — since admission to a *knas* exempts one entirely, and crucially, according to this *baraita*, this exemption persists even if witnesses subsequently arrive. He pays only the *keren*, brings the *asham*, and adds the *chomesh*. The *kefel* is simply off the table.
 
@@ -46,7 +46,7 @@ The Gemara resolves this by proposing a case in which the value of the object de
 
 Rava objects that this need not be a proof for Rav at all. He proposes that the case can be read even where the value remained at four throughout. How? If the bailee took four separate oaths — pressed to swear repeatedly by the owner — then upon admission he would owe a *chomesh* for each oath separately. The verse uses the plural *chamishisav* — "its fifths" — indicating that multiple *chomeshim* can accrue on a single principal. In such a case, four *chomeshim* of one *zuz* each would total four *zuzim*, equaling the *kefel* of four. Hence Rabbi Yaakov's position can be explained without any change in the object's value and without reference to Rav's principle. The apparent proof for Rav is therefore dissolved.
 
-### Principal Triggers Chome…
+### Principal Payment Chomesh
 
 The upshot of the exchange is that all opinions agree: the *chomesh* obligation is triggered only when the base payment is the *keren*, not the *kefel*. Whether the *kefel* "subsumes" the *chomesh* (Rabbi Yaakov) or the *chomesh* obligation simply does not arise in a *kefel* case (the *chachamim*), the practical result is that no additional *chomesh* is paid.
 

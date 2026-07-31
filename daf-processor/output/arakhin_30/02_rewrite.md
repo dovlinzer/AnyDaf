@@ -116,7 +116,7 @@ The *mishnah* addresses two additional scenarios concerning how the two-year per
 
 The *gemara* observes that if negligent non-use counts toward the two years, then certainly active plowing should count. *Neirah mibaya* — is it even a question? If you let it lay waste and it counts, plowing should obviously count all the more so.
 
-### Improvements & Compensat…
+### Improvements & Redemption
 
 The *gemara* responds that the case of plowing represents a genuine *chiddush* requiring explicit statement. One might have thought: *salka da'ata amina amrinan lei, hav lei dmei pulchana* — we would tell the seller, fine, you may redeem the field, but pay the buyer for the plowing he has done. The field is now prepared for planting; the buyer invested labor and the seller will immediately benefit. Should the seller not compensate him for that improvement?
 

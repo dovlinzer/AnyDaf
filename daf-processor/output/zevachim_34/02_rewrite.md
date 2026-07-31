@@ -1,6 +1,6 @@
 # Zevachim 34 — Daf Yomi Shiur
 
-## Resh Lakish vs. R. Yocha…
+## Resh Lakish vs. Yochanan
 
 ### Verse Context
 
@@ -70,11 +70,11 @@ So Rava's conclusion is precise: you are not exempt from *tum'at basar* before *
 
 The Gemara now introduces a new *itmar* — a reported dispute — also between Resh Lakish and Rabbi Yochanan, but on a different topic. The case: *hama'aleh eiverei beheimah temei'ah agabei mizbe'ach* — someone who takes the limbs of a non-kosher animal, say a pig or a horse, and places them on the altar. Note carefully: this is not about meat that has become *tamei*. This is about a *beheimah temei'ah* — a non-kosher species — whose limbs are brought up to the *mizbe'ach*. What has such a person violated?
 
-### Resh Lakish's View
+### Resh Lakish's View (II)
 
 Resh Lakish says he receives lashes. The Torah states *min habakar umin hatzon takrivu es korbanchem* — from the cattle and the sheep you shall bring your sacrifices. Implicit in this positive command is: not from a horse, not from a pig. *Tehorah in, temei'ah lo* — a kosher animal yes, a non-kosher animal no. Resh Lakish further holds that *lav haba miklal asei lokin alav* — a negative prohibition implicit in a positive command still subjects the transgressor to lashes. This is a striking claim, one we have not encountered before in this context.
 
-### R. Yochanan's View
+### R. Yochanan's View (II)
 
 Rabbi Yochanan disagrees. He accepts the logical inference — *tehorah in, temei'ah lo* — but holds that *lav haba miklal asei ein lokin alav*. Since the prohibition is never stated explicitly as a "do not," but only exists as the implicit flip side of a positive command, it does not generate lashes.
 
@@ -148,7 +148,7 @@ Rabbi Yochanan's response in this version is telling. He pushes back on the fram
 
 ## Two Vessels Question
 
-### Case Setup
+### Case Setup (II)
 
 The Gemara now records a third version of a related question, attributed to Rabbi Yirmiyah of Difti. Here the question is not one that Resh Lakish posed to Rabbi Yochanan, but one that Abaye posed to Rabbah. The case: an animal is slaughtered and its blood is caught in *two separate vessels*. Nothing is invalid — neither the person nor the blood. A valid *kohen* then takes the blood from vessel one and performs *zerikah* on the wall of the altar. What is the status of the blood remaining in vessel two?
 

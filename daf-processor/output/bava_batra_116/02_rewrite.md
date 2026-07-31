@@ -1,6 +1,6 @@
 # Bava Batra 116 — Daf Yomi Shiur
 
-## Bnot Tzelofchad & Binyam…
+## Bnot Tzelofchad & Takanah
 
 ### Yerushah & Binyamin
 
@@ -22,7 +22,7 @@ The general rule, against which this *takanah* stands in contrast, is the inheri
 
 The Gemara rejects this. Even in the presence of the brothers, Tzelofchad's daughters step into their father's place and inherit alongside their uncles. His daughters are not competing with the brothers as daughters; they are representing their father. They inherit *as* Tzelofchad, taking the portion that would have been his had he lived.
 
-### Sons' Descendants Priori…
+### Sons Descendants Priority
 
 This leads to a broader principle: a son's descendants — even daughters — take priority over a daughter. The reason is that before passing to a daughter in the inheritance chart, one must first exhaust all descendants of the sons. The male line is followed as far down as necessary, and it is only when there are truly no descendants to be found anywhere in that line that the inheritance moves to a daughter.
 
@@ -156,7 +156,7 @@ In this particular case, however, because the community had imposed the renuncia
 
 ---
 
-## Tzelofchad's Three Porti…
+## Tzelofchad's Daughters
 
 ### Yotzei Mitzrayim Division
 

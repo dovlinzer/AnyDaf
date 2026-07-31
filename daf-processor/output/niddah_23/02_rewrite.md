@@ -1,6 +1,6 @@
 # Niddah 23 — Daf Yomi Shiur
 
-## Intro: Animal-like Fetus…
+## Intro: Miscarried Fetus
 
 ### Yoledet Status
 

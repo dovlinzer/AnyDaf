@@ -26,7 +26,7 @@ What then of Rabbi Yehuda's reading, where the curtains are taken literally as f
 
 Having resolved the internal difficulties of each position, the *Gemara* now returns to the event in Shlomo's time. The verse states that on that day the king sanctified the courtyard because the copper *mizbeach* was too small. The problem is that by Shlomo's time a new altar had already been built; why does the verse speak of the copper *mizbeach* as if it were still the relevant altar?
 
-### Sanctification Interpret…
+### Sanctification: Altar
 
 Two readings emerge, each reflecting the underlying position on altar dimensions.
 

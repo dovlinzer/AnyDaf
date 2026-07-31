@@ -1,4 +1,5 @@
 # Bava Kamma 17 — Daf Yomi Shiur
+[DAF:17a]
 
 ## Tam vs. Muad
 
@@ -230,6 +231,7 @@ Rava answers: the *Tanna* teaches an *av* and a *toladah*. Rashi explains: the *
 
 The *Gemara* presses further: if that is the structure — *av* and *toladah* — then look at the equivalent structure for *shein* in the next *mishna* (19b): *keitzad hashen mu'edet le'echol et hara'ui lah*, followed by *ha-behema mu'edet le'echol peirot veyerakot*. There the second line does not introduce a new part of the animal — it simply specifies that *ra'ui lah* means fruits and vegetables. The exceptions there are *ksut vekelim*. So what is the *av* and *toladah* in the *shein* structure? The *Gemara* notes that Rava's answer does not obviously extend to *shein*.
 
+[DAF:17b]
 ### Chaya vs. Behema
 
 > **Hebrew/Aramaic:** וְטַעְמָא מַאי? אָמַר רַב אָשֵׁי: תַּנָּא שֵׁן דְּחַיָּה, וְקָתָנֵי שֵׁן דִּבְהֵמָה. סָלְקָא דַּעְתָּךְ אָמֵינָא: ״וְשִׁלַּח אֶת בְּעִירֹה״ כְּתִיב, בְּהֵמָה – אִין, חַיָּה – לָא; קָא מַשְׁמַע לַן דְּחַיָּה בִּכְלַל בְּהֵמָה.

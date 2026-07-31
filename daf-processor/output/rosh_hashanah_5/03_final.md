@@ -1,4 +1,5 @@
 # Rosh Hashanah 5 — Daf Yomi Shiur
+[DAF:5a]
 
 ## Nissan/Bal Tacher Intro
 
@@ -76,6 +77,7 @@ Rav Sheshes offers an alternative reading. *Mai Pesach?* he asks — what does "
 
 But the Gemara challenges Rav Sheshes: if it is simply a *shelamim*, why was it necessary to specify? The Baraita has already listed *shelamim*. The answer is that there are two distinct cases: a *shelamim* that originates from a *Pesach* (*shelamim habaim machmat ha-Pesach*) and an ordinary *shelamim* (*shelamim habaim machmat atzman*). One might have thought — *salka daitach amina* — that since the animal originated as a *Pesach*, perhaps it retains a quasi-*Pesach* character: *ho'il u-machmat Pesach ka-atu, ke-Pesach dami*. Rashi explains this to mean that perhaps one would be *over* already at the first opportunity — at the very first *regel* — just as one transgresses by missing the fourteenth of Nissan. The Baraita therefore teaches that this is not so: once the animal has assumed the status of a *shelamim*, it follows the normal rules of *shelamim* and may be brought within three *regalim*.
 
+[DAF:5b]
 ### List Conceptual Issues
 
 Having established what Pesach means in the Baraita, one must step back and confront some of the conceptual difficulties that run through the entire list of obligations subject to *bal tacher*. The foundational verse — *ki tidor neder la-Shem Elokecha lo te'acher leshalmo* — speaks of one who makes a *neder*, a vow, and delays fulfilling it. Yet several items on the list sit uneasily with that framework.

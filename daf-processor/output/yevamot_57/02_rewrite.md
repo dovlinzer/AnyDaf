@@ -1,6 +1,6 @@
 # Yevamot 57 — Daf Yomi Shiur
 
-## Forbidden Marriage S (II)
+## Forbidden Marriage Status
 
 ### Daf Overview
 

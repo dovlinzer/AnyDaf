@@ -136,7 +136,7 @@ Furthermore, the *gemara* notes, the verse also establishes that the *par* is no
 
 Then Rebbi, in a second *braita*, applies these same rules to the *par v'seir* of *Yom Kippur*. The verse there also says *or u'vasar u'feresh*, and by *gezeirah shavah* of *or u'vasar u'feresh* (stated here by *Yom Kippur* and there by the *par kohen mashiach*), we learn that the *Yom Kippur par* too is cut into sections but not flayed before burning. This is precisely *gezeirah shavah* built on *gezeirah shavah*: from *olah* to *par kohen mashiach* via one *gezeirah shavah*, and from *par kohen mashiach* to the *par v'seir* of *Yom Kippur* via a second *gezeirah shavah*. Rava's proof is thus established without any of the problems Ravina raised.
 
-### Gezeirah Shavah → Kal Va…
+### Gezeirah Shavah & Kal
 
 With *gezeirah shavah* to *hekkesh* (debated by Rav Pappa) and *gezeirah shavah* to *gezeirah shavah* (established by Rava) now on the table, the *gemara* turns to the third combination in this column: *gezeirah shavah* followed by *kal vachomer*. May a law derived by *gezeirah shavah* serve as the basis for a *kal vachomer*?
 
@@ -150,7 +150,7 @@ The *gemara* notes a qualification: the first formulation of this argument relie
 
 The *gemara* accepts this reasoning. Starting from a *gezeirah shavah* and then applying a *kal vachomer* is permitted without reservation.
 
-### Gezeirah Shavah → Binyan…
+### Gezeirah Shavah & Binyan
 
 The fourth and final combination in the *gezeirah shavah* column is *gezeirah shavah* followed by *binyan av*. The *gemara* offers no resolution: *teiku*. The question remains open.
 
@@ -164,7 +164,7 @@ To summarize the *gezeirah shavah* column: *gezeirah shavah* to *hekkesh* — Ra
 
 The *gemara* now takes up the third column: derivations that begin with a *kal vachomer*. The first question is whether a law derived via *kal vachomer* may then become the basis for a *hekkesh*.
 
-### Kal Vachomer → Gezeirah…
+### Kal Vachomer & Gezeirah
 
 Simultaneously, the *gemara* addresses the second combination: *kal vachomer* followed by *gezeirah shavah*. Both are argued together through the same logical framework.
 
@@ -180,7 +180,7 @@ Similarly, for *kal vachomer* to *gezeirah shavah*: we know a *gezeirah shavah* 
 
 The *gemara* qualifies: the argument for *kal vachomer* to *hekkesh* depends on Rav Pappa's position. If one accepts that *gezeirah shavah* followed by *hekkesh* works, then *kal vachomer* (being stronger) certainly supports *hekkesh* as well. But if one rejects Rav Pappa — for instance, on the grounds that his proof case involved *ma'aser sheni*, which is *chullin*, and thus the restrictions of *kodshim* were never engaged — then we have no established instance of *gezeirah shavah* followed by *hekkesh* within *kodshim*, and the argument for *kal vachomer* followed by *hekkesh* also collapses. In that case, *teiku*.
 
-### Kal Vachomer → Kal Vacho…
+### Kal Vachomer Followed
 
 The third combination in the *kal vachomer* column is *kal vachomer* followed by *kal vachomer*. The *gemara* attempts to prove this is permitted.
 

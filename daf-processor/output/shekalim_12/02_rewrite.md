@@ -1,8 +1,8 @@
 # Shekalim 12 — Daf Yomi Shiur
 
-## Ketoret & Kli Share (III)
+## Ketoret & Kli Shares
 
-### Ketoret: Kli Shares Deba…
+### Ketoret: Shares Debate
 
 The discussion opens mid-tractate with the question of what is done with the *ketoret* — how it is desanctified and resanctified for use in the coming year. The *Gemara* records a debate over whether the *ketoret* must be prepared in a *kli shares* (a consecrated service vessel). Rabbi Yossi bar Rabbi Chanina holds that it must be made in a *kli shares*, while Rabbi Yehoshua ben Levi holds that this requirement does not apply.
 
@@ -24,7 +24,7 @@ The answer given is: *velo deShmuel hi?* — is this not itself Shmuel's positio
 
 ## Leftover Offerings
 
-### Shmuel: Redeem Unblemish…
+### Shmuel: Redeem Pure
 
 The *Gemara* now demonstrates Shmuel's leniency directly. The case: *hossiru temimim* — at the end of the year, unblemished animals remain that had been sanctified with public funds from the prior year. By Rosh Chodesh Nisan, the new year commences and these animals, purchased with the old year's *terumah* funds, can no longer be used. What is to be done? Shmuel rules: *nifdin temimim* — they are redeemed even though they are unblemished, which completely contravenes the standard rule that a *korban* may only be redeemed once it has acquired a *mum* (a blemish). Rabbi Yochanan disagrees: *lo nifdin kefsulei hamukdashim* — they are not redeemed as if they were disqualified offerings; rather, one waits until the animal acquires a *mum* and then redeems it in the normal manner.
 
@@ -62,7 +62,7 @@ The *Gemara* now arrives at today's *daf*, 12a, and the *mishnah* itself. *Hamak
 
 The rationale for this prescription reflects an important constraint. Even though the sanctification was the act of a private individual, and even though that individual's *ketoret* cannot actually be used for the Temple offering — since the *korban tzibur* must be purchased with public funds — the item cannot simply revert to *bedek habayit* either. As will emerge more clearly in the continuation of the *mishnah*, items that are fit for *korbanot* cannot simply be absorbed into the general *bedek habayit* pool without being channeled toward their proper purpose.
 
-## Ketoret & Kli Share (III)
+## Ketoret & Kli Shares (II)
 
 ### R. Akiva's Position
 
@@ -76,7 +76,7 @@ Rabbi Akiva therefore rules that the *ketoret* itself is handed directly to the 
 
 Ben Azzai objects to this approach and provides an alternative: *mafrishim mehen sechar ha'umnin* — one first sets aside the monetary amount to be paid to the workers; *umechallelin osam al hama'ot* — one then transfers the *kedushah* of the *ketoret* onto that money; *v'al ma'ot ha'umnin venotnim osam la'umnin bischaran* — one gives the *ketoret* to the workers as their wages now that it has been desanctified; *vechozrin velokechin osam mitrumah chadasha* — and then one repurchases the *ketoret* using new *terumah* funds. In this way, the workers are compensated, the *ketoret* is formally desanctified and resanctified with proper public funds, and it is now available for use in the Temple service.
 
-## Ketoret & Kli Share (III)s…
+## Ketoret & Kli Share (III)
 
 ### Ben Azzai's Objection
 

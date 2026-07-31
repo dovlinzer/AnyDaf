@@ -1,4 +1,5 @@
 # Shabbat 81 — Daf Yomi Shiur
+[DAF:80b]
 
 ## Objects & Measurements
 
@@ -58,6 +59,7 @@ Regarding the reed too thick or cracked for use as a quill: the *shiur* shifts t
 
 This raises a further question: normally in matters of food the operative measure is a *grogeret*, the size of a pressed date, which is smaller than an egg. Here we are measuring firewood, but the amount of firewood is calibrated to the amount of food being cooked. Why use an egg rather than a *grogeret* as the food standard? The answer, citing Rav Nachman, is that the Mishnah does not intend a full egg: *ke-grogeret mi-beitzah kalah* — the amount of firewood needed to cook a *grogeret*-sized portion of a chicken egg, beaten with oil in a pan. The egg is the type of food; the *grogeret* remains the measure of quantity. The *shiur* for the reed as firewood, then, is the amount needed to cook one *grogeret*-worth of scrambled chicken egg.
 
+[DAF:81a]
 ### Bone Spoon & Lock
 
 > **Hebrew/Aramaic:** מַתְנִי׳ עֶצֶם כְּדֵי לַעֲשׂוֹת תַּרְווֹד. רַבִּי יְהוּדָה אוֹמֵר: כְּדֵי לַעֲשׂוֹת מִמֶּנּוּ חָף.
@@ -204,6 +206,7 @@ The Gemara then resolves an apparent contradiction: if wiping with a previously 
 
 ## Grass & Witchcraft (II)
 
+[DAF:81b]
 ### Fields & Grass
 
 > **Hebrew/Aramaic:** אָמַר רַב הוּנָא: אָסוּר לִפָּנוֹת בִּשְׂדֵה נִיר בְּשַׁבָּת. מַאי טַעְמָא? אִילֵּימָא מִשּׁוּם דַּוְושָׁא — אֲפִילּוּ בְּחוֹל נָמֵי! וְאֶלָּא מִשּׁוּם עֲשָׂבִים, וְהָאָמַר רֵישׁ לָקִישׁ: צְרוֹר שֶׁעָלוּ בּוֹ עֲשָׂבִים — מוּתָּר לְקַנֵּחַ בּוֹ.

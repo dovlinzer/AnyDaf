@@ -18,13 +18,13 @@ On the question of a married woman, the *gemara* records a dispute. According to
 
 Before examining those conditions, a preliminary distinction is essential: the difference between *be-rabbim* and *al da'at rabbim*. *Be-rabbim* means the vow was made in public — *Rashi* defines the relevant quorum as ten people. *Al da'at rabbim* means the vow was made not merely on the basis of the individual's own *da'at* (intent or understanding) but in some sense on the basis of what the community would intend — it is grounded in communal, rather than personal, *da'at*.
 
-### Tosafot on husband annul…
+### Tosafot: Husband Annuls
 
 *Tosafot* observes that when it comes to the husband's power of annulment (*hafarah*), *al da'at rabbim* does not help. The mechanism of *hatarah* — going to a *chakham* to have a vow released — works by identifying an error in the vower's *da'at*: had I known this or that, I never would have made the vow; my intent was mistaken, and so the vow should be dissolved. If the vow is grounded not in my subjective *da'at* but in the community's *da'at*, that avenue is closed off, because the subjective circumstances that might have constituted my personal error are no longer operative. That is the power of *al da'at rabbim* in blocking *hatarah* by a *chakham*.
 
 But *hafarah* by a husband operates on an entirely different principle. The husband does not dissolve the vow by identifying an error in his wife's intent. He has a legal power, independent of *da'at* altogether, to declare that this vow cannot stand within the marriage. The wife's intent — whether completely certain or completely ambiguous — is irrelevant to this mechanism. And if the wife's *da'at* is irrelevant, substituting the community's *da'at* for hers changes nothing. Accordingly, *al da'at rabbim* provides no shield against a husband's *hafarah*.
 
-### Public vs. communal dist…
+### Be-Rabbim vs. Al Da'at
 
 *Be-rabbim*, however, may work precisely because it operates on a different logic altogether. When a vow is made in public, it is no longer a private matter between husband and wife. The vow has entered the public domain — it is a matter of public record, so to speak — and is thereby removed from the private relational sphere in which the husband's power of annulment operates. According to the opinions that *be-rabbim* functions in this way, it would block both *hafarah* by a husband and *hatarah* by a *chakham*, and it would do so without exception, since the mechanism is not about *da'at* at all.
 

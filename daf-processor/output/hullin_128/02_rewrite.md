@@ -74,7 +74,7 @@ Rav Ashi bar Rav Ika offers yet another framing, one that is admittedly a substa
 
 The underlying question is: only blood of *shechita* creates *hechsher*; blood flowing from a wound does not. The blood in this case came out between the cutting of the trachea and the cutting of the esophagus — before the *shechita* was complete. For the main body of the cow, there is no problem, since the cow will be covered by blood at the conclusion. But the dangling limb received only this early splatter, which was subsequently wiped away.
 
-### Continuous vs. End-Defin…
+### Shechita: Continuous/End
 
 This framing imports the earlier debate: *yeshno li-shechita mi-techilah ve-ad sof* — *shechita* is a continuous process from its beginning to its end — versus *eino li-shechita ela be-sof* — *shechita* is only formally defined at its conclusion. According to the first view, the blood that emerges mid-process is already blood of *shechita*, and therefore would create *hechsher*. According to the second view, the blood that came out before completion is merely blood of a wound.
 
@@ -144,7 +144,7 @@ The *Gemara* then asks: *ever min hachai de-mitamei mai kera* — what is the bi
 
 ## Ever Definition
 
-### Meat vs. Limb
+### Meat vs. Limb (II)
 
 Having established that *ever min hachai* conveys *tumah* while flesh alone (*basar min hachai*) does not, the *Gemara* now turns to the foundational question: how do we define what constitutes an *ever* for purposes of this *tumah*? The challenge it poses is direct: if *min ha-behemah* means "something from the animal died," why is it limited to a full limb? Perhaps even flesh alone that separates from a living animal should convey *tumah*? A *braisa* is invoked to address this.
 

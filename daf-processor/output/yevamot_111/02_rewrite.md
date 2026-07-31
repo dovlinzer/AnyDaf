@@ -22,7 +22,7 @@ The *Mishna* enumerates the cases. Two deaf brothers married to two sisters — 
 
 What is the *halakha*? *Harei elu pturot min ha-chalitza u-min ha-yibbum* — if one brother dies, the surviving brother is exempt from both *chalitza* and *yibbum*. Why? Because the women are each other's sisters — *achot ishto* — and since everything operates within the shared universe of *nissuei cheresh*, that exemption applies, and the woman simply goes free. But *ve'im hayu nokhriyot* — if the women were not related to one another — then the surviving brother has an obligation of *yibbum* or *chalitza* toward his deceased brother's wife, since she is his *yevamah* within the rabbinic world. When the women are unrelated, the *achot ishto* exemption does not apply, and the obligation remains.
 
-### Chereshet Cannot Do Chal…
+### Chalitza & Deaf Woman
 
 The *Mishna* says in that case: *yiknesu* — he may perform *yibbum*. But why does the text not also permit *chalitza*? Because in several of these configurations, the woman is herself a *chereshet*, and a *chereshet* cannot perform *chalitza*. Therefore *chalitza* is not discussed in this context — only *yibbum* is permitted.
 
@@ -76,7 +76,7 @@ Rav Chisda, citing Rav, provides the solution: *koneis et ha-chereshet u-motzi'a
 
 ## Marriage Status Inference
 
-### Deaf Quasi, Minor All/No…
+### Deaf Quasi, Minor All/No
 
 From Rav's solution — *yibbum* followed by a *get* for the *chereshet*, then *chalitza* for the *ketanah* — the *Gemara* draws an inference: *kasavar Rav chereshet kenuyah u-meshuyeret* — Rav holds that the marriage to a *chereshet* is a quasi-*kiddushin*, a definite but partial relationship. *Ketanah kenuyah ve-einah kenuyah* — and the marriage to a *ketanah* is an all-or-nothing proposition: either one hundred percent married or not married at all. Counterintuitively, the *ketanah*'s marriage is the *safek* — all or nothing — while the *chereshet*'s marriage is the fifty percent. The *Gemara* now demonstrates this through a counterfactual.
 
@@ -172,7 +172,7 @@ The *Mishnah* then considers the case where the two marriages are of *clearly* d
 
 *Ba yavam al ha-pikachat ve-chazar u-va al ha-chereshet* — if he began with the hearing woman, performing a full *de-oraita yibbum*, and then had relations with the *chereshet*: *lo pasal et ha-pikachat* — the second act does not impair the first. Once a full *de-oraita yibbum* has been completed, nothing in the rabbinic domain can undo it. The same applies to *gedolah* before *ketanah*: *lo pasal et ha-gedolah*.
 
-### Weaker First, Stronger S…
+### Weak First, Strong Second
 
 *Ba yavam al ha-chereshet ve-chazar u-va al ha-pikachat* — if he began with the *chereshet* (the rabbinic marriage) and then had relations with the *pikachat*, or if his brother did: *pasal et ha-chereshet* — this does impair his relationship with the first woman. The second act was a stronger, *de-oraita* act of *yibbum*, which retroactively overshadows the weaker rabbinic relationship. Even if the *bi'ah* with the *pikachat* involved some element of *bi'ah pesulah* — since he was in some relationship with her co-wife — it certainly works *de-oraita* and now undermines the prior weaker relationship. The same logic applies symmetrically to *ketanah* and *gedolah*: beginning with the *ketanah* and then having relations with the *gedolah*, *pasal et ha-ketanah*.
 

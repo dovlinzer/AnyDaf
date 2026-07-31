@@ -72,7 +72,7 @@ This split ruling is puzzling. The reason the produce could not be eaten was tha
 
 ---
 
-## Removing Tumah, Keeping…
+## Tehurim mil'Tamei
 
 ### Rabbah: Asurin L'Zarim
 
@@ -182,7 +182,7 @@ The *gemara* concludes this section by noting that all the evidence marshaled fa
 
 ---
 
-## Water Sanctification Pro…
+## Reish Lakish: Mei Chag
 
 ### Mei Chag Hashaka
 

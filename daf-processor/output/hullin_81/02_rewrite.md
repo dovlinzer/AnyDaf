@@ -1,6 +1,6 @@
 # Hullin 81 — Daf Yomi Shiur
 
-## Oto Ve'et Beno & Unfit S…
+## Oto Ve'et Beno & Shechita
 
 ### Yesterday's Review
 
@@ -32,7 +32,7 @@ That logic does not apply here at all. If one brought this *korban* on the seven
 
 *Rashi* attempts to read this as the classic formulation where the positive *mitzvah* fixes the negative, but for all the reasons stated — it does not fix anything, and the very language of the Gemara emphasizes the transgression of the positive *mitzvah* rather than any remedial function — this reading is difficult to sustain.
 
-### Rabbi Avtolkai's Contrad…
+### Avtolkai's Contradiction
 
 The Gemara then notes that the verse cannot simply be used to establish this prohibition-as-positive-commandment because one needs it to resolve the contradiction raised by Rabbi Avtolkai: *d'Rabbi Avtulki rami*. One verse states *vehaya shivat yamim tachat imo* — "it shall be seven days under its mother." From this one might infer that by nightfall of the seventh day, once seven full days have passed, the animal is eligible to be brought as a *korban*. Yet another verse states *miyom hashmini vahal'ah yeratzeh* — "from the eighth day onward it shall be acceptable" — implying that the preceding night does not suffice; only the day itself qualifies.
 
@@ -40,7 +40,7 @@ The Gemara then notes that the verse cannot simply be used to establish this pro
 
 The resolution is: *laila likdusha, yom l'hartza'ah* — the night can be used for sanctification (*hekdesh*), while bringing the *korban* itself must wait for the day. The *chiddush* is not simply that one may not bring an animal at night — that is a general rule. The *chiddush* is that one may sanctify the animal the preceding night. One might have thought that since the animal cannot be brought that night, it still has the status of *mechussar zman* and therefore cannot be sanctified. The verse teaches otherwise: since the night is legally connected to the following day, and on that day the animal will be fit, it is already sufficiently "in its time" to be sanctified. The nighttime is *lo mechussar zman* — not considered outside its designated time. The animal cannot be brought because of the general prohibition against night-time Temple service, but it is already temporally fit.
 
-### Tosafot's Alternative Vi…
+### Tosafot: Night Disqualif.
 
 *Tosefos* is troubled by this explanation, because the Gemara elsewhere seems to permit sanctifying (*making hekdesh*) even a fetus still in the womb, suggesting that one can generally be *makdish* an animal long before it is fit to be brought. If so, what is the novel ruling that one may be *makdish* on the preceding night? *Tosefos* notes a parallel Gemara in *Zevachim* and concludes that, at least in this context, the *chiddush* is the opposite: the night is itself an instance of *mechussar zman*. The verse is teaching that the night before the eighth day is still considered *mechussar zman* — which matters in the specific context of a *bamah* (a private altar), where *korbanot* could generally be brought at night, yet an animal that is *mechussar zman* could not.
 
@@ -50,7 +50,7 @@ This reading runs in the opposite direction from the other Gemara on the subject
 
 The Gemara resolves this by pointing to another verse: *ken ta'aseh lishorcha v'litzonecha* — "so shall you do for your ox and your sheep." This verse, appearing in the context of the law of the eighth day, restates the obligation as a freestanding positive commandment: wait until the eighth day. It is from this verse that one derives the positive *mitzvah* requiring one to refrain from bringing the animal before its time. And as *Tosefos* explained, it is this explicit positive commandment that governs *mechussar zman* in place of the generic *lo yeratzeh*, which is why no *malkos* apply.
 
-## Does Oto Ve'et Beno Appl…
+## Oto Ve'et Beno: Sacrifice
 
 ### Rav Hamnuna's Report
 
@@ -70,7 +70,7 @@ The *baraita* states: if one *shachts* two sacrifices outside the *Beit HaMikdas
 
 Now, implicit in this *baraita* is that Rabbi Shimon accepts that *oto ve'et beno* applies to *Kodashim*. The reason the second animal cannot be brought today is precisely the restriction of *oto ve'et beno*. If *oto ve'et beno* did not apply to *Kodashim*, the second animal would be entirely unrestricted, and one bringing it outside the *Beit HaMikdash* should incur full *karet*. This directly contradicts the assertion that *oto ve'et beno* does not apply to *Kodashim* according to Rabbi Shimon.
 
-### Both Outside (Kodashim B…
+### Both Sacrifices Outside
 
 Rava (or, in another formulation, an anonymous tradition) resolves the difficulty by invoking the principle of *chasurei mechasra vehachi katani* — the *baraita* is incomplete and must be read with additional material. The *baraita* must be understood as addressing two distinct scenarios.
 
@@ -86,7 +86,7 @@ Second ordering — the first *korban* is slaughtered inside the *Beit HaMikdash
 
 And yet — even after this elaborate reconstruction of the *baraita*, the same difficulty remains. If Rabbi Shimon truly holds that *oto ve'et beno* does not apply to *Kodashim* because *shechitat Kodashim* is a *shechitah she'einah re'uyah*, then whenever the first *korban* is a valid *shechitah kasher* inside the *Beit HaMikdash* (meaning no *oto ve'et beno* restriction operates), the second animal brought outside should incur full *karet* — not merely a *lav*. But the *baraita* attributes only a *lav* to Rabbi Shimon. The rewriting of the *baraita* has not resolved the core tension. We are left exactly where we started.
 
-## Rava's Resolution on Kod…
+## Rava: Slaughter & Blood
 
 ### Rava Reinterprets
 
@@ -104,11 +104,11 @@ The Gemara states explicitly: *u-ve-idan de-ka-shachit havei hasra'at safek, ve-
 
 This is a more coherent position than the earlier one. Rather than declaring that *shechitat Kodashim* never counts as a *shechitah*, Rava says it does count — conditionally. And the reason one never receives *malkos* for *oto ve'et beno* by *Kodashim* is not that the prohibition does not apply, but that the technical conditions for administering *malkos* can never be met at the moment of the transgression.
 
-### Application to Oto Ve'et…
+### Oto Ve'et Beno: Sacrifice
 
 With this framework in place, the Gemara applies Rava's reasoning. *Oto ve'et beno* does apply to *Kodashim* according to Rabbi Shimon. However, *malkos* will not be available whenever the second animal is a *korban*, because at the moment of *shechitah* it is unknown whether the blood will be sprinkled and whether the act will retroactively qualify as a *shechitah*. By contrast, if the first animal was a *korban* and the blood was sprinkled, by the time one comes to *shecht* the second animal, one knows retroactively that the first *shechitah* counted. If the second animal is *chullin*, then upon *shechitah* of the second animal one does transgress *oto ve'et beno* fully, and since the *shechitah* of *chullin* immediately renders the meat permissible, there is no *hasra'at safek* problem for the second act. This now also explains the *baraita*: when Rabbi Shimon says the second animal (*korban* outside the *Beit HaMikdash*) incurs a *lav* but not *karet*, this is because the prohibition of *oto ve'et beno* does apply, limiting the eligibility of the second animal. The *Beit HaMikdash* is closed to it today by virtue of *oto ve'et beno*, and therefore while one transgresses a *lav* by slaughtering it outside, one does not incur *karet* — entirely consistent with Rabbi Shimon's own framework.
 
-## Rava's Cases: Valid Slau…
+## Rava's Valid Slaughter
 
 ### Chullin Then Olah
 
@@ -144,7 +144,7 @@ In all of these cases, Rabbi Shimon exempts from *oto ve'et beno*, because in ea
 
 There are, however, cases upon which everyone agrees one does not transgress *oto ve'et beno*. If one *shachts* and the animal is found to be a *neveilah* — meaning the *shechitah* itself was botched, so that the act was not even a *shechitah* at all — all agree one is exempt. Similarly, *hanocher* (one who kills the animal without engaging the *simanim*) and *hame'aker* (one who tears out the *simanim* rather than cutting them) — in all such cases where the killing was not performed through *shechitah*, everyone agrees: *patur mishum oto ve'et beno*. One may have violated *tzar ba'alei chayim*, but *oto ve'et beno* requires a *shechitah*, and these acts do not qualify as one.
 
-## Slaughter for Idolat (II)
+## Slaughter for Idolatry
 
 ### Idolatry First
 
@@ -172,13 +172,13 @@ When is one *chayav* for *oto ve'et beno* even when the second *shechitah* was f
 
 The Gemara asks why Reish Lakish did not state this exception. The answer is that Reish Lakish holds a more expansive view of *kam lei bidrabba minei*: *keivan dechi asru bei patur, ki lo asru bei nami patur* — since were one warned for *avodah zarah* one would be exempt from *oto ve'et beno*, even without that warning, one is also exempt. According to Reish Lakish, the exemption is not a function of whether punishment is actually administered for the greater sin; it is a function of whether the sin itself — of sufficient severity — was committed. The very presence of the capital sin overshadows the lesser transgression, regardless of whether warning was given for it.
 
-## Greater Sin Overshadows…
+## Greater Sin Overshadows
 
 ### Rav Dimi's Report
 
 This dispute between Rabbi Yochanan and Reish Lakish is not limited to the case of *avodah zarah*. Rav Dimi, upon arriving from *Eretz Yisrael*, reported a parallel dispute that makes the underlying principle explicit. The question: if one commits *chayvei misos shogegin* — an act deserving the death penalty, performed unintentionally — or *chayvei malkiyos shoggegin* — an act deserving *malkos*, performed unintentionally — together with *davar acher*, some other liability (here a civil/monetary liability, *mammon*), is the lesser liability absorbed by the greater sin?
 
-### Yochanan: Punishment-Bas…
+### Yochanan: Real Punishment
 
 Rabbi Yochanan rules *chayav* — the civil liability is not absorbed. Since the person was not warned for the greater sin and in fact did not even perform it intentionally, there is no prospect of the greater punishment being administered. The principle of absorbing the lesser punishment only operates when one is actually being given the greater punishment. Here, where no greater punishment is forthcoming, the lesser liability applies in full.
 

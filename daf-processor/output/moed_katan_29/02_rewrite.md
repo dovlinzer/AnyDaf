@@ -1,6 +1,6 @@
 # Moed Katan 29 — Daf Yomi Shiur
 
-## Righteous Death & Atonem…
+## Righteous Death & Kaparah
 
 ### Women's Burial
 

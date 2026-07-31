@@ -1,6 +1,6 @@
 # Bava Kamma 3 — Daf Yomi Shiur
 
-## Avos & Toldos Framew (II)
+## Avos & Toldos Framework
 
 ### Four Categories
 

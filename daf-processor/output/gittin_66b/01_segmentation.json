@@ -10,12 +10,12 @@
       "micro_segments": [
         {
           "title": "Introduction and the Case of Two People Instructed to Write and Deliver",
-          "display_title": "Two People: Write & Deli…",
+          "display_title": "Two People Write/Deliver",
           "timestamp": "00:00"
         },
         {
           "title": "The Exception of Three People Instructed Only to Deliver Without Writing",
-          "display_title": "Three People: Delivery O…",
+          "display_title": "Three People: Delivery",
           "timestamp": "00:52"
         },
         {
@@ -30,7 +30,7 @@
         },
         {
           "title": "Ten People Instructed to Write: Distribution of Roles",
-          "display_title": "Ten People: Role Distrib…",
+          "display_title": "Ten People: Role Distrib",
           "timestamp": "04:34"
         },
         {
@@ -64,7 +64,7 @@
         },
         {
           "title": "Shmuel's Response: This Requires Further Investigation (Tzarich Talmud)",
-          "display_title": "Shmuel: Needs Investigat…",
+          "display_title": "Shmuel: Tzarich Talmud",
           "timestamp": "09:01"
         },
         {
@@ -132,7 +132,7 @@
       "micro_segments": [
         {
           "title": "The Case Where Witnesses Are Appointed Directly But Find Their Own Sofer",
-          "display_title": "Direct Witness Appointme…",
+          "display_title": "Witnesses Appoint Sofer",
           "timestamp": "25:30"
         },
         {
@@ -467,5 +467,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 0,
+  "amud_b_timestamp": "00:52",
+  "amud_b_micro_title": "Three People: Delivery O…",
+  "shiur_start_daf": 66,
+  "shiur_start_amud": "a"
 }

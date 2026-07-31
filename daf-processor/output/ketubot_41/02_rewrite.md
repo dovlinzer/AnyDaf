@@ -152,7 +152,7 @@ The Gemara next turns to our own *mishna* to challenge Rava's position. *Itivei*
 
 The Gemara then delivers a remarkable statement: *hai milta kashya ba le-Rabba ve-Rav Yosef esrin ve-tartin shanin* — this difficulty challenged Rabba and Rav Yosef for twenty-two years without resolution. The *Tosafot* raise an obvious question: if the difficulties were insurmountable, why not simply retract? All the evidence — the *korban shevuah* ruling and the *mishna* about inheritance — points toward Rabbi Shimon treating *knas* as *knas* even after *gemar din*. Why hold on to a tradition for twenty-two years if no reconciliation could be found? *Tosafot* answers: they evidently had a firm tradition that according to Rabbi Shimon, *gemar din* does in general convert *knas* to *mammon*. But they could not reconcile that tradition with the two exceptions — *korban shevuah* and the *mishna* about inheritance — for which the *knas* character clearly persists.
 
-### Rav Yosef's Answer
+### Two Exceptions
 
 After Rabba's twenty-two years as *rosh yeshiva*, he passed away and Rav Yosef assumed the position. Rashi notes beautifully that in order to honor Rav Yosef — who was the greater *baki* even if Rabba had been the sharper analyst — he was assisted *min ha-shamayim* in resolving the question that had stymied his predecessor. The answer came to him when he assumed the leadership of the *yeshiva*.
 

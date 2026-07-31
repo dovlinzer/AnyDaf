@@ -1,6 +1,6 @@
 # Sanhedrin 24 — Daf Yomi Shiur
 
-## Witness vs Judge Disqual…
+## Witness vs Judge Disqual
 
 ### Rav Dimi Intro
 
@@ -36,13 +36,13 @@ The *gemara* challenges this attribution: *ini?* — is this really what Reish L
 
 ---
 
-## Eretz Yisrael vs Bav (II)
+## Eretz Yisrael vs Bavel
 
 ### Mutual Respect Comparison
 
 Ravina resolves the rhetorical surprise of Reish Lakish's humble praise by reframing the *gemara*'s *ini* entirely: the point is not that Reish Lakish said something surprising, but that both Reish Lakish and Rabbi Meir — about whom Ulla said the same thing, *ke-ilu oker harei harim ve-tochenan zeh ba-zeh* — praised one another so extravagantly. *Hachi ka'amar*: come and see, *bo u-re'eh kama mechabevin zeh et zeh*, how much the scholars of Eretz Yisrael love and respect one another — unlike the scholars of Bavel, who are *charif* and harsh with one another.
 
-### Rabbi Yossi Humble Defer…
+### Rabbi Yossi Defers
 
 The *gemara* illustrates *mechabevin zeh et zeh* with a concrete case. There was a time when Rabbi — referring to Rebbe, the *Nasi* — declared that it is *asur* to *lehatmin*, to insulate, cold food before *Shabbat*. Rashi explains the reasoning: insulating cold food might lead to insulating hot food, which is *asur de-rabbanan*. Rabbi Yishmael bar Rabbi Yossi then said to him: my father, Rabbi Yossi, *hitir lehatmin et ha-tzonen* — explicitly permitted the insulation of cold food. Upon hearing this, Rebbe immediately retracted: *kvar hora zaken* — "a *zaken* has already ruled on this matter," and he accepted Rabbi Yossi's position. This is the model of *mechabevin zeh et zeh*: even though Rebbe held his own ruling, out of respect for Rabbi Yossi and love for his fellow scholars, he deferred.
 
@@ -114,7 +114,7 @@ The *gemara* then addresses a potential redundancy: if the *seifa* of the *mishn
 
 A parallel structural debate now emerges, this time concerning the temporal dimension of the *machloket*. Reish Lakish says: *machloket lifnei gmar din, aval le-achar gmar din divrei hakol ein yachol lachzor bo* — the dispute between Rabbi Meir and the Sages concerns what happens *before* the judgment is finalized. Once *gmar din* has occurred, everyone agrees that neither party can retract their acceptance of the *pasul* witnesses or judges. Concretely: if Reuven brings his father as a witness, Shimon accepts him, the father testifies, and Shimon loses the case, according to Reish Lakish Shimon can no longer invoke Rabbi Meir's position to challenge the father's testimony — the judgment is final.
 
-### Rabbi Yochanan Dispute A…
+### Yochanan's Counterpoint
 
 Rabbi Yochanan disagrees: *le-achar gmar din machloket* — even after the judgment has been rendered, the *machloket* between Rabbi Meir and the Sages remains live. That is, Rabbi Meir would hold that even after the judgment is finalized, a party could still challenge the *pasul* witnesses or judges he had previously accepted.
 

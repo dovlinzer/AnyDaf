@@ -10,22 +10,22 @@
       "micro_segments": [
         {
           "title": "The case of replenishing an eruv with same or different type of food",
-          "display_title": "Replenishing with Same/D…",
+          "display_title": "Eruv: Same/Different Food",
           "timestamp": "00:42"
         },
         {
           "title": "New residents and the requirement to inform them about the eruv",
-          "display_title": "New Residents & Notifica…",
+          "display_title": "New Residents & Eruv",
           "timestamp": "01:43"
         },
         {
           "title": "Rabbi Yehuda's position that notification is unnecessary for eruv chatzerot",
-          "display_title": "R. Yehuda: No Notificati…",
+          "display_title": "R. Yehuda: No Notifctn",
           "timestamp": "02:08"
         },
         {
           "title": "Distinguishing courtyard choice scenarios: when notification may or may not be required",
-          "display_title": "Two-Alleyway Courtyard I…",
+          "display_title": "Two-Alleyway Courtyard",
           "timestamp": "03:46"
         }
       ],
@@ -34,7 +34,7 @@
     },
     {
       "title": "The minimum quantity of food required for an eruv: shiur of two seudot versus grogeret per person",
-      "display_title": "Shiur: Seudot vs. Groger…",
+      "display_title": "Eruv: Seudot vs. Grogeret",
       "timestamp": "06:11",
       "micro_segments": [
         {
@@ -49,7 +49,7 @@
         },
         {
           "title": "Explanation that eighteen grogeret-sized portions equal two seudot worth of food",
-          "display_title": "Grogeret to Seudot Calcu…",
+          "display_title": "Grogeret to Seudot Math",
           "timestamp": "07:15"
         }
       ],
@@ -111,7 +111,7 @@
       "micro_segments": [
         {
           "title": "The problem of broken loaves: if permitted, some would give whole loaves, creating competition",
-          "display_title": "Broken Loaves & Competit…",
+          "display_title": "Broken Loaves & Comp",
           "timestamp": "19:02"
         },
         {
@@ -183,7 +183,7 @@
     },
     {
       "title": "Practical application: the halacha as codified in Shulchan Aruch and Rema's custom of community flour contribution",
-      "display_title": "Practical Halacha & Cust…",
+      "display_title": "Shulchan Aruch & Rema",
       "timestamp": "34:14",
       "micro_segments": [
         {
@@ -193,7 +193,7 @@
         },
         {
           "title": "Rema's interpretation that the whole loaf need not come from one contributor but from many giving flour",
-          "display_title": "Rema's Flour Interpretat…",
+          "display_title": "Rema: Flour from Many",
           "timestamp": "34:32"
         },
         {
@@ -212,7 +212,7 @@
     },
     {
       "title": "Transferring ownership via money: whether payment to a baker works versus payment to a private individual",
-      "display_title": "Money & Ownership Transf…",
+      "display_title": "Money & Ownership Xfer",
       "timestamp": "37:06",
       "micro_segments": [
         {
@@ -227,7 +227,7 @@
         },
         {
           "title": "Exception: money works with a private individual because they become a shaliach, not a vendor",
-          "display_title": "Private Individual Excep…",
+          "display_title": "Private Individual Agent",
           "timestamp": "38:35"
         },
         {
@@ -275,7 +275,7 @@
         },
         {
           "title": "The two-loaf principle: if buyer takes one pound's worth from thousand-dinar ox, butcher must slaughter",
-          "display_title": "Butcher Slaughter Princi…",
+          "display_title": "Butcher Slaughter",
           "timestamp": "41:22"
         },
         {
@@ -299,7 +299,7 @@
     },
     {
       "title": "The biblical rule that money effects kinyan and why the rabbis overrode it with the requirement of meshichah",
-      "display_title": "Biblical Kinyan & Rabbin…",
+      "display_title": "Kinyan: Biblical Rule",
       "timestamp": "48:06",
       "micro_segments": [
         {
@@ -400,12 +400,12 @@
         },
         {
           "title": "Debate between amoraim whether Rabbi Yehuda's 'when' statements represent disagreement or explanation",
-          "display_title": "Disagreement or Explanat…",
+          "display_title": "Disagreement/Explanation",
           "timestamp": "57:25"
         },
         {
           "title": "The mishnah on new residents creating apparent contradiction, potentially resolved by two-alleyway scenario",
-          "display_title": "New Residents Contradict…",
+          "display_title": "New Residents: Two Alley",
           "timestamp": "58:17"
         },
         {
@@ -652,5 +652,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "41:07",
+  "amud_b_micro_title": "Four Times of Year",
+  "shiur_start_daf": 80,
+  "shiur_start_amud": "b"
 }

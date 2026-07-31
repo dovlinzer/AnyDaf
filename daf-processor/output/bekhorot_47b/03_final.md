@@ -1,4 +1,5 @@
 # Bekhorot 47b — Daf Yomi Shiur
+[DAF:47a]
 
 ## Bat Kohen/Levi Exemption
 
@@ -94,6 +95,7 @@ We do not rule this way. The accepted *halacha* is that *bat kohen* and *bat Lev
 
 ## Paternity Uncertainty
 
+[DAF:47b]
 ### Kohen Case Setup
 
 > **Hebrew/Aramaic:** אִיתְּמַר: כֹּהֵן שֶׁמֵּת וְהִנִּיחַ בֵּן חָלָל — רַב חִסְדָּא אָמַר: הַבֵּן חַיָּיב לִפְדּוֹת אֶת עַצְמוֹ, רַבָּה בַּר רַב הוּנָא אָמַר: אֵין חַיָּיב לִפְדּוֹת אֶת עַצְמוֹ.

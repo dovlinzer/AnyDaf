@@ -130,7 +130,7 @@ The question of who the *yachid* is in this context is not entirely simple. It m
 
 Rav Yitzchak challenges the proposed placement directly: *vachi yachid koveia brachah le'atzmo*? — can an individual simply institute a new independent blessing for himself? The liturgy is fixed. An individual may insert language into an existing blessing at a designated point, but one does not simply add a new standalone *bracha* to the *Shemoneh Esrei* as a private person. Only a *tzibur* — or more precisely, the rabbinic institution acting on behalf of the community — has the authority to establish a new *bracha* in the liturgy.
 
-### Resolution: Shomea Tefil…
+### Resolution: Shomea Tefila
 
 Rav Yitzchak therefore offers a revised ruling: the *yachid* inserts *Aneinu* within *Shomea Tefillah*, the sixteenth blessing of the *Shemoneh Esrei* that serves as a general receptacle for personal petitions. Rav Sheshet concurs: *vekhen amar Rav Sheshet — b'Shomea Tefillah*. This is indeed our practice: in one's private *Shemoneh Esrei* on a fast day, even on *Tisha B'Av*, *Aneinu* is not said as a standalone *bracha* but is inserted within *Shomea Tefillah* without its closing formula (*chatimah*).
 

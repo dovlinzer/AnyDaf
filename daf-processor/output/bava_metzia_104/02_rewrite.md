@@ -1,6 +1,6 @@
 # Bava Metzia 104 — Daf Yomi Shiur
 
-## Irrigated Field/Makat Me…
+## Irrigated Field/Makat
 
 ### Mishna Setup
 

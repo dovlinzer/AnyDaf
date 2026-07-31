@@ -70,7 +70,7 @@ This explains why Ravina uses *pirsumei nisa* alongside *mitzvas kriya* rather t
 
 ---
 
-## Vocabulary Digressio (II)
+## Vocabulary Digressions
 
 ### Rare Hebrew Words
 
@@ -86,7 +86,7 @@ What is striking in all three cases is that the maidservant of Rabbi's household
 
 ---
 
-## Reading Continuity (III)
+## Reading Continuity
 
 ### Seirugin Breaks
 
@@ -104,7 +104,7 @@ The word *metateh* — broom, and the verb *le-tate*, to sweep — from the vers
 
 ---
 
-## Reading Continuity (III)
+## Reading Continuity (II)
 
 ### Rav Mona Measure
 

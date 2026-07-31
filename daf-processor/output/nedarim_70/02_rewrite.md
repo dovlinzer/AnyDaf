@@ -1,6 +1,6 @@
 # Nedarim 70 — Daf Yomi Shiur
 
-## Father & Groom Partnersh…
+## Father Groom Annulling
 
 ### Father's Death
 
@@ -110,7 +110,7 @@ This result is, on reflection, powerful evidence that the entire framework is fa
 
 The *mishna* then articulates the governing principle: *zeh haklal, kol she-lo yatz'ah li-reshut atzmah sha'ah achat* — the rule is that as long as she has never attained independent status for even a moment, the father retains continuous control. What would constitute independence for such a moment? Entry into *nisuin* followed by divorce or the husband's death; the death of the father himself; or the attainment of *bagrus*. If none of these has occurred — if she has passed through an unbroken chain of betrothal, divorce, and re-betrothal without ever exiting the father's domain — then *aviha u'va'al acharon mefirin nedareha*: the father and the current *arus* together annul her vows, regardless of how many intermediate *arusim* there have been.
 
-## Verse Derivation
+## Verse Derivation (II)
 
 ### Derivation Question
 

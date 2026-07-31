@@ -1,6 +1,6 @@
 # Rosh Hashanah 29 — Daf Yomi Shiur
 
-## Mitzvot, Kavanah, Bal To…
+## Mitzvot, Kavanah, Tosif
 
 ### La'atzeis vs. La'avor
 

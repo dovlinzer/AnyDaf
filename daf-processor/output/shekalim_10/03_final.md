@@ -1,4 +1,5 @@
 # Shekalim 10 — Daf Yomi Shiur
+[DAF:10a]
 
 ## Communal Funds Overview
 
@@ -282,6 +283,7 @@ Why the different weights? The string for the *parah adumah* must be heavy becau
 
 ## Staff Payments
 
+[DAF:10b]
 ### Sage Teachers
 
 > **Hebrew/Aramaic:** רַב יְהוּדָה בְשֵׁם שְׁמוּאֵל. תַּלְמִידֵי חֲכָמִים הַמְלַמְּדִין אֶת הַכֹּהֲנִים הִילְכוֹת שְׁחִיטָה הִילְכוֹת קַבָּלָה הִילְכוֹת זְרִיקָה נוֹטְלִין שְׂכָרָן מִתְּרוּמַת הַלִּשְׁכָּה.

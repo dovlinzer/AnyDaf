@@ -148,7 +148,7 @@ This raises a fundamental question in *lomdus*: what makes something an *avodah*
 
 The *Gemara* now reverses course. *Le'olam de'dami lekabbalah* — in truth, *noten bikli* is like *kabbalah*, and that is the correct reason for its status as an *avodah*. Necessity alone does not elevate an act into the category of *avodah*. The *Gemara* therefore rejects the necessity-based rationale and returns to the structural parallel.
 
-### Same Goal, Different Method
+### Kabbala vs Noten Bikli
 
 But what of the original objection — that *kabbalah* and *noten bikli* are mechanically different, one passive and one active? The *Gemara* dismisses it: *ravaihu kedushat kli hu* — both acts accomplish the same thing, namely getting the offering into the *kli* and thereby conferring *kedushat kli*. *Mah li mimila mah li kashakul ve'ramei* — what difference does it make whether it happens by itself or whether the *kohen* actively places it in? The end result — the *kometz* in a sanctified vessel — is identical. The means by which it gets there, whether the blood flows in or the *kometz* is placed, is not the defining criterion. What defines *kabbalah* as an *avodah* is that it is the act by which the relevant substance enters the vessel; *noten bikli* achieves precisely the same thing, and the difference in execution does not disqualify the parallel.
 
@@ -166,7 +166,7 @@ The *Gemara* turns to a new *mishna* concerning the *shtei halechem* — the two
 
 *Rabbi Yose omer: oto hachalah ve'oto haseder shechishav alav — pigul, ve'chayavin alav karet; veha'sheni pasul ve'ein bo karet.* Rabbi Yose rules that the specific loaf or column about which one harbored the improper intent becomes *pigul*, and one who eats from it is liable to *karet*. But the second loaf, toward which no improper thought was directed, is merely *pasul* — invalid — without *karet*. Rabbi Yose's position is consistent with his general approach: *pigul* attaches specifically to the object of one's intent, not to the collective.
 
-### Rabbis' Position
+### Rabbis' Position (II)
 
 *Ve-chachamim omrim: zeh va-zeh pigul ve-chayavin alav karet* — the Rabbis rule that both loaves become *pigul* and carry *karet*. When one performs the act with an improper *pigul* intent regarding any part of the offering, the entire offering is infected. The dispute thus turns on whether *pigul* can be atomized to the specific object of one's thought, or whether it attaches to the whole when the foundational act — the *shechitah* of the lambs — is performed with improper intent.
 

@@ -1,4 +1,5 @@
 # Pesachim 117 — Daf Yomi Shiur
+[DAF:116b]
 
 ## Suma Patur Haggadah
 
@@ -92,6 +93,7 @@ Third, the structure of the *seder* as one person reciting while others listen �
 
 The Mishnah proceeds to the phrase *v'nomar lefanav shira chadasha Hallelujah*, and the word *hallelujah* itself becomes the occasion for a brief but analytically rich digression into etymology and textual structure.
 
+[DAF:117a]
 ### One Word Debate
 
 > **Hebrew/Aramaic:** אָמַר רַב חִסְדָּא אָמַר רַבִּי יוֹחָנָן: ״הַלְלוּיָהּ״ וְ״כֵסְיָהּ״ וִ״ידִידְיָה״ — אַחַת הֵן. רַב אָמַר: ״כֵּסְיָהּ״ וּ״מֶרְחַבְיָהּ״ — אַחַת הֵן. רַבָּה אָמַר: ״מֶרְחַבְיָהּ״ בִּלְבַד.
@@ -372,6 +374,7 @@ Rav Chisda resolves the apparent discrepancy between the two versions of the dis
 
 Rabba bar Rav Huna resolves the same discrepancy according to his position that *hallelujah* is *reish pirka*. On this reading, the second *perek* properly opens *Hallelujah b'tzeis Yisrael miMitzrayim*. The one who says "until *eim habanim simchah*" is citing the last phrase of the first *perek* inclusively — *ad v'ad bichlal*, up to and including — meaning one does say *eim habanim simchah*. The one who says "until *b'tzeis Yisrael miMitzrayim*" means up to but not including — *ad v'lo ad bichlal* — so the second *perek*, which begins with *hallelujah*, is not recited before the meal.
 
+[DAF:117b]
 ### Kashia Unresolved
 
 > **Hebrew/Aramaic:** וְנֵימָא: עַד ״הַלְלוּיָהּ״, וְכִי תֵּימָא דְּלָא יָדְעִינַן הֵי ״הַלְלוּיָהּ״ — וְנֵימָא עַד ״הַלְלוּיָהּ״ שֶׁ״בְּצֵאת יִשְׂרָאֵל״? קַשְׁיָא.

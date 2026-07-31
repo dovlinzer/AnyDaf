@@ -1,4 +1,5 @@
 # Keritot 17 — Daf Yomi Shiur
+[DAF:17a]
 
 ## Multiple Shabbatot Debate
 
@@ -226,6 +227,7 @@ In all these scenarios, if the person had known with certainty that they had eat
 
 Both Rashi and Tosafot emphasize a critical precondition for *asham talui*: the person must have believed, at the time of the act, that what they were doing was entirely permitted. *Asham talui*, like *chata'os*, is predicated on a *shegaga* — an unwitting transgression committed under the genuine belief that one was acting permissibly. If a person knew at the time that they were eating something that might be *chelev*, and proceeded anyway — treating the doubt as insufficient reason to abstain — that is an entirely different category. Such a person has not acted unwittingly; they knowingly took the risk of committing a prohibited act. They would not bring a *chatas* had they certainly sinned in this fashion (since *chata'os* requires genuine *shegaga*), and correspondingly they do not bring an *asham talui* for the uncertainty. They must seek atonement through *teshuvah*.
 
+[DAF:17b]
 ### Extended Cases
 
 > **Hebrew/Aramaic:** כְּשֵׁם שֶׁאִם אָכַל חֵלֶב וָחֵלֶב בְּהֶעְלֵם (אַחַת) [אֶחָד] אֵינוֹ חַיָּיב אֶלָּא חַטָּאת אַחַת, כֵּן עַל לֹא הוֹדַע שֶׁלָּהֶן אֵינוֹ מֵבִיא אֶלָּא אָשָׁם תָּלוּי אֶחָד.

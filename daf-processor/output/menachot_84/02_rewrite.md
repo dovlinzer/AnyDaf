@@ -2,7 +2,7 @@
 
 ## Omer from Chutz La'aretz
 
-### Mishnah Review: Eretz Yi…
+### Mishnah: Omer, Two Loaves
 
 The daf begins on the very last line of 83b. The Mishnah taught that all Menachot may come from old grain or new grain, and from grain grown in Eretz Yisrael or Chutz La'aretz — with one significant exception: the Omer and the Shtei HaLechem, whose entire purpose is to represent the new grain. Those must come from Eretz Yisrael and from the new crop.
 
@@ -10,7 +10,7 @@ In the preceding sugya, however, the Gemara introduced a striking irony: a numbe
 
 The last line of 83b frames the transition: עד כאן לא פליגי אלא בחדש — the only debate among the Tannaim so far has concerned whether the Omer and Shtei HaLechem require new grain. But regarding the requirement that they come from Eretz Yisrael — לא פליגי — there is no dispute, at least not among those Tannaim previously cited. The Gemara then signals that the ruling of the Mishnah holds only according to those Tannaim, but not like the following:
 
-### R' Yose: Omer from Diasp…
+### R' Yose: Omer from Chutz
 
 דתניא — there is a Braita: Rabbi Yose b'Rabbi Yehuda says, עומר בא מחוץ לארץ — the Omer may come from outside of Israel. How then does he interpret the verse "ki tavou el ha'aretz," which frames the entire obligation in terms of entering the land? He explains: שלא נתחייבו בעומר קודם שנכנסו לארץ — the verse is teaching that the obligation of the Omer did not begin until Israel entered the land. But once that obligation took effect, it applies universally and the Omer itself may come from anywhere.
 
@@ -54,7 +54,7 @@ The Gemara now turns to a Mishnah in Shekalim — the tractate concerned with th
 
 Sefichin are plants that grow on their own without being planted — since planting is forbidden in Shemittah, the only grain available is that which has grown spontaneously from seeds that fell naturally, wild grain that was never cultivated. The context of this Mishnah is the guarding of such grain for use in bringing the Omer. Since the Omer is a communal Korban, the wages of those who protect this grain are paid from the communal funds.
 
-### Burning Shmita Grain Pro…
+### Burning Shemittah Grain
 
 Rami bar Chama posed a pointed question to Rav Chisda. On the one hand, the Mishnah in Shekalim assumes that the Omer is indeed brought from Shemittah grain. On the other hand, the Torah says regarding Shemittah produce: והיתה שבת הארץ לכם לאכלה — it shall be for you to eat. From this the Rabbis derive ולא לשריפה — you may not burn Shemittah produce. Yet the Omer requires taking a Kemitza and burning it. How, then, can one burn Shemittah grain in the service of the Omer without violating le'ochla?
 
@@ -68,7 +68,7 @@ The response, however, is: בעינא כרמל וליכא — we require karmel 
 
 A natural follow-up: could one bring something that was once fresh — grain ground into flour the previous year when it was still fresh? The flour, having been processed when the grain was new, might still bear some character of freshness. But the Gemara rejects this as well. אמר קרא כרמל תקריב — the pasuk says, next to the word karmel, takriv — you shall offer it. The verse places the requirement of karmel at the moment of the offering: בעינא כרמל בשעת הקרבה וליכא — you need it to be karmel at the time of the offering, and that cannot be satisfied by grain that was processed the previous year.
 
-### Yochanan vs. Elazar: Sou…
+### Yochanan vs. Elazar
 
 The Gemara now records a tannaitic dispute — or rather a dispute among Amoraim — about the textual source for the requirement of new grain. Rabbi Yochanan derives it from the word כרמל: the grain must be fresh at the time it is brought, and therefore last year's grain is invalid. Rabbi Elazar derives it instead from the phrase ראשית קצירכם: ראשית קצירך ולא סוף קצירך — the first of your harvest, not the end of a previous harvest. If one were to bring grain from last year's crop, that grain would now represent the conclusion of last year's harvest season, not the beginning of this year's — and therefore it fails the requirement of ראשית.
 
@@ -92,7 +92,7 @@ A third consideration: אם אתה אומר עומר בא מן החיטים — 
 
 This last point contains a subtle irony. The Shtei HaLechem is called ביכורים — first — yet strictly speaking, the Omer precedes it. The Omer is brought from new grain before the Shtei HaLechem. The resolution is that the Shtei HaLechem is ביכורים of the wheat. The Omer, being barley, does not preempt its status as the first wheat Korban. Yet there is something paradoxical: even after the Shtei HaLechem is brought, it does not mean something has been placed on the mizbeach before it from the new wheat — but the Omer was brought from new barley, which is still grain. Nevertheless, the Braita is insisting that we cannot further erode the ביכורים status of the Shtei HaLechem by having it precede an Omer of wheat.
 
-### Tiyuvta: Conflicting Pes…
+### Tiyuvta: Conflicting Text
 
 The Gemara records this as a tiyuvta. The substance of the contradiction is not in the halacha — all agree the Omer requires new grain — but in the derivation. Rabbi Yochanan cited כרמל; Rabbi Elazar cited ראשית קצירכם; the Braita about barley relies on ביכורים. Three distinct pesukim, each independently generating the same requirement. The Gemara treats this multiplicity as a genuine problem, even in the absence of a substantive disagreement on the law.
 
@@ -116,17 +116,17 @@ The Gemara shifts to a Mishnah in Maseches Bikkurim: אין מביאין בכו�
 
 The principle underlying both exclusions, though not stated explicitly in the Mishnah, is that Bikkurim must come from grade A produce — the best of its kind from the most favorable growing conditions.
 
-### Muvchar: L'chatchila/B'd…
+### Muvchar Menachot
 
 Our Mishnah in Menachot likewise states that all Menachot — and especially the Omer and Shtei HaLechem — must come from המובחר, the choice grain. It specifies which regions produce the finest grain for each type of Mincha. The language אין באים אלא מן המובחר — they may only come from the choice — is strong. Yet the natural intuition is that this is a lechatchilah requirement; bedi'avad, if inferior grain was used, the Mincha would remain valid.
 
 The analogous question arises for Bikkurim: if one brought Bikkurim from non-choice fruit — fruit from the mountaintops or from non-ideal growing locations — do the Bikkurim become sanctified? This is more complex. On the one hand, one might argue that the notion of "first" admits no quality restriction — first is first, regardless of quality. On the other hand, ביכורים carries a conceptual dimension of "best" alongside "first," and if the produce is not from an ideal growing environment, perhaps the very status of Bikkurim is undermined even after the fact.
 
-### Ulla: Non-Choice Not Val…
+### Ulla: Non-Choice Bikkurim
 
 Ulla rules decisively: אם הביא לא קידש — if one brought Bikkurim from non-choice fruit, they are not sanctified. The Bikkurim are invalid even bedi'avad. This is a stringent position: not only is one obligated to bring from choice produce lechatchilah, but bringing from inferior produce fails to achieve the status of Bikkurim altogether.
 
-### Shtei HaLechem: First of…
+### Shtei HaLechem: Korban
 
 Rabbah was recounting Ulla's ruling when Rav Acha bar Abba challenged him from a Braita. The Braita discusses the status of the Shtei HaLechem as a קרבן ראשית — a korban of firsts — that must precede all other Menachot and Bikkurim. The challenge is embedded in the details of what exactly the Shtei HaLechem must precede, which the Braita proceeds to elaborate at length.
 
@@ -152,13 +152,13 @@ The halachic bottom line of this entire Braita is one ruling: nothing of the new
 
 This Braita affords a rare opportunity to reflect on the agricultural significance of Shavuot — חג הביכורים — in its most direct biblical sense. The Shtei HaLechem represents the first expression of the year's agricultural bounty: the gratitude and the recognition of God's hand in the harvest. Everything that follows — the Bikkurim brought over the summer months, the libations, the fruit — waits upon this first act. In transposing Shavuot's meaning primarily onto Matan Torah, something of this dimension is inevitably lost. The sugya presents an occasion to recover it.
 
-### Boat/Roof: Mincha Not Bi…
+### Boat/Roof: Not Bikkurim
 
 The relevance of this Braita to Ulla's ruling now becomes clear. The Braita states that the Shtei HaLechem must precede even produce that grew on a rooftop or in a boat. Since the Shtei HaLechem must precede it, one might infer that such produce can legitimately be brought as Bikkurim — for why mention that the Shtei HaLechem takes precedence if there were no possibility of bringing Bikkurim from such produce? This would contradict Ulla's ruling that non-choice produce cannot be sanctified as Bikkurim even bedi'avad.
 
 The Gemara resolves: סיפא אף מן המנחות — the latter clause of that Braita applies to Menachot, not to Bikkurim. The Shtei HaLechem must precede not only Bikkurim but also Menachot from the new grain. When the Braita says the Shtei HaLechem must precede produce grown on a rooftop or a boat, it is saying that such produce may be used in a Mincha — and the Mincha must wait for the Shtei HaLechem. The implication for Bikkurim is the reverse: such produce is not eligible for Bikkurim at all. This is consistent with the assumption, implicit throughout this discussion, that the requirement of muvchar for Menachot operates at most at the level of lechatchilah, while bedi'avad a Mincha from non-choice grain is valid. The debate about Bikkurim is categorically different.
 
-### Kol Tahor: Bikkurim or M…
+### Kol Tahor: Bikkurim
 
 Rav Adda bar Ahava challenges this resolution. The Gemara was reading the verse בהקריבכם מנחה חדשה as referring to the requirement that the Shtei HaLechem precede Menachot. But the same passage in Parashat Korach continues: כל טהור בביתך יאכל אותה — every pure person in your house shall eat it. This phrase, however, cannot apply to a Mincha, which is Kodshei Kodashim and may only be eaten by male Kohanim. The phrase "every pure person in your house" is inclusive of women and children — a description that fits Bikkurim, not Menachot. If so, the pasuk must be referring to Bikkurim, and the inference that it also speaks about rooftop and boat produce being valid for Menachot unravels.
 
@@ -170,7 +170,7 @@ Rav Papa proposes a different resolution: כולה במנחות — the entire s
 
 ---
 
-## Yochanan-Reish Lakish: B…
+## Yochanan & Reish Lakish
 
 ### Lo Kidesh vs. Kidesh
 
@@ -178,13 +178,13 @@ The Gemara now restates the underlying dispute in its proper form. Rabbi Yochana
 
 This analogy also speaks implicitly to the question of the muvchar requirement for Menachot and Korbonot of animals: bedi'avad, inferior quality does not invalidate. The debate between Rabbi Yochanan and Reish Lakish is therefore specifically and exclusively about Bikkurim.
 
-### Dream Defense: Mei-reish…
+### Dream Defense: Mei-reis
 
 The Gemara seeks to explain Rabbi Yochanan's position. Rabbi Elazar states that he saw Rabbi Yochanan in a dream — which Rashi understands not as receiving a direct communication from Rabbi Yochanan in the dream, but as the dream inspiring him with the intellectual confidence and divine assistance to articulate a defense of Rabbi Yochanan's view. He then offers:
 
 אמר קרא מראשית כל פרי האדמה תביא מארצך — the verse says, "from the first of all the fruit of the land you shall bring from your land." The derasha proceeds on two levels. מראשית — ולא כל ראשית — from the first, but not from all firsts, which might limit Bikkurim to the Shivat HaMinim rather than all fruit. More importantly: מארצך — ולא כל ארצך — from your land, but not from every part of your land. This excludes produce that did not grow in optimal conditions — on rooftops, in boats, in non-grounded flowerpots. The requirement is not merely that the individual fruit be of high quality, but that it grew in conditions representative of the best of what the land of Israel produces. Produce from a rooftop or a boat is not growing in conditions that represent the choicest of the land, and therefore falls outside the biblical definition of Bikkurim.
 
-### Reish Lakish: Aretz Shiv…
+### Reish Lakish: Shiv'at
 
 Reish Lakish, who holds that such Bikkurim are valid bedi'avad, must account for the word מארצך and explain what he does with the limitation ולא כל ארצך. He does not use it to exclude non-ideal growing locations. Instead he uses it differently: מבעי ליה לכדתניא — he requires the word ארץ for a different drasha, as the Braita of Beniyei bar Rebbi teaches.
 
@@ -198,7 +198,7 @@ The Gemara notes that there are two contradictory Braitot regarding Bikkurim fro
 
 At first glance these two Braitot seem to correspond to the positions of Reish Lakish and Rabbi Yochanan respectively. But the question is whether each position can accommodate both Braitot. The Gemara proceeds to show how Reish Lakish — who holds that Bikkurim from non-ideal locations are valid — can reconcile both.
 
-### Cave Roof vs. Building R…
+### Cave vs. Building Roof
 
 The Gemara resolves the rooftop cases: גג אגג לא קשיא — one Braita and the other are not contradictory. הא בגג דמערה הא בגג דבית — the distinction is between the roof of a cave and the roof of a building. The roof of a cave is earth — actual ground. Although it may not be the most nutrient-rich environment, since the soil depth is limited, it is nonetheless earth connected to the land of Israel. Produce growing there is considered to grow from ארץ ישראל, and therefore if it is brought as Bikkurim, one brings and recites the declaration — it is fully biblical. The roof of a building, by contrast, is not earth; it is a built surface elevated above the land. Produce growing there does not grow from ארץ ישראל in any meaningful sense, and so if brought, one brings but does not recite the declaration — it does not rise to the level of a full biblical obligation.
 
@@ -206,7 +206,7 @@ The Gemara resolves the rooftop cases: גג אגג לא קשיא — one Braita 
 
 The flowerpot cases are resolved on a familiar principle: כאן בנקוב כאן בשאינו נקוב — one Braita speaks of a flowerpot with a hole in its bottom, the other of a flowerpot without a hole. A perforated flowerpot — atzitz nakuv — placed on the ground is treated as though the plant is growing directly from the earth; the hole provides the critical connection. There, one brings and recites the declaration. A sealed flowerpot — she-eino nakuv — contains dirt but is not connected to the actual land, and therefore produce from it is at most rabbinic; one brings but does not recite.
 
-### Pottery Boat: Grounded H…
+### Pottery Boat: Hull Types
 
 The boat cases are similarly resolved: כאן בספינה של עץ כאן בספינה של חרס — one Braita speaks of a wooden boat, the other of a pottery boat. This distinction is elaborated by a significant discussion in Tosafot.
 

@@ -1,6 +1,6 @@
 # Gittin 7 — Daf Yomi Shiur
 
-## Bifnei Nichtav Requireme…
+## Bifnei Nichtav Statement
 
 ### Bifnei Nichtav Basics
 
@@ -20,7 +20,7 @@ This ruling prompted the Gemara to challenge Rabbi Avyasar's reliability. The cr
 
 ---
 
-## Rabbi Avyasar Defens (II)
+## Rabbi Avyasar Defense
 
 ### Avyasar Divine Alignment
 
@@ -48,7 +48,7 @@ It is striking that this *aggadata* appears at the opening of *Masechet Gittin*,
 
 ---
 
-## Domestic Ethics (III)
+## Domestic Ethics
 
 ### Pre-Shabbat Statements
 
@@ -168,7 +168,7 @@ Rav Avira expounded again — sometimes in the name of Rav Ami, sometimes in the
 
 ---
 
-## Domestic Ethics (III)
+## Domestic Ethics (II)
 
 ### Charity Derasha
 
@@ -188,7 +188,7 @@ This is illustrated through a parable of two sheep crossing a body of water. One
 
 ---
 
-## Domestic Ethics (III)…
+## Domestic Ethics (III)
 
 ### Poor Giving Charity
 

@@ -1,4 +1,5 @@
 # Sotah 10 — Daf Yomi Shiur
+[DAF:10a]
 
 ## Shimshon narrative
 
@@ -408,6 +409,7 @@ Since Amatzia was *melech Yehuda* — king of Judah — Yeshayahu's father Amotz
 
 ## Public shame
 
+[DAF:10b]
 ### Burning threat
 
 > **Hebrew/Aramaic:** ״הִיא מוּצֵאת״. ״הִיא מִיתּוֹצֵאת״ מִיבְּעֵי לֵיהּ! אָמַר רַבִּי אֶלְעָזָר: לְאַחַר שֶׁנִּמְצְאוּ סִימָנֶיהָ בָּא סַמָּאֵל וְרִיחֲקָן, בָּא גַּבְרִיאֵל וְקֵירְבָן.

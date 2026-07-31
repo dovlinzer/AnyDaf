@@ -54,7 +54,7 @@ This reading shifts the *chiddush* somewhat. The first opinion located the novel
 
 ---
 
-## Yesterday's Korban on Sh…
+## Yesterday's Korban
 
 ### Yom Kippur Proof
 
@@ -172,7 +172,7 @@ This raises an apparent difficulty from a teaching of Rav Nachman. *Amar Rav Nac
 
 The *gemara* asks *ke-man* — according to whom is Rav Nachman's ruling? Is it only consistent with Abaye? The *gemara* answers: *afilu tima ke-Rava* — it can even be consistent with Rava.
 
-### New Purpose Identity Shi…
+### New Purpose vs. Misplaced
 
 The distinction the *gemara* draws is this: *hosam lo iscalah le-mitzvato* — there, in Rav Nachman's case, the coal was not detached for a new purpose. A *kohen* simply took a coal off the altar and brought it to the ground without any *mitzvah* designation. That coal does not belong on the ground; it has no new role or identity. If you ask what should be done with it, the answer is: put it back. Its physical displacement does not change what it is. It is still, conceptually, the altar's coal — merely misplaced. Therefore, even according to Rava, extinguishing it renders one liable.
 

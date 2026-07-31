@@ -1,4 +1,5 @@
 # Sanhedrin 10 — Daf Yomi Shiur
+[DAF:9b]
 
 ## Palginin Dibbura
 
@@ -52,6 +53,7 @@ Other *Rishonim* take the opposite position. Without *palginan dibura*, the test
 
 A further case bearing on *palginan dibura* involves the *na'ara me'orasa*. Rava rules: if witnesses testify that Shimon had intercourse with a *na'ara me'orasa* without specifying which woman, and those witnesses are subsequently found *zomemin*, they are executed but pay no money — there is no identified person to whom a monetary payment would be owed. But if they say *bito shel ploni* — they specifically identify Levi's daughter — then the case changes: *neheragin u'meshalmin mamon*, they are executed and also pay. Why? Because the daughter faces execution for her own alleged willing participation, while the *ketubbah* benefit that would have been destroyed by the testimony belonged not to her but to her father. Since the betrothal has not yet ripened into full marriage, *kol shevach ne'ureiha le'aviha* — all benefit from the daughter in her youth belongs to the father. The person for whom they are executed — Shimon and the daughter — is different from the person to whom they owe money — the father. This is *mamon lazeh v'nefashos lazeh*, and *kim lei* does not apply.
 
+[DAF:10a]
 ### Bestiality Case
 
 > **Hebrew/Aramaic:** וְאָמַר רָבָא: ״פְּלוֹנִי רָבַע הַשּׁוֹר״ וְהוּזַּמּוּ – נֶהֱרָגִין, וְאֵין מְשַׁלְּמִין מָמוֹן. ״שׁוֹרוֹ שֶׁל פְּלוֹנִי״ וְהוּזַּמּוּ – נֶהֱרָגִין, וּמְשַׁלְּמִין מָמוֹן. מָמוֹן לָזֶה, וּנְפָשׁוֹת לָזֶה.
@@ -144,6 +146,7 @@ Rava disagrees and offers a conceptually different rationale: *malkos bi'mkom mi
 
 *Amar Rav Acha brei de'Rava le'Rav Ashi*: if Rava is right — if at some conceptual level the recipient of lashes is *chayav misa* and the *malkos* is simply the form that death takes — then why does the court bother to assess how many lashes the person can withstand? The standard procedure, discussed at length in tractate *Makkos*, is that the court evaluates whether the person can safely receive the full 39 lashes, and if not, the number is reduced to the largest multiple of three that falls within his capacity. But if he is *chayav misa* in any case, why not simply give him the full 39 and let him die if that is what happens? *V'ei mayis leimus* — if he dies, let him die; he was *chayav misa* anyway.
 
+[DAF:10b]
 ### Nikla Achicha
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ: אָמַר קְרָא: ״וְנִקְלָה אָחִיךָ לְעֵינֶיךָ״ – כִּי מָחֵית, אַגַּבָּא דְּחָיֵי מָחֵית. אֶלָּא הָא דְּתַנְיָא: אֲמָדוּהוּ לְקַבֵּל עֶשְׂרִים – אֵין מַכִּין אוֹתוֹ אֶלָּא מַכּוֹת הָרְאוּיוֹת לְהִשְׁתַּלֵּשׁ. וְכַמָּה הֵן? תַּמְנֵי סְרֵי,

@@ -94,7 +94,7 @@ Abaye now challenges the reversed version of Rava's statement from a different *
 
 Abaye applies the same logical methodology he used earlier. *Heichi dami* — what scenario does this exclusion address? If both the discovery of the original and the *temurah* act occurred before *shechita*, *peshita* — of course the *temurah* cannot be brought, since the *shechita* rejected both the original and the *temurah* simultaneously. *Lama li kra* — no *pasuk* is needed for that. If the *pasuk* teaches an exclusion, it must be addressing a case where one might have thought the *temurah* could be brought.
 
-### Found Before, Temurah Af…
+### Found Before, After
 
 The non-obvious case is precisely Rava's reversed scenario: the original was found before *shechita* — making it *nidcheh* — and the act of *temurah* was performed after *shechita*. One might think the *temurah* is valid since it was never itself pushed away. The *pasuk* *pesach hu* comes to teach that even in this scenario, the *temurah* cannot be brought, because its *kedushah* originates from a *dechuya* source.
 

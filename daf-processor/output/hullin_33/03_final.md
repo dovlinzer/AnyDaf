@@ -1,4 +1,5 @@
 # Hullin 33 — Daf Yomi Shiur
+[DAF:32b]
 
 ## Trachea/Esophagus Status
 
@@ -68,6 +69,7 @@ The *gemara* now examines Reish Lakish's ruling in its own right — *gufa* — 
 
 Rabbi Zeira challenged Rava's distinction. His objection: once we have accepted that some degree of *shechita* has been performed and the animal is being killed, why should it matter which organ is injured? Either the onset of the *shechita* process immunizes the animal from acquiring *treifa* status — in which case no injury to any organ should matter — or it does not, and then we should not be selective about which organ we track. If Rabbi Zeira's position were accepted, it would mean that once the process of *shechita* begins, no subsequent injury to any organ can render the animal a *treifa*.
 
+[DAF:33a]
 ### Zeira Reversal
 
 > **Hebrew/Aramaic:** וַהֲדַר בֵּיהּ רַבִּי זֵירָא, דְּבָעֵי רַבִּי זֵירָא: נִיקְּבוּ בְּנֵי מֵעַיִים בֵּין סִימָן לְסִימָן, מַהוּ? מִי מִצְטָרֵף סִימָן רִאשׁוֹן לְסִימָן שֵׁנִי לְטַהֲרָהּ מִידֵי נְבֵלָה, אוֹ לָא?
@@ -220,6 +222,7 @@ All four proofs confirm we are discussing *chulin*. But once we establish that c
 
 Hands are *sheni*, second-degree impurity. The rabbinic enactment requiring handwashing before bread was instituted because *kohanim* needed to wash before eating *terumah*; as a *gezeira*, the Rabbis declared that unwashed hands carry the status of *sheini le-tumah*. A *sheini* can render *terumah* a *shlishi* and can affect *kodshim*, but it cannot affect *chulin* — *ein sheini oseh shlishi be-chulin*. So even if the meat were susceptible to *tumah*, why should it matter? *tamei* hands, which are a *sheini*, cannot make non-sanctified food *tamei*. The *mishnah* seems to be addressing a non-problem.
 
+[DAF:33b]
 ### Ma'aser Sheni
 
 > **Hebrew/Aramaic:** אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: הָכָא בְּחוּלִּין שֶׁלְּקָחָן בְּכֶסֶף מַעֲשֵׂר עָסְקִינַן, וּדְלָא כְּרַבִּי מֵאִיר, דִּתְנַן:

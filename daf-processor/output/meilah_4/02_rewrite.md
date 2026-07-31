@@ -92,7 +92,7 @@ The *Gemara* nonetheless notes that while this argument prevents a direct proof 
 
 The *Gemara* attempts once more to bring a proof: *hapigul bekadshei kodashim mo'alin bo* — *pigul* in *kodshei kodashim* is subject to *me'ila*. This is a parallel formulation to the one discussed above, apparently stating that even with *pigul*, the meat of *kodshei kodashim* retains its *me'ila* status — which seems to support the view that *zerika* with *machshaves pigul* does not change the status.
 
-### Zerika Pigul Status Chan…
+### Zerika Pigul Status
 
 The *Gemara* asks: *lav af al gav dezarak* — does this not mean that even when *zerikas hadam* was performed (albeit with *machshaves pigul*), the status does not change? *Umesayei lei* — and that would support Rav Giddel amar Rav. The *Gemara* answers: *lo, d'lo zarak* — perhaps it refers to a case where no *zerika hadam* occurred at all. And if so, *aval zarak mai?* — if one did perform *zerika*, what would the rule be? Perhaps even with *pigul* intent the *zerika* would change the status.
 
@@ -230,7 +230,7 @@ In this context of *Zevachim*, the timing of the *psul* is irrelevant. It does n
 
 Nevertheless, the *Gemara* there in *Zevachim* does describe both categories: *she'hayesa la sha'as ha'kosher ve'nifselah* — it was once fit and then became disqualified; and *she'lo hayesa la sha'as ha'kosher* — it was never fit. Although the legal outcome is identical in both cases, the *braisa* describes them separately.
 
-### No Distinction in Zevach…
+### Blood Potency in Zevachim
 
 In the *Zevachim* passage, the same phrase appears: *she'kiblu psulim ve'zarku es damah* — as an example of a *chatas* that was never fit. Rav Yosef raises this parallel as a challenge to the reading proposed earlier in the context of *me'ila*, where one wished to be very precise about the phrase and infer from it that the *kabalah* is the key moment. Rav Yosef points out: if you read this phrase with such precision in *me'ila*, then in *Zevachim* — where the identical phrase appears — you would be claiming that only *kiblu psulim ve'zarku* (both together in one scenario) constitutes a *chatas pesulah*, and that if only *psulim* caught the blood but *kesherim* subsequently sprinkled it, the garment *would* require *kibus*. But that cannot be correct, for reasons the *Gemara* now develops.
 

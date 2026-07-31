@@ -1,4 +1,5 @@
 # Bava Batra 17 — Daf Yomi Shiur
+[DAF:17a]
 
 ## Daughters & Blessing
 
@@ -208,6 +209,7 @@ Similarly for ovens: three *tefachim* from the *kilya* — which Rashi explains 
 
 ## Wall Width Standard
 
+[DAF:17b]
 ### Three Handbreadth Wall
 
 > **Hebrew/Aramaic:** גְּמָ׳ פָּתַח בְּבוֹר – וּמְסַיֵּים בְּכוֹתֶל; לִיתְנֵי: אֶלָּא אִם כֵּן הִרְחִיק מִבּוֹרוֹ שֶׁל חֲבֵירוֹ שְׁלֹשָׁה טְפָחִים!

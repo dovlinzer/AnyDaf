@@ -1,6 +1,6 @@
 # Sanhedrin 51 — Daf Yomi Shiur
 
-## Burning of Kohen's Daugh…
+## Kohen's Daughter Burning
 
 ### Overview & Context
 

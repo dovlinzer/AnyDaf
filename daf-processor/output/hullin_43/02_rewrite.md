@@ -38,11 +38,11 @@ First: *de-amar Rav Matna* — Rav Matna teaches that *hai buka de-itma de-shaf 
 
 Second: *de-amar Rav Chana bar Pappa mishmeih de-Rav* — Rav Chana bar Pappa in the name of Rav teaches *laksa b'kulyah achat treifa*: if even one of an animal's kidneys is diseased — the *gemara* will later explain this as a pus-filled sac within the kidney — the animal is a *treifa*. This applies a fortiori if both kidneys are affected, but even one suffices.
 
-### Spleen: Rupture vs. Remo…
+### Ruptured vs Missing
 
 Third: *u-detnan nital ha-techol kesheira* — our *mishnah* states that if the spleen is removed, the animal is kosher. But *ve-amar Rav Avya mishmeih de-Rava* — Rav Avya in the name of Rava qualifies this: *lo shanu ela nital* — it is only if the spleen is entirely removed that the animal is kosher; *aval nikav treifa* — if the spleen is present but has a hole in it, it is a *treifa*. The intuition here, though not explicitly stated by the *gemara*, may be that a ruptured spleen can leak dangerous fluids, whereas a completely absent spleen poses no comparable risk — a parallel, as one might note, to the case of the appendix, where a burst appendix is considerably more dangerous than a missing one.
 
-### Detached Trachea/Esophag…
+### Trachea Esophageal
 
 Fourth: *ve-amar Rabba bar bar Chana amar Shmuel* — if the *simanim*, the trachea and esophagus, are *nishladu be-ruban* — mostly pulled away from the surrounding tissue of the neck, though still attached in some places — that too renders the animal a *treifa*.
 

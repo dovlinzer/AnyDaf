@@ -46,7 +46,7 @@ The *gemara* asks: *minayin*, from where is this requirement derived? Rabbi Elaz
 
 Rabbi Yosef bar Rabbi Chanina therefore offers a different verse: *va'ani berov chasdecha avo veitecha, eshtachaveh el heichal kodshecha beyiratecha* — and I, through Your great kindness, will enter Your house; I will bow in Your holy palace, in awe of You. This is closer to the concept of *koved rosh*, since entering prayer with *yirah*, with fear and awe of God, is a more direct parallel than anguish. Again the *gemara* challenges: perhaps David is simply different — he would genuinely anguish himself in his prayers beyond the standard of others, and this verse describes his exceptional practice rather than setting a universal norm.
 
-### Trembling Reinterpretation
+### Reinterpretation Behadrat
 
 Rabbi Yehoshua ben Levi therefore derives the requirement from yet another verse: *hishtachavu l'Hashem behadrat kodesh* — bow down before God in the glory of holiness. The *gemara* reads: *al tikrei behadrat ela becherdat* — do not read it as *behadrat*, in glory, but as *becherdat*, in trembling. This is a directive addressed to all, not a first-person account from a single figure. The *gemara* presses again: who says the wordplay of *hadrat* becoming *cherdat* is compelling? Why not take the plain meaning of the verse?
 

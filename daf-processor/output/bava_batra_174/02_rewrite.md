@@ -1,26 +1,26 @@
 # Bava Batra 174 — Daf Yomi Shiur
 
-## Arevim: Concept & Obliga…
+## Arevim: Verbal & Kinyan
 
 ### Opening & Overview
 
-Today's *daf* is 174, and we pick up at the bottom of 173b at the two dots. We are in the *locus classicus* of the discussions of *arevim* — of guarantors. This is where the topic receives its central treatment in *Shas*, though naturally it arises in other places as well. The *Mishna* introduced the concept that a person may serve as a guarantor for another's loan, and the *Gemara* raised two foundational questions about this institution before we could proceed.
+ We are in the *locus classicus* of the discussions of *arevim* — of guarantors. This is where the topic receives its central treatment in *Shas*, though naturally it arises in other places as well. The *Mishna* introduced the concept that a person may serve as a guarantor for another's loan, and the *Gemara* raised two foundational questions about this institution before we could proceed.
 
 ### Kinyan & Asmachta Issues
 
 The *Gemara*'s two questions concern the very basis upon which a guarantor can be bound at all. The first question is: how can a person obligate himself merely through a verbal commitment, without performing a *kinyan*? As a general rule, one cannot create a legally binding obligation through words alone — a formal act of acquisition is required. We will see later in the *Gemara* that in certain circumstances a *kinyan* is indeed necessary, but in other circumstances — particularly when the guarantorship is undertaken at the moment the loan is extended — the verbal commitment alone suffices. The second question concerns *asmachta*: a guarantor's promise resembles a conditional undertaking that one hopes never to be called upon to fulfill. One commits to it in order to induce the lender to extend credit, and not out of genuine present resolve — precisely the structure that renders an *asmachta* non-binding.
 
-### Trust & Integrity Soluti…
+### Guarantorship: Trust
 
 As to the first issue, the *Gemara* derives the institution of *areivut* from *psukim*, establishing that the Torah itself recognizes such an institution. The relevant *psukim* do not make entirely explicit that verbal agreement alone suffices — indeed, one of them speaks of a handshake, which is at least somewhat more than purely verbal commitment — but from these verses the institution is grounded. As to the *asmachta* problem, the *Gemara* initially entertains the possibility that guarantorship might indeed be unenforceable on grounds of *asmachta*, but then rejects this: since we rule that *asmachta* is not binding, and yet guarantorship demonstrably is binding, we must explain the distinction. The *Gemara* answers that the case of guarantorship differs from a standard *asmachta* because of the *hana'ah* — the benefit — the guarantor receives. One might frame this more precisely: when a lender extends money to the borrower on the strength of the guarantor's word, the guarantor has placed his own integrity and trustworthiness on the line. The lender's act of reliance transforms the guarantor's commitment from a speculative conditional promise into a genuine, wholehearted obligation. The guarantor truly means to commit, because the very trust reposed in him demands that he live up to it. Accordingly, even though *asmachta* is generally not *kanya*, in this context it is.
 
-### Mishna: Order of Collect…
+### Guarantor vs Debtor
 
 Having established the institution itself, the *Gemara* clarified one further point from the *Mishna*: when the *Mishna* says not to go to the *areiv*, it does not mean one may never go to the guarantor at all — it means one may not go to the *areiv* first. The *loveh*, the borrower, must be pursued first. The question now becomes: what precisely governs the ordering, and under what conditions may the guarantor be approached?
 
 ---
 
-## Collection Order: Debtor…
+## Debtor vs. Guarantor
 
 ### Mishna & Limitation
 
@@ -42,7 +42,7 @@ The first level is the basic guarantor — a case where someone becomes a guaran
 
 The second level is a guarantor where the lender stipulated that he retains the right to collect from whomever he chooses — *im hisneh mi she-ertzeh efra* — and the borrower has no obvious assets, which *Tosafot* specifies as meaning primarily no *karka*, no real estate. In that case, *nifra min ha-areiv techilah* — the lender may go to the guarantor immediately. Critically, this is an option, not an obligation: *im yirtzeh ladun im areiv techilah, v'im yirtzeh min ha-loveh* — if the lender prefers to pursue the guarantor, he may; if he prefers to pursue the borrower, he may do that as well.
 
-### Level 3: Debtor Has Asse…
+### Level 3: Guarantor Arevim
 
 The third level is also a guarantor with a retained right — but here the borrower does have obvious property, meaning real estate or other identifiable assets. In this case, *afilu asni, nifra min ha-loveh techilah* — even though the retained right was stipulated, the lender must pursue the borrower first.
 
@@ -76,7 +76,7 @@ The *Gemara* then raises the harder cases — the *ibayu lehu* — where the two
 
 The underlying debate is about presumptions: what should we assume a guarantor intends when his language is ambiguous? One argument for defaulting to *kablanut* is societal — making it easier for a creditor to reach the guarantor encourages lending, precisely the rationale invoked in secular cosigning law. The counterargument runs the other way: why should we assume that David wishes to step in more than the minimum necessary? He agreed to stand behind Michael; why presume he meant to stand in Michael's place? The *Gemara* does not resolve which of these *Amoraim* we follow here.
 
-### Direct Money = Debtor St…
+### Direct Money: Arev Ten Lo
 
 One final clarification closes this sugya. *Mar bar Amemar* reports to *Rav Ashi* in the name of *Amemar*: if David says *ten lo va-ani noten* — "give it to him and I will give it to you" — or similarly the paradigmatic *kablan* formulation, then *ein la-malveh al ha-loveh klum*, the lender has no claim against the borrower at all. The *Gemara* immediately qualifies this: *v'la hi*, that is not so. *Lo miptar loveh minei de-malveh*, the borrower does not escape his obligation to the lender, *ad de-shakil v'yahiv be-yad* — unless and until the money was actually received by the guarantor and then physically handed over. This is precisely what distinguishes *kablan* from *nosei v'nosein b'yad*. As long as the lender gives the money directly to the borrower — whatever language David used — Michael retains some obligation. Only when the money genuinely passed through David's hands, with David receiving it and then conveying it to Michael, is Michael fully removed from the legal picture.
 
@@ -100,7 +100,7 @@ The practical *halakha* that follows is therefore: before seizing a debtor's pro
 
 ---
 
-## Guarantor Reimbursement…
+## Guarantor Rights
 
 ### Orphans Case: Rav Pappa
 
@@ -146,7 +146,7 @@ The final section applies the *tzerarei* analysis to a case involving a non-Jewi
 
 *Rav Mordechai* reports to *Rav Ashi* in the name of *Rav*: even according to those who would normally be concerned about *tzerarei* — that the father may have prepaid the loan — in the case of a non-Jewish creditor, *lo chashninan le-tzerarei*, we are not concerned. The reason: *kivan de-basar areva azil* — non-Jewish law allows the creditor to go straight to the guarantor. The father knew this. Would the father be foolish enough to prepay a loan to a non-Jew, knowing that the non-Jew would in any case go straight to the guarantor? Of course not. The dynamics of non-Jewish lending practice make the *tzerarei* concern inapplicable, because a rational borrower would have no incentive to prepay a non-Jewish creditor when the burden of collection would fall on the guarantor anyway. Therefore, the guarantor may collect from the orphans.
 
-### Objection: Still Concern…
+### Objection: Tzrari Concern
 
 The *Gemara* rejects this reasoning decisively, and the counterargument is striking precisely because it flips the logic. *Adaraba* — on the contrary. Even according to those who would not normally be concerned about *tzerarei* with a Jewish creditor, we *are* concerned when the creditor is a non-Jew. Why? *Kivan de-danei basar areva azlei* — since non-Jewish law goes straight to the guarantor, no borrower would agree to have a guarantor for a non-Jewish creditor *unless* he had first given the creditor some form of collateral or prepayment — *tzerarei* — to protect the guarantor from immediate pursuit. *Ila de-atvei tzerarei, me-ikara lo hava mikabeli* — had the borrower not given the non-Jewish creditor some bound-up money or security, the guarantor would never have agreed to take on the role in the first place. No one would cosign for a non-Jewish creditor who can proceed directly against the cosigner without first trying the borrower, unless the borrower took steps to shield the guarantor. Therefore, when there is a non-Jewish creditor, we have a heightened concern that *tzerarei* existed — not a diminished one. The guarantor accordingly cannot collect from the orphans.
 

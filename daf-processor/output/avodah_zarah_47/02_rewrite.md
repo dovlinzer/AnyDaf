@@ -50,7 +50,7 @@ The Gemara rejects this proof, however, on a subtle ground. *DeRav Pappa gufeh m
 
 The Gemara leaves this as a *teiku*. We thus conclude that there appears to be no *dichui* by *mitzvos* in general, but whether *bittul* on a *ne'evad mechubar* object is sufficient to permit its use for a *mitzvah l'chatchilah* remains unresolved.
 
-## Rav Pappa - Wool & Instr…
+## Rav Pappa - Wool Techelis
 
 ### Wool for Techeiles
 
@@ -58,7 +58,7 @@ The Gemara now introduces a question posed by Rav Pappa: *hamishtachaveh l'vehem
 
 The Gemara concedes: *ein hachi nami* — indeed, Rav Pappa need not have asked this question, *d'lo hava leh l'mibaye*. The reason he formulated his question in terms of wool for *techeiles*, however, is that he wished to proceed to additional questions involving parts of the same animal.
 
-### Animal Parts & Instrumen…
+### Animal Parts & Levite
 
 Following the question about wool, Rav Pappa poses three further questions about other parts of the worshipped animal: *karnaim mahu lachatzotzros* — can the horns be used for trumpets? *Shokayim mahu lachalilim* — can the leg-bones, hollowed out, be used for flutes? *Benei mei'aya mahu lipe'aros* — can the intestines be used as strings for lyres? The specific context here is the instruments of the Levites, used to accompany the *shira* sung during the bringing of *korbanos*. Tosafot notes that the silver *chatzotzros* of the Torah were a priestly instrument; these questions concern Levitical instruments that accompanied the *avodah*.
 
@@ -100,7 +100,7 @@ The Mishnah further addresses the case where the original wall straddled the pro
 
 The Mishnah then states that the stones, wood, and dirt of the fallen wall convey *tumah* like a *sheretz*: *avanav ve'etzav va'afaro metame'im kesheretz*. The verse *shakketz teshakztzenu* is cited — you shall hold it as an abomination — and the word *shakketz* connects to *sheretz*, establishing contact-*tumah*. Rabbi Akiva holds it is *tamei* like a *niddah* — *keniddah* — deriving from the verse *tizrem kmo davah*, cast it out like a menstruant: just as a *niddah* conveys *tumah* through *massa* (carrying), so too does *avodah zarah*. This sudden introduction of the laws of *tumah* is striking, given that the entire preceding discussion has focused on *issur hana'ah* — and, as we shall see, the Gemara will in fact pass over this portion entirely and focus on a different aspect of the Mishnah.
 
-### Benefit Question & Solut…
+### Non-Jew Benefit & Uses
 
 The Gemara focuses on a practical difficulty in the Mishnah's ruling: if the Jewish owner sets his wall back four *amot*, he is leaving a gap on his side of the property line — and that gap effectively gives the non-Jew a pleasant open space or yard adjacent to the *avodah zarah* property. Isn't that a prohibited benefit to the *avodah zarah*?
 

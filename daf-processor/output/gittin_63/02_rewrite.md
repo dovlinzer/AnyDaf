@@ -98,7 +98,7 @@ The *Gemara* then continues with a *tanu rabbanan* that presents multiple permut
 
 ---
 
-## Tanna Kamma vs. Rabbi Na…
+## Tannaim: Holech as Zachi
 
 ### Tanna Kamma Position
 

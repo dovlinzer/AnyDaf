@@ -1,4 +1,5 @@
 # Ketubot 80 — Daf Yomi Shiur
+[DAF:80a]
 
 ## Nichsei Milog Overview
 
@@ -250,6 +251,7 @@ A new *ibaya* opens: *ba'al she-machar karka l'peirot, mahu?* — may the husban
 
 The Gemara frames two competing rationales. *Mi amrinan mah d'kana akni* — does he sell what he owns, and therefore the sale stands? *O dilma ki tikinu lei rabanan peiros le-ba'al mishum revacha d'beisa* — or perhaps the Sages' grant of *peirot* to the husband was made specifically for the purpose of *revach ha-bayit*, providing a steady, ongoing income to the household? If that is the reason, then the right was given for a purpose and may not be redirected. A one-time lump sum deposited in a bank account — or spent on a luxury — is not the same as the regular annual income that the *peirot* arrangement is designed to provide. *Aval le-zabuni, lo* — it was not intended to be converted into a lump sale.
 
+[DAF:80b]
 ### Validity Dispute
 
 > **Hebrew/Aramaic:** מִשּׁוּם רְוַוח בֵּיתָא, אֲבָל לְזַבּוֹנֵי — לָא? יְהוּדָה מָר בַּר מָרִימָר מִשְּׁמֵיהּ דְּרָבָא אָמַר: מַה שֶּׁעָשָׂה, עָשׂוּי. רַב פָּפָּא אָמַר מִשְּׁמֵיהּ דְּרָבָא: לֹא עָשָׂה וְלֹא כְלוּם.

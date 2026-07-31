@@ -1,6 +1,6 @@
 # Bava Kamma 109 — Daf Yomi Shiur
 
-## Swearing & Returning Sto…
+## Swearing & Stolen Objects
 
 ### Torah Section Overview
 
@@ -14,7 +14,7 @@ The first case: a depositor asks his *shomer*, "Where is the object I entrusted 
 
 The second case: the depositor asks the same question, and the *shomer* claims the object was stolen (*nignav*). Again an oath is administered, again he answers *amein*. But witnesses then testify that he himself had kept the object. Because the *shomer* advanced the claim of *ta'anas gannav* — asserting it was stolen — the *halacha* treats him as a *gannav* himself, and he therefore pays *tashlumei kefel*, double, just as a *gannav* would. By contrast, if he admits on his own, the case falls under the *parsha* of the *shevuah* rather than the laws of *geneiva*, and he pays *keren, chomesh*, and *asham* — not *kefel*. These distinctions are clear and will not be further examined by the *gemara*; the focus shifts to what follows.
 
-## Son Inherits Father's Es…
+## Son Inherits After Theft
 
 ### Repayment Recipients
 
@@ -58,7 +58,7 @@ The *gemara* opens on 109a with a statement of Rav Yosef: *afilu l'arnakei shel 
 
 Rav Pappa adds a qualification: *v'tzarich she'yomar zeh gezel avi* — for the giving to constitute a valid *hashava*, one must verbally identify it as the property stolen from his father. The act of transfer alone is insufficient; it must be accompanied by the declaration that this is what he stole, so that the giving has the character of a genuine return rather than an unrelated transaction.
 
-### Self-Forgiveness Challen…
+### Gemara: Self-Forgiveness
 
 This leads the *gemara* to press a more fundamental question. The discussion up to this point has concerned cases where the stolen property has been destroyed and what remains is essentially a monetary obligation — a debt. In such a case, why is any of this necessary? If the son is an heir and the obligation is simply a debt, why can he not simply waive it for himself? If he has two brothers, why can he not say: the third that would have come to me I hereby release — and be done with it? And if he is the sole heir, there is no one he owes the money to — so why must he give it to *tzedaka*? The question points to what is at stake: is the obligation of *hashava* in the context of a *shevuah* purely a financial debt, or does it have an independent dimension requiring a ritual act of transfer?
 

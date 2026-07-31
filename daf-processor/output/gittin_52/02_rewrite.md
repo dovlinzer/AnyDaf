@@ -54,7 +54,7 @@ The *gemara* raises an apparent contradiction: *uvreminhu* — a *beraisa* that 
 
 The *beraisa* continues with a comprehensive list of what *apotropsin* may and may not do. They may sell animals, slaves, houses, fields, and vineyards — *le-hachil*, to actively support the *yetomim*, but not *le-haniach*, not to build up a long-term reserve. Similarly, they may sell fruits, wine, oil, and flour for immediate support but not for storage. The language *u-mochrin lahem* encompasses both selling on behalf of the *yetomim* and purchasing for them — the *apotropos* manages active financial support in either direction.
 
-### Fixed vs. Indefinite Pri…
+### Fixed vs. Indefinite Gift
 
 The *beraisa* proceeds to enumerate *mitzvah* objects that may be purchased: the *apotropos* may make for the orphans a *lulav*, *arava* — notable since *arava* on its own is a *minhag* rather than a biblical *mitzvah*, though the *Rif*'s version of the text omits *arava* — a *sukkah*, and *tzitzit*. The *beraisa* then adds a general category: *kol davar sheyesh lo kitzvah* — anything with a fixed and defined cost; the *gemara* notes this includes *shofar* and, separately, *megillah*. Further, the *apotropos* may purchase for the orphans a *Sefer Torah*, *tefillin*, and *mezuzot*. Regarding a *Sefer Torah* in particular: there is a *mitzvah* for every Jewish man to write one, and beyond the ritual dimension, in antiquity a *Sefer Torah* was the means of Torah study itself — effectively, purchasing a *Sefer Torah* amounted to providing an education. The Maharam Shiff examines each item in this list individually, treating each as a *chiddush* in its own right.
 
@@ -74,7 +74,7 @@ The *beraisa* further prohibits: *ein apotropsin resha'im limkor berachok velikh
 
 The *beraisa* adds: *ein apotropsin resha'im limkor sadot velikaach avadim* — they may not sell fields to acquire slaves. And Rabban Shimon ben Gamliel goes further: *af lo limkor avadim velikaach sadot* — even selling slaves to acquire fields is prohibited. His rationale: *dilma lo mashpyan* — the fields may not produce abundantly. The *apotropos* may have thought that converting liquid assets into permanent productive land was a sound investment; Rabban Shimon ben Gamliel warns that the field may yield little, rendering the transaction a net loss — and the *apotropos* is only authorized to act for the *yetomim*'s clear benefit.
 
-### Freeing Slaves Prohibiti…
+### Apotropsin: Slaves, Sale
 
 The *beraisa* states: *ein apotropin resha'im lehotzi avadim lacherut* — *apotropsin* may not free slaves; *aval mocherin otan la'acherim* — but they may sell them to others, *ve'acherim motzi'in otan lacherut* — and those others may then free them. Note that the *tanna kamma* permits selling slaves to acquire real estate, while Rabban Shimon ben Gamliel disputes this.
 
@@ -140,7 +140,7 @@ Rav Ashi adds: he and Rav Kahana signed a document authorizing the sale of a fie
 
 *Amram Tzeva* was serving as *apotropos* for orphans. Relatives came before Rav Nachman claiming he was dressing and clothing himself from the orphans' property. Rav Nachman's response was measured: perhaps he is eating and drinking from his own means — and if someone found an unexpectedly valuable lost object (*metzia*), one gives him the benefit of the doubt.
 
-### Removing Negligent Guard…
+### Negligent Guard Removal
 
 The *gemara* then asks: but if he is in fact depleting their estate, that is a serious problem. Rav Nachman replied: bring me witnesses that he is causing loss, and I will remove him. The *apotropos* is entitled to a presumption of good faith — and that presumption serves a practical function. If an *apotropos* can be removed on bare accusation, no one will be willing to accept the responsibility.
 

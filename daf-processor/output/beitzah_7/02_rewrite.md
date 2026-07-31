@@ -1,6 +1,6 @@
 # Beitzah 7 — Daf Yomi Shiur
 
-## Egg Completion & Mekach…
+## Egg Complete & Mekach
 
 ### Rav's Statement
 

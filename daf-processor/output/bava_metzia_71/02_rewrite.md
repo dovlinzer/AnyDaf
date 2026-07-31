@@ -214,7 +214,7 @@ The gemara returns to Rebbi's statement that he does not understand the role of 
 
 Reading these verses together, one would naturally conclude that lending to a *ger toshav* with interest is prohibited.
 
-### Resident Alien Contradic…
+### Borrow/Lend with Ribbit
 
 Yet the *braita* cited earlier explicitly states: *lovin mehen umalvin otan beribbit, vechen beger toshav* — you may borrow from non-Jews and lend to non-Jews with interest, and the same applies to a *ger toshav*. How can both be true simultaneously?
 

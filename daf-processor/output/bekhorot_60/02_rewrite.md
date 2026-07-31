@@ -14,7 +14,7 @@ Rava's second principle addresses what happens to the five animals that remain a
 
 A *braita* at the bottom of 59b confirms both of these points: *tanya nami hachi* — we have been taught similarly. If one had fifteen sheep, one may not say, "I will select ten, take the *maaser* from them, and let the remaining five go free." Rather, he brings all of them into the pen (*ela konasom ladir*), ten exit (*umotzi asarah*), one is taken (*venoteil mehen echad*), and the remaining five must combine with the next *goren* (*vehashar mitztaref legoren acher*).
 
-### Rashi on Goren Restricti…
+### Rashi: Goren Leftovers
 
 Rashi raises a difficulty: is this *chiddush* truly new? We already learned in an earlier *mishnah* that if one has five animals from one *goren* and five from another, they combine. We already knew that a remainder under ten cannot simply be ignored — it must await further combinations. What then is the novelty here?
 
@@ -56,7 +56,7 @@ Rav Nachman bar Yitzchak then offers a ringing endorsement: *zakai imei d'Rav Hu
 
 ---
 
-## Tenth's Reality (III)
+## Tenth's Reality
 
 ### Reality vs. Designation
 
@@ -104,7 +104,7 @@ This principle is intuitive: the act of calling eleven "ten" is meaningful only 
 
 ---
 
-## Tenth's Reality (III)
+## Tenth's Reality (II)
 
 ### Rava: Tenth Auto-Kadosh
 
@@ -130,7 +130,7 @@ The *Gemara* resolves this tension by limiting Rav Kahana's position carefully. 
 
 ---
 
-## Tenth's Reality (III)…
+## Tenth's Reality (III)
 
 ### Backward Counting
 
@@ -162,7 +162,7 @@ The answer is that the *ne'ikar shem asiri* requirement — the need to uproot t
 
 But when ten and eleven exit simultaneously, there is no competition to begin with. Neither has been designated before the other; the owner is calling both "ten" at exactly the same moment. In this case, *tarvaihu kadshi* — both are *kadosh*. Ten is *maaser*, and eleven acquires *kedushah* to be brought as a *shelamim*, without any need to have mislabeled ten.
 
-### Sequential vs. Simultane…
+### Sequential vs
 
 The *Gemara* confirms this by noting that the *mishnah*'s general principle — *kol shelo ne'ekar shem asiri mimenu, ein achad asar kadosh* — was stated as a *klal* after giving a specific sequential case. When one already gave the specific case of sequential miscounting (ten-ten-ten), the *klal* was added to extend the rule further. What does it include? The *Gemara* concludes: it comes to include the case where ten exits and one says nothing (*lo diber*), and then calls eleven "ten." Even silence about ten is insufficient to count as uprooting its name; one must actively mislabel it. If ten walks out and one remains silent, ten is still objectively *kadosh*, and eleven's subsequent designation carries no weight. To confer *kedushah* on eleven through the sequential process, one must affirmatively assign the wrong label to ten.
 
@@ -174,7 +174,7 @@ The *Gemara* confirms this by noting that the *mishnah*'s general principle — 
 
 The question now posed is: what exactly counts as mislabeling ten? If the tenth animal exits and one says nothing at all — neither calling it ten nor assigning it any other number — and then when the eleventh exits one calls it "ten," has one been *oker shem asiri*? Intuitively one might think so: ten was not acknowledged, and eleven was called ten. Is that sufficient?
 
-### Active Mislabeling Requi…
+### Actively Mislabel to Deny
 
 The *Gemara* answers: no. To be *oker shem asiri*, one must actively assign a wrong label to ten. Mere silence does not suffice. The rationale is that ten, as the genuine *maaser*, retains its objective status whether or not one speaks. Simply declining to acknowledge it leaves it fully intact as *kadosh*, and the subsequent designation of eleven as "ten" cannot override the standing of an animal that has already — silently but really — become *maaser*. Active mislabeling is required: one must call ten something it is not, thereby making a positive (if false) claim about its status that opens space for eleven's designation to be meaningful.
 

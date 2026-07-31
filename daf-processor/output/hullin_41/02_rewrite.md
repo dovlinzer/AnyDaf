@@ -142,7 +142,7 @@ The invocation of *u'vchukoteihem lo telechu* raises broader questions about the
 
 ## Hashochet L'shem Olah
 
-### L'shem Olah L'shem Zvach…
+### Shechita L'shem Olah
 
 The final *mishna* of the *perek* addresses a distinct category of problematic *shechita*: not intent for *avodah zarah*, but intent to designate an ordinary animal as a *korban* — a sacrifice — to be offered outside the *beit haMikdash*. This is the prohibition of *kodshim bachutz*, sacrificing outside the Temple precincts. The *mishna* lists: *hashochet l'shem olah, l'shem zevachim, l'shem asham talui, l'shem pesach, l'shem todah* — one who slaughters designating the animal as a *olah*, a peace-offering (*zevachim* = *shelamim*), a conditional guilt-offering (*asham talui*), a Passover sacrifice, or a thanksgiving offering. In all these cases: *shechitato pesulah* — the *shechita* is invalid.
 
@@ -152,7 +152,7 @@ The reason, though not stated explicitly by the *mishna*, is that these are all 
 
 *Rabbi Shimon* rules *machshir* — he validates the *shechita* in all these cases. Two approaches are offered in the *rishonim*. *rashi* explains that *rabbi shimon* is simply not concerned with appearances in this context. *tosafot* offer a more technically grounded explanation: *rabbi shimon* holds that if one explicitly designates an animal as an *olah* to be brought *outside* the *beit haMikdash*, the sanctification is void — *harei zo olah al menat she'avienah chutz la-Beit HaMikdash* has no effect according to *rabbi shimon*. Since any putative sanctification would be nullified, the act does not even superficially resemble *kodshim bachutz*, and there is therefore no basis for invalidation.
 
-### Shnayim Ochzin L'shem Ol…
+### Shnayim Ochzin Sakin
 
 The *mishna* then extends the ruling to the case of *shnayim ochazin b'sakin*, two people holding a knife together and slaughtering, one with intent for one of these problematic *korban* designations, and one with entirely kosher intent. As in the earlier case involving *avodah zarah*, *shechitato pesulah* — the *shechita* is invalid, because the problematic intent of one party, even combined with the legitimate intent of another, is sufficient to disqualify.
 
@@ -172,7 +172,7 @@ The *gemara* immediately raises a difficulty with the *mishna*'s first list. *as
 
 *Rabbi Yochanan* resolves this: *hai mani Rabbi Eliezer hi* — the *mishna* reflects the position of *rabbi eliezer*, who taught *mitnadev adam asham talui b'chol yom* — one may voluntarily bring an *asham talui* every single day. According to *rabbi eliezer*, an abstract, daily concern about possible unknown sins is sufficient basis to bring an *asham talui* without any specific concrete doubt. This transforms the *asham talui*, for *rabbi eliezer*, into something close to a free-will offering — one that anyone could genuinely be bringing at any time. Therefore, if someone slaughters and states it is for an *asham talui*, the claim is plausible, the appearance of *kodshim bachutz* is real, and the *shechita* is invalidated.
 
-### Pesach Pashuto Kol Hasha…
+### Pesach: Kol Hashana
 
 The same problem arises with *pesach*. A *korban pesach* can only be offered on the fourteenth of *nisan*; it is not a free-will offering that can be brought at will. Why, then, does the *mishna* list it among the invalidating designations?
 

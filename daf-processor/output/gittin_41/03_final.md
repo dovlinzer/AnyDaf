@@ -1,4 +1,5 @@
 # Gittin 41 — Daf Yomi Shiur
+[DAF:41a]
 
 ## Slave & Apoteki
 
@@ -240,6 +241,7 @@ Raba's reading of the debate thus emerges as follows. When it comes to money, al
 
 ## Rav Yosef's View
 
+[DAF:41b]
 ### Shtar All-or-Nothing
 
 > **Hebrew/Aramaic:** וְרַב יוֹסֵף אָמַר: מַחְלוֹקֶת בְּכֶסֶף – דְּרַבִּי סָבַר: ״וְהׇפְדֵּה לֹא נִפְדָּתָה״ – פְּדוּיָה וְאֵינָהּ פְּדוּיָה; וְרַבָּנַן סָבְרִי: דִּבְּרָה תּוֹרָה כִּלְשׁוֹן בְּנֵי אָדָם; אֲבָל בִּשְׁטָר – דִּבְרֵי הַכֹּל לֹא קָנָה.

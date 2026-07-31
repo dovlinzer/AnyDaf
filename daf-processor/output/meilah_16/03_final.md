@@ -1,4 +1,5 @@
 # Meilah 16 — Daf Yomi Shiur
+[DAF:16a]
 
 ## Core Me'ilah Principle
 
@@ -46,6 +47,7 @@ The *mishnah*'s second clause — that *sheratzim* combine — similarly invites
 
 ## Eating Sheratzim
 
+[DAF:16b]
 ### Rav: Kezayit Amount
 
 > **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה, אָמַר רַב: אֲכִילַת שְׁרָצִים – לוֹקֶה עָלָיו בִּכְזַיִת. מַאי טַעְמָא? ׳אֲכִילָה׳ כְּתִיב בְּהוּ.

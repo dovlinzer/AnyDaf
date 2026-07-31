@@ -1,4 +1,5 @@
 # Kiddushin 64b — Daf Yomi Shiur
+[DAF:64a]
 
 ## Hazakah & Mah Li Leshaker
 
@@ -58,6 +59,7 @@ The Gemara uses this analysis to make an important clarifying point. Rabbi Natan
 
 ## Hamekadesh Et Bito
 
+[DAF:64b]
 ### Bogeret Exclusion
 
 > **Hebrew/Aramaic:** מַתְנִי׳ הַמְקַדֵּשׁ אֶת בִּתּוֹ סְתָם – אֵין הַבּוֹגְרוֹת בַּכְּלָל.

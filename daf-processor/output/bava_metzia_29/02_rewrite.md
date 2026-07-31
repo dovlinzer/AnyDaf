@@ -32,7 +32,7 @@ The *gemara* resolves this: *sh'cheinei makom shenimtza bo ha'aveidah* — the n
 
 The *gemara* raises a pointed difficulty against Rabbi Yehuda's framework. The seven-day window after the final *regel* is predicated on a three-day journey home and a three-day return. But a *baraita* elsewhere establishes that one begins reciting *v'sein tal u'matar livracha* on the seventh of Marcheshvan — fifteen days after Sukkot — in order to allow the most distant inhabitants of the Land of Israel to travel home from Jerusalem. If the entire land can be reached in fifteen days but not in three, how can the *mishnah* assume that three days suffice?
 
-### R. Yosef: Population Den…
+### R. Yosef: Population Size
 
 Rav Yosef answers that the two sources describe different eras: *kan be-Mikdash Rishon, kan be-Mikdash Sheni* — one refers to the First Temple period and the other to the Second. During the First Temple, *d'nifishi Yisrael tuva* — the Jewish population was enormous, as the verse describes: *Yehuda ve-Yisrael rabbim ka-chol asher al ha-yam la-rov*, as numerous as the sand of the sea. With so many people, they were spread to the far reaches of the land, requiring fifteen days to reach the outermost communities. But in the early Second Temple period, *kol ha-kahal ke-echad arba rivo alapim shlosh me'os va-shishim* — the entire community numbered only forty-two thousand, three hundred and sixty. With so small a population, they were presumably concentrated closer to the center, requiring only three days of travel.
 
@@ -54,7 +54,7 @@ Rava cuts through the difficulty with a straightforward resolution: *lo shna Mik
 
 Ravina draws an inference from the *mishnah*'s structure regarding the content of the announcement itself. *Shema mina ki machriz, glima machriz* — one can deduce that when announcing a found object, one announces the specific item: "I found a coat," not merely "I found a lost object." If one were permitted to announce only generically, then a person who heard "I found an *aveidah*" would need to go home and conduct an exhaustive inventory of all his possessions to determine whether anything was missing. That would require an extra day — *be'inan lemitvei chad yoma u-le'ayunei be-manei* — yet the *mishnah* accounts only for three days of travel each way with no such extra allowance. It follows that the announcement must include the type of object, enabling the claimant to identify immediately whether it might be his.
 
-### Rava: Generic Announceme…
+### Rava: Generic Announce
 
 Rava pushes back. Even granting that the *mishnah* gives no extra day, one could explain this differently: *lo etrichu Rabbanan b'aveidah yoteir mida'i* — the rabbis did not impose an additional waiting period on the finder even though the generic announcement would require the claimant more search time. The reason one might prefer a generic announcement is to filter out *rama'im* — deceitful claimants. If the finder announces "I found a coat," he hands a would-be fraud the first piece of information they need for a false claim. By announcing only "I found an *aveidah*," the burden of identifying the object falls entirely on the claimant, making fraudulent guessing far more difficult. The tradeoff is that the claimant needs more time to search his belongings — but the rabbis chose not to extend the finder's waiting period to accommodate this. Both the specific and the generic formulations are thus defensible positions, and the *gemara* accepts Rava's counter as a legitimate alternative reading.
 
@@ -68,7 +68,7 @@ A *baraita* elaborates on the practice underlying the *mishnah*. In the original
 
 The *gemara* asks why: let him say "this is the third *regel*." The answer is *delo atei lachlufei be-sheni* — lest people mishear and confuse "third" for "second," leaving a claimant who has one *regel* remaining under the false impression that he still has two. By saying nothing at all on the third occasion, the ambiguity is eliminated; people understand from the omission that this is the final round. The *gemara* notes that a similar confusion on the second *regel* — between "second" and "first" — is less consequential, since even if someone mistakenly thinks they have two remaining chances, they actually still have one more.
 
-### Post-Destruction Adjustm…
+### Post-Destruction Takkanot
 
 Once the Temple was destroyed, the centralized gathering that made the Jerusalem announcement system possible was gone. The rabbis therefore instituted that announcements be made *be-vatei knesiyot u-ve-vatei midrashos* — in synagogues and study halls. These venues, while local rather than national, were the new centers of communal gathering. The *gemara* notes that this shift is emblematic of a broader historical transition: after the destruction of the *Beit HaMikdash*, the center of religious life and *kedushah* relocated to the *batei midrashos* and *batei knesiyot*.
 
@@ -104,7 +104,7 @@ The *mishnah*'s own language becomes a point of contention. *Amar aveidah ve-lo 
 
 Rav Safra, however, defends the position that the finder announces *gelima*. The *mishnah*'s phrase *lo amar simaneha* does not mean the claimant failed to name the object; it means he failed to provide *simanim muvhakim* — sufficiently distinguishing identifying marks. He may have said, "Was it a London Fog coat?" but that is not specific enough. The *mishnah* requires genuine *simanim*, not generic category identification. So one can read the *mishnah* as consistent with the announcement of *gelima* — the claimant echoed the category but did not supply the necessary particulars.
 
-### Baraita: Marks to Witnes…
+### Baraita: Witness Marks
 
 A *baraita* records a historical evolution in the verification standards. Originally, *simanim* were sufficient and any claimant who provided them received the object. Once *ha-ramaim rabu* — deceptive claimants became more prevalent — the rabbis instituted a more demanding requirement: before returning the object, the finder was to tell the claimant, *tze ve-hava eidim de-lav ramai at ve-tol* — go and bring character witnesses who will testify that you are an honest person, and then you may take the object. This represents a more systematic suspicion than the *mishnah*'s baseline, where a known *ramai* is disqualified but an ordinary claimant is trusted on *simanim* alone.
 

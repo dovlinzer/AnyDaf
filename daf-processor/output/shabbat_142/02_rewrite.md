@@ -1,10 +1,10 @@
 # Shabbat 142 — Daf Yomi Shiur
 
-## Muktzah with Permitted I…
+## Muktzah & Permitted Items
 
 ### Intro: Child/Basket Cases
 
-Today's daf is 142, and we pick up on the last line of 141b. The *mishna* there spoke about three related cases: picking up one's son when the child is holding a stone, moving a basket that has a stone inside it, and carrying *terumah teme'ah* together with *terumah tehorah*. The common thread running through all three cases is that *muktzah* is being moved together, as a single unit, with permitted items.
+ The *mishna* there spoke about three related cases: picking up one's son when the child is holding a stone, moving a basket that has a stone inside it, and carrying *terumah teme'ah* together with *terumah tehorah*. The common thread running through all three cases is that *muktzah* is being moved together, as a single unit, with permitted items.
 
 It is worth distinguishing this arrangement from *tiltul min hatzad*. *Tiltul min hatzad* — the indirect motion discussed previously — describes a one-time push, where one moves a *muktzah* item out of the way incidentally in order to reach something else. The cases in our *mishna* are different: the movement is sustained and ongoing, and although one is primarily moving a permitted item, the *muktzah* is along for the ride — a stone in the child's hand, a stone in the basket, and so on. The *mishna* indicates that this is permitted.
 
@@ -84,7 +84,7 @@ Rav Chisda refuses to accept this as a blanket allowance. He rules: *lo shanu el
 
 The *gemara* objects from a *baraita*: *metaltlin terumah teme'ah im hatehorah v'im hachullin* — one may carry *teme'ah terumah* together with *tehorah terumah* or with *chullin*. The *baraita* then explicitly addresses both positions: *bein shehatahorah lemala utme'ah lemata, bein sheteme'ah lemala vehatahorah lemata* — whether the *tehorah* is above and the *teme'ah* below, or the *teme'ah* is above and the *tehorah* below. Either way, it is permitted. This appears to directly contradict Rav Chisda.
 
-### Purpose Determines Oblig…
+### Grain vs. Space Need
 
 Rav Chisda responds: *matnisin letzorech gufo, braita letzorech mekomo* — the *mishna* addresses the case where one needs the grain itself; the *baraita* addresses the case where one needs the space occupied by the basket.
 
@@ -102,7 +102,7 @@ The pattern is by now entirely consistent: the *gemara* permits moving a *heter*
 
 ---
 
-## Terumah Separation on Sh…
+## Terumah & Pillow Shabbat
 
 ### Rabbi Yehudah's Allowance
 
@@ -126,7 +126,7 @@ The *gemara* connects the two positions: Rabbi Yehudah's allowance to physically
 
 The *gemara* verifies this alignment from a *baraita* on 142b: *Rabbi Yehuda omer ma'alin es hamiduma b'echad u'me'ah* — Rabbi Yehudah permits physical separation. *Rabbi Shimon ben Elazar omer nosen einav b'tzad zeh v'ochel mitzad acher* — Rabbi Shimon ben Elazar permits only mental designation. They are thus in debate. The *gemara* concludes: *Rabbi Yehudah azil k'Rabbi Shimon ben Elazar* — he follows the same underlying principle but takes it one step further, reasoning that if even the act of mental designation does not constitute fixing, then actual physical separation — which is no more substantial in terms of *tikkun* given that the *terumah* is already *batel* — should equally be permissible on *Shabbat*.
 
-### Fixing vs. Bitul Distinc…
+### Fixing vs. Bitul
 
 A crucial conceptual distinction underlies this entire discussion. There is a difference between saying that the grain is *fully fixed* and saying that the *terumah* is already *batel*. Under the principle of *kama kama batel*, the *terumah* becomes *batel* sequentially as each unit falls in; one does not need to posit that the designated unit has already been removed. Rather, the *terumah* is genuinely *batel* — though the rabbinic obligation to remove a unit remains. This means that in a second-degree mixture, when a unit from the *dimua* falls into a new container of *chullin*, one need not treat that unit as full *terumah*, because its *terumah* component was already *batel* in the original mixture. The *kama kama batel* principle operates only so long as the proportions remain such that *bitul* applies; once the mixture is detectably *tasted* or a contrary *rov* emerges, one can no longer invoke it.
 
@@ -154,7 +154,7 @@ The question is abstract in a way that may seem surprising. After all, directly 
 
 Rabba bar bar Chana said in the name of Rabbi Yochanan: *Rabban Shimon ben Gamliel hi* — it is Rabban Shimon ben Gamliel.
 
-### Sorting Majority vs. Min…
+### Sorting Legumes Yom Tov
 
 *D'tenan, haborer kitnit beyom tov* — if one sorts legumes on *Yom Tov*: Beit Shammai says *borer ochel v'ochel* — one selects the food to eat it immediately, much as one performs *borer* on *Shabbat*. Beit Hillel says *borer kedarko* — one may sort in the normal manner. Normally, the most efficient method is to remove the minority element — typically the *psoiles* (chaff or contaminants) — rather than the food itself. Beit Hillel permits this on *Yom Tov*, and further permits using one's lap (*becheyko*) or a vessel (*vetamchui*) to assist.
 
@@ -174,7 +174,7 @@ Rabba bar bar Chana, again in the name of Rabbi Yochanan, reiterates: *lo shanu 
 
 ---
 
-## Placing Permitted on Muk…
+## Placing Items on Muktzah
 
 ### Wallet Trick
 

@@ -6,7 +6,7 @@
 
 The daf opens with a final note on textile terminology pertaining to the *bigdei kehunah*. Two modes of craft appear in the relevant *pesukim*: *ma'aseh rokeim*, embroidery, and *ma'aseh choshev*, craftsman weaving. The distinction between these two techniques carries halakhic significance, as different garments of the High Priest were fashioned by one method or the other.
 
-### Rashi: Paint then Embroi…
+### Rashi: Painting & Textile
 
 Rabbi Eliezer's explanation is that *rokmin bemakom she'choshvin* — one embroiders in the place where one has pre-designated. The artisan identifies the area in advance, much as one does needlepoint on a canvas that has already been painted with a pattern, and then fills in the embroidery precisely where the design dictates. Rashi elaborates: *betichila metaken hatzura al habeged al yedei tzeva v'achar kach rokhma bemachat* — first one renders the design on the garment by means of dye or paint, and afterward embroiders it with a needle.
 
@@ -16,13 +16,13 @@ A *tanna* teaching in the name of Rabbi Nechemia draws the distinction different
 
 ---
 
-## Urim V'Tummim Inquir (II)
+## Urim V'Tummim Inquiry
 
-### Eight Garments Requireme…
+### Eight Garments: Urim
 
 The *mishna* introduces the topic of the *Urim v'Tummim*: the oracle housed within the *choshen*, the breastplate of the High Priest. The rule is that one may inquire of the *Urim v'Tummim* only when the *Kohen Gadol* is wearing the *shemonah begadim*, the eight priestly garments. The biblical source for this procedure appears in Bamidbar, in the passage where Moshe is commanded to transfer authority to Yehoshua. There it states that Yehoshua will stand before Elazar the priest, *v'sha'al lo bemishpat haUrim lifnei Hashem* — and he shall inquire of him according to the judgment of the *Urim* before God. It is thus established that the *Urim v'Tummim* is activated through the *Kohen Gadol* while wearing the full complement of eight garments.
 
-### Mashuach Milchama Garmen…
+### Mashuach Milchama Garmen
 
 When Rav Dimi came from Eretz Yisrael, he reported a ruling: *begadim sheKohen Gadol meshamesh bahen, Mashuach Milchama meshamesh bahen* — the same garments the *Kohen Gadol* wears in service, the *Mashuach Milchama* wears as well. The *Mashuach Milchama* is the priest anointed to lead the people into battle — the one who rises before the army and addresses those who have built a new house, taken a new wife, and so forth, as the Torah prescribes. If he were to return from the battlefield and serve in the *Beit HaMikdash*, according to Rav Dimi he would do so wearing the eight garments of the *Kohen Gadol*.
 
@@ -42,7 +42,7 @@ Rav Adda bar Ahava raises a challenge — and some attribute the objection to an
 
 The question arises in the context of a *braita* that seeks to identify who is obligated to bring the *asirit ha'eifah*, the daily meal-offering of a tenth of an *eifah*, brought half in the morning and half in the afternoon. The *braita* asks whether the *Mashuach Milchama*, who is also anointed with oil, might be included in this obligation. The answer is no, because the relevant verse indicates that this obligation attaches only to a *Kohen* whose status carries an element of inheritance — and the *Mashuach Milchama*'s position does not pass to his son. It is worth noting that even by the *Kohen Gadol*, the inheritance of office is not absolute in the way kingship is: while there is a preference for the son of the outgoing *Kohen Gadol*, if another candidate is manifestly more worthy, that candidate takes precedence. By the *Mashuach Milchama*, however, there is no such preferential inheritance at all — whoever is anointed for leading the people into war carries no transmission of that status to his descendants.
 
-### Seven-Day Initiation Ver…
+### Seven-Day Initiation
 
 The *braita* derives this distinction from a verse in Vayikra: *shivat yamim yilbasham hakohen tachtav mibanav asher yavo el ohel moed* — for seven days the *Kohen* who succeeds him from among his sons, who will come to the *Ohel Moed*, shall wear them. This verse connects the seven-day initiation into the garments — recalled from the very opening of the tractate, the seven days of *miluim* — with a particular category of *Kohen*: one who *yavo el ohel moed*, who will enter the *Ohel Moed*. The *Gemara* reads *Ohel Moed* here as referring to the *Kodesh Kodashim*, the Holy of Holies, entered by the *Kohen Gadol* on Yom Kippur. The phrase *hakohen tachtav mibanav* thus signals an inherited aspect of the role, and that inherited dimension belongs exclusively to the *Kohen* who performs the *avodah* on Yom Kippur — the *Kohen Gadol* — rather than the *Mashuach Milchama*.
 
@@ -56,7 +56,7 @@ Rav Nachman bar Yitzchak responds: *lo hachi ka'amar* — the *braita* is not ma
 
 ---
 
-## Braita Denial & Reinterp…
+## Braita Denial/Reinterpret
 
 ### No Four, No Eight
 
@@ -70,13 +70,13 @@ Abaye objects immediately: *ela zar mashvit lei?* — are you making him a non-*
 
 Abaye therefore proposes a resolution: in principle, the *Mashuach Milchama* should wear the eight garments like the *Kohen Gadol* — this is what Rav Dimi said, and it is what logic demands. However, in practice he does not, because of *eivah* — enmity. The *Kohen Gadol* would perceive it as a threat to his dignity and status were another figure to wear the same eight *begadim*. The rabbinic concern for *eivah* therefore prevents the *Mashuach Milchama* from wearing eight *begadim*, and since he cannot be demoted to four — for one may increase in sanctity but not decrease, *ma'alin bakodesh v'ein moridin* — he ends up wearing neither. Abaye thus reads the *braita* as consistent with Rav Dimi's principle: in theory the *Mashuach Milchama* wears eight *begadim*, but rabbinic ordinance withholds this due to *eivah* concerns.
 
-### Challenge to Eivah Expla…
+### Challenge to Eivah Rule
 
 Rav Adda bar Ahava challenges Abaye's reading directly: I will show you a *tanna* who does not hold of *eivah* concerns at all, yet still denies the *Mashuach Milchama* the eight *begadim*. If the only reason for the denial were *eivah*, any *tanna* unconcerned with such considerations would simply permit the eight *begadim* — but there exists a *tanna* who, even without *eivah* as a factor, maintains that the *Mashuach Milchama* fundamentally does not wear them. The source for this contention is a lengthy *braita*.
 
 ---
 
-## Status Distinctions Brai…
+## Status: Kohanim Types
 
 ### High Priest Privileges
 
@@ -86,17 +86,17 @@ The *braita* — drawn largely from material paralleled in Tractate *Horiyos* �
 
 The *braita* continues: *v'eino ochel* — though he brings sacrifices as an *onen*, he does not eat of them. And *v'eino cholek* — since he does not eat that day's portion, he receives no share in the distribution of those offerings, even when his *aninut* has passed. *V'notel chelek berosh* — whenever he arrives at the *Beit HaMikdash*, he takes the first and choicest portion of any distribution of sacrifices. *U'makriv chelek berosh* — he may likewise preempt the regular rotation and perform whichever *avodah* he wishes. *U'meshamesh bishmona keilim* — he wears eight garments rather than four. *U'fatur al tumas mikdash vekodasheha* — if he enters the *Beit HaMikdash* while *tamei*, he is exempt from bringing a *korban* for it, though the act itself is certainly forbidden. *V'chol avodat Yom HaKippurim imeshe bo* — the entire service of Yom Kippur may only be performed by him.
 
-### Non-Anointed & Previous…
+### Non-Anointed High Priest
 
 All of these privileges apply equally to a *Kohen Gadol* who was not anointed with the *shemen hamishchah* — a *merubeh begadim*, one who was initiated into the position solely through wearing the eight *begadim*, as was the practice after the *shemen hamishchah* was hidden away. The single exception is the *par ha'ba al kol hamitzvot*, the special bull brought for an inadvertent violation of a biblical commandment, which the *Gemara* elsewhere establishes is reserved exclusively for one anointed with the *shemen hamishchah*.
 
 All of these privileges also continue to apply to a *Mashuach she'avar*, a previous *Kohen Gadol* — one who served temporarily, as when a substitute *Kohen Gadol* was appointed in case the acting *Kohen Gadol* became disqualified before Yom Kippur, and who afterward returns to a kind of emeritus status. For such a figure, all the privileges enumerated above continue. Two exceptions apply: the *par Yom Kippur* and the *asirit ha'eifah*. Both of these are singular daily obligations — there is only one *par* on Yom Kippur and only one daily *minchah* — and so they belong exclusively to the currently serving *Kohen Gadol*.
 
-### Mashuach Milchama's Five…
+### Mashuach Milchama: 5 Laws
 
 The *braita* then turns to the *Mashuach Milchama*: *v'chulan einan nohagot bemishuach milchama* — none of these privileges apply to the priest anointed for war, *chutz mechamisha devarim ha'amurim baparsha* — except for the five things enumerated explicitly at the beginning of Parashat Emor. These five are: *lo porea v'lo porem* — his hair does not grow wild, and he does not rend his garments in mourning; *v'lo mitamei likrovav* — he does not become *tamei* to his relatives; *u'metzuveh al habetulah* — he is commanded to marry a *betulah*; and *u'muzhar al ha'almana* — he is prohibited from marrying a widow. Rashi notes that the *braita*'s language does not include *makriv onen* among his privileges, and the *Gemara* elsewhere derives that this does not apply to him. According to Rabbi Yehuda, a sixth item applies: *u'machazir et harotzeach* — his death releases the inadvertent murderer from the *ir miklat*; the Sages, however, disagree: *Chachamim omrim eino machazir*.
 
-### Conclusive Proof Against…
+### Mashuach Milchama: No
 
 The critical conclusion emerges here. The *braita* shows that the *Mashuach she'avar* — the previous *Kohen Gadol* — still wears the eight *begadim* and still serves in the *Beit HaMikdash*. Yet despite the fact that both the *Mashuach she'avar* and the *Mashuach Milchama* are cited in the same context, the *braita* lists wearing the eight *begadim* among the privileges that do *not* apply to the *Mashuach Milchama*. This is taken as conclusive proof that the *Mashuach Milchama* does not wear the eight *begadim* in the *Beit HaMikdash*.
 
@@ -106,7 +106,7 @@ The *Gemara* attempts to preserve the *eivah* framework by making a distinction:
 
 ---
 
-## Battlefield Inquiry Acco…
+## Mashuach Milchama Inquiry
 
 ### Battle-Context Inquiry
 
@@ -124,7 +124,7 @@ A *braita* supports Ravin's version: *begadim sheKohen Gadol meshamesh bahen, Ma
 
 The *Gemara* now addresses the mechanics of consulting the *Urim v'Tummim*. A *braita* describes the procedure: *hashoel panav k'lapei nishal* — the one posing the question faces the one being asked, the *Kohen Gadol* or the *Mashuach Milchama*. *V'hanishal panav k'lapei Shechina* — and the one being asked faces the *Shechina*. Rashi explains that facing the *Shechina* means looking toward the *choshen* itself, which contains God's name written within the *Urim v'Tummim*. The response is then given in God's name, as illustrated by the verse: *koh amar Hashem aleh v'hatzliach* — so says God, go up and succeed. Rabbi Yehuda dissents: *ein tzarich lomar koh amar Hashem* — there is no need to preface the answer with "so says God," since it is self-evident that the response comes in His name. He would simply say *aleh v'hatzliach*, go up and succeed.
 
-### Soft Verbalization Stand…
+### Soft Verbalization
 
 The *braita* continues: *ein shoalin bekol* — one does not ask in a loud voice. The proof comes from the verse in Bamidbar, *v'sha'al lo* — he shall ask *to him*, meaning privately, audible only to the *Kohen* and not to the surrounding multitude. Conversely, *v'lo meharher belibo* — one does not merely contemplate the question in one's heart without verbalizing it. The proof is the subsequent phrase, *al piv yetzu v'al piv yavo'u* — by his word they shall go out and by his word they shall come back — indicating that the inquiry must be verbally expressed. The manner of speaking is thus precisely that of Chanah's silent prayer: *veChanah hi medaberet al libah, rak sfateiha na'ot v'kolah lo yishama* — Chanah was speaking upon her heart, only her lips moved but her voice could not be heard. The inquiry must be verbalized, not merely thought, but spoken so softly that only the *Kohen* can hear. It is striking that the *braita* frames this mode of address as akin to prayer.
 
@@ -154,15 +154,15 @@ A dispute follows regarding how precisely the *Urim v'Tummim* communicated. The 
 
 A problem arises for either view: going through the names of the twelve tribes, one finds no letter *tzadi* — and, as the Vilna Gaon points out, the letters *chet* and *kuf* are also absent. The full alphabet is thus not representable by the tribal names alone. If the communication depended on the existing letters either protruding or recombining, certain messages could never be spelled out.
 
-### Alphabet Completion Solu…
+### Alphabet Completion: Rav
 
 Two resolutions are offered. Rav Acha bar Yaakov proposes that *shivtei Yeshurun katuv sham* — an additional inscription, *shivtei Yeshurun* ("the tribes of Jeshurun"), was also written on the stones, supplementing the names and providing the missing letters. Shmuel bar Yitzchak proposes differently: *Avraham Yitzchak v'Yaakov katuv sham* — the names of the three patriarchs were distributed across the twelve stones alongside the tribal names, completing the full alphabet in that manner.
 
-### Ruach HaKodesh Requireme…
+### Ruach HaKodesh: Evyatar
 
 A *braita* introduces a further condition: *kol kohen she'eino medaber b'ruach hakodesh v'shechinah shorah alav ein shoalin bo* — any priest who does not speak with *ruach hakodesh* and upon whom the *Shechina* does not rest is not consulted. The *Urim v'Tummim* is not a mechanical device that operates independently of the spiritual state of the priest. The example cited is Evyatar: when he was asked a question via the *Urim v'Tummim*, no answer came to him, as the verse indicates by the phrase *ya'aseh v'lo alsa lo* — the answer did not ascend to him, in contrast to an inquiry that succeeds.
 
-### Ruach HaKodesh Assists U…
+### Ruach HaKodesh & Urim
 
 The *Gemara* clarifies the relationship between *ruach hakodesh* and the *Urim v'Tummim*. One might have thought that what the *braita* is saying is that the entire mechanism is simply the priest receiving divine inspiration — that it is *ruach hakodesh* alone, not the letters, that conveys God's message, and that the *Urim v'Tummim* is merely a condition for the priest to attain that inspiration. The *Gemara* rejects this reading. Rather, *siyua havei mesaye b'hadaihu* — the *ruach hakodesh* assists the *Urim v'Tummim*; the two work in conjunction. The *ruach hakodesh* is a necessary precondition — without it the oracle is inoperative, as Evyatar demonstrates — but it does not replace the mechanism of the letters. The communication still occurs through the letters, whether they protrude (Rabbi Yochanan) or recombine (Reish Lakish), and the *ruach hakodesh* enables the priest to correctly read and interpret what the letters convey.
 
@@ -248,7 +248,7 @@ The difficulty is the principle of *mushba v'omed meHar Sinai* — one is alread
 
 Rav, Shmuel, and Rabbi Yochanan all give the same answer: *bekolel devarim hamutarim im devarim ha'asurim* — the case is where the oath encompassed permitted foods together with forbidden ones. When the person said *shvuah shelo ochel*, I will not eat anything, the oath took effect upon all the permissible foods in that category. Once the oath validly attaches to permitted foods, it simultaneously covers the forbidden foods included within the same category — this is the principle of *kolel*. The oath thus takes effect on the non-kosher food as well, carried along by its application to the kosher foods, and eating non-kosher food then constitutes a violation of the oath.
 
-### Reish Lakish's Specifici…
+### Reish Lakish: Oath Intent
 
 Reish Lakish, however, takes a different approach. He holds that a valid oath can take effect on forbidden food only in two specific scenarios. The first is *bimfareish chatzi shiur* — if one explicitly swears not to eat even a *chatzi shiur* of forbidden food. The oath then takes effect because one is not foresworn from Sinai against a *chatzi shiur* of *chazir*; the Torah only prohibited a full *kezayit*, and the *chatzi shiur* restriction, according to Reish Lakish, is only rabbinic. An oath can take effect upon something that is rabbinically but not biblically prohibited. The second scenario is *b'stam aliba d'Rabbi Akiva* — according to Rabbi Akiva, a general oath (*stam shvuah*) not to eat is understood to prohibit even a tiny amount; since that tiny amount of forbidden food is not itself biblically pre-forsworn, the oath takes hold.
 

@@ -98,7 +98,7 @@ This pattern raises a broader halakhic question about the tension between subjec
 
 ---
 
-## Geographic Characteristi…
+## Geographic Traits
 
 ### Mnemonic Markers
 

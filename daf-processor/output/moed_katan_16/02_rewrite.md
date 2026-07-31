@@ -144,7 +144,7 @@ Rabban Gamliel introduces a crucial ruling: *echad min hatalmidim shenidah u'mes
 
 The *gemara* derives *shalosh* — three inferences — from Rabban Gamliel's ruling. First, *shema mina talmid shenidah l'chavodo niduyo niduy*: this confirms the concept of personal *niduy*, *niduy l'chavodo* — a student may impose *niduy* on someone who treated his honor with contempt, and such a *niduy* is halachically valid even without a formal institutional mandate. Second, *kol echad ve'echad mefer chelko*: each party to the original *niduy* releases his own portion, suggesting that each member of the *beis din* must participate in the release for it to take effect. Third, *shema mina hanei bei tlasa de'shamisu lo asu tlasa achrina ve'sharei leih*: the original three who imposed the *niduy* cannot simply be replaced by a different three for the release — the original court must be the releasing authority.
 
-### Personal vs. Institution…
+### Personal vs Institutional
 
 This third inference is particularly important for distinguishing between personal *niduy* and institutional *niduy*. A personal *niduy*, *l'chavodo*, is tied to the individual who imposed it. Because it is rooted in a personal violation, the person who was wronged must personally participate in the release. An institutional *niduy* — imposed because of a broader violation of communal norms, court procedures, or religious standards — belongs to the community as a whole and is not tied to any particular individual. In that case, presumably any competent authority could release it.
 

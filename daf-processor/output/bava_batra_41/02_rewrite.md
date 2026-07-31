@@ -84,7 +84,7 @@ Rabbi Chiya's ruling navigates this by requiring that the occupant establish at 
 
 Rav, who was studying before Rabbi Chiya (his uncle, whom he called *chavivi* — my beloved), raised a challenge: *ve-chi ein adam asui likach ve'limkor ba'layla* — is it not possible for a transaction to occur at night? Shimon might have purchased from Reuven and immediately resold to the occupant, all in one night, never spending even a day in the property. If so, requiring proof of one day of presence may set the bar too high and invalidate legitimate transactions.
 
-### Direct Knowledge OR Evid…
+### Direct Knowledge or Edim
 
 Rav reports that from Rabbi Chiya's manner of responding, he was able to discern his position: *ee amar lei kamei didi zavnah minach meheman* — if the occupant says, "I personally witnessed Shimon purchase it from you," that direct testimony is itself a valid *ta'ana*, regardless of whether Shimon was ever present on the property for a day. This works through the principle of *migo*: just as the occupant would be believed if he said, "I myself bought it from Reuven directly, and I lost my *shtar*," he can equally be believed when he claims direct eyewitness knowledge that Shimon validly purchased it from Reuven and then sold it to him. So Rabbi Chiya's position is not that one day of presence is the only path: the requirement is either direct knowledge of Shimon's acquisition, or, in the absence of such direct knowledge, at least one day of demonstrated presence on the property.
 

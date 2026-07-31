@@ -18,11 +18,11 @@ The thread connecting these cases to Rabbi Meir's requirement — that the conte
 
 ## Archin Debate
 
-### Archin, Charamin, Hekdes…
+### Archin, Charamin, Hekdes
 
 The *braisa* proceeds to specify what debate in each domain exemplifies the point. For *archin*, it is the dispute between Rabbi Meir and the *rabbanan*, as recorded in a *braisa*: if someone says *erech ploni alai* — pledging the Torah-mandated *erech* valuation of a person — but the individual in question is an infant less than one month old, the Torah's *erech* schedule does not apply to such a child. What then?
 
-### Erech Pachus Miben Chode…
+### Erech Pachus Miben Chod
 
 Rabbi Meir rules *nosein damav* — the pledgor must pay the infant's market value as a slave, even though the term used was *erech* rather than *dmei*. His reasoning is the principle of *ein adam motzi dvarav l'vatala*: a person does not make a declaration without intending some practical consequence, so we interpret the pledge as if he had said *dmei ploni alai*. The *chachamim*, however, rule *lo amar klum* — he said nothing legally effective, since the formula he used (*erech*) has no applicability to an infant under one month. 
 
@@ -118,9 +118,9 @@ The Gemara answers with a simple *lo* — no, you need not read the double langu
 
 ---
 
-## Tosefta: Original Disput…
+## Tosefta: Disputes Court
 
-### Rebbi Yose on Original D…
+### Rebbi Yose: No Prolif.
 
 The Gemara cites a *tosefta*, familiar from *Sotah*, *Chagigah*, and other places. Rabbi Yose states: *mi-techila lo hayu marbin machloket b'Yisrael* — originally, disputes did not proliferate in Israel. In the context of *Chagigah*, the *zugos* — the pairs of *Nasi* and *Av Beis Din* who preceded Hillel and Shammai — debated only one or two points, such as the question of *smicha* on *korbanos* on *Yom Tov*. The system worked because there was always a method to resolve any disagreement: when a question arose, it would travel up through successive levels of the court hierarchy until it reached an authoritative resolution, and the mechanism of that resolution was predominantly *shemuah* — received tradition.
 
@@ -156,9 +156,9 @@ The Gemara appends a related tradition. The question was asked: who is deserving
 
 ---
 
-## Halacha L'Ma'aseh Requir…
+## Halacha L'Ma'aseh & Psak
 
-### Acting or Teaching Requir…
+### Zaken Mamre: Act/Teach
 
 Returning now to the *mishna* — *chazar le-iro ve-shanah*, if the *zaken mamre* returns to his city and resumes teaching his ruling, he does not become *chayav* until he crosses the threshold of *halacha l'ma'aseh*: he must either act on his ruling himself or instruct others who then act upon it. A *braisa* records this explicitly: *eino chayav ad she-ya'aseh ke-horato* — he is not *chayav* until he acts according to his teaching — *o she-yoreh le-acherim ve-ya'asu ke-horato* — or until he rules for others and they act accordingly.
 
@@ -166,13 +166,13 @@ Returning now to the *mishna* — *chazar le-iro ve-shanah*, if the *zaken mamre
 
 The Gemara immediately raises a challenge to the second element of the *braisa* — the case where he teaches and others act — is straightforward: *me-ikara lav bar katla hu ve-hashta bar katla hu*. Before others acted, he was not yet *chayav misah*; once they act upon his ruling, he is. The transition is what makes him liable. But regarding the first element — the case where he himself acts on his ruling — a difficulty arises. If the underlying matter is something like *Shabbos* desecration, and he goes ahead and acts on his view that the practice is *mutar*, why do you need the *zaken mamre* framework at all? Even without the *zaken mamre* framing, if a person performs a *melacha d'Oraita* on *Shabbos* in violation of accepted *halacha*, he is *mechalel Shabbos*. What does the *zaken mamre* status add?
 
-### Transition Eliminates Ha…
+### Transition Eliminates
 
 The Gemara's first answer is that the *braisa* is speaking of a case involving *chelev* and *dam* — violations that carry *kares* rather than *misa b'Beis Din*. In such a case, *me-ikara lav bar katla hu ve-hashta bar katla hu*: before the *zaken mamre* designation, eating *chelev* in violation of accepted *halacha* would make him *chayav kares*, not *chayav misa*. Once he has gone before the *Beis Din HaGadol*, received their ruling, returned, and acted on his opposing view, he is now *chayav misa*. The *zaken mamre* framing thus elevates the consequence from *kares* to execution.
 
 But what about a case of *chayavei mitos Beis Din* — where the underlying violation itself already carries the death penalty? The Gemara then offers the key answer: *me-ikara ba'ei hatra'ah ve-hashta la ba'ei hatra'ah*. Before the *zaken mamre* framing, any execution for the underlying violation would require *hatra'ah* — a formal warning at the moment of commission. Now, however, because he has already stood before the *Beis Din HaGadol* and been told explicitly that he is wrong, and despite that he has returned to his city and acted on his view, the process of the *Beis Din*'s adjudication itself functions as the effective warning. He does not require a fresh *hatra'ah* at the moment of the act; what the *zaken mamre* framework accomplishes is to make him *chayav misah* for the sin of *zaken mamre* itself — without the need for *hatra'ah* — even though the underlying violation, taken in isolation, would have required it.
 
-### Meisis & Avodah Zarah
+### Meisis & Avodah Zara
 
 The Gemara presses further. What if the case involves *avodah zarah* and he was acting as a *meisis* — one who entices others to idolatry — a category that already does not require *hatra'ah*? In that case, it seems, the *zaken mamre* framing adds nothing with respect to eliminating the *hatra'ah* requirement, since *meisis* dispenses with *hatra'ah* independently. Why then would we invoke *zaken mamre* at all?
 

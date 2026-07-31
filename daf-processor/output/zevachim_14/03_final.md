@@ -1,4 +1,5 @@
 # Zevachim 14 — Daf Yomi Shiur
+[DAF:14a]
 
 ## Four Avodos & Pigul
 
@@ -230,6 +231,7 @@ Rav Chisda responds that *holacha* performed by a *zar* is *keshera* — valid �
 
 Rav Sheshes objects from an explicit *Baraita*: *zar ve'onen, shikor u'vaal mum — bekabbala, beholacha uvizrika pasul*. A non-*kohen*, a mourner (*onen*), someone intoxicated, or someone with a physical blemish — all of these disqualify the sacrifice if they performed *kabbala*, *holacha*, or *zerika*. The only exception is *shechita*. This *Baraita* is unambiguous. It goes on to note: *vechen yoshev vechen smol* — similarly, performing these *avodos* while seated or with the left hand is invalid, because service in the *Beis HaMikdash* must be performed while standing, as derived from *laamod leshares*. The contradiction between this *Baraita* and Rav Chisda's reading of the *Divrei Hayamim* passage requires resolution.
 
+[DAF:14b]
 ### Pedestal Solution
 
 > **Hebrew/Aramaic:** דְּעָבֵיד מַעֲשֶׂה אִצְטְבָא.

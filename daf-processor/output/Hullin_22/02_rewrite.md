@@ -64,7 +64,7 @@ The role of ve-hikrivo, then, is first to sever the olat ha-of from the associat
 
 ---
 
-## Learning from Animal Cha…
+## Bird Olat Ha-of Animal
 
 ### What Do We Learn
 

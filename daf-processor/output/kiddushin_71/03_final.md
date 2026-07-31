@@ -1,4 +1,5 @@
 # Kiddushin 71 — Daf Yomi Shiur
+[DAF:70b]
 
 ## Chashmonai Testimony
 
@@ -154,6 +155,7 @@ Rabbi Yehoshua ben Levi, however, turns this passage on its head: *kesef metaher
 
 The Ri"f, however, reads *kesef metaher mamzeirim* more literally and more cleverly: the halachic mechanism by which a *mamzer* can produce non-*mamzer* offspring is through marriage to a *shifcha* — a female slave — whose child, being a slave, can then be freed and thereby exits the status of *mamzer* entirely. The money involved is the purchase price of the slave. This is an elegant halachic reading.
 
+[DAF:71a]
 ### Mixed Family Rule
 
 > **Hebrew/Aramaic:** גּוּפָא, אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: כׇּל אֲרָצוֹת עִיסָּה לְאֶרֶץ יִשְׂרָאֵל, וְאֶרֶץ יִשְׂרָאֵל עִיסָּה לְבָבֶל. בִּימֵי רַבִּי בִּקְּשׁוּ לַעֲשׂוֹת בָּבֶל עִיסָּה לְאֶרֶץ יִשְׂרָאֵל. אָמַר לָהֶן: קוֹצִים אַתֶּם מְשִׂימִים לִי בֵּין עֵינַי? רְצוֹנְכֶם, יִטָּפֵל עִמָּכֶם רַבִּי חֲנִינָא בַּר חָמָא.
@@ -178,6 +180,7 @@ The Gemara introduces a teaching of Rav Yehuda in the name of Shmuel that return
 
 In the time of Rabbi, the question arose whether to reverse this ranking — to say that Bavel had perhaps deteriorated over time and should be considered *issa* relative to Eretz Yisrael. Rabbi responded sharply: *kotzim atem matilim li bein einai* — you are placing thorns in my eyes. Since Rabbi was descended from Hillel, and Hillel came from Bavel, any downgrading of Babylonian *yichus* would undermine Rabbi's own genealogical standing and his claim of descent from the house of David. Accordingly, he deferred the matter to Rabbi Chanina bar Chama, who engaged those raising the challenge and reported: *kach mikubalni mi'Rabbi Yishmael be'Rabbi Yossi she'amar mishum aviv* — this is the tradition I received from Rabbi Yishmael in the name of his father: all lands are dough compared to Eretz Yisrael, and Eretz Yisrael is dough compared to Bavel. The tradition was thus confirmed independently, which was important precisely because Rabbi himself could not have reported it without appearing self-interested.
 
+[DAF:71b]
 ### Diversion Strategy
 
 > **Hebrew/Aramaic:** בִּימֵי רַבִּי פִּנְחָס בִּקְּשׁוּ לַעֲשׂוֹת בָּבֶל עִיסָּה לְאֶרֶץ יִשְׂרָאֵל. אָמַר לָהֶם לַעֲבָדָיו: כְּשֶׁאֲנִי אוֹמֵר שְׁנֵי דְבָרִים בְּבֵית הַמִּדְרָשׁ טְלוּנִי בַּעֲרִיסָה וְרוּצוּ. כִּי עָיֵיל אָמַר לָהֶם: אֵין שְׁחִיטָה לָעוֹף מִן הַתּוֹרָה. אַדְּיָתְבִי וְקָמְעַיְּינִי בַּהּ, אֲמַר לְהוּ: כׇּל אֲרָצוֹת עִיסָּה לְאֶרֶץ יִשְׂרָאֵל, וְאֶרֶץ יִשְׂרָאֵל עִיסָּה לְבָבֶל. נְטָלוּהוּ בַּעֲרִיסָה וְרָצוּ. רָצוּ אַחֲרָיו וְלֹא הִגִּיעוּהוּ. יָשְׁבוּ וּבָדְקוּ עַד שֶׁהִגִּיעוּ לְסַכָּנָה וּפֵירְשׁוּ.
@@ -254,6 +257,7 @@ Shmuel said in the name of an elder: *Bavel bechezkat ksheira omedet ad sheyivad
 
 This last formulation seems internally contradictory — it establishes no default. The Gemara asks: *hagufei kashya* — is this not self-contradictory? The statement *muchzak lepasul pasul* implies that absent that knowledge the person is *kasher*, making *kasher* the default; yet *muchzak lekasher kasher* implies the opposite. Rav Huna bar Tachalifa resolves this in the name of Rav: *kan lehasi'o isha kan lehotzi isha miyado* — one clause speaks to permitting him to marry, and the other speaks to compelling a divorce after the fact. Before marriage to someone of distinguished lineage, a man from Eretz Yisrael must establish his *yichus*; but once married, only demonstrated *psul* can undo it. Rashi and Tosafot both connect this to the specific case of marrying into a family of elevated status, not to ordinary marriages — a normal person is not required to prove his lineage before marrying.
 
+[DAF:71b]
 ### Diversion Strategy
 
 > **Hebrew/Aramaic:** הָא גוּפַאּ קַשְׁיָא: אָמְרַתְּ מוּחְזָק לְפָסוּל – פָּסוּל. הָא סְתָמָא – כָּשֵׁר. וַהֲדַר תָּנֵי: מוּחְזָק לְכָשֵׁר – כָּשֵׁר. הָא סְתָמָא – פָּסוּל! אָמַר רַב הוּנָא בַּר תַּחְלִיפָא מִשְּׁמֵיהּ דְּרַב: לָא קַשְׁיָא, כָּאן – לְהַשִּׂיאוֹ אִשָּׁה, כָּאן – לְהוֹצִיא אִשָּׁה מִיָּדוֹ.

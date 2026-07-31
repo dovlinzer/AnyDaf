@@ -30,7 +30,7 @@ With that backdrop, the Gemara arrives at the position of Rabbi Eliezer, which p
 
 ## Forbidden Relations
 
-### Baraita: Forbidden Partn…
+### Baraita: Forbidden Pairs
 
 The Gemara now introduces a *baraita*. The text, five lines from the bottom of 74b, three lines before the line becomes wide, begins: *tanu rabbanan*. The *baraita* enumerates a list of men — a *ger Amoni u-Moavi, Mitzri v'Edomi*, a *Kuti*, a *nasin*, a *challal*, and a *mamzer* — and states that any of these, being at least nine years old such that their act of intercourse is legally consequential, who had intercourse with a *kohenet*, a *leviyah*, or a *bat Yisrael*, have invalidated that woman — *pasluha*. This is because any such forbidden act of intercourse effectively transforms the woman into a *challalah* and renders her forbidden to a *kohen*.
 

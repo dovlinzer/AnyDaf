@@ -8,7 +8,7 @@ We open the final *daf* of Bava Batra with the *gemara* that follows the *mishna
 
 *Amar Ulla*: Ulla holds that, *dvar Torah* — as a matter of Torah law — whether a loan was made with a written document or whether it was made purely orally, the lender would be entitled to collect from encumbered property. Liens exist as a matter of biblical reality. The act of lending money, in and of itself, creates the legal phenomenon of *shibud* — an encumbrance on the borrower's assets. No additional instrument is required to bring that encumbrance into existence.
 
-### Rabba: Liens Rabbinic On…
+### Rabba: Rabbinic Liens
 
 Rabba disagrees entirely. According to Rabba, the Torah recognizes no category of liens at all. Whether the loan was documented in a *shtar* or was entirely oral, the Torah's default position is that a lender may collect only from *bnei chorin* — unencumbered property in the borrower's direct possession. It is worth noting, as Tosafot points out, that Rabba may be making an even more radical claim: that even if the document explicitly stipulated that the borrower's property should be encumbered, the Torah would recognize no such legal reality. The concept of a lien — the notion that a creditor holds a right in property even after it has been transferred to a third party — may simply not exist as a biblical category.
 
@@ -110,7 +110,7 @@ By contrast, when Michael hands over his hand-written IOU and only later does th
 
 ## Guarantor Obligations
 
-### Before vs. After Witness…
+### Guarantor: Before/After
 
 The *gemara* returns to the case of the guarantor who signs on a *shtar*. Rav rules: if the guarantor's signature appears before the witnesses sign — that is, his commitment is embedded within the body of the document and the witnesses are then signing to attest to the whole — then the lender *goveh mi-nechasim meshubadim*, he has liens on the guarantor's property. If the guarantor's signature appears after the witnesses have already signed — as in the *mishna*'s case — then the lender *goveh mi-nechasim bnei chorin*, he can collect from the guarantor's unencumbered property but has no liens. This is essentially the ruling of Rabbi Yishmael in the *mishna*, now spelled out with its underlying rationale: the placement of the guarantor's commitment relative to the witnesses determines whether his obligation carries a *shtar* with *shibud*.
 

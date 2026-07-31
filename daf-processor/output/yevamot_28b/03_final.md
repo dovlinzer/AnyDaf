@@ -1,4 +1,5 @@
 # Yevamot 28b — Daf Yomi Shiur
+[DAF:28a]
 
 ## Achot Zekukato
 
@@ -34,6 +35,7 @@ The *gemara* responds: *kevan de-de'oraita ramya kammei* — since at the biblic
 
 This was a genuine and reasonable *hava amina*: if everything is *derabbanan*, let a *derabbanan ervah* resolve a *derabbanan* difficulty. The *gemara* rejects it cleanly, but it was not an unreasonable idea.
 
+[DAF:28b]
 ### One vs. Two Ervas
 
 > **Hebrew/Aramaic:** הָיְתָה אַחַת מֵהֶן כּוּ׳. הָא תְּנֵינָא חֲדָא זִימְנָא: אֲחוֹתָהּ כְּשֶׁהִיא יְבִמְתָּהּ — אוֹ חוֹלֶצֶת אוֹ מִתְיַיבֶּמֶת!

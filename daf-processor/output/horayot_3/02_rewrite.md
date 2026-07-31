@@ -16,7 +16,7 @@ The answer lies in understanding what *korbanot* are actually about. The *korban
 
 ---
 
-## Baraita Interpretati (II)
+## Baraita Interpretation
 
 ### Case Analysis
 

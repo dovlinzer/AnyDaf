@@ -1,4 +1,5 @@
 # Yoma 80 — Daf Yomi Shiur
+[DAF:80a]
 
 ## Kotevet & Shiurim
 
@@ -184,6 +185,7 @@ Abaye is unperturbed. *Kim lehu lerabanan de-vehachi mitva dateih, u-vatzir mei-
 
 Rav Zeira is still not satisfied. He now shifts from the question of who is eating to what is being eaten: *basar shamen be-kotevet ve-lulavei gefanim be-kotevet?* — rich fatty meat the size of a date and grape leaves the size of a date are supposed to produce the same degree of *yishuv hada'at*? This seems implausible. The question is acute: by the time Abaye has admitted that the effect of the *shiur* varies by person — Og gets less relief than a smaller man — he has already broken the logic of a purely universal standard. And if individual variation is acknowledged, why not variation by food type as well? A satisfying piece of fatty meat surely does more to abate hunger and affliction than a comparable quantity of grape leaves.
 
+[DAF:80b]
 ### Final Threshold
 
 > **Hebrew/Aramaic:** מַתְקֵיף לַהּ רָבָא: כְּזַיִת בִּכְדֵי אֲכִילַת פְּרָס, וְכוֹתֶבֶת בִּכְדֵי אֲכִילַת פְּרָס?! אֲמַר לֵיהּ אַבָּיֵי: קִים לְהוּ לְרַבָּנַן דִּבְהָכִי מִיַּתְּבָא דַּעְתֵּיהּ, בִּטְפֵי מֵהָכִי — לָא מִיַּתְּבָא דַּעְתֵּיהּ.

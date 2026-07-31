@@ -1,0 +1,720 @@
+{
+  "masechta": "Menachot",
+  "daf": 106,
+  "amud": "a-b",
+  "macro_segments": [
+    {
+      "title": "The Case of Unspecified Mincha of Esronim: Chachamim vs. Rabbi's Positions",
+      "display_title": "Unspecified Mincha",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Introduction to the Mishnah: A vow of mincha with esronim and uncertainty about the amount",
+          "display_title": "Mishnah Setup",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "Tanu Rabbanan: The detailed Talmudic version of bringing sixty esronim with stipulation",
+          "display_title": "Tanu Rabbanan",
+          "timestamp": "00:42"
+        },
+        {
+          "title": "Mathematical calculation: Sum of numbers 1-60 equals 1,830 using the Tosafot method",
+          "display_title": "Sum 1-60",
+          "timestamp": "01:44"
+        },
+        {
+          "title": "Rabbi's position: Bringing 1-60 esronim separately, multiplied by 5 types equals 9,150",
+          "display_title": "Rabbi's Count",
+          "timestamp": "03:21"
+        },
+        {
+          "title": "The core debate: Can one mix obligatory vow with additional free-will offering in one vessel?",
+          "display_title": "Core Debate",
+          "timestamp": "04:54"
+        }
+      ],
+      "sefaria_index": 13,
+      "matched": true
+    },
+    {
+      "title": "Rav Chisda's Framework: The Debate Between Permitting and Prohibiting Non-Sanctified Matter in the Azarah",
+      "display_title": "Chullin in Azarah",
+      "timestamp": "05:43",
+      "micro_segments": [
+        {
+          "title": "Rav Chisda's initial formulation: Can one bring non-sanctified matter into the Azarah?",
+          "display_title": "Chullin Entry",
+          "timestamp": "05:43"
+        },
+        {
+          "title": "Rabbi's position: Prohibits bringing non-sanctified matter, hence separate vessels required",
+          "display_title": "Rabbi Forbids",
+          "timestamp": "06:14"
+        },
+        {
+          "title": "Chachamim's position: Permits bringing non-sanctified matter into the Azarah",
+          "display_title": "Chachamim Allow",
+          "timestamp": "07:02"
+        },
+        {
+          "title": "Rava's correction: Both agree chullin is forbidden; the real debate is mixing obligation with free-will",
+          "display_title": "Rava Corrects",
+          "timestamp": "07:27"
+        }
+      ],
+      "sefaria_index": 15,
+      "matched": true
+    },
+    {
+      "title": "The Problem of Mixed Kometz and Shirayim: Can you take two kematzim from a mixture?",
+      "display_title": "Kometz Mixture",
+      "timestamp": "09:12",
+      "micro_segments": [
+        {
+          "title": "Abaye to Rava: If obligation and free-will are mixed, you need two kematzim",
+          "display_title": "Two Kematzim",
+          "timestamp": "09:12"
+        },
+        {
+          "title": "The practical problem: Each kematz might contain both obligation and free-will",
+          "display_title": "Mixed Kematzim",
+          "timestamp": "09:32"
+        },
+        {
+          "title": "Solution through attribution to kohen's hand: Designate first kematz as obligation, second as free-will",
+          "display_title": "Kohen's Intent",
+          "timestamp": "10:06"
+        },
+        {
+          "title": "The concern: If the vow was for sixty, there is no free-will portion, so the second kematz burns remnants incorrectly",
+          "display_title": "No Nedava Problem",
+          "timestamp": "11:18"
+        },
+        {
+          "title": "Rabbi Eliezer's solution: Treat doubtful second kematz as fuel, not as a ritual offering",
+          "display_title": "Fuel Solution",
+          "timestamp": "15:07"
+        }
+      ],
+      "sefaria_index": 17,
+      "matched": true
+    },
+    {
+      "title": "Rav Acha's Alternative: The Debate Hinges on Rabbi Eliezer's Doctrine, Not on Mixing Per Se",
+      "display_title": "Rav Acha's View",
+      "timestamp": "16:32",
+      "micro_segments": [
+        {
+          "title": "Rav Acha's proposal: Maybe everyone agrees mixing is permitted; the debate is whether Rabbi Eliezer's fuel doctrine applies",
+          "display_title": "Alternate Framework",
+          "timestamp": "16:32"
+        },
+        {
+          "title": "Objection: This would require Rabbi to reject Rabbi Eliezer; a technical solution alone cannot account for the disagreement",
+          "display_title": "Objection to Acha",
+          "timestamp": "17:19"
+        },
+        {
+          "title": "The practical solution: Bring sixty in one vessel and one esaron in a second vessel with mouths touching",
+          "display_title": "Touching Vessels",
+          "timestamp": "17:39"
+        },
+        {
+          "title": "How the touching-vessel solution works: Ensure there is always a separate nedava portion to take kematz from",
+          "display_title": "Nedava Guarantee",
+          "timestamp": "18:00"
+        }
+      ],
+      "sefaria_index": 25,
+      "matched": true
+    },
+    {
+      "title": "Rava's Resolution: The Debate Centers on Rabbi Eliezer ben Yaakov's Oil Proportionality Doctrine",
+      "display_title": "Oil Proportion",
+      "timestamp": "19:36",
+      "micro_segments": [
+        {
+          "title": "Rava's position: Everyone agrees on mixing; the true debate is whether oil must be proportional per esaron or fixed at one log",
+          "display_title": "Rava's Answer",
+          "timestamp": "19:36"
+        },
+        {
+          "title": "Mishnah quotation: Chachamim require sixty log for sixty esaron; Rabbi Eliezer ben Yaakov requires only one log",
+          "display_title": "Oil Mishnah",
+          "timestamp": "20:08"
+        },
+        {
+          "title": "The practical implication: If one log is always required, you cannot mix different amounts in one vessel",
+          "display_title": "One Log Problem",
+          "timestamp": "20:38"
+        },
+        {
+          "title": "Chachamim hold proportional oil; Rabbi holds like Rabbi Eliezer ben Yaakov's fixed one-log rule",
+          "display_title": "Chachamim vs. Eliezer",
+          "timestamp": "21:16"
+        }
+      ],
+      "sefaria_index": 27,
+      "matched": true
+    },
+    {
+      "title": "Rav Ashi's Alternative: Debate over Whether a Vow Specifies Exact Amount or Minimum Amount",
+      "display_title": "Exact vs. Minimum",
+      "timestamp": "22:05",
+      "micro_segments": [
+        {
+          "title": "Rav Ashi's framework: The debate may turn on whether a vow means an exact amount or a minimum",
+          "display_title": "Ashi's Framework",
+          "timestamp": "22:05"
+        },
+        {
+          "title": "Chachamim: If you said X, bringing more than X satisfies the vow (minimum interpretation)",
+          "display_title": "Minimum View",
+          "timestamp": "22:59"
+        },
+        {
+          "title": "Rabbi: If you said X, you must bring exactly X; anything more creates unwanted mixture",
+          "display_title": "Exact View",
+          "timestamp": "23:12"
+        },
+        {
+          "title": "Verification: This exact-vs.-minimum debate appears elsewhere in the Talmud regarding animal sacrifices",
+          "display_title": "Verified Debate",
+          "timestamp": "23:20"
+        },
+        {
+          "title": "Why mincha differs from animals: In mincha, the entire amount becomes one kometz regardless of size; in animals, the internal organs differ",
+          "display_title": "Why Mincha Differs",
+          "timestamp": "24:25"
+        },
+        {
+          "title": "Bottom line: Rebbe requires separate vessels because X means exactly X, and mixing obligation with free-will creates multiple problems",
+          "display_title": "Bottom Line",
+          "timestamp": "25:53"
+        }
+      ],
+      "sefaria_index": 31,
+      "matched": true
+    },
+    {
+      "title": "Mishnah on Voluntary Offerings of Wood, Frankincense, and Metals",
+      "display_title": "Wood & Metals",
+      "timestamp": "26:24",
+      "micro_segments": [
+        {
+          "title": "Mishnah: If you vow to bring wood, the minimum is two logs; if you say wood singular, one log suffices",
+          "display_title": "Wood Rules",
+          "timestamp": "26:24"
+        },
+        {
+          "title": "Frankincense vow: The minimum is a kometz of frankincense, equated to the five kematzim standard amounts",
+          "display_title": "Frankincense",
+          "timestamp": "26:52"
+        },
+        {
+          "title": "Gold: Minimum vow is one gold dinar; silver is one silver dinar; copper is valued at one silver ma'ah",
+          "display_title": "Precious Metals",
+          "timestamp": "27:59"
+        }
+      ],
+      "sefaria_index": 31,
+      "matched": false
+    },
+    {
+      "title": "Tanu Rabbanan on Mandatory Altar Offering: Why Frankincense is the Default When Unspecified",
+      "display_title": "Frankincense Default",
+      "timestamp": "29:38",
+      "micro_segments": [
+        {
+          "title": "If you say you vow to the altar without specifying what, you must bring frankincense as the default offering",
+          "display_title": "Default is Frankincense",
+          "timestamp": "29:38"
+        },
+        {
+          "title": "Minimum for frankincense is a kometz, derived from biblical comparison to the mincha kometz",
+          "display_title": "Frankincense Kometz",
+          "timestamp": "31:51"
+        }
+      ],
+      "sefaria_index": 31,
+      "matched": false
+    },
+    {
+      "title": "Mishnah on Voluntary Offerings of Wood, Frankincense, and Metals (continued)",
+      "display_title": "Wood & Metals…",
+      "timestamp": "33:18",
+      "micro_segments": [
+        {
+          "title": "Uncertainty: If you said you vow to the altar but forgot what, bring from each category of permitted offerings",
+          "display_title": "Uncertainty Rule",
+          "timestamp": "33:18"
+        }
+      ],
+      "sefaria_index": 31,
+      "matched": false
+    },
+    {
+      "title": "Tanu Rabbanan on Mandatory Altar Offering: Why Frankincense is the Default When Unspecified (continued)",
+      "display_title": "Frankincense Default…",
+      "timestamp": "34:00",
+      "micro_segments": [
+        {
+          "title": "Reasoning: Frankincense is the only offering entirely consumed by the altar; other offerings leave portions for the kohanim or other uses",
+          "display_title": "Why Frankincense",
+          "timestamp": "34:00"
+        },
+        {
+          "title": "Gemara exceptions: Olah, olat ha-of, nesachim, and minchat nesachim all get wholly or partially burnt, yet are excluded",
+          "display_title": "Exceptions Discussed",
+          "timestamp": "34:07"
+        },
+        {
+          "title": "Reasoning for exclusion: While some offerings are wholly consumed, frankincense is the default mental image of an altar offering",
+          "display_title": "Mental Default",
+          "timestamp": "34:59"
+        }
+      ],
+      "sefaria_index": 31,
+      "matched": false
+    },
+    {
+      "title": "Precision in Metal Vows: Coins vs. Ingots, and the Spike-and-Fork Examples",
+      "display_title": "Metal Precision",
+      "timestamp": "36:34",
+      "micro_segments": [
+        {
+          "title": "Gold vow clarification: When you say gold, you mean a gold coin (dinar), not an ingot or small change",
+          "display_title": "Gold Coin",
+          "timestamp": "36:34"
+        },
+        {
+          "title": "Silver vow clarification: When you say silver, you mean a silver coin (dinar), not ingots or loose change",
+          "display_title": "Silver Coin",
+          "timestamp": "37:18"
+        },
+        {
+          "title": "Silver small change caveat: Only applies in places where silver small change is not commonly used for transactions",
+          "display_title": "Regional Context",
+          "timestamp": "37:35"
+        },
+        {
+          "title": "Copper vow: Rabbi Eliezer ben Yaakov interprets as a small copper fork or tine used for cleaning lamps",
+          "display_title": "Copper Fork",
+          "timestamp": "38:07"
+        },
+        {
+          "title": "Iron vow: When you say iron, the default is an amount sufficient to make a roof spike to ward off ravens",
+          "display_title": "Iron Spike",
+          "timestamp": "39:02"
+        }
+      ],
+      "sefaria_index": 31,
+      "matched": false
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "mincha shel esronim (mincha of esronim)",
+      "timestamps": [
+        "00:10",
+        "00:26",
+        "00:30",
+        "00:44",
+        "01:02",
+        "01:14"
+      ]
+    },
+    {
+      "term": "neder (vow)",
+      "timestamps": [
+        "00:20",
+        "00:23",
+        "01:20",
+        "05:03",
+        "05:05",
+        "06:25",
+        "06:28",
+        "08:01",
+        "08:08",
+        "17:25"
+      ]
+    },
+    {
+      "term": "nedava (free-will offering)",
+      "timestamps": [
+        "01:22",
+        "04:22",
+        "04:25",
+        "04:27",
+        "06:40",
+        "07:51",
+        "07:54",
+        "07:57",
+        "08:09",
+        "11:04",
+        "11:14",
+        "13:55",
+        "13:58",
+        "15:22",
+        "15:29",
+        "18:36",
+        "18:50",
+        "18:55",
+        "18:58",
+        "19:08",
+        "19:13",
+        "21:28"
+      ]
+    },
+    {
+      "term": "chullin (non-sanctified matter)",
+      "timestamps": [
+        "05:47",
+        "05:51",
+        "06:03",
+        "06:07",
+        "06:11",
+        "06:14",
+        "06:19",
+        "06:46",
+        "06:50",
+        "06:57",
+        "07:00",
+        "07:02"
+      ]
+    },
+    {
+      "term": "Rav Chisda's formulation",
+      "timestamps": [
+        "05:43",
+        "05:45"
+      ]
+    },
+    {
+      "term": "Rava's correction",
+      "timestamps": [
+        "07:27",
+        "07:30"
+      ]
+    },
+    {
+      "term": "kematz/kometz (handful of mincha)",
+      "timestamps": [
+        "07:10",
+        "07:12",
+        "08:47",
+        "09:01",
+        "09:04",
+        "09:26",
+        "09:32",
+        "09:36",
+        "09:39",
+        "09:44",
+        "10:06",
+        "10:07",
+        "10:09",
+        "10:16",
+        "10:32",
+        "10:56",
+        "11:00",
+        "11:09",
+        "11:31",
+        "12:01",
+        "12:04",
+        "12:24",
+        "12:46",
+        "12:51",
+        "13:01",
+        "13:10",
+        "13:40",
+        "14:00",
+        "14:04",
+        "14:07",
+        "15:38",
+        "15:44",
+        "18:17",
+        "18:20",
+        "18:23",
+        "18:36",
+        "18:39",
+        "19:08",
+        "26:52",
+        "26:54",
+        "27:13",
+        "27:16",
+        "27:18",
+        "27:20",
+        "31:51",
+        "31:54",
+        "36:30"
+      ]
+    },
+    {
+      "term": "shirayim (remnants of mincha)",
+      "timestamps": [
+        "12:31",
+        "12:39",
+        "12:54",
+        "13:01",
+        "13:32",
+        "14:04",
+        "14:31",
+        "15:05"
+      ]
+    },
+    {
+      "term": "Rabbi Eliezer's fuel doctrine",
+      "timestamps": [
+        "15:48",
+        "15:50",
+        "17:01",
+        "17:09",
+        "17:12",
+        "17:15"
+      ]
+    },
+    {
+      "term": "Rabbi Eliezer ben Yaakov (oil proportionality)",
+      "timestamps": [
+        "20:04",
+        "20:06",
+        "20:11",
+        "20:13",
+        "20:29",
+        "20:32",
+        "21:16",
+        "21:37",
+        "21:39",
+        "21:41",
+        "38:07"
+      ]
+    },
+    {
+      "term": "log (unit of liquid measure for oil)",
+      "timestamps": [
+        "20:10",
+        "20:21",
+        "20:24",
+        "20:26",
+        "20:32",
+        "20:34",
+        "20:55",
+        "21:02",
+        "21:44",
+        "21:49",
+        "21:50"
+      ]
+    },
+    {
+      "term": "touching vessels solution",
+      "timestamps": [
+        "18:00",
+        "18:06",
+        "18:10",
+        "18:17"
+      ]
+    },
+    {
+      "term": "exact vs. minimum amount debate",
+      "timestamps": [
+        "22:05",
+        "22:30",
+        "23:01",
+        "23:12",
+        "23:20"
+      ]
+    },
+    {
+      "term": "katan ve-hevi gadol (vowing small, bringing large)",
+      "timestamps": [
+        "22:05",
+        "23:26"
+      ]
+    },
+    {
+      "term": "wood (etzim) as voluntary offering",
+      "timestamps": [
+        "26:24",
+        "26:28",
+        "26:33",
+        "26:36",
+        "29:55",
+        "29:58",
+        "30:03",
+        "30:06",
+        "30:16",
+        "30:20",
+        "30:28",
+        "30:33",
+        "30:45",
+        "30:56",
+        "31:20",
+        "31:36",
+        "31:39"
+      ]
+    },
+    {
+      "term": "frankincense (levonah)",
+      "timestamps": [
+        "26:52",
+        "26:54",
+        "27:13",
+        "27:16",
+        "27:18",
+        "27:20",
+        "31:51",
+        "31:54",
+        "32:27",
+        "32:28",
+        "32:31",
+        "32:38",
+        "32:40",
+        "32:43",
+        "32:46",
+        "33:28",
+        "34:00",
+        "34:34"
+      ]
+    },
+    {
+      "term": "precious metals vow (zahav, kesef, nechoshet)",
+      "timestamps": [
+        "27:59",
+        "28:02",
+        "28:06",
+        "28:07",
+        "28:11",
+        "28:14",
+        "36:34",
+        "36:39",
+        "37:18",
+        "37:23",
+        "38:07"
+      ]
+    },
+    {
+      "term": "dinar zahav (gold coin)",
+      "timestamps": [
+        "28:06",
+        "28:20",
+        "28:32",
+        "36:39",
+        "36:40"
+      ]
+    },
+    {
+      "term": "dinar kesef (silver coin)",
+      "timestamps": [
+        "28:07",
+        "28:11",
+        "28:27",
+        "28:32",
+        "37:23",
+        "37:27"
+      ]
+    },
+    {
+      "term": "ma'ah kesef (silver ma'ah)",
+      "timestamps": [
+        "28:14",
+        "28:15",
+        "28:20",
+        "28:27",
+        "28:48",
+        "28:52"
+      ]
+    },
+    {
+      "term": "altar offering (harei alai la-mizbeach)",
+      "timestamps": [
+        "33:18",
+        "33:20",
+        "33:24",
+        "34:00",
+        "34:18",
+        "34:21",
+        "34:23"
+      ]
+    },
+    {
+      "term": "olah (burnt offering)",
+      "timestamps": [
+        "34:07",
+        "34:11",
+        "34:21",
+        "34:23"
+      ]
+    },
+    {
+      "term": "olat ha-of (bird burnt offering)",
+      "timestamps": [
+        "34:23",
+        "34:26"
+      ]
+    },
+    {
+      "term": "nesachim (libations)",
+      "timestamps": [
+        "34:38",
+        "34:42",
+        "34:47",
+        "34:54",
+        "34:59"
+      ]
+    },
+    {
+      "term": "minchat nesachim (meal offering accompanying libations)",
+      "timestamps": [
+        "31:15",
+        "31:18",
+        "34:54",
+        "34:59"
+      ]
+    },
+    {
+      "term": "Chachamim vs. Rabbi's positions",
+      "timestamps": [
+        "01:14",
+        "04:07",
+        "04:08",
+        "04:30",
+        "08:09",
+        "17:00",
+        "21:16",
+        "21:29",
+        "22:59"
+      ]
+    },
+    {
+      "term": "kohen's intention/hand (daat kohen)",
+      "timestamps": [
+        "10:13",
+        "10:16",
+        "10:45",
+        "10:48",
+        "10:52",
+        "10:54",
+        "10:56"
+      ]
+    },
+    {
+      "term": "spike for ravens (kila orev)",
+      "timestamps": [
+        "39:07",
+        "39:10",
+        "39:30",
+        "39:33"
+      ]
+    },
+    {
+      "term": "copper fork/tine for lamps (tzinnora ketana)",
+      "timestamps": [
+        "38:07",
+        "38:12",
+        "38:20"
+      ]
+    }
+  ],
+  "amud_b_sefaria_index": 23
+}

@@ -10,7 +10,7 @@ The daf opens four lines down with the phrase *mai ninhu*, as the Gemara turns t
 
 Shmuel has articulated an expansively broad definition of what constitutes valid *pirchus*: any type of movement that is not *hamisa oseh* — that is, any movement that would not normally and directly result from death itself. Even mooing, Rav had noted, could constitute a valid sign. The Gemara now undertakes to sharpen this framework by asking: *mai ninhu dvarim shehamisa osa*? What precisely are the movements that death produces, and which must therefore be excluded from the category of valid *pirchus*?
 
-### Exclusions from Valid Movement
+### Exclusions from Valid
 
 The answer is formulated as a tradition transmitted in Shmuel's name: *haysa yadah kefufa u-feshtaytah davar shehamisa osa* — if the limb was bent and then extended outward, that extension is a natural consequence of death and does not count. By contrast, *peshutha ve-khafaftha* — if the limb was already extended and the animal pulled it inward — *dvarim she-ein hamisa osa* — that is not something death produces, and it therefore constitutes legitimate movement. The intuition is straightforward: a dying animal would be expected to go limp and spread out, not to draw a limb back toward itself.
 
@@ -18,7 +18,7 @@ The answer is formulated as a tradition transmitted in Shmuel's name: *haysa yad
 
 The Gemara immediately asks: *mai kamashma lan* — what is this telling us that we do not already know? The Mishnah itself teaches that a *behema daka* — a small animal, a sheep or goat — *she-pashtah yadah ve-lo hechzira*, that extended its foreleg without pulling it back, is *pesulah*, invalid, *she-ein ela hotza'at ha-nefesh* — because that movement is nothing more than the departure of the soul.
 
-### Inference: Retraction Va…
+### Inference: Hand Retract
 
 From this Mishnah one might infer that if the animal pulled its leg back, the *shechita* is valid. The Gemara, however, notes that this inference is too narrow. From the Mishnah alone one would have concluded that only the full combination — extension followed by retraction — would suffice. The novel contribution of Shmuel's tradition is that even retraction alone, without any prior extension, is valid. Extension without retraction does not suffice; retraction alone does.
 
@@ -56,7 +56,7 @@ Rav Nachman bar Yitzchak takes the most lenient position: *pirchus she-amru bi-t
 
 Rav Nachman bar Yitzchak grounds his position in a Mishnah. Rabbi Shimon rules: if one performed *shechita* at night and the next morning found the walls — specifically, as Shmuel clarifies, the walls of the site of the cut itself, the *beis ha-shechita* — filled with blood, the *shechita* is valid, because one may presume the blood squirted (*zinka*), in accordance with Rabbi Elazar's position that squirting blood is a valid sign of life. The proof runs as follows: *ei amrat bishlama bi-techilat shechita shapir* — if you hold that a sign of life at the beginning of the *shechita* suffices, then of course this ruling makes sense, since one cannot know when the blood squirted. But if you hold that only a sign at the middle or the end is valid, then the ruling is puzzling — perhaps the blood squirted only at the very beginning, which on those views would not suffice. The fact that the ruling makes no inquiry into when the squirting occurred proves that even a beginning-stage sign is acceptable.
 
-### Squirt as Stronger Sign
+### Squirt as Stronger
 
 The Gemara offers a rejoinder: *ve-dilma shani zinuk de-adif* — perhaps squirting blood is a categorically stronger sign of life than ordinary limb movement. If so, the leniency of the ruling may reflect the superior quality of the sign rather than a general permissibility of beginning-stage *pirchus*. Squirting blood, which requires active cardiac output, might be accepted regardless of when it occurs, while other signs must still appear at the middle or end.
 

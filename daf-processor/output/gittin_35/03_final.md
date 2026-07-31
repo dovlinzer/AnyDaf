@@ -1,4 +1,5 @@
 # Gittin 35 — Daf Yomi Shiur
+[DAF:35a]
 
 ## Tikkun Olam Overview
 
@@ -246,6 +247,7 @@ Once the circumstances are detailed, the *chacham* will immediately understand t
 
 ## Rav Nachman Leniency
 
+[DAF:35b]
 ### Neder B'Rabbim
 
 > **Hebrew/Aramaic:** רַב נַחְמָן אָמַר: אֲפִילּוּ נִיסֵּת. נִיסֵּת, וַדַּאי מֵיפַר לַהּ בַּעַל! דְּמַדְּרִינַן לַהּ בָּרַבִּים.

@@ -1,4 +1,5 @@
 # Yevamot 25b — Daf Yomi Shiur
+[DAF:25a]
 
 ## Get from Overseas
 
@@ -86,6 +87,7 @@ One might wonder, as *Tosafot* does, whether there is a distinction between diff
 
 In our case, if the witness confessed to murder, he would appear — by his own account — to be biblically disqualified, and according to *Rav Menashya* he should be invalid even for *edut isha*.
 
+[DAF:25b]
 ### Adam Karov
 
 > **Hebrew/Aramaic:** אָמַר לְךָ רַב מְנַשֶּׁה: אֲנָא דַּאֲמַרִי אֲפִילּוּ לְרַבָּנַן — וְטַעְמָא דְּרַבָּנַן הָכָא כִּדְרָבָא, דְּאָמַר רָבָא: אָדָם קָרוֹב אֵצֶל עַצְמוֹ, וְאֵין אָדָם מֵשִׂים עַצְמוֹ רָשָׁע.

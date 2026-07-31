@@ -42,7 +42,7 @@ The *braita* explains: *ela dayo l'avo min hadin lihyot k'nidon* — it is enoug
 
 The *Gemara* resolves the apparent contradiction in Rabbi Tarfon's position with a precise formulation: *ki leise lei dayo heicha de-mifrach kal vachomer* — Rabbi Tarfon rejects *dayo* only in cases where applying *dayo* would entirely undermine the *kal vachomer*. Conversely, *heicha de-lo mifrach kal vachomer, isay dayo* — where the *kal vachomer* still yields a meaningful result after applying *dayo*, Rabbi Tarfon accepts *dayo*.
 
-### Tarfon Principle Explained
+### Tarfon: Goring Ox
 
 The logic of this distinction requires careful unpacking. In most *kal vachomers*, one is deriving from a known case (A) and applying to an unknown case (B). The *kal vachomer* establishes that whatever is true of A is certainly true of B. Even when *dayo* is applied and prevents going beyond A, the *kal vachomer* still "bore fruit" — it established that the law of A applies to B, even if B cannot exceed A. In the case of Miriam, we had no independent source establishing that divine displeasure produces seven days of isolation. The *kal vachomer* from the father's spitting was what brought us to the number seven. Even after *dayo* limits the result (preventing us from going to fourteen), the *kal vachomer* still accomplished something: it taught us that the law of seven days applies in the divine case. *Dayo* removed the additional seven but preserved the base seven — *apik shiva ve-okei b'atrah*.
 

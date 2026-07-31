@@ -1,4 +1,5 @@
 # Bava Kamma 23 — Daf Yomi Shiur
+[DAF:22b]
 
 ## Esh: Chitzav vs. Mamono
 
@@ -94,6 +95,7 @@ A *braisa* states the point even more explicitly: *patach hakatuv b'nizkei mamon
 
 ## Buried Items & Chitzav P…
 
+[DAF:23a]
 ### Buried Item Exemption
 
 > **Hebrew/Aramaic:** אָמַר רָבָא, קַשְׁיָא לֵיהּ לְאַבָּיֵי: לְמַאן דְּאָמַר אִשּׁוֹ מִשּׁוּם חִצָּיו, טָמוּן בָּאֵשׁ דִּפְטַר רַחֲמָנָא – הֵיכִי מַשְׁכַּחַתְּ לַהּ?
@@ -178,6 +180,7 @@ The *Gemara* now turns to the case where a dog takes its owner's coal and carrie
 
 The *Gemara* answers: *b'sheshimar gachalto* — the coal-owner was watching the coal carefully and guarded it properly. Since the coal-owner satisfied the required standard of care, one cannot hold that person liable for the fire. The coal-owner's negligence is not established.
 
+[DAF:23b]
 ### Dog Digging Under Fence
 
 > **Hebrew/Aramaic:** אִי כְּשֶׁשִּׁימֵּר גַּחַלְתּוֹ, מַאי בָּעֵי כֶּלֶב הָתָם? בְּשֶׁחָתַר. אָמַר רַב מָרִי בְּרֵיהּ דְּרַב כָּהֲנָא: זֹאת אוֹמֶרֶת, סְתָם דְּלָתוֹת חֲתוּרוֹת הֵן אֵצֶל כֶּלֶב.

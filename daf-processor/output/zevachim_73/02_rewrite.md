@@ -10,7 +10,7 @@ The Gemara on daf 73 opens with a *beraita* invoked to identify a *tanna* who ho
 
 The *beraita* presents the following scenario: a *litra* of pressed figs of *terumah* — *litra ketsiot she-darsa al pi iggul* — were pressed into a round in a device used for making fig-rounds, but the owner no longer knows in which round he pressed them. The figs of *terumah* were pressed into one such round among many, but the question is which container it ended up in. The case is examined across three types of vessels: *al pi iggul*, pressed into one of these rounded devices; *al pi chavit*, placed into one of many barrels where each barrel contains multiple rounds stacked one upon another, and the *terumah* round is at the top — *al pi kaveret*, placed into a similar container of yet another type. In each case, *ve-eini yode'a be-eizeh darsah* — the owner does not know which container holds the *terumah*.
 
-### R. Eliezer vs. R. Yehosh…
+### R. Eliezer vs. Yehoshua
 
 According to Rabbi Meir's version of the debate between Rabbi Eliezer and Rabbi Yehoshua, the positions are as follows. Rabbi Eliezer takes the lenient position: *ro'in et ha-elyonot ke-illu hen perudot ve-ha-tachtonot ma'alot et ha-elyonot* — we regard the top layer as though it were dispersed throughout the entire barrel, mixed together with all the rounds below it, and the lower contents effectively raise and mix with the upper. Even though we know that the *terumah* is at the top, Rabbi Eliezer allows us to treat the entire contents of all the containers as one aggregate. Since *terumah* is *batel* in a ratio of one in a hundred, and if the total rounds across all containers add up to a hundred, it is *batel*. This is a strikingly lenient position — and it is justified, in Rabbi Eliezer's view, by the fact that *terumah* nowadays is only *de-rabbanan*.
 
@@ -28,7 +28,7 @@ What emerges is a spectrum of positions on *davar chashuv*: from the six or seve
 
 ---
 
-## Ba'alei Chayim Never Bat…
+## Ba'alei Chayim Never Btel
 
 ### Rav Ashi's Answer
 
@@ -62,7 +62,7 @@ This is the problem with taking a cow from the mixture. One is confronting the f
 
 The Gemara then proposes a creative solution that would dissolve the *kavua* problem: *nichbishinhu de-naidi* — scatter them. If one throws a stone among the herd or startles them so that they disperse, each cow then wanders off on its own. At that point, no individual cow is any longer part of a fixed group; it has separated from the mixture. One could then approach each cow individually and say: here is a single animal, ninety-nine out of a hundred of these animals are permitted — *kol de-parish me-rubba parish* — and this one is permitted. This is not *kavua*; it is a separated item assessed on its own terms. So scatter the herd and then take each cow one at a time.
 
-### Rava's Simultaneity Conc…
+### Rava's Simultaneity
 
 Rava responds with a concern. *Gezeirah shema yavo'u asarah kohanim be-vat achas ve-yakrivu* — there is a rabbinic decree based on the fear that ten *kohanim* might come simultaneously, each take a cow, and then bring them all to the *Beis Hamikdash* at the same time. If, say, the problematic animal is one of ten, and all ten *kohanim* arrive at the *mizbe'ach* together with their animals — or with their blood collected in basins — then collectively we know with certainty that one of the ten is invalid. At that point we can no longer look at each *kohen*'s offering in isolation; we are confronted with the aggregate again, and the statistics become unfavorable. Rashi's scenario involves a case of fifteen cows where the majority likelihood actually favors the problematic blood being present among what is brought.
 

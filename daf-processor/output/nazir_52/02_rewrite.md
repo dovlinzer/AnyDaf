@@ -1,6 +1,6 @@
 # Nazir 52 — Daf Yomi Shiur
 
-## Incomplete Animals & Bir…
+## Incomplete Animals: Bir
 
 ### Missing Ant Limb
 

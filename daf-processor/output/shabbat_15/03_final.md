@@ -1,4 +1,5 @@
 # Shabbat 15 — Daf Yomi Shiur
+[DAF:15a]
 
 ## Shammai & Hillel vs. Beis
 
@@ -222,6 +223,7 @@ The *gemara* turns to the second of the two enactments attributed to the early p
 
 The analogy to pottery immediately raises a problem. If glass is to be treated like pottery, then just as pottery cannot be purified in a *mikvah* — the way to purify pottery is to break it — glass should likewise be incapable of *tahara* through immersion. Yet the *mishna* in the laws of *chatzitza* implies that glass vessels can be immersed in a *mikvah*, since it lists substances like tar and myrrh that constitute an impediment (*chatzitza*) to proper immersion of glassware. Why is immersion possible if glass is like pottery?
 
+[DAF:15b]
 ### Rabbi Meir's View
 
 > **Hebrew/Aramaic:** הָכָא בְמַאי עָסְקִינַן? — כְּגוֹן שֶׁנִּיקְּבוּ וְהִטִּיף לְתוֹכָן אֲבָר. וְרַבִּי מֵאִיר הִיא, דְּאָמַר הַכֹּל הוֹלֵךְ אַחַר הַמַּעֲמִיד. דְּתַנְיָא: כְּלֵי זְכוּכִית שֶׁנִּקְּבוּ וְהִטִּיף לְתוֹכָן אֲבָר, אָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל: רַבִּי מֵאִיר מְטַמֵּא וַחֲכָמִים מְטַהֲרִין.

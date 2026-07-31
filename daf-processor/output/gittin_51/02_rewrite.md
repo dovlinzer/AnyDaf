@@ -8,7 +8,7 @@ The daf opens in the middle of a series of *tikkun olam* enactments concerning t
 
 The question the Gemara now raises is whether this protection extends beyond purchasers to recipients of *matana* — outright gifts. If someone received land as a gift, can a creditor be forced to first collect from the debtor's remaining assets before seizing the gifted property?
 
-### Braita: Distribution Ord…
+### Braita: Deathbed Dist.
 
 To explore this question, the Gemara cites a *braita* concerning a *shechiv meira* — a person on his deathbed — who distributes his estate to three recipients in amounts of 200, 300, and 400. If he simply declares that each person should receive these amounts without using the word *acharav* ("after him"), the distribution is understood as simultaneous and equal. Should the estate prove insufficient to cover the full 900, each recipient receives a proportional share. Similarly, if a creditor subsequently appears with a *shtar chov*, the debt is collected proportionally from all three recipients.
 

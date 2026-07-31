@@ -26,7 +26,7 @@ What exactly does the *beit din* say to the person? The *Ran* explains the formu
 
 *Rashi* offers a somewhat different framing. The formula, according to *Rashi*, is: *ilu hayita yode'a she-omrim al avicha, oy lo l'av she-gidal ben rasha kazeh she-parutz b'nedarim* — had you known that people would say to your father, "Woe to the father who raised such a wicked son, so dissolute in his vows" — would you have taken the vow? This is not quite the same as saying that people will think poorly of the parents' character. Rather, it is that the news will reach the parents and cause them anguish. It is less about the parents' reputation than about the grief that will come back to them when they hear what is being said.
 
-### Vows Proliferate in Prac…
+### Vows in Practice
 
 One cannot help but note a certain tension in this entire framework. From everything we have read in *Nedarim*, it is clear that vows were extremely prevalent. People were invoking *neder* formulae constantly — in disputes, in negotiations, in everyday social interaction. Given that reality, one wonders whether the social stigma that the *Chachamim* are describing — that a person who takes a vow will be regarded poorly, and that this will reflect badly on his parents — was an accurate description of how society actually functioned, or rather an expression of how the rabbis wished society would respond.
 
@@ -68,7 +68,7 @@ The second is a concern about trivialization: if there is a universal escape rou
 
 ## Abaye vs. Rava
 
-### Concession on Direct Imp…
+### Chachamim Concede Parents
 
 The *Gemara* notes at this point that there is, in fact, one case where the *chachamim* concede the validity of Rabbi Eliezer's position: *modim chachamim l'Rabbi Eliezer b'davar she-beino l'vein aviv v'imo she-potchin lo b'khvod aviv v'imo* — where the vow directly impacts the parents, the *chachamim* agree that the *beit din* may open with the matter of the parents' honor. If a person took a vow that he would receive no benefit from his parents, or that his parents would receive no benefit from him, the *beit din* may indeed ask: had you really thought through how this would affect your relationship with your parents? This concession by the *chachamim* will need to be explained in light of their broader objection, and the *Gemara* will return to this point in the next section.
 
@@ -150,7 +150,7 @@ The *Gemara* invokes a teaching of Rabbi Yochanan in the name of Rabbi Shimon ba
 
 This identification creates a problem for the straightforward reading of *ki meisu kol ha'anashim*. If the people who were out to get Moshe at the beginning were Datan and Aviram, and Datan and Aviram are still very much alive at the time of the Korach episode — which occurs well after Moshe's return to Egypt — then it cannot be literally true that they died. One might naturally have thought that the *anashim* seeking Moshe's life were Pharaoh and his officials; but even if we accept this identification, the problem remains.
 
-### Reish Lakish: Poor = Dea…
+### Reish Lakish: Poor=Death
 
 Reish Lakish resolves the difficulty: *she-yardu mi-nichseihem* — they did not literally die; they became poor and lost their wealth and influence. And this, Reish Lakish explains, constitutes a kind of death — becoming poor is akin to dying. This resolution serves two purposes simultaneously: it explains why the verse says *meisu* when they did not literally die, and it introduces the broader rabbinic concept that certain conditions in life render a person as though dead. This becomes the point of departure for the *baraita* that follows.
 
@@ -174,7 +174,7 @@ The *metzora* is derived from the verse *al na tehi k'meis* — "let her not be 
 
 The blind person (*suma*) is derived from the verse: *b'machshakim hoshivani k'meisei olam* — "He has made me dwell in darkness, like the eternally dead." The association between death and darkness — the dead descending into the dark netherworld — is ancient and pervasive. To live in perpetual darkness is, in a profound sense, to share the condition of the dead.
 
-### Blind vs. Other Disabili…
+### Blindness vs. Other
 
 This raises a striking question. Why does the *Gemara* identify specifically the *suma* as falling into this category, rather than, say, the *cheireish* — the one who cannot hear or speak — whose *halachic* status is in many ways even more restrictive, as such a person has historically not been considered a *bar da'at* in the full sense? Other disabilities might seem, from a practical standpoint, to have rendered life even more constrained. The likely answer is that the *Gemara*'s identification here is driven primarily by the *pasuk* and its imagery: the verse explicitly links darkness and death, and blindness is the condition that most directly instantiates that imagery. It is the poetic and textual resonance of darkness-as-death that places the *suma* in this list, even if other conditions might seem to compete on practical grounds.
 

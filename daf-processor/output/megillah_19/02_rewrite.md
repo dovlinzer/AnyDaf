@@ -1,6 +1,6 @@
 # Megillah 19 — Daf Yomi Shiur
 
-## Megillah Writing Require…
+## Megillah Writing Rules
 
 ### Prohibited Inks
 
@@ -14,7 +14,7 @@ The *gemara* then turns to *diftera*, the type of leather one may not write on. 
 
 The requirement that the *megillah* be written *al hasefer bedyo* — on parchment with ink — is derived through a *gezeirah shavah*. The word for writing (*kesuva*) appears here in connection with Esther, and similarly in the book of Yirmiyahu, where Baruch the scribe describes his work: *va'ani koseiv al hasefer bedyo*, "and I write on the parchment with ink." The *gezeirah shavah* links the *megillah* to this earlier text, establishing that valid writing requires parchment and ink, in *Ashuris* script. What precisely constituted that ink — its ingredients — is a matter taken up by the *rishonim*.
 
-### Tosafot on Ink Ingredien…
+### Tosafot: Gallnuts/Plaster
 
 Tosafot raises a pressing difficulty. The *gemara* specifies that *diftera* — untreated with *afatzim* — is invalid as a writing surface. This implies that valid *klaf* must be treated with gallnuts. Yet, Tosafot asks, how do we write on our *kelafim* today for *sifrei Torah*, *tefillin*, and *megillos*, given that they are not treated with *afatzim*? Rabbeinu Tam answers that the plaster (*sid*) applied to contemporary *kelafim* serves the same function as the *afatzim* treatment. This is, by any measure, a radical move: the *gemara* specifies precise materials for the preparation of *klaf*, and Rabbeinu Tam is arguing that a functionally equivalent substitute is acceptable.
 
@@ -106,7 +106,7 @@ The *gemara* then rules: *halacha kedivrei ha'omer kulah* — the law follows th
 
 ---
 
-## Megillah: Sefer vs. Iger…
+## Megillah: Sefer vs Igeret
 
 ### Sefer and Igeret
 

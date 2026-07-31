@@ -1,6 +1,6 @@
 # Nedarim 51 — Daf Yomi Shiur
 
-## Rabbi's Wedding & Bar Ka…
+## Rabbi Shimon's Wedding
 
 ### Wedding Feast Setup
 

@@ -1,4 +1,5 @@
 # Tamid 33b — Daf Yomi Shiur
+[DAF:33a]
 
 ## High Priest & Blessing
 
@@ -36,6 +37,7 @@ The entire assembly of *kohanim* then stood on these steps — the very same ste
 
 By this stage in the service, the *yisraelim* were evidently already gathered in the *azarah*, for the blessing was directed toward them. Precisely when the gates were opened to the public is never stated explicitly in the *mishnah*, a point that will be discussed below.
 
+[DAF:33b]
 ### Single Blessing Format
 
 > **Hebrew/Aramaic:** וּבֵרְכוּ אֶת הָעָם בְּרָכָה אַחַת. אֶלָּא שֶׁבַּמְּדִינָה אוֹמְרִים אוֹתָהּ שָׁלֹשׁ בְּרָכוֹת, וּבַמִּקְדָּשׁ בְּרָכָה אַחַת.

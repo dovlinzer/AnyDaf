@@ -82,7 +82,7 @@ Remarkably, the positions of the *Chachamim* and *Rabbi Shimon* are now reversed
 
 This reversal is genuinely striking, and the *Gemara* devotes considerable attention to explaining it.
 
-## Partial Acceptance L (II)
+## Partial Acceptance Logic
 
 ### Partial Nezirus
 
@@ -154,7 +154,7 @@ The *Mishnah* then describes the optimal practical arrangement. If both parties 
 
 This formulation raises a question for the *Gemara*: if the second person had said only *v'ani* — "and me" — without the additional clause *v'alai l'galeach nazir*, would that abbreviated statement have covered both obligations, the *nezirus* itself and the responsibility to bring another's *korbanot*? Or does *v'ani* alone cover only part of what the first person said?
 
-## Partial Statement Analys…
+## Statement Analysis
 
 ### Full vs. Partial
 

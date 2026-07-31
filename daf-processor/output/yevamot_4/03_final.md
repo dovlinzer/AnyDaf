@@ -1,4 +1,5 @@
 # Yevamot 4 — Daf Yomi Shiur
+[DAF:4a]
 
 ## Arayot Exemption
 
@@ -274,6 +275,7 @@ Or alternatively, something in the verse is superfluous. The Torah already wrote
 >
 > **Translation:** The Gemara elaborates: **If you wish, say** it is **because** it **is evident; as, if** it is **so** that no inference should be drawn from the adjacent verses, **let the Merciful One write** this verse **by the portion of ritual fringes** (Numbers, chapter 15). With regard **to what *halakha*** did the Torah **write it here?** Clearly, the Torah is teaching a *halakha* from the adjacent verses. **And if you wish, say** it is **because** this verse is **free, since** the Torah has already **written: "Neither shall there come upon you a garment of diverse kinds mingled together"** (Leviticus 19:19). **Why,** then, **do I** need the verse: **"You shall not wear diverse kinds,** wool and linen together" (Deuteronomy 22:11)? **Learn from this that** the verse is **free** for the derivation of a homiletic interpretation from juxtaposed verses.
 
+[DAF:4b]
 ### Tilbash Elevation
 
 > **Hebrew/Aramaic:** הָנֵי מִצְרָךְ צְרִיכִי, דְּאִי כְּתַב רַחֲמָנָא ״לֹא יַעֲלֶה עָלֶיךָ״, הָוֵה אָמֵינָא: כׇּל דֶּרֶךְ הַעֲלָאָה אֲסַר רַחֲמָנָא, וַאֲפִילּוּ מוֹכְרֵי כְסוּת, כְּתַב רַחֲמָנָא ״לֹא תִלְבַּשׁ שַׁעַטְנֵז״, דּוּמְיָא דִלְבִישָׁה, דְּאִית בֵּיהּ הֲנָאָה.

@@ -96,7 +96,7 @@ In the first *baraita*, Rabbi says *hasheni motzi miyad halakochot* — Sarah ca
 
 In the second *baraita*, the positions appear reversed: Rabbi permits the first recipient to sell and benefit, while Rabban Shimon ben Gamliel restricts the first recipient to nothing more than the *achilas peirot* — the right to consume the fruit.
 
-### Resolution: Fruit vs. La…
+### Fruit vs. Land Kinyan
 
 The *gemara* resolves the internal contradiction for each sage. For Rabbi: the two statements are not contradictory — *ha begufa, ha bepeiros*. When Rabbi ruled that Rachel could sell freely, he meant she could sell the *peirot*, the fruits of her entitlement, which she genuinely owns. When Rabbi ruled that Sarah could reclaim the property from purchasers, that was a case where Rachel had attempted to sell the *guf* itself, the underlying property — which Rachel, under Rabbi's view, lacked the power to convey away from Sarah.
 

@@ -72,7 +72,7 @@ The Gemara probes the assumptions behind these positions. The equinox does not f
 
 A contradiction is then raised from a Baraita: *yom tekufah gomer — divrei Rabbi Yehuda; Rabbi Yose omer yom tekufah matchil*. This is a direct contradiction of the Gemara's assumption that both held *matchil*. Moreover, a second Baraita contradicts Rabbi Yehuda's position of sixteen days: there, Rabbi Yehuda says *shtei yadot* — two thirds of a month, which is twenty days — not sixteen.
 
-### Rabbi Yehuda Contradicti…
+### Rabbi Yehuda: 16/20 Days
 
 The Gemara notes this second contradiction baldly. In the first Baraita, Rabbi Yehuda says sixteen days. In the second Baraita, Rabbi Yehuda says twenty days. The Gemara leaves this unresolved: *kashya*.
 

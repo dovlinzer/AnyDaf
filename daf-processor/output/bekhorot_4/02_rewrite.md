@@ -20,7 +20,7 @@ The *gemara* opens with a sharp observation: *inu patrei*—did the Kohanim and 
 
 Raba responds to Abaye with two objections. The first is textual: *ve'ha piteru inu katani*—the *mishna* uses the language "they exempt," referring to the *kohanim* and *levi'im* themselves, not to their animals. Abaye's reading requires inserting "their animals" into a text that does not say it. More importantly, there is an immediate practical difference: if the *kohen* has no animal other than the firstborn donkey itself, is he obligated or not? Abaye's model requires a substitute animal; Raba maintains the exemption is personal.
 
-### Raba's Kosher Animal Que…
+### Raba: Midbar & Firstborn
 
 Raba's second objection cuts deeper. *Ve'od, im itta*—if it is truly the case that we derive the exemption of donkeys directly from the narrative model of the *midbar*, where animals of the Levi'im stood in place of animals of the Israelites, then why are Kohanim and Levi'im not also exempt from *bechor behemah tehorah*—the firstborn of kosher animals? This requires brief context: every listener knows that a *kohen* or *levi* is exempt from *pidyon haben*, but fewer may have paused to ask whether they are obligated in *peter chamor* or *bechor behemah*. Our *mishna* teaches they are exempt from *peter chamor*—but they are in fact obligated in *bechor behemah tehorah*. If a Kohen's sheep gives birth to a firstborn, he must still bring it as a *korban*; the exemption does not extend there. Yet Abaye's model, which reads the *midbar* exchange directly as a template for all animal firstborns, should logically extend the exemption to sheep and goats as well—since in the wilderness, the animals of the Levi'im stood opposite the firstborn animals of the Israelites, which certainly included kosher animals. The *mishna* itself, Raba notes, is explicit: *lo niftaru mi'bechor behemah tehorah ella mi'pidyon haben u'peter chamor*—they are only exempt from *pidyon haben* and *peter chamor*, not from the firstborn of a kosher animal. How does Abaye account for this?
 
@@ -32,7 +32,7 @@ Raba's second objection cuts deeper. *Ve'od, im itta*—if it is truly the case 
 
 *Ella amar Rava*—rather, Raba proposes an entirely different reading of the *mishna*. The correct interpretation is: *kohanim u'levi'im pataru et shelahem atzmam mi'kal vachomer*—the Kohanim and Levi'im exempt *themselves*—that is, their firstborn donkeys are exempt by virtue of their own personal status—and the *kal vachomer* is built on a different foundation entirely.
 
-### Levi Status & Substituti…
+### Levi Status & Substitut
 
 Raba's *kal vachomer* proceeds as follows: *im hifkia kedushatan shel Levi'im kedushat Yisrael ba'midbar*—if the sanctity of the Levi'im was able to substitute for the sanctity of the firstborn Israelites in the wilderness, then certainly it should uproot and replace their own *bechor* status. The model is now the person, not the animal. In the wilderness, the *levi* as a person, with his *kedushat Levi*, stood opposite and replaced the *kedushat ha'bechor* of the Israelite firstborn. We are not learning from what the animals did; we are learning from what the people did.
 
@@ -116,9 +116,9 @@ Finally, having established that all Levi'im and Kohanim are exempt, the *gemara
 
 ---
 
-## Narrative-Halacha Relati…
+## Narrative-Halacha Link
 
-### Reading Halacha into Nar…
+### Halacha in Narrative
 
 At this point the *gemara* turns to a question that is striking in its frankness: having established that we read from narrative into *halacha*, are we also permitted to read *halacha* back into the narrative? Specifically, the *gemara* asks: we assumed, throughout this discussion, that when the Torah describes the animals of the Levi'im standing in exchange for the animals of Israel, the instrument of exchange was sheep for donkeys—*seh* for *peter chamor*. But the Torah itself never says this. The Torah says broadly *behemot ha'Levi'im tachat behemotam*—the animals of the Levi'im in exchange for their animals. How do we know that what was happening in that narrative paralleled the *halakhic* rule of *seh* for *peter chamor*? We are, in effect, retroactively projecting the *halachah* back onto the story.
 

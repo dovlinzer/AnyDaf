@@ -48,7 +48,7 @@ One further point about the power of *teshuva* requires attention, and it return
 
 The *Tosafot Yeshanim* raises a sharp difficulty: the *mishnah* says *teshuvah im Yom HaKippurim mekapper* — *teshuva* together with *Yom Kippur* atones. According to *Rebbi*, *Yom Kippur* atones by itself, so why does the *mishnah* insist on specifying *im ha-teshuvah*? The *Tosafot Yeshanim* resolves this by introducing a distinction: even according to *Rebbi*, *teshuva* is required for *kapparah gemurah* — complete atonement. The temporal power of *Yom Kippur* can protect against *karet*, but a complete and thorough *kapparah* is unavailable without *teshuva*. This naturally raises the question: what is *kapparah gemurah*, and how does it differ from *kapparah* that is not *gemurah*?
 
-### Soloveitchik's Distinction
+### Kapara vs Taharah (II)
 
 Rav Soloveitchik, in his lectures collected in *Al HaTeshuvah*, develops a framework that illuminates this distinction with particular clarity — though he was not the only one to articulate it. He distinguishes sharply between *kapparah* and *taharah*. *Kapparah* is atonement in the sense of exemption from punishment: the slate is cleared, the liability is erased. A ritual — whether a *korban* or the day of *Yom Kippur* itself — can, in principle, achieve this. But *kapparah* of this kind does not transform the person. It does not make a *rasha* into a *tzaddik*. It does not change who you are.
 
@@ -90,7 +90,7 @@ Rashi illuminates the significance of the identical-circumstances requirement. H
 
 The Gemara now raises a textual tension. One verse praises the one who covers his sin: *ashrei nesuy pesha kesuy chata'ah*. Another verse condemns the one who hides his iniquities: *mechaseh pesh'av lo yatzliach*. Are you supposed to hide your sin or expose it? One might suggest that the distinction is between hiding sin while continuing to commit it versus covering it in the context of genuine *teshuva*. But the Gemara proceeds on the assumption that both verses are speaking within the framework of *teshuva*, and asks how to reconcile them.
 
-### Public/Private Distinction
+### Public/Private Sins
 
 *Lo kashya* — there is no difficulty. *Ha be-cheit mefursam, ha be-cheit she-eino mefursam*. If the sin was public, then you must do *teshuva* publicly — people know you have sinned, and they need to witness the accountability and the return. If the sin was private, making it public in the course of *teshuva* would constitute a *chillul Hashem*: you would be announcing your transgression and potentially licensing others. For private sin, the *teshuva* too should remain private.
 
@@ -218,7 +218,7 @@ This is a remarkable extension of the principle. We are not speaking here of som
 
 ## Generational Accounts
 
-### Teshuva Power
+### Teshuva Power (II)
 
 The Gemara gathers a series of shorter teachings that circle around the themes of divine justice and human conduct. *Teshuvat ha-muchlatin me'akevet ha-puranut* — even the *teshuva* of habitual, confirmed sinners — *muchlatin*, those who are thoroughly set in their ways — delays or prevents the punishment that had been decreed upon them. *Ve-af al pi she-nichtam alav gzar din shel puranut* — even if the decree of punishment had already been sealed — *teshuva* works. This is a maximalist statement of *teshuva*'s power, extending even to cases that might seem most hopeless.
 
@@ -262,7 +262,7 @@ The conceptual framework at work here is important. *Nosei panim* — to lift up
 
 ---
 
-## Collective Consequen (II)
+## Collective Consequence
 
 ### Specific Cases
 

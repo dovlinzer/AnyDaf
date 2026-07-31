@@ -1,4 +1,5 @@
 # Bava Metzia 59 — Daf Yomi Shiur
+[DAF:59a]
 
 ## Malbin Pnei Chaveiro
 
@@ -258,6 +259,7 @@ At this point the Gemara introduces one of its most celebrated narratives, cited
 
 This is the famous *tannur shel Achnai* — the oven of Achnai. Tosafot suggests that *Achnai* may be the name of a place, but the Gemara prefers a midrashic reading. Rav Yehuda said in the name of Shmuel: *shehikifu devarim k'achna zu* — they surrounded Rabbi Eliezer with arguments like a snake, circling him, and declared the oven *tamei*. The image of a snake encircling its prey captures the relentless argumentative pressure brought against him.
 
+[DAF:59b]
 ### Miracles Rejected
 
 > **Hebrew/Aramaic:** תָּנָא: בְּאוֹתוֹ הַיּוֹם הֵשִׁיב רַבִּי אֱלִיעֶזֶר כׇּל תְּשׁוּבוֹת שֶׁבָּעוֹלָם, וְלֹא קִיבְּלוּ הֵימֶנּוּ. אָמַר לָהֶם: אִם הֲלָכָה כְּמוֹתִי – חָרוּב זֶה יוֹכִיחַ. נֶעֱקַר חָרוּב מִמְּקוֹמוֹ מֵאָה אַמָּה, וְאָמְרִי לַהּ: אַרְבַּע מֵאוֹת אַמָּה. אָמְרוּ לוֹ: אֵין מְבִיאִין רְאָיָה מִן הֶחָרוּב. חָזַר וְאָמַר לָהֶם: אִם הֲלָכָה כְּמוֹתִי – אַמַּת הַמַּיִם יוֹכִיחוּ. חָזְרוּ אַמַּת הַמַּיִם לַאֲחוֹרֵיהֶם. אָמְרוּ לוֹ: אֵין מְבִיאִין רְאָיָה מֵאַמַּת הַמַּיִם.

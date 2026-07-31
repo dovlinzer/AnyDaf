@@ -64,7 +64,7 @@ This distinction, as Rashi understands it, is really a question about what *teru
 
 ---
 
-## Challenge: Chuppah Requi…
+## Chuppah: Defining Moment
 
 ### Baraita: Chuppah
 
@@ -212,7 +212,7 @@ This principle is, as noted, elegant and significant. There is a genuine interme
 
 *Bishlama naarah velo bogeres* — the exclusion of *bogeret* makes sense; *besulah velo be'ulah* — the exclusion of one who has had sexual relations makes sense; *me'orasah velo nesuah* — she must be betrothed and not yet in the stage of *nisuin*, makes sense. But what does *b'veis aviha* — "in her father's house" — come to exclude? *Mai lav l'mauti masar av lishluchei haba'al* — does it not come to exclude the very intermediate stage where she has been given over to the *sheluchiim* but has not yet reached *chuppah*? The *sekilah* penalty requires *beit aviha*, and once she has left the father's house — even before reaching *chuppah* — that penalty no longer applies.
 
-### Rav Nachman: Strangulati…
+### Rav Nachman: Strangling
 
 *Amar Rav Nachman bar Yitzchak af anan nami tanina* — Rav Nachman bar Yitzchak adds a parallel proof. The *mishnah* teaches: *haba al eshes ish kivan shenichnesah l'reshut haba'al l'nisuin, af al pi shelo niv'alah, haba alei harei zeh b'chenek* — one who has relations with a married woman, once she has entered the husband's *reshut* for the purposes of *nisuin*, even if she has not yet had sexual relations, the penalty is strangulation. *Nichnesah l'reshut haba'al b'alma* — merely entering the husband's *reshut*, not yet fully *chuppah*, not yet consummation, just beginning to enter his *reshut* once given over to the *sheluchiim* — that is sufficient. *Shma mina*: once she has left *beit aviha* and is in the hands of the *sheluchiim*, she is no longer subject to the *na'arah me'orasah* regime, and the husband's marital status attaches to her for the purposes of the *chenek* penalty. The husband inherits her. But the full suite of *nisuin* consequences — *terumah*, and all that *nisuin mamash* entails — awaits the full entry into *chuppah* and beyond.
 
@@ -280,7 +280,7 @@ Rabbi Yehudah agrees that there is no legal *chiyuv* for either, but he reaches 
 
 If it is Rabbi Yehudah: he similarly holds there is a *mitzvah* but no *chiyuv* for either, which conflicts with the same inference from our *Mishnah* that a *chiyuv* exists for sons.
 
-### Logical Inference Teachi…
+### Daughters: Teaching Logic
 
 If it is Rabbi Yochanan ben Beroka: he holds there is a *chiyuv* for daughters only after the father's death, implying no *mitzvah* at all during his lifetime. But our *Mishnah*, read inferentially, seems to say there is a *mitzvah* for daughters — since it says no *chiyuv* for daughters, implying there is a *mitzvah*. That contradicts Rabbi Yochanan ben Beroka.
 

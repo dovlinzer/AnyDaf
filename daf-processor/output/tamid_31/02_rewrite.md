@@ -6,7 +6,7 @@
 
 With this daf we begin the fourth *perek* of Masechet Tamid, which addresses the morning service in the Beit HaMikdash leading up to and through the *korban tamid*. The *masechet* as a whole is named for the *tamid*, and this chapter brings us at last to the actual *shechita* of the morning sacrifice — the culmination of all the preparatory activity described in the preceding chapters.
 
-### Gate Opening Before Shec…
+### Gate Before Shechita
 
 Before reaching the *shechita* itself, the *mishnah* reminds us of the sequencing already established: the gate of the *heichal* had to be opened before the *tamid* could be *shechted*. The two *avodot* performed inside the *heichal* — the cleaning of the ashes of the *menorah* and the cleaning of the ashes of the golden *mizbe'ach* used for the *ketoret* — preceded the *shechita* as well, even though the *shechita* is the central act. Now, at last, we arrive at it.
 
@@ -60,7 +60,7 @@ Third, the second ring rather than the first (northernmost): the shadow cast by 
 
 To summarize: the placement is as far north as possible to emphasize *tzafon*, opposite the sun's position (east-west) to express non-worship of the sun, and specifically the *second* ring rather than the first to avoid the shadow of the north wall.
 
-### Blood Sprinkling Diagona…
+### Blood Sprinkling Diagon
 
 After the *shechita*, the one who caught the blood — a separate *kohen* from the *shochet* — proceeded to sprinkle it on diagonal corners of the *mizbe'ach*. The *mishnah* states: *ba lo le-keren mizrachit tzevonit ve-notein ve-notein mizracha tzevona; maaravit deromit ve-notein ve-notein maarava deroma*. He came first to the northeastern corner and threw the blood there; then he came to the southwestern corner and threw it there.
 
@@ -126,7 +126,7 @@ The distinction here is significant. The intestines were rinsed right there in t
 
 ---
 
-## Chest, Flanks, Throat, T…
+## Chest, Flanks, Throat
 
 ### Chest Removal
 
@@ -188,7 +188,7 @@ The ordering throughout is driven entirely by practical efficiency rather than b
 
 *Ha-shelishi be-oketz u-ve-regel* — the third *kohen* carried the tail section and the left rear leg. *Ha-oketz be-yemino* — the tail in his right hand. *Ve-ha-alyah medudelet bein etzbe'otav* — the fat tail was suspended between his fingers; it was placed in the right hand because the fat is considered the choicest portion of the *qorban*. *Ve-etzba ha-kaved u-shtei klayot imah* — the lobe of the liver and the two kidneys were with it. *Ve-ha-regel shel smol bi-smolo* — the left leg in the left hand. *U-veit ha-or mi-bachutz* — skin-side out.
 
-### Fourth Kohen - Chest & T…
+### Fourth Kohen - Chest
 
 *Ha-revi'i ba-chaze u-va-gerah* — the fourth *kohen* carried the chest and the throat area. *Ha-chaze be-yemino ve-ha-gerah bi-smolo* — chest in the right, throat in the left. *Ve-tzla'otav bein shtei etzbe'otav* — the small ribs of the throat section — the two thin ribs that had been left at the top near the neck — were held between his fingers. Attached to the throat section were the trachea, the heart, and the lungs.
 
@@ -196,7 +196,7 @@ The ordering throughout is driven entirely by practical efficiency rather than b
 
 *Ha-chamishi bi-shtei defanot* — the fifth *kohen* held the two flanks. *Shel yamin be-yemino ve-shel smol bi-smolo* — right in the right, left in the left. *U-veit ha-or mi-bachutz* — skin-side outward. The right flank carried the liver; the left flank carried the spinal cord and the spleen. Although the left was physically larger, the right was called "the big one" (*gedolah*) on account of the liver.
 
-### Sixth Kohen - Organs & F…
+### Sixth Kohen - Organs
 
 *Ha-shishi ba-kirvayim* — the sixth *kohen* held the inner organs, *ha-nitunim ba-bazeich* — placed in a vessel. *Ve-ha-kra'ayim al gabeihen* — and the feet (*kra'ayim*) placed on top of them. This answers the question raised earlier as to who carried the feet: the feet went with the inner organs. Both were considered less prestigious portions — the feet were bony and difficult to flay, and the inner organs required extensive rinsing — and they traveled together in a single vessel.
 

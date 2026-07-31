@@ -38,7 +38,7 @@ A *baraita* explains the basis for Rabbi Yossi's position: *mipnei sheshineihen 
 
 ---
 
-## Early Transfer Prohibiti…
+## Transfer Bekhor Ban
 
 ### Mishnah's Rule
 
@@ -88,7 +88,7 @@ The underlying principle at work throughout this passage is the need to prevent 
 
 A student raised a broader question: why does the Torah seem to disapprove of a work-for-welfare arrangement, when such an arrangement maintains the dignity and self-sufficiency of the recipient — values that the Torah elsewhere affirms? Is this not contrary to what we might consider the Torah's own hierarchy of *tzedakah*?
 
-### Institution vs. Employme…
+### Terumot/Ma'asrot vs Work
 
 The response requires distinguishing between two different frameworks. The general principle that employment is preferable to outright charity — because it maintains dignity, fosters self-sufficiency, and acknowledges the recipient as a productive member of the community — is a real Torah value. But it operates at the level of general *tzedakah* practice. What we are discussing here is an entirely different matter: the specific institution of *terumot* and *ma'asrot*, which the Torah defines as freely given gifts. One may certainly pay a poor person out of pocket for work performed; what one may not do is discharge the obligation of *ma'aser ani* through that transaction. The *ma'aser ani* is supposed to be given freely, not earned. Confusing the two does not elevate the institution of charity — it degrades the institution of *ma'aser*.
 
@@ -130,7 +130,7 @@ The other priestly gifts operate differently. The *bechor* — and more striking
 
 Because these gifts lack *kedushat haguf*, the concern arises that if money were to change hands in connection with them, observers might conclude that the money represents the purchase price — that *kedushasan mitchallah*, their sanctity has transferred to the money, and the physical gifts are now essentially *chullin*. If one were to reach that conclusion, the implication would be that there is no longer any obligation to present or receive them in the respectful manner that their status demands. The institution surrounding these gifts would be quietly dismantled.
 
-### Conclusion: Status Conce…
+### Terumah Discretion
 
 The rule is therefore calibrated to protect the status of these lesser-sanctified gifts precisely because of their vulnerability. With *terumah*, the *kedushat haguf* provides sufficient protection against confusion; one may therefore permit the *tovas hana'ah* transaction. With *zero'a lechayayim vekeiva*, *bechor* bearing a *mum*, and similar gifts, any exchange involving money risks appearing to transform the gift into a purchase, thereby stripping away the special character through which the institution conveys its meaning. We therefore do not permit such transactions for those gifts at all.
 

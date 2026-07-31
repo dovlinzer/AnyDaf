@@ -4,7 +4,7 @@
 
 ### Me'ila Paths
 
-Today's *daf* is 36, and we pick up in the middle of 35b. The previous session covered rich and significant ground, in particular the whole issue of *me'ila* by *konamot*: whether the concept of trespass applies when something is forbidden by a vow. *Konam* is especially susceptible to this analysis because it borrows from the language of *korban*, and when the object is forbidden to everyone — not merely to one individual — it resembles consecrated property even more closely. According to at least Rabbi Meir, there is a *me'ila* concept even when the prohibition applies only to particular individuals.
+ The previous session covered rich and significant ground, in particular the whole issue of *me'ila* by *konamot*: whether the concept of trespass applies when something is forbidden by a vow. *Konam* is especially susceptible to this analysis because it borrows from the language of *korban*, and when the object is forbidden to everyone — not merely to one individual — it resembles consecrated property even more closely. According to at least Rabbi Meir, there is a *me'ila* concept even when the prohibition applies only to particular individuals.
 
 ### Me'ila as Gezeilah
 
@@ -30,7 +30,7 @@ The organizing principle here is the concept of *mitzvos lav l'henos nitnu*: *mi
 
 The *halachic* dimension of the principle, however, is distinct from the theological one. The real point is that *halacha* measures benefit exclusively in physical, real-world terms: financial gain or bodily pleasure. Even the most significant spiritual acquisitions fall outside this definition. Teaching someone *Torah* is a case worth examining carefully, since unlike returning a lost object — which is a service that leaves the recipient exactly where they were — Torah instruction actually imparts something. The recipient now possesses knowledge they did not have before. This is not a mere service; it is a transfer of something substantive. And yet it is not *hana'ah*, because what was transferred is not physical and not monetary.
 
-### Physical vs. Spiritual B…
+### Corpse Dissection Halacha
 
 This same logic applies beyond the context of *mitzvos*. One is forbidden to derive *hana'ah* from a corpse, yet one may use a corpse for anatomical dissection and the study of medicine. The benefit there is enormous — the acquisition of medical skill and knowledge — and yet it is not *halachically* considered *hana'ah*, because it is neither physical pleasure nor monetary gain. The *halacha* operates with a thoroughly this-worldly conception of benefit. Thus when the *mishna* permits returning a lost object, separating *trumos u'maasros*, and bringing *korbanos*, the underlying logic is the same: to the degree that all of these are the performance of a *mitzvah*, the service rendered is not *hana'ah*, because *mitzvah* performance as such is not a legally cognizable form of benefit.
 
@@ -48,7 +48,7 @@ The *gemara* notes that elsewhere it concludes that *kohanim* are *shluchei Desh
 
 The practical consequence for our topic is as follows. Even if the act of bringing a *korban* is a *mitzvah* and would not in itself constitute *hana'ah*, there is a separate concern: being appointed as someone's direct agent and representative — regardless of the specific task involved — is itself a form of *hana'ah*. If I appoint you to throw a rock into a river, even though throwing a rock into a river is not in itself any benefit, the very act of serving as my appointed *shaliach* and acting on my behalf constitutes *hana'ah*. Therefore, if the *kohen* is my *shliach*, his bringing of a *korban* for me — even though the bringing of a *korban* might otherwise be categorized as a *mitzvah* act — would constitute *hana'ah* by virtue of the agency relationship itself. Hence the *gemara*'s question: how does the *mishna* permit this?
 
-### Mechusrei Kapara Excepti…
+### Mechusei Kapara Exception
 
 The *gemara* proposes an answer from the *mishna* itself. The *mishna* does not say generically that the *kohen* may bring any *korban* for me; it specifically lists the *kinei zavim*, *kinei zavot*, *kinei yoldot*, *chataot*, and *ashamot*. The *gemara* asks: if a *kohen* could bring any *korban* for me without restriction, why would the *mishna* specify only these categories? *Ela mechussar kapara sha'ani* — the case of *mechusrei kapara* is categorically different. These are individuals for whom a *korban* is brought not to atone for a sin in the ordinary sense but to effect a transition from a state of *tumah* to *tahara* — to cleanse and change their ritual status. It is not the person's act of connection to God; it is a ritual procedure performed upon them.
 

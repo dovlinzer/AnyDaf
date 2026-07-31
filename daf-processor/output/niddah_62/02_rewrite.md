@@ -1,10 +1,10 @@
 # Niddah 62 — Daf Yomi Shiur
 
-## Seven Cleansers Intr (II)
+## Seven Cleansers Intro
 
 ### Opening & Context
 
-Today's daf is 62. We begin at the very bottom of 61a — actually the *mishnah* on 61b. In that *mishnah* we had an extended discussion about *tolah*, attributing a stain to another cause. Somewhat unconnected to that discussion, the *mishnah* also presents the major third leniency for *ketamim*: the role of color.
+Today's daf is 62. In that *mishnah* we had an extended discussion about *tolah*, attributing a stain to another cause. Somewhat unconnected to that discussion, the *mishnah* also presents the major third leniency for *ketamim*: the role of color.
 
 Until now we had seen two such leniencies. The first concerns size — the *gris*, the minimum threshold of a grain. The second concerns the nature of the garment or vessel: one that is not *mekabel tumah*, that cannot become *tamei*, does not generate a stain problem. And on the previous daf we saw the third leniency — that on non-white, colored clothing a stain is not a problem — though without any explicit reason being given in the text. One can speculate that it has to do with the ability to identify the color, though the *mishnah* itself does not say so. Interestingly, it was noted historically that although there was concern about permitting colored clothing in the period following the *Churban* — because it might seem too festive — the Sages specifically allowed it precisely because it would serve as a leniency regarding stains. Notably, all three of these criteria also appear in the laws of *nega'im*, the different system of spotting and staining discussed elsewhere, which is interesting to observe even if the *mishnah* does not explain the connection.
 
@@ -182,7 +182,7 @@ Rav Papa now synthesizes the debate into a clean three-part formula. The first c
 
 The second case: the substance can come out, and one *is* concerned about it — *yakhol la-tzet ve-hikpid alav*. Here too, *divrei ha-kol tamei* — everyone agrees it is *tamei*. If the substance is accessible enough to emerge and the owner is actively trying to get it out — demonstrating through their own conduct that they regard it as present and significant — then there is no basis for leniency.
 
-### Can Emerge & Not Concern…
+### Emerge but Not Concerned
 
 The third and contested case: the substance can come out — but only through difficult extraction — and one is *not* concerned about it, is *mevatel* it. This is where Reish Lakish and Rabbi Yochanan part ways. Reish Lakish holds: *keivan de-yakhol la-tzet af al gav de-lo hikpid alav* — since there is a way to extract it, regardless of the owner's indifference, it remains physically considered present, and the garment remains *tamei*. Rabbi Yochanan holds: *af al gav de-yakhol la-tzet, im hikpid alav in, i lo lo* — even if it can come out, only if one is concerned about it does it count; if one is not concerned, it does not.
 

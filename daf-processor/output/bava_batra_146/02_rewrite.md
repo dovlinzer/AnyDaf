@@ -36,7 +36,7 @@ It is worth noting the practical context of these rulings. They are not predicat
 
 ---
 
-## Scholars & Wealth Metaph…
+## Wealth & Scholars Meta
 
 ### Otzar Nechasim Case
 

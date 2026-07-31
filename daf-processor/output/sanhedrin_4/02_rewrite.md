@@ -18,7 +18,7 @@ The Rabbis respond: *yarshi'an kesiv* — the word *yarshi'un* is in fact writte
 
 Rabbi Abba — the same Rabbi Abba who raises this challenge in the *Yerushalmi* as well — objects forcefully to Rabbi's entire logic. If the principle is that the deciding side must comprise the full constitutionally required number, the consequences are absurd: the *sanhedrin gedola* of seventy-one would need a hundred and forty-one — enough that seventy-one could constitute one deciding side; the *sanhedrin ketana* of twenty-three would need forty-five — so that twenty-three could form the majority. No one accepts these conclusions.
 
-### Resolved via Fixed Numbe…
+### Sanhedrin: Fixed Number
 
 The resolution is that these fixed numbers refer to the composition of the *beis din* as a whole, not to the numerical size of the deciding majority. The *Rachmana* said *esfi li shivim ish* — gather me seventy men — and the convocation is seventy, full stop. *V'shaftu ha'eida v'hitzilu ha'eida*: when the Torah speaks of "the congregation" judging or saving, it means the entire body — the ten and the ten and the twenty-three — not the winning side. Similarly, *v'nikrav ba'al habayit el ha'Elohim* — the litigant comes before the judges — means the body they come to is a body of three, *mishas kriva shlosha*. The full number describes the institution, not the voting bloc.
 
@@ -28,7 +28,7 @@ With this established, Rabbi's actual derivation becomes clearer. It is not the 
 
 ## Yesh Eim Lamikra
 
-### All Agree: Reading Prior…
+### All Tannaim: Text Reading
 
 Having resolved the debate between Rabbi and the Rabbis, the *gemara* pivots entirely — occupying the remainder of the *daf* — to a question that the foregoing dispute has placed front and center: does one derive *halachic* conclusions from the way a *pasuk* is read aloud, or from the way it is written in the Torah?
 
@@ -52,7 +52,7 @@ This connects to a foundational principle of *Torah she-baal peh*. The Talmudic 
 
 ---
 
-## Beit Shammai vs. Hil (II)
+## Beit Shammai vs. Hillel
 
 ### Shammai's Blood Analysis
 
@@ -92,7 +92,7 @@ Rabbi Shimon holds *yesh eim lamikra*. All three appearances are read in the ful
 
 ## Beit Shammai vs. Hil (II)
 
-### Reading vs. Writing Deba…
+### Mikra vs. Mesoret Debate
 
 Having worked through the *sukkah* walls dispute, the *gemara* now revisits the *Beit Shammai–Beit Hillel* debate about blood application, clarifying that it too maps onto the *yesh eim lamikra* versus *yesh eim lamesoret* divide: Beit Shammai reads *karnot* by the oral tradition of the plural and derives six; Beit Hillel reads it by the defective written form and derives four. The *sukkah* analysis and the blood-application analysis thus operate by identical hermeneutic logic, with each *tannaitic* position consistently applying one principle across different domains.
 

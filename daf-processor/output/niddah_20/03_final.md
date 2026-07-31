@@ -1,4 +1,5 @@
 # Niddah 20 — Daf Yomi Shiur
+[DAF:20a]
 
 ## Four Colors & Base Red
 
@@ -314,6 +315,7 @@ The *Gemara* then debates what exactly this last rule means. Does it prohibit ho
 
 ## Expertise Crisis
 
+[DAF:20b]
 ### Yochanan Quits
 
 > **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: חֻכְמְתָא דְּרַבִּי חֲנִינָא גְּרַמָא לִי דְּלָא אֶחְזֵי דְּמָא, מְטַמֵּינָא — מְטַהַר, מְטַהַרְנָא — מְטַמֵּא.

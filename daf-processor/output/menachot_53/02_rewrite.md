@@ -4,7 +4,7 @@
 
 ### Chapter Overview
 
-We begin at the bottom of 52b with a new *perek* called *Hamenachot*. The previous two *prakim*, though we spent a wonderful time dealing with *tallis*, *tzitzis*, and *tefillin*, were structured around the theme of *ma'akvin zeh et zeh* — things that prevent one another from being *yotzei*. The preceding *perek* concluded with discussions about the *chavitei Kohen Gadol*, the daily *korban* that the *Kohen Gadol* would bring — half in the morning, half in the afternoon — and also discussions about which *korbanot* are *ma'akev zeh et zeh*.
+ The previous two *prakim*, though we spent a wonderful time dealing with *tallis*, *tzitzis*, and *tefillin*, were structured around the theme of *ma'akvin zeh et zeh* — things that prevent one another from being *yotzei*. The preceding *perek* concluded with discussions about the *chavitei Kohen Gadol*, the daily *korban* that the *Kohen Gadol* would bring — half in the morning, half in the afternoon — and also discussions about which *korbanot* are *ma'akev zeh et zeh*.
 
 Now there is a major shift. We are no longer discussing *ma'akvin zeh et zeh*. In a manner similar to Zevachim, where after working through five or six *prakim* one finally arrives at the beginning of the conversation about how to actually bring a *korban*, so too here we now begin discussing the rules governing how a *mincha* is actually made. Having worked through all the things that can invalidate and all the *ma'akvin*, we arrive at what might have been the beginning of the entire *masechta*.
 
@@ -132,7 +132,7 @@ What is the mechanism? Had the *Torah* wished only to establish *ikuv*, it would
 
 ---
 
-## Lukewarm Water & Vigilan…
+## Lukewarm Water & Vigil
 
 *Rav Preida* now poses a further question to *Rav Ami*: *minayin l'chol hamenachot sheniloshos befoshrin umishmartan shelo yachmitzu* — from where do we know that all *menachot* must be kneaded with lukewarm water, and that one must be vigilant to ensure they do not become *chametz*? A later *Mishnah* establishes that lukewarm water is used when making a *mincha* — hot water accelerates fermentation — and that one must be constantly vigilant, working the dough and taking care throughout the process. But where is the source for a positive obligation to be vigilant?
 

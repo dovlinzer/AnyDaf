@@ -52,7 +52,7 @@ The *Gemara* responds: *ha lo kashya* — this is no problem at all. In fact, *s
 
 ---
 
-## Harvesting Non-Omer Fiel…
+## Harvesting Non-Omer Field
 
 ### Ella Hadetnan Kashya
 

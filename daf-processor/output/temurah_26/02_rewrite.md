@@ -96,7 +96,7 @@ The discussion also clarifies a foundational principle: *tmurah* only functions 
 
 ---
 
-## Sequential vs. Simultane…
+## Sequential vs
 
 ### First Effect Question
 
@@ -150,7 +150,7 @@ The reason is *dichuy*. At the point when the animal was already half *kadosh*, 
 
 The second lesson: *ba'alei chayyim nidchin* — the *dichuy* status applies even to a living animal. There is a substantial debate in the *gemara* regarding whether *dichuy* can attach to something alive. The argument for exempting living animals is that life implies dynamism, change, and the capacity for transformation — and what is inherently mutable may not be permanently labeled. Perhaps *dichuy* applies only to inanimate objects or to the post-mortem elements of a *korban* such as blood or flesh, where permanence of status is more intuitive. This case establishes that even a living animal can bear the status of *dichuy*.
 
-### Lesson 3: Dichuy Mei'ika…
+### Dichuy Mei'ika Status
 
 The third lesson: *dichuy mei'ikara havei dichuy* — rejection from the outset constitutes *dichuy*. A further debate concerns whether *dichuy* requires that something was first fit and then disqualified — the pattern of *nireh ve-nidcheh*, seen and then pushed away. The intuition behind that requirement is that the stigma of rejection presupposes prior eligibility: only something that entered the category of "fit" and was subsequently excluded bears the label of "rejected." Something that was never fit in the first place has not been rejected; it simply never qualified. This case rejects that intuition. From the very beginning, the animal was not in a position to be brought as a *korban* — it had only *kedushat damim* and was consecrated while only half-owned. Nevertheless, it bears the *dichuy* status permanently.
 
@@ -172,7 +172,7 @@ Even with such examples, the overlap between lessons one and three remains subst
 
 Abaye introduces another case of competing designations: *hakol modim heicha de-amar chatzi olah ve-chatzi maaser, divrei hakol olah ve-kreivah olah* — if one declares half an animal an *olah* and the other half *maaser behemah*, everyone agrees that it is an *olah* and may be brought as one. The *maaser* designation produces no competing effect.
 
-### Rashi: Meaningless
+### Rashi: Meaningless (II)
 
 Rashi explains that the *maaser* declaration here is simply meaningless. *Maaser behemah* is designated through the act of counting — animals pass one by one before the owner, and every tenth one is consecrated as *maaser*. A verbal declaration of "*maaser*" outside the context of that counting process has no legal force. Since the statement achieves nothing, only the *olah* designation stands.
 
@@ -242,7 +242,7 @@ The *pidyon* mode is called *achulei* — from the root *chullin*, to de-sanctif
 
 ---
 
-## Tachat Linguistic Analys…
+## Tachat Analysis
 
 ### Tachat Contradiction
 

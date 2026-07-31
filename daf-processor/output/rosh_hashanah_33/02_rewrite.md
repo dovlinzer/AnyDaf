@@ -1,6 +1,6 @@
 # Rosh Hashanah 33 — Daf Yomi Shiur
 
-## Malchuyot/Zichronot/ (II)
+## Malchuyot/Zichronot/Shofo
 
 ### Melech Mentions
 

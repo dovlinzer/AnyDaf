@@ -54,7 +54,7 @@ Regarding the *tzippurei metzora* — the birds brought as part of the purificat
 
 The logical structure is a *gezeira shava* of principle: just as inside the *Beis Hamikdash* the *machshir* — the *metzora's asham* — is treated like the *mechaper* and is forbidden in benefit, so too outside the *Beis Hamikdash* the *machshir* — the *metzora's* birds — is treated like the *mechaper*, and since the *egla arufa* is forbidden in benefit, so too the birds are forbidden in benefit.
 
-## Metzora Birds Timeli (II)
+## Metzora Birds Timeline
 
 ### Yochanan/Lakish
 

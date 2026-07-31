@@ -42,7 +42,7 @@ The ruling that follows — the accepted *pesak* — is that missing *Ya'aleh V'
 
 ---
 
-## Avot vs. Korbanot (III)
+## Avot vs. Korbanot
 
 ### Source of Prayer
 
@@ -60,7 +60,7 @@ The *braita* supporting *Rabbi Yose b'Rabbi Chanina* identifies each patriarch w
 
 ---
 
-## Shacharit Times (III)
+## Shacharit Times
 
 ### All Prayer Times
 
@@ -84,7 +84,7 @@ These two windows reflect the *korban* model directly. The *tamid shel bein ha-a
 
 ---
 
-## Avot vs. Korbanot (III)
+## Avot vs. Korbanot (II)
 
 ### Three Prayer Stages
 
@@ -110,7 +110,7 @@ The tension between personal inner experience and formal communal structure is n
 
 ---
 
-## Shacharit Times (III)
+## Shacharit Times (II)
 
 ### Shacharit Cutoff
 
@@ -118,7 +118,7 @@ The *gemara* returns to the halachic debate regarding the time limit for *Shacha
 
 ---
 
-## Avot vs. Korbanot (III)…
+## Avot vs. Korbanot (III)
 
 ### Model Synthesis
 
@@ -136,7 +136,7 @@ The *Rambam*'s formulation of the biblical-rabbinic distinction in the laws of p
 
 ---
 
-## Shacharit Times (III)…
+## Shacharit Times (III)
 
 ### Inclusive Cutoffs
 

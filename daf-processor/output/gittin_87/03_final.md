@@ -1,4 +1,5 @@
 # Gittin 87 — Daf Yomi Shiur
+[DAF:86b]
 
 ## Edei Mesira Krati
 
@@ -116,6 +117,7 @@ Rabbi Yochanan answers: *zman echad l'kullan zehu klal* — a single date for al
 
 The underlying logic is that a separate date makes a statement *self-referential* and therefore independent. Without its own date, a statement must look back to the single date at the top, and that shared reference point unifies the whole document. With its own date, each statement stands alone.
 
+[DAF:87a]
 ### Lakish: Klal Needed
 
 > **Hebrew/Aramaic:** אֲפִילּוּ זְמַן אֶחָד לְכוּלָּן נָמֵי הָוֵי טוֹפֶס, אֶלָּא הֵיכִי דָּמֵי כְּלָל? דְּכָתֵב ״אָנוּ פְּלוֹנִי וּפְלוֹנִי גֵּירַשְׁנוּ נְשׁוֹתֵינוּ פְּלוֹנִית וּפְלוֹנִית״.
@@ -248,6 +250,7 @@ Chizkiyah's principle is that a gap is problematic because it visually and legal
 
 *Ziri* has a variant text of the *mishnah* itself. According to Ziri, in the case of two Hebrew witnesses followed by two Greek witnesses, *shnayim kesherim* — both *gittin* are valid. On Ziri's reading, there is no requirement of strict proximity; each set of witnesses is associated with its respective *get* regardless of the gap, and both *gittin* are therefore fully valid.
 
+[DAF:87b]
 ### Our Tanna's View
 
 Our *tanna*, however, maintains that only the proximate *get* is valid and not the other. The *gemara* explains our *tanna*'s concern: *dilma gundali chasam* — perhaps the signatures were written in an unusual orientation. *Rashi* explains *gundali* as referring to some strange or reversed manner of signing. The possibility is that even the Greek signatures, written in some aberrant fashion, may be oriented toward the right-hand *get* rather than the left — meaning all four signatures could be attaching to the same *get*, leaving the other without valid witnesses at all. Because we cannot rule out this possibility, we cannot confidently say which *get* has two valid witnesses and which does not, and therefore only the *get* that is certainly proximate to identifiable signatures is valid.

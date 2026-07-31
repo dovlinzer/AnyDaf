@@ -66,7 +66,7 @@ Rabbi Yehuda disagrees. The dyer acted without intent to steal; he was simply wo
 
 To give a concrete example: if the contracted fee was one hundred, but the dyer's actual expenses (including labor, stripped of profit) came to fifty, and the wool's value increased by eighty, the owner pays fifty. If the wool's value increased by only thirty despite the dyer's expenses of fifty, the owner pays thirty. The *shinui*—the unauthorized change—forfeits the dyer's right to his contractual fee and leaves him with only the lesser of cost or benefit.
 
-### Gemara's Question
+### Why Explicit?
 
 When Rav Yosef heard Rav Huna declare *ve'halacha k'Rav Yehuda*, he turned his face around in surprise. He understood why Rav Huna needed to rule explicitly like Rabbi Yehoshua ben Korcha: that was a minority opinion against the *mishnah*, a *daat yachid*, and one might otherwise assume *yachid verabbim halacha kerabbim*—when an individual opinion stands against the majority, the halacha follows the majority. So there it was necessary to announce the ruling explicitly. But why was it necessary to state that we rule like Rabbi Yehuda in the dyer case? That should be self-evident.
 

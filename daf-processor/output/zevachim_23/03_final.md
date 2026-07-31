@@ -1,4 +1,5 @@
 # Zevachim 23 — Daf Yomi Shiur
+[DAF:23a]
 
 ## Tamei & Psul
 
@@ -182,6 +183,7 @@ The significance of this question is that it assumes the normative position — 
 
 ## Tzitz Scope
 
+[DAF:23b]
 ### Excluding Pigul
 
 > **Hebrew/Aramaic:** אִם עֲוֹן פִּיגּוּל – הֲרֵי כְּבָר נֶאֱמַר ״לֹא יֵחָשֵׁב״! אִם עֲוֹן נוֹתָר – הֲרֵי כְּבָר נֶאֱמַר ״לֹא יֵרָצֶה״!

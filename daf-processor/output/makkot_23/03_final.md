@@ -1,4 +1,5 @@
 # Makkot 23 — Daf Yomi Shiur
+[DAF:23a]
 
 ## Malkot Procedure
 
@@ -342,6 +343,7 @@ Rav Adda bar Ahava rules definitively: *halacha ke-Rabbi Chananya ben Gamliel*�
 
 Rav Yosef raises the obvious question: *man salik le-eila ve-ata ve-amar*—who went up to the heavens and returned to tell us that the heavenly court agrees with our arrangements? Abaye responds: we know from what Rabbi Yehoshua ben Levi taught. But the same question applies to his teaching too. The *gemara* resolves: *ela kraika darshinan*—we derive it from *psukim*. The claim that heavenly agreement was obtained is itself grounded in textual inference.
 
+[DAF:23b]
 ### Megillah Reading
 
 > **Hebrew/Aramaic:** גּוּפָא, אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: שְׁלֹשָׁה דְּבָרִים עָשׂוּ בֵּית דִּין שֶׁל מַטָּה וְהִסְכִּימוּ בֵּית דִּין שֶׁל מַעְלָה עַל יָדָם, [אֵלּוּ הֵן]: מִקְרָא מְגִילָּה, וּשְׁאֵילַת שָׁלוֹם [בַּשֵּׁם], וַהֲבָאַת מַעֲשֵׂר.

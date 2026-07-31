@@ -10,7 +10,7 @@ The present daf continues in that portion of Masekhes *Avodah Zarah* that has be
 
 Even within the framework of *nosein taam*, there is an important qualification. If the prohibited substance imparts a *nosein taam lifgam* — a deteriorating or off-putting taste — it is not considered to have made its presence felt in any meaningful sense, and there is no prohibition. The question that drives the *sugya* forward is precisely how to measure and characterize the taste that a prohibited substance imparts, and under what conditions its presence is or is not regarded as legally significant.
 
-### Absorption in Porous Foods
+### Wine in Porous Foods
 
 The physical mechanism of taste transfer also requires attention. The *Mishnah* addressed cases involving porous foods such as figs or dates, whose skins allow liquid to be absorbed even without heat. Grapes present a different case: ordinarily, wine or other liquids do not penetrate their skin, and rinsing the surface suffices. *Tosafos*, however, notes that this assumes the grapes remain attached to the cluster. Once a grape is plucked from its stem, the point of detachment creates an opening through which liquid can enter. In such a case, even cold liquid can be absorbed. This is a crucial distinction, as the principle of *nosein taam* applies equally whether heat drove the absorption or the porous nature of the food allowed it naturally.
 
@@ -136,7 +136,7 @@ The *Gemara* now moves to a case that fully isolates smell from taste: the *bist
 
 This, *Rava* says, is his proof: *mana amina lah de-reicha lav klum hu* — from this *Mishnah* we learn that smell alone does not constitute a halachically significant transfer. Even though the *terumah* cumin's aroma permeated the oven and the bread baked within it, the bread remains entirely permitted, because smell is nothing.
 
-### Abaye: Direct vs. Detach…
+### Abaye: Smell vs. Aroma
 
 *Abaye* responds with a distinction that saves his principle: *shani hatam de-miklei issurei* — there the cumin was burned. The cumin itself was consumed by the fire; what remained in the oven was not the cumin but only a detached aroma, the smell floating independently in the air. A detached aroma, separated from the original substance by the act of burning, is genuinely "nothing" — it is not the thing itself in any form. But in the case of smelling wine directly, the wine is physically present; the particles entering one's nose are real particles of wine. That, *Abaye* argues, is qualitatively different from an aroma left lingering in an oven after its source has been destroyed.
 
@@ -158,7 +158,7 @@ The *Gemara* now introduces a *Tannaitic* dispute that mirrors the *Abaye-Rava* 
 
 *Rabbi Yehuda* permits the bread. For him, *reicha lav milta hi* — smell does not transfer in a legally significant way, and the bread is unaffected by its proximity to the wine barrel.
 
-### Rabbi Yossi: Wheat vs. B…
+### Yossi: Wheat vs. Barley
 
 *Rabbi Yossi* takes a middle position: *mattir be-shel chittin ve-osser be-shel se'orin* — wheat bread is permitted, but barley bread is forbidden. The difference is absorption: *mipnei she-hase'orin sho'avot* — barley bread absorbs more, and therefore the wine's smell actually enters it in a physically meaningful way. Wheat bread does not absorb to the same degree, so it remains unaffected.
 

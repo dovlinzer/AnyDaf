@@ -6,7 +6,7 @@
 
 Today's *daf* is dedicated to the learning in memory of Goldie, *Goldie bas Golda bas Yitzchak Yehuda*, on her third *yahrtzeit*. May it be in her memory and in her *zechus*.
 
-We pick up with the *mishna* on 28a. The *mishna* opens: *hamavei get* — someone is delivering a *get*. The entire first *masechta* opens with the concept of *shelichus*, and that framework allows the Gemara to explore some genuinely interesting scenarios. We already dealt with what happens if the *get* is lost by the *shaliach*; now we confront a different problem.
+ The *mishna* opens: *hamavei get* — someone is delivering a *get*. The entire first *masechta* opens with the concept of *shelichus*, and that framework allows the Gemara to explore some genuinely interesting scenarios. We already dealt with what happens if the *get* is lost by the *shaliach*; now we confront a different problem.
 
 ### Chazaka & Status Quo
 
@@ -32,7 +32,7 @@ Of all these cases, *terumah* stands out as the most remarkable *chidush*. One m
 
 The Gemara opens with a qualification from Rava: *lo shanu ela zaken* — the *mishna*'s ruling applies only to someone who is merely old in the ordinary sense, *shelo higia ligvurot*, meaning he has not yet reached the age of eighty. Similarly it applies to one who is merely sick, *sherov cholim lachayim* — because most sick people recover.
 
-### Exceptions: Elderly & Go…
+### Rava: Zaken & Gosses
 
 Rava continues: *aval zaken shehigia ligvurot* — if the man has already reached eighty years of age — *v'goses* — or if he is a *goses*, meaning he is actively in the process of dying — *sherov gosesim lemisa* — the majority of such people do die, and therefore one cannot invoke *chezkat chayim* on their behalf. In such cases the *chazaka* may be understood as *chazakah asuyah lehishtanot* — a status quo that is already in the process of changing.
 
@@ -198,7 +198,7 @@ As for time limits — whether there is any point at which the uncertainty is re
 
 ---
 
-## Jewish vs. Non-Jewish Co…
+## Jewish vs. Non-Jewish Ct.
 
 ### Rav Yosef's Position
 

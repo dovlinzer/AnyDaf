@@ -1,4 +1,5 @@
 # Bava Metzia 16 — Daf Yomi Shiur
+[DAF:16a]
 
 ## Knowing field stolen
 
@@ -296,6 +297,7 @@ The answer in both the inheritance case and the fish case turns on the concept o
 
 ## Futures doctrine
 
+[DAF:16b]
 ### Unspecified field
 
 > **Hebrew/Aramaic:** אָמַר רַב הוּנָא אָמַר רַב: הָאוֹמֵר לַחֲבֵרוֹ שָׂדֶה שֶׁאֲנִי לוֹקֵחַ, לִכְשֶׁאֶקָּחֶנָּה, קְנוּיָה לָךְ מֵעַכְשָׁיו – קָנָה.

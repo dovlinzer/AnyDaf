@@ -4,7 +4,7 @@
 
 ### Personal Precedence
 
-Today's *daf* is 30b. We are in the middle of a very important discussion of the principle of *zaken ve'eino lefi kevodo* — the limits of what you are not obligated to do in returning a lost object (*aveidah*). The discussion begins three lines from the top of 30b.
+ We are in the middle of a very important discussion of the principle of *zaken ve'eino lefi kevodo* — the limits of what you are not obligated to do in returning a lost object (*aveidah*). The discussion begins three lines from the top of 30b.
 
 The Gemara has already established that there are times when one need not return a lost object — for instance, if doing so would require entering a cemetery, which the Gemara treats as obvious. But beyond ritual considerations, there is a broader ethical principle at work: a person's own needs take precedence over another's. This does not mean that one places one's desires above another's needs, but rather that one's own needs carry greater moral weight than someone else's needs. Accordingly, before protecting another's property, one must first protect one's own. No special *pasuk* of *ve'hitalamta mehem* was needed to establish that. What we do learn from *ve'hitalamta mehem* — read not rhetorically but as an affirmative statement that one is sometimes permitted to refrain from returning a lost object — is when doing so would violate one's dignity. This is not a case of protecting one's own property over another's, but of protecting one's dignity over another's property.
 
@@ -12,7 +12,7 @@ The Gemara has already established that there are times when one need not return
 
 This is the principle of *kavod habriyot*. *Tosafot* discusses at some length how, when there is a significant affront to dignity — a body left in the street, or, as *Tosafot* also mentions, going about naked — the concern for human dignity can override even ritual obligations. Certainly at a lesser degree, it can permit one to forgo financial responsibilities toward another's property.
 
-### Rava: Engagement Obligates
+### Rava: Engagement Obligate
 
 *Amar Rava*: *hishicha chayav bah* — even though you are exempt from returning a lost object when doing so is beneath your dignity, if you have already engaged it, if you struck or drove the animal, you are now obligated and cannot disengage. At first glance this principle might seem to apply generally: once I stop to pick up any *aveidah*, I can no longer claim my exemption.
 
@@ -26,7 +26,7 @@ The Gemara illustrates this with a brief narrative: *Abaye hava yasiv kamei de'R
 
 ---
 
-## Field vs. City Digni (II)
+## Field vs. City Dignity
 
 ### Unresolved Question
 
@@ -40,7 +40,7 @@ The Gemara concludes: *teiku* — this question remains unresolved.
 
 One might ask: what does *hachrazah* — the public announcement — look like in practical terms? In the time of the *Beit HaMikdash*, the *Even HaToen* served as the designated site for announcements during the *regalim*. But outside that context, returning a lost object means going to *shuls* and *batei midrash*, posting announcements, doing whatever the local context requires. It is implausible that in ordinary times one would simply wait three months for the *regel*. Local inquiries would naturally have been initiated immediately.
 
-### Rava's Self-Reference Test
+### Rava's Self-Reference
 
 *Amar Rava*: *kol she-bishelo machazir be-shel chaveiro nami machazir* — here is a useful way of determining whether an act of return is consistent with one's dignity: would you bother doing this act if it were your own object? If I drop a few pennies in a public square and would not stoop to pick them up, I would not do so for someone else's either. The thought experiment works well when the question is simply whether one would bend down to retrieve something. It is somewhat harder to apply when the question involves the process of returning — going door to door, making inquiries — but the general idea is to ask: if this were my object and these actions were required of me to recover it, would I perform them?
 
@@ -194,7 +194,7 @@ If so, what does *teshivem* add? The Gemara derives a different *chiddush*: *ein
 
 The Gemara clarifies: this refers specifically to a *guarded* location. If the garden or yard is not properly enclosed, returning an animal there would not constitute a valid return. The *chiddush* applies only where the alternate location offers real protection — equivalent to the owner's house.
 
-### Return Without Notification
+### Return Without Notifying
 
 Having established that one may return an animal to the owner's yard rather than his house, the Gemara raises a further question: does a valid return require *da'at ba'alim* — that the owner be informed and aware? Perhaps one must knock on the door and notify the owner directly.
 
@@ -202,7 +202,7 @@ The answer is no: *hashavat aveidah* does not require notifying the owner. This 
 
 ---
 
-## Double Language Patt (II)
+## Double Language Pattern
 
 ### Shiluach Hakan
 
@@ -218,7 +218,7 @@ Rava responds with the same structure: *shale'ach afilu me'ah pe'amim mashma* �
 
 The same question is posed regarding *hocheach tochiach* — the obligation to rebuke a fellow Jew. Does this mean only twice, or many times? Rava answers: *hocheach afilu me'ah pe'amim mashma* — the first word, *hocheach*, already implies an ongoing obligation, as many times as necessary. *Tochiach* then extends the obligation's scope: *ein li ela rav le-talmid* — I might have thought only a teacher may rebuke a student. *Talmid le-rav minayin* — how do I know a student may, or is even obligated to, remonstrate a teacher? *Hocheach tochiach mikol makom* — the double language extends the obligation regardless of relative standing, provided, of course, that it is done respectfully.
 
-### Prika and Te'ina Revisited
+### Ezov Ta'azov, Hakem Takim
 
 The Gemara applies the same analysis to *azov ta'azov imo* and *hakem takim* — the obligations to unload and reload a collapsing animal. The verse regarding unloading says *azov ta'azov imo* — "you shall surely release with him," implying the owner's participation. *Ein li ela be'alav imo* — I would only know the obligation applies when the owner is present and helping. *She'ein be'alav imo minayin* — how do I know I must unload even when the owner is not present, is unable to help, or it is beneath his dignity? *Talmud lomar azov ta'azov mikol makom* — the double language extends the obligation across all circumstances. Similarly for *hakem takim* — the reloading obligation: the double language teaches that even when the owner cannot assist, the obligation remains. In both cases, the first word alone conveys the iterative, ongoing character of the obligation, and the second word broadens the contexts to which it applies.
 

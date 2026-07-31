@@ -14,7 +14,7 @@ This position was challenged by Rav Nachman, who rejected the idea that any gene
 
 However, when we pick up at the top of 12a, we discover that this was not Ulla's genuine position. *Le-basar de-nafak* — after Rav Nachman had left — Ulla said to those present: know that this is truly what Rabbi Elazar taught, namely that one may collect *afilu mi-yasmei*, even from the heirs, because there is a real lien on slaves just as there is a lien on real estate. Rav Nachman, hearing of this, remarked that Ulla had been *ishtamititen* — evading him, declining to state his true position directly rather than confront Rav Nachman's strong opposition. Ulla's authentic tradition from Rabbi Elazar maintains that liens on slaves are real and operative.
 
-### Neharde'a and Pumbedita…
+### Neharde'a & Pumbedita
 
 The weight of practice appears to support Ulla's view. There was a case in Neharde'a — the seat of Shmuel's authority and the city where Rav Nachman himself held sway — in which the judges of Neharde'a were prepared to collect a debt from slaves, treating a loan as conferring a lien not only on land but also on slaves. They followed the ruling of Ulla in the name of Rabbi Elazar. Similarly, *hava uvda be-Pumbedita* — there was a case in Pumbedita in which Rav Chana bar Bizna permitted a creditor to collect from slaves that had either passed to heirs or been sold to a third party. The principle was being applied consistently: slaves are fully analogous to landed property for the purpose of liens.
 
@@ -78,7 +78,7 @@ When it comes to slaves and *metaltelin*, the *braita* states that taking posses
 
 However, a second *braita* is then cited that teaches the opposite regarding this last case: *hechezik ba-avadim kanah metaltelin* — if one takes possession of slaves, one does acquire the chattel along with them.
 
-### Slaves like land or chat…
+### Slaves: Land or Chattel
 
 The *Gemara* proposes that this is the crux of the *tannaic* dispute. The first *braita* holds that slaves are like *metaltelin* — chattel — and therefore taking possession of a slave no more carries along other chattel than taking possession of one piece of chattel carries along another. The second *braita* holds that slaves are like *karka* — land — and therefore taking possession of a slave can serve as the vehicle for *kinyan agav*, conferring possession of chattel just as taking possession of land does. This appears to map directly onto the debate between Ulla (slaves are like land, liens apply) and Rav Nachman (slaves are like chattel, no liens).
 
@@ -90,7 +90,7 @@ The *Gemara* proposes that this is the crux of the *tannaic* dispute. The first 
 
 Rav Ika son of Rav Ami intervenes to argue that the two *braitot* need not reflect a dispute about whether slaves are fundamentally like land or like chattel. On his first explanation, *de-chulei alma avadim ke-mika-rke-dami* — everyone agrees that slaves are like land. The *braita* that says *kinyan agav* works with slaves follows naturally from that premise. But the *braita* that says it does not work — that also can be reconciled without disagreeing about the underlying status of slaves.
 
-### Biblical basis Kinyan Ag…
+### Kinyan Agav
 
 The *Gemara* has already established the scriptural basis for *kinyan agav*. The *mishna* in Kiddushin states that property without liens (i.e., chattel) may be acquired along with property that has liens (i.e., land), through the same modes by which land is acquired — money, deed, or *chazaka*. The verse underlying this, as taught by Chizkiyah, is from Chronicles: *va-yiten lahem avihem matnot rabot le-kesef u-le-zahav u-le-migdanot im arei mitzurot bi-Yehuda* — their father gave them many gifts of silver, gold, and precious things together with the walled cities of Judah. The act of taking possession of the walled cities carried along the transfer of all the movable gifts simultaneously.
 
@@ -260,7 +260,7 @@ However, Rav Nachman qualifies this sharply. *Lo shanu ela b'bechor b'zman hazeh
 
 When the *Beis HaMikdash* exists and the *bechor* could genuinely be brought as a *korban*, the ruling is reversed: *aval bi-zman she-Beis HaMikdash kayam d'chazi l'hakrava, lo* — when it is destined for the *mizbeach*, it is not considered the *kohen*'s property in that sense, and neither the sale nor the *kiddushin* would be valid. The *bechor*'s status as *mammon ba'alim* is contingent on it not being genuinely on the path toward *hakrava*.
 
-### Rava's challenge
+### Rava's challenge (II)
 
 Rava challenges this construction. According to Rabbi Yosi HaGlili, *kodshim kalim* is *mammon ba'alim* while alive — why should that not apply to a living *bechor* even when the *Beis HaMikdash* stands? The *bechor* is alive, it is *kodshim kalim*, and Rabbi Yosi HaGlili's principle should make it *mammon ba'alim* straightforwardly, regardless of whether a Temple exists. Why does Rav Nachman insist on the special circumstance of no *Beis HaMikdash*, or on the *bechor* being outside of *Eretz Yisrael*, rather than simply applying Rabbi Yosi HaGlili's rule?
 

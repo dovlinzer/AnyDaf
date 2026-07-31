@@ -1,6 +1,6 @@
 # Bava Batra 136 — Daf Yomi Shiur
 
-## Matnat Shchiv Mei'ra Bas…
+## Matnat Shchiv Mei'ra
 
 ### Opening & Orientation
 
@@ -24,7 +24,7 @@ The *diatiki* must not be confused with a *shtar matana*, an ordinary gift docum
 
 ---
 
-## Diatiki Definition & Mat…
+## Diatiki Definition Matna
 
 ### Diatiki Definition
 
@@ -72,7 +72,7 @@ Rav Nachman bar Yitzchak rules that Rav Shizbi's version is more plausible. The 
 
 The attribution is further clinched by a transmission from Ravin, who reported in the name of Rebbi Abbahu that Rebbi Eliezer sent the following ruling to the diaspora (*le-golah*, to Bavel) in the name of *rabbeinu* — which in this context refers to Rav. Rebbi Eliezer was a student of both Rabbi Yochanan and Rav, and sent the ruling to Bavel in Rav's name: *shchiv mei'ra she-amar kitvu u-tnu mana le-ploni u-met, ein kotvin ve-nosnin, shema lo gamar lehaknoso ela be-shtar, ve-ein shtar achar misa*. Rabbi Yochanan then added *tibadek* — one must examine the circumstances.
 
-### Rav Yochanan Qualification
+### Rav Yochanan: Tybadek
 
 What does *tibadek* mean? Rabbi Yochanan is not disagreeing with the ruling but qualifying it: the outcome depends on context. When Rav Dimi came from Eretz Yisrael he explained the qualification.
 

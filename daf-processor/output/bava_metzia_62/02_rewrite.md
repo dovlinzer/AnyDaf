@@ -1,6 +1,6 @@
 # Bava Metzia 62 — Daf Yomi Shiur
 
-## R. Eliezer vs. R. Yochan…
+## R. Eliezer vs. Yochanan
 
 ### Ribbis vs. Gezel
 
@@ -10,7 +10,7 @@ The daf opens in the midst of a debate concerning *ribbis d'oraisa* — biblical
 
 *Rabbi Yochanan*, by contrast, reasons that because *ribbis* is not simply about the money that changes hands but about the corruption of the power dynamic itself — something that cannot be undone — there is no mechanism of restitution that would be meaningful. What all opinions agree upon is that *ribbis d'rabbanan*, referred to as *avak ribbis*, carries no restitution obligation whatsoever. The Gemara is candid about the practical danger this creates: where there is no consequence, the temptation to transgress is considerable, and as this entire *perek* makes clear, *Chazal* were acutely aware that many people were in practice lending with *ribbis* — at minimum at the *d'rabbanan* level.
 
-### Mishnah: Children & Ribb…
+### Mishnah: Children & Usury
 
 The Gemara now introduces a *mishnah* from Bava Kamma as a challenge. The *mishnah* states: if a father leaves behind *ma'ot shel ribbis* — money that derived from lending with interest — the children, even knowing the money's origin, are not obligated to return it. The Gemara immediately draws an inference: *ha-avihan chayav lehachzir* — the implication is that the father himself would have been obligated to return it. This appears to support *Rabbi Eliezer* against *Rabbi Yochanan*.
 

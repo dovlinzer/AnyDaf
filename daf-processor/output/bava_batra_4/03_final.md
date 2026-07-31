@@ -1,4 +1,5 @@
 # Bava Batra 4 — Daf Yomi Shiur
+[DAF:4a]
 
 ## Wall Height & Beit HM
 
@@ -216,6 +217,7 @@ A second version reverses the positions: *Rav Huna* says turn the corner inward,
 
 *Rabbi Yochanan* offers a different method: *meshayaya be'amah milivar* — you plaster over an additional layer on the neighbor's side of the wall. This indicates the wall is yours. Why not plaster on your own side? Because then the neighbor could plaster on his side and claim it is jointly his. If you plaster on his side, can't he just remove it? He could, but *kelifa meida yedia* — the removal of plaster will be visible, though this argument may be harder to sustain over long periods of time.
 
+[DAF:4b]
 ### Branch Walls
 
 > **Hebrew/Aramaic:** הוּצָא – אָמַר רַב נַחְמָן: סַינּוֹפֵי יְרֵיכֵי מִלְּבַר. וְנֶיעְבַּד מִלְּגָיו! עָבֵיד נָמֵי חַבְרֵיהּ מִלְּבַר, וְאָמַר: דִּידִי וְדִידֵיהּ הוּא. אִי הָכִי, הַשְׁתָּא נָמֵי – גָּיֵיז וְשָׁדֵי לֵיהּ, וְאָמַר: דִּידִי וְדִידֵיהּ הוּא! מַשְׁרֵיק לֵיהּ טִינָא. הַשְׁתָּא נָמֵי – אָתֵי חַבְרֵיהּ וְקָלֵיף לֵיהּ! קִילּוּפָא מִידָּע יְדִיעַ.

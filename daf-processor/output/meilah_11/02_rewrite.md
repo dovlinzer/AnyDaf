@@ -22,7 +22,7 @@ The Mishnah at the bottom of 10b, which opens the new *perek*, presents the clas
 
 Two additional cases of *chatat shemetah* depend more on circumstances. The first is *she'avar shnata ve'avda* — the animal became more than a year old, or it was lost and subsequently found to have a *mum*. The second scenario specifies that if *mishekippru haba'alim tamut* — if the owners have already achieved atonement through another offering — then the animal must also die, falling into the category of *chatat shemetah*.
 
-### Unconditional vs. Condit…
+### Unconditional vs Cond.
 
 One might ask: what distinguishes *avar shnata* from *nitkapper be'acher*? The critical difference is that the first two categories — *vlad chatat* and *tmurat chatat* — are inherently and permanently unfit for *kapara*, and the death of the owners likewise forecloses any possibility of *kapara* entirely. These are unconditional cases. *Avar shnata*, by contrast, is more like a *mum*: there is simply a problem that prevents bringing the animal in its current state, but one could wait until the animal actually develops a *mum* and then be *podeh* — redeem it. Similarly, if the animal was lost and then found with a *mum*, one could have been *podeh* it if the owners had not yet brought another *korban*. These later cases, therefore, represent scenarios where there was a genuine possibility of eventual use that was foreclosed by the owners having gone ahead and brought another offering. In both instances — the one that aged past its year, and the one that was lost — the operative factor is that the owners subsequently achieved *kapara* elsewhere, *nitkapper be'acher*, and only then does the animal fall into the *shemetah* category.
 
@@ -84,7 +84,7 @@ The most complex case is the money designated for the *shelamim*. In principle, 
 
 ---
 
-## Bird Age Requirement (II)
+## Bird Age Requirements
 
 ### Tosafot: Young Bird Use
 
@@ -134,7 +134,7 @@ A *baraita* records a dispute directly on this point. *Rabbi Meir* holds *mo'ali
 
 *Ula* derives the exemption from a verse: the blood was given to you upon the *mizbeach* to atone — *lachem*, for you, meaning it is performing a service on your behalf. This somehow removes it from the category of *kodshei Hashem*, and consequently there is no *me'ilah*. This rationale is difficult to internalize. The entire concept of blood as *korban* seems to be the paradigm of something given wholly to God — the soul of the animal, as it were, offered entirely to the divine. Yet here the *pasuk* is read to say that its service is rendered to the benefit of the owner, and that very fact removes it from full *kodshei Hashem* status. The irony is difficult to fully resolve.
 
-### R. Yishmael: Atonement P…
+### R. Yishmael: Blood Atone.
 
 The school of *Rabbi Yishmael* offers a formulation that is conceptually somewhat clearer: *l'chaparah netativo velo lime'ilah* — I gave it for atonement, not for *me'ilah*. The *pasuk* is read as the Torah explicitly exempting blood from *me'ilah* because its entire purpose is to help the person achieve atonement. It is there to assist, not to cause additional stumbling through the prohibition of *me'ilah*. One might immediately ask: why not say the same about the entire *korban*? If the blood is exempt from *me'ilah* because it serves the owner's atonement, surely the meat and the *imurin* also serve the *kapara* process? The question does not receive a direct answer, and the tension remains unresolved.
 

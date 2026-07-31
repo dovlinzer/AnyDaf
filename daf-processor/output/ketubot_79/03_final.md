@@ -1,4 +1,5 @@
 # Ketubot 79 — Daf Yomi Shiur
+[DAF:79a]
 
 ## Rabbi Shimon & Shtar Mav…
 
@@ -214,6 +215,7 @@ The Gemara then returns to the debate about the offspring of the slave. The ques
 
 Conversely, if they are not concerned about the death of the animals and simply treat the entire flock as durable principal, then the husband should receive the offspring of the slave as well, since by the same logic she is durable principal producing *peirot*.
 
+[DAF:79b]
 ### Animal Exception
 
 > **Hebrew/Aramaic:** לְעוֹלָם חָיְישִׁי לְמִיתָה, וְשָׁאנֵי בְּהֵמָה דְּאִיכָּא עוֹרָהּ.

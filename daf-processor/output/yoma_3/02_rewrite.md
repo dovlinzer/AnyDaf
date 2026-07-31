@@ -2,7 +2,7 @@
 
 ## Miluim & Seven Days
 
-### Setup: Preparation Paral…
+### Kohen Gadol & Parah Prep
 
 The *Gemara* on today's *daf* opens by addressing the question raised by the *Mishnah*: what is the biblical basis for the seven-day preparation of the *Kohen Gadol* prior to the *Avodah* on *Yom Kippur*, during which he was separated from his household? A parallel *Mishnah* in *Parah* records an identical seven-day preparation for the *kohen* who would perform the *Parah Adumah* ritual. The *Gemara* has been seeking the source for both of these practices. The answer it has been exploring derives from the verse describing the *Miluim* — the seven-day consecration period before the *kohanim* inaugurated the *Avodah* in the *Beit Hamikdash*. The verse there reads: *kaasher asah bayom hazeh tsivah Hashem la'asot lekaper alechem* — "as was done on this day, so God commanded to do, to atone for you" — which the *Gemara* interprets as a divine directive to replicate this paradigm in future contexts. Two such contexts are identified: *Parah Adumah*, derived through a *gezerah shavah* on the word *tsivah*, and *Yom Kippur*, linked through the word *lekaper*.
 
@@ -14,7 +14,7 @@ The connection to *Yom Kippur* via *lekaper* is admittedly broad, since *lekaper
 
 Having eliminated the three pilgrimage festivals, the *Gemara* considers whether *Shemini Atzeret* might serve as the intended one-day event. At the top of 3a, the *Gemara* raises this possibility seriously, noting that *Shemini Atzeret* does indeed stand as an independent day in six distinct respects, encapsulated in the mnemonic *Pezer Keshev*.
 
-### Shemini Atzeret Independ…
+### Shemini Atzeret Six Ways
 
 These six dimensions of independence are as follows. *Payis*: a new lottery is conducted for the *korbanot*, initiating a fresh cycle of priestly divisions. *Zman*: a new *Shehecheyanu* is recited, distinct from the final day of *Chag Hamatzot*. *Regel bifnei atzmo*: it functions as an independent *regel*, with none of the distinctive practices of *Sukkot* — no *sukkah*, no *lulav*. *Korban bifnei atzmo*: it has its own independent *korban* rather than continuing the pattern of the *Sukkot Musaf* cycle. *Shir*: the *shir shel yom* sung during the *korbanot* on *Shemini Atzeret* is distinct — *Rashi* notes that the *shir* for *Sukkot* would be based on *matanot aniyim*, whereas *Shemini Atzeret* has its own. *Bracha bifnei atzmo*: it receives a distinct blessing — *Rashi* suggests this may refer to a special blessing offered to the king, or alternatively that in *Shmoneh Esrei* and in *Birkat Hamazon* it is given its own unique appellation: *Yom Hashmini Chag Ha'atzeret hazeh*.
 
@@ -118,7 +118,7 @@ If the funding is always communal, the *Gemara* asks, *umah talmud lomar kach le
 
 A parallel textual contrast reinforces the point. *Abba Chanan* in the name of *Rabbi Eliezer* observes: one verse says *ve'asita lekha aron etz* (Devarim 10) — "make for yourself an ark of wood," addressed to Moshe in the singular — while another says *ve'asu aron atzei shitim* (Shemot) — "they shall make an ark of acacia wood," in the plural, inclusive of all of Israel. *Ha-keitzad?* — how can both be true? *Rabbi Eliezer* answers: *bizeiman she-Yisrael osim retzono shel Makom*, when Israel fulfills God's will, the *aron* is described as belonging to the entire community; *bizeiman she-ein Yisrael osim retzono shel Makom*, when they fall short, the *aron* is described as belonging to Moshe alone — *ke'ilu shel Moshe hu*. The midrashic point maps onto the theme of communal versus individual: God's relationship with the *tzibbur* is conditional on their conduct, but the *tzaddikim* among them maintain their singular standing regardless.
 
-### Consensus: Aharon's Offe…
+### Aharon's Offering: Miluim
 
 The *Gemara* ultimately concludes that in the specific cases of the *Miluim* and *Yom Kippur*, there is no debate — even *Rabbi Yonatan* would agree that these are *Aharon*'s private *korbanot*. The reason is that the *Torah* in both places explicitly contrasts *Aharon*'s offering with that of *Bnei Yisrael*. At the *Miluim*, the text first instructs *Aharon* — *vayomer el Aharon kach lecha egel ben bakar* — and then pivots to the community — *ul'vnei Yisrael tedaber leimor*. This explicit juxtaposition leaves no ambiguity: *kach lecha* here unmistakably means *Aharon*'s own. The phrase *Shma mina kach lecha mishelcha hu* — hear from this that *kach lecha* means from his own — is not merely a general inference but a conclusion mandated by context.
 

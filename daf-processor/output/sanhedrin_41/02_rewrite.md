@@ -1,6 +1,6 @@
 # Sanhedrin 41 — Daf Yomi Shiur
 
-## Witness Recognition & Ha…
+## Witness Recognition
 
 ### Makirim Atem Oto
 
@@ -12,7 +12,7 @@ The *baraita* now introduces several additional requirements that make convictio
 
 Then: *hemit b'toch k'dei dibur* — even after all of the above, he must actually commit the crime within *toch k'dei dibur*, within approximately three seconds of accepting the warning upon himself. If he does not, the concern is that perhaps he forgot. That may seem almost absurd — can one truly forget within three seconds? A more satisfying reading may be that if the act is not carried out in immediate temporal proximity to the acceptance, it is no longer performed in the context of the total defiance that *hitir atzmo lemitah* requires, and thus does not grant the court the license to execute.
 
-### Jew or Non-Jew; Avodah Z…
+### Jew or Non-Jew; Idolatry
 
 The *baraita* then turns to a case not of murder but of *avodah zarah* — idolatry. Here the witnesses are asked: *et mi avad* — which deity did he worship? Was it Pe'or, was it Markolis? Unlike the distinction between Jew and non-Jew in the murder case — where the identity of the victim determines whether the death penalty applies at all — here the identity of the deity serves a different purpose. What matters is whether the form of worship performed is the form specific to that deity, which is necessary for determining *chayav mitah*.
 
@@ -26,7 +26,7 @@ The *gemara* immediately asks: *atu b're'iyah talya miltah* — is the prohibiti
 
 The *gemara* then asks: *im eino inyan l'karet* — but this verse is speaking of *karet*, divine punishment. *Karet* is administered by Heaven, and God knows whether one acted willfully or not. The entire framework of *hatra'ah* — establishing *mezid*, confirming a posture of defiance — is relevant only to a court-imposed sanction. So this teaching about *ra'ah*, about the transparency of the act, is not needed for *karet* itself, and must therefore be applied elsewhere.
 
-### Hatra'ah for Lashes & Ca…
+### Hatra'ah: Lashes & Death
 
 The top of 41a concludes this point: *tanya inyan lemalkos* — the verse is applied to lashes. When a court-imposed punishment of *malkos* is on the table, it must be established that the transgressor acted with full awareness. Thus we learn that *hatra'ah* is at minimum required for lashes.
 
@@ -58,7 +58,7 @@ The *gemara* immediately raises an objection. For *Rav Chanan*'s ruling to be me
 
 The *gemara* resolves this: *be'isha chavera* — we are speaking of a woman who is a *chavera*, someone learned and scrupulous in *taharot* and *trumos*, and the ruling follows the opinion of *Rabbi Yosi bar Rabbi Yehuda*. Thus the *gemara* introduces the pivotal *baraita*.
 
-### R. Yosi b. R. Yehuda: Ch…
+### R. Yosi: Chaver, No Hatra
 
 *Rabbi Yosi bar Rabbi Yehuda omer: chaver ein tzarich hatra'ah* — a *chaver*, a person who is learned in *halacha*, does not require *hatra'ah* before being put to death. Why? *Lefi she'lo nitna hatra'ah ela lehavchin bein shogeg lemeizid* — the only purpose of *hatra'ah* is to distinguish between *shogeg* (unintentional transgression) and *mezid* (intentional). A person who is knowledgeable in *halacha* is self-evidently aware of what they are doing and is self-evidently *mezid*; no formal warning is necessary to establish that.
 
@@ -68,7 +68,7 @@ This also illuminates the range of positions that have emerged in this sugya. So
 
 The *gemara* returns to *Rav Chanan*'s ruling. The *gemara* notes: if witnesses testify that an *isha chavera* committed adultery without any *hatra'ah* — and since, following *Rabbi Yosi bar Rabbi Yehuda*, she could be executed without it — and they are then found to be *edim zomemim*, can they be executed? They would claim *le'osra al ba'alah banu*. And once we establish that they cannot be executed as *zomemim*, the *gemara* presses further: if they cannot be made into *edim zomemim*, then their testimony against her is *eidus she'ein ata yachol lehazimah* — testimony that cannot be subjected to *hazama* — and *kol eidus she'ein ata yachol lehazimah lo shemah eidus*: such testimony is not testimony at all and cannot be used to convict her either. The *gemara* confirms: that was indeed *Rav Chanan*'s intent. First establish that the witnesses cannot themselves be executed (because of the *le'osra* claim), and from that it follows that their testimony cannot convict her either.
 
-### Chaveira: Twice or Forbi…
+### Chaveira: Adultery Twice
 
 The *gemara* then challenges: if that is so, according to *Rabbi Yosi bar Rabbi Yehuda*, how can an *isha chavera* who commits adultery ever be put to death? The *gemara* answers: *keshe-zinta v'chazra v'zinta* — in a case where witnesses testify that she committed adultery twice. After the first act, she is already forbidden to her husband; thus the second testimony cannot be aimed at making her forbidden again. Its only operative effect must be to have her executed. The witnesses cannot claim *le'osra al ba'alah banu* regarding the second act.
 
@@ -80,7 +80,7 @@ The *gemara* closes this passage by asking why *Rav Chanan* used the specific ca
 
 ## Bedikot vs. Chakirot
 
-### Rav Chisda: Central vs.…
+### Rav Chisda: Central Check
 
 *Rav Chisda* teaches the following principle: *echad omer be-sayif harago ve-echad omer be-aririn harago* — if one witness says he was killed with a sword and the other says with an awl or similar instrument, this is not *nachon* — their testimony is not aligned, and it is disqualified. That accords with the *mishnah*: if the *bedikot* contradict one another, the testimony is invalid. The *chiddush* of *Rav Chisda* comes in the next ruling: *echad omer kelim shechorim ve-echad omer kelim levanim harei zeh nachon* — if one witness says the perpetrator was wearing black clothes and the other says white clothes, this *is* considered *nachon*. Contradictions in *bedikot* that are peripheral to the actual act — what color clothing the defendant was wearing — do not disqualify the testimony. What matters is that the witnesses are aligned on the central defining facts of the transgression itself.
 
@@ -96,7 +96,7 @@ A further challenge emerges from the *mishnah* itself, which records that Ben Za
 
 *Rami bar Chama* proposes: perhaps the case was not one of murder at all, but of someone who plucked a fig on *Shabbat* — *de-aktaf te'ena be-Shabbat* — in which case the fig itself is part of the transgression and the examination of its characteristics is directly relevant to the act.
 
-The *gemara* objects: the *baraita* explicitly states *tachat te'ena harago* — he killed him under a fig tree — which places the case squarely in the domain of murder. *Rami bar Chama* then offers an alternative: *she-shafto be-yichur shel te'ena* — he speared the victim with the twig of the fig. This, too, is acknowledged to be a highly strained reading — a fig twig seems hardly sufficient to kill anyone, and the *gemara* is, as the lecturer notes, doing somersaults to maintain *Rav Chisda*'s position against the plain testimony of these sources.
+The *gemara* objects: the *baraita* explicitly states *tachat te'ena harago* — he killed him under a fig tree — which places the case squarely in the domain of murder. *Rami bar Chama* then offers an alternative: *she-shafto be-yichur shel te'ena* — he speared the victim with the twig of the fig. This, too, is acknowledged to be a highly strained reading — a fig twig seems hardly sufficient to kill anyone, and the *gemara* is doing somersaults to maintain *Rav Chisda*'s position against the plain testimony of these sources.
 
 A further question is then posed: if the fig was the murder weapon, why does the *mishnah* also ask whether the figs were black or white (*te'einim shechorot, te'einim levanot*)? There is no conceivable way a fig itself could kill someone. This truly cannot be explained by the murder-weapon theory.
 
@@ -118,7 +118,7 @@ The *gemara* resolves both problems with a single elegant answer: *talmid hayosh
 
 As for the discrepancy in names: *ki hava lomed Ben Zakkai hava kari leh* — during his years of study he was called simply "Ben Zakkai," as befitting a student. *Ki hava melammed Rabban Yochanan ben Zakkai hava kari leh* — when he was teaching and had received *semikhah*, he bore the title Rabban. The *mishnah*, in calling him "Ben Zakkai," uses the name current at the time of the incident itself. The *baraita*, in calling him "Rabban Yochanan ben Zakkai," uses the name by which he was universally known at the time the *baraita* was composed. Both are accurate; they simply operate from different temporal reference points.
 
-### Chakirot & Hazama vs. Be…
+### Chakirot vs Bedikot
 
 The *mishnah* asks: *mah bein chakirot l'bedikot* — what is the difference between *chakirot* (examination on time and place) and *bedikot* (examination on circumstantial details)? By *chakirot*, if even one witness says *eini yodea* — I do not know — the testimony is invalidated. By *bedikot*, even if both witnesses say *eini yodea*, the testimony stands.
 

@@ -50,7 +50,7 @@ This raises an obvious question: if the *mishna* is describing someone who was p
 
 The *Gemara* then draws an inference from this discussion regarding *matnas shchiv mera*: a *shchiv mera* who transitioned *mecholi l'choli* without a complete break — his gifts remain valid, because the entire chain of illness is considered one continuous state. This principle is confirmed by a tradition cited in the name of Rabbi Elazar from Rav: *shchiv mera shenitak mecholi l'choli matnato matana*.
 
-## Implicit Condition Conce…
+## Implicit Condition
 
 ### Rava & Rabba
 
@@ -146,7 +146,7 @@ The reason is concern about *kiddushin*. The *get* was given on condition; it ma
 
 If witnesses are present, the concern about *yichud* is eliminated: witnesses prevent intimacy, and therefore no new *kiddushin* can be inferred from their continued presence in the same space. The *mishna* further specifies that even a slave, a maidservant, or a non-household member qualifies as a witness sufficient to remove the concern — *afilu al pi eved afilu al pi shifcha* — with one exception: her own personal maidservant does not suffice, because the woman feels entirely uninhibited in the presence of her own servant and would not restrain herself on that account (*mipnei shelibah gas bah bishifchatah*).
 
-### Woman's Status
+### Woman's Status (II)
 
 The second question the *mishna* addresses is the status of the woman during the intervening period: *mah hi be'otan hayamim* — what is she during those days? Is she treated as a *safek migureshet* (possibly divorced) or as a definite *eshet ish*?
 

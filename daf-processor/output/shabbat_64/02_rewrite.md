@@ -1,6 +1,6 @@
 # Shabbat 64 — Daf Yomi Shiur
 
-## Tumah: Garments & Sackcl…
+## Tumah: Garments & Jewelry
 
 ### Arig & Tachshit
 

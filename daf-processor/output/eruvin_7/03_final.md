@@ -1,4 +1,5 @@
 # Eruvin 7 — Daf Yomi Shiur
+[DAF:6b]
 
 ## Eruv Basics & Mavoi
 
@@ -110,6 +111,7 @@ The *gemara* presents yet a third reading: *ve-i ba'it eima hachi ka'amar* — t
 
 ## When Combine Chumrot
 
+[DAF:7a]
 ### Rav Yehuda's Practice
 
 > **Hebrew/Aramaic:** אָמַר רַב נַחְמָן בַּר יִצְחָק: כּוּלֵּיהּ כְּרַב עַבְדוּהּ. דְּאָמַר רַב הוּנָא אָמַר רַב: הֲלָכָה וְאֵין מוֹרִין כֵּן.
@@ -218,6 +220,7 @@ If the *rachavah* case requires nothing at that end and permits carrying in the 
 
 Abaye's reasoning about why the *chatzer* is permitted but the *mavoi* forbidden rests on a difference of perspective and inclusion. From the *chatzer's* standpoint, the opening into the *mavoi* is only a partial breach — the *chatzer* retains walls on the *mavoi* side except for the doorway-sized opening. The *chatzer* does not feel fully merged with the *mavoi*; its residents can reasonably view themselves as enclosed and separate. From the *mavoi's* standpoint, however, the entire wall separating it from the *chatzer* has collapsed — *nifratz bi-mlo'o*. The *mavoi* is entirely open to the *chatzer* and cannot claim any separation from it. This asymmetry — full openness from one direction, partial openness from the other — produces the asymmetric ruling: the *chatzer* is permitted, the *mavoi* is not.
 
+[DAF:7b]
 ### Precedent Cited
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ: אֲנָא לָא יָדַעְנָא, עוֹבָדָא הֲוָה בְּדוּרָא דְּרָעֲוָתָא מָבוֹי שֶׁכָּלֶה לִרְחָבָה הֲוָה, וַאֲתָא לְקַמֵּיהּ דְּרַב יְהוּדָה וְלָא אַצְרְכֵיהּ וְלָא מִידֵּי. וְאִי קַשְׁיָא מִשְּׁמֵיהּ דְּרַב — תֶּיהְוֵי מִשְּׁמֵיהּ דִּשְׁמוּאֵל, וְלָא קַשְׁיָא מִידֵּי.

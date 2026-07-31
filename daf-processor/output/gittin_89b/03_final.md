@@ -1,4 +1,5 @@
 # Gittin 89b — Daf Yomi Shiur
+[DAF:89a]
 
 ## Kol & Substantiation
 
@@ -198,6 +199,7 @@ For Beit Shammai, this linguistic analysis reinforces that *davar* is not an ind
 
 ## Get Validity Issues
 
+[DAF:89b]
 ### Unjustified Divorce
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב פָּפָּא לְרָבָא: לֹא מָצָא בָּהּ לֹא עֶרְוָה וְלֹא דָּבָר, מַהוּ? אֲמַר לֵיהּ, מִדְּגַלִּי רַחֲמָנָא גַּבֵּי אוֹנֶס: ״לֹא יוּכַל לְשַׁלְּחָהּ כׇּל יָמָיו״ – כׇּל יָמָיו בַּ״עֲמוֹד וְהַחְזֵיר״ קָאֵי; הָתָם הוּא דְּגַלִּי רַחֲמָנָא, אֲבָל הָכָא – מַאי דַּעֲבַד עֲבַד.

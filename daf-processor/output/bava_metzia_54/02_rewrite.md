@@ -44,7 +44,7 @@ The Gemara confirms that this point was itself a *tannaic* dispute: the verse st
 
 ## Fifth Me'akev?
 
-### Four + One or Four on Fi…
+### Four or Four on Five
 
 The Gemara now turns to a separate and fundamental question: *chomesh me'akev o ein chomesh me'akev* — does failure to add the fifth invalidate the *pidyon*, the act of redemption? If one redeems *ma'aser sheni* worth twenty outside of Yerushalayim by transferring its sanctity onto twenty coins without adding the requisite five additional coins, has the *ma'aser sheni* in fact been redeemed, such that one may now eat it outside of Yerushalayim?
 
@@ -58,7 +58,7 @@ Ravina offers a proof from the laws of *demai*. *Demai* refers to produce purcha
 
 The Gemara asks: what is the rationale for this distinction? Why would the rabbis require the *keren* but not the *chomesh* for *demai*? The answer is: *keren de-me'akev be-de'oraita ita be-derabbanan; chomesh de-lo me'akev be-de'oraita leita be-derabbanan* — the principal is *me'akev* at the Torah level, and therefore the rabbis preserved its requirement even for *demai*; the *chomesh* is not *me'akev* at the Torah level, and therefore the rabbis did not extend its requirement to *demai*. The logic of the rabbinic extension tracks the Torah-level significance of each component. If one accepts this reasoning, it constitutes a strong proof that the *chomesh* is fundamentally not *me'akev* — its absence does not invalidate the *pidyon* at the Torah level.
 
-### Rabbi Eliezer vs. Yehosh…
+### Rabbi Eliezer vs Yehoshua
 
 The Gemara raises the possibility that this issue is in fact a *tannaic* dispute. A *baraita* states: if one gave the *keren* but not the *chomesh* — *natan et ha-keren ve-lo natan et ha-chomesh* — Rabbi Eliezer says *yochal*, one may eat the *ma'aser sheni*, while Rabbi Yehoshua says *lo yochal*, one may not eat it. Rabbi Yehudah ha-Nasi then offers a split ruling: the position of Rabbi Eliezer appears correct on Shabbat, while the position of Rabbi Yehoshua appears correct on a weekday.
 

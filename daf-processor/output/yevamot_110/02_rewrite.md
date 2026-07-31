@@ -154,7 +154,7 @@ The *bei korsaia* case is different. Here, the man is not working within the rab
 
 ---
 
-## Ruling & Implication (II)
+## Ruling & Implications
 
 ### Reiteration
 

@@ -1,4 +1,5 @@
 # Menachot 91 — Daf Yomi Shiur
+[DAF:90b]
 
 ## Nesachim Scope
 
@@ -10,6 +11,7 @@
 
 The daf opens in the middle of a broad discussion concerning the *nesachim* — the wine libation and the flour and oil *mincha* — that must accompany certain sacrifices. The Torah's relevant passage appears in *parshat shelach*, which frames the obligation around the offering of a *neder* or *nedavah*, a vowed or free-will sacrifice. In practice, this works out to mean that an *olah* or *shelamim* — the quintessential voluntary offerings — requires *nesachim* whether brought as an outright free-will gift or as a fulfillment of an obligation, whereas a *chatas* and an *asham* do not. It has also been established that bird sacrifices are excluded, and the prior discussion examined the source of that exclusion.
 
+[DAF:91a]
 ### Vav vs. Or Debate
 
 > **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: ״וַעֲשִׂיתֶם אִשֶּׁה לַה׳״ – יָכוֹל כׇּל הָעוֹלֶה לָאִישִּׁים יְהֵא טָעוּן נְסָכִים, אֲפִילּוּ מִנְחָה? תַּלְמוּד לוֹמַר ״עֹלָה״. שְׁלָמִים מִנַּיִן? תַּלְמוּד לוֹמַר ״זֶבַח״. תּוֹדָה מִנַּיִן? תַּלְמוּד לוֹמַר ״אוֹ זֶבַח״. יָכוֹל שֶׁאֲנִי מְרַבֶּה אַף בְּכוֹר, וּמַעֲשֵׂר, וָפֶסַח, וְחַטָּאת, וְאָשָׁם? תַּלְמוּד לוֹמַר ״לְפַלֵּא נֶדֶר אוֹ בִנְדָבָה״ – בָּא בְּנֶדֶר וּנְדָבָה טָעוּן נְסָכִים, שֶׁאֵינוֹ בָּא בְּנֶדֶר וּנְדָבָה אֵין טָעוּן נְסָכִים.
@@ -216,6 +218,7 @@ One might still have thought — even granting that the three *esronim* function
 
 The source for the wine is derived from the passage in *parshat nesachim* itself, which states: *veyayin lanesach reviit hahin ta'aseh al ha'olah o lazevach lakeves ha'echad*. The Gemara reads these terms expansively: *olah* here refers to the *olat metzora*, and *zevach* is read in two steps — *zevach zu chatat metzora*, and *o lazevach zu asham metzora* — the extra *o* being needed to include the *asham* separately from the *chatas*.
 
+[DAF:91b]
 ### Why Not Nazir
 
 > **Hebrew/Aramaic:** וְתִיפּוֹק לֵיהּ תַּרְוַיְיהוּ מִ״זָּבַח״,

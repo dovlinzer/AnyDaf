@@ -20,7 +20,7 @@ A question arises regarding the identity of Ben Beteira — specifically, why he
 
 ---
 
-## Pesach Flaying Debat (II)
+## Pesach Flaying Debate
 
 ### Rabbi Yishmael vs. Sages
 

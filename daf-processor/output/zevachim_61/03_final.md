@@ -1,4 +1,5 @@
 # Zevachim 61 — Daf Yomi Shiur
+[DAF:60b]
 
 ## Mizbeiach Whole
 
@@ -14,6 +15,7 @@ The daf opens at the bottom of 61b with a ruling that had been established: one 
 
 All of the above is straightforward with respect to *kodshei kodashim*, because the eating of *kodshei kodashim* takes place in the *azarah* and is therefore inherently referenced to the *mizbeiach* — it can be understood as something analogous to being burned on the altar. The question becomes more pressing with regard to *kodshim kalim*. Since *kodshim kalim* is eaten anywhere in Yerushalayim, and is consumed by the owners rather than the *kohanim*, there is a compelling reason to think it bears no intrinsic connection to the *mizbeiach* whatsoever.
 
+[DAF:61a]
 ### Rabbi Yishmael Bechor
 
 > **Hebrew/Aramaic:** הָא רַבִּי יִשְׁמָעֵאל, הָא רַבָּנַן.
@@ -70,6 +72,7 @@ Ravina intervenes to defend the position that *kodshim kalim* does require a *mi
 
 *Velo kashya ha Rabbi Yishmael ha rabbanan* — this is a *machloket*. The second *braita* reflects the view that *kodshim kalim* does not require a *mizbeiach*, which is one opinion. Rabbi Yishmael's derivation from the *bechor* — linking the meat to the blood and requiring the *mizbeiach* for both — is what generated the position that *kodshim kalim* does require a *mizbeiach*. Rabbi Yirmiyah's citation proves only that there exists an opposing view; it does not demonstrate that Rabbi Yishmael's position is simply wrong. The Babylonians were not in error to follow Rabbi Yishmael — they were following a legitimate opinion.
 
+[DAF:61b]
 ### Two Places
 
 > **Hebrew/Aramaic:** וְאִיבַּעְיָא אֵימָא: הָא וְהָא בְּקׇדְשֵׁי קָדָשִׁים; וּמַאי בִּשְׁנֵי מְקוֹמוֹת – קוֹדֶם שֶׁיַּעֲמִידוּ לְוִיִּם אֶת הַמִּשְׁכָּן, וּלְאַחַר שֶׁיְּפָרְקוּ הַלְוִיִּם אֶת הַמִּשְׁכָּן.

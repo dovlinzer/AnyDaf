@@ -18,7 +18,7 @@ The case under examination at the opening of our *daf* is *shevu'at ha'edut* —
 
 A *Braisa* is then cited that enumerates cases of disqualification. If a man knew testimony before becoming someone's son-in-law and then became that person's son-in-law — thereby rendering himself *posul le'edus* for that case — or if he was able to hear and speak and became deaf-mute, or was sighted and became blind (Rashi notes there is a special *gezeiras hakasuv* that a blind person is *posul le'edus*), or was sane and became insane, then in each of these cases he is invalid and cannot be compelled to take *shevu'as ha'edut*. So far, this appears consistent with Rabbi Yehuda's requirement of uninterrupted qualification.
 
-### Temporary Disqualificati…
+### Temporary Disqualify
 
 However, the *Braisa* continues with more difficult cases. Suppose the person was *kosher* at the time he witnessed the event, then became disqualified — for instance, he became someone's son-in-law, or became a deaf-mute, or went blind, or became insane — and then the disqualification was removed: his son-in-law status ended because the daughter died, or he regained his hearing and speech, or his sight was restored, or he recovered his sanity. In all such cases, the *Braisa* rules *kosher* — the litigant may compel him to take the oath. The *Braisa* states the general principle: *kol shetechilaso v'sofo b'kashrus* — whenever the beginning and the end are in a state of qualification, the person is valid. This appears to pose a direct challenge to Rabbi Yehuda's position, since the person was not *kosher* throughout the entire interval.
 

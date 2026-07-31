@@ -1,4 +1,5 @@
 # Bava Kamma 47 — Daf Yomi Shiur
+[DAF:47a]
 
 ## Pregnant Cow Damages
 
@@ -256,6 +257,7 @@ This is not limited to a narrow technical point. The broader principle that Tosa
 
 Rav Sheshet objects: *ki nayim veshachiv Rav amrah leha shemeitata* — Rav must have been half-asleep when he said this ruling. The *gemara* brings a *beraita*: *hanosein sam hamaves lifnei behemas chaveiro* — one who places poison in front of another's animal is *patur midinei adam vechayav bidinei shamayim* — exempt in court but liable in heaven. Rav Sheshet reasons: since the *beraita* addresses poison and exempts the depositor, it implies that in the case of fruit — which an animal would naturally eat — you *should* be *chayav* in human courts. Why would Rav rule otherwise?
 
+[DAF:47b]
 ### Self-Inflicted Damage
 
 > **Hebrew/Aramaic:** אָמְרִי: הוּא הַדִּין אֲפִילּוּ פֵּירוֹת – נָמֵי פָּטוּר מִדִּינֵי אָדָם; וְהָא קָא מַשְׁמַע לַן – דַּאֲפִילּוּ סַם הַמָּוֶת נָמֵי, דְּלָא עֲבִידָא דְּאָכְלָה – חַיָּיב בְּדִינֵי שָׁמַיִם.

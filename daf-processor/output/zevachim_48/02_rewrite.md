@@ -16,7 +16,7 @@ A further question follows: even granting that the *chatat* comes first, why do 
 
 ---
 
-## Tzafon in Olah & Vav Mos…
+## Tzafon Olah & Vav Mosif
 
 ### Tzafon Source in Olah
 
@@ -52,7 +52,7 @@ A *beraita* states: *v'im nefesh* — this teaches that even doubt regarding *me
 
 Rav Pappa therefore rejects this framing: *dechulei alma melamdim* — everyone agrees that the *vav* can teach upward. This allows all opinions to affirm that *bakar* is slaughtered in the north. The debate between Rabbi Akiva and the Sages is on different grounds entirely.
 
-### Rabbis' Mitzvot Limitati…
+### Rabbis' Mitzvot Limit
 
 The Sages' actual position rests on a *gezeirah shavah*. The passage concerning *asham safek* uses the phrase *mikol mitzvot Hashem asher lo te'asenah* — "from any of the commandments of God that may not be done." The same word *mitzvot* appears in the context of the *chatat* for *cheilev* (forbidden fat). This verbal link teaches that *asham taluy* applies only to sins of the same type as *cheilev* — sins for which one would otherwise bring a fixed *chatat*: specifically, those punishable by *karet* for deliberate violation and requiring a *chatat* for inadvertent violation.
 
@@ -64,7 +64,7 @@ Rabbi Akiva, facing this objection, offers a nuanced response. He agrees that th
 
 The Sages respond with a powerful counterargument: *ein gezeirah shavah lemachetza* — you cannot use a *gezeirah shavah* in half-measures. Once the *asham taluy* has been linked to the *chatat* through *mitzvot*, that linkage is total. You cannot say "it's linked to the *chatat* in one respect but extends beyond it in another." The link defines the entire scope. The *gemara* acknowledges this as a compelling point.
 
-### Heikesh vs Gezeirah Shavah
+### Heikesh vs Gezeirah
 
 The *gemara* then explores a reformulation: perhaps the debate is not about *melamdim* but about which hermeneutical tool takes priority — *heikesh* (the juxtaposition created by the *vav*) or *gezeirah shavah* (the verbal analogy through *mitzvot*). Perhaps Rabbi Akiva holds *heikesh adif* — the juxtaposition is the stronger tool — while the Sages hold *gezeirah shavah adif*. But the *gemara* rejects this framing as well: *lo dechulei alma heikesh adif* — everyone agrees the *heikesh* takes priority.
 
@@ -172,7 +172,7 @@ The *gemara* now turns back to the *olah* itself. We have shown that *tzafon* is
 
 The *gemara* proposes an answer in the name of Abba bar Abba, or perhaps Rava bar Shila: a *kal vachomer*. If the *chatat*, which derives its *tzafon* requirement from the *olah* — its entire rule about location is formulated as "slaughter it where you slaughter the *olah*" — if even the *chatat* has *tzafon* as *me'akev*, then certainly the *olah*, which is the source from which the *chatat* learns, must have *tzafon* as *me'akev*. The argument is structurally elegant: the derivative cannot exceed the source; if the derivative's *tzafon* is *me'akev*, the source's must be as well.
 
-### Chatat Weightier Objecti…
+### Chatat Kapparah Objection
 
 The *gemara* challenges: *mah l'chatat shekein mechaperet al chayavei kiritot* — perhaps the *chatat* is weightier than the *olah* in this respect because it atones for sins punishable by *karet*, which is a weightier form of atonement than the *olah* provides. If the *chatat* is weightier, one cannot run the *kal vachomer* from *chatat* to *olah* so straightforwardly.
 

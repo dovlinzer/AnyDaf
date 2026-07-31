@@ -2,7 +2,7 @@
 
 ## Two-Column Get
 
-### Two Columns, Signatures…
+### Get: Two Columns
 
 The *mishna* before us — located on 88b, roughly in the middle of the page — opens with a case that is in many ways a continuation of the previous day's discussion, albeit the simpler version of it. The case is: *shi'er miktzat haget uchtavo bedaf hasheni vehayedim milmata kasher* — he wrote part of the *get* in one column and the remainder in a second column, and the witnesses signed at the bottom of the second column. Here *daf* carries the sense of *yeri'ah*, a column, as in a column of a Torah scroll. The ruling is *kasher*: the witnesses sign at the conclusion of the *get* after the entire text has been written across both columns, and that is sufficient.
 
@@ -94,7 +94,7 @@ The *gemara* resolves the question: *de-hatam bi-shgago kelapei ha-ktav* — the
 
 This resolution, however, raises a further question from a *baraita*: the case of *hikif rosho shel zeh betzad rosho shel zeh ve-ha-eidim ba-emtza sheneihem pesulin* — heads facing heads, witnesses in the middle, both invalid. In that case, the roof of the letters of the witnesses' signatures does face the text of one of the *gittin*. If facing inward is sufficient to validate the signature, why are both *gittin* invalid? The *gemara* answers: *hatam d'dami lei ke-ivura* — in the case of the *mishna*'s invalidation, the problem is not the orientation of the letters but that the signatures were written vertically, running up and down the page rather than across it horizontally. Written that way, the signature is ambiguous — one cannot determine which *get* it belongs to, since it is perpendicular to both. Hence: *lo adin nikarim imo* — neither document can clearly claim the witnesses as its own.
 
-### Conclusion: Rav Not Signing Gets
+### Rav Not Signing Gets
 
 Having exhausted attempts to harmonize Rav's practice with the cases involving multiple documents, the *gemara* concludes: *ela Rav be-duchti hava chatim* — Rav was signing in a different context entirely. He was signing court summonses or judicial orders, not *gittin*. His lateral signature was an authorization or approval on a court document, not the witnessing signature on a *get*. The *mishna*'s rules about signature placement apply to *gittin* specifically; Rav's practice was in an entirely separate domain and poses no challenge. Rashi notes that the term for such documents is something like a summons — an order confirming that a party may be summoned before the court — and that Rav's signature was simply his judicial approval, not a witnessing act governed by the laws of *get* signatures.
 
@@ -176,7 +176,7 @@ As the verse records of the exile of Yechonyah: *hacharash ve-ha-masgeir elef* �
 
 ## Coerced Get
 
-### Jewish vs Non-Jewish Cou…
+### Jewish vs Non-Jewish Ct.
 
 The *gemara* moves to an entirely new topic: the *get me'useh*, the coerced *get*. This subject gained notoriety in recent years when a group of individuals in New Jersey were prosecuted for using coercion to extract *gittin* from recalcitrant husbands — a reminder that these laws carry real contemporary stakes. Rashi's gloss on *me'useh* is a single word: *be-chezakah* — by force.
 

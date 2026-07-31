@@ -1,4 +1,5 @@
 # Sanhedrin 13 — Daf Yomi Shiur
+[DAF:13a]
 
 ## Chizkiyahu & Tumah
 
@@ -152,6 +153,7 @@ However, having introduced the second Baraita, the Gemara now turns to explainin
 
 The Gemara then addresses the seemingly anomalous language of Rabbi Yose, who speaks of sixteen days before Pesach rather than twenty-one days before Sukkot. The explanation involves a five-day differential between the lunar calendar and the solar seasons. There are ninety-one days to each *tekufah* (four times ninety-one equals three hundred sixty-four, approximately a solar year). But the distance from Tishrei to Nissan on the lunar calendar — six months averaging twenty-nine and a half days each — works out to approximately a hundred and seventy-seven days, while the seasonal distance is one hundred and eighty-two days (two times ninety-one). The five-day difference means that whatever the seasonal displacement is at Nissan time, it will have grown by five more days by Sukkot. If the *tekufah* is sixteen days off at Nissan, it will be twenty-one days off by Tishrei. Rabbi Yose is therefore expressing the same twenty-one-day threshold — but keyed to the Nissan calculation rather than the Tishrei one. His formulation says: if you are sixteen days off at Pesach time, you know the Sukkot *tekufah* will be twenty-one days off, which is beyond the threshold, and you intercalate. But if you are only sixteen days off *at Sukkot time*, that is within the twenty-one-day tolerance, and you do not intercalate. The reason he uses the number sixteen in both places is stylistic symmetry — the Baraita mentions sixteen before Pesach, and so it also says sixteen before the *chag*; but in reality, the threshold at Sukkot is anywhere up to twenty days off.
 
+[DAF:13b]
 ### Acheirim: 14 Days
 
 > **Hebrew/Aramaic:** אֲחֵרִים אוֹמְרִים: מִיעוּטוֹ, וְכַמָּה מִיעוּטוֹ? אַרְבָּעָה עָשָׂר יוֹם. קַשְׁיָא!

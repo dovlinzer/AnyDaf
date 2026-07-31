@@ -1,6 +1,6 @@
 # Bava Metzia 106 — Daf Yomi Shiur
 
-## Tumah & Torah Transmissi…
+## Tumah & Torah Transfer
 
 ### Zav & Tumat Midras
 

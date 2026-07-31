@@ -10,7 +10,7 @@ The present daf opens by returning briefly to the major themes of daf 28, which 
 
 This framework connects to a broader discussion found in Sanhedrin concerning the role of *kiblu aleihu* — the parties' acceptance of a particular individual as their adjudicator. Where the parties accepted the judge unconditionally, with no further stipulations, there would be no liability, as the ruling would not be characterized as a *to'eh* in any meaningful sense. However, where the acceptance was contingent — for instance, where the parties normally could not have gone before a single judge or a relative, but agreed to do so on the condition that the judge issue a genuine *din torah*, a binding halachic ruling — the full framework of error and liability still applies. That discussion, however, belongs to Sanhedrin and is not taken up here.
 
-### Liability: Error vs. Aut…
+### Liability: Error vs Auth
 
 A further ambiguity in the *mishnah* is worth noting before moving on. The case of the *bechor* established that a person who was not a recognized expert — an *eino mumche* — bore liability when his ruling led to an improper *shechita*. But the subsequent *mishnah*, which simply states that one who judges and errs must pay, does not specify that a mistake was actually made. By juxtaposition, the *mishnah* seems to suggest that even a correct ruling by an unauthorized judge triggers liability — as though the lack of authorization is itself the disqualifying factor, regardless of outcome. Yet the *gemara* here, like the *gemara* in Sanhedrin, engages at length with the question of *to'eh b'dvar mishna* versus *to'eh b'shikul hadaas* — error in black-letter law versus error in judgment — and the case of Rabbi Tarfon cited there is a clear instance of an actual mistake. So there remains some ambiguity: does liability follow from demonstrable error, or does the *mishnah* treat the absence of authorization as constructively equivalent to error, regardless of whether the ruling itself was correct?
 
@@ -88,7 +88,7 @@ The *mishnah* adds: if the witness or judge was elderly and could not travel una
 
 ---
 
-## Torah Teaching Sourc (II)
+## Torah Teaching Source
 
 ### Moshe's Example
 
@@ -106,7 +106,7 @@ This formulation illuminates an important structural point. One might have thoug
 
 ---
 
-## Teachers & Official (III)
+## Teachers & Officials
 
 ### Sechar Batel Principle
 
@@ -120,7 +120,7 @@ Tosafot addresses the problem of full-time judges and officials. The *gemara* in
 
 ---
 
-## Payment & Mitzvah (III)
+## Payment & Mitzvah
 
 ### Talmud Torah Exception
 
@@ -170,7 +170,7 @@ The answer is that the invalidation is a rabbinic *gezerah* or *takkanah*, not a
 
 ---
 
-## Teachers & Official (III)
+## Teachers & Officials (II)
 
 ### Rosh's Position
 
@@ -178,7 +178,7 @@ Returning to the case of Ilo: Rashi explained Ilo's exception on the basis of hi
 
 ---
 
-## Payment & Mitzvah (III)
+## Payment & Mitzvah (II)
 
 ### Kohanim Model
 
@@ -250,7 +250,7 @@ Tosafot raises a pointed objection to Rashi's formulation. If one asks how much 
 
 ---
 
-## Teachers & Official (III)s…
+## Teachers & Official (III)
 
 ### Sechar Batel Issues
 
@@ -262,7 +262,7 @@ Tosafot's position — that one must calculate *sechar batelah* relative to a da
 
 ---
 
-## Payment & Mitzvah (III)…
+## Payment & Mitzvah (III)
 
 ### Doctors & Services
 

@@ -1,6 +1,6 @@
 # Makkot 7 — Daf Yomi Shiur
 
-## Escaped Convicts & Sanhe…
+## Escaped Convicts & Sanhed
 
 ### Escaped Convict
 
@@ -32,7 +32,7 @@ The *gemara* then turns to the derivation that a *sanhedrin* of twenty-three ope
 
 If so, the *gemara* asks, why does the *pasuk* also use the word *b'sharecha* — in your gates — which ordinarily refers specifically to the gates of cities in *Eretz Yisrael*? The answer is that the two formulations do different work: *b'sharecha atah moshiv batei dinim b'chol pelech u'pelech u'v'chol ir va'ir* — in *Eretz Yisrael* you establish courts in every district and in every city, whereas *u'v'chutz la'aretz atah moshiv b'chol pelech u'pelech ve'i atah moshiv b'chol ir va'ir* — outside of *Eretz Yisrael* you establish a *beit din* in every province but not in every individual city. The *sanhedrin* presumably defines what constitutes a *pelech*, and on that basis determines where courts are to be set up.
 
-## Destructive Sanhedri (II)
+## Destructive Sanhedrin
 
 ### One Per Seven Years
 
@@ -50,7 +50,7 @@ The *gemara* records the question: when *Rabbi Eliezer ben Azariah* says one in 
 
 *Rabbi Tarfon* and *Rabbi Akiva* declare: *ilu hayinu b'Sanhedrin, lo neherag adam me'olam* — had we sat on the *sanhedrin*, we would never have allowed anyone to be executed.
 
-## Capital Conviction I (II)
+## Capital Conviction Issues
 
 ### Witness Interrogation
 
@@ -72,7 +72,7 @@ In a case of murder, the judges would ask the witnesses: *re'item terefah* — d
 
 *Tosafot* raise a pointed question: if we are truly concerned that a victim might have been a *terefah* before the killing, why do we not raise the same concern in the context of *shechita*? When one slaughters an animal, we do not require the *shochet* to demonstrate that the animal was not already a *terefah* prior to slaughter. Both situations involve a *chazaka* that a living creature is presumed not to be a *terefah*. If that *chazaka* is sufficient for *shechita*, why is it not sufficient in capital cases to establish that the victim was *shalem*? Clearly the concern cannot be absolute, because if it were, the *Torah* could never sanction an execution — which would effectively nullify the entire institution of capital punishment, much as the Talmud elsewhere discusses with *ben sorer u'moreh* and *ir ha-nidachat*.
 
-### Unknown Answer Disqualif…
+### Witnesses "We Don't Know
 
 *Rabbeinu Tam* addresses the issue differently. He explains that the strategy of *Rabbi Tarfon* and *Rabbi Akiva* did not rest on the *terefah* question per se. Rather, the method was *she-marbe be-vedikot* — to multiply questions put to the witnesses until eventually one witness contradicts the other, producing a *hakchashah* that disqualifies their testimony entirely. The key principle *Rabbeinu Tam* articulates is this: if the witnesses are asked a question and respond *ein anu yodim* — we don't know — this response itself disqualifies them. Witnesses who cannot provide complete answers to the court's examination may become *pesulim*, and the *edut* collapses. This is why the phrase *lo neherag adam me'olam* is *lav davka* — not strictly literal. Most of the time, *Rabbi Tarfon* and *Rabbi Akiva* would succeed in tripping up the witnesses through extensive questioning; occasionally they would not. It follows, as *Tosafot* make clear, that this is not a claim to literally abolish the death penalty, but rather a description of a vigorous commitment to evidentiary scrutiny.
 
@@ -106,7 +106,7 @@ The *mishna* then articulates the governing principle: *kol she-be-derech yerida
 
 This raises an important conceptual distinction. In several of the excluded cases — for instance, pulling a barrel upward when the rope snaps — the person may well be negligent and could be liable to pay damages. The exclusion from *galut* does not necessarily mean full exemption from legal responsibility; it means specifically that the obligation to go to an *ir miklat* does not apply. The *gemara* will make clear that in some excluded cases liability for negligence remains, while in others the *gemara* excludes the individual altogether. There appear to be two dimensions to *ir miklat*: protection from the blood avenger, and a kind of existential atonement for having caused a death, however unintentionally. Both dimensions are operative in the institution, which makes the precise contours of the *derech yeridato* rule all the more significant.
 
-### Biblical Source
+### Biblical Source (II)
 
 *Shmuel* derives the entire principle from the verse *va-yipol alav va-yamot* — and it fell upon him and killed him — implying that exile is incurred only when the killing occurs through the natural manner of falling, which is a downward motion.
 

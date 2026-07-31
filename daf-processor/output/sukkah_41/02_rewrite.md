@@ -14,7 +14,7 @@ What exactly is the *medina*? The term stands in contrast to *mikdash*, and the 
 
 The biblical source for the seven-day obligation in the *mikdash* is the verse *v'likachtem lachem bayom harishon* — take for yourselves on the first day — followed at the end of the passage by *v'semachtem lifnei Hashem elokeichem shivat yamim*, rejoice before Hashem your God for seven days. The phrase *lifnei Hashem*, before God, is understood to mean in the *beit hamikdash* — or, according to the Rambam, in the *mikdash* and *Yerushalayim* — and that presence before God carries a seven-day *mitzvah*. Outside the *mikdash*, only the first day applied.
 
-### Post-Destruction Enactme…
+### Enactment Post-Destruct
 
 Once the *beit hamikdash* was destroyed, Raban Yochanan ben Zakai enacted that the *lulav* should be taken all seven days everywhere — *sheyehei lulav nital bamedina shiva* — as a *zecher lamikdash*, a remembrance of the Temple. Since the seven-day *mitzvah* could no longer be performed in the *mikdash*, it would henceforth be observed universally. The *mishnah* then adds a second element: *v'yehei yom hanaf kulo asur*, the day of the waving of the *omer* should be entirely forbidden. The juxtaposition of these two rulings — the *lulav* and the *omer* prohibition — may seem surprising, but Tosafot suggests that both were enacted by Raban Yochanan ben Zakai as *takanot* of *zecher lamikdash*, and these happen to be the two recorded in our *mishnah*.
 

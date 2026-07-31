@@ -10,7 +10,7 @@ Our *mishnah*, however, takes a strikingly different approach. It states: *kol h
 
 This apparent contradiction with the earlier *mishnah* is what the *gemara* will now work to resolve.
 
-### R. Chanina: No Separate…
+### R. Chanina: Skin Not Burn
 
 The *mishnah* then cites a testimony from *Rebbe Chanina sgan hakohanim* — the deputy *kohen gadol*, a figure of considerable authority who was regularly present in the *Beit Hamikdash*. He states: *miyamai lo ra'iti or sheyotzei leveit hasreifa* — never in all my days did I see a skin taken out to the *beit hasreifa*. This is a remarkable testimony. It implies that in situations where the *korban* became invalid and the *kohanim* could not receive the skin, that skin would need to be ritually burned — yet he says he never witnessed this occurring with the skin alone, separately from the meat. As the *gemara* will emphasize, *zrikat hadam* is what permits the skin, and a skin belonging to an invalid *korban* retains its *kedusha* and must be burned rather than discarded or sold.
 
@@ -34,7 +34,7 @@ Importantly, this discovery-based rule does not extend to the meat. If the blood
 
 ## Two Mishnayot Reconciled
 
-### First Mishnah: Blood Sta…
+### First Mishnah: Blood
 
 The *gemara* now turns to the explicit tension between the two *mishnayot*. The earlier *mishnah* states: *kol shelo zachah mizbeach bvesarah lo zachu kohanim beorah* — wherever the *mizbeach* was not *zocheh* in the meat, the *kohanim* are not *zocheh* in the skin. And it adds: *ve-af al gav de'ifashtah le-or kodem zrikah* — even if the skin was flayed before *zrikah*, that is insufficient; the entitlement depends on *zrikat hadam*, not on flaying.
 
@@ -56,13 +56,13 @@ On this reading, both *mishnayot* articulate the same principle — *zrikat hada
 
 ---
 
-## Rebbi vs. R. Eliezer b.…
+## Rebbi vs. R. Eliezer
 
-### Rebbi: Blood Works for S…
+### Rebbi: Blood Atones Skin
 
 *De-tanya*: what exactly is the debate between *Rebbi* and *Rabbi Elazar beRabbi Shimon*? *Rebbi omer*: *ha-dam meratzeh al ha-or bifnei atzmo* — the blood atones for, meaning renders permissible for the *kohanim*, the skin even when it stands alone. That is: after the skin has been flayed and is physically separate from the meat, if the meat became *tamei* or otherwise invalid, one may still sprinkle the blood and the *kohanim* receive the skin. Moreover — *u-k'shehu im habasar* — when the skin is still physically attached to the meat and not yet flayed, *nolad bo pasul bein kodem zrikah bein l'achar zrikah harei hu k'yotzei bo*: whether the invalidity arose before or after *zrikah*, as long as the skin was still joined to the meat, its status follows the meat's status entirely. This is a beautifully clear articulation of our *mishnah*'s principle: physical separation is everything. If the skin is a separate unit, the blood can work for it independently regardless of the meat's condition. If the skin is still part of the meat, it travels with the meat in every direction.
 
-### R. E.b.S.: Blood Fails S…
+### R. Eliezer: Blood Fails
 
 *Rabbi Elazar beRabbi Shimon omer*: *ein hadam meratzeh al ha-or bifnei atzmo* — the blood does not work for the skin by itself. Even when the skin has been physically separated through flaying, if the meat was already *tamei* or invalid at the time of *zrikat hadam*, the sprinkling does not help the skin. The reason is structural: by an *olah*, the function of *zrikat hadam* is to permit the meat to go on the *mizbeach*. If the meat is invalid, the blood is not being thrown for the sake of anything meaningful, and whatever status the sprinkling might confer on the skin is parasitic on the meat's validity. For *Rabbi Elazar beRabbi Shimon*, the physical separation of skin from meat is irrelevant; what governs is the status of the meat at the moment of *zrikat hadam*. If the meat was valid when the blood was sprinkled — *hurtza basar sha'ah achat* — then even if the meat subsequently became invalid, *yafshitenu ve'oro lakohanim*: you flay it and the skin goes to the *kohanim*. If the meat was already invalid at the time of sprinkling, the skin does not go to the *kohanim* regardless of whether it has been flayed.
 
@@ -72,13 +72,13 @@ In application, then: according to *Rebbi*, the question is whether the skin was
 
 ---
 
-## R. Eliezer & R. Yeho (II)
+## R. Eliezer & R. Yehoshua
 
-### R. Yehoshua: Interdepend…
+### R. Yehoshua: Blood Meat
 
 The *gemara* now asks whether the debate of *Rebbi* and *Rabbi Elazar beRabbi Shimon* is rooted in an earlier dispute between *Rabbi Eliezer* and *Rabbi Yehoshua*, which concerns the validity of the *korban* itself when the meat cannot be offered. The connecting *pasuk* is: *va'asita olotecha ha-basar veha-dam* — you shall perform your *olot*, the meat and the blood. *Rabbi Yehoshua* reads this as linking the two: *im ein dam ein basar, im ein basar ein dam*. Evidently if there is no blood there is no valid *korban*, since *zrikat hadam* is the essential act. But *Rabbi Yehoshua* goes further: if there is no meat, there is also no blood — that is, there is no point in sprinkling the blood of an *olah* if the meat cannot be placed on the *mizbeach*. Just as by a *pesach* the eating is so central that one would not bring it if unable to eat, so too by an *olah* there is a fundamental weight on the meat reaching the *mizbeach*, and if it cannot, one does not sprinkle the blood. The consequence, presumably, is that the *korban* is invalid, and the *kohanim* certainly do not receive the skin.
 
-### R. Eliezer: Blood Indepe…
+### R. Eliezer: Blood
 
 *Rabbi Eliezer omer*: *dam af al pi she'ein basar* — blood is independent of meat; you may and should sprinkle the blood even if the meat has become invalid. His source is *ve-dam zevachecha yishafech* — the blood of your sacrifices shall be poured — emphasizing the blood as an autonomous focus. The difficulty is that *zevachecha* normally does not refer to the *olah*, and the full verse continues *ve-habasar tochel*, which does connect the two — but *Rabbi Eliezer* reads the blood as having independent standing even for the *olah*. *Im kein ma talmud lomar va'asita olotecha ha-basar veha-dam*? That *pasuk* teaches something else: *mah dam bi-zrikah af basar bi-zrikah* — just as the blood is thrown upon the *mizbeach*, so too the meat is thrown. This teaches that there is a *revach* — a gap — between the *kevesh* and the *mizbeach*, from which the *kohen* would throw the pieces of meat.
 
@@ -94,9 +94,9 @@ According to *Rabbi Eliezer*, the *gemara* says *kuli alma lo pligi* — all agr
 
 ---
 
-## R. Yehoshua: L'chatchila…
+## R. Yehoshua: Lechatchila
 
-### Rashi: L'chatchila/Bedia…
+### Rashi
 
 The *gemara* then addresses the crucial question: how could anyone hold that the *kohanim* receive the skin if *Rabbi Yehoshua* says the *korban* is invalid when there is no meat? The answer given is that *Rabbi Yehoshua*'s position must be understood as *lechatchila* rather than as an absolute invalidation. *Rashi* reads it this way: *lechatchila*, do not sprinkle the blood. Why would you? If the meat is already *tamei*, you cannot put it on the *mizbeach*. What would motivate the sprinkling? One might answer: to enable the *kohanim* to receive the skin. But *Rashi* reads the *gemara* as assuming that even if the blood is sprinkled *bediavad*, it works only to make the *korban kasher* in a technical sense, not to allow the owners to fulfill their *korban* obligation — a distinction introduced at the very opening of the *masechet*. Therefore, since there is nothing to be gained by the sprinkling — neither meat on the *mizbeach* nor fulfillment of the owner's obligation — *Rabbi Yehoshua* says *lechatchila* do not sprinkle.
 
@@ -104,7 +104,7 @@ The *gemara* then addresses the crucial question: how could anyone hold that the
 
 The *gemara* states that *Rabbi Yehoshua* says not to sprinkle the blood specifically *ela bevasar deleka pseda le-Kohanim* — in a case where the only thing at stake is the meat, and there is no prospective loss to the *kohanim*, since they have not yet acquired the skin. But *aval or de-ika pseda le-Kohanim* — when there is already a potential loss to the *kohanim* regarding the skin, meaning circumstances where if the blood is not sprinkled they will lose what might have been theirs — *afilu Rabbi Yehoshua modeh*, even *Rabbi Yehoshua* would concede. This is, frankly, a very strained reading of the *sugya*, and both *Rashi* and *Tosafot* acknowledge the difficulty. The plain sense of *ein basar ein dam* sounds like a categorical invalidation, not a *lechatchila* prohibition.
 
-### R. Yehoshua Agrees Bedia…
+### R. Yehoshua: Bediavad
 
 That *Rabbi Yehoshua* does hold *bediavad* it works is established directly from a *mishnah*: *nitma basar o nifsul o sheyatza chutz lekla'im* — if the meat became *tamei*, or was otherwise invalidated, or left the *kla'im*: *Rabbi Eliezer omer yizrok* — *Rabbi Eliezer* says still sprinkle the blood. *Rabbi Yehoshua omer lo yizrok* — *Rabbi Yehoshua* says do not sprinkle. *U-modeh Rabbi Yehoshua she'im zarak hurtza* — but *Rabbi Yehoshua* concedes that if one did sprinkle, *bediavad* it worked. The language *hurtza* even suggests more than mere technical validity — it implies that the owners may even fulfill their obligation — which makes the earlier *gemara*'s reading even more complex. The *rishonim* resolve this by distinguishing between cases where the meat is present but invalid versus cases where it has been destroyed or lost entirely; *bediavad* validity applies only in the former category. The fundamental thrust, in any case, is that *Rabbi Yehoshua*'s position is a *lechatchila* prohibition, such that even his view can be reconciled with the position that the *kohanim* receive the skin when the blood was sprinkled under those circumstances.
 
@@ -112,11 +112,11 @@ That *Rabbi Yehoshua* does hold *bediavad* it works is established directly from
 
 ## R. Chanina Reconsidered
 
-### Burned Offerings Objecti…
+### Burned Offerings Object
 
 The *gemara* returns to *Rebbe Chanina sgan hakohanim*'s statement that he never saw a skin taken out to be burned. An immediate objection is raised: *v'harei parim hanisrafim v'seirim hanisrafim* — what about the bulls and goats that are burned, like those of *Yom Kippur*, which are taken outside the *Beit Hamikdash* entirely and burned there? Surely their skins were burned as well.
 
-### Separate Burning Clarifi…
+### Burning After Flaying
 
 *Mitzvatam lo kamina* — that is not what *Rebbe Chanina* was referring to. He was not speaking of *korbanot* where burning outside is itself the prescribed procedure and the fulfillment of the *mitzvah*. He was speaking specifically of skins that would need to be burned separately because the *korban* had become invalid — that is, cases where the skin would be taken out *because* it could not be given to the *kohanim*. Such a case he never witnessed.
 
@@ -144,11 +144,11 @@ The *gemara* adds: *v'ibait ayma afilu k'Rabbi Elazar BeRebbi Shimon* — altern
 
 This brings us directly to *Rebbe Akiva*'s use of the *bechor* example, which the *gemara* now explains. *Ve-lamai kamashmalan Rabbi Akiva* — what exactly is *Rebbe Akiva* teaching us with the case of a *bechor*? *Ha-kamashmalan afilu bigvulin* — he is teaching us that this rule applies even outside the *Beit Hamikdash*, in the provinces, in the case of *kodshim* that exist and are managed outside the Temple context. *Rebbe Akiva* lived after the *churban* and was addressing practical *halachot* relevant to his time.
 
-### Bechor with Blemish Stat…
+### Bechor: Outside Temple
 
 The *halacha* of a *bechor* with a permanent *mum* is as follows. A *bechor* must be given to a *kohen*, but in the absence of the *Beit Hamikdash* there is nothing the *kohen* can do with it as a *korban*. Once it acquires a permanent *mum*, the *kohen* is permitted to slaughter it and eat it outside the *Beit Hamikdash*. However, because it retains its *kedusha*, it is not a freely disposable animal — the *kedusha* limits what may be done with it to slaughter and consumption. It cannot be sold, it cannot be used as animal fodder, and the meat cannot be treated as *chulin*. Its *kedusha* functions more like an *issur* — a prohibition that circumscribes permitted use — than like a transferable sanctity. And because the entitlement is limited to eating, if the meat cannot be eaten, the *kedusha* has no vehicle for expression through the meat.
 
-### Bechor Treifa Skin Quest…
+### Bechor Treifa Skin
 
 The *halachic* question: the *kohen* slaughters his *bechor* with a *mum* outside the *Beit Hamikdash*, and in the course of processing the animal discovers that it is a *treifa*. He cannot eat the meat — it is *assur* as a *treifa* — and he cannot derive any other benefit from it because of its *kedusha*. What happens to the skin? Must the skin follow the meat and be subject to the same restrictions? Or does the moment of discovery, relative to flaying, determine that the skin is separate?
 
@@ -158,7 +158,7 @@ There is no *zrikat hadam* in this case — this is an animal slaughtered outsid
 
 *Amar Rebbe Chiya bar Abba amar Rebbe Yochanan*: *halacha ke-Rebbe Akiva* — the *halacha* follows *Rebbe Akiva*, at least with respect to the *bechor bigvulin*, that the skin's status is governed by the moment of flaying and discovery.
 
-### Expert Verification Requ…
+### Blemish Verification
 
 However, *ve'af Rebbe Akiva lo amar ela keshe-hutar mumcha aval lo hutar mumcha lo* — even *Rebbe Akiva* stated his ruling only where an expert has already examined and certified the *mum* as a permanent blemish. If no qualified expert has ruled on the blemish, the *kohen* may not rely on his own assessment even regarding the skin alone. One might have thought that since only the skin is at stake — a lesser *halachic* question — a lower standard of verification would suffice. The ruling is that it does not: expert certification of the *mum* is required regardless.
 

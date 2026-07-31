@@ -40,11 +40,11 @@ The *tanna* therefore reads the verse differently: it is not about capital punis
 
 The *gemara* then briefly engages a theological digression. If children do not suffer for parental sins, how does one understand the verse *poked avon avot al banim* — that God visits the iniquity of fathers upon children? The answer: *keshe'ochazin ma'aseh avoteihem biyadeihem* — only when children continue in the sinful ways of their parents. A *beraita* presses further: perhaps even when they do not continue in those ways? The closing phrase *ish bechet'o yumatu* settles it — each person dies only for their own sin, which demonstrates that the divine punishment attaches only when the child has, by their own choice, perpetuated the parental transgression.
 
-### Theology of Sin
+### Plural Avot
 
 A further question arises from the verse *vekhashlu ish be'achiv* — one man stumbles over his brother, which implies that people bear responsibility for one another's sins. The *gemara* explains: *melamed shekulam arevim zeh bazeh* — all of Israel are co-guarantors for one another. But this applies only when one was in a position to protest and chose not to — *shehayah beyadam limchot velo michu*. Where there was no realistic ability to intervene, there is no culpability. This is not merely a metaphysical accounting but reflects a genuine assignment of moral responsibility: you had an obligation and the capacity to fulfill it, and you declined.
 
-### Plural Avot
+### Theology of Sin
 
 Returning to the derivation: the verse uses the plural *avot* — fathers — which the *gemara* reads as implying not just a single father and his son, but two fathers who are themselves related, that is, brothers. This licenses extending the disqualification to uncle and nephew: just as a son cannot testify against a father, and a father cannot testify against a son, so too a nephew cannot testify against an uncle. And since if a nephew cannot testify against an uncle, certainly brothers cannot testify against one another.
 
@@ -162,7 +162,7 @@ Rav Ashi relates that while in the house of Ulla, the following question was pos
 
 The scholars of Sura answered: *ba'al ke'ishto* — the husband is treated as one with the wife. Therefore, even though one would not extend the stepson disqualification to his children, one does extend it to his wife, since she and he are a single unit.
 
-### Pumbedita: Isha Ke'Va'al…
+### Pumbedita: Isha Ke'Vaalah
 
 The scholars of Pumbedita formulated it in the reverse: *isha ke'va'alah* — the wife is as her husband. The substance is identical; the two academies agree that the stepson's wife is included, differing only in how they express the marital unity principle. Normally one hears the formulation *ishto kigufo*, which subsumes the wife into the husband; here Sura leads with the inverse — the husband is treated as one with his wife — and Pumbedita returns to the more familiar framing.
 

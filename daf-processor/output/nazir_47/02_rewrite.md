@@ -22,19 +22,19 @@ The *mishnah* reads: *mi shenizrak alav echad min hadamim venitma* — one upon 
 
 ---
 
-## Tosafot: Tahara Before K…
+## Tosafot: Tahara & Korban
 
 ### Tosafot: Veyit'har Order
 
 The language of the *mishnah* — *yavi shear korbanotav veyit'har* — might seem to suggest that one brings the *korbanot* first and only afterwards becomes *tahor*. Tosafot addresses this directly, explaining that *veyit'har* in this context means: *lichsheyit'har* — only once one has become *tahor* may the remaining *korbanot* be brought. The order in the *mishnah* should not be read literally as "bring and then purify," but rather "bring [once purified]."
 
-### Sources: Yerushalmi & Pe…
+### Sources: Yerushalmi
 
 Tosafot cites the *Yerushalmi*, which reads the *mishnah* straightforwardly as requiring *taharah* first and only then bringing the *korbanot*: *kach mefaresh biyerushalmi stam matnita d'tahara v'achar kach yavi korbanotav*.
 
 The basis for this reading lies in the *pesukim* themselves. The *Torah*, when addressing a *nazir* who became *tamei meit*, describes a process in which he first achieves full *taharah* and only on the eighth day brings his *korban*. This reflects an implicit *Torah* demand: a *nazir* may not have his *korbanot* of *nezirut* brought while in a state of *tumah*. There is a broader *halachic* discussion about *tamei meshalayach korbanotav* — whether a *tamei* person may have *korbanot* brought on his behalf — and the ruling is that only certain light levels of *tumah* permit this. One who is *tamei meit*, or one who is a *metzora* or *zav*, certainly cannot be *meshalayach korbanotav*. But Tosafot's point is more specific: even if one might debate the general rule, in the particular context of a *nazir* who is *tamei meit*, the *pesukim* make clear that the *Torah* insists on full *taharah* before any *korbanot* of *nezirut* are brought.
 
-### Why Tumah Can't Destroy…
+### Tumah Can't Destroy
 
 Once we understand this, Tosafot explains why the *tumah* cannot destroy what has already been accomplished. The *korban* that was brought while the *nazir* was still *tahor* was valid — *harei hu kodem shenitma ra'uy litiglachas*, before he became *tamei* he was fit for the *tiglachat*, and the *korban* was brought in a state of *hechsher*. There is therefore no basis to disqualify it retroactively. However, any *korban* brought after the *tumah* but before achieving *taharah* would indeed be invalid: *aval hazevachim shehikriv mishenitma yistor* — whatever he brought after becoming *tamei* and before becoming *tahor* does not count.
 
@@ -42,7 +42,7 @@ The principle Tosafot articulates is: *dekapid kra sheyavi korbanot neziroot bet
 
 ---
 
-## Eliezer: Soter Korba (II)
+## Eliezer: Soter Korbanot
 
 ### Tosafot Clarification
 
@@ -78,13 +78,13 @@ The focus, then, in both the *mishnah* and the story of Miriam, is on the *korba
 
 ---
 
-## Transition to Kohanic Tu…
+## Nazir to Tumah & Kohanic
 
-### Perek Summary & Tumah Fo…
+### Perek Shloshim: Issurim
 
 With the declaration of *hadran alach sheloshah minim*, we conclude the *perek* of *sheloshah minim*. That *perek* was structured around the three core prohibitions of a *nazir*: wine, shaving, and *tumah*. These three areas opened broader *halachic* discussions with general relevance. The wine prohibition led into the discussion of *ta'am ke'ikar* — the principle that taste functions like substance in matters of forbidden mixtures. The prohibition on shaving led to an examination of what constitutes shaving with respect to the beard and the *pe'ot*. And the prohibition on *tumah* opened the discussion of *tumat kohanim* — whether a *kohen* or *nazir* who is already *tamei meit* transgresses again by becoming *tamei* again, and the laws of *meit mitzvah*.
 
-### Preview: Nazir-Kohen Pri…
+### Kol Tumah Nazir
 
 Now, as we enter the new *perek*, we continue and deepen the discussion of *tumah*, because there is much more to learn from the relationship between *nazir* and *kohen* with respect to the restrictions on *tumah*. The central organizing principle of the coming *perek* is the rule known as *kol tumah she'ein haNazir megale'ach aleha ein Kohen muzhar aleha* — any *tumah* for which a *nazir* does not shave, a *kohen* is not prohibited against.
 
@@ -92,9 +92,9 @@ This principle might seem to refer only to *tumat sheretz*, *tumat neveilah*, *z
 
 ---
 
-## Kohen Gadol, Nazir & Mei…
+## Kohen Gadol, Nazir & Meit
 
-### Priority: Kohen Gadol vs…
+### Kohen Gadol vs Nazir
 
 The *mishnah* states: *Kohen Gadol veNazir ein mitamim likroveihem* — a *kohen gadol* and a *nazir* do not become *tamei* even to their immediate relatives. This is a striking parallel. A normal *kohen* may become *tamei* to his seven close relatives; a *kohen gadol* cannot. Conceptually, the *kohen gadol* is always in a state of readiness to serve — *min hamikdash lo yeitzei* — he is never permitted to remove himself from that role, even for the death of an immediate family member. The *nazir*, interestingly, shares this same restriction according to the *pesukim*: he too cannot become *tamei* even to an immediate relative.
 
@@ -102,7 +102,7 @@ Both, however, do become *tamei* for a *meit mitzvah*: *aval mitamim lemeit mitz
 
 The underlying issue here touches on the concept of *hutra* versus *dichuya* — whether in situations like *meit mitzvah* or *pikuach nefesh*, the prohibition is entirely suspended (*hutra*), or merely overridden by a competing value (*dichuya*). The *dichuya* perspective leads naturally to the effort to minimize the degree of override: if only one person needs to become *tamei* to fulfill the obligation, we try to determine which person's *tumah* is least consequential.
 
-### Eliezer: Kohen Gadol Pri…
+### Eliezer: Kohen Gadol
 
 Rabbi Eliezer says: *yitma Kohen she'eino meivi korban al tumato v'al yitma Nazir shemeivi korban al tumato* — let the *kohen* become *tamei*, because a *kohen*'s *tumah* (under normal circumstances) does not require him to bring a *korban* as part of the consequences. The *nazir*, on the other hand, whose becoming *tamei* destroys his *nezirut* and requires him to bring a *korban*, suffers far more grievous consequences. Even though under normal circumstances both would be violating a *lav*, the practical fallout for the *nazir* is far weightier. Therefore, protect the *nazir* and let the *kohen gadol* become *tamei*.
 
@@ -132,13 +132,13 @@ The question of how such a scenario could realistically arise — with both simu
 
 The second case: *mashuach she'avar u'merubeh begadim* — a *mashuach beshemen hamishcha* who is no longer in active service, alongside one who is *merubeh begadim* and currently serving. The ruling here reverses the first: *merubeh begadim adif*, *de'merubeh begadim avid avodah* — the one currently in active service takes priority and is protected. The reason is straightforward: what overrides the inherent prestige of having been anointed with the oil is the immediate practical reality that this person is actively performing *avodah*, and *tumah* would interfere with that. *Ve'ilu mashuach she'avar lav bar avodah hu* — the one who has been permanently removed from service cannot perform *avodah* regardless; there is no comparable disruption if he becomes *tamei*.
 
-### One-Day vs. Permanent Is…
+### Avar Chemat Kiryo vs Muma
 
 The third case: *avar machmas kiryo ve'avar machmas muma* — two *kohanim gedolim* who are both currently off duty. One was temporarily removed because he was a *ba'al keri* (a seminal emission), and the other because of a bodily blemish. The ruling: *avar machmas kiryo adif* — the one temporarily off duty due to *keri* is protected, *de'hu chazi le'avodah lemachar* — because he will be able to return to *avodah* the following day after immersing in the *mikveh*. The one removed due to a blemish, *ve'ilu avar machmas muma lo chazi le'avodah* — cannot currently serve, and Tosafot adds that even if the blemish is potentially temporary, one does not know when it will heal, whereas the *ba'al keri*'s disqualification is precisely one day. All three of these cases follow a clear logical structure: the one whose active relationship with the *avodah* is more immediate and more restorable is always the one whose *taharah* is more protected.
 
 ---
 
-## Mashuach Milchamah vs. S…
+## Mashuach vs. Sgan
 
 ### Question Posed
 
@@ -170,7 +170,7 @@ The *Gemara* resolves: *le'inyan hachayoso mashuach milchama adif* — when it c
 
 *Ule'inyan tumah sgan adif* — but when it comes to *tumah*, the *sgan* is given priority and is protected. *Detanya Rabbi Chanina ben Antigonus omer: lama tiknu sgan lekohen gadol* — because the entire rationale for the *sgan*'s existence is to remain *tahor* and ready to serve if needed. These are two different questions yielding two different answers, and there is no contradiction.
 
-### Tosafot: Hierarchy Clari…
+### Tosafot: Mashuach Mil.
 
 Tosafot raises an important point here. The *baraita* states *ein bein mashuach milchama lesgan* — there is no difference between them except for this matter of *tumah*. But this seems plainly incorrect: there are in fact many significant differences between the two. The *mashuach milchama* wears the garments of the *kohen gadol*, while the *sgan* wears the garments of a *kohen hedyot* — even when performing his role, and even in the context of *yom kippur*, when the *kohen gadol* himself wears *bigdei lavan*. Moreover, the five restrictions enumerated in the *parasha* for the *kohen gadol* — not disheveling his hair, not rending his garments, not becoming *tamei* to the dead, not marrying a widow, and being required to marry only a *betulah* — all of these apply to the *mashuach milchama* but not to the *sgan*.
 
@@ -180,7 +180,7 @@ Tosafot explains: the *ein bein* means that there is no area in which we give gr
 
 ---
 
-## Individual Override for…
+## Individual Override Tumah
 
 ### Individual Permission
 
@@ -192,7 +192,7 @@ This prompts a fundamental question: *minani milei* — where does this come fro
 
 ---
 
-## Pesukkim: Al Kol Nafshot…
+## Meit Mitzvah: Pesukkim
 
 ### Pesuk: Le'aviv U'le'imo
 
@@ -206,13 +206,13 @@ The *Gemara* asks: who is the subject of *al kol nafshot met lo yavo*? If it is 
 
 It follows that *al kol nafshot met lo yavo* must be referring to relatives — the *Torah* is telling us that a *kohen gadol* may not become *tamei* even to his own family. If that is so, then the subsequent phrase *le'aviv u'le'imo lo yitama* — not to his father and mother — appears to be entirely redundant. We have already been told he cannot become *tamei* to any relative. Why repeat it for father and mother specifically?
 
-### Extra Words Teach New Ru…
+### Le'aviv Meit Mitzvah
 
 Because both phrases are extra, each can be expounded to teach something new. *Le'aviv* — "to his father" — is cited as an example: *ha mitamei hu le-met mitzvah* — but he does become *tamei* to a *meit mitzvah*. The specific mention of *le'aviv* signals that there is someone to whom he may become *tamei* — and this is the *meit mitzvah*. The logic follows the principle of *miyut achar miyut ela lerabbot*: two restrictions in sequence imply that within those restrictions there is a permitted category. The *Torah* has already said he cannot become *tamei* to relatives; adding "not to the father" implies — but there is one case where he can, namely a *meit mitzvah*.
 
 ---
 
-## Gezeira Shava: Le'imo Co…
+## Gezeira Shava: Le'imo
 
 ### Nazir's Le'imo Scope
 

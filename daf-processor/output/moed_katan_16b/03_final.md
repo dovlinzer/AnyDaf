@@ -1,4 +1,5 @@
 # Moed Katan 16b — Daf Yomi Shiur
+[DAF:16a]
 
 ## Nidui/Nezifa Durations
 
@@ -74,6 +75,7 @@ Rabbi Chiyya understood that Rabbi was angry with him, and so *nahag nezifuta b'
 
 On day thirty, Rabbi sent for Rabbi Chiyya and called him to come. Then Rabbi sent a second messenger telling him not to come. The Gemara asks: *me'ikara mai savar u'l'vasof mai savar* — what did Rabbi think initially, and why did he reverse himself? Initially he held *miktzat hayom k'kulo* — that part of the day counts as the whole, and since it was already day thirty, even the beginning of that day was sufficient to conclude the *nezifuta*. In the end, he decided not to apply that principle to *nezifuta*, and so he sent the second message. This is an interesting parallel to the laws of *aveilus*, where the same question of *miktzat hayom k'kulo* arises regarding the seventh and thirtieth days of mourning.
 
+[DAF:16b]
 ### Reconciliation
 
 > **Hebrew/Aramaic:** לְסוֹף אֲתָא. אֲמַר לֵיהּ: אַמַּאי אֲתֵית? אֲמַר לֵיהּ: דְּשָׁלַח לִי מָר דְּלֵיתֵי. וְהָא שְׁלַחִי לָךְ דְּלָא תֵּיתֵי! אֲמַר לֵיהּ: זֶה רָאִיתִי, וְזֶה לֹא רָאִיתִי. קָרֵי עֲלֵיהּ: ״בִּרְצוֹת ה׳ דַּרְכֵי אִישׁ גַּם אוֹיְבָיו יַשְׁלִים אִתּוֹ״.

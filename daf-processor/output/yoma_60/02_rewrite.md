@@ -1,6 +1,6 @@
 # Yoma 60 — Daf Yomi Shiur
 
-## Dam: Me'ilah & Restricti…
+## Dam: Me'ilah & Limits
 
 ### Blood Disposal Overview
 

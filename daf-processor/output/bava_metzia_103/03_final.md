@@ -1,4 +1,5 @@
 # Bava Metzia 103 — Daf Yomi Shiur
+[DAF:103a]
 
 ## Tenant Payment Disputes
 
@@ -258,6 +259,7 @@ Returning to the *mishna*: just as the grain is divided between owner and sharec
 
 The *gemara* asks why this needs to be stated — we already know that local custom governs, so we would investigate Babylonian practice whenever relevant. The answer is that occasionally one finds individuals who act with unusual generosity and give the straw to the sharecropper even in Babylon. A sharecropper might look at his neighbor's arrangement and argue that since it is done elsewhere, perhaps he too is entitled. Rav Yosef's statement makes clear that such generosity is an *ayin yafah* — a generous gesture outside the norm — and does not reflect the sharecropper's legal entitlement. The baseline Babylonian *minhag* is that the straw stays with the owner.
 
+[DAF:103b]
 ### Field Protection Division
 
 > **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: בּוּכְרָא וְטָפְתָא וְאַרְכַּבְתָּא וּקְנֵי דְחִיזְרָא – דְּבַעַל הַבַּיִת, וְחִזְרָא גּוּפֵיהּ דַּאֲרִיסָא. כְּלָלָא דְמִילְּתָא: כֹּל עִיקַּר בְּלָמָא – דְּבַעַל הַבַּיִת, נְטִירוּתָא יַתִּירְתָּא – דַּאֲרִיסָא. וְאָמַר רַב יוֹסֵף: מָרָא וּזְבִילָא וְדַוְולָא וְזַרְנוּקָא – דְּבַעַל הַבַּיִת, אֲרִיסָא עָבֵיד בֵּי יְאוֹרֵי.

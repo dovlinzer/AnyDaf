@@ -1,6 +1,6 @@
 # Zevachim 101 — Daf Yomi Shiur
 
-## Aninus: Yom Misa vs. Yom…
+## Aninus: Yom Misa vs Knisa
 
 ### Rabbi's Night Position
 
@@ -16,7 +16,7 @@ The *gemara* now challenges whether Rabbi truly maintains that *aninus layla* is
 
 To test this assumption, the *gemara* cites a *braisa* rooted in Aharon's words at the time of the deaths of Nadav and Avihu. Aharon's statement is read as: "*hayom* — today I was forbidden, and at night (*layla*) I would have been permitted." This becomes the basis for examining whether *aninus layla* carries Torah-level force or is merely rabbinic.
 
-### Rabbi Yehuda vs. Rabbi Sh…
+### Yehuda vs. Shimon: Aninus
 
 The *braisa* records a dispute: Rabbi Yehuda holds that *aninus layla* is *doraisa* — even in future generations an *onein* may not eat a *korban* at night. Rabbi, by contrast, states explicitly: *aninus layla ein mi-divrei Torah ela mi-divrei sofrim* — the night dimension of *aninus* is only rabbinic in origin. This creates a tension with the earlier inference, which assumed Rabbi held *aninus layla* to be Torah-based.
 
@@ -56,7 +56,7 @@ The *braisa* makes the division explicit. Rabbi Nechemia holds *mipnei aninus se
 
 Rabbi Yehuda and Rabbi Shimon, by contrast, both hold *mipnei tumah nisrefah* — it was burned due to ritual impurity. In their reading, Moshe had indeed given them a license to eat as *onenim*, which is why the *ki chen tzuveisi* verses explicitly mention that license. The burning, therefore, must be attributed to some entirely separate cause — *tumah* — unconnected to the deaths of Aharon's sons.
 
-### Three Challenges to Anin…
+### Three Challenges to Anin
 
 The *gemara* presents three arguments on behalf of Rabbi Yehuda and Rabbi Shimon's position — three reasons why the burning cannot be attributed to *aninus*:
 
@@ -80,7 +80,7 @@ According to Rava's reading of Rabbi Nechemia, the license to eat as an *onein* 
 
 The three *chatasot* referenced throughout this sugya are: the *seir* (goat) offering of Nachshon, the nasi of Yehuda, who brought the inaugural dedication offering on behalf of his tribe; the *chatas* of the eighth day of the *miluim*, the dedication of the Mishkan; and the *seir* of *Rosh Chodesh Nissan*. A *braisa* later in the discussion maps these onto the three words of the verse: *va-yidaresh darosh Moshe* — *va-yidaresh* refers to the *seir* of Nachshon, *chatat* refers to the *chatas* of the eighth day of the *miluim*, and *darosh* refers to the *seir* of *Rosh Chodesh*.
 
-### Special vs. General Korb…
+### Kodshei Sha'ah vs General
 
 The conceptual divide is this: the *kodshei sha'ah* were offerings with no permanent counterpart in the ongoing sacrificial order. They existed as part of the singular, unrepeatable consecration of the Mishkan. For these, exceptional rules could be applied — including permitting an *onein* to partake. The *Rosh Chodesh* offering, however, was a paradigmatic *korban* of all generations, and no such special license could be extended to it.
 

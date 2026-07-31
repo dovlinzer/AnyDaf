@@ -16,7 +16,7 @@ The *riva'ah* concern, however — the assumption that non-Jews are constantly s
 
 ---
 
-## Ravina: Lechatchila/Bedi…
+## Ravina
 
 ### Future vs. Past
 
@@ -188,7 +188,7 @@ The textual basis for treating acts of *riva'ah* and *avoda zarah* as constituti
 
 ## Shila Verse
 
-### Verse Reason
+### Verse Reason (II)
 
 The *gemara* now returns, in a section labeled *gufa*, to examine Shila's teaching in its own right. *Mai ta'ama de-Rabbi Eliezer?* — what is Rabbi Eliezer's actual reasoning for prohibiting purchase of the *parah adumah* from non-Jews? Shila teaches: *dechsiv daber el benei Yisrael veyikchu* — the Torah says speak to the children of Israel and have them take — *benei Yisrael yikchu ve'ein ovdei kochavim yikchu*, the children of Israel are to take it, and not non-Jews. On Shila's reading, Rabbi Eliezer's prohibition is a direct derivation from this verse, entirely independent of any concern over *riva'ah*.
 

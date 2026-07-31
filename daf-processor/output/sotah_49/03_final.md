@@ -1,4 +1,5 @@
 # Sotah 49 — Daf Yomi Shiur
+[DAF:49a]
 
 ## Emuna & Yeridas Hadoros
 
@@ -290,6 +291,7 @@ The placement of these passages — everything getting worse right before *Mashi
 
 ## Pre-Mashiach Chaos (II)
 
+[DAF:49b]
 ### No Rebuke
 
 > **Hebrew/Aramaic:** בֵּית וַועַד יִהְיֶה לִזְנוּת וְהַגָּלִיל יֶחֱרַב, וְהַגַּבְלָן יִשּׁוֹם, וְאַנְשֵׁי הַגְּבוּל יְסוֹבְבוּ מֵעִיר לְעִיר וְלֹא יְחוֹנְנוּ, וְחַכְמוֹת סוֹפְרִים תִּסְרַח, וְיִרְאֵי חֵטְא יִמָּאֵסוּ, וְהָאֱמֶת תְּהֵא נֶעֱדֶרֶת.

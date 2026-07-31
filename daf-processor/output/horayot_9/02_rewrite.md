@@ -118,7 +118,7 @@ Rav Shimon agrees with *Rabbi Akiva* in one dimension and disagrees in another. 
 
 ---
 
-## Tum'at Mikdash Reaso (II)
+## Tum'at Mikdash Reasoning
 
 ### Mitoch HaKahal
 

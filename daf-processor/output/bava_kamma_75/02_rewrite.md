@@ -1,6 +1,6 @@
 # Bava Kamma 75 — Daf Yomi Shiur
 
-## Rav vs. Shmuel: Modeh B'…
+## Rav vs. Shmuel: Modeh
 
 ### Admission vs. Obligation
 
@@ -26,7 +26,7 @@ Shmuel is unpersuaded. He reads the two appearances of the exclusion differently
 
 ---
 
-## Baraitah: Admitting Befo…
+## Baraitah: Witnessed Admit
 
 ### Case Setup
 
@@ -56,7 +56,7 @@ The *gemara* then asks whether Rav is similarly compelled to acknowledge a *mach
 
 ---
 
-## Sincere vs. Fear-Motivat…
+## Sincere vs Fear-Motivated
 
 ### Rav's Refinement
 
@@ -76,9 +76,9 @@ For Shmuel, by contrast, this resolution is unavailable. He must accept that the
 
 ---
 
-## Rav Hamnuna: Chiyuv Atzm…
+## Hamnuna: Exemption Chiyuv
 
-### Obligation in Principal…
+### Obligation in Principal
 
 A further refinement of Rav's position is offered by Rav Hamnuna. Even granting Rav's general principle, Rav Hamnuna argues that *mistabra milta deRav* — the reasoning of Rav's view is most coherent — only in a case where the admission itself obligates the confessor in the *keren*, the principal. The case he specifies is: *omer ganavti u'va'u edim sheganav — patur, dechayev atzmo bekeren*. When someone says *ganavti* — I stole — that admission, while not creating an obligation in *kefel* (which remains a *knas*), does obligate him to restore the principal amount of what was stolen. He has genuinely assumed a monetary burden through his confession.
 
@@ -86,13 +86,13 @@ A further refinement of Rav's position is offered by Rav Hamnuna. Even granting 
 
 The logic underlying Rav Hamnuna's position operates on two levels. Conceptually, a true *hoda'ah* involves the confessor incurring an obligation — he is giving something up, acknowledging a real debt. An admission that carries no monetary consequence is not, in the full sense, an admission; it is merely a statement. On an instrumental level, the exemption from *knas* may serve as an incentive for wrongdoers to at least make the victim whole with respect to the principal. That incentive structure only makes sense when the admission entails paying the *keren*. Where the admission carries no monetary obligation whatsoever, neither the conceptual nor the instrumental rationale supports awarding an exemption.
 
-### Theft vs. Shechita U'Mec…
+### Theft vs. Shechita
 
 Rav Hamnuna illustrates by contrasting two cases. In the first, a defendant says *ganavti* — I stole — and witnesses come to confirm the theft. This admission obligates him in the *keren* even though it spares him from *kefel*, and therefore, on Rav's principle, the admission exempts him from *kefel* even when witnesses subsequently arrive. In the second case, witnesses have already established the theft — so the *keren* obligation is no longer created by the admission but by the witnesses — and the defendant then separately admits to *tavachti u'macharti*, I slaughtered or sold the animal. At the moment of that second admission, there is nothing of monetary consequence that the confession is adding. The *shechita u'mechira* carries only the additional penalty of four and five times, which is entirely *knas*. Since the admission to *tavachti u'macharti* obligates the defendant in nothing — *depatar nafsheih mikula*, it only exempts him — it does not qualify as an *hoda'ah* that earns the exemption. If witnesses come after and testify to the *shechita u'mechira*, he is *chayav*.
 
 ---
 
-## Rava Challenges Rav Hamn…
+## Rava vs. Rav Hamnuna
 
 ### Rabban Gamliel & Tavi
 
@@ -108,13 +108,13 @@ Rava concludes accordingly that Rav's position does not require *chiyuv atzmo b'
 
 ---
 
-## R. Yochanan's Middle Pos…
+## R. Yochanan Compromise
 
 ### Admission + Principal
 
 The *gemara* then records a statement transmitted by Rabbi Chiya bar Abba in the name of Rabbi Yochanan, which precisely tracks the distinction Rav Hamnuna articulated. Rabbi Yochanan rules: *ganavti u'va'u edim sheganav — patur, she-harei chiyuv atzmo b'keren*. If one says *ganavti* and witnesses come to confirm the theft, he is exempt from *kefel* because his admission obligated him in the *keren*. The principal obligation is present; the admission is substantive; the exemption applies.
 
-### Admission Without Princi…
+### Admission Without Kinyan
 
 In the contrasting case, the defendant denied stealing — *lo ganavti* — witnesses then established the theft, and subsequently the defendant admitted *tavachti u'macharti*. Witnesses then arrived to confirm the *shechita u'mechira*. Rabbi Yochanan rules: *chayav*. In that configuration, the admission to *tavachti u'macharti* — given that the *keren* obligation was already imposed by witnesses to the theft — creates no new monetary burden on the defendant. *She-harei patar atzmo mikolum*: the admission only serves to exempt, not to obligate. Such an admission does not function as an *hoda'ah* warranting exemption from the subsequently corroborated *knas*.
 
@@ -136,7 +136,7 @@ Rav Ashi asks: why did the *mishna* specifically construct the case so that the 
 
 The *mishna* had earlier paired *al pi atzmo* with *al pi ed echad* — one's own admission alongside the testimony of a single witness — as parallel cases producing the same outcome. This comparison was previously examined by the *gemara* and carried a significant implication: just as a single witness does not exempt but merely fails to obligate (such that a second witness arriving later would render the defendant liable), so too one's own admission may not exempt but merely fail to obligate.
 
-### No Principal = No Exempt…
+### No Principal, No Exempt
 
 Rav Ashi now explains why the *mishna* constructed the case specifically around *shechita u'mechira*: it is precisely because in that configuration — where witnesses have already established the *geneivah* and the defendant admits only to the *shechita u'mechira* — the admission does not obligate him in the *keren*. That is the scenario where *al pi atzmo* is genuinely parallel to *al pi ed echad*: in neither case is there an exemption, and subsequent witnesses can impose liability. The *mishna* taught the rule specifically where it applies — namely, where the admission carries no *keren* obligation — and used the parallel to *ed echad* to convey that the admission, like a single witness, neither obligates nor exempts.
 

@@ -6,7 +6,7 @@
 
 The *mishna* at the end of 69b concludes with the statement *umafriz al sadehhu ve'eino choshesh mishum ribbit* — a person may engage in *mafriz* with respect to his field and need not be concerned about *ribbit*. The term *mafriz* connotes an inflation of value. The immediate question is how inflating the value of a field could be permissible without implicating the prohibition of *ribbit*, and the *Gemara* turns to a *baraita* to expand on this case.
 
-### Field Rental & Improveme…
+### Field Rental & Improve
 
 The *baraita* presents the following scenario: a person rents a field from his fellow with the terms set at ten *kor* of wheat per year — that is the rental value. The renter then approaches the owner and says: give me 200 *zuz* and I will invest that sum in improving the quality of the field, and I will in turn raise the rental payment to twelve *kor* of wheat per year. The *baraita* rules this permissible.
 

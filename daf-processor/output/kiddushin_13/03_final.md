@@ -1,4 +1,5 @@
 # Kiddushin 13 — Daf Yomi Shiur
+[DAF:13a]
 
 ## Hahu Gavra - Mat Case
 
@@ -188,6 +189,7 @@ The verse continues: *al ken te'evel ha'aretz ve'umlal kol yoshev bah be'chayat 
 
 The Gemara notes the implication: *alma kasavar shibuda lav d'Oraisa* — Rav Yehuda in the name of Shmuel holds that liens arising from obligations are not biblically mandated. If they were, the Torah-imposed obligation to bring an *olah* would automatically create a lien on her estate, obligating the heirs to discharge the debt to the *Beis HaMikdash* even without prior designation. The fact that he limits the obligation to a case where she already designated the animal shows that without a specific act creating a concrete obligation, no lien exists.
 
+[DAF:13b]
 ### Korban Obligation
 
 > **Hebrew/Aramaic:** הֲדוּר יָתְבִי וְקָאָמְרִי: הָא דִּתְנַן: הָאִשָּׁה שֶׁהֵבִיאָה חַטָּאתָהּ וּמֵתָה – יָבִיאוּ יוֹרְשִׁין עוֹלָתָהּ. אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: וְהוּא שֶׁהִפְרִישַׁתָּה מֵחַיִּים. אֲבָל לֹא הִפְרִישַׁתָּה מֵחַיִּים – לָא.

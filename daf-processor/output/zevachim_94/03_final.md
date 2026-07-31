@@ -1,4 +1,5 @@
 # Zevachim 94 — Daf Yomi Shiur
+[DAF:94a]
 
 ## Leather & Flaying
 
@@ -198,6 +199,7 @@ Rava therefore reformulates: *kara u'matnitin berakin* — both the verse about 
 
 Rava therefore offers a fundamentally different principle: *kol kibus delit lei kishkush lo shemei kibus* — any *kibus* that lacks *kishkush*, vigorous rubbing, is not called *kibus* at all, at least with respect to leather. Whether the leather is soft or hard, the mere application of water — rinsing — does not constitute laundering. Only if accompanied by this vigorous, friction-based rubbing does it rise to the level of *kibus*. This reframes the entire discussion: the operative variable is not soft versus hard, but the presence or absence of *kishkush*.
 
+[DAF:94b]
 ### Fabric vs. Leather
 
 > **Hebrew/Aramaic:* אִי הָכִי, בֶּגֶד נָמֵי! בֶּגֶד – שְׁרִיָּיתוֹ זֶהוּ כִּיבּוּסוֹ.

@@ -44,7 +44,7 @@ With all three cases answered, the *Gemara* has established the following: there
 
 ## Psuk vs. Efshar Levarer
 
-### Distinction Between Reas…
+### Rava vs Zeira Reasons
 
 The *Gemara* now clarifies a line that was passed over briefly above but is essential to the analysis: *mai ika bein ta'ama de-Rava le-ta'ama de-Rabbi Zeira* — what practical difference is there between Rava's reason, which is rooted in the formal textual requirement of two (*psuk* or *gziras ha-kasuv*), and Rabbi Zeira's reason, which is based on the functional logic of *efshar levarer*?
 
@@ -162,9 +162,9 @@ This position reflects a profound conceptual distinction. A *chatat* addresses t
 
 This is a conceptually elegant position: if I repeatedly ate something that might have been *chelev*, my being at fault is a unified personal state, not a series of discrete sinful acts. The minority view here thus isolates the *asham talui* as an expression of personal moral accountability rather than objective sin-reality. The *halacha*, however, follows Rebbi and the *Mishnah*: an *asham talui* is treated like a *chatat*, and when awareness intervenes between acts, multiple *ashamot* are required.
 
-## Asham vs. Chatat Awa (II)
+## Asham Talui vs. Chatat
 
-### Learning Chatat from Ash…
+### Chatat from Asham
 
 Rabbi Zeira now offers a striking reinterpretation of Rebbi's ruling. When Rebbi said that just as definite awareness divides for *chatat* so does doubtful awareness divide for *asham talui*, Rabbi Zeira reads the comparison in the opposite direction: *kan shana Rabbi yedi'ot safeik mechalekot le-chataot* — here Rebbi was not drawing on *chatat* to explain *asham talui*, but rather teaching us something about *chatat* itself by way of *asham talui*. That is: just as doubtful awareness (*yedi'at safeik*) suffices to divide for *asham talui*, so too does *yedi'at safeik* divide for *chatat* — even if a person becomes aware only that he might have sinned, and subsequently continues sinning, then later discovers he definitely did, the acts are divided and he must bring multiple *chataot*.
 

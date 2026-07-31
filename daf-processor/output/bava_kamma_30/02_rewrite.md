@@ -1,6 +1,6 @@
 # Bava Kamma 30 — Daf Yomi Shiur
 
-## Negligence & Bor Ownersh…
+## Negligence & Bor Ownersh
 
 ### Picture Breaking Intro
 
@@ -148,7 +148,7 @@ The term *mekalkel* — literally, one who ruins or corrupts — is significant.
 
 ---
 
-## Principle/Profit Deb (II)
+## Principle/Profit Debate
 
 ### Mekalkel Definition
 
@@ -192,7 +192,7 @@ The *mishnah* then records: *hahofech es hagalal bireshus harabbim vehuzak bahen
 
 Rav Nachman bar Yitzchak responds: *davar sheyesh bo shevach knesu gufo mishum shivcho* — for something that can generate improvement, like straw, Rav's rule applies and one may seize even the principal because of the potential *shevach*. *Davar she'ein bo shevach* — something that can never improve, like dung that is already fully processed — *lo kenasu*: even Rav would not extend the forfeiture right to the principal, because without any *shevach* in the picture at all, the rationale for fining the principal does not apply. This means Rav's rule that one may seize the principal is itself conditional on the presence of a *shevach* dimension; it is not a blanket rule about anything left in *reshus harabbim*.
 
-### Timing Question: Immedia…
+### Timing: Immediate or
 
 A further question is then raised: *le'altar kansinan* — if it is something that can generate improvement, may the straw be seized immediately upon placement, before any improvement has occurred? Or — *o lechi mashvei shvacha kansinan* — only once some actual improvement has taken place and the straw has begun to become fertilizer? The *gemara* does not reach a clean resolution of this question. It observes that the challenge from the dung case was mounted before Rav Nachman's distinction was articulated — i.e., when the questioner assumed Rav entitled one to seize the principal *on its own terms*, without reference to *shevach*. Now that Rav's rule is understood to be conditional on *shevach*, the dung case no longer serves as a counterargument, and the timing question — whether seizure rights vest immediately or only upon actual improvement — remains open.
 
@@ -234,7 +234,7 @@ Rabban Shimon ben Gamliel disagrees. His formulation — *kol hamekalkelin bires
 
 Rav holds like Rabban Shimon ben Gamliel that one is entitled to seize even the principal. But how does Rav reconcile this with *assur mishum gezel* in the first half of the *baraita*? Rav Huna citing Rav explains: *halakha ve'ein morin ken* — it is the *halakha* that one may take the principal, but this ruling is not publicly announced. The *assur mishum gezel* formulation reflects what is told to the public; in practice, however, one who seizes the principal has acquired it lawfully.
 
-### Rav Adda: Public Announc…
+### Rav Adda: Announce Openly
 
 Rav Adda bar Ahavah disagrees: *halakha umorin ken* — the *halakha* is as Rav holds, and it is also announced publicly. People are told openly that they may seize even the principal. On this view, *assur mishum gezel* and *muttar mishum gezel* are not positions about what we tell the public versus what is technically true; they reflect a genuine substantive dispute between *tanna kamma* and Rabban Shimon ben Gamliel about whether the principal forfeiture applies.
 

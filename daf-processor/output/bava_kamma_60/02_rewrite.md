@@ -86,7 +86,7 @@ The *Gemara* transitions into an extended *aggadic* section, prompted by the ver
 
 The verse is read as the vehicle for both claims. *Eimasai esh yotzei? Bizman she-ha-kotzim metzuyin la* — when does the fire go out? When thorns are present to catch it. The wicked are the thorns; their presence in the world is what unleashes destructive forces. And yet *vene'echal gadish* — the haystack, representing the righteous — is consumed. Notably the Torah says *vene'echal*, not *ve'achal*: the haystack was already consumed, as though it is the first thing taken. The Rabbis here are grappling honestly with the reality of *tzadik vera lo* — the righteous who suffer — not precisely explaining why it is just, but acknowledging it as part of how the world operates.
 
-### Destruction Indiscrimina…
+### Destructive Forces: No
 
 Rav Yosef taught: *mai dikhtiv ve'atem lo tetze'u ish mipetach beito ad boker?* — what does it mean when Moshe tells the people on the night of *makat bekhorot* not to go out of their homes until morning? It might seem as though God's protection makes it safe and the warning is merely precautionary. No — *keivan she-nitan reshut la-mashchit eino mavchin bein tzadikim le-resha'im* — once destructive forces have been granted permission to operate, they do not distinguish between the righteous and the wicked. Innocent people get caught up in the destruction. *Velo od ela she-matchil min ha-tzadikim techila* — and beyond that, it actually begins from the righteous first. The proof text is *vehikhrati mimekha tzadik varasha* — I will destroy from you both the righteous and the wicked — with the *tzadik* mentioned before the *rasha*.
 

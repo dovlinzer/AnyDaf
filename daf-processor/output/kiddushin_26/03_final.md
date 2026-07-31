@@ -1,4 +1,5 @@
 # Kiddushin 26 — Daf Yomi Shiur
+[DAF:26a]
 
 ## Kinyanim Hierarchy
 
@@ -218,6 +219,7 @@ A major question is then raised: *be'inan tzuburin o lo* — must the chattel be
 
 Before addressing whether *tzivurin* is required, a prior question must be answered: if the chattel must be on the land anyway, why is *kinyan agav* needed at all? Why does the law not simply apply *kinyan chatzer* — the principle that taking possession of one's property acquires whatever is within it? The answer given by the *rishonim* is that *kinyan chatzer* requires a *chatzer mishtameres* — a protected, enclosed domain. A walled house or courtyard satisfies this; an open field of wheat does not. *Kinyan agav* therefore provides a mode of transferring chattel that is physically on unprotected land, a situation *kinyan chatzer* would not reach.
 
+[DAF:26b]
 ### R. Yosef Source
 
 > **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: תָּא שְׁמַע: רַבִּי עֲקִיבָא אוֹמֵר: קַרְקַע כׇּל שֶׁהוּא חַיֶּיבֶת בַּפֵּאָה, וּבַבִּכּוּרִים, וְלִכְתּוֹב עָלֶיהָ פְּרוֹסְבּוּל, וְלִקְנוֹת עִמָּהּ נְכָסִים שֶׁאֵין לָהֶם אַחְרָיוּת. וְאִי אָמְרַתְּ בָּעֵינַן צְבוּרִים, כׇּל שֶׁהוּא לְמַאי חֲזֵי?

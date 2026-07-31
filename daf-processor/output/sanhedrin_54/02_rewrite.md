@@ -80,7 +80,7 @@ The *braita* then completes Reb Yehuda's position: *mishum imo ata mechayvo v'ei
 
 Having established Reb Yehuda's reading in full, the *Gemara* turns to the *rabbanan*. The critical divergence concerns the phrase *ervat avicha* in the prohibition verse. For Reb Yehuda, as we have seen, *ervat avicha* means *eshet avicha* — the father's wife. For the *rabbanan*, however, *ervat avicha mamash* — *ervat avicha* is taken literally, as referring to intercourse with the father himself. This reading forecloses Reb Yehuda's entire structure: the *rabbanan* cannot use *ervat avicha* to include the mother who is also father's wife and then conclude *imcha hi* limits liability to one category, because for them the phrase is not about the father's wife at all.
 
-### Double Liability Principle
+### Double Liability: Father
 
 As a consequence of this reading, the *rabbanan* hold that when a woman is both one's mother and one's father's wife, both identities generate independent liability. There is no verse limiting the transgression to a single status. This is the *rabbanan*'s straightforward position: *chayav shtayim* — liable twice, once for the mother prohibition and once for the *eshet av* prohibition.
 
@@ -138,7 +138,7 @@ With that distinction in mind, the *Gemara* proceeds to examine both the source 
 
 ---
 
-## Bestiality Laws (III)
+## Bestiality Laws
 
 ### Why Stone Animal
 
@@ -174,7 +174,7 @@ Reb Akiva holds that no separate verse is needed. He reads the verb of the origi
 
 ---
 
-## Bestiality Laws (III)
+## Bestiality Laws (II)
 
 ### Bestiality Age Rules
 
@@ -184,7 +184,7 @@ The *braita* on bestiality follows the same structure. *Ish, prat le'katan* — 
 
 For the punishment, the verse reads *mot yumat* — he shall be put to death. A *gezeirah shavah* is applied: *ne'emar kan taharogu, v'ne'emar lehalan ki harog tahargenu* — the same language of *harog/taharogu* appears here and in *Devarim* 13 in the case of the *mesis*, the one who incites others to idolatry. That case is established as *sekilah*, and so by the verbal analogy, the punishment for bestiality is also *sekilah*. *Mah lehalan be'sekilah, af kan be'sekilah*.
 
-### Actor's Prohibition
+### Actor's Prohibition (II)
 
 For the actor — the man who penetrates an animal — the prohibition is derived from: *u've'chol behemah lo tittein shechavtecha le'tum'ah bah* — you shall not give your lying with any animal to defile yourself thereby (Vayikra 18:23). *Lamadnu azharah la'shochev* — this establishes the prohibition for the penetrating party.
 
@@ -196,7 +196,7 @@ Reb Akiva, consistent with his earlier reasoning, holds that no separate verse i
 
 ---
 
-## Multiple Acts Analys (II)
+## Multiple Acts Analysis
 
 ### Male-Male Both Sides
 

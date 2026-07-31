@@ -1,8 +1,8 @@
 # Menachot 68 — Daf Yomi Shiur
 
-## R. Yehuda: Chadash vs. C…
+## R. Yehuda: Chadash vs
 
-### Mishna: Roasted Grain De…
+### Mishna: Meir vs Yehuda
 
 The Mishna at the end of 67b records a debate regarding what occurred after the *omer* was brought: the marketplaces would fill with roasted grain. Rabbi Meir held that this was done *shelo birtzon chachamim* — not with the approval of the Sages — whereas Rabbi Yehuda maintained that it was done *birtzon chachamim*, with their full approval. The Gemara's concern driving this discussion is whether preparing and handling grain that is not yet permitted — because the *omer* has not yet been brought — raises a worry that one might accidentally come to eat it.
 

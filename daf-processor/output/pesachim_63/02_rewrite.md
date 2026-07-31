@@ -92,7 +92,7 @@ This debate of *mefalgin be-chatzi matir* is larger than the case at hand. It ap
 
 ## Lo Tishchat Al Chametz
 
-### Intro: Chametz Prohibiti…
+### Chametz Prohibition Scope
 
 We now shift to a distinct but related topic — the prohibition of *lo tishchat al chametz dam zivchi*, the prohibition against *shechting* the *Pesach* while *chametz* is present. The *pasuk* does not say *Pesach* explicitly, but says *dam zivchi* — the blood of my sacrifices. As we will see, this generates significant debate about the scope of the prohibition and about who must own the *chametz* for the violation to apply.
 
@@ -134,7 +134,7 @@ The *gemara* identifies the prior context in which Rabbi Yochanan and Reish Laki
 
 Rabbi Yochanan holds: *chutz lachoma Beit Pagi* means outside the wall of Jerusalem — if the bread is outside Jerusalem, it is not sanctified, but if it is merely outside the *azarah* but still within Jerusalem, it is sanctified. *Al besamuch* is not required for the bread. Reish Lakish holds: *afilu chutz lechomat azara lo kadish* — even one step outside the *azarah* and the bread is not sanctified. *Al besamuch* is required.
 
-### Issura v. Kedushat Lechem
+### Issura v. Kedushat
 
 The *gemara* concludes that both disputes are necessary, despite their apparent overlap. *U-tzricha* — both cases must be stated, because each one alone might have led to a different inference about the other.
 

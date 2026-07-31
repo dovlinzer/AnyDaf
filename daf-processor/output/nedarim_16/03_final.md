@@ -1,4 +1,5 @@
 # Nedarim 16 — Daf Yomi Shiur
+[DAF:16a]
 
 ## Neder vs. Shevuah
 
@@ -218,6 +219,7 @@ A sharp question then arises. Both *neder* and *shevuah* appear in the same *pas
 
 Abaye answers that the difference lies not in the wording of the verse but in the inherent structure of the two acts. The critical formulations are: *hanat sukkah alai* — the benefit of the *sukkah* is forbidden to me — versus *shevuah she-lo ehena min ha-sukkah* — a *shevuah* that I will not derive benefit from the *sukkah*. In the *neder* formulation, one is not directly forbidding the act God commanded; one is rendering the object's benefit forbidden to oneself. When *Sukkot* comes, one cannot execute the *mitzvah* because the object is unavailable in the relevant sense — but one has not directly said "I will not sit in a *sukkah*." The *shevuah*, by contrast, directly targets the act itself and places a personal oath against the fulfillment of a divine command. That is why it fails.
 
+[DAF:16b]
 ### Rava Objection
 
 > **Hebrew/Aramaic:** אָמַר רָבָא: וְכִי מִצְוֹת לֵיהָנוֹת נִיתְּנוּ? אֶלָּא, אָמַר רָבָא: הָא דְּאָמַר ״יְשִׁיבַת סוּכָּה עָלַי״, וְהָא דְּאָמַר ״שְׁבוּעָה שֶׁלֹּא אֵשֵׁב בַּסּוּכָּה״.

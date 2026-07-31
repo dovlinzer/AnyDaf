@@ -128,7 +128,7 @@ The *Gemara* then cites the *drasha* on the word *adam* from the beginning of *V
 
 ---
 
-## Meir's Principle (III)
+## Meir's Principle
 
 ### Adam Derasha
 
@@ -136,7 +136,7 @@ The *drasha* on *adam ki yakriv mikem* thus establishes a range: *gerim* are inc
 
 ---
 
-## Meir's Principle (III)
+## Meir's Principle (II)
 
 ### Gemara Parse
 

@@ -2,7 +2,7 @@
 
 ## Emet VeYatziv & Emet
 
-### Emet VeYatziv Emet Ve'em…
+### Emet VeYatziv & Ve'emuna
 
 The daf opens near the bottom of 12a with a teaching of Rava bar Chinana Sabba in the name of Rav: *kol shelo amar emet veYatziv shachrit ve'emet ve'emuna arvit lo yatza yedei chovato* — whoever did not say Emet VeYatziv in the morning and Emet Ve'emuna in the evening has not fulfilled his obligation. The Gemara has been tracing the blessings that surround the Shema — the blessings before it, Yotzer HaMeorot and Ahava Rabba in the morning, Maariv Aravim and Ahavat Olam in the evening, and the distinction between them. Now it turns to the blessings that follow. The point here is not merely that a blessing must be recited after the Shema — that much is known — but that the specific formulation matters. Just as there is a distinction between Ahava Rabba and Ahavat Olam, so too there is a corresponding distinction between the two post-Shema blessings: Emet VeYatziv in the morning and Emet Ve'emuna at night.
 
@@ -70,7 +70,7 @@ The Gemara presents yet another teaching from Rabbah bar Chinana Sabba in the na
 
 This teaching carries a double weight. On one level, it expresses a genuine theology of prayer: if one truly believes that God operates in the world and that prayer can effect change, then to withhold prayer from someone who needs it is a form of abandonment. Statutory prayer performed out of obligation speaks less directly to this living faith than responsive prayer — prayer prompted by an actual situation. The emphasis on *chaveiro* — a friend, another person — adds the dimension of interpersonal responsibility. If one has faith in the power of prayer and a friend is in need, the failure to pray combines a failure of faith with a failure of care, and that combination is called a sin.
 
-### Afflict Self Talmid Chac…
+### Torah Scholar Prayer
 
 The Gemara goes further: *im talmid chacham hu, tzarich sheyichleh atzmo alav* — if the person in need is a Torah scholar, it is not enough merely to pray; one must make oneself ill over him, investing one's prayer with a depth of personal anguish. The Gemara initially explores whether this is derived from Saul's complaint — *ve'ein choleh mikem alai* — nobody is making themselves ill over me, lamenting that no one was deeply troubled on his behalf. The Gemara questions whether that standard might apply specifically to a king rather than a Torah scholar. The conclusion is instead drawn from the verse *va'ani bechalotam levushi* — and I in their illness wore sackcloth — understood as David afflicting himself in his prayer for others when they became ill. The standard being set is not merely sincere prayer but genuine self-abnegation: prayer that is so deeply felt it registers as a form of personal suffering.
 
@@ -138,7 +138,7 @@ The first three are explicit in the text. The mitzvah of Tzitzit itself: *ve'asu
 
 Beyond the three explicit elements, the Gemara derives three further dimensions from the phrase *velo taturu acharei levavchem ve'acharei eineichem asher atem zonim achareihem* — and you shall not stray after your hearts and after your eyes, that which you go lusting after. These three clauses address three distinct dangers: heretical thought, sexual transgression, and idolatry.
 
-### Heretical Thoughts Warni…
+### Achrei levavchem: Heresy
 
 *Acharei levavchem* — straying after your hearts — is identified as *minut*, heresy. The heart in this context carries the sense of intellect and conviction, not merely emotion. The supporting verse is *amar naval be'libo ein Elokim* — the degenerate one says in his heart there is no God — where *be'libo*, in his heart, marks the seat of theological denial. The tzitzit serves as a reminder that keeps the mind anchored to true faith, preventing the intellect from drifting into heretical conclusions.
 
@@ -146,7 +146,7 @@ Beyond the three explicit elements, the Gemara derives three further dimensions 
 
 *Acharei eineichem* — straying after your eyes — refers to *hirhur aveira*, sinful thoughts of a sexual nature. The supporting verse is from the story of Shimshon: *vayomer Shimshon el aviv otah kach li ki hi yashra be'einai* — and Shimshon said to his father, take her for me, for she is pleasing in my eyes. The visual register — *be'einai*, in my eyes — identifies sight as the gateway to sexual sin. The tzitzit redirects this visual faculty toward the sacred, guarding against the tendency of the eye to lead astray.
 
-### Idolatry Adultery Metaph…
+### Spiritual Adultery
 
 *Asher atem zonim achareihem* — which might initially sound like it refers to sexual sin — is in fact interpreted as *hirhur avoda zara*, idolatrous thought. The key text is *vayiznu acharei ha'be'alim* — and they went lusting after the Baalim — where the metaphor of fornication (*zenut*) is applied to the worship of false gods. The underlying image is the covenantal relationship between Israel and God as a marriage, so that turning to idolatry constitutes a form of adultery or fornication. This metaphor recurs throughout the prophets. Parashat Tzitzit thus addresses, in its compact final verse, the three great temptations that undermine the foundation of Jewish religious life.
 
@@ -154,7 +154,7 @@ Taken as a whole, the six elements embedded in Parashat Tzitzit are not merely a
 
 ---
 
-## Yetzias Mitzrayim Baleil…
+## Yetzias Mitzrayim Baleil
 
 ### Mishna Exodus Night
 
@@ -172,7 +172,7 @@ Ben Zoma's derivation rests on the verse *lema'an tizkor et yom tzeischa me'eret
 
 The Rabbis read the same verse differently. For them, *yemei chayecha* refers to this world, and the addition of *kol* extends the obligation into the time of Mashiach — meaning that even in the messianic era, the Exodus will still be remembered. Ben Zoma responds with a challenge from the prophet Yirmiyahu: *hinei yamim ba'im... velo yomru od chai Hashem asher he'ela et benei Yisrael me'eretz Mitzrayim* — days are coming when it will no longer be said: by the life of God who brought Israel out of Egypt — *ki im chai Hashem asher he'ela et zera beit Yisrael me'eretz tzafona* — but rather: by the life of God who brought the offspring of Israel from the north and from all the lands to which He had driven them. The ultimate redemption will be so encompassing that it will displace the Exodus as the primary oath-reference. If so, why would the Rabbis say we will still mention Yetzias Mitzrayim in the messianic era?
 
-### Primary Secondary Resolu…
+### Yetzias Mitzrayim School
 
 The Sages respond: *lo shetei'aker Yetzias Mitzrayim mimekoma* — it does not mean that the memory of Yetzias Mitzrayim will be uprooted — *ela sheteihei shibud malchuyot ikar veYetzias Mitzrayim tafel lo* — but rather that the redemption from the subjugation of all nations will be primary, and Yetzias Mitzrayim secondary to it. The original redemption will retain its standing as the foundational act of divine salvation; it will simply no longer occupy the primary position in the liturgy of praise and oath-taking.
 
@@ -198,7 +198,7 @@ The Gemara's discussion of Yaakov and Yisrael as names that did not fully suppla
 
 Similarly, *sarai hi sarah* — Sarai is Sarah. Originally Sarai was *sharet le'umata*, mistress of her own nation alone; ultimately she became *sarah*, mistress of all the world.
 
-### Bar Kappara Avram Violat…
+### Bar Kappara: Avram Viol
 
 Bar Kappara teaches: *kol hakoreh leAvraham Avram over ba'aseh* — whoever calls Avraham by the name Avram transgresses a positive commandment, as the verse states *vehaya shimcha Avraham* — your name shall be Avraham. The new name is not merely descriptive but obligatory; to revert to the old name is to violate a positive mitzvah.
 
@@ -218,11 +218,11 @@ The Gemara answers by noting the precise wording of the divine command regarding
 
 The Gemara turns to the comparable case of Yaakov. The verse states *lo yikarei shimcha od Yaakov ki im Yisrael yiheyeh shemecha* — your name shall no longer be called Yaakov, for Yisrael shall be your name. By analogy with Avraham, one might expect this too to carry a universal prohibition against using the name Yaakov.
 
-### Scriptural Evidence Reve…
+### Yaakov: Biblical Evidence
 
 The Gemara rejects this comparison on the basis of a subsequent verse: *vayomer Elokim leYisrael bemarot halayla vayomer Yaakov Yaakov* — and God said to Yisrael in the visions of the night: Yaakov, Yaakov. God Himself reverted to addressing him as Yaakov, which demonstrates that the earlier instruction did not carry the same force as the prohibition regarding Avram.
 
-### Avraham Yaakov Distincti…
+### Avraham Yaakov Names
 
 The essential distinction is this: by Avraham, the name fully superseded the old one, and reverting to the name Avram constitutes a genuine transgression — both a positive violation according to Bar Kappara and a negative prohibition according to Rabbi Eliezer. By Yaakov, the name Yisrael became primary but the name Yaakov was not abolished; it remains as a secondary name, since God Himself continued to use it.
 

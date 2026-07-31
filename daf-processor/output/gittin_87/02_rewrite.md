@@ -42,7 +42,7 @@ The *mishnah*'s solution is elegant: *notnin shnayhem l'zu v'shnayhem l'zu* — 
 
 ---
 
-## Five Husbands, One G (II)
+## Five Husbands, One Get
 
 ### One Date, Multiple Names
 

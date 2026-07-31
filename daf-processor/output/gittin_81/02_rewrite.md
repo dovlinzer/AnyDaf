@@ -14,7 +14,7 @@ The *Gemara* notes that the *Mishnah* specifies *nisu'in* — actual marriage �
 
 The *Gemara* thus frames the discrepancy sharply: if sexual relations suffice to create the forbidden status described by Rav Hamnuna, why does the *Mishnah* restrict the consequences to the case of *nisu'in*? The implication seems to be that the *Mishnah* holds sexual relations short of marriage do not trigger these consequences — which would undercut Rav Hamnuna's position.
 
-### Clean Language Explanati…
+### Mishnah Clean Language
 
 The *Gemara* resolves this by invoking the principle of *lishna ma'alya* — clean or elevated language. The *Mishnah* chose to phrase the case in terms of *nisu'in* out of linguistic propriety. The actual law, however, is identical whether she married another man or merely had sexual relations with him; in either case, *vehu hadin lezinus*, the same negative consequences apply. The *Mishnah*'s use of the term "married" is not *davka* — it is simply the more refined way to express the matter.
 
@@ -60,7 +60,7 @@ Rav Yehuda in the name of Shmuel defines *l'alter* as the period during which th
 
 Once the meeting breaks — *amdu* — any moment thereafter constitutes *l'achar zman*. From that point forward, we cannot know with certainty what transpired between then and the time the document is inspected, and the first husband therefore loses the ability to challenge the divorce. This definition effectively limits the window of challenge to the duration of the transaction itself, a remarkably narrow timeframe.
 
-### Alternative: No Remarria…
+### Rav Adda: Not Remarriage
 
 Rav Adda bar Ahava offers a substantially different definition. *L'alter* extends for as long as the woman has not yet remarried — *lo niset zehu l'alter*. Under this reading, even ten years later, as long as she has not taken a second husband, the problem can still be raised. Once she marries a second man, *niset zehu l'achar zman*, that constitutes the temporal threshold beyond which the first husband can no longer upend her new marriage.
 
@@ -70,7 +70,7 @@ The *Gemara* notes that the *Mishnah* specifically mentions a second husband —
 
 ---
 
-## Get Written Then Retract…
+## Get Written, Then Retract
 
 ### Beit Shammai Stringent
 
@@ -130,7 +130,7 @@ The *Gemara* thus clarifies what *teitzei* means in Shmuel's response: it does n
 
 ---
 
-## Perception Creates Reali…
+## Perception Shapes Reality
 
 ### Rabbis Shape Perception
 
@@ -160,7 +160,7 @@ The *Gemara* cites a second contrast — that the *doros rishonim* would bring t
 
 ---
 
-## Overnight Together Probl…
+## Overnight Together: 2nd
 
 ### Overnight Inn Scenario
 
@@ -170,7 +170,7 @@ The *Mishnah* now presents the case of a man who divorces his wife and then spen
 
 Beit Shammai rules: she does not need a second *get* from him — *eina tzricha heimenu get sheni*. We do not presume from the fact that they spent the night together that they had sexual relations and thereby entered into a new marriage.
 
-### Beit Hillel Requires Sec…
+### Beit Hillel: Get Nisu'in
 
 Beit Hillel rules more stringently here: she does require a second *get*, but only *bizman shenitgarsha min hanisu'in* — when the divorce follows a full marriage (*nisu'in*) in which the couple had actually lived together and been intimate.
 
@@ -256,7 +256,7 @@ The *Gemara* then asks why Rabbi Akiva excludes a slave (*eved*) from signing ev
 
 The *Gemara* therefore reformulates Rabbi Akiva's reasoning for excluding a slave: *dilma asu l'assukei l'yuchsin* — people will not say slaves are generally *kosher* for testimony, since everyone knows they are not. Instead, they will say: "How could a slave sign? He must have been freed!" If people believe the slave was freed, they will treat him as a free man for purposes of *yichus*, potentially allowing him to marry a free woman in contexts where that would be problematic.
 
-### Thief Teshuvah Misconcep…
+### Thief Teshuvah
 
 The analogous concern for a *gazlan* — a thief — is: *asu l'meimar teshuva avad* — people will assume he did *teshuva* and was thereby rehabilitated as a valid witness. This would cause people to trust him and have him sign other documents, leading to a reliance on invalid testimony in consequential halachic matters.
 

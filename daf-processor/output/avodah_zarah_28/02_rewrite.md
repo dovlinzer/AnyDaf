@@ -1,18 +1,18 @@
 # Avodah Zarah 28 — Daf Yomi Shiur
 
-## Non-Jewish Doctor & Life…
+## Non-Jewish Doctor Pikuach
 
-### Medical Risk & Pikuach N…
+### Medical Risk & Pikuach
 
 The daf is 28, and we pick up at the very bottom of 27b. The preceding discussion had established the *gemara*'s grave concern about seeking medical care from a non-Jewish physician. The *gemara* operated on the assumption — whether reflecting actual reality or the perception of reality — that the danger was real enough to warrant the following rule: unless one is in a situation in which one believes one will certainly die without medical intervention, it is preferable not to seek treatment from a non-Jewish doctor rather than risk the danger of doing so. The *gemara* thus regarded this as a matter of the gravest concern. There had also been a fascinating discussion about heresy, touching on whether even the fear of death would not override the prohibition given that danger, and a critical discussion about *chayei sha'ah* — the question of whether a terminally ill person may take certain risks when balancing the protection of the short remaining time of life against undergoing a treatment that might extend it. This is obviously of enormous importance for contemporary *halachic* questions in medical *halacha*.
 
-### Wounds & Shabbat Violati…
+### Wounds Permitting Shabbat
 
 With that context in mind, the *gemara* picks up two lines from the bottom of the previous amud. *Amar Rava bar bar Chana amar Rabbi Yochanan: kol maka she-mechalelin aleha es ha-Shabbos, ein misrapin bahen.* Rava bar bar Chana said in the name of Rabbi Yochanan: any wound for which one may violate *Shabbos* — that is, any wound that represents a danger to life, as measured by the standard of *chillul Shabbos* — one may not seek treatment for that wound from a non-Jewish doctor. The concern, presumably, is not merely that the doctor will exacerbate the condition but perhaps that he will fail to provide sufficient care. The prohibition applies specifically to life-threatening conditions.
 
 The last line of 27b then offers an alternative formulation: *Ve-ika d'amri amar Rava bar bar Chana amar Rabbi Yochanan: kol maka shel challal, ein misrapin mehen.* According to this version, the rule is framed differently — it is not wounds for which one may violate *Shabbos*, but rather internal wounds (*maka shel challal*) for which one may not seek treatment from a non-Jewish physician. The *gemara* immediately asks *mai beinaihu* — what practical difference exists between these two formulations? Since in general any internal wound is one that represents a life-threatening danger, the two versions seem to say the same thing. They are, effectively, two ways of expressing the same prohibition.
 
-### Internal vs. External Wo…
+### Internal vs External
 
 The *gemara* answers: *ika beinaihu gav yadei ve-gav raglei* — the difference lies in a wound on the back of the hand or the back of the leg. Such a wound is not technically an internal wound, and yet it is the sort of condition for which one may violate *Shabbos*. This raises an obvious question: if it is the kind of wound that may require *chillul Shabbos* because it represents a possible risk to life, why would one be permitted to go to a non-Jewish doctor for it, given the concern that the doctor may exacerbate it or fail to treat it adequately?
 
@@ -24,7 +24,7 @@ It is worth flagging a tension that this passage creates with the *gemara* on th
 
 The *gemara* continues: *Amar Rav Zutra bar Tuvia amar Rav: kol maka she-tzricha omed, mechallalin aleha es ha-Shabbos.* Rav Zutra bar Tuvia said in the name of Rav: any wound that requires assessment — that is, any situation in which one must evaluate whether it might be life-threatening — one violates *Shabbos* for it. The principle being articulated is that *safek pikuach nefesh mechallalin es ha-Shabbos*: even uncertainty as to whether a condition falls into the category of life-threatening is itself sufficient grounds to violate *Shabbos*. The very need to assess the situation — to ask, is this dangerous or is it not? — is already enough. The requirement of assessment is itself the indicator.
 
-### High Fever & Pikuach Nef…
+### Fever & Pikuach Nefesh
 
 Rav Zutra's principle was not an abstract one, as the *gemara* immediately provides a concrete illustration: *Ve-hai eshta tzmireta, ke-maka shel challal dami, mechallalin aleha es ha-Shabbos* — this very high fever is like an internal injury, and one violates *Shabbos* for it, as Rav Shemen bar Abba said in the name of Rabbi Yochanan. The example of the high fever was not chosen arbitrarily; it is precisely the kind of condition that requires assessment. A fever of 104 or 105 degrees causes great alarm — sometimes a physician will determine that it is not dangerous, while other times the patient must go to an emergency room immediately. Since such a fever falls into the category of something requiring evaluation, it is treated like an internal injury, and *Shabbos* may be violated.
 
@@ -32,7 +32,7 @@ This raises a fascinating question that *poskim* have grappled with: what about 
 
 ---
 
-## Teeth & Gums Classificat…
+## Teeth & Gums: Internal
 
 ### Internal Wound Definition
 
@@ -70,7 +70,7 @@ One finds this resolution somewhat difficult to accept at face value. The fact t
 
 The *gemara* now notes the halakhic implication of the narrative: *alma ke-maka shel challal damya* — evidently, *tzaftina* is classified as an internal wound (*maka shel challal*). The reason is that Rabbi Yochanan was asking what he could do on *Shabbos*, meaning he was prepared to perform the treatment on *Shabbos*, which implies it was in the category of *pikuach nefesh*. This is a striking moment in the *gemara*: it appears to skip entirely over the intermediate category of *choleh kol ha-guf*, for which only *derabanan* violations — not biblical ones — might be permitted. The *gemara* seems to infer directly from the fact that something may be done on *Shabbos* that it is *pikuach nefesh*, collapsing the intermediate tier. This is a consistent feature of the present *gemara*'s framework and deserves attention.
 
-### Tzaftina & Internal Dang…
+### Tzaftina: Internal Spread
 
 Rav Nachman bar Yitzchak immediately qualifies the inference: *Shani tzaftina* — *tzaftina* is different from other dental conditions, and one cannot derive from it that all problems with teeth and gums are classified as *pikuach nefesh*. Why is *tzaftina* different? *Ho'il u-matchil be-feh ve-gomer bi-vnei mei'ayim* — because it begins in the mouth and ends in the internal organs; it can spread from the gums deep into the body. This specific disease is therefore genuinely internal in character, even though it presents in the mouth. A general inflammation of the gums or an ordinary toothache, however serious, does not necessarily carry this risk of systemic spread.
 
@@ -90,7 +90,7 @@ Rav Nachman bar Yitzchak immediately qualifies the inference: *Shani tzaftina* �
 
 Now the *gemara* circles back to ask the more fundamental question: *Heichi avid hachi?* — how was Rabbi Yochanan able to go to a non-Jewish doctor in the first place? We have already established, in the name of Rabba bar bar Chana quoting Rabbi Yochanan himself, that for any condition that would permit *chillul Shabbos*, one may not seek treatment from a non-Jewish physician. And *tzaftina* has just been established as such a condition. So how did Rabbi Yochanan go to this non-Jewish woman?
 
-### Important Persons Except…
+### Adam Chashuv Exception
 
 The first answer offered is: *Adam chashuv shani* — an important person is different. Just as we had seen on 25b regarding an *isha chashuva*, where an important woman need not fear being killed, so too an important person known to the secular government will be protected; those treating him will be careful with him. His prominence acts as a safeguard.
 
@@ -100,7 +100,7 @@ The *gemara* immediately challenges this answer with a counterexample: *Ve-ha Ra
 
 A note on historical chronology: the *gemara* treats this Yaakov as the same heretic mentioned elsewhere, but Tosafos points out that the Yaakov associated with Rabbi Ishmael preceded Rabbi Abbahu by several generations — this is a different Yaakov entirely.
 
-### Expert Doctor's Reputati…
+### Expert Doctor Exception
 
 The *gemara* abandons the *adam chashuv* answer and offers a different explanation: *Rabbi Yochanan rofe mumche havah* — Rabbi Yochanan's case was different because the woman was an expert doctor (*rofe mumche*). An expert doctor, whose professional reputation depends entirely on results, would not risk that reputation by harming a patient. The concern that motivates the general prohibition — that the physician might intentionally or negligently cause harm — does not apply to a recognized expert who has too much to lose. This is the real answer to how Rabbi Yochanan was permitted to go to her.
 
@@ -188,7 +188,7 @@ A general diagnostic and therapeutic principle is then given: *rativa le-yavesht
 
 ---
 
-## Eye Inflammation & Shabb…
+## Eye Inflammation Ayin
 
 ### Inflamed Eye Ruling
 

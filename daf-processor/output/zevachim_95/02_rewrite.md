@@ -1,6 +1,6 @@
 # Zevachim 95 — Daf Yomi Shiur
 
-## Blood-Stained Garmen (II)
+## Blood-Stained Garment
 
 ### Blood Left Azarah
 

@@ -1,6 +1,6 @@
 # Kiddushin 20 — Daf Yomi Shiur
 
-## Original Money vs. Servi…
+## Money vs. Service
 
 ### Yi'ud Timing
 
@@ -240,11 +240,11 @@ Given this strong redemptive mandate, the *gemara* concludes, it follows that th
 
 ## Two Psukim
 
-### Value Increased
+### Value Increased (II)
 
 Rav Nachman bar Yitzchak offers a direct derivation from the *pesukim* themselves: *im od rabot ba-shanim, le-fihem yashiv ge'ulato mi-kesef miknato* — if there are many years, he shall return his redemption according to them from the money of his purchase. The word *rabot* — many or increased — refers not to the number of years remaining but to the increase in his value *over the years*. If his value has increased during the years of his service — *nitraba kaspo ba-shanim* — we use *mi-kesef miknato*, the original purchase price, which is the lower amount.
 
-### Value Decreased
+### Value Decreased (II)
 
 Conversely, *ve-im me'at nish'ar ba-shanim* — if his value has decreased over the years — *ke-fi shanav yashiv et ge'ulato*, the redemption follows his current value, which is the lower amount. In both cases, the operative *pasuk* directs us to the figure that is more favorable to the *eved*. The two *pesukim* thus work in tandem: one covers the case of rising value, the other covers falling value, and in each case the result is the lower price.
 

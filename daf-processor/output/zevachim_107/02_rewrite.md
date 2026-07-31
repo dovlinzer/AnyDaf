@@ -2,7 +2,7 @@
 
 ## Shechita Chutz
 
-### Shechita—No Explicit Ver…
+### Shechita Outside Mikdash
 
 The daf under discussion opens mid-sugya, picking up from 106b, approximately ten lines down, with the words *ela amar Rav Avin* — though some versions read *ela amar Abaye*. The Gemara's driving question concerns the prohibition of *shechutei ve-ha'alot chutz*: the forbidding of slaughtering or burning an animal as a *korban* outside the *Beit HaMikdash* on a private altar. Performing either act renders one liable to *kares*, even when the offering is directed to God. The punishment is stated explicitly in the verses, but the difficulty is that while the Torah explicitly prohibits the act of *ha'ala'ah* — offering up — with the words *hishamer lecha pen ta'aleh olotecha*, "be careful lest you offer up your *olot*" — no parallel explicit prohibition is stated regarding *shechita* outside the *Beit HaMikdash*.
 

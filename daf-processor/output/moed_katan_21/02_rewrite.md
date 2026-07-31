@@ -252,7 +252,7 @@ The *gemara* then introduces a teaching from *Masechet Semachot*: if one encount
 
 After *shloshim*: *shoel b'shlomo ve'eino midaber imo tanchumin* — the reverse obtains. One asks after his well-being, the person having now re-entered normal society, but one does not speak words of *tanchumin*, because doing so risks reopening a wound that is beginning to heal.
 
-### Avidi bar Avin's Resolution
+### Others' Shalom
 
 This raises a question: we said earlier that after *shiva* the *avel* may engage in *she'eilas shalom*, yet the *Masechet Semachot* says that during *shloshim* one does not ask after the *avel*'s *shalom*. Avidi bar Avin resolves this: *hu shoel b'shalom chaveirim shehem shruyim b'shalom* — during *shloshim*, the *avel* may ask after others' *shalom*, because they are in a state of *shleimut* and he is directing the inquiry toward their wholeness, not his own. What the *avel* may not do, and what others may not do to him, is ask after his own *shalom* — *she'hu eino sharui b'shalom* — because he is still not in a state of *shleimut*.
 

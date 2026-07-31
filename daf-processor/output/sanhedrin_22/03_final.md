@@ -1,4 +1,5 @@
 # Sanhedrin 22 — Daf Yomi Shiur
+[DAF:22a]
 
 ## Horses & Wealth
 
@@ -328,6 +329,7 @@ Rabbah bar Bar Chana, citing Rabbi Yochanan, states: *kasheh lezivugam kepriat y
 
 The *gemara* resolves the tension: *lo kashya ha bezivug rishon ha bezivug sheni* — there is no contradiction. The first marriage is preordained from before birth and in that sense is not hard at all. It is the *zivug sheni* — the second marriage — that is as difficult as splitting the sea. The weight of this discussion is palpable. These are texts that are difficult to read without thinking of people in one's own life — those who have lost spouses, those who are seeking a match — and that dimension of personal resonance deserves acknowledgment.
 
+[DAF:22b]
 ### Eshet Neurim
 
 > **Hebrew/Aramaic:** אָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָן: לַכֹּל יֵשׁ תְּמוּרָה, חוּץ מֵאֵשֶׁת נְעוּרִים, שֶׁנֶּאֱמַר: ״וְאֵשֶׁת נְעוּרִים כִּי תִמָּאֵס״. מַתְנֵי לַהּ רַב יְהוּדָה לְרַב יִצְחָק בְּרֵיהּ: אֵין אָדָם מוֹצֵא קוֹרַת רוּחַ אֶלָּא מֵאִשְׁתּוֹ רִאשׁוֹנָה, שֶׁנֶּאֱמַר: ״יְהִי מְקוֹרְךָ בָרוּךְ וּשְׂמַח מֵאֵשֶׁת נְעוּרֶיךָ״. אָמַר לוֹ: כְּגוֹן מַאן? אָמַר לוֹ: כְּגוֹן אִמָּךְ.

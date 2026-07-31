@@ -1,4 +1,5 @@
 # Bava Kamma 89 — Daf Yomi Shiur
+[DAF:89a]
 
 ## Mother's Gift & Kinyan
 
@@ -248,6 +249,7 @@ The *gemara* closes with a *braisa* that addresses the parallel question of *ket
 
 The *braisa* rules: *keshem she-lo timkor hi le-acheirim lo hifsidah ketubas benin dichrin* — just as when she sells her *kesuvah* to third parties she does not forfeit *ketubas benin dichrin*. This requires explanation.
 
+[DAF:89b]
 ### Economic Duress Logic
 
 > **Hebrew/Aramaic:** וְהָכִי קָתָנֵי: כְּשֵׁם שֶׁהַמּוֹכֶרֶת כְּתוּבָּתָהּ לַאֲחֵרִים – לֹא הִפְסִידָה כְּתוּבַּת בְּנִין דִּכְרִין, מַאי טַעְמָא – זוּזֵי הוּא דְּאַנְסוּהָ; כָּךְ מוֹכֶרֶת כְּתוּבָּתָהּ לְבַעְלָהּ – לֹא הִפְסִידָה כְּתוּבַּת בְּנִין דִּכְרִין, מַאי טַעְמָא? זוּזֵי הוּא דְּאַנְסוּהָ.

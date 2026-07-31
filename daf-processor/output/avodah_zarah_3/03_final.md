@@ -1,4 +1,5 @@
 # Avodah Zarah 3 — Daf Yomi Shiur
+[DAF:2b]
 
 ## Nations' Defense
 
@@ -68,6 +69,7 @@ The *gemara* pauses over this: does that mean the sinner is rewarded — that by
 
 Mar b'rei d'Ravina clarifies. Since the nations failed to uphold the seven *mitzvot* and began living as though they were not obligated, when they subsequently do perform those same actions, they do so not from a sense of *chiuv*, of obligation, but rather out of their own inclination or personal ethic. Therefore, even if they observe these *mitzvot*, they are not rewarded as one who is commanded and fulfills, *metzuveh v'oseh*. Rather, they receive only the lesser reward of *eino metzuveh v'oseh*, one who performs a deed without being obligated to do so. This is grounded in the principle stated by Rabbi Chanina: greater is the one who acts from obligation than the one who acts without it.
 
+[DAF:3a]
 ### Rabbi Meir Teaching
 
 > **Hebrew/Aramaic:** וְלָא? וְהָתַנְיָא: הָיָה רַבִּי מֵאִיר אוֹמֵר: מִנַּיִן שֶׁאֲפִילּוּ גּוֹי וְעוֹסֵק בַּתּוֹרָה שֶׁהוּא כְּכֹהֵן גָּדוֹל? תַּלְמוּד לוֹמַר: ״אֲשֶׁר יַעֲשֶׂה אֹתָם הָאָדָם וָחַי בָּהֶם״, כֹּהֲנִים לְוִיִּם וְיִשְׂרְאֵלִים לֹא נֶאֱמַר, אֶלָּא ״הָאָדָם״, הָא לָמַדְתָּ שֶׁאֲפִילּוּ גּוֹי וְעוֹסֵק בַּתּוֹרָה הֲרֵי הוּא כְּכֹהֵן גָּדוֹל.
@@ -296,6 +298,7 @@ Immediately, each of these fair-weather converts strips off his *mitzvot* and de
 
 ## Divine Schedule
 
+[DAF:3b]
 ### Twelve Hours
 
 > **Hebrew/Aramaic:** אִינִי? וְהָא אָמַר רַב יְהוּדָה אָמַר רַב: שְׁתֵּים עֶשְׂרֵה שָׁעוֹת הָוֵי הַיּוֹם, שָׁלֹשׁ הָרִאשׁוֹנוֹת — הַקָּדוֹשׁ בָּרוּךְ הוּא יוֹשֵׁב וְעוֹסֵק בַּתּוֹרָה, שְׁנִיּוֹת — יוֹשֵׁב וְדָן אֶת כָּל הָעוֹלָם כּוּלּוֹ, כֵּיוָן שֶׁרוֹאֶה שֶׁנִּתְחַיֵּיב עוֹלָם כְּלָיָיה — עוֹמֵד מִכִּסֵּא הַדִּין וְיוֹשֵׁב עַל כִּסֵּא רַחֲמִים,

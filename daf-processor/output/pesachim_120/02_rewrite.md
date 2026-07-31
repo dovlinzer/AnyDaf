@@ -10,7 +10,7 @@ The term *afikoman* itself is a Greek word, and Rav's interpretation follows tha
 
 Shmuel's interpretation — the one with which we are all familiar — is that *afikoman* refers to eating *anything* after the *pesach*, on the presumption that doing so would displace the taste of the *korban pesach* from one's mouth. Notably, the *Gemara* has not yet stated this rationale explicitly; it is the operative concern behind Shmuel's position.
 
-### Shmuel: No Food After Ma…
+### Shmuel: No Food After
 
 Following Shmuel's approach, the *Gemara* cites: *Amar Rav Yehuda amar Shmuel* — not only after the *pesach* is there a prohibition, but even nowadays, after *matzah*, one may not eat anything. This ruling transforms the practical structure of the *Seder*: if nothing may follow the *matzah*, then the *matzah* must come at the very end of the meal. The familiar *afikoman* — the piece of *matzah* eaten at the conclusion of the *Seder* — exists precisely to ensure this: we eat it last so that nothing comes after it, thereby fulfilling the spirit of *ein maftirin achar hapesach afikoman* as applied to *matzah bizman hazeh*.
 
@@ -80,7 +80,7 @@ The *Gemara* points to the verse: *ba-erev tochlu matzot* — in the evening you
 
 What the *Gemara* effectively does is isolate the opening clause — *ba-erev tochlu matzot*, "in the evening you shall eat *matzot*" — treating the beginning of *Pesach* as establishing an independent, specific obligation for the first night, while severing it from the remainder of the verse. The Torah, in other words, was never legislating a distinct night-one obligation; it was describing the entire seven-day obligation. But the hermeneutical move of the *Gemara* reads into the opening words a *de'oraita* requirement unique to the first night, giving *matzah* its independent standing *bizman hazeh*.
 
-### Rava bar Yitzchak: All R…
+### Rava: All Matzah Rabbinic
 
 *Rava bar Yitzchak* takes a strikingly different position: *echad zeh ve-echad zeh derabbanan* — both *matzah* and *maror* are rabbinic in our time, and neither carries a biblical obligation. On this view, the verse *ba-erev tochlu matzot* is not establishing an independent obligation for *Seder* night at all. Rather, the *Gemara* responds to him, it speaks to the case of one who is *tamei* or on a distant road — *tamei ve-shehayah be-derech rechokah* — who is exempted from bringing the *korban pesach*. The verse teaches that even such a person must still eat *matzah* on that night, lest one think: since he is not eating the *pesach*, he need not eat *matzah* and *maror* either. The verse therefore addresses a *zman habayit* scenario and does not create an independent *bizman hazeh* obligation at all.
 
@@ -114,9 +114,9 @@ If some members remained awake, continuity is preserved and eating may resume. I
 
 *Rabbi Yose* introduces a distinction between types of sleep: *nishnamnemu yochlu, nirdemu lo yochlu* — if they merely dozed, they may continue eating; if they fell into deep sleep, they may not. Whether *Rabbi Yose* is being *meikel* or *machmir* relative to the anonymous *mishnah* is ambiguous: he may be restricting even the case where only some fell asleep (requiring that the sleep be light), or he may be permitting even the case where all fell asleep as long as the sleep was only a doze.
 
-## Chatzot Deadline (II)
+## Chatzot Deadline
 
-### Pesach Nosar After Chatz…
+### Pesach Nosar After
 
 The *mishnah* states: *ha-pesach achar chatzot metamei et ha-yadayim* — the *pesach* after midnight renders the hands *tamei*. This is because the *pesach* becomes *nosar* — leftover meat that may not be eaten — once *chatzot* passes, since according to this *mishnah* the entire night is not available for eating the *korban pesach*; only until midnight. *Nosar*, when touched, imparts *tumah* to the hands, as will be discussed below. The final line of the *mishnah* generalizes: *ha-pigul ve-ha-nosar metamim et ha-yadayim* — both *pigul* and *nosar* render the hands *tamei*.
 

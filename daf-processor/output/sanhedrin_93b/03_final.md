@@ -1,4 +1,5 @@
 # Sanhedrin 93b — Daf Yomi Shiur
+[DAF:92b]
 
 ## False Prophets & Fire
 
@@ -34,6 +35,7 @@ Yet the Gemara presses further: even granting that the presence of the *resha'im
 
 Rabbi Tanchum cites a *derashah* of Bar Kappara in Tzippori: what is the meaning of the verse *sheish se'orim ha-eileh nasan li* — "these six barleys he gave me," spoken by Ruth? The Gemara considers and rejects both the plain reading — that Boaz gave her six literal kernels, which would be no gift at all — and the alternative that it was six *se'ah*, which would be too heavy for a woman to carry. The answer: *ela remez ramaz lah* — it was six kernels, but he was giving her a symbolic hint, *she-atidim shishah banim latzei mimmenah she-mitbarchin be-sheish sheish berachot* — that six distinguished descendants would emerge from her, each blessed with six blessings. Those six descendants are: David, Mashiach, Daniel, Hananiah, Mishael, and Azariah — all, the Gemara will explain, from the Davidic household or at minimum from the tribe of Yehudah.
 
+[DAF:93b]
 ### David's 6 Blessings
 
 > **Hebrew/Aramaic:** דָּוִד, דִּכְתִיב: ״וַיַּעַן אֶחָד מֵהַנְּעָרִים וַיֹּאמֶר הִנֵּה רָאִיתִי בֵּן לְיִשַׁי בֵּית הַלַּחְמִי יֹדֵעַ נַגֵּן וְגִבּוֹר חַיִל וְאִישׁ מִלְחָמָה וּנְבוֹן דָּבָר וְאִישׁ תֹּאַר וַה׳ עִמּוֹ וְגוֹ׳״.

@@ -46,7 +46,7 @@ The *gemara* also asks whether *ein issur chal al issur* operates in other famil
 
 *Amar Rav Ashi: issur achos isha miktala tali vekay.* Rav Ashi explains that the prohibition of *achos isha* does not simply disappear or become legally nonexistent merely because *eshes ach* was there first. Rather, it hovers. It is a real and applicable status — it simply cannot take effect because there is a pre-existing status occupying that space.
 
-### Status Replacement Mechanism
+### Status Replacement Rules
 
 The practical consequence of this hovering is striking. *Ee paka issur eshes ach* — if the prohibition of *eshes ach* were somehow removed, *asi issur achos isha vechayeil* — the hovering prohibition of *achos isha* would immediately descend and take effect. The moment the first status is vacated, the second rushes in.
 
@@ -76,7 +76,7 @@ The *baraita* specifies how this plays out. If she was first his mother-in-law �
 
 The only coherent way to explain why Rabbi Yossi would ever impose the *lighter* penalty — *chenek* rather than *sreifa* — is to say that he holds the second prohibition simply does not attach when a first one is already in place. He is not punished by *sreifa* because, in his view, the *chamoso* status never legally took effect. That is precisely *ein issur chal al issur*.
 
-### Sequence Determines Status
+### Sequence: Status Apply
 
 So we have a contradiction. In the case of *achos isha* and *eshes ach*, Rabbi Yossi seems to hold *issur chal al issur* — you can get both statuses. In the case of mother-in-law and married woman, he clearly holds *ein issur chal al issur* — the first status controls and the second does not take effect. Which is it?
 
@@ -120,7 +120,7 @@ The question *issur kolel* asks is: since Rachel's sisters are now forbidden to 
 
 The distinction between *mosif* and *kolel* can be summarized this way: *issur mosif* changes the status of the forbidden *cheftza* by expanding the scope of people to whom it is prohibited. *Issur kolel* changes the status of the *gavra* by expanding the range of things he is prohibited from. In the first case, the forbidden thing is now forbidden more broadly. In the second case, the forbidden person now has a broader set of prohibitions, of which this one is part.
 
-### Kolel Application Question
+### Kolel & Double Issurim
 
 The *gemara* then asks whether Rabbi Yossi, who concedes to *issur mosif*, would also hold of *issur kolel* — whether a second *issur* that broadens the *gavra*'s prohibited activities can also take effect on a pre-existing first *issur*. This question is what sets up Rava's intervention.
 
@@ -154,7 +154,7 @@ This is a strikingly thin *nafka minah*, and the precise nature of the dispute w
 
 The *gemara* now connects the principle of *issur chal al issur* to a famous set of three parallel debates, each involving a situation where two prohibitions seem to converge on a single act. The first case: *zar sheshimmesh b'shabbos* — a non-*kohen* who performs the *avodah* in the *Beis Hamikdash* on *Shabbos*. A non-*kohen* who performs the Temple service is liable with the death penalty. Someone who performs *melacha* on *Shabbos* is also liable. Here both seem to apply simultaneously. Is he liable twice?
 
-### Rabbi Chiyya vs. Bar Kappara
+### Rabbi Chiyya vs. Bar
 
 *Rabbi Chiyya omer chayav shtayim* — Rabbi Chiyya says he is liable for two. *Bar Kappara omer eino chayav ela achas* — Bar Kappara says only one. Both then take dramatic oaths. *Kafatz Rabbi Chiyya v'nishba: ha'avodah, kach shamati meRebbi shtayim* — Rabbi Chiyya jumped up and swore, by the Temple service itself: this is what I heard from Rebbe, that he is liable twice. *Kafatz Bar Kappara v'nishba: ha'avodah, kach shamati meRebbi achas* — Bar Kappara jumped up and swore the same oath in the opposite direction: this is what I heard from Rebbe, only once. The oaths make it impossible to dismiss either report as simple error of transmission — both are insisting with the utmost solemnity on having heard from the same source.
 
@@ -202,7 +202,7 @@ We have already established that Rabbi Yossi holds *issur mosif* — he allows a
 
 *Rabbi Chiyya savar Rabbi Yosei be'issur kolel mechayev* — Rabbi Chiyya holds that Rabbi Yossi would say *issur kolel* does allow a second prohibition to take effect, generating liability twice. All three of the parallel cases are instances of *issur kolel*, and Rabbi Chiyya is arguing that Rabbi Yossi's logic extends to them.
 
-### Bar Kappara: Kolel Doesn't Apply
+### Bar Kappara: Issur Kolel
 
 *Bar Kappara savar lo mechayev ela chada* — Bar Kappara holds that even Rabbi Yossi would not apply *issur kolel* to create double liability. Only one prohibition counts.
 
@@ -250,7 +250,7 @@ Alternatively — and this is presented as a somewhat more interesting construct
 
 ---
 
-## Disagreement Reconstruct…
+## Disagreement: Perspective
 
 ### Both Heard Rebbe
 

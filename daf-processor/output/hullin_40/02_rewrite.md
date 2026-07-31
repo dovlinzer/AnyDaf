@@ -6,7 +6,7 @@
 
 Daf 40 continues the broad thematic territory that preceded it, though the focus shifts in an important way. Earlier discussions centered on the technical act of *shechita* and on the identity of the *shochet* — specifically, what happens when the slaughterer is a non-Jew. Here, the Gemara turns to a different concern: a Jewish *shochet* performing the act of *shechita* with idolatrous intent. The question is no longer about *ovdei avodah zarah* as the agents of slaughter, but about *avodah zarah* as the operative concern — what conditions cause the meat itself to become forbidden, and when does a slaughter cross the line into becoming a genuine offering to a false god? One must also keep in mind, as was established earlier, that the moment a person transgresses the prohibition of *avodah zarah* and the moment the meat acquires the status of an idolatrous offering do not always coincide.
 
-### Mishnah: Slaughter to Na…
+### Mishnah: Slaughter Places
 
 The Mishnah, found at the bottom of 39b, opens with the following case: *hashochet l'shem harim, l'shem gevaot, l'shem yamim, l'shem neharot, l'shem midbarot* — one who slaughters an animal in the name of mountains, hills, oceans, rivers, or wildernesses, presumably as a form of worship directed toward these forces or features of nature. The Mishnah rules: *shechitato psulah* — the slaughter is invalid. Notably, the Mishnah employs the relatively weak term *psulah* rather than declaring the animal outright forbidden in benefit (*assur b'hana'ah*). The Gemara will find this terminological choice significant and will press on its implications.
 
@@ -56,7 +56,7 @@ From this principle, the Gemara draws further distinctions. Something that is a 
 
 The Gemara then extends the logic: since the mountain cannot become forbidden, the animal offered *to* the mountain likewise does not become forbidden in benefit. This extension is not logically compelled — one might well argue that the animal could constitute an offering to something the worshipper sincerely regards as a god, regardless of the mountain's own status — but this is the ruling the Gemara arrives at. Crucially, this extension does not hold consistently across all categories, which generates the complexity that occupies the *rishonim*.
 
-### Rashi: Objects vs. Non-O…
+### Rashi: Mountains & Beasts
 
 The inconsistency becomes acute when one considers the case of an animal. The Gemara states that bowing down to an animal does not make the animal itself forbidden — animals are living creatures and are excluded from the category of objects that become *assur* through worship. Yet an offering made *to* an animal does become forbidden. This is precisely the opposite of the mountain case, where the object of worship is not forbidden and neither is the offering. How is this asymmetry to be understood?
 
@@ -64,7 +64,7 @@ Rashi proposes a principled distinction. When the Gemara excludes a mountain fro
 
 Animals, Rashi says, are categorically different. An animal is a discrete, ownable, controllable entity. It can be defined as an object of worship — and indeed halacha recognizes it as such — even though there is a separate technical rule that the animal itself does not become forbidden through worship. Because the animal has the halachic standing of an object of worship, something offered to it *does* acquire the status of a forbidden offering, even while the animal itself remains permitted.
 
-### Tosafot: Execution Probl…
+### Tosafot: Avodah Zarah
 
 *Tosafot* presses a powerful objection. If the mountain is not halachically recognized as an object of worship, how can one be *chayav misa* for worshipping it? Surely the act of bowing to a mountain, directing slaughter toward it as a form of veneration, constitutes *avodah zarah* for which one is executed. One cannot simultaneously say the mountain has no halachic status as an object of worship and that treating it as such warrants capital punishment. This tension is what the long *tosafot* on this *daf* grapples with, and it is not incidentally that *tosafot* concludes with the words *v'ein le'ha'arich kan yoter* — there is no point in elaborating further here — after filling nearly half the folio, a frank acknowledgment that even this extensive discussion merely touches the surface.
 

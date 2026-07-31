@@ -2,7 +2,7 @@
 
 ## Timing of Chametz Removal
 
-### Previous Discussion Cont…
+### Previous Day's Discussion
 
 The discussion on this daf flows directly from the previous day's analysis of *hashbata* and *biur*. The central question concerns the precise timing of *biyur chametz*: when exactly must one eliminate *chametz* before *Pesach*?
 
@@ -56,7 +56,7 @@ But then the same logic could be applied to *Pesach*: the verse *shivat yamim ma
 
 The difficulty intensifies when one considers *ubayom harishon mikra kodesh uvayom hashvi'i mikra kodesh yihyeh lachem kol melacha lo ye'aseh bahem*. Here *harishon* and *hashvi'i* stand in precise parallel: the first day is a *mikra kodesh* and the seventh day is a *mikra kodesh*. If the seventh day unambiguously refers to a day of the festival, the parallelism makes it extremely difficult to argue that *harishon* means anything other than the actual first day of *Pesach*. The *pesukim* are so symmetrical that the interpretation strains credulity.
 
-### HaRishon Excludes Chol H…
+### HaRishon Excludes Chol
 
 The *gemara* then pivots to a grammatical observation. The text could have written simply *ach bayom rishon* — but instead it writes *ach bayom harishon*, with the definite article *heh*. The extra *heh* is the critical textual element. The question is: *harishon lama li* — why is the definite article needed? The answer is *shema mina lechde'amran* — it signals that *rishon* here does not mean the first day of the *chag*, but rather something prior to it. Meanwhile, the *harishon* in the *Sukkot* context serves a different purpose: *lemiyutei cholo shel moed* — to exclude *Chol HaMoed*. Only the first and seventh days are days on which *melacha* is forbidden, not the intermediate days of the festival.
 
@@ -122,7 +122,7 @@ The *gemara* resolves this by explaining that *zman shechita amar Rachmana* — 
 
 A *baraita* addresses the same verse — *ach bayom harishon tashbitu se'or mibateichem* — and considers three possible readings: does the commandment apply *me'erev Yom Tov*, from the eve of the festival the night before; does it apply *beyom Yom Tov atzmo*, on the festival day itself; or does it refer to some division of the day?
 
-### Cannot Slaughter with Ch…
+### Cannot Slaughter w/
 
 The *baraita* resolves the question by citing the prohibition of *lo tishchat al chametz*: one cannot slaughter the Pesach offering while *chametz* remains. This demonstrates that *chametz* must be eliminated before the *shechita* of the Pesach, which occurs on the fourteenth from midday — and therefore the commandment to remove *se'or* cannot be referring to the festival day itself.
 
@@ -156,7 +156,7 @@ An implicit assumption in Rabbi Akiva's argument requires clarification. One mig
 
 ---
 
-## Three Lessons from R. Ak…
+## Three Lessons: Rabbi Akiv
 
 ### Biyur = Sreifah
 
@@ -172,7 +172,7 @@ The third lesson: *lo amrinan ho'il v'hutchra havara l'tzorech hutchra nami shel
 
 ---
 
-## Seven Days Chametz Not F…
+## Seven Days Chametz Found
 
 ### Yimatzei vs. Yeira'eh
 
@@ -218,7 +218,7 @@ Conversely, what is derived from the borders verse applies to houses as well. Th
 
 The *gemara* turns to the question of chametz belonging to a non-Jew in one's possession. The *baraita* initially frames the permission to have another's *chametz* as applying to a non-Jew who is *shelo k'vashatuhu ve'eino sharui imcha b'chatzer* — not under one's control and not dwelling in one's courtyard. Such a non-Jew is entirely independent of the Jew's household, and his *chametz* is clearly his own.
 
-### Controlled Non-Jews Prob…
+### Chametz: Non-Jews
 
 But what about a non-Jew who *is* under one's control (*kavush*) or who does live in one's courtyard (*sharui imcha b'chatzer*)? How can a Jew have that individual's *chametz* in the home? One might think that the closer a non-Jew's connection to the Jew's household, the more his property would be considered the Jew's own for purposes of the prohibition. It would seem, on this reasoning, to be a greater *chiddush* to permit *chametz* from a non-Jew who has no connection to the household than to permit it from one who is entirely integrated into it.
 

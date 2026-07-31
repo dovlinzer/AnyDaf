@@ -2,7 +2,7 @@
 
 ## Terumat HaDeshen Debate
 
-### Intro: Tanna Kamma vs R.…
+### Tanna Kamma vs Eliezer
 
 The daf begins with the Gemara's declaration of *nima ketana'ei* — let us see whether this matter is connected to a *tannaitic* dispute. The issue at hand concerns a debate between the *tanna kamma* and Rabbi Eliezer regarding the *terumat hadeshen*, the priestly service of removing ashes from the altar.
 
@@ -150,7 +150,7 @@ The upshot is as follows. Rav has two criteria that apply universally: the servi
 
 ---
 
-## Menorah & Avodah Tes (II)
+## Menorah & Avodah Test
 
 ### Menorah Steps
 

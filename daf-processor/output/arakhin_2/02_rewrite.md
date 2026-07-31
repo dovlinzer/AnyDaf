@@ -202,7 +202,7 @@ The practical consequence for *re'iyah*: in the earlier stage, when we permitted
 
 What is notable here is that the *Gemara* does not give a specific criterion — it does not say "one who can blow" or "one who can understand the sound," as earlier cases specified the operative ability. It simply says *shehigia lechinuch* in a general, abstract way. The *Mishnah* teaches: *ein me'akvin et hakatan mitlkoa beyom tov* — one does not prevent a minor from blowing *shofar* on *Yom Tov*. And *Tosafot* notes that another *Mishnah* speaks of actively blowing for minors on *Yom Tov*, and the *Gemara* in *Rosh Hashanah* reconciles the two by limiting the active practice to minors who have reached the age of *chinuch*. The full resolution of those two *Mishnaiot* is treated in *Rosh Hashanah*, and the discussion here is merely an allusion to that broader debate.
 
-### Individual Mitzvah Standards
+### Mitzvah Chinuch Age
 
 *Rashi* cites a *Gemara* suggesting that the age of *chinuch* is around eight or nine, or nine or ten. *Tosafot* objects sharply: *velo nehira dehatam bechinuch katan lehit'anot ka'amar* — that *Gemara* speaks of *chinuch* in the context of fasting, not of other *mitzvot*. *Aval bishe'ar mitzvot kol echad ve'echad lefi darko* — for other *mitzvot*, each one is measured by its own standard, *kedashkachan le'eil gabei lulav vesukkah utfillin* — as we have seen above with *lulav*, *sukkah*, and *tefillin*, each of which has its own operative criterion. The age of *chinuch* is not one uniform threshold but a *mitzvah*-specific judgment about when the child can perform the act meaningfully and properly.
 

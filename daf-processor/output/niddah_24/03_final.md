@@ -1,4 +1,5 @@
 # Niddah 24 — Daf Yomi Shiur
+[DAF:23b]
 
 ## Animal Appearance
 
@@ -154,6 +155,7 @@ The broader principle emerging here is important: the Gemara is not asserting th
 
 A *braita* addresses miscarriage of a *guf atum* — a body missing certain limbs. Such a miscarriage does not render the mother *temei'ah leidah*, again because the fetus was developing in a manner incompatible with viability. The Gemara then asks: *v'eizehu guf atum?* — what precisely constitutes a *guf atum*? Rabbi Yehudah HaNasi defines it as missing enough that, had the child been alive, it would have died from this deficiency — *kedei sheyinnatel min hachai vayammut*. The question then becomes: how much must be missing?
 
+[DAF:24a]
 ### Leg Amputation Debate
 
 > **Hebrew/Aramaic:** וְכַמָּה יִנָּטֵל מִן הַחַי וְיָמוּת? רַבִּי זַכַּאי אוֹמֵר: עַד הָאַרְכּוּבָּה. רַבִּי יַנַּאי אוֹמֵר: עַד לִנְקָבָיו, רַבִּי יוֹחָנָן אוֹמֵר מִשּׁוּם רַבִּי יוֹסֵי בֶּן יְהוֹשֻׁעַ: עַד מְקוֹם טַבּוּרוֹ.
@@ -332,6 +334,7 @@ Rabbi Yirmiyah bar Abba was inclined to rule like Shmuel in a case that came bef
 
 ## Human Animal Gestation
 
+[DAF:24b]
 ### Human Months
 
 > **Hebrew/Aramaic:** אָמַר רָבָא: הֲרֵי אָמְרוּ, אִשָּׁה יוֹלֶדֶת לְתִשְׁעָה וְיוֹלֶדֶת לְשִׁבְעָה, בְּהֵמָה גַּסָּה יוֹלֶדֶת לְתִשְׁעָה — יוֹלֶדֶת לְשִׁבְעָה אוֹ לֹא יָלְדָה?

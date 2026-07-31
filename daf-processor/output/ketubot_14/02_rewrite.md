@@ -72,7 +72,7 @@ Rabbi Yehoshua and Rabbi Yehuda ben Beseira testify that such an *almanas issa* 
 
 The *gemara*'s initial answer is that the cases are structurally different. In the *mishnah*, the woman is *mezanah* — she engaged willingly in an act of *zenut*. One cannot assume that she investigated the status of her partner before acting. *Hatam isha nises bodeket ve-nises* — there, with a woman who is about to marry, we assume she looks into the man's status before doing so. But *hacha isha mezana bodeket u-mezana* — does a woman stop to verify a man's lineage before a casual liaison? The presumption simply does not apply.
 
-### Definite vs. Doubtful Cl…
+### Definite vs. Doubtful
 
 Rava then raises a further complication. Not only does Rabbi Yehoshua seem to contradict himself — Rabban Gamliel does too. In the *mishnah* in Eduyos, following the testimony of Rabbi Yehoshua and Rabbi Yehuda ben Beseira, Rabban Gamliel says: *kibalnu edutchem* — I accept your testimony — *aval ma na'aseh*, but what can we do? Rabban Yochanan ben Zakkai enacted that a *beit din* should not rule leniently in such cases, because while *kohanim* will heed a stringency (*shom'im lachem le-rachek*), they will not accept a leniency (*aval lo le-karev*). The *gemara* reads this as Rabban Gamliel effectively declining to rule leniently in this case — yet in the *mishnah* he is prepared to credit a woman's claim about her own doubtful status and permit her to marry a *kohen*. How is that consistent?
 
@@ -80,7 +80,7 @@ Rava resolves both contradictions with a single principle: *hatam bari hacha she
 
 Once this is established, the *gemara* revisits Rabbi Yehoshua's apparent contradiction. The initial answer — that we assume a married woman investigates her prospective husband's status while a woman engaged in *zenut* does not — is now supplemented. *Hatam chad sefeika* — in the *mishnah*, there is a single, direct doubt: who did this woman sleep with, and was that man *kasher*? Even if she claims to know, Rabbi Yehoshua says *lo mipi anu chayim* — we do not live by her mouth — and he disregards the claim. A single doubt is weighty, and her statement does not overcome it. *Hacha trei sefeika* — in the *almanas issa* case, however, the doubt is either twofold, or it is a doubt that has attenuated across two generations. That is objectively weaker, and Rabbi Yehoshua, who weighs the strength of the doubt on its merits rather than relying on the woman's claim, will accordingly rule leniently.
 
-### Rabban Gamliel vs. Yehos…
+### Gamliel vs. Yehoshua
 
 The *gemara* now sets out the two positions with clarity and precision.
 

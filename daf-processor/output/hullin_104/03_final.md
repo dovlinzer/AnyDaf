@@ -1,4 +1,5 @@
 # Hullin 104 — Daf Yomi Shiur
+[DAF:104a]
 
 ## Kol Habasar Intro
 
@@ -148,6 +149,7 @@ The *Gemara* responds by questioning the premise: who says one may not make a sa
 
 *Tosafot*'s discussion makes clear that we cannot simply assume the *Gemara* will always prohibit or always permit *gezeirah ligezeirah*. What matters is the nature and the realistic danger of the specific situation.
 
+[DAF:104b]
 ### Table Safeguard Question
 
 > **Hebrew/Aramaic:** נֶאֱכֶלֶת עִם הַזָּר עַל הַשֻּׁלְחָן, וְנִיתֶּנֶת לְכׇל כֹּהֵן שֶׁיִּרְצֶה.

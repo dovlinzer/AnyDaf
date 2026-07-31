@@ -84,7 +84,7 @@ The *gemara* addresses whether the bones of the mini-ribs themselves matter. A r
 
 ## Spinal Cord in Birds
 
-### Rabbi Yannai vs. Reish L…
+### Rabbi Yannai vs Reish Lak
 
 The *gemara* turns to birds: until where along the spine does the *treifa* of the spinal cord apply in a bird? Rabbi Yannai says *l'mata min ha'agapayim* — below the wings, meaning the concern extends throughout the region where the wings are attached, all the way to where the wings end. Reish Lakish says *ad bein ha'agapayim* — until between the wings, meaning only until where the wings begin to be attached; from that point downward, it is no longer a concern. This is a substantial disagreement. Tosafot raises the further question of whether "below the wings" means the bottom of where the wings attach to the body or the bottom of where the wings lie against the body — which would extend the zone considerably lower.
 

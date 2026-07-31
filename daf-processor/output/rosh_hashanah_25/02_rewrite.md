@@ -1,6 +1,6 @@
 # Rosh Hashanah 25 — Daf Yomi Shiur
 
-## False Witnesses & Author…
+## False Witnesses & Moon
 
 ### Morning & Evening
 
@@ -240,7 +240,7 @@ The *Gemara* then invokes the verse from *Kohelet*: *Al tomar mah hayah she-ha-y
 
 The well-known principle is that a later *beit din* cannot reverse an earlier *beit din* unless it is greater in wisdom and number — *ad she-yehiyeh gadol mimenu be-hochmah u-ve-minyan*. What "greater in number" means precisely is not entirely clear, since all *battei din* of the same category are nominally the same size. But the wisdom criterion clearly establishes that a court of diminished scholarly standing cannot overturn its predecessors. Since the trajectory of generations is understood as generally downward, this in practice means that very few rulings can ever be reversed.
 
-### Legislative vs. Interpre…
+### Legislative vs Interp
 
 The *Rambam*, however, draws a distinction that emerges from this very *sugya* and the *midrashim* surrounding it. This limitation on reversal — the requirement to be greater in wisdom and number — applies to the *legislative* capacity of the *beit din*: its power to enact takkanot, issue gezerot, and establish communal practices that were not derived from interpretation of *Torah she-bikhtav*. But the *interpretive* capacity — the authority to determine what the *pesukim* themselves mean in terms of *Torah she-be'al peh* — operates on a different plane. Here, the principle of *ke-Yiftach be-doro ke-Shmuel be-doro* applies in full. The judge of your generation is your authoritative interpreter of *Torah she-bikhtav*, and his interpretation is binding.
 

@@ -32,13 +32,13 @@ Given that reading, the Gemara rules that the son may nonetheless still fill a b
 
 Rav Yitzchak then goes further, stating that the son may even fry a small fish (*litzlos lo dag katan*) for his father. This only sharpens the question of where the line is drawn. The answer, it emerges, is that no formal line can be drawn by recourse to the words of the vow alone; one must instead ask what the parties could reasonably be presumed to have intended given the context of their relationship and the stated purpose of the vow.
 
-### Context & Implied Exclusions
+### Context & Exclusion
 
 The preceding cases crystallize a methodological tension. For most of the tractate, the rules governing *hana'ah* prohibitions have been applied formally and categorically. But the Gemara here introduces the principle that context can effectively remove certain actions from the scope of a prohibition, even when the literal language would include them. The operative question becomes: what would the person who took the vow actually have intended to include?
 
 The Ran articulates the governing distinction with precision: no use of context can permit the actual transfer of an object of value from one party to another. If the son cannot give his fish to his father, he cannot. The contextual reasoning operates only at the level of *services* — acts of assistance or labor that, given the nature of the relationship and the purpose of the vow, can be presumed to have been implicitly excluded. Where the vow was taken in the spirit of advancing Torah study rather than imposing a relational rupture, certain elemental services between father and son fall outside its scope.
 
-### Cup of Peace & Consolation
+### Cup of Peace: Exceptions
 
 Rabbi Yirmiya citing Rabbi Yochanan teaches: one who is forbidden to benefit from another (*hamudar hana'ah mechaveiro*) may nonetheless fill a cup of greeting for him — a *kos shel shalom*. This ruling is not limited to the father-son relationship but applies generically.
 
@@ -98,7 +98,7 @@ Rava, citing Shmuel, adds that this reading is actually compelled by the languag
 
 ---
 
-## Biblical Sources & Theol…
+## Biblical Sources & Values
 
 ### Korach & Visitation
 

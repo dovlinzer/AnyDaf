@@ -1,4 +1,5 @@
 # Shabbat 12 — Daf Yomi Shiur
+[DAF:12a]
 
 ## Carrying & Karmelis
 
@@ -352,6 +353,7 @@ However, *chad hu d'lo yikra* — it is an individual who may not read, *ha trei
 
 This raises a contemporary question: does any of this apply to electric light? Nowadays, there is generally no concern about adjusting an electric bulb. However, a dimmer switch introduces a related issue: if the light is set low and one is tempted to raise it to read more comfortably, the analogy to *hataya* may be relevant.
 
+[DAF:12b]
 ### Wealthy Exception
 
 > **Hebrew/Aramaic:** אָמַר רָבָא: אִם אָדָם חָשׁוּב הוּא — מוּתָּר.

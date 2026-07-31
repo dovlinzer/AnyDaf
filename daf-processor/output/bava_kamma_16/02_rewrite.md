@@ -74,7 +74,7 @@ Tosafot takes a more restrictive view, attempting to confine the lion's characte
 
 ---
 
-## Animal Identity & Lo (II)
+## Animal Identity & Lore
 
 ### Domestication Doctrine
 
@@ -112,7 +112,7 @@ Ravina ultimately proposes a thoroughgoing rewrite of the *mishnah*: *chasurei m
 
 This is acknowledged to be a forced reading of the *mishnah*. The phrase *shor ha-mazik bi-reshut ha-nizak* does not naturally read as introducing a debate rather than as a declaration of *muad* status, and the suggestion that the *mishnah* is "missing words" (*chasurei mechasra*) is always a difficult move. Nevertheless, this is the resolution with which the *gemara* is most satisfied.
 
-### Baraita Support (Questio…
+### Baraita Support & Auth.
 
 A *baraita* is then cited that appears to support Ravina's reading exactly, restating word for word: *chamisha tamim hem ve-im hu'adu chamisha muadin; ve-shein ve-regel muadin mi-techilatan; ve-zehu shor ha-muad; ve-shor ha-mazik bi-reshut ha-nizak — machloket Rabbi Tarfon ve-Rabbanan; ve-yesh muadin acherim ka-yotzei ba-elu: ha-ze'ev ve-ha-ari ve-ha-dov ve-ha-namer ve-ha-bordelis ve-ha-nachash*. The *baraita* thus seems to confirm that *shor ha-mazik bi-reshut ha-nizak* is a debate and not a declaration, and that the dangerous animals form a separate additional category.
 

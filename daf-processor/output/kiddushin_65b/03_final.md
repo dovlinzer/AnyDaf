@@ -1,4 +1,5 @@
 # Kiddushin 65b — Daf Yomi Shiur
+[DAF:65a]
 
 ## Witnesses & Kiddushin
 
@@ -112,6 +113,7 @@ Abaye now introduces a series of cases in which a single witness is believed whe
 
 Abaye continues: one witness says to a person, *nitme'u taharotecha* — your grain has become *tamei*. The person is silent. The witness is believed, and the grain may not be eaten in a state of *tahara*. Again, a parallel *baraita* is cited: if one witness says the grain became *tamei* and the owner contradicts him, the grain is *tahor*. The reason is because he said otherwise; had he been silent, the single witness would have been believed.
 
+[DAF:65b]
 ### Ox Bestiality Case
 
 > **Hebrew/Aramaic:** וְאָמַר אַבָּיֵי: אָמַר לוֹ עֵד אֶחָד

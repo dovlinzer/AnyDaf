@@ -1,6 +1,6 @@
 # Menachot 8 — Daf Yomi Shiur
 
-## Kometz & Vessel Hold (II)
+## Kometz & Vessel Holding
 
 ### Rava: Ground Vessel OK
 

@@ -22,7 +22,7 @@ Rashi makes an important observation two lines before the relevant passage. He n
 
 ## Bowing & Rising
 
-### Bow at Baruch, Rise at S…
+### Bowing in Amidah
 
 Rabbah bar Chinena Sava teaches another ruling in the name of Rav, this one concerning bodily posture during the *Amidah*: when one bows, one should bow at the word *Baruch*; when one rises, one should rise at *Shem Hashem*. The choreography is precise — bending the knees at *Baruch*, remaining bowed through *Atah*, and straightening as God's name is pronounced.
 
@@ -30,7 +30,7 @@ Rabbah bar Chinena Sava teaches another ruling in the name of Rav, this one conc
 
 Samuel offers the rationale: as it is written, *Hashem zokef kefufim* — God straightens those who are bent. It is therefore the utterance of God's name that causes the worshiper to rise from the bowed position. The name of God is what elevates us.
 
-### Challenge: Name & Humili…
+### Challenge: Humility
 
 The Gemara raises a challenge from the verse *mipnei shemi nichat* — "because of My name he is humbled." This verse appears to indicate the opposite: that God's name produces a sense of lowliness and humility, not elevation.
 
@@ -88,7 +88,7 @@ The force of this teaching deserves reflection. People typically engage in *tefi
 
 Rava adds a further requirement: if the person who needs your prayers is a *talmid chacham*, it is not sufficient merely to pray — one must make oneself ill on his behalf. The Gemara asks what the source for this is. The verse cited is Saul's complaint that no one was *choleh* for him — nobody was sick with worry on his account, no one was revealing things to him. The Gemara reads this literally: making yourself sick over the person is the standard required. But perhaps that obligation applies only for a king? The Gemara deflects to a different verse: David's statement, *va'ani bechalotam levushi* — in their illness I wore sackcloth. David afflicted himself when others fell ill, and that becomes the model for how intensely one must pray for a *talmid chacham*.
 
-### Shame Leads to Forgivene…
+### Shame & Forgiveness
 
 The teaching shifts now from prayer to moral psychology, though the common thread is the interior life of religious obligation. Rabbah bar Chinena Sava teaches in the name of Rav: anyone who commits a sin and is ashamed by it has all his sins forgiven. This connects to an earlier theme — that internalizing a message through genuine feeling is more transformative than external punishment. When a person feels shame, when they are genuinely embarrassed by what they have done, that experience can catalyze a profound inner transformation. The forgiveness of *kol avonotav* is not merely a consequence of suffering; it reflects the hope that shame will produce real change.
 

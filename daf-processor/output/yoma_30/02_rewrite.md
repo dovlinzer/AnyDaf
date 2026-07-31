@@ -26,7 +26,7 @@ The Mishnah adds: *pirsu sadin shel butz beino l'vein ha'am* — a linen curtain
 
 *Sha'alu et Ben Zoma tevilah zo lamah* — they asked Ben Zoma: what is the purpose of this *tevilah*? The question here is not specifically about the *kohen gadol's* Yom Kippur immersions, but rather about the general requirement that any person immerse before entering the *azarah*. Ben Zoma's answer works in an interesting direction: rather than deriving a rule for Yom Kippur from general Temple law, he uses what the *Torah* describes of the *kohen gadol's* Yom Kippur service to teach a rule applicable throughout the year. This reversal is worth noting.
 
-### Biblical Immersion Requi…
+### Biblical Source: Heichal
 
 The *Torah* in *Acharei Mot*, describing what Aharon does on Yom Kippur, repeatedly uses the phrase *vrachatz bamayim et besaro v'lavasham* — he immerses and then dons the garments. The underlying structure is as follows: the *kohen gadol* on Yom Kippur performs two categories of service. When performing the unique inner service in the *heichal* — the covered structure housing the *Shulchan* and *Menorah* — he wears the four simple white linen garments. When he performs the outer service, shared with the rest of the year, he wears the eight gold garments. Every time he transitions between these two categories — both in terms of physical space and in terms of the type of *avodah* — he removes one set of garments, immerses, and dons the other. This immersion between services within the *azarah* is the source from which Ben Zoma derives his argument.
 

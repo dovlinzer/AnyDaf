@@ -110,7 +110,7 @@ The conclusion is stark: *hilkach lo efshar* — it is simply impossible to begi
 
 ---
 
-## QVH: Execute on Shab (II)
+## QVH: Execute on Shabbat
 
 ### Met Mitzvah QVH
 

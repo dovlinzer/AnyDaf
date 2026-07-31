@@ -1,4 +1,5 @@
 # Bava Batra 21 — Daf Yomi Shiur
+[DAF:21a]
 
 ## Store in Courtyard
 
@@ -188,6 +189,7 @@ Rav Dimi of Nehardea again disagrees: *masvinan de-dayek ve-lo garis* — prefer
 
 It is worth clarifying precisely what the contrast between *garis* and *dayek* means here. *Rashi* uses the language *she-lomeid harbe* — who learns much — rather than *she-melameid harbe*, suggesting *garis* refers to the teacher's own breadth of knowledge rather than the pace of classroom instruction. One participant offered the more illuminating reading: both teachers are competent, but one moves through a great deal of material at pace without carefully monitoring student comprehension, while the other moves more slowly, covering less ground but ensuring what is taught is thoroughly grasped. This reading sharpens the practical tension considerably: one teacher is filling students with volume; the other is ensuring that what they receive is accurate and retained. The point of principle cuts in favor of the latter: it is better to teach less and teach it correctly than to teach more and embed errors.
 
+[DAF:21b]
 ### Joab Story
 
 > **Hebrew/Aramaic:** דִּכְתִיב: ״כִּי שֵׁשֶׁת חֳדָשִׁים יָשַׁב שָׁם יוֹאָב וְכׇל יִשְׂרָאֵל, עַד הִכְרִית כׇּל זָכָר בֶּאֱדוֹם״. כִּי אֲתָא לְקַמֵּיהּ דְּדָוִד, אֲמַר לֵיהּ: מַאי טַעְמָא עֲבַדְתְּ הָכִי? אֲמַר לֵיהּ, דִּכְתִיב: ״תִּמְחֶה אֶת זְכַר עֲמָלֵק״. אֲמַר לֵיהּ: וְהָא אֲנַן ״זֵכֶר״ קָרֵינַן! אֲמַר לֵיהּ: אֲנָא ״זְכַר״ אַקְרְיוּן. אֲזַל שַׁיְילֵיהּ לְרַבֵּיהּ, אֲמַר לֵיהּ: הֵיאַךְ אַקְרִיתַן? אֲמַר לֵיהּ: ״זֵכֶר״.

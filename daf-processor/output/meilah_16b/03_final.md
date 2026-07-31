@@ -1,4 +1,5 @@
 # Meilah 16b — Daf Yomi Shiur
+[DAF:16a]
 
 ## Me'ilah Principles
 
@@ -20,6 +21,7 @@ We turn now to the second part of the Mishna: the *tumah* of *sheratzim* combine
 
 ## Sheratzim Eating Shiur
 
+[DAF:16b]
 ### Rav: Kezayit Shiur
 
 > **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה, אָמַר רַב: אֲכִילַת שְׁרָצִים – לוֹקֶה עָלָיו בִּכְזַיִת. מַאי טַעְמָא? ׳אֲכִילָה׳ כְּתִיב בְּהוּ.

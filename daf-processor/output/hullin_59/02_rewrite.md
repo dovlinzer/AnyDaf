@@ -96,7 +96,7 @@ The Gemara now introduces a narrative: *hahu bar tavia d'ata l'vei Reish Galusa*
 
 Rav examined the *tzomas ha-gidin* and found it intact — the sinews had not been severed at that critical juncture, and the injury appeared to be below that point. He therefore declared the animal *keshera*, ruling it fit. *savar l'meichal minei b'umtza* — he then proposed to eat from the meat immediately, either raw or very lightly prepared. This in itself is telling: eating from an animal one has just *pasken*ed on demonstrates genuine confidence in the ruling.
 
-### Shmuel's Snake Bite Warn…
+### Shmuel: Snake Bite & Meat
 
 At this point Shmuel intervened: *lo chaish mar l'neshichusa* — is my master not concerned about snakebite? His point was that the cut in the leg might not have resulted from a physical blow or amputation but from the bite of a snake, in which case venom could have been injected into the flesh. This is not a *treifah* concern — the organs were not perforated, and the *drusa* category (clawing by a predatory animal) does not apply to biting — but it does implicate the prohibition of *sakanat nefashot*. Rav asked: *mai takansa* — what should be done? Shmuel replied: *naspeiya b'sanura* — put it in an oven. Cook it thoroughly. *d'ihu badik nafshiya* — it will test itself; the result of the baking will reveal whether poison is present.
 

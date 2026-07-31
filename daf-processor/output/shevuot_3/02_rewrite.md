@@ -1,6 +1,6 @@
 # Shevuot 3 — Daf Yomi Shiur
 
-## Opening & Mishnah Struct…
+## Opening & Mishnah
 
 ### Intro & Mishnah Summary
 
@@ -18,7 +18,7 @@ In the *Torah*, *Yom Kippur* is centrally concerned with a kind of metaphysical 
 
 This raises a genuine structural question: why do the first two chapters of a tractate named for oaths devote themselves almost entirely to the laws of *tumat mikdash*? At least part of the answer may lie in the final line of this *mishnah*. Having concluded *Sanhedrin* and *Makkot*, which deal exhaustively with the penalties for transgression — death sentences, lashes, exile — one might feel the overwhelming weight of all that sin and its consequences. Our *mishnah* offers an answering perspective: no matter how grave the transgression, even one for which the court would impose a death sentence, this single ritual on *Yom Kippur* — the dispatching of the goat — achieves atonement.
 
-### Context: Sanhedrin & Mak…
+### Sanhedrin & Makkot
 
 The end of *Makkot* offered one reframing of the weight of all those transgressions: it is all *le-zazkot et Yisrael*, to ease the burden on the Jewish people — simply refrain from transgression and receive an enormous reward, so the entire weight of the forbidden is reimagined as an invitation to merit. Our *mishnah* provides a complementary answer: however heavily one has sinned, the mechanisms of *Yom Kippur* atonement remain available. So there is a conceptual bridge between the close of *Makkot* and the opening of Shevuot.
 
@@ -68,7 +68,7 @@ This reflects a broader pattern in the editorial work of *Rebbi* in compiling th
 
 ---
 
-## Opening Structure Explai…
+## Mishnah Opening: Shevuot
 
 ### Short Material First
 
@@ -148,7 +148,7 @@ The reasoning unfolds as follows. *Ee Rabbi Yishmael — ha-omer eino chayav ela
 
 The problem is thus clearly defined. *Rabbi Yishmael* holds of the full two-which-is-four for *tumat mikdash* but only two for oaths. *Rabbi Akiva* holds of the full two-which-is-four for oaths but only two for *tumat mikdash*. Neither sage holds of the complete two-which-is-four for *both* categories simultaneously. Yet our *mishnah* presents the full list across both categories as if they are parallel and complete. So who authored our *mishnah*?
 
-### Partial Application Answ…
+### Partial Application
 
 The *gemara* first attempts to resolve this by suggesting that the two-which-is-four in our *mishnah* need not mean uniform liability in all four cases. Perhaps the *mishnah* is merely cataloguing four conceptually distinct types, some of which generate liability and some of which do not — *mehem le-chiyuv u-mehem le-patur*. On this reading, *Rabbi Yishmael* could be the author: he acknowledges four types of oaths even though only two generate a *korban*, and he holds of all four *tumat mikdash* cases with full liability. Similarly, *Rabbi Akiva* could be the author: he holds of all four oath cases with full liability, and he acknowledges four types of *tumat mikdash* even though only two generate a *korban*. The *gemara*, however, rejects this approach. The rest of the *mishnah* makes it evident that two-which-is-four means uniform *halacha* applies to all four. The *tzara'at* cases and the *Shabbat* cases are all equally *metamei* or equally prohibited — the structure of the *mishnah* signals legal equivalence, not merely formal categorization. So the partial-application reading is forced and is set aside.
 
@@ -196,13 +196,13 @@ The third case: I swear that I will eat a loaf of bread tomorrow, and then I eat
 
 The fourth case: I swear that I will eat a loaf of bread, and then I do nothing — I simply fail to eat it. This is the case that generates the difficulty. The day passes, the bread sits uneaten, and I have violated my oath — but purely through inaction.
 
-### Passive Transgression Pr…
+### Passive Transgression
 
 The problem is severe: how does one receive lashes for a purely passive transgression? The moment of utterance was not false — at that moment I fully intended to eat the bread — so one cannot assimilate it to the past-oriented cases via *Rava*'s comparison. And since the violation consists entirely of *not* performing an act, there is no positive deed that could anchor the lashes. This is the classic *lav she-ein bo ma'aseh* — a negative prohibition without a concrete act — and it raises the question of whether such a transgression can ever generate *malkot*.
 
 ---
 
-## Yochanan & Passive A (II)
+## Yochanan & Passive Acts
 
 ### Yochanan Follows Stam
 
@@ -262,7 +262,7 @@ The *mishnah* then concludes: *zo hi shvuat bituy she-chayavin al zidonah malkot
 
 ---
 
-## Rabbi's Compilation Expl…
+## Rabbi's Compilation Rule
 
 ### Rabbi's Contradiction
 

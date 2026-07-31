@@ -16,7 +16,7 @@ The *Mishnah* records three opinions. Rabbi Meir says the instrument players wer
 
 Rav Papa suggests these opinions map onto the halakhic dispute: the one who says they were slaves (*avdim*) presumably holds that *ikar shirah b'peh* — since if instrumental music were the primary *avodah*, one could hardly permit slaves to perform it, and so the music was secondary enough to allow for that. The one who says they were *Levi'im* holds *ikar shirah b'kli* — instrumental music is itself the core Levitical service and therefore could only be performed by *Levi'im*.
 
-### Consensus on Vocal Prima…
+### Ikar Shira: Vocal
 
 The *Gemara* challenges this neat alignment. It asks what Rabbi Yose's position — that they were distinguished families of *Yisraelim* — actually implies about *ikar shirah*. If he holds *ikar shirah b'peh*, then he should have no reason to object to slaves performing the music; if he holds *ikar shirah b'kli*, then he should require *Levi'im*, not merely distinguished *Yisraelim*. Neither option explains his middle position. The *Gemara* concludes that the three opinions cannot be a debate about halakhic principle at all: *tisbra* — does that really make sense?
 
@@ -36,7 +36,7 @@ This is a useful reminder that knowing facts matters even when the underlying *h
 
 ---
 
-## Shir Sho'eva vs. Shir Ko…
+## Shir Shoeva vs. Korban
 
 ### Yirmiya's Distinction
 

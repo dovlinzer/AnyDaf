@@ -1,4 +1,5 @@
 # Gittin 47 — Daf Yomi Shiur
+[DAF:46b]
 
 ## Self-Sale to Non-Jews
 
@@ -84,6 +85,7 @@ People who had sold themselves to the *Luda'ei* came before Rabbi Ami and said: 
 
 From this he argues *kol shekein*: all the more so in the present case, where there is *katla* — the threat of actual killing. Whether we are speaking of gladiatorial combat, human sacrifice, or cannibalism, these people's lives are in immediate danger. The obligation to redeem is overwhelming.
 
+[DAF:47a]
 ### Mumarim Objection
 
 > **Hebrew/Aramaic:** אֲמַרוּ לֵיהּ רַבָּנַן לְרַבִּי אַמֵּי: הַאי יִשְׂרָאֵל מוּמָר הוּא, דְּקָא חָזוּ לֵיהּ דְּקָאָכֵיל נְבֵילוֹת וּטְרֵיפוֹת!
@@ -338,6 +340,7 @@ Rabbi Yochanan says: *meivi u'korei* — he brings *bikkurim* and recites the de
 
 Reish Lakish disagrees: *meivi v'eino korei* — he brings *bikkurim* but does not recite the declaration. *Kinyan peirot lav k'kinyan haguf dami* — usufruct ownership is not legally equivalent to full ownership. The buyer has real rights to the produce, sufficient to create a *bikkurim* obligation — the fruit grew in *Eretz Yisrael* under Jewish ownership of some kind — but he cannot say *al ha'adamah asher natata li*, because he does not hold title to the land itself.
 
+[DAF:47b]
 ### Wife's Produce
 
 > **Hebrew/Aramaic:** אֵיתִיבֵיהּ רַבִּי יוֹחָנָן לְרֵישׁ לָקִישׁ: ״וּלְבֵיתְךָ״ – מְלַמֵּד, שֶׁאָדָם מֵבִיא בִּיכּוּרֵי אִשְׁתּוֹ, וְקוֹרֵא.

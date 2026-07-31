@@ -1,6 +1,6 @@
 # Temurah 31 — Daf Yomi Shiur
 
-## Offspring Forbidden Stat…
+## Forbidden Animals
 
 ### Mishnah & Baraita
 

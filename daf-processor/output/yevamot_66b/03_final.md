@@ -1,4 +1,5 @@
 # Yevamot 66b — Daf Yomi Shiur
+[DAF:66a]
 
 ## Slaves & Chalalah
 
@@ -96,6 +97,7 @@ The *gemara* now takes up a distinct but related question about *nichsei tzon ba
 
 The wife says: *keli ani notelet* — I take my vessels. The husband says: *damim ani noten* — I owe you money, not objects. The dispute is whether title fundamentally transferred to the husband upon the bringing in of the dowry, leaving her only a creditor's claim, or whether she retained some form of ownership such that she may demand the objects back.
 
+[DAF:66b]
 ### Rav Yehuda Position
 
 > **Hebrew/Aramaic:** רַב יְהוּדָה אָמַר הַדִּין עִמָּהּ — מִשּׁוּם שֶׁבַח בֵּית אָבִיהָ דִּידַהּ הָוֵי.

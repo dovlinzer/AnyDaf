@@ -1,4 +1,5 @@
 # Bava Metzia 36 — Daf Yomi Shiur
+[DAF:35b]
 
 ## Renter & Borrower
 
@@ -164,6 +165,7 @@ The *gemara* notes that Rav's position was not stated explicitly but inferred fr
 
 Observers assumed this meant Rav ruled that *shomer she'masar l'shomer* is *patur*. But the *gemara* corrects this: *shani hatam* — that case was different. Every day the gardeners themselves deposited their tools with that woman. The claim *ein retzoni she'yehei pikdoni beyad acher* — I don't want my object in another's hands — simply could not be made here, because they had implicitly consented to this very arrangement through their daily practice. Even Rabbi Yochanan would agree the gardener is exempt in that case. The case therefore cannot serve as proof of Rav's general position regarding *shomer she'masar l'shomer*.
 
+[DAF:36b]
 ### Money & Children
 
 > **Hebrew/Aramaic:** מֵתִיב רָמֵי בַּר חָמָא: הַמַּפְקִיד מָעוֹת אֵצֶל חֲבֵירוֹ צְרָרָן וְהִפְשִׁילָן לַאֲחוֹרָיו, מְסָרָן לִבְנוֹ וּבִתּוֹ הַקְּטַנִּים, וְנָעַל בִּפְנֵיהֶם שֶׁלֹּא כָּרָאוּי – חַיָּיב, שֶׁלֹּא שָׁמַר כְּדֶרֶךְ הַשּׁוֹמְרִים. טַעְמָא דִּקְטַנִּים, הָא גְּדוֹלִים – פָּטוּר. אַמַּאי? נֵימָא לֵיהּ: אֵין רְצוֹנִי שֶׁיְּהֵא פִּקְדוֹנִי בְּיַד אַחֵר!

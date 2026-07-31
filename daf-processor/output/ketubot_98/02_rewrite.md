@@ -124,7 +124,7 @@ The *mishnah* then extends the analysis to a case involving sequential sales: *h
 
 ---
 
-## Undersell/Oversell Analy…
+## Undersell vs Oversell
 
 ### At Hifsadet Principle
 

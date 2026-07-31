@@ -1,4 +1,5 @@
 # Pesachim 97 — Daf Yomi Shiur
+[DAF:96b]
 
 ## Pesach vs. Proceeds
 
@@ -114,6 +115,7 @@ In this version, the reasoning is equally precise. If the *temurah* was performe
 
 ## Pesach Hu Pasuk
 
+[DAF:97a]
 ### Pesach Hu Teaching
 
 > **Hebrew/Aramaic:** יָכוֹל אַף לִפְנֵי הַפֶּסַח כֵּן? תַּלְמוּד לוֹמַר: ״הוּא״ — הוּא קָרֵב, וְאֵין תְּמוּרַת הַפֶּסַח קְרֵיבָה. הֵיכִי דָמֵי? אִילֵּימָא שֶׁנִּמְצָא קוֹדֶם שְׁחִיטָה וְהֵמִיר בּוֹ קוֹדֶם שְׁחִיטָה — פְּשִׁיטָא! לְמָה לִי קְרָא? אֶלָּא לָאו, שֶׁנִּמְצָא קוֹדֶם שְׁחִיטָה וְהֵמִיר בּוֹ אַחַר שְׁחִיטָה! תְּיוּבְתָּא דְרָבָא, תְּיוּבְתָּא.
@@ -234,6 +236,7 @@ The correspondence appears perfect. If the original *pesach* was found before *s
 
 This perfect correspondence is, in fact, the problem. If Shmuel's principle, applied carefully, yields exactly the same ruling as Rabbi Yochanan's straightforward before-and-after-*shechita* rule, then Shmuel is saying nothing new. He has simply restated the same position in a far more elaborate and obscure way. And yet the *Gemara* presents them as disagreeing. This cannot be right.
 
+[DAF:97b]
 ### Chatzot Alternative
 
 > **Hebrew/Aramaic:** אֶלָּא, רוֹעָה לְרַבִּי הֵיכִי מַשְׁכַּחַתְּ לַהּ? כִּדְרַבִּי אוֹשַׁעְיָא. דְּאָמַר רַבִּי אוֹשַׁעְיָא: הִפְרִישׁ שְׁתֵּי חַטָּאוֹת לְאַחְרָיוּת — מִתְכַּפֵּר בְּאַחַת מֵהֶן, וּשְׁנִיָּה תִּרְעֶה. וְהָא אִילּוּ בְּפֶסַח כִּי הַאי גַוְונָא קָרֵב שְׁלָמִים! אֶלָּא שְׁמוּאֵל כְּרַבִּי שִׁמְעוֹן סְבִירָא לֵיהּ, דְּאָמַר: חָמֵשׁ חַטָּאוֹת מֵתוֹת. וְהָא רוֹעָה לְרַבִּי שִׁמְעוֹן לֵית לֵיהּ כְּלָל! שְׁמוּאֵל נָמֵי חֲדָא קָאָמַר: כֹּל שֶׁבַּחַטָּאת מֵתָה — בְּפֶסַח קָרֵב שְׁלָמִים. וּמַאי קָא מַשְׁמַע לַן? לְאַפּוֹקֵי מִדְּרַבִּי יוֹחָנָן, דְּאָמַר: אֵין הַפֶּסַח קָרֵב שְׁלָמִים אֶלָּא שֶׁנִּמְצָא אַחַר שְׁחִיטָה, אֲבָל קוֹדֶם שְׁחִיטָה — לָא. אַלְמָא: שְׁחִיטָה קָבַע. קָא מַשְׁמַע לַן: חֲצוֹת קָבַע.

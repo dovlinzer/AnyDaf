@@ -6,7 +6,7 @@
 
 The daf begins on 46b, approximately twenty lines from the bottom, with a *baraita*: *tanu rabanan*, *harav letalmid* — even a rabbi who is hosting a student bears an obligation to accompany that student out of the city upon his departure. This is the *mitzvah* of *levayah*, rooted in the declaration of the *sanhedrin* in the *eglah arufah* ceremony: "our hands did not spill this blood" — meaning, we were not negligent in accompanying him out of the city. The *gemara* has been discussing this in the context of what declarations must be made in Hebrew, and now turns to the practical parameters of *levayah*.
 
-### Distances: Ibburah, Tech…
+### Distances: Ibburah
 
 How far must one accompany? The *baraita* specifies: *harav letalmid*, a rabbi accompanying a student, must go *ad ibburah shel ir* — until the outer houses of the city, the so-called "pregnancy" of the city, which corresponds to the measurement used for *techum shabbos*. *Chaver lechaver*, between equals, the obligation extends *ad techum shabbos* — two thousand *amot* beyond the city's edge, approximately one kilometer.
 
@@ -124,7 +124,7 @@ A *baraita* teaches: *shlosha cholaim chala Elisha* — Elisha suffered three se
 
 How does the *gemara* derive that there were three separate illnesses? From the verse: *ve'Elisha chala et chalyo asher yamut bo*. The *gemara* reads *chala*, *chalyo*, and *asher yamut bo* as three distinct expressions of illness — three episodes, three occasions of serious sickness.
 
-### Smol Docha Yamin Mekarev…
+### Smol Docha Yamin Mekarev
 
 From Elisha's error with Geichazi, the *gemara* derives a broader principle. *Le'olam tehei smol dochah ve'yamin mekarevet* — always let the left hand push away and the right hand draw close. When a person must rebuke and distance someone, the pulling close must ultimately be stronger than the pushing away. The *gemara* states explicitly: *lo ke'Elisha shedachafoto l'Geichazi bishtei yadav* — not like Elisha, who pushed Geichazi away with both hands. And the printed text says *velo ki-Yehoshua ben Perachiah shedachafoto le'echad mitalmidav bishtei yadav* — and not like Yehoshua ben Perachiah, who pushed away one of his students with both hands. The original text, which was censored to protect the Talmud from church persecution, names that student as Yeshu HaNotzri. The historical difficulty — Yehoshua ben Perachiah lived roughly a century before the common era, perhaps seventy years before Jesus — does not necessarily mean the *gemara* did not identify them; it may simply mean the *gemara*'s historical chronology does not align with ours.
 
@@ -230,7 +230,7 @@ The *mishnah* then presents a series of cases involving competing testimony. One
 
 *Mishe-rabu ha-rotzchanim batla eglah arufah* — when murders became rampant in Israel, the *eglah arufah* ritual was discontinued. The ritual presupposes a society where murder is an aberration that shocks the community into communal soul-searching. When murder had become routine — particularly associated with the period of the *sicarri* and the final decades of the Second Temple — the ritual could no longer carry its intended meaning. The *mishnah* mentions that this shift is associated with the rise of *Elazar ben Dinai*, who was originally known as *Tchina ben Perisha* and was later renamed *ben ha-ratzchan* — "son of the murderer."
 
-## Batlu HaMitzvot
+## Batlu Hamitzvot
 
 ### Mishe-Rabu Menafim
 
@@ -270,7 +270,7 @@ Ulla therefore emends the *mishnah*: *teni lo hayu orfin* — read the *mishnah*
 
 Rabbi Chiya, however, maintains the standard reading of the *mishnah* — *hayu orfin*, one against one they do neutralize and the neck is broken. How does he resolve Ulla's principle?
 
-### Bat Achat v. Zeh Achar Z…
+### Simultaneous vs Serial
 
 The resolution: *lo kashya, kan be-vat achat, kan be-zeh achar zeh* — there is no contradiction. It depends on timing. When both witnesses testify simultaneously — or at least before the first has been formally accepted — they neutralize each other, and the *mishnah*'s ruling of *hayu orfin* applies. When the first witness testified and was already accepted and treated as credible, only then does Ulla's principle apply: the second witness cannot retroactively neutralize the first. Rashi understands simultaneity as *toch kidei dibbur*; Tosafot understand it more broadly as any testimony that occurred before the *beit din* had formally acted on the first witness's account.
 

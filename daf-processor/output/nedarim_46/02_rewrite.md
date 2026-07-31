@@ -52,7 +52,7 @@ The *Mishneh Lamelech* notes a further question raised by *Rabbi Eliyahu ben Cha
 
 ---
 
-## Bidirectional vs Unidire…
+## Bidirectional Neder vs 1s
 
 ### Bidirectional Question
 
@@ -130,13 +130,13 @@ These questions recur throughout *Shas* in contexts involving jointly owned anim
 
 ## Tefisat Yad Analysis
 
-### Rav Nachman: 25% Thresho…
+### Rav Nachman: Tefisat Yad
 
 The *gemara* now returns to the *tefisat yad* case from the *mishnah* and asks: *vekamah tefisat yad* — how large must the owner's percentage stake be in order to constitute *tefisat yad* and thereby render use of the bathhouse or press *assur* to the *mudar*?
 
 *Amar Rav Nachman: lemechtza, leshlish, uleravia* — Rav Nachman rules that *tefisat yad* applies when the lessor retains a profit share of one-half, one-third, or one-quarter of the proceeds. *Aval babatzir lo* — but if the percentage falls below a quarter, it does not constitute *tefisat yad*. On this view, only profit-sharing arrangements at or above the twenty-five percent threshold preserve sufficient residual ownership interest to make the *mudar's* use of the facility a prohibited *hana'ah* for the lessor.
 
-### Abaye: All Percentages C…
+### Abaye: <25% Tefisat Yad
 
 *Abaye* disagrees: *afilu babatzir assur* — even a percentage below one-quarter creates *tefisat yad* and renders use *assur*. Abaye's logic is straightforward: if the arrangement is percentage-based at all, then each additional customer who uses the bathhouse or press directly increases the lessor's income. Even at ten percent, one more person using the *merchatz* means the original owner earns ten percent more from that visit. The lessor thus has a real and direct financial stake in every individual use of the facility, and the *mudar's* patronage therefore constitutes *hana'ah* flowing to the *mudar-mimenu*. Abaye's position appears to be the logically stronger one — if Rav Nachman accepts that a quarter-share creates *tefisat yad*, it is difficult to see why a tenth-share would not, since the mechanism is identical.
 

@@ -50,7 +50,7 @@ Tosafos adds a further refinement in the name of Rabbeinu Tam: the grouping with
 
 ---
 
-## Authorship Discussio (II)
+## Authorship Discussion
 
 ### Moshe & Yehoshua
 

@@ -158,7 +158,7 @@ This now clarifies the force of the word *olamit* in the earlier *braisa* of Rab
 
 ---
 
-## Abandonment Categories
+## Abandonment Types
 
 ### Peace vs. War
 

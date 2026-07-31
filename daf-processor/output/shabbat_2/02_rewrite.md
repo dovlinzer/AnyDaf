@@ -20,7 +20,7 @@ One might expect that a *masechet* devoted to Shabbat would be organized primari
 
 The order of the first several *perakim* follows a broadly chronological rather than strictly thematic logic. We begin with an introduction to *hotza'ah*, which leads into discussions of what one may and may not do *erev Shabbat*, followed by further elaborations on carrying, then candle-lighting, and related matters — only arriving at the 39 *melachot* partway into the seventh *perek*. There is something significant, perhaps even intentional, in this structure: six *perakim* lead up to the seventh, which addresses Shabbat proper and its *melachot* — echoing the six days of creation leading to the seventh.
 
-### Org: Chronological vs Th…
+### Chronological vs Thematic
 
 This contrast between chronological and thematic organization appears elsewhere in the tradition. The *Shulchan Aruch* generally follows a chronological order: *Hilchot Shabbat* begins with *kabbalat Shabbat*, candle-lighting, and the preparations of *erev Shabbat*. The Rambam, by contrast, always organizes thematically. Yet even the Rambam does not open *Hilchot Shabbat* with the 39 *melachot* — he begins with general categories applicable across all *melachot*, focusing particularly on intentionality, and only arrives at the 39 *melachot* at the beginning of his seventh chapter. The parallel is striking: six chapters in the Rambam, just as six *perakim* in the *masechet*, leading to the seventh where Shabbat proper is treated. This appears intentional. Anyone expecting the *masechet* to begin by laying out the *melachot* of Shabbat should be forewarned: we have approximately two months to wait before we get there.
 
@@ -28,7 +28,7 @@ This contrast between chronological and thematic organization appears elsewhere 
 
 ## Reshuyot & Hotza'ah
 
-### Mishnah: Two Which Are F…
+### Two Which Are Four
 
 The first *mishnah* opens: *yetziot haShabbat shtayim she'hein arba bifnim, shtayim she'hein arba bachutz* — the carryings of Shabbat are two which are four on the inside, and two which are four on the outside. This is somewhat cryptic as stated, and its precise meaning will be clarified as the *Gemara* develops. Based on the *Gemara*'s eventual conclusion, the *mishnah* means that there are two biblical and two rabbinic restrictions, both for the person on the inside and for the person on the outside. The *mishnah* then asks *keitzad* — how so? — and introduces its central scenario: *ha'ani omeid bachutz uba'al habayit bifnim*, the homeowner inside his home and the *ani*, the poor person, just outside the door.
 
@@ -96,11 +96,11 @@ These are the *shnayim bifnim* — the two ways the *ba'al habayit*, reaching ou
 
 The *mishnah* now addresses the partnership cases — where the two individuals each perform part of the act — and invokes the principle of *shnayim she'asu*: when two people together perform a *melacha*, neither is individually liable biblically. Each has done only half a *melacha*. These cases are nonetheless rabbinically prohibited. It is here that the two become four.
 
-### Partnership: Ani Initi…
+### Partnership: Ani Initiate
 
 *Pashat ha'ani et yado lifnim venatal ba'al habayit mitochah* — the *ani* extends his hand inside holding an object, and the *ba'al habayit* takes it from him. The *ani* performed the *akirah* (in the *reshut harabim*) and the transfer across the boundary; the *ba'al habayit* performed the *hanachah* by taking it into his hand. Both have participated in the act; neither has performed it fully. This is a rabbinic prohibition for both. Following Rashi's principle that we attribute the act primarily to the one who performed the *akirah*, this case is counted primarily as the *ani*'s rabbinic violation, since he initiated the act.
 
-### Partnership: Ba'al Initi…
+### Partnership: Ba'al & Ani
 
 Conversely, the *ba'al habayit* extends his hand outside, and the *ani* places an object into it — *o shenatan letochah vehi'chnis*. The *ba'al habayit* then brings his hand back inside, completing the transfer and the *hanachah*. Here the *ani* performed the *akirah* (by picking up and placing the object into the *ba'al habayit*'s hand), while the *ba'al habayit* completed the act. Again, both bear rabbinic liability. This case is attributed primarily to the *ba'al habayit* since, although the *ani* performed the *akirah*, the *ba'al habayit* initiated the transfer by reaching out, and it is he who brings it in.
 
@@ -124,7 +124,7 @@ The choice of the *ani* and *ba'al habayit* rather than two anonymous individual
 
 The *Gemara* opens with a comparative question. It notes that the *mishnah* in Shevu'ot also opens with a formula of "two which are four," as do several other *mishnayot*. But the Shabbat *mishnah* says "two which are four on the inside, and two which are four on the outside" — doubling the formula. The *mishnayot* in Shevu'ot and elsewhere simply say "two which are four," without the inside/outside doubling. *Mai shna hacha d'tani shtayim she'hein arba bifnim v'shtayim she'hein arba bachutz? U'mai shna hatam d'tani shtayim she'hein arba v'tu lo?* — Why the difference?
 
-### Parallels in Other Mishn…
+### Parallels: Shevu'ot
 
 To appreciate the *Gemara*'s question, one must survey the *mishnayot* in Shevu'ot that share this structural formula. The opening *mishnah* of Shevu'ot states that there are two types of prohibited *shevu'ot* which are four. The *Torah* explicitly prohibits oaths oriented toward the future: swearing that one will do harm (*le'hara*) — for instance, that one will not eat tomorrow — or swearing to do good (*le'heitiv*) — that one will eat something tomorrow. If one violates such an oath, one has transgressed a biblical prohibition. Those are the two. They become four through the parallel cases of false oaths about the past — swearing that one did not eat yesterday when one did, or that one did eat when one did not. Thus: two oaths about the future and two about the past — all biblical, all generating liability.
 
@@ -136,17 +136,17 @@ Then there are *maro'ot nega'im* — the varieties of leprous spots — which ar
 
 The *Gemara* answers the structural question as follows: *hacha ikar Shabbat hu — tani avos v'tani toldahos*. Here, since this is a *masechet* dedicated entirely to Shabbat, the *mishnah* discusses both the *av* — the primary category — and the *toladah* — the derivative. That is why the formula is doubled: two which are four on the inside and two which are four on the outside, yielding twice as many cases as in Shevu'ot. *Hatam d'lav ikar Shabbat hu — avos tani, toldahos lo tani*. There, in Shevu'ot, Shabbat is not the central subject. Accordingly, only the *avot* are discussed, not the *toldahos*, and so the formula appears only once.
 
-### Av: Hotza'ah, Toledah: H…
+### Av, Toledah: Hotza'ah
 
 The *Gemara* then asks: what is the *av* and what is the *toladah* in the context of *hotza'ah*? The answer: the *av* is *hotza'ah* proper — taking from a *reshut hayachid* to a *reshut harabim*. This is grounded in the *pesukim*: the verse in *Yirmiyahu* — *al totziu massa mibateichem b'yom haShabbat* — and the verse in the context of the *Mishkan* — *al yetzei ish* — which the *Gemara* understands as referring to bringing the contributions from one's home (a *reshut hayachid*) into the camp of the Levites (a *reshut harabim*). The *toladah* is *hachnasah* — bringing from the *reshut harabim* back into the *reshut hayachid*. Thus the *av* is *hotza'ah*, the *toladah* is *hachnasah*, and by treating both, our *mishnah* produces twice as many cases as the Shevu'ot *mishnah*.
 
-### Shevu'ot Puzzle: Two to…
+### Shevu'ot: Av to Four
 
 A difficulty now arises. The *Gemara* proposes that the Shevu'ot *mishnah* deals only with the *av* — only *hotza'ah*, taking out. But *hotza'ah* alone yields only two cases (two ways to take something out — the *ani* doing it entirely, or the *ba'al habayit* doing it entirely). How does the Shevu'ot *mishnah* reach four?
 
 One might suggest that the Shevu'ot *mishnah* expands to four by including the rabbinic partnership cases — the *derabbanans* — while still confining itself to the *av* of *hotza'ah* and setting aside *hachnasah* entirely. But this cannot be right. The *Gemara* points to the presence of *maro'ot nega'im* in the same *mishnah*: *dedumya demaros nega'im katani. Ma hasam kulhu l'chiyuva — af hacha nami kulhu l'chiyuva*. The spots of leprosy, where *sapachat* is itself mentioned in the *Torah*, establish that every item in that *mishnah* — all four of the "two which are four" — are biblical transgressions. Therefore, the four cases in the Shevu'ot *mishnah* must all be biblical, not a mixture of biblical and rabbinic. The presence of *tzara'at* in the *mishnah* is the decisive indicator.
 
-### Rav Papa: Chiyuvim & Ptu…
+### Rav Papa: Chiyuvim Pturim
 
 Rav Papa resolves the difficulty: *hacha d'ikar Shabbat hu — tani chiyuvei u'pturei. Hatam d'lav ikar Shabbat hu — chiyuvei tani, pturei lo tani*. Here, in our *masechet*, where Shabbat is the central subject, the *mishnah* discusses both biblical transgressions (*chiyuvim*) and exemptions (*pturim*) — that is, the partnership cases which are exempt from biblical liability but rabbinically prohibited. There, in Shevu'ot, since Shabbat is not the focus, only biblical transgressions are discussed; the rabbinic cases are omitted.
 
@@ -156,11 +156,11 @@ But this pushes the difficulty back: if in Shevu'ot we are restricted to biblica
 
 ## Hotza'ah Term Analysis
 
-### Shevu'ot: Hotza'ah & Hac…
+### Hotza'ah & Hachnasah
 
 To summarize the position now established regarding the Shevu'ot *mishnah*: its "two which are four" consists of two ways to perform *hotza'ah* (taking from *reshut hayachid* to *reshut harabim*) and two ways to perform *hachnasah* (taking from *reshut harabim* to *reshut hayachid*). The two of *hotza'ah* constitute the *av*, the primary category; the two of *hachnasah* constitute the *toladah*, the derivative. All four are biblical transgressions. The Shevu'ot *mishnah* includes both *av* and *toladah* — but only at the biblical level, with no rabbinic cases.
 
-### Our Mishnah: Ani & Partn…
+### Ani & Partner: Two Ways
 
 Our *mishnah* in Shabbat presents a very different configuration. Its "two which are four" — whether *bifnim* or *bachutz* — does not consist of two ways of *hotza'ah* expanding to four by adding *hachnasah*. Rather, the two are the two ways the *ani* transgresses biblically — once by performing *hotza'ah* entirely on his own, and once by performing *hachnasah* entirely on his own. Those two expand to four by the addition of the two partnership cases in which the *ani* is the primary actor (because he performed the *akirah*). The structure is thus: from two biblical cases to four, where the additional two are rabbinic. An analogous structure applies to the *ba'al habayit* on the inside. This is fundamentally different from Shevu'ot, where all four cases are biblical and the expansion moves from *av* to *toladah* rather than from biblical to rabbinic.
 
@@ -172,7 +172,7 @@ This analysis creates a terminological difficulty: the *mishnah* uses the word *
 
 The etymological basis for this usage is as follows: *kol akiras chefetz mimkomo — tana hotza'ah kari lei* — any removal of an object from its place the *Tanna* calls *hotza'ah*. Even when one is bringing something indoors, there is an element of *hotza'ah* — removal — because the object is being taken out of the place where it was resting. The *akirah*, the picking up, is itself a form of *hotza'ah* — a taking out of position — regardless of the subsequent direction of movement.
 
-### Ravina: Implicit in Mish…
+### Ravina: Implicit Hotza'ah
 
 Ravina adds that this understanding is actually implicit in our own *mishnah*. The *mishnah* introduces the subject as *yetziot* — carryings out — and then immediately illustrates with a case of the *ani* sticking his hand *inside* and placing something in the *ba'al habayit*'s hand. The first example of *yetziot* is thus a case of *hachnasah*. This demonstrates directly that *hotza'ah* as used in the *mishnah* encompasses *hachnasah* — bringing in — as well.
 

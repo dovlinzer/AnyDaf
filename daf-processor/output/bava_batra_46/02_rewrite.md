@@ -66,7 +66,7 @@ The Gemara presses: if there *are* witnesses, why would a non-craftsman have a *
 
 ## Mixed Garments
 
-### Baraita: Accidental Mix-…
+### Baraita: Garment Mistake
 
 The Gemara now introduces a *baraita* from Bava Kamma that, while tangentially related, raises a vivid practical question. *Nitchelfu lo keilim be-keilim be-veit ha'uman* — if garments got mixed up in the craftsman's shop and you came to collect yours but were handed someone else's by mistake, the *baraita* rules: *harei zeh yishtamesh bahen ad she-yavo halaz ve-yitol et shelo* — you may use the other person's garment until the person who accidentally took yours returns it, and then you exchange.
 

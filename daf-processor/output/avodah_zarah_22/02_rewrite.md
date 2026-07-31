@@ -82,7 +82,7 @@ A *baraita* articulates the four concerns about animals that might disqualify th
 
 The concern about *reviah* and *nirba* remains. Here, Rav Tachlifa citing Rav Shila bar Avina in the name of Rav provides the key principle: an *oved kochavim* is *chas* — feels concern — for his animal, specifically that she should not become barren (*shelo te'aker*). The premise is that bestiality causes damage to a female animal's reproductive capacity, and the non-Jew, motivated by the desire to preserve the value of his livestock, will not engage in this behavior toward his own animals. This care for his property thus functions as a practical deterrent.
 
-## Female Animals & Shepher…
+## Female Animals & Shephe
 
 ### Female Barrenness
 

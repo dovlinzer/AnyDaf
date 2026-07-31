@@ -26,7 +26,7 @@ Rav Simon — and some say Rav Yehoshua ben Levi — introduces a refinement: *o
 
 The result is that this slightly-oversized *tefach*, placed within three of the wall, creates through *lavud* an effective wall of four *tefachim*. Rav Simon agrees with Rav that the placement is perpendicular and rectangular, but he wants to produce a more substantial wall through the mechanics of *lavud*.
 
-### Four Tefachim Significance
+### Four Tefachim Wall Rule
 
 The significance of four *tefachim* deserves attention. The minimum *sukkah* must accommodate *rosho rubo ve-shulchano* — one's head, most of one's body, and one's table — which works out to approximately seven and a half *tefachim*. Four *tefachim* is therefore already the majority of the minimum *sukkah* wall. This matters because a wall of four *tefachim* — the majority of the required minimum — is sufficient to define a wall that "creates" a *sukkah*. The entire *sukkah* space is thereby *kasher*, not only a portion of it. The *chiddush* of Rav Simon is thus that by using a laughing *tefach* combined with *lavud*, one attains a wall representing the majority of the third wall required for a minimum-sized *sukkah*, significantly strengthening the halachic standing of the structure.
 

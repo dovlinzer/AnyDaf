@@ -1,4 +1,5 @@
 # Shabbat 84 — Daf Yomi Shiur
+[DAF:84a]
 
 ## Boats & Tumah
 
@@ -170,6 +171,7 @@ Tosafot notes a technical precision: a *zav* is actually required to immerse in 
 
 ## Mat & Midras
 
+[DAF:84b]
 ### Rabbi Ila's Challenge
 
 > **Hebrew/Aramaic:** וְדִין הוּא: וּמָה פַּכִּין קְטַנִּים שֶׁטְּהוֹרִין בְּזָב — טְמֵאִים בְּמֵת, מַפָּץ שֶׁטָּמֵא בְּזָב, אֵינוֹ דִּין שֶׁיְּהֵא טָמֵא בְּמֵת?! וְאַמַּאי, הָא לֵית לֵיהּ טׇהֳרָה בְּמִקְוֶה! אֲמַר לֵיהּ רַבִּי חֲנִינָא: שָׁאנֵי הָתָם הוֹאִיל וְאִיכָּא בְּמִינוֹ.

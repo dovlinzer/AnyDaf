@@ -1,4 +1,5 @@
 # Shabbat 116 — Daf Yomi Shiur
+[DAF:116a]
 
 ## Kitvei Kodesh & Muktze
 
@@ -56,6 +57,7 @@ The *gemara* then asks: according to Rabbi Yishmael, what does he do with the ve
 
 ## Sefer Torah Precedent
 
+[DAF:116b]
 ### Basis Distinction
 
 > **Hebrew/Aramaic:** אָמַר רַב חִסְדָּא אָמַר מָר עוּקְבָא: מַאי אַהְדַּרוּ לֵיהּ חַבְרַיָּיא לְרַבִּי יִשְׁמָעֵאל בְּנוֹ שֶׁל רַבִּי יוֹחָנָן בֶּן בְּרוֹקָה? הָכִי קָאָמְרִי לֵיהּ: אִם מַצִּילִין תִּיק הַסֵּפֶר עִם הַסֵּפֶר, לֹא נַפְשִׁיט אֶת הַפֶּסַח מֵעוֹרוֹ? מִי דָּמֵי?! הָתָם — טִלְטוּל, הָכָא — מְלָאכָה!

@@ -1,4 +1,5 @@
 # Bava Kamma 37 — Daf Yomi Shiur
+[DAF:37a]
 
 ## Boshet & Coin Values
 
@@ -226,6 +227,7 @@ A *baraita* teaches: if an animal saw an ox and gored, saw an ox and did not gor
 
 A second *baraita* extends this: if the alternating pattern involves six different animals — ox, donkey, horse, camel, mule, wild ass, alternating gore and no-gore — *na'aseh muad l'sirugin l'khol*, it becomes *muad* for alternately goring any type of animal. The level of abstraction again captures the full breadth of what was observed.
 
+[DAF:37b]
 ### Teiku Cases
 
 > **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: נָגַח שׁוֹר, שׁוֹר וָשׁוֹר, חֲמוֹר וְגָמָל, מַהוּ?

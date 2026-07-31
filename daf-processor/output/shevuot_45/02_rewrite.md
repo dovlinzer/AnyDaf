@@ -46,7 +46,7 @@ The question that the *Gemara* raises throughout *Shas* is: *chashud al mamona c
 
 The *Gemara* describes these individuals in terms of their lifestyle: they are not *oskin b'yishuvo shel olam* — not engaged in productive activity — and as a result do not necessarily live up to the standards expected of members of civil society.
 
-### Professional vs Occasion…
+### Professional vs Casual
 
 Even focusing only on monetary violations, there is a critical distinction: these are people for whom violation is their *profession*. It is the dice player's business, the *shvi'is* trader's business, to transgress prohibitions in the service of profit, regularly and systematically. That is quite different from a case where someone perhaps stole once or is merely suspected of having done so. The occasional sinner and the professional violator occupy distinct categories.
 
@@ -278,7 +278,7 @@ The *Gemara* answers Tosafot's objection with a surprising formulation: *kedei l
 
 The *Gemara* considers whether there are simpler solutions. *V'leisiv leh be'edim* — why not simply require witnesses when paying workers? The *Gemara* responds: *tricha lei milta* — that system is too burdensome and impractical. *V'leisiv leh meikara* — why not pay up front before the work begins, when the employer is not yet distracted? The *Gemara* answers: *shneihem rotzin b'hakafa* — both parties actually prefer deferred payment.
 
-### Delayed Payment Preferen…
+### Both Sides Prefer Delay
 
 The employer prefers to pay later because he does not always have cash on hand, and also because advance payment reduces the worker's incentive to perform diligently. The worker prefers to be paid later because he does not want to worry about carrying cash during the workday — he may fear losing it or having it taken from him — and would rather receive it when he is ready to go home and use it. Both sides choose the arrangement that creates the very conditions for these disputes.
 

@@ -1,4 +1,5 @@
 # Bava Batra 93 — Daf Yomi Shiur
+[DAF:92b]
 
 ## Rav vs. Shmuel
 
@@ -38,6 +39,7 @@ The Gemara now surveys a range of cases to test this debate. The first *tasha* (
 
 However, if the slave turns out to be an armed robber (*listis*), or already has a death sentence pending from the government (*muchtav lemalchus*), that is out of proportion to any reasonable expectation. In that case, the buyer may say *harei shelcha lefanecha* — here, take back what you sold me — and demand a refund. The precise distinction between the two categories is worth examining: is it about whether the defect falls within a tolerable range of expectation? Or does the phrase *harei shelcha lefanecha* invoke its technical resonance in cases of whether a defect is *nikar* — visible and apparent? That question remains open. The immediate issue, however, is why in the first category the buyer cannot claim *mekach taus*.
 
+[DAF:93a]
 ### Gemara Analysis
 
 > **Hebrew/Aramaic:** מַאי טַעְמָא? לָאו מִשּׁוּם דְּרוּבָּא הָכִי אִיתַנְהוּ?
@@ -200,6 +202,7 @@ The Gemara now turns from whether there is liability to what exactly is owed whe
 
 The *tanna kamma* (here aligned with Rabbi Yossi's earlier statement) says: *d'mei zera bilvad* — the cost of the seed only, not any further expenses the buyer incurred in planting. *Ve'yesh omrim af hotza'ah* — some say the seller must reimburse even the expenses. The analogy that makes this feel intuitive is the backup tape: a seller who says "I'll replace the tape if it fails" is not really addressing the buyer's loss, which is all the data that was on it. The seed is a small fraction of the true cost to the farmer, who plowed, irrigated, and tended a field that produced nothing. Yet extending liability to cover all those expenses raises serious questions: must negligence be proven? How does one establish that the failure was due to the defective seed and not defective farming? These evidentiary hurdles are real, and Tosafot addresses them directly.
 
+[DAF:93b]
 ### Rabban Shimon
 
 > **Hebrew/Aramaic:** מַאן יֵשׁ אוֹמְרִים? אָמַר רַב חִסְדָּא: רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל הִיא.

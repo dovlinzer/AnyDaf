@@ -38,7 +38,7 @@ Rashi reads the entire passage differently, and he is driven to do so by what fo
 
 ---
 
-## Pigul: Before/After (II)
+## Pigul: Before/After Zrika
 
 ### Rabbi Shimon: Pigul
 
@@ -52,7 +52,7 @@ The problem, however, is immediately apparent, and this is precisely what troubl
 
 An alternative reading at the *peshat* level is to take "*achar zrika*" as not strictly meaning after *zrika* but rather *b'sha'at zrika* — at the moment of *zrika* itself. On this reading, if the *pigul* intent arose earlier, the *zrika* was never a valid *matir*; if it arose during the *zrika*, then it argues with Rav Gidal's position, which holds that *zrikas pigul* does not constitute a valid *zrika*. This makes the *gemara* somewhat less strained, even if the problem is not entirely resolved.
 
-### Gemara: Why Zrika Not Ka…
+### Zrika vs Kabbalah Pigul
 
 The *gemara* now presses the same challenge it pressed in the *nosar* case. The statement says that if *pigul* arose before *zrika*, there is *me'ilah* — implying that even in a case where the blood had already been caught and was *ra'ui l'zrik*, but the *pigul* arose afterward, there is still *me'ilah*. This would suggest that the critical moment is the literal *zrika*, not the *kabbala*. From this the *gemara* attempts to conclude that *heter achila* — actual permissibility through *zrika* — is what matters, not mere fitness for *zrika* through *kabbala*.
 
@@ -142,7 +142,7 @@ Conversely, had the dispute been stated only for *kodshim kalim*, one might have
 
 The *gemara* cites Rabbi Yochanan's qualification of Rabbi Akiva's position. Rabbi Yochanan states: *ad kan amar Rabbi Akiva zrika mo'elet l'yotzei* — Rabbi Akiva only says that *zrika* is effective for *yotzei* in a particular circumstance: *she-yatza miktzato* — when only part of the meat (or *emurim*) went outside the permitted area, while the rest remained within.
 
-### Miktzato vs. Kulo
+### Miktzato vs. Kulo (II)
 
 The parallel to the *chatas* proof now becomes clearer. When Rabbi Akiva argued from the case of two *chatos* — that the blood of one released the meat of the other — the conceptual basis was that they could be seen as unified, since both were present in the *azarah* simultaneously and either could have been chosen. Similarly, when only *part* of the *korban*'s meat or *emurim* went out, the *zrika* that worked for the portion that remained can be said to work for the portion that went out, on the theory that they are all part of one *korban*. But *aval yatza kulo* — if the entirety of the meat or *emurim* went outside before the *zrika* — Rabbi Akiva would not apply his ruling. There, Rabbi Yochanan clarifies, Rabbi Akiva would agree with Rabbi Eliezer that the *zrika* is not effective. When nothing remained within the permitted area, there is no basis for treating the *zrika* as having any purchase on those portions.
 

@@ -1,4 +1,5 @@
 # Yevamot 30b — Daf Yomi Shiur
+[DAF:30a]
 
 ## Three Brothers & Zika
 
@@ -54,6 +55,7 @@ The *mishna*'s mention of *ma'amar* is *l'apuki mi'Beit Shammai d'amri ma'amar k
 
 So the *mishna*'s structure is this: *zika* itself pulls Rachel in and creates the problem; *ma'amar* does not solve it by making Rachel a complete *nisuin*-level wife. Doing *chalitza* with Devorah is required, and doing *yibum* with Devorah is forbidden.
 
+[DAF:30b]
 ### Rav Nechman's Logic
 
 > **Hebrew/Aramaic:** וּלְרַב נַחְמָן — קַשְׁיָא דְּרַב אָשֵׁי! וְכִי תֵּימָא: הוּא הַדִּין דַּאֲפִילּוּ מֵת וְאַחַר כָּךְ גֵּירַשׁ — צָרָתָהּ מוּתֶּרֶת, אֶלָּא ״זוֹ הִיא״ לְמַעוֹטֵי מַאי? לְמַעוֹטֵי כָּנַס וְאַחַר כָּךְ גֵּירַשׁ.

@@ -1,6 +1,6 @@
 # Bava Batra 152 — Daf Yomi Shiur
 
-## Matnat Shchiv Meira Basi…
+## Matnat Shchiv Meira Kin
 
 ### Kol vs. Miktzat
 

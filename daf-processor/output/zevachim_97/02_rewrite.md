@@ -126,7 +126,7 @@ The *gemara* now examines the flip side of *yikdash*: what happens when the sour
 
 Importantly, the mechanism here is physical, not the transitive transfer characteristic of *tumah*. In *tumah*, A makes B *tamei* and the *tumah* moves from A to B in diminished degree. Here the situation is different: little pieces of A have physically penetrated into B. If A was *pasul*, then B now contains fragments of *pasul* material within it, and that is why B cannot be eaten. B is not itself *tamei* in the *tumah* sense — it simply has embedded within it matter that may not be consumed.
 
-### Positive Mitzvah Challenge
+### Positive Mitzvah Override
 
 This framework generates a striking question. Suppose A is a *mincha* that became *tamei* through contact with something impure. It was absorbed into B, a valid *mincha*. Now 98% of B is entirely valid *kodesh* with a positive commandment to eat it. Why not invoke the principle of *aseh docheh lo ta'aseh* — a positive commandment overrides a negative prohibition? The positive *mitzvah* to eat the valid *mincha* is directly in tension with the prohibition against eating the *tamei* A-material embedded in B. Since there is no way to eat B without consuming the fragments of A within it, the conflict is irresolvable and direct. Should the *aseh* override the *lo ta'aseh*?
 

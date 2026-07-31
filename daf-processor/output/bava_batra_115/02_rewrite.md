@@ -22,7 +22,7 @@ To appreciate this suggestion, it is necessary to recall the *drasha* of *matot*
 
 This equation carries two distinct implications. The first concerns what happens when the *mother* dies: just as when the father dies the sons inherit before the daughters, so too when the mother dies the sons take priority over the daughters, because the mother's tribe is equated to the father's tribe in the transmission of property downward. The second implication runs in the opposite direction: just as when a son dies his *father* inherits from him, so too — if the two tribes are truly equated — his *mother* should inherit from him alongside the father. These two implications point in different directions from the perspective of any simple analysis of whose interests are served: the first preserves the patriarchal ordering of sons over daughters even in a matrilineal transmission, while the second opens the door to property departing the father's tribal line entirely if the father has predeceased the son and the inheritance passes to the mother.
 
-### Zechariah Rejects Equati…
+### Zechariah: Daughters
 
 Rabbi Zechariah ben HaKatzav rejects this equation altogether. He holds that *mateh ha'em* is not equated to *mateh ha'av*, and therefore when the mother dies, the sons and daughters inherit her property equally — there is no basis to impose the prioritization of sons over daughters when it is the mother's property at stake. By the same logic, when a son dies, the property passes only to his father, not to his mother, since the two parental lines are not equated.
 
@@ -118,7 +118,7 @@ This raises a practical modern question: what happens when no heirs can actually
 
 ## Sadducean Heresy
 
-### Equal Inheritance Condem…
+### Rav Huna: Equal Inherit
 
 Rav Huna citing Rav states: *kol ha-omer tirash bat im bat ha-ben* — whoever says that a daughter should inherit together with a granddaughter through a son has articulated a position that is utterly rejected. To appreciate the force of this, recall the hierarchy established above: when a son predeceases the testator, his daughter — the testator's granddaughter — takes the son's place in the inheritance order, and therefore comes before the testator's own daughter. The position being condemned here is the suggestion that once a granddaughter is receiving inheritance, the daughter ought to receive alongside her, dividing the estate between them.
 

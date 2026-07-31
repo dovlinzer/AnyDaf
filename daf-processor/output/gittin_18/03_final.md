@@ -1,4 +1,5 @@
 # Gittin 18 — Daf Yomi Shiur
+[DAF:18a]
 
 ## Zman in Get Review
 
@@ -226,6 +227,7 @@ Rabbi Yochanan disagrees and permits a window of up to ten days even within Rabb
 
 ## Ten People Get
 
+[DAF:18b]
 ### Ten People Command
 
 > **Hebrew/Aramaic:** אִיתְּמַר: אָמַר לַעֲשָׂרָה ״כִּתְבוּ גֵּט לְאִשְׁתִּי״; אָמַר רַבִּי יוֹחָנָן: שְׁנַיִם מִשּׁוּם עֵדִים, וְכוּלָּם מִשּׁוּם תְּנַאי. וְרֵישׁ לָקִישׁ אָמַר: כּוּלָּם מִשּׁוּם עֵדִים.

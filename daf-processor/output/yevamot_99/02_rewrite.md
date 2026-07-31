@@ -1,6 +1,6 @@
 # Yevamot 99 — Daf Yomi Shiur
 
-## Brother's Wife After Con…
+## Brother's Wife Conversion
 
 ### Ger & Brother's Wife
 
@@ -8,7 +8,7 @@ The daf opens with a question that has occupied the preceding discussion: may a 
 
 The *baraita* opens with the case of *ger she-haysa lidato bi-kedushah ve-horato she-lo bi-kedushah* — a convert whose conception occurred before his mother's conversion but whose birth occurred after it. The ruling: *yesh lo she'ar ha-em, ve-ein lo she'ar ha-av* — there remains a prohibited-relative relationship on the mother's side, but not on the father's side. The practical illustration given is *nasa achoto min ha-em, yotzi* — if he marries a woman who is his maternal half-sister (biologically, though not legally, since she was born before their mother converted and the legal bond of kinship was severed), he must divorce her. But if she is only his paternal half-sister, *yekayem* — he may maintain the marriage. What is striking here is that despite the obvious biological incest, the paternal relation does not trouble us. The reason, as the preceding discussion has established, is that relationships on the mother's side are far more evidently perceived by others as genuine familial bonds, whereas paternal relationships among non-Jews are not perceived in the same way.
 
-### Maternal vs. Paternal Si…
+### Maternal vs Paternal Sibs
 
 The *baraita* continues with a further distinction. *Achot ha-av min ha-em, yotzi* — if his father's sister is a maternal sibling of his father's (i.e., the father and the aunt share a mother), he must divorce her. But if the father and his sister are only paternal siblings, *yekayem* — the marriage stands. The same logic operating on the sibling level is extended one generation upward: whether the relation is problematic depends on whether the sibling bond runs through the mother or through the father.
 
@@ -18,15 +18,15 @@ Similarly, *achot ha-em min ha-em, yotzi* — a mother's maternal sister clearly
 
 The underlying rationale for why the maternal side generates this prohibition while the paternal side does not is debated by *Rashi* and *Tosafot*. *Rashi* frames it as a *gezeirah*: if we allow this person to maintain a marriage to a woman who was his sister before conversion, we will come to allow him to marry a sister who was born after conversion — a woman who is legally his sister under Jewish law. *Tosafot* rejects the *gezeirah* framing and instead argues that the concern is one of appearance (*mar'it ayin*): because the maternal relationship is perceived by onlookers as a genuine sibling bond, allowing such a marriage looks inherently improper. According to *Tosafot*, there is no fear of a mistaken legal conclusion, merely of a disturbing social appearance. *Tosafot* notes that the practical implications of these two positions differ in certain cases, and takes the appearance-based rationale as more fundamental. The critical point for both opinions is that the concern is triggered specifically by the maternal relation, which is the one that registers publicly as a family bond.
 
-### Father's Sibling Relatio…
+### Father's Sibling Spouses
 
 The extension to the father's sibling relationship warrants brief clarification. Even though the case of *achot ha-av min ha-em* runs through the father — the ger's relation to this woman is via his father's sibling bond — *Rashi* explains that since the category remains one of sibling, and the sibling bond in question runs through a mother (the father and his sister share a mother), the same sensitivity applies. The logic is that we are still operating within the framework of maternal siblinghood, even if the pathway to the ger runs through his father. This is why Rabbi Meir's sweeping rule captures it: any *ervah* that reaches the convert through a maternal-sibling link requires divorce.
 
-### Brother & Uncle's Wife P…
+### Brother & Uncle Wife
 
 The *baraita* now turns directly to the very question the Gemara has been investigating. *U-mutar be-eshet achiv me-imo* — he is permitted to marry his maternal brother's wife. This is exactly our question, and the *baraita* answers it affirmatively. Even though he may not marry his maternal sister herself, he may marry his maternal brother's wife — the reasoning being that while the blood relation on the maternal side is perceived as genuine, the marital extension (his brother's wife) is one further degree removed, and we are correspondingly more lenient. *U-ve-eshet achi aviv* — he is likewise permitted to marry his uncle's wife, since again the bond is through marriage rather than blood. *Ve-she'ar kol arayot mutarot lo* — and all other formerly prohibited relations are now permitted to him. The Gemara specifies that *le-atuyei eshet ha-av* — this includes, for example, his father's wife, who is no longer legally related to him since his father was a non-Jew.
 
-### Mother-Daughter Marriage…
+### Mother-Daughter Divorce
 
 A striking case follows: *nasa isha u-vittah* — if before his conversion he had been married to both a woman and her daughter, upon converting *kones achat u-motzi achat* — he may keep one of them but must divorce the other. This might seem puzzling: if both women converted along with him, they are no longer legally mother and daughter — *ger she-nitgayyer ke-katan she-nolad dami*, a convert is like a newborn with no prior legal relations. So why can he not keep both? The answer is that this is a case of blood relation — a biological mother and daughter — and the perception of that bond is so powerful that we do not permit him to remain married to both simultaneously, even after conversion. The *baraita* adds *lechatchila lo yichnos* — he should not enter such an arrangement even initially.
 
@@ -34,7 +34,7 @@ A striking case follows: *nasa isha u-vittah* — if before his conversion he ha
 
 The Gemara now zeroes in on the section of the *baraita* relevant to its inquiry: *katani mihat u-mutar be-eshet achiv* — the *baraita* taught that he is permitted to marry his brother's wife. The Gemara asks: *mai lav de-nasvu ke-shehu ger* — does this not refer to the obvious case where his brother married this woman after the *ger* had already converted, making her legally his brother's wife while the *ger* and his brother share a genuine legal bond of siblinghood? If so, this *baraita* would directly answer our question in the permissive direction.
 
-### Non-Jew Marriage Resolut…
+### Non-Jewish Marriage Conv.
 
 The Gemara deflects: *lo, de-nasvu ke-shehu akum* — no, the *baraita* speaks of a woman his brother had married while still a non-Jew. In that case, the brother's conversion dissolves the marriage, meaning the woman was never legally his brother's wife under Jewish law. The Gemara has now deployed the same escape it used in every prior case: the *baraita* speaks only of a pre-conversion marriage.
 
@@ -46,7 +46,7 @@ But then the Gemara adds: *mahu de-teima, ligzor ke-shehu akum atu ke-shehu ger*
 
 The Gemara returns to the *lechatchila* ruling in the *baraita*: *nasa isha u-vittah, kones achat u-motzi achat, lechatchila lo yichnos*. The Gemara objects: *hashtah mafik mafik, lechatchila mibaya?* — if he must divorce one of them even after the fact, is it necessary to add that he shouldn't do it *lechatchila*? The Gemara resolves this: the *lechatchila* clause does not refer to the mother-daughter case immediately preceding it, but rather to the earlier rulings — those cases where the Rabbis said he may maintain a marriage *bedi'avad*. On those, the *baraita* now adds: even though *bedi'avad* the marriage stands, one should not enter into such a situation *lechatchila*, even in something like a paternal sister case.
 
-### Wife's Death & Mother-in…
+### Wife's Death & MIL
 
 The *baraita* concludes with: *metah ishto mutar be-chamato* — after his wife dies, he may marry her mother (the biological mother, now a convert and hence legally no longer his mother-in-law). *Ve-ika de-amrei asur be-chamato* — some versions state that even after the wife's death he may not marry her. The Gemara identifies these two positions: *chada ke-Rabbi Yishmael ve-chada ke-Rabbi Akiva*.
 
@@ -74,7 +74,7 @@ Regarding the widows' situation: it is worth noting that the Mishnah does not si
 
 The Gemara adds an important procedural requirement: *vedavka machlatz ve-hadar yibbumei* — specifically, the *chalitzah* from the four must precede the *yibum* by the fifth. One may not begin with *yibum*: *aval yibumei be-reisha la, de-kapaga bi-yevamah la-shuk* — because if *yibum* is performed first, the man might be having relations with a woman who is in fact not his sister-in-law but still requires *chalitzah* from someone else to be released. To cohabit with such a woman would constitute *yevamah la-shuk*, a violation of her *yibbum*-bond without proper resolution.
 
-### Partial Brothers' Chalit…
+### Partial Brothers & Halitz
 
 The Mishnah continues: *miktzatan achin u-miktzatan she-ein achin* — some of the known brothers are full brothers to some of the mixed sons and mere maternal half-brothers to others. The ruling seems strange at first: *ha-achin choltzin ve-she-ein achin meyabbemin* — the brothers do *chalitzah* and the non-brothers do *yibum*. The Gemara asks: *mai ka-amar* — what could this possibly mean? A maternal half-brother has no obligation of *yibum* or *chalitzah* whatsoever.
 
@@ -110,7 +110,7 @@ The case of the sister: *imo ve-ishah acheret she-yaldu shtei nekevot be-machba*
 
 Now the paternal half-brothers of the deceased must perform *chalitzah*. But two women must receive *chalitzah*, and one of the two women is the surviving brother's sister — the daughter born to his mother. He cannot perform *yibum* and must perform *chalitzah* with both. He is therefore definitively performing *chalitzah* with his sister, albeit under uncertainty as to which one she is. *Nimtza choletz achoto mi-safek*.
 
-### Paternal Brothers & Daug…
+### Paternal Brothers Mixed
 
 The case of the daughter: *isha ve-ishah acheret she-yaldu shtei nekevot be-machba* — his wife and another woman gave birth to two daughters in a cave, identities mixed. *U-va'u acheihem ve-nasa'um* — the man's brothers came and married these daughters. A man is permitted to marry his niece, so no prohibition applies at the time of the marriages. The brothers then die childless. The surviving brother — the father of one of the girls — must now perform *chalitzah* with both widows, since one of them is his daughter. *Choletz le-vito mi-safek*.
 
@@ -140,7 +140,7 @@ The Gemara now introduces a celebrated *baraita* attributed to Rabbi Meir: *pe'a
 
 ---
 
-## Selling Father for Ketub…
+## Selling Parent's Ketubah
 
 ### Mother's Ketubah Lien
 
@@ -164,7 +164,7 @@ The Mishnah now presents a variation: *ha-isha she-nitarev valdah be-vlad kallat
 
 The Mishnah distinguishes between different categories of brothers who must now respond. *Bnei ha-kalah choltzin ve-lo meyabbemin* — the other sons of the daughter-in-law (i.e., the additional brothers of the mixed sons from that side) may only perform *chalitzah*, not *yibum*. The reason: *safek eshet achiv safek eshet achei aviv* — each widow might be a brother's wife (requiring *yibum*) or might be an uncle's wife (an *ervah*). Since the *ervah* possibility exists, *yibum* is prohibited.
 
-### Flexible Chalitzah or Yi…
+### Chalitzah or Yibum
 
 *Bnei ha-zekenah* — the other sons of the older woman (from the grandmother's line, so to speak) are in a more favorable position. For them, *o choltzin o meyabbemin* — they may perform either *chalitzah* or *yibum*. The reason: *safek eshet achiv ve-eshet ben achiv* — each widow is either a brother's wife or a nephew's wife. Both possibilities permit *yibum* or *chalitzah* without any *ervah* concern.
 
@@ -208,7 +208,7 @@ Regarding their own *korbanot*: *Rashi* addresses two possibilities. If they hav
 
 ---
 
-## Terumah & Kohen Percepti…
+## Terumah & Kohen Status
 
 ### Rabbi Yehudah's Rule
 

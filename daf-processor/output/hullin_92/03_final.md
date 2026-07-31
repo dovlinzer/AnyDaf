@@ -1,4 +1,5 @@
 # Hullin 92 — Daf Yomi Shiur
+[DAF:92a]
 
 ## Israel vs. Angels
 
@@ -188,6 +189,7 @@ And this is what is meant by the verse in *Zechariah*: *im tov be-eineichem havu
 
 *Rabbi Yehuda omer*: these thirty righteous are in fact righteous people among the non-Jewish nations themselves — in whose merit the nations survive. This reading keeps the thirty righteous *among* the nations rather than removing them.
 
+[DAF:92b]
 ### Bnei Noach
 
 > **Hebrew/Aramaic:** שֶׁאֵין כּוֹתְבִין כְּתוּבָּה לִזְכָרִים, וְאַחַת שֶׁאֵין שׁוֹקְלִין בְּשַׂר הַמֵּת בְּמָקוֹלִין, וְאַחַת שֶׁמְּכַבְּדִין אֶת הַתּוֹרָה.

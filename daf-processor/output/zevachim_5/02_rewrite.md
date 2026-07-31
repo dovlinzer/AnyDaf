@@ -84,7 +84,7 @@ The *Gemara* then raises a question about the *chatat*: *zot hatorah* includes t
 
 ## Asham Ownership Problem
 
-### Reish Lakish Throws Self…
+### Reish Lakish: Mid Status
 
 The *Gemara* now pivots from the *pesukim* to a fundamental conceptual question. The intermediate status — *kasher* but not working for the owners — is established textually, but can it be sustained conceptually? The *Gemara* introduces this question with a vivid image: *rami Reish Lakish al me'ohi bei midrasha u-makshi* — Reish Lakish threw himself on his stomach on the floor of the *beit midrash* and posed this question. The verb *rami* ordinarily introduces a contradiction between two Tannaitic sources; here it seems to capture instead a logical tension that Reish Lakish found so acute that it could not be contained in ordinary discourse.
 
@@ -100,7 +100,7 @@ Reish Lakish is not satisfied. *Modeh ani lach be-olah de-asya le-achar misa* �
 
 Rabbi Elazar points out that Reish Lakish's position is exactly that of Rabbi Eliezer in the *Mishnah*, who rules that an *asham* performed *shelo lishmah* is invalid. But Reish Lakish dismisses this: *ka-amina ana mishnah shelemah* — he is troubled by the *stam Mishnah*, the accepted *halachah* that rejects Rabbi Eliezer's view and holds that the *asham* is *kasher* but does not count for the owner. The fact that a dissenting view shares his intuition does not resolve his question about the accepted *halachah*.
 
-### Reish Lakish's Own Solut…
+### Reish Lakish: Motza Sefat
 
 Finding no satisfactory answer from others, Reish Lakish declares *eftecha ana pitcha lenafshai* — he will open the door himself. He derives the intermediate status from the *pasuk* of *motza sefatecha*: *im ka-asher nadarta l'Hashem Elokecha nedavah* — if it was done as you vowed, it is a *neder*; if not, it stands as a *nedavah*. This *pasuk* establishes that a *korban* which was initiated as a personal obligation but whose *avodah* was not performed correctly can exist in a middle state, functioning *k'nedavah* — as a freewill offering not tethered to the owner's obligation.
 
@@ -110,7 +110,7 @@ A notable point about the chronology of this *sugya*: Rashi observes that the at
 
 ## Chatat Shelo Lishmah
 
-### Gemara Challenges Soluti…
+### Gemara Challenges Motza
 
 A group of Amoraim — Rav Zeira, Rav Yitzchak bar Abba, and Abaye — are sitting together and discussing Reish Lakish's dramatic question and the *motza sefatecha* solution he offered. They raise a challenge: *eima haba b'neder u-vindavah laysu ve-lo yirtzu, asham lo laysi klal* — the *pasuk* of *motza sefatecha* speaks the language of *neder* and *nedavah*, which is the conceptual world of *olah* and *shelamim*, *korbanot* that can originate from either a personal vow or a freewill designation. In that world, it is intelligible that something can shift from the status of a *neder* to that of a *nedavah* — it remains a *korban* but its tether to the owner's personal obligation is loosened. But an *asham* does not exist in that world. An *asham* arises only from a Torah-imposed obligation; it is never a *nedavah*. You cannot apply a *pasuk* about *neder* and *nedavah* to the *asham* and thereby establish a middle state for it. Reish Lakish's problem, they argue, remains unsolved.
 
@@ -180,6 +180,6 @@ Rabbi Elazar could have told Reish Lakish: *asham nami asi le-achar misa* — th
 
 Rav Sheshet clarifies the precise mechanics: *asham le-mai karev — le-motaro*. The *asham* itself is not offered *le-achar misa*; what is offered is its *motar* — the residual value of its *kedushah* realized through the chain of redemption and repurchase as an *olah*. One might object that the same could be said of a *chatat*: a *chatat* also has a *motar* in a very specific case — when someone designated two *chataot* as mutual guarantors (*hifrish shtei chataot le-achrayut*), was atoned for through one of them, and then died. In that unusual case, the second *chatat* can still be brought in some form. The *Gemara* responds: *chatat af al gav de-karva motara, mi'eit rachmana hu* — even though a *chatat* has a *motar* in that narrow case, the word *hu* (or *hi*, in the feminine, *hia*) in the *pasuk* about the *chatat* limits and excludes, establishing that the stringency of *pesul shelo lishmah* applies uniquely to the *chatat*. The *chatat*'s special treatment is grounded in that word, not undermined by the exceptional *motar* case.
 
-### Precedent for Middle Sta…
+### Precedent: Middle Status
 
 This discussion provides an important conceptual foundation for the *halachah* that has been under examination throughout the *sugya*. The persistent difficulty with the *asham*'s intermediate status was this: an *asham* is so bound to its owner that it seemed impossible to conceive of it existing in a middle state — *kasher* yet not *meratze* — severed from the owner who brought it. The resolution offered here is that this is not entirely without parallel even within the world of *asham* itself. The *asham* can exist *le-achar misa* in a reincarnated form: its *kedushah* migrates to money, which becomes an *olah*. This is not a full answer to the conceptual question, but it provides a *sevara* — a rational basis — for understanding that even the *asham*, though tightly bound to a living owner, is not absolutely and unconditionally annulled when that connection is severed. The *halachah* that an *asham* performed *shelo lishmah* is *kasher ve-eino mirtze* thus gains not only textual support from *otah le-chatat* and *zot hatorah*, but also a measure of conceptual grounding from the reality that the *asham*'s *kedushah* can persist and find expression on the *mizbe'ach* even after the owner has died.

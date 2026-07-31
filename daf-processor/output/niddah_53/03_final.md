@@ -1,4 +1,5 @@
 # Niddah 53 — Daf Yomi Shiur
+[DAF:52b]
 
 ## Ketamim Overview
 
@@ -142,6 +143,7 @@ The Gemara cites a *baraita*: *ha-ro'ah ketem im yesh bo kedei le-chalek gimel g
 
 Rabbi Yehuda ben Agra, citing Rabbi Yosi, states: *achas zu ve-achas zu chosheshes* — in both cases, whether the stain is large or small, she must be concerned. Even a stain that is only the size of two *grisin* — not three — requires concern. This would seem to invoke *zavah gedolah* concern even from what appears to be only two *re'iyos*, which is striking since a *zavah gedolah* requires three.
 
+[DAF:53a]
 ### Rebbi Analysis
 
 > **Hebrew/Aramaic:** אָמַר רַבִּי: נִרְאִין דִּבְרֵי רַבִּי יְהוּדָה בֶּן אַגְרָא בְּשֶׁלֹּא בָּדְקָה, וְדִבְרֵי חֲכָמִים בְּשֶׁבָּדְקָה.
@@ -282,6 +284,7 @@ The two versions reflect a disagreement about the precise temporal relationship 
 
 ## Retroactive Tumah
 
+[DAF:53b]
 ### Rabbi Strict
 
 > **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הָרוֹאָה כֶּתֶם — מְטַמְּאָה עַצְמָהּ וְקָדָשִׁים לְמַפְרֵעַ, דִּבְרֵי רַבִּי.

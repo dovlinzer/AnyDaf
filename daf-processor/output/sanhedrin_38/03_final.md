@@ -1,4 +1,5 @@
 # Sanhedrin 38 — Daf Yomi Shiur
+[DAF:38a]
 
 ## Intro & Yerushalmi
 
@@ -218,6 +219,7 @@ In the ninth hour, *nitztave shelo le-echol min ha-ilan* — he was commanded no
 
 ## Adam Epicurus
 
+[DAF:38b]
 ### Adam Heretic
 
 > **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר רַב: אָדָם הָרִאשׁוֹן מִין הָיָה, שֶׁנֶּאֱמַר: ״וַיִּקְרָא ה׳ אֱלֹהִים אֶל הָאָדָם וַיֹּאמֶר לוֹ אַיֶּכָּה״ – אָן נָטָה לִבֶּךָ? רַבִּי יִצְחָק אָמַר: מוֹשֵׁךְ בְּעׇרְלָתוֹ הָיָה. כְּתִיב הָכָא: ״וְהֵמָּה כְּאָדָם עָבְרוּ בְרִית״, וּכְתִיב הָתָם: ״אֶת בְּרִיתִי הֵפַר״.

@@ -1,4 +1,5 @@
 # Yevamot 24b — Daf Yomi Shiur
+[DAF:24a]
 
 ## Intro & Context
 
@@ -90,6 +91,7 @@ Rabbi Nechemia's principle is articulated through a list of paradigm cases: *ger
 
 The *gemara* then records that it was stated regarding this dispute: *halacha k'divrei ha-omer kulam gerim hem* — we rule like the position that holds all of these are valid converts. We do not rule like Rabbi Nechemia. This is noteworthy: the *gemara* asserts the existence of an opposing position — *ha-omer kulam gerim hem* — without having explicitly quoted a named *tanna* to that effect. *B'di'avad*, a conversion undertaken with ulterior motives is nonetheless binding.
 
+[DAF:24b]
 ### Rav Ashi Principle
 
 > **Hebrew/Aramaic:** אִי הָכִי, לְכַתְּחִלָּה נָמֵי! מִשּׁוּם דְּרַב אַסִּי. דְּאָמַר רַב אַסִּי: ״הָסֵר מִמְּךָ עִקְּשׁוּת פֶּה וּלְזוּת שְׂפָתַיִם״.

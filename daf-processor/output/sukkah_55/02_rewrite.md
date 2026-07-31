@@ -78,7 +78,7 @@ The *Gemara* asks: *Ve-Rav Acha bar Chanina kra masnisa kama*? — but *Rav Acha
 
 ---
 
-## Six Psalms of Chol HaM…
+## Shir Shel Yom: Intermed.
 
 ### Mnemonics: Humbahi
 
@@ -90,9 +90,9 @@ The *Gemara* asks: *Ve-Rav Acha bar Chanina kra masnisa kama*? — but *Rav Acha
 
 ---
 
-## Tiyuvta d'Rav Acha…
+## Tiyuvta d'Rav Acha (II)
 
-### Ravina: Length Not Quant…
+### Ravina: Length Not Qty
 
 *Amar Ravina* — *Ravina* resolved the difficulty: *lomar she-ma'arichim bi-tkiyot* — what the *baraita* means when it says the trumpet blasts correspond to the *musafim* is not that you perform an additional set of blasts for each *musaf*, but that when you perform the single set of blasts you play the notes longer to signal that it is a doubled day. The quantity of sets remains one; only the duration increases.
 

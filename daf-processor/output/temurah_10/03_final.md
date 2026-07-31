@@ -1,4 +1,5 @@
 # Temurah 10 — Daf Yomi Shiur
+[DAF:9b]
 
 ## Asham & Pidyon Chomesh
 
@@ -46,6 +47,7 @@ The substance of Rav Papa's version parallels Rav Avin's: one designated an *ash
 
 Abaye again responds: which component is being asked? If the question concerns whether a transformed *kedusha* within the same body — the *asham*-to-*olah* conversion — counts as something new (*kedusha acheres be-oso guf*), why complicate the case with a *mum* at all? And if the question is about a different body sharing the same *kedusha* (*guf echad be-osah kedusha* — in the peculiar idiom, "one body" meaning a second, derivative body), why introduce the transformation?
 
+[DAF:10a]
 ### Kedusha Transformation
 
 > **Hebrew/Aramaic:** וְאִם תִּימָּצֵא לוֹמַר הָדֵין גּוּף (אֶחָד) [אַחֵר], כֵּיוָן דִּבְאוֹתָהּ קְדוּשָּׁה קָאֵים [אֵינוֹ] מוֹסִיף חוֹמֶשׁ, אֶלָּא נִתְכַּפֵּר בְּאַחֵר, וְנִיתַּק זֶה לְעוֹלָה — מַהוּ? כִּי [אֵינוֹ] מוֹסִיף חוֹמֶשׁ בְּאוֹתוֹ הַגּוּף בְּאוֹתָהּ קְדוּשָּׁה, אֲבָל בִּקְדוּשָּׁה אַחֶרֶת — לָא? אוֹ דִילְמָא, כֵּיוָן דְּאוֹתוֹ הַגּוּף הוּא — [אֵינוֹ] מוֹסִיף חוֹמֶשׁ? תֵּיקוּ.
@@ -178,6 +180,7 @@ The *Gemara* now examines the underlying dispute about whether *kedusha* can tak
 
 Rabbi Yochanan disagrees: *kedusha chala al ubarim* — sanctity does take direct effect on fetuses. He supports this from a case he himself articulates: if one sanctified a pregnant *chatat* and it gave birth (*hikdish chatat me-uberet ve-yalda*), one may use either the mother or the offspring to achieve atonement (*ratza bah mitchaper, ratza be-vlad mitchaper*). Under Bar Padda's view, the offspring would be a *vlad chatat*, which carries the ruling of *mitah* — it must be left to die, as one of the five categories of *chatat* that may not be brought. But Rabbi Yochanan holds that the fetus was directly sanctified when the mother was sanctified, making the offspring a full-fledged *chatat* in its own right. The situation then parallels one who designates two animals simultaneously for one *chatat* obligation: one may select which to bring, and the other is treated as a backup, left to graze until it develops a *mum* and can be redeemed.
 
+[DAF:10b]
 ### Ubar Independence
 
 > **Hebrew/Aramaic:** וְאִי אַשְׁמְעִינַן בָּתְרָיְיתָא — הָתָם הוּא דְּאַקְדֵּישׁ לַהּ, וְכֹל דְּאִית בַּהּ, אֲבָל הָכָא דְּאַקְדְּשֵׁיהּ לֵיהּ — כֵּיוָן דְּלֵיתֵיהּ אַבָּרַאי, לָא קָדֵישׁ. צְרִיכָא.

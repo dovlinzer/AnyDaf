@@ -20,7 +20,7 @@ The second point requiring clarification involves *shchiv mera* cases. The *sugy
 
 ---
 
-## Gift-Giving Tannaic Deba…
+## Gift-Giving: Holech K'Za
 
 ### Baraita Setup
 
@@ -98,7 +98,7 @@ The foundational framework, following *Rava*, is that *b'fanai nichtav* is a spe
 
 Several variants of the declaration are listed in the *mishnah* as invalid. If the *shaliach* says *b'fanai nichtav aval lo b'fanai nechtam* — it was written in front of me but not signed — the *get* is *pasul*. Similarly, *b'fanai nechtam aval lo b'fanai nichtav* — signed in front of me but not written — is *pasul*. One might have thought the signing testimony alone should suffice, since it is the signatures that *kiyum shtarot* validates, but the *takkanah* requires both.
 
-### Full Attestation Require…
+### Testimony Attestation
 
 More significantly, the *mishnah* invalidates partial testimony across the two requirements. Even if the *shaliach* says *b'fanai nichtav kulo u'v'fanai nechtam chetzyo* — it was all written in front of me, and I saw both signatures — the *get* is still *pasul* if only one signature was witnessed. Conversely, *b'fanai nichtav chetzyo u'v'fanai nechtam kulo* — where the *shaliach* witnessed the full signing but only part of the writing — is equally *pasul*. The *takkanah* must be executed in its entirety; any deviation renders the *get* invalid.
 
@@ -124,7 +124,7 @@ Finally, if two witnesses together say *b'fanenu nichtav* and a single separate 
 
 The specific case *Rav Chisda* addresses is where the *shaliach* says *b'fanai nechtam* for the first signature — which works through the *takkanah* — and then two other witnesses from the *shuk* validate the second signature through normal *kiyum shtarot*. Naively, this seems stronger than using the *takkanah* alone. Yet *Rav Chisda* rules it *pasul*: one must choose one mode and apply it throughout. There is no compelling *sevara* that explains why mixing modes is categorically prohibited, but *Rav Chisda*'s position is that the *takkanah* is designed as a self-contained mechanism, and one does not blend it with regular document validation.
 
-### Rava's Three-Quarter Iss…
+### Rava's Three-Quarter I.
 
 *Rava* challenges *Rav Chisda*: is there really a rule that having *more* witnesses makes a document *less* valid? If the *shaliach* alone could say *b'fanai nechtam* on both signatures and achieve *kashrus*, how can adding two fully qualified witnesses for the second signature create *pesul*? *Mi ika midi d'ilu amar chad kasher v'chi amri terei pasul* — is there truly a scenario where one witness suffices but two invalidate?
 
@@ -160,9 +160,9 @@ This is a characteristically striking exchange. Usually when the *gemara* argues
 
 ---
 
-## Gidud/Mechitza Combinati…
+## Gidud/Mechitza Depth
 
-### Rav Chisda Position
+### Rav Chisda Position (II)
 
 The *gemara* now applies the *o kulo... o kulo* — all-or-nothing — principle to an analogous case in the laws of *Shabbos*. *Rav Chisda* states: *gidud chamisha u'mechitza chamisha ein mitztarfin* — a ditch five *tefachim* deep combined with a fence five *tefachim* high does not constitute a *reshut hayachid*. To qualify as a *reshut hayachid*, an enclosure needs walls or barriers of ten *tefachim*. One might think that a five-*tefach* ditch and a five-*tefach* wall placed on its edge could combine — after all, from the inside of the ditch, the effective barrier height is ten *tefachim*. *Rav Chisda* says no: either the full ten *tefachim* must come from the ditch alone, or from the wall alone. Combining two different physical mechanisms, even when the arithmetic works out, does not suffice. *Ad d'ika o kulo b'mechitza o kulo b'gidud.*
 

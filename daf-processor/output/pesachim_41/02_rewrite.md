@@ -1,6 +1,6 @@
 # Pesachim 41 — Daf Yomi Shiur
 
-## Flour + Charoset/Mus (II)
+## Flour + Charoset/Mustard
 
 ### Mishna Overview
 
@@ -34,7 +34,7 @@ The *mishna* qualifies this prohibition: *aval sachin umatbilin oto bahen* — h
 
 The *mishna* then transitions abruptly to yet another *chametz* topic: *mei tashmisho shel nachtom* — the working water of the professional baker. A baker kneading dough keeps a bucket of water nearby to rinse his hands between batches. That water accumulates residual dough and, as it sits, begins to ferment. The *mishna* rules that this water must be poured out — *yishfechu* — because *mipnei shehein machmitzin*, it causes *chametz*.
 
-The organizational structure here is, as the lecturer observes, genuinely puzzling, and Tosafot explicitly raises the question. One moment the *mishna* deals with flour in *charoset* and mustard; then it pivots to the laws of the *korban Pesach*; then it returns to a *chametz* concern involving a baker's water. A partial answer may be that the unifying thread is the interaction of flour or grain with liquids — the *charoset* and mustard cases involve flour with liquid, the *korban Pesach* case involves the prohibition of cooking in liquid, and the baker's water involves dough residue in liquid — but even granting this, the insertion of the *korban Pesach* material into what is otherwise a sequence of *chametz* discussions remains structurally jarring.
+The organizational structure here is genuinely puzzling, and Tosafot explicitly raises the question. One moment the *mishna* deals with flour in *charoset* and mustard; then it pivots to the laws of the *korban Pesach*; then it returns to a *chametz* concern involving a baker's water. A partial answer may be that the unifying thread is the interaction of flour or grain with liquids — the *charoset* and mustard cases involve flour with liquid, the *korban Pesach* case involves the prohibition of cooking in liquid, and the baker's water involves dough residue in liquid — but even granting this, the insertion of the *korban Pesach* material into what is otherwise a sequence of *chametz* discussions remains structurally jarring.
 
 ---
 

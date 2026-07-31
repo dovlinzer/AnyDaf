@@ -10,7 +10,7 @@ The daf is 61, though the shiur begins a page earlier on 60b. Approximately ten 
 
 The Gemara then asks: *v'chi Moshe Rabbeinu kanigi hayah o balistri hayah?* Was Moshe Rabbeinu a trapper or a hunter? The word *balistri* derives from the same root as "ballista" — one who hurls projectiles — and *kanigi* is a word for a hunter. The question is pointed: how did Moshe know to include in his list of non-kosher animals a creature so bizarre that he could never have observed it in the natural world? The answer follows: *mikan teshuvah l'omer ein Torah min hashamayim* — here is a refutation of anyone who claims the Torah was Moshe's own composition. Had he invented it himself, how would he have known to mention the *shisuah*?
 
-### Loanwords: Kanigi & Bali…
+### Loanwords in Aggadic Lit.
 
 Having heard this *drasha*, Rav Chisda said to Rav Tachlifa bar Avimi: *zil kesov kanigi uvalistri b'aggadetecha* — go and write down the words *kanigi* and *balistri* in your *aggadeta*, *uperashah* — and make sure you explain them. These are foreign loanwords — Greek, in fact — and not everyone who encounters this *aggadeta* will know what they mean. Presumably when these teachings originated in Eretz Yisrael, the Greek terms were familiar to the audience. But for those transmitting the tradition in Babylonia, a marginal note or an explanation alongside the text was essential so that the unusual vocabulary would not become an obstacle to understanding.
 

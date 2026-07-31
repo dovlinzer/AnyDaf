@@ -44,7 +44,7 @@ Even more expansively: if five brothers fought together and one died in battle, 
 
 The phrase *velo lekacha* — "and did not take her" — functions as an exclusion. Just as the analogous phrases *velo chanacho* and *velo chilalo* excluded cases of *gezelah* or *issur* in earlier applications, so here the Torah excludes marriages that are halachically forbidden even while technically binding. The list includes: a widow (*almanah*) married to a *kohen gadol*, a divorced woman or *chalutzah* married to a regular *kohen*, a *mamzeret* or *netinah* married to an Israelite, and a daughter of Israel married to a *mamzer* or *natin*. In all these cases — unions that constitute a *lav* but where *kiddushin* nevertheless takes effect — the betrothed man does not receive the military exemption.
 
-### Rabba's Transgression Ru…
+### Rabba: Transgression
 
 This exclusion generates a *kushya*: given that Rabbi Yose HaGlili will say later that the *yarei verach halevav* — the fearful-hearted one — refers to someone who fears on account of *aveirot she'beyado*, sins presently in his possession, why do we need a special *pasuk* to exclude the man in a forbidden marriage? He has an *aveirah she'beyado* already! In the case of *gezelah* discussed earlier, the Gemara could say the person did *teshuvah* and repaid the theft, thereby clearing his slate. But here the man is still in the relationship — he cannot have rectified it without having divorced her. The *aveirah* should still be *beyado*. And yet the Gemara answers: *kiderabba* — this follows the view of Rabba.
 
@@ -160,11 +160,11 @@ The scriptural proof comes from two *pesukim* juxtaposed in the Gemara: *nass Yi
 
 ## War Categories
 
-### Discretionary v. Obligat…
+### Discretionary vs Required
 
 *Bameh devarim amurim* — when do all these exemptions apply? According to Rabbi Yose HaGlili: in a *milchemet reshut*, a discretionary war. *Aval bemilchemet mitzvah, hakol yotzim* — but in an obligatory *mitzvah* war, all go out, without exemption. The paradigmatic example Rashi gives of a *milchemet mitzvah* is *kibush Eretz Yisrael bimei Yehoshua* — the conquest of the Land in the days of Joshua. The Rambam includes also *milchemet Amalek* and defensive wars — *lehoshia et Yisrael miyad tzar* — wars to rescue Israel from an attacking enemy.
 
-### R. Y. HaGlili Discretion…
+### R. Yose HaGlili
 
 In a *milchemet reshut*, the exemptions operate fully, and those with unfinished houses, undedicated vineyards, and recent betrothals return home.
 

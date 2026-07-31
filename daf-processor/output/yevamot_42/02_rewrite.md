@@ -6,7 +6,7 @@
 
 The daf opens on 42b, picking up approximately five lines from the top, with the Mishnah's statement *achas besulos v'achas beulos* — whether the woman is a virgin or a non-virgin, whether her first marriage was *eirusin* or *nissuin*, she must wait three months before remarrying. The rationale is the familiar principle of *lo plug*: even in cases where logic would seem to confirm that pregnancy is impossible, we do not make distinctions. The Gemara then opens by asking why the Mishnah needed to list both categories of virgin/*arusa* and non-virgin/*nesuah* separately, since they appear to overlap entirely.
 
-### Virgin/Non-Virgin Distin…
+### Virgin/Non-Virgin Eirusin
 
 The Gemara resolves this: *hachi ka'amar* — what the Mishnah is saying is that the categories of virgin and non-virgin simply map onto the categories of *eirusin* and *nissuin*, respectively. They are not independent variables but rather explanatory: women widowed or divorced from *eirusin* and women widowed or divorced from *nissuin*. The two terms elaborate the same two categories rather than introducing additional ones.
 
@@ -16,7 +16,7 @@ Following this, we are told that *Rabbi Eliezer* did not come to the *beis medra
 
 This ruling prompts the Gemara to observe: *mikhlal d'yechida pligi alei* — does this imply that the *stam* voice in the Mishnah, which demands the three-month wait universally and thus represents the position of *lo plug*, is in fact not the consensus but a *daas yachid*, a single minority opinion? The Gemara answers: *in* — yes, and it can be demonstrated from a *braisa*.
 
-### Pregnancy-Impossible Cas…
+### Impossible Pregnancies
 
 The *braisa* enumerates a long series of cases in which we can effectively presume that the woman is not pregnant, yet the requirement to wait three months nonetheless applies. Among these: a woman who was always running off to her father's house during the marriage (*redufa l'beis aviha*), a woman who was in open conflict with her husband (*katata im ba'ala*), a woman whose husband was imprisoned, or was elderly, or was sick, or who was herself ill. Additionally: a woman who suffered a miscarriage after her husband's death, a woman who was infertile (*akara*), a woman who was post-menopausal (*zkeina*), a woman who was too young, a woman born incapable of bearing children (*ailonis*), or any woman for whatever reason incapable of giving birth. In all of these cases, *Rabbi Meir* says she must wait three months.
 

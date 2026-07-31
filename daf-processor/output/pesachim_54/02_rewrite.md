@@ -2,7 +2,7 @@
 
 ## Yom Kippur Candles
 
-### Mishnah: Candles on Yom…
+### Mishnah: Yom Kippur
 
 We are at the *mishnah* on *amud bet* of daf 54, still within the fifth *perek* — a *perek* that has become genuinely rich and interesting. Its opening engaged the core meta-question that so many of us want to understand more deeply: what makes *minhagim* binding, and under what circumstances can they or cannot they be changed? No definitive black-and-white answers emerged, but what followed was a wide-ranging collection of particular practices: *shemita* issues, *Pesach* questions such as working on *erev Pesach* and eating roasted meat at the *leil seder*, *Avoda Zara* questions about selling to non-Jews, matters touching *Nezikin*, *Tahara*, and *Zeroim*. Now we arrive at a *Yom Kippur* issue.
 
@@ -28,7 +28,7 @@ Rav Yehoshua reports that Rava expounded the *pasuk* *netzer mata'ai ma'aseh yad
 
 ## Fire Blessing Debate
 
-### Blessing Only Motzaei Sh…
+### Blessing Light Shabbat
 
 From the discussion of candles on *Yom Kippur*, the *Gemara* transitions to an associated matter: the blessing over fire. *Amar Rav Yehuda amar Shmuel* — Rav Yehuda said in the name of Shmuel: *ein mevarachin al ha-or ela be-motzaei Shabbat*, one recites the blessing *borei me'orei ha-esh* only on *motzaei Shabbat*, *ho'il u-techilat beriyato hu* — because that is when fire was originally created.
 

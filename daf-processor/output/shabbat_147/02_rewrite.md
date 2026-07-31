@@ -122,7 +122,7 @@ However: *aval asara benei adam, mistapkim b'aluntis achas* — ten people who d
 
 ---
 
-## Oil & Body Care (III)
+## Oil & Body Care
 
 ### Anointing Oil
 
@@ -200,7 +200,7 @@ Rava applied this practically to the inhabitants of Mechuza. When they were requ
 
 ---
 
-## Oil & Body Care (III)
+## Oil & Body Care (II)
 
 ### Method Debate
 
@@ -236,7 +236,7 @@ A *baraita* then adds that Rabbi Nehorai was not actually named Nehorai — his 
 
 ---
 
-## Oil & Body Care (III)…
+## Oil & Body Care (III)
 
 ### Silver Scraper
 

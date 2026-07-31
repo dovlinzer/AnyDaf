@@ -50,7 +50,7 @@ Four lines from the bottom of 8a, we pick up again: *amar Ulla b'chosheshin l'la
 
 *V'hacha b'chivodan shel rishonim kamipalgi* — the dispute is about concern for the honor of the first judges, but in a scenario that is the reverse of what Ulla described. *V'hacha b'mai askinan k'gon d'ichnisu bei esrin v'tlasa* — the case began with a court of twenty-three, assembled *l'meidan dinei nefashos*. Then *v'izdu* — the court dispersed, because it became apparent that the husband would not be able to produce proof that his wife committed adultery. At that point the husband says: fine, I cannot prove adultery, but at least adjudicate the monetary question and let me establish that she forfeits her *ketubah*. So the question becomes: can twenty of the judges go home, leaving three to handle the *dinei mamonot*? *Rabbi Meir says yes — let twenty go and three remain. The Chachamim say: since we began with twenty-three, we keep twenty-three. To dismiss twenty of them would be a slight to their dignity. That is the *la'az* here — not that people will gossip about the woman, but that it would be disrespectful to dismiss the majority of a court that was properly convened. This is a fascinating read, though perhaps less intuitive than Ulla's.
 
-## Baraita Reconciliati (II)
+## Baraita Reconciliation
 
 ### Apparent Contradiction
 

@@ -18,7 +18,7 @@ Menachot deals with all of the grain sacrifices, and because it is quite a large
 
 The *mishna* opens: *Kol ha-menachot she-nikmetzu shelo lishman kesherot ela shelo alu la-be'alim leshem chovah* — all *menachot* that were taken with the wrong intent are still valid, yet do not count toward the owner's obligation. If a *kohen* performed the *kemitzah* — the taking of the handful — with the wrong intent (and Rashi emphasizes here, as he did in Zevachim, that intent means articulated intent rather than a mere passing thought), the *mincha* as a *korban* remains fully valid: the *kohanim* may burn the *kometz* on the altar and eat the *shirayim*. However, if the owner had taken a vow to bring this *mincha*, that vow is not discharged.
 
-### Exceptions: Chatat & Ken…
+### Exceptions: Chat & Sotah
 
 There are two exceptions: the *minchat chotei* and the *minchat kenaot*. Just as in Zevachim the *chatat* is exceptional — because a sin offering that becomes detached from its particular owner loses its entire purpose — so too here. The *minchat chotei* is a grain offering brought as an atonement. There are sacrifices that operate on a sliding scale (*oleh ve-yored*): certain oaths and certain cases of *tumah* allow a person of limited means to descend from the animal offering to a bird offering, and if they cannot afford even that, they bring a *mincha*. This *mincha* is a substitute for a *chatat*, and therefore carries the same *halacha*: if it is performed *shelo lishmo*, it is fully invalidated and must be destroyed rather than consumed. Similarly, the *minchat kenaot* — the *mincha* of the *sotah*, brought to determine whether she has committed adultery — is intrinsically linked to a specific individual and a specific determination. If it is not performed *lishmo*, it too is fully invalidated.
 
@@ -82,7 +82,7 @@ The *Gemara* resolves the ambiguity: *ella im ke-moshe nadarta asita* — if you
 
 The *Gemara* now turns to a striking question: *leima masnisatin de-lo ke-Rabbi Shimon* — perhaps our *mishna* does not reflect the position of Rabbi Shimon? A *baraisa* is cited in which Rabbi Shimon states: *kol ha-menachot she-nikmetzu shelo lishman kesherot ve-alu la-be'alim leshem chovah* — all *menachot* taken with wrong intent are valid and do indeed fulfill the owners' obligation. Rabbi Shimon does not dispute the general principle that *shelo lishma* is problematic; he holds that by *menachot* specifically, such a thought simply cannot be operative in any meaningful way.
 
-### Physical Evidence Argument
+### Shimon: Grain Proof
 
 The reason Rabbi Shimon gives is: *she-ein ha-menachot domot le-zevachim* — because *menachot* are not like animal sacrifices. By a *mincha*, the physical reality renders wrong intent self-evidently absurd. The act itself proclaims what it is.
 
@@ -136,13 +136,13 @@ The *Gemara* then asks: but our *mishna*'s illustrative example of *shelo lishma
 
 ---
 
-## Rabbi Shimon Contradicti…
+## Rabbi Shimon: Intent
 
-### Position 1: No Invalidat…
+### First Position: No Inval
 
 To this point, we have seen Rabbi Shimon in the *baraisa* saying that wrong intent by *menachot* is meaningless because the physical reality speaks for itself.
 
-### Position 2: Intent Inval…
+### Intent & Korban Type
 
 Yet in another *baraisa*, Rabbi Shimon says explicitly: *kodesh kodashim hi ke-chatat u-ke-asham* — this verse comparing the *mincha* to the *chatat* and the *asham* yields practical consequences. *Minchat chotei harei hi ke-chatat*: since the *minchat chotei* is like a *chatat*, performing it *shelo lishmah* renders it *pesulah* — fully invalid, just as a *chatat* done *shelo lishmo* is invalid. And *minchat nedava harei hi ke-asham*: an ordinary *minchat nedava* done *shelo lishmah* is *kesheirah* — valid — just as the *asham* is valid when done with wrong intent. But just as the *asham* in such a case is *kasher ve-eino meratzeh* — valid as a sacrifice but not credited to the owner — so too the *minchat nedava* done *shelo lishmah* is valid but does not fulfill the owner's obligation. So Rabbi Shimon does acknowledge that *shelo lishmo* can affect a *mincha* — either fully invalidating it (*minchat chotei*) or at minimum leaving the owner without credit (*minchat nedava*).
 

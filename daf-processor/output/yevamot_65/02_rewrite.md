@@ -60,7 +60,7 @@ One might ask whether this principle extends to business or damages contexts —
 
 The *Gemara* now turns to the classic scenario: *hu amar minei, v'hi amra mineh* — he says the infertility problem is hers, and she says it is his. This is presumably the standard case underlying the entire discussion, and the *halacha* would seem to be that she receives her *kesubah* since the fault is not established. Tosafot raises a number of complicated questions about what precisely distinguishes this scenario from earlier cases, but the *Gemara* here takes a specific direction.
 
-### Yora K'chetz
+### Yora K'Chetz
 
 Rabbi Ami rules: *dvarim she-beino l'veina ne'emenes* — in matters that are between the two of them privately, she is believed. The *Gemara* then explains the mechanism: *hi kama leh b'yora k'chetz, hu lo kama leh b'yora k'chetz* — she is in a better position to know whether he ejaculates with the force of an arrow, *yora k'chetz*, than he is during the act itself. If she is claiming that the cause of the infertility is a weakness in his ejaculation, we credit her testimony because she has better access to that information than he does. This raises a natural question: why must this be the specific claim? Why isn't a general assertion that it may be his problem sufficient? We have already said that since it may be his problem, she receives her *kesubah* — the language *lo zachah l'hibanos mimenah* suggests the possibility is always open. This is a question that Tosafot grapples with, though the discussion there is complicated enough not to pursue here in full.
 

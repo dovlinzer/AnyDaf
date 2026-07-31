@@ -1,4 +1,5 @@
 # Sanhedrin 19b — Daf Yomi Shiur
+[DAF:19a]
 
 ## Melech Lo Dan
 
@@ -34,6 +35,7 @@ This brings us to the *ma'aseh* that established the rule for the kings of Israe
 
 They sent word to King Yannai: *avdach katal nafsha* — "Your servant has killed a person." They instructed him to send the slave to be judged. Then they went further and summoned the king himself: *ta ant nami lehacha* — "You must come here as well." The legal basis for this is the principle of *ve-hu'ad biv'alav*: *amrah Torah yavo ba'al ha-shor ve-ya'amod al shoro* — the Torah requires that the owner of an ox be present at the trial of a *shor haniskal*. The comparison of the slave to the ox is, admittedly, a discomfiting one, but the legal principle being invoked is that one whose property causes harm bears a legal stake in the proceedings and must be present. This concept has obvious parallels in the legal doctrine of *respondeat superior*, where an employer bears liability for harm caused by an employee acting in the course of his duties — though the precise contours of that parallel are a separate discussion.
 
+[DAF:19b]
 ### Shatach & Yannai
 
 > **Hebrew/Aramaic:** אֲתָא וִיתֵיב. אֲמַר לֵיהּ שִׁמְעוֹן בֶּן שָׁטַח: יַנַּאי הַמֶּלֶךְ, עֲמוֹד עַל רַגְלֶיךָ וְיָעִידוּ בָּךְ. וְלֹא לְפָנֵינוּ אַתָּה עוֹמֵד, אֶלָּא לִפְנֵי מִי שֶׁאָמַר וְהָיָה הָעוֹלָם אַתָּה עוֹמֵד, שֶׁנֶּאֱמַר: ״וְעָמְדוּ שְׁנֵי הָאֲנָשִׁים אֲשֶׁר לָהֶם הָרִיב וְגוֹ״. אָמַר לוֹ: לֹא כְּשֶׁתֹּאמַר אַתָּה, אֶלָּא כְּמָה שֶׁיֹּאמְרוּ חֲבֵרֶיךָ.

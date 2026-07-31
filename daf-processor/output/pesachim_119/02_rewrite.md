@@ -186,7 +186,7 @@ The Gemara does not provide the full context for each of these attributions, but
 
 ---
 
-## Doubling Verses (III)
+## Doubling Verses
 
 ### Custom Doubling
 
@@ -204,7 +204,7 @@ The Gemara asks: *mai mashma d'over lishna de-akdumi hu* — how do we know that
 
 ---
 
-## Doubling Verses (III)
+## Doubling Verses (II)
 
 ### Rabbi Doubling
 
@@ -238,7 +238,7 @@ David, of course, was also a flawed individual in various ways, and he did not m
 
 ---
 
-## Doubling Verses (III)…
+## Doubling Verses (III)
 
 ### Repetition Concern
 

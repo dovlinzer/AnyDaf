@@ -1,6 +1,6 @@
 # Bava Metzia 93 — Daf Yomi Shiur
 
-## Workers' Rights: Stipula…
+## Workers' Rights: Kinyan
 
 ### Stipulation Categories
 

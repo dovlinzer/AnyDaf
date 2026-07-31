@@ -1,4 +1,5 @@
 # Sanhedrin 102 — Daf Yomi Shiur
+[DAF:102a]
 
 ## Intro & Overview
 
@@ -272,6 +273,7 @@ That night, Menashe appeared to him in a dream.
 
 *Amar: chavrecha ve-chavrei de-avuch karita lan?* — you called us your colleagues and your father's colleagues? The impertinence of that designation! Then Menashe posed a question: *me-heicha de-ba'it le-mishra ha-motzi?* — where does one break the bread when reciting *ha-motzi*? Rav Ashi admitted he did not know. Menashe was incredulous: you perform *ha-motzi* every single day and you do not know the proper place from which to break it — and you consider yourself our colleague? Rav Ashi, rather than defending himself, asked Menashe to teach him. *Agmar li, ul-machar darishna mi-shmach be-pirka* — teach me, and tomorrow I will transmit this teaching in your name in the public assembly. Menashe replied: *me-heicha de-karim bishula* — from where the baking forms a crust. Rashi suggests this means one takes from the outer, firmer crust rather than the soft interior, or from the part that is more thoroughly baked.
 
+[DAF:102b]
 ### Seduction Defense
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ: מֵאַחַר דְּחַכִּימַתְּ כּוּלֵּי הַאי, מַאי טַעְמָא קָא פָּלְחִיתוּ לַעֲבוֹדָה זָרָה? אֲמַר לֵיהּ: אִי הֲוֵת הָתָם, הֲוֵת נָקֵיטַתְּ בְּשִׁיפּוּלֵי גְּלִימָא וְרָהֲטַתְּ אַבַּתְרַאי.

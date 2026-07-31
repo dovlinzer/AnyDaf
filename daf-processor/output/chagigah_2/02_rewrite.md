@@ -34,7 +34,7 @@ The *mishna* continues: *hechigeir* — one who is lame; *vehasuma* — one who 
 
 The child described by *Beit Hillel* must clearly be older than the one described by *Beit Shammai*: *Beit Shammai*'s threshold is met as soon as the child can ride on his father's shoulders, while *Beit Hillel* requires that he walk independently. This may initially appear to run counter to the usual expectation that *Beit Hillel* takes the more lenient position — but here *Beit Hillel* actually exempts more children by setting a higher bar for obligation. Since a *chiyuv* is a *chumra*, *Beit Hillel*'s wider exemption is in fact the more lenient ruling.
 
-### Shammai-Hillel Value Dis…
+### Shammai-Hillel: Korban
 
 *Beit Shammai* further rules that the minimum expenditure for the *re'iyah* — the *olah* — is two pieces of silver, and for the *chagiga*, one silver coin. *Beit Hillel* reverses this: the *re'iyah* requires only one silver coin while the *chagiga* requires two. Here again, *Beit Hillel*'s position is the more lenient one in a practical sense. Since the *chagiga* is a *shelamim* that the offerer eats, spending more on it yields a tangible personal benefit — more food — whereas the *re'iyah* is an *olah* that is burned entirely. *Beit Hillel* thus requires a smaller outlay for the *korban* from which one derives no personal benefit.
 
@@ -68,7 +68,7 @@ But according to the view that *kulan tashlumin l'rishon* — all the subsequent
 
 The *gemara* therefore proposes a third answer: *l'atuyei suma b'achat mei'einav* — to include a person who is blind in one eye. Such a person is not fully blind and might be expected to be obligated; the *gemara* proposes that the word *hakol* comes to confirm this.
 
-### Yochanan ben Dehavai Rul…
+### Yochanan ben Dehavai
 
 But here too there is a dissenting opinion. A *braita* records that *Yochanan ben Dehavai* rules in the name of *Rabbi Yehuda* that *suma b'achat mei'einav patur min ha're'iyah* — a person blind in one eye is exempt from the *korban re'iyah*. Given this position, Yochanan ben Dehavai cannot accept the *gemara*'s third proposed inclusion, and must therefore hold by one of the earlier positions instead.
 
@@ -80,7 +80,7 @@ It is worth noting that this interpretive move carries an embedded assumption ab
 
 ---
 
-## Ravina & Half-Slave Stat…
+## Ravina & Slave Status
 
 ### Mishna Rishona Resolution
 
@@ -108,7 +108,7 @@ It is important to note that *tikkun ha'olam* in *Masechet Gittin* carries a fai
 
 The resolution: *kofin et rabo ve'oseh oto ben chorin* — the *Beit Din* compels the master to free the slave entirely. Once freed, *vechotev lo shtar al chatzi damav* — the formerly enslaved person writes a promissory note to the master for half his monetary value, representing the half that the master effectively surrendered.
 
-### Ravina Applied to Early…
+### Ravina Applied Early
 
 With this context established, the *gemara* explains Ravina's position cleanly. When Ravina ruled that the half-slave-half-free person is exempt from *re'iyah*, he was operating according to the position of the *mishna rishona* — specifically, the original position of *Beit Hillel*, which contemplated this status as a potentially permanent arrangement. Under that view, such a person genuinely exists in a stable half-free state, and his partial servitude plausibly exempts him. But once *Beit Hillel* accepted *Beit Shammai*'s argument and ruled that the *Beit Din* must compel manumission, the intermediate status is no longer tenable. The *mishna achrona* reflects this revised position, and accordingly, the half-slave-half-free person — to the extent the status persists even briefly — is included in the obligation of *korban re'iyah*.
 

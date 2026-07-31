@@ -1,4 +1,5 @@
 # Yoma 75 — Daf Yomi Shiur
+[DAF:75a]
 
 ## Inuy & Yom Kippur
 
@@ -392,6 +393,7 @@ The Gemara returns to the competing descriptions of the *mahn*'s taste: one vers
 
 The word *slav* is written with a *shin* but read with a *samech* — the two letters being interchangeable in sound. *Rabbi Chanina* plays on the dual reading: read with a *shin*, *slav* suggests *shalvah*, tranquility. *Tzaddikim ochlin oso bishalvah* — the *tzaddikim* ate it in peace and ease. *Reshaim ochlin oso vedomeh lahem kesilon* — for the *reshaim*, eating it was like thorns — *silon*, read with a *samech*. The same food, in the same moment, produced opposite experiences depending on the character of the one consuming it.
 
+[DAF:75b]
 ### Quail Types
 
 > **Hebrew/Aramaic:** אָמַר רַב חָנָן בַּר רָבָא: אַרְבָּעָה מִינֵי סְלָיו הֵן, וְאֵלּוּ הֵן: שִׁיכְלִי, וְקִיבְלִי, וּפַסְיוֹנִי, וּשְׂלָיו. מְעַלְּיָא דְּכוּלְּהוּ: שִׂיכְלִי, גְּרִיעָא דְּכוּלְּהוּ: שְׂלָיו. וְהָוֵי כְּצִיפַּורְתָּא, וּמוֹתְבִינַן לֵהּ בְּתַנּוּרָא וְתָפַח וְהָוֵה מְלֵי תַּנּוּרָא, וּמַסְּקִינַן לֵיהּ אַתְּלֵיסַר רִיפֵי, וְאַחֲרוֹנָה אֵינָהּ נֶאֱכֶלֶת אֶלָּא עַל יְדֵי תַּעֲרוֹבֶת.

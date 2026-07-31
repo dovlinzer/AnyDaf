@@ -6,15 +6,15 @@
 
 The present daf opens a new *mishna* within this *perek*, which has been devoted throughout to the laws of *hatmana* — insulating food before *Shabbat*. The governing framework is familiar: one may not insulate food in a material that adds heat (*davar hamosif hevel*), but one may insulate it in a material that merely retains heat (*davar she'eino mosif hevel*). That much has been established. What the new *mishna* now introduces is a further distinction — between insulating *before Shabbat* begins and doing so *on Shabbat* itself.
 
-### Mishna: When Insulation…
+### Mishna: Insulation Rules
 
 The *mishna* states: *lo hitmanu m'bo yom, lo yitmi'nenu m'shetechshach* — if one did not insulate the pot from before nightfall, one may not insulate it once *Shabbat* has begun, even in a material that only retains heat and does not add to it. This creates an asymmetry that requires explanation: if the material in question adds no heat, what possible concern could arise from insulating on *Shabbat* itself?
 
-### Fear of Heating
+### Removing & Restoring Pots
 
 Rashi addresses this directly, noting that the explanation was already given in the second chapter — roughly twenty *dappim* earlier. The relevant principle is *g'zeira shema yartiyach*: a rabbinic decree born of the fear that one might come to heat the food. The application here is a striking one. Throughout the earlier chapters, the paradigmatic concern was inadvertent action — a pot sitting in hot coals and the person absentmindedly stirring them. Here, the feared scenario is different. If it is *Shabbat* itself and the food has not been set up in any insulation from before *Shabbat*, the food will by now have cooled somewhat. A person wishing to insulate it in heat-retaining material will recognise that the effort is only worthwhile if the pot is sufficiently hot. The concern is that he will first place it on the fire to reheat it — and in doing so, inadvertently forget the larger context of *Shabbat*. One might think this scenario too deliberate to constitute inadvertent transgression, but the *g'zeira* accounts for the very human experience of becoming so absorbed in a task — heating the pot, preparing for guests — that one loses sight of the fact that it is *Shabbat*.
 
-### Removing & Restoring Pots
+### Fear of Heating
 
 The *mishna* continues: *kiseihu v'nitgaleh, mutar l'chasoto* — if one covered the pot before *Shabbat* and it became exposed, one may re-cover it. As Tosafot notes, and as the Gemara's earlier discussion implied, this extends beyond accidental uncovering: one may actively remove the pot from its insulation and restore it. The permissibility is one of *continuation* — restoring a state of insulation that already existed before *Shabbat* — as opposed to initiating a new act of *hatmana* from scratch on *Shabbat* itself.
 
@@ -66,7 +66,7 @@ Rashi explains the logic: Rabbi Yosi adopted a subservient posture out of respec
 
 The Gemara now presents a practical narrative. Rav Nachman instructed his servant: *atmin li tzonei* — go insulate this cold water for me. Additionally, he requested: *v'aisei li maya de'achim kefela armayei* — bring me water that has been heated by a certain non-Jewish cook.
 
-### Ammi Objects, Yosef Defe…
+### Ammi's Objection, Yosef
 
 Rabbi Ammi heard of this and was offended. Rav Yosef immediately came to Rav Nachman's defense: *mai ta'ama ikpid?* — what is the basis for objecting? *Ke'rabosei avid* — Rav Nachman acted in accordance with the rulings of his own teachers.
 

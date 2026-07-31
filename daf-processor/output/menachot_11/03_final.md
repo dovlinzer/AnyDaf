@@ -1,4 +1,5 @@
 # Menachot 11 — Daf Yomi Shiur
+[DAF:11a]
 
 ## Kometz Wholeness
 
@@ -218,6 +219,7 @@ A *braita* is cited that specifies the minimum required. If the *levona* was red
 
 Rabbi Shimon disagrees: even one *koret* is sufficient. Less than that — a partial pod — is *pasul*, but a whole pod, however small, is valid.
 
+[DAF:11b]
 ### All Present?
 
 > **Hebrew/Aramaic:** וְהָתַנְיָא (רַבִּי שִׁמְעוֹן אוֹמֵר): קוֹמֶץ לְבוֹנָה שֶׁחָסַר כׇּל שֶׁהוּא – פָּסוּל. תְּנִי: קוֹרֶט לְבוֹנָה שֶׁחָסַר כׇּל שֶׁהוּא – פָּסוּל. וְאִיבָּעֵית אֵימָא: כָּאן בִּלְבוֹנָה הַבָּאָה עִם הַמִּנְחָה, כָּאן בִּלְבוֹנָה הַבָּאָה בִּפְנֵי עַצְמָהּ.

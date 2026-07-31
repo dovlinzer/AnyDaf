@@ -1,4 +1,5 @@
 # Zevachim 28 — Daf Yomi Shiur
+[DAF:27b]
 
 ## Inner Altar Sanctifies
 
@@ -80,6 +81,7 @@ It is worth noting one nuance regarding the word *lemachar*: in the case of a *s
 
 ## Fat Tail Skin Debate
 
+[DAF:28a]
 ### Samuel's View
 
 > **Hebrew/Aramaic:** סַבְרוּהָ: עוֹר אַלְיָה – כְּאַלְיָה דָּמֵי; וְהָא קָא מְחַשֵּׁב מֵאֲכִילַת מִזְבֵּחַ לְאָדָם!
@@ -220,6 +222,7 @@ The verse concludes: *ve'hanefesh ha'ochelet mimenu avonah tisa* — the person 
 
 The Gemara asks: how do we know it is *chutz lizmano* that carries *karet* and not *chutz limkomo*? Perhaps *mimenu* refers to the *chutz limkomo* case. Several arguments are advanced. First: *mistabra chutz lizmano adif d'patach bei* — it stands to reason that *chutz lizmano* is the weightier category, since the verse opens with it. Counterargument: *adaraba chutz limkomo adif d'samich lei* — on the contrary, *chutz limkomo* is the most recently mentioned category and *mimenu* naturally refers back to the most proximate referent. The Gemara cannot resolve this from the verse alone.
 
+[DAF:28b]
 ### Short Pesuk Kedoshim
 
 > **Hebrew/Aramaic:** אֶלָּא אָמַר אַבָּיֵי: כִּי אֲתָא רַב יִצְחָק בַּר אַבְדִּימִי [אָמַר רַב], סָמֵיךְ אַדְּתָנֵי תַּנָּא: כְּשֶׁהוּא אוֹמֵר ״שְׁלִישִׁי״ בְּפָרָשַׁת ״קְדֹשִׁים תִּהְיוּ״ – שֶׁאֵין תַּלְמוּד לוֹמַר, שֶׁהֲרֵי כְּבָר נֶאֱמַר: ״וְאִם הֵאָכֹל יֵאָכֵל מִבְּשַׂר זֶבַח הַשְּׁלָמִים בְּיוֹם הַשְּׁלִישִׁי״;

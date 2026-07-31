@@ -172,7 +172,7 @@ The derivation comes from a parallel. Later in the same section of *psukim* deal
 
 ---
 
-## First Braita Logic (II)
+## First Braita Logic
 
 ### First Establishes
 

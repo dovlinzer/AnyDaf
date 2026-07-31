@@ -48,7 +48,7 @@ Under this method, the concern about adding text after the fact is largely resol
 
 Tosafot addresses this concern directly. The *halacha* is that for a *shtar mekushar* requiring three signatures, one need only validate (*lekayem*) three of them — not all of them. This means that if a forger adds extra lines of text and procures additional signatures alongside them, he gains nothing, because the court will simply validate the original three genuine signatures and disregard the rest. The forged extra signatures, lacking validation, will not strengthen the fraudulent additions. This asymmetry between genuine and forged signatures effectively neutralizes the scheme.
 
-## Witness Signature Direct…
+## Witness Signatures
 
 ### Bottom-Up Signing
 

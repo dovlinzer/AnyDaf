@@ -1,4 +1,5 @@
 # Zevachim 91 — Daf Yomi Shiur
+[DAF:91a]
 
 ## Tadir vs. Kadosh
 
@@ -296,6 +297,7 @@ The second scenario: *im ra'ita shemen shenitan al gabei ishim* — if you see o
 
 The source: the verse says *korban mincha* — the word *korban* is superfluous. The *Torah* could have simply said *mincha*. The addition of *korban* teaches that there is something else which can constitute its own *korban* in the manner of a *mincha* — and from this, the *gemara* derives that oil may be brought as a *nedava*. *Melamed shemisnadvim shemen.* The *binyan av* then follows: just as a *mincha* involves a *kometz* burned and the remainder eaten, so too oil — *mah mincha kometz ve'shiyurav ne'echalim, af shemen kometz ve'shiyurav ne'echalim*.
 
+[DAF:91b]
 ### Baraita Evidence
 
 > **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: אַף אֲנַן נָמֵי תְּנֵינָא, אָמַר רַבִּי שִׁמְעוֹן: אִם רָאִיתָ שֶׁמֶן שֶׁמִּתְחַלֵּק בַּעֲזָרָה – אִי אַתָּה צָרִיךְ לִשְׁאוֹל מַהוּ; אֶלָּא מוֹתַר רְקִיקֵי מִנְחוֹת יִשְׂרָאֵל וְלוֹג שֶׁמֶן שֶׁל מְצוֹרָע, שֶׁאֵין מִתְנַדְּבִין. מִכְּלָל דְּמַאן דְּאָמַר מִתְנַדְּבִין – מִתְחַלֵּק.

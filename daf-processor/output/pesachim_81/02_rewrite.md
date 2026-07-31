@@ -74,7 +74,7 @@ This last scenario leads to an observation by *Rashi* and *Tosafot* about which 
 
 ---
 
-## Tzitz Timing & Aware (II)
+## Tzitz Timing & Awareness
 
 ### After Zerika Only
 
@@ -140,11 +140,11 @@ For the *korban pesach*, *Rabbi Yochanan* cites the word *lachem* — "to you" �
 
 *Reish Lakish* derives the principle differently: *k'derech* — like a road or path, which is *galuy*, open and exposed to all. Just as a public road is known to everyone, so too *tumah* must be of the known, public variety. If it is not generally visible and knowable, it is not in the relevant category.
 
-### Scriptural Source Challe…
+### Scripture Source Quiz
 
 The *gemara* objects to all three scriptural derivations. The *mishnah* and *baraita* define *tumat hatehom* with extreme precision: the *tumah* was unknown to even *one person* in the entire world. This is an extraordinarily narrow category. But the scriptural derivations would yield a much broader category. According to *Rabbi Eliezer*'s derivation, the category would be anything unknown to the person himself. According to *Rabbi Yochanan*'s derivation from *lachem* — the plural form, "to you" — it would require that the *tumah* be unknown to at least two people. According to *Reish Lakish*'s derivation from the analogy to a path, it would need to be unknown to the general public. None of these yields the precise *halacha* that even one person's knowledge anywhere in the world removes the classification of *tumat hatehom*.
 
-### Halacha Lemoshe Conclusi…
+### Tumat HaTehom Halacha
 
 The conclusion is therefore clear: *tumas hatehom hilchasa gemiri lah* — *tumat hatehom* is a received tradition, a *halacha l'Moshe miSinai*. *U'kra asmachta b'alma* — the scriptural verses are mere supports (*asmachta*), not the true source of the law. This conclusion retroactively explains the discussion earlier in the *sugya*: when *Rava* was asked to apply a *kal v'chomer* from *pesach* to *tamid*, the response that *tumat hatehom* is *halacha l'Moshe miSinai* was precisely the conclusion arrived at here. *Rashi* notes that the discussion we have just read was chronologically prior and that the *gemara* above presupposed its outcome.
 

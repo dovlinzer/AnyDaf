@@ -1,6 +1,6 @@
 # Arakhin 27 — Daf Yomi Shiur
 
-## Son Purchases Father's F…
+## Son Buys Father's Field
 
 ### Scenario Setup
 
@@ -8,7 +8,7 @@ The mishnah presents the following scenario: *halokeach sadeh me-aviv u-meis avi
 
 Before turning to the more complex case in the mishnah, it is worth noting a fascinating *Rambam* and *Ra'avad* bearing on the earlier portion of the chapter. The mishnah had established that if the original owner did not personally redeem his field from *hekdesh* but instead bought it from a third party who had redeemed it, he loses the field when *yovel* arrives, since he was not the first to redeem it from the Temple treasury. The *Rambam*, however, rules the opposite: if someone else redeemed the field and the original owner subsequently purchased it from that person, the owner retains it when *yovel* comes. The *Ra'avad* objects sharply — this contradicts an explicit mishnah. He then adds, however, that upon consulting various manuscripts, he actually found a version of the mishnah that reads as the *Rambam* does. This exchange illustrates how much of this area of *halacha* remains underdeveloped in the *gemara*, given its practical irrelevance in later generations.
 
-### Father Dies After Sancti…
+### Father Dies After Sancti
 
 The mishnah then turns to a harder case: *hikdisha ve-achar kach meis aviv* — he purchased the field, sanctified it, and only afterward did his father die. At the moment of sanctification, the son's relationship to the field was that of a purchaser alone; his father was still alive and the son had not yet inherited anything. Later, when *yovel* arrives, the field would naturally fall into the category of an inherited field since his father has since died. The question is: which moment determines the field's classification — the moment of sanctification or the moment of *yovel*?
 
@@ -44,7 +44,7 @@ The mishnah then states: *ha-kohanim ve-ha-Levi'im makdishim le-olam ve-go'alim 
 
 ---
 
-## Redemption Without Jubil…
+## Redemption Without Jub.
 
 ### No Jubilee Effects
 
@@ -68,7 +68,7 @@ A striking episode is recorded in the mishnah. Someone sanctified a field *mipne
 
 The point of the episode is dual. First, it confirms that redemption is a bidding process and not a unilateral assessment by *hekdesh*. Second, and more significantly, it establishes that the court does not merely invite the owner to bid — it pressures him to bid. *Hekdesh* must not become a dumping ground for worthless property.
 
-### Fifth Addition Requireme…
+### Chomesh Requirement
 
 The *gemara* explores the precise mechanism of the owner's obligation to add a *chomesh*. The *tanna kamma* of the case holds that the owner must bid at least an *issar*, because an *issar* contains at least four or more *perutot*, meaning that when the *chomesh* — which is technically one quarter of the principal, such that the principal becomes four-fifths of the total — is calculated on an *issar*, the result is at least a *perutah*. One cannot add a *chomesh* of less than a *perutah*, since that is the minimum denomination for a valid halachic transaction. *Rabbi Yose*, however, holds that even if the bid is only a *beitzah* — an egg — whose fifth would fall below a *perutah*, it is still valid: *hekdesh nifdeh be-kesef u-ve-shaveh kesef*, even a non-monetary equivalent of minimal value suffices to redeem *hekdesh*. The *gemara* confirms that the dispute cannot concern whether equivalents are acceptable in principle — that is agreed upon by all. The debate is specifically whether one may redeem *hekdesh* when the *chomesh* that results would be less than a *perutah*.
 
@@ -92,7 +92,7 @@ The case of the initial ten-*shekel* bidder who backs out is handled differently
 
 ---
 
-## Owner vs. Other Bidd (II)
+## Owner vs. Other Bidders
 
 ### Owner's Fifth Advantage
 
@@ -108,7 +108,7 @@ This is a striking consequence. The owner entered the auction prepared to pay tw
 
 The mishnah traces through successive increments. At twenty-two, twenty-three, and twenty-four offered by the non-owner, the owner still wins — paying twenty-seven, twenty-eight, and twenty-nine respectively — since his twenty plus five still outpaces the non-owner's offer. When the non-owner reaches twenty-five, the owner's twenty plus five equals exactly twenty-five — a tie — and the owner still receives the field since the tie goes to him, with his total payment now thirty. At this point the mishnah notes: *she-ein mosifin chomesh al iluyo shel zeh* — the *chomesh* is calculated only on the owner's own bid, not on the non-owner's higher offer.
 
-### Owner's Final Offer Opti…
+### Owner's Final Bid Option
 
 When another bidder reaches twenty-six, the owner's twenty plus five is now only twenty-five — strictly less than twenty-six — and the owner can no longer claim the field on the strength of his original bid alone. At this point the mishnah affords the owner an option: *im ratzu ha-be'alim notnim shloshim ve-echad ve-dinar* — if the owner wishes, he may submit a final offer of thirty-one and a fraction, which is equivalent to revising his base bid to approximately twenty-six, yielding a total that exceeds twenty-six. If he elects to do so, *ha-be'alim kodmim* — he takes the field. If not, *omer lo harei hi shelcha* — the field goes to the twenty-six bidder.
 
@@ -118,7 +118,7 @@ The mishnah's structure implies that outside of this final option, the auction i
 
 ## Auction Mechanics (II)
 
-### Sequential vs. Simultane…
+### Sequence vs Simultaneous
 
 *Rav Chisda* introduces a critical distinction. The mishnah states that when the fifty-*shekel* bidder backs out, he pays ten; when the forty-*shekel* bidder backs out, he pays ten; and so on down to the twenty-*shekel* bidder, each paying ten. *Rav Chisda* asks: why does the forty-*shekel* bidder pay the full ten between his bid and the thirty-*shekel* bid below him? If the fifty-*shekel* bidder had also backed out, should he not share responsibility for that gap?
 

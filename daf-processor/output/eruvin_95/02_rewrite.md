@@ -8,7 +8,7 @@ We pick up on the bottom of 94b, four lines from the bottom. By way of review, t
 
 This connects directly to the principle of *keivan de'hutra hutra* — once something begins *Shabbos* in a permitted state, *hutra le'oho Shabbos*, it remains permitted for the entire *Shabbos*: *hutra lechol ha'Shabbos kulo*. Things continue in the condition in which they began. There is, of course, a limit to this principle. If the situation deteriorates to the point of a genuine biblical violation — such as a true *reshus ha'rabim* — one cannot invoke mere rabbinic leniency to sustain it.
 
-### Maintaining Initial Stat…
+### Maintaining Status
 
 This is precisely why the *gemara* labored to explain that the *mishnah*'s case of two walls falling down does not really mean that the space has been reduced to an open field. Rather, we are dealing with something like two corners of a wall having crumbled, while the structure retains mostly intact walls on three sides in various configurations. The *gemara* explored why the *mishnah* needed to specify two walls when even one wall falling would suffice to compromise the *reshus ha'yachid* status and generate the scenario under discussion.
 
@@ -46,7 +46,7 @@ The *gemara* then asks whether the debate between Abaye and Rava regarding *s'ch
 
 The *gemara* asks whether this means Abaye follows Rav and Rava follows Shmuel. The answer is more nuanced: the debate of Abaye and Rava, on this reading, is *aliba d'Rav* — both are working within Rav's framework, which ordinarily permits invoking *pi takra* on all four sides. Abaye holds that this applies to the *sukkah* case as well. Rava disagrees.
 
-### Permanent vs. Ad Hoc Roo…
+### Permanent vs. Ad Hoc
 
 Rava's position is that Rav's permission to invoke *pi takra* on four sides was stated specifically where *hani mechitzos l'achsadra avidi* — the roof was built as part of the portico structure itself, and so the roof defines and encloses the space beneath it. In that case, the logic of *pi takra* is compelling: a permanent roof suggests the existence of walls and creates a sense of enclosed space. But in the *sukkah* case, one simply set up posts and laid *s'chach* on top — an ad hoc arrangement made for a specific purpose. Rava holds that such a roof, *lav l'sukka avidi* in the relevant sense, lacks the structural character necessary to invoke *pi takra* on all four sides. The underlying logic, as one might frame it, is that *pi takra* derives its force from the way a roof naturally implies an enclosed structure beneath it; a purely temporary covering arranged for *Sukkos* does not carry that implication strongly enough to generate four conceptual walls.
 
@@ -66,7 +66,7 @@ Rav Sheshet rules *l'issura*, and so does Rabbi Yochanan. The logic is straightf
 
 On the question of practical *psak*, Rav Chiya bar Yosef rules like Rabbi Yosi, while Shmuel rules like Rabbi Yehuda, maintaining that the space retains its permitted status. This latter ruling appears consistent with the broader principle cited in Rav Yehuda's name from Shmuel: *kol makom sheshana Rabbi Yehuda b'Eruvin halacha k'moso* — wherever Rabbi Yehuda rules in *Eruvin*, we follow him.
 
-### Shmuel's Qualified Posit…
+### Shmuel vs Rabbi Yehuda
 
 However, the *gemara* challenges whether Shmuel truly maintains this position across the board. Rav Chana Bagdata'ah asks Rav Yehuda: does Shmuel mean to rule like Rabbi Yehuda even in the case of our *mishnah* — where the beam or post of a *mavoi* fell down, eliminating the requisite wall configuration — and say that carrying there remains permitted? This is the case of *b'mavoi shenitla koraso o lechayav*.
 
@@ -74,7 +74,7 @@ However, the *gemara* challenges whether Shmuel truly maintains this position ac
 
 Shmuel clarifies: *b'Eruvin amri lach, v'lo b'mechitzos* — his ruling in favor of Rabbi Yehuda applies to *halachos* of *eruvin* proper, not to questions of wall requirements. The distinction is significant: while we often discuss both under the heading of *Eruvin*, the laws of *mechitzos* are technically *Shabbos* laws that define the character of a *reshus ha'yachid*, while *eruvin* in the narrow sense concerns the joining together through bread or food to create communal unity permitting carrying. Shmuel will follow Rabbi Yehuda on the former, not the latter.
 
-### Karmelis vs. Reshus Hara…
+### Karmelis v. Reshus
 
 Rav Abba offers a further precision, reporting what was explained to him directly from Shmuel: the ruling depends on what domain the wall opens to. *Kan shenifretzu l'karmelis, kan shenifretzu l'reshus ha'rabim*. If the breach exposes the *chatzer* to a *karmelis*, there is less cause for concern — even if one carries from the *chatzer* into the *karmelis*, it is only a rabbinic transgression, and so the space may remain in its initial permitted status over *Shabbos*. But if the breach opens to a *reshus ha'rabim*, one risks a biblical transgression, and Shmuel would not permit the space to continue in its permitted status.
 

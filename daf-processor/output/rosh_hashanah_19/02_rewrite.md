@@ -20,7 +20,7 @@ The Gemara begins its analysis by connecting the question to the earlier discuss
 
 The analogy is admittedly strange. The five fast days began as days of tragedy — their natural state is mourning. During the era of the Second Temple they were transformed, paradoxically, into days of rejoicing, a kind of "last laugh" of history. With no *Beit Hamikdash*, they revert to that natural state. By contrast, the days in *Megillat Ta'anit* began as days of celebration — their natural state is festivity. One might argue they should retain that status even without the Temple. The very comparison thus seems to cut against Rav and Rabbi Chanina's position. Nevertheless, that is the analogy they offer.
 
-### Fundamental vs. Continge…
+### Taanit vs. Yom Tov Status
 
 Rabbi Yochanan and Rabbi Yehoshua ben Levi respond to this argument directly. It is specifically the five fast days whose festive status is *explicitly* tied by the verse to the existence of the *Beit Hamikdash* — *talia Rachmana bevinyan Beit Hamikdash*. Those days' transformation into days of joy was always conditional on the Temple's presence. But the days listed in *Megillat Ta'anit* carry no such condition. Their status as holidays is not contingent on the *Beit Hamikdash*, and therefore — *kidekai kai* — they stand on their own terms. Stated more simply: the five fast days are fundamentally fast days that were temporarily elevated; without the Temple they revert. The *Megillat Ta'anit* days are fundamentally holidays; without the Temple, they remain holidays.
 
@@ -36,7 +36,7 @@ Rav Kahana raises a challenge from a recorded incident: *ma'aseh vegezeru ta'ani
 
 The response of the Sages was swift and public. Rabbi Eliezer went and bathed, and Rabbi Yehoshua went and got a haircut — acts that explicitly violated the norms of a fast day, performed openly to demonstrate that they did not recognize the fast's validity. They then declared to those who had fasted: *tze'u vehit'anu al mah shehit'anitem* — go now and make a fast as *teshuvah* for having fasted. Their willingness to do so publicly shows that *lo batla Megillat Ta'anit* — the prohibition on fasting on Chanukah remained in force.
 
-### Tosafot: Holiday vs. Fas…
+### Tosafot: Chanukah Holiday
 
 Before one concludes from this incident that it constitutes proof against *batla Megillat Ta'anit*, Tosafot makes an important observation. One might have thought that the Mishnah's continued treatment of Chanukah as a holiday — with candle-lighting and *Al Hanissim* — itself proves *lo batla Megillat Ta'anit*. Tosafot rejects this inference. It is entirely possible to hold *batla Megillat Ta'anit* and still light Chanukah candles. The candle-lighting and commemoration of the miracle stand independently of the question of *Megillat Ta'anit*'s annulment. *Batla Megillat Ta'anit* addresses only whether a day has the status of a minor *yom tov* such that fasting and *hesped* are forbidden on it — not whether other *mitzvot* associated with that day continue to be observed.
 
@@ -60,7 +60,7 @@ Abaye presses back: if we are in a position of *batla Megillat Ta'anit* for the 
 
 Rav Yosef refines his answer: *shani Chanukah demefarsam nisa* — Chanukah is different because the miracle was very public. The principle of *pirsumei nisa* — publicizing the miracle — carries particular weight. Whether this means the miracle itself was objectively greater in its visibility, or that the value placed on publicizing it gives Chanukah an enduring significance that other *Megillat Ta'anit* days lack, the implication is that Chanukah occupies a distinct halakhic category that survives the general annulment.
 
-### Rashi: Social Entrenchme…
+### Rashi: Social Entrenchm
 
 Rashi reads the situation somewhat differently. He writes: *kevar hu galuy lechol Yisrael al yedei shenahagu bo mitzvah vehiziku bo keshel Torah velo nachon levattla* — it is already manifest throughout all Israel, through the practice of its *mitzvah*, and they have treated it with the force of Torah law, and it would not be proper to annul it. For Rashi, Chanukah's retention is not primarily a function of objective factors like the nature of the miracle, but of social and communal entrenchment. It has become so deeply embedded in Jewish practice that reversing it is simply not a viable option — and that social reality is itself halakhically significant.
 
@@ -94,7 +94,7 @@ Rav Acha bar Huna's question now generates one of the more striking dialectical 
 
 The irony is almost comic: Tzom Gedaliah, a fast commemorating a profound tragedy at the close of the First Temple period, had become a day of celebration — *lesason u'lesimcha* — during the Second Temple era. There was, so to speak, no fast to override. Why add it to *Megillat Ta'anit*?
 
-### Strengthening via Days B…
+### Rabbinic Strengthening
 
 The Gemara's answer, offered in the name of Rav, is precise: *lo nitzercha ela lesur shelefanav* — the purpose of designating the third of Tishrei as a *Megillat Ta'anit* day was not to make the day itself a holiday (it already was one), but to extend the prohibition on fasting to the day *before* it — the second of Tishrei. A *Megillat Ta'anit* day, being rabbinic, carries the effect of prohibiting fasting on the days both before and after it, and that is what the designation was intended to achieve.
 

@@ -34,7 +34,7 @@ The logic is elegant. The *baraita* speaks of the order of putting on (*no'el*),
 
 A coda: Rav Assi observed that Rav Kahana was not particular about this order at all. And a later *baraita* from *Masechet Derech Eretz* specifies: when putting shoes on, right first then left; when removing them, left first then right (so that the right foot, which bears the shoe when only one shoe is worn, is the last to be exposed). This *baraita* also extends the principle beyond shoes.
 
-### Daily Order & Consciousn…
+### Daily Order & Mind
 
 The *baraita* continues: when bathing, one washes the right side first and then the left. When anointing with oil, one anoints the right side first and then the left. And if one wishes to anoint the entire body, one begins with the head, because the head is the king over all the limbs (*shemelech al kol ivarav*).
 

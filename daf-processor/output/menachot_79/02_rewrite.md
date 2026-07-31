@@ -4,7 +4,7 @@
 
 ### Toda & Bread Intro
 
-We begin on the bottom of 79b. The Torah presents a fascinating hybrid in the Toda: it has a korban element and a bread element — though it is worth noting that the bread is not quite a standard Mincha. The Toda is Kodshim Kalim rather than Kodshei Kodshim, it is not brought independently, and so its bread component occupies a somewhat ambiguous category. Nevertheless, the Gemara treats it in relationship to Mincha law, and what we are focused on is how the Toda relates to its bread. As we saw previously, the slaughtering of the korban — the shechita — is what confers Kedusha upon the bread. The discussion that follows examines the conditions and limitations of that principle.
+ The Torah presents a fascinating hybrid in the Toda: it has a korban element and a bread element — though it is worth noting that the bread is not quite a standard Mincha. The Toda is Kodshim Kalim rather than Kodshei Kodshim, it is not brought independently, and so its bread component occupies a somewhat ambiguous category. Nevertheless, the Gemara treats it in relationship to Mincha law, and what we are focused on is how the Toda relates to its bread. As we saw previously, the slaughtering of the korban — the shechita — is what confers Kedusha upon the bread. The discussion that follows examines the conditions and limitations of that principle.
 
 ### Chutz Lizmano/Limkomo
 

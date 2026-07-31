@@ -1,4 +1,5 @@
 # Nazir 42b — Daf Yomi Shiur
+[DAF:42a]
 
 ## Intro & Opening
 
@@ -48,6 +49,7 @@ Rava, however, draws a firm line: *aval tumah v'tumah lo*. If a *nazir* or *kohe
 
 One might push back: is not touching a second corpse analogous to taking an additional sip of wine, where additional prohibited substance enters the body? The distinction is precisely that additional wine constitutes an additional quantity of the prohibited substance, whereas additional contact with a corpse does not change the person's *status* of *tumah*—which is what the prohibition targets. Indeed, touching a corpse on a later day does have a practical consequence, namely resetting the count toward the sprinkling of *parah adumah* ashes, but touching again on the same day when already *tamei* may have no such effect on the person's status at all.
 
+[DAF:42b]
 ### Rav Yosef's position
 
 > **Hebrew/Aramaic:** וְרַב יוֹסֵף אָמַר: הָאֱלֹהִים! אָמַר רַב הוּנָא: אֲפִילּוּ טוּמְאָה וְטוּמְאָה. דְּאָמַר רַב הוּנָא: נָזִיר שֶׁהָיָה עוֹמֵד בְּבֵית הַקְּבָרוֹת, וְהוֹשִׁיטוּ לוֹ מֵתוֹ וּמֵת אַחֵר וְנָגַע בּוֹ — חַיָּיב. אַמַּאי? הָא מִיטַּמֵּא וְקָאֵים! אֶלָּא לָאו שְׁמַע מִינַּהּ, אָמַר רַב הוּנָא: אֲפִילּוּ טוּמְאָה וְטוּמְאָה.

@@ -8,7 +8,7 @@ Today's daf is 94, situated within the perek of *Hagozel Etzim*, the eighth pere
 
 The *mishnah* established that a *shinuy* does transfer ownership to the *gazlan*. The *Gemara* then distinguished between two categories: a *shinuy* that is reversible — *chozer l'vriyaso* — and one that is not. A further question was raised: does the reversible *shinuy* effect acquisition only on a rabbinic level, or even on a biblical one?
 
-### Reversible vs. Irreversi…
+### Chozer vs. Lo Chozer
 
 The significance of *chozer l'vriyaso* as a category requires careful appreciation. The *chiddush* is not merely that something can be trivially undone. Even where a substantial transformation has occurred — one that would require considerable effort to reverse — the *Gemara* suggests it may still be classified as a *shinuy hachozer l'vriyaso*. The mere theoretical possibility of reversal, however laborious, may suffice to place a *shinuy* in the weaker category that does not effect acquisition on a biblical level.
 
@@ -70,7 +70,7 @@ The *Gemara* initially puzzles over this formulation, since taking the improveme
 
 The second option — the blanket ability to say *harei shelcha lifanecha* under all circumstances — demonstrates the principle of *shinuy bamkomo omed*: the object is always the same object, always belonging to the original owner, who may always reclaim it regardless of what has happened to it. The *Gemara* then poses the obvious challenge: if *shinuy bamkomo omed* — if the object never changes identity — why should the *gazlan* ever be entitled to *notel shivcho*? If it remains the owner's property throughout, the owner should receive the enhanced value as well. The *Gemara* answers: *mipnei takanas hashavin* — because of the ordinance to facilitate repentance, discussed in the following section.
 
-## Takanat Hashavin (III)
+## Takanat Hashavin
 
 ### Improvement Example
 
@@ -156,7 +156,7 @@ Rabbi Hiyya bar Abba cites Rabbi Yochanan: *devar Torah, gezeilah hamishtanit ch
 
 The implication runs in two directions simultaneously, and it is worth pausing to appreciate the ambiguity. On the one hand, this is a *chumra*: even if the *gazlan* has transformed the object into something far more valuable, the owner takes title to the enhanced version. On the other hand, it is a *kula*: even if the object has deteriorated drastically or died, the *gazlan* may return it as is and discharge his obligation. The *halacha* of *shinuy*, as elaborated by the *mishnah* and the rabbinic tradition, plainly recognizes change as a relevant factor. Rabbi Yochanan's statement is therefore positioned as a claim about the *Torah* level of the law — what the biblical verse mandates — not about the rabbinic superstructure built atop it.
 
-## Takanat Hashavin (III)
+## Takanat Hashavin (II)
 
 ### Purpose of Takanah
 
@@ -176,7 +176,7 @@ The *Gemara* challenges Rabbi Yochanan's position: Rabbi Yochanan himself holds 
 
 Rabbi Yaakov clarifies that this difficulty was never the intent of Rabbi Yochanan's statement. Rabbi Yochanan never claimed that the *Torah* categorically refuses to recognize *shinuy*. He claimed specifically that *shinuy hachozer l'vriyaso* — a reversible change — would, on the *d'Oraisa* level, still require the return of the *gezeilah*. A change that is genuinely irreversible — transforming raw lumber into a permanent piece of furniture, or weaving wool into a garment — is recognized even by the *Torah* as effecting a transfer of ownership. What the rabbis enacted as *takanas hashavin* is limited to the case of *shinuy hachozer l'vriyaso*: where the change is theoretically reversible, the *Torah* would demand return; the rabbis, for the sake of *teshuvah*, ruled that even here the *gazlan* acquires. The *mishnah* of *reishis hageiz*, which involves true and irreversible transformation — dyeing with *kalla ilan* or similar — is thus not in tension with Rabbi Yochanan's position, because he never denied that the *Torah* recognizes genuinely irreversible change.
 
-## Takanat Hashavin (III)…
+## Takanat Hashavin (III)
 
 ### Gazlanim Case
 

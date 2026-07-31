@@ -26,7 +26,7 @@ The Mishnah then turns to the reciprocal case: *v'chein hamored al ishto*, a hus
 
 Before the Gemara addresses the monetary mechanics, it raises a prior question: *moredet mimah* — in what domain is the wife rebelling? Rav Huna says: *mi-tashmish hamitah* — she is refusing sexual relations. This is noteworthy, because the earlier Mishnah never explicitly stated that she has an obligation to have sex with her husband; it was simply assumed. If the Mishnah already detailed his obligation to have sex with her at regular intervals, it implicitly took her reciprocal obligation for granted. What she is now refusing, on Rav Huna's reading, is precisely that.
 
-### R. Yose bar Chanina: Lab…
+### R. Yose: Moredet Work
 
 Rabbi Yose bar Chanina says: *mim'lachah* — she is refusing to perform her domestic duties, the very obligations detailed at length in the preceding Mishnah, such as cooking, baking, and laundry.
 
@@ -42,7 +42,7 @@ Tosafot raises an important question: why not simply say that she can be a *more
 
 The Gemara now asks how the reciprocal case — the *mored* husband — fits into each position. *Bishlama l'man d'amar mi-tashmish* — if we are speaking about sex refusal, the parallel case is straightforward: the husband is refusing to have sex with his wife. That makes perfect sense as a mirror image.
 
-### If Labor: Parallel Suppo…
+### Moredet Labor & Support
 
 *Ela l'man d'amar mimelocha* — if the *moredet* is one who refuses domestic labor, what is the parallel for the husband? He has no comparable domestic labor obligation to her. The Gemara answers: *be-omer eini zan v'eini mefarnes* — the case is one where he says he will refuse to feed her and support her. What does she receive in exchange for her *ma'aseh yadayim*? His *mezonot*. So if she rebels by withholding her labor, the parallel is his withholding her sustenance.
 
@@ -166,7 +166,7 @@ Having established that the question of who is making the demand determines whet
 
 But if a woman cannot compel *yibum*, can she at least compel *chalitzah* when she demands it and he refuses? Here the Gemara introduces a striking argument: *de-amra, ba'ina chutra leyada u-mara likvura* — she says, "I want a staff for my hand and a shovel for my grave," meaning she wants children to care for her in old age and to bury her when she dies. She does not need to be commanded in *peru u-revu* to have a legitimate claim to children. This gives her standing to demand resolution of her situation — whether through *yibum* or *chalitzah* — even without the formal obligation that applies to him. The Gemara affirms that this same claim applies to the *shomeret yavam*: *hachi nami shomeret yavam de-ba machmas ta'ana* — when she comes with a legitimate claim, we do attend to her.
 
-### Historical Preference Sh…
+### Yibum vs Chalitzah Shift
 
 The Gemara then introduces a crucial historical distinction, cited from Rav Pada in the name of Rabbi Yochanan: *tava lachalotz nizkakim lo* — if the *yavam* demands *chalitzah* and she refuses, beit din compels her; *tava le-yabbem, ein nizkakim lo* — if he demands *yibum* and she refuses, beit din does not compel her. The reason for preferring *chalitzah* and not compelling *yibum* is given through the teaching of the Mishnah: *mitzvas yibum kodemes lemitzvas chalitzah* — originally, *yibum* took precedence over *chalitzah*, because *be-rishona she-hayu miskavnim leshum mitzvah* — in earlier times, *yibum* was performed for the sake of the *mitzvah* itself. *Achshav she-ein miskavnim leshum mitzvah, amru mitzvas chalitzah kodemes* — now that it is no longer performed with that sincere motivation, we rule that *chalitzah* takes precedence. And since we favor *chalitzah*, when he demands *yibum* against her will, we do not compel her compliance.
 

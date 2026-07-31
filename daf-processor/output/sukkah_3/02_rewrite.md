@@ -116,7 +116,7 @@ The *Gemara* does not rest with this conclusion. *U'b'sukkah ketannah lo pligi?*
 
 ---
 
-## Table in House…
+## Bet Shammai/Hillel: Table
 
 ### Language Evidence
 
@@ -148,7 +148,7 @@ The precise mechanics of how a rabbinic edict in the domain of *mitzvot asei* ca
 
 ---
 
-## Rabbi: 4x4 Amot…
+## Rabbi: 4x4 Amot Minimum
 
 ### Size Braitot
 
@@ -206,7 +206,7 @@ This ties back to the opening theme of the *masechta*. The discussion began with
 
 ---
 
-## 4x4: House…
+## 4x4 Amot: Universal House
 
 ### City Joining
 
@@ -222,7 +222,7 @@ The answer is: *burganin chazu l'milsaihu* — a lean-to is fit for what it is m
 
 ---
 
-## Sukkah vs House…
+## Sukkah vs House: Status
 
 ### Rebbe Permanent?
 
@@ -230,7 +230,7 @@ With the principle of *dirat keva* versus *dirat arai* now articulated, the ques
 
 ---
 
-## 4x4: House……
+## 4x4 Amot: House
 
 ### Brother Division
 

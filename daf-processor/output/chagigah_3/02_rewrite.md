@@ -2,11 +2,11 @@
 
 ## Re'iyah & Two Eyes
 
-### Tosafot: Korban vs. Mitz…
+### Tosafot: Korban vs Mitzva
 
 The opening discussion of our *daf* concerns the *cheresh* who is exempt from *re'iyah* — from being *oleh laregel*. Before proceeding, it is worth noting a fundamental distinction raised by the first Tosafot. Throughout the entire *masekhet*, *re'iyah* refers to the *korban re'iyah* — the *olat re'iyah*, the *korban* that is brought. Rashi, however, raises the question of whether the *mitzvah* to appear is distinct from actually bringing the *olat re'iyah*: is there a separate *mitzvah* to simply present oneself *bire'iyah ba'azarah*, to physically appear in the *azarah*, apart from the obligation to bring the *olat re'iyah*?
 
-### Yerushalmi: Universal Ob…
+### Yerushalmi: Regel
 
 Tosafot points to a Yerushalmi that addresses this very question. While only males — and only those enumerated in the *mishnah* — are obligated in the *olat re'iyah*, and all the exemptions listed there apply, the Yerushalmi maintains that the *mitzvah* to appear in the *azarah* — to literally be *oleh laregel* — applies to everyone, even women and children, derived from *hakhel*. This is a remarkable position: what the Torah presents as a once-in-seven-years obligation, the Yerushalmi understands as applying universally to all. Tosafot then goes on to demonstrate that this is clearly not the position of the Bavli. Still, it is important to note the distinction between focusing narrowly on the *korban* and thinking more broadly about the concept of being *oleh laregel*.
 
@@ -162,7 +162,7 @@ The *aggadeta* here sits in elegant tension with the opening of the story: Rabbi
 
 ## Rabbi Eliezer & Mesora
 
-### Acknowledgment Before Te…
+### Teaching Acknowledgment
 
 The *gemara* now asks: given the exchange we just read — the visiting students reluctantly acknowledging to Rabbi Yehoshua that they had something to tell him only after he pressed them — why did they need to go through that dance at all? Why didn't they simply tell him directly, *be-hedya*, what had transpired in the *beit midrash*? The answer: *mishum ma'aseh shehaya* — because of a prior episode in which someone went directly, without any such deference, and the outcome was not good. The lesson that one should first acknowledge the rabbi as the source of one's Torah, before simply presenting a teaching, is derived from that episode.
 

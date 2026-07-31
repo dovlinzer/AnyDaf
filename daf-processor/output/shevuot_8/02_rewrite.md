@@ -118,7 +118,7 @@ Having identified the scenario, the *Gemara* asks whether the inner *korban* pro
 
 This raises the obvious question: if the *pnimi korban* neither fully atones nor exempts the person from bringing his own *korban* — what exactly does it accomplish? *Rabbi Zeira* answers: *lomar she'im mes mes belo avon* — it ensures that if a person dies while still oblivious to his sin, he dies without iniquity. He is not held accountable for what he never knew he had done. The *korban* provides him cover, so to speak, against being judged for an unresolved sin at the time of death.
 
-### Rava: Suffering Protecti…
+### Rava: Suffer Protection
 
 *Rava* challenges *Rabbi Zeira*'s explanation: if the person dies before becoming aware, *misa memarekes* — death itself atones for sin. Divine death is inherently purifying; the person would be cleared in any event. So what unique contribution does the *pnimi korban* make? *Rava* answers: *lehagein alav min hayisurin* — it protects the person from *suffering* in this world. A person who sinned *bishogeg* — without full intentionality — and remains unaware of his transgression, may nonetheless be subject to divinely ordained suffering on account of that unresolved sin. The *pnimi korban* of *Yom Kippur* shields him from that suffering during the period of unawareness. This is a striking theological claim: one can suffer in life for a sin committed inadvertently and never consciously confronted, and the communal *Yom Kippur* service provides protection against precisely this.
 

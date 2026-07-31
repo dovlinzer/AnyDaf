@@ -234,7 +234,7 @@ This is admittedly a somewhat forced reading of Rabi Oshaya's statement, but the
 
 ---
 
-## Potential Redemption Iss…
+## Potential Redemption
 
 ### Redemption Logic
 
@@ -280,7 +280,7 @@ The *gemara* now identifies an internal tension within Rabi Shimon's own positio
 
 The *gemara* presses this further in a formal way: if Rabi Shimon's rule is that once there is an opportunity to do the *zerika* the meat is considered food, then the *baraita* should have presented a more subtle internal distinction within the category of meat that stayed overnight *lifnei zerika*. It should have said: *bameh devarim amurim* — when does this meat *not* count as food? *She-lo haytah she'ut ba-yom* — only when the animal was slaughtered with insufficient time remaining in the day to perform the *zerika* (e.g., immediately before sunset). *Aval haytah lo she'ut ba-yom — metamei tumat ochlin* — but if there was ample time during the day to perform the *zerika* and it was not done, then it would be food. The *baraita* does not say this; it simply says that meat before *zerika* is not food, full stop. This seems to imply that the theoretical ability to do the *zerika* does not affect the status.
 
-### Opportunity vs. Obligati…
+### Opportunity vs Need
 
 The *gemara* formally resolves this by saying *hachi nami ka'amar* — yes, that is in fact what is meant. The *baraita* is to be read as implying that if there was sufficient time to perform *zerika* and it was not done, the meat would be considered food. The distinction is between having had no opportunity at all (*shelo haytah she'ut ba-yom*) versus having had the opportunity. This resolution is forced — the *baraita* does not actually say this explicitly — and the *gemara* acknowledges the awkwardness by reading it into the text. But the upshot is: Rabi Shimon is understood to hold that the theoretical possibility of *zerika* does constitute a kind of *sha'at ha-kosher*, much as the possibility of redemption does for *parah adumah*.
 

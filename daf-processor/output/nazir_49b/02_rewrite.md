@@ -14,7 +14,7 @@ This *perek* has been centrally concerned with the prohibition against a *nazir*
 
 To some degree, this *mishnah* covers territory one might expect to find in *masechta Taharot*, cataloguing the minimum sizes of a dead body and its parts that cause *tumat meit*. We will not be immersing ourselves in every corner of those laws, but the *mishnah* does give us the basic framework: what objects, in what quantities, cause *tumat meit*, and in particular which of those require the *nazir* to shave his head, nullifying his prior count, requiring a *korban*, and necessitating a fresh start.
 
-### Halacha L'Moshe Exceptio…
+### Halacha L'Moshe: Tumah
 
 An important nuance emerges: in a few cases, something causes *tumat meit* as a matter of *d'oraita* law, and yet the *nazir* is nonetheless not obligated to shave. These exceptions are derived from *halacha l'moshe misinai* — received tradition without explicit scriptural derivation. This distinction is not merely theoretical. Since the parameters of *tumat kohanim* are learned from the restrictions of the *nazir*, these exceptions carry practical relevance for *kohanim* as well, and one should keep that in mind as the discussion unfolds.
 
@@ -128,7 +128,7 @@ This same *gemara* also appears in *Kiddushin* 52b, where its original literary 
 
 ## Netzeil Discussion
 
-### Netzeil Definition
+### Netzeil Definition (II)
 
 The *gemara* now returns to the *mishnah*'s mention of *netzeil* to define it precisely. *Netzeil* is flesh of a corpse that has liquefied and subsequently congealed: *basar hameit shekarash*.
 

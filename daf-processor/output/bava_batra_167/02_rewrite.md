@@ -2,7 +2,7 @@
 
 ## Signature Display Rules
 
-### Displaying Signature Loc…
+### Signature Display
 
 The daf opens with a teaching of Abaye concerning the proper way to display one's signature to a *beit din*. The practical need for this arises from a scenario the Gemara describes: Reuven and Shimon have both signed a *shtar*, but Shimon has since died and no one in the world can identify Shimon's signature except Reuven and one other person. Since Reuven cannot both testify to Shimon's signature and validate his own — for that would mean three-quarters of the *shtar* is being validated through Reuven's testimony alone — a workaround is required. Reuven and the other witness testify to Shimon's signature, while Reuven contrives to let the *beit din* observe his own handwriting directly, without formal testimony. He enters the courtroom, begins practicing his signature, "accidentally" drops the paper, and walks away. The *beit din* then examines the writing on its own initiative, gaining firsthand familiarity with his signature without any testimonial act on his part.
 

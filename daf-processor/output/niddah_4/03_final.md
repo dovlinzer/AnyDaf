@@ -1,4 +1,5 @@
 # Niddah 4 — Daf Yomi Shiur
+[DAF:4a]
 
 ## Box & Rodent Case
 
@@ -208,6 +209,7 @@ Returning to the main thread: the debate between Chizkiyah and Rabbi Yochanan ov
 
 ## Private Domain Doub (III)
 
+[DAF:4b]
 ### Private Domain Rule
 
 > **Hebrew/Aramaic:** מִכְּדִי הַאי כִּכָּר סְפֵק טוּמְאָה בִּרְשׁוּת הַיָּחִיד הוּא, וְכֹל סְפֵק טוּמְאָה בִּרְשׁוּת הַיָּחִיד — סְפֵקָהּ טָמֵא, מִשּׁוּם דְּהָוֵי דָּבָר שֶׁאֵין בּוֹ דַּעַת לִישָּׁאֵל, וְכׇל דָּבָר שֶׁאֵין בּוֹ דַּעַת לִישָּׁאֵל, בֵּין בִּרְשׁוּת הָרַבִּים בֵּין בִּרְשׁוּת הַיָּחִיד — סְפֵקוֹ טָהוֹר.

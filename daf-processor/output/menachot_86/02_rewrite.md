@@ -20,7 +20,7 @@ The Gemara opens the main discussion of our daf at the very last line of 85b, es
 
 Here a textual difficulty arises immediately. Rashi's girsa of the Mishnah reads *v'im hevi pasul* — that even b'di'avad it is invalid — rather than kasher. Meanwhile, a Braita explicitly states: do not bring anpaktan, and if you did bring it, it is pasul, adding the reason *mipnei shehu seraf* — because it is not really oil at all but rather a kind of sap or raw juice. According to Rashi's reading, both the Mishnah and the Braita agree that it is invalid b'di'avad, and the question between them is whether it constitutes invalid oil or no oil at all. According to the girsa of Tosafot and most other Rishonim, the Mishnah says it is kasher b'di'avad while the Braita says it is pasul, and the question is simply whether this substance qualifies as oil for the purposes of menachot.
 
-### Rabbi Chiya vs Rabbi Shi…
+### Chiya vs Shimon: Oil
 
 Rav Yosef resolves the apparent contradiction: *lo kashya* — it is not difficult. The Mishnah reflects the view of Rabbi Chiya, and the Braita reflects the view of Rabbi Shimon bar Rabbi. Both were contemporaries in the household of Rebbi: Rabbi Chiya was Rebbi's nephew, and Rabbi Shimon bar Rabbi was Rebbi's son. Their disagreement concerns whether unripe olive oil is treated as something functional — edible oil of a lower grade — or essentially discarded as unfit substance.
 

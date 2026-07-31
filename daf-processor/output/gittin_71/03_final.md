@@ -1,4 +1,5 @@
 # Gittin 71 — Daf Yomi Shiur
+[DAF:71a]
 
 ## Testing Non-Speakers
 
@@ -128,6 +129,7 @@ The *gemara* offers an alternative answer: *gzeira achiv chereish atu achiv pike
 
 But then the *gemara* asks: *ishto nami* — if we are concerned about such confusion, why not similarly prohibit divorcing one's wife when the marriage was *d'rabbanan*, lest it be confused with a *d'oraisa* marriage? The *gemara* answers: *yevamto b'yevamto michalfa, ishto b'yevamto lo michalfa* — a person can confuse one *yibbum* case with another *yibbum* case, since both involve the same category of relationship. But no one will confuse a wife with a *yevama*, as these are categorically distinct situations in the mind of anyone dealing with them.
 
+[DAF:71b]
 ### Two Deaf Siblings
 
 > **Hebrew/Aramaic:** וּמִי גָּזְרִינַן חֵרֵשׁ אַטּוּ פִּיקֵּחַ?! וְהָתְנַן: שְׁנֵי אַחִין חֵרְשִׁין – נְשׂוּאִין שְׁתֵּי אֲחָיוֹת פִּיקְּחוֹת, אוֹ שְׁתֵּי אֲחָיוֹת חֵרְשׁוֹת, אוֹ שְׁתֵּי אֲחָיוֹת אַחַת פִּיקַּחַת וְאַחַת חֵרֶשֶׁת; וְכֵן שְׁתֵּי אֲחָיוֹת חֵרְשׁוֹת – נְשׂוּאוֹת לִשְׁנֵי אַחִין פִּיקְּחִין, אוֹ לִשְׁנֵי אַחִין חֵרְשִׁין, אוֹ לִשְׁנֵי אַחִין אֶחָד פִּיקֵּחַ וְאֶחָד חֵרֵשׁ – הֲרֵי אֵלּוּ פְּטוּרוֹת מִן הַחֲלִיצָה וּמִן הַיִּבּוּם. וְאִם הָיוּ נׇכְרִיּוֹת, יִכָּנְסוּ; וְאִם רָצוּ לְהוֹצִיאָן – יוֹצִיאוּ.

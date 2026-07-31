@@ -6,15 +6,15 @@
 
 The *gemara* opens with a case involving a barrel of wine whose spout has been dislodged. With the spout removed, there is simply a hole in the barrel, and the wine begins to flow out. A non-Jewish person comes over and places his hand over the hole to prevent the wine from spilling — *ata oved kochavim idrei anach yadei iloy*. The question before Rav Papa is what status to assign to the wine remaining in the barrel.
 
-### Rav Papa v. 1: Proximity…
+### Rav Papa: Wine Opening
 
 In the first version of Rav Papa's ruling, he says: *kol de-lehavi barza assur* — whatever wine was in the vicinity of the spout opening is prohibited, because the non-Jewish person made contact with it. *Ve-idach shari* — the rest of the wine in the barrel, however, remains permissible. This is the more lenient position: only the wine in direct proximity to the opening is affected.
 
-### Rav Papa v. 2: Drainage…
+### Rav Papa v. 2: Wine Above
 
 The second version of Rav Papa's ruling is considerably stricter. He says: *ad ha-barza chamra assur* — all of the wine in the upper portion of the barrel, meaning everything that would have drained out through the hole had the non-Jew not been holding his hand there, is prohibited. Since it is only the non-Jew's physical presence that keeps that wine from flowing out, it is considered as though he controls it. *Ve-idach shari* — only the wine in the lower portion, which would not have drained out regardless, remains permissible.
 
-### Rav Yeimar: Tannaic Para…
+### Rav Yeimar: Pierced Vases
 
 Rav Yeimar then raises a challenge: *ke-tannai* — perhaps Rav Papa's ruling corresponds to a *machloket* among *tanna'im*, and specifically that Rav Papa's position aligns with the minority opinion. As Rashi explains on 60a, Rav Yeimar is pointing out that Rav Papa stands with Rabbi Yehuda, and since the rule is *yachid ve-rabbim halacha ke-rabbim*, aligning with Rabbi Yehuda places Rav Papa in the minority.
 
@@ -58,7 +58,7 @@ The governing principle across these cases is the distinction between active con
 
 The *gemara* turns to a case of wine being transported: *hai oved kochavim de-dari zika ve-kazil Yisrael achorei* — a non-Jewish person is carrying wine in a skin (*zika*), a bag-type container, while a Jewish person follows behind to supervise and ensure the wine is not tampered with.
 
-### Rav Papa: Full vs. Parti…
+### Rav Papa: Full vs Partial
 
 Rav Papa draws a distinction based on how full the skin is. If it is full — *malya* — it is permissible, *de-lo mekarkesh*: there is no air space, so the wine cannot be shaken around. If it is only partially full — *chasira* — it is prohibited, *dilma mekarkesh*: the non-Jew could shake the bag, agitating the wine in a way that could constitute prohibited handling.
 
@@ -82,7 +82,7 @@ Rav Ashi's rationale is: *ein derech nisuch b'kach* — this is not the customar
 
 The *gemara* now turns to the wine press. The setting is *me-atzra zeira* — a wine press of a specific kind. Rashi explains: *gat she-ein dorechin ela kofshin ba-kora* — a press where the grapes are not trodden by foot but instead crushed by a mechanical beam. The mechanism involves placing grapes in the press, using a lever or piston to apply downward force, and allowing the juice to flow out. The non-Jewish person operates this press without any direct physical contact with the grapes or the wine itself. The question is whether this kind of indirect involvement renders the wine prohibited.
 
-### Direct vs. Secondary For…
+### Bekocho vs Koach Kocho
 
 Rav Pappi rules it permissible; Rav Ashi — or according to another version, Rav Shimi bar Ashi — rules it prohibited. The *gemara* then clarifies the scope of their debate. *Bekocho* — if the non-Jew applied his own physical strength directly to the press mechanism, pressing the lever down himself — *kulei alma lo peligi de-assur*: everyone agrees it is prohibited. That is equivalent to tilting the barrel: the wine is produced by his direct force.
 

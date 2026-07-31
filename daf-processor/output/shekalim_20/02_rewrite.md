@@ -114,7 +114,7 @@ The *gemara* will engage with this difficulty in the discussions that follow. It
 
 ---
 
-## Takanot Found Animal (II)
+## Takanot Found Animals
 
 ### Nesachim Rule
 

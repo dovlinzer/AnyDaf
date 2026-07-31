@@ -1,4 +1,5 @@
 # Hullin 88 — Daf Yomi Shiur
+[DAF:87b]
 
 ## Blood & Water Mixtures
 
@@ -40,6 +41,7 @@ The passage states: all liquids of a corpse are *tahor* except for its blood. Th
 
 ## Impure Liquids & Tumah
 
+[DAF:88a]
 ### Corpse Exception
 
 > **Hebrew/Aramaic:** וְאֵלּוּ וָאֵלּוּ אֵין מְטַמְּאִין, וּשְׁאָר כׇּל הַטְּמֵאִין, בֵּין קַלִּין בֵּין חֲמוּרִין – מַשְׁקִין הַיּוֹצְאִין מֵהֶן כְּמַשְׁקֶה הַנּוֹגֵעַ בָּהֶן, וְאֵלּוּ וָאֵלּוּ תְּחִלָּה, חוּץ מִן הַמַּשְׁקֶה שֶׁהוּא אַב הַטּוּמְאָה.
@@ -162,6 +164,7 @@ Tosafot offers a simpler interpretation. The word *tzarich* in *klal hatzarich l
 
 In summary: Rashi locates the problem in the ambiguity of the *klal* itself; Tosafot locates it in the *prat* having been drafted for a separate legal point. Both arrive at the conclusion that *klal u'prat* does not apply here.
 
+[DAF:88b]
 ### Ribuy u'Miut Method
 
 > **Hebrew/Aramaic:** וּנְסוֹרֶת שֶׁל חָרָשִׁין דַּקָּה, וְסִיד, וְחַרְסִית לְבָנָה וּמְגוּפָה שֶׁכְּתָשָׁן? תַּלְמוּד לוֹמַר: ״וְכִסָּהוּ״. יָכוֹל שֶׁאֲנִי מְרַבֶּה אַף זֶבֶל הַגַּס, וְחוֹל הַגַּס, וּשְׁחִיקַת כְּלֵי מַתָּכוֹת, וּלְבֵנָה וּמְגוּפָה שֶׁלֹּא כְּתָשָׁן, וְקֶמַח, וְסוּבִּין, וּמוּרְסָן? תַּלְמוּד לוֹמַר: ״בֶּעָפָר״.

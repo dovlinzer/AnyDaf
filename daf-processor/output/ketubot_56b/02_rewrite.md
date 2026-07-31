@@ -1,6 +1,6 @@
 # Ketubot 56b — Daf Yomi Shiur
 
-## R. Meir: Ketubah Stipula…
+## R. Meir: Ketubah Terms
 
 ### Yehuda vs. Meir on Waiver
 
@@ -12,7 +12,7 @@ Abaye answers: the rabbis reinforced only what was a definite (*vadai*) institut
 
 The bottom line of this section is that Rabbi Yehuda is less strict than Rabbi Meir. Rabbi Meir does not allow the woman to be *mochel* any part of the *ketubah* at all — the effective obligation for Rabbi Meir must be the full 200 or 100. Rabbi Yehuda allows a woman to be *mochel* after the fact but does not allow the amount to be modified at the outset, because even though he permits modification of the biblical monetary obligations of marriage, this rabbinic one he wishes to reinforce, and therefore the base obligation must stand.
 
-### Stipulation Nullity Theo…
+### Stipulation Nullity Thry
 
 Turning to Rabbi Meir's position as it appears in the *Mishnah* — *kol hapocheis l'betulah mi'masayim u'l'almanah mi'maneh harei zu biat zenut* — one might initially have understood Rabbi Meir as saying that you cannot effectively make the obligation less, and that continuing to live in such a marital state constitutes something closer to *zenut* than to marriage. The whole weight of marriage — the *ketubah*, the reciprocal obligations and protections — is what gives *nissu'in* its character. So the simple reading of Rabbi Meir is that you may have lowered the amount but you transgress.
 
@@ -30,7 +30,7 @@ The *Gemara* does not take that route. Rather than treating the *ketubah* as uni
 
 ---
 
-## Three Positions: Stipula…
+## Three Positions: Stipulim
 
 ### R. Yosi: Allowed
 
@@ -46,13 +46,13 @@ Rabbi Meir's position remains as analyzed above: the stipulation fails entirely,
 
 ---
 
-## Chattel Designation Disp…
+## Chattel Designation
 
 ### Chattel Prohibition
 
 The *Gemara* introduces a *braisa*: *ein osin kesubas ishah mitaltlin mipnei tikkun ha-olam* — you do not designate *metaltalim*, movable property — chattel — as the lien on which the *ketubah* will be collected, for the sake of the benefit of society (*tikkun ha-olam*). This is not a reduction of the woman's liens on real estate — the standard formulation *kol nichasai achrayin*, which is a *tenai beit din*, remains — but rather a prohibition on affirmatively designating specific movable property as the designated source of collection. The *tikkun ha-olam* reason: chattel can be destroyed, lose value, or be lost, whereas real estate cannot be stolen away. If you designate only the Wedgwood China and it breaks, the woman is left with nothing.
 
-### R. Yosi: Liability Insuf…
+### R. Yosi: Liability Issue
 
 Rabbi Yosi objects: *v'chi mah tikkun ha-olam yesh bazeh* — what societal benefit is served by this? *Vehalo ein kesuvos u'pochsin* — does not the value of such property diminish? At first glance this seems to simply restate what the *Tanna Kamma* already said. The *Gemara* observes: *Tanna Kamma nami ein osin ka'amar* — the *Tanna Kamma* also said you are not allowed to make such a designation. So what precisely is their dispute?
 
@@ -126,7 +126,7 @@ The *Gemara* asks: what difference does it make which debate we collapse? Rav Pa
 
 ---
 
-## Twelve-Month Waiting Per…
+## Waiting Period After
 
 ### Mishnah: 12 vs. 30 Days
 
@@ -168,7 +168,7 @@ The *Mishnah* then covers cases where the twelve-month period is split between t
 
 ---
 
-## Postponement Rights: Ket…
+## Postponement Rights Ket
 
 ### Ketanah: Can Postpone
 

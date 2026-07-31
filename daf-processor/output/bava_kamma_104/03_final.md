@@ -1,4 +1,5 @@
 # Bava Kamma 104 — Daf Yomi Shiur
+[DAF:104a]
 
 ## Mishnah Attribution
 
@@ -164,6 +165,7 @@ Rabbi Yochanan disagrees: *im eidim chotmim aleha meshalchin* — if witnesses h
 
 The *gemara* then asks: according to Shmuel, what practical mechanism can a debtor use to repay a distant creditor? The answer is provided through a narrative. Rabbi Abba had money owed to him by Rav Yosef bar Chama. He asked Rav Safra, who was traveling to that locale, to collect it on his behalf. When Rav Safra arrived, Rava bar Rav Yosef — the son of Rav Yosef bar Chama — challenged him: *mi katav lach hitkabalti* — did Rabbi Abba write you a document of *hitkabalti*, an acknowledgment stating that receipt of the money by the *shaliach* constitutes receipt by the creditor himself? Rav Safra said no. Rava bar Rav Yosef therefore refused to pay, instructing him: *ei hachi, zil bereisha veyichtov lach hitkabalti* — go back first and obtain this *hitkabalti*, and only then will I release the funds. The logic is clear: without such an authorization, handing the money to the *shaliach* does not discharge the debt; if the money is then lost or stolen in transit, the debtor remains liable.
 
+[DAF:104b]
 ### Death Problem
 
 > **Hebrew/Aramaic:** לְסוֹף אֲמַר לֵיהּ: אִי כָּתַב לָךְ נָמֵי "הִתְקַבַּלְתִּי", לָאו כְּלוּם הוּא; דִּלְמָא אַדְּאָתֵית שָׁכֵיב רַבִּי אַבָּא, וְנָפְלוּ זוּזֵי קַמֵּי יַתְמֵי, וְ"הִתְקַבַּלְתִּי" דְּרַבִּי אַבָּא לָאו כְּלוּם הוּא. אֲמַר לֵיהּ: וְאֶלָּא מַאי תַּקַּנְתָּא? זִיל נַקְנִינְהוּ לָךְ אַגַּב אַרְעָא, וְתָא אַתְּ כְּתוֹב לַן "הִתְקַבַּלְתִּי".

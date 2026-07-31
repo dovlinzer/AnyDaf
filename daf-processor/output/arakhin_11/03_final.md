@@ -1,4 +1,5 @@
 # Arakhin 11 — Daf Yomi Shiur
+[DAF:11a]
 
 ## Temple Vessels
 
@@ -140,6 +141,7 @@ But if *shira* requires wine, how can *Bikkurim* require *shira*? There is no wi
 
 ## When Singing Require (II)
 
+[DAF:11b]
 ### Chizkiyahu Story
 
 > **Hebrew/Aramaic:** חֲנַנְיָא בֶּן אֲחִי רַבִּי יְהוֹשֻׁעַ אָמַר, מֵהָכָא: ״מֹשֶׁה יְדַבֵּר וְהָאֱלֹהִים יַעֲנֶנּוּ בְקוֹל״, עַל עִסְקֵי קוֹל. רַב אָשֵׁי אָמַר, מֵהָכָא: ״וַיְהִי כְאֶחָד לַמְחַצְּצרִים וְלַמְשֹׁרְרִים לְהַשְׁמִיעַ קוֹל אֶחָד״.

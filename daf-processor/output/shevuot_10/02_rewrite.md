@@ -42,7 +42,7 @@ The Gemara responds: *ibra Rosh Chodesh nami ikri mo'ed* — indeed, Rosh Chodes
 
 This historical episode is then connected to the verse in Eichah: *kara alai mo'ed lishbor bachurai* — "He has called a *mo'ed* against me to shatter my young men." The use of the word *mo'ed* here in connection with the date of Tisha B'Av, which is fixed relative to Rosh Chodesh, demonstrates that Rosh Chodesh is itself called a *mo'ed*. Thus Rosh Chodesh falls within the scope of *eileh ta'asu b'mo'adeichem*, and the connection is complete.
 
-## Yom Kippur Inner Goa (II)
+## Yom Kippur Inner Goat
 
 ### R. Yochanan Concedes
 

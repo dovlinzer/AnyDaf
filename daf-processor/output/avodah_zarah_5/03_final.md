@@ -1,4 +1,5 @@
 # Avodah Zarah 5 — Daf Yomi Shiur
+[DAF:5a]
 
 ## Torah & Future Reward
 
@@ -296,6 +297,7 @@ We now return to the mishna and the halachic discussion: one may not conduct bus
 
 The gemara asks: u'mi be'inan kulei hai do they really need three full days to acquire what they need for their holiday? Is such advance preparation genuinely required? The gemara raises a mishna as a comparison: be'arba'ah perakim ba-shanah ha-mocher behemah le-chavero tzarich le-hodi'o at four times in the year, one who sells an animal to another must inform him whether the animal's mother or offspring was sold that day, because of the prohibition of oto ve-et beno lo tishchatu beyom echad the mother and child may not be slaughtered on the same day. Note that the transgression belongs to whoever causes both to be slaughtered on the same day, so the seller must inform the buyer.
 
+[DAF:5b]
 ### Four Festivals
 
 > **Hebrew/Aramaic:** וְאֵלּוּ הֵן: עֶרֶב יוֹם טוֹב הָאַחֲרוֹן שֶׁל חַג, עֶרֶב יוֹם טוֹב הָרִאשׁוֹן שֶׁל פֶּסַח, וְעֶרֶב עֲצֶרֶת, וְעֶרֶב רֹאשׁ הַשָּׁנָה, וּכְדִבְרֵי רַבִּי יוֹסֵי הַגְּלִילִי — אַף עֶרֶב יוֹם הַכִּפּוּרִים בַּגָּלִיל!

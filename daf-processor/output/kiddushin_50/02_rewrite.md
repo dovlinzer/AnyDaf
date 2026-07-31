@@ -240,7 +240,7 @@ The *gemara* now presents an *amoraic* debate that stands in some tension with t
 
 Rabbah then anticipates the apparent contradiction with our *mishnah*: if we are concerned about *savlonos*, how does the *mishnah* say *einam mekudashos*? Abaye answers: *hatam kideiktani ta'ama* — there, the *mishnah* itself explains why there is no concern: *she'machmat kiddushin rishonim shelach* — the *savlonos* are accounted for by the prior invalid *kiddushin*. The man sent them because he thought the first *kiddushin* had worked. That eliminates the evidentiary weight of the *savlonos*. But Rav Huna and Rabbah are addressing a different scenario: where *savlonos* are sent with no prior known *kiddushin* at all. In that case, we are concerned that a valid *kiddushin* took place beforehand.
 
-### Savlonos Indicate Kiddus…
+### Savlonos Kiddushin
 
 *Ika de'amrei* — there is an alternative version of the exchange, in which Rabbah does not present the *mishnah* as a problem at all. Rather, he reads the *mishnah* itself as the source of his ruling. The *mishnah* says the *savlonos* are not a concern *because* the prior *kiddushin* explains them — *hacha hu detai*, in the *mishnah*'s case he is mistaken in thinking the prior act was valid. *Ha be-alma havei kiddushin* — but normally, when *savlonos* are sent without any preceding invalid act to account for them, we would assume that they reflect a prior valid *kiddushin*. Abaye, in this version, pushes back and says the *mishnah*'s point was that we need no concern whatsoever — not even where *savlonos* appear without any context — since the idea that *savlonos* indicate prior *kiddushin* is not self-evidently true, given that in some communities *savlonos* are sent before *kiddushin*.
 

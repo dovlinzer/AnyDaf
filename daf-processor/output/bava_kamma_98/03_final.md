@@ -1,4 +1,5 @@
 # Bava Kamma 98 — Daf Yomi Shiur
+[DAF:97b]
 
 ## Currency Exchange
 
@@ -126,6 +127,7 @@ The *Gemara* now poses a new question. *Rava* asked *Rav Chisda*: *ha-malveh es 
 
 *Rav Chisda* answers: *nosein lo matbe'a ha-yotzei be-osah sha'ah* — he pays back with the currency currently in circulation. Even if the coin is now as large as a sieve — even as large as some great block — the answer remains yes, you pay back in current coin. One simply repays with the same denomination as borrowed.
 
+[DAF:98a]
 ### Buying Power vs. Metal
 
 > **Hebrew/Aramaic:** וְהָא קָא זָיְילִין פֵּירֵי! אָמַר רַב אָשֵׁי: חָזֵינַן; אִי מֵחֲמַת טִיבְעָא זִיל – מְנַכֵּינַן לֵיהּ, וְאִי מֵחֲמַת תַּרְעָא זִיל – לָא מְנַכֵּינַן לֵיהּ.
@@ -306,6 +308,7 @@ The lecturer finds this genuinely puzzling. One might have thought a loan docume
 
 The *Rabbanan*, by contrast, hold *davar ha-gorem le-mamon lav ke-mamon dami* — the fact that something's loss causes a monetary obligation does not confer monetary status on the thing itself. Under the *Rabbanan*, all of *Rava*'s cases result in exemption.
 
+[DAF:98b]
 ### Original Value Limit
 
 > **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: אֵימַר דְּשָׁמְעַתְּ לֵיהּ לְרַבִּי שִׁמְעוֹן דָּבָר הַגּוֹרֵם לְמָמוֹן כְּמָמוֹן דָּמֵי – בְּדָבָר שֶׁעִיקָּרוֹ מָמוֹן, כִּדְרַבָּה; דְּאָמַר רַבָּה: גָּזַל חָמֵץ לִפְנֵי הַפֶּסַח, וּבָא אַחֵר וּשְׂרָפוֹ בַּמּוֹעֵד – פָּטוּר, שֶׁהַכֹּל מְצֻוִּוים עָלָיו לְבַעֲרוֹ. לְאַחַר הַפֶּסַח – מַחְלוֹקֶת רַבִּי שִׁמְעוֹן וְרַבָּנַן;

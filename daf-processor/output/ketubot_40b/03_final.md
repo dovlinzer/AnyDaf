@@ -1,4 +1,5 @@
 # Ketubot 40b — Daf Yomi Shiur
+[DAF:40a]
 
 ## 50 Shekel Fine
 
@@ -56,6 +57,7 @@ Rava derives the same principle from a different verse: *v'natan ha'ish hashoche
 
 ## Payment Recipients
 
+[DAF:40b]
 ### Woman or Father
 
 > **Hebrew/Aramaic:** וְאֵימָא לְדִידַהּ?

@@ -1,6 +1,6 @@
 # Shabbat 154 — Daf Yomi Shiur
 
-## Carrying Home Erev Shabb…
+## Carrying Home Shabbat
 
 ### Wallet Outside City
 
@@ -10,7 +10,7 @@ We pick up at the bottom of 153, with the continuing discussion of what a person
 
 The reason the *gemara* did not raise this question in the case of placing the object on an animal is that when the animal was already in motion, there was never a proper *akira* — a halakhically significant lifting — to begin with. Consequently, there is less concern about the *hanachah*, the act of setting down.
 
-### Pachos Pachos Me'arba Am…
+### Pachos Me'arba Amot
 
 Tosafot, however, presses further: the same problem should arise in the case of walking *pachos pachos me'arba amos* — fewer than four cubits at a time — through the public domain. At some point the person must transition from *reshut harabim* to *reshut hayachid*, and the question of how to set the object down without a prohibited *hanachah* is equally acute. Tosafot notes that one could stop in a *karmelis* before entering one's house, which would reduce the concern to a rabbinic one. Regardless, Tosafot concludes that the same answer applies: one sets it down *kil'achar yad*.
 
@@ -22,7 +22,7 @@ Regarding the *techum* specifically: the Rama rules that if remaining outside th
 
 One might ask whether the rabbinic prohibitions apply at all during *bein hashmashot*, the twilight period. There is certainly a position, associated with Rebbi, that rabbinic decrees do not apply during *bein hashmashot*, at least *bemakom mitzvah*, in the context of a mitzvah. That consideration would be relevant here. As for the status of *techum* itself: although Rabbi Akiva holds it to be *d'oraisa*, the accepted ruling is that it is *derabanan*. Yet it is not entirely clear why the authorities drew the line precisely where they did, permitting some rabbinic violations in this case but not others.
 
-### Placing on Minor vs. Ani…
+### Minor vs. Animal Melachah
 
 One final point before transitioning to today's *daf* proper concerns the case of placing the object on a minor. There is a debate between the Rambam and Tosafot about whether, in that case, one must also wait for the minor to be in motion before placing the object — analogous to the requirement in the donkey case. This question is closely tied to a fundamental distinction. The donkey case involves a *d'oraisa* concern: causing one's animal to perform labor on Shabbat. But if the child in question is not one's own, there is no *d'oraisa* concern at all, since the obligation of *shvisah* — ensuring rest — applies specifically to members of one's own household. One is commanded regarding one's own children and animals, not another's.
 
@@ -32,7 +32,7 @@ This leads to a conceptually important point. The Rambam apparently holds that t
 
 ## Mechamer Achar Behemah
 
-### Full Melachah: Chatas &…
+### Donkey - Full Melachah
 
 The *gemara* begins with the statement of Rami bar Chama: *hamechamer achar behemah beShabbos beshogeg chayav chatas, meizid chayav sekilah* — one who drives his animal on Shabbat carrying a load is liable to bring a *chatas* if he did so inadvertently, and is liable to *sekilah* — death by stoning — if he did so deliberately. According to this position, *mechamer*, the act of leading one's laden animal, constitutes a full *melachah* in every sense: it is as though the person performed the act himself.
 
@@ -94,7 +94,7 @@ To summarize the two conceptual tracks that run through the *sugya*: there is a 
 
 ---
 
-## Unloading at Courtya (II)
+## Unloading at Courtyard
 
 ### Karni D'Umna & Pillows
 
@@ -118,7 +118,7 @@ The *gemara* resolves this: *bishlifi zutri* — with small sacks. Rashi explain
 
 The *gemara* then raises a *beraisa*: if one's animal was carrying *tevel* — untithed grain, which is *muktzah* — and *ashashiyos*, which the *gemara* will clarify refers to chunks of raw glass rather than finished glass lanterns, one unties the ropes and lets the sacks fall, *af al pi shemishtabrin* — even though they will break. The implication is that one makes no accommodation and allows even breakable items to fall.
 
-### Glass Chunks: Usable Bro…
+### Glass Chunks: Usable
 
 Why does this not trigger concern for *mevatel kli meheichano*? Because *ashashiyos* here means a large chunk of glass — *kulsya* — which even after breaking remains usable. Rashi suggests that the broken pieces can still serve a purpose; one possibility is that colored glass shards can be used for mosaic work, or the pieces can be remelted. Therefore, it is not a genuine loss. The *gemara* confirms this reading: *dayka nami dekasni dumya detavla* — it can be inferred by close reading, since the *beraisa* juxtaposes these glass chunks with *tevel* — something completely unusable on Shabbat — indicating that the glass chunks too are not fit for Shabbat use (*lo chazi lei*), confirming we are dealing with raw industrial material rather than finished vessels.
 
@@ -136,7 +136,7 @@ A *beraisa* relates that Rabban Gamliel's donkey was carrying honey. He did not 
 
 The *gemara* first asks why the honey could not simply be removed, since honey is not *muktzah*. The answer is *k'shehikdish* — it had spoiled. The peculiar idiom here, *dvash hikdish* ("the honey became sanctified"), actually means the opposite — it soured. Spoiled honey is *muktzah* because it is unfit for normal use. The *gemara* asks: if it spoiled, for what use is it even being preserved? The answer: *likitita d'gamlei* — it is rubbed into the sores of camels as a medicinal salve, a use unsuitable for Shabbat. Hence it is *muktzah*.
 
-### Alternative Solutions Fa…
+### Alternative: Mevatel Kli
 
 The *gemara* then considers why other solutions were not employed. Why not untie the ropes and let the sacks fall? Because *mitzru ziki* — the barrels would break, spilling the honey. Why not place pillows beneath? Because *mitanfi* — the pillows would be soiled with honey and thereby rendered unusable, which again constitutes *mevatel kli meheichano*. Unlike the earlier case where the pillows could be retrieved by gradual removal, here they become permanently soiled and unusable. That solution was therefore off the table.
 
@@ -144,7 +144,7 @@ The *gemara* then considers why other solutions were not employed. Why not untie
 
 The *gemara* points out, however, that the concern of *tza'ar ba'alei chayim* — animal suffering — can override rabbinic prohibitions. A classic parallel is the case of an animal that has fallen into a well on Shabbat: one may lower pillows into the well for the animal to rest on, even though this renders the pillows unusable (*mevatel kli meheichano*), because preventing the animal's suffering takes precedence over rabbinic restrictions. If that precedent exists, why did Rabban Gamliel not simply place pillows to reduce the animal's load, notwithstanding the *mevatel kli* concern?
 
-### Gamliel: Tzaa'r Only Rab…
+### Gamliel: Tzaar Only Rabbi
 
 The *gemara* resolves: *kasavar tza'ar ba'alei chayim derabbanan* — Rabban Gamliel holds that the prohibition against causing animal suffering is itself only rabbinic in origin. If that is the case, it is merely a rabbinic concern competing against another rabbinic concern (*mevatel kli meheichano*), and one does not simply override the other.
 
@@ -200,7 +200,7 @@ This challenge shows that a distinction between *tzedadim* and *tziddei tzedadim
 
 Rav Papa offers a different explanation of why the peg matters, one that does not require accepting a distinction between *tzedadim* and *tziddei tzedadim*. Even if one holds that the trunk itself may be used, the *mishnah* may specify the peg for a different reason: *hacha b'kalkalah d'chukah askinan* — the basket has a very narrow opening. If the basket were attached directly to the tree, retrieving the food would require inserting one's hand deeply into the basket, and the jostling — *d'shakil lei ati l'atuyei ilana* — would cause the tree to shake. Shaking the tree is the equivalent of using the treetop, which is unambiguously forbidden. With the peg, the basket hangs freely enough that one can retrieve the food without causing the tree to move.
 
-### Halakha: Trunk vs. Attac…
+### Trunk vs. Attached Items
 
 *V'hilchesa*: the ruling is that *tzedadin asurin* — the trunk of the tree is forbidden — and *tziddei tzedadin mutarin* — things attached to the trunk are permitted. This follows Abaye's distinction rather than Rava's flattening of the categories.
 

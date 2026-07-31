@@ -56,7 +56,7 @@ What remains clear as the halachic bottom line for our *mishnah* is *Rabbi Shimo
 
 ---
 
-## Daughter's Earnings Righ…
+## Daughter's Earning Rights
 
 ### Earnings Question
 
@@ -160,7 +160,7 @@ The *gemara* closes with competing traditions. Ami bar Maimra told Rav Ashi that
 
 ---
 
-## Ketubah Rights (Betr (II)
+## Ketubah Rights: Betrothal
 
 ### Eirusin Divorce
 

@@ -14,7 +14,7 @@ Having reviewed those conclusions, the *gemara* now pivots to a completely diffe
 
 ---
 
-## Kol Shemimenu L'Ishi (II)
+## Kol Shemimenu L'Ishim
 
 ### Tanu Rabbanan Teaching
 

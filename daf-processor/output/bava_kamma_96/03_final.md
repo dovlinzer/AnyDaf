@@ -1,4 +1,5 @@
 # Bava Kamma 96 — Daf Yomi Shiur
+[DAF:96a]
 
 ## Three Positions
 
@@ -326,6 +327,7 @@ The case came before Rav Nachman. This situation is the inverse of what has been
 
 ## Rava Challenge
 
+[DAF:96b]
 ### Partial Responsibility
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא: תּוֹרֵי אַשְׁבֻּח, אַרְעָא לָא אַשְׁבַּח?! אָמַר: מִי קָאָמֵינָא נְשַׁיְּימוּ כּוּלֵּיהּ? פַּלְגָא קָאָמֵינָא!

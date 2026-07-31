@@ -1,4 +1,5 @@
 # Niddah 70 — Daf Yomi Shiur
+[DAF:69b]
 
 ## Shivat Nekiyim Counting
 
@@ -158,6 +159,7 @@ The *gemara* introduces a *baraita*: *shneim asar devarim sha'alu anshei Aleksan
 
 The first *halachic* question ties directly into the preceding *mishnah*: do a *zav*, *zavah*, *niddah*, *yoledet*, and *metzora* continue to convey *tumah be'masa* after death, and until when? Rabbi Yehoshua answers: *ad she'imok habasar* — until the flesh decomposes, precisely as the *mishnah* established. This is the direct connection between the Alexandrian questions and the *mishnah* that precedes them.
 
+[DAF:70a]
 ### Q2: Bas Meshulachas
 
 > **Hebrew/Aramaic:** בַּת מְשׁוּלַּחַת, מָה הִיא לְכֹהֵן? מִי אָמְרִינַן קַל וָחוֹמֶר, וּמָה אַלְמָנָה לְכֹהֵן גָּדוֹל שֶׁאֵין אִיסּוּרָהּ שָׁוֶה בַּכֹּל — בְּנָהּ פָּגוּם, זוֹ שֶׁאִיסּוּרָהּ שָׁוֶה בַּכֹּל — אֵינוֹ דִּין שֶׁבְּנָהּ פָּגוּם? אוֹ דִילְמָא: מָה לְאַלְמָנָה לְכֹהֵן גָּדוֹל — שֶׁהִיא עַצְמָהּ מִתְחַלֶּלֶת. אָמַר לָהֶן: הִיא תּוֹעֵבָה וְאֵין בָּנֶיהָ תּוֹעֲבִין.
@@ -204,6 +206,7 @@ Rav Sheshes challenges this sharply: *gavra raba kishmuel leima hachi* — could
 
 If the status is fixed at the time of the *asham* — as Rabbi Yehudah holds — then it is too late to impoverish oneself once the *asham* has been brought. The fact that the *asham* was brought early provides no advantage; the rich status was locked in at that moment, and the *chatas* must therefore be brought as a *chatas* of a wealthy person — which the uncertainty prevents. Shmuel's answer only works if the status has already been fixed before the person impoverishes himself, which means Rabbi Yehudah's position presents a serious obstacle.
 
+[DAF:70b]
 ### Stipulation Option
 
 > **Hebrew/Aramaic:** שְׁמוּאֵל סָבַר לַהּ כְּרַבִּי שִׁמְעוֹן בַּחֲדָא, וּפְלִיג עֲלֵיהּ בַּחֲדָא.

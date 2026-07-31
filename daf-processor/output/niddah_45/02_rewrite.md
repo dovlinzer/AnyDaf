@@ -30,7 +30,7 @@ The *Gemara* then considers the difficulty this *beraita* creates for the view o
 
 The *mishna* had employed the phrase *pachos mi-kan ke-noten etzba ba-ayin* — less than three years is like placing a finger in the eye — to characterize why intercourse with a girl under three is not considered a meaningful act of sex. The implication, drawn by juxtaposition, is that it does not permanently rupture the hymen, or that whatever occurs is reversible. The *Gemara* now asks a precise anatomical question about this: *hanei besulim* — the hymen, when ruptured before the age of three, what exactly is its status? *Meizil azli ve-atu* — does it rupture and then grow back? Or, alternatively, *itzulyei hu d'lo mitzadei* — has it not yet sufficiently formed, so that the reason intercourse under three has no lasting effect is that there was no fully developed hymen to rupture in the first place?
 
-### Nafka Mina: Bleeding Cas…
+### Nafka Mina: Bleeding Age
 
 The *Gemara* asks: *l'mai nafka mina* — what practical difference does this theoretical question make? Either way, the halakhic assumption after the age of three is that the hymen is present. The *Gemara* then constructs a case: a man has intercourse with a girl under three — in a scenario where, for instance, the father had effected a *kiddushin* through *kesef* when she was under three — and there was bleeding. Subsequently, after she turns three, he has intercourse again and there is no bleeding. How do we explain the absence of blood the second time?
 
@@ -78,7 +78,7 @@ The three women are: *ketana* — a minor, who uses the *moch* because she might
 
 The *beraita* then specifies what it means by *ketana* in this context: *mi-bat yod-alef shana ve-yom echad ve-ad yod-bet shana ve-yom echad* — from eleven years and a day until twelve years and a day. This is the year immediately before *bat mitzvah*, and according to the *beraita* it is the window during which pregnancy is physiologically possible but physically dangerous. Below eleven, the concern is that she will not become pregnant at all; above twelve, she has passed the *bat mitzvah* threshold — *meshameshet ve-holekhet*, she may have relations without the device, because the danger of a life-threatening pregnancy no longer applies. The risk of pregnancy combined with mortal danger is concentrated precisely in that single intermediate year.
 
-### Meir vs. Chachamim
+### Meir vs. Chachamim (II)
 
 This position — that the *moch* must or may be used during this window — is attributed to Rabbi Meir. *Ve-chachamim omrim: achat zo ve-achat zo meshameshet ke-darkah ve-holekhet* — the *chachamim* say that all women, regardless of category, may have relations in their ordinary manner without using the *moch*. Their justification: *u-min ha-shamayim yerachamu*, heaven will have mercy; *she-ne'emar shomer peta'im Hashem*, as it is written, God guards the simple.
 

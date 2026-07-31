@@ -1,4 +1,5 @@
 # Eruvin 91 — Daf Yomi Shiur
+[DAF:91a]
 
 ## Intro: Three Positions
 
@@ -230,6 +231,7 @@ The *Gemara* immediately questions Rabbi Shimon's formulation. He specifies *vel
 
 The *Gemara* offers a first resolution: *mai lo eirvu? Lo eirvu chatzerot bahadi hadadi* — what does "they did not make an *eiruv*" mean? It means they did not make the grand collective *eiruv* — the *shituf* — that would have unified all the courtyards and the *mavoi* into a single shared space. It does *not* mean that no individual *eiruv* was made within courtyard A. In other words, Rabbi Shimon is saying: even in the scenario where the big collective *eiruv* was not made — a scenario that requires a ruling about what may be done — I will tell you that yard vessels may still move freely between all these spaces.
 
+[DAF:91b]
 ### Concession to opponents
 
 > **Hebrew/Aramaic:** וְהָא ״לֹא עֵירְבוּ״ קָתָנֵי! מַאי ״לֹא עֵירְבוּ״: לֹא נִשְׁתַּתְּפוּ. וְאִיבָּעֵית אֵימָא, רַבִּי שִׁמְעוֹן לְדִבְרֵיהֶם דְּרַבָּנַן קָאֲמַר לְהוּ: לְדִידִי לָא שְׁנָא עֵירְבוּ, וְלָא שְׁנָא לָא עֵירְבוּ. אֶלָּא לְדִידְכוּ, אוֹדוֹ לִי מִיהַת דְּהֵיכָא דְּלֹא עֵירְבוּ רְשׁוּת אַחַת הִיא.

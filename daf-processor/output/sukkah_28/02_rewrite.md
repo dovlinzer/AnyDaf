@@ -32,7 +32,7 @@ The Rabbis respond that since they already hold a *sukkah* built on *Chol HaMoed
 
 ---
 
-## Learning Dedication (II)
+## R. Eliezer & Ben Zakkai
 
 ### No Holiday Visits
 

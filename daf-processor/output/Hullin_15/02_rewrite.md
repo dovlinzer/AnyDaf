@@ -1,6 +1,6 @@
 # Chullin 15 — Daf Yomi Shiur
 
-## Shechita Shabbat, Eating…
+## Shechita Shabbat
 
 ### Review: Lighting & Blood
 

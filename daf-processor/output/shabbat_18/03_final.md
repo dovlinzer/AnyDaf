@@ -1,4 +1,5 @@
 # Shabbat 18 — Daf Yomi Shiur
+[DAF:18a]
 
 ## 18 Things Debates
 
@@ -156,6 +157,7 @@ The *Gemara* then cites the view of *Rav Oshaya* in the name of *Rav Assi*: who 
 
 This is the clean resolution: *Beit Shammai* and *shevisas keilim*; *Beit Hillel* and *mashmi'a kol* as a distinct, limited rabbinic concern for the water mill specifically.
 
+[DAF:18b]
 ### Appearances View
 
 > **Hebrew/Aramaic:** מוּגְמָר וְגׇפְרִית מַאי טַעְמָא שָׁרוּ בֵּית שַׁמַּאי? הָתָם מַנַּח אַאַרְעָא. גִּיגִית וְנֵר וּקְדֵרָה וְשַׁפּוּד מַאי טַעְמָא שָׁרוּ בֵּית שַׁמַּאי? דְּמַפְקַר לְהוּ אַפְקוֹרֵי.

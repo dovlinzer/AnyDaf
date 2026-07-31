@@ -1,4 +1,5 @@
 # Ketubot 73 — Daf Yomi Shiur
+[DAF:73a]
 
 ## Intro & Head Covering
 
@@ -198,6 +199,7 @@ Rav resolves this by insisting that the second clause is an entirely independent
 
 Shmuel's interpretation of the *mishnah* proceeds differently. He argues that the *mishnah* would be more instructive if it presented the case where the *tnai* was made at *kiddushin* and was followed by *nisu'in*. After all, the obvious *chiddush* from Shmuel's position would be: even if there was *nisu'in* after the conditional *kiddushin*, she is still not married if the condition went unmet — *eina mekudeshet*. Why does the *mishnah* tell us only what happens before *nisu'in*, the obvious case? It should have told us the more striking ruling: that even after *nisu'in*, the original *tnai* renders her *lo mekudeshet* with no *get* required. The *gemara* responds on Shmuel's behalf.
 
+[DAF:73b]
 ### Resolution: Any Stage
 
 > **Hebrew/Aramaic:** הָכִי נָמֵי קָאָמַר: הַמְקַדֵּשׁ אֶת הָאִשָּׁה עַל מְנָת שֶׁאֵין עָלֶיהָ נְדָרִים וּכְנָסָהּ סְתָם, וְנִמְצְאוּ עָלֶיהָ נְדָרִים — אֵינָהּ מְקוּדֶּשֶׁת. קִידְּשָׁה סְתָם וּכְנָסָהּ סְתָם — תֵּצֵא שֶׁלֹּא בִּכְתוּבָּה.

@@ -14,7 +14,7 @@ The *gemara* opens with the question *mani* — who is this *mishnah* attributed
 
 This principle raises an important distinction. Does Rabbi Meir's characterization of a sub-standard *ketubah* as *be'ilat zenut* mean only that the practice is censured — that writing less than 200 or 100 *zuz* is halachically condemned — or does it mean that writing a lesser amount is entirely void, such that the *ketubah* automatically reverts to the standard figure? The *gemara* treats these as equivalent: Rabbi Meir's categorical opposition to any *ketubah* below the standard implies that whatever lesser figure was written is simply disregarded, and the obligation defaults to 200 or 100 *zuz* as appropriate. On this reading, our *mishnah* — which likewise refuses to honor a sub-standard *ketubah* — follows Rabbi Meir.
 
-### Rabbi Yehuda: Receipt Me…
+### Yehuda: Writing + Receipt
 
 Against this attribution, the *gemara* considers whether the *mishnah* might reflect Rabbi Yehuda's position instead. Rabbi Yehuda's view, as cited, is that a husband wishing to reduce the effective *ketubah* amount may write the standard 200 *zuz* for a *betulah*, and then have his wife write a receipt acknowledging that she has already received 100 *zuz* — thereby reducing the effective obligation to 100 *zuz*. Similarly, for an *almanah*, one writes the standard 100 *zuz* and she provides a receipt for 50. What is immediately striking about this formulation is that Rabbi Yehuda does not simply say: write 100 *zuz* for a *betulah*. He requires beginning with the standard amount. This implies that according to Rabbi Yehuda, the document must open at the baseline figure the Rabbis established — even if the parties subsequently arrange to reduce it in practice. Therefore, the *mishnah*'s rule that the *ketubah* may not be written for less than the standard amount could reflect Rabbi Yehuda's position: one must start at 200 or 100, even if a receipt later brings the effective amount lower.
 
@@ -26,7 +26,7 @@ The *gemara* thus concludes that the opening clause of the *mishnah* — the req
 
 ## Liens & Encumbrances
 
-### Liens Full on All Proper…
+### Liens Cannot Be Limited
 
 The *gemara* turns to the *seifa* of the *mishnah*: if the husband wrote that a particular field worth 100 *zuz* is encumbered as security for a *ketubah* of 200 *zuz* — omitting the standard formula by which *kol nechasin de'is li acharin l'kesuvaseich*, all of his property stands as surety — he is nonetheless *chayav*, and the lien attaches to all of his property. This is *t'nai beit din*.
 
@@ -74,7 +74,7 @@ The second answer: *ei ba'is eima Rabbi Meir*. The entire *mishnah* can be read 
 
 ## Rape & Captivity
 
-### Father of Shmuel: Forbid…
+### Father of Shmuel: Issur
 
 The *mishnah* distinguishes between the fate of a captive wife married to a *Yisrael* and one married to a *Kohen*. The husband of a *Yisrael* redeems her and takes her back as his wife; the husband of a *Kohen* redeems her but must then divorce her. Before addressing the *ketubah* mechanics of redemption, the *gemara* examines the underlying question of what captivity or rape does to the wife's permitted status.
 

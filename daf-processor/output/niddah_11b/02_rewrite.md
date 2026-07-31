@@ -1,8 +1,8 @@
 # Niddah 11b — Daf Yomi Shiur
 
-## Dam Tahor: One or Two So…
+## Dam Tahor: One Source
 
-### Intro: Dam Tahor Excepti…
+### Intro: Dam Tahor Except
 
 The daf opens at the very bottom of 11a, with the phrase *vayoshev al dam tahor*. The mishna had established that virtually every woman — even one who does not ordinarily expect her period — is obligated to check twice daily, with two exceptions: a *niddah* who is already menstruating (since checking would be pointless) and a woman who is *yoshevet al dam tahor* — one in the post-childbirth period during which even uterine bleeding does not render her *tamei*. Since such a woman's blood is in any case *tahor*, there is similarly no need for her to check.
 
@@ -14,7 +14,7 @@ The Gemara introduces the phrase *kasalka deitach mevakeshet leishev al dam taho
 
 Levi, by contrast, holds *shnei ma'ayanot heim* — there are two distinct wellsprings. The blood produced during the post-childbirth period is biologically different from *dam niddah*; it originates from a different physiological source. According to this view, the Gemara argues *tivdok* — she should check. Why? Because if the blood is *tahor* only on account of its distinct biological origin, then a flow that began at the end of day seven and continued uninterrupted into day eight cannot simply be re-categorized as *dam tahor*. It remains the same continuous flow from the same *tamei* source. According to Levi, then, there should at least be a check at the very onset of day eight to confirm that one is not in the middle of such a continuous flow.
 
-### Continuous vs. Separate…
+### Continuous vs Separate
 
 To sharpen the issue: it is not that blood beginning on day eight is ever *tamei* — everyone agrees that blood originating on day eight is *tahor*. The dispute is whether a continuous flow that demonstrably began on day seven, and simply continued into day eight without interruption, may be reclassified. According to Rav, the answer is yes — the Torah's declaration is categorical and temporal, and once day eight arrives, the blood's status changes regardless of continuity. According to Levi, continuity of flow constitutes evidence that the blood is still coming from the *tamei* wellspring; the mere change of date does not override that physical reality.
 
@@ -28,7 +28,7 @@ The Gemara then raises the obvious objection: *vesatam tana keBeit Shammai?* —
 
 The Gemara then offers a second resolution: *ve'i ba'it eima, yoshevet katani* — perhaps the mishna does not say "a woman who is about to enter the *dam tahor* period," but rather one who is *already in the middle* of it. If she has already established herself in the 33 or 66 days and is known not to have had any bleeding at the moment of transition, then according to Levi there is no issue of a continuous flow, and the ruling of the mishna holds even according to his position.
 
-### Dam Tahor Irrelevant to…
+### Dam Tahor Irrelevant: Rav
 
 This leads the Gemara to ask: *ei yoshevet, mai lemeymar?* — if she is already in the middle of the period, why state the obvious? Of course she is *tahor* and need not check. The answer is that one might have thought she should still check even during the 33 and 66 days — not because the blood would render her *tamei*, but because it might be relevant for establishing her *veset*, her menstrual cycle. The Gemara therefore teaches: *dema'ayan tahor lema'ayan tamei lo kava'ah veset* — bleeding from the *tahor* wellspring has no bearing on establishing a cycle associated with the *tamei* wellspring. This holds from within Levi's framework, where the two sources are categorically distinct.
 
@@ -36,7 +36,7 @@ The Gemara then reverses the question and asks it according to Rav: since Rav ho
 
 ---
 
-## Hymenal Bleeding Cri (II)
+## Hymenal Bleeding Criteria
 
 ### Beit Shammai vs. Hillel
 
@@ -46,11 +46,11 @@ Before examining the dispute itself, it is worth situating hymenal bleeding with
 
 The mishna's formulation is: *Beit Shammai omrim* — Beit Shammai gives her four nights, during which any bleeding is attributed to the hymen and she is not *tamei*. *Beit Hillel omrim ad shetichye hamaka* — Beit Hillel says the exemption lasts until the wound heals. The practical question then becomes: how does one determine when the wound has healed?
 
-### Sex with Blood: Hymen Ac…
+### Sex with Blood: Hymen
 
 *Amar Rav Gidel amar Shmuel, lo shanu ela shelo paska machmas tashmish, vera'asa shelo machmas tashmish.* Rav Gidel in the name of Shmuel explains the operative criterion for Beit Hillel: the assumption that any bleeding is hymenal applies so long as every act of intercourse continues to produce bleeding. The logic is that intercourse would irritate an intact or healing hymen and provoke continued bleeding. If every time they have relations there is blood, that is ongoing evidence that the hymen remains a factor. Consequently, even bleeding that occurs *not* in direct association with intercourse may still be attributed to the hymen — *vera'asa shelo machmas tashmish* — as long as the pattern of sex-associated bleeding has been maintained without interruption.
 
-### Sex without Blood: Hymen…
+### Sex without Bleeding
 
 The inverse principle is equally important: *aval paska machmas tashmish* — if there was a single instance in which intercourse occurred without any subsequent bleeding, then the assumption that the hymen remains a factor is foreclosed. *Vera'asa* — any bleeding she sees thereafter, whether during intercourse or not, is *tamei*. The hymen can no longer serve as an explanatory source.
 
@@ -58,7 +58,7 @@ Tosafot raises the question of what precisely constitutes "sex without bleeding.
 
 This entire discussion pertains to the most lenient of cases — a girl who has not yet reached puberty, for whom there is both the reality of the hymen and the presumption of no menstruation. Beit Hillel's approach here is not simply more lenient or more stringent than Beit Shammai in any linear sense; it is more attentive to the specifics of each case.
 
-### Different Colors as Evid…
+### Different-Colored Blood
 
 A further criterion applies even within the period when the hymen is still considered a factor: *nishtanu marei hadamim shela tamei* — if the color of the blood changes, she is *tamei*. The reasoning is as follows. Blood from a wound, including hymenal blood, tends to be bright red. Menstrual blood, which contains uterine lining material, presents with a different appearance. If the blood she is producing looks different from the hymenal blood she has been producing, it can no longer be attributed to the hymen, and is therefore treated as menstrual blood, rendering her *tamei*.
 
@@ -68,13 +68,13 @@ One might ask: should not this color criterion apply to blood found after interc
 
 ## Exemptions from Checking
 
-### Mishna Inconsistency Not…
+### Mishna: Virgin Brides
 
 The Gemara introduces a further challenge through the words *amar Rava, eima reisha* — Rava draws attention to an apparent inconsistency within the mishna itself. The mishna, when discussing the twice-daily checking requirement, lists two categories exempt from it: the *niddah* (whose checking is pointless since she is already *tamei*) and the *yoshevet al dam tahor* (whose blood is in any case *tahor*). Notably absent from this list is the virgin bride whose *dam betulim* renders all her blood *tahor*. Yet when the mishna turns to checking around intercourse, it does include the virgin bride as exempt, alongside the woman in the *dam tahor* period — but omits the *niddah* from the intercourse-checking exemption.
 
 The apparent inconsistency: why is the virgin bride not also exempted from the twice-daily check, given that any blood she produces is attributed to the hymen? And why is the *niddah* not included in the intercourse-checking exemption? The answer to the second question is straightforward — a *niddah* is not having intercourse at all. But the first question requires a more substantive resolution.
 
-### Two Different Types of C…
+### Checking Twice Daily vs
 
 The resolution offered is *kan sheshimsha de'eima shamash akran, kan shelo shimsha* — there is a meaningful distinction between the checking that occurs in the context of intercourse and the checking that occurs independently of it. When blood appears after intercourse, the presence of semen and other fluids may affect its color, meaning that even if the blood looks different from what the hymenal blood has been, one cannot use that color difference as evidence of a non-hymenal source. The act of intercourse itself accounts for the altered appearance. Therefore, checking after intercourse is pointless for the virgin bride — any color will be attributed to the hymen.
 
@@ -84,7 +84,7 @@ But the twice-daily check operates independently of intercourse. In that context
 
 ## Hymenal Bleeding Cri (II)
 
-### Color Matters or Not by…
+### Blood: Color Rules
 
 The *beraita* cited by the Gemara restates the rule about continuous sex-associated bleeding and confirms the criterion of color change: *nishtanu mareh damim shelah, tamei'ah* — if the color shifts, she is *tamei*, even within the period when sex-associated bleeding would otherwise be attributed to the hymen. The *beraita* also confirms Tosafot's elaboration: *avar layla achas belo tashmish vera'atah* — a full night without intercourse followed by bleeding removes the blood from the category of *machmas tashmish*.
 
@@ -104,7 +104,7 @@ The Gemara now returns to the broader question of why there is any obligation to
 
 As noted earlier, the practice after the Gemara's period was to treat all blood as *dam niddah*. This applies to *dam betulim* from the time of Rav and Shmuel onward, to the *dam tahor* period from the Geonic period onward, and more generally to a posture of *lo plug* — making no distinctions and applying maximum stringency across the board. This approach, while driven by a laudable concern for uniformity, has the inevitable consequence of losing all the *kullos* available within the Gemara's more differentiated framework. One does not end up treating everything the same leniently; one ends up treating everything the same strictly. The Rambam's position on blood *machmas makah* is an extreme case of this tendency, and its rejection by all other authorities preserves at least one significant leniency in practice.
 
-### Shmuel: Taharot Context…
+### Shmuel: Taharot Women
 
 *Amar Rav Yehuda amar Shmuel: lo shanu ela letaharos* — Rav Yehuda in the name of Shmuel states the pivotal halachic ruling: this entire obligation to check around intercourse applies only in the context of *taharot*. Whether this is understood as a historical-societal condition — a time when *tumah vetaharah* was broadly practiced — or as a more individual, case-by-case standard (a woman who personally does not handle *terumah*, does not concern herself with *taharot*, and has no *kohen* in the household), the principle is the same: *aval leba'alah, muteret* — if the concern is only about permissibility to her husband, with no *taharot* considerations operative, she is permitted without any check.
 
@@ -124,7 +124,7 @@ The *beraita* cited corroborates Shmuel's ruling: *bameh devarim amurim letaharo
 
 ## Prohibition on Checking
 
-### Voluntary Check Permitte…
+### Woman's Voluntary Check
 
 The sugya now arrives at what is, for both its halachic and its ethical dimensions, a striking passage. *Ba'ei minei Rav Zeira mei Rav Yehuda: isha mah she-tivdok atzmah leba'alah?* — Rav Zeira asked Rav Yehuda: granted that a woman is not required to check before intercourse in the absence of *taharot* concerns, but what if she *wants* to? What if she wishes to be scrupulous and check voluntarily, to ensure she is not a *niddah*?
 

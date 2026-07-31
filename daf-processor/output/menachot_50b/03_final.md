@@ -1,4 +1,5 @@
 # Menachot 50b — Daf Yomi Shiur
+[DAF:50a]
 
 ## Chinuch & Kiddush
 
@@ -52,6 +53,7 @@ Taking this further: might an individual bring *ketoret* as a voluntary offering
 
 The answer is drawn from the *pasuk* in *parashat Tetzaveh* which commands: *lo ta'alu alav ketoret zarah* — you shall not offer *ketoret zarah*, alien incense, upon the inner altar. This prohibition encompasses any *ketoret* that is not the prescribed communal *ketoret*. A *yachid* bringing a voluntary *ketoret* would constitute *ketoret zarah* — and that is categorically forbidden on the inner altar.
 
+[DAF:50b]
 ### Ketoret Zarah
 
 > **Hebrew/Aramaic:** יָכוֹל לֹא יְהֵא יָחִיד מֵבִיא, שֶׁאֵין מֵבִיא חוֹבָתוֹ כְּיוֹצֵא בָּהּ,

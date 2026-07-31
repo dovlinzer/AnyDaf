@@ -1,4 +1,5 @@
 # Yoma 45 — Daf Yomi Shiur
+[DAF:45a]
 
 ## Shoveling Coals
 
@@ -352,6 +353,7 @@ The *Gemara* immediately entertains a counter-argument: the same linkage by *esh
 
 The *Gemara* resolves the question for the *menorah* from the phrase *esh tamid tukad al hamizbe'ach lo tichbeh* — the constant fire on the altar shall not be extinguished. The word *tamid* in the *Mikdash* is associated with the *menorah*, whose flame is called *ner tamid*. The teaching is: the fire for the *tamid* must come from the outer altar — *lo tehei ela be-rosho shel mizbe'ach*. This establishes that the *menorah* is kindled from the outer altar.
 
+[DAF:45b]
 ### YK Link
 
 > **Hebrew/Aramaic:** לָמַדְנוּ אֵשׁ לַמְּנוֹרָה, אֵשׁ לַמַּחְתָּה מִנַּיִין? וְדִין הוּא: נֶאֶמְרָה אֵשׁ בְּמַחְתָּה, וְנֶאֶמְרָה אֵשׁ בִּמְנוֹרָה — מָה לְהַלָּן עַל גַּבֵּי מִזְבֵּחַ הַחִיצוֹן, אַף כָּאן עַל מִזְבֵּחַ הַחִיצוֹן.

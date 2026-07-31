@@ -1,4 +1,5 @@
 # Berakhot 53b — Daf Yomi Shiur
+[DAF:53a]
 
 ## Borei Meorei Ha'esh
 
@@ -22,6 +23,7 @@ The final *amud* of the eighth *perek* opens with a striking *halacha* that most
 
 The *Gemara* immediately opens the question of how literally to understand the requirement of deriving benefit. *Rav Yehuda* in the name of *Rav* says: *lo ye'otu ye'otu mamash* — it does not mean one must actually derive benefit in a literal sense. Rather: *kol she'illu omed bikrov umishtamesh l'oro* — it suffices that the flame is of sufficient quality that were someone standing close to it, they could use it — and moreover, one may recite the *bracha* even from a distance (*brichuk makom*), as long as the flame possesses that quality. *Rav Ashi* similarly rules that even standing far away one may recite the blessing, provided the flame meets that standard. Two distinct principles thus emerge: first, one need not actually use the light; and second, one need not even be positioned close enough to use it.
 
+[DAF:53b]
 ### Hidden/Unseen Flame
 
 > **Hebrew/Aramaic:** מֵיתִיבִי: הָיְתָה לוֹ נֵר טְמוּנָה בְּחֵיקוֹ, אוֹ בְּפַנָּס, אוֹ שֶׁרָאָה שַׁלְהֶבֶת וְלֹא נִשְׁתַּמֵּשׁ לְאוֹרָהּ, אוֹ נִשְׁתַּמֵּשׁ לְאוֹרָהּ וְלֹא רָאָה שַׁלְהֶבֶת — אֵינוֹ מְבָרֵךְ עַד שֶׁיִּרְאֶה שַׁלְהֶבֶת וְיִשְׁתַּמֵּשׁ לְאוֹרָהּ.

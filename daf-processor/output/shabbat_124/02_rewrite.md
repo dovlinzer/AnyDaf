@@ -42,7 +42,7 @@ Thus all four *mishnayot* are accounted for under Rabbi Elazar's umbrella explan
 
 ## Rava's Position on Keilim
 
-### Rava - Post-Gezeirah Ves…
+### Rava: Post-Gezeirah Items
 
 Rava rejects Rabbi Elazar's historical framework: *mi-mai*, what compelled you to explain all these *mishnayot* as predating the general permission of *keilim*? *Dilma le-olam achar hatarat kelim nishnu* — perhaps all four were taught after vessels were already permitted, and the restrictions each *Mishnah* reflects are explainable on independent grounds.
 
@@ -72,19 +72,19 @@ So to summarize: we have two approaches to the four restrictive *mishnayot*. Rab
 
 ## Kol Hakeilim Mishna
 
-### Mishna Text - Vessel Mov…
+### Mishna: Vessels & Purpose
 
 The *Gemara* now turns to the next *Mishnah*: *kol hakeilim nitlin l'tzorech v'shelo l'tzorech* — all vessels may be moved both for a purpose and without a purpose. This echoes the formulation of the opening of the *perek*, *kol hakeilim*, and raises the same underlying question: does this apply to *kli shemelachto l'heter*, to *kli shemelachto l'issur*, or to both? Against this permissive majority view, *Rabbi Nechemia omer ein nitlin ela l'tzorech* — Rabbi Nechemia rules that vessels may only be moved for a purpose, and as the *Gemara* will clarify, purpose here means the vessel's designated function.
 
-### Rava - Purpose Definitio…
+### Rava: Purpose vs Place
 
 The *Gemara* asks: *mai l'tzorech u'mai shelo l'tzorech*? What does it mean to move something "for a purpose" versus "without a purpose"? Rava explains: *l'tzorech* means *davar shemelachto l'heter l'tzorech gufo* — moving a *kli shemelachto l'heter* to use it for its own function. *Shelo l'tzorech* means *davar shemelachto l'heter l'tzorech mekomo* — moving it because it is in the way and you need its space. Both of these are subsumed under the permissive rule of the *Mishnah*. What remains forbidden, on the stricter position attributed here to Abaye, is moving even a *kli shemelachto l'heter* to protect it from damage — *mechama l'tzel*. And a *kli shemelachto l'issur* is one degree more constrained: it can be moved *l'tzorech gufo* — to use it for its legitimate permitted function, such as using a hammer to crack nuts — but not merely *l'tzorech mekomo*, not simply to clear it from a table.
 
-### Rabbi Nechemia - Restric…
+### Rabbi Nechemia: Restrict
 
 Rabbi Nechemia goes further: *afilu davar shemelachto l'heter, l'tzorech gufo in, l'tzorech mekomo lo* — even a *kli shemelachto l'heter* may only be moved for its own use and not merely to clear its space. This is the view attributed to Abaye in earlier discussions, and it is one degree more restrictive than the way we rule. We rule like Rava, according to whom a *kli shemelachto l'heter* may be moved for any purpose whatsoever, and a *kli shemelachto l'issur* may be moved *l'tzorech gufo* or *l'tzorech mekomo* — the only forbidden movement being for protection from damage.
 
-### Melachto L'Heter vs. L'I…
+### Melacha L'Heter vs. Issur
 
 The full schema, then, is as follows. According to Rava's ruling — which is the *halacha* — a *kli shemelachto l'heter* may be moved for any reason: to use it, to clear its space, or even to protect it from rain or sun. A *kli shemelachto l'issur* may be moved to use it for a permitted function or to clear its space, but not to bring it in from the sun. Rabbi Nechemia shifts everything one degree more restrictive: a *kli shemelachto l'heter* may be moved only for its own designated use or to clear its space, not for protection; and a *kli shemelachto l'issur* may be moved only for its own designated use. We do not rule like Rabbi Nechemia.
 
@@ -128,7 +128,7 @@ This is the key to understanding the log of wood. Our *perek* is *kol hakeilim* 
 
 Firewood is not a *kli*. Its very purpose — being burned — removes it from the category of vessel. It is therefore *muktzah* outright on *Shabbat*, not merely *kli shemelachto l'issur*. If one designated a stick before *Shabbat* to serve as a tool for turning something over a spit, that might give it the character of a *kli shemelachto l'issur*, since it has been assigned a specific instrumental function. But designating wood for use as firewood does not make it a *kli* — firewood as such is not a vessel category. One cannot *meiyached* an object for a function that itself lacks the character of vessel use.
 
-### Equating Shabbat-Yom Tov…
+### Shabbat Status on Yom Tov
 
 The *Gemara* now interrogates the mechanism by which the *Shabbat* status of firewood is applied to *Yom Tov*. The claim is that since firewood is *muktzah* on *Shabbat*, we apply a *gezeirah Yom Tov atu Shabbat* — a rabbinic extension of *Shabbat*'s strictness to *Yom Tov* — and therefore the firewood cannot be used on *Yom Tov* for purposes other than fire. The *Gemara* challenges this: *u'mi gazrinan* — do we truly equate *Yom Tov* to *Shabbat* in this way?
 
@@ -158,7 +158,7 @@ Rav Pappa's resolution invokes an additional *Mishnah*: Beit Shammai says *ein m
 
 The *Gemara* now pushes back on Rav Pappa's resolution. Even granting that Beit Shammai is strict about *hotza'ah* — carrying in the *d'oraita* sense — why would that make him strict about *tiltul*, the rabbinic concern of *muktzah*? The reasoning that restricts carrying need not automatically generate a *muktzah* restriction, since the two operate on different levels. At this juncture the *Gemara* introduces one of the most revealing lines of the entire discussion.
 
-### Tiltul-Hotza'ah Connecti…
+### Tiltul-Hotza'ah: Yediah
 
 *V'tiltul gufeih lav mishum hotza'ah hu?* — Is not *tiltul* itself connected to *hotza'ah*? Rashi explains: *hilkhach im mezalzel b'tiltul, mezalzel b'hotza'ah* — if one becomes careless about moving objects, one will come to carry them into a public domain. This single line illuminates the underlying rationale for *muktzah*: at least according to this *Gemara*, the prohibition against moving certain objects on *Shabbat* serves as a fence protecting against inadvertent *hotza'ah*. If one maintains self-discipline about what objects one touches and moves on *Shabbat*, that same mindset will curb one from casually carrying things outside.
 
@@ -190,7 +190,7 @@ The *Gemara* resolves this in two ways. First: perhaps what Rav actually said wa
 
 Rav Mari bar Rachel had a cushion — a *kli shemelachto l'heter* — lying in the sun. He came before Rava and asked *mahu letiltulei* — may he move it out of the sun? Rava responded immediately: *shari*, it is permitted.
 
-### Rava Permits - Questione…
+### Rava's Leniency
 
 Rav Mari then began introducing qualifications: he did not really need it, he had another cushion available. Rava brushed this aside: *chazya orchin*, perhaps you will have guests. Rav Mari pressed further — he had more than enough cushions for guests too. At this point the exchange becomes somewhat pointed.
 
@@ -226,7 +226,7 @@ As for Rabbi Eliezer's statement that even the frond broom is permitted — the 
 
 The *Gemara* turns to the next *Mishnah*: *kol hakeilim hanitlin b'Shabbat, shivreihen nitlin imahen* — all vessels that may be moved on *Shabbat*, their broken pieces may also be moved. The qualification: *uvilvad shehen osin me'ein melacha* — as long as the broken pieces can still perform some function. The examples given are a broken kneading trough whose shards can be used to cover a barrel, and broken glass that can be used to cover a small flask. In each case, the piece has some residual utility and therefore retains sufficient character as a *kli* to avoid *muktzah*.
 
-### Rabbi Yehuda - Original…
+### Rabbi Yehuda - Broken Pts
 
 Rabbi Yehuda imposes a stricter standard: *bilvad shehu osin me'ein melachtam* — the broken pieces must be capable of performing a function similar to their original purpose. A shard of the kneading trough must be large enough to hold porridge, as the original vessel held dough. A piece of broken glass must retain enough curvature to hold oil, as the original bottle held liquids. Rabbi Yehuda requires a functional continuity with the original vessel's character; mere general utility is insufficient.
 
@@ -234,7 +234,7 @@ Rabbi Yehuda imposes a stricter standard: *bilvad shehu osin me'ein melachtam* �
 
 Rav Yehuda citing Shmuel clarifies that the dispute between the *Tanna kamma* and Rabbi Yehuda applies specifically to vessels that broke on *Erev Shabbat*. One opinion holds that what matters is whether the broken piece can do some portion of the original function; the other holds that any function suffices. However, if the vessel broke on *Shabbat* itself — *divrei hakol mutarin* — all agree the broken pieces are permitted, as long as they retain some use. The reasoning: *ho'il u'muchanim agav avihen* — since the vessel was not *muktzah* when *Shabbat* began, its permitted status adheres to the pieces as well.
 
-### Broken Vessels as Firewo…
+### Broken Vessels Fuel
 
 Rav Zutra raises a challenge from a case involving *Yom Tov*: the ruling that on *Yom Tov* one may use whole vessels as firewood — *masikin b'keilim* — but not broken vessel pieces — *v'ein masikin b'shivrei keilim*. When did these pieces break? If they broke before *Yom Tov*, *eitzim b'alma havu* — they are simply wood, and why should they not be usable as firewood? It must be that they broke on *Yom Tov* itself. Yet the ruling restricts their use — which contradicts the claim that breaking on *Shabbat* or *Yom Tov* makes things *easier* because the original permitted status adheres.
 

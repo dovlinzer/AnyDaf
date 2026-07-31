@@ -34,7 +34,7 @@ The *Gemara* asks: what exactly is a *shvuat havai*? If one says "a *shvua* that
 
 Rava objects to Abaye's framing. If the case is simply that someone swore to back up an obviously false statement, we already know that is a *shvuat shav* — what is the novelty? Moreover, the *mishnah* in *Shvuos* frames the case in a way that must be analogous to the *neder*: not just backing up a statement, but actually making an object forbidden.
 
-### Shvuat Shav vs. Forbiddi…
+### Shvuat Shav vs. Food
 
 Rava therefore presents the properly analogous case: *be'omer ye'asru peiros ha'olam alai bishvua im lo ra'isi baderech hazeh ke'olei mitzrayim* — one says that all fruit of the world shall be forbidden to him by *shvua* if he did not see as many people as the *olei mitzrayim* on this road. This mirrors the *neder* precisely: in the *neder* case, one uses *konam* to prohibit food as backing for a false claim; here, one uses a *shvua* to achieve the same effect. Now the analysis splits into two distinct questions. First, was it permitted to take such a *shvua*? The *Ran* says no — it constitutes a *shvuat shav*, and one would receive lashes for it, because one is invoking God's name to back up what is obviously a false statement with no genuine intent to prohibit anything. Second, does the food actually become forbidden? Here the answer is no — the food remains permitted, because just as in the *neder* case the speaker never genuinely wanted the object to be prohibited, so here too the *shvua* was never about making food forbidden but only about lending rhetorical weight to a false claim.
 
@@ -48,7 +48,7 @@ This explains the two *girsaot*: *shvuot havai assurim* refers to the act of tak
 
 Ravina poses a challenge to Rav Ashi. The *Gemara* had been discussing the case where one swears that one saw as many people as *olei mitzrayim* on a road. Ravina asks: perhaps this man had an anthill at home that he called "*olei mitzrayim*" — and perhaps he saw forty ants, which is exactly how many people he saw in the road? In that case, the *shvua* would actually be true, and the food might genuinely be forbidden. One might note that this is in a sense the inverse of *perushan le-hakel*: there, a lenient private interpretation is invoked to escape a *neder*; here, a stricter private interpretation is invoked to render the food forbidden — a kind of *perushan le-hachmir*. And there is a practical dimension as well: if the *Gemara* was about to impose *malkus* on someone for taking an oath in vain, that person might well claim he genuinely meant his anthill and therefore took no *shvuat shav* at all.
 
-### Rav Ashi: Standard Meani…
+### Rav Ashi: Oaths Standard
 
 Rav Ashi responds: *ki mishtava ada'ata didan mishtava* — when a person takes an oath, it is based on what we understand, not on whatever private meaning was going through his head. This is another expression of the principle of *devarim shebalev einam devarim*: one cannot retroactively assign a private meaning to words that everyone understands in a standard way.
 

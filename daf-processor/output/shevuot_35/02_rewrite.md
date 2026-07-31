@@ -72,7 +72,7 @@ However, the *baraita* continues: *yachol afilu amar kol ha-omdim kan* — what 
 
 ## Valid Testimony
 
-### Hearsay & Disqualificati…
+### Hearsay & Pasul Witnesses
 
 Moving to the fourth case, the *gemara* presents the *baraita*: *amar l'shnayim mashbia ani aleichem Ploni u'Ploni im atem yode'im li edut she-tavo'u v'te'iduni* — and they do know testimony, but their testimony is either *ed mipi ed*, hearsay, or one of them is a relative or otherwise *pasul*. Might one think they are liable? The *talmud lomar*: *im lo yagid venasa avono*.
 

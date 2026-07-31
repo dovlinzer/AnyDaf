@@ -1,12 +1,12 @@
 # Horayot 4 — Daf Yomi Shiur
 
-## Individual Following Ret…
+## Ruling Retracted
 
 ### Court Retracts Ruling
 
 The Mishnah at the bottom of 3b opens with a case of *hora'ah* gone wrong: *horu beit din veyadu sheta'u vechazru bahen* — the court issued a ruling, became aware of their error, and retracted. Whether or not they have yet brought the sacrifice to which they are now obligated, an individual who never received the news and continued acting on the original ruling presents a problem. With no newspapers and no radio, it was entirely possible to remain ignorant of the retraction. *Rabbi Shimon poter* — Rabbi Shimon exempts such an individual from a personal *korban*. Rabbi Eliezer says it is a matter of doubt: *safek*.
 
-### Shimon vs. Eliezer Dispu…
+### Shimon vs. Eliezer
 
 The disagreement between Rabbi Shimon and Rabbi Eliezer maps onto a deeper conceptual question about the very basis on which an individual who follows a *beit din* ruling is ever exempt in the first place. There is a position — the *chachamim* — holding that even a blameless individual is obligated in a *korban*, since at the end of the day he is the one who committed the act. Our Mishnah assumes he is not obligated. But why?
 
@@ -28,7 +28,7 @@ Ben Azzai questions why the traveler's case warrants more complete exemption tha
 
 ---
 
-## Court Liability Conditio…
+## Court Liability Sacrifice
 
 ### Detail vs. Whole Category
 
@@ -44,7 +44,7 @@ The Gemara derives the requirement that it be a *detail* rather than the whole f
 
 ---
 
-## Shimon's State of Mind D…
+## Shimon's View: R. Yehudah
 
 ### Court License Approach
 
@@ -104,9 +104,9 @@ One might argue that the more public the court's *korban* is — particularly if
 
 ---
 
-## Sumchus Framework Analys…
+## Sumchus Position Map
 
-### Twilight Sacrifice Analo…
+### Twilight Sacrifice
 
 Rabbi Yose bar Avin — some say Rabbi Yose bar Zvida — offers the analogy for Sumchus's position. A person brought his sacrifice right at *bein hashmashos* — the twilight period at day's end. It is uncertain whether the sacrifice was offered while it was still halachically day or once night had already fallen. *Safek mibod yom nitkapeir lo, safek mishehachishah nitkapeir lo* — we simply do not know. In such a case, *she'ein meivi asham talui* — no *asham talui* is brought. The person is not obligated to bring any further *korban*.
 
@@ -126,7 +126,7 @@ In summary, the Gemara has laid out two fundamentally different models — objec
 
 ---
 
-## Detail Definition Analys…
+## Court Rulings Detail
 
 ### Detail Principle
 
@@ -164,7 +164,7 @@ Rav Yosef raises a *ba'ei* — an unresolved question. The court rules that ther
 
 The two sides of the question are drawn cleanly. On one hand: *keivan d'kamodei b'kulhu milsa* — since they affirm all the other thirty-eight *melachos*, eliminating one is merely a partial ruling, a detail, and they should be liable. On the other hand: *keivan d'akrin leh l'charisha k'akira d'gufa damei* — since they completely eliminate the category of plowing, it constitutes the uprooting of an entire thing, and they should be exempt.
 
-### Failed Resolution Attemp…
+### Failed Resolution Atts
 
 The Gemara attempts to resolve the question from each of the Mishnah's three examples. From the *niddah* case: the court eliminates the entire category of *shomeret yom keneged yom*, and yet this is treated as a detail. Since *shomeret yom* is a distinct personal status within the laws of *niddah*, this would seem to show that even eliminating a full sub-category is still considered a detail — supporting the view that eliminating one of the thirty-nine *melachos* would similarly be a detail. Rav Yosef rejects this: we already explained the *shomeret yom* case in a nuanced way — not as eliminating the whole status, but as a detail within it, such as a particular type of intercourse or timing. So that case cannot serve as a proof.
 
@@ -182,7 +182,7 @@ From the *avodas kochavim* case: the court eliminates *hishtachavaya* entirely, 
 
 Rav Zeira poses a parallel *ba'ei*. Let the court rule that *Shabbos* does not apply during a *shemitah* year. The erroneous reasoning might proceed from the verse *b'charish u-v'katzir tishbot* — rest from plowing and from harvesting. One might read this to mean: *Shabbos* applies during years when plowing and harvesting occur, but during *shemitah*, when those activities are forbidden, perhaps *Shabbos* does not apply. That is a reading that could be derived from the verse's phrasing.
 
-### Partial vs. Whole Framew…
+### Partial vs. Whole
 
 Is such a ruling a *detail* or a *whole*? On one reading: *keivan d'mikayim leh b'sha'ar shnei shavua* — since the court affirms that *Shabbos* applies during the six other years of the seven-year cycle, they are only ruling on a partial matter. On the other reading: *keivan d'akrei leh b'shevi'is k'akirat gufa damei* — since during the *shemitah* year itself they are completely eliminating *Shabbos*, it constitutes the total uprooting of a *mitzvah* for that year. The question is left unresolved as stated, but it will be addressed by an analogy from the *navi sheker*.
 
@@ -190,7 +190,7 @@ Is such a ruling a *detail* or a *whole*? On one reading: *keivan d'mikayim leh 
 
 ## False Prophet Analogy
 
-### Prophet Whole Law Liabil…
+### False Prophet Liable Law
 
 Ravina offers a resolution from the laws of the false prophet. *Navi she-nitnaba la'akor davar midivrei Torah chayav* — a *navi* who prophesies to uproot a word of *Torah* is liable. Here, strikingly, the framework is the inverse of the court. For a court or a *zaken mamre*, liability requires ruling on a *detail* — a wholesale elimination of an entire category is too far off-base to constitute a *hora'ah*. But for a false prophet who comes with prophetic authority — as the spokesman of God — the more radical the claim, the more clearly liable he is. If he says an entire category of law is abolished, he is *chayav*.
 
@@ -214,11 +214,11 @@ This provides the resolution to Rav Zeira's question. If a false prophet who tel
 
 The Mishnah returns to a condition for court liability that was introduced earlier in the tractate. If one member of the court explicitly tells the others *to'in atem* — you are making a mistake — and verbally dissents, the ruling does not generate the communal *korban* obligation. Even though the court normally operates by majority rule and a dissenting vote does not invalidate the ruling for purposes of *dinei Torah*, a verbal dissent is sufficient to prevent the court from being liable in this specific context. The concern, apparently, is not the formal legal validity of the ruling but whether the ruling carries the weight of a unified court acting on full authority.
 
-### Missing Head or Unfit Ju…
+### Missing Head or Unfit
 
 Two additional conditions disqualify the ruling from generating liability. First, if the *mufla shebe-beit din* — the head of the court — was absent. Rashi specifies that this refers to a case where the court still had a full quorum, but the head had vacated his seat and someone else filled the number — so the court was technically complete but the leading decisor was not present. Second, if any member of the court was in a disqualified category.
 
-### Disqualified Judge Categ…
+### Disqualified Judge Types
 
 The Mishnah lists four categories of disqualified members: a *ger* — a convert; a *mamzer* — a person of illegitimate birth; a *netin* — someone from the Gibeonites who attached themselves to Israel under Joshua in a problematic manner and whose descendants are of questionable lineage; and a *zaken she-lo ra'uy l'vanim* — an elder who has never had children. The disqualification of the *ger* is based on the requirement of *mikerev* — a position of communal authority requires being *mikerev* your brethren, which excludes the convert in this context. The *mamzer* and *netin* disqualifications relate to the genealogical integrity required for the court. Rashi acknowledges uncertainty about the *zaken she-ein lo banim*; the Rambam in his *Perush Hamishnayot* explains it as a concern about insufficient compassion — a person who has never raised children may not have developed the requisite empathetic judgment for capital cases, though this same concern is applied here by extension.
 
@@ -226,6 +226,6 @@ The Mishnah lists four categories of disqualified members: a *ger* — a convert
 
 The source for requiring that all members be fit for *hora'ah* is derived from the word *edah* appearing in two separate contexts — a *gezeirah shavah*. The concept of *edah* — congregation or court — is linked through textual parallel to a context where all members must be qualified to rule. The Gemara adds the verse *vahisyatzvu sham immach* — when God gathers the seventy elders alongside Moses — and derives *immach bidumim lach*: they must be like you, sharing the same qualities of lineage and fitness for authority.
 
-### Tzaddukim vs. Missing He…
+### Sadducees: Error/Omission
 
 The comparison between the *Sadducees* criterion and the missing *mufla* criterion illuminates an important conceptual distinction. When the court rules against something even the Sadducees would affirm, they are *patur* because the ruling is objectively off-base — anyone paying attention would know it is wrong. The ruling lacks the traction of a genuine *hora'ah*. When the *mufla* is absent, the ruling is not objectively wrong — the substantive legal analysis may be entirely sound — but the court has not operated with full due consideration. They should have consulted him, or waited for him. The absence of the senior decisor means the ruling was issued without the deliberative weight that makes it a true *hora'ah*. As the Gemara formulates it for both the *Sadducees* case and the missing *mufla* case: *shehayah lahem lilmod velo lamdu* — they should have learned and they did not. In the *Sadducees* case this means they should have known the obvious ruling; in the *mufla* case it means they should have sought out the guidance of the court's head. In both cases, the failure of due diligence removes the ruling from the category of genuine *hora'ah*.

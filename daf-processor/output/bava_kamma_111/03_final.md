@@ -1,4 +1,5 @@
 # Bava Kamma 111 — Daf Yomi Shiur
+[DAF:110b]
 
 ## Gezel Hager Status
 
@@ -168,6 +169,7 @@ Abbaye's case, however, seems structurally different. The *gazlan* never gave th
 
 The *mishnah* establishes the basic rule for the order in which the money and the *asham* must be given. The *gazlan* gives the money to one *mishmar* of *kohanim*, and the *asham* is then offered by that same *mishmar*. This is the normal sequence: money first, then *korban*, both to the same group.
 
+[DAF:111a]
 ### Reversed Order
 
 > **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִילֵּימָא דְּיָהֵיב לֵיהּ אָשָׁם לִיהוֹיָרִיב בְּמִשְׁמַרְתּוֹ דִיהוֹיָרִיב, וְכֶסֶף לִידַעְיָה בְּמִשְׁמַרְתּוֹ דִידַעְיָה – זֶה זָכָה בְּשֶׁלּוֹ וְזֶה זָכָה בְּשֶׁלּוֹ!
@@ -302,6 +304,7 @@ With this, the daf concludes the chapter *ha-gozel eitzim*, and the Gemara recit
 
 The final *perek* of Bava Kamma returns us to the foundational territory of the tractate. The preceding chapters explored a specialized corner of the law — the case of *gezel hager* with its unique *korban* and its unusual treatment of the returned money. The new *perek* takes us back to classic *gezeilah*, evoking in particular the beginning of the ninth *perek*, which focused heavily on *shinuy* — the transformation of stolen objects. Whereas the ninth *perek* concentrated on *shinuy ma'aseh*, the physical alteration of an object, this final *perek* will center on *shinuy reshut* — the change of domain or possession — and the circumstances under which a *gazlan* must return the object itself, must pay its value, or is released from obligation entirely.
 
+[DAF:111b]
 ### Thief Children
 
 > **Hebrew/Aramaic:** מַתְנִי׳ הַגּוֹזֵל וּמַאֲכִיל אֶת בָּנָיו, וְהִנִּיחַ לִפְנֵיהֶם – פְּטוּרִין מִלְּשַׁלֵּם. וְאִם הָיָה דָּבָר שֶׁיֵּשׁ בּוֹ אַחְרָיוּת – חַיָּיבִין לְשַׁלֵּם.

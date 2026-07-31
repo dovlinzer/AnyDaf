@@ -2,7 +2,7 @@
 
 ## Sleep vs. Eating
 
-### Brothers' Eating vs. Sle…
+### Brothers: Eating vs Sleep
 
 The discussion resumes at the bottom of 72b, picking up a theme introduced in the *mishna*: brothers who eat at their father's table but sleep in separate homes are considered distinct units for *eruv* purposes, each required to contribute separately. The *mishna* had also drawn a distinction based on the direction of the *eruv*'s movement — when brothers are the recipients rather than the contributors, they may be treated as a single household. The *gemara* now probes the underlying principle: does the definition of primary domicile follow where one sleeps or where one eats?
 
@@ -80,7 +80,7 @@ The *gemara* challenges this from the case of the brothers in the *mishna*. The 
 
 The *gemara* resolves the difficulty: *hacha bemai askinan kegon de'ika diyarin bahadeihu* — the *mishna*'s case involves strangers also living in the courtyard. It is precisely the presence of these outsiders that compels separate contribution. The *gemara* articulates the principle: *demigo dehanei asri hanei nami asri* — because the strangers create a prohibition for the brothers' side, this in turn establishes the brothers as a distinct unit as well. Once a stranger's presence demands that the courtyard be treated as composed of multiple units, the brothers can no longer claim to be a single cohesive household. They too become individual units, and thus must contribute separately when going out.
 
-### Receiving vs. Contributi…
+### Receiving vs Contrib
 
 By contrast, when they are receiving the *eruv* — when the bread is simply deposited in their home — they are not actively asserting anything about the structure of the courtyard. There is no active participation that underscores the multiplicity of units. The *gemara* therefore permits them to be treated as a single unit in that context. But when they actively contribute, they are acknowledging and participating in a system that recognizes separate units, and that very act of participation makes them individually distinct. This asymmetry — the same brothers being one unit when receiving and separate units when contributing — is explained entirely by the presence of strangers, which creates the condition in which active participation forces individual accountability.
 
@@ -146,7 +146,7 @@ Conversely, if they made a *shituf* in the *mavoi* without making *eruv chatzero
 
 ### Asymmetry
 
-The *mishna* thus presents a clear asymmetry: *shituf* can substitute for *eruv*, but *eruv* cannot substitute for *shituf*. The lecturer notes that this asymmetry is intuitively compelling. The *eruv chatzeros* is an inward-facing act of unification; it consolidates the private domain of the *chatzer* but does not engage the street. The *shituf*, by contrast, operates at the level of the *mavoi*, the quasi-public corridor through which all the courtyards communicate — and so it naturally draws together both the street and the courtyards feeding into it. The asymmetry flows from the structural relationship between the domains.
+The *mishna* thus presents a clear asymmetry: *shituf* can substitute for *eruv*, but *eruv* cannot substitute for *shituf*. This asymmetry is intuitively compelling. The *eruv chatzeros* is an inward-facing act of unification; it consolidates the private domain of the *chatzer* but does not engage the street. The *shituf*, by contrast, operates at the level of the *mavoi*, the quasi-public corridor through which all the courtyards communicate — and so it naturally draws together both the street and the courtyards feeding into it. The asymmetry flows from the structural relationship between the domains.
 
 ### Gemara's Objection
 
@@ -170,7 +170,7 @@ By contrast, if one courtyard's residents forgot to participate in the *shituf* 
 
 ### Shituf Backup Logic
 
-The *gemara* explains the asymmetry between these two cases under Rabbi Meir's framework. Rabbi Meir's reason for requiring both *eruv* and *shituf* is not that each is independently necessary in principle, but that he wishes to prevent people from forgetting that two distinct *halachos* exist — *shelo lishakeach toras eruv min ha-tinokos*. In a case where most or nearly all participants actively made both an *eruv* and a *shituf*, and only a single person inadvertently forgot the *eruv*, the *halacha* of *eruv* is not at risk of being forgotten. Therefore Rabbi Meir tolerates the *shituf* functioning as a backup in that narrow circumstance. This is a strikingly situation-dependent ruling, assessing each case on the basis of how likely the underlying *halacha* is to be forgotten. The lecturer acknowledges that the ruling has an ad hoc quality to it, and notes that the plain reading of the *mishna* — simple asymmetry between *shituf* and *eruv* — remains the more natural interpretation. The *gemara* does not appear to even consider this possibility, which is itself a striking feature of the sugya.
+The *gemara* explains the asymmetry between these two cases under Rabbi Meir's framework. Rabbi Meir's reason for requiring both *eruv* and *shituf* is not that each is independently necessary in principle, but that he wishes to prevent people from forgetting that two distinct *halachos* exist — *shelo lishakeach toras eruv min ha-tinokos*. In a case where most or nearly all participants actively made both an *eruv* and a *shituf*, and only a single person inadvertently forgot the *eruv*, the *halacha* of *eruv* is not at risk of being forgotten. Therefore Rabbi Meir tolerates the *shituf* functioning as a backup in that narrow circumstance. This is a strikingly situation-dependent ruling, assessing each case on the basis of how likely the underlying *halacha* is to be forgotten. The ruling has an ad hoc quality to it, and the plain reading of the *mishna* — simple asymmetry between *shituf* and *eruv* — remains the more natural interpretation. The *gemara* does not appear to even consider this possibility, which is itself a striking feature of the sugya.
 
 ---
 

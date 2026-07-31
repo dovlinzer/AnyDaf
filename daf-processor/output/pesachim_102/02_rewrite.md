@@ -84,7 +84,7 @@ A separate *baraita* addresses an analogous but distinct scenario: *Bnei chabura
 
 ---
 
-## Chaveirim Interrupt…
+## Chaveirim Interrupt (II)
 
 ### Yehuda Strict View
 
@@ -96,7 +96,7 @@ The underlying principle that enables the *Chachamim*'s leniency is that *devari
 
 ---
 
-## Shabbat Interruption…
+## Shabbat Meal Interruption
 
 ### Yehuda Interrupts
 
@@ -220,7 +220,7 @@ In contemporary practice, a true two-cup arrangement under the *chuppah* is rela
 
 ---
 
-## YomTov After Shabbat…
+## Yom Tov After Shabbat
 
 ### Rav's Order
 

@@ -36,7 +36,7 @@ However, Rav Nachman qualifies this: *sharginhu vadai aktsinhu* — if one has a
 
 ## Pottery Shards Context
 
-### Shards: Chatzer vs Karme…
+### Shards: Chatzer vs
 
 The *gemara* continues with closely related cases. Rav Nachman citing Shmuel rules: *cheres ketana* — a small shard of pottery — *mutar letaltela bechatzer*, may be moved in a *chatzer*. The discussion implicitly assumes the shard broke before *Shabbos* to set aside any *nolad* concern. In a courtyard, where people conduct domestic activity and commonly have pottery in use, it is normal to pick up and use a pottery shard — to cover a vessel, for instance — and so such a shard is considered *muchan* and not *muktzah*. However, *aval bekarmelis* — in a *karmelis*, a semi-public domain — it may not be moved, even within four *amos*, because this is framed as a *muktzah* question, not a carrying question. The *karmelis* does not provide the context of active domestic use that gives the shard its presumptive utility.
 
@@ -80,7 +80,7 @@ The resolution distinguishes between two types of objects. A true *kli*, like a 
 
 ---
 
-## Mat Strands & Garment Sc…
+## Mat Strands & Garment Scr
 
 ### Mat Strands Permitted
 
@@ -118,11 +118,11 @@ Rava therefore proposes that the broken oven pieces under debate are the shards 
 
 The relevance of "attached to the ground" requires brief explanation. Under the laws of *tumah ve-taharah*, objects generally become susceptible to *tumah* only when they are detached from the ground; items connected to the ground are considered part of the earth and are *tahor*. An oven is exceptional: it becomes susceptible to *tumah* specifically when it is attached to the ground. The Talmudic derivation comes from the verse: *tannur ve-khirayim yutatz temeim hem* — an oven and a *kirah* shall be demolished (*yutatz*), they are *tamei*. The word *yutatz* — to demolish, as opposed to *shevirah*, simply to break — implies connection to the ground, since one demolishes something connected to the earth. Rabbi Yehuda and the Rabbis dispute what this implies.
 
-### R. Yehuda: Connection Re…
+### R. Yehuda: Oven Tamei
 
 Rabbi Yehuda holds: *mechusar netitza tammei* — only that which requires demolition, i.e., something connected to the ground, can become *tamei* as an oven. *She-ein mechusar netitza tahor* — an oven not connected to the ground when first fired is not a true oven and therefore is *tahor*. The *mishnah* in *Kelim* states Rabbi Yehuda's position as follows: *im masik milmata ve-hu nisok milmala* — if one fires from below and the oven heats fully at the top (meaning the heat is well contained by the tight stone-wedged fit), then *tamei*. *Ve-im lav* — if heat escapes around the sides, then *tahor*, because it is not sufficiently equivalent to being plastered to the ground.
 
-### Rabbis: No Connection Re…
+### Rabbis: Oven Tamei Status
 
 The Rabbis hold: *temeim yihyu lachem mikol makom* — the verse's concluding phrase, "they shall be *tamei* to you," is inclusive and requires no condition of ground connection. Once the oven is fired, it becomes *tamei* regardless of whether it is connected to the ground. *Hu ve-hu sak mikol makom* — it makes no difference.
 

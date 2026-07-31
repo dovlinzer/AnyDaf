@@ -126,7 +126,7 @@ Abaye raises this question directly: *miklal d'eglah arufah tehorah hee?* — is
 
 ---
 
-## Eglah Arufah Cholev
+## Eglah Arufah Cholevet
 
 ### Kol Chelev
 

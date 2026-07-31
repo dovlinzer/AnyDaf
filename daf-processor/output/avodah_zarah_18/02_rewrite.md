@@ -30,7 +30,7 @@ His response to their charge is unambiguous: *ka'asher tzivani Hashem Elokai* �
 
 The result is immediate. *Miyad gazru alav lisreifah* — they immediately decreed burning for him. *V'al ishto l'harigah* — his wife would be executed. *V'al bito lasheves b'kubbah shel zonah* — and his daughter would be consigned to a house of prostitution. His entire household was swept into the punishment.
 
-### God's Name & Public Prac…
+### God's Name in Public
 
 The *Gemara* now asks what specifically warranted Rabbi Hanina's punishment, since we have established that the reason he was not saved is his insufficiency in *gemilut chasadim*, but that is not the same as why he deserved punishment in the first place. The answer: *shehayah hogeh et ha-shem b'osiyosav* — he would articulate God's name exactly as it is spelled. Rashi understands this to refer to the forty-eight letter name of God, with its extraordinary powers. Tosafot, however, understand it more simply: he would say the divine name *Yud-Kei-Vav-Kei* explicitly as written, rather than substituting *Adon* or another form. Tosafot's reading fits better with the broader thematic arc of what is happening here.
 
@@ -38,7 +38,7 @@ This immediately raises a difficulty. *V'heichi avid hachi* — how could he hav
 
 If so, the *Gemara* presses, why was he punished at all? *Mishum d'hogeh et ha-shem b'farhesya d'havah* — because he did so in public. And here the thread connecting everything comes into focus. The problem was not the act itself but its public character. A small measure of discretion — a sensitivity to the consequences of performing one's *Torah* life without any accommodation to the surrounding world — was all that was required. Rabbi Hanina could not provide it. Whether in his teaching, his responses to the Romans, or his invocation of the divine name, everything about him was public, overt, entirely without concession to practical reality.
 
-### Wife's Punishment & Enab…
+### Wife's Protest & Punish
 
 The *Gemara* then addresses why his wife was sentenced to death. *D'lo michaya* — because she could have protested and stopped him, and she did not. *Mikan amru: kol mi sheyesh b'yado limchos v'eino mocheh ne'enash alav* — from here the rabbis derived that anyone who has the capacity to protest wrongdoing and does not do so is punished alongside the one who committed the act.
 
@@ -72,7 +72,7 @@ The *Gemara* now introduces an earlier episode that, in narrative terms, precede
 
 *Ve'ani shamati alecha she'ata yoshev v'osek baTorah umakhil kehillot b'rabbim* — and I have heard about you that you sit and occupy yourself with Torah, gathering the multitudes in public — *v'sefer Torah munach lecha b'cheikecha* — with the *sefer Torah* lying right there in your lap. This last detail is significant. Rabbi Hanina is not merely teaching privately or even just teaching publicly in words. He is symbolically and visibly identified with the *sefer Torah*. He is not disguising his activity in any way. He is, in every possible sense, refusing to accommodate himself to the political reality around him.
 
-### Rejection of Practical W…
+### Divine Mercy Over Wisdom
 
 Rabbi Hanina's response is three words: *min ha-shamayim yerachamu* — from heaven they will have mercy. Rabbi Yossi ben Kisma's reply is one of the most pointed lines in these *Gemarot*: *ani omer lecha devarim shel ta'am v'ata omer li min ha-shamayim yerachamu* — I am presenting you with a rational argument, a serious and cogent case, and you respond to me with "heaven will have mercy"? The rebuke is not merely practical; it is theological. Rabbi Yossi ben Kisma is not a Roman sympathizer or an accommodationist for its own sake. He is a Torah giant who has found a way to work within the structures of power — and who understands that expecting miraculous divine intervention as a substitute for practical wisdom is not *bitachon*, trust in God, but irresponsibility.
 
@@ -86,7 +86,7 @@ Rabbi Yossi ben Kisma asks Rabbi Hanina whether he will merit the *Olam Ha-Ba*, 
 
 *Amar lo: klum ma'aseh ba l'yadcha?* — did any deed come to hand? Did you ever do something practically good, a *ma'aseh*, an act? The question is almost jarring given everything Rabbi Hanina has done in the public sphere. But all that public Torah teaching does not, in Rabbi Yossi ben Kisma's framework, substitute for a *ma'aseh*. Rabbi Hanina answers: on one occasion, *ma'ot shel Purim* — Purim money — became mixed up with *tzedakah* money, and rather than sort out the confusion in a way that would disadvantage the poor, he distributed the *tzedakah* money generously and drew on his own funds to cover the *Purim* obligations. *Amar lo: im ken mechalkecha yihiyeh chelki umigoralcha yihiyeh gorali* — if so, may your portion be mine and my lot be yours.
 
-### Contrast: Yossi vs. Hani…
+### Yossi vs. Hanina: Rome
 
 Rabbi Yossi ben Kisma died shortly thereafter, and all the great men of Rome came to his burial and delivered a great eulogy for him. He had known how to navigate the world of Roman power; they recognized his greatness and respected it even in death. The contrast with what immediately follows could not be starker.
 
@@ -98,7 +98,7 @@ There is also a small but telling detail: Rabbi Hanina was not at Rabbi Yossi be
 
 ## Execution & Sefer Torah
 
-### Discovery with Sefer Tor…
+### Hanina's Sefer Torah
 
 *V'hevi'uhu v'karchuhu b'sefer Torah* — they took him and wrapped him in the *sefer Torah*. The Romans, having found him publicly identified with the *sefer Torah* and unwilling to separate himself from it in any practical sense, now enforced that identification in a grotesque and literal way: he would die wrapped in the *sefer Torah* he had refused to put down.
 
@@ -120,7 +120,7 @@ His students, sensing something extraordinary was occurring, asked him: *Rebbi, 
 
 The students then urged him: *af atah p'tach picha v'tikanes becha esh* — open your mouth and let the fire enter you, to hasten death. His response is a *halachic* principle of the first order: *mutav sheyitlenah mi shenatanah v'al yechabell hu b'atzmo* — better that the one who gave the soul should take it, and a person should not inflict injury upon himself to speed his own death. This is one of the very few talmudic sources that bear directly on the entire field of Jewish medical ethics concerning the end of life. The *Gemara* does not elaborate on it here, but the principle stands clearly: one may not hasten death, even one's own, even in extremis. The departure of the soul belongs to God.
 
-### Roman Officer Interventi…
+### Roman Officer & Oath
 
 A Roman officer — a *kaltztoniri*, described by Rashi as one responsible for the execution of punishments — now approaches Rabbi Hanina with a proposal. *Rebbi, im ani marbeh bashalhevet v'notel sfugin shel tzemar me'al libcha, atah mevi'ani l'chayei ha'olam haba?* — Rabbi, if I increase the flame and remove the wet sponges, will you bring me to the World to Come? Rabbi Hanina answers: *hen* — yes. *Hashava li* — swear to me. *Nishba lo* — and he swore. Immediately the officer raised the flame and removed the sponges, and *yatz'ah nishmato bimherah* — his soul departed quickly.
 
@@ -128,7 +128,7 @@ The irony embedded in this exchange merits attention. Rabbi Hanina refused to ha
 
 *Af hu kafatz v'nafal l'toch ha'or* — the Roman officer himself then leaped into the fire, presumably knowing that what he had done would bring Roman retribution, and choosing death on his own terms.
 
-### Heavenly Voice Declarati…
+### Heavenly Voice: Hanina
 
 *Yatz'ah bat kol v'amrah: Rebbi Chananya ben Teradyon v'kaltztoniri mezumanim heim l'chayei ha'olam haba* — a heavenly voice came forth and declared: Rabbi Chananya ben Teradyon and the Roman officer are both destined for the World to Come.
 
@@ -244,7 +244,7 @@ Rav Ketina: *kol hamitzlotzeitz mezonosav mitmatin* — anyone who indulges in m
 
 Rabbi Shimon ben Lakish pushes the stakes still higher: *kol hamitzlotzeitz nofel b'gehinnom* — anyone who becomes a *leitz* will ultimately fall into *Gehinnom*. The source is a verse in which the words for "wicked," "haughty," and "mocker" appear together, and the word for "transgression" — *evrah* — is connected to *Gehinnom* by the phrase *yom evrah hayom hahu* — the day of wrath is that day. Rabbi Oshaya extends this to arrogance (*yahir*) as well, noting that the same verse links the haughty one to the same consequences. Rabbi Chanilai ben Chanilai draws out yet another dimension: *kol hamitzlotzeitz goreim kalyah l'olam* — the *leitz* brings destruction not only upon himself but upon the world. *Ki chalah v'necheratzah shamati* — because complete destruction I have heard decreed. Rabbi Elazar summarizes the trajectory: it begins with personal affliction (*yisurin*) and ends with communal destruction (*kalyah*).
 
-### Final Drasha & Positive…
+### Final Drasha & Positive
 
 Rabbi Shimon ben Pazi's final *drasha* weaves the prohibitions against theatrical and circus attendance directly into the verse of *Ashrei ha'ish*: *Ashrei ha'ish asher lo halach l'varkita'os u'l'kirkasa'os shel ovdei kochavim* — praised is the person who did not go to the theaters and circuses of idol worshippers. *U'v'derech chata'im lo amad* — who did not stand *b'kangiyon* — at the animal hunts, a popular Roman entertainment involving wild animals. *U'v'moshav leitzim lo yashav* — who did not sit in the *tachbulos*, another form of public entertainment gathering.
 

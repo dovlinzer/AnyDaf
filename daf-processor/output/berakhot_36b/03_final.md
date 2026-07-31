@@ -1,4 +1,5 @@
 # Berakhot 36b — Daf Yomi Shiur
+[DAF:36a]
 
 ## Tzlaf & Fruit Definition
 
@@ -68,6 +69,7 @@ A new halachic category enters the discussion: *kilayim*. While one may plant tr
 
 The *Gemara* recognizes that *Beit Shammai*'s position appears internally contradictory: they call it *kilayim* in a vineyard — implying it is a vegetable — yet agree it is subject to *orlah* — implying it is a tree. The *Gemara* resolves this: *Beit Shammai sepuki mesapka lehu* — they are simply uncertain how to classify the caper bush. Faced with this uncertainty, they apply stringency in both directions: they treat it as a tree for *orlah* purposes, where being stringent means applying the prohibition, and they treat it as a vegetable for *kilayim* purposes, where being stringent means imposing the restriction. The position is coherent as an expression of consistent stringency under conditions of doubt, even if the legal treatment differs across categories. What is striking is that the *Gemara* does not invoke this as a license to treat definitions differently across categories in general. Every prior opportunity to distinguish the categories was declined; the assumption of cross-category consistency holds firm. *Beit Shammai*'s divergent treatment is explained not as a principled distinction between domains but as an application of *chumra* in a case of genuine uncertainty.
 
+[DAF:36b]
 ### Safek Orlah Rules
 
 > **Hebrew/Aramaic:** מִכׇּל מָקוֹם, לְבֵית שַׁמַּאי הָוֵה לֵיהּ סָפֵק עׇרְלָה, וּתְנַן: סָפֵק עׇרְלָה — בְּאֶרֶץ יִשְׂרָאֵל אָסוּר, וּבְסוּרְיָא מוּתָּר. וּבְחוּצָה לָאָרֶץ יוֹרֵד וְלוֹקֵחַ — וּבִלְבַד שֶׁלֹּא יִרְאֶנּוּ לוֹקֵט.

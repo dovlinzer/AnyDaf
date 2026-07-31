@@ -2,7 +2,7 @@
 
 ## Pidyon HaBen Overview
 
-### From Definition to Mitzv…
+### Definition to Pidyon
 
 The tractate's opening sugyot addressed the definition of *bekhor* — the firstborn — and worked through a series of curious edge cases, including questions about dead fetuses. Having established what counts as a firstborn, the Mishnah now turns to the *mitzvah* itself: *pidyon haben*, the redemption of the firstborn son. This is not an unusual organizational pattern; *Mishnayot* frequently open with definitional questions before turning to the operative *mitzvah*. One practical note before entering the text: if the father is too poor to afford the redemption, a *Kohen* may give him the money as a gift, and the father may then return it to the *Kohen* — a mechanism that ensures the *mitzvah* can be fulfilled regardless of financial circumstance.
 
@@ -18,7 +18,7 @@ The Mishnah then enumerates the other Torah payments that share this same standa
 
 Two foundational principles emerge from the Mishnah. First, the standard Torah *kesef* — *kesef stam* — means the *shekel*, which equals the *sela* of the Tyrian coinage. This identification is presumed throughout rabbinic literature. Second, the Mishnah notes that *kulam nitnin bekesef uveshaveh kesef* — all these payments may be made either in silver or in items of equivalent value — *chutz mishkalim*, with the exception of the half-*shekel* contribution to the Temple, which must be paid in actual silver, not merely in equivalent value. This exception will receive further treatment in the Gemara.
 
-### Payment in Equivalent Va…
+### Payment in Equiv Value
 
 The operative *halachah* is therefore twofold: the Torah's use of *kesef* refers to the *shekel*/*sela* standard, and payment need not be in silver per se but may be discharged in any item of equivalent monetary value. The Gemara will now take up the task of translating what that *sela* actually represents in terms of contemporaneous coinage — a project that requires working through several layers of monetary equivalency.
 
@@ -48,7 +48,7 @@ This fluctuation in silver prices carries practical *halachic* implications. The
 
 ---
 
-## Coinage Systems & Opinio…
+## Coinage Systems: Dinar
 
 ### Rashi vs. Tosafot
 
@@ -62,11 +62,11 @@ The key equivalency is this: one gold *dinar* equals twenty-five silver *dinarim
 
 *Rabbi Ami* says *dinara arva'ah* — one Arabian *dinar* suffices. According to *Tosafot*, the Arabian gold *dinar* was worth not twenty-five but exactly twenty silver *dinarim*. This was a smaller gold coin than the standard, and its value happened to align precisely with the requirement for *pidyon haben*. Thus, according to Rabbi Ami, one may discharge the obligation by presenting a single Arabian gold *dinar* — no fractional calculation required.
 
-### Rabbi Chanina: Syrian Is…
+### Rabbi Chanina: Istira
 
 *Rabbi Chanina* proposes a different coinage: *istira sarsira*, a Syrian *istira*. The Gemara says *demizdabna tamanya bedinara* — eight Syrian *istirin* go for one gold *dinar*. Therefore one *istira* equals one-eighth of a gold *dinar*. Since a standard gold *dinar* is worth twenty-five silver *dinarim*, and one *istira* is one-eighth of that, five *istirin* equal five-eighths of a gold *dinar*. The calculation behind this is that the Syrian *dinar* had a different silver content — effectively it was a larger denomination, such that one gold *dinar* in Syrian coinage equaled thirty-two silver *dinarim* rather than twenty-five. Five-eighths of thirty-two is twenty. So five Syrian *istirin* — five-eighths of a Syrian gold *dinar* — yields exactly twenty silver *dinarim*, the required amount.
 
-### Reconciliation of Opinio…
+### Reconciliation: 3 Views
 
 All three approaches, read according to *Tosafot*, arrive at the same practical conclusion: the *pidyon haben* obligation is twenty silver *dinarim*. In the standard coinage, this is four-fifths of a gold *dinar*. Rabbi Ami finds a coin — the Arabian *dinar* — whose denomination happens to equal exactly four-fifths of the standard, making it a single-coin solution. Rabbi Chanina works in Syrian coinage, where five *istirin* achieve the same result. The opinions differ not in their *halachic* requirement but in their identification of what actually circulating coin or combination of coins could serve as a practical vehicle for the payment.
 
@@ -92,7 +92,7 @@ The resulting formulation — twenty *zuz* in the weight of a *dinar* — is the
 
 ---
 
-## Biblical vs. Rabbinic Se…
+## Biblical vs Rabbinic Sela
 
 ### Rava: Torah Sela = 3.33
 
@@ -104,7 +104,7 @@ The proof proceeds as follows. The Torah says *esrim gerah hashekel* — the *sh
 
 If, however, we use the later standard of four *dinarim* per *sela*, then one *sela* equals twenty-four *ma'ot*, not twenty. This implies that at some later point the coinage was enlarged — the coins were made bigger — so that what had been twenty *ma'ot* in the Torah's system became twenty-four *ma'ot* in the later system. The ratio of *ma'ot* to *dinar* stayed fixed at six, but the *sela* grew from three and one-third *dinarim* to four.
 
-### Yovel Redemption & Fundi…
+### Yovel Redemption & Fundin
 
 The Gemara raises a challenge from a *braita* (possibly from the *Sifra*) concerning the *yovel* redemption of a dedicated field. The Torah states that a field of a *beit zera chomer se'orim* — a field sown with a *chomer* of barley — is valued at fifty *shekel* for the full forty-nine years until *yovel*. Dividing fifty *shekel* by forty-nine years, each year comes to one *shekel* plus one forty-ninth of a *shekel*. The *braita* teaches that one *sela shel kodesh* equals forty-eight *pundiyot*, and a *pundiyah* is a *ma'ah*. So one *sela* equals forty-eight *ma'ot*. But if the Torah's *shekel* were only twenty *ma'ot*, then forty-nine times one *shekel* and one *pundiyah* would yield forty-nine *shekel* plus forty-nine *pundiyot*; forty-nine *pundiyot* at the Torah rate of twenty *ma'ot* per *shekel* would give only a fraction of a *shekel*, not a whole additional *shekel*. The arithmetic of the *braita* seems to presuppose the larger, later standard of forty-eight *ma'ot* per *sela*. The extra *pundiyah* in the *braita* — *kilbon l'prutot* — reflects a minor rounding discrepancy, not a substantive difference. The point is that the *braita*'s calculation only works with the larger coin.
 
@@ -114,7 +114,7 @@ The Gemara resolves this: *basar de'osfu aleihu* — after the Torah was given, 
 
 ---
 
-## Flexibility & Rav Ashi S…
+## Flexibility & Rav Ashi
 
 ### 'Yihyeh' Drasha
 
@@ -138,7 +138,7 @@ Rav Ashi responded: *lishdar li mar tilta achrina de'osifi aleihu* — send me b
 
 ---
 
-## Biblical vs. Rabbinic Ke…
+## Biblical vs Rabbinic
 
 ### Biblical Kesef = Sela
 
@@ -148,7 +148,7 @@ Rav Ashi responded: *lishdar li mar tilta achrina de'osifi aleihu* — send me b
 
 *Dinevi'im* — when *kesef* appears in *Nevi'im* without further specification, it refers to a *litrin*, which *Rashi* identifies as twenty-five *shekalim*. The standard implied by prophetic usage is therefore a coin twenty-five times larger than the Torah's *shekel*.
 
-### Hagiographic Kesef = Qin…
+### Kesef is 100 Shekalim
 
 *Dikesuvim* — when *kesef* appears in *Kesuvim*, it refers to a *kintrin*, which is a hundred *shekalim*. Thus the denominational standard escalates through the three sections of Tanach: Torah *kesef* is one *sela*; prophetic *kesef* is twenty-five *sela'im*; and *kesef* in *Kesuvim* is a hundred *sela'im*. Rabbi Chanina is not claiming these are different coins called *kesef*, but rather that the background monetary standard assumed by each section of the canon reflects the economic reality of its era.
 
@@ -156,7 +156,7 @@ Rav Ashi responded: *lishdar li mar tilta achrina de'osifi aleihu* — send me b
 
 *Chutz mikaspo shel Ephron* — the one exception within the Torah itself is the account of Avraham's purchase of the cave of Machpelah from Ephron. Though the Torah says *arba me'os shekel kesef over lasocher* — four hundred *shekel* of silver, acceptable currency — *Chazal* read this as invoking the *kintrin* standard, consistent with their broader portrait of Ephron as one who *emor harbeh va'aseh me'at*: he made grand magnanimous gestures and then demanded an exorbitant price. On this reading, what appeared to be four hundred *shekel* was actually four hundred *kintarin* — forty thousand *shekalim*, a sum befitting the *Chazal* tradition of Ephron's rapacity.
 
-### Qintrin/Shekel Terminolo…
+### Qintrin/Shekel Principle
 
 The Gemara supports this reading with the observation: *ve'ika duchta d'karu l'kintra tikla* — there are places where the unit called a *kintar* is referred to simply as a *shekel*. Avraham paid in silver that was *over lasocher* — accepted currency everywhere. In places where a hundred-*shekel* unit was the standard denomination called a *shekel*, Avraham's payment of four hundred such units would represent forty thousand standard *shekalim*. One might note in passing that by the time of Avraham, coins as such had not yet been invented; *shekel* there refers simply to a weight, and *over lasocher* likely means a stamped or certified weight that would be accepted without dispute.
 
@@ -210,7 +210,7 @@ The Gemara illustrates this with a vivid anecdote. *Chanan Bisha* — a characte
 
 The foregoing discussion of monetary standards now bears directly on the value of a *ketubah*. A *ketubah* is fifty *kesef* — that is, fifty *shekalim*, or ten times the five *shekalim* of *pidyon haben*. In terms of *zuzim*, this is 200 *zuz*, since five *shekalim* equals twenty *zuz* and ten times that is two hundred. The *ketubah* amount of 200 *zuz* is thus the standard the Talmud assumes throughout.
 
-### Biblical vs. Rabbinic Or…
+### Biblical vs. Rabbinic Law
 
 A fundamental debate exists in the Gemara and *Rishonim* as to whether the *ketubah* obligation is biblical or rabbinic in origin. This question matters for the monetary calculation: if the *ketubah* is rabbinic, one might apply the *kesef medinah* standard of one-eighth, dramatically reducing its value.
 

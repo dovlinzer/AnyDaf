@@ -1,4 +1,5 @@
 # Nedarim 89 — Daf Yomi Shiur
+[DAF:89a]
 
 ## Widow/Divorcée Vows
 
@@ -194,6 +195,7 @@ Rav Yehuda cites Rav: *zo divrei Rabbi Yehuda, aval Chachamim omrim shalosh naar
 
 ## Konam Cases
 
+[DAF:89b]
 ### Konam 1
 
 > **Hebrew/Aramaic:** מַתְנִי׳ ״קֻוֽנָּם שֶׁאֵינִי נֶהֱנֶה לְאַבָּא וּלְאָבִיךָ אִם עוֹשָׂה אֲנִי עַל פִּיךָ״, ״שֶׁאֵינִי נֶהֱנֵית לְךָ אִם עוֹשָׂה אֲנִי עַל פִּי אַבָּא וְעַל פִּי אָבִיךָ״ — הֲרֵי זֶה יָפֵר.

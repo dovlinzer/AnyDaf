@@ -1,6 +1,6 @@
 # Yevamot 15 — Daf Yomi Shiur
 
-## Beit Shammai Hold Positi…
+## Beit Shammai: Tzarat Bat
 
 ### Opening Question
 

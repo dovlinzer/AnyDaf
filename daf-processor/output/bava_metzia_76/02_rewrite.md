@@ -62,29 +62,29 @@ With all of this in view, the original opening of the *Mishna* — the case of *
 
 ## Foreman Deception Theory
 
-### Workers Deceive Eachother
+### Workers Deceive Others
 
 The *Gemara* observes: *chazru zeh bazeh lo katani* — the *Mishna* does not say they "backed out," but rather *hitu zeh et zeh*, they "deceived" one another. The *Gemara* takes this as a signal that the opening case is distinct from the subsequent scenarios of retraction. The question then becomes: what constitutes deception that does not involve backing out, and yet yields only *tar'omet*?
 
 The *Gemara*'s initial reading is striking: *de'atu po'alim ahadadi* — the workers deceived one another. That is, *hitu zeh et zeh* does not describe employer deceiving employee, but workers deceiving each other.
 
-### Foreman Pockets Difference
+### Foreman Pockets Wage Diff
 
 The mechanism the *Gemara* envisions is as follows. The *ba'al habayit* hires one man as a foreman and says to him: *zil ogar li po'alim* — go hire workers for me. The foreman is told to hire them at three dollars a day, but he goes and tells the workers they will receive four dollars a day, pocketing the difference himself. This is the deception: the workers deceive one another in the sense that the foreman, himself a kind of worker, defrauds the other workers he recruits.
 
 One might immediately ask: if the going rate is three and the foreman promised four, why do the workers have any complaint at all? *Savru vekabilu* — they assessed the terms and accepted. Conversely, if the *ba'al habayit* authorized four and the foreman told them three, and then refused to pay more, the foreman has plainly undertaken a contractual obligation toward them.
 
-### Sharchkem Al Ba'al Habayit
+### Sharchkem Al Ba'al Habit
 
 The critical case, the *Gemara* explains, is where the foreman tells the workers that their pay is *al ha-ba'al habayit* — the employer is responsible for their wages, not the foreman himself. In this configuration, the foreman has not personally assumed the obligation. He is merely the conduit. The workers' complaint, if any, runs only against the foreman — not against the *ba'al habayit*, who may not have authorized the higher figure, and not as a binding legal claim.
 
-## Promise vs. Misrepresent…
+## Foreman & Worker: Promise
 
-### Foreman Assumes Obligation
+### Foreman's Pay Obligation
 
 A *baraita* clarifies the legal consequence when the foreman changes his posture. If the foreman says *sharchchem alai* — your wages are on me — he personally assumes the obligation. In that case, the workers collect the full promised amount from the foreman directly.
 
-### Foreman Seeks Reimbursement
+### Foreman Reimbursement
 
 The foreman can then turn to the *ba'al habayit* and seek reimbursement *mah shenehneh* — for however much the employer actually benefited. This principle is illustrated by a *baraita*: if I hire Michael to mow my lawn and then show him my neighbor Gloria's lawn, telling him it is mine, I must pay Michael his full contracted fee. I may then seek reimbursement from Gloria — but only *mah shenehneh*, only for the benefit she actually received. If the going rate for mowing a lawn is ten dollars and I paid Michael twenty, I can recover ten from Gloria, not twenty.
 
@@ -92,7 +92,7 @@ This draws on the established principle of *yored lesoch sdei chaveiro shelo bir
 
 Applied to the foreman case: if the foreman said *sharchchem alai*, he owes them four. He may then recover from the *ba'al habayit*, but almost certainly no more than three, assuming three was the authorized rate and presumably the going rate. In that scenario, there is no unresolved complaint — the workers collect from the foreman and the foreman settles with the *ba'al habayit*.
 
-### Foreman Misrepresents Wage
+### Foreman Misrepresents Pay
 
 The hard case is where the foreman said *sharchchem al ha-ba'al habayit* — placing the obligation on the employer — but misrepresented the wage. The workers worked for the *ba'al habayit*, trusting that the foreman accurately conveyed what the employer had authorized. Now the *Gemara* considers how much the *ba'al habayit* owes them.
 
@@ -100,7 +100,7 @@ The *Gemara* says: *venichzi po'alim heichi misgarei* — let us see what the go
 
 ## Complaint Threshold
 
-### Scenario 1: Alt Job Available
+### Foreman: 4 vs 3 Shekels
 
 The interesting case arises when there is a split market — some workers available at four, some at three. The *Gemara* says: *de'amru lei — ei lav de'amrat lan be'arba, tarchinan u'misgarinan be'arba* — they say to the foreman: had you not told us four, we would have hustled and secured a four-dollar job elsewhere. This is a legitimate complaint. The misrepresentation caused a real opportunity cost. Yet the *ba'al habayit* is not legally liable for more than three, since he only intended to pay three and only received a benefit assessable at three. The foreman's workers cannot extract more than that from the employer, and so their complaint — while genuine — yields only *tar'omet*, a grievance without legal recourse.
 
@@ -160,7 +160,7 @@ Critically, the *baraita* immediately qualifies its ruling: *bameh devarim amuri
 
 Once the workers arrive, however, the calculus changes entirely. The *baraita* gives examples: the donkey drivers went to pick up grain and found none available (*velo matzu tvua*), or workers came to plow a field and found the soil too wet (*vematzu sade kesheehi lach*). In both cases, they showed up — and *noten lahem sechar mishalam*, the employer gives them their full wages. The concept of *poel batel* applies here: the employer does not pay for actual work done, since none was done, but rather the discounted amount a worker would accept to come and sit idle for the day rather than plow. The *Gemara* notes *eino domeh haba ta'un leba reikan* — it is not the same to come bearing a load as to come back with an empty wagon — and *oseh melacha leyoshev ubatel* — it is not the same to do work as to sit and do nothing. So the worker is paid the going rate minus what he would accept to stand idle: less than his full daily wage, but a real obligation nonetheless.
 
-## Work Begun: Proportional Pay…
+## Work Begun: Disputes
 
 ### Proportional Payment
 

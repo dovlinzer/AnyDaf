@@ -1,6 +1,6 @@
 # Sukkah 25 — Daf Yomi Shiur
 
-## Intro: Dwelling & Exempt…
+## Intro: Dwelling Exempt
 
 ### Overview & Transition
 
@@ -30,7 +30,7 @@ The context here is important. The *pesukim* of *veshinnantam levanecha vedibart
 
 From this *beraita* the *mishnah* in *Berakhot* derives that a man who marries a *betulah* — a virgin — is exempt from reciting *Shema* on his wedding night, whereas one who marries a widow is obligated. That distinction will require explanation. But first the *gemara* asks: *mai mashma* — what precisely in the verse suggests the exemption for one who is *osek b'mitzvah*?
 
-### Derech/Discretionary Act…
+### Derech: Discretionary Act
 
 Rav Huna explains: *k'derech* — the word *vaderech*, "on the way," indicates something like going on a journey, which is a discretionary, volitional activity. *Mah derech reshut* — just as going on a journey is something one chooses to do, *af kol reshut* — so too the obligation to recite *Shema* applies whenever one is engaged in discretionary activities. *Le-apukei hai d'v'mitzvah asik* — this excludes a person who is engaged in a *mitzvah*, whose activity is obligatory rather than volitional, and who is therefore exempt from *Shema*.
 
@@ -60,7 +60,7 @@ Why is a *chatan* exempt from saying *Shema*? The most natural and intuitive ans
 
 The *gemara* here, however, is framing the *chatan*'s exemption not as a matter of distraction but as an instance of *osek b'mitzvah*. That reframing requires explanation.
 
-### Rashi: Preoccupation Imp…
+### Rashi: Preoccupation
 
 *Rashi* addresses this directly. He writes that the *chatan* is *tarud* — preoccupied — *libo tarud b'machshavat bi'ah*. He is mentally occupied with the fact that he will be having marital relations that night. And *Rashi* adds — crucially — *u-mistaber ki patrei kra mishum tirda patrei v'eino yachol la'asok bishnayim k'echad*: the Torah exempts him because of this preoccupation, and he cannot be engaged in two things simultaneously. The logic is that stopping to recite *Shema* would take him away from thinking about the *mitzvah* he is about to perform.
 

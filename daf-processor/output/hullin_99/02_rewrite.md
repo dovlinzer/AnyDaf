@@ -16,7 +16,7 @@ These two models map, broadly, onto the divergence between Sephardic and Ashkena
 
 The Ashkenazic approach, by contrast, adopts a unified standard. Rather than adjudicate each case individually, Ashkenazic practice follows one-in-sixty as the universal rule — what one might describe as the "keep it simple" principle, which in practice means adopting the most stringent applicable standard. The Ashkenazic authorities do not in principle deny that *ta'am* is the underlying concern, but they prefer a fixed numerical threshold to case-by-case evaluation.
 
-### Rashi: Quantitative Requ…
+### Rashi: Quantitative Insig
 
 This brings us to a striking dispute between the *rishonim* about the nature of the *shiur* itself. Rashi reads the *gemara's* derivation from the *psukimm* — the *zroa beshelah*, the cooked arm of the ram brought as part of the *shelamim* offering — as establishing an independent biblical requirement. On Rashi's view, there is a quantitative threshold that operates independently of *ta'am*: even if *ta'am k'ikar d'oraisa* is itself subject to debate, the Torah independently requires that the forbidden substance be quantitatively insignificant. One-in-sixty, or according to another opinion one-in-a-hundred, is not merely a stand-in for taste but a self-standing biblical criterion.
 
@@ -174,13 +174,13 @@ The incident is instructive on several levels. Rabbi Chanina is following the po
 
 ---
 
-## Pluralistic Halakhic (II)
+## Ammi & Yitzchak: Gid
 
 ### Referral to Lenient Posek
 
 The *gemara* then shifts to a different scene. When people — the *gemara* uses the plural *ki asu*, suggesting this was not a rare occurrence, since many people forgot to remove the *gid hanasheh* from the thigh before cooking — came before Rabbi Ammi with this question, he did not answer them directly. Instead, *meshader lehu lekamei de-Rabbi Yitzchak bar Chalov* — he sent them to Rabbi Yitzchak bar Chalov — *de-mori ba le-heteira k'Rabbi Yehoshua ben Levi* — because Rabbi Yitzchak bar Chalov rules leniently, following Rabbi Yehoshua ben Levi, that the *gid* presents no *ta'am* problem.
 
-### Public vs. Private Posit…
+### Rabbi Ammi
 
 And then the *gemara* states the striking conclusion: *ve-lei lo seveira lei* — but Rabbi Ammi himself did not agree with this position. Rabbi Ammi personally held that the mixture was *assur*, yet he consistently referred questioners to Rabbi Yitzchak bar Chalov who would permit it.
 
@@ -210,7 +210,7 @@ A further implication, noted by Tosafot, follows from a *sugya* in *Psachim*. Th
 
 ## Pluralistic Halakhic (II)
 
-### Rabbi-Shopping vs. Exper…
+### Rabbi-Shopping vs Expert
 
 The incident involving Rabbi Ammi's referral raises a question worth examining directly: is this not simply rabbi-shopping — the very practice the principle of *asei l'cha rav* is often invoked to prohibit?
 

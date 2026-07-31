@@ -40,7 +40,7 @@ The *pesach* rule applies *bizmano* — specifically during the window of the af
 
 The *chatat* case is the more intuitive one. A *chatat* brought for a sin is highly specific: it atones for a particular sin of a particular person. Unlike an *olah* or *shelamim*, which can easily be imagined as a *nedava* — a gift with no personal obligation attached — a *chatat* is inherently bound up with its owner. Ownerless *shelamim* is a coherent concept. Ownerless *chatat* is not. A *chatat* is defined by the nexus of owner, sin, and atonement. Once that nexus is severed — because the *kohen* slaughtered it for some other purpose — the animal has no independent standing. It does not continue to live as generic *chatat* the way an *olah* or *shelamim* can continue as a valid *korban*. Divorced from its owner and its occasion, it must be burned.
 
-### R. Eliezer, Yosi ben Cho…
+### R. Eliezer, Yosi: Asham
 
 Rabbi Eliezer extends this principle to the *asham* as well. His view — *af ha'asham* — follows directly from the same logic: an *asham*, like a *chatat*, is linked to a specific sin and a specific owner. Once detached from that owner, it has no independent standing. The *mishnah* states his position as: *haPesach bizmano, vehaChatas vehaAsham bechol zman* — *Pesach* in its time, *chatat* and *asham* at any time, are completely invalid when slaughtered *shelo lishmah*.
 

@@ -146,7 +146,7 @@ However, the same verse that includes them also limits them: *bachalav imo* — 
 
 ---
 
-## Shmuel's Gedi Drasha (II)
+## Shmuel's Gedi Drashas
 
 ### Gedi Broadening
 

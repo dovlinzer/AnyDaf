@@ -10,7 +10,7 @@ The Gemara on daf 8 opens by resuming the analysis of who is considered the *ba'
 
 The focus of the Mishnah, and now of the Gemara's discussion, concerns the *bechor* — the firstborn animal. The Mishnah appears to reflect the position of Rabbi Akiva, over the resistance of Rabbi Yochanan ben Nuri, that the *kohen* is not the owner of the *bechor*. When a Yisrael possesses a *bechor*, the animal must be given to a *kohen*, who then brings it as a *korban* and eats its meat. Yet the *kohen* is not considered the *ba'al hakorban*. He receives it, as the Gemara will later articulate, *mishulchan gavo'ah* — as one eating from God's table — just as he eats the meat of a Yisrael's *chatat* or *asham* without being that *korban*'s owner. According to this position, it is the Yisrael who can perform *temurah* prior to transferring the animal to the *kohen*; once it is in the *kohen*'s possession, no one performs *temurah* at all.
 
-### Bechor's Intrinsic Kedushah
+### Bechor's Sacred Nature
 
 This raises a striking point worth pausing on. A *bechor* is fundamentally different from every other *korban*: it is never actively sanctified by a person. Its *kedushah* arises automatically by virtue of being the firstborn. One might have imagined, therefore, that no one could perform *temurah* on a *bechor*, since *temurah* would naturally be associated with the one who instills the *kedushah*. The Mishnah itself uses the phrase *chalah alav* — the sanctity took effect — in the owner's house, establishing that the Yisrael in whose possession the *kedushah* first took hold is the relevant party for *temurah*, even though no deliberate act of sanctification was performed.
 
@@ -20,7 +20,7 @@ The deeper principle at stake here, already established by the Gemara earlier in
 
 ---
 
-## Bechor Sales & Beit HaMi…
+## Bechor Sales: Now vs Then
 
 ### Bechor Sale Conditions
 

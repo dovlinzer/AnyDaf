@@ -12,7 +12,7 @@ The Gemara at the top of 15a, six lines in, immediately asks: *maitaama* — wha
 
 This immediately prompts an obvious difficulty. Once we sell the animal, it is no longer ours — *v'neivid keivan de'zabna kinya*, why should we care what the new owner does with it on *Shabbat*?
 
-### Gezeirah: Lending & Test…
+### Gezeirah: Lending
 
 The Gemara answers: *gezeirah mishum she'ilah u'mishum sechirut* — it is a rabbinic decree extending to cover lending and leasing. The concern is that if we permit outright sale, we will slide toward permitting the lending or renting of animals to non-Jews, where the Shabbat work prohibition remains directly implicated because the animal technically still belongs to a Jew.
 

@@ -134,7 +134,7 @@ The *Mishnah* in question: one had *hekdesh* funds and, without realizing it, se
 
 ---
 
-## Contradiction: chullin s…
+## Hekdesh Me'ilah vs
 
 ### Rav Pappa's question
 

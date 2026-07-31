@@ -1,4 +1,5 @@
 # Bava Batra 174 — Daf Yomi Shiur
+[DAF:173b]
 
 ## Arevim: Concept & Obliga…
 
@@ -82,6 +83,7 @@ The distinction between the fourth and fifth levels is worth pausing over. At th
 
 *Tosafot*'s enumeration here is clearly motivated by *halakha le-ma'aseh*: practical guidance for real transactions. At the bottom of that same *Tosafot*, he even ventures into Old French to discuss certain linguistic markers relevant to categorization — noting, for instance, that one who does not use the language of a loan, *ela lashon pir'on*, is more in the *kablan* category — and he concludes by addressing the mechanics of performing a *kinyan* in this context, including the question of *keli shel makneh* versus *keli shel koneh*.
 
+[DAF:174a]
 ### Rav Huna: Language Test
 
 > **Hebrew/Aramaic:** אָמַר רַב הוּנָא: ״הַלְוֵהוּ וַאֲנִי עָרֵב״; ״הַלְוֵהוּ וַאֲנִי פּוֹרֵעַ״; ״הַלְוֵהוּ וַאֲנִי חַיָּיב״; ״הַלְוֵהוּ וַאֲנִי נוֹתֵן״ – כּוּלָּן לְשׁוֹן עַרְבוּת הֵן.
@@ -214,6 +216,7 @@ The *Gemara* identifies cases where the guarantor *can* collect from the orphans
 
 *Tosafot* raises a sharp structural point in this connection. If the orphans are minors and the guarantor is proceeding against their property, one might object: even if we treat the property as the borrower's *areiv*, don't we have to first try to engage the borrower — i.e., the orphans — directly before going to their property? *Tosafot* answers: the rule that you must try the borrower before going to the *areiv* presupposes a *loveh* who is available and capable of responding. Just as a creditor need not wait years for a borrower who has fled to France to return before approaching the guarantor, so too the creditor — or in this case the *areiv* seeking reimbursement — need not wait until the minors come of age before proceeding against their property. The inability to engage them now is functionally equivalent to the borrower having no available resources: the guarantor is entitled to proceed against the property immediately.
 
+[DAF:174b]
 ### When Cannot Collect
 
 > **Hebrew/Aramaic:** מֵיתִיבִי: עָרֵב שֶׁהָיָה שְׁטַר חוֹב יוֹצֵא מִתַּחַת יָדוֹ – אֵינוֹ גּוֹבֶה. וְאִם כָּתוּב בּוֹ: ״הִתְקַבַּלְתִּי מִמְּךָ״ – גּוֹבֶה.

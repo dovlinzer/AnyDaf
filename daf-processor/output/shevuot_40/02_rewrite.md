@@ -40,7 +40,7 @@ The *gemara* asks: *bishlama hu deka mishtava kai be'issura* — understandably 
 
 Rashi explains that both are punished because the one who imposed the oath failed to ensure proper documentary evidence or adequate witnesses, thereby allowing the situation to arrive at a *chillul Hashem*. This reasoning, though, sits uneasily in certain cases. In a situation involving *eid echad*, for instance, the claimant cannot always arrange for additional witnesses — a car accident has whatever witnesses it has. So the *gemara* may be gesturing at something more metaphysical: you set this in motion, and a false *shevua* resulted. Perhaps you could have waived your claim. The discussion here is subtly different from the earlier analysis of family and world — it is not simply about fault and guilt but about the raw reality of the *shevua* and who brought it about.
 
-### Oath Language Standardiz…
+### Oath Language Norms
 
 The *baraita* continues: *uche'shemashbi'in oto omrim lo hevei yodeia shelo al da'atecha* — when administering the oath, the court informs the oath-taker that the oath is not interpreted according to his own understanding, but according to theirs.
 

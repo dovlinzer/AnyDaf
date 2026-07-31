@@ -28,7 +28,7 @@ Rabbi Shimon bar Yochai then turns to the period of Shilo. Shilo was a precursor
 
 The analysis suggests that *machaneh leviyah* is the most expendable from the perspective of *korbanot*. For sacrificial purposes, one needs *machaneh shechinah* to define where *kodshei kodashim* are consumed, and *machaneh yisrael* to define where *kodshim kalim* may be eaten. *Machaneh leviyah* might seem dispensable. Rabbah, however, argues the opposite: *mistavra de-machaneh leviyah havei* — it actually makes more sense that *machaneh leviyah* was present, and that *machaneh yisrael* was what was absent.
 
-### Machaneh Leviyah Necessity
+### Machaneh Leviyah: Tumah
 
 Rabbah's reasoning turns not on *korbanot* but on *tumah*. The Torah commands: *vayishalchu min ha-machaneh kol tzarua v'chol zav v'chol tamei lanefesh* — they shall be sent out of the camp. However, a *zav* and a *tamei meis* are permitted in *machaneh yisrael*; only a *metzora* is expelled from all three camps. The Torah further states *v'lo yetame'u et machanehem* — implying that each category of *tamei* person is sent out of a different number of camps: *ten machaneh lazeh u-machaneh lazeh* — give one camp to this one and a camp to that one. If there were no *machaneh leviyah*, then a *zav* and a *tamei meis* would only be expelled from *machaneh shechinah*, since they are permitted in *machaneh yisrael*. This would deprive them of a second camp to be sent out of, undermining the Torah's framework of graduated expulsion.
 

@@ -28,7 +28,7 @@ This establishes consistency: Rabbi Shimon in our *Mishnah* rules that the *minc
 
 ---
 
-## Mincha When No Kohen Gad…
+## Mincha Kohen Gadol
 
 ### Two Halves or Whole
 

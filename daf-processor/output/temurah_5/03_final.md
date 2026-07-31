@@ -1,4 +1,5 @@
 # Temurah 5 — Daf Yomi Shiur
+[DAF:5a]
 
 ## Abaye-Rava Debate Intro
 
@@ -188,6 +189,7 @@ The *Mishnah* rules: *charmei kohanim ein lahem pidyon ella notnim l'kohein* —
 
 Abaye responds: *shani hatam de'amar Rachmana kodesh kodashim hi* — there it is different, because the verse says *kodesh kodashim* with the word *hu* (or *hi*) — "it is holy of holies." This word, *b'havayaso yehei*, teaches that the item must remain exactly as it is. Its status cannot be altered. The reason the redemption fails is not Rava's general principle that violations lack effect — it is the specific Scriptural word that anchors the *kedushah* in place. Therefore it is an exception.
 
+[DAF:5b]
 ### Rava on Hu
 
 > **Hebrew/Aramaic:** וּלְרָבָא, הַאי ״הוּא״ לְמַעוֹטֵי בְּכוֹר, דְּתַנְיָא: בִּבְכוֹר נֶאֱמַר ״לֹא תִפְדֶּה״ וְנִמְכָּר הוּא, בְּמַעֲשֵׂר נֶאֱמַר ״לֹא יִגָּאֵל״ וְאֵינוֹ נִמְכָּר, לֹא חַי וְלֹא שָׁחוּט, לא תָּם וְלֹא בַּעַל מוּם.

@@ -28,7 +28,7 @@ This now creates the central tension with Shmuel's position. The *Tosefta* seems
 
 ## Maysivay to Shmuel (II)
 
-### Grass through Living Cre…
+### Grass, Rags, Animals
 
 The *Gemara* takes up each item in the *Tosefta* and asks why, given Shmuel's principle, we would not expect the owner to remove it.
 

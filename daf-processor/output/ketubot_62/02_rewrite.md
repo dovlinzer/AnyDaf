@@ -54,17 +54,17 @@ The divergence between Rav and Rabbi Yochanan connects to a broader and deeper d
 
 This institutional difference reflects a difference in how marriage itself was understood. In Eretz Yisrael, marriage appears to have been valued intrinsically. Statements like *kol adam she'eino shari belo isha shari belo tova* — anyone who dwells without a wife dwells without goodness — and the biblical *lo tov heyos ha'adam levado* reflect a sense that marriage is essential to human flourishing for its own sake. In Bavel, by contrast, marriage was understood more instrumentally: a man marries so that he has a legitimate outlet for his desires, which then frees him to devote himself to *talmud torah* without improper thoughts.
 
-### Marriage Before/After To…
+### Marriage vs. Talmud Torah
 
 This difference manifests directly in the famous dispute in Kiddushin about whether a man should first marry and then learn *torah*, or first learn and then marry. In Bavel, the ruling is to marry first — once you have a wife, your desires are channeled appropriately, and you can go learn. In Eretz Yisrael, the ruling is to learn first, because once you are married — *reichaim betzavaro* — you have domestic responsibilities that you cannot simply set aside. You had better finish your learning before you take on those obligations.
 
-### Rabbi Yochanan EY Positi…
+### Rabbi Yochanan EY View
 
 It is therefore entirely unsurprising that Rabbi Yochanan — the great Amora of Eretz Yisrael — insists on two months home and one month away, while Rav, working within the Babylonian framework, permits equal time. The sighing debate is not peripheral; it reflects the same underlying disagreement about what marriage demands and how seriously the husband's absence weighs on the wife. This is a real dispute between two civilizational orientations toward the relationship between marriage and *talmud torah*, not merely a technical disagreement about frequency.
 
 ---
 
-## Occupational Classificat…
+## Onah Frequency: Tayalim
 
 ### Tayalim Daily
 

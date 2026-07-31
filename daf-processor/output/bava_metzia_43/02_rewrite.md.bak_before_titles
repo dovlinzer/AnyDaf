@@ -1,0 +1,143 @@
+# Bava Metzia 43 — Daf Yomi Shiur
+
+## Mapkid & Shulchani
+
+### Mishnah: Tzrurim/Mutarim
+
+The daf opens at a new *mishnah* at the top of 43a. The *mishnah* presents the following case: *hamapkid ma'os eitzel shulchani* — if one deposits money with a *shulchani*, a professional money changer. If the coins are *tzrurim* — bound up together in a leather pouch — then *lo yishtamesh bahem*, the *shulchani* may not use them. Consequently, *im avdu eino chayav be'achrayutam* — if the money is lost, the *shulchani* bears no liability, since he functions as a *shomer chinam*, a free watchman with minimal duties.
+
+If, however, the coins are *mutarim* — unbound, given over as a loose stack — then *yishtamesh bahem*, the *shulchani* may use them. *Lefichach im avdu chayav be'achrayutam* — therefore if they are lost, he bears full liability. The *gemara* will raise the question of whether this liability attaches only from the moment he actually uses the money, or whether it kicks in even before that. This is a persistent question in the laws of *shoel*, since a *shoel* bears liability even in cases of *ones* — unavoidable accident — and the precise moment that liability commences is debated at length by the *rishonim*, including *Tosafot* and the *Ritva*.
+
+By contrast, the *mishnah* continues: *eitzel ba'al habayit* — if the money was given to a private householder — *bein tzrurim bein mutarim*, whether bound or unbound, *lo yishtamesh bahem*, the householder may not use them. Since there is no professional context suggesting any commercial understanding, the deposit is treated as a straightforward *shomer chinam* arrangement in either case. When money is left unbound with the *shulchani*, however, the assumption is that the depositor intended the *shulchani* to operate at a higher level of liability — with the concomitant right to use the funds — since giving unbound coins to a money changer reflects the customary commercial practice of that role. The *mishnah* closes with a dispute: *Rabbi Meir* holds that a shopkeeper (*chanvani*) is like a *ba'al habayit* — no assumed right to use the money. *Rabbi Yehuda* holds that a *chanvani* is like a *shulchani*, since shopkeepers, too, routinely require access to deposited funds. The distinction appears to rest on local commercial norms rather than a deep conceptual divide.
+
+### Tzror Hamot Definition
+
+One might wonder what precisely a *tzror* looks like. The *mishnah* in *Kelim* addresses *tzror hamot* — a bound coin-pouch — and rules it *tahor*, not susceptible to *tumah*, because it is not considered a *keli*. The reason is that the flat piece of leather used to wrap coins is continuously opened and closed, like a wallet, so it never conforms to the shape of its contents and does not acquire the status of a vessel. By contrast, a *tzror hamargalit* — a pouch of jewels — is left tied for extended periods and conforms to the shape of the gems inside, and therefore does qualify as a *keli* and is *tamei*. The biblical phrase *vetzarta hakesef* likewise relates to this concept. The *tzror* should be thought of as a wallet: giving one's wallet to the *shulchani* signals an intent merely to have him watch it, while handing over loose coins — like depositing money in a bank — signals an expectation that he will invest or use the funds and bear correspondingly greater liability.
+
+The *gemara* then asks: is it really merely because the coins are bound that the *shulchani* may not use them? *Amar Rabbi Assi amar Rabbi Yehuda*: the *mishnah* must be referring to coins that were not only bound but also sealed — *tzrurim ve'chatumim* — with a signet impression placed on the binding. For even a wallet handed to a *shulchani* might otherwise be presumed usable, since his very trade involves handling coins. Only an explicit seal communicates that the depositor intends the *shulchani* to serve purely as *shomer*. Separately, *Rav Mari* states — or according to an alternative version, inquires — that perhaps a distinctive knot (*kesher meshuneh*) suffices as that signal, analogous to the personal identifying knots discussed earlier in *Eilu Metzios*. The alternative version leaves this as an unresolved *teiku*. There is a *Tosafot* in *Avodah Zarah* (around daf 9) that lists four different opinions regarding the halachic weight of *ika d'amri* formulations.
+
+### When Liability Begins
+
+The *gemara* returns to the case of *mutarim*: if the coins are unbound, the *shulchani* may use them. The question now is what category of *shomer* this makes him — *shomer sachar* or *shoel* — and when precisely his elevated liability commences.
+
+### Huna v. Nachman
+
+*Amar Rav Huna v'afilu ne'ensu* — *Rav Huna* states that the *shulchani* is liable even in a case of *ones*, treating him as a *shoel*, the category bearing the highest level of liability. The *gemara* objects that the *mishnah* uses the language *avdu* — they were lost — which sounds more consistent with *shomer sachar* liability (covering theft but not necessarily *ones*). *Rav Huna* must therefore be reading the *mishnah* according to *Rabba*, who holds that *nignevu b'listim mezuyan* — theft by armed robbers — is the scenario designated by "theft" in such contexts, since even a *shomer sachar* is exempt in cases of armed robbery; and *avdu* — lost — refers not to ordinary loss but to a genuine *ones* such as a shipwreck. On this reading, the *mishnah*'s language is entirely consistent with *shoel*-level liability.
+
+*Rav Nachman* disagrees: *ne'ensu lo* — in a case of *ones*, the *shulchani* is not liable. The *shulchani* is therefore a *shomer sachar*, not a *shoel*. *Rava* challenges *Rav Nachman*: if you say the *shulchani* is not liable in *ones*, then he is not a *shoel*. But if he is not a *shoel*, what makes him a *shomer sachar*? A *shomer sachar* receives payment for watching; what payment does the *shulchani* receive for merely guarding the money if he cannot use it? *Rav Nachman* responds: *be'ha modina lach* — on this point I agree with you — *de'ho'il ve'nehene mimena*, since the *shulchani* does derive a benefit from the money in his possession. Specifically, *de'ee mitrami lei zabina de'is bah ravcha zavin behu* — if a particularly profitable commercial opportunity arises, he is permitted to draw on those funds to purchase at a favorable price and repay them later. That benefit — the standing option to use the money in advantageous circumstances — constitutes the *hana'ah* that qualifies him as a *shomer sachar*.
+
+This reasoning is analogous in structure, though opposite in direction, to the case of *pruta de'Rav Yosef* discussed earlier. The mere ability to use the money in the ordinary course of changing coins of equal value does not itself constitute meaningful *hana'ah* — exchanging a large coin for smaller denominations confers no monetary gain. But the ability to access the funds when an exceptional deal presents itself is a real financial advantage, and that suffices.
+
+### Tosefta: Gizbar Case
+
+*Rav Nachman* now challenges *Rav Huna*'s position. He cites a *Tosefta* from *Masechet Meilah* involving a *gizbar*, a Temple treasury officer, who inadvertently deposited *hekdesh* funds with a *shulchani*. The *Tosefta* mirrors the structure of our *mishnah*: if the coins were bound (*tzuruvin*), the *shulchani* should not use them; if he did take them out (*im hotzi*), the *gizbar* has not committed *me'ilah*, since the wrongdoing belongs entirely to the *shulchani*, while the *gizbar* acted in error. If the coins were unbound, the *shulchani* may use them; if he then takes them out, *ma'al ha-gizbar* — the *gizbar* has committed *me'ilah* — even though his deposit was itself unintentional, as he confused these funds with non-sacred property.
+
+The key point: the *Tosefta* says *im hotzi* — if he took them out — implying the liability is triggered at the moment of removal. *Rav Nachman* presses: if *Rav Huna* holds the *shulchani* is a *shoel*, liable even in *ones*, then the *gizbar*'s *me'ilah* should attach the moment the unbound coins are handed over — *afilu lo hotzi nami*, even if they were never taken out. Why does the *Tosefta* specify *im hotzi*?
+
+*Rav Huna* responds: *hu ha-din af al gav de-lo hotzi* — the same ruling would indeed apply even without the *hotza'ah*; the *Tosefta*'s use of *hotzi* is merely a structural parallel to the preceding clause, not a limiting condition. The *mishnah* formulates both clauses using *hotzi* for stylistic consistency, and one need not read strict legal precision into that parallelism. The broader question of precisely when *shoel*-level liability attaches remains a significant *machloket* among the *rishonim* and is not definitively resolved here.
+
+---
+
+## Shlichut Yad Overview
+
+### Mishnah: B.S./B.H.
+
+The next *mishnah* introduces the topic of *shlichut yad*: *ha-sholeiach yad be-pikadon* — a *shomer* who misappropriates the deposited object. *Beis Shammai omrim yilkeh be-chaser u-ve-yeser* — *Beis Shammai* rules that the *shomer* always suffers the less favorable outcome: if the object depreciated, he pays the higher original value; if it appreciated, he still pays only the lower original value. In either direction, the *shomer* who committed *shlichut yad* bears the maximum burden, since he was *poshea*.
+
+*Beis Hillel omrim ki-sh'as hotza'ah* — *Beis Hillel* says assessment is made at the time of *hotza'ah*, the precise meaning of which the *gemara* will explore. *Rabbi Akiva omer ke-sha'as ha-tviah* — *Rabbi Akiva* rules that assessment goes by the time of the court proceeding. This discussion closely parallels the analysis in *Bava Kamma* in *Perek Merubah*, where similar questions arose about when to assess *kefel* and *arba'ah va-chamishah* — at the time of theft or the time of litigation.
+
+### Rava: Wine Barrel Case
+
+*Rava* presents a foundational case: one who steals a barrel of wine from his fellow. Initially it was worth one *zuz*; afterward the price rose to four *zuz*. If the thief broke the barrel or drank the wine himself — *tavrah o shatyei* — he pays four *zuz*, the value at the time of his action. If the barrel broke on its own — *itbar mimeila* — he pays only one *zuz*, the value at the time of theft.
+
+This is a striking ruling. A *gazlan* is ordinarily liable even in cases of *ones* — so why does an accidental breakage after theft yield only one *zuz* rather than four? The answer lies in the structure of the *gazlan*'s liability: the only action he performed was the theft itself. With no subsequent act of his own to establish a new valuation point, the only moment at which his liability can be calculated is the time of the theft — and at that moment it was worth one *zuz*. But when the *gazlan* breaks or drinks it, he has taken a new action, and that action creates a new moment at which the value must be assessed — at which point it is worth four. *Keivan de'ee ita hadra lemareih be'eina* — so long as the object exists intact, the owner could in principle demand it back *in specie*; but once the *gazlan* destroys or consumes it, the obligation converts into a monetary payment assessed at that moment.
+
+The *gemara* confirms: *kol ha-gazlanim meshalmin ki-sh'at ha-gezeila* — all robbers pay according to the value at the time of theft. Hence the case of accidental breakage: *hashta lo avid velo midi* — since the *gazlan* did nothing at that later moment, there is no basis to calculate a new value, and one returns to the baseline of the theft itself. This *sugya* — examined at length by the *Ketzos* and the *Nesivos* — touches on fundamental questions of ownership, liability, and what it means for a thief to acquire title to stolen property.
+
+### Action Requirement
+
+The *gemara* now turns to the connection between *Rava*'s ruling and the dispute between *Beis Shammai* and *Beis Hillel* in our *mishnah* about *shlichut yad*. *Tnan Beis Hillel omrim ki-sh'at hotza'ah* — the *mishnah* says *Beis Hillel* assesses at the time of *hotza'ah*. What does this mean?
+
+One possibility: *hotza'ah min ha-olam* — removal from the world, i.e., consumption. But this creates problems: if the value declined, the principle *kol ha-gazlanim meshalmin ki-sh'at ha-gezeila* would already resolve the matter; and if it increased, that yields the same result as *Beis Shammai*. This reading therefore fails.
+
+The more natural reading: *hotza'ah me-beis be'alim* — removal from the owner's domain, i.e., the moment the *shomer* took it from the owner's house to begin his *shmirah*. But on this reading, *Rava*'s ruling — that the *shomer* pays four when he breaks or drinks it — appears to align with *Beis Shammai*, since *Beis Shammai* also traces liability back to an early moment rather than the time of consumption. Can *Rava* be holding like *Beis Shammai*? The *gemara* deflects: *Rava* must read the *machloket* between *Beis Shammai* and *Beis Hillel* as *Rabba* does — *v'yeter kulei alma lo pligi*, that if the object appreciated in value, everyone agrees the *shomer* who committed *shlichut yad* pays the higher value. The *shomer* is always *yada tachtona* — he holds the weakest position — so if the highest claim can be made against him, he has no defense. *Ki pligi be-chaser* — the dispute applies only when the object lost value.
+
+### Chisaron Requirement
+
+With the *machloket* narrowed to cases of depreciation, the *gemara* articulates the underlying conceptual dispute. *Beis Shammai savri shlichut yad einah tzericha chisaron* — *Beis Shammai* holds that *shlichut yad* does not require any actual diminution of the object's value. A *shomer* who appropriates the object — even in a way that causes no physical loss — has already committed *shlichut yad*, and subsequent depreciation occurs *bi-reshutei didei*, in the domain of the one who has already effectively stolen it. *Beis Hillel savri shlichut yad tzericha chisaron* — *Beis Hillel* holds that *shlichut yad* requires an actual loss. The object must be diminished or consumed in some way before the act qualifies as *shlichut yad*; and because the first loss occurs before that threshold is crossed, it takes place *bi-reshut de-marei*, while still legally in the owner's domain.
+
+Under *Beis Hillel*, then, if a *shomer* merely moves a barrel of wine without consuming any, that is not *shlichut yad* — moving the barrel does not depreciate it.
+
+The *gemara* raises the question of *Rabba*'s position. *Rabba* elsewhere states that *shlichut yad einah tzericha chisaron* — seemingly aligning him with *Beis Shammai*. The *gemara* presses: *leima Rabbah de-amar ke-Veit Shammai*? Rather than accept that conclusion, the *gemara* proposes three successive reinterpretations of the *Beis Shammai*/*Beis Hillel* dispute, each of which would allow *Rabba* to remain within the orbit of *Beis Hillel*:
+
+The first attempt reads the *machloket* as concerning a case of *she-tiltela le-havi aleha gozal* — the *shomer* used the barrel as a stepladder to retrieve his doves, causing no damage whatsoever. The *machloket* is then *u-ve-sho'el she-lo mi-da'at kamiphalgi* — whether borrowing an object without the owner's knowledge constitutes *gezeila* or merely *she'ilah*. *Beis Shammai savri sho'el she-lo mi-da'at gazlan havei* — unauthorized borrowing is tantamount to theft, so depreciation thereafter occurs in the *gazlan*'s domain. *Beis Hillel savri sho'el she-lo mi-da'at sho'el havei* — it is merely borrowing, and depreciation falls in the owner's domain. But *Rava* rules that *le-rabbanan*, unauthorized borrowing is like *gezeila* — so does *Rava* then hold like *Beis Shammai*? This attempt also fails.
+
+The fourth and final attempt reads the *machloket* as concerning *shevach shel gezeila* — the natural increase of a stolen object, such as wool that continues to grow on a stolen sheep. *Beis Shammai savri shevach gezeila de-nigzal havei* — the natural growth belongs to the original owner. *Beis Hillel savri shevach gezeila de-gazlan havei* — once stolen, the subsequent growth belongs to the thief. The *gemara* supports this reading by noting that *Beis Shammai*'s language — *yilkeh be-chaser u-ve-yeser* — suggests physical growth and shrinkage of the object itself, not market price fluctuations. This aligns with a parallel *machloket* among *Tannaim*: *Rabbi Meir* holds the thief must pay back the sheep along with its wool and lambs, while *Rabbi Yehuda* holds the thief returns only what was taken, keeping the natural increase. *Dayka nami de-katani* — the precise language of the *mishnah* supports this reading.
+
+The underlying conceptual question — the relationship between *kinyanei gezeila*, the quasi-ownership a thief acquires at the moment of theft, and the subsequent liability for appreciation and depreciation — is what unifies these four attempts and what gives the *sugya* its richness.
+
+---
+
+## Timing of Assessment
+
+### Hotza'ah Definition
+
+The *mishnah*'s phrase *ki-sh'at hotza'ah* continues to require clarification. The initial suggestion — *hotza'ah min ha-olam*, meaning when the object was consumed — has already been set aside. The working assumption is now *hotza'ah me-reshut be'alim*, the moment the object left the owner's domain and came into the *shomer*'s possession. It is this moment, under *Beis Hillel*, at which the value is assessed.
+
+The interplay between *Rava*'s ruling about the wine barrel — *tavrah o shatyei meshalem arba'ah* — and the *Beis Hillel* principle proves subtle. As analyzed above, *Rabba* resolves the apparent tension by restricting the *machloket* to cases of natural growth or depreciation (*chaser* and *yeter*) rather than market fluctuations. If the value increased, all agree the *shomer* pays the higher value; the dispute concerns only whether the first loss occurs in the thief's domain or the owner's domain.
+
+A further question underlies the analysis: is *shlichut yad* by the *shomer* categorized as *gezeila*? The *sugya* confirms this comparison: the *shomer* who commits *shlichut yad* is treated as a *gazlan*, and it is precisely this parallel that makes *Rava*'s case about the wine barrel directly relevant to our *mishnah*. Conversely, what distinguishes *sho'el she-lo mi-da'at* from a *gazlan* is not the external liability structure — both are liable in *ones* — but rather the question of *kinyan*: whether the unauthorized borrower acquires title to the object in the way a *gazlan* does, and what consequences flow from that for appreciation and depreciation of the object's value.
+
+### R. Akiva: Tviah
+
+*Rabbi Akiva* holds that assessment goes by the time of the court proceeding — *ke-sha'as ha-tviah*. This is a coherent position: the court is the institution that formally determines liability, and it is therefore reasonable that the operative moment for valuation should be the moment the court adjudicates.
+
+### Shmuel v. R. Yochanan
+
+*Rav Yehuda amar Shmuel*: the *halacha* follows *Rabbi Akiva*. Since we generally rule like *Shmuel* in monetary law, this carries significant weight. At the same time, a question is posed from *Rav Assi* in the name of *Rabbi Yochanan*: *chaluk hayah Rabbi Akiva afilu bi-makom she-yesh eidim* — *Rabbi Akiva* maintained his position even where there are witnesses who observed the act. This sets up a direct tension between the Babylonian tradition (*Shmuel* via *Rav Yehuda*) and the *Eretz Yisrael* tradition (*Rabbi Yochanan* via *Rav Assi*).
+
+*Rava* ultimately rules: *halacha ke-Veit Hillel* — the *halacha* follows *Beis Hillel*, not *Rabbi Akiva*. This follows the tradition of *Shmuel*, which the *gemara* privileges via the principle *hilkha ke-vatra* — the *halacha* follows the latest *amora* named in a *sugya*. *Rashi* (whose ruling closely parallels that of the *Rif*) writes: *ki-sh'at gezeila ve-anan ke-Rava avinan de-havei lei batra* — we follow *Rava* as the latest opinion, and *Rava* rules like *Beis Hillel*. In *Eretz Yisrael*, the *psak* followed *Rabbi Akiva*; in Babylon, the ruling followed *Beis Hillel*. The interplay of these traditions makes this one of the more instructive windows into *klalei ha-psak* in the *gemara*.
+
+### Witnesses & Ashma
+
+The dispute between *Rav Yehuda*/*Shmuel* and *Rav Assi*/*Rabbi Yochanan* turns on the status of witnesses in this context. *Shmuel*'s position as transmitted by *Rav Yehuda* is: *modeh Rabbi Akiva bi-makom she-yesh eidim* — *Rabbi Akiva* concedes that where there are witnesses, the assessment follows the time they observed the act, not the time of the court proceeding. The source is the verse: *la-asher hu lo yitnenu be-yom ashmato* — "he shall give it to its owner on the day of his guilt." Where witnesses observed the theft, the day of *ashmah* is the day of the act itself.
+
+*Rabbi Yochanan*, however, rules that *Rabbi Akiva* maintains his position even with witnesses: *Beis din hu de-kamachayvei leh ashma* — it is the *beis din* that creates the legal reality of *ashmah*, not the witnesses. This is a profound distinction. Witnesses establish the facts; the court establishes the legal status. Whether a person is *halachically* a criminal — bearing all the attendant consequences — is determined at the moment the court rules, not the moment the act was observed. The consequences for questions such as witness disqualification, monetary liability, and the broader category of personal criminal status make this more than an academic point.
+
+*Rav Ashi* adds: *le-olam* in *Rabbi Yochanan*'s formulation — *halacha ke-Rabbi Akiva le-olam* — comes to exclude the possibility of reading *Rabbi Akiva*'s ruling as limited to cases without witnesses. Furthermore, *Rabbi Yochanan*'s position serves to exclude *Rabbi Yishmael*, who holds that *da'as be'alim* — the owner's awareness — is not required. *Rabbi Akiva*, by tying liability to the court proceeding, ensures that by the time judgment is rendered the owner will necessarily be aware.
+
+### Rava Psak: B.H.
+
+*Rava amar halacha ke-Veit Hillel* — *Rava* rules definitively in favor of *Beis Hillel*. This is presented not as a novel argument but as a ruling grounded in the *Shmuel*-*Rav Yehuda* tradition. As noted, *Rashi* and the *Rif* both confirm that we follow *Rava* here by virtue of the principle *hilkha ke-vatra*. The tension between the *Eretz Yisrael* tradition (following *Rabbi Akiva* via *Rabbi Yochanan*) and the Babylonian tradition (following *Beis Hillel* via *Shmuel* and *Rava*) illustrates the complexity of determining *psak* when authoritative chains of transmission point in different directions. In this case the Babylonian tradition prevails: assessment is made at the time of *hotza'ah* from the owner's domain, consistent with *Beis Hillel*.
+
+---
+
+## Chavita Shomre
+
+### Intent v. Action
+
+The *mishnah* continues with *ha-choshev li-shlo'ach yad be-pikadon* — a *shomer* who merely intends to commit *shlichut yad* but has not yet done so. *Beis Shammai omrim chayav* — from the moment of intent, liability attaches. *Beis Hillel omrim eino chayav ad she-yishlach bo yad* — liability does not attach until the *shomer* physically acts on that intent.
+
+*Beis Shammai*'s position implies a form of mental crime: the instant one resolves to misappropriate the deposit, one has violated the terms of *shmirah* and forfeited the status of *shomer*. *Beis Hillel* grounds their ruling in the verse: *im lo shalach yado bi-mlechet rei'ehu* — "if he did not put his hand to his fellow's property." The verse explicitly conditions guilt on a physical act, not an intention.
+
+*Rashi* is notably uncomfortable with reading *Beis Shammai* as establishing genuine liability from thought alone. He glosses *Beis Shammai*'s position as: *omer lifnei eidim ekachena le-atzmi ve-eshtamesh bah* — that the *shomer* declares his intent before witnesses, thereby concretizing what might otherwise be a purely internal state. This reading removes the full force of the *Beis Shammai* position, but *Rashi* clearly finds the plain reading — that unspoken thought creates criminal liability — untenable in *halacha*. It should be noted, however, that there are other contexts in *halacha* — such as certain aspects of the laws of *get* — where a person's declared intention carries significant legal consequences.
+
+### Braita: Pasha
+
+The *gemara* cites a *braita* exploring the source of this *machloket*. The verse *al kol davar pasha* — "for every manner of crime" — is invoked by *Beis Shammai* to argue that even a mental act of appropriation constitutes *psha*, transgression. *Beis Hillel* counters with the verse *im lo shalach yado*, arguing that actual physical contact is required. *Beis Shammai* rejoins: if so, what is the purpose of *al kol davar pasha*? *Beis Hillel* responds: that phrase extends liability to cases where the *shomer* instructed his slave or agent (*shaliach*) to commit the act on his behalf — *amar le-avdo u-lishlucho minayin? Talmud lomar al kol davar pasha*. This is one of the three exceptions to the general principle of *ein shaliach li-dvar aveirah* — that agency does not apply to sinful acts — alongside *tivicha u-mechira* and *me'ilah*. According to *Beis Hillel*, when a *shomer* instructs another to steal the *pikadon* on his behalf, the *shomer* bears responsibility, invoking *shlichut yad* through an agent.
+
+### Tilting Barrel
+
+The *mishnah* introduces two graduated cases. First: *hita et ha-chavit ve-natal heimena revi'it ve-nishbera* — if the *shomer* tilted the barrel and took out one glass of wine and the barrel then broke, he pays only for the *revi'it*, the single glass he removed. Second: *higbi'ah ve-natal heimena revi'it ve-nishbera* — if he lifted the entire barrel and took one glass and then it broke, *meshalem dmei kullah*, he pays for the entire barrel. The justification for this distinction emerges in the *gemara*.
+
+*Rabba* adds a further nuance: *lo shanu ela nishbera* — this rule (paying only for the *revi'it*) applies only where the barrel broke. *Aval hachmitza meshalem et kullah* — if the wine soured, he pays for the entire contents. *Mai ta'ama*? *Girei didehu de-ahani leh* — his own "arrow" caused the outcome. By removing wine from the barrel, the *shomer* created airspace at the top, allowing oxidation that soured the remaining wine. There is no intervening break between his act and the spoilage. When the barrel breaks on its own, the causal chain is interrupted; when the wine sours due to the air exposure he created, the damage flows directly from his action.
+
+### Shmuel: Basis Theory
+
+*Amar Shmuel*: the word *natal* in the *mishnah*'s second clause — *higbi'ah ve-natal* — does not mean he actually removed the wine; rather, *keivan she-higbi'ah li-tol*, from the moment he lifted the barrel intending to take from it, even if he has not yet removed anything, he is already liable. This is a striking ruling: lifting the barrel alone, with intent to take, suffices.
+
+One might infer from this that *Shmuel* holds *shlichut yad einah tzericha chisaron* — that *shlichut yad* requires no actual loss. The *gemara* rejects this inference: *shani hacha de-nicha lei de-teihavei ha-chavis kulla basis la-revi'it* — the case is distinctive because when the *shomer* lifts the barrel to extract a single glass, he intends the entire barrel to serve as a *basis*, a support-structure, for that one measure of wine. His intention incorporates the whole barrel into the act; the *chisaron* will still occur when he takes the wine, but his relation to the entire barrel is established at the moment of lifting. This does not imply a general ruling that *shlichut yad* requires no *chisaron*.
+
+This leaves an unresolved question: *ibaiya lei le-Rav Ashi, higbi'ah arneki li-tol heimena dinar* — what if one lifts an entire wallet intending to extract only one coin? *Mahu*? Wine in a barrel floats freely and the upper wine is naturally supported by the lower wine, making the *basis* theory applicable. But a coin in a wallet sits discretely; it is secured by the wallet itself, not by the other coins. *O dilma shani netiruta de-arneki mi-netiruta de-dinar* — or perhaps the guardianship of the wallet and the guardianship of an individual coin within it are categorically distinct, such that the other coins do not serve as *basis* for the one being removed. The question is left as *teiku*, unresolved.
+
+With that, *Perek Hamapkid* concludes, and we proceed to *Perek HaZahav*.

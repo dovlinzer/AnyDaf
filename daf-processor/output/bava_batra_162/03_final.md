@@ -1,7 +1,9 @@
 # Bava Batra 162 — Daf Yomi Shiur
+[DAF:161b]
 
 ## Two Blank Lines
 
+[DAF:162a]
 ### Blank Lines Rule
 
 > **Hebrew/Aramaic:** אָמַר רַב עַמְרָם: לְפִי שֶׁאֵין לְמֵדִין מִשִּׁיטָה אַחֲרוֹנָה.
@@ -30,6 +32,7 @@ The *Gemara* raises the intermediate case: what about a space of a line and a ha
 
 *Tosafot* entertains a possible reading in which "a line and a half" refers to the height — that is, 1.5 times the normal line height. *Tosafot* initially considers whether this might mean that the *eidim* signed at a certain point, leaving a space of roughly one and a half lines in which something could be inserted. *Tosafot* then rejects this, noting that in such a case we would simply presume that neither the line above the *eidim* nor the line alongside them would be learned from. The more straightforward reading of "a line and a half" is that it refers to the vertical height of a line-and-a-half's worth of space — the question being whether a forger can squeeze two small lines into that height, or whether any attempt to do so would be obvious.
 
+[DAF:162b]
 ### Braita Evidence
 
 > **Hebrew/Aramaic:** מַאי הָוֵי עֲלַהּ? תָּא שְׁמַע, דְּתַנְיָא: הִרְחִיק אֶת הָעֵדִים שְׁנֵי שִׁיטִין מִן הַכְּתָב – פָּסוּל. פָּחוֹת מִכָּאן – כָּשֵׁר.

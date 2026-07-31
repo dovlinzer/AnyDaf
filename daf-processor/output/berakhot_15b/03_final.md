@@ -1,4 +1,5 @@
 # Berakhot 15b — Daf Yomi Shiur
+[DAF:14b]
 
 ## Hearing requirement
 
@@ -28,6 +29,7 @@ The *Gemara* introduces a *mishna* from *Megillah*: everyone is fit to read the 
 
 *Rav Matna* answers: it must be Rabbi Yose. The reasoning is direct: our *mishna* already records that Rabbi Yose says one does not fulfill the obligation of *Shema* if one cannot hear what one is saying. If the disqualifying factor in the *Megillah mishna* is deafness — i.e., the inability to hear one's own words — then the ruling coheres with Rabbi Yose's position.
 
+[DAF:15b]
 ### Rabbi Yehuda position
 
 > **Hebrew/Aramaic:** מִמַּאי דְּרַבִּי יוֹסֵי הִיא וְדִיעֲבַד נָמֵי לָא, דִּילְמָא רַבִּי יְהוּדָה הִיא, וּלְכַתְּחִלָּה הוּא דְּלָא, הָא דִיעֲבַד — שַׁפִּיר דָּמֵי. לָא סָלְקָא דַּעְתָּךְ, דְּקָתָנֵי, חֵרֵשׁ דּוּמְיָא דְּשׁוֹטֶה וְקָטָן. מָה שׁוֹטֶה וְקָטָן דִּיעֲבַד נָמֵי לָא — אַף חֵרֵשׁ דִּיעֲבַד נָמֵי לָא.

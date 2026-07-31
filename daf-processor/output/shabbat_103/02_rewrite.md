@@ -210,7 +210,7 @@ The *gemara* now examines how Rabbi Shimon's view relates to the others. Is he s
 
 But the *gemara* then raises a serious challenge to Rabbi Shimon's consistency. Elsewhere we find that Rabbi Shimon holds a stringent position on minimum amounts in other *melachot*: *ad sheyikdach et kulo*, *ad sheyigrar et kulo*, *ad sheye'abed et kulo*, *ad sheyatzur et kulo* — regarding drilling, scraping, tanning leather, and decorating a vessel, he requires that one complete the *entire* object or process one is working on. The position in those *melachot* would imply that partial writing — two letters out of a longer intended name — should also be insufficient. And yet the *baraisa* has Rabbi Shimon saying that even partial — *me'achat* — creates liability in writing.
 
-### Tosafot's Resolution
+### Word vs Sentence
 
 The *gemara* resolves the apparent contradiction by reinterpreting Rabbi Shimon's position in the *baraisa*: perhaps his *hava amina* — the proposition he was rejecting — was not that you need the entire word, but that you need the entire *sentence* or *passage* one intended to write. The *mem* of *me'achat* then teaches that one complete word suffices, even if one was intending to write more. This reinterpretation resolves the tension — Rabbi Shimon requires completeness, but the unit of completeness in writing is a word, not a sentence.
 

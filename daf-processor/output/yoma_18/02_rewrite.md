@@ -22,7 +22,7 @@ The *mishnah* then records that they would say to him: *Ishi Kohen Gadol, kra at
 
 ---
 
-## Animal Parade & Desp (II)
+## Animal Parade & Despair
 
 ### Animal Parade
 
@@ -38,7 +38,7 @@ Some modern interpreters have drawn a connection between this scene and *Ma'aseh
 
 ---
 
-## Seminal Emission Con (II)
+## Seminal Emission Concern
 
 ### Food Restrictions
 

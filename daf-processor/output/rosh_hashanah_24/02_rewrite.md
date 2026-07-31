@@ -64,13 +64,13 @@ Another *baraita* addresses the case of witnesses who say *re'inuhu v'shuv lo re
 
 Abaye clarifies. The *baraita* is not describing a case where the moon simply set in the ordinary course of events. Rather, *re'inuhu me'aleinu* — they saw it incidentally, in passing — *v'shavnu lir'oto mida'ateinu* — and then returned deliberately, intending to examine it carefully enough to testify — *velo re'inuhu*, and at that point could no longer see it. *Mai ta'ama* — what is the legal concern? *Kuvisha de'eiva b'alma hu d'chaza* — perhaps what they originally glimpsed was merely a rounded cloud. The fact that they could not relocate it when they looked intentionally suggests that the initial sighting was not reliable. Notably, the *gemara* does not require that a witness intend to testify at the moment of sighting — that is a separate discussion arising in *Makkot* and elsewhere. What it does require is that when a witness harbors enough doubt to go back and verify, and verification fails, the original sighting cannot serve as testimony.
 
-## Sanctification Ritua (II)
+## Sanctification Ritual
 
 ### Mekudash Declaration
 
 The *gemara* now arrives at the ritual of formal sanctification. *Rosh Beis Din omer mekudash, vechol ha'am onim acharav mekudash mekudash* — the head of the court declares *mekudash*, sanctified, and all those present respond: *mekudash, mekudash*. The significance of this public assent is considerable. The entire thrust of the tractate has been that *Beis Din* holds the power to fix the calendar, rooted in the principle of *asher tikre'u osam* — it is you, the people, who call and designate the festivals. The verbal affirmation of the assembled community is not mere ceremony; it is the enactment of that authority.
 
-## Sanctification Debat (II)
+## Sanctification Debate
 
 ### Tanna Kamma
 
@@ -98,7 +98,7 @@ Rabbi Elazar bar Tzadok holds that the declaration is performed only when the mo
 
 ### Plimo Position
 
-Plimo takes the opposite view, and it is a striking one: *bizmano ein mekadeshin oso* — precisely when the month is a twenty-nine-day month, you do *not* make the declaration; *shelo bizmano mekadeshin oso* — only when it is a thirty-day month do you declare it. Rashi offers a strained explanation — *she'aino tzarich chizuk*, it does not need reinforcement — which is difficult to understand. The position seems nearly inexplicable, and the lecturer acknowledges it as such.
+Plimo takes the opposite view, and it is a striking one: *bizmano ein mekadeshin oso* — precisely when the month is a twenty-nine-day month, you do *not* make the declaration; *shelo bizmano mekadeshin oso* — only when it is a thirty-day month do you declare it. Rashi offers a strained explanation — *she'aino tzarich chizuk*, it does not need reinforcement — which is difficult to understand. The position seems nearly inexplicable.
 
 ### R. Elazar Shimon
 

@@ -1,4 +1,5 @@
 # Hullin 81 — Daf Yomi Shiur
+[DAF:81a]
 
 ## Oto Ve'et Beno & Unfit S…
 
@@ -158,6 +159,7 @@ With this framework in place, the Gemara applies Rava's reasoning. *Oto ve'et be
 
 Rava further develops the analysis through a series of cases. The first case: one first *shachts* *chullin* and then *shachts* an *olah* inside the *Beit HaMikdash*. The *chullin* *shechitah* is unquestionably a *shechitah re'uyah*, since the meat becomes permissible immediately. Now one proceeds to *shecht* the *olah*. Has one transgressed *oto ve'et beno*? The transgression may have occurred, but — as established — one will never receive *malkos*. At the moment of *shechitah* of the *olah*, it is not yet known whether the blood will be sprinkled. If it is not, the act will not retroactively count as a *shechitah*, and therefore the warning given before the *shechitah* is a *hasra'at safek*. Exempt.
 
+[DAF:81b]
 ### Olah Then Chullin
 
 > **Hebrew/Aramaic:** אֶלָּא אֲפִילּוּ שָׁחַט עוֹלָה וְאַחַר כָּךְ שָׁחַט חוּלִּין – פָּטוּר, שְׁחִיטָה קַמַּיְיתָא לָאו שְׁחִיטָה בַּת אֲכִילָה הִיא.

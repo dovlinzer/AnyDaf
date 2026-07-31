@@ -1,4 +1,5 @@
 # Niddah 38 — Daf Yomi Shiur
+[DAF:38a]
 
 ## Kishuy Duration
 
@@ -210,6 +211,7 @@ The *beraita* reports: *chasidim harishonim lo hayu meshamshim mitoteihem ela b'
 
 The Gemara asks: why only Wednesday? If it is Wednesday and beyond, what about Thursday, Friday, and Shabbat itself? The Gemara clarifies: *m'revi'i ve'eilach*—from Wednesday onward. The reasoning is as follows. Since two hundred seventy-three is divisible by seven, the day of birth falls on the same weekday as the day of intercourse when 273 days are counted. If intercourse occurred on Sunday and birth is on day 273, she gives birth on Shabbat. If intercourse was on Monday and birth is on day 272, she gives birth on Shabbat. If intercourse was on Tuesday and birth is on day 271, she gives birth on Shabbat. Therefore, intercourse on Sunday, Monday, or Tuesday could result in a Shabbat birth. Wednesday, Thursday, Friday, or Shabbat will not, because none of the three possible day-counts—271, 272, or 273—from those days lands on Shabbat. The *chasidim* therefore restricted themselves to Wednesday onward.
 
+[DAF:38b]
 ### Gematria 271
 
 > **Hebrew/Aramaic:** אָמַר מָר זוּטְרָא: מַאי טַעְמַיְיהוּ דַּחֲסִידִים הָרִאשׁוֹנִים? דִּכְתִיב ״וַיִּתֵּן [ה׳] לָהּ הֵרָיוֹן״ — ״הֵרָיוֹן״ בְּגִימַטְרִיָּא מָאתַן וְשִׁבְעִים וְחַד הָווּ.

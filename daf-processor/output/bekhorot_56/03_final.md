@@ -1,4 +1,5 @@
 # Bekhorot 56 — Daf Yomi Shiur
+[DAF:56a]
 
 ## Purchased/Gifted Animals
 
@@ -128,6 +129,7 @@ The Gemara, however, rejects this reading: *v'apsle b'lakuach*. The fact that th
 
 The puzzle is thus thrown back open: how does one ever construct a valid *esnan* case for *ma'aser behemah*?
 
+[DAF:56b]
 ### Jewish vs Non-Jewish
 
 > **Hebrew/Aramaic:** וְתִיעַשְּׂרֵהּ אִיהִי! בְּזוֹנָה גּוֹיָה. וְלוֹקְמַהּ בְּזוֹנָה יִשְׂרְאֵלִית, וְתִיעַשְּׂרֵהּ אִיהִי! קָא מַשְׁמַע לַן דְּזוֹנָה יִשְׂרְאֵלִית לָא הָוֵי אֶתְנַן.

@@ -12,9 +12,9 @@ At the close of yesterday's discussion, the *Gemara* examined cases where the in
 
 ---
 
-## Machshava Me'avodah L'av…
+## Machshava Avodah: Yochana
 
-### Shechita for Zrika Shelo…
+### Shechita Zrika Shelo
 
 The *Gemara* introduces a new case: *shachata lishmo lizrok damo shelo lishmo* — one slaughtered a *chatas* with proper intent for the *shechita* itself, but with a plan that when the time comes to throw the blood, he will do so with the intent of an *olah*. The *shechita* is performed correctly in the present; the problematic intention is directed at a future *avodah*. The question is whether this forward-looking *machshavah*, held at the moment of *shechita*, invalidates the *korban*.
 
@@ -60,7 +60,7 @@ The *Gemara* establishes that both formulations of the dispute are necessary. Ha
 
 ---
 
-## Rav Yirmiya's Piggul Pro…
+## Yirmiya's Piggul Logic
 
 ### Rav Dimi Report
 
@@ -90,13 +90,13 @@ The *Gemara* therefore proposes replacing *piggul* with *chutz limkomo* as the b
 
 ---
 
-## Rav Ashi's Chutz Limkomo…
+## Rav Ashi: Kal V'Chomer
 
 ### Chutz Limkomo Model
 
 The refined *kal vachomer* proceeds: by *chutz limkomo*, if one performs *shechita* declaring "I am slaughtering this as *chutz limkomo*" — treating the present *shechita* as though it were being done outside its proper location — that is meaningless and the *korban* is valid. The *machshavah* about the current act in the wrong-place register does not invalidate. Yet if one slaughters with the intent to throw the blood in the wrong place, the *korban* is *pasul*. Again, a *machshavah* about a future act is more powerful than a *machshavah* about the current act.
 
-### Chutz Limkomo to Shelo L…
+### Chutz Limkomo to Shelo
 
 Applied to *shelo lishmah*: since a *machshavah shelo lishmah* about the current act of *shechita does* invalidate, certainly a *machshavah* about performing the future *zrika shelo lishmah* should also invalidate — in parallel with what we observe by *chutz limkomo* where the future-directed thought is more powerful.
 
@@ -186,7 +186,7 @@ Rabbi Eliezer argues: *chatas* comes for sin and *asham* comes for sin; just as 
 
 ---
 
-## Blood Location Distincti…
+## Blood Location Type
 
 ### Above vs Below Line
 
@@ -254,7 +254,7 @@ Rabbi Yehoshua's real counterpoint was that the common denominator between *chat
 
 ---
 
-## Blood Location Justifica…
+## Blood Location Justifica
 
 ### Location vs Other Factors
 
@@ -268,7 +268,7 @@ The *Gemara* continues to consider other potential distinctions. Why not say *ch
 
 Why not say *chatas* is weightier because it requires *arba matanos* — four separate applications of blood, one at each corner? The *Gemara* asks why Rabbi Yehoshua did not use this feature. The answer: perhaps Rabbi Eliezer holds like Rabbi Yishmael, who maintains that all blood applications — not just *chatas* — require four separate acts of throwing. If one follows Rabbi Yishmael's view, both *chatas* and other *korbanos* each receive four separate blood applications, so this feature would not differentiate *chatas* as uniquely weighty.
 
-### Multiple Options Availab…
+### Multiple Ways: Chatas
 
 The *Gemara* concludes: there are indeed many ways one could demonstrate that a *chatas* is weightier than an *asham* — among them the four *karnos* (as opposed to two-that-are-four), the application with a finger (*etzba*), the placement at the *keren* specifically, the precise edge (*huda*) of the *keren*. Rabbi Yehoshua could have chosen any of these. He chose the above/below-the-line distinction as one example from among several available arguments. *Chada mi'trei tlas ta'ami nakat* — he selected one from two or three possible reasons.
 
@@ -288,7 +288,7 @@ Abbaye explains that Rabbi Eliezer could not make this move, because a *kal vach
 
 The *Gemara* questions whether one can push back against this *kal vachomer*: perhaps the reason *chatas* blood goes above the line is specifically because *chatas* atones, and an *olah*, which does not atone for a specific sin in the same way, naturally goes below. If so, the *olah* is not a good comparison for *asham*, which does atone. The *Gemara* counters with the *chatat ha-of*.
 
-### Bird Chatas Counterexamp…
+### Chatat ha-of Below Line
 
 A *chatat ha-of* — a bird *chatas* — does atone, yet its blood goes below the line. So atonement alone does not place blood above the line. Therefore the *olah kal vachomer* stands: one cannot argue that an *asham*, which atones, must go above the line simply because it atones.
 
@@ -326,7 +326,7 @@ By contrast, when *osah* limits blood placement above the line, it does function
 
 ---
 
-## Separate Placement Doctr…
+## Eliezer B'Rabbi Shimon
 
 ### Source Attribution
 

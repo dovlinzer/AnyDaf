@@ -1,4 +1,5 @@
 # Pesachim 80b — Daf Yomi Shiur
+[DAF:80a]
 
 ## Tzitz & Tamei Meat
 
@@ -12,6 +13,7 @@ The *mishnah* near the top of 80b introduces a principle that has been building 
 
 The underlying assumption here, following the view that we do not rule like *Rebbi Natan*, is that if the meat is *tamei* the owner does not fulfill his obligation of *korban Pesach*. Ordinarily — and certainly *lechatchila*, and likely even *b'di'eved* — if the meat or blood is *tamei* and one is aware of this, the *pesach* is invalid. But when the person was ignorant of the *tumah* at the time, the *tzitz* operates to make it acceptable. The condition of ignorance, as we will see, is central to the entire discussion that follows.
 
+[DAF:80b]
 ### Tzitz: Objects vs. Person
 
 > **Hebrew/Aramaic:** נִטְמָא טוּמְאַת הַתְּהוֹם — הַצִּיץ מְרַצֶּה.

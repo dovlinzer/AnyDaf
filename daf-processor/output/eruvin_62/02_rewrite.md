@@ -178,7 +178,7 @@ The *gemara* resolves this: *hatam de-ati beyomei* — that case concerns a situ
 
 Having established the theoretical framework, the *gemara* turns to *pesak*. *Amar Rav Yehuda amar Shmuel halachah ke-Rabbi Eliezer ben Yaakov* — Rav Yehuda rules in the name of Shmuel that the *halachah* follows Rabbi Eliezer ben Yaakov. This is a leniency: the problem arises only with two Jewish residents, not one.
 
-## Paskening Before Reb (II)
+## Paskening Before Rebbe
 
 ### Abaye Asks
 

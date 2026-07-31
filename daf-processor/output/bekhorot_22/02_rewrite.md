@@ -1,6 +1,6 @@
 # Bekhorot 22 — Daf Yomi Shiur
 
-## Mishnah: Animal Miscarri…
+## Mishnah: Miscarriage
 
 ### Clots & Bechor Status
 
@@ -10,11 +10,11 @@ The Mishnah under discussion concerns an animal that expelled clotted blood — 
 
 This creates a striking paradox. If the expelled matter might genuinely be a fetus — or is even presumed to be one — then it would be a *bechor* that was never properly slaughtered. A *bechor* that has not been slaughtered possesses *kedushah*; one may neither eat it nor derive any benefit from it. A *bechor* slaughtered with a *mum* (blemish) may be eaten, but one that has not been slaughtered retains its sanctity entirely. The ruling of the Gemara is therefore that this matter must be buried. Yet the same Gemara then states that this expelled matter does not convey *tumah* of *neveila*, even though a dead *bechor* would ordinarily do so.
 
-### Bittul & Human Miscarria…
+### Bittul & Miscarriage
 
 The resolution to this paradox is that although the mother did in fact miscarry and expel a fetus — and the halakhic consequences of that birth apply to her — the expelled object itself cannot be identified as a fetus in any definitive halakhic sense. The fetus is *batel be-rov*: nullified within the majority of the surrounding matter with which it is mixed. As a result, the mother is exempt from *bechor* with respect to her next offspring, yet the expelled matter itself carries no *tumah* of *neveila*, because the fetus cannot be said to be halakhically present as a distinct object.
 
-### Rabbi Shimon: Dissolved…
+### Shimon: Dissolved Fetus
 
 A parallel teaching concerning human miscarriage was also discussed. There, the fetus causes *tumah* of a *meit*, and Rabbi Shimon addresses a case in which the fetus has dissolved into the embryonic sac and is no longer visibly distinguishable. His position is that in such a case the fetus loses its halakhic identity — it is *batel* — and therefore does not cause *tumah* of *meit*. The mother has indeed miscarried, and all the attendant laws of *tumah* governing her apply — she is *teme'ah* for seven or fourteen days, depending on whether the fetus was male or female (and since its sex is unknown, one takes the stringent position and observes fourteen days). But the thing itself is not halakhically a corpse.
 
@@ -24,29 +24,29 @@ There is a second reason the Gemara gives for why the expelled matter must be bu
 
 ---
 
-## Human Miscarriage (Ohalo…
+## Human Miscarriage Tumah
 
-### Nefalim & Skull Developm…
+### Nephilim Skull Growth
 
 The Gemara now introduces a *tanan hatam* — a teaching from elsewhere in the Talmud — specifically from tractate Ohalot. The parallel to the animal *bechor* case is not exact, but there is clear thematic resonance, and the Gemara cites it to explore the related question of identity and presence. The Mishnah in Ohalot states: *ein la-nefalim petichat ha-kever* — miscarried fetuses do not have a "grave-opening" — *ad she-yagilu rosh ke-pikah*, until their head becomes spherical like a *pikah*, a type of spindle or spool used to wind thread.
 
-### Petichat HaKever Explain…
+### Petichat HaKever: Womb
 
 The phrase *petichat ha-kever* requires explanation. Normally it would mean the opening of a grave, but in this context it refers to the opening of the womb — specifically the dilation of the cervix during miscarriage. The womb is referred to as a *kever*, a grave, because the child has died within it. It is important to note that this terminology is specific in the Gemara to cases of miscarriage or stillbirth. The tragic irony is that in later halakhic literature the phrase *petichat ha-kever* comes to be applied even to normal live childbirth, in the context of the discussion in tractate Niddah about whether it is possible for the cervix to open without accompanying bleeding — and whether a woman in labor becomes a *niddah* at that moment. But in the Gemara itself, the designation of the womb as a *kever* is reserved for cases of actual death in utero.
 
-### Balu'ah Status & Tumah R…
+### Balu'ah to Tumah
 
 The halakhic significance of *petichat ha-kever* is rooted in the concept of *balu'ah* — something that is absorbed within, or swallowed up inside, a living body. As a general principle, a dead fetus inside the mother's womb is considered *balu'ah*: it does not communicate *tumah* to the surrounding space. A corpse in a room — even one locked in a container — conveys *tumah* to everything in that space. But a corpse that is *balu'ah* within a living body does not. Once the cervix begins to dilate and the process of birth or expulsion commences, the fetus is no longer considered *balu'ah*. Even before it has actually emerged, it is no longer regarded as absorbed within the mother, and from that point it begins to communicate *tumah* to everything in the room.
 
-### Fetus in Utero & Tumah S…
+### Fetus Utero & Tumah
 
 The practical halakhic question, then, is: at what point does a dead fetus in utero cause *tumah* to the room? The answer is that *petichat ha-kever* — the opening of the cervix — is the triggering event. Once that has occurred, the fetus is no longer *balu'ah* and its *tumah* spreads. But the Mishnah in Ohalot adds a further condition: this transition occurs only when the fetus's skull has reached a certain size — the size of a *pikah*. This is relevant, of course, only to fetuses that have been developing for at least forty days, since a fetus of less than forty days cannot generate *tumah* of a *meit* at all. The question of the skull's size pertains exclusively to the intermediate scenario: the fetus is developed enough to cause *tumah*, the cervix has dilated, and the fetus has not yet emerged — does it cause *tumah* to the room while still inside?
 
-### Skull Size & Tumah Thres…
+### Skull Size & Tumah Pikah
 
 The additional condition of skull size is halakhically decisive in this scenario: only once the skull has reached the size of the *pikah* does the *tumah* spread into the room even while the fetus remains inside.
 
-### Why Size Matters: Concep…
+### Skull Size & Tumah
 
 This raises a genuine conceptual difficulty: once the child has died and the cervix is open, why should the physical size of the skull matter? The Gemara itself does not offer an explicit explanation. The Rishonim in their discussions of the original context of this Mishnah in Ohalot interpret it differently — the Rambam, for instance, reads the size threshold as a tool for reconstructing when the cervix opened, useful in situations where a woman moved between rooms and one must determine halakhically when a given event occurred. But the Gemara as presented here is using the skull size as a direct criterion for whether *tumah* spreads. A possible rationale — though the Gemara does not state it explicitly — is that once the fetus reaches a sufficient size and the cervix is dilated, the process of birth is visibly underway to a degree that overrides the *balu'ah* classification even while the child remains inside. Before that size is reached, we still treat the child as sufficiently part of the mother's body that the *balu'ah* status is maintained.
 
@@ -64,7 +64,7 @@ A brief note on the relevant textile technology: in weaving, the warp threads ar
 
 A *braita* is cited in which this very debate appears among the Tannaim. Rabbi Meir holds that the spool of *shesi* — the warp, and therefore the smaller spool — is the standard. Rabbi Yehudah holds it is the spool of *erev* — the woof, the larger one. This debate appears in the Tosefta to Ohalot directly in the context of this same Mishnah.
 
-### Tefifot Alternative Stan…
+### Tefifot: Eliezer's Std
 
 Rabbi Eliezer bar Tzadok offers an independent standard altogether, not based on a spool at all: *mi-she-yiru tefifot* — when the fetus has the appearance of *tefifot*. The Gemara asks: what are *tefifot*? Rav Yehudah said in the name of Shmuel in the name of Rabbi Eliezer bar Tzadok: this is how they would explain it in Jerusalem — like a mule crouching in order to urinate (*ke-preda she-kora'as le-hatil meimeha*). In that position, the animal's anatomy is visible from the outside in a particular way, with something of a ridged or undulating appearance. Rashi explains that Rabbi Eliezer bar Tzadok is describing what a midwife would observe when looking into the birth canal — an appearance similar to that of the mule in that posture. He adds the phrase *ke-nire'it ke-pikah mi-toch pikah* — it looks like a spool within a spool. The precise visual description remains difficult to reconstruct, but the thrust is that a certain size and appearance of the fetal skull — observable at the opening of the birth canal — is the criterion.
 
@@ -72,7 +72,7 @@ Rabbi Eliezer bar Tzadok offers an independent standard altogether, not based on
 
 Rav Huna then states: *shamati shetei pikot* — I heard that halakha employs two different spool-sizes as standards in different contexts: one of *shesi* and one of *erev*. But, he adds, *ve-ein li lefareish* — I cannot specify which applies where. Rav Dimi then came from Eretz Yisrael and said in the name of Rabbi Yochanan: *shalosh pikot shamati* — I heard that there are in fact three different types of spools used in different halakhic contexts — one of *shesi*, one of *erev*, and one of *pikah gedolah shel sak'in*, a large spool used in connection with sacks. And likewise, he said, *ve-ein li lefareish* — he too could not specify the correspondence.
 
-### Human vs. Animal Spool S…
+### Spool sizes: human/animal
 
 Ravin then came from Eretz Yisrael and provided what Rav Dimi could not: the specification. He too transmitted this in the name of Rabbi Yochanan. *Shel isha ke-shel shesi* — in the case of a human woman, where we ask when the dead fetus in the dilated womb begins to communicate *tumah* to the room, the skull must reach the size of a spool of *shesi*, the smaller measure. *Shel behemah ke-shel erev* — for an animal, where things are proportionally larger, the skull must reach the size of a spool of *erev*, the larger measure.
 
@@ -104,7 +104,7 @@ If the majority of this fish brine is water, then the *hashakah* works: once the
 
 But what of the minority of water within the brine — say, forty percent — which presumably did become *tamei* through the *am ha-aretz*'s handling? The answer seems straightforward: *ha-nitbatelu be-rubba* — they are nullified by the majority. The minority of water is not halakhically present. And since it is not present, the *hashakah* trick cannot purify it — the *mikveh* contact reaches the water only when the water is the majority — but equally, since it is not present, it poses no problem.
 
-### Usage Conditions: Bread…
+### Usage Conditions: Bread
 
 Rabbi Yirmeyah, however, qualifies this ruling. *Lo shanu ela litbol bahen pito* — the permission to use this brine applies only when dipping bread into it. *Aval le-kederah lo* — one may not add it to a pot containing additional water. The reason follows immediately.
 
@@ -116,7 +116,7 @@ This principle — *matza mino ve-ne'or*, finding one's kind and awakening — r
 
 ---
 
-## Chozer Ve-Ne'or Deba (II)
+## Chozer Ve-Ne'or Debate
 
 ### Conceptual Implications
 
@@ -140,11 +140,11 @@ Rav Dimi was sitting and presenting this teaching when Abaye challenged him dire
 
 Rav Dimi responds by citing a Mishnah: *seah terumah tme'ah she-nafelah le-meiah chulin* — one *seah* of *tamei terumah* that fell into one hundred *seah* of *tahor chulin*. The case involves two overlapping halakhic concerns: the laws of *terumah* (normally *batel* one-in-a-hundred in *chulin*) and the laws of *tumah ve-taharah* (the *terumah tme'ah* is *tamei* and might communicate its *tumah* to the surrounding grain). Ordinarily, when *terumah* falls into *chulin* at a ratio of one to a hundred, the *terumah* is *batel*; but convention requires that one unit be separated and given to a *kohen*. In this case, however, since the *terumah* is *tamei*, the *kohen* cannot use it anyway.
 
-### Rabbi Eliezer: Removal &…
+### Removal of Se'ah Terumah
 
 Rabbi Eliezer's position is: *tirakev* — take one *seah* out and let it rot. He relies on the principle *sheani omer hi seah she-nafelah hi seah she-altah* — I say that the one you took out is the very one that fell in. This is a convenient legal fiction, but it is permissible because the *terumah* is already *batel* in principle — one-in-a-hundred. By assigning the extracted unit as the *terumah tme'ah* and disposing of it appropriately (since one cannot benefit from *terumah tme'ah*), Rabbi Eliezer considers the matter resolved.
 
-### Chachamim: Batel with Re…
+### Chachamim: Batel, Eating
 
 The Sages (Chachamim) disagree: *ta'aleh* — the *terumah* is *batel*, no extraction is required, and since the *kohen* cannot actually benefit from *tamei terumah* anyway, there is no need to separate anything for him. The mixture of a hundred-and-one may be consumed. However — and this is the crucial restriction — it must be eaten in one of the following ways: *nikudim*, dry, without contact with water; or *klayot*, roasted (again avoiding water); or kneaded with *mei peirot*, fruit juices, which do not render food susceptible to *tumah*; or divided into separate portions of dough, with the further condition that no single portion contains a *kebeitzah* (egg-volume) of the mixture in any one place.
 
@@ -152,13 +152,13 @@ These restrictions are clearly driven by a concern about *tumah*. From a *teruma
 
 Tosafot offers an incisive explanation: once you make the entire mixture wet and susceptible to *tumah*, the *tamei terumah* — dormant within the mixture — reasserts its presence, and the result is as if the *terumah tme'ah* has once again manifested and rendered everything *tamei*. The very act of making things susceptible triggers the reawakening.
 
-### Restrictions on Remainin…
+### Remaining Chulin: Eliezer
 
 Notably, even Rabbi Eliezer — who says one unit is removed and identified as the *terumah tme'ah* — requires the same restrictions for the remaining ninety-nine-plus *seah* of grain. A *braita* is cited explicitly: *otan chulin le-Rabbi Eliezer matilin aleihen* — even for Rabbi Eliezer, the remaining *chulin* must be eaten *nikudim*, or *klayot*, or kneaded with *mei peirot*, or divided so that no *kebeitzah* sits in one place. Rabbi Eliezer does not deny that the remaining mixture still contains a residue of *terumah tme'ah*; his extraction was a legal convention, not a physical removal. So both Rabbi Eliezer and the Sages ultimately agree that the remaining mixture must be treated with these restrictions — they differ only in whether a unit must formally be extracted and discarded.
 
 The Gemara thus poses the obvious question: both authorities treat the *terumah tme'ah* as *batel* on some level, yet both demand precautions as if it retains operative *tumah*. How do we reconcile this?
 
-### Ulla's Protective Reason…
+### Ulla: Gezel Prevention
 
 Ulla provides the answer. *Gezeirah shema yavi kav chulin tmei'im mi-makom acher ve-kav ve-od mi-min zeh* — it is a preventive enactment (*gezeirah*) lest someone take a *kav* of *tamei chulin* from elsewhere and mix it with a *kav* plus a little of this mixture, reasoning that the majority is *tahor* and will nullify the *tamei* grain. The problem is that this new mixture contains within it a dormant trace of *terumah tme'ah* — one percent, roughly speaking, of the mixture with which he is now combining. When this *tamei chulin* is introduced, *matza mino ve-ne'or* — the dormant *terumah tme'ah* finds the incoming *tamei* grain, and the two *tamei* components together now constitute the majority. The *terumah tme'ah* reawakens and joins the *tamei* grain, flipping the majority, so that rather than the *tahor* grain nullifying the new *tamei* grain, the combined *tamei* components hold the majority. To forestall this manipulation — intentional or inadvertent — the Sages imposed the restrictions: keep this grain dry, keep it in fruit-juice dough, keep portions small. These guidelines signal to the holder that this grain is not simply pure *tahor* grain; it carries a trace of potential *tumah* and must be handled accordingly.
 
@@ -174,15 +174,15 @@ A further analytical point raised here concerns why the ratio of *bittul* in thi
 
 Rav Dimi's citation of the Mishnah of *terumah tme'ah* is now brought to bear on Abaye's challenge. The fact that both Rabbi Eliezer and the Sages require precautions against the dormant *terumah tme'ah* communicating *tumah* — even after it has been declared *batel* — is precisely because the principle of *chozer ve-ne'or* applies: when the nullified *tamei terumah* encounters other *tamei* grain, it reawakens. This is proof, Rav Dimi argues, that even *tumah* which has been *batel* can return.
 
-### Abaye Concedes: Like Kin…
+### Abaye: Chozer Ve-Ne'or
 
 Abaye concedes the point — but only in part. He acknowledges that *chozer ve-ne'or* does apply when the dormant *tamei* thing encounters something that is halakhically identical to it — *tumah* meeting *tumah*. The nullified *terumah tme'ah* is *tamei*; the new grain introduced is also *tamei*; they are of the same kind, and that is sufficient for reawakening.
 
-### Prevention of Circumvent…
+### Prevention: Nullify Tamei
 
 The practical reason for the restrictions, as Ulla explained, follows directly: without them, the mixture could be used to fraudulently nullify other *tamei* grain. The restrictions prevent someone from treating this mixture as simply *tahor* grain and using its majority to effect *bittul* of new *tamei* material — because the dormant *terumah tme'ah* within it will reawaken the moment it finds the incoming *tamei* grain.
 
-### Abaye's Distinction: Unl…
+### Abaye: Unlike Tahor Water
 
 However, Abaye's concession is carefully bounded. He agrees that *tumah* finds *tumah* and reawakens. But the case of the fish brine is different: there, the nullified water — which was *tamei* — is proposed to reawaken when it encounters the *tahor* water in the pot. For Abaye, this does not qualify. *Tumah* meeting *taharah* — even when both are water — is not "finding its kind" in the relevant sense. The reawakening principle requires halakhic identity, not merely physical similarity.
 

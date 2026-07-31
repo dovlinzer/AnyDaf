@@ -18,7 +18,7 @@ Returning to the main thread: how is the fruit-seller case relevant to the woman
 
 One might push back: the non-Jew was extremely specific — he named Reuven ben Shimon — and the man had not been seen for three years. That specificity might have been a reason to credit the testimony. But the Gemara is unpersuaded, because the motivation to threaten overrides the specificity. The principle that emerges is that *mesiach lefi tumo* is qualified: it does not operate when there is affirmative reason to think the speaker may be fabricating or exaggerating.
 
-## Witnessing Standard (III)
+## Witnessing Standards
 
 ### Geonic Responsum
 
@@ -40,7 +40,7 @@ It is worth pausing on the context of these final two cases. If *kolar* means th
 
 One might note that in none of these cases does the Gemara describe any attempt to verify the facts — to locate the grave, to find corroborating witnesses, to identify the body. The question the Gemara addresses is purely one of whose testimony is admitted, not of evidentiary sufficiency in the modern sense. These *halakhot*, it is worth noting, have found real application in tragic historical circumstances, including in *responsa* literature dealing with mass casualties where identifying individual deaths was impossible.
 
-## Witnessing Standard (III)
+## Witnessing Standards (II)
 
 ### Light Requirements
 

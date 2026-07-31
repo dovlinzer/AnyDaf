@@ -18,7 +18,7 @@ The *Chachamim* object that this approach is unacceptable because it invokes the
 
 The *Chachamim* offer an alternative. One waits until the animals develop a blemish, at which point they can be redeemed. The owner then designates the proceeds: whichever animal is the *asham*, its value is directed toward this money, which is then used to purchase a proper *asham*; and whichever animal is the *shelamim*, its value is similarly directed to purchase a proper *shelamim*. This process restores clarity about which animal is which. Rabbi Shimon's implicit counter is: do you have a better solution? The *Chachamim* answer that they do — redemption upon the onset of a blemish — but it is understood that if no such solution existed, even the *Chachamim* might concede that Rabbi Shimon's approach would be preferable to simply allowing the animals to go to waste. The debate, then, is specifically about whether one may adopt Rabbi Shimon's approach when an alternative does in fact exist.
 
-## Kodshim L'Beis Hapes (II)
+## Kodshim L'Beis Hapesul
 
 ### Shvi'is/Terumah Case
 

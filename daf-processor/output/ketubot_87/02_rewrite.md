@@ -1,10 +1,10 @@
 # Ketubot 87 — Daf Yomi Shiur
 
-## Oaths & Husbands' Author…
+## Oaths & Husband Authority
 
 ### Review of Ketubot 86b
 
-The present daf, 87, opens as a golden continuation of the previous discussion. We pick up with the *gemara* at the very last line of 86b. The preceding material dealt with the idea that a husband whose wife manages his store may require her to take an oath that she has not misappropriated any funds. The *gemara* then turned to the next *mishnah*, which states that a husband may write for his wife — presumably at the time of their marriage — an exemption relieving her from ever having to take a *neder* or a *shevuah*.
+The present daf, 87, opens as a golden continuation of the previous discussion. The preceding material dealt with the idea that a husband whose wife manages his store may require her to take an oath that she has not misappropriated any funds. The *gemara* then turned to the next *mishnah*, which states that a husband may write for his wife — presumably at the time of their marriage — an exemption relieving her from ever having to take a *neder* or a *shevuah*.
 
 ### Exemption from Oaths
 
@@ -16,7 +16,7 @@ To clarify the terminology at stake: a *shevuah* is a direct oath — "I did not
 
 ---
 
-## Rav Yehuda vs. Rav Nachm…
+## Amoraim Debate on Mishnah
 
 ### Apotropaya Interpretation
 
@@ -140,7 +140,7 @@ This distinction applies with equal force to the *pogemet ketubah* scenario. If 
 
 Having completed the discussion of the oath exemption, the *gemara* now turns to the *mishnah* that Rav Nachman identified as the primary subject of that exemption — the *mishnah* of *pogemet ketubah*. The *mishnah* opens: *hapogemes kesuvasah lo tipara ela bishvua* — a woman who "injures" her *ketubah* by admitting that part of it has been paid may not collect the remainder except by oath. The *mishnah* then identifies a second case: *ed echad meidah sheparuah* — a single witness testifies that the *ketubah* has been paid in full — and rules that she likewise may not collect except by oath. These are the first two scenarios in which the oath requirement applies.
 
-### Meshubadim & Absent Part…
+### Meshubadim & Debtors
 
 The *mishnah* continues with additional cases: *minichsei meshubadim* — collecting from liened property — and *shelo b'fanav* — collecting in the debtor's absence. In the first of these, the husband has sold his property to others and the wife comes to execute her lien against those purchasers. The purchasers naturally cannot know whether the *ketubah* debt has been settled between husband and wife, and so she must swear that it has not. In the second case, the husband has gone abroad — to a distant land, as the *mishnah* puts it — and under certain circumstances collection may proceed without him present. There too, since he cannot speak for himself, she must swear that the debt remains outstanding.
 

@@ -98,7 +98,7 @@ The clearest scenario in which such a stable range exists is agricultural land w
 
 ## Halacha Ruling
 
-### Halacha Ruling
+### Halacha Ruling (II)
 
 *Amar Rav Huna bar Chinana amar Rav Nachman: halacha ke-divrei chachamim* — we rule like the *chachamim*, not like *Rabban Shimon ben Gamliel*. The court's sale is void when the price diverges from fair value by more than a sixth; it is not always binding simply by virtue of the court's authority.
 
@@ -176,7 +176,7 @@ Rav Ashi poses a sharp question to Ameimar: the *mishnah* states that when *beis
 
 The *Gemara*'s response: *lo, be-d'achriz* — the *mishnah* is actually discussing a case *with* a public announcement. We know this from the end of the *mishnah*, which says that if an *igeret bikoret* — which Rashi identifies with the *hachrazah* process — was conducted, the sale is binding regardless of the price. The *mishnah* thus discusses a situation where public auction was held: the beginning addresses the case where the right process was followed but the price was wrong; the end addresses the case where the right process was followed and the price was also drastically off. In both cases, the process was conducted.
 
-### What Requires Announcement…
+### Land vs. Movable Items
 
 But this resolution creates its own problem: if the *mishnah* only addresses sales *with* a public announcement, how can it say that a correctly priced sale stands? The *Gemara* resolves this through a distinction among the categories of property being sold.
 

@@ -68,7 +68,7 @@ The *gemara* now presents a remarkable story. Levi, who had come from *Eretz Yis
 
 Those present immediately asked Levi to testify formally — if he knew it was *Yom Kippur* in *Eretz Yisrael*, why not declare it and bring them to stop eating? Levi refused: *lo shamati mipi beis din mekudash* — I did not personally hear *Beis Din* declare *mekudash*. Rashi explains: the *halacha* requires that messengers depart only after explicitly hearing *Beis Din*'s formal declaration. Even in a case where the previous month passed its thirtieth day without witnesses, making it logically certain that the following day is *Rosh Chodesh*, the messengers do not depart until *Beis Din* formally accepts testimony the next day and pronounces *mekudash*. Levi had not witnessed that declaration and therefore declined to offer formal testimony.
 
-### Tosafot's Decentralizati…
+### Tosafot: Minhag Mekomos
 
 *Tosafot* finds this extraordinarily difficult. Regardless of technicalities about hearing *mekudash*, Levi knew — or knew with overwhelming probability — that today was *Yom Kippur* in *Eretz Yisrael* and that the Babylonians were eating in violation of one of the most severe prohibitions in the Torah. How could he remain silent on a technicality?
 
@@ -112,7 +112,7 @@ The *gemara* records that Rava *hava ragil d'hava yateiv b'taanita trei yomei* �
 
 *Zimna chada ishtakach k'vateih* — on one occasion Rava turned out to be correct. *Elul* that year was indeed thirty days, and the community had misidentified *Yom Kippur*. Rava cited this vindication as confirmation of his practice.
 
-### Rabbeinu Chananel
+### Rabbeinu Chananel (II)
 
 Rabbeinu Chananel, however, enters an important qualification. Even granting that the practice was understandable, it was not an *obligation* and should not be mistaken for one. The principle stated elsewhere in the *gemara* — *d'miyemot Ezra v'eilach lo matzinu Elul meubar*, that since the days of Ezra *Elul* has never been thirty days — reflects the standard expectation. Rava's fasting was *milta yeteira* — an extra stringency, something beyond the letter of the law. *Rabbeinu Chananel* writes explicitly: *lo chovah hu alav* — it was not incumbent upon him. And if someone undertook such a stringency, Rabbeinu Chananel notes, it was not something deserving of particular praise — one should not congratulate oneself for going beyond what is required when the underlying concern is not a genuine one under normal circumstances.
 
@@ -136,7 +136,7 @@ Rav Huna bar Avin sent a ruling to Rava: *kad chazit de-mashka tekufas Teves ad 
 
 The biblical anchor for this requirement is the verse *shamor et chodesh ha-aviv* — guard the month of spring. The word *chodesh* refers to the lunar month, the moon's renewal; the word *aviv* refers to the solar spring season. The verse thus enjoins that the lunar month of *Nissan* must coincide with the solar season of spring — *she-tehe be-chodesh Nissan*, that the spring should fall within the month of *Nissan*.
 
-### Rashi's Explanation
+### Rashi's Explanation (II)
 
 One might ask: if the spring needs only to fall within *Nissan*, perhaps it suffices for spring to begin by the fifteenth, i.e., by *Pesach* itself. And if spring only begins on the sixteenth — one day late — why not simply add a day to one of the preceding months rather than an entire leap month? Rashi addresses both questions. On the first: the word *chodesh* in the verse implies *chadesh* — newness, waxing. The moon is still growing, still renewing itself, only through the fourteenth of the month. From the fifteenth onward it begins to wane. Therefore, for the month to be a *chodesh* in the full sense — a waxing, renewing month — the spring must begin by the fourteenth, not the fifteenth. On the second: since the spring must begin by the fourteenth rather than the fifteenth, a single-day adjustment to a preceding month would be insufficient. The gap requires a full thirty-day leap month — *ibur hashana* — to bring *Nissan* back into proper alignment with the solar spring.
 

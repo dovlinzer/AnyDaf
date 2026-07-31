@@ -50,7 +50,7 @@ Rabbi Chiya's innovation begins with the ruling *shlishi she-bivno ve-she-bivito
 
 Rashi makes this precise: *shlishi she-bivno* refers to *bat ben beno* — one's son's son's daughter; and *shlishi she-bivito* refers to *bat ben bito* — one's daughter's son's daughter. In both cases, the second generation is a son (*ben*), breaking the direct daughter-to-daughter chain, yet the third generation great-granddaughter is still rabbinically prohibited. This accounts for two of Rabbi Chiya's six additions.
 
-### Wife's Great-Granddaught…
+### Wife's Great-Granddaughtr
 
 The next two entries are parallel, but applied to one's wife. The *Torah* prohibits a man from marrying a woman along with her granddaughter — which means, structurally, one may not marry one's wife's granddaughter, whether through the wife's son or through the wife's daughter. Those are *de'oraita* prohibitions. But again, where the second generation is a grandson — the wife's grandson — the biblical prohibition does not attach at that level. Rabbi Chiya extends the prohibition to the wife's great-granddaughter in such a case: *she-be-ven ishto ve-she-be-bat ishto* — whether the great-granddaughter descends through the wife's son or through the wife's daughter, she is rabbinically forbidden. This yields two more entries, for a running total of four.
 

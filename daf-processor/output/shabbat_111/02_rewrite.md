@@ -64,7 +64,7 @@ The Gemara proceeds to a new *mishna*. If someone has a toothache (*hachochesh b
 
 ---
 
-## Loin Pain Remedy (III)
+## Loin Pain Remedy
 
 ### Rose Oil Exception
 
@@ -96,7 +96,7 @@ As a practical note, while the *mikvah* on Yom Kippur is technically permissible
 
 ---
 
-## Loin Pain Remedy (III)
+## Loin Pain Remedy (II)
 
 ### Mishna Loin Pain
 

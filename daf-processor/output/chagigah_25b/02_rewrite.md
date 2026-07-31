@@ -54,7 +54,7 @@ This ruling circles back directly to the question raised about holding the barre
 
 The *gemara* answers: *bidvar she-ein lo gat* — we are speaking of produce that has no pressing season. Grain washing, for instance, does not correspond to the kind of focused, communally observed pressing season that generates the institutional leniency. Without that seasonal anchor, there is no mechanism for restoring *taharah* through the passage of time. The *gemara* then asks: *v'yanichenu le-regel?* — perhaps he could wait until a *regel* (pilgrimage festival), when everyone is also believed about *terumah*? The *gemara* answers: *bidvar she-eino mishtamer le-regel* — the produce in question would spoil before the *regel* arrives. Accordingly, the ruling to burn it stands, but it does not actually resolve the theoretical question of whether, in cases where waiting is possible, such waiting would change the purity status. That question remains open.
 
-### Pressing Season Requirem…
+### Purity: Clear Pressing
 
 A further limitation on the pressing-season leniency is established: it applies only to produce that actually has a pressing season — olive oil and wine, whose harvest and processing are concentrated into a defined communal period. It does not extend to produce whose handling is diffuse and unstructured. This is the formal constraint that anchors the entire regime of *sha'at ha-gitot* believability.
 
@@ -108,7 +108,7 @@ The *gemara* now returns to the question of what *meduma'ot* means in the contex
 
 This is admittedly a striking reading of the *mishnah*. The plain meaning of *kadei yayin ve-kadei shemen ne'emanim aleihem* is that one is believed about the vessels in addition to the wine, and the seventy-day advance period explains why the vessels are addressed separately. But because the *gemara* has established that one is *not* believed about vessels in the context of *terumah*, the *mishnah* must be read as referring to a special *kodesh* scenario, not a *terumah* scenario.
 
-### Declared Kodesh Vessel B…
+### Vessels Declared Kodesh
 
 The practical consequence is as follows. An *am ha-aretz* who has declared his intention to draw wine for *nesakhim* from a batch of grapes achieves a status for his produce and vessels such that a *chaver* may believe him even about the vessels — outside the pressing season and many weeks in advance. This stands in contrast to the *terumah* scenario, where belief in the vessel is withheld even when belief in the wine itself is granted. Rashi makes the policy dimension explicit: *she-af al pi she-lo gazru al trumatan bi-sh'at ha-gitot mishum hefsed kohanim chaverim* — the Rabbis refrained from applying their restrictions to *terumah* during the pressing season because to do so would deprive *kohanim* who are *chaverim* of the majority of the *terumah* of the Land of Israel. The limitation to the wine and not the vessels in the *terumah* case is itself a product of this policy: the *kohen chaver* needs the wine, not the *am ha-aretz*'s jug, and so the leniency is calibrated accordingly — *al ha-kankanim lo heiminum d'ein kohen chaver mekabel mehen kankanim im ha-terumah aval me'areh hu le-cheleihem* — he pours it into his own vessel.
 
@@ -124,7 +124,7 @@ The *mishnah* introduces a further leniency regarding pottery vessels from a spe
 
 The geographic line is drawn at Modi'in, approximately fifteen *mil* from Jerusalem — a meaningful radius, roughly a day's journey. From within that radius, *amei ha-aretz* are believed about pottery vessels. From beyond Modi'in, *ein ne'emanim* — they are not believed.
 
-### Direction-Based Modi'in…
+### Modi'in: Direction Impact
 
 The *mishnah* then provides a remarkable illustration of the rule's formalist application: *ha-kadar she-hu mocher kadeirot, nichnas lifnim min ha-Modi'in* — if the pottery merchant, with his wares, is encountered inside Modi'in on his way toward Jerusalem, *hu ha-kadar ve-hen ha-kadeirot ve-hen ha-lokechim — ne'eman*: the same merchant, the same jugs, the same buyers — he is believed. *Yatza* — if you encounter that same merchant, with the same jugs and buyers, outside of Modi'in — *eino ne'eman*. The *mishnah* makes no apology for the formalism. Location determines believability; the individual facts of any particular case are irrelevant.
 
@@ -148,7 +148,7 @@ The *gemara* anticipates the obvious objection — that this seems contradictory
 
 ---
 
-## Tax Collectors-Thieves T…
+## Tax Collectors & Thieves
 
 ### Jerusalem-Festival Trust
 

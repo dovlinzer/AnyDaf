@@ -1,4 +1,5 @@
 # Kiddushin 76 — Daf Yomi Shiur
+[DAF:76a]
 
 ## Kutim Marriage Prohibiti…
 
@@ -216,6 +217,7 @@ There are two ways to resolve the tension between the two statements of Rav. The
 
 ## Exceptions to Bedik (III)
 
+[DAF:76b]
 ### Court Purity Standard
 
 > **Hebrew/Aramaic:** וְלֹא מִסַּנְהֶדְרִין וּלְמַעְלָה. מַאי טַעְמָא? דְּתָנֵי רַב יוֹסֵף: כְּשֵׁם שֶׁבֵּית דִּין מְנוּקִּים בְּצֶדֶק – כָּךְ מְנוּקִּים מִכׇּל מוּם. אָמַר מָרִימָר: מַאי קְרָאָה – ״כֻּלָּךְ יָפָה רַעְיָתִי וּמוּם אֵין בָּךְ״. אֵימָא מוּמָא מַמָּשׁ! אָמַר רַב אַחָא בַּר יַעֲקֹב: אָמַר קְרָא: ״וְהִתְיַצְּבוּ שָׁם עִמָּךְ״, ״עִמָּךְ״ – בְּדוֹמִים לָךְ.

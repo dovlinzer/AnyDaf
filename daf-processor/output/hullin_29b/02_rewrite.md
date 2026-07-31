@@ -2,7 +2,7 @@
 
 ## Shechita Timing
 
-### Reish Lakish vs. R. Yoch…
+### Reish Lakish vs. Yochanan
 
 We begin on 29b with one of the central conceptual questions of the entire masechta. The Gemara presents a foundational dispute about how to conceptualize the act of shechita as a process. Reish Lakish said in the name of Levi Sava: *eino li-shechita ela be-sof* — shechita occurs only at the end. The final cut or the final moment that completes the majority of the simanim is what constitutes the act of shechita. Rabbi Yochanan, by contrast, says *yeshno li-shechita mi-techilah ve-ad sof* — it spans from the very beginning to the end.
 

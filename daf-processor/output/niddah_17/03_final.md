@@ -1,4 +1,5 @@
 # Niddah 17 — Daf Yomi Shiur
+[DAF:17a]
 
 ## Sex & Light
 
@@ -248,6 +249,7 @@ The third practice of the household of King Munbaz — treating snow with the la
 
 Furthermore, the snow is treated atomistically: *nitma miktzato lo nitma kulo* — if part of it is made *tamei*, the rest is not. Each portion is independent. But the converse: *nithar miktzato nithar kulo* — if some of it becomes *tahor*, it all does. How does snow become *tahor*? Liquids that are *tamei* can be rendered *tahor* by contact with a *mikvah*, since they become part of the *mikvah* waters and change their identity. Snow, being water, can in principle be rendered *tahor* this way — though by the time the *mikvah* water has done its work, the snow may no longer be snow in any meaningful sense.
 
+[DAF:17b]
 ### Snow Airspace
 
 > **Hebrew/Aramaic:** הָא גוּפַאּ קַשְׁיָא: אָמְרַתְּ ״נִטְמָא מִקְצָתוֹ — לֹא נִטְמָא כּוּלּוֹ״, וַהֲדַר (תָּנֵי) [אָמְרַתְּ] ״נִטְהַר מִקְצָתוֹ — נִטְהַר כּוּלּוֹ״, לְמֵימְרָא דְּנִטְמָא כּוּלּוֹ!

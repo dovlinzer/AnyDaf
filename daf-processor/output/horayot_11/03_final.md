@@ -1,4 +1,5 @@
 # Horayot 11 — Daf Yomi Shiur
+[DAF:11a]
 
 ## Intent & Righteousness
 
@@ -342,6 +343,7 @@ An objection is raised: *malchei Yisrael u'malchei Beis David, eleh mevivim le'a
 
 The *gemara* responds: *hatam lo chayfya hadadei* — there, the two kingdoms were not subject to each other; each had independent *malchuta*. *Hacha anan chayfinan le'hu le'didehu* — here, we are in some sense subject to the political authority of Bavel. This answer is admittedly difficult to understand historically; *Eretz Yisrael* in Rabbi's time was subject to Rome, not to Bavel, and it is not clear in what sense the Palestinian *nasi* was subordinate to the *Reish Galuta*. One might suggest that this formulation reflects the perspective of the Babylonian *Talmud*, which tends to view the Babylonian center as primary.
 
+[DAF:11b]
 ### Staff vs Law
 
 > **Hebrew/Aramaic:** רַב סָפְרָא מַתְנֵי הָכִי. בְּעָא מִינֵּיהּ רַבִּי מֵרַבִּי חִיָּיא: כְּגוֹן אֲנִי מַהוּ בְּשָׂעִיר? אֲמַר לֵיהּ: הָתָם ״שֵׁבֶט״, הָכָא ״מְחוֹקֵק״, וְתַנְיָא: ״לֹא יָסוּר שֵׁבֶט מִיהוּדָה״ – זֶה רֹאשׁ גּוֹלָה שֶׁבְּבָבֶל, שֶׁרוֹדֶה אֶת יִשְׂרָאֵל בְּמַקֵּל. ״וּמְחוֹקֵק מִבֵּין רַגְלָיו״ – אֵלּוּ בְּנֵי בָנָיו שֶׁל הִלֵּל שֶׁמְלַמְּדִים תּוֹרָה לְיִשְׂרָאֵל בָּרַבִּים.

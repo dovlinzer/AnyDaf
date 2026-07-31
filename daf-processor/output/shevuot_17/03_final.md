@@ -1,4 +1,5 @@
 # Shevuot 17 — Daf Yomi Shiur
+[DAF:17a]
 
 ## Shehiya for Malkus
 
@@ -160,6 +161,7 @@ The difficulty Rav Zevid is pressing, however, is that if the operative principl
 
 Abaye responds that there is no difficulty: *mishkachat lah kegon de'ba biktzara vehapach betzinora* — you find the case where the *kohen* is walking out via the short route and, in the course of walking, flips over meat on the *mizbeach* using the pitchfork (*tzinora*). He never pauses — he continues walking the entire time. The act of *avodah* is performed literally in motion, on the way out, without any *shehiya* at all. He incurs *mita bidei shamayim* for performing *avodah* while *tamei*, but since he paused not a moment — walking continuously on the short route — he does not incur *karet*.
 
+[DAF:17b]
 ### Rav Huna Rule
 
 > **Hebrew/Aramaic:** גּוּפָא – אָמַר רַב הוּנָא: זָר שֶׁהִפֵּךְ בְּצִינּוֹרָא, חַיָּיב מִיתָה. הֵיכִי דָמֵי? אִי דְּלָא הַפֵּךְ לַהּ לָא מִיעַכְּלִי – פְּשִׁיטָא! וְאִי דְּלָא הַפֵּךְ בְּהוּ נָמֵי מִיעַכְּלִי – מַאי קָא עָבֵיד?

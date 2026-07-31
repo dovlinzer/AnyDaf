@@ -56,7 +56,7 @@ As with the *arel* and *onen*, the *Gemara* makes clear that the *yoshev* who pe
 
 ---
 
-## Baal Mum (III)
+## Baal Mum
 
 ### Rebbi's View
 
@@ -96,7 +96,7 @@ The *mishna* also addresses the case of *zommei bat kohen u-vo'alah* — conspir
 
 ---
 
-## Baal Mum (III)
+## Baal Mum (II)
 
 ### Blemish Source
 
@@ -104,7 +104,7 @@ Returning now to *baal mum*: what is the source for Rebbi's position that a blem
 
 ---
 
-## Baal Mum (III)…
+## Baal Mum (III)
 
 ### Psul HaGuf
 

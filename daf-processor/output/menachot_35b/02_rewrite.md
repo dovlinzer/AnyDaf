@@ -1,6 +1,6 @@
 # Menachot 35b — Daf Yomi Shiur
 
-## Broken Strap & Tashmishe…
+## Broken Tefillin Strap
 
 ### Knot vs. Sewing
 
@@ -170,7 +170,7 @@ Tosafot himself then hedges, acknowledging that *keshira* in this context may si
 
 ## One or Two Blessings
 
-### Speech Requires New Bles…
+### Speech Between Two
 
 Rav Chisda rules: *sach bein tefillah le-tefillah chozer mevarech* — if one spoke between the *shel yad* and the *shel rosh*, one must return and make another *beracha* on the *shel rosh*. Implicitly, if one did not speak, a second *beracha* is not necessary.
 

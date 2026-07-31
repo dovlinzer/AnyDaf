@@ -214,7 +214,7 @@ Returning to the analytical framework: the debate between *s'char shimur* and *s
 
 This leads to a striking question. The one who holds *s'char shimur* does not adopt *s'char pisuk ta'amim*, and the Gemara asks why. The answer given is: *kasavar pissuk teamim de'oraita* — he holds that *pisuk ta'amim* is *de'oraita*. If the cantillation and division of the text is part of the *Torah* itself — intrinsic to its identity, not extrinsic — then it cannot be charged for any more than teaching the words of the *Torah* can be charged for. One who holds *pisuk ta'amim de'oraita* cannot justify a fee for teaching *trop* on the grounds that it is a peripheral or ancillary skill.
 
-### Nechemia's Verse
+### Five Components
 
 The Gemara cites a statement of Rav Ika bar Avin in the name of Rav Chananel in the name of Rav, based on a verse in Nechemiah: *vayikre'u besefer Torat Elokim meforash veshum sechel vayavinu bamikra* — "and they read in the book of the Torah of God distinctly, and they gave the sense, and they caused the people to understand the reading." This verse is parsed as containing multiple distinct components of Torah transmission, each of which is identified.
 

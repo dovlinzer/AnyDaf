@@ -50,7 +50,7 @@ The *gemara* pushes further. Once the *takanah* was instituted — following the
 
 The *gemara* ultimately answers: *mai ika l'meimar* — the answer is the straightforward distinction. *Rishon d'isah minei haTorah bigvulin, lo gazru behu rabanan*. On the first day, which is biblical everywhere, the rabbis did not apply the *gezeirah*. On *Chol Hamoed*, which is not biblical outside the *Beis Hamikdash*, they did. That is the operative principle.
 
-### Modern Practice Outside…
+### Practice Outside Israel
 
 The *gemara* then turns to contemporary practice. If the first day is biblical and the rabbis allow it, why do we not take the *lulav* nowadays when *Yom Tov* falls on *Shabbos*? The *gemara* answers: *anan lo yedinan bekivu'a deyarcha* — we do not know when *Rosh Chodesh* was established. This does not mean literal ignorance — we have a fixed calendar — but it reflects the institutional reality of *galus*: outside *Eretz Yisrael*, we live as though we were in the era of the *Beis Hamikdash* when those outside Israel could never be certain which day *Rosh Chodesh* had been declared. We therefore observe two days of *Yom Tov* and inhabit, as it were, a state of virtual uncertainty. Because we cannot definitively say that today is certainly the first day — the biblical day — the earlier allowance does not apply to us.
 

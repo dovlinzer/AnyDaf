@@ -1,6 +1,6 @@
 # Kiddushin 37 — Daf Yomi Shiur
 
-## Intro & Mitzvot Categori…
+## Mitzvot by Geography
 
 ### Perek Theme
 

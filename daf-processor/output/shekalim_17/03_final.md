@@ -1,4 +1,5 @@
 # Shekalim 17 — Daf Yomi Shiur
+[DAF:16b]
 
 ## 13 Prostrations & Gates
 
@@ -6,6 +7,7 @@
 
 The *mishna* on which we now focus appears in the context of a broader enumeration: thirteen *shofarot* — the containers used to collect donated funds — thirteen *shulchanot*, and thirteen *hishtachavayot*, prostrations. The *mishna* proceeds in a kind of inverted order, addressing these three topics in reverse sequence. Having just concluded the discussion of a fourteenth *hishtachavaya* and the spot where the *aron* was hidden, the *mishna* now returns to explain the thirteen prostrations, then the tables, and will eventually arrive at the *shofarot*. We thus follow a structure of ABC followed by CBA.
 
+[DAF:17a]
 ### Prostration Locations
 
 > **Hebrew/Aramaic:** משנה: הֵיכָן הָיוּ הַהִשְׁתַּחֲוִיּוֹת הָאֵילּוּ. אַרְבַּע בַּצָּפוֹן וְאַרְבַּע בַּדָּרוֹם שָׁלשׁ בַּמִּזְרָח וּשְׁתַּיִם בַּמַּעֲרָב כְּנֶגֶד שְׁלֹשָׁה עָשָׂר שְׁעָרִים
@@ -268,6 +270,7 @@ This account is not without halakhic resonance. These *midrashim* describing mas
 
 ## 13 Tables
 
+[DAF:17b]
 ### Tables Overview
 
 > **Hebrew/Aramaic:** משנה: שְׁלֹשָׁה עָשָׂר שׁוּלְחָנוֹת הָיוּ בַּמִּקְדָּשׁ

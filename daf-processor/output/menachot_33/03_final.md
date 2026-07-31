@@ -1,4 +1,5 @@
 # Menachot 33 — Daf Yomi Shiur
+[DAF:33a]
 
 ## Sefer Torah Status
 
@@ -248,6 +249,7 @@ Rav Chanina of Sura offers a different reason: *ki heichi d'tinaterei* — so th
 
 One might ask: why not place the *mezuzah* entirely on the exterior wall if maximal outward protection is the goal? The answer, as the Gemara has already established, is that *bisharecha* requires the *mezuzah* to be within the doorframe, inside the gate — not on the external face of the wall. Given that constraint, the outermost viable position is the *tefach* closest to the public domain.
 
+[DAF:33b]
 ### God's Protection
 
 > **Hebrew/Aramaic:** אָמַר רַבִּי חֲנִינָא: בּוֹא וּרְאֵה שֶׁלֹּא כְּמִדַּת הַקָּדוֹשׁ בָּרוּךְ הוּא מִדַּת בָּשָׂר וְדָם, מִדַּת בָּשָׂר וָדָם – מֶלֶךְ יוֹשֵׁב מִבִּפְנִים וְעַם מְשַׁמְּרִין אוֹתוֹ מִבַּחוּץ, מִדַּת הַקָּדוֹשׁ בָּרוּךְ הוּא אֵינוֹ כֵּן, עֲבָדָיו יוֹשְׁבִין מִבִּפְנִים וְהוּא מְשַׁמְּרָן מִבַּחוּץ, שֶׁנֶּאֱמַר: ״ה׳ שׁוֹמְרֶךָ ה׳ צִלְּךָ עַל יַד יְמִינֶךָ״.

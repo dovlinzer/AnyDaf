@@ -6,7 +6,7 @@
 
 The *daf* opens by returning to a case introduced at the bottom of 109b, marked by the asterisk approximately twelve lines from the bottom. The case involves a *mashkanta de-Sura* — a mortgage arrangement common in Sura whereby the creditor takes possession of a field or vineyard and consumes its produce for a fixed number of years, after which the loan is considered repaid. In the specific instance before us, someone mortgaged a *pardes* — which Rashi identifies here as a vineyard — for ten years, giving the creditor the right to all produce during that period. The complication is that within five years, some of the vines dried out and died. Since the creditor is entitled to ten years of produce, the question arises: does the wood of the dried-out vines count as a form of produce that the creditor may keep, or must it be treated as principal — as part of the vineyard itself — requiring reinvestment?
 
-### Abaye: Dried Wood as Fru…
+### Abaye: Dried Wood Fruit
 
 *Abaye amar peira havei*: Abaye rules that the dried wood is a form of *peira*, fruit. Since the vines dried out at the expected time — this is when they were naturally meant to cease producing — the drying and its resulting wood should be seen as what those vines produce at the end of their productive life. The creditor accordingly takes the wood as he would take any other fruit of the vineyard.
 

@@ -1,4 +1,5 @@
 # Nazir 59b — Daf Yomi Shiur
+[DAF:59a]
 
 ## Partner Dies—Marketplace
 
@@ -128,6 +129,7 @@ Others read the phrase as simply a colorful expression of dismissal — somethin
 
 ## Safek Tumah & Metzora
 
+[DAF:59b]
 ### Mishnah Setup
 
 > **Hebrew/Aramaic:** מַתְנִי׳ נָזִיר שֶׁהָיָה טָמֵא בְּסָפֵק וּמוּחְלָט בְּסָפֵק — אוֹכֵל בְּקָדָשִׁים אַחַר שִׁשִּׁים יוֹם.

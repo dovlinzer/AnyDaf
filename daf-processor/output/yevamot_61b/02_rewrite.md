@@ -1,6 +1,6 @@
 # Yevamot 61b — Daf Yomi Shiur
 
-## Aylonit & Zonah (III)
+## Aylonit & Zonah
 
 ### Aylonit Zonah
 
@@ -14,7 +14,7 @@ The *gemara* then cites Rabbi Eliezer's ruling that a *kohen* may not marry a *k
 
 Rabba offers the first explanation: the prohibition is constructed from a combination of two Tannaitic positions — Rabbi Yehuda's ruling that an *aylonit* is forbidden to a *kohen*, and Rabbi Meir's principle of *chayesh l'miyuta*, concern for minority likelihoods. Put together: a *kohen* should not marry a *ketanah* because she might grow up to become an *aylonit*.
 
-## Aylonit & Zonah (III)
+## Aylonit & Zonah (II)
 
 ### Rabbi Eliezer & Meir
 
@@ -66,7 +66,7 @@ The *gemara* objects: if so, why shouldn't even a non-*kohen* avoid marrying a *
 
 Rav Papa returns to the *kohen gadol* explanation but with a different source. He cites a *baraita* that derives from the verse *ve-hu ishah be-visuleha* that a *kohen gadol* must marry a *be-sulah* who is an *ishah* — an adult. *Yachol ketanah?* Could she be a minor? No — *talmud lomar ishah*. *Yachol bogeret?* Could she be fully mature? No — *talmud lomar be-sulah*, which implies intact *betulim*, characteristic of a *na'arah* rather than a *bogeret*. The result: *ha ketzad? yatza mikhlal katnut ve-lo ba le-khlal bagrus* — she must be in the intermediate stage, neither *ketanah* nor *bogeret*, which is a *na'arah* between twelve and twelve and a half years of age. According to this Tanna, the *kohen gadol* may only marry a woman during that narrow window.
 
-## Aylonit & Zonah (III)…
+## Aylonit & Zonah (III)
 
 ### Ruling Rejected
 
@@ -94,7 +94,7 @@ Beit Shammai, by requiring two males, clearly has a different conception of the 
 
 ## Marriage Intrinsic Value
 
-### Rav Adda: Must Stay Marr…
+### Rav Adda: Stay Married
 
 The *gemara* infers from the *mishnah* that once a man has children — *batel mi-pru urvu* — his obligation regarding *pru urvu* is fulfilled; however, *mi-ishah lo batel* — he does not cease his obligation to remain married. This inference is said to support the position of Rav Nachman bar Shmuel: *af al pi she-yesh lo le-adam kama banim, assur la'amod belo ishah* — even a man who already has several children is forbidden to remain without a wife if his wife dies or they divorce.
 

@@ -6,7 +6,7 @@
 
 Today's *daf yomi* covers Makkot 17, picking up at the bottom of 16b, approximately ten lines from the bottom. The preceding material involved a sustained discussion of *lav hanitak la'aseh* — a negative prohibition that is linked to a positive commandment — and the related principles of *bitlo v'lo bitlo* and *kiyum v'lo kiyum*: whether one has actively nullified or fulfilled the positive commandment that accompanies the prohibition. Classic cases included the get given to a divorcée one is forbidden to remarry, and whether actively remarrying her constitutes a nullification of the positive commandment.
 
-### Multiple Aveiros & Bal T…
+### Aveiros & Bal Tashkutzu
 
 The preceding sugya also addressed the consumption of non-kosher food, including a characteristic *gemara* discussion about the multiple *aveiros* incurred when eating particular insects, and an important treatment of the prohibition of *bal teshaktzu* — the commandment not to render oneself abominable. The *gemara* focused this prohibition on eating repulsive substances, including, in a somewhat unexpected case, drinking from a vessel used in the process of bloodletting, where one ends up ingesting blood in the course of drinking. That digression, though brief, carries significant practical weight for the general concept of *bal teshaktzu*.
 
@@ -58,7 +58,7 @@ To illustrate: suppose one purchases a hundred units of grain. One separates ten
 
 This is the position of the *chachamim*: one must at least verbally designate a portion as *ma'aser ani* — the process of naming it removes the grain from its *tevel* status — even though one need not physically set it aside.
 
-### Rabbi Eliezer vs. Chacha…
+### Eliezer vs. Chachamim
 
 Rabbi Eliezer's position is that one need not even designate *ma'aser ani* in the case of *demai*. The *gemara* initially considers whether this means Rabbi Eliezer disagrees with the ruling of Rav entirely — that is, perhaps Rabbi Eliezer holds that even in a case of definite *tevel* from which only *ma'aser ani* remains unseparated, there is no *tevel* status, and one who eats it commits only *gezel*, not *tevel*. After all, how else can one explain his position that no designation is required? Before designation, the grain is *tevel*; if he says no designation is needed, he must believe it is not *tevel*.
 

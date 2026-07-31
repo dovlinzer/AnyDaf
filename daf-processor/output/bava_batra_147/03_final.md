@@ -1,4 +1,5 @@
 # Bava Batra 147 — Daf Yomi Shiur
+[DAF:147a]
 
 ## Shechiv Mera Principles
 
@@ -256,6 +257,7 @@ The *gemara* asks: *lemai nafka mina* — what practical difference does this ma
 
 ## Rabbinic vs. Biblical
 
+[DAF:147b]
 ### Rava's Position
 
 > **Hebrew/Aramaic:** וְרָבָא אָמַר רַב נַחְמָן: מַתְּנַת שְׁכִיב מְרַע מִדְּרַבָּנַן בְּעָלְמָא הִיא, שֶׁמָּא תִּטָּרֵף דַּעְתּוֹ עָלָיו.

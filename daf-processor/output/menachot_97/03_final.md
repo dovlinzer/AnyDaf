@@ -1,4 +1,5 @@
 # Menachot 97 — Daf Yomi Shiur
+[DAF:96b]
 
 ## Four Poles/Shulchan
 
@@ -91,6 +92,7 @@ Rabbi Meir understands *zeh gav hamizbeiach* as: these specific measurements of 
 
 ## Mizbeiach Height
 
+[DAF:97b]
 ### Initial Calc
 
 > **Hebrew/Aramaic:** קָא סָלְקָא דַּעְתָּךְ מִיְּסוֹד וְעַד סוֹבֵב בְּאַמָּה בַּת חֲמִשָּׁה בְּגוֹבַהּ. וּמַאי ״חֵיק הָאַמָּה וְאַמָּה רֹחַב״? הָכִי קָא אָמַר: מֵחֵיק הָאַמָּה וְעַד רוֹחַב בְּאַמָּה בַּת חֲמִשָּׁה.
@@ -149,6 +151,7 @@ The baraita's ruling now fits perfectly. If the kohen stands on the sovev and ap
 
 The Gemara, however, now faces a different complication. Having established that horizontal measurements use the five-*tefach amah* while vertical measurements use the six-*tefach amah*, we must reckon with the surface area dimensions of the mizbeiach — and this is where the analysis becomes intricate.
 
+[DAF:97a]
 ### 32x32 to 24x24
 
 > **Hebrew/Aramaic:** וּמִי מָצֵית מוֹקְמַתְּ לָהּ בִּכְנִיסָה? וְהָא תְּנַן: מִזְבֵּחַ הָיָה שְׁלֹשִׁים וּשְׁתַּיִם עַל שְׁלֹשִׁים וּשְׁתַּיִם, עָלָה אַמָּה וְכָנַס אַמָּה – זֶהוּ יְסוֹד, נִמְצָא שְׁלֹשִׁים עַל שְׁלֹשִׁים. שְׁלֹשִׁים וּשְׁנֵי טְפָחִים הָוֵי.

@@ -124,7 +124,7 @@ Third: *kasheba'u eidim ve'achar kach niset ve-Rabbi Menachem Berabbi Yosi hi* �
 
 ## Rav Ashi & Shmuel
 
-### Rav Ashi's Reinterpretat…
+### Rav Ashi's Reinterpret
 
 *Rav Ashi* now offers a fundamentally different reading of Rav's original ruling. *Mai lo tetze deka'amar Rav? Lo tetze meheterah harishon.* When Rav said *lo tetze*, he did not mean she stays with the second husband. He meant she does not lose her permitted status with respect to the *first* husband. In other words, when two witnesses testified that her husband was dead and she married on that basis, and the husband subsequently returns — she is not *asurah* to the first husband. She may go back to him. She is *asurah* to the second husband, whose marriage has been nullified, but her original marriage is very much intact.
 

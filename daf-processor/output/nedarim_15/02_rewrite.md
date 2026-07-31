@@ -1,6 +1,6 @@
 # Nedarim 15 — Daf Yomi Shiur
 
-## Rav Yehuda vs. Rav Nachm…
+## Rav Yehuda vs. Nachman
 
 ### Mishna on Konam
 
@@ -14,7 +14,7 @@ The *gemara*, however, opened not with this question about abstract objects but 
 
 To clarify the mechanics: if the person does trigger the condition, then the *neder* takes retroactive effect, meaning that in hindsight he has violated the *neder*. But because the violation is established only retroactively and was uncertain at the time of the act, perhaps he will not take the *tnai* seriously enough. *Rav Yehuda amar Rav* holds that we do not permit the person to act today, precisely because he will not treat the *tnai* with the gravity he would apply to the *neder* itself. *Rav Nachman*, by contrast, holds that a person will indeed treat the *tnai* with the same seriousness and may therefore be trusted to observe it.
 
-### Connecting Mishna to Deb…
+### Gemara Connects Mishna
 
 The *gemara* attempted, somewhat forcibly, to read our *mishna* as a special case of this debate — as addressing the situation in which what one does today depends on what one will do tomorrow. The *gemara* itself acknowledges that this is a strained reading. One reason cited for why the *mishna* could not simply be taken at face value was a *mimanashach* argument: if the *mishna* is discussing making sleep forbidden as an abstract idea, a *neder* to that effect would not work; and if it means making one's eyes forbidden to sleep, that was already taught in a prior *mishna*. Since it cannot straightforwardly be either, the *gemara* proposed that it must be addressing the *tnai* case. That is where the previous *daf* concluded.
 
@@ -78,7 +78,7 @@ The *mishna* presents the following case: a husband declares to his wife, *she'a
 
 To lay this out concretely: if she visits her father's house during the period before *Pesach*, she has triggered the *tnai* and the prohibition on *hana'ah* takes effect, meaning she cannot derive benefit from her husband through *Pesach*. But the more interesting question is what happens during the period before she has triggered the *tnai*: may she be deriving *hana'ah* from her husband in the meantime? That is precisely the question of *Rav Yehuda* and *Rav Nachman*. *Rav Yehuda* would say no — we cannot trust her to refrain from visiting her father, so we do not let her derive *hana'ah* now. *Rav Nachman* would say yes — she can be trusted, and she may derive *hana'ah* with the expectation that she will not trigger the *tnai* later.
 
-### Inference Hana'ah Permit…
+### Hana'ah Permit Condition
 
 The *gemara* proceeds to examine the language of the *mishna*. It says: *halcha lifnei haPesach asurah behana'aso ad haPesach* — if she went to her father before *Pesach*, she is forbidden from deriving benefit through *Pesach*. The *gemara* infers: *halcha lifnei haPesach asurah* — only if she has gone do we say she is forbidden; *lo halcha lo* — if she has not yet gone, it is permitted for her to derive *hana'ah*, and we simply trust her not to trigger the *tnai* later. This inference would appear to support *Rav Nachman*.
 
@@ -170,7 +170,7 @@ The reason the *gemara* rejects this approach, however, is not the existence of 
 
 The distinction is important. Obligation alone would not block the *neder*; the indirect structure of *neder*-on-object routinely allows a person to undermine his own obligations. What blocks the *neder* here is *ownership*: she effectively owns a claim to his conjugal attention, and he therefore cannot make it *asur* to her.
 
-### Pleasure Forbidden on Se…
+### Husband Forbids Sex Plan
 
 The *gemara* therefore specifies the loophole: *be-omer hana'as tashmishech alai* — if instead the husband says, "the pleasure I would derive from you is *konam* on *me*," that formulation works. He is not forbidding her property to her; he is forbidding her property to himself. Anyone may make anything *asur* to themselves, including another person's property. He can make her car *asur* to himself; he can similarly make her sexual pleasure *asur* to himself. The *neder* thus takes effect. Indirectly, this prevents him from fulfilling *mitzvas onah*, but as we have established, indirect undermining of a *mitzvah* through *neder*-on-object does not invalidate the *neder*. They could not sustain the marriage under these conditions and would be required to divorce, but the *neder* itself is valid.
 

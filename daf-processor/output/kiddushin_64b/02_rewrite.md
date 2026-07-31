@@ -146,7 +146,7 @@ The practical implication is notable: a man in this situation would be well advi
 
 The Gemara now turns to what is, in many respects, one of the most consequential *sugyot* in the entire tractate for contemporary *hilchos kiddushin*. Rav Yehuda states: *hamekadesh be'ed echad ein chosheshin lekiddushav* — if a man performs *kiddushin* with only one witness present, we have no concern that the *kiddushin* is binding. The marriage is without legal effect.
 
-### Constitutive vs. Evident…
+### Eidim: Konstitutiv o ראיה
 
 This rule is clear in its practical import, but its conceptual basis is ambiguous. Does the requirement for two witnesses mean that their presence is necessary to *prove* the *kiddushin* occurred — so that if everyone already agrees it happened, one witness might suffice? Or does it mean that the presence of two kosher witnesses is *constitutive* of the *kiddushin* itself — without them, the act simply does not take effect as a *kiddushin*, regardless of how confident everyone is that it occurred? The test case is clear: both parties fully admit that *kiddushin* took place, and one witness corroborates them. We have no factual doubt whatsoever. Is this *kiddushin* binding?
 

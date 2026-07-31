@@ -36,7 +36,7 @@ The *gemara* now introduces a related case, transmitted in the name of *Rav Nach
 
 The *gemara* describes the operative halachic configuration: *zeh be-derech zeh ve-nosei es eruvo be-zeh ve-zeh be-derech zeh ve-nosei es eruvo be-zeh* — courtyard A passes through house one and deposits its *eruv* in house two; courtyard B passes through house three and deposits its *eruv* in house two. *Zeh naasah beis sha'ar le-zeh ve-zeh naasah beis sha'ar le-zeh* — house one becomes a *beis sha'ar* for house two from A's direction, and house three becomes a *beis sha'ar* for house two from B's direction. Since the *eruv* of each courtyard is deposited in house two, house two itself is exempt from contributing, as the established rule is that the house in which the *eruv* is deposited need not itself provide bread. Houses one and three are reclassified as *batei sha'ar*. The result is that none of the three houses must independently contribute to either *eruv*.
 
-### Structural vs. Intentional
+### Structural vs Intentional
 
 Rashi's commentary illuminates a deeper dimension of this case. He indicates that it is possible — indeed part of the *chiddush* — that house two actually has its own independent access. It could be entered directly from outside without passing through house one or house three. If that is so, then house one would not *structurally* have to serve as a gatehouse in the way that houses one through nine did in the previous case. There, the architecture itself forced one house to serve as the only route to another. Here, the access through house one is a matter of deliberate choice in how the *eruv* is deposited.
 
@@ -140,7 +140,7 @@ What the Caesarean scholars said was: relative to the outer square, the inner sq
 
 ---
 
-## Houses vs. Courtyards
+## Houses vs Courtyards
 
 ### Higher Openings OK
 
@@ -166,7 +166,7 @@ Rav Nachman resolves the difficulty: *targemah a-arba al arba* — the *baraita*
 
 The final case of the daf addresses a *lul* — a trapdoor or ceiling opening — between a lower room and an upper story. *Ba'ei minei Rav Abba me-Rav Nachman: lul ha-patuach min ha-bayit la-aliya* — an opening in the ceiling leading from the house up to the attic — *tzarich sulam kavua le-hatiro o ein tzarich sulam kavua le-hatiro?* — does combining these two spaces require that there be a fixed, permanent ladder in place, or is it sufficient without one? Rav Abba frames his question as being about whether a permanent (*kavua*) ladder is necessary, or whether a temporary, movable (*arai*) ladder would suffice.
 
-### Wall vs. Roof
+### Wall vs Roof
 
 Rav Nachman's initial response draws a distinction: *hani mili min ha-tzad* — the principle that a house is considered filled, and therefore openings at any height suffice, applies to openings in a wall, on the side of the space. *Aval be-emtza — lo* — but an opening in the middle of the ceiling is different. A ceiling opening does not carry the same intuitive sense of spatial connection between the two rooms; perhaps for such an opening a ladder would be required.
 

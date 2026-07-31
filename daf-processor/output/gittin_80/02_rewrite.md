@@ -4,7 +4,7 @@
 
 ### Shift in Focus
 
-Today's daf is 80, and we pick up with the *mishna* at the bottom of 79b. Until now, the extended *mishna* — really at least two *mishnayot* joined together — has been occupied with the act of giving the *get*: what constitutes the woman's domain, the man's domain, and the precise mechanics of the act of giving itself, with enormous discussion among the *rishonim* about whether these definitions parallel those of standard *kinyanim* or operate according to independent principles. We have now completely switched gears. The brief *mishna* encountered yesterday about an old *get* — a *get* written before *yichud* — had nothing to do with the act of giving; it introduced the topic of *psulim*, of problems internal to the *get* document itself. That transition marks the character of the current *mishna*, which addresses additional categories of defects in the *get*.
+ Until now, the extended *mishna* — really at least two *mishnayot* joined together — has been occupied with the act of giving the *get*: what constitutes the woman's domain, the man's domain, and the precise mechanics of the act of giving itself, with enormous discussion among the *rishonim* about whether these definitions parallel those of standard *kinyanim* or operate according to independent principles. We have now completely switched gears. The brief *mishna* encountered yesterday about an old *get* — a *get* written before *yichud* — had nothing to do with the act of giving; it introduced the topic of *psulim*, of problems internal to the *get* document itself. That transition marks the character of the current *mishna*, which addresses additional categories of defects in the *get*.
 
 ### Get Yashan Review
 
@@ -28,7 +28,7 @@ The *mishna* continues: *lishum malchus Madai, lishum malchus Yavan* — if the 
 
 Notably, the *mishna* includes two further categories: *u'v'vinyan habayit* and *u'v'churban habayit* — dating by the construction of the *Beit Hamikdash* or by its destruction. These would seem to be purely Jewish, internally religious datings with no political valence at all, yet they too are invalid. It is worth observing that it was precisely these categories — *minyan shtarot* (the Seleucid dating system, which began with the establishment of the Seleucid monarchy in 311 BCE and is what the *mishna* likely means by *malchus Yavan*), *binyan habayit*, and *churban habayit* — that constituted the historically known and commonly used Jewish dating systems. The *mishna* invalidates all of them. The clear implication is that there is no intrinsic prohibition against dating a *get* by these systems; the problem is contextual. In the environment the *mishna* envisions, these datings were simply not the appropriate ones to use.
 
-### Principle: Current Authority
+### Authority Principle
 
 The consistent principle that emerges from all these cases is that a *get* must be dated according to the government and country under which the parties currently live, not by a foreign power, a competing authority, or a dead kingdom. This, as the *gemara* will explain, reflects the requirement of *shalom malchus* — giving proper fealty and acknowledgment to the existing ruling authority. The same logic extends even to one's own Jewish historical datings, since using them instead of the current government's calendar fails to provide that acknowledgment.
 
@@ -80,7 +80,7 @@ Furthermore, *im nitla mizeh umizeh tachzir* — if she was actually given any o
 
 *V'lo zeh v'zeh mitam'im lah* — if she dies and either husband is a *kohen*, he does not become *tamei* to bury her. *V'lo zeh v'zeh zaka'im lo bimtziatah v'lo bima'aseh yadeha v'lo b'hafarat nedareha* — neither husband is entitled to her found objects, her labor, or the right to annul her vows. Here, at least, the husbands too lose something; they have no rights over her, even as she remains legally entangled with both of them.
 
-### Priesthood Disqualification
+### Kohen Daughter Terumah
 
 *Haytah bat Yisrael nifselah min hakehunah* — if she was a *bat Yisrael*, she becomes disqualified from marrying a *kohen*, since she is considered to have committed relations with someone who was not her husband while she was still married — rendering her a *zonah* in the technical sense. The point is somewhat complicated by the fact that the first *get*, even if Rabbinically defective, is technically valid *mide'oraita*, meaning she is already a *gerushah* by Torah law and would in any case be disqualified from *kehunah*. But the additional disqualification follows as a consequence of the adulterous union. *Bat Levi min hama'aser* — a daughter of a Levite loses her right to *ma'aser*, which requires its own analysis in *Yevamot*. *Bat Kohen min hatrumah* — a daughter of a *kohen* loses her right to eat *terumah*, since the verse *v'nitma'ah* is stated three times in connection with a woman who commits adultery, each instance disqualifying her from a different priestly privilege.
 
@@ -98,7 +98,7 @@ Regarding the *mamzeirim*: an important clarification is necessary. The *mamzer*
 
 ## Changing Names
 
-### Mishna Case
+### Mishna Case (II)
 
 The *mishna* continues: *shina shemo u'shmah, shemo u'shemah, o shemo v'shem iro* — if the *get* changed the name of the husband, the wife, or their cities, the same consequences apply and she must leave both men.
 
@@ -126,7 +126,7 @@ The scenario the *mishna* presents: the co-wife, relying on her exemption, went 
 
 The co-wife's situation is that she has been married to her second husband, perhaps for twenty years, in the genuine belief that she was free to do so. Nobody deceived her; she had every legal reason to believe she required neither *chalitzah* nor *yibbum*. Yet retroactively, because the *ailonit* determination voids the original marriage, the co-wife was always *zekukah l'yibbum* — bound to the surviving brother — before she remarried. The prohibition she violated is *lo tihyeh eishet hamet hachutzah le'ish zar*, and the *gemara* understands the resulting child as a *mamzer* according to the position of Rabbi Akiva, who holds that a child born from a union prohibited by a *lav* is a *mamzer*. This may reflect Rabbi Akiva's general position on all *issur lav* relationships, or it may reflect something more specific to *yibbum*, where the status of *zekukah leyibbum* creates a quasi-*kiddushin* bond between the woman and the surviving brother, making her union with another man more analogous to adultery.
 
-### Consequences Apply
+### Consequences Apply (II)
 
 *Tetzei mizeh umizeh v'chol hadrachim ha'elu bah* — she must leave both men and suffers all of the consequences catalogued by Rabbi Meir. The unfairness here is, if anything, more acute than in the *get* cases. At least in those cases one could say the parties should have had expert supervision of the *get* text. Here, the co-wife did everything correctly given the information available to her, and she is still subjected to all these consequences. What she was supposed to do to prevent this is unclear: as one might ask, was the court supposed to wait, however many years it takes, to determine whether the *ervah* was an *ailonit* before permitting the co-wife to remarry? Or should the *ervah* have been brought to perform *chalitzah* just in case — which itself would have entailed disqualifying her from *kehunah* and attendant consequences? The situation is genuinely without good remedy.
 

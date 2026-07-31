@@ -88,7 +88,7 @@ Before proceeding to the resolution, the *gemara* requires clarity on what a *me
 
 This is where a significant *machloket* between Rashi and Tosafot emerges regarding what it means for a tree to stand *al ha'metzar*:
 
-### Rashi: Roots & Fruit Spl…
+### Rashi: Roots & Fruit
 
 Rashi understands that the *metzar* has real physical width, and the trees planted on it may have their roots extending to one side while the trunk and fruit overhang the other. The *gemara*'s case, according to Rashi, involves trees where the roots are on one side of the imaginary borderline within the mound, while the canopy and fruit are on the other. The principle *diley dilakh u'dilakh diley* describes precisely this situation: a tree whose fruit appears to be entirely on one owner's side is in fact nourished by roots drawing from the adjacent field. Rashi's illustration requires two such trees, leaning in opposite directions, to generate the mutual scenario where each owner has trees whose fruit belongs to the other.
 

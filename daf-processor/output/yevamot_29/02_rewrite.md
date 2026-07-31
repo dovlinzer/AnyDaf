@@ -1,6 +1,6 @@
 # Yevamot 29 — Daf Yomi Shiur
 
-## Maamar Status (Beit Sham…
+## Maamar: Beit Shammai View
 
 ### Maamar as Kinyan
 

@@ -146,7 +146,7 @@ This philosophical difference translates directly into practical requirements. S
 
 ---
 
-## Mechitzah Specificat (II)
+## Mechitzah Specifications
 
 ### Height Measurements
 
@@ -162,7 +162,7 @@ This distinction helps explain why *mechitzah* requirements are applied differen
 
 ---
 
-## Egalitarian Paradox (III)
+## Egalitarian Paradox
 
 ### Sisterhood Comment
 
@@ -178,7 +178,7 @@ Beyond height and opacity, the question of placement is also significant. A *mec
 
 ---
 
-## Egalitarian Paradox (III)
+## Egalitarian Paradox (II)
 
 ### Leadership Challenge
 

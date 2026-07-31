@@ -56,7 +56,7 @@ The Gemara asks why both cases are necessary — could one not be derived from t
 
 ---
 
-## Heirs & Non-Transmissibl…
+## Heirs, Debts & Sh'vuot
 
 ### Heirs Collecting Basics
 
@@ -96,7 +96,7 @@ The Gemara notes an apparent tension with Rav Nachman's own ruling in the case w
 
 ---
 
-## Proofs Against Rav & (II)
+## Rav & Shmuel: Heirs Oaths
 
 ### Widow/Ketubah Case
 
@@ -120,7 +120,7 @@ Rav Yosef deflects: *ha mani Beis Shamai he* — this *beraita* follows the view
 
 ---
 
-## Rav Nachman's Compro (II)
+## Rav Nachman's Compromise
 
 ### Rav Nachman's Visit
 
@@ -166,7 +166,7 @@ Rav Chama states the bottom line directly: *hashta de-lo itmar hilchasa lo ke-Ra
 
 Rav Pappa translates this into a practical instruction for handling a *shtar* caught in this uncertainty — a debt document where the *loveh* died first, the *malveh* then died, and the heirs now hold the *shtar*. *Lo mikra karinan lei ve-lo agvoyi magbinan bei* — we do not tear up the document, and we do not use it to collect. We do not tear it up because a judge who rules like Rav Elazar would permit collection on it, and we have no authority to preemptively destroy a potentially valid claim. We do not allow collection on it because a judge who rules like Rav and Shmuel would deny it, and we cannot ignore their weight. The document exists in a state of legal suspension, its fate determined by whichever court the heirs choose to approach.
 
-### Judge's Discretion Prote…
+### Judge's Discretion
 
 A judge who ruled like Rav Elazar faced pressure when a *talmid chacham* threatened to obtain a letter from *Eretz Yisrael* — ironically, since the *Eretz Yisrael* authorities had generally been more sympathetic to the heirs' right to collect — establishing that the ruling was impermissible. The judge was told: *le-chi teisi shkayach* — come back to me when you have the letter; don't bother me until then. When the matter was brought before Rav Chama, he confirmed: *hai dayna de-avad ke-Rabbi Eliezer avad* — the judge was fully within his authority. A ruling in favor of Rav Elazar cannot be invalidated by external pressure or correspondence.
 

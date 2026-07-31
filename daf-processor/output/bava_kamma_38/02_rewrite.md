@@ -60,7 +60,7 @@ The reading is as follows: God measured the earth — meaning He assessed the mo
 
 This raises an important question about the scope of *hitir mamonam l'Yisrael* — rendering their money permissible. Does this mean outright license to steal from non-Jews? Tosafot is explicit that the *peshat* of this *sugya* gives no such license. The permission operates specifically within the domain of damage law — the question of whether one is obligated to pay or entitled to demand compensation — not as a general authorization for theft. Indeed, Tosafot notes that according to the position that *gezel nochri assur* — stealing from a non-Jew is forbidden — one understands immediately why a special *pasuk* is needed here and why its application is limited to these damage cases. According to the opposing position that theft from non-Jews is permitted, the *pasuk* would be superfluous — which is itself a difficulty.
 
-### Rav Abbahu & Sheva Mitzv…
+### Rav Abbahu: Sheva Mitzvot
 
 Rav Abbahu derives the same rule from a different verse: *v'hofia me-Har Paran* — God revealed Himself from Mount Paran (Devarim 33:2). On Rashi's reading, this refers to the tradition that God offered the *Torah* to the nations at *Har Paran* and they refused — specifically because it contained prohibitions against violence and theft. The nations' refusal to accept the *Torah* demonstrates not merely that they declined additional obligations, but that they were unwilling to accept even the basic moral law. It is this that rendered their property permissible.
 

@@ -66,7 +66,7 @@ The *tanna kamma* holds *ktanah l'shchivah*: a small mat, when its purpose is un
 
 Rabbi Eliezer holds *stam ktanah nami l'sichuch*: even a small mat, when its purpose is unstated, is assumed to be made for roofing. Rabbi Eliezer therefore comes to teach that whether small or large, the default is permissible; only explicit designation *l'shchivah* creates a problem.
 
-### L'sichuch Reinterpretati…
+### L'sichuch: Beyond Roofing
 
 This reading requires a subtle but important reinterpretation of the word *l'sichuch* as it appears in the Mishnah. On Rava's reading, when the Mishnah says "if made *l'sichuch*, one may use it for *s'chach*," the phrase *l'sichuch* does not mean literally that it must have been expressly designated for roofing. Rather, it means everything other than *l'shchivah* — any purpose other than explicit reclining counts. The *tanna kamma* is saying: for a *gedolah*, the only thing that creates a problem is explicit *l'shchivah*; everything else is treated as though it were made for roofing, and the mat is permitted. The *stama* of a *gedolah* is thus good, and the *stama* of a *ktanah* is implicitly not good under the *tanna kamma*'s position. Rabbi Eliezer then comes and says: whether *gedolah* or *ktanah*, the rule is the same — only explicit *l'shchivah* disqualifies.
 

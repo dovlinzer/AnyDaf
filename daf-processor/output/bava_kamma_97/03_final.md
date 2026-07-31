@@ -1,4 +1,5 @@
 # Bava Kamma 97 — Daf Yomi Shiur
+[DAF:97a]
 
 ## Shinui & Gezeila Framework
 
@@ -286,6 +287,7 @@ This is the key conceptual distinction. The category of damage that triggers the
 
 ## Old Currency Repayment
 
+[DAF:97b]
 ### Loan Setup
 
 > **Hebrew/Aramaic:** אִיתְּמַר: הַמַּלְוֶה אֶת חֲבֵירוֹ עַל הַמַּטְבֵּעַ, וְנִפְסַל הַמַּטְבֵּעַ, רַב אָמַר: נוֹתֵן לוֹ מַטְבֵּעַ הַיּוֹצֵא בְּאוֹתָהּ שָׁעָה.

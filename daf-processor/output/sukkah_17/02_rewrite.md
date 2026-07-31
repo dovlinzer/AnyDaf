@@ -1,6 +1,6 @@
 # Sukkah 17 — Daf Yomi Shiur
 
-## Schach Distance & Gud As…
+## Schach Distance & Gud
 
 ### Three Tefachim Air Gap
 

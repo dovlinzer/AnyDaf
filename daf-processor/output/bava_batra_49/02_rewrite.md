@@ -8,7 +8,7 @@ The daf opens by returning to the closing lines of 48b, where the *sugya* of *ta
 
 The Gemara now poses a challenge — *eini*, is that really true? — in the context of two *shtarot* bearing the same witnesses. One was a *shtar mecher*, a bill of sale; the other was a *shtar moda'ah*, a pre-existing declaration of coercion. A *moda'ah* is testimony given by the seller himself, before witnesses, that he is acting under compulsion. When such a document is signed and dated prior to the *shtar mecher*, it neutralizes the sale — because even though money changed hands, the *moda'ah* establishes that the seller never genuinely consented. The principle of *talyuhu vezavin*, in the absence of a *moda'ah*, would have validated the sale; the *moda'ah* undoes that.
 
-### Rav Nachman: No Retracti…
+### Rav Nachman: No Retract
 
 The challenge the Gemara raises is this: can the same witnesses who signed the *shtar mecher* now come forward and declare verbally that a *moda'ah* had been issued — thereby undermining the very document they authenticated?
 
@@ -42,7 +42,7 @@ A question was raised in the course of this discussion about an analogous scenar
 
 ## Husband No Chazaka
 
-### Nikhsei Tzon Barzel & Mi…
+### Tzon Barzel & Milog
 
 The Mishnah now introduces a new section: *ve-habba'al ein lo chazaka be-nikhsei ishto* — a husband does not acquire *chazaka* in his wife's property. To understand this ruling, it is necessary to recall the two categories of property a wife brings into the marriage.
 
@@ -76,7 +76,7 @@ This principle also supports the discussion of *matnat shechiv mera*: a deathbed
 
 ---
 
-## Marital Reciprocity & Ai…
+## Marital Obligations Aik
 
 ### Aikkar Mezonot
 
@@ -86,7 +86,7 @@ This ruling makes sense only against the background of a central structural ques
 
 The conclusion is that *mezonot* is the *ikar*. The primary concern of the Sages was to ensure that the wife is provided for. Having secured that, they awarded the husband her earnings as a fair counterpart. Because the wife is the designated beneficiary of the core arrangement, she has standing to declare *iy efshi be-takanas chachamim* — I do not want this enactment to apply to me. And if she does so, she keeps her earnings, and the husband is released from his *mezonot* obligation.
 
-### Kolech Rider & Shared As…
+### Kolech Rider & Assets
 
 This ruling has direct contemporary relevance. In Israel, when a marriage dissolves, the case may be adjudicated in a *beit din* rather than a secular civil court (*beit mishpat*). The *beit din* can use the *ketubah* framework as its basis for dividing assets. This creates a potential problem: if the wife was the primary earner throughout the marriage, a *beit din* might rule that all her earnings belong to the husband in exchange for the *mezonot* he provided — even if that *mezonot* was modest relative to her income.
 
@@ -96,11 +96,11 @@ To address this, the organization Kolech developed a rider to the *ketubah*. The
 
 Every one of the *tnai ketubah* — the ongoing obligations embedded in the *ketubah* — exhibits a structure of reciprocity: one party receives a benefit, and in exchange undertakes a corresponding obligation. *Mezonot* is given to the wife; *maaseh yadayim* goes to the husband. The question now is: what does the wife receive in exchange for the husband's entitlement to *achilat peirot* from her *nikhsei milog*?
 
-The answer is *pidyon shvuyim* — the obligation of the husband to redeem his wife if she is taken captive. The asymmetry here is striking. The husband eats *peirot* regularly over the course of the marriage, while the scenario of captivity may never arise — and if it does, the cost of redemption could be enormous. The lecturer offers the analogy of catastrophic insurance: the *peirot* consumed annually function as the premiums paid into an insurance policy, the payout of which is the wife's redemption. The premiums may never be recovered in the form of a claim, but that is the nature of insurance. The husband pays his "premium" — the fruits he enjoys — and in exchange the policy exists: if his wife is ever taken captive, regardless of the cost, he must redeem her.
+The answer is *pidyon shvuyim* — the obligation of the husband to redeem his wife if she is taken captive. The asymmetry here is striking. The husband eats *peirot* regularly over the course of the marriage, while the scenario of captivity may never arise — and if it does, the cost of redemption could be enormous. Consider the analogy of catastrophic insurance: the *peirot* consumed annually function as the premiums paid into an insurance policy, the payout of which is the wife's redemption. The premiums may never be recovered in the form of a claim, but that is the nature of insurance. The husband pays his "premium" — the fruits he enjoys — and in exchange the policy exists: if his wife is ever taken captive, regardless of the cost, he must redeem her.
 
 Captivity was not a far-fetched scenario in the world of the *gemara*. The Mishnah deals extensively with *pidyon shvuyim*, and in many parts of the world the kidnapping of travelers and businesspeople remained a realistic threat into relatively recent times. The obligation reflects not a theoretical concern but a genuine social reality.
 
-### Tosafot Redemption Oblig…
+### Tosafot: Redemption
 
 The Gemara's framing appears to presuppose that if the husband waives his right to *achilat peirot*, he thereby also frees himself from the obligation to redeem his wife, since the reciprocal exchange that gave rise to that obligation no longer applies. Tosafot, however, seriously challenges this inference.
 

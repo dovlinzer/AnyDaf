@@ -1,4 +1,5 @@
 # Ketubot 90 — Daf Yomi Shiur
+[DAF:90a]
 
 ## Multiple Documents
 
@@ -228,6 +229,7 @@ The third inference: *kesubas benin dichrin lo tarfei mi-meshabdei* — heirs co
 
 The *Gemara* derives this from the structure of the *mishnah*. If Rachel's children were collecting as creditors — as the delayed collection of their mother's unpaid *ketubah* — then, because Rachel's *ketubah* predates Leah's *ketubah* in time, Rachel's children would have first priority even over Leah's children. A creditor with earlier liens collects before a creditor with later liens. But the *mishnah* rules that Leah's children come *first*. The only way to reconcile this is to conclude that Rachel's children are not creditors at all — they are *heirs*, receiving under the Rabbinic institution of *kesubas benin dichrin*. Since they are heirs rather than creditors, they cannot reach encumbered property, and when creditors (like Leah's heirs) compete with heirs, the creditors win.
 
+[DAF:90b]
 ### Rav Ashi Challenge
 
 > **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב אָשֵׁי: מִמַּאי? דִּלְמָא לְעוֹלָם אֵימָא לָךְ אַחַת בְּחַיָּיו וְאַחַת בְּמוֹתוֹ אֵין לָהֶן כְּתוּבַּת בְּנִין דִּכְרִין, וּמַאי ״קוֹדְמִין״ — לְנַחֲלָה קָתָנֵי. וְכִי תֵּימָא: ״יוֹרְשֵׁי הָרִאשׁוֹנָה״ לְמָה לִי? אַיְּידֵי דִּתְנָא ״שְׁנִיָּה וְיוֹרְשֶׁיהָ״, תְּנָא נָמֵי ״לְיוֹרְשֵׁי הָרִאשׁוֹנָה״. וּדְקָאָמְרַתְּ: כְּתוּבָּה נַעֲשֵׂית מוֹתָר לַחֲבֶרְתָּהּ — דִּלְמָא לְעוֹלָם אֵימָא לָךְ: אֵין כְּתוּבָּה נַעֲשֵׂית מוֹתָר לַחֲבֶרְתָּהּ, וְהָכָא הוּא דְּאִיכָּא מוֹתַר דִּינָר.

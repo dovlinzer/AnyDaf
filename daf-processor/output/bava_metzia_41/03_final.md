@@ -1,4 +1,5 @@
 # Bava Metzia 41 — Daf Yomi Shiur
+[DAF:41a]
 
 ## Dross & Lees
 
@@ -184,6 +185,7 @@ The Gemara now articulates the debate directly. *Chad amar shlichut yad tzericha
 
 It is worth noting that *shlichus yad* as a legal category applies specifically in the context of *shomrim*. *Gazel*, *mazik*, and *sho'el she-lo mida'as* can arise with respect to any object, regardless of any prior custodial relationship. *Shlichus yad* is a specific violation of one's responsibilities as a *shomer*, transforming the guardian into something closer to a *gazlan* with respect to the object in his charge.
 
+[DAF:41b]
 ### No Chisaron
 
 > **Hebrew/Aramaic:** אִיתְּמַר רַב וְלֵוִי. חַד אָמַר: שְׁלִיחוּת יָד צְרִיכָה חֶסְרוֹן, וְחַד אָמַר: שְׁלִיחוּת יָד אֵינָהּ צְרִיכָה חֶסְרוֹן. תִּסְתַּיֵּים דְּרַב הוּא דְּאָמַר שְׁלִיחוּת יָד אֵינָהּ צְרִיכָה חֶסְרוֹן, דְּתַנְיָא: רוֹעֶה שֶׁהָיָה רוֹעֶה עֶדְרוֹ, וְהִנִּיחַ עֶדְרוֹ וּבָא לָעִיר, וּבָא זְאֵב וְטָרַף וּבָא אֲרִי וְדָרַס – פָּטוּר. הִנִּיחַ מַקְלוֹ וְתַרְמִילוֹ עָלֶיהָ – חַיָּיב.

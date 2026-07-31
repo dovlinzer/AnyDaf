@@ -1,4 +1,5 @@
 # Yevamot 22 — Daf Yomi Shiur
+[DAF:22a]
 
 ## Great-Aunts & Sixteen
 
@@ -212,6 +213,7 @@ The *mishnah* further states that the *mamzer* brother is considered a full brot
 
 The second application requires elaboration. One might have thought to exclude it based on the verse *ki im l'she'ero ha-karov eilav* — a *kohen* renders himself *tamei* only for close flesh — and the teaching that *she'ero* refers to one's wife. Since a *kohen* does not render himself *tamei* for a wife who is a *grusha*, one might analogize: just as the *kohen* is not *metamei* for a wife of disqualified status, so too he should not be *metamei* for a brother of disqualified status such as a *mamzer*.
 
+[DAF:22b]
 ### Kashering Parallel
 
 > **Hebrew/Aramaic:** פְּשִׁיטָא, אָחִיו הוּא! סָלְקָא דַּעְתָּךְ אָמֵינָא: הוֹאִיל וּכְתִיב: ״כִּי אִם לִשְׁאֵרוֹ הַקָּרוֹב אֵלָיו״, וְאָמַר מָר: ״שְׁאֵרוֹ״ — זוֹ אִשְׁתּוֹ, וּכְתִיב: ״לֹא יִטַּמָּא בַּעַל בְּעַמָּיו לְהֵחַלּוֹ״, יֵשׁ בַּעַל שֶׁמִּטַּמֵּא וְיֵשׁ בַּעַל שֶׁאֵין מִטַּמֵּא, הָא כֵּיצַד? מִטַּמֵּא הוּא לְאִשְׁתּוֹ כְּשֵׁרָה, וְאֵין מִטַּמֵּא לְאִשְׁתּוֹ פְּסוּלָה, הָכִי נָמֵי: מִטַּמֵּא הוּא לְאָח כָּשֵׁר, וְאֵין מִטַּמֵּא לְאָח פְּסוּל — קָא מַשְׁמַע לַן. וְאֵימָא הָכִי נָמֵי? הָתָם לְאַפּוֹקֵי קָיְימָא, הָכָא אָחִיו הוּא.

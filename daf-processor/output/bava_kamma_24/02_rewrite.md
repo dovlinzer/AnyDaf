@@ -132,7 +132,7 @@ Rav Ashi offers a resolution: *ke-she-ba'u retzufim* — the case of *edim zomem
 
 ---
 
-## Friend's Animal Inciteme…
+## Animal Incitement
 
 ### Third-Party Attack
 
@@ -202,7 +202,7 @@ The distinction Rava draws is conceptually precise: *ki it lach reshuta lisgu'ei
 
 The next *mishna* addresses the rates of payment owed when an animal causes damage in the *reshut ha-nizak* — the victim's private property. The *mishna* enumerates the relevant types of damage: *nagach, nagaf, nashach, ravatz, ba'at* — goring, pushing, biting, sitting on something, or kicking — and notes that when such damage occurs in *reshut ha-rabim*, the owner of a *tam* animal pays *chatzi nezek*.
 
-### Rabbi Tarfon vs. Chacham…
+### Tarfon vs. Chachamim
 
 The *machlokes* is over what happens when a *tam* animal causes *keren* damage in the *reshut ha-nizak*. Rabbi Tarfon holds that the owner pays *nezek shalem* — full damages — because the logic that reduces liability to *chatzi nezek* in *reshut ha-rabim* does not apply when the animal has trespassed onto the victim's property. The *chachamim* hold that *keren tam* always pays only *chatzi nezek*, regardless of domain — it is simply the *Torah*'s rule.
 

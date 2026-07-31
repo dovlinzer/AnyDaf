@@ -34,7 +34,7 @@ The Rashbam reads the progression in the opposite direction: even if we assume b
 
 A student raised the question of whether *hedkesh* is a special case because, unlike a gift to the poor or a declaration of *hefker*, sanctification takes effect through speech alone, much as the *shchiv mera*'s words themselves effect a transfer. In response, it was noted that *hefker* similarly takes effect through speech, and that the entire force of *divrei shchiv mera* is precisely that his words function like an act of *kinyan* — so the distinction does not ultimately change the analysis in a clean way. A further version of these questions is cited more tersely — *hikdish kol nechasav mahu, hifkir kol nechasav mahu, chilek kol nechasav la'aniyim mahu, teiku* — and while it omits the arguments on each side, the fuller version better conveys the reasoning. What emerges from the discussion, in any case, is that *divrei shchiv mera* have legal force even in these unusual contexts — *hedkesh*, *hefker*, and gifts to the poor — sufficient to raise the question of whether the full transfer has been effected.
 
-## Gift vs. Inheritance Lan…
+## Matnat Shchiv Mera: Gift
 
 ### Valid Gift Terms
 
@@ -50,7 +50,7 @@ The Gemara qualifies the *baraita*'s ruling: *bera'uy leyorsho Rabbi Yochanan be
 
 This does not, however, close the question of whether we conceptualize the legal impact of *matnat shchiv mera* as ultimately resembling a *yerushah* or a *matanah*. The language required is that of *matanah*; but the structure of its effects, as we have already begun to see and will continue to see, has features that align with *yerushah*. It is a genuine hybrid. The distinction matters practically as well — a student noted that in many legal systems gifts and inheritances are taxed differently, and within halakha the rights of a widow and daughters to the estate differ depending on whether property was gifted, sold, or transmitted through inheritance.
 
-## Ambiguous Benefit Langua…
+## Unclear Benefits
 
 ### Yehana Bahen Question
 

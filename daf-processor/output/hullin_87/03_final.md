@@ -1,4 +1,5 @@
 # Hullin 87 — Daf Yomi Shiur
+[DAF:87a]
 
 ## Chaya & Oph Coverage
 
@@ -234,6 +235,7 @@ Rav Pappa draws the decisive distinction: from this case we learn that the princ
 
 ---
 
+[DAF:87b]
 ## Blood Mixtures
 
 ### Blood & Water
@@ -248,6 +250,7 @@ The Mishnah deals with blood mixed with various liquids. The first case: blood m
 
 The next case: blood mixed with wine. Since both are red, one cannot simply observe color. The rule is one imagines the wine as if it were water and asks: would the blood still look like blood in that water? If yes, one must cover. If the dilution would be sufficient to render it not blood-looking, one need not cover.
 
+[DAF:87b]
 ### Blood Mixtures
 
 > **Hebrew/Aramaic:** אוֹ בְּדַם הַחַיָּה – רוֹאִין אוֹתוֹ כְּאִילּוּ הֵן מַיִם. רַבִּי יְהוּדָה אוֹמֵר: אֵין דָּם מְבַטֵּל דָּם.

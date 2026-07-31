@@ -14,13 +14,13 @@ Along the way, however, the *gemara* had entertained another approach: the appar
 
 That individual was the relatively obscure *tanna* Rabbi Shimon ben Meshulma, whose name surfaced in a *braita* in connection with matters of *avodah*. The structure of the argument — a contradiction touching on Temple service, resolved by ascribing an entire *masechet* to one *tanna* — now serves as the template for the *sugya* we are entering.
 
-## Shechita Location Contra…
+## Tamid vs Middot Shechita
 
 ### Two Chamber Locations
 
 The new *sugya* is only formally connected to *Yoma*; it is not about *Yom Kippur* or the daily *avodah* in a direct sense. The connection is structural: just as we resolved the *ketoret*/*nerot* tension by assigning *Masechet Tamid* to a single author, the *gemara* now applies the same analytical move to a contradiction between *Masechet Tamid* and *Masechet Middot*. The contradiction concerns the location of the *shechita* chamber within the *beit hamoked* — that large hall where fires were kept burning so that priests who had immersed could warm themselves. *Masechet Tamid* mentions the chamber used for slaughtering *korbanot* in one location within the *beit hamoked*, while another *mishnah* in *Tamid* places it in a different chamber entirely.
 
-### Rabbi Eliezer ben Yaakov…
+### R. Eliezer ben Yaakov
 
 The *gemara*'s resolution is to ascribe all of the *mishnayot* of both *Masechet Tamid* and *Masechet Middot* to a single *tanna*: Rabbi Eliezer ben Yaakov.
 
@@ -68,7 +68,7 @@ Finally, from the area beyond the *mizbeach* — moving through the *ezrat kohan
 
 This calculation creates an apparent difficulty for the passage we are analyzing. The *mishnah* in *Middot* states that the eastern wall was specifically kept low so that the *kohen* on *Har HaMishcha* could see the *heichal* opening. But if the total accumulated rise is only nineteen and a half *amot* and the doorways are twenty *amot* tall, then even with a wall of normal height, he ought to be able to see at least the bottom half-*amah* of the opening. Why, then, was a specially low wall necessary?
 
-## Middot Attribution P (II)
+## Middot Attribution Proof
 
 ### Challenge to Rabbanan
 
@@ -98,7 +98,7 @@ The *gemara* states this explicitly: *ee amrat bishlama Rabbi Eliezer ben Yaakov
 
 At this point, Rav Adda bar Ahava offers an alternative: *ha mani Rabbi Yehuda hi* — perhaps the *stam* of *Masechet Middot* follows the view of Rabbi Yehuda, not Rabbi Eliezer ben Yaakov. Under this reading, Rabbi Yehuda would be the one who provides the reason why the eastern wall had to be low, and it would have nothing to do with an additional rise before the *ulam*.
 
-### Mizbeach Centered Positi…
+### Mizbeach Centered Azarah
 
 Rabbi Yehuda's relevant opinion is found in a *braita*: *hamizbe'ach memutza ve-omed be-emtza azara* — the *mizbeach* was positioned exactly at the midpoint of the *azarah*. This stands in contrast to the arrangement we may assume from other sources, where the *mizbeach* was somewhat off-center. Rabbi Yehuda insists it was precisely centered.
 
@@ -110,7 +110,7 @@ Now, if the *mizbeach* was exactly centered in the *azarah* north-to-south — a
 
 Why does this matter for the *kohen* on *Har HaMishcha*? Because the *mizbeach* was nine *amot* tall. If the *kohen* is looking straight through the succession of eastern gates toward the *heichal*, and the *mizbeach* stands directly in his line of sight — centered precisely opposite the *heichal* doorway — then it constitutes a nine-*amah*-tall obstruction directly in his path. Even though the rise from the outer eastern wall to the floor of the *azarah* near the *mizbeach* is only about six *amot*, the *mizbeach* itself rises an additional nine *amot* above that floor, placing its top fifteen *amot* above the baseline. The *kohen*'s horizontal line of sight — aimed at the *heichal* doorway, which begins nineteen and a half *amot* above the baseline — would have to clear the *mizbeach*'s nine-*amah* summit. In fact, with the *mizbeach* centered directly in front of the *heichal*, the obstruction is unavoidable from a straight horizontal sightline at wall level. Hence, the eastern wall needed to be low: if it is low, the *kohen* can stand at a higher elevation on *Har HaMishcha*, adjust his line of sight upward enough to clear the *mizbeach*, and still see the *heichal* opening beyond it.
 
-### Mizbeach Height Blocks V…
+### Mizbeach Height Blocks
 
 To be precise: a low wall does not resolve an obstruction by removing the obstruction itself. Rather, lowering the wall allows the *kohen* to stand higher in relation to the top of the wall, so that instead of being constrained to look through the gate opening at a fixed height, he can look from a slightly elevated vantage on *Har HaMishcha* and sight over both the outer wall and the *mizbeach* to the *heichal* beyond. If the outer wall were very high, the *kohen* would be forced to look at a very steep downward angle from whatever height on *Har HaMishcha* would allow him to see over it, and at that angle the *heichal* opening would not be directly in view. With a low wall, he can choose a gentler angle that clears the *mizbeach* and reaches the *heichal* door.
 

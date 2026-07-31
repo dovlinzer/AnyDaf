@@ -24,7 +24,7 @@ The *mishnah* records a dispute about leather flasks (*nodot*) and pottery vesse
 
 The *braisa* continues: if a non-Jew applies the pitch lining and also pours wine into the flask — which was apparently standard practice to season the pitch and neutralize its bad taste — and a Jew is observing, one need not be concerned. The *gemara* immediately asks: if the non-Jew is the one pouring in the wine, what difference does it make that a Jew is watching? It is still the non-Jew pouring wine, which ought to render it *yayin nesech*.
 
-### Rav Papa's Reinterpretat…
+### Rav Papa: Wine & Tar Case
 
 Rav Papa resolves this by reinterpreting the *braisa*: the non-Jew applies the pitch, but it is the Jew who pours in the wine. And it is yet another Jew who stands and observes. Now the *gemara* asks again: if a Jew is the one pouring in the wine, why does he need a second Jew to observe? The answer is *dilma agav tirdei minaseich velav adaitei* — perhaps, because the Jew pouring is occupied and focused on his professional task of adding the wine at precisely the right moment during the pitch application, he is not paying close attention to the non-Jew's movements. The non-Jew might exploit that distraction to touch or sprinkle the wine in a manner constituting *nisuch*. A second Jew stands watch specifically to prevent that. This is a re-reading of the *braisa*, but it resolves the difficulty.
 
@@ -74,7 +74,7 @@ Rav Ashi replied: *lo shena nodot velo shena kankanin* — there is no distincti
 
 *Tanu rabbanan*: pottery vessels (*kankanin*) of non-Jews — if they are new and untarred (*chadashim grudim*), they are permitted, as brief use has not resulted in meaningful absorption. If they are old (*yeshanim*) or tarred (*mezufafim*) — Rashi reads these as alternative conditions rather than cumulative — they are forbidden. Old vessels have had time to absorb; tarred ones present additional absorption through the porous pitch lining.
 
-### Non-Jew Wine, Jewish Wat…
+### Non-Jew Wine, Jew Water
 
 If a non-Jew has used such a vessel for wine and a Jew then fills it with water, the vessel is *kashered*. Rashi reads this as a reference to the three-day water process described earlier — *noten letochan mayim* does not by itself specify the full procedure, but that is how Rashi understands the *braisa*. This passage also explicitly addresses earthenware pottery vessels, providing confirmation that the water method applies to them as well, which had been the subject of Rav Acha's question above.
 

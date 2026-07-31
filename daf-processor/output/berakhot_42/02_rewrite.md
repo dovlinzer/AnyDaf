@@ -118,7 +118,7 @@ The *netilat yadayim* in question, in this context, is understood as referring t
 
 The Gemara adds that Abaye proposes a fourth *tachef*: *tachef letalmidei chachamim bracha* — a blessing follows immediately in the wake of *talmidei chachamim*, as attested by the verse *vayivarcheni Hashem biglalecha* — God blessed me on your account, what Laban said to Yaakov. Or alternatively from the verse *vayevarech Hashem et beit hamitzri biglal Yosef* — God blessed the Egyptian household on account of Yosef. The cases of Yaakov and Yosef are being invoked as illustrations of the *talmid chacham* whose proximity brings blessing, though it is noted that *tzaddikim* and *talmidei chachamim* are perhaps different categories.
 
-### Mayim Acharonim and Birc…
+### Mayim Acharonim & Birchat
 
 Tosafot raises a difficulty with the picture the Gemara presents: we have a practice to leave bread on the table before *bensching*, which seems to conflict with an expectation that the table would be removed. Tosafot resolves this by noting that the practice of removing personal trays applied in Talmudic times, whereas today we remove plates but maintain the bread on the table. This distinction also bears on the question of how Tosafot conceptualizes the status of the *afikoman* at the *Seder*: since *halacha* demands that the *afikoman* be eaten, it is as if one is *someich al da'at hahalacha*, and the meal cannot be considered truly concluded until the *afikoman* has been consumed — even if one has otherwise performed *siluk hashulchan*. A halachically mandated eating, by this logic, extends the parameters of the meal.
 
@@ -174,7 +174,7 @@ Conversely, Rav Yitzchak visited Abaye on *Yom Tov* and recited a separate *brac
 
 ## During vs After
 
-### Question Posed
+### Question Posed (II)
 
 The Gemara raises a further question. The *Mishna* established that wine during the meal and wine after the meal operate differently in terms of who recites the *bracha*. This raises the question: *ba'u lahem yayin betoch hamazon mah she-yiftar hayayin sheleachar hamazon* — can the *bracha* of *borei pri hagafen* recited on wine during the meal serve to exempt the wine drunk after the meal? The question is not simply about *da'as* — whether one had the later wine in mind — but may involve a categorical difference between the two types of drinking. Wine during the meal is consumed incidentally, to wash down food; wine after the meal is drunk for its own sake, as a drinking occasion. If these are qualitatively distinct categories, then no amount of advance intent may suffice to connect them.
 
@@ -196,7 +196,7 @@ The normative ruling follows those who hold that wine during and wine after are 
 
 The *Mishna*'s statement that *hamotzi* covers the *parperes* but not vice versa reflects a structural asymmetry. Bread is the foundation of the meal and is sufficiently significant to extend its *bracha* over lesser items. The *parperes*, even if it technically falls in the *hamotzi* category according to Tosafot, does not carry enough weight to exempt real bread. The two are qualitatively ordered.
 
-### Beit Shammai
+### Beit Shammai (II)
 
 The Gemara now turns to the disputed statement of Beit Shammai: *af lo ma'aseh kedeirah* — even cooked foods, such as porridge or stew. The question is whether Beit Shammai is disputing the first clause of the *Mishna* — that *hamotzi* covers the *parperes* — or the second clause — that *parperes* does not cover bread.
 
@@ -206,7 +206,7 @@ The Gemara concludes with *teiku* — the question is left unresolved. Practical
 
 ## Keviat Seudah
 
-### Sitting Position
+### Sitting Position (II)
 
 Returning to the *Mishna*'s rule of *hayu yoshvin kol echad mevarech le'atzmo / heseivu echad mevarech lekulan*, the Gemara formulates this as: *haseibu in lo haseibu lo* — it is specifically *haseibah* that creates the group; without it, even eating together does not suffice.
 

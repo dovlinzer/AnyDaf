@@ -12,7 +12,7 @@ The *gemara* had considered whether a parallel middle position might exist for *
 
 With that discussion resolved, the *gemara* pivots back to examine the *erchin* discussion more carefully. On 62a, the *gemara* asks: *ei hachi, ish ki yafli neder be-erkecha be-erchin lama li?* — given what was just established, why does the *Torah* need the word *ish* to include non-Jews partially in *erchin*? The *gemara* notes that *erchin* is explicitly linked to *nedarim*: the very *pasuk* that establishes *erchin* — *ish ki yafli neder be-erkecha* — frames an *erech* vow as a type of *neder*. And regarding *nedarim* generally, a separate principle already establishes the inclusion of non-Jews.
 
-### Non-Jews as Subject/Obje…
+### Non-Jews & Erchin
 
 The *baraita* cited is from Vayikra 22, where the *pasuk* reads: *ish ish mibeit Yisrael u'min hager b'Yisrael asher yakriv korbano l'chol nidreihem u'l'chol nidvotam asher yakrivu l'Hashem l'olah*. The double expression *ish ish* is interpreted as *lerabbot et ha-ovdei kochavim she-nodrim nedarim u-nedavot ke-Yisrael* — to include non-Jews who take vows and make free-will offerings like Israel, with the scope of that inclusion being *l'olah*, that is, *korbanot* of the free-will type. This encompasses not only animal offerings but vows of monetary gifts to the *beit hamikdash* and, by extension, *erchin* vows. Since non-Jews are already included in the *parsha* of *nedarim*, and *erchin* is a type of *neder*, they are already implicitly included in *erchin* — making the word *ish* in the *erchin pasuk* apparently redundant.
 
@@ -130,7 +130,7 @@ This distinction is important: what the master exercises is a power of override 
 
 If the slave is subsequently freed, the full *nezirut* becomes binding upon him: *yatza le-cherut mashlim neziruto*. The *mishnah* states this, and the *gemara* will develop it further.
 
-## Override Nezirut, Not Ne…
+## Override Nezirut Not Ned
 
 ### Comparative Power
 

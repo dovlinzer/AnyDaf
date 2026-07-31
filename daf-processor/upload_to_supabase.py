@@ -287,12 +287,23 @@ def build_section_rows(tractate: str, daf: float, job_dir: Path) -> List[dict]:
 
     seg = load_segmentation(job_dir / PASS_FILES["segmentation"])
     macros = seg.get("macro_segments", []) if seg else []
-    macro_by_title = {m["title"].strip().lower(): m for m in macros}
+    # Section headers in the .md files are display_title values (apply_display_titles.py
+    # normalises them so the essay heading matches the app's navigation pill), NOT the
+    # segmentation's full `title`. Keying this lookup on `title` alone matched 0 of 19,378
+    # macros and 0 of 79,507 micros corpus-wide — macros silently survived on the positional
+    # fallback below, but micros had no fallback and lost their timestamp entirely. Index
+    # both labels so either convention resolves.
+    macro_by_title: dict = {}
+    for m in macros:
+        for key in (m.get("display_title", ""), m.get("title", "")):
+            if key.strip():
+                macro_by_title.setdefault(key.strip().lower(), m)
 
     rows: List[dict] = []
     segment_index = 0
     macro_section_pos = 0
     macro_info: dict = {}  # title → (segment_index, segmentation_dict)
+    micro_pos_in_macro: dict = {}  # parent title → next micro position (fallback)
 
     for section in sections:
         level = section["level"]
@@ -315,11 +326,20 @@ def build_section_rows(tractate: str, daf: float, job_dir: Path) -> List[dict]:
             ts_secs = None
             if parent_seg_match:
                 micros = parent_seg_match.get("micro_segments", [])
+                # Match on either label (see macro_by_title note above), then fall back to
+                # position within this macro — mirroring what the macro branch already does.
+                # Without the fallback a label mismatch silently produced a NULL timestamp.
                 micro_match = next(
                     (m for m in micros
-                     if m["title"].strip().lower() == title.strip().lower()),
+                     if title.strip().lower() in (m.get("display_title", "").strip().lower(),
+                                                  m.get("title", "").strip().lower())),
                     None,
                 )
+                if micro_match is None:
+                    pos = micro_pos_in_macro.get(parent_title, 0)
+                    if pos < len(micros):
+                        micro_match = micros[pos]
+                micro_pos_in_macro[parent_title] = micro_pos_in_macro.get(parent_title, 0) + 1
                 if micro_match:
                     ts_str  = micro_match.get("timestamp")
                     ts_secs = ts_to_seconds(ts_str) if ts_str else None

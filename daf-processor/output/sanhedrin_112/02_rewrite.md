@@ -182,7 +182,7 @@ Rabbi Yochanan explains why *kodshei mizbe'ach* must be left to die rather than 
 
 Reish Lakish takes a fundamentally different approach: *mamon ba'alim hu* — the *korban* is in fact considered the property of its owner. This position rests on a principle attributed to Rabbi Shimon: when the owner of a *korban* accepts personal financial liability for it — *chayav b'achrayuso* — the offering is considered like his own property. Since the *ir nidachas* resident has such liability, the *korban* is legally treated as the resident's property and therefore does fall within the scope of *ir nidachas*. The reason it is left to die rather than actively destroyed by the sword is not because it escapes *ir nidachas*, but because its status as *kodshim* calls for a softer treatment: we do not actively destroy sacred property, but we allow it to perish.
 
-### Kodshim Kalim v'Kodshei…
+### Kodshim Kalim vs Kodshei
 
 The *gemara* refines this position by noting that the opening clause of the *baraita* — which mandates leaving *kodshei mizbe'ach* to die — cannot in fact be attributed to Rabbi Shimon, since Rabbi Shimon himself appears at the end of the *baraita* as a dissenting voice distinguishing *bechor* and *ma'aser*. Accordingly, the *gemara* attributes the opening clause to a different authority, reaching the *mamon ba'alim* result through Rabbi Yosi HaGlili's principle regarding *kodshim kalim*. Rabbi Yosi HaGlili holds that *kodshim kalim*, lesser sanctified items such as *shelamim* that the owners themselves eat, are considered *mamon ba'alim* — the owner's property. As opposed to *kodshei kodshim*, the most holy offerings which the *kohanim* eat off, as it were, God's table, and which are fundamentally *mamon gavo'ah* — Heavenly property.
 

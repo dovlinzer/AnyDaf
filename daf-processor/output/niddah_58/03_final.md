@@ -1,4 +1,5 @@
 # Niddah 58 — Daf Yomi Shiur
+[DAF:57b]
 
 ## Hargasha & Niddah Status
 
@@ -110,6 +111,7 @@ What emerges is not a single decisive rule but a system of multiple factors that
 
 The *Gemara* now turns to a more fundamental question. We have said that Shmuel's ruling is that without *hargasha* a woman is not a *niddah de'oraisa*. But the laws of *ketamim* — stains — as they appear throughout the *mishnayot* make no mention of *hargasha* at all. The *Mishna* states: *ha'roah ketem al besarah keneged beit ha'turpa temeiah, ve'af al gav de'lo hirgisha* — if a woman sees a stain on her body opposite the genital area, she is *tamei*, even without *hargasha*. The laws of *ketamim* function entirely on their own, without any reference to the criterion Shmuel introduces. And we have just said from the *braita* that *al besarah safek tamei safek tahor tamei* — even in a case of doubt, a stain on the body is *tamei* — *ve'af al gav de'lo hirgisha*, without *hargasha*. How then can Shmuel say that without *hargasha* she is not a *niddah de'oraisa*?
 
+[DAF:58a]
 ### Rav Yirmiah
 
 > **Hebrew/Aramaic:** אָמַר רַב יִרְמְיָה מִדִּפְתִּי: מוֹדֶה שְׁמוּאֵל שֶׁהִיא טְמֵאָה מִדְּרַבָּנַן.
@@ -296,6 +298,7 @@ The *Gemara* immediately challenges this: *ve'hatanya ein shonin betaharot* — 
 
 But Rav Sheshet intervenes: *ul'inyan dina tnan* — this ruling applies only to monetary disputes. If the owner wants to charge the borrower for cleaning, the borrower can deflect by saying the stain was there when she received it — that is a claim in *dinei mamonot*, matters of civil law, and without evidence, the borrower's claim cannot be disproven. *Aval l'inyan tumah, hi tehora v'chavertah temeiah* — but in matters of ritual *tumah*, the owner's verified inspection creates legal clarity: she inspected the garment, it was clean, and therefore the friend is *tamei* while the owner is *tehora*.
 
+[DAF:58b]
 ### Two Women Case
 
 > **Hebrew/Aramaic:* מַאי שְׁנָא מֵהָא דְּתַנְיָא: שְׁתֵּי נָשִׁים שֶׁנִּתְעַסְּקוּ בְּצִפּוֹר אֶחָד, וְאֵין בּוֹ אֶלָּא כְּסֶלַע דָּם, וְנִמְצָא כְּסֶלַע עַל זוֹ וּכְסֶלַע עַל זוֹ — שְׁתֵּיהֶן טְמֵאוֹת? שָׁאנֵי הָתָם דְּאִיכָּא סֶלַע יַתִּירָא.

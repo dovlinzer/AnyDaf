@@ -4,7 +4,7 @@
 
 ### R. Akiva's Insistence
 
-We begin on 13a with a review of the preceding passage. A student had reported in the name of Rabbi Ishmael that Beit Shammai and Beit Hillel did not debate the case of less than four *amot*, and Rabbi Akiva flatly insists that Rabbi Ishmael never said such a thing. Yet Rabbi Akiva then declares that we rule like that student's position. The Gemara is puzzled: how could he rule like a student whose claim he just rejected? The answer is that Rabbi Akiva was not issuing a genuine ruling; he was provoking his students in order to sharpen them and see how they would respond.
+ A student had reported in the name of Rabbi Ishmael that Beit Shammai and Beit Hillel did not debate the case of less than four *amot*, and Rabbi Akiva flatly insists that Rabbi Ishmael never said such a thing. Yet Rabbi Akiva then declares that we rule like that student's position. The Gemara is puzzled: how could he rule like a student whose claim he just rejected? The answer is that Rabbi Akiva was not issuing a genuine ruling; he was provoking his students in order to sharpen them and see how they would respond.
 
 ### Relevance to Chatzer
 
@@ -68,7 +68,7 @@ The Gemara further asks whether Rabbi Achai bar Yoshiya's position is consistent
 
 ## R. Meir's Brilliance
 
-### Meir's Unmatched Brillia…
+### Meir's Brilliance
 
 The Gemara now turns from the story of Rabbi Meir the scribe to a broader portrait of Rabbi Meir's extraordinary intellect. Having shown that Rabbi Meir needed to first study under Rabbi Ishmael before he could fully absorb Rabbi Akiva's teaching, the Gemara moves swiftly to put any resulting questions about Rabbi Meir's capacity thoroughly to rest.
 
@@ -152,7 +152,7 @@ One final point on the *bat kol*: it might seem paradoxical to resolve an impass
 
 ## Not to Be Created
 
-### The Debate
+### The Debate (II)
 
 The Gemara closes with one final dispute between Beit Shammai and Beit Hillel, this one of a philosophical rather than halachic character. *Shtei shanim va-mechetza nechleku Beit Shammai u-Veit Hillel* — for two and a half years — notably shorter than the three years of the previous dispute — Beit Shammai and Beit Hillel debated.
 

@@ -6,11 +6,11 @@
 
 The bulk of this *daf* — indeed, the remainder of this entire *perek* — focuses our attention squarely on *bor*, the category of the pit, which until now has not received sustained analysis in terms of its biblical sources. The *mishna* had established that a *bor* is defined by where its opening lies, and that whether its opening is in *reshut harabim* (the public domain) or in *reshut hayachid* (the private domain), liability — *chiyuv* — applies. Our natural intuition, of course, is that a *bor b'reshut harabim* represents a far more serious public hazard than one in *reshut hayachid*, and that liability in the public domain should be far more obvious and severe. The *Gemara* now reveals, however, that there was a significant tannaitic dispute on exactly this question.
 
-### Yishmael: Public Domain…
+### Yishmael: Public Domain
 
 The *Gemara* opens with a *braita*: one who digs a pit in the private domain and opens it into the public domain — or, according to an alternative reading, digs in the public domain and opens it into the private domain — is *chayav*. This, declares Rabbi Yishmael, is the *bor* spoken of in the Torah. His position, on its face, seems to center the liability on the pit's relationship to *reshut harabim*.
 
-### Akiva: Including Private…
+### Akiva: Owned Pits
 
 Rabbi Akiva offers a different formulation entirely: the *bor* referenced in the Torah is the case where one *hifkir reshuto v'lo hifkir boro* — one who renounces ownership over the surrounding domain while retaining ownership of the pit itself. That is, if a person digs a well in his private domain and then declares the surrounding land *hefker*, granting the public access to that space, while still holding onto ownership of the well — that is the *bor* the Torah is addressing. Rabbi Akiva is thus pointing to a *bor b'reshut hayachid* that has been rendered a public hazard through the owner's deliberate act of opening up access. Each *tanna*, then, appears to be championing a different type of *bor* as the paradigmatic Torah case.
 
@@ -30,7 +30,7 @@ Rabbi Akiva, by contrast, holds that *ba'al habor yeshallem* — the owner of th
 
 The *Gemara* then addresses a pointed question: when Rabbi Akiva says *zehu bor ha'amur batorah* — "this is the pit spoken of in the Torah" — using the emphatic and seemingly exclusive term *zehu*, does he mean to reject Rabbi Yishmael's case entirely? The answer is no. *Zehu bor shepattach bo hakatuv techilla l'tashlumim* — Rabbi Akiva is saying that the pit one owns is the one the Torah opens with when it speaks of payment and liability, invoking *ba'al habor*. He is not excluding Rabbi Yishmael's case; he is simply asserting that the Torah's language about payment necessarily encompasses the case of ownership. The two positions are not mutually exclusive: Rabbi Yishmael's framework excludes nothing of Rabbi Akiva's, and Rabbi Akiva's *zehu* is not intended to negate Rabbi Yishmael's case either. Each *tanna* is identifying a case that the Torah addresses, not denying the validity of the other's case.
 
-### Rav Yosef: Ownership Mod…
+### Rav Yosef: Ownership
 
 Rav Yosef takes the opposite approach from Rabba. Whereas Rabba holds that the conceptual foundation is the creation of a hazard — which maps more readily onto a model of *adam hamazzik*, causation by a person — Rav Yosef holds that fundamentally it is a question of ownership, a model of *mamon hamazzik*, one's property causing damage. Given that starting point, the paradigmatic *bor* in the Torah is, counterintuitively, the owned pit. *Bor b'reshut hayachid kuli alma lo peligi d'michayiv*: everyone agrees, says Rav Yosef, that as long as the pit is situated in a place where people can actually reach it, liability is established by ownership. His proof: *ba'al habor amar rachmana* — the Torah says "the owner of the pit," and so *b'bor d'it lei ba'alim askinan*, we are dealing with a pit that has an owner.
 
@@ -114,7 +114,7 @@ The *Gemara* then describes what happened next. *Liyamim* — in time — the ma
 
 The story captures something important about how self-interest distorts our perception of communal obligation. It is easy to be meticulous about one's own property and dismissive about harms to others in shared space. The *chasid* of Bava Kamma is precisely the person who resists this distortion — who treats *reshut harabim* with the same care as *reshut hayachid*, recognizing that the public domain is, in a deep sense, everyone's domain including one's own. The story also echoes the preceding discussion about Nechunya: there, the mechanism of divine justice was that the *tzaddik*'s merit in a particular domain protected those he loved in that domain; here, the man's negligence in that same domain ultimately returns to injure himself in kind.
 
-## Rav vs. Shmuel: Pit Dama…
+## Rav vs. Shmuel: Pit Dama
 
 ### Ten-Tefach Rule
 

@@ -1,6 +1,6 @@
 # Gittin 20 — Daf Yomi Shiur
 
-## Blank Paper & Invisible…
+## Blank Paper & Invisible
 
 ### Shmuel's Blank Paper
 
@@ -42,7 +42,7 @@ The *Gemara* now cites *Ameimar* transmitting in the name of *Mareimar* in the n
 
 The *Gemara* resolves this: *lo tzericha de'batar de'karyei ayeilu le'vei yadei ve'afkeih* — the witnesses did read it, but after reading it, the husband put it back into his jacket pocket and withdrew it again before handing it over. His claim is not merely that the document was something else from the start, but that he performed an actual switch — he palmed a different document when he reached into his pocket. The *beraita* therefore teaches *kama mashma lan* that we are not concerned with such a claim, even if technically conceivable. The witnesses read it, they saw it handed over, and his assertion of a switcheroo is not believed.
 
-### Tosafot Lechatchila Deba…
+### Tosafot: Lechatchila vs
 
 *Tosafot* raises an important question from this sugya. Why did the *Gemara* not simply explain the *beraita* as a *bedieved* case — one where the witnesses had failed to read it, the *get* is nonetheless valid *bedieved*, and the *beraita* therefore must address the consequent claim that it was a different document? The fact that the *Gemara* did not take that route implies that even *bedieved*, if the witnesses did not read the *get*, it is invalid. This is a highly practical question: if witnesses failed to read the *get* at the time of delivery, must one treat the divorce as ineffective even after the fact?
 

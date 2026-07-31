@@ -1,12 +1,12 @@
 # Kiddushin 76 — Daf Yomi Shiur
 
-## Kutim Marriage Prohibiti…
+## Kutim Marriage Prohibit
 
 ### Three Tradition Versions
 
 The sugya opens on 76b still working to understand the *braisa* of Rabbi Eliezer — or, more precisely, the baraita associated with his school — and the Gemara introduces another possibility through a chain of transmission: *ki ata Ravin amar Rabbi Chiya bar Abba amar Rabbi Yochanan*, with two alternative versions of the chain (*ve'amri lah amar Rabbi Abba bar Zavda amar Rabbi Chanina*; *ve'amri lah amar Rabbi Yaakov bar Idi amar Rabbi Yehoshua ben Levi*). Three possible chains of transmission for one tradition. The *davar* that the tradition actually addresses is itself a subject of *machlokes Rishonim*: whether it concerns the *issur* for *Kutim* to marry Jews, or specifically *Kuti beKutit* — a *Kuti* marrying another *Kuti*. The Ritva brings both possibilities and explains how all three opinions might be read as bearing on *Kuti beKutit*, which is the *braisa* originally under discussion. The explanation he ultimately accepts — and the more likely reading — is that the first two opinions concern *Kuti beYisrael*, while only the third opinion addresses *Kuti beKutit*.
 
-### R. Yishmael: Invalid Con…
+### R. Yishmael: Gerei Arayot
 
 The first opinion in this tradition is that of Rabbi Yishmael: *Kutim gerei arayos hein* — the Samaritans are invalid converts, their conversion did not take. The Ramban has much to say about this, though a full treatment belongs in *Yevamos*, where we hold that *gerei arayos* are in fact valid *geirim*. Why *gerei arayos* appears here as a defective category is a question the Ramban wrestles with at length.
 
@@ -26,7 +26,7 @@ Rashi already notes at the top of 76a: *u-fotrim es ha-nesuos min ha-chalitza*, 
 
 The *drasha* the *Kutim* used to arrive at this unusual practice: they derived it from the *pasuk* in the Torah — *ki yeshvu achim yachdav u-mes echad mehem u-ven ein lo, lo sihiyeh eshes ha-mes ha-chutza l'ish zar, yevamah yavo aleha* (Devarim 25:5). The *Kutim* focused on the phrase *lo sihiyeh eshes ha-mes ha-chutza l'ish zar* — she who sat outside (i.e., who had not yet entered the marital home) should not go to a stranger: *heicha de-nafka chutzah hi, lo sihiyeh l'ish zar* — she who went out, who was only *arusah*, requires *yibum*. But *aval hacha de-lo yatva chutzah* — the woman who did not sit outside, who was fully married, *tihyeh l'ish zar* — she may go to another man, she needs no *yibum*. This is the inverse of what we hold. And it is halakhically problematic, particularly given Rabbi Akiva's position that relations in violation of a *lav* produce *mamzerim*, which is what grounds the *pesul* in this case.
 
-### Third Opinion: Halakhic…
+### Third Opinion: Kutim
 
 *Ve-yesh omrim* — the third opinion in these three traditions — gives a different explanation: *lefi she-ein beki'in be-dikdukei mitzvos* — that the Samaritans are not careful about the details of the commandments. This formulation initially strikes one as unusually broad; after all, many people are not expert in the details of every *mitzvah* without being thereby considered *pesulim*. The specific content of what they are not *baki* in will require further clarification.
 
@@ -62,7 +62,7 @@ The Gemara asks: *mai kamashma lan* — what is this *Amora* teaching us? Perhap
 
 ---
 
-## Bedika for Priestly Marr…
+## Bedika: Priestly Marriage
 
 ### Bedika Rationale
 
@@ -70,7 +70,7 @@ With the Samaritan *sugya* concluded, the Gemara introduces a new *Mishnah* deal
 
 Tosafot disagree with this framing. For the Yerushalmi's explanation to work, the *Mishnah* must address both *psulei kehunah* and *psulei kahal* (i.e., *mamzerut*) — which is how the Ramban and his students understood it. Tosafot maintain that the *Mishnah* concerns only *psulei kehunah*, and they explain the entire *sugya* along different lines, as we shall see.
 
-### Presumption & Investigat…
+### Chezkat Kashrus & Actual
 
 The baseline presumption underlying all of this is *chezkat kashrut* — everyone stands in the presumption of fitness. The Rambam rules accordingly in *Issurei Biah* 19: *kol mishpachot be-chezkat kashrut hen omdot, mutar li-sa mehem le-chatchila* — one may marry from any family without prior investigation. The requirement to investigate is triggered only when a *ir'ur* — a challenge — has been raised. Specifically, the Rambam rules based on the Yerushalmi that if two witnesses testify that a *mamzer* or *chalal* or someone with *avdut* status has become intermixed in a particular family (*mishpacha kotzim*), that family becomes suspect and one may not marry from it until completing the *bedika* of the four mothers, which is eight ancestors.
 
@@ -84,7 +84,7 @@ The *Mishnah* continues: *Leviyah ve-Yisraelit mosifin aleihen od achat* — for
 
 ---
 
-## Exceptions to Bedik (III)
+## Exceptions to Bedika
 
 ### Temple Service Exemptions
 
@@ -94,7 +94,7 @@ The case of *Sanhedrin* is more conceptually complex. The intuitive question is:
 
 ---
 
-## Women Checked, Not M (II)
+## Women Checked, Not Men
 
 ### Insult & Yichus
 
@@ -102,7 +102,7 @@ The Gemara raises a pointed question: *mai shena be-nashei badki u-mai shena be-
 
 ---
 
-## Bedika Upon Challen (III)ge
+## Bedika Upon Challenge
 
 ### Chazaka Default
 
@@ -110,7 +110,7 @@ The implicit question remains: why is *bedika* not automatically required regard
 
 ---
 
-## Bedika Upon Challen (III)ge…
+## Bedika Upon Challeng (II)
 
 ### Rav's Lenient View
 
@@ -140,7 +140,7 @@ The Gemara works through how Rav Adda bar Abba's version relates to the *Mishnah
 
 ---
 
-## Bedika Upon Challen (III)ge…
+## Bedika Upon Challen (III)
 
 ### Investigation on Ir'ur
 
@@ -150,7 +150,7 @@ There are two ways to resolve the tension between the two statements of Rav. The
 
 ---
 
-## Exceptions to Bedik (III)
+## Exceptions to Bedika (II)
 
 ### Court Purity Standard
 
@@ -158,7 +158,7 @@ Returning to the *Mishnah*'s exemptions: *ve-lo min ha-Sanhedrin u-lema'lah* —
 
 ---
 
-## Yichus in Public Lif (II)
+## Yichus in Public Life
 
 ### Domim Lecha Principle
 
@@ -172,7 +172,7 @@ The *Mishnah* then mentions *shotrei rabbim* — lower-level public officials or
 
 ---
 
-## Exceptions to Bedik (III)a…
+## Exceptions to Bedik (III)
 
 ### Municipal Officials
 

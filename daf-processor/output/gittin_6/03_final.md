@@ -1,4 +1,5 @@
 # Gittin 6 — Daf Yomi Shiur
+[DAF:5b]
 
 ## Rabbah & Rava Debate
 
@@ -50,6 +51,7 @@ The concern for *gittin harishonim* — not besmirching past practice — serves
 
 The *gemara* next records the case of Rabbah bar bar Chana, who brought a *get* in which half had been written in his presence and half had not — the *gemara* does not specify which half. He came before Rabbi Elazar, who ruled: *afilu lo katav bo ela shita achat lishmah shuv eino tzarich* — even if only one line was written *lishmah* in his presence, that is sufficient. The ruling is noteworthy for its invocation of *lishmah*, addressing the Rabbah dimension of the requirement. The reasoning would seem to be that if the *sofer* was observed declaring the proper intent for even one line, one may assume that the *sofer* understood and maintained that intent throughout. Tosafot explains the case somewhat differently: the reference to one line means the *shaliach* saw the first line being written, and from that beginning one may assume *lishmah* was maintained through the end. That reading is perhaps less straightforward than the plain sense of the *gemara*, which speaks of "any one line" and grants sufficiency regardless of position in the document.
 
+[DAF:6a]
 ### Hearing Quill/Klaf
 
 > **Hebrew/Aramaic:** רַב אָשֵׁי אָמַר: אֲפִילּוּ קַן קוּלְמוֹסָא וְקַן מְגִילְּתָא.
@@ -244,6 +246,7 @@ After the *shaliach* departed, Rabbi Ilai entered and challenged Rabbi Yishmael:
 
 Rabbi Yishmael responded: *shtok bni shtok* — hush, my son, hush. *Ho'il v'yatza davar b'heter yatza* — since the matter went forth as a *heter*, as a permission, let it stand. That is: the declaration was instructed not because it was technically required, but because making it activates the protective mechanism. Since the *shaliach* was told to say it and it is effective when said, the woman is now protected. Even if it need not have been required, the fact that it was said and is halachically operative means it serves its purpose.
 
+[DAF:6b]
 ### Incomplete Hearing
 
 > **Hebrew/Aramaic:** הָא אִיהוּ נָמֵי, ״שֶׁלֹּא תִּיזָּקֵק לְעֵדִים״ קָאָמַר לֵיהּ! לָא סַיְּימוּהָ קַמֵּיהּ.

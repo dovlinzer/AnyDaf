@@ -64,7 +64,7 @@ The *gemara* asks: what is the precise nature of Rabbi Meir's ruling? Is this a 
 
 Rav Huna answers: *na'aseh ke-mi she-hisnah nidro be-davar* — the vow is treated as though he made it conditional on the stated circumstance. This means the case in our *mishnah* is indeed one of *nolad*: the father genuinely was wicked when the vow was made, the conditions truly changed afterward. Rabbi Meir's innovation is simply to read the vow *as if* he had formulated it as a *tenai*, because he articulated the reason explicitly. The Sages decline to read it that way. On Rav Huna's account, the later *mishnah* — which addresses a case of clear *taut* — represents an entirely different scenario and is not in tension with our *mishnah*, since each addresses its own category.
 
-### Rabbi Yochanan: Died Alr…
+### Rabbi Yochanan: Gezeirah
 
 Rabbi Yochanan, however, reads the case differently: *u-kvar meis* — the father had *already* died before the vow was made. The vow-maker simply did not know it. Under this reading, the case is one of *taut* even in our *mishnah*, not *nolad*, since the facts were wrong from the outset.
 

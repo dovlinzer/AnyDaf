@@ -1,4 +1,5 @@
 # Bava Metzia 71 — Daf Yomi Shiur
+[DAF:71a]
 
 ## Ribbit Overview
 
@@ -338,6 +339,7 @@ Rav Nachman bar Yitzchak resolves the apparent contradiction through a careful r
 
 The gemara cites a further teaching: *al tikach me'ito neshech vetarbit, aval ata na'aseh lo arev* — even though you may not take interest from a non-Jew in certain framings, you may become a guarantor (*arev*) for a non-Jewish loan bearing interest. To illustrate: a non-Jewish borrower takes an interest-bearing loan from a Jewish lender, and a Jew co-signs as guarantor.
 
+[DAF:71b]
 ### Guarantor Problem
 
 > **Hebrew/Aramaic:** עָרֵב לְמַאן? אִילֵימָא עָרֵב לְיִשְׂרָאֵל, וְהָא תָּנָא: אֵלּוּ עוֹבְרִין בְּלֹא תַּעֲשֶׂה הַמַּלְוֶה וְהַלֹּוֶה, הֶעָרֵב וְהָעֵדִים! אֶלָּא לְגוֹי וְכֵיוָן דְּדִינֵיהּ דְּגוֹי דְּאָזֵיל בָּתַר עָרְבָא, אִיהוּ נִיהוּ דְּקָא שָׁקֵיל מִינֵּיהּ רִבִּיתָא!

@@ -1,6 +1,6 @@
 # Gittin 29 — Daf Yomi Shiur
 
-## Shaliach Appoints Shalia…
+## Appoints Shaliach
 
 ### Intro: Sick Shaliach
 
@@ -36,7 +36,7 @@ Underlying all three reconciliations is a single animating principle: the entire
 
 ---
 
-## Shaliach Oseh Shaliach D…
+## Shaliach Oseh Shaliach
 
 ### Two vs. Three People
 
@@ -100,7 +100,7 @@ The *Gemara* proceeds to delineate the cases. Where there is no dispute: if the 
 
 The dispute arises specifically when the husband framed the instruction in a particular order: *shekuli minach chefetz ve-hadar hav lah gitta* — first take the object from her, then give her the *get*. In this formulation, the husband is clearly treating the retrieval of the object as a precondition for the delivery of the *get*. Now if the *shaliach* reversed the order — *d'azil ihu ve-yahvei lah gita ve-hadar shakil minah chefetz* — he first gave her the *get*, forfeiting his leverage, and only then retrieved the object — this is where the debate between Rabbi Yochanan and Reish Lakish comes into focus.
 
-### Rabbi Yochanan/Resh Laki…
+### Yochanan v. Reish Lakish
 
 Reish Lakish holds that the *get* and the retrieval of the object are always independent of one another. Even when the husband used the language of a specific order, Reish Lakish does not read this as creating a genuine condition on the *kashrut* of the *get*. Therefore, the *get* is valid whether delivered by the original *shaliach* himself in the wrong order, or by a substitute *shaliach* — *machshir b'shlucho ve-chol shekein bo*.
 

@@ -80,7 +80,7 @@ Amimar, who lived considerably later than Rav and Shmuel, raises a new question:
 
 A *moser* is one who informs on another Jew to external, non-Jewish authorities, causing that person's property to be seized or their financial affairs to be disrupted. The laws of *mesirah* carry serious *halachic* weight, and the extent to which they apply has been extensively discussed in later *poskim*.
 
-### Modern Authority Discussion
+### Dina Demalchusa Dina
 
 One *posek* — likely the Tzitz Eliezer — formulated the principle that the degree to which the laws of *moser* apply is inversely proportional to how much weight one gives to *dina demalchusa dina*, the principle that the law of the land carries legal validity. If one trusts the civil authorities and regards the surrounding legal system as legitimate and non-discriminatory, there is far less reason to fear that turning someone over to those authorities will result in anything unjust or harmful. The concern about *mesirah* is most acute under discriminatory or antisemitic governments that might manipulate the law against a Jew. In such circumstances, if a Jewish person turns another over to a system that will treat them unfairly, the outcome may be that their money or property is unjustly taken — and that constitutes a kind of *gezeila*.
 

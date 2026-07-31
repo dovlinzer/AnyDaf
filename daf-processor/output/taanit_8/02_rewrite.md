@@ -90,7 +90,7 @@ The movement throughout this section — between rain and *Torah* — is itself 
 
 Whereas in prior passages, sin was the cause and prayer was the remedy, here the very absence of prayer itself is what causes the heavens to be closed. The very absence of *tefillah* — the speech that sustains the relationship with God — is what produces the drought.
 
-### Yeilech Eitzel Mi Sheyod…
+### Yeilech Eitzel Mi Sheyod
 
 *Mai takantei?* — *yeilech eitzel mi sheyodei'a lelachash* — go find someone who knows how to pray. *Dechtiv yagid alav re'o* — let his neighbor speak about him, let his neighbor pray on his behalf.
 
@@ -112,7 +112,7 @@ One wonders whether this is an allusion to *Choni HaMa'agel*, who famously order
 
 ---
 
-## Talmidei Chachamim D (II)
+## Torah Scholars & Discord
 
 ### Mitkana'im B'Af
 
@@ -136,7 +136,7 @@ The transition here is immediate — from the discussion of rain to *Torah* and 
 
 *Le-atid lavo*, in the future, all the animals will gather around the serpent and confront it. We understand, they say, why other predators do what they do: *ari dores v'ochel* — the lion tramples and eats; *ze'ev toref v'ochel* — the wolf tears its prey and eats. They commit violence in the service of sustenance. But you — *atah mah hana'ah yesh lach?* — what benefit do you derive? For occasionally a snake kills a creature — a large animal, a human being — that it does not then consume.
 
-### Ein Yitron LeBaal HaLash…
+### Lashon Hara: Harmful Talk
 
 The snake replies: *ve-ein yitron l'va'al halashon* — you can ask the same question of one who speaks *lashon hara*. With words alone, such a person can destroy reputations and ruin lives — and what do they gain? No material benefit, no sustenance. Yet the response is somewhat rhetorical: there *is* a kind of *hana'ah* that people derive from using speech to harm others — not a legitimate *hana'ah*, but a felt one. And so the snake, in turn, derives its own form of *hana'ah* from what it does. The parable is a striking indictment of *lashon hara* as, like the snake's bite, a form of harm that profits the one who inflicts it nothing.
 
@@ -148,7 +148,7 @@ The snake replies: *ve-ein yitron l'va'al halashon* — you can ask the same que
 
 *Amar Rabbi Ami*: *ein tfilato shel adam nishma'at ela im kein masim nafsho b'kapo* — a person's prayer is heard only if he truly places his soul in his hands, exposing his genuine self and bringing it before God. *Shenemar nisa levavenu el kapayim el El bashamayim* — let us lift our hearts on our hands to God in heaven. Only if you come with your heart truly in hand will your prayer be answered.
 
-### Veyefatuhu BeFilhem
+### Vayefatuhu BeFilhem
 
 The *Gemara* challenges this: *eini?* Is that really true? *V'hukim Shmuel amora alei v'darash*: Shmuel set up an *amora* to proclaim the following teaching: "וַיְפַתּוּהוּ בְּפִיהֶם וּבִלְשׁוֹנָם יְכַזְּבוּ לוֹ וְלִבָּם לֹא נָכוֹן עִמּוֹ וְלֹא נֶאֶמְנוּ בִּבְרִיתוֹ" — they seduced God with their mouths and lied with their tongues, their hearts were not faithful to Him, they were not true to the covenant. And yet the very next verse says: "וְהוּא רַחוּם יְכַפֵּר עָוֹן" — God, in His mercy, will forgive. Even insincere prayer, it seems, is answered.
 

@@ -1,4 +1,5 @@
 # Hullin 61 — Daf Yomi Shiur
+[DAF:60b]
 
 ## Shisuah & Torah
 
@@ -132,6 +133,7 @@ This concludes the *aggadeta* section of the shiur. It is also worth noting, as 
 
 With the *aggadeta* concluded, the Mishnah at the bottom of 60b — which is where the official daf of 61 properly begins — turns to the question of kosher and non-kosher birds. The Mishnah states: the identifying characteristics of birds were not stated explicitly in the Torah. The Torah lists the non-kosher birds by name but does not articulate a set of formal *simanim* the way it does for animals (split hooves and chewing cud) or fish (fins and scales). The Mishnah then proceeds to offer some practical guidance: birds that are *dores* — predatory birds of prey — are non-kosher; birds that have certain positive characteristics are kosher.
 
+[DAF:61a]
 ### Nesher's Traits
 
 > **Hebrew/Aramaic:** מָה נֶשֶׁר מְיוּחָד שֶׁאֵין לוֹ אֶצְבַּע יְתֵרָה וְזֶפֶק וְאֵין קוּרְקְבָנוֹ נִקְלָף וְדוֹרֵס וְאוֹכֵל – טָמֵא, אַף כׇּל כַּיּוֹצֵא בּוֹ – טָמֵא. תּוֹרִין שֶׁיֵּשׁ לָהֶן אֶצְבַּע יְתֵרָה וְזֶפֶק וְקוּרְקְבָן נִקְלָף וְאֵין דּוֹרְסִין וְאוֹכְלִין – טְהוֹרִין, אַף כׇּל כַּיּוֹצֵא בָּהֶן – טְהוֹרִין. אָמַר אַבָּיֵי: לֹא נֶאֱמַר פֵּירוּשָׁן מִדִּבְרֵי תוֹרָה אֶלָּא מִדִּבְרֵי סוֹפְרִים.
@@ -208,6 +210,7 @@ The argument advances one further step: let the rule be three, derived from the 
 
 A deeper difficulty underlies all of this, however. The Gemara was using the list of twenty-four birds as evidence from which to infer a general rule. But there is a well-established hermeneutical principle: when the Torah provides two examples that yield the same rule, you cannot derive a general law from them, because the repetition itself signals that these are exceptional cases rather than paradigmatic ones. If the rule were, say, one non-kosher *siman*, then among twenty-four birds there would inevitably be multiple examples that each exhibit the same single non-kosher *siman* — and the presence of two examples of the same characteristic should label them as exceptions, not as evidence of a rule.
 
+[DAF:61b]
 ### Shnei Kesuvim
 
 > **Hebrew/Aramaic:** וְלֵילַף מֵעוֹרֵב: מָה הָתָם תְּרֵי לָא, אַף כֹּל תְּרֵי לָא? אִם כֵּן, פֶּרֶס וְעׇזְנִיָּה דִּכְתַב רַחֲמָנָא לְמָה לִי? הַשְׁתָּא דְּאִית לֵיהּ תְּרֵי לָא אָכְלִינַן, דְּאִית לֵיהּ חַד מִיבַּעְיָא!

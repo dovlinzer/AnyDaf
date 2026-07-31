@@ -10,7 +10,7 @@ The daf begins at the bottom of 156b, picking up the *mishna* that was introduce
 
 Tosafot clarifies that the opinion in the earlier *mishna* and the opinion here are not necessarily the same person. One was Rabbi Elazar and the other Rabbi Eliezer — two distinct Tannaim. The Rif, by contrast, appears to read them as a single authority, treating the current *mishna* as a refinement of the position stated earlier. The Yerushalmi, for its part, attributes that earlier opinion to the *chachamim* generally. Regardless of how one resolves the attribution, the operative distinction being drawn here is between Shabbat and the weekday.
 
-### Rabbi Yehoshua Kal Vacho…
+### Yehoshua Kal Vachomer
 
 Rabbi Yehoshua's response is structured as a *kal vachomer*: *beshabbos amru kal vachomer bechol* — they established the rule for Shabbat, and we may infer that it certainly applies during the week. The reasoning is as follows: Shabbat is a time when no *kinyanim* are normally operative, yet the Rabbis allowed the *shchiv mera*'s verbal gift to function as a form of *kinyan*. If it can work during a period when *kinyanim* are altogether suspended, then certainly it should work during the week, when ordinary *kinyanim* are fully available and this mechanism can be understood as a species of them. Rabbi Yehoshua thus extends the institution across both contexts.
 

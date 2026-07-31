@@ -12,7 +12,7 @@ The *mishna* presumably reflects a real-world scenario — such arrangements wou
 
 The *mishna* states: if the roof collapsed — *v'nifchas* — the owner of the garden (*ba'al hagina*) may descend and plant below, *ad she'ya'aseh l'veit bado kipin*, until the owner of the *beit habad* constructs arched vaults to restore the roof. In other words, if the person responsible for the roof fails to repair it, the garden owner may come and plant in the space below — within or around the *beit habad* — until the roof is restored. It is a curious remedy, since the *beit habad* is not obviously ideal for planting, but the *mishna* may contemplate adjacent space below, and in any case it functions as a parallel to the earlier rule that a tenant in an *aliya* (upper story) whose floor has collapsed may move into the space below until repairs are made. This is a variation on the same principle: the party who suffers the loss of use has a remedy against the party responsible for the structural failure.
 
-## Collapsed Wall Liabi (II)
+## Collapsed Wall Liability
 
 ### Ones Exemption
 

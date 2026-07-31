@@ -1,6 +1,6 @@
 # Bava Batra 107 — Daf Yomi Shiur
 
-## Creditor Seizes Inherita…
+## Creditor Seizes Share
 
 ### Case Setup
 
@@ -120,7 +120,7 @@ The *Mishnah* states: *ha-omer la-chaveiro chatzi sadeh ani mocher lach* — one
 
 ---
 
-## Fence & Ditch (II)
+## Fence & Ditch
 
 ### Measurements
 

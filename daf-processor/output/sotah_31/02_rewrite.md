@@ -20,7 +20,7 @@ At the same time, since there are no formal witnesses to seclusion, she has not 
 
 ## One Witness After
 
-### Slave/Maidservant Testim…
+### Slave Testimony Adultery
 
 Assuming the standard of Rabbi Yehoshua — two witnesses to seclusion — the *mishnah* now addresses the consequences of testimony regarding the act of adultery itself. The *halacha* is that once the predicate of warning and seclusion has been established, a single witness who comes and says *ani ra'iti she-nitme'ah* — "I saw that she became *teme'ah*," that is, that she committed adultery within that seclusion — is believed. The consequence is not execution, for which two *kosher* witnesses would be required, but rather that she may not drink the *sotah* water; she is considered a proven adulteress, and upon divorce she forfeits her *ketubah*.
 
@@ -84,7 +84,7 @@ Ulla therefore proposes a different *girsa* of the *mishnah*: where the *mishnah
 
 Rabbi Chiya, however, retains the original text of the *mishnah*: in the case of one against one, *hayetah shotah* — she would drink. The two testimonies neutralize one another, and the process continues. The *Gemara* notes that Ulla's argument — based on the specially-granted weight of the first witness — poses a genuine difficulty for Rabbi Chiya. It is not merely that Rabbi Chiya disagrees with Ulla's opinion; Ulla's position has compelling logical force, grounded in the structure of the Torah's grant of special believability.
 
-### Timing: Simultaneous vs…
+### Simultaneous vs Serial
 
 The *Gemara* resolves this tension by distinguishing between the timing of the testimonies. *Kan be-vat achas, kan be-zeh achar zeh* — in one case the witnesses arrive simultaneously, in the other they arrive sequentially. Rashi specifies that "simultaneously" means within *toch kedei dibbur* — the brief interval of a normal utterance.
 

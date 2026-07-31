@@ -170,7 +170,7 @@ A *baraita* cites Rabbi Meir: the Euphrates' true original name is Yuval, as der
 
 ## Mikvah Rainwater
 
-### Shmuel's Father's Practi…
+### Shmuel's Father: Miqva'ot
 
 The observation that the Euphrates *parin ve-rabin* — increases — is cited as supporting the position of Shmuel, who holds that *nahara meikeifei mivrach* — when a river swells, it swells from its bedrock source, from natural underground springs rather than from rainfall. This carries an important halakhic application. The *gemara* relates: *avuha de-Shmuel* — Shmuel's father — would prepare *mikva'ot* for his daughters in *Nissan*, and mats in *Tishrei*. Shmuel lived in Bavel; his daughters needed to immerse in a valid *mikvah*. In *Tishrei*, at the end of summer before the rains began, the Euphrates was safe to use as a *mikvah*, but mats were required — either to avoid mud that might constitute a *chatzitzah*, or for privacy. In *Nissan*, however, after the long rainy season, a separate *mikvah* had to be constructed.
 

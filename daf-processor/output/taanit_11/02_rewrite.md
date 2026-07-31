@@ -22,7 +22,7 @@ It is worth pausing on the significance of this. The *Gemara* acknowledges that 
 
 ---
 
-## V'ten Tal U'Matar Calend…
+## V'ten Tal U'Matar: Tekufo
 
 ### Tekufot & Sixty Days
 

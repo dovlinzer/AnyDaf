@@ -1,8 +1,8 @@
 # Chullin 6 — Daf Yomi Shiur
 
-## Samaritan Shechita & Ido…
+## Samaritan Shechita Avoda
 
-### Dovecote Idol at Har Ger…
+### Samaritan Slaughter Ban
 
 We begin on 6a, four lines from the top, with the question of the shechita of a Kuti. By the time of Rabban Gamliel, such shechita had been forbidden even when performed under direct observation, and the Gemara now seeks to understand why.
 
@@ -10,7 +10,7 @@ The Gemara asks: u'mai ta'ama gazru bo rabbanan — what was the reason the Rabb
 
 Rabbi Shimon ben Elazar then returned and told Rabbi Meir what had transpired — ve'siper devarim lifnei Rabbi Meir. Rabbi Meir heard the account and, presumably after some investigation, issued an edict — vegazar leih — forbidding the wine of Kutim. The logic here is important: the prohibition was not grounded in any technical deficiency in how the Kutim handled the wine. Rather, the ruling treated them as non-Jews. And once their wine is forbidden on those grounds, it becomes clear why their shechita is likewise invalid: even if technically performed and directly observed, we are treating Kutim as non-Jews, and that categorically excludes them — as was established in yesterday's daf — from performing valid shechita.
 
-### Rabbi Meir's Minority Co…
+### Rabbi Meir's Minority Ban
 
 The Gemara continues to press the explanation. Rav Nachman bar Yitzchak provides the factual basis: demut yona matzu lahen berosh Har Grizim — they found a form, some type of statue of a dove, at the summit of Har Gerizim, the Samaritans' holy mountain — she'hayu ovdin otah — and they worshipped it. The Samaritans, in other words, had become idolaters.
 
@@ -18,7 +18,7 @@ The Gemara then adds: Rabbi Meir letamei — Rabbi Meir acts in accordance with 
 
 Applying this same principle to the Samaritans: even if only a subset of them — say, those living near Har Gerizim — worshipped the idol, Rabbi Meir concluded that we must be concerned about all of them. Hence: vegazar ruba atu mi'uta — he extended the prohibition to the majority on account of the minority. All Samaritans were to be treated as suspected idolaters. It bears noting, however, that this does not necessarily mean Rabbi Meir considered them non-Jews. As was discussed yesterday, there is an intermediate category — a Jewish idolater — who is treated as a non-Jew for purposes of halacha without literally being assigned the status of a non-Jew. So what Rabbi Meir may have been saying is that Samaritans are Jewish idolaters, and on that basis their wine is forbidden.
 
-### Rabban Gamliel's Extensi…
+### Gamliel's Shechita Rule
 
 Rabban Gamliel u'beit dino — k'Rabbi Meir svira lehu — agreed with Rabbi Meir's underlying reasoning and extended it to shechita as well. This extension represents a genuine progression in the logic. The prohibition on wine is specifically linked to idolatry concerns — yayin nesech flows directly from the worry that wine was used in idolatrous worship. But Rabban Gamliel then reasoned: if we are already treating Kutim as idolaters, that designation is not confined to laws relating directly to idolatry. Rather, as we saw yesterday, being classified as an idolater constitutes a categorical exclusion across the board — including shechita, which has nothing to do with idolatry per se. So the stages are: they are suspected idolaters, therefore their wine is forbidden; and because they are categorically excluded as idolaters, their shechita is likewise invalid.
 
@@ -46,7 +46,7 @@ This discussion presents an opportunity to clarify a point about terminology. Th
 
 ## Later Acceptance of Ban
 
-### Rabbi Isaac's Wine Incid…
+### Rabbi Isaac's Mission
 
 We now return to the question of Kuti wine and shechita, because as we have seen, not everyone was prepared to accept the new status assigned to the Kutim. A second incident is now recorded that is strikingly parallel to the first. Rebbe Yitzchak ben Yosef was sent by Rebbe Abbahu — shadrei Rebbe Abbahu la'asuyei chamra mibei kusai — to bring wine from the Kutim. Again, an elder found him: ashkachay hahu saba — and said: leis kan shomrei Torah — it seems that people here are not keeping Torah. The reference was presumably not to the Kutim themselves but to those who were going to purchase wine from them, people who, if they truly cared about halacha, should not have been doing so.
 

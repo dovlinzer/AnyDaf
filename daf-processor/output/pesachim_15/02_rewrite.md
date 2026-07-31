@@ -1,6 +1,6 @@
 # Pesachim 15 — Daf Yomi Shiur
 
-## Witness Testimony & Cham…
+## Witness Testimony Chametz
 
 ### Rav Ashi's Position
 
@@ -46,7 +46,7 @@ Rava challenges Rav Nachman: why rule like Rabbi Yehuda? One should instead rule
 
 The Gemara rejects this argument. That Mishnah is not in fact a *stam mishna* in the relevant sense, because it contains a difficulty in its own language: *mishum de-kashi mutar*. The Mishnah says *kol sha'ah she-mutar le-ekhol* — as long as it is permitted to eat — rather than the simpler formulation *kol sha'ah she-okhel* — as long as one eats. The Gemara in the chapter *Kol Sha'ah* explicitly raises this linguistic difficulty: the word *mutar* implies "as long as some other person is permitted to eat it," meaning as long as there exists someone for whom it remains permitted. This would refer to a *kohen*, who is the third opinion in the Mishnah — one who can eat *chametz* longer than an ordinary Israelite. Since the language points in the direction of the third view rather than resolving the dispute between Rabbi Meir and Rabbi Yehuda, the Mishnah cannot serve as a *stam* ruling in favor of either.
 
-### Rabban Gamliel Not Machr…
+### Gamliel's Rejection
 
 One might then suggest: rule like Rabban Gamliel, whose view might serve as a *machria* — a tiebreaker tilting toward one of the other positions. The Gemara rejects this as well: Rabban Gamliel is not a *machria* at all. He does not tip the balance between Rabbi Meir and Rabbi Yehuda; rather, he presents a third, independent opinion entirely his own — *ta'ama denafshei ka'amar*. Rabban Gamliel's position of *toleh chullin kol arba, terumah kol chamesh* operates according to its own logic and cannot be used to adjudicate between the other two views.
 
@@ -72,7 +72,7 @@ The Sages push back further: *shema chutz la-choma lanu* — what of those who h
 
 Rabbi Elazar then turns the argument back on his interlocutors: if one is going to reason from speculative possibilities, then even the *taluy* — the *terumah* of doubtful status — should not be burned, because *shema yavo Eliyahu v'yitaharem* — perhaps Eliyahu HaNavi will arrive on the morning of *erev Pesach* and declare all the doubtful cases to be *tahor*, at which point the *terumah* could have been eaten. Since the opponents insist that no opportunity for consumption should be foreclosed, they cannot consistently permit burning the *taluy*.
 
-### Eliyahu Won't Come Erev…
+### Eliyahu Coming: R. Elazar
 
 The Sages respond with a striking ruling: *kvar muvtach lahen l'Yisrael she'ein Eliyahu ba lo b'arvei Shabbatot v'lo b'arvei yamim tovim mipnei ha-torach* — it has already been assured to Israel that Eliyahu will not come on the eve of Shabbat or on the eve of Yom Tov, because of the *torach*, the burden of preparation that the nation is engaged in. This is a remarkable statement. It reflects the principle that the legitimate demands of daily life and sacred preparation take precedence over the immediacy of redemption — the people are occupied building their lives as God has given them, and Eliyahu will not disrupt their Shabbat preparations. It bears noting that Eliyahu *could* come on *erev Pesach* itself; the restriction applies only to *erev Shabbat* and *erev Yom Tov*. The discussion here concerns the thirteenth of Nisan, which falls on a Friday in this scenario.
 

@@ -20,7 +20,7 @@ The resolution lies in the distinction between private conscience and public opp
 
 This raises an even deeper question, one that is genuinely fascinating from the perspective of the rabbis' role in *Torah* interpretation: is there such a thing as an objectively wrong *psak*? Consider an analogy to constitutional law. If a Supreme Court changes its interpretation of a provision it had read one way for two hundred years, we do not say that for two hundred years the law was wrong — we say the interpretation has evolved. Normally, one might expect rabbinic *psak* to function similarly: an older reading gives way to a newer reading, neither being termed a "mistake." The very fact that the *Mishnah* contemplates a court making a ruling, subsequently recognizing it as an error, and people in the interim having acted on what turns out to have been a wrong ruling — that itself presupposes some concept of objective meaning in the *Torah* that the court could have gotten wrong. That is a remarkable premise, and it animates much of what follows throughout the *masechet*.
 
-## First Mishnah (III)
+## First Mishnah
 
 ### Individual Follows Court
 
@@ -52,7 +52,7 @@ This creates a profound point about the nature of halachic authority. One might 
 
 The rule is stated as *zeh haklal*: *hatoleh b'atzmo chayav, hatoleh b'veis din patur* — one who relies on himself is obligated, one who relies on *beis din* is exempt.
 
-## First Mishnah (III)
+## First Mishnah (II)
 
 ### When You Know Better
 

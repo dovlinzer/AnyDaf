@@ -1,6 +1,6 @@
 # Pesachim 67 — Daf Yomi Shiur
 
-## Mesorah vs. Interpretati…
+## Mesorah vs. Hermeneutics
 
 ### Hillel/Bnei Beteira
 
@@ -24,7 +24,7 @@ One might ask whether this is a matter of "creating" *Torah she-ba'al peh* — a
 
 ---
 
-## Three Impurity Categ (II)
+## Three Impurity Categories
 
 ### Pesach/Tumah Override
 
@@ -128,7 +128,7 @@ At the conclusion of the analysis, the *Gemara* notes that *kol tzarua* — the 
 
 ---
 
-## Zav/Metzora in Pesach B'…
+## Zav/Metzora in Pesach
 
 ### R. Eliezer Query
 

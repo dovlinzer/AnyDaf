@@ -18,7 +18,7 @@ As a practical matter, a woman may wash or bathe during the *shiva nekiyim*, but
 
 ---
 
-## Hefsek: D'Oraita or D'Ra…
+## Hefsek: Torah or Rabbinic
 
 ### Source of Obligation
 

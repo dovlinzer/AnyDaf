@@ -1,4 +1,5 @@
 # Keritot 22 — Daf Yomi Shiur
+[DAF:22a]
 
 ## Human Blood Status
 
@@ -180,6 +181,7 @@ Rabbi Tarfon, who agrees in principle with Rabbi Akiva that an *asham talui* is 
 
 Rabbi Akiva accepts this strategy in principle but objects in the case of a large *me'ilah*. If the amount potentially misappropriated is small — a *prutah* or a trivial sum — fine, the strategy is reasonable. But *sheyavo le-safek me'ilah be-me'ah maneh*: what if one might have misappropriated a hundred *maneh* from *hekdesh*? Rabbi Tarfon's strategy requires paying back the full principal plus the fifth right now, up front, even though one may never have had any obligation to pay. One may never discover whether one sinned at all. To save the cost of one animal, Rabbi Tarfon is forcing the person to pay out an enormous sum of money that may never have been owed. In that case, *lo yafeh lo sheyavi asham bishnei sela'im* — it is better for him to bring the *asham talui* for two *sela'im* now and not pay the money, and perhaps it will never become clear that he sinned, and he will never owe a cent. Rabbi Akiva therefore agrees with Rabbi Tarfon only in the case of *me'ilah mu'etes*, a small amount. The entire exchange here is, at one level, pragmatic advice; yet as the *gemara* will show, substantive halakhic principles are derived from it.
 
+[DAF:22b]
 ### Gezeirah Shavah
 
 > **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: ״וְאִם נֶפֶשׁ״ – לְחַיֵּיב עַל סְפֵק מְעִילוֹת אָשָׁם תָּלוּי, דִּבְרֵי רַבִּי עֲקִיבָא, וַחֲכָמִים פּוֹטְרִים.

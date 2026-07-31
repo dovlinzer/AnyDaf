@@ -1,6 +1,6 @@
 # Menachot 43 — Daf Yomi Shiur
 
-## Techelet Testing & Purch…
+## Techelet Testing & Kinyan
 
 ### Braisa Overview
 
@@ -24,7 +24,7 @@ Tosafot himself rejects the view that *mezuzot* do not require *lishma*, and acc
 
 ---
 
-## Testing Methods Deba (II)
+## Testing Methods Debate
 
 ### Rav Yitzchak's Test
 
@@ -180,7 +180,7 @@ This theme is illustrated immediately by the account of David entering the bathh
 
 After leaving the bathhouse, where Torah speech would have been inappropriate, David sang — and the psalm he sang is *lamenatze'ach al hashminit mizmor ledavid*, understood as referring to the eighth, the *brit milah* given on the eighth day. The *Maharsha* adds that *milah* was also the eighth *mitzvah* given to the world, after the seven *mitzvot* of the children of Noah.
 
-This narrative raises a question — implicit in the *gemara*, though the lecturer notes it explicitly — about what this framework says about women, who are not obligated in the full complement of these surrounding *mitzvot* and for whom no mark is inscribed in the flesh. The question is left open, an important one to sit with.
+This narrative raises a question — implicit in the *gemara*, though worth stating explicitly — about what this framework says about women, who are not obligated in the full complement of these surrounding *mitzvot* and for whom no mark is inscribed in the flesh. The question is left open, an important one to sit with.
 
 ### Three-Cord String
 

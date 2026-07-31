@@ -30,7 +30,7 @@ However, the *stam* of the *gemara* at the beginning of the discussion we covere
 
 ---
 
-## Rava: Conditional Owners…
+## Rava: Ownership Condition
 
 ### Rava's Mechanism
 
@@ -44,7 +44,7 @@ However, the *stam* of the *gemara* at the beginning of the discussion we covere
 
 *Rabbi Zeira* therefore refines *Rava*'s formulation: *na'aseh ke'omer lo* — it is as though the owner says to the *shomer* — *chutz migizeha vevaladeha*. We must insert this exclusion into the implicit condition. The owner is understood to be saying: retroactively you will own it from the moment I gave it to you, except for any shearings or offspring — those remain mine. The ownership is carved out just enough to allow the *shomer* to receive *kefel*, and nothing more.
 
-### External vs. Internal Be…
+### External vs Internal
 
 The *gemara* then asks: *u'mah paska* — what justifies splitting it in that particular way, that retroactive ownership applies for *kefel* purposes but not for *gizos* and *velados*? The answer is *stama d'milsa* — as a general rule: *shivcha d'asi me'alma avid inish d'aknoiyi* — people are willing to transfer an external benefit that comes from outside the animal itself, such as *kefel*, which is an unpredictable windfall that has nothing to do with the animal's intrinsic worth. *Shivcha d'migufah* — benefit that comes from the body of the animal itself — *lo avid inish d'aknoiyi* — people are not willing to transfer. Therefore, the *kefel*, which is not part of the animal itself and may never even materialize, is something the owner is presumed willing to cede to the *shomer*. The *gizos* and *velados*, which are products of the animal itself, are not. The implicit condition is thus carefully scoped to enable *kefel* and nothing else.
 

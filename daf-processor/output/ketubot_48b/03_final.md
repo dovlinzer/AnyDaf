@@ -1,4 +1,5 @@
 # Ketubot 48b — Daf Yomi Shiur
+[DAF:48a]
 
 ## Father to Husband Control
 
@@ -18,6 +19,7 @@ The *Mishnah* opens at the bottom of 48a with a statement that is at once sweepi
 
 What is striking here is the governing conceptual framework: *reshut*. The key word is not intimacy, not ceremony, not a particular act, but domain and control. She passes from one man's *reshut* to another's. The *Mishnah* does not yet tell us exactly what that transfer consists in.
 
+[DAF:48b]
 ### Mishna Cases: Messengers
 
 > **Hebrew/Aramaic:** מָסַר הָאָב לִשְׁלוּחֵי הַבַּעַל — הֲרֵי הִיא בִּרְשׁוּת הַבַּעַל. הָלַךְ הָאָב עִם שְׁלוּחֵי הַבַּעַל, אוֹ שֶׁהָלְכוּ שְׁלוּחֵי הָאָב עִם שְׁלוּחֵי הַבַּעַל — הֲרֵי הִיא בִּרְשׁוּת הָאָב. מָסְרוּ שְׁלוּחֵי הָאָב לִשְׁלוּחֵי הַבַּעַל — הֲרֵי הִיא בִּרְשׁוּת הַבַּעַל.

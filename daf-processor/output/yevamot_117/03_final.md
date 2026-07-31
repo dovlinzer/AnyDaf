@@ -1,4 +1,5 @@
 # Yevamot 117 — Daf Yomi Shiur
+[DAF:117a]
 
 ## Shammai vs. Hillel
 
@@ -214,6 +215,7 @@ A question was raised in *Eretz Yisrael* (*ba'u b'ma'arava*): what is the status
 
 *Mi mapka da'atah d'nasva v'naflah kamei yavam v'sanyah lah?* — Is this future mother-in-law already anticipating the possibility that this woman will fall before her son for *yibum*, and has she begun to hate her preemptively? Is she, so to speak, getting a head start on the inevitable animosity?
 
+[DAF:117b]
 ### Both Die Case
 
 > **Hebrew/Aramaic:** תָּא שְׁמַע, אָמְרָה: ״מֵת בַּעְלִי וְאַחַר כָּךְ מֵת חָמִי״ — תִּנָּשֵׂא וְתִטּוֹל כְּתוּבָּה, וַחֲמוֹתָהּ אֲסוּרָה. מַאי טַעְמָא חֲמוֹתָהּ אֲסוּרָה? לָאו מִשּׁוּם דְּאָמְרִינַן לָא בַּעְלַהּ מִיית וְלָא חֲמוּהָ מִיית, וְהָא דְּקָאָמְרָה הָכִי — לְקַלְקוֹלַאּ לַחֲמוֹתָהּ הוּא דְּקָמִיכַּוְּונָא, סָבְרָה: לְבָתַר שַׁעְתָּא לָא תֵּיתֵי (תִּצְטַעֲרַן).

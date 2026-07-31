@@ -1,6 +1,6 @@
 # Bava Batra 12 — Daf Yomi Shiur
 
-## Courtyard Division & Mav…
+## Courtyard & Mavoy
 
 ### Courtyard Division
 

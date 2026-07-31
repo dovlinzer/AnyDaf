@@ -1,4 +1,5 @@
 # Eruvin 21 — Daf Yomi Shiur
+[DAF:21a]
 
 ## Passei Biraot Rules
 
@@ -194,6 +195,7 @@ Rava offers a different reading of *haduda'im natnu rei'ach*. Rather than both b
 
 Rava continues with the next phrase: *ve'al petacheinu kol megadim* — by our doorways are all manner of delicacies. This refers to *benot Yisrael shemagidot pitcheihen leva'aleihen* — the women of Israel who faithfully report their status as *niddot* to their husbands. An alternate version reads *she'ogdot pitcheihen leva'aleihen* — they bind up their openings, scrupulously observing the laws of *niddah* and refraining from relations during the forbidden period.
 
+[DAF:21b]
 ### Mandrakes Drasha
 
 > **Hebrew/Aramaic:** ״חֲדָשִׁים גַּם יְשָׁנִים דּוֹדִי צָפַנְתִּי לָךְ״ — אָמְרָה כְּנֶסֶת יִשְׂרָאֵל לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: רִבּוֹנוֹ שֶׁל עוֹלָם, הַרְבֵּה גְּזֵירוֹת גָּזַרְתִּי עַל עַצְמִי יוֹתֵר מִמַּה שֶּׁגָּזַרְתָּ עָלַי, וְקִיַּימְתִּים.

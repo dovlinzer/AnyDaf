@@ -1,6 +1,6 @@
 # Yevamot 23b — Daf Yomi Shiur
 
-## Unknown Marriage Cas (II)
+## Unknown Marriage Case
 
 ### Opening & Context
 
@@ -10,7 +10,7 @@ The daf begins after the *mishnah* on 23b, with the *gemara* picking up approxim
 
 The opening scenario of the *mishnah* concerns a man who married one of two sisters without knowing which one he had married. The *gemara* initially infers from this case that *kiddushin she'einam re'uyim le'biah* — an act of betrothal that can never lead to marital relations — is nonetheless halachically binding. This inference follows because the scenario assumes that from the very moment of *kiddushin*, it was impossible to determine which woman was his wife, and therefore it was never possible to be intimate with either sister, since one might be one's wife's sister.
 
-## Kiddushin Unsuitable (II)
+## Kiddushin She'einam Re'u
 
 ### Binding Nature Question
 
@@ -92,25 +92,25 @@ The *mishnah* prescribes a specific solution: each pair of brothers coordinates 
 
 This arrangement systematically removes the problem of *achot zikukato*. By performing *chalitzah* with Leah, the first brother dissolves whatever *zikah* he might have had to Leah from the first husband's marriage, so that Leah is no longer in a state of *zikukato* with respect to Levi. By performing *chalitzah* with Rachel, Shimon removes Rachel from the state of *zikukato* with respect to Levi, so that Levi may now perform *yibum* with Leah. The same logic operates symmetrically for the other pair and Rachel. The *gemara* asks why this ruling was necessary given that earlier rulings covered similar ground, and answers that one might otherwise have thought a concern exists that, since *chalitzah* and *yibum* are being performed in each pair, participants might bypass the *chalitzah* and rush directly to *yibum*. The *mishnah* therefore teaches explicitly that the ordered sequence is mandatory.
 
-## Mishnah Language & Seifa
-
-### Language Analysis
-
-The *mishnah*'s language — *ve'eino yodeia* rather than *ve'eino yadu'a* — was already shown to confirm that the *mishnah* deals with a case of subsequent confusion, not original indeterminacy. This precision permeates the entire structure of the *mishnah*'s rulings.
-
 ## Certain Case Contrast
 
 ### Certain Marriage Case
 
-The *gemara* now compares the foregoing uncertain scenarios to a distinct case taught elsewhere in the *mishnah*: four brothers, two of whom are married to two sisters. This is not a case of doubt — it is known that Reuven is married to Rachel and Shimon is married to Leah. Both Reuven and Shimon die. The *mishnah* rules: *harei elu choltzot velo mityabmot* — the surviving brothers Levi and Yehuda must perform *chalitzah* with both women; neither may perform *yibum*.
+The *mishnah*'s language — *ve'eino yodeia* rather than *ve'eino yadu'a* — was already shown to confirm that the *mishnah* deals with a case of subsequent confusion, not original indeterminacy. This precision permeates the entire structure of the *mishnah*'s rulings.
+
+## Both Yibum & Kohanim
 
 ### Why Both Chalitzah
+
+The *gemara* now compares the foregoing uncertain scenarios to a distinct case taught elsewhere in the *mishnah*: four brothers, two of whom are married to two sisters. This is not a case of doubt — it is known that Reuven is married to Rachel and Shimon is married to Leah. Both Reuven and Shimon die. The *mishnah* rules: *harei elu choltzot velo mityabmot* — the surviving brothers Levi and Yehuda must perform *chalitzah* with both women; neither may perform *yibum*.
+
+### Rashi's Explanation (II)
 
 This ruling requires explanation. One might have supposed that the same solution applied in the uncertain case would apply here: Levi performs *chalitzah* with Rachel, thereby releasing Rachel from the state of *zikukato*, and then proceeds to perform *yibum* with Leah. Why is that not permitted here?
 
 The *gemara* offers two distinct rationales, each tied to a different position in an underlying dispute.
 
-### Rashi's Explanation
+### Bitul Mitzvas Yevamim
 
 According to the position that *yesh zikah* — that the *zikah* creates a quasi-marital bond — Rashi explains the distinction as follows. At the very moment both Reuven and Shimon die, Rachel becomes forbidden to Levi as *achot zikukato*: she is the sister of Leah, to whom he is *zakuk* via the *zikah* from Shimon's marriage. Now, a woman who is *achot zikukato* is not merely a woman he may not currently have relations with — she is a *yevamah* to whom there is no *mitzvah* of *yibum*, and therefore she takes on the status of *eshet ach* without the redemptive possibility of *yibum*. That makes her an *ervah*.
 
@@ -118,133 +118,133 @@ When Levi then performs *chalitzah* with Rachel, the *zikah* to Rachel is dissol
 
 This is the critical difference from the uncertain case. In the uncertain case, only one of the two sisters was actually Reuven's wife. The other sister bore no marital connection to Reuven whatsoever. If the *zikah* ran to Rachel, then Leah was *achot zikukato* — but she was not an *eshet ach* of anyone. She had no marital tie to either Reuven or Shimon. Once the *zikah* to Rachel is dissolved, Leah has no residual forbidden status. In the certain case, by contrast, both sisters are simultaneously *yevamot* — both were wives of a deceased brother — and both became simultaneously *asurot* as *ervah* the moment the *zikah* created a conflict. That simultaneous *issur* remains even after *chalitzah*.
 
-### Bitul Mitzvas Yevamim
+### Uncertain Case Tolerated
 
 The *gemara* also cites a second rationale, tied to the position of *ein zikah*. According to that position, there is no quasi-marital bond created by the *zikah*, and therefore there is no concept of *achot zikukato* as an *ervah*. Under that view, why couldn't Levi perform *yibum* with Rachel? If there is no *zikah*, there is no prohibition. Yet the *mishnah* still prohibits it.
 
 The concern in this case is *bitul mitzvas yevamim* — the nullification of the *mitzvah* of *yibbum*. If Levi were to perform *yibum* with Rachel and then Yehuda were to die before performing *yibum* or *chalitzah* with Leah, Leah would be left as *eshet ach* of Levi — his wife's sister — and neither *yibum* nor *chalitzah* could be performed with her. The *mitzvah* of *yibbum* would be entirely nullified for her, which is prohibited. To prevent this outcome, the *mishnah* mandates that both surviving brothers perform *chalitzah*, ensuring that no one proceeds with *yibum* in a way that could lead to the complete frustration of the other woman's *mitzvah*.
 
-### Uncertain Case Tolerated
+### Yibum Allowed
 
 One might then ask: why does the uncertain case tolerate both brothers proceeding with *chalitzah* and then *yibum*, given the same theoretical concern about *bitul mitzvas yevamim*? The answer is that in the uncertain case, only one of the two women was ever genuinely obligated in *yibum* or *chalitzah*. The other woman had no actual obligation at all. Since each brother can say *didi kamei ramyah* — "the obligated woman falls to me" — and since we do not know who the true *yevamah* is, there is no certainty that both women are genuinely owed *yibum* or *chalitzah*. The concern of *bitul mitzvas yevamim* therefore applies with far less force in a case built on *safek*, and accordingly the *mishnah* permits the more flexible approach in the uncertain case while forbidding it in the certain case.
 
-## Both Yibum & Kohanim
-
-### Yibum Allowed
-
-The *mishnah* further states: *kidmu ve-khnasu ein motzi'in* — if both brothers went ahead and performed *yibum*, they are permitted to remain married. Although the proper procedure required one to perform *chalitzah* before the other performed *yibum*, once both have acted, the *yibum* takes effect. The reasoning is that while the first brother to act may have initially violated the prohibition of *achot zikukato*, once his brother performed *yibum* with the other sister, the *zikah* to that sister was dissolved, removing retroactively whatever problem had existed. The marriages may therefore stand.
+## Yibum Mitzvah Order
 
 ### Kohanim Question
 
-A *baraita* taught by Sheshila adds: *ve'afilu sheneihem kohanim* — this is true even if both brothers are *kohanim*. This requires explanation. In the scenario under discussion, both brothers have each received a *chalitzah* — since the resolution involved each pair performing a *chalitzah* with one woman and a *yibum* with the other. If both brothers are *kohanim*, the concern arises that one of the women they have now married may be a *chalutza*, and a *kohen* is forbidden to marry a *chalutza*.
+The *mishnah* further states: *kidmu ve-khnasu ein motzi'in* — if both brothers went ahead and performed *yibum*, they are permitted to remain married. Although the proper procedure required one to perform *chalitzah* before the other performed *yibum*, once both have acted, the *yibum* takes effect. The reasoning is that while the first brother to act may have initially violated the prohibition of *achot zikukato*, once his brother performed *yibum* with the other sister, the *zikah* to that sister was dissolved, removing retroactively whatever problem had existed. The marriages may therefore stand.
 
 ### Chalutza Status
 
-The *baraita* rules that they may remain married. The *gemara* asks: is the prohibition of *chalutza* to a *kohen* only rabbinic? The *gemara* affirms: *chalutza d'rabanan hi* — yes, the prohibition is rabbinic in nature, and the biblical verse that includes *chalutza* alongside *gerushah* in the prohibition for *kohanim* is treated as a mere *asmakhta*.
+A *baraita* taught by Sheshila adds: *ve'afilu sheneihem kohanim* — this is true even if both brothers are *kohanim*. This requires explanation. In the scenario under discussion, both brothers have each received a *chalitzah* — since the resolution involved each pair performing a *chalitzah* with one woman and a *yibum* with the other. If both brothers are *kohanim*, the concern arises that one of the women they have now married may be a *chalutza*, and a *kohen* is forbidden to marry a *chalutza*.
 
 ### Safek Chalutza Leniency
 
-Since the prohibition is only rabbinic, a *safek chalutza* — a woman who may or may not be a *chalutza* — is treated leniently. In the present case, *chalitzah* was performed with both women, but only one of them actually required it. An act of *chalitzah* performed upon a woman who did not require it is halachically meaningless. Therefore, one of the two women is a genuine *chalutza* and the other is not; it is simply unknown which is which. Since each brother is married to only a *safek chalutza*, and *safek chalutza lo gazru bah rabanan* — the Rabbis did not extend their decree of *issur* to a *safek chalutza* — both brothers may remain married.
+The *baraita* rules that they may remain married. The *gemara* asks: is the prohibition of *chalutza* to a *kohen* only rabbinic? The *gemara* affirms: *chalutza d'rabanan hi* — yes, the prohibition is rabbinic in nature, and the biblical verse that includes *chalutza* alongside *gerushah* in the prohibition for *kohanim* is treated as a mere *asmakhta*.
 
 ### Chalutza Source Debate
+
+Since the prohibition is only rabbinic, a *safek chalutza* — a woman who may or may not be a *chalutza* — is treated leniently. In the present case, *chalitzah* was performed with both women, but only one of them actually required it. An act of *chalitzah* performed upon a woman who did not require it is halachically meaningless. Therefore, one of the two women is a genuine *chalutza* and the other is not; it is simply unknown which is which. Since each brother is married to only a *safek chalutza*, and *safek chalutza lo gazru bah rabanan* — the Rabbis did not extend their decree of *issur* to a *safek chalutza* — both brothers may remain married.
+
+### Gadol Preference
 
 The *gemara* challenges whether *chalutza* is truly only rabbinic, citing a *baraita* that derives the prohibition from a biblical verse. The *gemara* resolves that the derivation is an *asmakhta* alone. It should be noted that a significant body of Tannaitic material appears to treat *chalutza* as *d'oraisa*, and indeed this may be the position of the Yerushalmi. Nevertheless, the Bavli consistently maintains that *chalutza* is *d'rabanan*, which allows for the leniency in the *safek* case.
 
 The broader question of *chalutza*'s status is also illuminating conceptually. A *chalutza* occupies a status analogous to a *gerushah* — a divorcee — in that the *zikah* was a quasi-marriage and the *chalitzah* was its dissolution. Since widowhood is not forbidden to an ordinary *kohen* — only to a *kohen gadol* — it is the quasi-divorce aspect of *chalutza* that is halachically relevant for *kohanim*, and it is that dimension which the Rabbis addressed with their decree.
 
-## Yibum Mitzvah Order
+## Bechor Verse Drashah
 
-### Gadol Preference
+### Younger Brother Valid
 
 The next *mishnah* states: *mitzvah be-gadol le-yabbem* — the *mitzvah* of *yibum* falls first upon the eldest surviving brother.
 
-### Younger Brother Valid
+### Verse Reading
 
 Nevertheless, *ve'im kadam ha-katan zakha* — if the younger brother rushed ahead and performed *yibum*, his act is fully valid. The preference for the eldest brother does not render *yibum* by a younger brother ineffective; it establishes a proper order, but does not create an exclusive entitlement.
 
-## Bechor Verse Drashah
-
-### Verse Reading
-
-The *tanna'im* teach: *ve-haya ha-bechor asher teleid yakum al shem achiv ha-met* — the plain reading of this verse would seem to say that the firstborn son born from the *yibum* union will be named after his dead father. The *gemara*, however, reads the verse entirely differently. *Ve-haya ha-bechor* is read not as a reference to the firstborn child who will be born, but as a directive that the *bechor* — the oldest brother — is the one who performs the *yibum*. The phrase *ve-yibma* — "and he shall perform *yibum*" — is followed by *ve-haya ha-bechor*, meaning: it is the *bechor* among the brothers who performs the *yibum*.
+## Rava's Peshat Observation
 
 ### Fertile Woman Requirement
 
-*Asher teleid* — "who will bear" — is read as a qualification on the *yevamah*: the *bechor* performs *yibum* specifically with a woman who is capable of bearing children. This excludes an *ilonit* — a woman who is constitutionally infertile — from the *mitzvah* of *yibum*: *prat le'ilonit she'eina yoledet*.
+The *tanna'im* teach: *ve-haya ha-bechor asher teleid yakum al shem achiv ha-met* — the plain reading of this verse would seem to say that the firstborn son born from the *yibum* union will be named after his dead father. The *gemara*, however, reads the verse entirely differently. *Ve-haya ha-bechor* is read not as a reference to the firstborn child who will be born, but as a directive that the *bechor* — the oldest brother — is the one who performs the *yibum*. The phrase *ve-yibma* — "and he shall perform *yibum*" — is followed by *ve-haya ha-bechor*, meaning: it is the *bechor* among the brothers who performs the *yibum*.
 
 ### Inheritance Aspect
 
-*Yakum al shem achiv* — the verse continues — is read as *lenachala*: inheritance. A *gezeirah shavah* connects this phrase to a parallel usage elsewhere — *al shem acheihem yikare'u be-nachalatam*, referring to Ephraim and Menashe and the inheritance of tribal portions — establishing that *al shem* in both contexts means assuming an inheritance. Thus *yakum al shem achiv* means that the brother who performs *yibum* assumes his dead brother's portion of the estate. None of this is about naming a child; it is all about the brother performing the act of *yibum*.
+*Asher teleid* — "who will bear" — is read as a qualification on the *yevamah*: the *bechor* performs *yibum* specifically with a woman who is capable of bearing children. This excludes an *ilonit* — a woman who is constitutionally infertile — from the *mitzvah* of *yibum*: *prat le'ilonit she'eina yoledet*.
 
 ### Name Continuation
 
-*Ve-lo yimache shemo mi-Yisrael* — "and his name shall not be blotted out from Israel" — is similarly read as a qualification on the brother, not as a reference to perpetuating the dead brother's name through a child. It is read as excluding a *saris* — a sterile man — from the *mitzvah* of *yibum*: *prat le-saris she-shemo machui*, for a *saris* cannot have children, his name is already as if blotted out, and the rationale underlying the *mitzvah* does not apply to him.
-
-## Rava's Peshat Observation
+*Yakum al shem achiv* — the verse continues — is read as *lenachala*: inheritance. A *gezeirah shavah* connects this phrase to a parallel usage elsewhere — *al shem acheihem yikare'u be-nachalatam*, referring to Ephraim and Menashe and the inheritance of tribal portions — establishing that *al shem* in both contexts means assuming an inheritance. Thus *yakum al shem achiv* means that the brother who performs *yibum* assumes his dead brother's portion of the estate. None of this is about naming a child; it is all about the brother performing the act of *yibum*.
 
 ### No Peshat Value
 
-Rava makes a striking observation: *af al gav de-ve-chol ha-Torah kullah ein mikra yotze mi-yedey peshuto* — in the entire Torah, even when a *derashah* is made from a verse, the *peshat* of the verse retains some meaningful value. One may derive a halacha that overrides the plain reading, yet the plain reading continues to express something of the underlying values or spirit of the text. Rava's point is that this principle does not hold here.
-
-### Gezeirah Shavah Effect
-
-The *gezeirah shavah* connecting *yakum al shem achiv* to *lenachala* — inheritance — completely removes the verse from its apparent meaning. There is no residual *peshat* that remains operative.
-
-### Peshat Eradication
-
-As Rashi explains: *she-ein tzarich likro shemo be-shem achiv ha-met* — there is no requirement, nor even a meaningful expression of an idea, that the child born of the *yibum* be named after the deceased father. Under ordinary circumstances, even when a *derashah* re-reads a verse technically, one might still say: the spirit of the verse suggests naming the child after the dead father, and while this is not a halacha, it is a praiseworthy practice, analogous to the way some authorities treat *ve-re'item oto* by the *tzitzit* as suggesting they should be worn visibly, or the way some understand *ayin tachat ayin* as conveying a conceptual value even when the operative halacha is monetary compensation. Here, Rava teaches, no such residual spirit of the *peshat* applies. The *peshat* has been entirely eradicated.
+*Ve-lo yimache shemo mi-Yisrael* — "and his name shall not be blotted out from Israel" — is similarly read as a qualification on the brother, not as a reference to perpetuating the dead brother's name through a child. It is read as excluding a *saris* — a sterile man — from the *mitzvah* of *yibum*: *prat le-saris she-shemo machui*, for a *saris* cannot have children, his name is already as if blotted out, and the rationale underlying the *mitzvah* does not apply to him.
 
 ## Verse Audience Question
 
+### Gezeirah Shavah Effect
+
+Rava makes a striking observation: *af al gav de-ve-chol ha-Torah kullah ein mikra yotze mi-yedey peshuto* — in the entire Torah, even when a *derashah* is made from a verse, the *peshat* of the verse retains some meaningful value. One may derive a halacha that overrides the plain reading, yet the plain reading continues to express something of the underlying values or spirit of the text. Rava's point is that this principle does not hold here.
+
+### Peshat Eradication
+
+The *gezeirah shavah* connecting *yakum al shem achiv* to *lenachala* — inheritance — completely removes the verse from its apparent meaning. There is no residual *peshat* that remains operative.
+
 ### Direct Address Issue
 
-The *gemara* probes the matter further. If the *peshat* of the verse were that the child should be named after the dead father, who exactly would the Torah be addressing? If it is speaking to the *yavam* — the brother-in-law — then the verse should have said *yakum al shem achicha*, "you shall name him after your brother," speaking in the second person.
-
-### General Address
-
-Alternatively, the verse may be addressing the *beit din* or *klal Yisrael* generally, prescribing what shall be done in this situation. Under that reading, the verse is not a directive to the *yavam* personally, but a general statement of how things are to be ordered.
-
-### Brother vs. Father
-
-But even under that reading, a difficulty remains: the verse says *al shem achiv* — after his brother — rather than *al shem aviv* — after his father. If the verse is about a child being named after the deceased, the deceased is the child's father, and the verse should have said *al shem aviv ha-met*, or alternatively, from the perspective of the *beit din* addressing the yavam's child, *al shem achi aviv* — "after his father's brother." The use of *achiv* — his brother — is inexplicable on the *peshat* reading, which further supports Rava's conclusion that the *peshat* has been entirely displaced.
+As Rashi explains: *she-ein tzarich likro shemo be-shem achiv ha-met* — there is no requirement, nor even a meaningful expression of an idea, that the child born of the *yibum* be named after the deceased father. Under ordinary circumstances, even when a *derashah* re-reads a verse technically, one might still say: the spirit of the verse suggests naming the child after the dead father, and while this is not a halacha, it is a praiseworthy practice, analogous to the way some authorities treat *ve-re'item oto* by the *tzitzit* as suggesting they should be worn visibly, or the way some understand *ayin tachat ayin* as conveying a conceptual value even when the operative halacha is monetary compensation. Here, Rava teaches, no such residual spirit of the *peshat* applies. The *peshat* has been entirely eradicated.
 
 ## Brother Focus Resolution
 
+### General Address
+
+The *gemara* probes the matter further. If the *peshat* of the verse were that the child should be named after the dead father, who exactly would the Torah be addressing? If it is speaking to the *yavam* — the brother-in-law — then the verse should have said *yakum al shem achicha*, "you shall name him after your brother," speaking in the second person.
+
+### Brother vs. Father
+
+Alternatively, the verse may be addressing the *beit din* or *klal Yisrael* generally, prescribing what shall be done in this situation. Under that reading, the verse is not a directive to the *yavam* personally, but a general statement of how things are to be ordered.
+
 ### Beit Din Address
 
-The *gemara* resolves the matter: the verse speaks to the *beit din*, directing them to ensure that the *yavam* — referred to as the *bechor* because he is the eldest — performs *yibum* and assumes his dead brother's portion of the inheritance. *Yakum al shem achiv* refers not to naming a child but to the *yavam* rising to take his brother's place with respect to *nachala*.
+But even under that reading, a difficulty remains: the verse says *al shem achiv* — after his brother — rather than *al shem aviv* — after his father. If the verse is about a child being named after the deceased, the deceased is the child's father, and the verse should have said *al shem aviv ha-met*, or alternatively, from the perspective of the *beit din* addressing the yavam's child, *al shem achi aviv* — "after his father's brother." The use of *achiv* — his brother — is inexplicable on the *peshat* reading, which further supports Rava's conclusion that the *peshat* has been entirely displaced.
+
+## Bechor Exclusivity Test
 
 ### All About Brother
 
+The *gemara* resolves the matter: the verse speaks to the *beit din*, directing them to ensure that the *yavam* — referred to as the *bechor* because he is the eldest — performs *yibum* and assumes his dead brother's portion of the inheritance. *Yakum al shem achiv* refers not to naming a child but to the *yavam* rising to take his brother's place with respect to *nachala*.
+
+### Bechor Exclusivity Theory
+
 Every element of the verse — *ve-haya ha-bechor*, *asher teleid*, *yakum al shem achiv*, *ve-lo yimache shemo* — refers to the brother performing *yibum*, not to any child who may be born. The verse is entirely about the *yavam* and his obligations and entitlements, with no residual reference to a child's name.
 
-## Bechor Exclusivity T (II)
-
-### Bechor Exclusivity T (II)heory
-
-Now that the verse is established as speaking about the eldest brother, the *gemara* raises a series of further questions. Perhaps the verse intends that *only* a *bechor* — a halachic firstborn — may perform *yibum*, and non-firstborn brothers may not.
+## No Bechor Scenario
 
 ### Proof from Shelo Haya
 
+Now that the verse is established as speaking about the eldest brother, the *gemara* raises a series of further questions. Perhaps the verse intends that *only* a *bechor* — a halachic firstborn — may perform *yibum*, and non-firstborn brothers may not.
+
+### Ki Yeshvu Achim
+
 This is disproved from the concept of *eshet achiv shelo haya be-olamo* — the wife of a brother who was born after the deceased brother had already died. The Torah established a special exclusion for this case, teaching that there is no *mitzvat yibum* in such a situation. But consider: a brother born after his brother's death cannot be a *bechor* by any reckoning, since his older brother died before he was born. The fact that the Torah needed to explicitly exclude this brother from the *mitzvah* of *yibum* demonstrates that in principle such a brother — a non-firstborn — is subject to *yibum*. Otherwise, no exclusion would have been necessary.
-
-## No Bechor Scenario (II)
-
-### Bechor Presence Theory
-
-A further question: perhaps *yibum* is valid when performed by a younger brother, but only when a *bechor* is still alive. Perhaps the presence of a *bechor* is a prerequisite for the *mitzvah* to apply at all.
-
-### Two Brothers Scenario
-
-The *gemara* refutes this from the verse *ki yeshvu achim yachdav* — "when brothers dwell together." This verse links all the brothers together as an undifferentiated group, implying that the obligation falls upon the surviving brothers as a collective, regardless of whether the *bechor* is among them. Furthermore, since the verse *u-meit echad mehem* — "and one of them died" — encompasses the scenario where the *bechor* himself died, leaving only a younger brother, and the Torah still mandates *yibum*, it is clear that the presence of a *bechor* is not a precondition.
 
 ## Bechor Exclusivity T (II)
 
 ### Younger Brother Valid
 
+A further question: perhaps *yibum* is valid when performed by a younger brother, but only when a *bechor* is still alive. Perhaps the presence of a *bechor* is a prerequisite for the *mitzvah* to apply at all.
+
+### Bechor Presence Theory
+
+The *gemara* refutes this from the verse *ki yeshvu achim yachdav* — "when brothers dwell together." This verse links all the brothers together as an undifferentiated group, implying that the obligation falls upon the surviving brothers as a collective, regardless of whether the *bechor* is among them. Furthermore, since the verse *u-meit echad mehem* — "and one of them died" — encompasses the scenario where the *bechor* himself died, leaving only a younger brother, and the Torah still mandates *yibum*, it is clear that the presence of a *bechor* is not a precondition.
+
+## No Bechor Scenario (II)
+
+### Two Brothers Scenario
+
 The case of *eshet achiv shelo haya be-olamo* reinforces this conclusion: the brother born after the deceased cannot be a *bechor*, yet *yibum* applies to him in principle. This confirms that *yibum* is not conditioned on the performing brother being a *bechor*.
 
-## Gadol Hierarchy (II)
+## Gadol Hierarchy
 
 ### Abbaye's Teaching
 
@@ -254,7 +254,7 @@ Abbaye the elder (*Abbaye kishisha*) teaches: *mitzvah be-gadol le-yabeim* — i
 
 If the *gadol* refuses or is unwilling, the obligation passes to the next younger brother — *achiv ha-katan* — and proceeds down in order of seniority among the surviving brothers.
 
-## Preference vs. Exclusivi…
+## Bechor Preference & Yibum
 
 ### Preference Question
 
@@ -298,7 +298,7 @@ If the verse's mention of *bechor* does not limit the *mitzvah* to firstborns, d
 
 The *gemara* answers: *le-garei-uta* — to limit privileges, specifically to impose on the *yavam* the same limitation that applies to a *bechor* in matters of inheritance.
 
-### Possession vs. Prospecti…
+### Bechor: Not Prospect
 
 A *bechor* receives a double portion in his father's estate, but only in property that was *muchzak* — actually in his father's possession at the time of death — and not in property that was *ra'uy* — prospective or expected but not yet realized. The verse, by calling the *yavam* a *bechor*, applies this same limitation to him: he inherits the dead brother's actual possessions, but not the dead brother's prospective entitlements.
 

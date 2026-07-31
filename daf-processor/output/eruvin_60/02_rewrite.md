@@ -1,6 +1,6 @@
 # Eruvin 60 — Daf Yomi Shiur
 
-## Overlapping Cities & Sta…
+## Overlapping Cities Status
 
 ### Chazon Ish Squares
 

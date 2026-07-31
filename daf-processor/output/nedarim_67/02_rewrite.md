@@ -40,7 +40,7 @@ The Ran opens his commentary with a foundational observation: *afilu nedarim she
 
 This is a striking conceptual point. One might have expected that the *arus*, now that the father is out of the picture, would simply step into that role. But no: the *arus*'s capacity to annul is not an independent power. It is derivative of the father's authority. Where the father has no standing, neither does the *arus*.
 
-### Groom Annuls Pre-Betroth…
+### Groom Annuls Pre-Betroth
 
 This leads directly to an important conceptual clarification. Normally, a husband who enters *nisuin* cannot annul vows his wife took before the marriage. The logic is clear: his domain begins at the moment of *nisuin*, and what preceded it was outside his purview. Why, then, can the *arus* annul vows from before the *erusin*?
 

@@ -1,4 +1,5 @@
 # Shabbat 91 — Daf Yomi Shiur
+[DAF:90b]
 
 ## Spices & Tziruf
 
@@ -70,6 +71,7 @@ Rav Nachman in the name of Rabbah bar Avuha explains: *lefi she'ein adam tore'ac
 
 The *mishna* turns to cleansing agents. *Mei raglayim* — urine — was used in the laundering process. A *braisa* adds the qualification *ad ben arba'im yom* — until forty days. Tosafos raises several possibilities for what this means: whether it refers to the age of the infant whose urine is in question, whether it means urine that has been aged forty days, or whether the effective period begins or ends at forty days. The *mishna* also includes *neter* — natron, a mineral cleanser. A distinction is drawn between *neter Alexandrit*, Alexandrian natron, and *neter Antipantiron*, which appears to be of a different provenance — Rashi suggests the latter derives from a plant source rather than a mineral one. The standard measure for all these cleansers is the amount needed to remove a stain from the small cloth used at the opening of a hairnet.
 
+[DAF:91a]
 ### Borit & Shevi'is
 
 > **Hebrew/Aramaic:** הַמּוֹצִיא בּוֹרִית. אָמַר רַב יְהוּדָה: בּוֹרִית — חוֹל. גְּמָ׳ וּרְמִינְהִי: הַבּוֹרִית וְהַחוֹל! מִכָּאן שֶׁבּוֹרִית אֵינוֹ חוֹל.
@@ -328,6 +330,7 @@ Rashi's comment here has significant implications beyond the immediate case. He 
 
 ## Matznia Principle
 
+[DAF:91b]
 ### Setting Aside Items
 
 > **Hebrew/Aramaic:** מַתְנִי׳ הַמַּצְנִיעַ לְזֶרַע וּלְדוּגְמָא וְלִרְפוּאָה וְהוֹצִיאוֹ בְּשַׁבָּת — חַיָּיב בְּכׇל שֶׁהוּא. וְכׇל אָדָם — אֵין חַיָּיב עָלָיו אֶלָּא כְּשִׁיעוּרוֹ. חָזַר וְהִכְנִיסוֹ — אֵינוֹ חַיָּיב אֶלָּא כְּשִׁיעוּרוֹ.

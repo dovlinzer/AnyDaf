@@ -14,7 +14,7 @@ The Gemara addresses this through a narrative case. A man sent a *get* to his wi
 
 Rav Nachman said: if we were to rule in accordance with Rabbi Chanina — that a wife can indeed appoint a *shaliach* to receive the *get* from the husband's *shaliach* — then I would have ruled that this case is valid. After all, the husband had appointed the man as his *shaliach*, and the wife subsequently appointed him as her *shaliach* to receive it.
 
-### Simultaneous Representation
+### Rava: Agent Both Parties
 
 Rava objected: even if we rule like Rabbi Chanina, this case would still be problematic — *lo chazar shlichus eitzel ha'ba'al*. There is a principle that the *shaliach*'s role as the husband's representative must persist through the completion of his *shlichus*, such that he can return and report that he fulfilled his mission. This does not mean literally that he must remain alive afterward, nor that the *shlichus* cannot be time-limited. Rather, the problem here is that at the very moment of giving the *get*, the *shaliach* cannot simultaneously occupy both roles — representing the husband in the act of giving while also representing the wife in the act of receiving. When he switches to become the wife's *shaliach*, he ceases to represent the husband. There is also a lack of a proper act of *nesina*. He has essentially given the *get* to himself, which is no giving at all. The *shlichus* on the husband's side therefore fails at the critical moment.
 
@@ -28,7 +28,7 @@ Rabbi Chiya bar Abba declared that the matter requires further investigation —
 
 Since it involves *davar she'be'erva* — a matter affecting personal status — he was compelled to rule with caution: she is a *safek megureshes*. Practically, this means that if the husband were to die and there is a *yavam*, she cannot perform *yibbum* because she might already be a *gerusha*, yet she is not free from the *yibbum* obligation entirely because she might be an *almana*. She is therefore required to perform *chalitza*. The case thus closes with a formal *safek* as to whether the principle of *chazar shlichus eitzel ha'ba'al* invalidates this arrangement entirely.
 
-### Nafsha Case & Shlichus Completed
+### Nafsha & Get: Witnesses
 
 The Gemara now introduces a case involving a man known as Nafsha. Witnesses were sent to write his *get*, but they wrote the name "Tafsha" instead. Rabbi Yitzchak bar Shmuel bar Marta ruled in the name of Rav: the witnesses have completed their *shlichus*. Since the husband appointed them as his *shlichim* to write the *get* and they wrote one — even if incorrectly — they have discharged their agency. If a new *get* is needed, the husband must reappoint them.
 
@@ -38,7 +38,7 @@ Rava challenged this: when the husband said "write," did he say *kesuvu v'chasuv
 
 Rava then addressed a different scenario: suppose the witnesses wrote a perfectly valid *get* but it was subsequently lost before they could deliver it. In that case, *asu eidim shlichusam* — the witnesses have completed their agency of writing. If the husband wants another *get* written, he would need to appoint them anew.
 
-### Unified Writing & Delivery
+### Writing & Delivery Unite
 
 Rav Nachman challenged Rava's latter position: when the husband said "write a *get*," did he say *kesuvu v'anchu b'kisaychu* — write it and keep it in your pocket? The entire purpose of writing a *get* was to write it and deliver it. Writing and delivery are one indivisible package. Until a kosher *get* has actually been delivered to the wife, the *shlichus* is not complete, and the witnesses may write and rewrite as many times as necessary — *kosvin v'nosnin afilu mea pe'amim*.
 
@@ -48,7 +48,7 @@ Tosafot raises a careful distinction. Tosafot understands that where a *get* was
 
 This position seems puzzling at first glance. If we are uncertain whether they completed their *shlichus*, why not simply write another *get*? If the first was valid they did not need the second, and if it was not, the second would fix the problem. Tosafot's concern is that one should not give the woman a *get* that is only *safek kasher*. Since you do not wish to hand her a document of uncertain validity, and yet if it was in fact valid you are no longer authorized to write another, the resulting difficulty is that you cannot hand over a *get* of which you are proud. Tosafot therefore concludes: it is best to instruct the husband to say explicitly that he authorizes the witnesses to do whatever is necessary until a fully kosher *get* is delivered with certainty. That formulation resolves all the potential difficulties.
 
-### Get Given to Shaliach Lost
+### Get to Shaliach Lost
 
 A question was then posed to Rava and Rav Nachman: suppose the husband says to witnesses *kitvu u-tenu le-shaliach* — write the *get* and give it to the *shaliach*. The witnesses do so, but the *shaliach* subsequently loses the *get* or dies in transit before delivering it. What is the rule? Have the witnesses been *siluki* — effectively dismissed, their role complete — such that they would need to be reappointed? Or perhaps the husband's instruction to give the *get* to a *shaliach* rather than deliver it themselves was merely a concession to spare them the trouble of the journey, while their underlying obligation still encompassed ensuring the delivery. Since the *get* was never in fact delivered, they remain empowered to rewrite.
 
@@ -66,7 +66,7 @@ A *Baraita* elaborates on the language of reception: *toli*, *sali*, *yehei b'ya
 
 ---
 
-## Evidence & Proof Requirements
+## Proof & Evidence for Get
 
 ### Two Sets of Witnesses
 
@@ -86,7 +86,7 @@ Tosafot therefore explains the *afilu* differently: it tells us that we do not s
 
 As for the underlying question of *chatzi davar*, Tosafot notes that there are circumstances under which additional parties — such as the *shaliach* himself — could be believed to supply the missing information about his appointment, or the husband could be believed in certain respects. When such alternative means exist to fill the gap, it may not constitute a true case of *chatzi davar* that disqualifies the testimony.
 
-### Same or Different Witnesses
+### Same or Different Witness
 
 The *Mishnah* further states: *v'echad min ha-rishonim v'echad min ha-acharonim v'echad mitztaref imahem* — even if a single witness overlaps between the two groups, that is also valid. Tosafot explains the novelty here as well: one might have suspected that a single individual who appears at both stages — say, Shimon — was hired by the wife to stitch together a false narrative, testifying alongside Reuven that the *shaliach* was appointed and alongside Levi that he received the *get*. The *Mishnah* tells us we do not entertain this suspicion. The upshot is that it does not matter whether the witnesses at the appointment and the reception are entirely the same, entirely different, or partially overlapping — the requirement is simply that there be witnesses at both stages.
 
@@ -168,7 +168,7 @@ The *Mishnah* states: *hi v'aviha mekablin et gittah* — she and her father can
 
 The *Mishnah* then adds a general principle: *ve-chol she-eina yechola lishmor et gittah eina yechola l'hitgareish* — any woman who cannot safeguard her own *get* cannot be divorced.
 
-### Rashi vs. Tosafot: Understanding Divorce
+### Rashi vs. Tosafot: Child
 
 Rashi and Tosafot dispute the meaning of this principle. Rashi understands it to mean that even when the father receives the *get*, if the child is so young that she does not understand what *gerushin* means — if she cannot grasp that she is divorced and act accordingly, described in the Gemara with the phrase *meshaleches v'eina chozeres*, that she goes away and does not return the next day thinking nothing has changed — then the *get* cannot effect a divorce even through the father's reception. Rashi requires a minimal level of comprehension on the girl's part as a condition of the *gerushin* taking effect, even if she is not the one receiving it.
 

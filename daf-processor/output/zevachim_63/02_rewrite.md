@@ -8,7 +8,7 @@ Today's daf is 63, and we begin with the next *mishnah*. What makes this *mishna
 
 The previous *perek* was organized around the major distinctions governing *korbanot*: *kodshei kodashim* were slaughtered in the north of the *azarah*, while *kodshei kalim* were not; *kodshei kodashim* were eaten only within the *azarah*, *lifnim min hake'laim*, while the *shlamim*, as a representative *kodshei kalim*, could be eaten throughout all of *Yerushalayim*. That was the dominant framework of the previous *perek*. The opening of our *perek* then raised certain variations — what happens if one slaughters *kodshei kodashim* at the top of the *mizbe'ach* — essentially wrapping up residual questions from before. Now, with this *mishnah*, we turn to the *mincha*, which provides a revealing contrast.
 
-### Mishnah: Kemitzah Anywhe…
+### Kemitzah Anywhere Azarah
 
 The contrast is immediately striking. A *mincha* is, in every conventional sense, *kodshei kodashim*: it is eaten only by male *kohanim*, and only within the *azarah*. One might therefore have expected that the primary act of the *mincha* — the *kemitzah*, the taking of the handful of flour which is the analog to *shechitah* for animal offerings — would likewise be restricted to a specific location, presumably the north. But the *mishnah* opens by declaring otherwise:
 
@@ -18,7 +18,7 @@ The contrast is immediately striking. A *mincha* is, in every conventional sense
 
 The *mishnah* then continues with language that is virtually word-for-word identical to the rules governing *kodshei kodashim* in other respects: eaten by male *kohanim*, within the *azarah*, during the day and the following night until midnight, and so forth. The purpose of this *mishnah*, then, is specifically to highlight this one surprising divergence — that the location of the *kemitzah* carries no geographic restriction within the courtyard.
 
-### Menachot vs. Kodshei Kod…
+### Menachot vs Kodshei
 
 This sets up the central analytic tension of the *perek*: in what ways does the *mincha* follow the rules of *kodshei kodashim*, and in what ways does it deviate? The *mishnah* demonstrates that despite its status as *kodshei kodashim*, the *mincha* does not carry the northern requirement for its defining sacrificial act. The *Gemara* will now explore both the outer limits — can the *kemitzah* be performed even inside the *heichal*? — and the inner logic — why does the *mincha* not require the north at all?
 
@@ -76,7 +76,7 @@ The resolution hinges on recognizing what the verse is actually teaching. One mi
 
 ## No North Requirement
 
-### North Requirement Questi…
+### North vs Kodshei Kodashim
 
 With the geographic flexibility of *kemitzah* established, the *Gemara* now addresses the underlying question: why doesn't the *mincha* require the north at all? After all, it is *kodshei kodashim*, and the north is the defining feature of *kodshei kodashim* slaughter. The *Gemara* sets up what should have been a compelling *hava amina*:
 
@@ -116,7 +116,7 @@ The basis for Rabbi Yochanan's ruling is a *kal vachomer*. The verse states that
 
 But this *kal vachomer* is immediately challenged.
 
-### Kodshei Kodashim in Heic…
+### Kodshei Kodashim Heichal
 
 The challenge comes from a *baraita* in the name of Rabbi Yehudah ben Beteira. He raises the case of a siege: if *ovdei kochavim* surrounded the entire *azarah*, what is the *din* for the *kohanim* who find themselves inside the *heichal*? May they eat their *kodshei kodashim* there? Rabbi Yehudah ben Beteira derives permission from the verse *bakodesh hakodashim tochalennu* — "in the holy of holies you shall eat it" — which provides explicit textual authorization for eating *kodshei kodashim* within the *heichal*.
 
@@ -160,7 +160,7 @@ The exception to this rule was made for the three acts associated with the south
 
 ---
 
-## Southwest Corner Derivat…
+## Southwest Corner Verses
 
 ### Text Corruption
 

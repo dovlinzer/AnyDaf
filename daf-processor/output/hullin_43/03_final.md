@@ -1,4 +1,5 @@
 # Hullin 43 — Daf Yomi Shiur
+[DAF:42b]
 
 ## Tannaitic Treifos & 18
 
@@ -98,6 +99,7 @@ The *gemara* raises an objection. If we are consolidating at this level, then th
 
 Furthermore, Rav Avya's teaching about a hole in the spleen is also a case of a hole, and must be absorbed into the holes category. That reduces our count by yet another, leaving us at sixteen rather than eighteen — meaning we have opened up nine spaces when we only needed seven.
 
+[DAF:43a]
 ### Balance to 18
 
 > **Hebrew/Aramaic:** אֶלָּא הָנָךְ תַּרְתֵּי דְּאַפֵּקְתְּ, לָא תַּפֵּיק.
@@ -300,6 +302,7 @@ This question is also central to the laws of *glatt* meat. The word *glatt* mean
 
 Ulla teaches: if a thorn is found lodged in the wall of an animal's esophagus, we are not concerned that it may have pierced all the way through the wall and that the outer layer subsequently healed over. Rashi gives two possible readings of the word *hivri*: either it means "healed," so that we are not concerned that the thorn pierced through and the wound then closed; or, following the *aruch*, it means "pierced," so that we are simply not concerned that the partial penetration we observe extended all the way through. In either reading, the ruling is that the visible partial penetration does not obligate us to assume the worst.
 
+[DAF:43b]
 ### Safek Principles
 
 > **Hebrew/Aramaic:** (דָּרַס חֲתִיכוֹת בְּסַכִּין טְמֵאָה, סִימָן)

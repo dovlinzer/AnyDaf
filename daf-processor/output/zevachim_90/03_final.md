@@ -1,4 +1,5 @@
 # Zevachim 90 — Daf Yomi Shiur
+[DAF:90a]
 
 ## Holiness Principle
 
@@ -182,6 +183,7 @@ The rationale given within the *Mishnah* for the animal hierarchy is as follows:
 
 The *Gemara* deflects the apparent challenge by suggesting that perhaps the *musaf* ordering is not about a *chatat* coming last — perhaps the debate concerns only different *olot* brought by different people, and the goats as a *chatat* are a separate matter not addressed by this ranking. But the *Gemara* is not fully comfortable with this evasion.
 
+[DAF:90b]
 ### Avodah Zarah Case
 
 > **Hebrew/Aramaic:** תָּא שְׁמַע: פַּר כֹּהֵן מָשִׁיחַ קוֹדֵם לְפַר הֶעְלֵם דָּבָר שֶׁל צִבּוּר, פַּר הֶעְלֵם דָּבָר שֶׁל צִבּוּר קוֹדֵם לְפַר עֲבוֹדָה זָרָה, פַּר עֲבוֹדָה זָרָה קוֹדֵם לִשְׂעִירֵי עֲבוֹדָה זָרָה. דְּאַף עַל גַּב דְּפַר עֲבוֹדָה זָרָה עוֹלָה, וּשְׂעִירֵי עֲבוֹדָה זָרָה חַטָּאת!

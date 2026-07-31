@@ -1,4 +1,5 @@
 # Bava Kamma 103 — Daf Yomi Shiur
+[DAF:102b]
 
 ## Shinui Koneh Review
 
@@ -80,6 +81,7 @@ Seemingly, if the *Bnei Maarava* are correct, then merely writing the *Reish Gal
 
 The *gemara* resolves this: *im mishum ha lo kashya* — the challenge is no difficulty, because the case is one where the buyer did in fact inform the seller (*baal hasadeh*) that he was purchasing on behalf of the *Reish Galuta*. And he also informed the witnesses to that effect. The *gemara* acknowledges that one might have imagined the buyer told only the witnesses — so that the document would be written in the *Reish Galuta*'s name for protective purposes — without informing the seller himself. The answer is that the seller was informed, and therefore even according to the *Bnei Maarava* the acquisition takes effect.
 
+[DAF:103a]
 ### Abaye's Reading
 
 > **Hebrew/Aramaic:** אֶלָּא אָמַר אַבָּיֵי, הָכִי קָאָמַר: הַלּוֹקֵחַ שָׂדֶה בְּשֵׁם חֲבֵירוֹ, רֵישׁ גָּלוּתָא – אֵין כּוֹפִין אֶת הַמּוֹכֵר לִמְכּוֹר זִימְנָא אַחֲרִיתִי. וְאִם אָמַר לוֹ: ״עַל מְנָת״ – כּוֹפִין אֶת הַמּוֹכֵר לִמְכּוֹר.
@@ -280,6 +282,7 @@ On this reading, Rabbi Tarfon effectively incorporates this *takana*. Even in pr
 
 Rabbi Akiva rejects the application of this *takana* to the five-person case, and his reasoning is pointed. Rabbi Akiva might in principle accept a *takana* when it is known who the victim is — *heicha deyada l'man gazlei*. In such cases, depositing the money with the *Beit Din* still results in the money ultimately reaching the victim, *d'kamahadar mamona l'mareih* — the money finds its way back to the owner. But when one stole from an unknown member of a group of five and gives the money to the *Beit Din*, there is no mechanism guaranteeing the actual victim will ever receive it — *d'lo ahadurei mamona l'mareih*, the money may never be returned to its true owner. Rabbi Akiva holds that no rabbinic *takana* would be enacted in circumstances where the victim is not certain to receive restitution. Therefore, the full obligation stands: pay each person individually.
 
+[DAF:103b]
 ### R. Shimon Clarifies
 
 > **Hebrew/Aramaic:** מֵתִיב רַב הוּנָא בַּר יְהוּדָה, אָמַר רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר: לֹא נֶחְלְקוּ רַבִּי טַרְפוֹן וְרַבִּי עֲקִיבָא עַל שֶׁלָּקַח אֶחָד מֵחֲמִשָּׁה וְאֵינוֹ יוֹדֵעַ מֵאֵיזֶה מֵהֶן לָקַח – שֶׁמַּנִּיחַ דְּמֵי מִקָּח בֵּינֵיהֶם וּמִסְתַּלֵּק. עַל מָה נֶחְלְקוּ? שֶׁגָּזַל אֶחָד מֵחֲמִשָּׁה בְּנֵי אָדָם, וְאֵינוֹ יוֹדֵעַ מֵאֵיזֶה מֵהֶן גָּזַל; שֶׁרַבִּי טַרְפוֹן אוֹמֵר: מַנִּיחַ דְּמֵי גְּזֵילָה בֵּינֵיהֶם וּמִסְתַּלֵּק, וְרַבִּי עֲקִיבָא אוֹמֵר: אֵין לוֹ תַּקָּנָה, עַד שֶׁיְּשַׁלֵּם גְּזֵילָה לְכׇל אֶחָד וְאֶחָד.

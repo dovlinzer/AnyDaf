@@ -1,4 +1,5 @@
 # Eruvin 44 — Daf Yomi Shiur
+[DAF:44a]
 
 ## Boat Landing & Techum
 
@@ -176,6 +177,7 @@ This connects to a broader dispute among later authorities regarding the nature 
 
 Importantly, Rav Henkin's approach carries its own stringency: if the *mechitza* must serve as a formal halakhic wall, it must come within three *tefachim* of the ground (*lavud*). In one of his *teshuvot*, he critiques a particular kibbutz where the *mechitza* was a suspended fabric screen that began more than three *tefachim* off the floor — which would be halakhically invalid on that understanding. The practical consequence for our *sugya* is direct: if the *mechitza* serves a formal halakhic function, it cannot be erected on *Shabbat*, because creating a halakhic wall is prohibited. If it serves only a practical function of modesty or visual separation, it may be erected on *Shabbat*.
 
+[DAF:44b]
 ### Unaware People Rule
 
 > **Hebrew/Aramaic:** אָדָם אַאָדָם נָמֵי לָא קַשְׁיָא: כָּאן — לְדַעַת, כָּאן — שֶׁלֹּא מִדַּעַת.

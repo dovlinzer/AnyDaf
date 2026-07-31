@@ -16,7 +16,7 @@ Two further opinions appear in a *braisa*. The *Chachamim* hold that the *nazir*
 
 ---
 
-## Woman Nazira - Husband A…
+## Woman Nazira Becomes
 
 ### Case Setup
 
@@ -46,7 +46,7 @@ The *Gemara*'s answer is striking: *le'olam kasavar baal meaker aker* — he hol
 
 ## Elazar HaKappar Sinner
 
-### Soul/Nefesh Interpretati…
+### Soul/Nefesh: Sinning
 
 The *Gemara* cites a *braisa*: Rabbi Elazar HaKappar beRabbi says — *mah talmud lomar, vechiper alav measher chata al hanefesh* — what does it mean that the verse says the *nazir tamei* is atoned because he sinned *al hanefesh*, against the soul? Rabbi Elazar HaKappar asks: against which *nefesh* did he sin? His answer: *ela shetzier atzmo min hayayin* — he sinned in that he denied himself wine.
 

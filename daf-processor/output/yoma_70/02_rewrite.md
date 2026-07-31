@@ -12,7 +12,7 @@ While most discussion of this *aggadata* focuses on the second part — the *yet
 
 The first dimension is historical. *Chazal* tell us that the First Temple fell due to *avodah zarah*, *gilluy arayos*, and *shefichas damim*, whereas the Second Temple fell due to *sinas chinam*. And indeed, when one reads the *Nevi'im*, the refrain is constant: *od ha'am mezabbechim umekatterim babbamos rak habbamos lo saru* — the people continued sacrificing and burning incense at the *bamot*; *avodah zarah* is a pervasive concern throughout the First Temple period. In the Second Temple period, by contrast, it essentially disappears as a communal sin. This reflects a broader historical reality: the ancient world was undergoing a gradual waning of serious pagan belief, laying the groundwork for the monotheistic faiths that would follow. The *aggadata*, then, is at least partly capturing this genuine historical shift, even though the *pesukim* in Nechemiah that frame the story do not explicitly mention *avodah zarah* — they allude more generally to repeated past sinfulness.
 
-### Keruvim & Physical Conne…
+### Keruvim & Idolatry
 
 The second dimension is more striking: the *Gemara* describes the *yetzer hara* of *avodah zarah* as emerging like a lion of fire from the *Kodesh Kodashim*. What is the *yetzer hara* of *avodah zarah* doing in the *Kodesh Kodashim*?
 
@@ -156,7 +156,7 @@ After completing the *avodah* in the white garments, the *Kohen Gadol* immerses 
 
 ---
 
-## Mussaf Timing Disput (II)
+## Mussaf Timing Dispute
 
 ### Rabbi Eliezer Split
 

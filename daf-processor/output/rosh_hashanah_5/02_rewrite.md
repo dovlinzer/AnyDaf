@@ -44,7 +44,7 @@ The Gemara asks: *u-Pesach bar mikra b'regalim hu?* Can the *korban Pesach* be b
 
 Rav Sheshes offers an alternative reading. *Mai Pesach?* he asks — what does "Pesach" in the Baraita mean? He answers: *shalmei Pesach* — a *shelamim* that originated from a *Pesach* sacrifice. The scenario is as follows: one sanctified an animal as a *korban Pesach*, the animal was lost, another was brought in its place, and then the original was found. The found animal, which had been a *korban Pesach*, now carries the status of *shelamim*. That animal is subject to the obligation of being brought within three *regalim* and is therefore subject to *bal tacher*.
 
-### Shelamim Pesach Vs Regul…
+### Shelamim vs Regular
 
 But the Gemara challenges Rav Sheshes: if it is simply a *shelamim*, why was it necessary to specify? The Baraita has already listed *shelamim*. The answer is that there are two distinct cases: a *shelamim* that originates from a *Pesach* (*shelamim habaim machmat ha-Pesach*) and an ordinary *shelamim* (*shelamim habaim machmat atzman*). One might have thought — *salka daitach amina* — that since the animal originated as a *Pesach*, perhaps it retains a quasi-*Pesach* character: *ho'il u-machmat Pesach ka-atu, ke-Pesach dami*. Rashi explains this to mean that perhaps one would be *over* already at the first opportunity — at the very first *regel* — just as one transgresses by missing the fourteenth of Nissan. The Baraita therefore teaches that this is not so: once the animal has assumed the status of a *shelamim*, it follows the normal rules of *shelamim* and may be brought within three *regalim*.
 
@@ -172,7 +172,7 @@ The Gemara raises the question: given this derivation from *bechor* and *ma'aser
 
 The Gemara answers: *itzterich* — both derivations are necessary. One might have argued that the *bechor/ma'aser* analogy proves the point only for *bechor* itself. Why? Because *bechor* is fundamentally a gift — *lav bar hartza'ah hu*, it is not oriented toward *hartza'ah*, the seeking of divine favor. Rashi explains that *bechor* is something one gives as a donation; its bringing is not primarily about achieving *ratzon*, divine acceptance and favor.
 
-### Sanctification Vs Connec…
+### Bechor/Maaser vs Olah
 
 Other *kodashim* — *olah*, *shelamim*, *chatat* — are fundamentally different in character. These *korbanot* are oriented toward connection with God; there is an inherent element of *le-ratzon*, of being desired and accepted. The Torah frequently describes these offerings in terms of *hartza'ah* — the *korban* "comes before God" in a way that involves divine reception and favor. *Bechor* and *ma'aser*, by contrast, are fundamentally sanctifications: one separates what belongs to God and gives it over. What does one do with the *ma'aser*? Give it to the *Leviyim*, give it to the *aniyim*. The primary religious act is the separation, the acknowledgment that this portion belongs to God. It is not the vehicle through which one achieves *ratzon* or connection. Therefore, even if one grants that *bechor* is not disqualified by late bringing, one might argue that *olah* and *shelamim* — *korbanot* oriented toward *ratzon* and divine acceptance — perhaps should be: perhaps a *korban* brought after *bal tacher* is transgressed cannot achieve *ratzon*, and therefore cannot be *oleh le-shem chovah* for the owner.
 

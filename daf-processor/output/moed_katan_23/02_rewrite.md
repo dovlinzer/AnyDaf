@@ -1,6 +1,6 @@
 # Moed Katan 23 — Daf Yomi Shiur
 
-## Batei Midrashim & Beit H…
+## Mourning in Batei Midrash
 
 ### Death of Chacham
 

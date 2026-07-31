@@ -1,8 +1,8 @@
 # Megillah 5 — Daf Yomi Shiur
 
-## Reading Dates & Tannaic…
+## Reading Dates & Tannaic
 
-### Month vs. Day-of-Week Or…
+### Month vs. Day-of-Week
 
 The Gemara on this daf opens by picking up in the middle of 4b, roughly ten lines down from the top, with the doubled word *keitzad keitzad* — "how so, how so?" — as the Mishnah begins working through the variations in reading dates. The Mishnah establishes that when *Purim* falls on a Monday, both the *kfarim* (villages) and the *ayarot gedolot* (large cities) simply read on that day. There is no complexity when the fourteenth of Adar falls on a Monday or Thursday, since those are already the designated market days on which the villages come in to town. The scheduling problem only arises when the fourteenth does not fall on one of those days.
 
@@ -74,7 +74,7 @@ This creates a clear division of the four *mitzvot* of *Purim*. The *mikra megil
 
 However, the case of *Purim meshulash* in *Yerushalayim*, where the fifteenth falls on *Shabbat*, introduces a further wrinkle. There the Megilla is read on Friday, the *seudah* is on *Shabbat*, and *mishloach manot* — given the concern about carrying on *Shabbat* — is done on Sunday. So while in the village scenario *mishloach manot* and the *seudah* remain together on the actual *Purim* date, in the *Shabbat* case the two can be separated by the practical constraints of *Shabbat* observance.
 
-## Private vs. Public Readi…
+## Reading: Private vs Pub
 
 ### Rav's Position
 
@@ -102,7 +102,7 @@ The Gemara then challenges this: would Rav really say that even *bizmanah* requi
 
 The case of *Purim* falling on *Shabbat* introduces an important conceptual refinement. When the entire date shifts — not just the villagers reading early while the town reads on the real date, but the entire population displaced from *Shabbat* to Friday — the Friday reading takes on the character of *zmanah*. In the village scenario, the population is genuinely split: some read on Monday or Thursday, others on the actual date. That is a real *shelo bizmanah* for those who read early. But when *Purim* falls on *Shabbat* and everyone, everywhere is reading on Friday, Friday has functionally become the day, and its character is more like *zmanah* than *shelo bizmanah*.
 
-### Rav Consistent with Rav…
+### Rav Consistent Assi
 
 The Gemara ultimately resolves the apparent contradiction differently. It concludes that *le-inyan mikra megillah ba-asarah* — when it comes to reading the Megilla with ten people — Rav may in fact hold like Rav Assi and always require ten. The statement *erev Shabbat zmanam* is not intended to convey a halachic distinction for the purpose of whether ten are required; rather, it is a statement directed against the position of Rabbi. Rabbi, as we saw, holds that since the reading is being displaced from *Shabbat* regardless, it might as well be pushed all the way back to Thursday. *Erev Shabbat zmanam* rejects that: Friday — not Thursday — is the appropriate day, and the statement underscores that Friday is the proper substitute, not to teach anything about the *bizmanah/shelo bizmanah* distinction for the purposes of requiring ten people.
 
@@ -132,7 +132,7 @@ The entire institution of the early village reading was predicated on a practica
 
 The Mishnah then contrasts the Megilla with several other observances: *zman atzei kohanim v'ha-am* — the day designated for bringing wood to the *Beit ha-Mikdash* — *Tisha B'Av*, *Chagiga*, and *Hakhel*. For all of these, the rule is the reverse: *ma'acharin v'lo makdimin* — they may be postponed but never advanced. If these observances fall on *Shabbat*, or cannot be performed on their designated day for another reason, they move to a later date, never to an earlier one.
 
-## Postponement vs. Advance…
+## Postponement vs. Advance
 
 ### Tisha B'Av Recoil
 

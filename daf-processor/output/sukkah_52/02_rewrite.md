@@ -54,7 +54,7 @@ As this image from the prophecy of *Kayin* illustrates — *lappetach chatat rov
 
 ---
 
-## Mashiach ben Yosef vs Ye…
+## Mashiach ben Yosef vs
 
 ### Eulogy Identity Debate
 
@@ -128,7 +128,7 @@ But then — *ve-keivan she-ra'ah Mashiach ben Yosef she-neherag* — when *Mash
 
 ---
 
-## Seven Names of Yetzer Ha…
+## Seven Names Yetzer Hara
 
 ### Seven Names Intro
 

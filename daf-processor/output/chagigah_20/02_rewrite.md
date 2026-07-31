@@ -106,7 +106,7 @@ But the *Gemara* notes that *Rav Oshaya* did not quote the end of that *Baraita*
 
 ---
 
-## Barrel & Provision C (II)
+## Barrel & Provision Cases
 
 ### Basket Figs Shovel
 

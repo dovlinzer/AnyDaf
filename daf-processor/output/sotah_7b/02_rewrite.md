@@ -42,7 +42,7 @@ What prompted Moshe's prayer? *Amar lefanav Ribbono shel Olam mi garam leReuven 
 
 The Gemara then parses the blessing of Yehuda in *parashat v'zot habracha* as a series of remedies for the punishments Yehuda had suffered. *Shema Adonai kol Yehuda* — God heard Yehuda's cry, releasing him from his dislocated bones. *V'el amo tevi'enu* — bring him back to his people, meaning they finally allowed him into the *yeshivah* of heaven, the *metivta d'rakiya*, from which he had been excluded. *Yadav rav lo* — his hands were strengthened, corresponding to his now being permitted to participate in the *shakla v'tarya*, the back-and-forth of debate in the heavenly *beit midrash*, from which he had previously been barred even after gaining entry. And *v'ezer mizarav tihyeh* — let there be help against his enemies, meaning he could finally arrive at halakhic conclusions, *aliba d'hilkhata*, in his learning.
 
-### Reuven's Public Apology
+### Reuben's Public Apology
 
 The Gemara then returns to Reuven and poses a question. *Bishlama biYehuda ashkechan de'odei* — we understand why Yehuda had to make a public admission of his sin: *ki heichi d'lo tisoraf Tamar*, so that Tamar would not be burned. Yehuda had no choice but to speak publicly to save her life. But why did Reuven need to make a public admission? *Lama lei de'odei* — there was seemingly no practical purpose; no one's life was at stake. Moreover, does not Rav Sheshet say that it is brazen to publicize one's own sins, *chatzip alai diprat chataei*?
 

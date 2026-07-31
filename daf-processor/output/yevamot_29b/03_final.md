@@ -1,4 +1,5 @@
 # Yevamot 29b — Daf Yomi Shiur
+[DAF:29a]
 
 ## Ma'amar Status
 
@@ -58,6 +59,7 @@ This principle applies identically whether *ma'amar* is framed as *kinyan gamur*
 
 Rav Ashi now proposes a third reading, one that reduces the power of *ma'amar* even further. Do not say, teaches Rav Ashi in the name of Rabbi Elazar, that *ma'amar* for Beit Shammai is a *dichiya gemura* — a complete pushing-off of Leah. Rather, it is *docheh u-meshayer*: it pushes Leah off but leaves some remnant of connection even with respect to Leah herself. On this reading, the *ma'amar* is strong enough to weaken the *zika* to Leah so that the prohibition of *achot zekukato* no longer blocks consummation with Rachel — that rabbinic prohibition is sufficiently addressed. But the connection to Leah has not been entirely severed, and therefore Leah would still require *chalitzah*.
 
+[DAF:29b]
 ### Rejection of Rav Ashi
 
 > **Hebrew/Aramaic:** אָמַר רַבִּי אָבִין, אַף אֲנַן נָמֵי תְּנֵינָא: בֵּית שַׁמַּאי אוֹמְרִים יְקַיְּימוּ. יְקַיְּימוּ — אִין, לְכַתְּחִלָּה — לָא. וְאִי סָלְקָא דַּעְתָּךְ מַאֲמָר לְבֵית שַׁמַּאי דּוֹחֶה דְּחִיָּיה גְּמוּרָה, זֶה יַעֲשֶׂה מַאֲמָר וְיִדְחֶה, וְזֶה יַעֲשֶׂה מַאֲמָר וְיִדְחֶה! וְאֶלָּא הָא קָתָנֵי בֵּית שַׁמַּאי אוֹמְרִים: אִשְׁתּוֹ עִמּוֹ, וְהַלֵּזוּ תֵּצֵא מִשּׁוּם אֲחוֹת אִשָּׁה.

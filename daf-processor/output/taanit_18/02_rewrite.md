@@ -1,6 +1,6 @@
 # Taanit 18 — Daf Yomi Shiur
 
-## Megillat Ta'anit Cat (II)
+## Megillat Ta'anit: Events
 
 ### Intro to Megillat Ta'anit
 
@@ -12,7 +12,7 @@ There are, in fact, two distinct categories of days recorded in *Megillat Ta'ani
 
 The question then arises: what is the status of the days surrounding these holidays? Do these days cast a kind of halachic shadow over adjacent dates, prohibiting fasting or *hespedim* on the days immediately before or after?
 
-### Tanna Kamma vs. Rabbi Yo…
+### Tanna Kamma vs. R. Yossi
 
 This question is the subject of a dispute between the *Tanna Kamma* and Rabbi Yossi. The *Tanna Kamma* holds that days designated only *d'lo l'hityana behon* carry no restriction whatsoever on the days before or after. Days designated *d'lo l'mispad behon* — the weightier category — do prohibit the day before, since anticipation of the holiday is considered significant, but impose no restriction on the day after, since once the day has passed, it has passed.
 
@@ -140,7 +140,7 @@ But *lo zazu mi-sham ad sheba'u diyufni me-Romi ve-patzu et mocho be-Gizarina* �
 
 As noted in the preceding section, *Yom Turaynus* — the twelfth of Adar — was subsequently nullified as a holiday because of the tragedy of Shmaya and his brother Achya, who were killed on that date. This is confirmed by the narrative of Rav Nachman, who decreed a communal fast on the twelfth of Adar, and when his students invoked *Yom Turaynus*, replied that it had been abolished: *Yom Turaynus gufei batulei batluhu hoeil venhergu bo Shmaya ve-Achya achiv*. This episode exemplifies the broader pattern the *Gemara* had earlier described in the abstract — that later tragedies could override the commemorative status of earlier celebrations.
 
-## Overriding Megillat Ta'a…
+## Megillat Ta'anit Override
 
 ### Override Principle
 

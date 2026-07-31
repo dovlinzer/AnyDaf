@@ -68,7 +68,7 @@ This is the general concept of *chinuch*. The institution of *chinuch* applies a
 
 Unlike some other *mitzvot* where *chinuch* begins at a fixed developmental moment — such as when the child can speak, in the case of *Shema* — fasting *chinuch* is recognized as inappropriate to begin until the child is old enough both to understand what is being asked of them and to bear the physical demand. And as the Gemara will elaborate, even then it is done gradually. The mishna says a year or two before; the precise meaning of that phrase becomes the subject of the Gemara's detailed analysis.
 
-### Rav Chisda: Health/Const…
+### Rav Chisda: Health
 
 The opening question is almost self-answering: if one begins training two years before, surely one must begin one year before as well. So what does the mishna add by saying "a year or two"? *Amar Rav Chisda: lo kashya — ha be-chola ha be-vari*. The resolution depends not on the child's religious maturity or level of understanding, but on their physical constitution. For a healthy child (*bari*), training begins two years before; for a child with a weaker or more delicate constitution (*chola*), training begins only one year before.
 
@@ -76,7 +76,7 @@ The opening question is almost self-answering: if one begins training two years 
 
 Rav Huna then spells out the progression in more concrete terms. At eight or nine years old — *ben cheit ben tet* — one begins *chinuch* by extending the hours of fasting: the child's regular mealtime is delayed, adding a few hours before eating is permitted, but there is no expectation of completing the full fast. At ten and eleven — *ben yod ben yod-alef* — the child fasts the complete day, but this is on a *d'Rabbanan* level, a rabbinic obligation of *chinuch*. At twelve — *ben yod-bet* — the girl's fasting is biblical. This, as Rav Huna specifies, is the schedule for a girl: *ve-da le-tinoket*.
 
-### Rav Nachman: Later Timel…
+### Rav Nachman: Year Later
 
 Rav Nachman shifts the entire schedule one year later. At nine and ten — *ben tet ben yod* — one adds hours. At eleven and twelve — *ben yod-alef ben yod-bet* — the child fasts the complete day rabbinically. At thirteen — *ben yod-gimel* — the obligation is biblical. And this, as Rav Nachman specifies, is the schedule for a boy: *ve-da le-tinok*.
 
@@ -110,7 +110,7 @@ But the Gemara presses: would one really use the term *chinuch* to refer to doin
 
 As noted above, the *baraita* of Rabba bar Shmuel — *tinokot ein me'anin otam be-Yom HaKippurim, aval mechanchin otam shana o shtayim lifnei pirkam* — reads naturally with Rabbi Yochanan's position, and creates the interpretive challenge for Rav Huna and Rav Nachman that leads to the analysis in the following subsection.
 
-### Rava bar Ulla: Two Chinu…
+### Rava: Chinuch Types
 
 Rava bar Ulla's resolution, as explained above, is that *chinuch* is not a monolithic concept. It encompasses two distinct activities: the introductory *chinuch* of adding hours, which may begin several years before *bar* or *bat mitzvah*, and the *chinuch* of completing the full fast, which occurs in the year or two immediately before the age of obligation. The same word is used for both, but they describe different phases of the same pedagogical process.
 
@@ -142,7 +142,7 @@ In practice, some parents begin encouraging their children to extend fasting vol
 
 ---
 
-## Pikuach Nefesh & Mar (II)
+## Pikuach Nefesh & Shloshah
 
 ### Pregnant Woman Case
 

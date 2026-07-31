@@ -28,11 +28,11 @@ Rav Amram in the name of Rav answers that the verse does not intend to exclude w
 
 ## Torah from the Heart
 
-### Mitzvot for Their Own Sa…
+### Mitzvot for Own Sake
 
 The *Gemara* turns to the end of the verse: *b'mitzvotav chafetz me'od* — in His *mitzvot* he desires greatly. Rabbi Elazar interprets: *b'mitzvotav v'lo b'sechar mitzvotav* — the desire should be for the *mitzvot* themselves, not for their reward. One should not perform *mitzvot* with an eye toward compensation. The *Gemara* connects this to the teaching in Pirkei Avot: *al tihyu k'avadim hameshamshim et harav al m'nat l'kabel pras* — do not be like servants who serve the master for the sake of receiving a reward; rather, serve even without anticipation of reward, because it is the right thing to do, and in the end the good will follow.
 
-### Learning Where Heart Des…
+### Heart's Desire in Learn
 
 The *Gemara* returns to the opening verse and its continuation: *ki im b'torat Hashem cheftzo* — "for in the Torah of God is his desire." In contrast to the frivolous pursuits catalogued by the Mishnah, the devoted person turns his deepest longing toward Torah. From this phrase, Rabbi — Rebbi — derives the principle: *ein adam lomed Torah ela mimakom shelibo chafetz* — a person will truly learn Torah only from the place toward which his heart is drawn.
 

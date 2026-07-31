@@ -1,6 +1,6 @@
 # Bava Kamma 18 — Daf Yomi Shiur
 
-## Chatzi Nezek—Initial vs.…
+## Chatzi Nezek: Initial
 
 ### Tzeroros Overview
 
@@ -84,7 +84,7 @@ The Gemara now introduces a *mishnah* from later in the tractate. A dog took a w
 
 A *Tosefta* commenting on this case states explicitly: *meshalem chatzi nezek migufo*—the half damages for the haystack are paid from the body of the animal. This appears to answer Rava's second question directly: *chatzi nezek tzeroros* is paid *migufo*.
 
-### Rabbi Eliezer Contradict…
+### Rabbi Eliezer Disagree
 
 But the Gemara immediately complicates the picture. A *baraita* records that Rabbi Eliezer holds that the payment for the haystack is full—*nezek shalem*. If the debate between the first opinion and Rabbi Eliezer is simply the dispute between the Rabbanan and Sumchus—half versus full, both treating the ember as *tzeroros*—then Rabbi Eliezer, following Sumchus, would owe the full amount. But if so, why would the *Tosefta* specify *migufo*? Sumchus holds *tzeroros* obligates full payment because he views *kocho* as equivalent to the animal's body—and if that is the basis of Rabbi Eliezer's full payment, there would be no reason to pay *migufo*; it would be paid *me'aliya* like any standard *regel*-type damage. The internal logic breaks down: you cannot have full payment on a Sumchus theory and *migufo* simultaneously.
 
@@ -132,7 +132,7 @@ The Gemara once again declines to treat this as a resolution. The *baraita* may 
 
 ## Defecation Case
 
-### Case Setup
+### Case Setup (II)
 
 The Gemara turns to another *baraita* in an attempt to resolve the *ha'ada'ah* question. An animal defecated into dough (*behema she-hitila glalim l'isa*). Rabbi Yehuda rules full damages; Rabbi Eliezer rules half. The defecation is treated as a form of *tzeroros*—something issuing from the animal's body but not the body itself. The question is what drives the disagreement.
 

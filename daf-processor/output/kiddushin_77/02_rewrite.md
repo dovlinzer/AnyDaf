@@ -106,7 +106,7 @@ The Gemara now asks: what does *le-olam* — the ruling that the *chalal* status
 
 The Gemara then asks: from where is the transmission of the *chalal* status derived? Rabbi Yochanan cites Rabbi Shimon (or Rabbi Yishmael): the verse states *velo yechalel zaro be-amav* — "he shall not defile his offspring among his people." This verse appears in the context of the *Kohen Gadol* and the *almanah*, and it establishes the foundational principle that the offspring of a *kohen* who violates the marriage prohibitions becomes a *chalal*. From *velo yechalel zaro be-amav* we learn that the child of such a union is *chalal*.
 
-### Tumah Gezeirah Shavah
+### Tumah Gezeirah
 
 The Gemara then introduces a *gezeirah shavah*: just as the *issur* of *tumah* for a *kohen* focuses on men — *velo yitama ba'al be-amav* uses the masculine — so too the transmission of *chalal* status focuses on men. The *chalal* status is carried through the male line. The same way the laws of *tumah* are stated in the masculine and emphasize the male, so too the *chalal* status passes down through the father.
 

@@ -1,12 +1,12 @@
 # Menachot 26 — Daf Yomi Shiur
 
-## Remnants & Kometz (III)
+## Remnants & Kometz
 
 ### Mishna Overview
 
 The *mishna* opens with a case involving the *shirayim* — the remnant of the *mincha* left over after the *kometz* has been taken. Three scenarios are presented in which the *shirayim* are lost to the *kohein*: *nitme'u shi'areiha*, the remnant became *tamei*; *nisrefu shi'areiha*, it was burned; *avdu shi'areiha*, it was lost. The question is whether, in any of these circumstances, the *kometz* may still be brought and the *mincha* remain valid. The *mishna* records a dispute: *k'midat Rabbi Eliezer k'sheira* — according to Rabbi Eliezer's view, it is valid — while *u'k'midat Rabbi Yehoshua psulah* — according to Rabbi Yehoshua's view, it is invalid.
 
-### R. Eliezer vs. R. Yehosh…
+### R. Eliezer vs. Yehoshua
 
 This dispute between Rabbi Eliezer and Rabbi Yehoshua is known from elsewhere in *Shas*. Their debate concerns whether one may perform *zerikat hadam* — the sprinkling of the blood — if nothing remains of the *korban* aside from the blood itself. Does there need to be some fat to burn on the *mizbe'ach*, or some meat either to burn (in the case of an *olah*) or to eat (in the case of other *korbanot*)? Rabbi Eliezer holds that even if all one has is the blood, the *zerikat hadam* may be performed and the *korban* is valid. Rabbi Yehoshua holds that the blood functions as a *matir* — it enables the next stage, whether eating or burning — and if there is nothing left for it to permit, it cannot serve that function. The same logic applies to the *kometz* of a *mincha*: does the *kometz* require *shirayim* to exist in order to be valid?
 
@@ -30,7 +30,7 @@ The *gemara*'s discussion of the *tzitz* bears clarification. When it asks wheth
 
 A related question, noted but not yet fully resolved in the tractate, is whether the *ritzui* of the *tzitz* requires the *Kohen Gadol* to actually be wearing it at the moment, or whether the mere existence of the *tzitz* — so long as it has not been broken or lost — is sufficient. That debate remains open.
 
-## Remnants & Kometz (III)
+## Remnants & Kometz (II)
 
 ### Shiura Requirement
 
@@ -44,7 +44,7 @@ There is, however, an exception for the *olah*. Since the entire *olah* is burne
 
 The question of whether the *tzitz* requires active wearing by the *Kohen Gadol* or whether its mere presence suffices is a debate that surfaces in the *gemara*, though it has not yet been explicitly encountered in the course of this tractate's discussion. Under normal circumstances, the *Kohen Gadol* wore the *tzitz* as part of his standard priestly vestments whenever he performed the *avodah*. The practical upshot of the *tzitz*'s *ritzui* is not to permit eating *tamei* portions *lechatchilah*, but rather that *bedi'avad*, if a *korban* was offered under such circumstances, it is considered accepted. This is the framework within which Rabbi Eliezer's position operates as well — he holds that even if the entire *shirayim* are gone, the *korban* is valid — though the *gemara*'s analysis of *tum'ah* and the *tzitz* was directed primarily at clarifying Rabbi Yehoshua's more limited concession.
 
-## Remnants & Kometz (III)…
+## Remnants & Kometz (III)
 
 ### Kezayit Standard
 
@@ -178,7 +178,7 @@ The *gemara* now addresses a question that connects directly to the nature of th
 
 Rabbi Chanina says: *mi-she-timshila bo ha'or* — from the moment the fire takes hold of it. The *shirayim* are permitted as soon as the fire begins to burn the *kometz*.
 
-### R. Yochanan
+### R. Yochanan (II)
 
 Rabbi Yochanan disagrees: *mi-she-tatzis bo ha'or be-rubo* — only when the fire seizes the *majority* of the *kometz*. The word *berubo* — the majority — is what Rabbi Yochanan's formulation adds, and Rashi identifies this as the critical distinction between the two positions, rather than the difference in the verbs (*timshila* versus *tatzis*).
 

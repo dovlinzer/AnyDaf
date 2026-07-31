@@ -1,4 +1,5 @@
 # Hullin 32 — Daf Yomi Shiur
+[DAF:32a]
 
 ## Kavana Requirements
 
@@ -260,6 +261,7 @@ The apparent answer — which the *gemara* eventually reaches — is that one mu
 
 The practical difference between *neveila* and *treifa* is significant. Both are biblically prohibited for consumption, and both may be sold to a non-Jew. The key distinction is *tumah*: a *neveila* conveys ritual impurity; a *treifa* does not.
 
+[DAF:32b]
 ### Rava's Answer
 
 > **Hebrew/Aramaic:** אָמַר רָבָא: לָא קַשְׁיָא, כָּאן שֶׁשָּׁחַט וּלְבַסּוֹף פָּסַק, כָּאן שֶׁפָּסַק וּלְבַסּוֹף שָׁחַט. שָׁחַט וּלְבַסּוֹף פָּסַק – נִפְסֶלֶת בִּשְׁחִיטָה הִיא, פָּסַק וּלְבַסּוֹף שָׁחַט – כִּי דָּבָר אַחֵר גָּרַם לָהּ לִיפָּסֵל דָּמְיָא.

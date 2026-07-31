@@ -1,4 +1,5 @@
 # Bava Batra 6 — Daf Yomi Shiur
+[DAF:5b]
 
 ## Migo vs. Chazaka
 
@@ -12,6 +13,7 @@ The *daf* opens by building on a conclusion established in the preceding discuss
 
 The *Gemara* now poses a new question: *tava'o achar zman ve'amar lo peraticha betoch zemani mahu?* — what is the *halacha* if the creditor makes his demand after the thirty days have elapsed, but the debtor responds not by saying he paid after the due date, but rather that he had already paid during the loan period, while the loan was not yet due? Had the debtor simply said he paid yesterday — that is, after the due date — he would clearly be believed, since that is a standard case of *kofer hakol* in which the rule of *hamotzi mechavero alav hara'aya* applies and he would at most be required to take a *shevuat hesset*.
 
+[DAF:6a]
 ### Migo Application
 
 > **Hebrew/Aramaic:** אוֹ דִילְמָא, בִּמְקוֹם חֲזָקָה – לָא אָמְרִינַן ״מַה לִּי לְשַׁקֵּר״? תָּא שְׁמַע: בְּחֶזְקַת שֶׁנָּתַן, עַד שֶׁיָּבִיא רְאָיָה שֶׁלֹּא נָתַן.
@@ -176,6 +178,7 @@ Beyond these basics, the *Gemara* records a dispute. The base ruling states *ava
 
 ## Chazaka Time Limit
 
+[DAF:6b]
 ### Thirty-Day Rule
 
 > **Hebrew/Aramaic:** אָמַר רָבִינָא: הַאי כְּשׁוּרָא דִמְטַלַּלְתָּא, עַד תְּלָתִין יוֹמִין – לָא הָוֵי חֲזָקָה, בָּתַר תְּלָתִין יוֹמִין – הָוֵי חֲזָקָה. וְאִי סוּכָּה דְמִצְוָה הִיא, עַד שִׁבְעָה יוֹמִין – לָא הָוֵי חֲזָקָה, בָּתַר שִׁבְעָה יוֹמִין – הָוֵי חֲזָקָה. וְאִי חַבְּרֵיהּ בְּטִינָא – לְאַלְתַּר הָוֵי חֲזָקָה.

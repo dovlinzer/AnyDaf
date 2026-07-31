@@ -102,7 +102,7 @@ If the bread became *tamei* after *shechita*: the situation is different from th
 
 After *zerikah* — if the blood was sprinkled while the bread was *tahor* and only then a loaf became *tamei*: the *korban* is fully valid, the obligation fully fulfilled. The *kohen* receives his four loaves from the *tahor* bread — *torem min ha-tahor al ha-tamei* — the *tamei* loaf is disposed of, and the owner eats the remaining *tahor* bread.
 
-### Post-Shechita Irreversib…
+### Post-Shechita Defects
 
 The *baraita* establishes a clear structural principle: the moment of *shechita* is decisive. Everything that goes wrong before *shechita* can be remedied; everything that goes wrong after *shechita* — whether breaking, *yotzei*, or *tumah* — cannot be corrected by substitution, and the offering either reverts to *shelamim* (in the cases of breaking and *yotzei*) or is validated by the *tzitz* (in the case of *tumah*). The bread cannot be replaced once the *shechita* has occurred.
 

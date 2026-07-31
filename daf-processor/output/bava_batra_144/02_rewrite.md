@@ -1,8 +1,8 @@
 # Bava Batra 144 — Daf Yomi Shiur
 
-## Brothers' Estate Investm…
+## Estate Investment Rights
 
-### Minors & Estate Protecti…
+### Minors & Estate Protect
 
 The daf opens by continuing the discussion begun at the bottom of 143b concerning an estate left to both older and younger children. Tosafot reads the scenario as one in which the younger children are *ketanim* — minors — and this distinction carries significant halachic weight throughout the sugya.
 
@@ -50,7 +50,7 @@ The more complex scenario involves inheritance by operation of law. Consider: Re
 
 This scenario also provokes a broader question: the concept of *tfisat habayit*, the estate as a corporate entity, has been the animating framework throughout this section. Does that entity arise only from standard *yerusha*, from ordinary inheritance by legal heirs? Or can it also arise from *matnat shechiv mera*? If a man distributes his estate by deathbed gift to a group of people who are not natural heirs — even complete strangers — can they constitute a *tfisat habayit* in the same sense? The answer would seem to depend on how the gift is framed. If specific assets are assigned individually to specific people, there is no shared estate — each person simply owns a parcel. But if the dying man designates a group of people collectively as inheritors of the whole estate, then a corporate entity seems to arise, perhaps even among strangers. The Gemara's framing of the woman as a *yoreshet* alongside the children is consistent with this reading.
 
-Tosafot offers a variant of the second scenario that the lecturer acknowledges is difficult to reconstruct fully, but the principle is the same: the woman is a *yoreshet* together with brothers or other male heirs, and the rules of the estate apply to her equally.
+Tosafot offers a variant of the second scenario that is difficult to reconstruct fully, but the principle is the same: the woman is a *yoreshet* together with brothers or other male heirs, and the rules of the estate apply to her equally.
 
 ### Woman's Unusual Effort
 
@@ -108,7 +108,7 @@ The *baraita* draws the governing distinction clearly: *im machmat ha'achim — 
 
 ### Ambiguous Job Cases
 
-The *baraita* anticipates an ambiguous case. Suppose the family would ordinarily have had a candidate appointed, but this particular brother is also *charif* — unusually sharp and capable. The Gemara asks: *mahu d'teima churfeh garam leh* — perhaps one should say it was his personal sharpness that caused the appointment? The Gemara answers that we do not say this: if the family connection was itself a sufficient basis for the appointment, we attribute the appointment to the family and the income goes to the estate. The Gemara's default is to assume that connections, rather than individual talent, drove the outcome — a presumption, the lecturer notes, that reflects how the world often works. Of course, when both factors are genuinely intertwined and neither would have sufficed alone, the categorization remains difficult, and the sugya does not offer a definitive resolution for that scenario.
+The *baraita* anticipates an ambiguous case. Suppose the family would ordinarily have had a candidate appointed, but this particular brother is also *charif* — unusually sharp and capable. The Gemara asks: *mahu d'teima churfeh garam leh* — perhaps one should say it was his personal sharpness that caused the appointment? The Gemara answers that we do not say this: if the family connection was itself a sufficient basis for the appointment, we attribute the appointment to the family and the income goes to the estate. The Gemara's default is to assume that connections, rather than individual talent, drove the outcome — a presumption that reflects how the world often works. Of course, when both factors are genuinely intertwined and neither would have sufficed alone, the categorization remains difficult, and the sugya does not offer a definitive resolution for that scenario.
 
 ---
 

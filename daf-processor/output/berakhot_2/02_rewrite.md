@@ -112,7 +112,7 @@ What is noteworthy is that by casually introducing both verses — beshochbecha 
 
 ---
 
-## Kohanim & Tzeit Hakochav…
+## Kohanim Eat Terumah
 
 ### Milta Agav Orcha
 
@@ -150,7 +150,7 @@ The introduction of the Kohanim and the later mention of sacrificial fats might 
 
 ## Kaparah Lo Me'akva
 
-### Kaparah Lo Me'akva
+### Kaparah Lo Me'akva (II)
 
 The Gemara now identifies a second halakhic teaching that the Mishna communicates in passing — beyond the timing of Shema and beyond the time when Kohanim eat terumah. That teaching is: כפרה לא מעכבא — a pending sacrifice does not prevent a person from eating terumah once nightfall has arrived.
 
@@ -184,7 +184,7 @@ Both are legitimate forms of halakhic knowledge, and they arrive at the same con
 
 ---
 
-## Three Shema Start Ti (II)
+## Three Shema Start Times
 
 ### Poor Man: Bread & Salt
 
@@ -250,7 +250,7 @@ The Gemara now forces the conclusion that the poor man's time and the Kohen's ti
 
 Having established the full spectrum of opinions, the Gemara returns to Rabbi Meir's position: Shema begins when the Kohanim go to the mikvah. Rabbi Yehuda challenges this: והלא כהנים מבעוד יום טובלים — the Kohanim immerse while it is still day. How can the night Shema begin at a moment that is halakhically daytime? If your framework is night and day, you cannot start the nighttime obligation before night has begun.
 
-### Meir: Bein Hashmashot Yo…
+### Meir: Bein Hashmashot
 
 Rabbi Meir's response: מי סברת דאנא אבין השמשות דידך קאמינא? — Do you think I am referring to your bein hashmashot? Rabbi Yehuda's bein hashmashot, as developed in tractate Shabbat, runs from sunset until the stars come out — roughly thirteen to fifteen minutes. Prior to that period is unambiguously day. Rabbi Meir says: I am not placing Shema there.
 

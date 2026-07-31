@@ -172,7 +172,7 @@ Rabba bar bar Chana says this was done forty years after the practice emerged fr
 
 ---
 
-## Beverages & Boiled F (II)
+## Beverages & Boiled Food
 
 ### Kusfan Vessel Size
 

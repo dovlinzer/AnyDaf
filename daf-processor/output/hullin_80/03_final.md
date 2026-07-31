@@ -1,4 +1,5 @@
 # Hullin 80 — Daf Yomi Shiur
+[DAF:79b]
 
 ## Koy Classification
 
@@ -40,6 +41,7 @@ The Rabbis hold: even partial *behemah* status is sufficient to activate laws th
 
 ## Rav Papa's Framework
 
+[DAF:80a]
 ### Blood & Gifts Case
 
 > **Hebrew/Aramaic:** בְּשֶׂה וַאֲפִילּוּ מִקְצָת שֶׂה, רַבָּנַן סָבְרִי: ״שֶׂה״ – וַאֲפִילּוּ מִקְצָת שֶׂה, וְרַבִּי אֱלִיעֶזֶר סָבַר: ״שֶׂה״ – וְלֹא מִקְצָת שֶׂה.
@@ -160,6 +162,7 @@ The broader question hovering behind this discussion is whether the *behemah*/*c
 
 The Gemara now moves to a major structural observation about the *mishnah*. Rabbi Oshaya declares: our entire *mishnah* is not in accordance with Rabbi Shimon. The evidence he adduces concerns the *mishnah*'s treatment of *kodshim ba-chutz*: when sacred animals are slaughtered outside the *Beit Hamikdash*, the first person incurs *karet* and both animals are *pasul* (forbidden for consumption), while both persons receive lashes — the first for the prohibition of slaughtering sacred animals outside the sanctuary, the second for violating *oto ve-et beno*.
 
+[DAF:80b]
 ### Rabbi Shimon Principle
 
 > **Hebrew/Aramaic:** קַמָּא מִיקְטָל קַטְלֵיהּ, שֵׁנִי מִתְקַבֵּל בִּפְנִים הוּא, כָּרֵת נָמֵי לִיחַיַּיב.

@@ -34,7 +34,7 @@ The Gemara questions this reading. When the *baraita* says "*nisu*" — they mar
 
 The Gemara resolves this by reading the two phrases — *nisu* and *nichnesu l'chuppah v'lo niv'alu* — as parallel descriptions of the same scenario rather than two distinct categories. The *baraita* must be speaking of women who entered *chuppah* but did not have intercourse. In that case, *psulot* who had *chuppah* without *biah* are still permitted to eat *terumah*. The *tanna kamma* holds *ein chuppah li-psulot*: *chuppah* without *biah* is not treated as equivalent to *biah*, and her status remains unchanged.
 
-### R. Yishmael: Parallel Ac…
+### R. Yishmael: Chuppah Efct
 
 Rabbi Yishmael, son of Rabbi Yochanan ben Broka, takes the opposing position and articulates it by drawing a direct parallel between *chuppah* and *biah*: whatever *biah* would entitle a woman to eat — *chuppah* also entitles her to eat. Whatever *biah* would not entitle her to eat — *chuppah* also does not. In a case where the woman is a *psulah* and the *biah* would not only fail to entitle her to eat *terumah* but would affirmatively disqualify her by making her a *chalalah*, Rashi understands Rabbi Yishmael as saying that *chuppah* operates the same way: it is not merely that she is not entitled to eat in this state, but that the *chuppah* itself has rendered her permanently a *chalalah*.
 

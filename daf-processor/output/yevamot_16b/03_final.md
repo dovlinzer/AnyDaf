@@ -1,4 +1,5 @@
 # Yevamot 16b — Daf Yomi Shiur
+[DAF:16a]
 
 ## Mixed Marriages & Mamzer
 
@@ -60,6 +61,7 @@ The Gemara proceeds to a related *drasha* on the verse *yado parash tzar al kol 
 
 ## Matrilineal Descent
 
+[DAF:16b]
 ### Rashi's Patrilineal
 
 > **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר רַב אַסִּי: גּוֹי שֶׁקִּידֵּשׁ בִּזְמַן הַזֶּה — חוֹשְׁשִׁין לְקִדּוּשִׁין, שֶׁמָּא מֵעֲשֶׂרֶת הַשְּׁבָטִים הוּא.

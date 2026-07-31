@@ -1,6 +1,6 @@
 # Zevachim 120 — Daf Yomi Shiur
 
-## Bamah Yachid into Bamah…
+## Bamah Yachid into Bamah
 
 ### Olah Transfer Question
 
@@ -48,7 +48,7 @@ The *gemara* leaves both questions unresolved: *teiku*. Whether the *mechitza* o
 
 ---
 
-## Nighttime Slaughter Deba…
+## Daytime Slaughter Debate
 
 ### Elazar's Contradiction
 

@@ -44,13 +44,13 @@ Rava therefore resolves the apparent contradiction differently: *kan be'anpileya
 
 ---
 
-## Leather: Form vs. Functi…
+## Leather: Rashi's Function
 
 ### Modern Shoes
 
 This distinction carries direct practical implications. The question of whether one may wear a well-made, highly supportive non-leather shoe on *Yom Kippur* turns on precisely this issue. Is the requirement of leather a purely formal, definitional *halachah* — in which case even the most supportive canvas sneaker would be permitted — or does it reflect a functional criterion, leather being the material that most effectively protects and supports the foot? If it is purely formal, non-leather shoes of any quality remain permitted on *Yom Kippur* and the question is closed. If it is functional, the analysis may shift as materials and norms evolve.
 
-The *Gemara* keeps returning to leather as though it is the dispositive criterion, which can certainly give the impression of a formal requirement. On the other hand, one might argue the other way: that the distinction between leather and non-leather maps onto the distinction between what does and does not provide meaningful protection, and that the *halachah* tracks the function rather than the material itself. The lecturer notes his personal practice not to wear even comfortable cloth slippers on *Yom Kippur* or *Tisha B'Av*, wearing only thin socks with minimal rubber traction, because experientially such an arrangement does not feel like it honors the spirit of the prohibition. Others hold that non-leather is simply not a shoe — pure formalism — and have no hesitation. Still others might argue that even Rava's formal leather distinction is less relevant in a time when non-leather shoes can be as protective and shoe-like as leather ones, though this approach would not apply to *chalitza*, where the *pasuk* anchors the requirement more firmly.
+The *Gemara* keeps returning to leather as though it is the dispositive criterion, which can certainly give the impression of a formal requirement. On the other hand, one might argue the other way: that the distinction between leather and non-leather maps onto the distinction between what does and does not provide meaningful protection, and that the *halachah* tracks the function rather than the material itself. I do not wear even comfortable cloth slippers on *Yom Kippur* or *Tisha B'Av*, wearing only thin socks with minimal rubber traction, because experientially such an arrangement does not feel like it honors the spirit of the prohibition. Others hold that non-leather is simply not a shoe — pure formalism — and have no hesitation. Still others might argue that even Rava's formal leather distinction is less relevant in a time when non-leather shoes can be as protective and shoe-like as leather ones, though this approach would not apply to *chalitza*, where the *pasuk* anchors the requirement more firmly.
 
 ### Rashi: No Protection
 

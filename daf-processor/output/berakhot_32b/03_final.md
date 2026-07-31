@@ -1,4 +1,5 @@
 # Berakhot 32b — Daf Yomi Shiur
+[DAF:32a]
 
 ## Prayer > Deeds
 
@@ -94,6 +95,7 @@ A locked gate still implies a gate — something with the potential to be opened
 
 The *gemara* shifts to a series of practical observations about prayer. Rabbi Chanina states: *kol ha-ma'arich bi-tefillato, ein tefillato chozeret reikam* — anyone who extends their prayer will not have their prayer return empty. The proof is from Moshe Rabbeinu: *va-etpallel el Hashem* is followed by *va-yishma Hashem elai gam ba-pa'am ha-hi* — "and God also listened to me that time." The key is in what is left implicit: the full verse reads *va-etpallel el Hashem arba'im yom ve-arba'im lailah* — Moshe prayed for forty days and forty nights. A prayer of that scope and duration was answered.
 
+[DAF:32b]
 ### Heartache/Solution
 
 > **Hebrew/Aramaic:** אִינִי?! וְהָא אָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: כָּל הַמַּאֲרִיךְ בִּתְפִילָּתוֹ וּמְעַיֵּין בָּהּ — סוֹף בָּא לִידֵי כְּאֵב לֵב, שֶׁנֶּאֱמַר: ״תּוֹחֶלֶת מְמֻשָּׁכָה מַחֲלָה לֵב״. מַאי תַּקַּנְתֵּיהּ — יַעֲסוֹק בַּתּוֹרָה, שֶׁנֶּאֱמַר: ״וְעֵץ חַיִּים תַּאֲוָה בָאָה״, וְאֵין עֵץ חַיִּים אֶלָּא תּוֹרָה, שֶׁנֶּאֱמַר: ״עֵץ חַיִּים הִיא לַמַּחֲזִיקִים בָּהּ״. לָא קַשְׁיָא, הָא דְּמַאֲרֵיךְ וּמְעַיֵּין בַּהּ. הָא דְּמַאֲרֵיךְ וְלָא מְעַיֵּין בַּהּ

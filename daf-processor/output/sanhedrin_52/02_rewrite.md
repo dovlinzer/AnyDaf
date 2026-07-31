@@ -1,6 +1,6 @@
 # Sanhedrin 52 — Daf Yomi Shiur
 
-## Srefah Hierarchy Deb (II)
+## Srefah Hierarchy Debate
 
 ### Three Positions
 

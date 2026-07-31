@@ -124,7 +124,7 @@ Rabbeinu Tam extends this reasoning further: *va'afilu achar kama yamim* — eve
 
 ---
 
-## Marks: Biblical or R (II)
+## Marks: Biblical/Rabbinic?
 
 ### Simanim Status
 

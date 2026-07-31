@@ -12,7 +12,7 @@ The opening word is *itmar* — a *sefina*, a boat, is being acquired by *meshic
 
 Rav holds: *kivan shemashach kol shehu kanah* — once the buyer has displaced the boat even a small amount, even a single centimeter, the *kinyan* takes effect.
 
-### Shmuel's Full Displaceme…
+### Shmuel: Full Displacement
 
 Shmuel disagrees: *lo kanah ad sheyimshoch es kulah* — the buyer does not acquire until he has pulled the entire boat completely out of its original position, so that no part of it remains where any part of it had been before.
 
@@ -52,7 +52,7 @@ There are two ways to conceptualize what is transferred when a debt is sold. One
 
 Because a debt is abstract, the *gemara* refers to it as *otiot* — letters, i.e., what is written in the document. The physical document itself — the parchment and ink — is just a piece of paper. As the *gemara* will note, one could use it as a bottle stopper. The *kinyan* of *meshicha* applied to the document would acquire only the paper. What the purchaser actually wants is not the paper but what it represents: the debt, expressed in its *otiot*. The question, then, is what mode of transfer is adequate to convey not the paper but the obligation it records.
 
-### Physical vs. Symbolic Ac…
+### Meshicha vs. Mesira
 
 The *gemara* returns to the *baraita* and notes that *otiot* seem to appear without introduction — Rabbi Natan is responding to a position the *tanna kamma* never stated. The *gemara* therefore reads the *baraita* as incomplete: *chisuri mechasra vehachi katani* — there are missing words, and the text must be reconstructed. The *tanna kamma* is understood to have stated a position about debts — that a debt is acquired by *mesirah* — and Rabbi Natan then responds to that position. This reading is justified because, as the *gemara* will show, there is another *baraita* that explicitly attributes the *mesirah* position to a Tannaitic authority, and we therefore know the opinion exists to be read into the *tanna kamma* here.
 
@@ -90,7 +90,7 @@ The *gemara* then proceeds to identify which position in the earlier *baraita* (
 
 ---
 
-## Contexts & Braitot (III)
+## Contexts & Braitot
 
 ### Identifying Positions
 
@@ -118,7 +118,7 @@ The Sages' position requires a contextual reinterpretation, provided by the next
 
 ---
 
-## Kinyanim Principles (III)
+## Kinyanim Principles
 
 ### Context & Meaning
 
@@ -126,7 +126,7 @@ The underlying principle at work throughout this discussion is that the meaning 
 
 ---
 
-## Contexts & Braitot (III)
+## Contexts & Braitot (II)
 
 ### Abaye & Rava
 
@@ -134,7 +134,7 @@ Abaye and Rava together articulate the rule precisely: *mesirah konah birshut ha
 
 ---
 
-## Kinyanim Principles (III)
+## Kinyanim Principles (II)
 
 ### Hagbaha Universal
 
@@ -142,7 +142,7 @@ Abaye and Rava together articulate the rule precisely: *mesirah konah birshut ha
 
 ---
 
-## Contexts & Braitot (III)…
+## Contexts & Braitot (III)
 
 ### Sages' Solution
 
@@ -150,7 +150,7 @@ Returning to the difficulty about the Sages' position in the *reshut harabim*: *
 
 ---
 
-## Kinyanim Principles (III)…
+## Kinyanim Principles (III)
 
 ### Chalifin Alternative
 

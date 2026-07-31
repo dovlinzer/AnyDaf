@@ -108,7 +108,7 @@ Rabbi Yochanan immediately challenges Reish Lakish's claim that Torah protects f
 
 The point of Reish Lakish's interpretation must therefore be something more specific. The implicit question pressing on the Gemara is the one that everyone already knows: it does not always work out this way. Good people suffer. Torah scholars suffer. The promise of protection is not self-evidently borne out by experience.
 
-### Neglecting Torah = Suffe…
+### Neglecting Torah: Harsh
 
 The Gemara therefore reads Reish Lakish's teaching not as a general promise that Torah scholars are exempt from affliction, but as a more pointed warning: kol she'efshar lo la'asok baTorah v'eino osek — one who has the capacity to learn Torah and does not avail himself of it — Hakadosh Baruch Hu meivi alav yissurin mechoarin — God will bring upon him particularly harsh and troubling afflictions.
 
@@ -124,7 +124,7 @@ God's way is different. Natan la-hem Torah le-Yisrael ve-samach — God gave Tor
 
 ## Yissurin Shel Ahava (II)
 
-### Yissurin Shel Ahava
+### Yissurin Shel Ahava (II)
 
 Rav, or some say Rav Chisda, sets out a systematic protocol for the person beset by afflictions. Im ra'ah adam sheyissurin ba'im alav — if a person sees that afflictions are befalling him — yefashpesh be-ma'asav — he should examine his deeds. Perhaps there is a sin for which he bears responsibility; he should use the suffering as an occasion for teshuvah, as the pasuk says: nachpasa deracheinu venachkorah — let us search our ways and investigate — venashuva ad Hashem. If, upon examination, a sin is found, he should do teshuvah.
 
@@ -134,7 +134,7 @@ And if, even then — ve-im talah ve-lo matza — neither sin nor Torah neglect 
 
 This sequential logic is itself significant. The Gemara does not simply assert that the good are rewarded and the wicked punished and leave it at that. It knows — implicitly, though it will address it more explicitly in a daf or two — that Moshe himself challenged God on the problem of the righteous who suffer. The framework here represents an attempt to work through that problem systematically, preserving the structure of divine justice while acknowledging that sometimes no accounting suffices.
 
-### Accepting Yissurin Lovin…
+### Accepting Yissurin
 
 Rava, citing Rav Sechora citing Rav Huna, teaches: kol she'Hakadosh Baruch Hu chafetz bo, medake'o beyissurin — whomever God desires, He crushes with afflictions, as the pasuk says vaHashem chafetz dake'o hechali — God desired to crush him with illness.
 

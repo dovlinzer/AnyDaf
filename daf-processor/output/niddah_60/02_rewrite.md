@@ -4,13 +4,13 @@
 
 ### Opening & Context
 
-Today's daf is Niddah 60b, and we pick up at the Mishnah toward the bottom of the amud. We had a brief digression discussing the question of a woman bleeding from a wound — a case where there is a basis to attribute the blood to a non-uterine source, some internal injury. Now we return to our main theme: *kesamim*, the laws of stains.
+We had a brief digression discussing the question of a woman bleeding from a wound — a case where there is a basis to attribute the blood to a non-uterine source, some internal injury. Now we return to our main theme: *kesamim*, the laws of stains.
 
 ### Tliyah Basics
 
 One of the central principles governing stain law is *tliyah* — attribution, the notion of "blaming it on someone else." Until now, the "someone else" has been a party who really does not lose anything by the attribution: the butcher, the husband with the bloody nose, the woman with a wound that can reopen. These are essentially win-win scenarios. Now we turn to cases of *tliyah* where the picture is more complicated — where the attribution is not simply costless to all parties involved.
 
-### Mishnah: Lending & Attri…
+### Mishnah: Lending & Niddot
 
 The Mishnah states: *hishilah chaluka l'nochrit* — she lent her garment to a non-Jewish woman — *o l'niddah* — or to a *niddah* — and then received the garment back, wore it, and a stain was discovered. The problem is that she did not inspect the garment before lending it. The question is whether the stain originated from her or from the non-Jewish woman or the *niddah* to whom it was lent.
 
@@ -42,7 +42,7 @@ This might seem surprising. One might think that since each woman can point to t
 
 The classic illustration is the case of two roads, one of which has a corpse buried beneath it. If each traveler came individually to ask, we would rule *tahor* for each based on *chezkat taharah* and the principle that *safek tum'ah b'reshut harabim sefeko tahor*. But if they present themselves simultaneously, it becomes absurd to declare both *tahor*, since we know with certainty that one of them walked over the buried corpse. So too here: even if they do not appear simultaneously, there is a limit to how far attribution can stretch when all parties are equal candidates. When no one woman is a more appropriate candidate than another, attribution to any one of them at the expense of the others cannot be justified, and all lose equally.
 
-### Rabbi Nechemia & Mekabel…
+### Nechemia: Stone Seats
 
 The Mishnah then introduces a different scenario: *yashva al safsal shel even o al istaba shel merchatz* — if the women sat on a stone bench or on a bathhouse bench. These are objects that either because they are stone or because they are attached to the ground and therefore not considered independent vessels, do not receive *tum'ah* — they are *eino mekabel tumah*. In such a case, *Rabbi Nechemia metaher* — Rabbi Nechemia rules the women are *tehorah*, even if it was only one woman sitting there. The reason follows in the next section.
 
@@ -268,7 +268,7 @@ This convergence raises a fundamental question: are the criteria of *kesamim* in
 
 ## Three in One Bed
 
-### Mishnah Setup
+### Mishnah Setup (II)
 
 The Gemara moves to the next Mishnah: *shalosh nashim she-hayu yeshenot b'mita achat* — three women who were sleeping in one bed, and blood was found beneath one of them.
 

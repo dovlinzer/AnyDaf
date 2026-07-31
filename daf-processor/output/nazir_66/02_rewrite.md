@@ -10,7 +10,7 @@ The *Gemara* on daf 66 opens at the bottom of 65b, picking up from a *Mishnah* t
 
 The *Gemara* then asks: *minah hanei milei* — what is the scriptural source for this distinction? Rabbi Natan answers by citing the verse *v'hazav et zovo* — "and the one who flows, his flow" (Leviticus 15:3) — and notes that the verse concludes *l'zachar ul'nekeivah*, "whether male or female," drawing an analogy between the male *zav* and the female *zavah*. The difference between the two is instructive. For a woman, the operative distinction in the Torah is between *niddah* — menstrual bleeding occurring during the expected cycle — and *zavah* — bleeding outside the menstrual period. The question for her is entirely about *when* the blood flows, not *what* is flowing. For a man, by contrast, the distinction is between *shichvat zera*, a seminal emission, which is natural and its own category of *tumah*, and *zivah*, which is an abnormal discharge distinguishable from semen by its consistency, as described in the *Mishnah*. For a woman, external causes are entirely irrelevant — the *tumah* applies regardless. The verse *v'hazav et zovo l'zachar ul'nekeivah* is therefore read as establishing when the male *zav* is treated like the female: after the double language of *zovo* — implying two prior flows — external causes cease to matter for him as well. From the third sighting onward, he is analogized to the woman for whom *ones* is never a consideration.
 
-### Rabbi Eliezer vs. Rabban…
+### Eliezer: External Causes
 
 A *baraita* is then cited that appears to complicate this picture. Rabbi Eliezer holds that even for the third flow — the one that would obligate a *korban* — we still check for external causes. According to him, it is only the fourth flow and beyond (those that could interrupt the seven clean days) for which we no longer check. The *tanna kamma*, by contrast, holds that from the third sighting onward, *ones* is already irrelevant.
 
@@ -42,7 +42,7 @@ Rava concludes: *keivan shenizkak l'tumah, sfeko tamei* — since the man has al
 
 The *Mishnah* includes *shichvat zera* — semen — as *tamei*. The *Gemara* asks: *l'mai hilchata* — for what practical *halachah*? If the point is merely that touching the *zav*'s semen renders one *tamei*, that would hardly be remarkable: even the semen of any ordinary man who is *tahor* is itself an *av hatumah* and conveys *tumah* by contact. The *Gemara* therefore concludes that the *Mishnah* must be establishing something more: *zaro shel zav metamei b'masa* — the semen of a *zav* conveys *tumah* even through carrying (*masa*), not merely through contact. This would place it in the same category as the *zivah* flow itself, which is *metamei b'masa*.
 
-### Rabbi Eliezer vs. Yehosh…
+### Eliezer vs. Yehoshua: Zav
 
 The *Gemara* then identifies which *tanna* holds this position, by citing a *baraita*: Rabbi Eliezer says that the semen of a *zav* is *not metamei b'masa*; Rabbi Yehoshua says it *is metamei b'masa*. Rabbi Yehoshua's reasoning is not that semen inherently achieves this status — rather, he reasons that since the man is a *zav*, it is impossible that any penile emission would not contain within it at least some droplets of *zivah* — *tzikhtzukhei zivah*. It is those droplets, not the semen itself, that account for the stringent *tumah*.
 

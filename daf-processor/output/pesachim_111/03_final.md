@@ -1,4 +1,5 @@
 # Pesachim 111 — Daf Yomi Shiur
+[DAF:111a]
 
 ## Pairs & Mixed Drinks
 
@@ -290,6 +291,7 @@ This story both reflects and reinforces the widespread practice of *kamea*-writi
 
 ## Ketev Pestilences
 
+[DAF:111b]
 ### Ketev Types
 
 > **Hebrew/Aramaic:** קֶטֶב מְרִירִי — תְּרֵי קִטְבֵי הָווּ. חַד מִקַּמֵּי טִיהֲרָא, וְחַד מִבָּתַר טִיהֲרָא. דְּמִקַּמֵּי טִיהֲרָא — ״קֶטֶב מְרִירִי״ שְׁמוֹ, וּמִיחֲזֵי בֵּי כַדָּא דְּכַמְכָּא וְהָדַר בֵּיהּ בַּחְשָׁא. דְּבָתַר טִיהֲרָא — ״קֶטֶב יָשׁוּד צׇהֳרָיִם״ שְׁמוֹ, וּמִיחֲזֵי בֵּי קַרְנָא דְּעִיזָּא, וְהָדַר בֵּיהּ כְּנָפְיָא.

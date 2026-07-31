@@ -1,6 +1,6 @@
 # Nazir 41 — Daf Yomi Shiur
 
-## Metzora Shaving Requirem…
+## Metzora Razor Debate
 
 ### Three Categories Shaving
 
@@ -8,7 +8,7 @@ The daf opens by situating the current discussion within a broader framework: th
 
 The underlying problem the *gemara* is working through is this: how do we know that the *mitzvah* shaving of the *metzora* and the *nazir* must be performed specifically with a razor, given that neither verse says so explicitly? Two *braisas* approach this question from opposite directions — one takes the *metzora*'s razor requirement as a given and tries (without success) to extend it to the *nazir*, while the other takes the *nazir*'s razor requirement as a given and tries to extend it to the *metzora*. The *gemara* now explains why each *braisa* started where it did, and that explanation turns out to depend on the broader dispute between the *Rabbanan* and Rabbi Eliezer.
 
-### Rabbanan Beard Prohibiti…
+### Rabbanan: Beard & Razor
 
 The *Rabbanan* hold that the prohibition against shaving the beard applies only with a *ta'ar mamash* — literally a razor and nothing else. They derive this from the combination of two verses. The verse concerning *kohanim* states *ufat zekanam lo yegalechu*, which could encompass scissors — that is, any blade that cuts. The verse concerning Israelites states *velo tashchit et pe'at zekanecha*, where *tashchit* implies destruction at the root, which could encompass plucking but not necessarily a blade. Taken together, the prohibition requires both qualities simultaneously: a blade that destroys at the root. This defines the prohibited implement as, essentially, a razor. It is for this reason that many observe the practice of using electric shavers — on the view that an electric shaver operates through a scissor-like action and thus does not constitute a *ta'ar mamash*.
 
@@ -22,7 +22,7 @@ The critical inference for the *Rabbanan* is this: since according to them the p
 
 Rabbi Eliezer disputes the *Rabbanan*'s understanding of the beard prohibition. In his view, the prohibition of shaving the beard is broader than the *Rabbanan* acknowledge — it is not limited to a razor alone. Exactly how broad Rabbi Eliezer's position extends is the subject of the surrounding discussion, but the key point for the present *sugyah* is that for Rabbi Eliezer the beard prohibition applies in a wider range of cases than just the literal razor. This means the inference the *Rabbanan* draw from *et zekano* — that the *metzora*'s shaving overrides the beard prohibition, and therefore the *metzora*'s shaving must be with a razor — does not work for Rabbi Eliezer. Yes, the verse tells us the *metzora* overrides the beard prohibition, but since that prohibition is broader than just the razor, the override would need to apply across a wider range of implements. The fact that the *metzora* overrides the beard shaving does not, on Rabbi Eliezer's view, prove that the *metzora*'s shaving is specifically and exclusively with a razor.
 
-### R. Eliezer Learning Metz…
+### R. Eliezer: Metzora/Nazir
 
 Rabbi Eliezer must therefore find a different source to establish that the *metzora*'s *giluach* requires a razor, and he does so by using *et rosho* rather than *et zekano*. A *braisa* asks: what does the word *rosho* — "his head" — in the *metzora* verse come to teach? It answers: since the *nazir* is told *ta'ar lo ya'avor al rosho*, the *nazir*'s prohibition of shaving is explicitly and exclusively a prohibition of the *ta'ar*. One might have thought that if a *nazir* becomes a *metzora*, he cannot fulfill the *metzora mitzvah* with respect to his head, since the razor is precisely what is prohibited to the *nazir*. *Talmud lomar rosho* — the word *rosho* teaches us that even the head of a *metzora* who is also a *nazir* must be shaved.
 
@@ -42,7 +42,7 @@ The answer comes from the juxtaposition of two verses concerning *tzitzit* and *
 
 For the present discussion, however, the more immediately operative point is this: the *gemara* notes that for Rabbi Eliezer, both the override of the beard prohibition — which involves the *kohanim*'s *lo ta'aseh* of *lo yegalechu* together with the *aseh* of *kedoshim yihyu* — and the override of the *nazir*'s prohibition — which involves the *lo ta'aseh* of *ta'ar lo ya'avor* together with the *aseh* of *kadosh yihyeh gadel pera* — are cases of overriding a *lo ta'aseh* reinforced by an *aseh*, which represents a more difficult obstacle than a bare *lo ta'aseh* alone. *Tosafot* points out that precisely because Rabbi Eliezer uses both of his *drashos* to overcome the harder case, he must already know the basic principle from *tzitzit* and *shatnez* that an *aseh* overrides even a simple *lo ta'aseh*. The *drashos* by *rosho* and *zekano* then extend that principle to the harder cases — where both a prohibition and a positive commandment stand on the other side.
 
-## Rosho and Zekano Ana (II)
+## Rosho and Zekano Analysis
 
 ### Rosho Sideburns Issue
 
@@ -74,7 +74,7 @@ This is the crucial asymmetry. For the *Rabbanan*, the reason that *zekano* prov
 
 Embedded in the *gemara*'s argument is a striking implicit claim: the prohibition of shaving the sideburns is broader in scope than the prohibition of shaving the beard. The beard prohibition, as the *Rabbanan* hold, is limited exclusively to a *ta'ar mamash* — a literal razor. The sideburn prohibition, however, applies across a wider range of implements. This is precisely why the override of the sideburn prohibition by the *metzora* cannot serve to establish that the *metzora mitzvah* requires a razor: an override of a prohibition that applies even without a razor does not prove that the act overriding it must be done with a razor.
 
-## Sideburns Practical Hala…
+## Sidelocks: Halakhic Rules
 
 ### Tosafot Head Prohibition
 
@@ -130,7 +130,7 @@ Rav Yosef son of Rabbi Chanina challenges the derivation: the verse *yigalchenu*
 
 The *gemara* moves from the establishment of the requirement to a series of edge cases designed to test the outer limits of the principle. Rava poses the following question: a *nazir* who shaved at the conclusion of his *nezirut* but left two hairs. He has not yet fulfilled the *mitzvah*. Now hair grows back, and after a period his head is once again full of hair — but the original two hairs that he left are still identifiable. He then shaves those two specific hairs while his head remains full of all the regrown hair. Has he fulfilled the *mitzvah* of *giluach*? This is something like the philosophical puzzle of whether an action that targets only the two remaining original hairs constitutes a fulfillment, given that the totality of hair on his head is nowhere near completely shaved.
 
-### Single Hair Not Signific…
+### Hair Not Significant
 
 The more refined version of Rava's question — as clarified in the text — is actually different: a *nazir* who shaved and left two hairs, then one of those hairs fell out on its own and he deliberately shaved the remaining one. Has he fulfilled the *mitzvah*? At first glance, one might say that since the final remaining hair has now been removed, the *giluach* is complete. The question, however, is whether the deliberate cutting of a single hair when no other hairs remain to be cut constitutes a meaningful act of *giluach* at all.
 
@@ -144,11 +144,11 @@ The final inference is stark: the person ends up completely bald — the last ha
 
 ## Hair Care Permitted Acts
 
-### Hand Straightening Allow…
+### Nazir Straightening Hair
 
 The next *mishnah* introduces a series of rulings about what a *nazir* may and may not do with respect to his hair during the period of *nezirut*. The *mishnah* states: *nazir chofef umefaspes aval lo sorek* — a *nazir* may run his fingers through his hair and use his hands to straighten and separate the hairs, but he may not comb. The prohibition on pulling out hair during *nezirut* applies not only to a razor but — as the *gemara* has noted — to any deliberate act of hair removal, including by hand. The question, then, is why using the hands to straighten hair is permitted.
 
-### Unintentional Loss Allow…
+### Hair Loss: R. Shimon
 
 The answer the *gemara* provides is that this *mishnah* reflects the position of Rabbi Shimon, who holds that *davar she'eino miskaven mutar* — an action that is not intended to achieve the prohibited outcome is permitted. When a *nazir* runs his fingers through his hair or uses his hands to smooth and separate the hairs, his intention is to straighten them, not to pull them out. If a hair comes loose incidentally in the process, Rabbi Shimon regards this as *davar she'eino miskaven* and therefore permitted.
 

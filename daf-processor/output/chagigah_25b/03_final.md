@@ -1,4 +1,5 @@
 # Chagigah 25b — Daf Yomi Shiur
+[DAF:25a]
 
 ## Produce Processing Times
 
@@ -56,6 +57,7 @@ Having examined Rav Nachman's resolution and the *baraita*, the *gemara* conclud
 
 The lapse of the pressing season marks a dramatic shift in the *halakha*. Once the pressing season — *sha'at ha-gitot* — passes, the leniency lapses entirely. *Avru ha-gitot ve-ha-badidim, ve-heivi lo chavis shel yayin lo yekabelenu* — if an *am ha-aretz* brings a *chaver* a barrel of wine after that time has passed, the *chaver* may not accept it. This holds even if it is the exact same barrel that would have been accepted during the pressing season. One might wonder: hasn't the wine simply had more opportunity to become *tamei* with the passage of time? This is a fair observation, and it points to how the rule is somewhat abstracted into a formal principle: the pressing season creates an institutional window of believability, not a calculation of actual likelihood of *taharah*.
 
+[DAF:25b]
 ### Heir Division Case
 
 > **Hebrew/Aramaic:** חָבֵר וְעַם הָאָרֶץ שֶׁיָּרְשׁוּ אֶת אֲבִיהֶם עַם הָאָרֶץ, יָכוֹל לוֹמַר לוֹ: טוֹל אַתָּה חִטִּין שֶׁבְּמָקוֹם פְּלוֹנִי, וַאֲנִי חִטִּין שֶׁבְּמָקוֹם פְּלוֹנִי. טוֹל אַתָּה יַיִן שֶׁבְּמָקוֹם פְּלוֹנִי, וַאֲנִי יַיִן שֶׁבְּמָקוֹם פְּלוֹנִי. אֲבָל לֹא יֹאמַר לוֹ: טוֹל אַתָּה לַח וַאֲנִי יָבֵשׁ, טוֹל אַתָּה חִטִּין וַאֲנִי שְׂעוֹרִים.

@@ -10,11 +10,11 @@ The daf opens by resuming from the final line of 87b, which sets up the *mishnah
 
 This framework works cleanly for the oil and the change, but raises a pointed difficulty regarding the jug. If the jug belonged to the father, why should the storekeeper bear liability for it at all? The *Chachamim*'s reasoning — that the *kinyan* never transferred — does not obviously extend to an object the storekeeper never owned.
 
-### Rav Yosef: Storekeeper's…
+### Rav Yosef: Jug & Store
 
 The best answer offered thus far is that of Rav and Rav Yosef, who maintain that the jug too belonged to the storekeeper. On this reading, the jug, oil, and change are all the storekeeper's property, and the child was simply the vehicle of delivery. The *mishnah*'s concluding clause — that if the jug is in the child's hand the storekeeper is exempt — would then be read simply as: if it is the father's jug, the storekeeper is exempt on that jug.
 
-### Gemara Rejects Simple Re…
+### Gemara Rejects Mishnah
 
 The *Gemara*, however, declines this straightforward reading of the *mishnah*'s conclusion, preferring instead to maintain that the jug remains the storekeeper's throughout, which creates a different interpretive challenge: if the jug always belongs to the storekeeper, why should the *mishnah*'s emphasis on whether the jug was in the child's hands matter at all? The *Gemara* may simply be exploring alternative frameworks rather than responding to a strictly logical compulsion — and it is worth acknowledging that the simple reading favored by Rav and Rav Yosef remains the more intuitive one.
 
@@ -38,7 +38,7 @@ The *Gemara* then rejects this application. The logic of Rava's animal case rest
 
 This leads the *Gemara* to distinguish: Rava's principle generating liability without a prior obligation applies specifically because the actor's intervention destabilizes a previously stable situation. Taking an object at the owner's direction, for the owner's benefit, creates no such destabilization and thus no independent liability.
 
-### Rava's Position: Unautho…
+### Rava's Position: Kinyan
 
 Rava accordingly clarifies — noting that he and Rav Zeira had already worked through this together: *hacha b'mai askinan kegon shentalo limod bo l'acherim* — the storekeeper took the jug without permission to measure out for *other* customers entirely. And the underlying dispute between the *Tanna'im* is precisely *u'v'sho'el shelo mida'at kamifligi* — whether one who borrows without permission is classified as a *shoel* or a *gazlan*.
 
@@ -64,11 +64,11 @@ Tosafot raises a complication: we have a general principle that *gazlan shelo mi
 
 ## Shmuel: Inspection Model
 
-### Shmuel: Inspection Liabi…
+### Shmuel: Vessel Inspection
 
 Having resolved the *mishnah*'s framework, the *Gemara* turns *gufa* — to examine on its own terms the earlier statement of Shmuel: *hanotel keli min hauman levakaro* — one who takes a vessel from an artisan in order to inspect it becomes liable if an accident befalls it in his hands. The *Gemara*'s interest is in what legal category this creates. Is the inspector a *shoel* — a borrower — who has temporarily assumed the object under his control for his own benefit (assessing whether he wants it)? Or is he already something more like a *lokeach*, a purchaser, whose acquisition is merely conditional on the inspection's outcome?
 
-### Price Question: Lokeach…
+### Price: Lokeach Model
 
 This question has practical stakes beyond the *ones* liability they share. Tosafot and the Rashbam both engage the question, and the *Gemara* itself supplies a clue: *ve-hani mili dekaitzi dameha* — this liability obtains only where the price is fixed. This condition is telling. If the inspector were simply a *shoel* — borrowing the object to determine whether he wishes to buy it — it would be puzzling why a fixed price should be required. The price is irrelevant to a borrower's liability. The need for a fixed price suggests instead that the inspector functions as a *lokeach*: he has effectively purchased the item subject to a right of return if unsatisfied. The fixed price is necessary precisely because a purchase, even a conditional one, requires a determinate price to be operative.
 
@@ -100,7 +100,7 @@ This conclusion raises a puzzling logical problem. If the inspectors are tempora
 
 ## Chavér Demai Problem
 
-### Mishnah: No Purchase, No…
+### Mishnah: No Sale
 
 The *Gemara* now presents a *baraita* that introduces the question of *terumot u-ma'asrot* into the inspection model. A *chavér* — an observant Jew scrupulous in the separation of tithes — purchases vegetables from an *am ha-aretz*, a seller not trusted to have separated properly. If one buys from such a seller and brings the produce home, one must separate *demai* — the rabbinic tier of uncertain tithes — because the *am ha-aretz* may have failed to do so. The *baraita* states: *ha-lokeach yarak min ha-shuk u-viyeir ve-heniach afilu kol ha-yom kulo lo kanah ve-lo nitchayev be-ma'aser* — one who picks up vegetables in the market, inspects them, and sets them down has not acquired them and incurs no obligation of *ma'aser*, even if he spent the entire day doing this.
 
@@ -112,7 +112,7 @@ The *baraita* then confronts the consequences directly: *le-hachziro ee efshar, 
 
 Tosafot notes that this is not as complex as it sounds with respect to most tithes. For *demai*, once *ma'aser rishon* is separated, it may be eaten even by a non-*Levi*, since the underlying obligation is uncertain; the *Levi* who wants to claim it must prove it was not already taken — *ha-motzi me-chaveiro alav ha-ra'ayah*. Similarly with *ma'aser ani*. The genuinely difficult cases are *ma'aser sheni* — which is *kadosh* and must be eaten in Jerusalem or redeemed — and *terumas ma'aser* within the *ma'aser rishon*, which may only be consumed by a *Kohen*. For those portions, separation and compensation are the only path.
 
-### Rav Hoshaya: Yarei Shama…
+### Rav Hoshaya: Fear Heaven
 
 At this point the *Gemara* raises a sharp objection: *atu mishum de-gamar be-libo liknoso kanah ve-nitchayev be-ma'aser?* — does the mere fact that he made up his mind to buy it mean he has acquired it? This seems to contradict everything the *Gemara* has labored to establish about the requirements of a *kinyan*. The *Gemara* answers with Rav Hoshaya: *hacha be-yarei shamayim askinan* — the *baraita* is speaking specifically about a *yarei shamayim*, a person of exceptional scrupulousness, one who holds himself to a higher standard than strict law requires.
 
@@ -120,7 +120,7 @@ At this point the *Gemara* raises a sharp objection: *atu mishum de-gamar be-lib
 
 The paradigm of such a person is Rav Safra, cited immediately: *kegon Rav Safra de-kayem be-nafsheih ve-doveir emes be-levavo* — he upheld in his own conduct the verse "who speaks truth in his heart." The well-known story: Rav Safra was reciting *Shema* when a merchant approached wishing to sell him something. The merchant, receiving no response, kept raising his price. When Rav Safra finished *Shema*, he said: I had already agreed in my heart to buy it at the original price — I could not interrupt my prayer to say so — and therefore I will pay only that original price. A *yarei shamayim* honors the intent formed in his heart as though it were a completed transaction.
 
-### Rash'bam: Intent as Purc…
+### Rash'bam: Intent Purc
 
 The Rashbam articulates the principle directly: *ve-hachi nami gabei mekach, keivan de-yarei shamayim hu, keivan she-gamar be-libo zacha ba-mekach ve-nitchayev ba-mechir, ve-chi machzir ke-chozer u-mocher lo dami* — since this person is a *yarei shamayim*, once he formed his intention to buy, he treats himself as though he has acquired the produce and incurred the price. If he subsequently returns it, he treats this as a resale back to the original seller, and compensates accordingly.
 
@@ -130,7 +130,7 @@ This resolution, however, produces a certain tension with the earlier cases. In 
 
 ## Weights & Measures
 
-### Mishnah: Cleaning Standa…
+### Mishnah: Cleaning Rules
 
 The *Gemara* now turns to a new *mishnah*, continuing the theme of commercial integrity but shifting from the act of purchasing to the instruments of commerce themselves: weights, measures, and scales. The *mishnah* introduces three categories of seller, each with different cleaning obligations for their measuring vessels.
 
@@ -138,7 +138,7 @@ The *siton* — a wholesaler, as the Rashbam explains, *hu chanvani gadol she-ko
 
 The practical stakes are significant: residue lining a measuring vessel reduces its effective capacity. Even without any intent to deceive, the buyer will not receive the full amount purchased. This is the *halakhic* analogue to *eifa va-eifa* — using different standards for buying and selling — but produced by negligence rather than malice.
 
-### Rabban Shimon: Inverse R…
+### Shimon: Infrequent Use
 
 Rabban Shimon ben Gamliel reverses the reasoning entirely: *chiluf ha-devarim* — it is the opposite. Where a vessel is used rarely, whatever residue adheres to it clings and hardens, demanding more frequent cleaning. Heavy use, paradoxically, keeps vessels cleaner through the constant flow of material. On this view, the *ba'al habayit* whose vessel sits idle must clean more often, not less.
 
@@ -172,7 +172,7 @@ Similarly: *limchok o ligdosh, ligdosh lo yimchok* — if the custom is to smoot
 
 ## Source of Extra Measures
 
-### Reish Lakish: Even Shele…
+### Reish Lakish: Even Shelem
 
 The *Gemara* asks: *mena hanei milei* — what is the scriptural source for the requirement to give extra? Reish Lakish answers from the verse: *even sheleima va-tzedek* — a complete and just stone — which he expounds as *tzedek mi-shelcha ve-ten lo*: be righteous from your own — give something of your own to ensure the buyer receives everything owed. This establishes the general principle that one must give a small increment beyond the precise weight.
 
@@ -188,7 +188,7 @@ Accordingly, Reish Lakish's derivation is relocated: *ve-chi itmar d'Reish Lakis
 
 The *Gemara* turns to quantification. The *mishnah* stated *echad le-asarah be-lach* — one in ten for liquids — which, read literally, would mean ten percent. This seems far too large. Rav Abba bar Mamal citing Rav introduces a creative re-reading: *echad me-asarah be-litra be-lach le-asarah litrin* — one tenth of a single unit when purchasing ten units. That is, the extra measure is one tenth of one unit given when buying ten units — which is one percent, not ten percent. The *mishnah* is read as compressing two layered fractions.
 
-### Dry Measures: Percentage…
+### Dry Measures: Twenty Q's
 
 The corresponding figure for dry measures — *echad le-esrim be-yavesh* — is then subjected to the same question. The *Gemara* poses a *be-ayah*: does it mean one twentieth of a unit for every twenty units of dry measure (*echad me-esrim be-yavesh le-esrim de-yavesh*), yielding one four-hundredth of a percent — a quarter of a percent? Or does it mean one twentieth of a unit for every ten units, as in the liquid case (*echad me-asarah le-asarah de-lach, u-le-esrim be-yavesh*), yielding one two-hundredth — a half of a percent? The *Gemara* leaves this unresolved: *teku*. As for why dry measures should require a smaller *geirumin* than liquid measures, the *Gemara* does not explain, and the question remains open.
 
@@ -196,7 +196,7 @@ The corresponding figure for dry measures — *echad le-esrim be-yavesh* — is 
 
 ## Severity of Fraud
 
-### Rav Levi: Measure Fraud…
+### Rav Levi: Fraud vs Arayos
 
 The *Gemara* now steps back from technical analysis to deliver a striking moral statement. Rav Levi says: *kasheh onsham shel middos yoter me-onsham shel arayos* — the punishment for weights-and-measures fraud is more severe than the punishment for *arayos*, the gravest sexual prohibitions. This is a deliberately provocative formulation, precisely because it inverts the intuitive hierarchy: we tend to regard *arayos* as among the most serious of all transgressions. The *Gemara* supports the comparison with a textual argument: the verse concerning *arayos* uses the formulation *eil* (singular), while the verse concerning measures uses *eileh* (the fuller form), which connotes greater gravity.
 

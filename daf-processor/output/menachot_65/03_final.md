@@ -1,4 +1,5 @@
 # Menachot 65 — Daf Yomi Shiur
+[DAF:64b]
 
 ## Omer from Nearby
 
@@ -114,6 +115,7 @@ The natural reading of all three statements was that each woman was a *zava* —
 
 Mordechai, however, intervened. He suggested an alternative reading of each statement: *shema be'zov sachna* — perhaps she means that because of her flow she had been in mortal danger, not that her flow rendered her *tamei* in the sense of *zivah*; and similarly for the others. If so, none of the three were bringing *korbanot* as *zavot* at all; rather, each had survived a health crisis connected to her flow and was now bringing a *korban toda*-style *olah* in gratitude. In that case, *kulhu olot ninhu* — all the birds are *olot*, not the combination of *chatat* and *olah* required for a *zava*. They investigated and found that Mordechai was correct.
 
+[DAF:65a]
 ### Mordechai ID
 
 > **Hebrew/Aramaic:** וְהַיְינוּ דִּתְנַן: פְּתַחְיָה עַל הַקִּינִּין זֶה מָרְדֳּכַי, לָמָּה נִקְרָא שְׁמוֹ פְּתַחְיָה – שֶׁפּוֹתֵחַ דְּבָרִים וְדוֹרְשָׁן, וְיוֹדֵעַ בְּשִׁבְעִים לָשׁוֹן.
@@ -230,6 +232,7 @@ The next entry in *Megillat Ta'anit*: from the eighth of Nissan until the end of
 
 *Chutz mi'zaken echad she'haya mepatpet knegdo* — except for one elder who began to sputter, or chatter, against him. The verb *mepatpet* is deliberately deprecating — it conveys not reasoned argument but babbling or sputtering. And indeed, the elder's argument is striking precisely for what it does *not* do: he makes no textual argument whatsoever. Instead: *amar, Moshe Rabbeinu ohev Yisrael haya* — he declared that Moses loved the Jewish people; *ve'yodea she'Shavuot yom echad hu* — and knowing that *Shavuot* is only a one-day holiday, he arranged it to fall on a Sunday, so that Israel could enjoy two consecutive days of celebration — the Sunday *Shavuot* combined with whatever immediately preceded or followed. The pastoral concern for Israel's enjoyment of a two-day celebration is the entirety of the argument.
 
+[DAF:65b]
 ### Yochanan Refute
 
 > **Hebrew/Aramaic:** קָרָא עָלָיו מִקְרָא זֶה: ״אַחַד עָשָׂר יוֹם מֵחוֹרֵב דֶּרֶךְ הַר שֵׂעִיר״. וְאִם מֹשֶׁה רַבֵּינוּ אוֹהֵב יִשְׂרָאֵל הָיָה, לָמָּה אִיחֲרָן בְּמִדְבָּר אַרְבָּעִים שָׁנָה?

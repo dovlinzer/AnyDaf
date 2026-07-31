@@ -1,6 +1,6 @@
 # Shabbat 14 — Daf Yomi Shiur
 
-## Chananya's Attic & 18 Th…
+## Chananya's Attic & 18
 
 ### New Mishna Context
 
@@ -56,7 +56,7 @@ The sixth and seventh items are *ha-sefer* and *ha-yadayim*: *sifrei kodesh* —
 
 The *gemara* notes that a great deal of the eighteen things concerned *tumah v'taharah*, reflecting how central these concerns were to religious life even after the *churban*.
 
-### R. Eliezer vs. R. Yehosh…
+### R. Eliezer vs. Yehoshua
 
 The *gemara* asks: *man tana ochel ochel rishon v'ochel ochel sheni mifsil pasli t'muyei lo mtamyei?* — who is the *tanna* who holds that eating a *rishon* or *sheni* renders you *pasul* but not *tamei* in the full sense — meaning you become a *sheni*, not a *rishon*?
 
@@ -96,7 +96,7 @@ The next *gezeirah* concerns drawn water. *Haba rosho v'rubo b'mayim she'uvim: m
 
 *Hitchilu ve-asum keva* — but this practice became fixed and routine. People began treating the rinse as an integral part of the purification process. *Gazru aleihem tumah* — the rabbis therefore declared that this drawn-water rinse would render them *tamei*.
 
-### Preventing Misunderstand…
+### Bathing's Role Clarified
 
 Why exactly did the fixity of the practice necessitate a decree? The *gemara* records a dispute between Abaye and Rava on this point. *Amar Abaye: she-hayu omrim lo elu metaharim ela elu ve-elu metaharim* — Abaye says the problem was that people began saying: it is not the *mikvah* alone that purifies; it is the *mikvah* together with the rinse. This is a theological misunderstanding of what constitutes purification, and the rabbis could not allow it to stand.
 
@@ -114,7 +114,7 @@ The *gemara* asks: *mai ta'ama gazru behu rabbanan tumah? De-lo ha lo kayma ha* 
 
 ## Holy Texts Tumah
 
-### Sifrei Kodesh Tumah Reas…
+### Sifrei Kodesh Tumah
 
 The *mishna* then lists *ha-sefer* — holy scriptures — as conveying *tumah*. This is, at first glance, a striking proposition: the holiest objects in Jewish religious life are declared *tamei*. One might observe that although *tumah* and *kedushah* are in a sense antithetical, both represent a kind of metaphysical status that surrounds an object and generates real-world obligations. In a world where *tumah* was a lived reality, having *sifrei kodesh* generate *tumah* upon contact gave their holiness a tangible, halachic dimension — touching a *sefer Torah* changed one's metaphysical state and prohibited the eating of *trumah*.
 
@@ -126,7 +126,7 @@ The final item in this cluster of the *mishna*'s nine categories: *ha-yadayim* �
 
 This has practical implications for daily life. Since bread evokes the context of *kohanim* eating *trumah*, and since hands are always a *sheni*, the rabbinic institution of washing hands before eating bread derives from this framework: *kohanim* would always need to wash before eating *trumah*, and the practice was extended as a reminder of that context.
 
-### Direct Handling Conseque…
+### Sefer Torah Handling
 
 The *mishna*'s listing of *ha-sefer* as conveying *tumah* refers initially to the *sefer Torah* itself being a *sheni* that disqualifies *trumah* upon direct contact. But the *gemara* adds a related ruling: *af yadayim haba'ot machmat sefer poslot et ha-trumah* — hands that have touched a *sefer* also become a *sheni* and disqualify *trumah*. One might ask: since hands are always a *sheni* anyway, why does this need to be stated? The answer is that if a person had immersed in the *mikvah*, was extremely careful with his hands, kept his eye on them and they touched nothing — those hands would be *tahor*. The decree states that even then, touching a *sefer Torah* renders the hands a *sheni*.
 
@@ -168,7 +168,7 @@ The *gemara* again asks: what liquid? *Eileima be-mashkin de-zav* — the fluids
 
 ---
 
-## Hands Gezeirah Attributi…
+## Hands Gezeirah Debate
 
 ### Attribution Question
 

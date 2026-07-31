@@ -14,11 +14,11 @@ The first is *pegimat etzem bapesach* — a nick in a bone on Pesach. The Torah 
 
 A fourth opinion is then introduced: *veRav Chisda amar af pegimat sakkin* — Rav Chisda adds that a nick in a knife is equally governed by the same standard. The Gemara notes that the earlier tanna did not include the knife because that discussion pertained to non-kodashim contexts. The essential point of grouping all of these together is not merely that nicks are problematic in various domains, but that they all share the same definition of what constitutes a nick: *vechulam pegimatan kedei pegimat hamizbe'ach* — in every case, the standard is that of the nick of the altar.
 
-### Rashi on Bechor vs. Koda…
+### Rashi: Bechor vs Kodashim
 
 One might ask why bechor and kodashim are listed separately, given that a bechor is itself a type of sacrifice. Rashi offers two reasons. First, bechorot are exclusively male, and there are certain mumim — particularly in the genital area — that apply only to females and are therefore only relevant to kodashim. Second, and more significantly, Rashi addresses what might have been a *hava amina*: one might have thought that even if a blemish disqualifies an animal from being brought as a korban, a greater degree of blemish might be required before a bechor may actually be slaughtered and eaten outside the Beit Hamikdash. Unlike kodashim, where a blemished animal can have its kedusha transferred and a replacement korban brought, a bechor with a mum is simply slaughtered outside the Beit Hamikdash — and one might have imagined that to reach that stage requires a more severe blemish. The answer is that this is not the case, and that is precisely why both bechor and kodashim are stated: to exclude the possibility of any such intermediate threshold.
 
-### Restatement of Three Nic…
+### Restatement: Three Nicks
 
 The common thread uniting all of these nicks — the bone on Pesach, the ear of the bechor, the blemish in kodashim, and the nick in a knife — is that their shared definition derives from the standard of the altar: *kedei shetachgor bah tziporen*, that the nick is of sufficient size that a fingernail running across it would catch. That is the operative measure in every one of these contexts.
 
@@ -30,7 +30,7 @@ The common thread uniting all of these nicks — the bone on Pesach, the ear of 
 
 Having established that the standard for all these nicks is that of the altar, the Gemara now asks: *kama pegimat hamizbe'ach* — what exactly is that standard? The answer given is *kedei shetachgor bah tziporen* — that if you run your finger across it, it gets caught. This is precisely the standard that had been discussed in connection with knives used for shechita: any nick sufficient to catch a fingernail is considered a nick in the altar, and thereby constitutes the operative measure for all related domains.
 
-### Baraita: Tefach vs. Keza…
+### Baraita: Tefach vs. Keza
 
 The Gemara raises a challenge from a Baraita. The Torah states *avanim shelemot tivneh et mizbach Hashem Elokecha* — the altar must be built of whole stones — and *lo tanif aleihem barzel* — no iron tool may be used upon them. Given the standard of *shetachgor bah tziporen*, the question becomes: how large must a nick in the altar actually be? Rabbi Shimon ben Yochai says a nick must be a full *tefach* to be considered a disqualifying nick; Eleazar ben Yaakov says it need only be the size of a *kezayit*.
 
@@ -38,7 +38,7 @@ The Gemara raises a challenge from a Baraita. The Torah states *avanim shelemot 
 
 The Gemara resolves this apparent contradiction without difficulty: *ha besida ha be'avna* — one ruling applies to the plaster and the other to the stones. The Torah's requirement of *avanim shelemot* applies specifically to the stones of the altar. With respect to those stones, even the slightest nick — sufficient to catch a fingernail — renders the stone incomplete. However, the plaster used between the stones is not subject to the Torah's requirement of *shelemot*, and therefore a nick in the plaster only becomes halachically significant when it reaches a more substantial size, whether a *tefach* or a *kezayit*.
 
-### Tosafot's Building Quest…
+### Tosafot: Altar Built
 
 Tosafot raises the obvious difficulty: how was the altar ever built to meet such a demanding standard if iron tools were forbidden? Tosafot frames the question precisely: *ve'im tomar veheich banu hamizbe'ach* — how could they build it? *ve'anna yimtze'u avanim belo pegima* — where would they find stones without any nicks? And if they were to smooth the stones with iron, there is a biblical prohibition of *lo tanif aleihem barzel*.
 
@@ -72,7 +72,7 @@ Ravina adds a still more severe layer. Where the knife is found to be defective 
 
 According to Ravina's framework, then, Rava's position — deposing the butcher from his post and declaring his meat treifah — applies to the case where the butcher refused to show the knife but the knife was in fact acceptable. Even in that case, the disrespect alone warrants removing him from his post. If the knife was actually defective, Ravina would add the additional penalty of preventing any sale even to non-Jews.
 
-### Rabbinic Authority Discu…
+### Rabbinic Penalties
 
 This raises an obvious difficulty: the case where the butcher's knife is entirely acceptable and yet he is deposed from his post and his meat publicly declared treifah — even though it is not — seems quite severe. There is an inherent tension in applying such heavy penalties purely on grounds of disrespect toward rabbinic authority, as opposed to any substantive halachic failing.
 

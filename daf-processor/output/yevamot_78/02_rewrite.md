@@ -6,11 +6,11 @@
 
 We pick up toward the very bottom of 77b, in the midst of the debate concerning Rabbi Shimon's position in the Mishnah. Rabbi Shimon maintains that *Mitzri* and *Adomi* women should be permitted immediately — that is, from the first generation — reasoning by way of a *kal vachomer*: just as *Ammoni* and *Moavi*, where the prohibition is far stricter (applying to all generations), is limited to males — *Ammoni v'lo Ammonit* — then certainly *Mitzri* and *Adomi*, whose prohibition extends only two generations, should similarly not apply to the women.
 
-### Rabbanan's Challal Prece…
+### Rabbanan: Challal, Arayot
 
 The Rabbis respond by adducing the cases of *mamzer* and *arayot* as precedent: in those contexts, the prohibition falls upon both men and women, demonstrating that a prohibition need not be limited to males even where other asymmetries exist. Rabbi Shimon would rejoin that *arayot* and *mamzer* are different in a crucial respect: *mamzer* is conceived through an act carrying *karet*, and *arayot* themselves are *karet* offenses. By contrast, the prohibition against marrying *Mitzri* or *Adomi* does not even rise to the level of a *lav* — it is merely an *issur asei*. Given that lighter status, the *kal vachomer* in favor of permitting the women should hold.
 
-### Shimon's Kareis Distinct…
+### Shimon: Kareis Distinct
 
 The Gemara then asks: what would the Rabbis answer to this? Seven lines from the bottom of the page, we read *rabbanan* — the Rabbis would cite the case of the *challal* who is produced through a violation of an *issur asei*, in accordance with Rabbi Elazar ben Yaakov. For example, a *Kohen Gadol* who marries a non-*besulah* violates only an *issur asei*, yet according to Rabbi Elazar ben Yaakov the child of that union is a *challal*, and *challal* status applies to both males and females immediately. This parallel, the Rabbis argue, shows that even an *issur asei* can yield a prohibition that applies equally to both sexes.
 
@@ -46,7 +46,7 @@ Rabbi Yochanan's assessment of this exchange is striking. He says: *ilmalei d'am
 
 ---
 
-## Marriage Possibility Iss…
+## Gerim Principle
 
 ### Gerim Are Kahal
 
@@ -62,7 +62,7 @@ One might suggest he could marry a *mamzeret* — but then the children would th
 
 The resolution must be, then, that *Mitzrit* women are themselves forbidden — that is, they are not included in *kahal Hashem*, their status is restricted just like the men, and therefore a male *Mitzri* can marry a female *Mitzrit*. That union provides the *mutar* pathway through which the third generation can ultimately come about.
 
-### Torah Doesn't Speak B'di…
+### B'di'avad Not in Torah
 
 The Gemara suggests an alternative: perhaps we are talking about *b'di'avad* — a second-generation *Mitzri* who transgresses and marries someone he should not, and whose child similarly transgresses, thereby producing a third generation through prohibited unions. But the Gemara rejects this: *d'i lo katav kra* — the Torah does not write a verse addressing what happens when people have been sinning for two generations. The Torah would not frame a *hetter* — a permission to enter *kahal Hashem* — around the premise that transgressions were committed to get there.
 

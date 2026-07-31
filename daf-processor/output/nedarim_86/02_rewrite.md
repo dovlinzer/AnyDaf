@@ -30,7 +30,7 @@ The *Rosh* here explains: *dichtiv v'ini otah d'mashma she-makkir ha-ishah ha-no
 
 ---
 
-## Explicit vs. Interna (II)
+## Explicit vs. Internal
 
 ### Keriah Wrong Person
 

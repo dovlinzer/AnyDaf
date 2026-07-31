@@ -1,12 +1,12 @@
 # Eruvin 32 — Daf Yomi Shiur
 
-## Hazakah/Biblical vs Rabb…
+## Hazakah & Shelichuto
 
 ### Shaliach Principle Intro
 
 The Gemara on 31b concludes with a statement of Rav Yehiel affirming the principle of *hazakah shaliach oseh shelichuto* — the presumption that an agent performs the task he has been designated to carry out. This principle arose in the context of the Mishnah's ruling that an *eruv* may be sent via a *cheresh shoteh ve-katan*, individuals who cannot themselves place an *eruv* but who may serve as couriers to someone who will. Two questions had presented themselves. First, how do we know that a *cheresh shoteh ve-katan* actually delivered the *eruv*? There the answer was that one cannot assume delivery — one must observe it, given the limitations of these individuals. Second, even once a competent adult receives the *eruv*, how do we know he followed through and placed it? To this latter question, the Gemara answered: *hazakah shaliach oseh shelichuto* — one may presume that a person who has agreed to perform a task on another's behalf will carry it out.
 
-### Rav Nachman: Rabbinic On…
+### Rav Nachman: Hazakah
 
 At the top of 32a, the Gemara moves from the interpretive gloss on the Mishnah into a direct statement of *halachah*. Rav Nachman draws a fundamental distinction: *beshel Torah* — when the matter at hand is biblical in nature — *ein hazakah shaliach oseh shelichuto*. One cannot rely on this presumption, since people may be negligent or circumstances may intervene even with the best of intentions. The case of *eruv techumin*, however, is rabbinic in character — it permits one to walk beyond the *techum* on Shabbat — and for *beshel sofrim*, for rabbinic matters, *hazakah shaliach oseh shelichuto* does apply. One may presume that the *shaliach* took care of what he was asked to do.
 

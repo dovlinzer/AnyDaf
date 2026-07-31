@@ -1,6 +1,6 @@
 # Beitzah 3 — Daf Yomi Shiur
 
-## Four Beitzah Explana (II)
+## Four Beitzah Explanations
 
 ### Rav Nachman: Muktzah
 
@@ -10,13 +10,13 @@ The daf begins at the very bottom of 2b, where we have already encountered two e
 
 The second explanation is Rabbah's, which introduces the concept of *hachana* — preparation — derived from a biblical verse. This is not a rabbinic *muktzah* concern but a verse-based principle. As Rashi points out, *hachana* is specifically bound up with preparing for the *seudah* of Shabbat and Yom Tov. Accordingly, something completed not on a weekday, but intended for the Shabbat or Yom Tov meal, poses a problem even when its completion occurs naturally. The egg, which finishes developing inside the chicken on a Shabbat that precedes Yom Tov, is problematic because it was not already prepared and ready on a weekday for the Yom Tov meal. Whether this principle is limited specifically to food-related items is perhaps not fully clear, but that is Rabbah's framework.
 
-### Rav Yosef: Peiros Hanosh…
+### Rav Yosef: Peiros Hanosh
 
 The third explanation appears two lines from the bottom of 2b, where Rav Yosef states: *gezeirah mishum peiros hanoshrin* — it is a rabbinic concern modeled on the case of fruit that drops from a tree. On Shabbat and Yom Tov, one may not eat fruit that has fallen from a tree, even if *muktzah* is not technically a problem, because permitting it might lead one to go and pluck fruit directly from the tree. Rav Yosef argues that an egg dropping from a chicken belongs to the same category: it is like food that has fallen from its originating source. Accordingly, even when the chicken was designated for eating — meaning there is no *muktzah* or *nolad* concern — the egg remains forbidden by analogy to *peiros hanoshrin*.
 
 Before continuing, one might ask: if the chicken was designated for eating, why is there a *muktzah* problem to begin with? Tosafot raises this point, noting that if the fruit on the tree were about to drop naturally — say, because ravens in the area would normally eat it — perhaps the fruit would not be considered out of reach and therefore not *muktzah*. Yet it would still be forbidden due to this rabbinic concern. The question of why *muktzah* does not itself suffice to prohibit it is therefore a real one, and Tosafot suggests constructing a scenario where the imminent and natural detachment of the item removes the *muktzah* problem while the rabbinic decree still applies.
 
-## Abaye: Gezeirah L'Gezeir…
+## Abaye: Gezeirah L'Gezeir
 
 ### Abaye's Question
 
@@ -32,7 +32,7 @@ Rashi explains the principle differently and more precisely. The rabbis did not 
 
 ## Four Beitzah Explana (II)
 
-### Rav Yitzchak: Mashkin Sh…
+### Rav Yitzchak: Mashkin
 
 Rav Yitzchak, in the third line from the top of the new daf, offers a fourth explanation: *gezeirah mishum mashkin shezavu* — a rabbinic concern modeled on the case of liquids that flow from fruit. One is forbidden to squeeze fruit on Shabbat and Yom Tov, and by extension, even liquid that drains spontaneously from fruit is forbidden — lest permitting the naturally-expressed juice lead one to actively squeeze the fruit. Rav Yitzchak argues that the egg, which flows out of the chicken on its own, belongs to this same category of something that emerged from its source without active intervention. The egg, in his view, is analogous to grape juice that seeps out on its own.
 
@@ -70,11 +70,11 @@ An important question now emerges. Both of these final explanations presuppose t
 
 Tosafot raises this question in the passage beginning with the word *yivla'enu*, approximately in the middle of the relevant discussion. He writes: *ach teima* — it is a wonder. Why must we worry, *shema ya'aleh veyitlosh*, that one will climb and pluck fruit from a tree? *Ha afilu l'chatchila mutar litlosh* — should it not be permitted outright on Yom Tov? After all, *ochel nefesh mutar* — acts for the purpose of food are permitted, and the fact that one could have prepared in advance is no disqualification: cooking on Yom Tov is permitted even though one could have cooked beforehand. So why is plucking fruit from a tree forbidden?
 
-### Yerushalmi: Milishah V'E…
+### Yerushalmi: Melachot Kne
 
 Tosafot cites an explanation from Rabbeinu Nesanel in the name of the Yerushalmi. The verse states: *ach asher ye'achel l'chol nefesh* — whatever is needed for eating — and this is immediately juxtaposed with *ushmartem et hamatzos* — you shall guard the *matzos*. The Yerushalmi learns from this juxtaposition that the *melachot* permitted for food preparation on Yom Tov are those that correspond to the stage of production at which one must begin guarding *matzah* from becoming *chametz*. When does one begin guarding? From the moment water meets flour — that is, from the stage of kneading. The Yerushalmi therefore derives: *mishimur va'eilach, hem mutarot d'haynu milisha va'eilach* — from kneading onwards, these *melachot* are permitted. *Aval she'ar melachot d'mikodem lachen asurin* — but all earlier stages of production are forbidden.
 
-### Home vs. Field Preparati…
+### Home vs. Field Prep
 
 This becomes a foundational conceptual principle about what *ochel nefesh* permits on Yom Tov. It does not extend to going out into the field with a scythe and cutting down wheat. The Yerushalmi establishes a limit — understood by the Yerushalmi as biblical — and ties it to the analogy of *matzah*: only from kneading onward is preparation permitted.
 
@@ -92,13 +92,13 @@ The first statement of Rabbi Yehuda comes from a *mishnah* in Shabbat: *ein soch
 
 The logic is straightforward: the rabbinic concern is that permitting naturally-expressed juice will lead one to actively squeeze the fruit. But that concern only applies when the fruit's purpose is to yield juice — as with grapes designated for wine. If the fruit is meant to be eaten — like a grapefruit set aside for consumption — there is no reason to fear that allowing a bit of runoff juice will lead to active squeezing. The rabbinic decree therefore does not apply in that case.
 
-### R. Yochanan's Contradict…
+### Egg vs. Grapefruit Juice
 
 Rabbi Yochanan now identifies what appears to be a contradiction. The principle stated above is that any food that comes from food set aside for eating is permissible — *ochla de'afreshei* — like the juice from a grapefruit. But Rabbi Yehuda, in another context, speaks of an egg laid on Yom Tov as problematic. Rabbi Yochanan asks: the egg comes from a chicken that is set aside for eating. Should that not make it analogous to the grapefruit case, where the derived food is permitted? Why does Rabbi Yehuda treat the egg as a problem?
 
 The very fact that Rabbi Yochanan finds this contradiction significant — that he is troubled by the apparent inconsistency between the egg case and the grapefruit case — reveals his assumption. He assumes that the egg's prohibition is grounded in the same principle as the *mashkin shezavu* concern. If he held that the egg was forbidden for a different reason — *muktzah*, or *hachana*, or fruit from a tree — the grapefruit case would be wholly irrelevant, and no contradiction would arise. The *gemara* notes this explicitly: from the fact that Rabbi Yochanan connects these two positions and is troubled by their apparent inconsistency, *shema mina chad ta'ama hu* — we infer that he holds they share a common basis. Rabbi Yochanan therefore sides with the view that the egg falls into the category of *mashkin shezavu*.
 
-### Rosh Hashanah Two-Day Is…
+### Yehuda's Dispute: 2 Days
 
 The second statement of Rabbi Yehuda, which Rabbi Yochanan finds in tension with the first, comes from a debate in Eiruvin concerning the status of the two days of Rosh Hashanah. The question there is whether the two days of Rosh Hashanah function as a single continuous *kedushah* — one indivisible unit — or whether each day is independently uncertain, like a standard two-day Yom Tov of *sefeka deyoma*: each day is treated as though one does not know whether it is Yom Tov or a weekday.
 
@@ -108,7 +108,7 @@ Rabbi Yehuda further states: *beitzah shenolda berishon, tochel besheini* — an
 
 The point for our purposes is that Rabbi Yehuda's discussion of the egg in the context of Rosh Hashanah confirms that he accepts, at least at some level, that there is an issue with an egg laid on Yom Tov. This is what triggers Rabbi Yochanan's question: Rabbi Yehuda allows the juice from a grapefruit yet acknowledges a problem with the egg — how are these consistent?
 
-## Solutions to Contradicti…
+## Yochanan's Contradiction
 
 ### Ravina: Reverse Position
 
@@ -138,11 +138,11 @@ The *baraita* then adds two further rulings: *usfeika asura* — a doubtful egg 
 
 The ruling about *sfeika* — doubt — fits naturally with Rabbah's position. Rabbah grounds the egg's prohibition in the biblical concept of *hachana*, and therefore any doubt about whether the egg was laid today or yesterday is a doubt in a *de'oraita* matter. *Vekol sfeika d'oraita lechumra* — all biblical doubts are resolved stringently. It should be noted that Rabbah's concern with *hachana* applies primarily when Yom Tov and Shabbat are juxtaposed, whereas the *baraita* is discussing a regular Yom Tov. Nevertheless, the *gemara*'s point is that Rabbah's framework involves a genuine biblical dimension, and it is therefore coherent that a case of doubt would be treated strictly.
 
-### Rav Yosef/Yitzchak: Safe…
+### Rav Yosef/Yitzchak: Doubt
 
 The difficulty arises for Rav Yosef and Rav Yitzchak, whose explanations are purely rabbinic in origin. For them, the egg's prohibition is a rabbinic decree — either by analogy to *peiros hanoshrin* or to *mashkin shezavu* — with no biblical basis. A doubt in a purely rabbinic matter is *sfeika d'rabbanan*, and *vekol sfeika d'rabbanan lekula* — all rabbinic doubts are resolved leniently. Why, then, does the *baraita* rule that a doubtful egg is forbidden?
 
-## Shift to Treifah Cas (II)
+## Shift to Treifah Case
 
 ### Gemara's Reinterpretation
 

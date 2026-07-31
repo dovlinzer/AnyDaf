@@ -10,7 +10,7 @@ The daf opens in the middle of a sustained discussion about *chilul Shabbos* in 
 
 Rava proposes that Rabbi Yishmael and Rabbi Chanina *segan ha-kohanim* said *davar echad* — the same thing. To establish this, the *gemara* invokes a *mishnah* that records Rabbi Chanina's position.
 
-### Mishnah: Cutting & Proce…
+### Mishnah: Omer on Shabbos
 
 Rabbi Chanina *segan ha-kohanim* rules: when the *omer* is cut on Shabbos, it is cut by one person alone, using one scythe and one basket. On a weekday, three people cut it, using three scythes and three baskets. The Rabbis, by contrast, hold that even on Shabbos one uses three people with three scythes and three baskets.
 
@@ -42,7 +42,7 @@ The *gemara* thus leaves us with a rich and unresolved picture: we cannot simply
 
 ---
 
-## Rabbi Yishmael & Rabbi Y…
+## Rabbi Yishmael & Yosi
 
 ### Rav Ashi's Proposal
 
@@ -52,7 +52,7 @@ Having found the comparison between Rabbi Yishmael and Rabbi Chanina insufficien
 
 Rabbi Yosi dissents from the *tanna kamma* on one point: if the moon was seen *ba'aliyah* — clearly visible to all, on a bright night — then one need not violate Shabbos to come and testify. One can assume that many witnesses saw it, and this particular individual's testimony is not necessary. Rabbi Yosi's reasoning maps neatly onto *keivan de'efshar lo trachinan*: since the result can be achieved without this person's violation, we do not require that person to commit the violation.
 
-### Keivan De'Efshar Princip…
+### Keivan De'Efshar Princ.
 
 The *gemara* draws the parallel to Rabbi Yishmael: just as Rabbi Yosi says that when testimony can be delivered without your Shabbos violation, you should not violate Shabbos, Rabbi Yishmael says that when the *omer* flour can be produced adequately with three *se'ah*, one should not harvest five. The underlying principle — *keivan de'efshar lo trachinan* — is the same in both cases.
 
@@ -80,7 +80,7 @@ The *gemara* now introduces a distinct but related case: one slaughtered two *ch
 
 Rava — or as the *gemara* notes, some attribute this to Rabbi Ami — rules: *chayav al ha-shniyah, patur al ha-rishonah*. One is liable for the second slaughter, which constituted an unjustified *chilul Shabbos*, but the first was entirely proper and one has in fact fulfilled the obligation of the day with it.
 
-### No Retroactive Justifica…
+### Hindsight & Second
 
 The *gemara* then adds a striking corollary: even if the blood of the first animal spilled after the second was slaughtered, and the community therefore ended up using the second animal as its *korban*, this does not retroactively justify having slaughtered the second one. The determination is made as of the moment of the act. If the first animal's blood had spilled *before* the second was slaughtered, one would have been told to go ahead and slaughter a second — at that point it was necessary. But when both animals were slaughtered in sequence and only afterward the blood of the first spilled, the violation had already been committed when the second was slaughtered. Hindsight does not exonerate.
 
@@ -196,7 +196,7 @@ The *gemara* answers without hesitation: *peshita d'shalosh maitinan* — it is 
 
 The *gemara* then carefully distinguishes this from Rabbi Yishmael's ruling about the *omer*. There, Rabbi Yishmael says to harvest *less* grain — three *se'ah* rather than five — even though that means more effort in sifting. Why? Because in that case, reducing the quantity of grain harvested also reduces the act of *ketzira* — less cutting corresponds to less grain. The reduction in quantity and the reduction in the number or extent of the prohibited act go hand in hand.
 
-### Unified Principle
+### Unified Principle (II)
 
 Here, by contrast, the relationship is inverted: bringing *less* quantity — two figs instead of three — would actually require *more* acts of *melachah*, since the two figs are on separate stems. When minimizing quantity and minimizing the number of prohibited acts pull in opposite directions, the correct calculation is to minimize the number of acts, even if that means bringing a slightly larger quantity than strictly necessary.
 

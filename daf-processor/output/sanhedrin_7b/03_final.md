@@ -1,4 +1,5 @@
 # Sanhedrin 7b — Daf Yomi Shiur
+[DAF:7a]
 
 ## True Justice & Shechina
 
@@ -140,6 +141,7 @@ So Yehuda bar Nachmani opened and, improvising as though he were transmitting wh
 
 The *gemara* concludes that God will ultimately exact payment not only from the unfit appointee but from those who do the appointing: *atid Hakadosh Baruch Hu l'hipara mimamidim* — from those who install such people. The verse: *v'Hashem b'heichal kodsho has mipanav kol ha'aretz* — God is in His holy sanctuary; silence before Him all the earth. When false speech and empty authority have filled the land, God will rise to silence it.
 
+[DAF:7b]
 ### Asherah Comparison
 
 > **Hebrew/Aramaic:** אָמַר רֵישׁ לָקִישׁ: כׇּל הַמַּעֲמִיד דַּיָּין שֶׁאֵינוֹ הָגוּן, כְּאִילּוּ נוֹטֵעַ אֲשֵׁירָה בְּיִשְׂרָאֵל, שֶׁנֶּאֱמַר: ״שֹׁפְטִים וְשֹׁטְרִים תִּתֶּן לְךָ״, וּסְמִיךְ לֵיהּ: ״לֹא תִטַּע לְךָ אֲשֵׁרָה כָּל עֵץ״.

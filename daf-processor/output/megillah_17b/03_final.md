@@ -1,4 +1,5 @@
 # Megillah 17b — Daf Yomi Shiur
+[DAF:17a]
 
 ## al ha-seder in Shmoneh E…
 
@@ -24,6 +25,7 @@ The halakhic upshot, and the position that is accepted as practical *halacha*, f
 
 ## Binah, Teshuvah, Selichah
 
+[DAF:17b]
 ### Binah After Kedushah
 
 > **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר בִּינָה אַחַר קְדוּשָּׁה — שֶׁנֶּאֱמַר: ״וְהִקְדִּישׁוּ אֶת קְדוֹשׁ יַעֲקֹב וְאֶת אֱלֹהֵי יִשְׂרָאֵל יַעֲרִיצוּ״, וּסְמִיךְ לֵיהּ: ״וְיָדְעוּ תוֹעֵי רוּחַ בִּינָה״.

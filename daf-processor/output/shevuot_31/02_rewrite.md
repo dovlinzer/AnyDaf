@@ -36,7 +36,7 @@ These discussions raise the broader question of whether there is an *issur* to l
 
 ---
 
-## Midvar Sheker Applicatio…
+## Midvar Sheker in Court
 
 ### Talmid Bur Exclusion
 
@@ -70,7 +70,7 @@ Here the student's motive is far from pure; he seeks to inflate himself at his *
 
 ---
 
-## Witness Pressure Cas (II)
+## Witness Pressure Cases
 
 ### Coerced Testimony
 

@@ -22,7 +22,7 @@ According to the *Ramban*, the question of whether people ordinarily watch where
 
 ## Avid Inish Dina Lenafshei
 
-### Rav Yehuda vs. Rav Nachm…
+### Rav Yehuda vs. Nachman
 
 The *gemara* now turns to the critical principle of *avid inish dina lenafshei* — whether a person may take the law into his own hands. The occasion for this discussion is a case in which someone drew water from a well on a day that was not his designated turn, and the other party struck him with a shovel. The question is what fine, if any, the one who struck with the shovel must pay. Rav Nachman ruled that no fine is owed, because the person was acting under the license of *avid inish dina lenafshei* — protecting his own interests and enforcing his own rights directly.
 
@@ -138,7 +138,7 @@ The *gemara* brings one final case: *ba'al habayis shehiniach pe'ah mitzad echad
 
 Rava resolves this: *mai zeh va'zeh pe'ah liftur min hama'aser* — the ruling that "both are *pe'ah*" does not mean the landowner is obligated to allow the poor to take from both sides. It means that what they took from the unauthorized side was *momentarily* in the status of *pe'ah*. The landowner is entirely entitled to protect the side he had not designated — to use self-help to prevent the poor from taking from it — and he should not be understood as obligated to surrender both portions. The legal significance of the temporary *pe'ah* status is narrower: once produce had momentarily been designated or treated as *pe'ah* — even briefly — the landowner is exempt from *ma'aser* on that produce when he reclaims it. A *baraita* confirms this: one who declared his vineyard *hefker* overnight and then rose early to reclaim it before anyone else took it is *chayav* in *peret*, *olelot*, *shichecha*, and *pe'ah* — the gifts to the poor — but *patur* from *ma'aser*. Similarly, here, the produce that momentarily had *pe'ah* status carries with it a *ma'aser* exemption, even once the owner reasserts possession. The case therefore has no bearing on whether self-help is permitted — it confirms it is — but only on the *ma'aser* consequences of the brief *pe'ah* status.
 
-## General Principle & Limi…
+## General Principle Rashba
 
 ### Rishonim Consensus
 
@@ -216,7 +216,7 @@ Thus Shmuel's reading of the *mishna* is necessarily about personal injury, not 
 
 Rav now responds to Shmuel's challenge with a decisive clarification: *hani milei heicha de'afkirinhu* — the principle that such objects are categorized as *bor* applies when the owner made them *hefker* — formally relinquished ownership. *Aval heicha delo afkirinhu, mamono hu* — but if the owner retained ownership, the object remains his property and is classified as *shor*. This *mafkir* / non-*mafkir* distinction is the backbone of Rav's entire position throughout this *sugya*. When one breaks a pitcher in *reshut harabbim* and does not renounce ownership of the spilled water, the water is one's property — a *shor* — and vessel damage (stained clothing) generates liability. When the owner did relinquish ownership, the water becomes *bor*, vessel damage is exempt, but personal injury creates liability.
 
-## Baraita: Objects in Publ…
+## Baraita: Bor Liability
 
 ### Apparent Contradiction
 

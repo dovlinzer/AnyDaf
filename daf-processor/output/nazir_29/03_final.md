@@ -1,4 +1,5 @@
 # Nazir 29 — Daf Yomi Shiur
+[DAF:29a]
 
 ## Father Making Son Nazir
 
@@ -26,6 +27,7 @@ Rabbi Yose b'Rabbi Yehuda takes a different position: *ad sheyagia le'onat nedar
 
 The Gemara pauses before concluding that this Tannaitic debate straightforwardly maps onto the Amoraic one. The positions could align, but it is not self-evident that they must. The debate between thirteen and twelve does not automatically imply a debate about *halacha* versus *chinuch*, because each of those two conceptual positions could potentially lead to either age cutoff. The Gemara therefore explores two distinct approaches to reading the Tannaitic dispute.
 
+[DAF:29b]
 ### Halacha Approach
 
 > **Hebrew/Aramaic:** אָמְרִי: לָא. דְּכוּלֵּי עָלְמָא הֲלָכָה הִיא בְּנָזִיר, וְהָכָא בְּ״מוּפְלָא הַסָּמוּךְ לְאִישׁ״ קָמִיפַּלְגִי. רַבִּי סָבַר: מוּפְלָא הַסָּמוּךְ לְאִישׁ — דְּרַבָּנַן, וְאָתְיָא דְּאוֹרָיְיתָא דָּחֲיָא דְּרַבָּנַן. וְרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה סָבַר: מוּפְלָא הַסָּמוּךְ לְאִישׁ — דְּאוֹרָיְיתָא.

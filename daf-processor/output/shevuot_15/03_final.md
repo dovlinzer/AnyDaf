@@ -1,4 +1,5 @@
 # Shevuot 15 — Daf Yomi Shiur
+[DAF:15a]
 
 ## Yediya Requirement
 
@@ -154,6 +155,7 @@ The *gemara* asks: *mai gedolos* — what does the verse mean in calling these *
 
 To state this precisely: the *todah* came from five Jerusalemite *se'im*, equivalent to six *midbar se'im*, which is two *eifot*. An *eifah* contains three *se'ah*, and there are ten *isaronot* — tenths — in an *eifah*, making twenty *isaronot* in total. Ten were devoted to *chametz* and ten to *matzah*. The *matzah* was divided into three varieties — *chalot*, *rekikin*, and *revuchah* — while the *chametz* was of only one type. Consequently, each *chametz* loaf was three times the size of any individual *matzah* loaf. That is the *gedolos* of the verse: the *chametz* loaves of the *todah*.
 
+[DAF:15b]
 ### Mincha Instead
 
 > **Hebrew/Aramaic:** אָמַר רָמֵי בַּר חָמָא: אֵין הָעֲזָרָה מִתְקַדֶּשֶׁת, אֶלָּא בִּשְׁיָרֵי מִנְחָה. מַאי טַעְמָא? כִּירוּשָׁלַיִם; מָה יְרוּשָׁלַיִם – דָּבָר הַנֶּאֱכָל בָּהּ מְקַדְּשָׁהּ, אַף עֲזָרָה – דָּבָר הַנֶּאֱכָל בָּהּ מְקַדְּשָׁהּ.

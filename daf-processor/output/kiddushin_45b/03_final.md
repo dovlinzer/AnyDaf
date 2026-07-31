@@ -1,4 +1,5 @@
 # Kiddushin 45b — Daf Yomi Shiur
+[DAF:45a]
 
 ## Ketana, Father Away
 
@@ -196,6 +197,7 @@ Rav, however, deflects this argument: *lo tizul batar ipcha — yacholni le-shan
 
 If that is the case, why does the Torah need to tell us that the father can refuse? Of course the father can refuse to allow his daughter to marry this man — the father's authority over whom his daughter may marry is a fundamental premise that requires no *pasuk*. The *gemara* therefore explains that the *pasuk*'s point is not to establish the father's authority to veto the marriage but rather to specify the financial consequence: even when the father refuses and the marriage does not take place, the seducer must still pay the fifty *kesef — amar Rav Nachman bar Yitzchak: lomar she-meshalem knas ke-meputah*. The *pasuk* teaches the law of the *knas*, not a ruling about *kiddushin*.
 
+[DAF:45b]
 ### Seduction L'Shem Ishus
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב יוֹסֵף: אִי הָכִי, הַיְינוּ דִּתְנֵינָא: ״מָהֹר יִמְהָרֶנָּה לּוֹ לְאִשָּׁה״ – שֶׁצְּרִיכָה הֵימֶנּוּ קִידּוּשִׁין. וְאִם פִּיתָּהּ לְשׁוּם אִישׁוּת, קִידּוּשִׁין לְמָה לִי? אֲמַר לֵיהּ אַבָּיֵי: צְרִיכָה קִידּוּשִׁין לְדַעַת אָבִיהָ

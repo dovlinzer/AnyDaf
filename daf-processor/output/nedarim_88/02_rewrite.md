@@ -44,7 +44,7 @@ According to this reading, the *Chachamim* disagree and hold that on the day the
 
 ---
 
-## Blind Person Paralle (II)
+## Blind Person Parallel
 
 ### B'lo Ra'ot
 
@@ -70,7 +70,7 @@ On this reading, the positions are not merely reversed by textual accident. Rath
 
 ---
 
-## Neder/Son-in-Law Pr (III)operty
+## Neder/Son-in-Law Property
 
 ### Vow Setup
 
@@ -90,7 +90,7 @@ The *Gemara*'s resolution through *Rava* — that in each domain the verse opera
 
 ---
 
-## Neder/Son-in-Law Pr (III)ope…
+## Neder/Son-in-Law Pro (II)
 
 ### Noseies V'Notenes
 
@@ -118,7 +118,7 @@ Rav holds in accordance with this stronger model — and the *Gemara* will note 
 
 ---
 
-## Neder/Son-in-Law Pr (III)ope…
+## Neder/Son-in-Law Pr (III)
 
 ### Money vs Food
 
@@ -180,7 +180,7 @@ This is to be distinguished from reading the *Gemara*'s language as emphasizing 
 
 The *Gemara* now identifies a further complication. *Aesivay Ravina l'Rav Ashi* — Ravina posed to Rav Ashi a challenge from another Tannaic source: a *baraita* that explicitly enumerates the parties who can and cannot serve as the acquisitional agent for the *shituf mevo'ot*. On the permissible side, it lists adult children and Hebrew slaves — precisely as in the *stam mishna*. On the impermissible side — *elu she-ein zachin lahen* — it lists minor children, Canaanite slaves, and *v'ishto* — the wife. This creates a direct contradiction: one Tannaic source explicitly permits the wife to serve in this role and another explicitly prohibits it.
 
-### Property Interest Requir…
+### Wife's Property Interest
 
 Rav Ashi resolves the contradiction. The *stam mishna* that permits use of the wife does not apply across the board. *Matnitin besheyesh lah chatzer be'oto mavoi askinan* — the *mishna* refers specifically to a case where the wife herself owns a house in that very *mavoi*. *Demigo dezachyah l'nafshah zachyah l'achrinei* — since she has independent standing to acquire for herself in this context, she can also acquire on behalf of others.
 

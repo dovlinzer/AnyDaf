@@ -1,4 +1,5 @@
 # Chullin 5b — Daf Yomi Shiur
+[DAF:5a]
 
 ## Mumarim & Sacrifices
 
@@ -22,6 +23,7 @@ The Gemara ultimately rejects the second explanation based on a Baraita that pla
 
 Picking up at the very last line, the Gemara raises a pointed question: do we really derive the exclusion of a Mumar from bringing sacrifices from this particular verse about *mi-kem*? The Gemara notes that the exclusion appears to come from elsewhere entirely. The verse in the context of the sin offering reads *me-am ha-aretz* — "from the people of the land" — where the word *mem* signals a limitation: *prat le-mumar*, excluding a habitual violator or rebel from bringing a sin offering.
 
+[DAF:5b]
 ### Two Exclusions
 
 > **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן בֶּן יוֹסֵי אוֹמֵר מִשּׁוּם רַבִּי שִׁמְעוֹן: ״אֲשֶׁר לֹא תֵּעָשֶׂינָה בִּשְׁגָגָה וְאָשֵׁם״, הַשָּׁב מִידִיעָתוֹ – מֵבִיא קׇרְבָּן עַל שִׁגְגָתוֹ, אֵינוֹ שָׁב מִידִיעָתוֹ – אֵינוֹ מֵבִיא קׇרְבָּן עַל שִׁגְגָתוֹ.

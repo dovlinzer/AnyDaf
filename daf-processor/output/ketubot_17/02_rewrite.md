@@ -140,7 +140,7 @@ Rashi draws the implication in the other direction as well: *shemeinan de-le-man
 
 ---
 
-## First Marriage Evide (II)
+## First Marriage Evidence
 
 ### Hinuma Practice
 

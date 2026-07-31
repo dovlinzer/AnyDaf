@@ -1,6 +1,6 @@
 # Sanhedrin 11 — Daf Yomi Shiur
 
-## Appointment & Shmuel HaK…
+## Appointment & Shmuel
 
 ### Leap Year Requirement
 

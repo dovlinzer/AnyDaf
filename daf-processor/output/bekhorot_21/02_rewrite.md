@@ -114,7 +114,7 @@ The *gemara* states that it makes more sense to compare *ma'aser* to *bechor* �
 
 *Achila* is the fourth point. *Rashi* explains that this refers to the fact that *bechor* and *ma'aser*, when blemished, are eaten without first being brought as a *korban* — they are eaten outside the *Beit HaMikdash* entirely. This might seem to overlap with *mum*, but *Rashi* distinguishes them: *mum* addresses the rule established in the previous *perek* — that if an animal has a blemish before sanctification, the *kedushah* is ordinarily only of the monetary kind. *Achila* addresses the practical consequence: even with a *mum*, they are eaten rather than redeemed. All four properties point toward the same underlying principle — that *bechor* and *ma'aser* have identity-based *kedushah* rather than instilled *kedushah*, and that principle is what makes Rabbi Shimon's position coherent: if the *kedushah* can apply even when a *mum* precedes it, perhaps the *kedushah* can apply even when the animal has not yet reached the minimum age.
 
-### Identity Kedushah
+### Identity Kedusha
 
 These four properties are deeply interconnected and all derive from the same source: the *kedushah* of *bechor* and *ma'aser* is not an abstract quality instilled by an act of the owner but is intrinsic to the animal's standing as first or tenth. It is worth noting that *ma'aser* occupies an interesting middle position in this regard — unlike *bechor*, it is the owner's act of counting that designates which animal is the tenth. The *kedushah* does not arise entirely without human action. And yet, once designated as the tenth, the *kedushah* is fully identity-based and cannot be transferred. It is a midpoint between naturally arising *kedushah* and deliberately instilled *kedushah*.
 

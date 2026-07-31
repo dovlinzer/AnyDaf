@@ -1,6 +1,6 @@
 # Chagigah 6 — Daf Yomi Shiur
 
-## Olat Re'iyah vs. Shalmei…
+## Olat Re'iyah vs. Shalmei
 
 ### Minimum Comparison
 
@@ -36,11 +36,11 @@ It is worth noting how strange the argument structure is in either direction. Ge
 
 On the other side, *Beit Hillel*, Rabbi Akiva, and Rabbi Yose HaGlili all hold that the *olah* brought was an *olat tamid* — the communal offering — and not a personal one.
 
-### Rabbi Yishmael on Torah…
+### Rabbi Yishmael: Klal/Prat
 
 The *baraita* cited to establish Rabbi Yishmael's position concerns his famous theory of how the Torah was transmitted. Rabbi Yishmael holds: *klalot ne'emru b'Sinai, u'pratot b'Ohel Moed* — the general principles were stated at Har Sinai, but the specific details were only spelled out later, in the *Ohel Moed*, during the ongoing revelation described throughout *Vayikra* and the subsequent books. This continued revelation — *v'no'aditi lecha sham*, I will meet you there, *v'dibarti itcha me'al hakapores* — is what filled in the legal particulars after Sinai.
 
-### Rabbi Akiva on Torah Tra…
+### Rabbi Akiva: Sinai
 
 Rabbi Akiva disagrees: *klalot u'pratot ne'emru b'Sinai* — both the general principles and the specific details were given at Har Sinai; they were then repeated in the *Ohel Moed*, and repeated a third time in *Arvot Moav*. The repetitions were pedagogical, not revelatory — the content was already fully given at Sinai.
 
@@ -52,7 +52,7 @@ One way to resolve this apparent inversion is to read Rabbi Akiva's position as 
 
 ---
 
-## Transmission Theory Appl…
+## Transmission Theory Olat
 
 ### The Logical Problem
 
@@ -64,7 +64,7 @@ This presents a problem specifically for Rabbi Yishmael: if he also held that th
 
 *Tosafot* sharpens the logic here. They note that the procedural requirement of flaying and dismembering (*hefshet v'nituach*) is not a general rule stated abstractly about all *olot*, but is spelled out specifically in the context of the *olat tamid* itself. It is therefore particularly inconceivable that the *olat tamid* — the very *korban* about which the Torah later explicitly specifies these steps — could have been brought earlier without following them. This would not be as troubling for a private *olah* such as the *olat re'iyah*, since although all *olot* technically require *hefshet v'nituach*, the explicit textual connection is to the *tamid*. The *gemara* finds this reasoning persuasive.
 
-### Rabbi Elazar's Distincti…
+### Elazar: Mitzvah at Sinai
 
 A *baraita* is now cited concerning Rabbi Elazar. It invokes the phrase *olat tamid ha'asuyah b'Har Sinai* — "the *olat tamid* performed at Har Sinai" — a phrase that occurs in the liturgy and might seem on its face to be excellent evidence that a *tamid* was indeed offered at the foot of Sinai. Yet Rabbi Elazar reads this in a striking way: *ma'aseha ne'emru b'Sinai v'atzma lo karvah* — the procedure of the *olah* was commanded at Sinai, but the offering itself was not brought there. The phrase *asuyah b'Har Sinai* refers to the commandment being given at Sinai, not to the sacrifice being performed there. For Rabbi Elazar, then, there was no actual *olat tamid* at Sinai — only the command — and therefore the *olah* that was brought, alongside the *shlamim* mentioned in *Mishpatim*, was a personal offering, an *olat re'iyah*.
 
@@ -78,7 +78,7 @@ This raises the question of the verse in *Amos* that reads rhetorically: did you
 
 ---
 
-## Rabbi Yose HaGlili's Evi…
+## Yose HaGlili: Olat Tamid
 
 ### Three Regalim Mitzvot
 
@@ -100,7 +100,7 @@ The implicit conclusion from Rabbi Yose HaGlili's *baraita* is that if only the 
 
 With the three-against-three alignment established, the *gemara* now scrutinizes the placement of Rabbi Yishmael among the *Beit Shammai* camp. The argument was that because Rabbi Yishmael holds the details were only given as they appear explicitly in the text, he could not have maintained that the *olat tamid* was brought before those details were given. The problem with bringing the *tamid* without *hefshet v'nituach* seemed to force him to conclude that no *olat tamid* was brought at Sinai, and hence the *olah* must have been a personal *olat re'iyah*.
 
-### Precedent from Yose HaGl…
+### Yose HaGlili Precedent
 
 The *gemara* challenges this inference. Rabbi Yose HaGlili — who explicitly holds that the *olah* brought in the wilderness was the *olat tamid* — also holds, in a separate *baraita*, that the *olah* they brought in the wilderness did not require *hefshet v'nituach*: *lefi she'ein hefshet v'nituach ela me'Ohel Moed v'eilach* — those procedural requirements only became operative from the *Ohel Moed* onward. Here is explicit evidence that one can consistently hold both that the *olah* was an *olat tamid* and that it was brought without the later-specified procedural requirements. The manner in which the *tamid* was brought evolved over time as its details were revealed. This is entirely compatible with Rabbi Yishmael's theory of Torah transmission.
 
@@ -132,7 +132,7 @@ The *gemara* concludes with *teiku* — the question remains unresolved. Even gr
 
 ---
 
-## Re'iyah: No Biblical Lim…
+## Re'iyah: No Min/Max
 
 ### Mishnaic Teaching
 
@@ -164,7 +164,7 @@ Reish Lakish disagrees: *re'iyat panim be'korban* — appearing before God means
 
 ---
 
-## Dispute Limited to Other…
+## Dispute: Yom Tov vs Other
 
 ### First Day Consensus
 

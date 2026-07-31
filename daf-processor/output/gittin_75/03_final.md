@@ -1,4 +1,5 @@
 # Gittin 75 — Daf Yomi Shiur
+[DAF:75a]
 
 ## Tna'im Overview
 
@@ -216,6 +217,7 @@ Tosafot's framework thus creates an organic relationship between legal methodolo
 
 Shmuel instituted a *takkana* for the *get* of a *shachiv meira* — a person on his deathbed who wishes to give a *get* contingent on his death. The text Shmuel prescribed is: *im lo meisi lo yehei get v'im meisi yehei get* — "if I do not die it shall not be a *get*, and if I do die it shall be a *get*." The reason for beginning with the negative — "if I do not die" — is *lo makdmi inish b'puranusa*: a person does not open by invoking a bad outcome for himself. Beginning with "if I die" has the character of *ayin hara*.
 
+[DAF:75b]
 ### Yes Before No
 
 > **Hebrew/Aramaic:** וְלֵימָא: ״אִם מַתִּי יְהֵא גֵּט, וְאִם לֹא מַתִּי לֹא יְהֵא גֵּט״! לָא מַקְדֵּים אִינִישׁ פּוּרְעָנוּתָא לְנַפְשֵׁיהּ. וְלֵימָא: ״לֹא יְהֵא גֵּט אִם לֹא מַתִּי״! בָּעֵינַן תְּנַאי קוֹדֵם לְמַעֲשֶׂה.

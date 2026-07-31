@@ -1,6 +1,6 @@
 # Avodah Zarah 68 — Daf Yomi Shiur
 
-## Nosein Ta'am Lifgam Deba…
+## Nosein Ta'am Lifgam Deba
 
 ### R. Shimon vs. R. Meir
 

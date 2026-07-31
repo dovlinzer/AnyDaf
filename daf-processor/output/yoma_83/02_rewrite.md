@@ -148,7 +148,7 @@ If the choice is between *tevel* — grain from which *terumot u'ma'asrot* have 
 
 If the choice is between *tevel* and *shvi'it* produce — sabbatical-year food that is past the point at which it should have been destroyed — you give him the *shvi'it* produce. The obligation to destroy *shvi'it* produce after its time is a *mitzvat aseh*, a positive commandment, which is less severe than the *lo ta'aseh* of consuming *tevel*.
 
-### Tevel vs. Terumah Debate
+### Tevel vs. Terumah
 
 The more complex case is *tevel* versus *terumah*. Both carry the penalty of *mitah bidei shamayim*, so neither is obviously lighter than the other. This is the subject of a *tannaitic* dispute. The first opinion says you feed him *tevel* rather than *terumah*. Ben Teima says the opposite — you feed him *terumah* rather than *tevel*.
 

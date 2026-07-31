@@ -1,8 +1,8 @@
 # Keritot 9 — Daf Yomi Shiur
 
-## Four Cases: Mezid & Shog…
+## Four Cases: Mezid/Shogeg
 
-### Intro: Intentional vs Un…
+### Intro: Intent vs Unintent
 
 The ninth daf of *Keritot* opens a new *mishnah* that introduces a distinct category of *chatat*: sin offerings that are brought not only for unintentional violations but for intentional ones as well. Normally, the *chatat* is the exclusive domain of the *shogeg* — the person who transgresses unknowingly or negligently. Here, however, the *mishnah* identifies four cases that blur or override that fundamental distinction entirely: *eilu mevi'in al hazadon kishogeg* — the following bring an offering for even willful sins just as they would for unintentional ones.
 
@@ -14,7 +14,7 @@ The first of the four cases is *haba al hashifchah* — one who has sexual relat
 
 The *pasuk* continues: *vehevi et ashamo l'Adonai el petach ohel moed eil asham, vechiper alav hakohen be'eil ha'asham lifnei Adonai al chatato asher chata venislach lo mechatato asher chata* — he shall bring his guilt offering before God, and the priest shall atone for him, and he shall be forgiven for the sin that he has sinned. The Torah mandates both *malkot* (lashes) and a *korban*, which makes this a striking and unusual case — ordinarily lashes are imposed for *mezid* and a *korban* for *shogeg*, yet here both are applied simultaneously. The important consequence is that both intentional and unintentional acts within this category require the same *korban*.
 
-### Derivation: Redundancy i…
+### Shifchah Case: Redundant
 
 How does the *Gemara* derive that a single *korban* covers multiple acts of this sin, and that the *korban* is brought regardless of whether the act was intentional or unintentional? The *Gemara* cites a *baraita*: *vechiper alav hakohen be'eil ha'asham al chatato asher chata* — "for the sin that he has sinned." The phrase *chatato asher chata* is somewhat redundant; one might have simply written *al chatato*. The *baraita* derives from this redundancy that you bring one *korban* for multiple transgressions: *shemevi korban echad al aveirot harbeh*. And then the *pasuk* continues with a second redundant phrase — *venislach lo mechatato asher chata* — again "the sin that he has sinned." This second repetition teaches *la'asot mezid keshogeg* — to treat intentional sin like unintentional sin.
 
@@ -46,7 +46,7 @@ Therefore the Torah writes both *peta* — which unambiguously designates *shoge
 
 The *Gemara* adds that one cannot argue from *ones* to *mezid* or vice versa by a *kal vachomer*, because each can be excluded on its own grounds: one might say *ones* requires no *korban* because the person has no guilt, or that *mezid* requires no *korban* because the sin is too weighty for it to provide *kapparah*. The *pasuk* must explicitly include both.
 
-### Nazir: Metaphysical Fram…
+### Nazir: Metaphysical
 
 This leads to a deeper conceptual observation. Why would it make sense that a *nazir* brings a *korban* even by *ones* — when he has no fault whatsoever — and even by *mezid* — when his guilt is at the highest level? The answer may lie in how we understand the *nazir*'s *korban* fundamentally. It is not primarily about atoning for the personal guilt of the act of becoming *tamei*. Rather, it is about the process of ending a *nezirut* of *tumah* and initiating a new *nezirut* of *taharah*. The *korban* is part of a transition, a changing of state, not a response to personal culpability.
 
@@ -74,13 +74,13 @@ The *mishnah* now moves to a second category of special cases: *chamishah mevi'i
 
 The first *mishnah* in this section names only two of the five cases, with the remaining three appearing in subsequent *mishnayot*. The first two — *haba al hashifchah* and *nazir shenitma* — appear on both lists, the list of *mezid keshogeg* and the list of one *korban* for many sins. This overlap is itself instructive.
 
-### Shifchah: One Korban, Ma…
+### Shifchah Charufa: Korban
 
 For *haba al hashifchah*, the *mishnah* states: *haba al hashifchah bi'ot harbeh* — one who has sexual relations with a *shifchah charufa* multiple times brings only a single *korban*. The derivation is the same redundancy we saw earlier: *al chatato asher chata* teaches one *korban* for multiple violations, while *mechatato asher chata* teaches that even *mezid* is treated like *shogeg*. So the same textual redundancy in the *pasuk* generates both rules simultaneously.
 
 The *Gemara* discusses the precise framing of the derivation — does the *pasuk* start from *shogeg* and extend to *mezid*, or start from *mezid* (given the presence of *malkot*) and extend to *shogeg*? As we saw earlier, because *bikoret tihyeh* implies *malkot*, the baseline of the *pasuk* is *mezid*, and the extension is to *shogeg*. The *halacha* remains: whether *shogeg* or *mezid*, whether once or many times, it is one *korban*.
 
-### Gufin Mechulakim Distinc…
+### Gufin Mechulakim: Acts
 
 One might then ask: if the rule is that multiple acts of this sin require only one *korban*, does it matter whether those acts were with the same woman or with different women?
 
@@ -88,7 +88,7 @@ One might then ask: if the rule is that multiple acts of this sin require only o
 
 This precise question was posed by *Rabi Chanina Tirna'ah* to *Rabi Yochanan*: *haba al chamesh shifchot charufot be'he'elam echad* — if a person had relations with five different *shifchot charufot* in one state of forgetfulness, *mahu*? Does the single-*korban* rule apply, or does he bring five separate *korbanot*? The case is pressed further: normally, five separate acts with the same woman across five states of awareness would require five *korbanot*. Here, the *chiddush* of the *pasuk* is that even five such acts constitute only one *korban*. Why, then, should five different women be treated differently if there is only one state of forgetfulness?
 
-### Different Bodies Princip…
+### Different Bodies Korbans
 
 *Rabi Yochanan* responded: *ein shifchah achat gufin mecholakin* — one *shifchah* repeated multiple times does not constitute *gufin mechulakim* — different bodies. Five different *shifchot* are *gufin mechulakim* — they are fundamentally distinct entities. This is a recurring principle throughout *Keritot*: the distinctness of an act is determined far more by whether it involves different objects or persons than by the number of occasions or states of awareness. Multiple acts with the same person are essentially one thing played out through different states of awareness; multiple acts with different people are fundamentally distinct, each requiring its own *korban*.
 
@@ -100,7 +100,7 @@ The second case on the list is *nazir shenitma tumot harbeh* — a *nazir* who b
 
 The *Gemara* therefore understands the *mishnah* to be speaking about a more radical case: a *nazir* who violated one *nezirut*, underwent the purification process, began a new *nezirut*, violated that *nezirut* as well, began yet another, and so on — multiple distinct sequential *neziruyot*, each independently violated. In that case, you would expect each violated *nezirut* to generate its own *korban* obligation. Yet the *mishnah* teaches that it is still only one *korban*. The question is: how is that possible?
 
-### Nezirut Beginning: Day 7…
+### Nezirut Begin: Day 7 vs 8
 
 The answer depends on a *tannaitic* dispute about precisely when a new *nezirut detahara* begins. The *pasuk* says *vekidash et rosho bayom hahu* — he shall sanctify his head on that day. What is "that day"? *Rabbi* holds: *biyom havat korbanotav* — on the eighth day, when the *nazir* brings his *korbanot*. That is when his new *nezirut* begins. *Rabbi Yosi bar Rabbi Yehuda* holds: *biyom tiglachto* — on the seventh day, when he shaves; that is when the new *nezirut* commences.
 
@@ -130,7 +130,7 @@ The underlying logic, as with the *nazir*, is that the *korban* here is not focu
 
 The fourth case is *metzora shenitna benegaim harbeh* — a *metzora* who developed many lesions of *tzara'at*. The *Gemara* derives this from *zot torat hametzora* — this is the law of the *metzora*: *torah achat lemetzoraim harbeh*, one law covering multiple instances. But the application requires clarification: what does it mean to have multiple *tzara'ot*? Simply having additional spots appear while one is already a *metzora* would not constitute distinct cases — that is just one continuous state of being *metzora*.
 
-### Metzora Purification Sta…
+### Metzora: Birds, Day 8
 
 The *Gemara* explains by analogy to the *nazir* case. The purification process of a *metzora* is multi-stage. On an early day, the *metzora* brings two birds: one is slaughtered and its blood used in the purification rite, while the other is released. This begins the purification. The *metzora* then waits seven days, shaves on day seven, and on day eight brings the full set of *korbanot* — an *asham*, a *chatat*, and an *olah* — completing the purification process.
 
@@ -172,7 +172,7 @@ The *Gemara* presses the question: is it even meaningful to entertain such a *ha
 
 ## Rabbi Yehuda vs Chachamim
 
-### R. Yehuda: Odd Births On…
+### R. Yehuda: Odd Births
 
 Having established the general rule, the *mishnah* now records a dispute. *Rabbi Yehuda* takes a more restrictive position than the *Chachamim*: *mevia al harishon ve'eina mevia al hasheni, mevia al hashlishi ve'eina mevia al harevi'i* — she brings a *korban* for the first birth, not the second; for the third, not the fourth; and so on, alternating through odd and even births. According to *Rabbi Yehuda*, the rule of one *korban* for multiple births applies only to pairs, not to an indefinite chain.
 

@@ -28,7 +28,7 @@ This alternative framing is illuminated by a practical analogy. Regulatory stand
 
 The *Gemara* now introduces a comparison between the grain-contaminant rule and the laws of *ona'ah* — overcharging in a commercial transaction. The rules of *ona'ah* operate across three price bands. If the seller charges less than one-sixth above the market price (*pachos mi-shtus*), the sale is fully binding and no reimbursement is required, since the deviation falls within a tolerable range. If the overcharge exceeds one-sixth (*yoter mi-shtus*), the sale is void entirely — *batel mekach* — and the buyer recovers the full purchase price. If the overcharge is exactly one-sixth (*shtus*), the sale stands, but the seller must return the precise amount of the overcharge, *machazir ona'ah*.
 
-### Full Reimbursement Princ…
+### Ona'ah Full Reimbursement
 
 The *Gemara* raises a pointed challenge. In the case of *ona'ah*, once the overcharge reaches exactly one-sixth and the seller is required to return money, why must he return the full amount of the overcharge? Why not return only the marginal amount that pushed the price from just below a sixth to exactly a sixth — in other words, just enough to bring it back below the tolerable threshold? The *Gemara* answers: *kol heicha deba'i lehadurei, kula mehadar* — wherever there is an obligation to return at all, one must return everything. Once the seller is no longer within the tolerable range, the governing principle reasserts itself: the transaction should have been at the proper market price. The full excess, not merely the marginal overage, must therefore be returned.
 
@@ -82,7 +82,7 @@ The *Braita* sets out three cases based on the language used in the transaction.
 
 The *Rashbam* notes, and it is implicit in the *Gemara*, that *kosesot* is equivalent to *yayin ha-nimkar be-chanut*: it refers to wine that is still technically wine and still drinkable, but is in the process of souring. This is the grade of wine one encounters in an ordinary shop, as distinct from what one would obtain from a dedicated wine merchant or premium cellar.
 
-### Mishna-Braita Reconcilia…
+### Mishna-Braita: Cellar
 
 The *Gemara* resolves the apparent contradiction between the *Mishna* and the *Braita* in the following way. The *Mishna*'s ruling — permitting ten percent of barrels to be of inferior quality — does not conflict with the *Braita*'s requirement that *martef shel yayin stam* produce all good wine. The *Braita* is addressing the question of quality level: what grade of wine did the buyer's language entitle him to? The *Mishna* is addressing a different question: given that the seller promised a certain quality, how much deviation from that standard is tolerable before liability attaches? Thus, *martef shel yayin stam* requires all wine to be of good quality in principle, but the *Mishna* permits a ten-percent tolerance for barrels that fall short. The two sources are not in conflict; they address different aspects of the transaction.
 
@@ -94,7 +94,7 @@ The *Gemara* initially proposes that the *Mishna* follows the *Braita* of Rav Zv
 
 ---
 
-## Rav Zvid Modifier Framew…
+## Rav Zvid Braita Markers
 
 ### Linguistic Modifiers
 
@@ -132,7 +132,7 @@ The *Gemara* then addresses the remaining question for the second position — t
 
 The *Gemara* now shifts to a separate but related discussion concerning the appropriate *bracha* to recite over wine that is in the process of souring. Rav Yehuda holds that *yayin ha-nimkar be-chanut* — the store-quality souring wine that constitutes *kosesot* — still receives the *bracha* of *borei pri hagafen*. Since such wine still falls within the halachic category of *yayin*, the full *bracha* over wine is appropriate.
 
-### Severely Soured = Shehak…
+### Shehakol vs Borei Pri
 
 Rav Chisda disagrees and rules more stringently. He argues: *gabei chamra d'akrim, lama li?* — who needs wine that is souring? The implication is that wine so significantly degraded in quality is no longer what a person of discernment would recognize as proper wine. Such wine no longer deserves the *bracha* of *borei pri hagafen* and should instead receive the generic *bracha* of *shehakol nihiyeh bidvaro*.
 

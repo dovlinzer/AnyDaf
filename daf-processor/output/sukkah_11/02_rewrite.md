@@ -8,15 +8,15 @@ The Gemara on 11b takes up the case of a *sukkah al gabi ha-sukkah* — a double
 
 Rav Yehuda then cited a lenient reading in the name of Shmuel: even a true roof-shaped canopy is only a problem when it is also ten *tefachim* high. Only when both criteria are met — a flat roof and a height of ten *tefachim* — is the person considered to be dwelling in a separate enclosed zone rather than under the *schach* of the *sukkah*. On Shmuel's view, either criterion alone is insufficient to invalidate.
 
-### Baraita contradicts Shmu…
+### Baraita vs Shmuel
 
 Against this, the Gemara cites a *baraita* that appears to say that either criterion independently is enough to invalidate. The *baraita* distinguishes between *naklitin* — two poles forming a tepee — and *kinofot* — four posts forming a tent with a flat roof. Spreading a covering over the *kinofot* invalidates the *sukkah*, while spreading it over the *naklitin* is valid — provided, however, that the *naklitin* are not ten *tefachim* above the bed. By inference, the *kinofot*, which has a flat roof, invalidates even when it is less than ten *tefachim* high. Either a roof or a height of ten *tefachim* suffices. This directly contradicts Shmuel, who requires both.
 
-### Fixed vs. temporary stru…
+### Fixed vs. Temporary Stru
 
 The Gemara resolves the contradiction by distinguishing between fixed structures and temporary ones. The *kinofot* — poles attached to the bed as a permanent fixture — are qualitatively different from a portable pop tent. Because the *kinofot* is a more established feature, the Gemara is stricter with it, and a single criterion suffices to render it an invalidating enclosure. Shmuel's lenient requirement of two simultaneous criteria applies specifically to temporary, improvised tent structures. Once a structure is more fixed in character, either a flat roof or a height of ten *tefachim* independently establishes it as a separate zone.
 
-### Double Sukkah requiremen…
+### Sukkah tachat Sukkah (II)
 
 This framework then addresses the case of *sukkah tachat sukkah* — two stacked *sukkot*, where the upper one invalidates the lower. The Gemara notes that a double *sukkah* is obviously a fixed structure; nothing could be more permanent than one *sukkah* built atop another. Yet Shmuel himself had stated, *ke-hichshara kach psula* — the same measure of ten *tefachim* that validates a *sukkah* is also what causes it to invalidate the *sukkah* below it. So why, in the case of *sukkah tachat sukkah*, does Shmuel require both criteria — roof and ten *tefachim* — when the structure is plainly fixed?
 
@@ -80,7 +80,7 @@ The Gemara cites a *mishnah* as the basis for Rabbi Yehuda's principle: Rabbi Ye
 
 The Gemara anticipates an objection: perhaps Rabbi Yehuda's leniency applies only to sleeping under a bed, which is not designed to serve as a roof for the space beneath it. A bed is made for sleeping on top of it; the space underneath is incidental. But a *kila* — *letochah asuya*, made for the interior space beneath it — is designed precisely to function as a sheltering roof over those inside it. Perhaps in that case we should be stricter and say the person is genuinely under the *kila*'s roof rather than under the *sukkah*'s *schach*.
 
-### Permanent Sukkah princip…
+### Permanent Sukkah Model
 
 Rava bar Rav Huna's ruling addresses exactly this concern by making explicit the full scope of Rabbi Yehuda's principle: *lo ati arai mevatel leh a-keva* — a temporary structure categorically cannot negate a permanent one. *Lo shena mitah ve-lo shena kilah* — it makes no difference whether we are speaking of a bed or a *kila*. The *sukkah* is always the permanent structure; everything inside it, whether designed for overhead shelter or not, is temporary by comparison, and the person is always halachically beneath the *sukkah*.
 
@@ -116,7 +116,7 @@ Rav Yosef was sitting before Rav Kahana and cited the *Mishnah*'s ruling — tha
 
 Rav Huna's correction establishes that Rav Yosef had misattributed the position. The requirement to physically move the *schach* after cutting belongs to Shmuel, not to Rav. Rav's view is that the physical act of cutting constitutes the halachic making of the *schach*.
 
-### Rav Amram tzitzit preced…
+### Rav Amram Chasida Tzitzit
 
 To support Rav's position, the Gemara cites a parallel from the laws of *tzitzit* involving Rav Amram Chasida. He inserted *tzitzit* strings through the corner holes of his wife's *tallis* — threading both corners simultaneously, so that a single long string passed through two holes at once — but did not cut the looped ends of the strings. In this method, what appears to be four strings is actually one continuous string folded over multiple times; only after cutting the loops are genuine separate strings produced. He came before Rav Chiya bar Ashi and was told in the name of Rav: *mifaskun vehein ksheirin* — one may snip them and they will be valid. The act of cutting is the act of making them into *tzitzit*. *Psikasun zu hi asiyasun* — their cutting is their making — even though the physical insertion of the strings through the hole had already been performed. This is considered a valid act of making because it was a physical act that produced the halachic transformation, even if it was not the act of winding or knotting.
 

@@ -32,7 +32,7 @@ To support this claim, the *gemara* cites a *baraita* in the name of Rabbi Shimo
 
 The *gemara* draws its conclusion: according to Rabbi Shimon ben Elazar, *Beit Hillel*'s position is that one criterion suffices, and this is consistent with our *mishnah*. But the attribution to Rabbi Shimon ben Elazar is itself significant. It implies that others disagree with his reading of the dispute — they hold that *Beit Shammai* and *Beit Hillel* never debated the intermediate cases at all, and that everyone agrees both criteria are necessary. This is precisely the position of Rav Yehuda in the name of Shmuel: the *mishnah* follows only Rabbi Shimon ben Elazar's lenient reading, which is itself a minority position, while the authoritative ruling requires both that the wood be gathered *and* that it be located in a *karfaf*.
 
-### Rava on Easy-Scatter Items
+### Rava: Scattered Items
 
 Rava introduces a further refinement. Even where gathered wood is found in the appropriate location, not every physical pile qualifies as *mukhunas*. *Alei kanei ve-alei gefanim* — leaves of reeds or grapevine leaves — *af al gav de-mekhansei ve-motvi*, even if they are piled up, *keivan de-im madli zika mevader lehu, ke-mefuzarin damu* — since a wind could easily scatter them, they are treated as if they were scattered to begin with. A pile of leaves is, in Rava's view, not a genuine pile, because the owner had no reasonable expectation that the pile would remain intact. Without that expectation, there is no *da'at* — no cognitive presence — that would classify the material as set aside for use. The principle is that *muktzah* is fundamentally about what is "on one's radar screen," and something whose stability cannot be assumed does not make it onto that screen.
 

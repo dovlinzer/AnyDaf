@@ -172,7 +172,7 @@ The *Mishnah* turns to a special calendrical scenario: *Yom Tov ha-samuch le-Sha
 
 ---
 
-## Communal Sacrifices…
+## Communal Sacrifices (II)
 
 ### Tamid/Musaf Exclusion
 
@@ -180,7 +180,7 @@ The *Mishnah* turns to a special calendrical scenario: *Yom Tov ha-samuch le-Sha
 
 ---
 
-## Yom Tov & Shabbat…
+## Yom Tov & Shabbat (II)
 
 ### All Mishmarot Equal
 
@@ -210,7 +210,7 @@ The *Mishnah* then introduces the exception of the *mishmar* of *Bilgah*, which 
 
 ---
 
-## Yom Tov & Shabbat…
+## Yom Tov & Shabbat… (II)
 
 ### Communal Eating
 
@@ -218,7 +218,7 @@ The *Mishnah* then introduces the exception of the *mishmar* of *Bilgah*, which 
 
 ---
 
-## Regular Lechem Divisio…
+## Lechem Hapanim: Mishmarot
 
 ### Door Closing Reward
 

@@ -18,7 +18,7 @@ A practical question arises about mixing: if flour that is *chadash* is blended 
 
 ---
 
-## Rabbi Yishmael & Binyan…
+## Rabbi Yishmael Binyan Av
 
 ### Tanna Contradiction
 
@@ -112,7 +112,7 @@ Importantly, Rabbi Shimon bar Yochai appears to be saying not merely that *chada
 
 Rabbi Elazar the son of Rabbi Shimon takes the opposing position: *kol mitzvah shenitztavu Yisrael kodem knisatam la'aretz noheget bein ba'aretz bein b'chutz la'aretz* — any *mitzvah* that applied before they entered the land is not land-dependent and therefore applies outside the land as well. But *le'achar knisatam la'aretz* — anything that applied only upon entering the land, such as *chadash*, *orlah*, and *kilayim* — *einah noheget ela ba'aretz* — applies only in the land of Israel. He thus disagrees with his father and takes the position that these three are categorically limited to the land of Israel, since they are precisely the type of obligations that came into effect only with entry and are fundamentally land-dependent.
 
-### Exceptions: Loans & Slav…
+### Kesafim & Avadim
 
 Rabbi Elazar does, however, identify two exceptions: *chutz min hashmattat kesafim veshiluach avadim* — the annulment of loans in the *shemittah* year and the freeing of slaves in the *yovel* — *she'af al pi shenitztavu le'achar knisatam la'aretz, noheget bein ba'aretz bein b'chutz la'aretz* — even though these were commanded with reference to entry into the land, they apply both inside and outside. The question, which the *Gemara* will now address, is: why are these two specifically carved out as exceptions? If they are personal obligations with no inherent connection to the soil, why would it even occur to anyone to limit them to the land?
 

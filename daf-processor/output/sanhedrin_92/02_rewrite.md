@@ -84,7 +84,7 @@ The resolution: *omdim be-mumam u-mitrapin* — they are resurrected with their 
 
 Ula similarly points to a contradiction between two verses. One verse reads: *bila hamavet lanetzach umacha Hashem dima me'al kol panim* — death will be swallowed up forever, and God will wipe away the tears from every face. This appears to promise a future world entirely without death. Yet another verse reads: *ki hana'ar ben me'ah shanah yamut* — one who dies at a hundred years will be considered to have died young, and: *lo yihyeh misham od ul yamim* — there will no longer be a burden of days. This verse envisions vastly extended lifespans, but still envisions death.
 
-### Jewish vs. Non-Jewish Et…
+### Jews vs Non-Jews Lifespan
 
 The resolution: *lo kashya — kan be'Yisrael kan be'ovdei kochavim*. The verse promising the complete elimination of death applies to Jews; the verse describing century-long lifespans as youthful death applies to non-Jews. In the future world, Jews will live forever, while non-Jews will live for extraordinary lengths of time but will not be immortal.
 
@@ -96,7 +96,7 @@ The *Gemara* presses the question: *ve'ovdei kochavim mai ba'u hatam?* — who i
 
 ---
 
-## Yemos HaMashiach vs. Ola…
+## Messiah vs Olam Ha-Ba
 
 ### Light Paradox
 
@@ -254,7 +254,7 @@ Rabbi Zeira supports this from a *mishnah*: *bayit afel ein potchin lo chalonot 
 
 ---
 
-## Resurrection Proofs Natu…
+## Resurrection Proofs: Womb
 
 ### Never Satisfied Three
 
@@ -330,7 +330,7 @@ Rabbi Yitzchak Nafcha identifies them as the people who covered the entire *Heic
 
 ---
 
-## Divine Vindication Narra…
+## Resurrection & Vindic.
 
 ### Dura Valley Resurrection
 

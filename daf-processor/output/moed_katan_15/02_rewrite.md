@@ -1,6 +1,6 @@
 # Moed Katan 15 — Daf Yomi Shiur
 
-## Intro: Grooming & Catego…
+## Grooming & Chol HaMoed
 
 ### Mishna Exceptions
 
@@ -78,7 +78,7 @@ The *gemara* now addresses *atifat harosh*—the wrapping of the head. An *avel*
 
 What makes the *Yechezkel* passages interesting is that they cut in both directions. In some practices, *Yechezkel* was told to do what a normal *avel* does; in others, he was told to do the opposite. Through careful interpretation—guided by an existing sense of what *aveilus* entails—the *gemara* determines in each case which applies. Here, since *Yechezkel* was commanded not to wrap his face, we infer that ordinary *aveilim* are obligated to do so.
 
-### Menudeh & Metzora: Head…
+### Menudeh & Metzora: Head
 
 The *gemara* asks: *menudeh mahu b'atifat harosh*—must a *menudeh* wrap his head? *Rav Yosef* cites a proof: the *mishna* in *Maseches Taanis* describes how, after a series of unanswered fasts, the community wraps themselves and sits *ke-menudin u'cha'avelim*—like those who are ostracized and in mourning—until God has compassion on them. This suggests that wrapping the face is indeed a practice of a *menudeh*. *Abaye* objects: *dilma menudeh l'shamayim shani d'chamir*—perhaps this refers to a *menudeh l'shamayim*, one ostracized by Heaven, which may be a more severe category. One cannot necessarily derive from there that an ordinary *menudeh* is subject to the same practice. So the proof remains inconclusive.
 

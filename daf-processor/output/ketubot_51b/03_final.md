@@ -1,4 +1,5 @@
 # Ketubot 51b — Daf Yomi Shiur
+[DAF:51a]
 
 ## Min. Ketubah Amount
 
@@ -64,6 +65,7 @@ The *mishnah* rules: *im yesh bahem achrayut nechasim, lo yachazir* — if the d
 
 The *gemara* now notes something striking: this *baraita* itself states explicitly that even a *ketubat isha she'ein ba achrayut* — a *ketubah* lacking a lien clause — carries no lien according to Rabbi Meir. So Rabbi Meir consistently holds that liens must be written; their absence is significant, not merely a scribal oversight. This is the opposite of Rabbi Yehuda. And it applies to *ketubot* and regular loan documents alike.
 
+[DAF:51b]
 ### Five Unencumbered Items
 
 > **Hebrew/Aramaic:** וְהָתַנְיָא: חֲמִשָּׁה גּוֹבִין מִן הַמְחוֹרָרִין, וְאֵלּוּ הֵן: פֵּירוֹת, וּשְׁבַח פֵּירוֹת, וְהַמְקַבֵּל עָלָיו לָזוּן אֶת בֶּן אִשְׁתּוֹ וּבַת אִשְׁתּוֹ, וְגֵט חוֹב שֶׁאֵין בּוֹ אַחְרָיוּת, וּכְתוּבַּת אִשָּׁה שֶׁאֵין בָּהּ אַחְרָיוּת.

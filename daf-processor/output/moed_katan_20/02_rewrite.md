@@ -2,7 +2,7 @@
 
 ## Third Day Erev Regel
 
-### No Bathing Until Nightfa…
+### No Bathing Until Night
 
 The daf opens in the middle of 19b, where the Gemara returns to the question of *regel* interrupting *aveilus* following a brief digression regarding the derivation of thirty days from the laws of *nazir*. Rav Huna son of Rav Yehoshua opens with a unanimous ruling: *hakol modim k'shechal shlishi shelo liyos erev haregel, she'assur birchitza ad ha'erev* — everyone agrees that when the third day of *shiva* falls on *erev haregel*, the mourner may not bathe until nightfall.
 

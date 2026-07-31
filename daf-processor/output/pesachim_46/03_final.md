@@ -1,4 +1,5 @@
 # Pesachim 46 — Daf Yomi Shiur
+[DAF:45b]
 
 ## Moldy Bread & Dog Standards
 
@@ -88,6 +89,7 @@ The *gemara* raises an immediate difficulty. When discussing *chametz* on Pesach
 
 Rav Yehuda addresses this tension. *Eima u'l'inyan tumah eino kein* — he proposes that the *mishnah* does not mean the same ruling applies to *tumah*, but rather that *tumah* raises an analogous question — whether the dough is considered part of the trough or not — but resolved by a different set of criteria, namely the question of whether one is *makpid* or not *makpid*.
 
+[DAF:46a]
 ### Abaye's Reinterpretation
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: הָא ״וְכֵן לְעִנְיַן טוּמְאָה״ קָתָנֵי! אֶלָּא אָמַר אַבָּיֵי, הָכִי קָאָמַר: וְכֵן לְעִנְיַן צֵירוּף טוּמְאָה בַּפֶּסַח, וּבִשְׁאָר יְמוֹת הַשָּׁנָה אִיכָּא פְּלוּגְתָּא.
@@ -238,6 +240,7 @@ Rabbi Eliezer proposes a solution: *lo tikra lah shem ad shete'afeh* — do not 
 
 Ben Beteira offers a different approach: *tateih betzonen* — submerge the dough in cold water. Cold water prevents fermentation, and so one can set aside the raw *challah* dough in cold water and leave it there until *Yom Tov* is over, at which point it can be dealt with normally. The practical difficulty of this approach in a Pesach context — deliberately leaving raw dough outside the oven — is self-evident.
 
+[DAF:46b]
 ### Rabbi Yehoshua
 
 > **Hebrew/Aramaic:** לֹא זֶה הוּא חָמֵץ שֶׁמּוּזְהָרִין עָלָיו בְּבַל יֵרָאֶה וּבְבַל יִמָּצֵא. אֶלָּא: מַפְרִישָׁתָהּ וּמַנִּיחָתָהּ עַד הָעֶרֶב, וְאִם הֶחְמִיצָה — הֶחְמִיצָה.

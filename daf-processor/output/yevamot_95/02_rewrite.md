@@ -150,7 +150,7 @@ Armed with this distinction, the *Tanna Kamma*'s position becomes: it does not m
 
 A related question arises from this discussion: what standard of testimony does Reuven himself need in order to remarry in the first place — to marry Leah — upon hearing that Rachel has died? May he rely on a single witness? Tosafos on 94b (*af al gav*) addresses this directly, concluding that for Reuven to marry the sister specifically, two witnesses are required. The rationale for the general leniency of *eid echad* is *mishum iguna* — to spare a woman the suffering of remaining an *agunah*. A man does not face that predicament; he can always marry another woman. Therefore the same leniency does not apply, and he would need two witnesses to the wife's death before marrying her sister.
 
-### Rabbi Yitzchak Nafcha
+### Full vs. Engagement
 
 Rabbi Yitzchak Nafcha offers an alternative framing of the scenario. Rather than the one-witness versus two-witness distinction, he focuses on whether Rachel was fully married to Reuven (*nisuin*) or only betrothed (*eirusin*/*arusin*) at the time she traveled away with Barak.
 

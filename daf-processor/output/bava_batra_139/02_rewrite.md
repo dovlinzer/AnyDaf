@@ -2,7 +2,7 @@
 
 ## Guf & Peirot Transfer
 
-### Father's Harvested vs. U…
+### Father's Harvest vs. Son
 
 The daf opens with a *mishnah* at the very bottom of 138b concerning a father who wishes to transfer property to his son while retaining personal benefit from it during his lifetime. The mechanism employed is *guf me-hayom u-peirot le-achar mita*: the son receives title (*guf*) immediately — thereby avoiding the problem of a gift that takes effect only after death — but the father retains the right to all produce (*peirot*) from the field until he dies.
 
@@ -16,7 +16,7 @@ A *baraita* at the top of 138a appears to contradict this ruling. The *baraita* 
 
 The *gemara* resolves the contradiction through Ulla: *lo kashya kan be-veno kan be-acher* — there is no difficulty. The two cases differ based on whether the recipient is the son or a stranger. *Da'ato shel adam kerova etzel beno* — a father's disposition (*da'at*) is naturally inclined toward his son.
 
-### Da'ato Kerova: Intent Ma…
+### Da'ato Kerova: Intent
 
 Although technically the father retains the fruit rights and the unharvested fruit logically belongs to him, when dealing with his own son, the father's intent is that the son should benefit even from fruit still on the tree. Therefore, in the case of our *mishnah* — where the recipient is the son — the father's rights extend only to fruit he has actually harvested. Unharvested fruit at the time of death passes to the son. When, however, the son sold his interest to a third party, no such paternal closeness (*da'ato kerova*) operates, and the *baraita* applies: the unharvested fruit belongs to the father and passes to all the heirs.
 
@@ -72,7 +72,7 @@ The practical stakes are clear. A creditor holding only a *milveh al peh* (oral 
 
 One might note that the question makes more natural sense after the wife's death, when the husband fully inherits — at which point you could ask whether his prior usufruct right transforms his inheritance into something resembling a purchase. While the wife is alive, the husband does not yet hold title, which makes the framing somewhat unusual, as *Tosafot* addresses. But the *gemara* proceeds with the question as posed.
 
-### Raba: Daughters' Marriag…
+### Raba: Daughters & Heir
 
 Rava replies: *tenina* — the answer is already contained in our *mishnah*. He invokes the rule about daughters' wedding expenses: if the older daughters were married after the father's death using estate funds, the younger daughters may claim equal wedding costs from the estate. Now consider what this actually means. Suppose four daughters — call them Sarah, Rivka, Rachel, and Leah — share the estate. Sarah and Rivka marry, drawing $20,000 each from the estate. They bring their respective shares into their marriages. When Rachel and Leah come to marry, they too are entitled to $20,000 from the estate — meaning they can recover part of that sum from the property Sarah and Rivka brought into *their* marriages, property now in the hands of Sarah's and Rivka's husbands. This is precisely our question: the younger daughters had a lien-like claim against the estate, the older daughters took estate property into their marriages with their husbands, and now the younger daughters exercise that claim against property in the husbands' hands. The fact that they may do so implies the husband is treated as a *yoresh*, against whom liens are enforceable.
 
@@ -98,7 +98,7 @@ At this point, having assembled substantial evidence that the husband is a *yore
 
 Why is this significant? If the husband were purely a *yoresh*, he could only inherit what remained in the wife's hands at her death. Since she sold the property before dying, he would have nothing to claim — just as an heir cannot recover assets a decedent sold during his lifetime. The only way the husband can reclaim property the wife sold is if his relationship to it is that of a *lokeach* — someone who "purchased" his interest when he married, and whose claim therefore antedates and can override a later sale. The *takana* of Usha thus seems to treat him as a *lokeach*, in tension with all the evidence pointing to *yoresh*.
 
-### Rav Ashi: Context Determ…
+### Rav Ashi: Yoresh/Lokeach
 
 Rav Ashi resolves the apparent contradiction by rejecting the premise that there is one uniform answer: *ba'al shaviyuh rabanan ke-yoresh u-shaviyuh rabanan ke-lokeiach* — the Sages treated the husband as a *yoresh* in some contexts and as a *lokeach* in others. The governing principle: *ve-heicha de-tava lei avdu lei* — they applied whichever classification served to prevent undue loss.
 
@@ -110,7 +110,7 @@ The *Rashbam* concludes from this analysis that in the original case posed by Av
 
 ---
 
-## Daughters' Support Thres…
+## Daughters Support Group
 
 ### Large Estate Rule
 

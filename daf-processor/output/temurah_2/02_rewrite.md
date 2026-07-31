@@ -26,7 +26,7 @@ The genuine question, as the *Gemara* frames it, is what the term *memirin* actu
 
 This framing sets the agenda for the *masechet*: the word *memirin* is about efficacy, not permission.
 
-## Sin vs Metaphysics (III)
+## Sin vs Metaphysics
 
 ### Core Question
 
@@ -110,7 +110,7 @@ There is a further reason the *Gemara* considers why women might have been exclu
 
 Rashi acknowledges that this remains an odd *hava amina*: the general principle is that wherever the Torah does not explicitly exclude women, the use of *lashon zachar* does not suffice to exclude them. Still, the *Gemara* is trying to articulate what *kind* of reasoning one would have needed to overcome in order to include women — and the double novelty of *temurah*, both as a violation that takes effect despite being prohibited and as a violation achieved through speech alone, provides at least a theoretical basis for questioning the default inclusion.
 
-## Sin vs Metaphysics (III)
+## Sin vs Metaphysics (II)
 
 ### Minor Case
 
@@ -132,7 +132,7 @@ The *Gemara* leaves the question unresolved, and then introduces a conditional f
 
 This conditional leads directly to the parallel case of the non-Jew: *oved kochavim mahu she'yamir* — can a non-Jew perform *temurah*? The *Gemara* notes that a non-Jew does have the power to sanctify. The *baraita* derives this from the double expression *ish ish* — "any man" who brings a *korban* — understood as inclusive of non-Jews, who may make *nedarim* and *nedavot* like Jews. So he has *kedushah* capacity. Yet he is not merely not yet subject to the laws of *temurah* — he will never be. He is categorically outside the prohibition. The question is whether this categorical exclusion also removes the metaphysical efficacy of his act.
 
-## Sin vs Metaphysics (III)…
+## Sin vs Metaphysics (III)
 
 ### Frameworks
 

@@ -202,7 +202,7 @@ The obvious question is how Rabbi Shimon ben Elazar can reconcile this with the 
 
 How then does one read the verse *vayishkav es Bilhah pilegesh aviv* — and he lay with Bilhah, his father's concubine? *Melamed she-bilbel matzo shel aviv* — it teaches that he disturbed, overturned, the bed of his father. He did not actually lie with her; rather, he interfered with her sleeping arrangement. *U-ma'aleh alav hakatuv k'ilu shakhav imah* — the Torah writes of him as though he had lain with her, because his intervention in his father's domestic arrangements was of such gravity that Scripture treats it as equivalent.
 
-### R. Shimon: Defended Moth…
+### R. Shimon: Reuben Saved
 
 *Tanya: Rabbi Shimon ben Elazar omer: mutzal oto tzaddik mei-avon zeh* — that righteous man Reuven was saved from that sin. The phrase "was saved" is suggestive — perhaps implying that there was a desire or temptation involved but that he ultimately did not succumb. *V'lo ba ma'aseh zeh l'yado* — and indeed, the action never came to his hand at all. How could it have been otherwise? *Efshar atid zaro la'amod al Har Eival v'lomar?* — Is it conceivable that his descendants would one day stand on Har Eival — where Reuven's tribe was assigned to participate in the proclamation of the *klalos* — and God would have allowed him to have committed such a transgression?
 

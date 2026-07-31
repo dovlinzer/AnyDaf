@@ -1,12 +1,12 @@
 # Shekalim 6 — Daf Yomi Shiur
 
-## Mishnah: Friend's vs Own…
+## Mishnah: Shekalim Friend
 
 ### Opening Mishnah
 
 We begin *daf* 6 with the *mishna* found on 5b. The *mishna* opens: *ha-nosei shekalo le-chavero ve-shaklo al yado* — one who carries his friend's *shekel* and gives it on his behalf. The phrase *al yado*, which we have encountered before, here means that you entrusted your *shekel* to a friend so that he could deliver it to wherever *shekalim* were being collected — at the local square or village — on your behalf.
 
-### Me'ila from Friend's She…
+### Me'ila: Friend's Shekel
 
 The scenario continues: *ve-shaklo al yedei atzmo* — and he forgot, through an honest mistake, and deposited the *shekel* into the collection box for himself, intending it to discharge his own obligation rather than yours. This brings us immediately to the issue addressed on the previous *daf*: once a *shekel* is set aside, it has the status of *kodesh* — it is *hekdesh*. The *Gemara* there raised the question of how one could swear regarding *hekdesh*, since oaths do not apply to consecrated property. So when Reuven gave Shimon the *shekel*, Reuven had already sanctified it. When Shimon then deposited it toward his own obligation, he was taking a coin that was *hekdesh* belonging to Reuven and using it — not maliciously, not intentionally, but through honest error — to discharge his own financial duty. Here the *halacha* of *me'ila* (misuse of consecrated property) enters the picture.
 
@@ -24,15 +24,15 @@ The *mishna* then raises the possibility that the funds in question were *mi-ma'
 
 One might ask why the same transfer mechanism is not available when one used *hekdesh* funds rather than *ma'aser sheni* funds. If one realizes before it is too late that one gave a *hekdesh* coin, why not simply declare that wherever the *hekdesh* money is, its *kedushah* should be transferred to another coin? The answer turns on the nature of the consecration: once the animal has been purchased and the funds have been concretely applied — reaching the level of *kedushas haguf*, intrinsic sanctity of an object designated as a *korban* — there is no redemption without a *mum* (blemish). But at the stage of money, which is one level removed from the actual *korban*, value-based *hekdesh* can be transferred. The *mishna*'s silence on this remedy for *hekdesh* funds therefore remains somewhat unclear, yet it is what we have.
 
-### Terumah vs Korban Offeri…
+### Terumah vs Korban Me'ila
 
 A striking feature of the *mishna* as we have it is the apparent inconsistency between the two cases: the first hinges on *nitrama ha-trumah* as the critical moment, while the second hinges on *karvah ha-behemah*. This asymmetry will be the subject of the *Gemara*'s opening discussion.
 
 ---
 
-## Gemara: Me'ila Timing De…
+## Gemara: Me'ila Timing
 
-### Anan Teninan vs Beis Reb…
+### Anan vs Beis Me'ila
 
 The *Gemara* opens by noting the apparent tension directly. *Anan teninan* — we teach in our *mishna* that the critical moment is *im karva ha-behemah*, when the animal is brought. But *detani devei Rebbi* — the school of Rebbi teaches differently: *im nitharma ha-trumah*, when the *terumah* is taken.
 
@@ -46,7 +46,7 @@ One might press: why would the moment of *nitrama ha-trumah* specifically be whe
 
 The *Gemara* then raises a sharp difficulty: *ganav u'lesof chavero* — suppose I stole an *olah* belonging to someone else and brought it to the *Beis HaMikdash* and it was slaughtered without explicit designation. Whose *korban* would it be? Clearly the original owner's, since *stama leshem ba'alim ha-rishonim mishtakacha* — an undesignated offering is presumed to be for the original owners. The *Gemara* applies this principle to the *shekel* case: if Reuven put Shimon's money into the collection box without any explicit designation, the money was in effect Shimon's, and when the Temple eventually used it, it was Shimon's money being used. Where then is the *me'ila*? What exactly did Reuven misuse? If the funds automatically revert to their original owner's account, Reuven derived no benefit from them and committed no misuse.
 
-### Mesuyam and Rabban Gamli…
+### Mesuyam & Beis Rabban
 
 The *Gemara* resolves this with a key concept: *amar Rav Yehuda tifshot bi-mesuyam* — we are dealing with a case where the coin is *mesuyam*, designated and identifiable. If the coin was somehow marked or distinguishable — scratched with a distinctive mark, for example — then when the Temple used it, the very act of using that identifiable coin constituted using it *on behalf of Reuven*, not Shimon. It is through this designation that the misuse becomes concrete: that identifiable coin was treated as Reuven's when in fact it belonged to Shimon.
 
@@ -62,7 +62,7 @@ The *Gemara* offers two responses. The first: *ella ke-Rabbi Meir* — it could 
 
 It is notable that the two answers — the *mesuyam* point and the Rabban Gamliel practice — appear in the *Gemara* in a somewhat inverted order relative to the two questions they address. What makes the coin mine rather than my friend's? The designation. What ensures it is not among the leftovers? Placing it directly into the *kuppa*. The *Gemara* here has presented both answers in service of both questions, even if the fit is somewhat reversed.
 
-### Practical Benefit of Me'…
+### Me'ila: Avoiding Seizure
 
 Having established that *me'ila* can in principle apply to this scenario, the *Gemara* turns to a further question: *ma neheneh?* — what practical benefit did Reuven actually receive? He never put the money in his pocket. He delivered it to the *Beis HaMikdash*; he simply called it his own. If there is no tangible gain, what is the *me'ila*?
 
@@ -78,13 +78,13 @@ Turning to the *mishna*'s ruling regarding *ma'aser sheni* money — that one ma
 
 ---
 
-## Accumulating Shekali (II)
+## Accumulating Shekalim
 
 ### Hamachnis Maos
 
 The *mishna* on 6a opens with a new case: *ha-machnis ma'os ve-omer harei elu le-shekali* — one who saves coins over the course of the year, placing them into a box and declaring "these are for my *shekel*," accumulating penny by penny toward the *machatzis ha-shekel* obligation.
 
-### Beis Shammai: Motar Neda…
+### Shammai: Coins Nedavah
 
 When it comes time to pay, the person counts his coins and finds he has more than a half *shekel*. What is the status of the excess? Beis Shammai rules: *mosran nedava* — the leftover is *nedavah*, consecrated property used by the *Beis HaMikdash* for voluntary *olos* offered when the altar is not otherwise occupied. This reflects Beis Shammai's general position that *hekdesh b'ta'us* — consecration made in error — nonetheless takes effect. When one declared "these are for my *shekel*," the extra coins were unknowingly sanctified, and even though it was inadvertent, the *kedushah* holds.
 
@@ -114,7 +114,7 @@ A parallel: if one declared "these coins are for my *chatat*" (*korban* of sin-o
 
 ---
 
-## Rabbi Shimon's Expla (II)
+## Shimon: Hekdesh B'Ta'ut
 
 ### Shekalim vs Chatat
 
@@ -194,7 +194,7 @@ The *Gemara* then connects this directly to the earlier fistful-of-coins debate.
 
 ---
 
-## Collection Practices and…
+## Shekalim & Atonement
 
 ### Three Yearly Collections
 
@@ -210,7 +210,7 @@ Rabbi Avin notes that the number three is embedded throughout the *shekel* insti
 
 ---
 
-## Symbolic Meaning of Half…
+## Half-Shekel Symbolism
 
 ### Noon Atonement
 

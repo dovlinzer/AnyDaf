@@ -1,4 +1,5 @@
 # Bava Batra 143 — Daf Yomi Shiur
+[DAF:143a]
 
 ## Zachin Le'ubar
 
@@ -126,6 +127,7 @@ The response to this proof is remarkable: *hainu d'chazai Rav Huna bar Avia b'ch
 
 A new case is introduced: *hahu d'amar la l'devithu, nechasai lichi u'l'vnaich* — a man on his deathbed who said to his wife, "my property is to you and to my sons." The question immediately arises: how much does the wife receive? Does the formulation "you and my sons" mean she receives fifty percent while the sons divide the other fifty percent among themselves? Or does it mean she is included as equal to one son, receiving whatever each individual son would receive?
 
+[DAF:143b]
 ## Wife Share Dispute
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: בִּשְׁלָמָא הָתָם, אַהֲרֹן בַּר חֲלוּקָּה הוּא; לְהָכִי פְּרַט בֵּיהּ רַחֲמָנָא – לְמִשְׁקַל פַּלְגָא. אִשָּׁה – לָאו בַּת יְרוּשָּׁה הִיא, דַּיָּה שֶׁתִּטּוֹל כְּאֶחָד מִן הַבָּנִים.

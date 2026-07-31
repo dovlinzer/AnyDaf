@@ -8,7 +8,7 @@ The discussion opens not with the material formally beginning on daf 12 but with
 
 The first is the *gemara*'s own formulation: *lav bnei kerisus ninhu* — non-Jews are not within the category of those for whom *gittin* apply. Since divorce is a concept that exists only within a community bound by the relevant laws, those standing entirely outside that framework cannot participate in the execution of its documents.
 
-### Lav Bnei Kerisus
+### Lav Bnei Keritut
 
 The second reason is the requirement of *lishma*: the signing must be done with the specific intent that this document serve as a *get* for this woman. A non-Jew, the *tosafos* reasons, acts *ada'ata d'nafshei* — according to his own purposes — and we cannot presume he directs his mind to the required *lishma*, as established in the second chapter.
 
@@ -16,7 +16,7 @@ The second reason is the requirement of *lishma*: the signing must be done with 
 
 Third, *tosafos* notes that non-Jews cannot serve as agents: *lav bnei shlichus ninhu*. The basis for requiring *shlichus* here is that the husband must direct the *sofer* to write and the witnesses to sign, which means the entire execution of the *get* is mediated through agency. Since non-Jews are categorically excluded from the laws of *shelichut*, they cannot function in that role.
 
-Only at this point — fourth and finally — does *tosafos* add that non-Jews are *pesulim l'edus*, disqualified as witnesses. The fact that this is the last rather than the first reason offered is itself striking. It might seem that disqualification from testimony is the most obvious and straightforward ground for invalidating non-Jewish signatures, yet *tosafos* requires three prior reasons before arriving there. The implication, as the lecturer observes, is that none of the four reasons standing alone was felt to be fully airtight, and that together they form a cumulative argument. What is especially remarkable is how the *gemara* itself treats the disqualification of non-Jews as witnesses as something less than self-evident — the *tosafos* on 9b is actually working to establish, not simply assert, that non-Jews are *pesulim l'edus*.
+Only at this point — fourth and finally — does *tosafos* add that non-Jews are *pesulim l'edus*, disqualified as witnesses. The fact that this is the last rather than the first reason offered is itself striking. It might seem that disqualification from testimony is the most obvious and straightforward ground for invalidating non-Jewish signatures, yet *tosafos* requires three prior reasons before arriving there. The implication is that none of the four reasons standing alone was felt to be fully airtight, and that together they form a cumulative argument. What is especially remarkable is how the *gemara* itself treats the disqualification of non-Jews as witnesses as something less than self-evident — the *tosafos* on 9b is actually working to establish, not simply assert, that non-Jews are *pesulim l'edus*.
 
 ## Get vs. Manumission
 
@@ -84,7 +84,7 @@ The *gemara* answers: *isha de-la safka* — the wife's situation is categorical
 
 What about a slave who similarly cannot earn his own keep? Here the *gemara* responds sharply: *avda de-nahom karsei lo shavya le-marei le-martei le-mai mitvabei* — a slave who cannot earn the food his stomach requires, what use is he to his master? The practical implication, as Rashi explains, is that there is no legal obligation to make up the difference for a slave who cannot earn his own upkeep. Since the entire framework of the master-slave relationship is premised on the slave's productive labor, where that labor does not cover even basic sustenance, the master has no obligation to supplement. The *gemara* does not provide a positive rationale grounded in a *pasuk* or contractual principle; it simply asserts the distinction.
 
-The ethical weight of this position is not lost. The moment a slave becomes ill or incapacitated — precisely when he most needs support — the master appears to have no legal obligation to provide it. The *gemara* arrives at this conclusion without adverting to a verse or a contract, which the lecturer flags as notable.
+The ethical weight of this position is not lost. The moment a slave becomes ill or incapacitated — precisely when he most needs support — the master appears to have no legal obligation to provide it. The *gemara* arrives at this conclusion without adverting to a verse or a contract, which is notable.
 
 ### Cities of Refuge
 
@@ -98,7 +98,7 @@ The *gemara* further explains why the *baraita* specifically chose the scenario 
 
 The subsequent discussion in the *gemara* involves a *baraita* that contrasts the slave with a wife who has fled to a city of refuge: *ba'alah chayav bi-mezonoteiha* — her husband remains obligated to feed her. The *gemara* navigates the inference carefully: since the wife-case explicitly requires feeding only where no special arrangement was made, the slave-case must also be read as involving an arrangement (*tze ma'asei yadecha*) and not as a flat declaration of no obligation. The *gemara* then adds a final nuance: even where a wife could theoretically earn enough to feed herself, one might think her dignity prevents us from requiring her to hustle for work — *kol kevuda bat melech penima*. The *gemara* rules that we do in fact require her to earn what she can, and only the gap beyond what she can reasonably earn must be made up by the husband. 
 
-Throughout this extended passage, the *gemara* consistently refuses to accept the plain reading of texts that seem to say the master has no obligation to feed his slave, insisting instead that an obligation exists — while never grounding that obligation explicitly in a verse or formal legal category. The lecturer notes this is a striking feature of the *sugya*.
+Throughout this extended passage, the *gemara* consistently refuses to accept the plain reading of texts that seem to say the master has no obligation to feed his slave, insisting instead that an obligation exists — while never grounding that obligation explicitly in a verse or formal legal category. This is a striking feature of the *sugya*.
 
 ## Sanctifying Labor
 
@@ -140,7 +140,7 @@ According to Rav's position, this is difficult: if the master is entitled to the
 
 The *gemara* attempts to harmonize Rabbi Yochanan's ruling with the position that a feeding obligation exists. Perhaps *nizon min ha-tzedaka* means the master is providing the bare minimum and charity supplements it — *le-hadafah*. But the *gemara* rejects this: *nizon* specifically denotes the bare minimum subsistence level, whereas *mitparnes* would indicate something above the minimum. The word *nizon min ha-tzedaka* means that even the bare minimum is coming from charity, not from the master. The inference stands: *shma mina* that according to Rabbi Yochanan, the master has no obligation to feed his slave even while collecting the proceeds of the slave's labor.
 
-The lecturer observes that this may reflect a broader geographic or institutional disagreement — Rav, the Babylonian authority, insisting on the feeding obligation; Rabbi Yochanan, the Palestinian *amora*, permitting its waiver.
+This may reflect a broader geographic or institutional disagreement — Rav, the Babylonian authority, insisting on the feeding obligation; Rabbi Yochanan, the Palestinian *amora*, permitting its waiver.
 
 ### Doctor Bills
 

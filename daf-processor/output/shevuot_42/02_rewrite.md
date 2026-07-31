@@ -162,7 +162,7 @@ The sixth case: the creditor presents a *shtar* and demands a hundred *zuzi*. Th
 
 But the creditor asserts: *hani sitrai ninhu* — those funds were for a *different* debt. He claims there was a separate oral loan between them, and the hundred *zuzi* he received discharged that other obligation. The *shtar* debt, he insists, remains outstanding.
 
-### Rav Nachman
+### Rav Nachman (II)
 
 Rav Nachman rules: *itra shtara* — the *shtar* has been undermined. Once the creditor admits to having received a hundred *zuzi* and cannot prove the existence of any other loan, we presume that payment was for the *shtar* debt, and the *shtar* can no longer be used to collect. According to Rashi, this means the *shtar* is entirely unusable.
 
@@ -200,13 +200,13 @@ The debtor later pays in front of witnesses. The creditor denies the repayment a
 
 Abaye and Rava both rule that the stipulation stands: since the debtor agreed that the creditor would be believed, that agreement carries more weight than the testimony of witnesses. The creditor is believed.
 
-### Rav Pappa
+### Rav Pappa (II)
 
 Rav Pappa challenges this. When the debtor said the creditor would be believed, he meant *nee d'hemnai tfei m'nafshei* — that the creditor would be believed over the debtor's own claims. The debtor was granting the creditor enhanced standing compared to himself — foreclosing a simple *kofer hakol* defense — but he was not saying the creditor would be believed over witnesses. The phrase "you are believed" means more than me, not more than external testimony.
 
 ---
 
-## Multiple Witness Equival…
+## Multiple Witnesses Equiv
 
 ### Two or Three
 

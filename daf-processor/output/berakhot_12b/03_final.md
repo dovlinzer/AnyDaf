@@ -1,4 +1,5 @@
 # Berakhot 12b — Daf Yomi Shiur
+[DAF:12a]
 
 ## Emet Veyatziv & Emunah
 
@@ -94,6 +95,7 @@ It is worth noting that *HaMelech HaKadosh* on Rosh Hashanah and Yom Kippur them
 
 Rabbi Eliezer takes a more lenient position: even if one said *Ha'El HaKadosh* during the *Aseret Yemei Teshuvah*, one has fulfilled the obligation *bedieved*. His proof is from the verse: *vayigbah Hashem Tzeva'ot bamishpat veha'El haKadosh nikdash bitzedakah* — the glory of God is magnified through judgment, and the holy God is sanctified through righteousness. Rabbi Eliezer reads this verse as referring precisely to the *Aseret Yemei Teshuvah*, when the focus is on God as judge, and yet the verse concludes with *Ha'El HaKadosh*. This suggests that *Ha'El HaKadosh* remains acceptable even during those days, and presumably *Melech Ohev Tzedakah u'Mishpat* as well.
 
+[DAF:12b]
 ### Rav Yosef vs Rabbah
 
 > **Hebrew/Aramaic:** מַאי הֲוָה עֲלַהּ? אָמַר רַב יוֹסֵף: "הָאֵל הַקָּדוֹשׁ" וּ"מֶלֶךְ אוֹהֵב צְדָקָה וּמִשְׁפָּט". רַבָּה אָמַר: "הַמֶּלֶךְ הַקָּדוֹשׁ" וְ"הַמֶּלֶךְ הַמִּשְׁפָּט". וְהִלְכְתָא כְּרַבָּה.

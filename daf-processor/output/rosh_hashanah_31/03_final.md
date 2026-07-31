@@ -1,4 +1,5 @@
 # Rosh Hashanah 31 — Daf Yomi Shiur
+[DAF:31a]
 
 ## Tamid Service Structure
 
@@ -260,6 +261,7 @@ Rabbi Eliezer offers a different count: not ten but six exiles of the *Sanhedrin
 
 ## Fixed Court Location
 
+[DAF:31b]
 ### Takana Established
 
 > **Hebrew/Aramaic:** מַתְנִי׳ אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן קׇרְחָה: וְעוֹד זֹאת הִתְקִין רַבָּן יוֹחָנָן בֶּן זַכַּאי, שֶׁאֲפִילּוּ רֹאשׁ בֵּית דִּין בְּכׇל מָקוֹם, שֶׁלֹּא יְהוּ הָעֵדִים הוֹלְכִין אֶלָּא לִמְקוֹם הַוַּעַד.

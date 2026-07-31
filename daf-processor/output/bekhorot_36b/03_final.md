@@ -1,4 +1,5 @@
 # Bekhorot 36b — Daf Yomi Shiur
+[DAF:36a]
 
 ## Kohen's Testimony: Gidul
 
@@ -98,6 +99,7 @@ The underlying reason the *kohen* inflicted the *mum* in the first place should 
 
 The *gemara* next presents a case that came before Rav Ashi. *Hahu sarua de-asa lekamei de-Rav Ashi* — an animal with visibly mismatched features, Rashi explaining it involved differently sized eyes, was brought before him. Rav Ashi observed: *le-mai de-cheish lei ei Kohen hu Yisrael hu, harei bechor mumo imo* — what is there to be concerned about, whether it belongs to a *kohen* or a *yisrael*? The *bechor* comes with its *mum* already present. A condition like this cannot be artificially induced by human intervention, and therefore there is simply nothing to worry about regarding its origins.
 
+[DAF:36b]
 ### Yisrael Owner
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי: וְדִלְמָא יִשְׂרָאֵל הוּא, וְאָמַר רַב יְהוּדָה: אֵין רוֹאִין בְּכוֹר יִשְׂרָאֵל אֶלָּא אִם כֵּן כֹּהֵן עִמּוֹ!

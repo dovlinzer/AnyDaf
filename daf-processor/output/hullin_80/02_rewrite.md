@@ -86,7 +86,7 @@ The Gemara then cites a *Tosefta* that reveals the same dispute already existed 
 
 ---
 
-## Wild & Domestic Spec (II)
+## Wild & Domestic Species
 
 ### Wild Goats & Ten Types
 
@@ -96,7 +96,7 @@ The discussion of the *koy* leads naturally into a broader inquiry about how to 
 
 A *mishnah* is cited recording a dispute about the *shor ha-bar* — the wild ox. The *tanna kamma* holds it is a *behemah*; Rabbi Yossi holds it is a *chayah*. Rav Huna bar Chiyya explains that this dispute is specific to the wild ox for a particular reason. The *Targum* of the word *te'o* — one of the seven *chayot* listed in the *Torah* — is *turbala*, which can be broken down as *tor bara*, "wild ox." Since the *Targum* Onkelos was regarded as highly authoritative, the assumption that *te'o* refers to the wild ox was broadly accepted. But that creates a genuine tension: the word *shor* (ox) is used in the *Targum*, suggesting *behemah*, yet *te'o* appears in the *Torah*'s list of *chayot*, suggesting *chayah*. The Rabbis read the *Targum*'s use of *shor*-language as implying *behemah*; Rabbi Yossi reads its placement among the *chayot* in the *pasuk* as definitive.
 
-### Interbreeding & Categori…
+### Interbreeding & Species
 
 The general principle that emerges from Rav Huna's explanation is that the wild ox is debated precisely because the *Torah* appears to have classified it as its own species (*te'o*). For other animals, by contrast, where one branch of the family is domesticated and familiar, the entire species — including any wild branches — would ordinarily be classified as *behemah*, absent a specific Toranic identification of the wild variant as a distinct species. Wild goats, for example, are universally considered to be goats — no one disputes that — and their wild habitat does not change their species classification.
 

@@ -1,6 +1,6 @@
 # Avodah Zarah 34 — Daf Yomi Shiur
 
-## Rabbi Akiva's Three Ques…
+## Rabbi Akiva: 3 Questions
 
 ### Fasting for Hours
 
@@ -28,7 +28,7 @@ The *beit midrash* answered: *b'chaluk lavan* — a plain white garment. And Rav
 
 ## Twelve-Month Drying Rule
 
-### Grape Skins Classificati…
+### Grape Seeds & Peels
 
 The *Gemara* now presents a *Baraita*: *tanu rabbanan hachartzanim vehazagim shel ovdei kochavim* — the grape seeds and grape peels belonging to idolaters. *Lachim assurim* — while moist, they are prohibited, because any residual grape liquid absorbed in them carries the status of *stam yeinam*. *Yeveshim mutarim* — once dry, they are permitted. The question the *Baraita* leaves unresolved is: *heichi dami lachim heichi dami yeveshim* — precisely what counts as moist and what counts as dry?
 

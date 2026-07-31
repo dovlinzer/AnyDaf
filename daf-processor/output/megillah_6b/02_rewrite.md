@@ -1,6 +1,6 @@
 # Megillah 6b — Daf Yomi Shiur
 
-## Rabbi Yitzchak: Providen…
+## Rabbi Yitzchak: Prov.
 
 ### Isaac Pleads for Esau
 

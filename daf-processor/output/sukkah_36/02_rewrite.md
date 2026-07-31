@@ -72,7 +72,7 @@ One observation about the list as a whole: an attentive reader will notice that 
 
 ## Kushi - Black Etrog
 
-### Ethiopian v. Black Defin…
+### Kushi: Ethiopian or Black
 
 The Gemara addresses *kushi*. The mishna states that a *kushi etrog* is *pasul*. But a *baraisa* seems to contradict this, ruling that a *kushi etrog* is *kosher*, while one that merely resembles a *kushi* is *pasul*. The *baraisa* thus appears to draw a sharp distinction: an *etrog* that is genuinely Ethiopian is valid, whereas one that has merely turned black while growing locally is not.
 
@@ -158,7 +158,7 @@ The term *Yom Tov sheini* as it appears in this sugya refers to *chol ha-moed*, 
 
 The mishna addresses *esrog katan* — a small *etrog* — and the question of the minimum size. The Gemara, through Ravin bar Papa, notes a parallel: the same debate that governs the size of the *etrog* mirrors the debate over *avanim mekurzalos* — the stones used for personal hygiene in place of toilet paper. On *Shabbos*, the Sages permitted one to carry such stones into a *beis hakissei*, waiving the *muktzah* prohibition out of consideration for *kevod ha-beriyot*. The question of how large these stones should be is debated: Rabbi Meir says the size of a walnut (*egoz*); Rabbi Yehuda says the size of an egg (*beitzah*). In the context of the stones, this represents a *maximum* size — larger stones would be impractical. For the *etrog*, the same measures represent a *minimum* size.
 
-Remarkably, it is the same Rabbi Meir who sets the minimum *etrog* size at an *egoz* who also sets the maximum stone size at an *egoz*, and the same Rabbi Yehuda who requires a *beitzah*-sized *etrog* who sets the maximum stone size at a *beitzah*. The Gemara does not suggest any logical connection between the two disputes; it is simply an observation of a consistent parallel. The context is unmistakably reminiscent of the discussion in *Berachos*, as the lecturer wryly observes.
+Remarkably, it is the same Rabbi Meir who sets the minimum *etrog* size at an *egoz* who also sets the maximum stone size at an *egoz*, and the same Rabbi Yehuda who requires a *beitzah*-sized *etrog* who sets the maximum stone size at a *beitzah*. The Gemara does not suggest any logical connection between the two disputes; it is simply an observation of a consistent parallel. The context is unmistakably reminiscent of the discussion in *Berachos*, as I wryly observe.
 
 Tosafot in *Shabbos* raises the question of whether the leniency regarding carrying these stones applies in later times, when people have fixed indoor bathrooms and could have prepared their toilet paper before *Shabbos*. Tosafot entertains the view that since preparation is now easy, one cannot claim the necessity that justified the leniency in Talmudic times when the outhouses were far out in the fields. However, Tosafot then considers the counterargument: in a household with many people, the supply of pre-cut paper may be exhausted, and in such circumstances — *lo efshar* — the leniency might still apply. The practical *halakha* in cases of genuine need on *Shabbos*, where *kevod ha-beriyot* is at stake, remains governed by the principle that *kevod ha-beriyot* overrides rabbinic restrictions, particularly when the underlying prohibition is itself of rabbinic character.
 

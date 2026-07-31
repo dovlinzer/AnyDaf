@@ -1,6 +1,6 @@
 # Sanhedrin 2 — Daf Yomi Shiur
 
-## Textual Layout & Structu…
+## Textual Layout & Masechta
 
 ### Printer's Division
 
@@ -78,17 +78,17 @@ Having surveyed courts that represent the people in ceremonial or representation
 
 *Neta revai u'maaser sheini she'ein damav yedua bishlosha* — when a person wishes to redeem his fourth-year fruit or his *maaser sheini* onto money and bring that money up to Jerusalem, and the precise value of the produce is not obvious or agreed upon, a *beis din* of three must assess the proper value. This differs from the case of items sanctified to the *Beis HaMikdash*, where the Temple treasurer is involved in the valuation. Here, the person is simply converting his own produce into money for his personal obligation to bring it to Jerusalem — but where the value is uncertain, a formal assessment by three judges is required.
 
-### Sanctified Item Redempti…
+### Sanctified Item Redeem
 
 *Ha-hekdeshos bishlosha* — when sanctified property is being redeemed, a *beis din* of three is required. *Ha-erachin ha-metaltelin bishlosha* — when one undertakes an *erech* in the sense of the valuation of movable property, this too requires three, though the *gemara* will investigate precisely what category of *erachin* the *mishnah* has in mind, since the primary usage of *erachin* in the Torah concerns the fixed valuations of human beings. *Rabbi Yehuda omer echad mehen kohen* — Rabbi Yehudah adds that in these cases involving *hekdesh*, since the proceedings have a ritual character connected to sacred property, one of the three judges must be a *kohen*.
 
-### Land & Human Sanctificat…
+### Land & Human Sanctity
 
 *Ha-karkaos tisha v'kohen* — for the redemption of sanctified land, the court must consist of ten, with one of them being a *kohen*, for a total of ten. This number — ten plus one — no longer fits the standard *beis din* model, and the *gemara* will clarify its basis. *V'ha-adam k'yotzei bahen* — and similarly for the sanctification and redemption of persons; the *gemara* will note the surprising premise that a human being can be sanctified at all.
 
 ---
 
-## Capital Crimes (23) (23)
+## Capital Crimes (23)
 
 ### Capital Crime Baseline
 
@@ -110,9 +110,9 @@ Why mention these animals at all? Because it sets up the disagreement that follo
 
 ---
 
-## High Court (71) (71)
+## High Court (71)
 
-### Tribe, Prophet, Kohen Ga…
+### Tribe, Prophet, Kohen
 
 *Ein danin lo es ha-shevet v'lo es nevi ha-sheker v'lo es kohen gadol ela al pi beis din shel shivim v'echad* — three categories of defendants can be tried only before the *beis din* of seventy-one: an entire tribe accused of *avodah zarah*, a false prophet, and a *kohen gadol*. The rationale in each case relates to the scope of the threat or the stature of the defendant. A false prophet poses an existential spiritual danger to the entire people, capable of leading all of Israel astray by misrepresenting the word of God. A tribe in collective rebellion against God is a communal catastrophe. The *kohen gadol* stands at the apex of the religious leadership of the nation. These are individuals and entities whose judgment must be rendered by the court that represents all of Israel.
 
@@ -182,7 +182,7 @@ This concludes the entire sweep of *mishnayos* that make up the first *perek* of
 
 The *gemara* opens with a challenge to the structure of the *mishnah* itself. The *mishnah* states *dinei mamonos bishlosha* and then immediately adds *gezeilos vachavalos bishlosha* — monetary matters require three, then theft and personal injury require three. *Atu gezeilos vachavalos lav dinei mamonos ninhu* — but are theft and personal injury not themselves monetary matters? Why enumerate them separately? They would seem to be an obvious subset of the opening category.
 
-### Rabbi Avahu's Interpreta…
+### Rabbi Avahu: Money Matter
 
 *Amar Rabbi Avahu mah hen kasani* — Rabbi Avahu resolves this by reinterpreting the structure of the *mishnah*. The opening clause *dinei mamonos bishloshah* is not a general umbrella statement to which everything below is a specification. Rather, it is itself a definition. The *mishnah* is telling you what it means by *dinei mamonos*: *mah hen dinei mamonos — gezeilos vachavalos* — what is meant by "monetary matters"? Theft and personal injury. Nothing broader.
 

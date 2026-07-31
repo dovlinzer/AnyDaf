@@ -1,4 +1,5 @@
 # Shevuot 41 — Daf Yomi Shiur
+[DAF:41a]
 
 ## Modeh B'miktzas
 
@@ -248,6 +249,7 @@ When Rav Yehuda presented this ruling before Shmuel, Shmuel responded that the b
 
 The Gemara notes a tension with the Mishnah. The Mishnah's earlier case — where the defendant initially admitted the debt and the following day claimed to have paid — appears to address a situation where the acknowledgment was made in the presence of witnesses. That, says the Gemara, is analogous to a loan made with witnesses (*k'man d'ozfay b'eidim dami*), and yet the Mishnah states that a claim of repayment is believed — *patur*. This seems to support Shmuel's lenient view. The Gemara identifies this as a potential *tyuvta* against Rav Assi's stricter position.
 
+[DAF:41b]
 ### Rav Assi
 
 > **Hebrew/Aramaic:** תְּיוּבְתָּא דְּרַב אַסִּי! אָמַר לְךָ רַב אַסִּי: אֲנָא כִּי אָמְרִי – הֵיכָא דְּמֵעִיקָּרָא אוֹזְפֵיהּ בְּעֵדִים, דְּלָא לְדִידֵיהּ הֵימְנֵיהּ; הָכָא – הָא הֵימְנֵיהּ.

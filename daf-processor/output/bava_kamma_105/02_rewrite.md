@@ -82,7 +82,7 @@ The parallel back to the *gezeilah* case is now clarified: in both domains, the 
 
 ---
 
-## False Oaths & Monetary D…
+## False Oaths & Korban
 
 ### Hametz Oath Question
 
@@ -92,7 +92,7 @@ The tension is acute. Normally, a false *shevuah* in a monetary dispute obligate
 
 Or perhaps the opposite: since the *chametz* is right there, physically present and worthless — *ha manach, ve'afra be'alma hu, velo kafar lei mamona* — my oath is denying him nothing monetary whatsoever right now. Rava leaves this as a genuine question.
 
-### Rabbah: Possible Liabili…
+### Rabbah: Future Liability
 
 To Rabbah, the answer is obvious, and the resolution follows from a principle he had already stated. Rabbah's earlier case: David says to me, "You stole my ox." I reply, "I did not steal it — I am merely a *shomer chinam* on it." I take a *shevuah* to that effect, but I am lying. Rabbah rules I am *chayav* — obligated to bring the *korban* and all attendant consequences. The reason: *shepatar atzmo migneiva va'aveida* — through my oath I have exempted myself from a level of liability. A *gazlan* is liable even in cases of *ones* — unavoidable loss. A *shomer chinam* is not. So by falsely claiming to be a *shomer chinam*, I have — for the period between my oath and the animal's return — effectively insulated myself from a class of liability that David had a right to hold me to.
 

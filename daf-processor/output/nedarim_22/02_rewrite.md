@@ -62,7 +62,7 @@ The final *halakha* is: *lo patchinin lo bereisha velo besayfa* — we open with
 
 ## Anti-Scare Tactics
 
-### Shmuel: Vow-Keepers Wick…
+### Shmuel: Vow-Keepers
 
 The *Gemara* continues: we also do not open with the statement of Shmuel. Shmuel taught that even one who fulfills a vow is called a *rasha* — a wicked person. This too would function as an extreme scare tactic: even going through with your obligation is sinful.
 

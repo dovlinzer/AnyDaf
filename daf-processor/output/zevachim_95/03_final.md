@@ -1,4 +1,5 @@
 # Zevachim 95 — Daf Yomi Shiur
+[DAF:95a]
 
 ## Blood-Stained Garmen (II)
 
@@ -152,6 +153,7 @@ The practical question underlying this discussion is broader than the *me'il* al
 
 One of the seven cleansing agents is urine (*mei raglayim*). And urine may not be brought into the *Azarah*. The Gemara already knows this from a separate context: the *braita* that lists things that may not be brought into the *Mikdash* includes urine, notwithstanding the fact that urine would have improved the aromatic quality of the *ketores*. So the same prohibition applies here. Urine is required for effective laundering but cannot be brought into the sacred precincts. This creates a real practical problem.
 
+[DAF:95b]
 ### Spit Solution
 
 > **Hebrew/Aramaic:** וְכִי תֵּימָא דְּמַבְלַע לְהוּ בַּהֲדֵי שִׁבְעָה סַמְמָנִין, וּמְעַבַּר לְהוּ לְכוּלְּהוּ כְּחַד; וְהָתְנַן: הֶעֱבִירָן שֶׁלֹּא כְּסִדְרָן אוֹ שֶׁהֶעֱבִיר שִׁבְעָתָן כְּאֶחָד – לֹא עָשָׂה וְלֹא כְלוּם! וְכִי תֵּימָא דְּמַיבְלַע לְהוּ בַּהֲדֵי חַד מִסַּמְמָנִין – וְהָא צָרִיךְ לְכַסְכֵּס שָׁלֹשׁ פְּעָמִים בְּכׇל אֶחָד וְאֶחָד תְּנַן! אֶלָּא דְּמַבְלַע לְהוּ בְּרוֹק תָּפֵל. דְּאָמַר רֵישׁ לָקִישׁ: רוֹק תָּפֵל צָרִיךְ שֶׁיְּהֵא עִם כׇּל אֶחָד וְאֶחָד.

@@ -68,7 +68,7 @@ The proof that Rabbi Yirmeyah held this *talmid chaver* status comes from the wa
 
 ---
 
-## Conflicting Testimon (II)
+## Conflicting Testimonies
 
 ### Eliezer Ideology
 
@@ -112,7 +112,7 @@ Now the *gemara*'s logic here requires attention. The original question was not 
 
 ---
 
-## Intentional Early Da (II)
+## Intentional Early Maariv
 
 ### Kabbalat Shabbat
 
@@ -148,7 +148,7 @@ For the *rambam*, this too does not require the concept of *tosefet shabbos*. Wh
 
 ---
 
-## Early Havdalah (III)
+## Early Havdalah
 
 ### Kiddush on Cup
 
@@ -164,7 +164,7 @@ One might ask: when one says *mekadesh hashabbos* in the *beracha* while it is s
 
 ---
 
-## Early Havdalah (III)
+## Early Havdalah (II)
 
 ### Havdalah Timing
 
@@ -236,7 +236,7 @@ Among the *amoraim*: Abaye rules *halacha kedivrei ha'omer chova*, like the one 
 
 *Tosafot* argues that *tefilat arvit reshut* does not mean absolutely optional — that one simply need not *daven* if one does not feel like it. Rather, *reshut* here means that relative to other *halachic* obligations, *maariv* can be set aside in certain circumstances. It is an obligation, but one with a lower priority that can be overridden by competing obligations. This is how *tosafot* understands *reshut* in this context, and it is sometimes how *tosafot* uses the term elsewhere in the *gemara* as well.
 
-### Rambam's Position
+### Rambam's Position (II)
 
 The *rambam* and others read the history differently: *tefilat arvit* began as a genuine *reshut* — a voluntary practice — but was then accepted by the community as an obligation through universal practice. This raises the question of whether the original *reshut* status retains any practical relevance now that the community has accepted it as *chova*, but this is not a question the *gemara* resolves here.
 

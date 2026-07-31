@@ -174,7 +174,7 @@ Rabbi Yochanan, rather than continue developing these lines of reasoning, simply
 
 Even after the *braisa* is rewritten, the *gemara* raises one further question. The Torah specifies *na'arah ha-me'orasah* — perhaps this means the laws apply only when the woman is discovered *as* a *na'arah me'orasah*, i.e., she must still be in that status at the time of the court proceedings? On this reading, *sheila*'s original position might not have been wrong on its merits; rather, the Torah's language itself might confine the category to women who are currently *na'arah me'orasah* when brought before the court.
 
-### Rabbi Ila's Interpretati…
+### Rabbi Ila: Na'arah
 
 Rabbi Ila addresses this from the verse itself: *amar kra ha-na'arah* — the definite article in *ha-na'arah* signals *zu ha-na'arah she-asata kvar* — this refers to the one who *was* the *na'arah* at the time of the sin. She is called *ha-na'arah* not because she is a *na'arah* now but because she was the *na'arah* in question. This resolves any reading of the verse as demanding current status and confirms that the punishment tracks the time of the sin.
 

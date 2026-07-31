@@ -1,4 +1,5 @@
 # Yevamot 106 — Daf Yomi Shiur
+[DAF:105b]
 
 ## Private Chalitza Story
 
@@ -64,6 +65,7 @@ The *Gemara* moves to the top of 106a with a *baraita*: *chalitza mutat keshera*
 
 Reish Lakish defines it as a case where the *yavam* wished to perform *yibum* but was told: *chalot uv'chach konesah* — go through this *chalitza* ceremony and through it you will acquire her as your wife. In other words, he was misled into believing that the *chalitza* ceremony was itself a form of *yibum*. Since he may have been unaware of what the ceremony entailed, and since *bedi'avad* the recitation of the verses is not indispensable, the *chalitza* might be considered valid despite his misunderstanding.
 
+[DAF:106a]
 ### Rabbi Yochanan
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבִּי יוֹחָנָן, אֲנִי שׁוֹנֶה: בֵּין שֶׁנִּתְכַּוֵּון הוּא וְלֹא נִתְכַּוְּונָה הִיא, בֵּין שֶׁנִּתְכַּוְּונָה הִיא וְלֹא נִתְכַּוֵּון הוּא — חֲלִיצָתָהּ פְּסוּלָה, עַד שֶׁיִּתְכַּוְּונוּ שְׁנֵיהֶם כְּאֶחָד.
@@ -262,6 +264,7 @@ The concern is specifically for *beit din to'eh* — a later *beit din* that rec
 
 ## Chalitza Ceremony
 
+[DAF:106b]
 ### Initial Advice
 
 > **Hebrew/Aramaic:** מַתְנִי׳ מִצְוַת חֲלִיצָה: בָּא הוּא וִיבִמְתּוֹ לְבֵית דִּין, וְהֵן מַשִּׂיאִין לוֹ עֵצָה הַהוֹגֶנֶת לוֹ, שֶׁנֶּאֱמַר: ״וְקָרְאוּ לוֹ זִקְנֵי עִירוֹ וְדִבְּרוּ אֵלָיו״,

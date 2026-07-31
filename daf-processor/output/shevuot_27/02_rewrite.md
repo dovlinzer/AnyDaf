@@ -58,7 +58,7 @@ The conceptual core of Tosafot's distinction is this: one cannot be doubly *forb
 
 ---
 
-## Deriving Reshut Fram (II)
+## Deriving Reshut Frame
 
 ### Inclusion & Exclusion
 

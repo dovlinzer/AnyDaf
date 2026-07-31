@@ -1,4 +1,5 @@
 # Keritot 8b — Daf Yomi Shiur
+[DAF:8a]
 
 ## Safek Births/Flows
 
@@ -98,6 +99,7 @@ What then is the debate? *U-ve-choshshin li-fsheiah ka-mifligi* — the dispute 
 
 ## Four Categories
 
+[DAF:8b]
 ### Mechusrei Kaparah
 
 > **Hebrew/Aramaic:** מַתְנִי׳ אַרְבָּעָה מְחוּסְּרֵי כַּפָּרָה, וְאַרְבָּעָה מְבִיאִין עַל הַזָּדוֹן כַּשּׁוֹגֵג.

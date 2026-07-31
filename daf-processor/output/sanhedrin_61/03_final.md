@@ -1,4 +1,5 @@
 # Sanhedrin 61 — Daf Yomi Shiur
+[DAF:60b]
 
 ## Avodah Zarah Intro
 
@@ -86,6 +87,7 @@ Now Rabba bar Rav Chanan poses the question to Abaye directly: why not invert th
 >
 > **Translation:** The *baraita* states that the principle concerning the forms of idol worship that are punishable by execution is derived from the verse that mentions slaughtering an animal as an idolatrous offering, whereas bowing to an idol is mentioned in the verse as an exception. **Rava bar Rav Ḥanan said to Abaye: Say** that **bowing is singled out** to be mentioned **to teach, with regard to the entire category,** that any honorable form of worship, when performed for the sake of idol worship, carries the death penalty, not only sacrificial rites performed in the Temple.
 
+[DAF:61a]
 ### Machshavim Debate
 
 > **Hebrew/Aramaic:** וְכִי תֵּימָא: זוֹבֵחַ לְמָה לִי? לְגוּפֵיהּ, דִּמְחַשְּׁבִין מֵעֲבוֹדָה לַעֲבוֹדָה.
@@ -180,6 +182,7 @@ Before turning to the proposed resolutions, it is worth noting the background pr
 
 The first *mishna*, then, must be read as describing a case where the person specifically makes clear that he does not accept the deity as his god until the moment he actually performs the worship — *eini mekabla alai ela ba'avodah*. In that case, no acceptance occurs at the verbal stage, and no liability arises until the worship is performed.
 
+[DAF:61b]
 ### Rav Yosef's Answer
 
 > **Hebrew/Aramaic:** רַב יוֹסֵף אָמַר: תַּנָּאֵי שָׁקְלַתְּ מֵעָלְמָא? תַּנָּאֵי הִיא, דְּתַנְיָא: הָאוֹמֵר ״בּוֹאוּ וְעִבְדוּנִי״ – רַבִּי מֵאִיר מְחַיֵּיב, וְרַבִּי יְהוּדָה פּוֹטֵר.

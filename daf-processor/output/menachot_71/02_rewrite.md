@@ -104,7 +104,7 @@ The conclusion is thus established: the *Omer* permits all grain that has taken 
 
 ---
 
-## Permitted Pre-Omer Harve…
+## Harvesting Pre-Omer
 
 ### Reishit Problem
 
@@ -232,7 +232,7 @@ The *Mishnah* in Pe'ah lists the dividers. *Ha-nachal* — a *nachal*, a riverbe
 
 ---
 
-## Pe'ah-Omer Connectio (II)
+## Pe'ah-Omer Connection
 
 ### Meir as Shimon
 

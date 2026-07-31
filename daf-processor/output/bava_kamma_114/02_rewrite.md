@@ -114,7 +114,7 @@ The *gemara* raises the *mishna* on our daf as proof: it presumes *ye'ush* in bo
 
 A cleaner proof emerges from a different *mishna*. Rabbi taught his son, Rabbi Shimon: *lo davar sheyesh bo achrayus mamash* — when the *mishna* earlier in the *perek* said that sons who inherit stolen property must return things that have *achrayus*, this does not literally mean only land. *Ela afilu parah vechoresh bah vechamor acharayiv* — even a cow one is actively plowing with, or a donkey publicly in use and known to be stolen, must be returned — *chayavin l'hachzir mipnei kevod avihem* — because of honor due to their father. The *gemara* draws the inference: *ta'ama mipnei kevod avihem* — the only reason they return it is for the father's honor. *Ha lav kevod avihem, lo* — if not for that consideration, they would not have to return it, meaning they technically *own* it through *ye'ush v'shinui reshus*. And since the opening *mishna* of the *perek* concerns a *gazlan* — *hagezel uma'achil* — this proves that Rabbi holds *ye'ush* is presumed by a *gazlan*, and therefore when he equates *gannav* with *gazlan*, he means like Rabbi Shimon's *gazlan*: *ye'ush* is always presumed. *Shema mina* — this is a solid proof, and the simplest reading of all the *mishna* and *braita* sources is that they follow Rabbi, who presumes *ye'ush* universally by both *gannav* and *gazlan*.
 
-## Bees & Testimony (Detail…
+## Bees & Mesiach L'fi Tumo
 
 ### Bees Status
 

@@ -1,6 +1,6 @@
 # Eruvin 70 — Daf Yomi Shiur
 
-## Recent Issues: Labor & S…
+## Non-Jews Performing Labor
 
 ### Non-Jew Labor, Mitzvah
 
@@ -32,7 +32,7 @@ Finally, a crucial conceptual distinction was drawn between the question of *sta
 
 ## Forgotten Eruv & Waivers
 
-### Forgotten One: Private H…
+### Forgot Eruv: Private Home
 
 We now turn to the *mishna*, which begins on 69b. The *mishna* states: *anshei chatzer sheshachach echad mehem v'lo eirev* — the residents of a courtyard, one of whom forgot and did not make an *eruv*. The consequence is *beiso assur le'hachnis u'lehotzi lo v'lahem* — his house is forbidden for carrying in and out, both for him and for them.
 
@@ -62,7 +62,7 @@ It was noted earlier in the *Gemara* that all of this is only a concern if the o
 
 ---
 
-## Gemara: House vs. Courty…
+## Gemara: House vs Court
 
 ### Separate Domains
 
@@ -102,23 +102,23 @@ Case 1: *echad she-lo eirev noten reshuto le-echad she-eirev* — one person who
 
 Case 2: *shnayim she-eirvu notnim reshusan le-echad she-lo eirev* — two people who made an *eruv* together can give their rights to one person who did not make an *eruv*. Since there will then be only one person with unresolved rights in the *chatzer*, the situation is resolved. The *braita* uses the plural *notnim* — they give — which the *Gemara* will take as indicating that each of them must individually perform the waiver.
 
-### Case 3: Both Give & Rece…
+### Case 3: Give & Receive
 
 Case 3: *shnayim she-lo eirvu notnim reshusan li-shnayim she-eirvu* — two people who did not make an *eruv* may give their rights to two people who did make an *eruv*. Alternatively — a sub-case — those two non-participants may give their rights to one non-participant, since then only one person's rights remain unresolved.
 
-### Case 3b: Two Give to Non…
+### Case 3b: Two Give to One
 
 This sub-case — two people who did not make an *eruv* giving their rights to one person who also did not make an *eruv* — is important. One might have thought that since nobody in this scenario made an *eruv*, the entire arrangement should be prohibited as an inducement to abandon *eruv* practice altogether. The *Gemara* will return to this concern below.
 
-### Case 4: Participant Cannot…
+### Case 4
 
 Case 4: *aval ein echad she-eirev noten reshuto le-echad she-lo eirev* — but one person who made an *eruv* cannot give his rights to one person who did not make an *eruv*. The implicit reasoning is that the others who also made the *eruv* are still present and have not waived their rights; only one of them is acting, and all members of the *eruv* must give individually. Since only one person is waiving rather than all of them, the act is insufficient.
 
-### Case 5: Cannot Give to T…
+### Case 5: Two vs Two Non-P
 
 Case 5: *v'ein shnayim she-eirvu notnim reshusan li-shnayim she-lo eirvu* — two people who made an *eruv* cannot give their rights to two people who did not make an *eruv*. Even if they both waive, two non-participants remain in the *chatzer* with competing unresolved domains, and the problem persists.
 
-### Case 6: Two to Two Failu…
+### Case 6: Non-Participants
 
 Case 6: *v'ein shnayim she-lo eirvu notnim reshusam li-shnayim she-lo eirvu* — two people who did not make an *eruv* cannot give their rights to two other people who also did not make an *eruv*. Again, two unresolved domains remain at the conclusion of the act. This is the mirror image of case 3, and like case 5 it fails because one cannot be left with two people whose rights have not been resolved.
 
@@ -136,7 +136,7 @@ The *Gemara* challenges Rava by pointing out that the cases in the *braita* appe
 
 The *Gemara* then notes that Rava can adduce positive support from Case 3 itself: the fact that the *braita* says *li-shnayim she-eirvu* — to the two who made an *eruv* — using the plural, implies that *li-shnayim in, le-echad lo* — giving to two is permitted but giving to only one of the two is not. This, argues Rava, demonstrates that everyone in the receiving group must individually receive.
 
-### Abaye: Collective Repres…
+### Abaye: Collective Rep
 
 Abaye disagrees. He argues that when Case 3 says *li-shnayim she-eirvu*, this should be read as *le-echad mi-shnayim* — to one representative of the two, one person acting on behalf of the collective. The *braita* is not requiring that both receive individually; it is simply specifying that the rights go to the collective, which is adequately represented by one of its members.
 
@@ -160,7 +160,7 @@ Case 5: the *chiddush* is that even if one of the two receivers subsequently wai
 
 Case 6: the *chiddush* is the same as Case 5 but with the added stipulation — *knei al menat lehaknot* — that even a conditional waiver (receiving on condition of passing along) fails, because the initial transfer was not immediately effective.
 
-### Givers Individual, Recei…
+### Givers; Receivers Debate
 
 The conclusion that emerges from this entire analysis is striking: there is, in fact, broad agreement on one side of the question. All agree that when the *eruv* collective is giving away rights, every individual member of that collective must personally perform the *bittul* — no one person can represent the group as a giver. The practical analogy offered is that when people give away property, one person cannot relinquish what belongs to another. The disagreement between Abaye and Rava centers exclusively on the receiving end: must every individual member of the receiving collective personally receive, or can one representative of the collective receive on behalf of all?
 

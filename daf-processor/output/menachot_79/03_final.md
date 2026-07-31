@@ -1,4 +1,5 @@
 # Menachot 79 — Daf Yomi Shiur
+[DAF:79a]
 
 ## Shechita Sanctifies Bread
 
@@ -167,6 +168,7 @@ The Gemara asks: is Ze'iri's position compatible only with Rabbi, who holds that
 
 The critical distinction is between spilling the blood — where the Zrika was never done but never invalidated — and performing the Zrika Shelo Lishma — where one actively ruined that stage. If the second stage is never invalidated but simply left undone, ke-zaruak dami gives us credit for having reached the point where it could have been done, and the Kedusha is established. If, however, the second stage was actively performed incorrectly, it cannot be retroactively treated as valid.
 
+[DAF:79b]
 ### Yehoshua: All Mumim Block
 
 > **Hebrew/Aramaic:** אָמַר מָר: אִם יֵשׁ זֶבַח אַחֵר יִקְרְבוּ עִמּוֹ, וְהָא אָמַר רַב חִסְדָּא: שֶׁמֶן שֶׁהִפְרִישׁוֹ לְשׁוּם מִנְחָה זוֹ – פָּסוּל לְשׁוּם מִנְחָה אַחֶרֶת! אָמַר רַבִּי יַנַּאי: לֵב בֵּית דִּין מַתְנֶה עֲלֵיהֶם, אִם הוּצְרְכוּ – הוּצְרְכוּ, וְאִם לָאו – יְהוּ לְזֶבַח אַחֵר.

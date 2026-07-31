@@ -1,4 +1,5 @@
 # Hullin 141 — Daf Yomi Shiur
+[DAF:141a]
 
 ## Hovering & Contact
 
@@ -244,6 +245,7 @@ A baraita is then cited stating that Rabbi Yehuda holds that a *ganav* (thief) a
 
 ## Corrupt Baraita Issue
 
+[DAF:141b]
 ### Trustworthy Baraitas
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבִּי זֵירָא: לָאו אָמֵינָא לְכוּ, כֹּל מַתְנִיתָא דְּלָא תַּנְיָא בֵּי

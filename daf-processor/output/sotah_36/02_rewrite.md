@@ -16,7 +16,7 @@ It is important to examine the *pesukim* in Devarim 27 carefully, because they g
 
 The ambiguity is this: the Torah speaks of writing on the stones and then speaks of building a *mizbeiach* from *avanim shelemot*, and then concludes with the instruction to write *et divrei ha-Torah ha-zot ba'er hetev* — the words of this Torah, explained well. Are we returning to the erected stones, or is this writing upon the *avnei ha-mizbeiach*? The *pesukim* are genuinely ambiguous.
 
-### Tosafot: Malon vs. Mizbe…
+### Tosafot: Malon vs.
 
 *Tosafot* on 35b, *keitzad katvu Yisrael et ha-Torah*, addresses this directly. A *Tosefta* records that Rabbi Yehudah holds *al gabi ha-mizbeiach katvuha* — it was written on the *mizbeiach*. But the *Yerushalmi* preserves a different tradition: *al avnei ha-malon nichtevu* — it was written on the stones of the lodging place, i.e., the erected stones. The practical difference is significant. According to the view that it was written on the *avnei ha-malon*, the nations of the world could send their scribes day after day to transcribe the Torah, which was written in seventy languages, from this enduring public monument. According to the view that it was written on the *avnei ha-mizbeiach* — *lo le-sha'ah hayu ve-nignazu*, they were not permanent and were eventually hidden away. The *gemara* there resolves that even so, God placed understanding in the heart of every nation and they somehow acquired the Torah that was written in seventy languages.
 
@@ -158,7 +158,7 @@ Rav Nachman bar Yitzchak challenges this: the *baraita* says *ke-toldotam* — t
 
 Since we have been speaking of *Yosef* and the extra letter added to his name, the *gemara* now tells us why he merited this distinction. Rav Chana bar Bizna in the name of Rabbi Shimon Chasida teaches: *Yosef she-kidesh Shem Shamayim be-seter, hosifu lo ot achat mi-shmo shel Hakadosh Baruch Hu* — *Yosef*, who sanctified God's name in private, was rewarded with one letter from God's name: the *heh* of *Yehosef*.
 
-### Yehudah Public Sanctific…
+### Yehudah Sanctified God
 
 The contrast is drawn immediately: *Yehudah she-kidesh Shem Shamayim be-farhesia, nikra kulo al shemo shel Hakadosh Baruch Hu* — *Yehudah*, who sanctified God's name publicly, merited that his entire name reflects God's name. Indeed, *Yehudah* contains the letters *yud, heh, vav, heh* — the four letters of the divine name — with only an additional *dalet*. We will return tomorrow to the public sanctification of *Yehudah*, which the *gemara* will identify not with the *Yehudah* of this week's *parsha* but with the story of *Nachshon ben Aminadav* at the *Yam Suf*. For now, the focus is on *Yosef*.
 

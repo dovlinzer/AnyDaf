@@ -2,7 +2,7 @@
 
 ## Bar Metzra & Inheritance
 
-### Two Brothers, Adjacent P…
+### Two Brothers Estate Div
 
 The daf opens seven lines from the bottom of 12b, at the passage beginning *trai arasa*. The context is a case of two brothers dividing an inherited estate, and the question is whether one brother may demand a preferred plot — specifically, one adjacent to land he already owns outside the estate. Under ordinary commercial law, this right is known as *dina d'bar metzra*, the law of the adjoining plot. Its basis is the principle of *v'asita hayashar v'hatov* — that one must act rightly and justly — combined with the logic of *zeh neheneh v'zeh lo chaser*: when the seller loses nothing by preferring the neighbor, and the neighbor gains considerably more than a random purchaser would, the neighbor holds something close to a right of first refusal.
 
@@ -56,7 +56,7 @@ A brief clarification on Rashi's understanding of the earlier cases: Rashi actua
 
 *Abaye* challenges even this standard arrangement. The Gemara phrases his objection as follows: *matzi amar ba'ina de'afushei arisai* — he says, I want to increase the number of sharecroppers working near my field. Rashi explains the scenario as one where one brother's outside plot borders the estate on one side, and that brother wants the estate divided so that his portion is placed between two separate parcels of the other brother. His reasoning: if the other brother holds parcels on both sides of his field, there will be more sharecroppers working in the vicinity, which provides greater security and activity around his own land. The cost to the other brother — holding two non-contiguous half-parcels instead of one continuous plot — is real. Yet Abaye raises this as a potentially legitimate counter-claim to the standard division.
 
-### Sharecropper Claim Rejec…
+### Sharecropper Arguments
 
 The Gemara rejects this. *Afushei arisai lav milsa hi* — seeking more sharecroppers at another party's expense is not a valid legal claim. You cannot demand that the other person's land be fragmented in a way that inconveniences them simply because it incidentally benefits you.
 
@@ -228,7 +228,7 @@ On this reading, Rabban Shimon ben Gamliel's objection must be understood differ
 
 ---
 
-## Kisvei Kodesh Scroll (II)
+## Kisvei Kodesh Scrolls
 
 ### Shmuel's Teaching
 
@@ -260,7 +260,7 @@ The Gemara reports that *Ameymar* issued a definitive ruling: *hilchata is dina 
 
 ## Two Maidservants Case
 
-### The Setup
+### The Setup (II)
 
 The Gemara then raises what appears to be a counterexample. *Rabba bar Chinana* and *Rav Dimi bar Chinana* — brothers sharing the same father's name — were left two maidservants by their father. One maidservant knew how to cook, bake, and prepare food; the other knew how to spin and weave. They came before *Rava* to resolve the dispute over how to divide them.
 

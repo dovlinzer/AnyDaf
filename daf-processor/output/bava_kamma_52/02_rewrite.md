@@ -82,7 +82,7 @@ Conversely, if the animal fell *backwards* into the well — that is, it was sta
 
 The *mishnah* concludes with two further distinctions. If an ox that is deaf, mute, or a minor (*cheresh shoteh v'katan*) fell in, the owner is liable. But if a son or daughter, a slave or maidservant fell in, he is exempt. The *chiddush* in both parts is notable. One might have thought that since the well owner is generally exempt for human injuries on the grounds that people bear responsibility for themselves, a child — who cannot fully look out for himself — might generate liability. Similarly, one might have considered treating a slave as property and therefore assigning liability as for damaged property. The *mishnah* teaches that neither exception applies: both children and slaves remain within the general exemption for human beings.
 
-### When Does Liability Return…
+### Liability Rekindles
 
 The *gemara* now raises a question about the first part of the *mishnah*: at what point does the first owner, having properly covered the well and thereby exempted himself, have his liability reignite? He is not exempt forever. If word reaches him that the cover has been removed or has failed, at some stage he becomes obligated to respond. The question is: when?
 

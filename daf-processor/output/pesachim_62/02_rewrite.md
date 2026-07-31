@@ -24,7 +24,7 @@ The Gemara now presents the positions in their reframed form. *Alav velo chaveir
 
 A useful illustration: if one were performing the *zerika* for a *chatat* of a *yoledet* and had in mind a man — someone for whom this particular *korban* has no applicability — that would not invalidate, since the person is entirely outside the *parsha* of this *korban*. Applying this to the case of the *arel*: the *arel* is not an owner who cannot eat but a non-owner who cannot eat. Since he is *de-lav bar kapparah hu* — not in the *parsha* of the *korban pesach* — having him in mind does not create an invalidity. According to Rabba, only an intent for someone who is genuinely situated within the framework of this *korban* can generate the *psul* of *shelo lishmo be'alim*.
 
-### Rav Chisda's View on Are…
+### Rav Chisda: Arelim Hoil
 
 Rav Chisda disagrees. He holds that even this *arel* — *hai arel nami* — is considered to be within the *parsha* of the *korban pesach*. Since he is a Jew and is in principle obligated in *korban pesach*, he is *bar kapparah hu*. The reason he currently cannot bring the *korban* is incidental: *ho'il de-i ba'ei matkan nafshei* — since, if he wished, he could rectify his situation by undergoing *brit milah*. He is not categorically excluded from the *parsha* of the *korban*; there is merely a circumstantial barrier. Therefore, having the *arel* in mind when performing the *zerika* does constitute an intent for an alternate "owner" who is within the relevant framework, and this invalidates.
 

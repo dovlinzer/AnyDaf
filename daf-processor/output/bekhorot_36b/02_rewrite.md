@@ -88,7 +88,7 @@ The corollary follows naturally: the requirement that a *kohen* be present — *
 
 The *mishnah* states: *hakol ne'emanim al mumei ma'aser* — everyone is trusted regarding blemishes in *ma'aser behemah*. The same underlying prohibition applies: *ma'aser behemah* cannot be eaten outside the *Beis Hamikdash* without a *mum*, just like a *bechor*. So why should we extend broader trust for *ma'aser* than for *bechor*?
 
-### Cheating Without Violati…
+### Blemish Before Ma'aser
 
 The *gemara* asks: *mai taama* — what is the reason? And answers: *de-i ba'ei shadi bei muma me'ikara* — because if the owner had wished to cheat, he could have inflicted a *mum* on the animal before it was designated as *ma'aser*. At the moment before the tenth animal passes under the rod, the owner could have blemished any animal in his flock, and it would not have been a violation of any prohibition — the animal was not yet sanctified. Since there was a technically permissible route to achieve the desired outcome, we do not suspect the person of having taken the impermissible route.
 

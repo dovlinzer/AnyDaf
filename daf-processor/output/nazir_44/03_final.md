@@ -1,4 +1,5 @@
 # Nazir 44 — Daf Yomi Shiur
+[DAF:44a]
 
 ## Tiglachat Tumah
 
@@ -30,6 +31,7 @@ The Mishnah then teaches: *v'im gilach bashmini meivi korbanotav bo vayom divrei
 
 ## Rabbi Akiva vs Tarfon
 
+[DAF:44b]
 ### Tarfon's Question
 
 > **Hebrew/Aramaic:** אָמַר לוֹ: זֶה טׇהֳרָתוֹ תְּלוּיָה בְּיָמָיו, וּמְצוֹרָע טׇהֳרָתוֹ תְּלוּיָה בְּתִגְלַחְתּוֹ. וְאֵינוֹ מֵבִיא קׇרְבָּן אֶלָּא אִם כֵּן הָיָה מְעוֹרַב שֶׁמֶשׁ.

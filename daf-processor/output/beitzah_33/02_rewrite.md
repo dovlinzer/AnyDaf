@@ -1,20 +1,20 @@
 # Beitzah 33 — Daf Yomi Shiur
 
-## Bathroom Stones vs. Pot…
+## Stones vs. Pot: Permanent
 
-### Rav Nachman: Bathroom St…
+### Rav Nachman: Stones
 
 The daf begins toward the bottom of 34b, at the words *ve-ein makifin*. The *mishnah* has been discussing activities forbidden on *yom tov* even in the context of food preparation — particularly activities that involve creating vessels. Even Rabbi Yehuda, who generally permits *machshirei ochel nefesh*, would seemingly not allow such things. The analogy raised earlier holds: just as one does not go out to harvest wheat in the field — even though harvesting serves *ochel nefesh* — because it is something done for the long term and not within the immediate domestic context of food preparation, so too even in a home setting, breaking a piece of pottery to use for frying a fish partakes of vessel-making, and is at minimum a *de'rabanan* prohibition.
 
 The *mishnah* now continues into territory where the underlying concern is less obvious: it prohibits positioning two barrels adjacent to one another, building a fire between them, and suspending a pot atop them to serve as an improvised stove. Before turning to this case, Rav Nachman offers a ruling on a related matter. He states that stones set aside for use in the bathroom — not for wiping, but for constructing a kind of seat — may be arranged on *yom tov* even if they had been in disarray. Since these stones are not *muktzah*, having been designated for bathroom use, one is permitted to stack them to reconstitute the toilet structure.
 
-### Rava's Challenge: Pot Su…
+### Rava's Challenge: Pot
 
 Rava challenges Rav Nachman from the *mishnah* itself: *ve-ein makifin shtei chaviyot lispot aleihen et hakedirah* — one may not flank two barrels to suspend a pot above them. The parallel is evident: in one case you are arranging an ad hoc structure for a pot, in the other for the human body. What distinguishes them?
 
 Rav Nachman responds: *shani hatam mishum deka avid ohala* — there it is different because one is creating an *ohel*. The two barrels constitute walls, and the pot suspended above them functions as a kind of roof. Even though the pot is not a permanent structural element — indeed it is there for cooking — if one cooks over an extended period, the pot will remain in place for hours, lending the configuration something of a permanent, roof-like character. This stands in contrast to the bathroom arrangement, where the temporary nature of use is manifest.
 
-### Ohel vs. Temporary Struc…
+### Ohel vs. Temporary
 
 The matter is, on reflection, quite striking. One might argue that even in the barrel-and-pot case, the pot is not really functioning as a roof in any structural sense — it is not there to protect the space below it, but simply to be heated. An *ohel* in the halachic sense requires not merely a horizontal surface above an enclosed space, but a covering that serves the space beneath it. If the pot serves the space above — the cooking surface — and not the space below, the *ohel* characterization seems strained. Nevertheless, the *gemara* treats it as problematic, and we will return to the practical implications.
 
@@ -28,9 +28,9 @@ One may still maintain both rationales simultaneously: permanent construction is
 
 ---
 
-## Fire Building & Assembly…
+## Building Structures
 
-### Bonfire Assembly Directi…
+### Bonfire: Top vs. Bottom
 
 The *gemara* continues with a ruling of Rav Yehuda regarding the construction of a bonfire on *yom tov*. He rules that assembling a bonfire from below to above is permissible, while assembling it from above to below is forbidden. The reason is that building a bonfire in the normal fashion — stacking logs in a crisscross structure, creating what amounts to walls — resembles the prohibited labor of building. Even without a roof and even in an entirely temporary context, the creation of walls is problematic. What is permitted is a departure from the normal manner of construction: somehow holding the upper level of wood in place while sliding wood beneath it, so that the assembly proceeds in an inverted, atypical fashion, which removes it from the rubric of normal construction.
 
@@ -40,7 +40,7 @@ The *gemara* extends this principle to a series of analogous cases. *V'chen* —
 
 The case of the *purya* — a folding bed — is more intuitive. One takes out the frame and then lays a surface across it. The prohibited manner is to set out the legs first and then lay the frame across them (bottom to top); the permitted manner is to hold the crossbeams above while another person slides the legs into place below. And *v'chen chavita* — similarly with a barrel: Rashi here understands it as Tosafot understood the egg, namely a stacking of barrels that somehow constitutes the construction of a wall.
 
-### Tosafot: Wall & Roof Cri…
+### Tosafot: Walls & Roof
 
 If taken at face value, these cases raise a troubling question. Must one really refrain from stacking books on *shabbat* or *yom tov*? There is no roof, the arrangement is entirely ephemeral, and the height is nowhere near ten *tefachim*. Tosafot, on 32b, attempts to clarify the scope of the prohibition. At the beginning of his comment (*mimalah lemata assur mishum dehavi derech binyan*), Tosafot establishes that the underlying concern is that this constitutes the manner of building. He then asks: how do we account for the common practice of arranging a table — placing cylindrical supports on the ground and then laying a tabletop across them — which is precisely a bottom-to-top construction with walls and a covering surface?
 
@@ -66,17 +66,17 @@ The reason for this restriction is not immediately obvious. If a bundle of firew
 
 Rashi addresses this later in the sugya and suggests it is not precisely a *muktzah* issue but rather a new rabbinic restriction. His reasoning is that wood is a ready raw material easily applied to forbidden activities — principally the fashioning of vessels (*ma'aseh keilim*) — and the rabbis therefore restricted its permitted uses on *yom tov* exclusively to fuel. This would make it analogous to a *kli shemelachto le'issur*, extended to a new domain by rabbinic decree. The alternative reading, suggested by how the *gemara* itself frames the debate that follows, treats it as a form of *muktzah*: wood is so thoroughly identified with its role as fuel that it is halachically "set aside" for that purpose and unavailable for others.
 
-### Rabbi Shimon vs. Sages:…
+### R. Shimon vs. Sages
 
 A *baraita* is quoted that sharpens the issue. It states: *shelo nitnu eitzim ela l'hasaka* — wood is only for burning — and then notes that *Rabbi Shimon matir*, Rabbi Shimon permits using wood for other purposes. Since Rabbi Shimon is consistently the opinion in our tractate that does not accept *muktzah* in most forms — *leis lei muktzah* — his permitting the use of wood for other purposes suggests strongly that the underlying prohibition is indeed a form of *muktzah* and not a freestanding rabbinic decree. If it were only a decree about what wood may be used for, Rabbi Shimon's position on *muktzah* would be irrelevant. His permitting it indicates that for him the issue does not arise precisely because he does not accept that category of limitation.
 
 The *gemara* also notes a further matter: Rabbi Elazar the son of Rabbi Shimon permits leading an animal with a stick on *yom tov*. One might assume this is simply because he follows his father's view on *muktzah*, making the stick available for any use. The *gemara* initially suggests this, but then pulls back: *afilu Rebbi Shimon modei* — even Rabbi Shimon might agree that leading animals with a stick is forbidden in this context.
 
-### Leading Animals with Sti…
+### Leading Animals Uvdin
 
 The reason leading animals with a stick is forbidden is not the specific issue of wood at all; it is *uvdin d'chol* — weekday appearances. Someone walking with a stick driving animals before him looks exactly as though he is heading to the marketplace. Rashi glosses *chinga* as a fairground or market gathering, the kind of circuit one makes through a market. The concern here is not *maris ayin* in the narrow sense of giving others the impression that one is violating the law. Rather, it is the broader principle that on *shabbat* and *yom tov* the texture of experience matters: certain activities, even when technically permissible, carry an unmistakably weekday character that is inappropriate for the day. Driving animals to market is paradigmatically such an activity. This concern stands independently of any *muktzah* question.
 
-### Bamboo Spit: Dry vs. Moi…
+### Bamboo Spit: Dry vs Moist
 
 The *gemara* then turns to the case of *chazra* — bamboo — which has a naturally sharp tip and could serve as a spit for roasting. Rav Nachman forbids using it as a spit; Rav Sheshes permits it. The *gemara* qualifies the disagreement according to the state of the bamboo.
 
@@ -100,7 +100,7 @@ Rava expounds: a woman may not enter the woodshed to take a stick to use as a po
 
 The *gemara* then asks whether Rava's rulings place him in the camp of Rabbi Yehuda, who accepts a broader category of *muktzah*. The question is sharpened by a counter-example: Rava once told his attendant to roast a duck — or goose — and throw the entrails to the cat. If Rava held like Rabbi Yehuda, the entrails, which are not normally set aside for human consumption and would spoil, should have been considered *muktzah*. The *gemara* resolves the tension: *d'mistarchi meatzma daitei alavih* — since the entrails naturally spoil, Rava was already mentally preparing for their spoilage from the outset of *yom tov*. He anticipated feeding them to the cat, and that anticipated use removes the *muktzah* concern even according to Rabbi Yehuda.
 
-### Rashi: Muktzah Disagreem…
+### Rashi: Muktzah vs Gemara
 
 The *gemara* then issues a *hilchata* — a ruling — in support of the positions articulated in this entire section. But Rashi, in a striking move, effectively dismisses the entire *hilchata* as inapplicable. He writes: *ha hilchata aliba d'man d'it lei muktzah itmara* — this ruling was stated according to the view that accepts *muktzah*. *Aval anan k'Rabbi Shimon sevira lan* — but we hold like Rabbi Shimon — in matters of *muktzah* and in matters of *davar she'eino mitkavein*, and we hold like Rabbi Yehuda only in matters of *machshirei ochel nefesh*. Therefore, Rashi concludes, *v'chulo shari* — it is all permitted.
 
@@ -112,7 +112,7 @@ This is not the accepted *halacha*. Tosafot and most *rishonim* disagree with Ra
 
 ## Yard Wood & Toothpicks
 
-### Rabbi Eliezer: Twigs & Y…
+### Rabbi Eliezer: Twigs
 
 The *mishnah* now introduces a new question: which wood is free of *muktzah* concerns to begin with? Rabbi Eliezer says: *notel adam kisam mishlifanav lachatzot bo shinav* — one may take a twig from what is in front of him to use as a toothpick. *Umagavev min he-chatzer umadlik* — and one may gather loose wood from the yard and use it as firewood, for *kol mah she-ba-chatzer muchan hu* — anything lying in one's yard is implicitly designated for use and is therefore not *muktzah*. One need not have explicitly designated the sticks before *yom tov*; their natural presence in the yard makes their use for fuel self-evident.
 
@@ -134,13 +134,13 @@ Tosafot notes the relevance of the *lo nitnu eitzim ela lehassaka* principle to 
 
 ---
 
-## Breaking Objects: Vessel…
+## Breaking Objects: Vessels
 
-### Animal Food Straw Permis…
+### Animal Food Straw Heter
 
 Rav Yehuda rules: *ochlei behemah ein bahem mishum tikkun keli* — materials used as animal fodder are not subject to the prohibition of fashioning a vessel. If one takes a piece of straw — the sort one might picture held loosely between the teeth in the manner of Tom Sawyer — and breaks it off to use as a toothpick, one has not thereby committed an act of vessel-making. The reason lies not merely in the impermanence of the item, since even a twig is temporary and yet, as we will see, breaking a twig to use as a toothpick can rise to the level of a biblical violation. Rather, the decisive factor is that animal fodder is defined within an entirely different category of objects. Something so thoroughly characterized as consumable feed — to be eaten by animals immediately — cannot be viewed as the raw material for a vessel, however briefly it might serve a vessel-like function.
 
-### Cedar Wood: Smell vs. To…
+### Cedar Wood: Smell vs. Use
 
 Rav Kahana challenges Rav Yehuda from a *baraita*: one may handle (*metaltelin*) fragrant wood to smell it — cedar, for instance, is highly fragrant — and to wave it before a sick person as an air freshener. One may rub it between the fingers to release more scent. However, *ve-lo yiktemenu le-hariach bo* — one may not snap it to expose a fresh surface for smelling. And *asur lachatzotz bo shinav* — one may not use it as a toothpick. Moreover, *ve-im kitmo chayav chatat* — if one snapped it, one is liable to bring a sin offering.
 
@@ -148,7 +148,7 @@ On the surface this seems to directly contradict Rav Yehuda, who said these thin
 
 His resolution: *ki tanya hahi bekashin* — that *baraita* is speaking of hard wood, not soft pliable plant matter used as animal food. Hard wood, when fashioned into a toothpick, becomes a real, durable, reusable vessel.
 
-### Soft vs. Hard Wood Break…
+### Soft vs Hard Wood Break
 
 The *gemara* presses back: *bekashin benei melila ninhu* — hard sticks are not the kind of thing you rub between the fingers to release scent; that is a characteristic of soft, pliable material. If the first part of the *baraita* describes rubbing to smell, it must be speaking of soft material — yet the later part of the *baraita* prohibits snapping it. The *gemara* resolves this by invoking the principle of *chisurei mechsera* — the *baraita* is incomplete and must be read with an implied gap. The complete reading is: one may rub soft wood and smell it; one may even snap soft wood and smell it. When is snapping forbidden? Only with hard wood. And if one snapped hard wood, one is not biblically liable — merely rabbinically forbidden — for snapping it to smell. But if one snapped it to make a toothpick, then one has biblically violated.
 
@@ -156,7 +156,7 @@ Two *beraitot* that appeared to contradict each other — one permitting snappin
 
 Rav Acha bar Yaakov objects to the rabbinic restriction on hard wood. If the concern is that snapping it for a different purpose would be a forbidden act, why does the *mishnah* permit breaking open a barrel to get to pressed figs, as long as one does not intend to fashion a nice opening? There, an intent to make a vessel would be wrong, yet without that intent the act of breaking is permitted. Why should breaking a hard stick to smell differ? He further cites the sons of Rav Adda, who report that when they were in the household of Rav Yehuda he would hand them pieces of — apparently cedar-like — sticks which they would snap and smell, even though the broken piece could have served as a handle for a hatchet or a spade. Rav Yehuda permitted them to snap hard wood, provided it was done to smell and not to fashion a vessel.
 
-### Breaking Stick: Biblical…
+### Breaking Stick: Biblical
 
 The *gemara* resolves the apparent inconsistency by anchoring it in the dispute between Rabbi Eliezer and the Sages recorded in our *mishnah*. Rabbi Eliezer holds: *notel adam kisam meshlifanav lachatzetz bo shinav* — one may take a twig and use it as a toothpick. *Veshavin shelo yiktamenu* — yet everyone agrees one may not snap it. And if one does snap it intentionally to make a toothpick or a lock pick: on *shabbat*, performed inadvertently, one brings a sin offering; on *yom tov*, performed deliberately, one incurs forty lashes. The snapping itself, when done with the intent of making a vessel, is a biblical violation according to Rabbi Eliezer.
 
@@ -164,7 +164,7 @@ The Sages disagree: *echad ze ve'echad ze eino ela mishum shevus* — neither th
 
 The two positions now map neatly onto the earlier tension. Rabbi Eliezer, who holds that intentional snapping for a vessel is biblically forbidden, would correspondingly hold that snapping for a non-vessel purpose — like smelling — is rabbinically forbidden, as a protective measure. This explains the *baraita* that forbids snapping hard wood to smell: it reflects Rabbi Eliezer's position. The Sages, who hold that even intentional fashioning of a vessel in this informal manner is only rabbinic, would allow snapping for a non-vessel purpose *lechatchila* — which explains both the barrel-breaking *mishnah* and Rav Yehuda's practice of handing out sticks to be snapped for smelling.
 
-### Mostaki & Disposable Pac…
+### Mostaki & Disposable Pack
 
 A further question arises: does Rabbi Eliezer himself agree with the *mishnah* that permits breaking open a barrel? If he holds that informal fashioning of a vessel is biblically prohibited, would he not forbid breaking into the barrel entirely? Rav Ashi answers: *ki tanya hi bemostaki* — the *mishnah* is speaking of a *mostaki*, a barrel assembled from scraps of wood, patched together, and thoroughly temporary in character. For such an object, even Rabbi Eliezer would agree that making an opening in it does not constitute biblical vessel-making, since the vessel itself is too impermanent and informal to be treated as a genuine *kli*. Accordingly, breaking into it is permitted even according to the stricter view.
 
@@ -172,7 +172,7 @@ This ruling has significant contemporary application. Rav Moshe Feinstein observ
 
 ---
 
-## Wood Piles & Long-Term U…
+## Wood Piles & Preparation
 
 ### Wood Piles Debate
 

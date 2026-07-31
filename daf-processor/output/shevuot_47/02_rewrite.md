@@ -8,7 +8,7 @@ The Gemara on 46b introduces the case of *nichbal keitzad* — the injured party
 
 It is worth pausing to note what is at stake in the entire framework of *nishba v'notel*, the *shvua d'rabbanan* that enables a claimant to take an oath and collect even without proof. This goes squarely against the fundamental *d'oraisa* principle of *hamotzi mechavero alav hara'aya* — that whoever seeks to extract from another must bring proof. Here, in lieu of proof, the Rabbis enabled the taking of a *shvua* in cases where they were concerned people would otherwise be left without remedy. All of these cases are therefore exceptional relative to ordinary *dinei mamonot*.
 
-### Self-Infliction Requirement
+### Self-Infliction, Not Wall
 
 The Gemara now clarifies what precise circumstances are required for this *shvua* to operate. Rav Yehuda in the name of Shmuel teaches: *lo shanu ela bemakom sheyachol lachabel be'atzmo* — this *halacha* applies only where it would have been possible for the person to injure himself, so that the *shvua* serves to confirm that he did not self-inflict but was rather injured by the other party. *Aval bemakom she'eino yachol lachabel be'atzmo notel shelo bishvua* — in a case where self-injury would have been physically impossible, he may collect even without a *shvua*, since the *shvua* must serve some confirmatory function, and where there is no other logical explanation for the injury, that function is already satisfied.
 

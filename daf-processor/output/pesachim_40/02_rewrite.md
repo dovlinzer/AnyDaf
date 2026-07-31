@@ -94,7 +94,7 @@ The *gemara* attempts to deflect this by suggesting that the *braita*'s statemen
 
 ---
 
-## Shimur Concept (III)
+## Shimur Concept
 
 ### Ushmartem Etymology
 
@@ -118,7 +118,7 @@ Rava develops this argument. If *shimur* at baking is too late, and *shimur* at 
 
 ---
 
-## Shimur Positions (III)
+## Shimur Positions
 
 ### Shmura Label
 
@@ -126,7 +126,7 @@ The practical consequence of Rava's position is reflected on the label of every 
 
 ---
 
-## Shimur Concept (III)
+## Shimur Concept (II)
 
 ### Mar's Mother Example
 
@@ -134,7 +134,7 @@ The practical consequence of Rava's position is reflected on the label of every 
 
 ---
 
-## Shimur Positions (III)
+## Shimur Positions (II)
 
 ### Machine Matzah
 
@@ -144,7 +144,7 @@ If *shimur* is purely a matter of practical protection and prevention of *chamet
 
 ---
 
-## Shimur Concept (III)…
+## Shimur Concept (III)
 
 ### Shimur Distinction
 
@@ -152,7 +152,7 @@ It is important to distinguish between two types of *shimur* that appear in this
 
 ---
 
-## Shimur Positions (III)…
+## Shimur Positions (III)
 
 ### Rishonim Timeline
 

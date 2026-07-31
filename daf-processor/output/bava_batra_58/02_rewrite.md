@@ -1,6 +1,6 @@
 # Bava Batra 58 — Daf Yomi Shiur
 
-## Rav Banna'ah & Grave (II)
+## Rav Banna'ah & Graves
 
 ### Marking Graves
 

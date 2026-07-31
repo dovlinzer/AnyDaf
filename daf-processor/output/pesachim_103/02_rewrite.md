@@ -136,7 +136,7 @@ One further point bears emphasis: *borei meorei ha-esh* is a *birkas hashevach*,
 
 ---
 
-## Multiple Wines One M (II)
+## Multiple Wines One Meal
 
 ### Two Boruchs?
 

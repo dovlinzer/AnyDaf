@@ -104,7 +104,7 @@ The Gemara resolves this: *hatam b'vat achat, hacha b'zeh achar zeh* — there i
 
 ### Three Halves Setup
 
-Rava raised another question, one that the lecturer aptly characterizes as a "Schrödinger's *mincha*." An *isaron* is divided into two halves, A and B. B is then lost. A replacement half is set aside to take B's place — call it B-prime — so the *mincha* is now to consist of A and B-prime. Then B, the original lost half, is found. All three — A, B, and B-prime — are now sitting together in the same vessel.
+Rava raised another question, one I aptly characterize as a "Schrödinger's *mincha*." An *isaron* is divided into two halves, A and B. B is then lost. A replacement half is set aside to take B's place — call it B-prime — so the *mincha* is now to consist of A and B-prime. Then B, the original lost half, is found. All three — A, B, and B-prime — are now sitting together in the same vessel.
 
 ### Connection Logic
 

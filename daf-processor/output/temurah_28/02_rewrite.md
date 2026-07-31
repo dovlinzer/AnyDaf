@@ -50,7 +50,7 @@ The *gemara* then notes, however, that even the case of *rove'a v'nirva* appears
 
 Rav Kahana reports that he raised this question before Rav Shimi bar Ashi, who offered the following answer.
 
-### Before/After Sanctification
+### Mixture: Before/After
 
 *Chada b'chullin v'chada b'kodashim* — one *mishnah* deals with *chullin* and the other with *kodashim*. This distinction is evident from context. In Zevachim the animals are explicitly already *korbanot* — they were already consecrated when the forbidden animal became mixed in. In our *mishnah*, the animals are not yet sanctified; they are ordinary animals that one might have used as *korbanot*, and the mixture occurred while they were still *chullin*.
 
@@ -62,7 +62,7 @@ Conversely, had we only been taught the *chullin* case in our *mishnah*, we woul
 
 ---
 
-## Two Non-Nullification Ru…
+## Two Categories Non-Nullif
 
 ### Issurei Hana'ah Rule
 
@@ -186,7 +186,7 @@ Each case therefore has a distinctive feature that might have led one to think i
 
 The *gemara* now introduces an alternative *braisa* with an entirely different framework for deriving the forbidden status of these animals. Rather than learning from the exclusionary *min* forms in *adam ki yakriv*, this *tanna* learns from a different verse: *ki moshchasam bahem mum bam* — "for their corruption is in them, their blemish is in them." The *gemara* introduces this as: *chasorei mechasra v'hachi katani* — the text of the *mishnah* is incomplete and should be read as follows: *minayan she-hen asurin* — how do we know that all these animals are forbidden for the altar? *Talmud lomar: ki moshchasam bahem mum bam*.
 
-### Physical Blemish for Redemption
+### Physical Blemish Redempt
 
 A separate but important *halacha* is introduced alongside this derivation. These animals — *rove'a v'nirva* and the rest of the list — are compared to *kodshim she-kadma mum over le-hekdeshan* — animals sanctified after a transient blemish had already preceded their consecration. Such animals never attain *kedushat ha-guf*, the full bodily sanctity of a valid *korban*; they have only monetary sanctity. The comparison to a transient blemish (rather than a permanent one) is significant: it teaches that *utzrikhei mum kavua lifdos aleihem* — a permanent blemish is required in order to redeem them. Even though these animals are forbidden, their exclusion is not so total as to dispense with the ordinary requirement of a blemish for redemption. If someone consecrated such an animal after the disqualifying event — say, after it had been used in bestiality — it acquires a certain sanctity that requires proper redemption, and that redemption still requires the animal to develop a blemish.
 
@@ -206,7 +206,7 @@ This conceptual framing is striking and important. It echoes the earlier discuss
 
 ---
 
-## Two Pesukim Reconciliati…
+## Two Pesukim Views
 
 ### Corruption Pesuk Use
 

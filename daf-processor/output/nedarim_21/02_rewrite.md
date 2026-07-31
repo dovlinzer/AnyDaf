@@ -132,7 +132,7 @@ This leads to a practical point. The principle *ein potchin b'charata* means tha
 
 Rav Assi asked a person who came before him: *kiduta shita* — are you astounded at what you originally did? The person said no — meaning, effectively, of course, how could I not be regretful of it? — and Rav Assi released him. The *Ran* notes the somewhat puzzling idiom: the person answers in the negative to what seems to be a question whose affirmative answer would grant release. The *Ran* suggests it was a rhetorical formulation — "am I *not* astounded?" — but in any event the substance is clear: this is another formulation aimed at eliciting *charata me'ikara*.
 
-### Rabbi Eliezer Case
+### Rabbi Eliezer
 
 Someone came before Rabbi Eliezer, who asked: *be'ita nadur?* — do you want your vow to remain? The person replied: *ilu lo margizin li, lo be'inan klum* — had they not angered me at that time, I would never have wanted any of this. Rabbi Eliezer said: *tehei k'va'is* — let it be as you wished. The vow is released, because you only made it in anger and genuinely wish those circumstances had never arisen.
 

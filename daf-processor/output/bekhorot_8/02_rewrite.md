@@ -2,7 +2,7 @@
 
 ## Honey & Beeswax
 
-### Honey: Exception or Defi…
+### Honey: Gezerat Hakatuv
 
 The *daf* before us opens with a question that flows directly from the preceding discussion: what is the precise basis for the permissibility of bee honey? Two positions present themselves. The first holds that bee honey is permitted as a *gezerat hakatuv* — a scriptural decree that carves out an exception for this one product alone, leaving intact a broad rule that anything secreted by or emerging from an animal is forbidden. The second position maintains that the permissibility of honey reflects a definitional principle: only something that is genuinely *produced* by the animal in a meaningful sense is prohibited. Under this view, bee honey is not an exception to a general rule but rather a demonstration of what the rule actually encompasses.
 
@@ -58,7 +58,7 @@ Rav Ashi's answer is decisive and general. He states: *rov dagim beminom mashrit
 
 ## Reproduction & Gestation
 
-### Fish: Internal vs. Exter…
+### Fish: Internal vs Extern
 
 The *Gemara* now transitions into a sustained *baraita*-based discussion of animal reproduction and physiology. The *baraita* repeats the distinction already encountered: *dag tamei mashritz* — non-kosher fish spawn internally — while *dag tahor metil beitzim* — kosher fish lay eggs externally.
 

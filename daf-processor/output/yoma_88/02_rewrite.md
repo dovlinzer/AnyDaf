@@ -32,7 +32,7 @@ The Mishna draws a further distinction: for *aveiros bein adam laMakom* — sins
 
 ---
 
-## Sins Between Man and Fel…
+## Man & Divine Atonement
 
 ### Verse Challenge
 
@@ -64,7 +64,7 @@ What if the wronged party dies before forgiveness is granted — whether because
 
 ## Stories of Reconciliation
 
-### Rabbi Yirmiya's Humiliat…
+### Rabbi Yirmiya's Patience
 
 The Gemara now records a series of moving and instructive stories about the difficulty of seeking and granting forgiveness. Rabbi Yirmiya had offended Rabbi Abba in some way — the Gemara's language is characteristically understated: *hava leh milta le'Rabbi Abba behadeih*, there was a matter that Rabbi Abba held against Rabbi Yirmiya. Rabbi Yirmiya went and sat by Rabbi Abba's door to seek forgiveness. While sitting on the doorstep, a maidservant threw out water — perhaps cleaning water, perhaps worse — and some of the drops struck his head. He said: *asituni ke'ashpa* — you have made me like a garbage heap. And then he applied to himself the verse *me'ashpot yarim evyon* — God lifts up the poor from the garbage dumps.
 

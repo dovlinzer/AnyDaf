@@ -80,7 +80,7 @@ This creates a counterintuitive result: the actor who throws a rock at an angle,
 
 The *gemara* now turns to a *Tanna* teaching: ten people struck a victim with ten sticks—*bein bevat achat bein bezeh achar zeh*—whether simultaneously or sequentially—and the victim died. This is the *sugya*'s version of *Murder on the Orient Express*.
 
-### Simultaneous vs. Sequent…
+### Simultaneous vs
 
 The first *tanna* rules that all are *peturin* in either case. Rabbi Yehuda ben Beteira disagrees: when the blows were delivered sequentially, *ha'acharon chayav*—the last one is liable—because he finished the victim off. The simultaneous case is more intuitively clear: if each individual blow was not sufficient to kill by itself and the aggregate force killed collectively, no individual can be identified as the murderer, in precisely the same way that the principle of *shinaim she'asuhu* operates on *Shabbat*. The parallel with the individual capacity question is instructive in either direction.
 
@@ -178,7 +178,7 @@ A new and more complex case: what if the witnesses themselves are *treifos*, and
 
 Rav Ashi disagrees: *afilu edei treifa she-huzmu ein neheragim*—even *treifa* witnesses who are proven *zomemim* are not executed.
 
-### Zomemim Logic
+### Zomemim Logic (II)
 
 Rav Ashi's reasoning unfolds through a chain of logic. In order for the *zomemim* penalty to apply to these *treifa* witnesses, someone would have to come and refute them—proving they were elsewhere and thus lying. Those refuting witnesses would thereby be "making *zomemim*" out of the *treifa* witnesses. But can *those* refuting witnesses themselves be made into *zomemim*? No—because they are testifying against *treifa* witnesses, and as established, witnesses testifying against a *treifa* cannot be turned into *zomemim* (since the *zomemim* penalty cannot be imposed equally). Since somewhere in the chain the mechanism of *hazamah* breaks down, the *treifa* witnesses' testimony cannot be accepted in the first place, and they cannot be executed.
 

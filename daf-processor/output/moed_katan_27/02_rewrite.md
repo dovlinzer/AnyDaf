@@ -2,7 +2,7 @@
 
 ## Blasphemy & Keriah
 
-### Direct vs. Repeated Hear…
+### Direct vs Repeated Hear
 
 The *daf* under discussion is 26a, and we pick up in the middle of a *baraita* addressing the obligation of *keriah* upon hearing God's name blasphemed — *birchas hashem*. The *Tanu Rabanan* teaches: *echad hashome'a* — whether a person hears the blasphemy directly — *v'echad hashome'a mi'pi hashome'a* — or hears it being repeated, presumably not merely a report that it occurred, but an actual literal repetition of the words. *Tosfos* clarifies the context: this refers to witnesses who, in the course of testifying against the blasphemer, are required to actually repeat what was said. The result is that everyone present hears the blasphemy a second time from the witnesses' lips. In either case, *chayav likro'a* — one is obligated to perform *keriah*.
 

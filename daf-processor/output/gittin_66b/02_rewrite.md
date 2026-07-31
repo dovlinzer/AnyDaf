@@ -2,13 +2,13 @@
 
 ## Multiple Messengers
 
-### Two People: Write & Deli…
+### Two People Write/Deliver
 
 The present daf picks up with the final line of 66a, continuing the *mishna*'s discussion of the language a husband uses when appointing a *shaliach* and the scope of the word *kitvu*. The next *mishna* turns to a related but distinct issue: whether the individuals whom the husband has appointed must carry out the task personally, or whether they may delegate that responsibility to others.
 
 The *mishna* opens with two cases. If the husband says to two people, *tnu get l'ishti* — give a *get* to my wife — then since *tnu* implies giving but necessarily also writing, the two must themselves carry out both actions. Similarly, if he says to three people, *kitvu get u'tnu l'ishti* — write a *get* and give it to my wife — then *harei elu yichtevu v'yitnu*: it must be precisely those individuals who do it.
 
-### Three People: Delivery O…
+### Three People: Delivery
 
 There is, however, an important exception. If the husband says to three people, *tnu get l'ishti* — give a *get* to my wife — without specifying *kitvu*, then those three may in turn instruct others to write it: *harei elu yomru l'acherim v'yichtevu*. The *mishna* explains: *mipnei she'asah beis din* — because he has constituted them as a *beis din* — and this is *divrei Rebbi Meir*.
 
@@ -22,7 +22,7 @@ The *mishna* adds that this ruling was transmitted by Rebbi Chanina ish Ono from
 
 Rebbi Yosi responds with a counter-tradition. *Af anu mekubalim* — we too have a received tradition — and his tradition is far more demanding. Even if the husband says *tnu get l'ishti* to the *beis din hagadol sheb'Yerushalayim* — the Great Court of Jerusalem itself — and says only *tnu* without *kitvu*, those distinguished jurists cannot delegate the task. If they wish to give the *get*, *sheyilmedu v'yichtevu v'yitnu* — they must learn how to write a *get* and write it themselves. The appointment, according to Rebbi Yosi, is non-transferable; only the individuals who heard the instruction directly from the husband may execute it.
 
-### Ten People: Role Distrib…
+### Ten People: Role Distrib
 
 The *mishna* then turns to a different scenario: the husband says to ten people, *kitvu get u'tnu l'ishti*. Since he has said *kitvu* explicitly, he cannot have meant mere oversight; he means they themselves should act. But how is that interpreted when there are more than the minimum number of required participants? The *mishna* rules: *echad kotev u'shnayim chotmim* — one writes it and two sign it. The word *kitvu* addressed to the group does not mean all ten must write and all ten must sign; it means that from among you, the necessary actions must be performed.
 
@@ -48,7 +48,7 @@ The *Gemara* opens with a remarkable report: *shalechu mibei Rav l'Shmuel* — t
 
 The question is fundamentally about the meaning of *kitvu*. The two individuals were appointed, they signed the document, but the actual scribing was done by someone else. Does the husband's instruction *kitvu* require that they personally scribe the *get*, or does it require only that they sign it? If *kitvu* means scribing, then having the *sofer* do the scribing violates the husband's instruction. If *kitvu* means signing, then the two have fully complied.
 
-### Shmuel: Needs Investigat…
+### Shmuel: Tzarich Talmud
 
 Shmuel's response was: *tetzei v'hadavar tzarich talmud* — if she remarried on the basis of this *get*, she cannot remain with her second husband, because the *get* is of uncertain validity; but the matter requires further investigation. Shmuel was genuinely uncertain, and the *Gemara* now sets out to determine what the core of the investigation must be.
 
@@ -106,7 +106,7 @@ The *Gemara* resolves this concern through the ruling itself: *kivan d'amar mar 
 
 ## Witnesses Find Sofer
 
-### Direct Witness Appointme…
+### Witnesses Appoint Sofer
 
 A related but distinct case now presents itself. Suppose the husband says directly to two people: *imru l'sofer v'yichtov v'atem chatomu* — tell the *sofer* to write it, and you yourselves sign it. Here the witnesses are directly appointed — they will personally sign the *get* — and they are only asking the *sofer* to write the text. The witnesses have a direct appointment, and the *sofer*'s involvement is not a re-delegation but a practical arrangement for the scribing.
 

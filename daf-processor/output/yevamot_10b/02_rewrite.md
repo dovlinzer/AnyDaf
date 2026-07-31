@@ -6,7 +6,7 @@
 
 It is worth pausing at this juncture to take stock of where we are in the tractate. We began on daf 4, and from that point until now, the first genuinely new amoraic statement bearing directly on the *mishnah* was the exchange between Levi and Rebbi regarding why the *mishnah* enumerates fifteen co-wives rather than sixteen. Everything preceding that was essentially *stam* — anonymous Talmudic discussion — with no amoraic voices meeting one another head-to-head. The *Gemara* worked through an extended opening *sugya*: why one might have entertained the *hava amina* that *yibbum bemakom ervah* could be permitted; the principle of *aseh doche lo ta'aseh* and what might have been derived from *eshet ach*; and then the whole question of what source each Tanna uses for the exemption of *ervah vetzarat ervah*, and finally the question of fifteen versus sixteen.
 
-### Transition to Standard Format
+### Stam to Amoraic Disputes
 
 From this point forward, the *sugya* moves into a more recognizable Talmudic structure. Rather than the extended, largely anonymous introductory material that characterized the preceding nine dapim, we now encounter direct amoraic disputes, back-and-forth argumentation, and proofs marshaled for competing positions. The *sugyot* in Yevamot remain anything but simple, but they take on a more familiar shape — statements of *amoraim*, countervailing opinions, and attempts at resolution. That is precisely where we now begin, at 11b.
 

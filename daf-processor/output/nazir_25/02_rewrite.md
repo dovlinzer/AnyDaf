@@ -1,6 +1,6 @@
 # Nazir 25 — Daf Yomi Shiur
 
-## Reish Lakish vs. R. Yoch…
+## Reish Lakish vs. Yochanan
 
 ### Nazir Death/Annulment
 
@@ -70,7 +70,7 @@ The word *rak* excludes the *vlad chatat* and *tmurat asham* from this permissio
 
 ---
 
-## Asham's Identity Transfo…
+## Asham Identity Transform
 
 ### Asham Given to Pasture
 
@@ -88,7 +88,7 @@ There is a significant Tosafot on this sugya, since Rabbeinu Tam takes the posit
 
 ## Beyond Nazir
 
-### Single Obligation, Multi…
+### Multiple Korbanos
 
 The Gemara challenges Rabbi Yochanan's formulation, which described the rule as a *halacha* specifically in *nazir*. The Gemara asks: is this truly unique to *nazir*? Surely the same halacha applies in other analogous cases. The Gemara answers: *tana nazir ve-chayvei kinim d'damu lei* — the *tanna* taught *nazir* because it is the paradigm, but the halacha extends to all cases that resemble *nazir* — namely, any situation in which a single obligation generates multiple *korbanot*.
 
@@ -100,7 +100,7 @@ Tosafot engages carefully with the language used in setting aside such a pile. I
 
 In the *yoledes* case: if she dies and the pile is *stumim* (unspecified), *yiplu le-nedavah* — it falls to an *olah*. This is precisely the same ruling as in *nazir*, confirming that the halacha is not limited to *nazir* but extends to any single obligation that generates multiple *korbanot*.
 
-### Two Independent Obligati…
+### Two Independent Chatat
 
 The contrast case is introduced to delineate the scope of this principle precisely. The *braita* describes a person who is obligated in a *chatat* (arising from one cause) and who separately accepts upon himself an obligation of an *olah* (a completely unrelated *neder*). He sets aside money and says *harei eilu le-chovotai* — this is for my obligations. Since he has two entirely independent obligations, the pile contains both *chatat* money and *olah* money: *rotzeh le-havi bahen chatat behemah lo yavi, olat behemah lo yavi* — he may not use the entire pile for either the animal *chatat* or the animal *olah* alone. Each obligation's funds must be distinguished and directed appropriately.
 
@@ -110,7 +110,7 @@ This stands in contrast to the *nazir* or *yoledes* case, where the single origi
 
 ---
 
-## Unspecified vs. Designat…
+## Unspecified vs Designated
 
 ### Rav Ashi's Requirement
 
@@ -136,6 +136,6 @@ Rava teaches a further principle that extends the concretization logic in a stri
 
 The intuition one might bring to this case would be exactly the opposite: now that the *chatat* money has been cleanly removed, there is no longer any admixture of *chatat* funds. Surely the remaining pile should now qualify for the special halacha and go entirely to an *olah*? Rava rules otherwise. The act of separating out the *chatat* funds draws the entire pile out of the indeterminate, amorphous state in which the special halacha operates. Once something about the pile has been made concrete and real — even if it is only the *chatat* portion being segregated — the pile as a whole crosses from that indeterminate state into a more determinate one. Its identity has begun to solidify, and the special mechanism by which an unspecified pile is redirected to an *olah* is no longer available.
 
-### Must Divide Remaining Mo…
+### Remaining Olah/Shelamim
 
 The practical consequence is that after the separation, the remaining *olah* and *shelamim* funds must be divided between an *olah* and a *shelamim* in the appropriate proportions; the entire remainder cannot simply be assigned to an *olah*. The pile has, in Rava's framing, entered the real world of determinate identity. Just as the Gemara's broader analysis draws on the image of sanctified funds as concretely attached to specific purposes — each coin, once designated, is not merely symbolic monetary value but carries a fixed *kedusha* — so too the act of beginning to apportion that pile triggers a kind of irreversible concretization. From that point forward, the remaining funds must be treated according to their actual proportional designations, and the special halacha of *stumim* no longer applies.

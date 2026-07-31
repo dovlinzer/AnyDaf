@@ -1,4 +1,5 @@
 # Kiddushin 67 — Daf Yomi Shiur
+[DAF:66b]
 
 ## Two Witnesses Debate
 
@@ -134,6 +135,7 @@ Rabbi Shimon immediately identifies a problem. *Harei ger she-nasa mamzeret* —
 
 A *baraita* confirms: *ger she-nasa mamzeret — ha-velad mamzer*. This is the position of Rabbi Yosi. Rabbi Yochanan's response is that our *mishnah* need not be Rabbi Yosi's view. *Matnitin Rabbi Yehuda hi* — perhaps the *mishnah* reflects Rabbi Yehuda's position. Rabbi Yehuda holds that a *ger* is in fact *forbidden* to marry a *mamzeret* — *ger lo yisa mamzeret*. Under Rabbi Yehuda's view, the union involves transgression — *yesh kiddushin ve-yesh aveira* — and so the child following the *pagum* fits squarely within the *mishnah's* second rule. The apparent exception dissolves once we attribute the *mishnah* to Rabbi Yehuda.
 
+[DAF:67a]
 ### Klal Inclusion
 
 > **Hebrew/Aramaic:** וְנִיתְנְיַיהּ! תְּנָא ״כׇּל מָקוֹם״ לְאֵתוֹיֵי.
@@ -206,6 +208,7 @@ Ravin, citing Rabbi Yochanan, introduces a principle regarding non-Jews: *be-umo
 
 The same teaching of Ravin continues: *nitgayeru — halech achar ha-pagum she-be-shneihem* — if they converted, the child follows whichever parent bears the more disqualifying status. For instance, if an *Edomi* convert married a *Mitzri* convert — where the *Edomi* is restricted for two generations and the *Mitzri* for three — the child follows the more stringent status. This is a case of *yesh kiddushin, ein aveira* — two converts, permitted to marry one another — yet the child does not follow the father; it follows the *pagum*. This is an exception to the first rule, and the *gemara* includes it under the category of *eizehu* as an unlisted exception.
 
+[DAF:67b]
 ### Klal & Eizehu Purpose
 
 > **Hebrew/Aramaic:** הַאי מַאי? אִי אָמְרַתְּ בִּשְׁלָמָא מַתְנִיתִין רַבִּי יְהוּדָה הִיא, ״כׇּל מָקוֹם״ דְּרֵישָׁא – לְאֵתוֹיֵי יִשְׂרָאֵל שֶׁנָּשָׂא חֲלָלָה, וּדְרַבָּה בַּר בַּר חָנָה, ״אֵיזוֹ זוֹ״ – לְמַעוֹטֵי דְּרַב דִּימִי וְרָבִין! ״כׇּל מָקוֹם״ דְּסֵיפָא – לְאֵתוֹיֵי גֵּר שֶׁנָּשָׂא מַמְזֶרֶת. אֶלָּא אִי אָמְרַתְּ רַבִּי יוֹסֵי הִיא, ״כׇּל מָקוֹם״ דְּרֵישָׁא – כְּדַאֲמַרַן, ״אֵיזוֹ זוֹ״ – כְּדַאֲמַרַן, אֶלָּא ״כׇּל מָקוֹם״ דְּסֵיפָא לְאֵתוֹיֵי מַאי?

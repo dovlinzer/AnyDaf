@@ -1,4 +1,5 @@
 # Ketubot 64b — Daf Yomi Shiur
+[DAF:63b]
 
 ## Penalties & Reduction
 
@@ -86,6 +87,7 @@ He may not give her less than two *kav* of wheat or, alternatively, four *kav* o
 
 In addition to grain, the husband must provide: a half *kav* of legumes (*kitnit*); a half *log* of oil (approximately seven ounces); and a *kav* of dried figs (*grogrot*) or, alternatively, a *maneh* (a weight measurement) of pressed dates. If those specific fruits are unavailable, he substitutes an equivalent amount of other available fruit.
 
+[DAF:64b]
 ### Durable Goods
 
 > **Hebrew/Aramaic:** וְנוֹתֵן לָהּ מִטָּה, מַפָּץ וּמַחְצֶלֶת. וְנוֹתֵן לָהּ כִּפָּה לְרֹאשָׁהּ, וַחֲגוֹר לְמׇתְנֶיהָ, וּמִנְעָלִים מִמּוֹעֵד לְמוֹעֵד.

@@ -104,7 +104,7 @@ Rav Chisda sharpens the picture: the debate between Rabbi Yehudah and Rabbi Yose
 
 A *baraita* is then cited in direct support of Rav Chisda's clarification: *amar Rabbi Yehudah ani lo shamati ela seudat eirusin* — I have only heard of the first *seudat eirusin* as having this status, *aval lo sivlonot* — but not the *sivlonot* meal. Rabbi Yosei disagrees: *ani shamati seudat eirusin v'sivlonot* — I heard that both carry the status of *seudat mitzvah*.
 
-### Talmid Chacham Restricti…
+### Talmid Chacham Meals
 
 The discussion of *seudat eirusin* transitions into a broader teaching. A *baraita* cites Rabbi Shimon: *kol seudah she-einah shel mitzvah, ein talmid chacham rashai l'henot mimena* — any meal that is not a *seudat mitzvah*, a *talmid chacham* may not derive pleasure from it. The scope of this prohibition requires clarification. Presumably it does not apply to ordinary meals shared with friends or to the ordinary rhythms of daily life. It seems to address more specifically meals to which the *talmid chacham* is invited by virtue of his status, or grand celebrations in which his presence lends a certain cachet. Two concerns may be at play: the danger of personal indulgence in physical pleasure, and the more specific concern about the *talmid chacham* allowing his Torah standing to function as social currency — a kind of *kardom lachpor bah*, leveraging one's Torah status for personal benefit. On the other hand, there are *Gemarot* that speak strongly about the responsibility of wealthy people to support *talmidei chachamim*, so the concern here seems to be about something more than simple hospitality.
 

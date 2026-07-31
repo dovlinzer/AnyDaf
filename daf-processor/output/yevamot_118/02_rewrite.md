@@ -16,7 +16,7 @@ Two underlying theoretical models govern how this weighting works. Ulla understa
 
 ---
 
-## Co-wives Contradicti (II)
+## Co-wives Contradiction
 
 ### Two Co-wives
 

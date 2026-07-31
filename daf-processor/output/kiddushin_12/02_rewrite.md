@@ -84,7 +84,7 @@ A brief but illuminating digression: the *ketubah* is denominated in 200 *zuz*, 
 
 ---
 
-## Objects of Uncertain Val…
+## Objects Uncertain Value
 
 ### Shmuel: Madai Concern
 

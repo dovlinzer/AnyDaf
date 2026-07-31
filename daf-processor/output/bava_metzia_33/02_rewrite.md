@@ -26,7 +26,7 @@ The Gemara rejects this proof, however, with the counterproposal: *hatam mishum 
 
 The Gemara reinforces this interpretation by noting: *hachi nami mistavra* — and indeed, this reading is more reasonable. For the Baraita continues: *im hayta te'una yayin assur ein zakuk lah* — if the animal was carrying *yayin nesech* (wine used for idolatrous libations), one need not help at all. If the motive were genuinely *tzaar ba'alei chayim*, the nature of the cargo would be irrelevant — the animal is suffering regardless. But if the motive is *eivah*, one can distinguish: concerning wine of *avoda zara*, one may plausibly explain to the non-Jew that religious law forbids handling it, and non-Jews, the Gemara elsewhere assumes, will accept such a religious justification. This cleanly explains why helping would be required in the ordinary case but not when the animal carries forbidden wine. The proof from the non-Jew's animal thus dissolves.
 
-### Proof 3: Non-Jew Animal…
+### Proof 3: Non-Jew Animal
 
 The Gemara introduces a further case: *behemat oved kochavim u'masoy Yisrael* — a non-Jew's animal carrying a Jew's wares. The verse *ve'chadalta* is invoked in the sense of permission to refrain — suggesting that in this configuration, one is not obligated to help. Now the question sharpens considerably: if *tzaar ba'alei chayim* is *de'oraita*, how can one ever refrain from helping a suffering animal? And if the obligation hinges on the wares' owner rather than the animal's owner, what is the underlying logic?
 
@@ -90,7 +90,7 @@ Because of the significant burden of this extended accompaniment, Rabbah bar bar
 
 ---
 
-## Precedence: Self/Father/…
+## Self, Father, Teacher
 
 ### Your Object First
 

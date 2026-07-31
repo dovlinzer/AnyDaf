@@ -1,4 +1,5 @@
 # Nedarim 72b — Daf Yomi Shiur
+[DAF:72a]
 
 ## Perek Structure & Setup
 
@@ -134,6 +135,7 @@ A further *mishnah* — also upcoming in the *masechta* — introduces the case 
 
 Rabbi Yoshiya says no: *ishah yekimenu ve'ishah yeferenu* — only the husband can annul; this is not a power that can be transferred. Rabbi Yonatan responds: *matzinu bechol hatorah kullaha shelucho shel adam kemoso* — throughout the entire Torah, an agent stands in the place of the one who appointed him. Why should this power be different?
 
+[DAF:72b]
 ### Transferability of Powers
 
 > **Hebrew/Aramaic:** וַאֲפִילּוּ רַבִּי יֹאשִׁיָּה לָא קָאָמַר אֶלָּא מִשּׁוּם דִּגְזֵירַת הַכָּתוּב הוּא ״אִישָׁהּ יְקִימֶנּוּ וְאִישָׁהּ יְפֵרֶנּוּ״, אֲבָל דְּכוּלֵּי עָלְמָא שְׁלוּחוֹ שֶׁל אָדָם כְּמוֹתוֹ. וְהָא לָא שְׁמִיעַ לֵיהּ!

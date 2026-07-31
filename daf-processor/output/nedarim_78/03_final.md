@@ -1,4 +1,5 @@
 # Nedarim 78 — Daf Yomi Shiur
+[DAF:78a]
 
 ## Hafara & Hatara Basics
 
@@ -168,6 +169,7 @@ Rav Assi bar Nasn was troubled by this *baraisa* and went to find Rav Sheshet to
 >
 > **Translation:** **But Shabbat is written with them** in the portions of the Torah about the Festivals (Leviticus 23:3; Numbers 28:9–10). **And furthermore,** can it be said that **the Festivals of the Lord are stated, but the portion on vows** (Numbers, chapter 30) **is not stated with them? Isn't it next to** one of the portions in the Torah detailing the *halakhot* of the Festivals (Numbers, chapters 28–29)? Rav Sheshet **said to him: This is what** Rabbi Yosei HaGelili's statement in the *baraita* **is teaching:**
 
+[DAF:78b]
 ### Moadim Requirement
 
 > **Hebrew/Aramaic:** מוֹעֲדֵי ה׳ צְרִיכִין קִידּוּשׁ בֵּית דִּין, שַׁבַּת בְּרֵאשִׁית אֵין צְרִיכָה קִידּוּשׁ בֵּית דִּין.

@@ -1,4 +1,5 @@
 # Sanhedrin 15 — Daf Yomi Shiur
+[DAF:15a]
 
 ## Erchin Metaltelin
 
@@ -230,6 +231,7 @@ Abaye challenges Rava: how do we know that *ve-gam ba'alav yumat* is teaching th
 
 Indeed, the *Gemara* entertains a sophisticated *peshat* reading of the verse: *ve-gam ba'alav yumat* could mean the owner faces a death penalty, but a lighter one than he would have received had he himself done the killing. If a person kills directly with his own hands, his execution is by the sword. Here, since it was his ox that killed, *yumat* — he is executed — but by *chenek* (strangulation), a lighter form of execution. This yields a coherent reading: the owner receives a diminished death penalty commensurate with his indirect responsibility.
 
+[DAF:15b]
 ### No Death Kofer
 
 > **Hebrew/Aramaic:** אִיכָּא בֵּינַיְיהוּ נָחָשׁ.

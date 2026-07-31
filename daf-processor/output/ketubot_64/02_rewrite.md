@@ -52,7 +52,7 @@ The *Gemara* addresses the Shabbat question first. When the wife is the defiant 
 
 A question was raised about *Yom Tov*: if there is concern about the appearance of *schar Shabbat*, why is *Yom Tov* not similarly excluded? *Tosafot* raises the related question of *havla'ah* — the practice of including Shabbat payment within a broader weekly wage so that it is not singled out — and whether that principle might apply here. The matter is left unresolved.
 
-### Prostitute Market Evidence
+### Prostitute Market: Desire
 
 On the question of why the wife's penalty is double the husband's, Shmuel tells Rabbi Chiyya bar Yosef: *tzei u'lemad mi-shuk shel zonos* — go and learn from the marketplace of prostitutes, *mi socher es mi* — who hires whom? It is men who hire women. The market for female prostitution is vastly larger than that for male prostitution. This is taken as empirical evidence that men experience greater sexual desire, and therefore the husband is the more aggrieved party when conjugal relations are withheld. Since the *mored* and *moredes* framework is understood primarily in terms of withholding sexual relations, the wife who withholds is penalized more heavily, because she is inflicting greater harm.
 

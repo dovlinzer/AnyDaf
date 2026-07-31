@@ -170,7 +170,7 @@ Rava supports this ruling with an analogy to the laws of *tum'ah*: if a bed is s
 
 ---
 
-## Wine and Water
+## Raw Wine Status
 
 ### Before Water
 

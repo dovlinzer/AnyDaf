@@ -32,7 +32,7 @@ One might ask why the *gemara* frames her role in terms of *shlichut* at all, si
 
 This arrangement is particularly associated with *mezonot*, the ongoing obligation to provide for one's widow from the estate. Rather than going to court once to collect a fixed sum, she may periodically need to sell off small portions of the estate to cover her living expenses. This recurring character of the transaction explains why the *mishna* thinks in terms of agency rather than one-time judicial seizure.
 
-### Overselling vs Underpric…
+### Overselling vs
 
 The *mishna* contains a case that the *gemara* initially understands as involving a sale of too much land: she was only authorized to sell enough to satisfy one hundred *maneh* of outstanding debt, yet she sold property worth one hundred and twenty-five for one hundred and twenty-five. The *mishna* declares this void. The *gemara*'s first reading is that this proves something about the rule for *shlichut*: that a *shaliach* who oversteps her mandate is treated as having acted entirely on her own — not merely for the excess, but for the whole transaction.
 

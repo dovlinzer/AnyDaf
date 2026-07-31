@@ -1,4 +1,5 @@
 # Gittin 10 — Daf Yomi Shiur
+[DAF:9b]
 
 ## Get & Shtar Similarities
 
@@ -164,6 +165,7 @@ Under this rubric, *lishmah* and *mechubar* are excluded because they apply to *
 
 ## Chazara Analysis
 
+[DAF:10a]
 ### Chazara Question
 
 > **Hebrew/Aramaic:** וְהָא חֲזָרָה גּוּפַהּ אִיתָא בְּקִידּוּשִׁין! בִּשְׁלִיחוּת בְּעַל כּוֹרְחָהּ, דִּבְגֵירוּשִׁין אִיתַהּ וּבְקִידּוּשִׁין לֵיתַהּ.
@@ -250,6 +252,7 @@ The *gemara* immediately challenges: *ei hachi, afilu she'ar shtarot nami* — i
 
 The answer: *ravcha shavik l'man d'kashish minei* — a witness may leave a blank line above his signature as a courtesy, allowing for a more senior or distinguished person to sign in the space above him. If I sign on the second line, it does not necessarily mean I knew who signed above me or implicitly endorsed them. Perhaps I simply left that line open for an honoree, and you later procured a Samaritan to fill it in — in a different room, at a different time — without my knowledge. My signing second therefore does not establish that I witnessed the Samaritan's signature or validated it. This concern applies equally to *get* as to any other document: I might have left a blank line on the *get* too for a more senior witness, and the Samaritan filled it afterward.
 
+[DAF:10b]
 ### Mutual Presence
 
 > **Hebrew/Aramaic:** אָמַר רַב פָּפָּא, זֹאת אוֹמֶרֶת, עֵדֵי הַגֵּט אֵין חוֹתְמִין זֶה בְּלֹא זֶה. מַאי טַעְמָא? אָמַר רַב אָשֵׁי: גְּזֵירָה מִשּׁוּם "כּוּלְּכֶם".

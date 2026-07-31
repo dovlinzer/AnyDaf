@@ -10,7 +10,7 @@ The *gemara* opens with a *baraita*: *hamaskir bayit le-chavero* — one who ren
 
 The *baraita* then records a sobering episode: *u-ma'aseh be-echad she-natla be-yado ve-yatza* — there was a case of someone who improperly took the *mezuzah* with him upon departure, and subsequently *ve-kavar ishto u-shenei vanav* — his wife and two children predeceased him. A question immediately arises: *ma'aseh li-settor* — is this story cited to contradict the ruling? Rav Sheshet clarifies: *arisha* — no, the story comes to confirm the *reisha*, the opening clause. It reinforces the obligation to leave the *mezuzot* behind when the next tenant is Jewish; it does not come to revise the rule about a non-Jewish tenant.
 
-### Eretz Yisrael vs. Diaspo…
+### Eretz Yisrael vs Chutz
 
 One complicating dimension of *hilkhot mezuzah* is the distinction between *Eretz Yisrael* and *Chutz La'aretz*, which affects practical details — in particular, the grace period one has after moving in before being obligated to affix *mezuzot*. As for the rule about leaving the *mezuzah* upon departure, the practical *halakhic* guidance is: when one knows for certain that a Jewish tenant will be moving in after, the obligation is to leave the *mezuzah* itself in place. A common recommendation is to remove the decorative case — which can be costly — and leave the scroll, then acquire new *mezuzot* for the next residence. A quality *mezuzah* scroll can run between twenty and fifty dollars, which is a non-trivial consideration.
 

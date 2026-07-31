@@ -54,7 +54,7 @@ It bears noting that the *kinuy* need not be about private seclusion specificall
 
 ---
 
-## R. Eliezer vs R. Yeh (II)
+## R. Eliezer vs R. Yehoshua
 
 ### Seclusion Standard
 

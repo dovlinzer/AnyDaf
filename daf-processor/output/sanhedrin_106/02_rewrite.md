@@ -18,11 +18,11 @@ Working through the blessings in sequence: Bilam had wanted to say that Israel s
 
 Every one of these metaphors, when reversed, reveals what Bilam had been reaching for — a comprehensive curse across the dimensions of divine presence, kingship, land, fragrance, and fear.
 
-### Curses Reverted Except O…
+### Curses Reverted: Knesset
 
 *Amar Rabbi Abba bar Kahana*: in the end, *kulam chazru leklalah* — all of the blessings reverted to their originally intended curse. Whether this happened because of Bilam's original intent, or simply because of Israel's subsequent sins, is an open question, but the observation stands: the kingship is gone, the land with its olive trees and vineyards is gone, so much of what the blessings described has in fact been lost. *Chutz mi'batei knesiyos u'mibatei midrashot* — the sole exception is the very first blessing, *Ma Tovu Ohalecha Yaakov*. No matter the depth of exile, synagogues and study halls have persisted. The *pasuk* is then read carefully: *kelalah velo kelalot* — "the curse" in the singular, implying that only one of the curses remained permanently reversed into a blessing, while the others ultimately reasserted themselves.
 
-### Beloved's Wounds vs Enem…
+### Beloved's Wounds vs Enemy
 
 *Amar Rabbi Shmuel bar Nachmani amar Rabbi Yonatan*: what is meant by the verse *ne'emanim pitzei ohev vena'atarot neshikot soneh* — "trustworthy are the wounds of a beloved, but the kisses of an enemy are unreliable"? Better is the curse that *Achiyah HaShiloni* the prophet cursed Israel with than the blessings that *Bilam HaRasha* bestowed upon us. The wounds of a friend — even when painful — are rooted in genuine care, while an enemy's kindness conceals a hidden agenda. As one student aptly noted, this fits the verse precisely: Achiyah's curse came from genuine prophetic concern for Israel's welfare, while Bilam's blessing was rooted in an attempt to destroy.
 

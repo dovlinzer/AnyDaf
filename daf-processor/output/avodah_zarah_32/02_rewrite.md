@@ -1,6 +1,6 @@
 # Avodah Zarah 32 — Daf Yomi Shiur
 
-## Wine Review & Assur BeHa…
+## Wine, Non-Jewish Touch
 
 ### Wine Transport Review
 

@@ -1,4 +1,5 @@
 # Yevamot 97 — Daf Yomi Shiur
+[DAF:97a]
 
 ## Underage Kiddushin
 
@@ -278,6 +279,7 @@ The *Gemara* offers a final possible resolution: *ve-iba'it eima le-achar mita* 
 
 ## Relationship Riddles
 
+[DAF:97b]
 ### Stepdaughter Case
 
 > **Hebrew/Aramaic:** ״אַח מֵאַב וְלֹא מֵאֵם, וְהוּא בַּעֲלַהּ דְּאֵם, וַאֲנָא בְּרַתַּהּ דְּאִנְתְּתֵיהּ״. אָמַר רָמֵי בַּר חָמָא: דְּלָא כְּרַבִּי יְהוּדָה דְּמַתְנִיתִין.

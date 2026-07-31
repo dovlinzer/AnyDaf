@@ -10,7 +10,7 @@ The daf opens with a transition from the previous *perek*'s focus on *sefarim*, 
 
 *Arba tzitziot me'akvot zu et zu she'arba'tan mitzvah achat* — the four *tzitziot* on the four corners of the garment prevent one another, meaning they are all mutually required, and all four together constitute a single *mitzvah*. The practical implication is stark: if one of the four *tzitziot* is missing, one does not fulfill three-quarters of a *mitzvah*, or even three *mitzvot* — one fulfills zero *mitzvot*.
 
-### Tanna Kamma vs. R. Ishma…
+### Tanna Kamma v. R. Ishmael
 
 The *mishna* records a dissenting view. Rabbi Ishmael holds: *arba'tan arba mitzvot* — the four *tzitziot* are four separate *mitzvot*. The *gemara* seeks to understand the precise nature of this dispute and articulate its practical ramifications.
 
@@ -32,7 +32,7 @@ Ravina identifies a further *nafka mina* based on a teaching of Rav Huna: one wh
 
 ---
 
-## Shape Modification & Loo…
+## Garment Shape & Tzitzit
 
 ### Shortening Garment
 

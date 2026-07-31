@@ -22,7 +22,7 @@ The Gemara argues that on the question of liability for losses, both positions w
 
 ---
 
-## She'elah - Borrowed Hatc…
+## Borrowed Objects: Hatchet
 
 ### Rav Huna's View
 

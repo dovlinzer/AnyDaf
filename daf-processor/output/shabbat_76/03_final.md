@@ -1,4 +1,5 @@
 # Shabbat 76 — Daf Yomi Shiur
+[DAF:76a]
 
 ## Klal Gadol: Carrying
 
@@ -146,6 +147,7 @@ This raises a genuinely interesting question: if societal norms were to shift so
 
 ## Human Food Standard
 
+[DAF:76b]
 ### Grogeret Standard
 
 > **Hebrew/Aramaic:** מַתְנִי׳ הַמּוֹצִיא אוֹכָלִים כִּגְרוֹגֶרֶת — חַיָּיב, וּמִצְטָרְפִין זֶה עִם זֶה מִפְּנֵי שֶׁשָּׁווּ בְּשִׁיעוּרֵיהֶן. חוּץ מִקְּלִיפָּתָן, וְגַרְעִינֵיהֶן, וְעוּקְצֵיהֶן, וְסוּבָּן, וּמוּרְסָנָן. רַבִּי יְהוּדָה אוֹמֵר: חוּץ מִקְּלִיפֵּי עֲדָשִׁין שֶׁמִּתְבַּשְּׁלוֹת עִמָּהֶן.

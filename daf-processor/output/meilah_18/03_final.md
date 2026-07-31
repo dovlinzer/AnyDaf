@@ -1,4 +1,5 @@
 # Meilah 18 — Daf Yomi Shiur
+[DAF:18a]
 
 ## Pigul & Nosar Tziruf (II)
 
@@ -196,6 +197,7 @@ It should be noted that even on the *hana'ah* model, *me'ilah* is not purely ana
 
 A *baraita* now directly addresses the conceptual relationship between *pegam* and *hana'ah* in *me'ilah*. The *baraita* opens: *yakhol pegam belo ne'eneh o ne'eneh belo pegam* — might one think that *pegam* without *hana'ah*, or *hana'ah* without *pegam*, could constitute *me'ilah*? The *baraita* proceeds to resolve this through the *gezeirah shavah* linking *me'ilah* and *terumah*, both expressed with the word *kheit*.
 
+[DAF:18b]
 ### Terumah Paradigm
 
 > **Hebrew/Aramaic:** מָה ״חֵטְא״ הָאָמוּר בִּתְרוּמָה, פּוֹגֵם וְנֶהֱנֶה, וּמִי שֶׁפָּגַם נֶהֱנֶה, וּבַדָּבָר שֶׁפּוֹגֵם בּוֹ נֶהֱנֶה, וּפְגִימָתוֹ וַהֲנָאָתוֹ כְּאֶחָד, וּבְתָלוּשׁ מִן הַקַּרְקַע, וּבְשָׁלִיחַ שֶׁעָשָׂה שְׁלִיחוּתוֹ – אַף ״חֵטְא״ הָאָמוּר בִּמְעִילָה, פּוֹגֵם וְנֶהֱנֶה, וּמִי שֶׁפָּגַם נֶהֱנֶה, וּבַדָּבָר שֶׁפּוֹגֵם בּוֹ נֶהֱנֶה, וּפְגִימָתוֹ וַהֲנָאָתוֹ כְּאֶחָד, וּבְתָלוּשׁ מִן הַקַּרְקַע, וּבְשָׁלִיחַ שֶׁעָשָׂה שְׁלִיחוּתוֹ.

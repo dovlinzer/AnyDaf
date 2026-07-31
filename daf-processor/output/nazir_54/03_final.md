@@ -1,4 +1,5 @@
 # Nazir 54 — Daf Yomi Shiur
+[DAF:54a]
 
 ## Tumat Met Framework
 
@@ -184,6 +185,7 @@ This ruling has a remarkable practical application in the *halakhot* of *kohanim
 
 Rav Goren — not Rav Herzog, as initially misstated — proposed an innovative *halakhic* solution to the question of whether a *kohen* may study medicine and thereby come into repeated contact with corpses. The background is as follows: even granting the position that a *kohen* who is already *tamei meis* cannot become *re-tamei* simply by touching the *met* again, there remains the concern that active contact with the *met* raises the level of the *kohen's tumah*. Rav Goren's solution: bring metal rings into the room where the *met* is located. These rings thereby acquire the status of *cherev harei hu kechalal* — they become *avi avot hatumah*, as *tamei* as the *met* itself. Since a *kohen* is permitted to touch these rings (a *nazir* would not be *megaleach* for them, and accordingly a *kohen* is not *muzhar* on them), the *kohen* can then wear these rings while handling the *met*. By wearing an object that is already at the *avi avot* level, the *kohen* is not raising his level of *tumah* through direct contact with the *met* — he is already in contact with something of equivalent status. The logical and *halakhic* elegance of this approach generated significant controversy; Rav Moshe Feinstein reportedly had a strong reaction against it.
 
+[DAF:54b]
 ### Metzora Case
 
 > **Hebrew/Aramaic:** וּמַזֶּה בַּשְּׁלִישִׁי וּבַשְּׁבִיעִי,

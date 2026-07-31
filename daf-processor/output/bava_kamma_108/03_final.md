@@ -1,4 +1,5 @@
 # Bava Kamma 108 — Daf Yomi Shiur
+[DAF:107b]
 
 ## Shlach Yad & Kefel
 
@@ -18,6 +19,7 @@ The scriptural basis for this position is drawn from the *parsha* governing the 
 
 The precise moment that constitutes *shlichut yad* — whether it is physical handling, using the object, or spending money held in deposit — is a broader discussion belonging to Bava Metzia and is not resolved here.
 
+[DAF:108a]
 ### Rabbi Zeira's Query
 
 > **Hebrew/Aramaic:** אֲמַר לְהוּ רַבִּי חִיָּיא בַּר אַבָּא, הָכִי אָמַר רַבִּי יוֹחָנָן: בְּעוֹמֶדֶת עַל אֲבוּסָהּ שָׁנוּ. אֲמַר לֵיהּ רַבִּי זֵירָא לְרַבִּי חִיָּיא בַּר אַבָּא: דַּוְקָא בְּעוֹמֶדֶת עַל אֲבוּסָהּ קָאָמַר, אֲבָל שָׁלַח בָּהּ יָד – קָנָה, וּשְׁבוּעָה לָא מַהְנְיָא בֵּיהּ כְּלוּם; אוֹ דִלְמָא, אֲפִילּוּ עוֹמֶדֶת עַל אֲבוּסָהּ קָאָמַר?
@@ -192,6 +194,7 @@ The *gemara* then notes the challenge each position faces from the other clause 
 
 ## Ganav's Admission
 
+[DAF:108b]
 ### Rava's Position
 
 > **Hebrew/Aramaic:** תְּבָעוּהוּ בְּעָלִים לַשּׁוֹמֵר, וְנִשְׁבַּע, וְהוּכַּר הַגַּנָּב; תְּבָעוֹ שׁוֹמֵר, וְהוֹדָה; תְּבָעוּהוּ בְּעָלִים, וְכָפַר, וְהֵבִיאוּ עֵדִים – מִי נִפְטַר הַגַּנָּב בְּהוֹדָאַת שׁוֹמֵר, אוֹ לֹא נִפְטַר הַגַּנָּב בְּהוֹדָאַת שׁוֹמֵר?

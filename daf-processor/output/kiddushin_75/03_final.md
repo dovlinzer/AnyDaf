@@ -1,4 +1,5 @@
 # Kiddushin 75 — Daf Yomi Shiur
+[DAF:75a]
 
 ## Lineage & Safek Mamzer
 
@@ -212,6 +213,7 @@ When Rav Dimi came from Eretz Yisrael, he reported a different tradition: Rabbi 
 
 The Gemara now introduces a second principle that Rabbi Eliezer combines with the above: *Rabbi Yishmael savar lah k'Rabbi Akiva de'amar oved kochavim ve'eved ha'ba al bat Yisrael havlad mamzer*. Rabbi Akiva holds that when a non-Jew or slave has intercourse with a Jewish woman, the child is a *mamzer*. If we accept both that (a) *Kutim* are non-Jews, and (b) Jewish women intermarried with *Kutim*, then the children born of those unions are *mamzerim* according to Rabbi Akiva. This explains the concern: the *Kuti* population consists of non-Jews intermixed with Jewish *mamzerim*, and because of that mixture, *Kutim* cannot marry one another — a Jew among them would be marrying a non-Jew, and a Jewish *mamzer* would be marrying a non-*mamzer* or non-Jew.
 
+[DAF:75b]
 ### Matrilineal Descent
 
 > **Hebrew/Aramaic:** וּמִי סָבַר לָהּ רַבִּי יִשְׁמָעֵאל כְּרַבִּי עֲקִיבָא? וְהָאָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי יִשְׁמָעֵאל: מִנַּיִן לְנׇכְרִי וְעֶבֶד שֶׁבָּאוּ עַל הַכֹּהֶנֶת וְעַל הַלְוִיָּה וְעַל בַּת יִשְׂרָאֵל שֶׁפְּסָלוּהָ? שֶׁנֶּאֱמַר: ״וּבַת כֹּהֵן כִּי תִהְיֶה אַלְמָנָה וּגְרוּשָׁה וְזֶרַע אֵין לָהּ״

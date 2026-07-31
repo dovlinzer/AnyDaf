@@ -1,4 +1,5 @@
 # Taanit 9 — Daf Yomi Shiur
+[DAF:9a]
 
 ## Siman Klala & Omens
 
@@ -234,6 +235,7 @@ The juxtaposition of these two stories makes the stakes vivid. Students who sign
 
 ## Precise Rain
 
+[DAF:9b]
 ### One Blade Grass
 
 > **Hebrew/Aramaic:** וְאַף רֵישׁ לָקִישׁ סָבַר מָטָר בִּשְׁבִיל יָחִיד, דְּאָמַר רֵישׁ לָקִישׁ: מִנַּיִן לַמָּטָר בִּשְׁבִיל יָחִיד, דִּכְתִיב: ״שַׁאֲלוּ מֵה׳ מָטָר בְּעֵת מַלְקוֹשׁ ה׳ עֹשֶׂה חֲזִיזִים וּמְטַר גֶּשֶׁם יִתֵּן לָהֶם לְאִישׁ עֵשֶׂב בַּשָּׂדֶה״.

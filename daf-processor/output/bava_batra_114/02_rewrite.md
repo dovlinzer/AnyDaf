@@ -14,7 +14,7 @@ A *baraita* is taught before Rav Nachman: the verse *ve-hayah be-yom hanchilo et
 
 Abaye immediately exposes the absurdity of taking this statement too literally: does it mean that only if a person dies during the daytime do his children inherit? And if he dies at night, they do not? Clearly that cannot be the intent.
 
-### Clarification: Din Nacha…
+### Resolution: Din Nachalot
 
 Abaye therefore redirects: perhaps what was meant is *din nachalot* — the adjudication of inheritance law. It is the legal proceeding, not the biological fact of death, that must take place during the daytime.
 
@@ -34,7 +34,7 @@ The deeper reason they offer is structural. In ordinary *dinei mamonot*, two par
 
 ---
 
-## Rav Yehuda & Din Rul (II)
+## Rav Yehuda & Din Rules
 
 ### Dinei Mamonot Timing
 
@@ -130,7 +130,7 @@ The underlying principle that makes this question intelligible is the unique nat
 
 This means that *kinyan chalipin* operates entirely in the domain of mental commitment. And if it operates entirely in the domain of intent, then the question of whether that intent is truly complete becomes live in a way that it is not with other forms of *kinyan*. With *hagbaha*, once the object is lifted, the physical reality has changed and the legal change follows necessarily. With *chalipin*, everything depends on the inner state of the parties — and it is therefore conceivable that for a brief moment after the act, the commitment has not fully crystallized. That window is what Rabba and Rav Yosef are debating.
 
-### Application & Reconcilia…
+### Rav Yosef vs Rabba
 
 The *Gemara* now ties this dispute back to the case of the three visitors. Rav Yosef himself argues that the *halacha* of the three visitors — namely, that they may function as a *Beit Din* and adjudicate the case right then and there — is actually evidence for his position over Rabba's. If, as Rabba holds, one may retract as long as the parties are still sitting in the same room, then why would the visitors be able to adjudicate immediately? The dying man performed his *kinyan* and is still in the same room — according to Rabba, he could retract at any moment. It would be premature and futile to open the case when he might still undo everything he just did.
 

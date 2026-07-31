@@ -72,7 +72,7 @@ Shmuel disagrees in the opposite direction: *afilu metzar revi'i* — even the f
 
 Rav Assi takes the most restrictive position of all: *lo kana ela telem echad al pnei kula* — the buyer acquires nothing more than a single furrow running along each of the three specified boundaries. This is extraordinarily limiting. The logic, as the Gemara explains, combines two principles: Rav Assi holds that the failure to draw the fourth boundary should be read like Rav's principle of *shura shura* — that something has been held back — and then extends this further with the rule *mid-shayar b'metzar shayar nami b'kulah*: if something is withheld at the boundary, one should assume a great deal is withheld throughout. The result is a near-total contraction: the buyer receives only the outermost furrow of each of the three sides, nothing more.
 
-### Rava: Conditional Exclus…
+### Rava: Conditional Exclus
 
 Rava rules as the *halakha*: *kana hakol chutz mi-metzar revi'i* — in line with Rav, the buyer receives everything except the fourth boundary. But Rava immediately introduces a series of conditions that significantly complicate what "except the fourth boundary" means.
 

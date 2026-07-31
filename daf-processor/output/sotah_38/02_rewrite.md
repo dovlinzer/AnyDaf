@@ -204,7 +204,7 @@ It is worth noting that these discussions about the *chazzan* calling *kohanim* 
 
 ---
 
-## Rabbi Yehoshua ben L (II)
+## Rabbi Yehoshua ben Levi
 
 ### God's Desire
 

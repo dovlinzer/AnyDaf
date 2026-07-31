@@ -1,4 +1,5 @@
 # Pesachim 19 — Daf Yomi Shiur
+[DAF:18a]
 
 ## Ein Oseh Tumah
 
@@ -136,6 +137,7 @@ Rabbi Akiva, however, holds that *tziruf d'rabbanan* — the concept is rabbinic
 
 The *Gemara* transitions to a new topic with the teaching *tenan hasam*: a *Mishnah* cited from elsewhere. *Ha-machat she-nimtzet ba-basar* — a needle that was found in meat. The case is that an animal of *kodshim* was slaughtered and a needle was discovered inside the flesh. The ruling: *ha-sakin ve-ha-yadayim tehorot* — the knife and the hands remain *tahor*. We do not assume that the knife, used in cutting the meat, necessarily struck the needle; nor do we assume the hands came into contact with it. However, *ve-ha-basar tamei* — the meat itself is *tamei*. And if the needle was found in the excrement of the animal rather than in the flesh, *ha-kol tahor* — everything, including the meat, is *tahor*.
 
+[DAF:18b]
 ### No Hand Tumah
 
 > **Hebrew/Aramaic:** וְנֵימָא: שֶׁאֵין טוּמְאַת יָדַיִם וְכֵלִים בַּמִּקְדָּשׁ! אָמַר רַב יְהוּדָה אָמַר רַב, וְאִיתֵּימָא רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: יָדַיִם קוֹדֶם גְּזֵירַת כֵּלִים נִשְׁנוּ. אָמַר רָבָא: וְהָא תַּרְוַיְיהוּ בּוֹ בַּיּוֹם גָּזְרוּ, דִּתְנַן: הַסֵּפֶר וְהַיָּדַיִם וְהַטְּבוּל יוֹם וְהָאוֹכָלִין וְהַכֵּלִים שֶׁנִּטְמְאוּ בְּמַשְׁקִין!

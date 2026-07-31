@@ -110,7 +110,7 @@ However, Rava maintains that for other areas of *halacha*, the court judgment do
 
 ---
 
-## Contradiction & Resoluti…
+## Rava vs Mishna: Bequest
 
 ### Mishna's Bequeathal Rule
 

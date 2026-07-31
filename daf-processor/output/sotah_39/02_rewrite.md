@@ -116,7 +116,7 @@ The final word of the *bracha* — *b'ahava* — brings the discussion full circ
 
 ---
 
-## Birkas Kohanim Choreogra…
+## Birkas Kohanim Procedures
 
 ### Yehi Ratzon Prayer
 

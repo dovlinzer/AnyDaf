@@ -14,7 +14,7 @@ The essential principle that emerges is not that the husband is believed to prod
 
 The *braita* involving Rebbe Natan addresses a different factual configuration: *de'muchzak lan b'achi v'lo muchzak lan bivani* — we had reason to presume he had brothers, though no sons were known. In this setting, the woman was presumed obligated in *yibum* before the marriage. He then said at the time of *kiddushin* that he had no brothers, and the *gemara* considers why we believed him then, even against the prevailing presumption.
 
-### Rebbe Natan Reconciliation
+### Rebbe Natan: Braita Study
 
 The answer is *mah lo leshaker*: why would he lie? One might think he was lying simply to induce her to marry him, promising she would not be bound by *yibum*. But that reasoning fails, because *matsi patarna lach b'gita* — he could simply have promised to give her a *get* that would take effect before his death, rendering the *yibum* question moot regardless. Since he had an alternative means of achieving the same practical result, there is no compelling motive for the lie, and therefore we believe him at the time of *kiddushin*, even to the point of shifting the *chazakah* in her favor.
 

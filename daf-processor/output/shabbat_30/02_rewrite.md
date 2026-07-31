@@ -102,7 +102,7 @@ The Gemara resolves this: the opening cases do in fact involve danger to life (*
 
 A complication arises from a *braita* in which Rabbi Yoshiya teaches: *im bishvil hacholeh she'yishan lo yechabeh* — if one wishes to extinguish for the sake of a sick person who needs sleep, one should not do so; *ve'im kibah, patur aval assur* — and if one did extinguish, one is exempt but it is forbidden. Here *patur* is used with explicit precision, excluding the possibility that the Mishna's *patur* has the expansive meaning the Gemara just assigned it.
 
-### Life-Threatening Exception
+### Patur: Life-Threat Cases
 
 The Gemara resolves the tension: *ha'hi be'choleh she'ein bo sakana, Rabbi Shimon hi* — that *braita* addresses a case where there is no danger to life, and it reflects Rabbi Shimon's position. For Rabbi Shimon, when there is no mortal danger, extinguishing the lamp constitutes a *melacha she'einah tzrichah legufah* — the person is exempt from biblical liability, but the act remains rabbinically forbidden. This is the middle ground that only Rabbi Shimon's framework can generate. The Mishna's *seder* of *patur* followed by *chayav*, by contrast, follows Rabbi Yehuda, for whom the only tenable reading of the *reisha* is that those cases involve genuine *pikuach nefesh*, and *patur* there is therefore not precise — it really means *mutar* and obligatory.
 

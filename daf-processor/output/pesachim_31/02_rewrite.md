@@ -1,6 +1,6 @@
 # Pesachim 31 — Daf Yomi Shiur
 
-## Intro: Collateral & Pesa…
+## Collateral & Pesach
 
 ### Welcome & Overview
 

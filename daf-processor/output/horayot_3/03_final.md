@@ -1,4 +1,5 @@
 # Horayot 3 — Daf Yomi Shiur
+[DAF:2b]
 
 ## Individual vs. Beis Din
 
@@ -50,6 +51,7 @@ The *Gemara* resolves this by proposing a different reading of the *baraita*. Th
 
 But one might have thought: if the majority of the congregation sins through *shiggas ma'aseh* with no ruling, perhaps they are exempt — because in the comparable case of *horaat beis din* followed by a majority, it is *beis din* that brings the *korban* and the individuals of the *tzibbur* are not obligated. Perhaps the same would apply here — when the majority sins on their own, they too should be exempt? The verse therefore teaches: *afilu rubah va-afilu kulah* — even the majority, even the entire community, is still obligated.
 
+[DAF:3a]
 ### Parallel Logic
 
 What this structure reveals is that the *baraita* is built on a parallelism between cases of *shiggas ma'aseh* and cases of *horaat beis din*. The *baraita* uses the *horaat beis din* scenarios as the reference points for reasoning about the *shiggas ma'aseh* scenarios. And critically, the *baraita* takes for granted, without needing to prove it, that when an individual follows *beis din* and commits a sin, he brings a *korban*. It only needs to *prove* the case of the majority sinning by *shiggas ma'aseh*, because that is the non-obvious result. If the *baraita* held that even in the case of *horaat beis din* an individual brings nothing, there would be no reason to treat the individual case of *shiggas ma'aseh* as obviously obligated and leave it unproven. The very structure of the *baraita* — that it takes the individual's liability for granted and must argue only about the *tzibbur* — demonstrates that the *baraita* presupposes individual liability in the case of *horaat beis din*.
@@ -254,6 +256,7 @@ A second *baraita* adds a different scenario: *horu beis din ve-yada echad mehen
 
 But the *Gemara* notes: *ta'ama de-amar lahen toin atem de-pturim* — the reason they are *patur* is that he explicitly said *toin atem* (and then the conclusion: *ha shatik mashtik chayavin* — but if he merely remained silent and abstained, they would be *chayavin*). The implication appears to be that silent abstention, when it looks like a nod of acquiescence, does not prevent the ruling from being considered unanimous. But open verbal opposition does. And yet the *Gemara* asks: *ve-amai halo lo horu kulan* — but in the case of verbal dissent, why are they *patur*? Surely it was not a unanimous ruling! This is an apparent challenge to the idea that the vote must be unanimous, because even without unanimity (with a dissenter) it would seem the ruling is still valid.
 
+[DAF:3b]
 ### Community Burden
 
 > **Hebrew/Aramaic:** מֵתִיב רַב מְשַׁרְשְׁיָא: סָמְכוּ רַבּוֹתֵינוּ עַל דִּבְרֵי רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל וְעַל דִּבְרֵי רַבִּי אֶלְעָזָר בְּרַבִּי צָדוֹק, שֶׁהָיוּ אוֹמְרִים: אֵין גּוֹזְרִין גְּזֵירָה עַל הַצִּבּוּר אֶלָּא אִם כֵּן רוֹב הַצִּבּוּר יְכוֹלִין לַעֲמוֹד בָּהּ. וְאָמַר רַב אַדָּא בַּר אַבָּא: מַאי קְרָא? ״בַּמְּאֵרָה אַתֶּם נֵאָרִים וְאֹתִי אַתֶּם קֹבְעִים הַגּוֹי כֻּלּוֹ״. וְהָא הָכָא דִּכְתִיב ״הַגּוֹי כֻּלּוֹ״, וְרוּבָּא כְּכוֹלָּא דָּמֵי, תְּיוּבְתָּא דְּרַבִּי (יוֹחָנָן) [יוֹנָתָן]. תְּיוּבְתָּא.

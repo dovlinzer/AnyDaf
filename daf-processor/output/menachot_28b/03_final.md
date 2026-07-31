@@ -1,4 +1,5 @@
 # Menachot 28b — Daf Yomi Shiur
+[DAF:27b]
 
 ## Menorah Materials
 
@@ -122,6 +123,7 @@ One must note the difficulty with this literally. Gold as an element does not co
 
 A further challenge arises: another *pasuk* states that all of Shlomo's drinking vessels and all the vessels of the House of the Forest of Lebanon were *zahav sagur*, and that silver was considered worthless in Shlomo's time — implying that *zahav sagur* was abundant. How then could the *menorot* have exhausted all of it? The Gemara resolves this: the statement that all the gold was used up refers specifically to the *zahav sagur*, not to all forms of gold. Shlomo had abundant ordinary gold; it was this singular, supremely pure grade that was entirely consumed in the making of the *menorot*.
 
+[DAF:28b]
 ### 80 Smeltings
 
 > **Hebrew/Aramaic:** וּמִי חֲסַר כּוּלֵּי הַאי? וְהָתַנְיָא: רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אוֹמֵר: מַעֲשֶׂה וְהָיְתָה [מְנוֹרַת] בֵּית הַמִּקְדָּשׁ יְתֵירָה עַל שֶׁל מֹשֶׁה בְּדִינַר זָהָב קוּרְדְיָקֵינִי, וְהִכְנִיסוּהָ שְׁמוֹנִים פְּעָמִים לְכוֹר, וְהֶעֱמִידוּהָ עַל כִּכָּר. כֵּיוָן דְּקָאֵי קָאֵי.

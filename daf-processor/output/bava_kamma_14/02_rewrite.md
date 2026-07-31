@@ -26,7 +26,7 @@ Ravina offers an even more striking *chiddush* as a third reading of *nechasim h
 
 A *baraita* confirms this position: *af illu nagach ve'achar kach hikdish nagach ve'achar kach hefkir patur* — even if after the goring you sanctify or renounce ownership, you are exempt.
 
-## Kofer & Ownership Transf…
+## Kofer & Ownership Trnsfer
 
 ### Rav Yehuda on Kofer
 
@@ -44,7 +44,7 @@ What is striking is that the *gemara* does not explicitly derive from any *pasuk
 
 Some *acharonim* suggest, and this resolution is compelling even if the *gemara* does not make it explicit, that the *gemara* may intend to limit this rule to *keren tam* — the case of an unhabituated ox goring for the first three times, where only half-damages are paid.
 
-### Knas vs. Monetary Obliga…
+### Knas vs. Monetary Obliga
 
 Two reasons converge to make this rule work specifically for *keren tam*. First, there is a debate — to be addressed later — as to whether half-damages for *tam* is a *knas* (a fine) rather than genuine compensation (*mamon*). If it is a *knas*, then the liability does not arise automatically at the moment of the event. In ordinary cases of damage — where my ox tramples your produce or falls into your pit — I owe you money from the instant the damage occurs; *beis din* merely clarifies what already exists. A *knas*, by contrast, is imposed by *beis din*; I do not owe anything until the court imposes it. Accordingly, if the ox is in a legally exempt status — *hefker* or *hekdesh* — at the time *beis din* adjudicates, *beis din* cannot impose the fine because the ox's status has changed.
 

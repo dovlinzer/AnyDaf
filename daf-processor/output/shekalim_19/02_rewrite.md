@@ -22,7 +22,7 @@ Shmuel offers yet another reading: *kineged shisha korbanot* — corresponding t
 
 Rabbi Yochanan provides a simpler, more pragmatic answer: *al yedei she-hanedava meruba ribbu lo shofarot harbe* — because the *nedavah* donations were so numerous and the fund so large, they simply maintained multiple *shofarot*. On this reading, there is nothing architecturally meaningful about the number six; it is merely that the volume of money flowing into this fund — from leftover *chatat* and *asham* funds, from personal donations, and from other sources — was so great that a single box could not accommodate it.
 
-### Preventing Family Disputes
+### Korban HaEdah: Boxes
 
 The *Korban HaEdah*'s explanation, which has already been introduced, provides the most detailed rationale for the system based on *batei avot*. The passage reads that since each family working on a given day would be entitled to whatever benefit derived from the *korbanot* brought on that day — whether hides, meat portions, or other entitlements depending on the type of *korban* — a single communal *nedavah* fund would have generated constant disputes. A family whose day was busy but which drew little from the *nedavah* fund would resent a family whose day drew heavily on those same communal resources. To forestall such conflicts entirely, each family was given its own dedicated *shofar*, and each family's entitlements were tied exclusively to what was raised and used on its own day. The logic holds even if it leaves some questions open — for instance, what happened to unclaimed funds from one family's box when the next *mishmar* rotated in — but the structural intention is clear: separate funds prevent quarrels.
 
@@ -116,7 +116,7 @@ The *gemara* then notes that the *mishnah*'s closing rule — *zeh haklal, holch
 
 ---
 
-## Found Money Jerusale (II)
+## Found Money Jerusalem
 
 ### Sellers' Context
 
@@ -152,7 +152,7 @@ In either case, whether the meat is assumed to be *olah*, *chatat*, or *shelamim
 
 ---
 
-## Outside Jerusalem Me (II)
+## Outside Jerusalem Meat
 
 ### Limb-Piece Distinction
 

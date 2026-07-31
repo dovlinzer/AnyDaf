@@ -1,4 +1,5 @@
 # Shabbat 114 — Daf Yomi Shiur
+[DAF:114a]
 
 ## Kavod Shabbat & Clothes
 
@@ -196,6 +197,7 @@ Rabbi Zeira provides a historical account. When he was still in *Bavel*, he assu
 
 When Rabbi Zeira made *aliyah* to *Eretz Yisrael*, he found Yehuda the son of Rabbi Shimon ben Pazi teaching that this is only the view of Rabbi Akiva, who holds that *Yom Kippur* cannot serve *Shabbat* at all and thus there is nothing to mark. Rabbi Ishmael, who holds that *Yom Kippur* does in fact serve *Shabbat* in the matter of the sacrificial fats, would require a *tekiah* when *Shabbat* transitions into *Yom Kippur*, to announce to people that the day's *kedushah* is slightly different and that the fats may be offered. Rabbi Zeira responded: *kohanim zrizim heim* — the *kohanim* are diligent and knowledgeable; they do not require a shofar blast to inform them of this *halacha*. A *tekiah* is relevant for matters that affect the general public, not for technical sacrificial laws known to the *kohanim*.
 
+[DAF:114b]
 ### Shofar Blasts
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ מָר קַשִּׁישָׁא בְּרֵיהּ דְּרַב חִסְדָּא לְרַב אָשֵׁי: מִי אָמְרִינַן כֹּהֲנִים זְרִיזִין הֵן? וְהָתְנַן: שָׁלֹשׁ לְהַבְטִיל אֶת הָעָם מִמְּלָאכָה, שָׁלֹשׁ לְהַבְדִּיל בֵּין קוֹדֶשׁ לְחוֹל. כְּדַאֲמַר אַבָּיֵי: לִשְׁאָר עַמָּא דְּבִירוּשְׁלֶם, הָכָא נָמֵי לִשְׁאָר עַמָּא דְּבִירוּשְׁלֶם.

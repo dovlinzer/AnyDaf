@@ -89,12 +89,12 @@ def rewrite_prompt(masechta: str, daf: int, transcript: str, segmentation_json: 
 with Talmudic terminology.
 
 Begin the document with a top-level header (# {label} — Daf Yomi Shiur). \
-Use the `heading_title` field of each macro segment as the ## section header, \
+Use the `display_title` field of each macro segment as the ## section header, \
 copied verbatim — do not rephrase, truncate, or substitute any other field. \
 There must be exactly one ## heading per macro segment, in order. \
 Do not create additional ## headings; if you need to subdivide within a macro segment, \
 use ### instead. \
-Within each ## section, use the `heading_title` field of each micro segment as the \
+Within each ## section, use the `display_title` field of each micro segment as the \
 ### subsection header, copied verbatim.
 
 SEGMENTATION:
@@ -104,6 +104,15 @@ GUIDELINES:
 - Maintain the author's voice: direct, analytically rigorous, willing to flag when \
 something is surprising or counterintuitive ("this is a striking Gemara," "the argument \
 seems to favor X, yet...")
+- NEVER REFER TO THE LECTURER IN THE THIRD PERSON. The essay is written in the \
+lecturer's own voice, so phrases like "as the lecturer notes," "the lecturer observes," \
+"the lecturer acknowledges," "the lecturer offers the analogy of..." must not appear — \
+they turn the lecturer's own analysis into a report about someone else. Simply state the \
+point directly: "as noted above," "this is, admittedly, an unsatisfying Gemara," "consider \
+the analogy of catastrophic insurance." Where the lecturer appears as a party in a worked \
+hypothetical ("a debt that Reuven owes to the lecturer"), use first person instead — "a \
+debt that Reuven owes me" — which is how it was actually said. This applies to any \
+third-person stand-in for the speaker, not only the word "lecturer".
 - Preserve all halachic analysis, source citations, named opinions, and textual references \
 exactly — do not simplify, omit, or reorder arguments. Source attributions are especially \
 critical: when the lecturer attributes a statement or explanation to a specific source \
@@ -154,7 +163,12 @@ letter names combine additively (highest value first): "ayin tet" = 70+9 = 79. E
 ("Vav stands for vlad chatat"), a linguistic remark ("the word ends with a taf"), or any \
 explicit discussion of the letter as a letter rather than as a number.
 - Cut: filler phrases ("okay," "let's take a look," "you know," "so"), logistical comments \
-("it is the 23rd of the Omer"), and off-topic side remarks. You may cut repetitive \
+("it is the 23rd of the Omer"), and off-topic side remarks. Cut PAGE-NAVIGATION \
+directions in particular — instructions telling listeners where to look on the physical \
+page, which mean nothing to a reader of the essay: "we pick up at the bottom of 173b", \
+"about ten lines from the bottom", "at the two dots", "the last of the wide lines of \
+Rashi at the top", "Today's daf is 174". Open with the substance, not with where the \
+passage sits on the page. You may cut repetitive \
 restatements only in the lecturer's own explanatory prose — NEVER cut or compress the \
 Talmudic text itself (Gemara passages, beraitot, mishnayot, Rishonim quotations, or \
 named Amoraic/Tannaitic rulings), even when a passage appears to restate something \
@@ -189,6 +203,21 @@ challenged (*targuma* + one phrase), a short transitional question (*vi'amai...*
 Each of these is a real move in the Talmudic argument and must be written into the \
 essay at the point in the lecture where the lecturer introduces it — never omitted \
 because it is brief, immediately superseded, or seems like a mere transition.
+
+CRITICAL — LONG CONTINUOUS READINGS (AGGADA AND NARRATIVE PASSAGES):
+Some stretches of the lecture consist of the lecturer reading a continuous narrative or \
+Aggadic passage — a story, a dialogue between named figures, a sustained Midrashic \
+account — with comparatively little interspersed explanation, sometimes with all \
+commentary held until after a large block has been read straight through. This is exactly \
+as much a real Talmudic passage as a tightly-argued halachic exchange, and the same \
+no-skipping rule applies to it in full: every beat of the narrative — each statement, \
+reply, and turn of the story — must appear in the essay, in the order the lecturer reads \
+it, even though it arrives as one long stretch rather than as separate quote-and-comment \
+exchanges. Do not compress a multi-part narrative into a summary of its outcome, and do \
+not wait to write a section until you reach the lecturer's commentary on it — write the \
+narrative itself first, fully, in the section where it is read, whether or not commentary \
+follows immediately. A long run of quoted material with little lecturer voice attached is \
+a sign to preserve more content in full, not less.
 
 CRITICAL — SECTION ORDERING:
 The Gemara frequently refers back to previously cited passages, but the essay must reflect \

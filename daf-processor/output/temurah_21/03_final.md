@@ -1,4 +1,5 @@
 # Temurah 21 — Daf Yomi Shiur
+[DAF:20b]
 
 ## Female Asham & Offspring
 
@@ -32,6 +33,7 @@ The *gemara* then explains why the question is being asked afresh: *lo shmi'a le
 
 Rabbi Avin bar Kahana's response cuts against the earlier reasoning: *benah yikrav olah* — the male offspring may indeed be brought as an *olah*. His reasoning is that Rabbi Eliezer's position should not be read so narrowly as to require that the derivative's *kedusha* match the original. Rather, *mishum d'chazi l'akrava* — the operative principle for Rabbi Eliezer is simply that once the animal is fit to be brought, you bring it. There is no requirement that it carry the identical *kedusha* as the original.
 
+[DAF:21a]
 ### Challenge from Mishnah
 
 > **Hebrew/Aramaic:** אֵיתִיבֵיהּ: וְלָדָן וְלַד וְלָדָן עַד סוֹף כׇּל הָעוֹלָם יָבִיא בִּדְמֵיהֶן עוֹלָה — בִּדְמֵיהֶן — אִין, עַצְמוֹ — לֹא!
@@ -260,6 +262,7 @@ The *gemara* then raises the objection of Rabbi Yochanan's rule: *kol hatorah ku
 
 ## Ben Azzai Position
 
+[DAF:21b]
 ### Ben Azzai Question
 
 > **Hebrew/Aramaic:** בֶּן עַזַּאי אוֹמֵר: יָכוֹל יַעֲלֶה אָדָם מַעֲשֵׂר שֵׁנִי, וְיֹאכְלֶנּוּ בְּכׇל הָרוֹאֶה? וְדִין הוּא: בְּכוֹר טָעוּן הֲבָאַת מָקוֹם, וּמַעֲשֵׂר טָעוּן הֲבָאַת מָקוֹם — מָה בְּכוֹר אֵינוֹ נֶאֱכָל אֶלָּא לִפְנִים מִן הַחוֹמָה, אַף מַעֲשֵׂר אֵינוֹ נֶאֱכָל אֶלָּא לִפְנִים מִן הַחוֹמָה.

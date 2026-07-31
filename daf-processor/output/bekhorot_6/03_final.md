@@ -1,4 +1,5 @@
 # Bekhorot 6 — Daf Yomi Shiur
+[DAF:6a]
 
 ## Bechor Shor Chesev E (II)
 
@@ -186,6 +187,7 @@ Two questions remain open: whether partial *simanim* suffice in the donkey-horse
 
 The *Mishnah* now states the foundational principle: *yotzei min hatamei tamei, yotzei min hatahor tahor* — what issues from a non-kosher animal is non-kosher, and what issues from a kosher animal is kosher.
 
+[DAF:6b]
 ### Mother Determines Status
 
 > **Hebrew/Aramaic:* גְּמָ׳ לְמָה לִי לְמִיתְנֵי ״שֶׁהַיּוֹצֵא״?

@@ -20,7 +20,7 @@ Rav Yehuda amar Rav provides the answer: *migu d'nachit lei kedushat damim nachi
 
 If that is so, why does one need a *mum* to redeem it? The answer is that although it starts as *kedushat damim*, it transforms and rises to *kedushat haguf* — and since it has *kedushat haguf*, it requires a *mum* for redemption. One senses a certain circularity in this reasoning: the whole question was why it should need a *mum* if it can never be brought, and the answer essentially says that because it is fit enough, it gets upgraded — but the explanation of why the upgrade occurs in this case is not fully elaborated.
 
-Rashi frames this carefully: the upgrade to *kedushat haguf* is only *l'milsa d'ba'ei mum* — to the degree that it cannot be redeemed without a *mum* — not to the degree that it could actually be offered. So the *kedushat haguf* here is a partial one. The implicit logic seems to be that while a *mum* renders an animal automatically redeemable by Torah law, preventing it from ever reaching *kedushat haguf*, wrong gender is not treated with the same severity. The animal is otherwise fit; it lacks only the required gender. Therefore, although it enters with *kedushat damim*, because it is close enough — being an unblemished animal of the right species — it transforms into *kedushat haguf*. The question of why wrong gender is treated differently from *mum* is, as the lecturer acknowledges, not fully resolved by the *gemara*; it is, to some degree, simply stated as the operative rule.
+Rashi frames this carefully: the upgrade to *kedushat haguf* is only *l'milsa d'ba'ei mum* — to the degree that it cannot be redeemed without a *mum* — not to the degree that it could actually be offered. So the *kedushat haguf* here is a partial one. The implicit logic seems to be that while a *mum* renders an animal automatically redeemable by Torah law, preventing it from ever reaching *kedushat haguf*, wrong gender is not treated with the same severity. The animal is otherwise fit; it lacks only the required gender. Therefore, although it enters with *kedushat damim*, because it is close enough — being an unblemished animal of the right species — it transforms into *kedushat haguf*. The question of why wrong gender is treated differently from *mum* is not fully resolved by the *gemara*; it is, to some degree, simply stated as the operative rule.
 
 ### Rava's Logic
 
@@ -92,7 +92,7 @@ This brings the entire analysis into focus. Rabbi Shimon's position is coherent 
 
 ---
 
-## Property Sanctificat (II)
+## Property Sanctification
 
 ### Eliezer View
 

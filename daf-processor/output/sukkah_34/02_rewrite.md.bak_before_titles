@@ -1,0 +1,191 @@
+# Sukkah 34 — Daf Yomi Shiur
+
+## Dichuy & Berries
+
+### Dichuy Intro
+
+The daf begins slightly before the formal start of 34, on 33b, with the words *ve'ein mematin beyom tov* — one may not reduce the berries of the *hadas* on *Yom Tov*. The surrounding sugya has been wrestling with the question of *dichuy bi-mitzvot*: whether a *mitzvah* object that was initially unfit at the moment it became designated for the *mitzvah* retains a permanent status of rejection, even after it subsequently becomes fit. Up to this point, the *Gemara* has deliberately avoided reaching any definitive conclusion on this question. Now the final clause of the *mishnah* — the prohibition against removing berries on *Yom Tov* — opens a new avenue of inquiry.
+
+### Black Before Yom Tov
+
+The *Gemara* poses the case of *ha'avar ve-liktan*: suppose one transgressed and actually did pick the berries on *Yom Tov* — what is the status of the *hadas*? The implication of the *mishnah* is *kasher*: one is not permitted to do so, but if it was done, the *hadas* is rendered valid. The *Gemara* then asks: when precisely did the berries turn black? If the answer is *de-ashchar me'etmol* — they were already black before *Yom Tov* began — then from the very moment this *hadas* entered the category of the *mitzvah* on *Yom Tov*, it was already unfit. This is *dichuy mei'ikara*: the object was pushed away from the outset. And yet by picking the berries one can render it *kasher*. The *Gemara* therefore says: *tifshot mineh dichuy mei'ikara delo havei dichuy* — one should be able to infer from this that initial rejection does not necessarily constitute an irreversible disqualification.
+
+### Black During Yom Tov
+
+As an alternative reading, the *Gemara* proposes: perhaps the berries were fine when *Yom Tov* began and only turned black during *Yom Tov* itself. If so, the *hadas* was fit at the outset and then became unfit — this is the category of *nireh ve-nidcheh*, something that was seen and then rejected. In that case, one could infer *shema mina nireh ve-nidcheh chozer ve-nireh* — something that was fit, became disqualified, can return to fitness.
+
+The *Gemara* notes that of the two categories, *dichuy mei'ikara* is actually the less troubling case. If an object was never fit even when the *mitzvah* framework began, it is more as though it was simply not yet ready, and its subsequent fitness is less fraught. The case of *nireh ve-nidcheh* — where the object was fully within the category, was actively rejected, and then became fit again — is the stronger and more problematic form of *dichuy*. Since one of the two cases must be operative whenever berries are picked on *Yom Tov*, at minimum something must be valid.
+
+### Conclusion on Dichuy
+
+The *Gemara* concludes by conceding the less contested inference: *dichuy mei'ikara* — initial unfitness — is not a disqualifying problem. If the berries were black when *Yom Tov* began, the *hadas* was unfit from the start, yet removing the berries renders it valid. This much one can prove from the *mishnah*. However, the *Gemara* declines to extend this inference to *nireh ve-nidcheh*: one cannot necessarily prove from this case that something which was fit and then became disqualified can recover its fitness. The case may well have been one of *dichuy mei'ikara* all along.
+
+It is worth noting that the *Gemara's* argument could be pushed even further: one might contend that there is simply no concept of *dichuy bi-mitzvot* at all. What the *Gemara* is saying is: even granting that such a concept exists, at minimum we see that *dichuy mei'ikara* presents no obstacle. The broader question of whether *dichuy* applies at all remains in suspension. A related but distinct question — whether the relevant concept for *kodshim* is *dichuy* or *hutra*, i.e., whether a prohibition is merely pushed aside or fully released — is a different inquiry entirely; the *dichuy* discussed here is not about overriding a prohibition but about the stigma that attaches to a *mitzvah* object that was rejected.
+
+## Picking Berries Issue
+
+### Prohibition Stated
+
+The *Gemara* now turns to the reason underlying the prohibition itself. A *baraita* states: *ein mematin be-Yom Tov* — one may not reduce the berries on *Yom Tov*. Yet *mishum Rabbi Elazar berabi Shimon amru mematin* — in the name of Rabbi Elazar bar Rabbi Shimon, it is taught that one may remove them. The *Gemara* challenges: is one not thereby performing *tikkun mana* on *Yom Tov*, actively fixing an object into a state of ritual fitness? Rav Ashi answers: the case in question is one where one picks the berries in order to eat them — *kegon she-liktan le-achilah*. The intent is culinary, not to repair the *hadas*.
+
+### Psik Reisha Concept
+
+The *Gemara* then explains the underlying rationale for Rabbi Elazar bar Rabbi Shimon's leniency: he follows his father Rabbi Shimon's ruling that *davar she-eino mitkaven mutar* — an act performed without intent to produce a prohibited consequence is permitted. One is eating the berries; one is not intending to render the *hadas* fit for the *lulav*.
+
+The *Gemara* immediately raises the objection articulated by Abaye and Rava: *modeh Rabbi Shimon bi-psik reisha ve-lo yamut* — even Rabbi Shimon concedes that the principle of *ein mitkaven* does not apply in a case of *psik reisha*, the proverbial "cut off its head and will it not die?" When a prohibited consequence is absolutely certain — not merely possible — one cannot disclaim intent. The classic illustration is dragging a bench across soft ground: if one genuinely cannot predict whether a furrow will be formed, one may invoke *ein mitkaven*. But if the ground is so soft and the bench so heavy that a furrow is inevitable, the consequence cannot be treated as unintended. Applied here: once the berries are removed, the *hadas* is necessarily rendered fit — assuming nothing else is wrong with it. That being the case, the fixing is a *psik reisha* and cannot be waved away as unintended.
+
+### Rashi Explanation
+
+The *Gemara* resolves this by saying: *de-it leih hoshanah achriti* — the person already has another *hadas*. Rashi and Tosafot disagree sharply on what this fact changes.
+
+According to Rashi, the answer is straightforward. The question of whether one has "fixed" the *hadas* is not purely a matter of objective physical reality but of contextual significance. When one already has a complete and ready *lulav* bundle — with *hadas* and *aravah* already assembled — and is picking berries from a different *hadas*, that other *hadas* is simply not being perceived or experienced as a *mitzvah* object requiring repair. It is like plucking grapes from a cluster. In a context where no one is treating this *hadas* as something to be fixed, the act of removing its berries does not constitute the "fixing" of a ritual object. The transformation from "disqualified *hadas*" to "qualified *hadas*" only registers as a meaningful act of *tikkun* when there is a need for it to serve in that capacity. According to several *rishonim*, including the Rambam, even intentional removal of the berries does not constitute a biblical *melacha*, since the concept of qualifying a *hadas* for *lulav* is too amorphous to constitute *maka b'patish* or *boneh*. Given that the act is at most of rabbinic concern, and given that in this context the person did not need or perceive it as a repair, it is as though nothing of substance was done.
+
+### Tosafot Explanation
+
+Tosafot offers a different and far-reaching explanation. Tosafot invokes the principle of *psik reisha delo nicha lei*: yes, it was a necessary consequence — we do not dispute that the *hadas* became fit — but it was a consequence the person had no interest in whatsoever, since he already had another *hadas*. Since the outcome was both undesired and irrelevant to him, it cannot be attributed to him as an intentional act. Tosafot goes further and compares this to *melacha she'eina tzricha legufa*: the act was performed, but not for the inherent purpose of that prohibited act, and therefore it cannot be fully tagged as his doing.
+
+The distinction between Rashi and Tosafot here is significant. For Rashi, the case is local: in this particular context, with another *hadas* already available, the act objectively did not constitute a meaningful *tikkun*. For Tosafot, the case illustrates a general halachic category — *psik reisha delo nicha lei* — applicable wherever a *psik reisha* produces a result the actor genuinely has no interest in. Tosafot's principle became a dominant and widely accepted category in the laws of *Shabbat* and *Yom Tov*, though it should be noted that the *Gemara* itself never states it explicitly; it is derived by Tosafot and other *rishonim* from cases such as this one.
+
+One might ask: what about the analogous case of dragging the bench — if one is completely indifferent to whether a furrow forms, is that *psik reisha delo nicha lei*? According to Tosafot's position, the answer is yes. The *rishonim* do not distinguish between *lo nicha lei* — actively not wanting the result — and *lo ichpat lei* — simple indifference. Either way, if the consequence is genuinely of no concern to the actor, it falls within this more lenient category.
+
+## Lulav Knot on Yom Tov
+
+### Vegetable Bundle Tying
+
+The *Gemara* now cites a *baraita* addressing a practical problem: *hutar agdo be-Yom Tov ogdo ke-agudah shel yerek* — if the knot of the *lulav* bundle comes undone on *Yom Tov*, one reties it in the manner of a vegetable bundle, meaning one simply wraps the binding around and tucks it in, without making a formal knot. This is because making a proper knot on *Yom Tov* is prohibited.
+
+### Rabbi Yehuda Knot Req.
+
+The *Gemara* asks: *Ha mani* — whose view does this represent? Why should one be limited to the wrap-and-tuck approach? Why not make a proper *aniva*, a bow knot? The *Gemara* answers: *Rabbi Yehuda hi de'amar aniva keshira ma'alya hi* — the *baraita* follows Rabbi Yehuda, who holds in another context that a bow knot constitutes a fully prohibited knot for purposes of *Shabbat* and *Yom Tov*. Accordingly, even a bow knot would be forbidden.
+
+But there is a further layer to Rabbi Yehuda's position. Rabbi Yehuda holds *lulav tzarich eged* — the *lulav* requires a formal binding. For him, the *mitzvah* demands a real, halachically recognized knot. Since such a knot cannot be made on *Yom Tov*, a *lulav* whose binding has come undone on *Yom Tov* simply cannot be corrected according to Rabbi Yehuda. The *Gemara* concludes that the *baraita* reflects a *tanna* who agrees with Rabbi Yehuda in one respect — that a bow knot on *Yom Tov* is prohibited — but disagrees in another: this *tanna* holds that one is *yotzei* with a *lulav* even without a formal binding. Therefore, while the *lulav* is technically valid even without the knot, if one wants to retie it on *Yom Tov*, the most one may do is the vegetable-bundle style wrap.
+
+### Rashi on Real Knot
+
+Rashi offers an important comment here. On the word *alei*, Rashi states: *be-lulav de-ein tzarich eged* — a *lulav* does not require binding, which is why a mere tucking-in suffices, since *bedi'avad* one is *yotzei* even without any knot. Rashi then draws a further inference: *shema mina de-be'inan be-lulav kesher gamur she-yikshor shenei rashei ha-eged* — we learn from here that the knot demanded for the *lulav* must be a complete, formal knot, meaning one ties both ends of the binding. *Ve-ogdan ke-agudah shel yerek, lav eged hu* — merely wrapping it in the vegetable-bundle fashion does not constitute a proper *eged* according to Rabbi Yehuda.
+
+Rashi then adds a crucial clarification: *afilu Rabbanan de-paligi alei de-Rabbi Yehuda ve-amrei lulav she-eino agud kasher, modu de-mitzvah le-ogdo* — even the Rabbis who rule that an unbound *lulav* is valid *bedi'avad*, would agree that it is a *mitzvah* to bind it properly, as derived from *zeh eli ve-anvehu*. *Ve-kayma lan ke-Rabbanan.* The halacha follows the Rabbis.
+
+This is a critical point. When the *Gemara* says the Rabbis concede that binding is a *mitzvah* on account of *zeh eli ve-anvehu*, is this merely an aesthetic preference, or does it mean that the *lechatchila* standard of the Rabbis demands the same quality of knot that Rabbi Yehuda requires as a matter of strict law? Rashi indicates clearly: the *lechatchila* requirement for the Rabbis is a full, halachically recognized knot — a double knot — not a mere bow knot or tuck.
+
+### Modern Practices
+
+This leads to a practical question about the accordion-style holders commonly used today. The question is whether such a holder constitutes a proper *eged* according to this analysis. Either one does not require a double knot for the Rabbis' *lechatchila*, or one holds that any form of permanent securing — even without a classic double knot — would satisfy the requirement, potentially even according to Rabbi Yehuda. A preferable approach, consistent with Rashi's position, is to use actual strips — for instance, a *lulav* leaf split into thin strips, which have excellent tensile strength — and tie genuine double knots at multiple points along the bundle. Such an approach satisfies the *lechatchila* requirement of the Rabbis as Rashi understands it and likely Rabbi Yehuda's requirement as well, while also producing a result that is aesthetically unified and natural-looking. It also happens to be the practice of *Minhag Chabad*.
+
+A related question concerns the slipknot rings often placed on the *lulav* itself. Those are used to bundle the *lulav* leaves prior to combining with the other *minim*. The halacha of *eged* applies specifically to binding the *lulav* together with the other *minim*; there is no *eged* requirement for the *lulav* itself considered in isolation. Accordingly, those rings are halachically unproblematic for that purpose, though one may prefer the consistency of the strip-binding method throughout.
+
+## Aravah vs Tzaftzafah
+
+### Aravah Disqualifications
+
+The *mishnah* now turns to the *aravah*: *aravah gezulah ve-yaveshah pesulah* — a stolen or dried-out *aravah* is invalid. *Shel ashera ve-shel ir ha-nidachas pesulah* — one from a tree worshiped as an idol or from a condemned city is invalid. *Niktam rosho, nifretzu alav* — if its top is cut off or its leaves have fallen off, it is invalid. *Tzaftzafah* — a certain species of willow-like plant — is similarly invalid. On the other hand, *kemusheh* — a wilted *aravah* — or one from which some leaves have fallen, or one that grows in an unirrigated field (*shel ba'al*), is *kesheirah*.
+
+Rashi, commenting on the phrase *aravah gezulah ve-yaveshah pesulah*, notes: *lulav d'lachem akula hu kai* — the requirement of *lachem*, derived from the verse *u-lekachtem lachem*, applies not only to the *lulav* and *esrog* but to the *hadas* and *aravah* as well. This observation is somewhat surprising given that the same comment could have been made earlier in the chapter by the *hadas*. More significantly, Rashi's formulation here frames the disqualification of a stolen *aravah* entirely in terms of ownership, setting aside the separate concept of *mitzvah haba'ah ba'aveirah*.
+
+### Arvei Nachal Defined
+
+The *Gemara* cites a *baraita*: *arvei nachal ha-gedelim al ha-nachal* — the willows of the river are those that grow by the river, and *davar acher: arvei nachal she-aleh shelahen mashuch k'nachal* — another characterization: their leaves are elongated like a river. This second description will prove important in distinguishing the valid *aravah* from the invalid *tzaftzafah*, which has rounded rather than elongated leaves.
+
+### Arvei Nachal Anywhere
+
+A second *baraita* addresses the geographic requirement: *arvei nachal — ein li ela arvei nachal* — one might think only those that literally grow by the river qualify. But what of those that grow in a field, surviving on rainfall, or on the mountains? *Talmud lomar arvei nachal mikol makom* — the plural form *arvei* serves to include all specimens of the species wherever they grow. The Rashash adds a lovely observation: the word *nachal* carries two meanings — wadi and river — and accordingly the *baraita* contrasts two distinct cases: growing in a field (not by a river) and growing in the mountains (not in a wadi). Neither geographic restriction applies. What matters is the species, not the location of growth.
+
+This raises a question: given that the Torah says *arvei nachal*, is there a *lechatchila* preference for willows that actually grow by the river? Rashi, in his first comment on the *Gemara*, states *mitzvah be-zo* — there is indeed a *lechatchila* consideration to obtain willows that grow by the river, though the absence of this quality does not invalidate.
+
+The *baraita* continues. At the top of 34a, Abba Shaul derives from the plural *arvei* a different teaching: *achas le-lulav ve-achas le-mikdash* — one *aravah* for the *lulav* and one for the Temple. This is his basis for the existence of two distinct *mitzvot* of *aravah*: the *aravah* that is part of the *lulav* bundle, and the separate Temple *aravah* performed by circling the altar, which we will encounter later in the tractate. The Rabbis, who would derive the number two from the plural *arvei* differently, ask regarding the Temple *aravah*: *l'mikdash minalan* — from where do they derive it? The answer: *hilkheta gemiri lah* — it is a received tradition, a *halakha le-Moshe mi-Sinai*.
+
+This is articulated by Rabbi Ami in the name of Rabbi Yochanan: *asara netiyot, aravah, ve-nisukh ha-mayim — halakha le-Moshe mi-Sinai* — three practices are *halakha le-Moshe mi-Sinai*: the law of the ten saplings in a *shemitta* field, the Temple *aravah*, and the water libation. Rashi suggests that these three were simply taught together in the *beit midrash* at the same time. But there is likely a deeper connection: all three relate to water. The *aravah* grows by water, the water libation involves water directly, and the law of the ten saplings concerns irrigation and the working of the land in relation to the *shemitta* year.
+
+Tosafot raises a pointed question. Tosafot asks: according to Abba Shaul, who uses the double form *arvei* to derive two *mitzvot* of *aravah* — one for the *lulav* and one for the Temple — how does he know that a *shel harim*, a mountain-grown *aravah*, is still valid for the *lulav*? He lacks the plural derivation to include it. Tosafot suggests that perhaps for Abba Shaul, only willows that literally grow by the river are valid. Tosafot then considers whether this might apply to us as well, since later the *Gemara* will derive the requirement of *two aravos* from the plural *arvei*. If we use that plural to teach the number two, perhaps we cannot simultaneously use it to include non-riverbank willows. Tosafot concludes that it would then be required *lechatchila* to use only willows that grow by the river. This is not the accepted practice — it would constitute an unusual *chumra* — but the derivational problem Tosafot identifies is real.
+
+### Tzaftzafah Verse
+
+Returning to the *baraita*: *arvei nachal ha-gedelot al ha-nachal — prat le-tzaftzafah ha-gedeilah bein he-harim* — this excludes the *tzaftzafah* species, which fundamentally grows in the mountains. The point is not about where a particular specimen happens to grow, but about the identity of the species itself. The *tzaftzafah* is a different kind of plant whose natural habitat is the mountains rather than the riverbank, and it does not qualify as *arvei nachal* regardless of where it actually grows.
+
+Rabbi Zeira asks: *mai kra* — is there a verse that establishes the *tzaftzafah*'s inferior status? He cites: *kach al mayim rabbim tzaftzafah samo* — it had been taken upon many waters, yet it was made into a *tzaftzafah*. This verse, which appears in a context of rebuke directed at Israel, describes something that used to stand by great waters and has now become a *tzaftzafah*, implying that the *tzaftzafah* is a lesser plant — specifically, one that does not grow by the waters.
+
+Abaye challenges: *ve-dilma perushei kamfaresh* — perhaps the verse is simply identifying the term, meaning: that which grows on many waters, what is it called? A *tzaftzafah*. Maybe it is not a diminished plant at all. Rabbi Zeira responds: *im kein mai samo* — if so, what does *samo* mean? The word implies transformation into something lesser: it *was* a noble riverbank plant and *became* a *tzaftzafah*. This establishes that the *tzaftzafah* is categorically distinct from and inferior to the *aravah*, and is not the species designated for the *mitzvah*.
+
+Rabbi Abbahu expounds the verse homiletically: *ani amarti she-yihyu Yisrael lefanai ke-kach al mayim rabbim* — God said the Jewish people should stand before Him like the species taken for the *mitzvah*, flourishing upon many waters. *Ve-hein samu atzman ke-tzaftzafah she-be-harim* — but they made themselves like the *tzaftzafah* of the mountains, pushing themselves outside the holy framework. A variant tradition embeds this verse directly in the *baraita* rather than having Rabbi Zeira cite it, with Rabbi Zeira then raising the objection against it and receiving the same resolution.
+
+### Physical Characteristics
+
+Having established that the *tzaftzafah* is an invalid species, the *Gemara* now provides the physical criteria by which valid and invalid specimens are distinguished. A *baraita* asks: *eizu aravah ve-eizu tzaftzafah* — which is the *aravah* and which the *tzaftzafah*?
+
+The *aravah* has three identifying features: *kanah shelah adom* — its twig is red; *aleh shelah mashoch* — its leaf is elongated; *u-piha chalak* — its leaf edge is smooth. The *tzaftzafah* is the opposite in all three respects: *kanah shelah lavan* — its twig is white; *aleh shelah agol* — its leaf is round; *u-piha domeh le-magal* — its leaf edge resembles a scythe, i.e., it is serrated.
+
+This raises an obvious question: what is the status of a specimen that has some but not all of the *aravah*'s characteristics? Tosafot addresses this directly. Tosafot argues that since the *baraita* already stated the three positive signs of the *aravah*, it could have stopped there — anything lacking these three qualities would be invalid. The fact that the *baraita* then spells out the three negative signs of the *tzaftzafah* must be to teach a leniency: only if a specimen possesses all three negative characteristics is it disqualified. A specimen that has some of the negative features but not all may still be valid. This is a strikingly lenient reading, driven by the structural redundancy of the *baraita*.
+
+In practice, this is relevant because valid *aravos* are not always textbook specimens. The twig is not always red — some may have turned color — and the leaves vary considerably in shape across specimens.
+
+### Chilfah Gila Species
+
+The *Gemara* now presents a complication. A second *baraita* states: *domeh le-magal kasher* — a leaf resembling a scythe is valid; *domeh le-masar pasul* — a leaf resembling a saw is invalid. This appears to contradict the previous *baraita*, which listed scythe-like serration as one of the disqualifying characteristics of the *tzaftzafah*. 
+
+The distinction is between two types of serration. A saw (*masar*) has teeth that project symmetrically on both sides, cutting in both directions. A scythe (*magal*) has serrations that all angle in one direction, cutting only on one stroke. These are two different physical profiles and apparently two different halachic categories.
+
+Abaye resolves the apparent contradiction: *ki tanya hi be-chilfah gila* — the leniency in the second *baraita* refers specifically to a species called *chilfah gila*. Rashi explains: *chilfah gila min aravah kesheira hi, u-piha domeh le-magal, aval she'ar aravah piha chalak* — the *chilfah gila* is a species of valid *aravah* whose leaf edge happens to be scythe-like serrated; for all other *aravah* species, the edge must be smooth. This shows that the physical characteristics are not fully universal rules but species-specific markers, and there exist subspecies of valid *aravah* that display features which in other contexts would be disqualifying.
+
+Tosafot draws on this to reinforce the lenient ruling articulated above: the *chilfah gila* is presumably valid because, although it has serrated edges, its other two characteristics — twig color and leaf shape — are those of a valid *aravah*. It does not possess all three negative signs, and therefore it remains within the category of *arvei nachal*. This supports Tosafot's general reading that only the full combination of all three disqualifying features renders a specimen invalid.
+
+Abaye adds: *shema mina hai chilfah gila kashra le-hoshana* — we may infer from the fact that the *Gemara* had to identify this species by name that it is indeed a valid *aravah* for the *lulav* bundle. One might have thought that since it carries a descriptive qualifying name — *chilfah gila* rather than simply *aravah* — the *shem livai*, the attached designation, disqualifies it. The *Gemara* responds: *arvei nachal amar Rachmana mi-kol makom* — the Torah's plural *arvei nachal* serves to include all subspecies of the *aravah* family, provided they are genuinely within that family. The *tzaftzafah* is excluded not because of a *shem livai* but because it is fundamentally a different species that does not belong to the category that grows by the *nachal*. The *chilfah gila*, as a subspecies of genuine *aravah*, is fully included.
+
+One clarification regarding the *ba'al* reference in the *mishnah*: the term *shel ba'al* does not distinguish between irrigated and non-irrigated fields, but rather contrasts with growth specifically by the river. Whether a field is irrigated artificially or depends on rainfall is irrelevant; what matters is whether the plant is of the *aravah* species, not how it is watered.
+
+### Names Changed Post-Destr…
+
+Rav Chisda teaches: *hani telat milei ishtanu shemayehu mi-de-charav Beis HaMikdash* — the following three things had their names reversed from the time the Temple was destroyed. *Chilfasa aravsa, aravsa chilfasa* — what used to be called *aravsa* (the valid willow species) is now called *chilfasa*, and what used to be called *chilfasa* (the invalid species, comparable to *tzaftzafah*) is now called *aravsa*. The practical implication — *le-lulav* — is that if one wants to identify the kosher *aravah* species today, one should ask for what people call *chilfasa*, since the names have inverted.
+
+*Shipura chatzotzarta, chatzotzarta shipura* — what used to be called a *shofar* is now called a *chatzotzeret* (trumpet), and vice versa. The practical implication — *le-shofar shel Rosh HaShanah* — is that if one goes to purchase a *shofar* for Rosh HaShanah and uses the word *shofar*, one may be handed a trumpet. One must ask for a *chatzotzeret* to receive the proper instrument. Rashi clarifies that this is not about a metal instrument versus an animal horn; rather, the distinction is between a straight instrument and a bent one, and the *halakha* requires a bent *shofar* for Rosh HaShanah. This name reversal explains the formulation in the *She'iltos* — the Geonic work — which states that Jews are obligated to sound the *chatzotzarta* on Rosh HaShanah, reflecting the linguistic shift in which the word *chatzotzeret* had come to denote the *shofar*.
+
+*Patorta patora, patora patorta* — two different words for tables of different sizes had their names exchanged. The practical implication — *le-mekach u-memkar* — is for commercial transactions: one must know which word refers to which size in order to specify correctly what one is buying or selling.
+
+Abaye adds to this list: *beis kasei hovleila, hovleila beis kasei* — the names of two internal organs of an animal were reversed. The practical implication — *le-machat ha-nimtzeis be-ovi beis ha-kosos* — concerns the halachic status of a needle found within the walls of one of these organs, a question that will receive full treatment in tractate Chullin.
+
+Rava bar Yosef further adds: *Bavel Borsif, Borsif Bavel* — what used to be called Bavel is now called Borsif, and vice versa. The practical implication — *le-gitei nashim* — concerns the *Gemara* in Gittin that exempts a *shaliach* bringing a *get* from Bavel from the requirement to declare *bifnai nichtav u-bifnai nechtam*. This exemption applies to the area that used to be called Bavel, which is now referred to as Borsif. As both Rashi and Tosafot note, the *nafka mina* cannot be about what one writes in the *get*, since countries are not specified in a *get*, only cities. The relevance is strictly to which geographic area benefits from the Bavel exemption in Gittin.
+
+## Species Quantities
+
+### R. Yishmael Quantities
+
+The *mishnah* now turns to the number of each species required for the *lulav* bundle. Rabbi Yishmael says: three *hadassim*, two *aravos*, one *lulav*, and one *esrog* — precisely the practice observed today. He adds, however, that even two of the three *hadassim* may be *ketumim*, i.e., with their tops cut off, provided one is intact.
+
+### R. Tarfon Position
+
+Rabbi Tarfon says: *afilu sheloshtam ketumim* — all three *hadassim* may have their tops cut off. This is a notable leniency, and it raises an immediate question: why is the issue of *katum* apparently exclusive to *hadas*? Why is there a separate halachic treatment of whether the head may be cut for *hadas* but not for *aravah*? Rashi explains: *delo ba'ei hadar be-hadas* — Rabbi Tarfon holds that *hadar* is not required for the *hadas*. Yet this is puzzling. If *hadar* applies to *lulav* and *aravah*, why should *hadas* be uniquely exempt? One might argue that a *hadas katum* does not aesthetically undermine the *hadar* quality to the same degree as a *lulav* or *aravah* with its head cut off. But Rashi's formulation — that *hadar* is not required in principle for *hadas* — remains difficult to fully account for.
+
+### R. Akiva One Each
+
+Rabbi Akiva says: *keshem she-lulav echad ve-esrog echad kach hadas echad ve-aravah achas* — just as there is one *lulav* and one *esrog*, so too one *hadas* and one *aravah*. This position stands in striking contrast to Rabbi Yishmael's, who derives three *hadassim* from the three words in *anaf etz avos* and two *aravos* from the plural *arvei*. It is worth noting in this context a remarkable *midrash* associated with Rabbi Akiva, in which he describes each of the *arba'ah minim* as corresponding to the Holy One Blessed be He — *lulav zeh HaKadosh Baruch Hu, esrog zeh HaKadosh Baruch Hu, hadas zeh HaKadosh Baruch Hu* — evoking a profound kabbalistic sensibility in which the four species represent different aspects of the divine being united in the act of *lulav*. The simplicity of Rabbi Akiva's numerical position — one of each, corresponding to the oneness of the divine — may not be coincidental.
+
+### Etrog Binding
+
+The *mishnah* in the *baraita* also records the view of Rabbi Eliezer, who asks: *yehi esrog imahem ba-agudah achas* — should the *esrog* perhaps be bound together with the *lulav*, *hadas*, and *aravah* in a single bundle? The response is: the verse does not connect *peri etz hadar* to *kapos temarim* with a *vav*. The conjunction *vav* appears between *kapos temarim ve-anaf etz avos ve-arvei nachal* — linking *lulav*, *hadas*, and *aravah* into one grouped unit — but *peri etz hadar* stands apart, without a connecting *vav*. This teaches that the *esrog* is held separately, not bound into the same bundle as the other three.
+
+### Taking All Together
+
+The *baraita* then asks: *u-minayin she-me'akvin zeh et zeh* — how do we know that all four species are mutually indispensable, such that lacking any one of them renders one not *yotzei*? The answer is derived from the word *u-lekachtem*: *she-tehei lekichah tamah* — the taking must be complete. One must take all four species; one cannot be *yotzei* with fewer. It is worth noting that while the taking may be sequential — picking up the *lulav*, then the *hadas*, then the *aravah*, then the *esrog* — the requirement of *u-lekachtem* means all four must ultimately be held. None can be omitted.
+
+## Hadassim Quantity Halacha
+
+### R. Yishmael Questioned
+
+The *Gemara* poses the challenge against Rabbi Yishmael's position. His ruling — that three *hadassim* are required, yet two may be *ketumim* — is internally inconsistent. *Ei shelemim ba'ei, benei nami kuleihu* — if whole *hadassim* are required, all three should be required to be whole. *Ei lo ba'ei shelemim, afilu chad nami lo* — if whole ones are not required, then even one intact *hadas* should be unnecessary. Rabbi Yishmael's position that two may be cut but one must be whole seems to lack a coherent rationale.
+
+### R. Yishmael Reversal
+
+The *Gemara* resolves this: *chazar bo Rabbi Yishmael* — Rabbi Yishmael reversed his position. Rashi explains: he reversed himself from the requirement of three, ultimately conceding that *bedi'avad* one *hadas* suffices. It is this underlying position — that really only one *hadas* is strictly necessary — that explains why two may be *ketumim* even while one must be intact. Still, one must admit the resolution feels somewhat awkward; Rabbi Yishmael's original formulation does not obviously convey that one *hadas* is the core requirement and the other two are supplementary.
+
+### Halacha Like Tarfon
+
+Rav Yehuda said in the name of Shmuel: *halacha ke-Rabbi Tarfon* — the *halakha* follows Rabbi Tarfon, who permits all three *hadassim* to be *ketumim*. This is a striking ruling, and it amplifies the difficulty noted above: if all three may have their tops cut off, what does this mean for the requirement of *hadar* vis-à-vis the *hadas*? The question of why the *hadas* alone is treated differently in this regard — whether because *hadar* does not apply, or because *katum* does not undermine *hadar* in this context — remains significant.
+
+### Shmuel Market Threat
+
+The *Gemara* adds: *va-azda Shmuel le-ta'amei* — Shmuel acted consistently with this ruling in practice. He issued a warning to the *hadas* merchants: *azlu ve-zabinu* — go and sell at reasonable prices, *ve-i lo, darshina lechem ke-Rabbi Tarfon* — and if you do not, I will publicly expound the position of Rabbi Tarfon, ruling that *hadassim* with cut tops are valid. Once people know they can fulfill the *mitzvah* with *ketumim*, the merchants would lose the premium they charged for intact specimens.
+
+### Why Tarfon Threatens
+
+The *Gemara* notes that this threat is more effective than it might first appear. One might ask: why threaten with Rabbi Tarfon and not with Rabbi Akiva, whose position is even more lenient — requiring only a single *hadas*? The answer: *telata ketumei shechichi, chad ve-lo katum lo shechich* — three *ketumim* are commonly available and easy to find, whereas a single perfectly intact specimen is actually harder to come by. Paradoxically, requiring three while permitting all to be *ketumim* makes the *mitzvah* far easier to fulfill than requiring only one but demanding it be intact. By invoking Rabbi Tarfon, Shmuel's threat would flood the market with easily obtainable *ketumim* and collapse demand for premium specimens — a more potent economic lever than citing Rabbi Akiva.
+
+Rashi clarifies: this also serves as evidence for why Shmuel genuinely ruled like Rabbi Tarfon and was not merely issuing an empty threat. Since Rabbi Tarfon's position turns out to be the more threatening one, the fact that Shmuel invoked it rather than Rabbi Akiva suggests he was working from his actual *psak*. Still, the deeper halachic puzzle remains: if we rule like Rabbi Tarfon that all three may be *ketumim*, what is the principled basis for treating *hadar* differently for *hadas* than for the other species? This question will bear further examination.

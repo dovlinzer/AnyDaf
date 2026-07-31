@@ -20,7 +20,7 @@ One might ask why the concept of *hekdesh b'ta'ut* applies to *nezirut* at all, 
 
 There is also the question of whether *Beit Shammai*'s logic would extend even to a genuine *tnai* about the future — where you truly do not know what will happen — as opposed to a *ta'ut*, where you mistakenly assumed you knew the present reality. This may depend on how one reads the earlier *mishna* about the black and white cow.
 
-### Beit Hillel: Conditional…
+### Beit Hillel: Met
 
 *Beit Hillel* rules *eino nazir ela mi she-lo nitkaymu devarav* — the only one who is a *nazir* is the one whose condition was not met. The *gemara* will address the obvious anomaly in this formulation; the intended meaning is that only those whose conditions were met become *nezirim*. In short, *Beit Hillel* applies the ordinary logic of conditional vows: you become a *nazir* when and only when your stated condition is fulfilled.
 
@@ -28,7 +28,7 @@ There is also the question of whether *Beit Shammai*'s logic would extend even t
 
 *Rabbi Tarfon* takes the opposite extreme from *Beit Shammai*: *ein echad mehem nazir* — none of them is a *nazir*.
 
-### Lo Nitna Nezirut Princip…
+### Lo Nitna Leshiur
 
 The *gemara* explains that *Rabbi Tarfon* holds the principle of *lo nitna nezirut ela l'hafla'ah*, derived from the verse *ish o isha ki yafli lindor neder nazir* — *nezirut* must be enunciated in a clear, unambiguous, black-and-white manner. Any element of stipulation or doubt at the moment of declaration undermines the foundational requirement. This would seem to imply that even a *tnai* about the future would be insufficient for *nezirut* according to *Rabbi Tarfon*, since the declaration must be fully resolved at the time it is made.
 
@@ -44,7 +44,7 @@ One can understand *Rabbi Tarfon*'s position as reflecting the gravity of *nezir
 
 The *mishna* then introduces a complication: *hirtiah leachorav* — the stranger turned back and went away before anyone could determine his identity.
 
-### Beit Hillel: Condition U…
+### Beit Hillel: Nazir Cond.
 
 For *Beit Shammai* and *Rabbi Tarfon*, this development changes nothing — their positions are not contingent on whether the condition was ultimately verifiable. The discussion that follows concerns *Beit Hillel*'s position. According to *Beit Hillel*, since there is no way to determine whether the condition was met, the *tanna kamma* holds that no one becomes a *nazir*.
 
@@ -52,7 +52,7 @@ For *Beit Shammai* and *Rabbi Tarfon*, this development changes nothing — thei
 
 This conclusion might seem surprising: surely each person should be a *safek nazir*, a doubtful *nazir*. Indeed, that is precisely what *Rabbi Shimon* says.
 
-### Rabbi Shimon's Dual Acce…
+### Shimon: Dual Nezirut
 
 *Rabbi Shimon* rules that everyone becomes a *safek nazir*, and he prescribes a specific formulation to resolve the legal difficulty. Each person must declare: *im haya kidvarai harei ni nazir chova* — if my condition was indeed met, then I am obligated in *nezirut* by virtue of my original declaration; *veim lav, harei ni nazir nedava* — and if my condition was not met and I am therefore not a *nazir* by that vow, I now accept *nezirut* upon myself as a voluntary gift. This two-pronged acceptance ensures that one way or another, the person is a genuine *nazir* and is not trapped in the impossible status of *safek nazir*, which would require observing all the stringencies of *nezirut* with no mechanism to conclude it through a *korban*.
 
@@ -72,7 +72,7 @@ The *gemara* homes in on *Beit Hillel*'s formulation: *eino nazir ela mi she-lo 
 
 *Abaye*, at the top of 33b, offers an alternative reading that preserves the *mishna*'s text. The case, he says, concerns a person who reversed himself *toch kedei dibbur* — within the unit of speech. For example, a person said "I will be a *nazir* if this man is Reuven — actually, if he is *not* Reuven." He rescinded and reversed his initial condition within the same utterance.
 
-### Earlier vs. Later Statem…
+### Earlier vs Later Stmts
 
 On this reading, *lo nitkaymu devarav* — "his conditions were not fulfilled" — refers specifically to his *earlier* statement, *devarav harishonim*, even though his *later* statement, *devarav ha'acharonim*, was fulfilled. The *mishna* is saying: the person whose first condition was not met but whose second condition was, that person is a *nazir*. This is admittedly a strange way to transmit the ruling — requiring the reader to understand that *lo nitkaymu devarav* means only the first part of a self-contradicting utterance — but it is what the *mishna* requires on this interpretation.
 

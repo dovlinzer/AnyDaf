@@ -64,7 +64,7 @@ A conceptual question underlies this discussion. One might frame it as follows: 
 
 ---
 
-## Seller Intent Contex (II)
+## Seller Intent Context
 
 ### Money-Raising Test
 

@@ -8,7 +8,7 @@ We pick up at the bottom of 7a, where the *Gemara* has just concluded a discussi
 
 The first teaching: *kol dayan shedan din emes l'amito, mashre Shechina b'Yisrael* — any judge who renders true judgment, truth to its truth, causes the *Shechina* to dwell among Israel. This is not the earlier question of choosing between *din* and compromise; we are now operating squarely within the framework of justice and asking what it means to do it correctly. The double language — *emes l'amito*, truth to its truth — is striking. It calls to mind the *Yerushalmi*'s discussion of how authentic truth encompasses not only the result but the process by which it is reached. When justice is genuinely done, the verse confirms: *Elokim nitzav ba'adas E-l, bekerev elokim yishpot* — God stands in the congregation of God; in the presence of God they judge. The divine presence rests on earth precisely when justice is being enacted.
 
-### Perversion Removes Shech…
+### Judge Perverts Justice
 
 The converse follows immediately. Any judge who does not render *din emes l'amito* causes the *Shechina* to withdraw from Israel — *gorem l'Shechina shetistalek miYisrael*. The prooftext is: *mishod aniyim me'ankat evyonim, ata akum yomar Hashem* — from the despoiling of the poor and the outcry of the needy, now I will rise up, says God. The word "rise up" here carries a double valence: God rises to take vengeance, but also, as it were, withdraws His presence. This verse speaks to the judge who perhaps ignores injustice being done, or who recuses himself to avoid trouble with the powerful, thereby abandoning the outcry of the poor.
 
@@ -138,7 +138,7 @@ Rashi and Tosafot differ on what *tehei zariz* demands. Rashi: *tehei zariz al h
 
 ---
 
-## Procedural Safeguard (II)
+## Procedural Safeguards
 
 ### Both Parties Present
 
@@ -164,7 +164,7 @@ Rabbi Eliezer reads the verse differently: *lo tinakruhu* — do not make him a 
 
 ## Procedural Safeguard (II)
 
-### Innkeeper Disqualificati…
+### Innkeeper & Judge
 
 The *Gemara* illustrates with a story. The innkeeper where Rav was staying came before Rav to bring a legal matter. The innkeeper, seeing Rav, said: *lav ushpizichna at* — are you not my tenant? Rav responded: yes, I am. The innkeeper then said he had a case to bring. Rav replied: *psilina lach l'dina* — you have disqualified me from judging your case.
 

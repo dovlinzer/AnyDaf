@@ -2,7 +2,7 @@
 
 ## Property vs. Status
 
-### Ownership vs. Relationsh…
+### Ownership vs. Servitude
 
 The sugya on the bottom of 39b opens by probing a fundamental conceptual tension: can one separate the monetary dimension of slave ownership — the proprietary claim a master holds over his slave as chattel — from the personal-status dimension of the master-slave relationship? This question, as we shall see, ramifies across an entire series of cases and disputes.
 

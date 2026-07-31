@@ -1,4 +1,5 @@
 # Sotah 21 — Daf Yomi Shiur
+[DAF:21a]
 
 ## Merit Forestall Puni (II)
 
@@ -230,6 +231,7 @@ One might observe that this preference — for the husband's presence over mater
 
 ## Four Destroyers
 
+[DAF:21b]
 ### Chasid Shoteh
 
 > **Hebrew/Aramaic:** הוּא הָיָה אוֹמֵר: חָסִיד שׁוֹטֶה כּוּ׳. הֵיכִי דָּמֵי חָסִיד שׁוֹטֶה? כְּגוֹן דְּקָא טָבְעָה אִיתְּתָא בְּנַהֲרָא, וְאָמַר: לָאו אוֹרַח אַרְעָא לְאִיסְתַּכּוֹלֵי בַּהּ וְאַצּוֹלַהּ.

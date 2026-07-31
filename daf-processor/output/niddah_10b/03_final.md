@@ -1,4 +1,5 @@
 # Niddah 10b — Daf Yomi Shiur
+[DAF:9b]
 
 ## Post-Menopause 90-Days
 
@@ -134,6 +135,7 @@ This mirrors the structure we saw for the post-menopausal woman: a single ninety
 
 ## Reboot Question
 
+[DAF:10a]
 ### Reboot Status
 
 > **Hebrew/Aramaic:** הֲדַר קָחָזְיָא בְּעוֹנוֹת, מַאי? אָמַר רַב גִּידֵּל אָמַר רַב: פַּעַם רִאשׁוֹנָה וּשְׁנִיָּה — דַּיָּהּ שְׁעָתָהּ, שְׁלִישִׁית — מְטַמְּאָה מֵעֵת לְעֵת וּמִפְּקִידָה לִפְקִידָה.
@@ -228,6 +230,7 @@ Rabbi Yochanan disagrees and rules the stain is *tahor*. His reasoning follows *
 
 This is a striking position. Chizkiyah's reasoning has a clean logic: if the consequence of a sighting would be retroactive concern, the same potential should be imputed to a stain. Rabbi Yochanan, however, insists on a more formal threshold: only once a sighting has actually been treated as part of an established pattern can we extend that status to *ketamim*.
 
+[DAF:10b]
 ### Virgin Comparison
 
 > **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַבִּי אִלְעַאי: וְכִי מָה בֵּין זוֹ לִבְתוּלָה שֶׁדָּמֶיהָ טְהוֹרִין? אֲמַר לֵיהּ רַבִּי זֵירָא: זוֹ שִׂירְפָהּ מָצוּי וְזוֹ אֵין שִׂירְפָהּ מָצוּי.

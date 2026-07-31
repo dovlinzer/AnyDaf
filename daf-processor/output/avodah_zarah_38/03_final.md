@@ -1,4 +1,5 @@
 # Avodah Zarah 38 — Daf Yomi Shiur
+[DAF:38a]
 
 ## Shlakot & Prooftext
 
@@ -188,6 +189,7 @@ The case of a Jew placing meat in a basket — *silta* — where it would not co
 
 *Itmar nami, amar Rabbah bar bar Chana amar Rabbi Yochanan* — and some say *amar Rav Acha bar bar Chana amar Rabbi Yochanan*: whether the non-Jew placed the food and the Jew turned it, or the Jew placed the food and the non-Jew turned it — *mutar* in both cases. It is forbidden only when both the beginning and the end of the cooking are in the hands of the non-Jew. This is the rule of *techilo v'gemaro*: full non-Jewish cooking from start to finish is forbidden; any meaningful Jewish participation at either end renders it permitted.
 
+[DAF:38b]
 ### Bread Combinations
 
 > **Hebrew/Aramaic:** אָמַר רָבִינָא, הִלְכְתָא: הָא רִיפְתָּא דִּשְׁגַר גּוֹי וַאֲפָה יִשְׂרָאֵל, אִי נָמֵי שְׁגַר יִשְׂרָאֵל וַאֲפָה גּוֹי, אִי נָמֵי שְׁגַר גּוֹי וַאֲפָה גּוֹי וַאֲתָא יִשְׂרָאֵל וְחַתִּה בַּהּ חַתּוֹיֵי — שַׁפִּיר דָּמֵי.

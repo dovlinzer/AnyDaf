@@ -1,4 +1,5 @@
 # Yoma 31 — Daf Yomi Shiur
+[DAF:31a]
 
 ## Mikvah Requirements
 
@@ -148,6 +149,7 @@ The process itself is described concisely: *pashat yarad v'taval* — he strippe
 
 After the first immersion, the *Kohen Gadol* dressed in the *bigdei zahav* and performed *kiddush yadayim v'raglayim*. It is notable that at this first stage the *Mishnah* mentions only one hand-washing — after dressing — and not one before the immersion. This requires explanation, because the total of ten washings must be accounted for across the five changes of garments. The key is that each of the ten washings relates to either putting on or taking off a set of *bigdei kodesh*, not to the *bigdei chol* at the outset. The five *mikvaot* fall between the transitions, and the washings bracket the *bigdei kodesh* before and after — but not the initial transition from weekday clothing. Working through the sequence — *chol*, *zahav*, *butz*, *zahav*, *butz*, *zahav*, then back to weekday garments at the end — the ten washings distribute across the five pairs of dressing and undressing in *kodesh* garments.
 
+[DAF:31b]
 ### Shechitah Division
 
 > **Hebrew/Aramaic:** נִכְנַס לְהַקְטִיר קְטוֹרֶת שֶׁל שַׁחַר, וּלְהֵיטִיב אֶת הַנֵּרוֹת, וּלְהַקְרִיב אֶת הָרֹאשׁ וְאֶת הָאֵבָרִים וְהַחֲבִיתִּין וְאֶת הַיַּיִן. קְטוֹרֶת שֶׁל שַׁחַר הָיְתָה קְרֵיבָה בֵּין דָּם לְאֵבָרִים, שֶׁל בֵּין הָעַרְבַּיִם בֵּין אֵיבָרִים לִנְסָכִים.

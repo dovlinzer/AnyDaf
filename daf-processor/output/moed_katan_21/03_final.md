@@ -1,4 +1,5 @@
 # Moed Katan 21 — Daf Yomi Shiur
+[DAF:21a]
 
 ## Seven Relatives
 
@@ -358,6 +359,7 @@ This last phrase is a form of *she'eilas shalom*, yet it was spoken during the f
 
 The case of Rabbi Akiva also illuminates what *she'eilas shalom* means. In Hebrew, *shalom* connotes not merely a greeting but *shleimut* — wholeness, completeness. To wish someone *shalom*, or to ask after their *shalom*, is to invoke a state of intactness that is simply not appropriate during *aveilus*. The *avel* is not in a state of *shleimut*; to ask after his *shalom* would be incongruous, and for him to wish it to others participates in a social register that is at odds with his condition. The distinction the *gemara* develops between "initiating" and "responding" — and between asking about one's own *shalom* versus another's — turns significantly on this semantic weight of the word *shalom*.
 
+[DAF:21b]
 ### Thirty Day Consolations
 
 > **Hebrew/Aramaic:** וּרְמִינְהוּ: הַמּוֹצֵא אֶת חֲבֵירוֹ אָבֵל, בְּתוֹךְ שְׁלֹשִׁים יוֹם — מְדַבֵּר עִמּוֹ תַּנְחוּמִין וְאֵינוֹ שׁוֹאֵל בִּשְׁלוֹמוֹ, לְאַחַר שְׁלֹשִׁים יוֹם — שׁוֹאֵל בִּשְׁלוֹמוֹ וְאֵינוֹ מְדַבֵּר עִמּוֹ תַּנְחוּמִין.

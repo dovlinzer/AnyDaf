@@ -20,7 +20,7 @@ The *baraita* cited involves a man who betroths a woman on condition that he bea
 
 Rav, however, declines to align himself simply with Rabbi Meir. He says: *ana d'amri afilu l'Rabbi Yehudah* — even according to Rabbi Yehudah, the condition would fail here. The reason is *d'yad'ah u'machlah*: in the *kiddushin* case, the woman knows precisely what she is entitled to and is knowingly relinquishing it. That is a genuine, informed *mechilah*. But here, *mi yada d'machil?* — the buyer does not know the extent of any overcharge. He might assume the seller is taking five dollars more than the going rate; in reality, the seller might be gouging him by thousands. Without full knowledge of what right is being waived, there can be no valid waiver. The language of *mochel* is thus critical: Rav frames the issue not as whether Torah law can be contracted away, but whether a genuine *mechilah* has actually occurred — and a *mechilah* requires awareness of what one is giving up.
 
-### Shmuel: Conditional Clai…
+### Shmuel: Conditional Claim
 
 Shmuel argues the mirror image. *Ana d'amri afilu l'Rabbi Meir* — even according to Rabbi Meir, the condition would be valid here. In the *kiddushin* case, the man is directly contravening a Torah obligation: the Torah commands him to provide *she'er* and *kesut*, and he is saying he will not. That is a head-on negation of a Torah duty, which is why Rabbi Meir invalidates it. But in the case of *ona'ah*, the seller is not saying "the Torah's prohibition does not apply." He is saying: if it turns out that I am overcharging you, you will not demand your remedy. That is not a direct confrontation with the Torah's mandate — it is a contingent arrangement that only becomes relevant if a particular circumstance materializes. So even Rabbi Meir might agree that such a condition is acceptable.
 
@@ -156,7 +156,7 @@ An additional Gemara observation notes that a *dinar* can in some cases originat
 
 ---
 
-## Disposal of Bad Coin (II)
+## Disposal of Bad Coins
 
 ### Anti-Fraud Rules
 

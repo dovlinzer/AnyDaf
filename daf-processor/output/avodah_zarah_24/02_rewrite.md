@@ -1,6 +1,6 @@
 # Avodah Zarah 24 — Daf Yomi Shiur
 
-## Rabbi Eliezer's Prohibit…
+## Eliezer's Animal Ban
 
 ### Intro & Dama Story
 
@@ -28,7 +28,7 @@ At this point the Gemara raises what is really the more fundamental question. A 
 
 The Gemara makes this explicit by quoting the *baraita* more fully. When the sages challenged Rabbi Eliezer — "But there was a case in which they purchased a *parah adumah* from a non-Jew named Dama!" — Rabbi Eliezer responded: *Yisrael hayu u'mishamrim otah mishe'noldah* — Jews were watching over it from the moment it was born, ensuring that no such act was ever performed upon it. This line is not addressing the verse issue at all; it is addressing the bestiality concern. And as Tosafot notes, Rabbi Eliezer's response here presupposes both issues simultaneously.
 
-### Tartei — Twin Concerns
+### Tartei - Twin Concerns
 
 The Gemara draws the explicit conclusion: *Rabbi Eliezer tartei it leh* — Rabbi Eliezer has two distinct concerns operating in parallel. The first is the textual restriction of *kichah* — the requirement derived from *veyikchu* that the formal acquisition be by *bnei Yisrael*. This concern is specific to the *parah adumah*. The second is *vi'yah* — the concern about acts of bestiality — and because of this concern, Rabbi Eliezer extends his prohibition to all sacrificial animals.
 
@@ -146,7 +146,7 @@ This position is then challenged by all the same verses that challenged Rabbi El
 
 ---
 
-## Philistine Cows Prob (II)
+## Philistine Cows Problem
 
 ### Offspring Evidence
 

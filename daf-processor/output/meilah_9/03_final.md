@@ -1,4 +1,5 @@
 # Meilah 9 — Daf Yomi Shiur
+[DAF:9a]
 
 ## Rav vs. R. Yochanan
 
@@ -26,6 +27,7 @@ The Mishnah continues: *ha'agabi mizbeiach yachazir* — if, however, the coal w
 
 The layout of the *mizbeiach* is relevant here. There was a large *ma'aracha gedola* — the main fire — along with a secondary fire (*ma'aracha sheniya*) for the *ketoret*, and a central pile of ashes. Rashi's approach to establishing that we are dealing with a situation after *terumas hadeshen* is somewhat complicated, and his reading depends on identifying the ash in question as coming from the central mound. This is because items actively turning to coal on the main fire would be obviously subject to *me'ilah*, as *terumas hadeshen* would not yet have been done. Rashi therefore establishes that we are dealing with a coal drawn from the central ashes — material over which *terumas hadeshen* has already been performed.
 
+[DAF:9b]
 ### Coal vs. Ash
 
 > **Hebrew/Aramaic:** תְּנַן: מוֹעֲלִין בָּהֶן עַד שֶׁתֵּצֵא לְבֵית הַדֶּשֶׁן, קַשְׁיָא לְרַב! אָמַר לְךָ רַב: עַד שֶׁתֵּרָאֶה לְבֵית הַדֶּשֶׁן.

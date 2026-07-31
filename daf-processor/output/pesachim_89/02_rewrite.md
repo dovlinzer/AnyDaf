@@ -128,7 +128,7 @@ The *gemara* asks: why can the *shamash* not demand that the group come to him? 
 
 ## Communal Eating
 
-### Baraita: Glutton Kicked…
+### Baraita: Five Separate
 
 A *baraita* now addresses both the *Pesach* case and an analogous case of communal eating. *Bnei chavurah she'yadav shel echad mehen yafot, reshayim lomar lo: tol chelkecha bekatzei* — the members of the group may tell a disproportionate eater to take his portion and leave.
 
@@ -166,7 +166,7 @@ Rav Huna then took his portion and *arav behadi Ravina* — joined together with
 
 ---
 
-## Pesach vs. Other Offerin…
+## Kinyan in Korbanos
 
 ### Pesach: Join Allowed
 

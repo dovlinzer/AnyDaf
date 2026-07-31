@@ -1,4 +1,5 @@
 # Berakhot 11b — Daf Yomi Shiur
+[DAF:11a]
 
 ## Review: Shema Positions
 
@@ -22,6 +23,7 @@ The session concluded with the times and positions for Shema and moved into the 
 
 The morning bracha is Yotzer Or Uvorei Choshech. The Gemara notes that this is a pasuk from Yeshayahu — Yotzer Or Uvorei Choshech — but the end of that pasuk in Yeshayahu reads Oseh Shalom Uvorei et HaRa, meaning God creates evil, which raises theological questions and was also intended to reject dualistic notions of divinity. Nevertheless, we euphemize, substituting Uvorei et HaKol. The word Choshech is retained in its literal sense because we want to mention both day and night: God creates both light and darkness, just as at night we say Golel Or Mipnei Choshech Vechoshech Mipnei Or — the first bracha of each tefillah mentions both the present time and its counterpart.
 
+[DAF:11b]
 ### Ahava Rabbah
 
 > **Hebrew/Aramaic:** גְּמָ׳ מַאי מְבָרֵךְ? אָמַר רַבִּי יַעֲקֹב אָמַר רַבִּי אוֹשַׁעְיָא: ״יוֹצֵר אוֹר וּבוֹרֵא חֹשֶׁךְ״.

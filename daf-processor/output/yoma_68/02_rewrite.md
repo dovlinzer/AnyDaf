@@ -46,7 +46,7 @@ A *baraita* is introduced: *lo hayu m'natchin nituach basar basar olah* — they
 
 ## Or V'basar B'yachad
 
-### Netzar Kan V'Nizchar L'h…
+### Netzar Kan: Head & Legs
 
 The *Gemara* asks: *minalan de-ha?* — what is the source for this rule? A *baraita* is cited in the name of Rebbe: *ne'emar kan or basar u-feresh* — it says here, in the context of Yom Kippur, that you burn them with their skin, their flesh, and their *peresh*, their excrement or undigested matter. *V'ne'emar l'hallan or u-vasar u-feresh* — and it says elsewhere, by the other cases of animals whose blood is brought inside the *Heichal*, such as the *par kohen gadol* and the *par he'elam davar* described in Vayikra 4, that their skin, flesh, and dung are taken outside and burned.
 
@@ -90,7 +90,7 @@ Given that we derive from the other cases that the burning is outside Yerushalay
 
 According to the *chachamim*, the burning takes place to the north of Yerushalayim, since the principle for any *chatat* is that it is associated with the north — the *chatat* is slaughtered on the north side of the *mizbe'ach*, and the north is the directional association for sin offerings generally.
 
-### Rabbi Shimon V'Parah Adu…
+### Shimon: Parah Adumah Link
 
 Rabbi Shimon, who holds that *tumah* begins only at the moment of actual burning, has no need for the single-camp language to teach the onset of *tumah*. He therefore uses it differently: *ne'emar kan michutz lamachaneh v'ne'emar l'hallan michutz lamachaneh* — it says here *michutz lamachaneh* and it says there, in Bamidbar, *michutz lamachaneh* by the *parah adumah*. This is the teaching of Rabbi Eliezer, which Rabbi Shimon accepts: just as the burning here is outside all three camps, so too the *parah adumah* is performed outside all three camps, outside Yerushalayim — specifically on *Har HaZeitim*, to the east. This is confirmed by the requirement that the blood of the *parah adumah* be sprinkled toward the opening of the *Heichal*, which means the officiant must stand east of *Har HaBayit*, looking westward.
 
@@ -126,7 +126,7 @@ The *Gemara* now turns to the detailed laws of who becomes *tamei* during the bu
 
 Who qualifies as the one who burns? *Zeh hamisayeya b'shas sreifah* — anyone who participates during the time of the burning. This formulation is precise: it is not about preparatory acts, but about involvement during the actual burning. One who is moving the carcass on the woodpile is clearly the *soreif*. What of one who adds a log to the fire while the carcass is burning? That too appears to constitute *misayeya b'shas sreifah* — participation during the burning — and would render that person *tamei*. The criterion is temporal and participatory: are you actively involved at the moment the burning is taking place?
 
-### Yachol Af Mishe'nasu Eif…
+### Impurity: Carcass to Ash
 
 One might have thought that if someone continues to tend the fire even after the carcass has become ashes, they too become *tamei*. The *Gemara* rejects this: *talmud lomar osam* — the verse says *osam*, referring to the animals themselves. The *tumah* applies when you burn *them*, when they still have their identity as a carcass. *Osam metamei begadim velo mishe'nasu eifer metamei begadim* — once they have become ashes they no longer exist as carcasses, and continued burning of the ashes does not render one *tamei*.
 
@@ -166,7 +166,7 @@ Abaye draws a halakhic inference from this: *shma mina Beis Chidudi bamidbar kay
 
 ## Ba Lo Kohen Gadol Likros
 
-### Ratza Likros B'vagdei Vu…
+### Kohen Gadol: Ratza Likros
 
 With the goat having reached the wilderness, the *Kohen Gadol* now proceeds to the next stage. The *mishna* states: *ba lo Kohen Gadol likros* — the *Kohen Gadol* came to read from the Torah. He has a choice regarding his garments: *im ratza likros bivgadei vutz korei* — if he wishes to read in his linen *bigdei kehunah*, the same garments he wore for the *avoda*, he may do so. *Ve-im lav, korei be-itztalit lavan mishelo* — if he prefers not to use those garments, he may wear his own white tunic instead, changing out of the priestly garments and then, when necessary, changing back. The question of *kiddush yadayim v'raglayim* in connection with this change of garments will be addressed in the following *mishna*.
 
@@ -192,7 +192,7 @@ After reading, the *Kohen Gadol* rolls the *Sefer Torah* closed, holds it agains
 
 After the reading, the *Kohen Gadol* recites eight *berachot*. These are: *al ha-Torah* — over the Torah, a blessing for the gift of Torah; *ve-al ha-avoda* — a blessing resembling *retzeh*, thanking God for the *avoda* he has just completed, closing with words like *ve-otcha levadcha b'yira na'avod*; *ve-al ha-hodaya* — thanksgiving, parallel to *modim*; *ve-al mechilat ha-avon* — for the forgiveness of sin, the central theme of Yom Kippur, closing as Rashi describes: *mocheil avonotenu b'yom hakippurim melech mocheil ve-solei'ach la-avonotenu vela-avonot amo beit Yisrael*; *ve-al ha-mikdash bifnei atzmo* — a blessing for the *Mikdash*, that God should continue to dwell there, closing *baruch she-bachar ba-mikdash*; *ve-al Yisrael bifnei atzman* — a blessing for the people of Israel; *ve-al Yerushalayim bifnei atzmo* — for Yerushalayim; and *ve-al ha-kohanim bifnei atzman* — a blessing specifically for the *kohanim*, which Rashi describes as closing *she-bachar be-zaro shel Aharon*. It is notable that the blessing for the *kohanim* follows the blessing for Yerushalayim rather than immediately following the blessing for Israel — a structural choice that perhaps reflects a view of the *kohanim* as associated primarily with the institution of the *Beis HaMikdash* rather than with the general community. Finally, *ve-al she'ar ha-tefilla* — for the remainder of the prayer, *binichuta*, which will be elaborated in subsequent discussion.
 
-### Derech Rechoka V'melacht…
+### Derech Rechoka Timing
 
 The *mishna* closes with a striking observation: *haro'eh Kohen Gadol kshehu korei eino ro'eh par v'sa'ir hanisrafim* — one who is present to witness the *Kohen Gadol* reading the Torah cannot simultaneously witness the burning of the *par* and *sa'ir*. And conversely, one who witnesses the burning cannot witness the Torah reading. *V'lo mipnei she'eino rashai* — this is not because one is forbidden to witness both; there is no prohibition. Rather, *ela she-hayeta derech rechoka* — they were simply far apart: one was occurring inside Yerushalayim on *Har HaBayit*, the other outside Yerushalayim entirely. *U-melachtan sheteihen ke'echad* — and both were happening simultaneously. It is simply impossible to be in two places at once.
 

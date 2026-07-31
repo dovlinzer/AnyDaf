@@ -1,4 +1,5 @@
 # Kiddushin 3 — Daf Yomi Shiur
+[DAF:2b]
 
 ## Kinyan vs. Bi'ah Models
 
@@ -82,6 +83,7 @@ The *Gemara* is therefore introducing, right at the outset of the *masechet*, se
 
 There is a related and important observation about the man's role as active party. One might have said: of course the man is the active one, because she is merely the object being purchased. But Rabbi Shimon's answer reframes this entirely. The man is the active one not because she is a passive object, but because he is the one who has lost something and must go searching. This moves the dynamic from domination to longing.
 
+[DAF:3a]
 ### Natural Operation
 
 > **Hebrew/Aramaic:** וְהָא דִּתְנַן: ״בְּשִׁבְעָה דְּרָכִים בּוֹדְקִין אֶת הַזָּב״, לִיתְנֵי ״דְּבָרִים״! הָתָם הָא קָא מַשְׁמַע לַן, דְּדַרְכָּא דְּמֵיכְלָא יַתִּירָא לְאֵתוֹיֵי לִידֵי זִיבָה, וְדַרְכָּא דְּמִישְׁתְּיָא יַתִּירָא לְאֵתוֹיֵי לִידֵי זִיבָה.
@@ -156,6 +158,7 @@ The *Gemara* immediately notes: *u-lerav Huna de'amar chuppah konah* — Rav Hun
 
 — *lema'utei chalipin*. It would exclude *chalipin*, exchange or barter, as a mode of *kiddushin*. The *hava amina* is serious: *salka deitach amina, ho'il u'gamar kikha kikha misdei Ephron* — since we derive *kiddushin* through a *gezeira shava* of *kicha kicha* from the acquisition of Ephron's field, we might have thought that all modes of acquisition that work for a field should work for a woman. Since *chalipin* works for acquiring a field, perhaps it should work for *kiddushin* as well. *Kamashma lan* — the *Mishnah* tells us no.
 
+[DAF:3b]
 ### Chalipin Perutah
 
 > **Hebrew/Aramaic:** וְאֵימָא הָכִי נָמֵי! חֲלִיפִין אִיתַנְהוּ בְּפָחוֹת מִשָּׁוֶה פְּרוּטָה, וְאִשָּׁה בְּפָחוֹת מִשָּׁוֶה פְּרוּטָה

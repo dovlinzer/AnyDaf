@@ -1,4 +1,5 @@
 # Sukkah 38 — Daf Yomi Shiur
+[DAF:38a]
 
 ## Waving (Tenufah)
 
@@ -202,6 +203,7 @@ Rashi understands the curse as arising from the display of ignorance: why must y
 
 If an adult male leads, the dynamic changes. *Im haya gadol mikra oto oneh acharav Hallelujah* — if an adult was reciting for you, you respond with *Hallelujah* after each phrase. The *chazzan* says *Hallelujah*, the congregation responds *Hallelujah*; he says *hallelu avdei Hashem*, they respond *Hallelujah*; he says *yehi shem Hashem mevorach*, they respond *Hallelujah*. And so on through the chapters. Depending on how the *mishnah* is read, this may have been the standard communal practice even for those who knew *hallel* — the *shliach tzibbur* recites and the *tzibbur* responds *Hallelujah* at each phrase — or it may describe only what those who do not know *hallel* should do when led by an obligated adult.
 
+[DAF:38b]
 ### Custom Variations
 
 > **Hebrew/Aramaic:** הִלְכְתָא גִּיבָּרָתָא אִיכָּא לְמִשְׁמַע מִמִּנְהֲגָא דְהַלֵּילָא. הוּא אוֹמֵר: ״הַלְלוּיָהּ״, וְהֵן אוֹמְרִים: ״הַלְלוּיָהּ״ — מִכָּאן שֶׁמִּצְוָה לַעֲנוֹת ״הַלְלוּיָהּ״.

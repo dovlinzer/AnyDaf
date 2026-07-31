@@ -10,7 +10,7 @@ We pick up on 119b, six lines down in the wide lines. The previous daf opened a 
 
 The famous *aggadata* of *Yosef Mokir Shabbat* — Yosef who honors Shabbat — was treated in detail on the previous daf. The story illustrates not only the reward for honoring Shabbat but the spiritual logic behind personal investment in its observance: when a person throws himself into the preparations with genuine enthusiasm, it reflects an internalized appreciation of Shabbat's sanctity that no mere delegation of tasks can replicate.
 
-## Fire & Shabbat Desecrati…
+## Fire & Sabbath Violation
 
 ### Fire & Chillul Shabbat
 
@@ -72,7 +72,7 @@ The *Gemara* then draws on an additional verse: *al tigu bi-meshichai u-vi-nvi'a
 
 ## School Children & Torah
 
-### Reish Lakish: Children's…
+### Reish Lakish: Child
 
 *Amar Reish Lakish mishum Rabbi Yehuda Nesi'ah* — Reish Lakish in the name of Rabbi Yehuda Nesi'ah, grandson of Rabbi Yehuda HaNasi: *ein olam miskayem ella bishvil hevel tinokot shel beit rabban* — the world only continues to exist by virtue of the breath of schoolchildren, the pure, innocent words of Torah emerging from their mouths.
 
@@ -94,7 +94,7 @@ The *Gemara* then draws on an additional verse: *al tigu bi-meshichai u-vi-nvi'a
 
 *Ve-amar Rava*: *lo charva Yerushalayim ella bishvil she-pasku mimena anshei emunah* — Jerusalem was destroyed because trustworthy people, people of integrity, ceased to dwell within it. This shifts the discussion from the realm of Torah and its study to a more general statement about basic moral character and faithfulness.
 
-### Jeremiah: One Honest Per…
+### Jeremiah: One Honest
 
 The verse cited is from Yirmiyahu: *shotetu be-chutzot Yerushalayim u-re'u na, u-de'u u-vakshu bi-rchovoteha, im timtze'u ish oseh mishpat, mevakesh emunah, ve-eslach lah* — roam through the streets of Jerusalem and look, seek in its public squares — can you find even one person who acts with justice, who seeks faithfulness? If so, I will forgive it. The implication is that no such person could be found, and therefore it was destroyed. This connects back thematically to earlier material in the *sugya* about *shomer emunim* — keeping faith — and the importance of trustworthiness as a foundational civic and spiritual virtue.
 
@@ -164,13 +164,13 @@ The *Tanna Kamma* permits going back and forth repeatedly: *ve-chozer ve-lovesh 
 
 *Rabbi Yose omer shmonah asar keilim* — Rabbi Yose limits this to eighteen standard garments. The *Gemara* enumerates them: a *miktron* (an outer cloak), an *onkli* (a cape), a *punda* (a type of belt), a *kalvuvus shel pishtan* (a linen outer garment), a *chaluk* (a shirt), an *apilyon* (a cape or covering), a *ma'aforet* (a head scarf), two *safarkim* (straps, perhaps for holding up clothing), two *minalim* (shoes), two *anpalyot* (socks), *veis pargad* (boots), a *chagor she-bemotnav* (a belt at the waist), a *kova she-berosho* (a hat), and a *sudar she-be-tzavaro* (a kerchief around the neck) — in sum, eighteen items corresponding to the standard garments typically worn in that era.
 
-### Save with Me vs. For You…
+### Save with Me vs. For You
 
 The *Gemara* notes an apparent asymmetry between the two loophole formulations in the *Mishnah*: by food, it says *bo'u ve-hatzilu lachem* — come and save for yourselves — while by clothing it says *bo'u ve-hatzilu imi* — come and save with me. The explanation is that by food, the homeowner is limited to three meals for himself, so in order for more to be saved, the food must actually become the property of others — hence *lachem*, for yourselves. By clothing, however, no such per-person limit applies to the homeowner: he may take out as many garments as he can carry on his body. Therefore, the clothing remains his, and he simply recruits others to assist him — *imi*, together with me.
 
 ## Fire Protection Methods
 
-### Fireproof Leather Coveri…
+### Fireproof Leather: Shimon
 
 The *Mishnah* now shifts from what may be removed to what may be done in place to prevent further burning. *Rabbi Shimon ben Nanas omer*: *porsin or shel gedi al gabei shidah, teivah u-migdal* — one may spread a goat-leather hide over furniture — a chest, a box, a cabinet — *she-achaz bah ha-or* — when fire has already caught one part of it — *mipnei she-hu mechareich* — because the leather will singe but not burn through. The leather functions as a fireproof cover, protecting the remaining portion of the furniture from the spreading flame. This is an active protective measure, and Rabbi Shimon ben Nanas permits it.
 

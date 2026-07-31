@@ -1,12 +1,12 @@
 # Sanhedrin 46 — Daf Yomi Shiur
 
-## Shmuel: Disabled Witness…
+## Shmuel: Disabled Witness
 
 ### Severed Hands Rule
 
 The daf opens on 45b, approximately ten lines from the bottom, with a statement of Shmuel bearing on the laws of *skilah*: *niktata yad ha'edim patur* — if the hands of the witnesses are severed after the *gmar din*, the person who was condemned to death goes free.
 
-### Witnesses' Hands Require…
+### Witnesses' Hands Stoning
 
 The reason is rooted in a scriptural requirement: *yad ha'edim tihyeh bo barishona* — the hands of the witnesses must be the first to cast the stone. If those hands no longer exist, the execution cannot proceed as prescribed, and the condemned is therefore released from this sentence. All the formal technical requirements of the procedure must be in place; if they are not, execution cannot be carried out.
 

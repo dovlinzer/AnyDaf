@@ -120,7 +120,7 @@ On one hand, *dam chattat kodem mipnei shemerutze* — the blood of the *chattat
 
 The *gemara* attempts to resolve this from the *mishna*. From the *reisha*: *dam chattat kodem ledam olah* — the blood of the *chattat* precedes the blood of the *olah*. One might infer that *ledam olah hu dekadim* — it only precedes the blood of the *olah*, not the limbs; hence the limbs of the *olah* would take precedence even over the blood of the *chattat*. But the *gemara* immediately counters from the *seifa*: *evarei olah kodmin le'imurei chattat* — the limbs of the *olah* precede the fats of the *chattat*. One might read this as: only before the *imurei chattat* does the *olah*'s body take precedence — but not before the blood of the *chattat*. Since both inferences cancel each other out, *ela me'ha lekka lemishma mina* — no conclusive ruling can be drawn from the *mishna* on this question.
 
-### Olah Blood vs. Chatat Fa…
+### Dam Olah vs. Chatat
 
 The second *ibaia lehu* is the mirror image: *dam olah ve'imurei chattat* — what of the blood of the *olah* versus the fats of the *chattat*? Should the blood of the *olah* come first, since it derives from a sacrifice that is *kalil* — entirely burned? Or should the fats of the *chattat* come first, since they derive from a sacrifice that is *mechaper*?
 

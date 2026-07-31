@@ -44,7 +44,7 @@ Returning to the Mishnah's statement that parent and child may sleep together ev
 
 A second version — *ika d'amri* — sets both thresholds at the standard ages of *bar* and *bat mitzvah*: twelve years and a day for a girl, thirteen years and a day for a boy. This parallel formulation is linked to the onset of halachic adulthood and its associated physical maturity.
 
-### Physical Development Sig…
+### Physical Development
 
 The Gemara adds a qualification: even once these ages are reached, the prohibition on sleeping unclothed together applies only when the child has in fact reached physical maturity — when the breasts have developed and pubic hair has appeared, as described with reference to a verse in Yechezkel. If those signs of maturity have not yet appeared, the concern is not triggered, even at those ages.
 

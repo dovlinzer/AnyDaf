@@ -20,7 +20,7 @@ The *gemara* immediately challenges the *mishna*'s reliance on the community rep
 
 ### Objective Evidence
 
-Rav Yehuda said in the name of Rav that what is required is objective, independently generated evidence — for example, people who had actually slept in the owner's house that night, and the owner rose in the night screaming *nignevu chelai* — my belongings have been stolen. (The lecturer notes that *hifkin* is the root of the modern Hebrew word *hafganah*, a protest.) The *gemara*, however, dismisses even this: the *gemara* responds *kol sheken ee lo matza* — this is even more reason for suspicion, since all of that could be a performance staged by the owner himself. There is still no truly objective evidence.
+Rav Yehuda said in the name of Rav that what is required is objective, independently generated evidence — for example, people who had actually slept in the owner's house that night, and the owner rose in the night screaming *nignevu chelai* — my belongings have been stolen. (*hifkin* is the root of the modern Hebrew word *hafganah*, a protest.) The *gemara*, however, dismisses even this: the *gemara* responds *kol sheken ee lo matza* — this is even more reason for suspicion, since all of that could be a performance staged by the owner himself. There is still no truly objective evidence.
 
 Rav Kahana then added in the name of Rav a further element that substantially strengthens the showing: *kegon shehayta machteret chatura betoch beito* — there was a tunnel dug under the house. People had been seen leaving the house with bundles of objects on their shoulders, *tzrorot shel keilim al kitfeihem*, and the entire town was saying that this particular person's belongings had been stolen — *hakol omrim nignevu keilav shel ploni*. This is not evidence the owner could have manufactured: there are eyewitnesses, physical evidence in the form of a tunnel, and a community-wide consensus.
 
@@ -84,7 +84,7 @@ The *gemara* immediately notes the apparent tension with the *Chanan Bisha* case
 
 ---
 
-## Special Circumstance (II)
+## Special Circumstances
 
 ### Debt Payment
 

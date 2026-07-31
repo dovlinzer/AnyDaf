@@ -1,4 +1,5 @@
 # Hullin 133 — Daf Yomi Shiur
+[DAF:132b]
 
 ## Exemption Framework
 
@@ -122,6 +123,7 @@ This raises an apparent tension with the *gemara* in *Zevachim*, where the rule 
 
 The *gemara*, however, immediately rejects this as the operative ruling. That is not the *halacha*. In its place, a *baraita* is cited. *Rabbi Shimon* teaches: any *kohen* who does not accept the *avodah*, who disclaims responsibility for or denies the legitimacy of the Temple service, has no portion in the *kehunah* and receives none of the gifts. The verse is cited: *hamakriv et dam hashelamim ve'et hachelev mivnei Aharon lo tihyeh shok hayamin lemana* — the one who offers the blood and the fat receives the thigh as his portion. From this the *gemara* derives that participation in and acceptance of the *avodah* is a prerequisite for receiving any priestly portion.
 
+[DAF:133a]
 ### Fifteen Services
 
 > **Hebrew/Aramaic:** וְקַבָּלוֹת, הַזָּאוֹת, וְהַשְׁקָאַת סוֹטָה, וַעֲרִיפַת עֶגְלָה עֲרוּפָה, וְטׇהֳרַת מְצוֹרָע, וּנְשִׂיאוּת כַּפַּיִם – בֵּין מִבִּפְנִים בֵּין מִבַּחוּץ, תַּלְמוּד לוֹמַר ״מִבְּנֵי אַהֲרֹן״ – עֲבוֹדָה הָאֲמוּרָה לִבְנֵי אַהֲרֹן. וְכׇל כֹּהֵן שֶׁאֵינוֹ מוֹדֶה בָּהּ – אֵין לוֹ חֵלֶק בַּכְּהוּנָּה. טַעְמָא דְּאֵינוֹ מוֹדֶה בָּהּ, הָא מוֹדֶה בָּהּ – אַף עַל גַּב דְּאֵינוֹ בָּקִי בָּהֶן.
@@ -226,6 +228,7 @@ The *gemara* then resolves this with the general principle of that learning Tora
 
 The *mishnah* states: one who enters into a business partnership with a *kohen* or non-Jew must mark the animal. Since the partnership arrangement exempts the *shochet* from giving *matanot*, without a visible marker people observing the butcher not giving the gifts would be puzzled or misled. The mark communicates the reason for the exemption.
 
+[DAF:133b]
 ### Marking Distinctions
 
 > **Hebrew/Aramaic:** הָכָא בְּמַאי עָסְקִינַן – דְּיָתֵיב גּוֹי אַמְּסַחְתָּא. דִּכְוָתַהּ גַּבֵּי כֹהֵן, דְּיָתֵיב אַמְּסַחְתָּא, אַמַּאי צָרִיךְ לִרְשׁוֹם? דְּאָמְרִי: בִּשְׂרָא קָא זָבֵין. אִי הָכִי, גּוֹי נָמֵי אָמְרִי: בִּשְׂרָא קָא זָבֵין! אֶלָּא הָכָא בְּמַאי עָסְקִינַן, דְּיָתֵיב גּוֹי אַכַּסְפְּתָא. דִּכְוָתַהּ גַּבֵּי כֹּהֵן דְּיָתֵיב אַכַּסְפְּתָא, אַמַּאי צָרִיךְ לִרְשׁוֹם? אָמְרִי: הֵמוֹנֵי הֵימְנֵיהּ, גּוֹי נָמֵי אָמְרִי: הֵמוֹנֵי הֵימְנֵיהּ! אֵין אֱמוּנָה בְּגוֹי. אִיבָּעֵית אֵימָא: סְתַם גּוֹי מִפְּעָא פָּעֵי.

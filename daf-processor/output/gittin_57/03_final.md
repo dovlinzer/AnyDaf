@@ -1,4 +1,5 @@
 # Gittin 57 — Daf Yomi Shiur
+[DAF:57a]
 
 ## Titus & Onkelos
 
@@ -320,6 +321,7 @@ Once again, the inability to absorb even the slightest disruption to their tradi
 
 *Ashkechei le-damei de-Zechariah, de-hava kamartach ve-salik* — Nevuzaradan, upon entering the *Beis ha-Mikdash*, found the blood of Zechariah bubbling on the floor. *Amar: mai hai* — he asked, what is this? *Amru lei: dam zvachim de-ishtapuch* — the Jews told him it was sacrificial blood that had been spilled. *Ayise damma ve-lo dami* — he brought animal blood for comparison, and it did not match. He knew they were lying.
 
+[DAF:57b]
 ### Zechariah Confession
 
 > **Hebrew/Aramaic:** אֲמַר לְהוּ: אִי אָמְרִיתוּ לִי – מוּטָב, וְאִי לָאו – מְסָרֵיקְנָא לְבִשְׂרַיְיכוּ בְּמַסְרְקֵי דְפַרְזְלֵי. אָמְרִי לֵיהּ: מַאי נֵימָא לָךְ? נְבִיָּיא הֲוָה בַּן דַּהֲוָה קָא מוֹכַח לַן בְּמִילֵּי דִשְׁמַיָּא, קַמְינַן עִילָּוֵיהּ וּקְטַלְינַן לֵיהּ, וְהָא כַּמָּה שְׁנִין דְּלָא קָא נָיַיח דְּמֵיהּ.

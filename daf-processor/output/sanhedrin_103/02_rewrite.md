@@ -28,7 +28,7 @@ The *Gemara* then cites a verse about *Achazyahu* hiding in *Shomron* — though
 
 ---
 
-## Menashe's Repentanc (III)
+## Menashe's Repentance
 
 ### Menashe's Status
 
@@ -50,7 +50,7 @@ The question arises regarding the *pasuk haraita ki nikhna Achav lifnai — yaan
 
 ---
 
-## Menashe's Repentanc (III)
+## Menashe's Repentance (II)
 
 ### Rabbi Yehuda's View
 
@@ -112,7 +112,7 @@ This principle — that the silent bystander who could have acted bears genuine 
 
 ---
 
-## Escalating Desecrati (II)
+## Escalating Desecration
 
 ### Lazy Man's Field
 

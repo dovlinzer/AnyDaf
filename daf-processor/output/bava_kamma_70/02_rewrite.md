@@ -2,7 +2,7 @@
 
 ## Harsha'ah Overview
 
-### Rabbi Yochanan & Harsha'…
+### Rabbi Yochanan Harsha'ah
 
 The daf opens by returning to the principle of *Rabbi Yochanan* — *gezel velo nityashu hab'alim sheneihem einam yekholim lehakdish* — that once an item has been stolen and the owners have not yet despaired of recovering it, neither party can sanctify it: the thief because it is not his, and the owner because it is not under his control. The Gemara had extended this principle broadly to cover selling, gifting, redeeming, leasing (*maskir*), and declaring ownerless (*mafkir*). The core insight is that ownership alone is insufficient to exercise the full rights of an owner; the item must also be under one's actual control (*birshuto*).
 

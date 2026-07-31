@@ -1,6 +1,6 @@
 # Bava Metzia 117 — Daf Yomi Shiur
 
-## Rabbi Abba's Tenant Ques…
+## Abba's Tenant Floor Break
 
 ### Tenant Alone or Shared
 
@@ -8,7 +8,7 @@ The daf opens at the very last line of 116b, where Rabbi Abba bar Memel poses a 
 
 Rabbi Abba bar Memel's first question, which opens 117a, is: *kishu dar levado hu dar kemekara oh dilma shneihem darin?* — when the tenant relocates to the ground floor, does he live there alone, as he did when he occupied the upper story in isolation, or do both the tenant and the owner live together on the ground floor? The owner might reasonably argue: even granting that the entire house is *meshubad* to your right of residence, that encumbrance was never intended to go so far as to exclude me from my own home. Such an understanding would be implicit in the rental arrangement regardless of how the contract is worded — *ada'ata de-afkinun lo aguri lakh*, I would never have agreed to rent to you on terms that would deprive me of a place to live.
 
-### Roof vs. Front Door Entr…
+### Roof vs. Front Door Entry
 
 If we assume that both parties are permitted to cohabit on the ground floor, a second question follows naturally: *kishu mishtamesh derekh petakhim mishtamesh oh derekh gag mishtamesh?* — when the tenant uses the ground floor during this interim period, does he enter through the front door like any ordinary ground-floor resident, or must he enter by way of the roof — that is, by climbing the exterior stairs to the second story and descending through the breach in the floor?
 
@@ -20,7 +20,7 @@ One should note that the *gemara* employs the construction *im timtza lomar* —
 
 The third question involves a building with a ground floor, a second story, and a third story: *shtei aliyot zo gabi zu mahu?* — what is the law when there are two upper stories stacked one atop the other? The *gemara* considers two sub-cases. If the third story's floor collapses, the tenant who lived there may descend to the second story — or, if the entire building is *meshubad*, perhaps all the way to the ground floor. Conversely: *ipcha tachtonah mahu lesalko legamrei be'elyonah* — if the second story's floor breaks through, can the owner direct the tenant upward to the third story instead of downward, telling him, "You already agreed to climb one flight of stairs; climbing two is not substantively different"? Or does the tenant have a valid claim that *chad aliyah kabbil alach shtei aliyot lo kabbil alach* — he accepted the burden of one flight of stairs, not two? The *gemara* concludes with *teiku* — the questions remain unresolved.
 
-## Plaster Responsibility D…
+## Plaster: Owner vs Tenant
 
 ### Rabbi Yosi Position
 
@@ -40,13 +40,13 @@ The *gemara* now introduces a related case. There were two people living in the 
 
 The question of who bears responsibility for repair is disputed by two *amora'im*: *Rabbi Chiyya bar Abba amar elyon metakken* — it is the upper resident's obligation to fix the plaster, while *Rabbi Ila'i in the name of Rabbi Chiyya Berabbi Yosi* holds the opposite — *tachton metakken*, the lower resident must repair it. A mnemonic is provided: *ve-Yosef hurad mitzraimah* — the name Yosef alludes to Rabbi Yosi (via the name Yosef), and *hurad*, "was brought down," corresponds to *tachton*, below. Thus the tradition associated with Rabbi Yosi holds that it is the lower resident who must make the repair.
 
-### Rashi: Two Owners vs. La…
+### Rashi: Two Owners, Not LL
 
 Rashi makes an important clarificatory note at this point: unlike the *mishna*, which concerns a landlord-tenant relationship, this case involves two *separate owners* — one who owns the upper floor and one who owns the lower. Rashi emphasizes this distinction deliberately, because if the case were identical to our *mishna*, the ruling would follow automatically from the *mishna*'s dispute between Rabbi Yosi and the *tanna kamma*. The fact that this is a case of two owners rather than a landlord and tenant makes it a somewhat different scenario — and the *gemara* will now explore how the debate between Rabbi Chiyya bar Abba and Rabbi Ila'i maps onto the broader principled debate.
 
-## Damager vs. Damagee Prin…
+## Damager vs. Damagee
 
-### Bava Batra Parallel Deba…
+### Bava Batra: Yosi & Rabbis
 
 The *gemara* proposes: *leima Rabbi Chiyya bar Abba ve-Rabbi Ila'i be-plugeta de-Rabbi Yosi ve-rabbanan ka-miflegi* — perhaps the dispute between Rabbi Chiyya bar Abba and Rabbi Ila'i precisely parallels the dispute between Rabbi Yosi and the Rabbis in our *mishna*. The conceptual framework being proposed is as follows. When the plaster is understood as existing solely to prevent water from the upper floor from damaging the lower floor, the question of who must provide it reduces to a classic question in the laws of *nezikin*: when two parties are each operating legitimately within their own domain, and one's activity indirectly causes harm to the other, who bears the responsibility to prevent that harm?
 
@@ -64,31 +64,31 @@ The *mishna* in *Bava Batra* teaches: *marchikin et ha-ilan min ha-bor esrim ve-
 
 Rabbi Yosi's position in that *mishna* is striking: *af al pi she-ha-bor kodemes la-ilan lo yakotz* — even if the well predated the tree, the tree owner cannot be compelled to cut it down. *She-ze chofer be-toch shelo ve-ze nota be-toch shelo* — this one digs in his own domain, and that one plants in his own domain. If the indirect consequences of what I do in my yard eventually reach your yard and harm you, that is not my responsibility; if you do not wish to be harmed, it is incumbent upon you to protect yourself. This is explicitly *al ha-nizak le-harchik et atzmo* — Rabbi Yosi sides with the *nizak* bearing responsibility, not the *mazik*.
 
-### Rabbi Yosi's Damagee Pri…
+### Rabbi Yosi: Own Domain
 
 This creates an apparent contradiction. If Rabbi Yosi holds *al ha-nizak le-harchik et atzmo* — that the party at risk of harm must distance himself — then in our *mishna*, where Rabbi Yosi says the upper tenant must provide the plaster, he would be imposing the obligation on the *mazik*, which is precisely the position he rejects. And symmetrically, the Rabbis in *Bava Batra* hold *al ha-mazik le-harchik et atzmo*, yet in our *mishna* they seem to place the plastering obligation on the lower owner — the *nizak*.
 
 The positions in each context appear inverted relative to the other. The *gemara* therefore concludes that the debate between Rabbi Chiyya bar Abba and Rabbi Ila'i in the water damage case does correctly parallel the *Bava Batra* debate of Rabbi Yosi and the Rabbis — *al ha-mazik* versus *al ha-nizak*. But this is a case involving two separate owners and water damage, whereas the debate in our *mishna* is about something else entirely.
 
-### Water Damage vs. Bava Ba…
+### Water Damage: Bava Batra
 
 Before turning to what our *mishna*'s debate actually concerns, the *gemara* raises an additional complication. Even granting that the water damage case between two owners follows the *Bava Batra* framework, there is a refinement: *modeh Rabbi Yosi be-girei dilei* — Rabbi Yosi concedes that when one's action directly and immediately causes harm to another, like arrows shot from one's property into a neighbor's, even he would hold the *mazik* responsible. The principle *al ha-nizak le-harchik et atzmo* applies only where the damage is indirect and time-lapsed — as in the case of the tree whose roots slowly grow and eventually undermine a neighbor's cistern.
 
 The *gemara* therefore challenges: is the water damage case really analogous to the tree? When someone washes their hands and the water seeps through the floor and drips below — isn't that direct, immediate damage, like arrows? The *gemara* responds: *de-psiki maya ve-hadar naflei* — it is a case where the water first accumulates and is slowly absorbed into the cracking plaster before finally dripping through. This delayed absorption means it is not a direct act of damage in the manner of *girei dilei*, but rather a time-lapsed, indirect form of harm. Therefore the *Bava Batra* framework applies, and Rabbi Yosi's *al ha-nizak le-harchik et atzmo* position can consistently hold the lower resident responsible.
 
-## Roof Strength vs. Floor…
+## Roof Strength vs Floor
 
-### Rabbis: Plaster = Streng…
+### Plaster: Roof Strength
 
 With the water damage case properly assigned to the *Bava Batra* debate, the *gemara* now identifies the real dispute animating our *mishna*. The disagreement between Rabbi Yosi and the Rabbis here concerns not the *mazik-nizak* framework, but rather the function of the plaster itself: *be-chozek tikra ka-miflegi* — they debate whether applying plaster is part of making the roof strong.
 
 The Rabbis hold: *ma'aziva achzukei tikra hu ve-achzukei tikra al ha-tachton remei* — the plaster is what structurally reinforces the roof and floor. Wood beams or planks alone leave a wobbly, incomplete structure. A truly solid floor requires plaster to bind and seal the material. Therefore, providing the plaster is part of the landlord's fundamental obligation to deliver a functional roof; the *tanna kamma* assigns this cost to the owner of the lower floor.
 
-### Rabbi Yosi: Plaster = Sm…
+### Rabbi Yosi: Plaster
 
 Rabbi Yosi disagrees: *ma'aziva ashvei gumot hu ve-ashvei gumot a-elyon remei* — the plaster serves only to level and smooth the surface for the upper resident's comfort and use. Assuming the structural elements — the beams or planks — are solid and properly secured, the floor is already functionally complete. The plaster is an amenity: it fills in the gaps, produces a smooth walking surface, and makes the living conditions pleasant. In the language of landlord-tenant law, this falls within the domain of what the tenant provides for his own living space, not what the landlord owes as a matter of structural repair. Hence Rabbi Yosi places the plastering obligation on the upper tenant.
 
-### Gemara Challenge to Expl…
+### Gemara: Smoothness
 
 This explanation is coherent, but it prompts a further *gemara* challenge. If in our *mishna* Rabbi Yosi holds that the plaster is merely for smoothness and is therefore the upper tenant's responsibility, and if separately Rabbi Yosi holds *al ha-nizak le-harchik et atzmo*, one might ask: what about water damage from the upper floor? Even if we accept Rabbi Yosi's view on plaster in the *mishna*, shouldn't his *Bava Batra* principle lead him, in the water damage case between two owners, to place responsibility on the lower resident rather than the upper — thereby holding consistently that the *nizak* must protect himself?
 
@@ -140,9 +140,9 @@ The question is whether this conditional arrangement is binding. *Higia zman ve-
 
 Once again, the concern is improper benefit: the arrangement as structured would allow Shimon to collect a hundred when only seventy-five is genuinely owed, profiting from a conditional promise that Reuven made under duress. Rabbi Yehuda, following his broader principle, refuses to validate such an outcome.
 
-## Case-by-Case Legal Princ…
+## Case-by-Case Legal Princ
 
-### Benefit + Damage Principle
+### Benefit-Damage Principle
 
 The *gemara* pushes back on Rabbi Yochanan's unified framing, arguing that each of Rabbi Yehuda's three rulings may rest on its own distinct legal principle rather than a single overarching ethical norm. In the case of the broken house: *dilma ad kan lo ka'amar Rabbi Yehuda hacha ela mishum de-ika shachrurita* — perhaps Rabbi Yehuda rules here only because there is a concrete element of *zeh neheneh ve-zeh chaser*. The person living in the newly built house blackens and wears the walls through ordinary habitation. When the ground-floor owner ultimately reclaims the house, he receives a structure already lived in and somewhat deteriorated. This is not a case where one benefits while the other loses nothing — the ground-floor owner suffers a genuine loss in the condition of his property. The obligation to pay rent flows straightforwardly from *me-ikar ha-din* — the basic legal rule that one does not benefit at another's expense — rather than from any special ethical principle of Rabbi Yehuda's.
 
@@ -156,9 +156,9 @@ In the debt case, the *gemara* explains: *u-mi she-para miktzat chovo nami havei
 
 Rashi's comment here is particularly pointed: he indicates that this very *halacha* — that Rabbi Yehuda rules the *shtar* is not returned — is in fact the source from which we derive Rabbi Yehuda's position on *asmachta*. The case is not a corollary of a known principle; it is the textual basis for the principle itself.
 
-## Building Modifications R…
+## Building Modifications
 
-### Ground Floor Modifications
+### Ground Floor Changes
 
 Rav Aha bar Adda in the name of Ulla now turns to a related question: what structural modifications may the ground-floor owner make when rebuilding, and what changes may the upper-floor owner make to his own story?
 
@@ -172,13 +172,13 @@ Window placement: *le-ma'et be-chalonot shomin lo, le-harbot be-chalonot ein sho
 
 Ceiling height: *le-hagbiha ein shomin lo, le-ma'et shomin lo* — a taller ceiling on the ground floor means the upper floor is elevated higher, requiring the tenant to climb more stairs, and may affect the structural dynamics of the building. Therefore raising the ceiling is not permitted. Lowering the ceiling — giving the upper-floor owner less height to climb and placing the upper floor closer to the ground — is permitted.
 
-### Second Floor Modifications
+### Second Floor Changes
 
 The rules governing the upper-floor owner's modifications run in the opposite direction on most counts, reflecting the different structural considerations: the concern here is that the upper story not become heavier or place greater downward pressure on the ground floor below it.
 
 *Be-gozit shomin lo, be-gvil ein shomin lo* — the upper-floor owner may switch to hewn stones (*gozit*), which are lighter; he may not switch to unhewn stones (*gvil*), which are heavier and would impose additional load on the lower structure. *Be-kfisim ein shomin lo, be-lveinim shomin lo* — he may not switch to the double-half-brick construction (heavier), but may switch to single standard bricks (lighter). *Be-arazim ein shomin lo, be-shikmim shomin lo* — cedar is heavier and stronger; he may not add the weight of cedar roofing, but may switch to the lighter sycamore. *Le-harbot be-chalonot shomin lo, le-ma'et be-chalonot ein shomin lo* — more windows mean lighter walls, less downward pressure; this is permitted. Fewer windows mean heavier walls; not permitted.
 
-### Structural Change Principle
+### Structural Change Rules
 
 The underlying principle emerges clearly: a change that strengthens the structure or lightens the load from below is permissible; a change in the opposite direction — one that weakens the foundation or adds weight — may not be imposed on the other party. One should note that the rule about ceiling height is the single point where both owners share the same restriction: *le-hagbiha ein shomin lo, le-ma'et shomin lo* applies identically to both the ground-floor and upper-floor owners. Raising the overall height of either story is not permitted; reducing it is. In every other category, the permitted and forbidden directions are mirror images of each other.
 
@@ -196,7 +196,7 @@ When neither party has the ability or desire to rebuild, a question arises about
 
 *Amar Rava: nakat Rabbi Noson be-yadcha* — Rava rules that one should accept Rabbi Noson's position and *pasken* accordingly. The justification: *de-dayana hu ve-nachis le-umka de-dina* — Rabbi Noson served as the head of the *beit din* and penetrated to the depths of monetary law. His ruling is therefore the authoritative one on this question.
 
-### Impact on Rights Explanation
+### Impact on Property Rights
 
 Rashi explains the conceptual basis for Rabbi Noson's one-third allocation to the upper floor: because the presence of a second story shortens the effective lifespan of the ground floor by roughly a third — the additional weight and structural stress imposed by the upper story reduces the durability of the lower — this demonstrates that the upper-floor owner exercises a degree of claim over the property equivalent to a third of its total value. Rashi's formulation leaves some room for further analysis of exactly how to connect the impact on structural longevity with proportional land ownership.
 

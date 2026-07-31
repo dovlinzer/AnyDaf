@@ -114,7 +114,7 @@ The Gemara answers with a careful textual distinction: by the *Mishkan* the lang
 
 Regarding the *shulchan* and the pilgrims: when the *shulchan* was displayed during the *regalim*, it was carried into the *azarah* and the people were shown the *lechem ha-panim* with the words *re'u chibatkhem lifnei ha-makom* — see how beloved you are before God. The miracle associated with this, as Rabbi Yehoshua ben Levi teaches, was that *siluko ke-siduro* — when the bread was removed, it was as warm and fresh as the day it was placed on the table. Because the *shulchan* was moved during the *regalim*, it was not a permanent fixture, it was not *asuy le-nachat*, and it therefore could contract *tumah* — and the *pasuk* saying *tahor* comes precisely to teach this.
 
-### Gabriel & Three Hard Thi…
+### Gabriel & Three Hard
 
 Rabbi Chiyya bar Abba in the name of Rabbi Yochanan teaches: *Gavriel*, the angel of fire, appeared *chagur ke-min pesikya* — wearing what appears to be a smelter's or craftsman's apron — and showed Moshe the construction of the *menorah*, *ve-her'ah lo le-Moshe ma'aseh menorah*. The proof-text is *ve-zeh ma'aseh ha-menorah* — "and this is the construction of the *menorah*" — where the word *zeh*, "this," implies a pointed, demonstrative act of showing: here, look at this.
 

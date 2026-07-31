@@ -10,11 +10,11 @@ Today's daf begins several lines before the wide lines on 28b, precisely at the 
 
 The Gemara introduces a dispute: *itmar* — it was taught. Rav said *mechtza al mechtza ke-rov*: exactly half is like the majority. The Mishna, it seems, addressed this case directly — it said majority yes, half no — but we will bracket that for a moment. The question being raised is: when the Mishna says majority suffices, does it mean a true majority, or is exactly half sufficient to qualify as a majority? Rav maintains that half suffices. The chain of reasoning runs as follows: *rubo ke-kulo*, the majority is like the whole, and half is like the majority — so by that chain, exactly half counts.
 
-### Rav Kahana: Half ≠ Major…
+### Rav Kahana: Half ≠ Maj.
 
 Rav Kahana disagrees: *mechtza al mechtza eino ke-rov*, half is not like the majority. The Gemara frames the disagreement by presenting each position as a kind of divine mandate communicated to Moshe, which is the Gemara's way of articulating how we understand the underlying requirement of shechita. Rav says: *hachi amar lei Rachmana le-Moshe* — this is what God said to Moshe: *lo tishayer rubo*, do not leave the majority remaining. Do not leave too much of the siman uncut. How much is too much? A majority. Rav Kahana, by contrast, says God told Moshe: *shchot rubah*, slaughter the majority — cut the majority. The criterion is positively defined: you must cut the majority.
 
-### Defining Valid vs. Inval…
+### Valid vs Invalid Criteria
 
 This debate reflects a fundamental conceptual distinction: are we positively defining the criteria required to make the shechita valid, or are we positively defining the conditions under which it is invalid? The one you are defining creates the higher standard, and anything that falls into a grey area goes on the other side of the definition.
 
@@ -24,7 +24,7 @@ Precisely that distinction is at work here. Rav understands the Torah as definin
 
 It is important to note that this question could in principle yield different answers in different areas of halacha. Majority could be sufficient for shechita for one reason, and sufficient for other contexts for entirely different reasons. But here the Gemara is specifically examining how the requirement of shechita should be conceptualized — and it will soon broaden this inquiry significantly.
 
-### Mishna's Answer: Rabbini…
+### Mishna's Half Invalid
 
 The Gemara raises the obvious objection from our own Mishna: *tnan*, we learned — *chatzi echad be-of ve-echad ve-chatzi be-veheimah*, if one cut exactly half by a bird, or one full siman plus half of another by a mammal, the shechita is *psulah*, invalid. The Mishna seems quite clear: half is invalid. If Rav holds that half counts as majority, why would the Mishna declare it invalid?
 
@@ -48,7 +48,7 @@ Up to this point, the debate was framed as a question of definitional orientatio
 
 This universalized framing explains why the Gemara felt free to move from shechita to tumah and pottery vessels: if the claim is a general one — fifty percent counts as majority — then it applies across domains. And Rav Papa's response follows logically: if fifty percent counts as majority, you cannot simultaneously say that both halves count as majority, because that would require the same object to be simultaneously mostly present and mostly absent. The logical contradiction rules out both being tahor on that basis. But this also raises a further difficulty: even for one of the halves, it is unclear which half should count as the majority. The Gemara's move here is somewhat strange logically, and the earlier framing — which criteria are we defining — was in many ways more satisfying. But by universalizing the question, the Gemara has recast it in a way that will carry through the subsequent discussion.
 
-### Universal Half=Majority…
+### Universal Half=Majority
 
 The force of Rav Papa's response is that the Gemara has now committed to a more general position: the question of whether fifty percent counts as majority is not merely a local question about how to define the requirements of shechita. It is a universal question about how the concept of majority functions. Once framed that way, the Gemara will need to contend with cases in other areas of halacha where the answer appears to differ — and that tension will drive the next section.
 

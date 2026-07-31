@@ -50,7 +50,7 @@ As the *gemara* itself notes, there is a structural asymmetry in these two posit
 
 ---
 
-## Total Elopement (III)
+## Total Elopement
 
 ### Ulla Rejects
 
@@ -62,7 +62,7 @@ The *gemara* articulates why. In the immediately preceding case — where *kiddu
 
 ---
 
-## Total Elopement (III)
+## Total Elopement (II)
 
 ### Rava Reinterprets
 

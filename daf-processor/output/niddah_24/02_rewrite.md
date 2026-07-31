@@ -2,7 +2,7 @@
 
 ## Animal Appearance
 
-### Fetus with Animal Appear…
+### Fetus: Animal Appearance
 
 The discussion on 24b begins slightly earlier, at 23b, and concerns a fetus that has the appearance of an animal (*behemah*). The Mishnah had raised the question of whether such a fetus, emerging from a human mother, confers upon her the status of a *yoledet* — a woman who has given birth — with all attendant laws of *tumah vetaharah*. Before proceeding further, it is worth clarifying a distinction that bears on the broader context of these laws.
 

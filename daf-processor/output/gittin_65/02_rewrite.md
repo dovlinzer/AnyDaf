@@ -158,7 +158,7 @@ If, however, the father says to an agent, *tzei v'hitkabel l'biti gita* — go a
 
 ---
 
-## Place Conditions (III)
+## Place Conditions
 
 ### Mar'eh vs. Hakpid
 
@@ -194,7 +194,7 @@ This distinction has an immediate practical consequence: if the wife is married 
 
 ---
 
-## Place Conditions (III)
+## Place Conditions (II)
 
 ### Woman's Place
 
@@ -202,7 +202,7 @@ However, when she says *hitkabel li giti*, appointing the agent as a *shaliach l
 
 ---
 
-## Place Conditions (III)…
+## Place Conditions (III)
 
 ### Mixed Places
 

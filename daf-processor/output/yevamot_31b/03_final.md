@@ -1,4 +1,5 @@
 # Yevamot 31b — Daf Yomi Shiur
+[DAF:31a]
 
 ## Safek Gierushin Review
 
@@ -86,6 +87,7 @@ Bar Shatya was a person who apparently experienced intermittent episodes of ment
 
 Bar Shatya sold some property. Two witnesses came and testified: *k'she-hu chalim zavin*—he was of sound mind when he sold it. Then another two witnesses came and testified: *k'she-hu shoteh zavin*—he was not of sound mind when he sold it.
 
+[DAF:31b]
 ### Rav Ashi's Rule
 
 > **Hebrew/Aramaic:** וְאַרְעָא אוֹקְמַהּ בְּחֶזְקַת בַּר שָׁטְיָא!

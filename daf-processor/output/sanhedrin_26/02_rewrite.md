@@ -12,7 +12,7 @@ When the official finally arrived and demanded to know why so few taxes had been
 
 When he was on his deathbed, the father of Rabbi Zeira made a final request: take these thirteen *ma'ah* that I have bound up in my kerchief and return them to so-and-so, for I collected them from him as a tax payment, and in the end I did not need them — I managed to protect the people without using the money. The Gemara presents this as the portrait of a truly upright tax collector: someone who not only avoids personal enrichment but who goes to extraordinary lengths to protect those under his charge, and who in his final moments ensures that not a single coin was wrongfully retained.
 
-### Otzrei vs. Sochrei Shevi'is
+### Otzrei vs. Sochrei
 
 The Gemara now turns to explain a shift in terminology that appeared in the *Mishnah*. The *Mishnah* originally referred to those disqualified from testimony in connection with *shevi'is* as *otzrei shevi'is* — those who gather and hoard *shevi'is* produce — and then later referred to them as *sochrei shevi'is*, those who conduct commerce in *shevi'is* produce. The Gemara asks: what does this shift mean?
 

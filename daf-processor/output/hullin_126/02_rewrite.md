@@ -68,7 +68,7 @@ The *mishnah* continues with a second case: the cabinet is positioned in the doo
 
 ---
 
-## Contradiction & Clarific…
+## Contradiction & Yosei
 
 ### Redundancy Problem
 
@@ -206,7 +206,7 @@ Rava responds: *ta chazi kama chutin nimshachim heimena* — look and you will s
 
 Rav Ushaya raises a more abstract question: what if one intends to drill a hole in the bone but has not yet done so? At the present moment, the bone is sealed and the marrow is inaccessible. But one is planning to make the hole. Does the intention to create access count as a form of potential accessibility — such that even now, without the hole, the bone functions as a *shomer* and causes *tumah*?
 
-### Resolution
+### Resolution (II)
 
 Rav Ushaya himself resolves the question: *mechusar nekiva lav ke-mechusar ma'aseh dami* — lacking a hole is not equivalent to lacking an action. The absence of a physical hole is simply a physical state; it does not have the legal status of an incomplete process the way an unmade transaction might. One requires actual, present physical accessibility. Intention to create future access does not transform the current sealed state of the bone into one where the marrow is reachable. The bone remains *tahor* until the hole is actually made. Strikingly, the *gemara* notes that Rav Ushaya reached this resolution by pure reasoning, without citing a text — an unusual feature worth noting.
 

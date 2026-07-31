@@ -1,6 +1,6 @@
 # Kiddushin 6 — Daf Yomi Shiur
 
-## Kiddushin Formulatio (II)
+## Kiddushin Formulations
 
 ### Six Formulations
 
@@ -38,7 +38,7 @@ The *gemara* resolves this by identifying a middle case: the ambiguous formulati
 
 To review the Mishnah's dispute more carefully: *hayah medaber im ha'ishah al iskei gitta ve-kiddusheha ve-natan lah gitta ve-kiddusheha velo peireish* — he was speaking with the woman about matters of *get* and *kiddushin*, then gave her the document or the money, without specifying what it was for. Rabbi Yose says this is sufficient — *dayo*. Rabbi Yehudah says he must explicitly declare his intent — *tzarich le-fareish*.
 
-### Halachah: Context Suffic…
+### Halachah Follows R. Yossi
 
 Rav Huna reports in the name of Shmuel that *halachah ke-Rabbi Yose*. A further qualification is added by Rav Yehudah in the name of Shmuel: even Rabbi Yose concedes that this only applies *ve-hu she-asukin be-oto inyan* — provided they are still actively engaged in that same conversation when the act is performed. If they had moved on to other topics before he handed her the money, the contextual understanding that makes silent *kiddushin* effective is no longer present. Rav Elazar in the name of Rabbi Oshaya concurs. A *beraita* also records Rabbi [Yehudah ha-Nasi] agreeing with this requirement.
 
@@ -114,13 +114,13 @@ The *Ran*, however, disputes whether forgiving the loan truly works. His positio
 
 ## Conditional Gifts
 
-### Conditional in Other Cas…
+### Conditional Gift Cases
 
 Rava raises the case of *matanah al menat lehachzir* — a conditional gift given on the understanding that it will be returned. The paradigmatic instance is the *arba minim* on *Sukkot*: if one person says to another *heilach etrog zeh al menat she-tachzirehu li* — here is my *etrog*, but give it back — and the recipient takes it and uses it and then returns it, he has fulfilled his obligation. Rava himself ruled this way: *netalo ve-hachziro yatza*; if he did not return it, he did not fulfill the obligation.
 
 Rava then applies this principle across several domains. In a sale (*mecher*), if a buyer says "here is payment on condition you return it," no acquisition takes place. For *kiddushin*, if he gives her money on condition she returns it, she is not *mekudeshet*. For *pidyon haben*, if he gives the *kohen* the five *sela'im* on condition they be returned, the son is not redeemed. But for *terumah*, if he gives *terumah* to the *kohen* on condition it be returned — *yatza yedei netinah* — the obligation to give *terumah* is fulfilled, though the practice is forbidden because it creates the appearance that the *kohen* has made a deal or purchased the *terumah*, compromising the dignity of the gift and smacking of *armah* — evasion of the spirit of the law.
 
-### Why It Fails for Kiddush…
+### Conditional Gifts (II)
 
 The *gemara* finds this account internally inconsistent. Rava himself holds *matanah al menat lehachzir shemah matanah* — a conditional gift counts as a gift. If so, all these cases should work. And if it does not count as a gift, none of them should — including *terumah*, which the *beraita* says *does* work. The formulation in which some cases work and others do not seems untenable.
 

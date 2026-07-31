@@ -40,7 +40,7 @@ Rabbi Yochanan, by contrast, insists the twigs came from elsewhere. On the quest
 
 The Gemara then raises a further question: *amai yatiz b'kaneh* — if the twigs came from other trees, why does the mishna require knocking the nest down with a stick? Why not simply take it by hand? If the nest material is visually and physically distinct from the tree, and one is not at risk of incidentally grasping branches of the *asheira* itself, what is the concern?
 
-### Tosafot: Accidental Conf…
+### Tosafot: Stick Prevents
 
 Tosafot explains the *hava amina* as follows. The concern is not that one will climb the tree — presumably, if the mishna says one could take it directly, the nest is low enough to reach. Rather, the concern is that in the act of reaching in and grabbing the nest, one might inadvertently dislodge and take along some branches of the tree itself, thereby incidentally benefiting from the *avoda zara*. Using a stick, rather than one's hands, reduces the risk of ripping branches loose and confusing them with the nest material. The underlying assumption — which the Gemara accepts as its working premise — is that if the nest came from the tree itself, the material of the nest and the branches of the tree would be visually similar and could be confused; whereas if the twigs came from elsewhere, they might be a different type of wood and visually distinguishable. This is a difficult *Gemara*, and the parallel passage in Avoda Zara presents the same argument far more clearly.
 

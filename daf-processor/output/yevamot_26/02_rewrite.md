@@ -80,7 +80,7 @@ This ruling clearly presupposes that a first-rate *chalitzah* carries greater po
 
 ## Co-Wives & Chalitzah
 
-### Weaker Chalitzah Insuffi…
+### Chalitzah Weaker Woman
 
 To understand the stakes, the case that grounds Shmuel's ruling about co-wives must be spelled out carefully. Reuven dies leaving Rachel and her co-wife Devorah; Shimon dies leaving Leah and her co-wife Naomi. Yissachar alone survives. Of these four women, Rachel and Leah are sisters to one another, making each of them *achot zekukato* — a quasi-*ervah* — to the surviving brother. Devorah and Naomi are their respective co-wives.
 
@@ -104,11 +104,11 @@ The Gemara then attempts to defend the original, simpler reading of Shmuel, dist
 
 The Gemara clarifies a fundamental structural point: the distinction between first-rate and second-rate *chalitzah*, and which woman receives *chalitzah* from which brother, depends entirely on whether the deaths occurred simultaneously or sequentially. If all three husbands had died at once, every woman would stand from the outset as *achot zekukato* to both surviving brothers. No one would have a privileged *chalitzah* relationship with either brother. All three women would occupy equal — and equally weakened — positions, and the question of ordering would carry no special significance.
 
-### Status Changes Sequentia…
+### Status Changes Sequential
 
 Once deaths are sequential, however, each act of *chalitzah* transforms the status of the remaining women for each of the surviving brothers. This is the key insight underlying Rav's ruling. When only Rachel has fallen — because only the first husband has died — she bears no *achot zekukato* disqualification, since no other sister has yet entered the *zikah*. Her *chalitzah* from Yissachar is complete. The moment that *chalitzah* is performed, however, the remaining sisters become *achot chalutzato* of Yissachar. They are not yet *achot chalutzato* of Zebulun — that status accrues only when he performs *chalitzah* with one of them. Thus the sequential nature of events generates a layered accumulation of statuses that varies between brothers.
 
-### Rachel Becomes Achot Cha…
+### Rachel: Achot Chalutzato
 
 By the time Sarah requires *chalitzah*, she is *achot chalutzato* of Yissachar — because Yissachar performed *chalitzah* with Rachel — and simultaneously *achot chalutzato* of Zebulun — because Zebulun performed *chalitzah* with Leah. Any *chalitzah* performed with Sarah by either brother is therefore *pesulah*. Since both brothers generate only a *chalitzah pesulah* with her, the principle of *chalitzah pesulah tzarich lachzor al kol ha'achim* applies, and she must receive *chalitzah* from both. This is the complete logic underlying Rav's ruling: it is the sequential accumulation of *achot chalutzato* relationships across both brothers that locks Sarah into needing *chalitzah* from each of them.
 

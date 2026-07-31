@@ -46,7 +46,7 @@ Rabbi Akiva rejects the comparison. *Im amarta b'isha shekana hu l'atzmo, she'ei
 
 The *Gemara* now provides a conceptual framework for the three-way dispute. Rabbi Akiva's position is explained as *ein zika* — he does not recognize any concrete bond. *Zika*, as familiar from *Masechet Yevamot*, refers to whether the potential relationship awaiting actualization is itself given real halachic weight, such that we speak of an actual existing bond rather than a mere future possibility. One might have thought that even Rabbi Akiva could acknowledge *zika* while nonetheless maintaining that it is not strong enough to reach the level of *eshet ish* or to function like the bond of a husband for purposes of *hafara*. However, the *Gemara* prefers to frame Rabbi Akiva's position as a denial of *zika* as a concrete relationship altogether. There is a *mitzvah*, there is an *issur* of *lo tihiyeh eishet hamet hachutza*, but none of that has yet defined a real, concrete relational status — it remains a potential and an obligation, not an actualized bond.
 
-### Yehoshua/Eliezer: Yes Zi…
+### Yehoshua/Eliezer: Zika
 
 Both Rabbi Yehoshua and Rabbi Eliezer affirm *zika* as a real, concrete bond. The distinction between them is then straightforward: Rabbi Yehoshua holds that when there are two *yevamin*, the *zika* is fundamentally indeterminate — one cannot locate where it attaches — and so neither brother can invoke it. Rabbi Eliezer holds *ein b'reirah* is not a concern here, and even with two brothers some basis remains to recognize a *yavam*'s authority. The *Gemara* presses: even granted *zika*, how can Rabbi Eliezer hold that any particular one of two brothers is in a position to annul?
 

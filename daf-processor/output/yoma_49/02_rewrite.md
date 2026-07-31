@@ -180,7 +180,7 @@ The *gemara* responds: *shani hasam, de-ksiv min ha-seh* — there it is differe
 
 ---
 
-## Blood Represents Ani (II)
+## Blood Represents Animal
 
 ### Seh-Seh Linkage
 

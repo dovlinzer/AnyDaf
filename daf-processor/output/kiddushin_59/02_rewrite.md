@@ -1,6 +1,6 @@
 # Kiddushin 59 — Daf Yomi Shiur
 
-## Agent Acts for Himse (II)
+## Agent Acts for Himself
 
 ### Mishnah Case
 

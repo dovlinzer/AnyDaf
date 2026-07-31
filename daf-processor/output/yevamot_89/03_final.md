@@ -1,4 +1,5 @@
 # Yevamot 89 — Daf Yomi Shiur
+[DAF:89a]
 
 ## Husband Returns Alive
 
@@ -198,6 +199,7 @@ The *gemara* answers: *bitrei mani tza'at, uvechad mana la tza'at* — when deal
 
 The *gemara* works through several configurations of valid and invalid *terumah* separation to clarify the positions of Rav Chisda and Rav Natan bar Rav Yehoshua and where the respective concerns about negligence and *terumah* status apply. The critical variable throughout is whether we are dealing with a *shogeg* or *meizid*, and whether the two types of produce involved are visually distinguishable.
 
+[DAF:89b]
 ### Rabbi Ilai Source
 
 > **Hebrew/Aramaic:** שָׁאנֵי הָכָא, דְּמִדְּאוֹרָיְיתָא תְּרוּמָה מְעַלַּיְיתָא הִיא, כִּדְרַבִּי אִלְעַאי. דְּאָמַר רַבִּי אִלְעַאי: מִנַּיִן לַתּוֹרֵם מִן הָרָעָה עַל הַיָּפָה שֶׁתְּרוּמָתוֹ תְּרוּמָה — דִּכְתִיב: "וְלֹא תִשְׂאוּ עָלָיו חֵטְא בַּהֲרִימְכֶם אֶת חֶלְבּוֹ מִמֶּנּוּ".

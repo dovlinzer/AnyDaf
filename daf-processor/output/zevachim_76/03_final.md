@@ -1,4 +1,5 @@
 # Zevachim 76 — Daf Yomi Shiur
+[DAF:76a]
 
 ## Mixed Asham/Shelamim
 
@@ -138,6 +139,7 @@ Abaye responds that even so, Rabbah would have said the Rabbis' objection makes 
 
 A new *mishnah* introduces another scenario that bears on the same question. The case involves a man who may or may not be a *metzora muchlat* — a fully declared *metzora* — who needs to bring the appropriate sacrifice on the eighth day to complete his purification process. The uncertainty might arise from questions about the original declaration by a *kohen*, and it creates a halachic quandary: how can one bring the mandatory sacrifice of a *metzora* when it is unclear whether the obligation even applies? Rabbi Shimon teaches: on the day following the man's seven-day process, he brings his *asham* and his *log* of oil, and makes stipulations.
 
+[DAF:76b]
 ### Stipulation Process
 
 > **Hebrew/Aramaic:** וְאִם לָאו – אָשָׁם זֶה שֶׁל שַׁלְמֵי נְדָבָה. וְאוֹתוֹ אָשָׁם טָעוּן שְׁחִיטָה בַּצָּפוֹן, וּמַתַּן בְּהוֹנוֹת, וּסְמִיכָה, וּנְסָכִים, וּתְנוּפַת חָזֶה וָשׁוֹק,

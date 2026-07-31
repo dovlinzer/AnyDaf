@@ -82,7 +82,7 @@ The *braita* continues: *ve-khen kikar shel terumah she-nafela sham tamei* — i
 
 We return now to the *mishnah* and the topic of *eidim zomemim*, conspiring witnesses. *Me'idim anu be'ish ploni she-chayav le-chavero matayim zuz* — if witnesses testify that a certain individual owes his friend two hundred *zuz*, and they are subsequently shown to be *zomemim*, *lokin u-meshalmim* — they receive lashes and they pay. This ruling is contested between Rabbi Meir and the *Chachamim*, and it represents the first of several *machlokot* that run through this section of the *mishnah*.
 
-### Rabbi Meir: Two Violatio…
+### Rabbi Meir: Two Breaches
 
 The verse *ve-asitem lo ka-asher zamam la-asot le-achiv* mandates reciprocal punishment — they tried to impose a monetary loss, so they pay money. But they also violated the prohibition against false testimony. According to Rabbi Meir: *shelo hashem hamevi'an lidei makot mevi'an lidei tashlumin* — the legal category that renders them liable for lashes is not the same legal category that renders them liable for payment. Two distinct violations are at play, and therefore both punishments apply simultaneously.
 

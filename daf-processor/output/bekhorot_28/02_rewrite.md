@@ -128,7 +128,7 @@ A related nuance also surfaces here: the combination of expert assessment and wi
 
 ---
 
-## Judicial Liability (III)
+## Judicial Liability
 
 ### Civil Errors
 
@@ -170,7 +170,7 @@ This brings the *Gemara* to the general principles of causation in damages. The 
 
 ---
 
-## Judicial Liability (III)
+## Judicial Liability (II)
 
 ### Purity Rulings
 
@@ -210,7 +210,7 @@ This also illuminates the phrase *mah she'asa asuy* in the *tumah* context. The 
 
 ---
 
-## Judicial Liability (III)…
+## Judicial Liability (III)
 
 ### Rabbi Tarfon Story
 

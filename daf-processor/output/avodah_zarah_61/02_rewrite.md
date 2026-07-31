@@ -168,7 +168,7 @@ The Rabbis sitting before *Rava* initially proposed that the concern of *gomlin*
 
 ---
 
-## Practical Applicatio (II)
+## Practical Application
 
 ### Wine Barrels Case
 

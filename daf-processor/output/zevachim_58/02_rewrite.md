@@ -20,7 +20,7 @@ The first case the *mishnah* takes up is: what if the *kodshei kodashim* were sl
 
 *Rabbi Yosi omer: ke'ilu nishchetu batzafon* — Rabbi Yosi says that if *kodshei kodashim* were slaughtered on top of the altar, it is as if they were slaughtered in the north. The phrasing is immediately striking: he says "as if" (*ke'ilu*) they were slaughtered in the north — not that they actually were. This invites the question of what the qualification is. If Rabbi Yosi holds that the entire altar is situated in the north of the *mikdash*, why would he describe slaughter on top of it as merely "as if" in the north? One would expect him simply to say it is in the north.
 
-### Yosi bar Yehuda: Half/Ha…
+### Yosi bar Yehuda: Altar
 
 Rabbi Yosi bar Rabbi Yehuda offers a different ruling: *mechatzi hamizbeach uledarom kadarom, mechatzi hamizbeach uletzafon katzafon* — from the midpoint of the altar southward, it is treated as the south; from the midpoint northward, it is treated as the north. This position reflects the intuitive assumption that the altar is centered in the *azarah*, straddling the dividing line between north and south. On that reading, the northern half of the altar lies in the northern hemisphere of the *mikdash* and is valid for *kodshei kodashim*, while the southern half is not.
 

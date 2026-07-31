@@ -1,6 +1,6 @@
 # Pesachim 27 — Daf Yomi Shiur
 
-## Oven & Forbidden Woo (II)
+## Oven & Forbidden Wood
 
 ### Setup: Orlah/Kilayim
 

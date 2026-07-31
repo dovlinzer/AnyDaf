@@ -18,7 +18,7 @@ Tosafot addresses this directly. The requirement for three judges persists even 
 
 ## Eliezer vs. Yehoshua
 
-### Baraita: 3 Judges, No Po…
+### Baraita: 3 Judges, Gmar
 
 A *baraita* is introduced: just as *din* requires three judges, so too *bitzua* — compromise — requires three. This confirms that *peshara* is understood, at least procedurally, as a form of adjudication rather than a purely private arrangement. The *baraita* further establishes that once *gmar din* — the finalized judgment — has been pronounced, *bitzua* is no longer permitted.
 
@@ -66,7 +66,7 @@ The language here is notable. This formulation does not frame *bitzua* as an alt
 
 ## Recusal & Responsibility
 
-### Reish Lakish: Before Cla…
+### Reish Lakish: Recusal
 
 Reish Lakish — some have the reading *Rabbi Yehoshua ben Lakish* — applies a closely related analysis to the question of judicial recusal. Two parties come before the court: one is *rach*, gentle and accommodating, and the other is *kasheh*, firm and potentially aggressive. The judge is concerned that whichever way he rules, the firm party will make his life difficult if he loses. The question is whether the judge may recuse himself from the case entirely.
 

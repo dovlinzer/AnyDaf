@@ -22,13 +22,13 @@ The third case is where the genuine *chiddush* lies. If someone says *perashti v
 
 The *mishnah* continues: *harei alai mincha* — if one simply vows to bring a *mincha* without specifying which type, *yavi eizo she-yirtze*, he may bring whichever of the five varieties enumerated at the beginning of *Vayikra* he wishes. These five are: *solet* (fine flour with oil), *machavat* (a flat pan), *marcheshet* (a deep pan), and the two forms of *ma'afeh tanur* (oven-baked offerings) — *challot* (loaves) and *rekikin* (wafers). Since he did not specify, he retains his choice.
 
-### Rabbi Yehuda: Solet Defa…
+### Rabbi Yehuda: Solet
 
 *Rabbi Yehuda* disagrees. He holds that one who vows an unspecified *mincha* must bring *minchat solet*, because it is *meyuchedet she-be-menachot* — it is, in some sense, the distinctive or designated *mincha* among the *menachot*. The *Gemara* will explore the precise meaning of this characterization.
 
 ---
 
-## Mincha Vows: Quantity…
+## Mincha Vows: Qty & Spec
 
 ### Rabbi's Separate Vessels
 
@@ -60,7 +60,7 @@ The *Gemara* then asks: but the *baraita* itself says *patach bo ha-katuv techil
 
 ### Olah vs Mincha
 
-The distinction from *olah* is, the lecturer notes, actually quite elegant and deserves appreciation independent of the *Gemara*'s resolution. The Torah's presentation of *mincha* is fundamentally different from its presentation of *olah*. For *olah*, the Torah says *adam ki yakriv mikem korban la-Hashem min ha-behema min ha-bakar umin ha-tzon takrivu* — the offering can come from any of several categories, and then *im olah korbano min ha-bakar* presents the cattle option as one branch among equals. The structure is genuinely open-ended. By contrast, the *mincha* passage says *venefesh ki takriv mincha korban mincha la-Hashem solet yihiye korbano* — "if you bring a *mincha*, it shall be *solet*" — presenting *solet* not as one option but as the statement of what a *mincha* is, with the other types introduced as variations. The Torah's framing itself signals that *solet* is the default.
+The distinction from *olah* is actually quite elegant and deserves appreciation independent of the *Gemara*'s resolution. The Torah's presentation of *mincha* is fundamentally different from its presentation of *olah*. For *olah*, the Torah says *adam ki yakriv mikem korban la-Hashem min ha-behema min ha-bakar umin ha-tzon takrivu* — the offering can come from any of several categories, and then *im olah korbano min ha-bakar* presents the cattle option as one branch among equals. The structure is genuinely open-ended. By contrast, the *mincha* passage says *venefesh ki takriv mincha korban mincha la-Hashem solet yihiye korbano* — "if you bring a *mincha*, it shall be *solet*" — presenting *solet* not as one option but as the statement of what a *mincha* is, with the other types introduced as variations. The Torah's framing itself signals that *solet* is the default.
 
 ---
 
@@ -84,7 +84,7 @@ The *Gemara* responds: *dilma ha mani Rabbi Shimon hi* — perhaps this *baraita
 
 ---
 
-## Uncertain Type: Five Opt…
+## Five Types: Uncertain Vow
 
 ### Five Types Standard
 
@@ -96,7 +96,7 @@ The *mishnah* then rules: *perashti ve-eini yodea eizeh mehem perashti yavi cham
 
 ---
 
-## Rabbi Shimon: Permutatio…
+## Rabbi Shimon: Temurot
 
 ### Half-and-Half Mixing
 

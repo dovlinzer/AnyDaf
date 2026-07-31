@@ -112,7 +112,7 @@ The *mishna* now turns to the question of what constitutes a *bekhor* for both i
 
 The *mishna* then turns to *yotzei dofen* — a child delivered by Caesarean section. The *chachamim* hold: *shneihem einam bekhor lo l'nakhalah velo l'kohen* — neither the child born by C-section nor the child born naturally afterward is a *bekhor* for either purpose. The C-section child is not *bekhor l'nakhalah* and not *bekhor* for *pidyon haben*; the naturally born child that follows is also not a *bekhor* for either.
 
-### Rabbi Shimon: C-Section…
+### Rabbi Shimon: C-Section
 
 Rabbi Shimon disagrees: *harishon l'nakhalah ve'hasheni l'chamisha sela'im* — the first child, born by Caesarean section, is the *bekhor* for inheritance and receives the double portion; the second child, the first to be born through natural vaginal birth, is the *bekhor* for *pidyon haben* and the five *sela'im*. On Rabbi Shimon's reading, both children have a *bekhor* status — each in a different domain — and neither is left without standing.
 

@@ -1,4 +1,5 @@
 # Sanhedrin 70 — Daf Yomi Shiur
+[DAF:70a]
 
 ## Age of Puberty Proofs
 
@@ -310,6 +311,7 @@ The second complaint, *mah bar bitni*, is more intimate. All the other wives of 
 
 The third complaint, *mah bar nedari*, is addressed to the divergence between Bat Sheva's hopes and Shlomo's behavior. All the other wives of the king made vows that they might produce a son fit for kingship. But Bat Sheva's vow was different: *yehei li ben zariz u-mimalei ba-Torah ve-hagun li-nevuot* — let me have a son who is swift, filled with Torah, and worthy of prophecy. She did not merely want a king; she wanted a king who was a prophet and a *talmid chakham*. To see such a son pursuing wine was to see her deepest aspirations betrayed.
 
+[DAF:70b]
 ### Kings' Folly
 
 > **Hebrew/Aramaic:** ״אַל לַמְלָכִים לְמוֹאֵל, אַל לַמְלָכִים שְׁתוֹ יָיִן״. ״אַל לַמְלָכִים״ – אָמְרָה לוֹ: מָה לְךָ אֵצֶל מְלָכִים שֶׁשּׁוֹתִים יַיִן וּמִשְׁתַּכְּרִים וְאוֹמְרִים לָמָּה לָנוּ אֵל? ״וּלְרוֹזְנִים אֵי שֵׁכָר״ – מִי שֶׁכׇּל רָזֵי עוֹלָם גְּלוּיִים לוֹ יִשְׁתֶּה יַיִן וְיִשְׁתַּכֵּר?

@@ -1,4 +1,5 @@
 # Bava Batra 30 — Daf Yomi Shiur
+[DAF:29b]
 
 ## Rashi & Chazaka
 
@@ -192,6 +193,7 @@ Returning to the house case, Rav Nachman's reasoning becomes clearer. The *gemar
 
 The *gemara* presents another case in the same recurring form. Someone asks his fellow: *mai ba'it behai beita* — what are you doing in my house? The occupant responds: *minach zavinteih ve'achaltieh shenei chazaka* — I bought it from you and I have established three years of *chazaka*. The original owner counters: *ana beshuchnei barai havaite* — I was in an outer region, a distant territory, for those three years. This is the concept of *chazaka shelo befanav* — adverse possession in the absence of the owner. The principle is that *chazaka shelo befanav* is effective only when the owner is in a region where communication and travel are reasonably available, so that word of what is happening on his property could reach him. If someone is in one part of Judea and the property is elsewhere in Judea, we assume there is sufficient travel between those places that a proper *chazaka* would put the owner on notice. But if the owner is in a region entirely cut off from regular travel with the region of the property — as between Judea and the Galil, where regular movement is limited — the three years do not produce a valid *chazaka*. The owner here claims he was in a distant foreign territory, equivalent in practical terms to China, and had no way of receiving word of the adverse possession. The three years therefore cannot stand against him.
 
+[DAF:30b]
 ### Annual Return
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ: וְהָא אִית לִי סָהֲדִי דְּכֹל שַׁתָּא הֲוָה אָתֵית תְּלָתִין יוֹמֵי!

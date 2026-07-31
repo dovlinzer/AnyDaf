@@ -1,4 +1,5 @@
 # Keritot 27b — Daf Yomi Shiur
+[DAF:27a]
 
 ## Korban Designation
 
@@ -18,6 +19,7 @@ The *mishnah* opens with a seemingly straightforward case: if a person sets asid
 
 Two distinct reasons underlie this prohibition. First, there is no formal halachic *kapara* for the dead—whatever other traditions exist regarding *kaddish* or learning *mishnayot* on behalf of the deceased, no *korban* can achieve atonement for someone who has already died. Second, and more fundamentally, a *chattat* cannot be used for a person other than the one it was designated for, nor can it be used for a sin other than the one it was designated to atone for. The *mishnah* presses this point to its logical extreme: even the person himself cannot bring a *chattat* designated for one act of eating *chelev* to atone for a different act of eating *chelev* on a different day. The specificity is absolute—the *chattat* is tied to the person and to the precise sin.
 
+[DAF:27b]
 ### Peshat from Vayikra
 
 > **Hebrew/Aramaic:** יָכוֹל לֹא יֵצֵא בְּקׇרְבַּן אָבִיו בִּבְהֵמָה שֶׁהִפְרִישׁ אָבִיו, מִן הַקַּלָּה עַל הַחֲמוּרָה, אוֹ מִן הַחֲמוּרָה עַל הַקַּלָּה, אֲבָל יוֹצֵא בְּקׇרְבָּן שֶׁהִפְרִישׁ אָבִיו מִן הַקַּלָּה עַל הַקַּלָּה, אוֹ מִן הַחֲמוּרָה עַל הַחֲמוּרָה? תַּלְמוּד לוֹמַר: ״קׇרְבָּנוֹ״ – בְּקׇרְבָּנוֹ הוּא יוֹצֵא, וְאֵינוֹ יוֹצֵא בְּקׇרְבָּנוֹ שֶׁל אָבִיו.

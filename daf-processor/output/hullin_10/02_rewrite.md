@@ -36,7 +36,7 @@ An important methodological point about Tosfos bears emphasis here, one that is 
 
 ---
 
-## Knife Nick After Slaught…
+## Knife Status Post-Mortem
 
 ### Case Setup
 

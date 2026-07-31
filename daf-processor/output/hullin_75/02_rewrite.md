@@ -46,7 +46,7 @@ Beit Hillel's position maps directly onto the Sages' ruling about the *ben pakua
 
 The *gemara* then raises a further question prompted by the discussion of fish survival: *noldu bedagim simanei treifa mahu* — what is the law if a fish displays signs of a *treifa* injury? This question is novel; the entire earlier section of *Chullin* discussed *treifos* by cattle and sheep, but never by fish. The reason it matters here is that according to Rabbi Akiva, the threshold for the fish becoming food is whether it can survive. If a fish has a *treifa*-type injury, perhaps it cannot survive, and would therefore already be considered food. The *gemara* explores this from both angles: according to those who hold *treifa chaya* — a *treifah* animal can survive — perhaps the fish's lesser vitality (*denafish chayusa*) means the same injury that a cow could survive would be fatal for a fish. And according to those who hold *treifa einah chaya* — a *treifah* cannot survive — perhaps the concept of *treifa* is simply inapplicable to fish since they have no *shechita*, and so the list of *treifah* injuries has no traction there. The *gemara* leaves this as *teiku* — unresolved. The discussion also illuminates something about the nature of the *treifah* list itself: even those who hold *treifa chaya* seem to admit that the listed injuries carry a high likelihood of death, even if not an absolute certainty, which is why the *treifa* injuries remain relevant even on that view.
 
-## Fetus Status: Birth/Gest…
+## Fetus Status: Birth
 
 ### Miscarriage Case
 

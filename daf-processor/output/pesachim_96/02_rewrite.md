@@ -24,13 +24,13 @@ Rava answers by tracing the very source of the *tumah* prohibition as it applies
 
 From this derivation, Rava articulates a governing principle: *kol heicha d'isa tumas basar isa tumas emurim; kol heicha d'lesa tumas basar lesa tumas emurim* — wherever the *tumah* prohibition on *basar* applies, the *tumah* prohibition on *emurim* applies; wherever it does not apply, neither does it apply to *emurim*. The conclusion: since in *pesach haba b'tumah* the *tumah* prohibition on the *basar* of the *pesach* is waived, the same waiver extends to its *emurim*. This is limited solely to the dimension of *tumah*. The *tamei* person who eats *emurim* remains *chayav* for eating them as a *zar* — that prohibition is entirely unaffected. He simply does not incur the additional *chiyuv* for *tumah*.
 
-### Rabbi Zeira: Pesach Mitz…
+### Zeira: Emurim Pesach
 
 Rabbi Zeira then asks a question that serves as a perfect bridge to the next *mishnah*: what was done with the *emurim* of *pesach Mitzrayim*? In Egypt, the lintel and doorposts served as a kind of *mizbeiach* for the *zerikah* of the blood. But where were the *emurim* burned? There was no actual *mizbeiach* in Egypt. This question naturally opens the discussion of what the *pesach* in Egypt looked like, and what distinguished it from the *pesach* of future generations.
 
 ---
 
-## Pesach Mitzrayim vs L'Do…
+## Pesach: Egypt vs Future
 
 ### Abaye: Burning Emurim
 
@@ -40,7 +40,7 @@ Abaye offers two responses to Rabbi Zeira's question. First: *uman leima lan del
 
 With this as a launching point, the *Gemara* transitions to the *mishnah*, which addresses: *mah bein pesach Mitzrayim lepesach dorot* — what were the differences between the *pesach* brought in Egypt and the *pesach* of future generations? The *mishnah* itself mentions only a few distinctions; the *Tosefta* is considerably more expansive, and we will return to it below.
 
-### Pesach Mitzrayim Practic…
+### Pesach: Tenth & Hyssop
 
 The *mishnah* enumerates three practices unique to *pesach Mitzrayim*. First: *mikcho mibe'asor* — the lamb or kid was to be taken on the tenth of the month, as commanded in the verse *be'asor lachodesh hazeh veyikchu lahem ish seh leveit avot*. Second: *ta'un hazayah ba'agudat ezov ve'al hamashkof ve'al shtei hamezuzot* — it required sprinkling with a bundle of hyssop (*agudat ezov*) on the lintel and the two doorposts. These two requirements — the tenth-day selection and the hyssop-on-doorpost application — applied only in Egypt and not to future generations.
 
@@ -48,7 +48,7 @@ The *mishnah* enumerates three practices unique to *pesach Mitzrayim*. First: *m
 
 Third: *ne'echal bechipazon balaylah* — it was to be eaten hurriedly and at night. This, too, the *mishnah* presents as a distinctive feature, with the implication that the *pesach* of future generations is not bound by the urgency of *chipazon* in the same manner. It was eaten *balaylah echad* — in one night — a limitation the *Gemara* will interrogate further.
 
-### Pesach L'Doros: Seven Da…
+### Pesach L'Doros: 7 Days
 
 By contrast, *pesach dorot noheg kol shiv'ah* — the *pesach* of future generations extends over seven days. The *Gemara* will clarify that this cannot refer to the *korban* itself, since no one eats the *pesach* offering for seven days; rather it must refer to the prohibition of *chametz*, which applies for seven days in future generations. This introduces an interesting conflation within the *mishnah* between *pesach* as a *korban* (which has been the exclusive focus of the preceding five *perakim*) and *pesach* as a *yom tov* — the festival week with its *chametz* prohibition and *matzah* obligation. It is worth noting that shift.
 

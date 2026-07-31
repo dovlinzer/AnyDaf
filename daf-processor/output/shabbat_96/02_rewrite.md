@@ -152,7 +152,7 @@ This raises the foundational question of the entire *av*-*toldah* framework: *am
 
 ---
 
-## Rabbi Eliezer vs Categor…
+## Eliezer vs Av-Tolada
 
 ### Two-Offering Rule
 
@@ -184,7 +184,7 @@ Applying this to the present case: carrying from *reshut ha-yachid* to *reshut h
 
 ## Four Amot Tradition
 
-### Four Amot Tradition
+### Four Amot Tradition (II)
 
 The *gemara* now turns to a category of carrying not yet accounted for: carrying or throwing four *amot* within *reshut ha-rabbim*. This is distinct from carrying between *reshut ha-yachid* and *reshut ha-rabbim*, and must be derived separately. As already noted, *hotza'ah* cannot be abstracted freely — every configuration requires its own source. The *gemara* therefore asks: *zorek arba amot b'reshut ha-rabbim, minalan demichayev?* — throwing four *amot* in *reshut ha-rabbim*, how do we know one is liable?
 

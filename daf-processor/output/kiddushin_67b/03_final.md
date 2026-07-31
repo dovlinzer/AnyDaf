@@ -1,4 +1,5 @@
 # Kiddushin 67b — Daf Yomi Shiur
+[DAF:67a]
 
 ## Converts & Lineage
 
@@ -60,6 +61,7 @@ The *gemara* asks: *mena hanei milei* — what is the scriptural source for the 
 
 The *gemara* cites a teaching transmitted through a chain: Rabbi Chiyya bar Abba said in the name of Rabbi Yochanan, tracing back through Rabbi Yannai, and also through Rabbi Acha the son of Rava, tracing back to Rabbi Yossi Ha-Gelili. The proof text is the verse in the divorce passage: *ve-yatz'ah mi-beitah ve-halchah ve-haytah le-ish acher* — she may go and become the wife of another man. The *drasha*: *l'acherim v'lo likrovim* — she may marry "others," but not the relatives of her ex-husband. This is not merely a statement that such a marriage would be prohibited; it implies that *kiddushin* would not take effect at all with those *krovim*.
 
+[DAF:67b]
 ### R. Abba Query
 
 > **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַבִּי אַבָּא: וְאֵימָא ״לְאַחֵר״ וְלֹא לְבֵן! בֵּן בְּהֶדְיָא כְּתִיב בֵּיהּ: ״לֹא יִקַּח אִישׁ אֶת אֵשֶׁת אָבִיו״, ״אַחֵר״ לְמָה לִי? שְׁמַע מִינַּהּ לַאֲחֵרִים וְלֹא לִקְרוֹבִים.

@@ -8,6 +8,18 @@ display_title values from 01_segmentation.json, matched by position.
 ### headings → micro segment display_titles (in order, across all macros)
 
 Run with --dry-run to preview without writing.
+
+Matching is POSITIONAL, so it silently mislabels every heading after the first
+divergence on any daf whose heading count differs from the segmentation's
+segment count. Two flags exist to contain that:
+
+  --only FILE      restrict to the daf directory names listed in FILE (one per
+                   line). Use with a pre-verified count-aligned list.
+  --rewrite-only   touch 02_rewrite.md and leave 03_final.md alone. Correct
+                   when 03_final.md is about to be regenerated downstream —
+                   ~900 dafim have a legitimately different heading count there
+                   after pass 3 split/merged sections, and those would be
+                   corrupted by positional matching.
 """
 import json
 import sys
@@ -15,6 +27,12 @@ from pathlib import Path
 
 OUTPUT_DIR = Path(__file__).parent / "output"
 DRY_RUN = "--dry-run" in sys.argv
+REWRITE_ONLY = "--rewrite-only" in sys.argv
+
+ONLY: set[str] | None = None
+if "--only" in sys.argv:
+    only_path = Path(sys.argv[sys.argv.index("--only") + 1])
+    ONLY = {ln.strip() for ln in only_path.read_text().splitlines() if ln.strip()}
 
 
 def apply_titles(path: Path, macro_display: list[str], micro_display: list[str]) -> bool:
@@ -57,6 +75,8 @@ def apply_titles(path: Path, macro_display: list[str], micro_display: list[str])
 total_updated = 0
 
 for daf_dir in sorted(OUTPUT_DIR.iterdir()):
+    if ONLY is not None and daf_dir.name not in ONLY:
+        continue
     seg_file     = daf_dir / "01_segmentation.json"
     rewrite_file = daf_dir / "02_rewrite.md"
     final_file   = daf_dir / "03_final.md"
@@ -85,7 +105,8 @@ for daf_dir in sorted(OUTPUT_DIR.iterdir()):
     ]
 
     r_changed = apply_titles(rewrite_file, macro_display, micro_display)
-    f_changed = apply_titles(final_file,   macro_display, micro_display) if final_file.exists() else False
+    f_changed = (apply_titles(final_file, macro_display, micro_display)
+                 if final_file.exists() and not REWRITE_ONLY else False)
 
     if r_changed or f_changed:
         total_updated += 1

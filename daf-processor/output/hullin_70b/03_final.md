@@ -1,4 +1,5 @@
 # Hullin 70b — Daf Yomi Shiur
+[DAF:69b]
 
 ## Intro & Overview
 
@@ -6,6 +7,7 @@
 
 The opening pages of this *perek* have dealt with *shechita* and *kashrus*-related questions surrounding the mother and her fetus: when slaughtering a mother cow, one may eat the fetus found inside, with attendant discussions about protruding limbs and the status of a firstborn. Now the *daf* pivots to an entirely different domain—*tumah v'taharah*—while retaining the same underlying phenomenon of the mother and the fetus within her womb.
 
+[DAF:70b]
 ### Mishnah: Fetus Status
 
 > **Hebrew/Aramaic:** מַתְנִי׳ בְּהֵמָה שֶׁמֵּת עוּבָּרָהּ בְּתוֹךְ מֵעֶיהָ וְהוֹשִׁיט הָרוֹעֶה אֶת יָדוֹ וְנָגַע בּוֹ, בֵּין בִּבְהֵמָה טְמֵאָה בֵּין בִּבְהֵמָה טְהוֹרָה – טָהוֹר. רַבִּי יוֹסֵי הַגְּלִילִי אוֹמֵר: בִּטְמֵאָה – טָמֵא, וּבִטְהוֹרָה – טָהוֹר.

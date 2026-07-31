@@ -1,4 +1,5 @@
 # Megillah 16b — Daf Yomi Shiur
+[DAF:16a]
 
 ## Yosef's Weeping
 
@@ -60,6 +61,7 @@ The Gemara immediately questions this application: *mai betzirosieh me'achvoh* �
 
 The phrase *vayishtachu Yisrael al rosh hamitah* thus receives its proper context. Yaakov bowing before Yosef was not mere deference to a son; it reflected the recognition that Yosef's position of authority warranted acknowledgment — even from his father. The proverb is not demeaning to Yosef but descriptive of the reality of worldly power.
 
+[DAF:16b]
 ### Candles Metaphor
 
 > **Hebrew/Aramaic:** ״וַיְנַחֵם אוֹתָם וַיְדַבֵּר עַל לִבָּם״. אָמַר רַבִּי בִּנְיָמִין בַּר יֶפֶת אָמַר רַבִּי אֶלְעָזָר: מְלַמֵּד שֶׁאָמַר לָהֶם דְּבָרִים שֶׁמִּתְקַבְּלִין עַל הַלֵּב: וּמָה עֲשָׂרָה נֵרוֹת לֹא יָכְלוּ לְכַבּוֹת נֵר אֶחָד, נֵר אֶחָד הֵיאַךְ יָכוֹל לְכַבּוֹת עֲשָׂרָה נֵרוֹת?

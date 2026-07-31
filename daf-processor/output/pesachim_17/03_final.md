@@ -1,7 +1,9 @@
 # Pesachim 17 — Daf Yomi Shiur
+[DAF:16b]
 
 ## Haggai's Questions
 
+[DAF:17a]
 ### Rav's Position Intro
 
 > **Hebrew/Aramaic:** וְאָמַר רַב: אִישְׁתַּבֻּשׁ כָּהֲנֵי. מִידֵּי הוּא טַעְמָא אֶלָּא לְרַב? רַב ״מַשְׁקֵי בֵּית מַטְבְּחַיָּא״ תָּנֵי, אֲבָל מַשְׁקֵי בֵּי מַדְבְּחַיָּא — מְטַמֵּא.
@@ -156,6 +158,7 @@ The Gemara also notes a tension: if Levi holds like Rav (rather than Shmuel) —
 
 Rav Pappa introduces a new framework for understanding the exemption of slaughterhouse liquids. Even if one holds, as a general proposition, that *tumat mashkin* applies *mi-d'oraita*, Rav Pappa says: *mashkei beit mitbachaya hilchata gemiri la* — the exemption of slaughterhouse liquids from *tumah* is a *halacha l'Moshe mi-Sinai*, a transmitted tradition from Sinai, not a deduction from logic or an extension of general principle. The exemption thus floats free of the broader debate about whether *tumat mashkin* is biblical or rabbinic.
 
+[DAF:17b]
 ### Challenge to Rav Pappa
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב הוּנָא בְּרֵיהּ דְּרַב נָתָן לְרַב פָּפָּא: וְאֶלָּא הָא דְּאָמַר רַבִּי אֱלִיעֶזֶר: אֵין טוּמְאָה לְמַשְׁקִין כׇּל עִיקָּר, תֵּדַע, שֶׁהֲרֵי הֵעִיד (יוֹסֵף) בֶּן יוֹעֶזֶר אִישׁ צְרֵידָה עַל מַשְׁקֵי בֵּית מַטְבְּחַיָּא דְּכַן. וְאִי הִלְכְתָא גְּמִירִי לַהּ — מִי גָּמְרִינַן מִינַּהּ?

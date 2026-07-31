@@ -10,7 +10,7 @@ The daf opens by returning to a question left hanging from the previous discussi
 
 The *gemara* asks: why not frame the case as a loan? Why not say that Rabbi Yehoshua's example of *peh she-asar* is a person who tells his friend, "I borrowed a hundred dollars from you and I paid it back," where no external evidence exists? That too would be a clean *peh she-asar* — the same mouth that admitted the debt also claimed repayment. The answer the *gemara* gives is that such a case would not work for the *mishnah*'s structure. The *mishnah* is structured in two halves: when the person freely offers up all the information, *peh she-asar*, he is believed; but when witnesses independently establish the first part of his claim, he is not believed regarding the second. Applied to a loan, the *seifa* would have to say: if there are witnesses that he borrowed the money, and he now claims repayment, he is not believed. But that is simply not true.
 
-### Repayment Without Witnesses
+### Borrower With Witnesses
 
 The *gemara* has already established the principle: *ha-malveh et chaveiro b'edim eino tzarich l'poreo b'edim* — if someone lends money to another with only witnesses (as opposed to a written *shtar*), the borrower is not required to produce witnesses at the time of repayment. He may simply pay back the money, and his claim that he did so is believed. This is the established *halacha*. And if that is the case, then even where witnesses testify to the original loan, the borrower's unilateral claim of repayment remains credible. The *seifa* the *gemara* would have constructed — that witnesses to the borrowing render the repayment claim unbelievable — would therefore be halachically false. Hence, the loan scenario cannot serve as Rabbi Yehoshua's example.
 
@@ -24,7 +24,7 @@ The underlying logic of this ruling is a *chazakah* that will recur throughout t
 
 ---
 
-## Loan to Father, Claim by…
+## Loan from Father, Partial
 
 ### Case: Half Consumed
 
@@ -72,9 +72,9 @@ The conclusion is clear: according to the *Chachamim*, this case cannot illustra
 
 ---
 
-## Document Validation & Re…
+## Witnesses Validate Sigs
 
-### Witness Self-Validation…
+### Witnesses Claim Disqualif
 
 The *mishnah* now pivots to a new class of *peh she-asar* cases involving the authentication of documents. The scenario is as follows: a *shtar* is produced in court but has not yet been independently verified. The process of *kiyum shtarot* — validating a document's signatures — normally requires either bringing the signatories themselves to affirm their signatures, producing witnesses who recognize those signatures, or comparing them against a previously certified document. Until this process is complete, the *shtar* does not have the standing of formally delivered testimony.
 
@@ -90,7 +90,7 @@ The practical difference emerges in a case where accepting the first half of the
 
 *Tosafot* addresses this and indicates that in the *mishnah*'s framework, the *peh she-asar* logic functions more like neutralization — the witnesses are treated as having said nothing. It is not that we validated the *shtar* and then un-validated it; rather, the entire combined statement never constituted a *kiyum* of the *shtar* at all. The two halves are so intertwined — indeed, *Rashi* even characterizes it as delivered *toch kedei dibbur*, as a single uninterrupted utterance — that they function as a unit that leaves the *shtar* exactly where it was.
 
-### Rami bar Chama's Distinc…
+### Rami bar Chama: Coercion
 
 *Rami bar Chama* introduces an important qualification that applies to the first part of the *mishnah* — the case where the witnesses themselves are the ones affirming their signatures, before any independent verification. He distinguishes between two types of claimed coercion. When the witnesses say *anusim hayinu machmat nefashot* — we were coerced under mortal threat, a gun was held to our heads — they are believed. But when they say *anusim hayinu machmat mamon* — we were coerced by financial threat, the man threatened to destroy our property unless we signed — they are not believed as to the disqualifying claim.
 
@@ -108,11 +108,11 @@ The *gemara* then considers a further objection raised by *Rava*. Even granting 
 
 The principle of *keivan shehigid shuv eino chozer umagid* is absolute once testimony has been delivered. *Rava* raises this as a challenge to *Rami bar Chama*'s ruling: even in the case of mortal coercion, once the document has been validated independently, the witnesses' subsequent oral declaration that it was all fabricated amounts to a retraction of their prior testimony, and such a retraction is legally ineffective. One might have thought that the retraction should be accepted because the original testimony was not delivered orally in court but was embodied in a signed document — perhaps a document does not carry the same weight as live courtroom testimony. But this is precisely where *Reish Lakish*'s ruling intervenes.
 
-### Reish Lakish on Document…
+### Reish Lakish: Witnesses
 
 *Reish Lakish* holds: *edim ha-chatumim al ha-shtar na'asu ke-mi she-nichkera edutam be-veit din* — witnesses who sign a document have the same legal standing as witnesses whose oral testimony has been formally cross-examined in court. The signature on a validated *shtar* is equivalent in evidentiary weight to direct courtroom testimony. Once the *shtar* has been independently validated, the witnesses cannot retract. The earlier part of the *mishnah* — where the witnesses themselves are the source of validation and are therefore believed to add the qualifying claim — accordingly applies only to that first scenario, before independent validation. Once the *seifa*'s condition is met and the signatures are established through external means, no subsequent claim by the witnesses can dislodge the document.
 
-### Ein Adam Meisim Atzmo Ra…
+### Ein Adam Meisim Atzmo
 
 The principle of *ein adam meisim atzmo rasha* — that a person is not believed, and indeed that the court will not give legal force to testimony, when it would require treating the speaker as a *rasha* — applies specifically to the case of financial coercion. In that case, the witnesses have admitted to having committed *edut sheker* for an insufficient reason. Their self-incriminating declaration is inadmissible. The *shtar* stands, and the second half of their statement — the part that would have voided it — cannot be entered into evidence. This is the structure *Rami bar Chama* describes, and it holds for the *reisha* of the *mishnah* where independent validation has not yet occurred. The combined effect of *ein adam meisim atzmo rasha* and the rule of *keivan shehigid* means that in the *seifa* — where the document has been externally validated — the witnesses are never believed to retract their testimony under any circumstances.
 
@@ -120,15 +120,15 @@ The principle of *ein adam meisim atzmo rasha* — that a person is not believed
 
 ## Rabbi Meir's Strict View
 
-### Meir: No Self-Disqualifi…
+### Meir: No Self-Disqualifi
 
 The *gemara* now introduces a *beraita* that records a further stringency. *Tanu Rabbanan*: *ein ne'emanim le-foslo* — they are not believed to disqualify the document — *divrei Rabbi Meir*. The *Chachamim* say they are believed. This applies to the *reisha* of the *mishnah* — the case where the witnesses themselves are the ones validating the *shtar* and simultaneously claiming disqualification. The *Chachamim* hold that this is a classic *peh she-asar*: the same mouth that validated, disqualified. Rabbi Meir does not accept the disqualifying claim even here.
 
-### Presumptions Override Cl…
+### Presumptions Override
 
 Rabbi Meir's position requires explanation, since on the surface the two halves of the statement appear perfectly matched: the mouth that bound also released. The *gemara*'s answer distinguishes between accepting the *peh she-asar* logic in principle and recognizing that the first half of the statement, once accepted, can trigger presumptions strong enough to override the second half. For Rabbi Meir, *peh she-asar* does not mean the two halves automatically neutralize each other. Rather, the first half is accepted on its own terms, and the second half must be weighed against whatever it stands against — including firm halachic presumptions.
 
-### Chazaka: Valid Witnesses…
+### Chazaka: Witnesses Valid
 
 In the case where the witnesses claim to have been relatives of a party, the *gemara* explains Rabbi Meir's ruling through the following reasoning: *malveh gufeih meidak dayyek u-michtav* — a creditor who goes to the trouble of having a document written takes care to ensure that the witnesses he uses are valid witnesses. A person protecting his financial interests will not carelessly use relatives as signatories. This is a *chazakah*: an established pattern of human behavior. The witnesses' claim that they were relatives therefore runs directly against this presumption, and the presumption wins.
 

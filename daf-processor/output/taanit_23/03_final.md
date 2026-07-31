@@ -1,4 +1,5 @@
 # Taanit 23 — Daf Yomi Shiur
+[DAF:23a]
 
 ## Rov Tovah & Shimon
 
@@ -240,6 +241,7 @@ This connects directly back to the carob tree. The man planting the tree underst
 
 Once when rain was needed, the rabbis sent a pair of scholars to him. They went to his house and did not find him there. They went out to the field and found him hoeing. They greeted him — *shalom aleichem* — and he did not return the greeting. The narrative has begun, and it consists entirely of behaviors that will require explanation.
 
+[DAF:23b]
 ### Roof Prayer
 
 > **Hebrew/Aramaic:** בְּפַנְיָא, כִּי הֲוָה מְנַקֵּט צִיבֵי, דְּרָא צִיבֵי וּמָרָא בְּחַד כַּתְפָּא, וּגְלִימָא בְּחַד כַּתְפָּא. כּוּלַּהּ אוֹרְחָא לָא סָיֵים מְסָאנֵי, כִּי מָטֵי לְמַיָּא סָיֵים מְסָאנֵיהּ. כִּי מְטָא לְהִיזְמֵי וְהִיגֵי דַּלִּינְהוּ לְמָנֵיהּ. כִּי מְטָא לְמָתָא, נָפְקָה דְּבֵיתְהוּ לְאַפֵּיהּ כִּי מִיקַּשְּׁטָא. כִּי מְטָא לְבֵיתֵיהּ, עַלַּת דְּבֵיתְהוּ בְּרֵישָׁא, וַהֲדַר עָיֵיל אִיהוּ, וַהֲדַר עָיְילִי רַבָּנַן. יְתֵיב וּכְרֵיךְ רִיפְתָּא וְלָא אֲמַר לְהוּ לְרַבָּנַן תּוּ כְּרוּכוּ. פְּלַג רִיפְתָּא לְיָנוֹקֵי, לְקַשִּׁישָׁא — חֲדָא, וּלְזוּטְרָא — תְּרֵי. אֲמַר לַהּ לִדְבֵיתְהוּ: יָדַעְנָא דְּרַבָּנַן מִשּׁוּם מִיטְרָא קָא אָתוּ, נִיסַּק לְאִיגָּרָא וְנִיבְעֵי רַחֲמֵי, אֶפְשָׁר דְּמִרַצֵּי הַקָּדוֹשׁ בָּרוּךְ הוּא וְיֵיתֵי מִיטְרָא וְלָא נַחְזֵיק טֵיבוּתָא לְנַפְשִׁין. סַקוּ לְאִיגָּרָא, קָם אִיהוּ בַּחֲדָא זָוִיתָא, וְאִיהִי בַּחֲדָא זָוִיתָא, קְדוּם סְלוּק עֲנָנֵי מֵהָךְ זָוִיתָא דִּדְבֵיתְהוּ.

@@ -1,6 +1,6 @@
 # Arakhin 5 — Daf Yomi Shiur
 
-## Vital Organ Representati…
+## Vital Organs: Arachin
 
 ### Kevodo Chiddush
 
@@ -44,7 +44,7 @@ The *gemara* then supplies the decisive answer: the automatic upgrade applies on
 
 This also clarifies the geometry somewhat: a direct donation to the *Beit HaMikdash* — even if it is just a check — gives the full value of the vital organ as the whole person's value. A direct *korban* sanctification, where the vital organ triggers *kedushat ha-guf*, gives the whole animal. But when neither upgrade is possible — you have something that cannot be a *korban* itself, and you want the *damim* to go toward a *korban* — you are in this middle space where only a partnership results.
 
-### Unresolved Hybrid Cases
+### Unresolved Hybrids
 
 Before concluding, the *gemara* raises Rava's question (from *Temurah*) in its original form: *meirosh li le-gabei mizbe'ach mahu* — if I say "the value of my head toward the altar," do we reckon the full value of the person (*niddon bi-khvodo*) or only a partial value? Rava had noted the tension: in cases of pure monetary valuation (*damim*), we find that *kevodo* always applies, the organ representing the whole. But in cases directly for the *mizbe'ach*, we have never found *kevodo* applying in the hybrid sense. The question was left as *teiku* — unresolved. The *gemara* now clarifies: that question was asked before this *braita* was brought to bear. Now that the *braita* has been cited, we know the answer: this is precisely the hybrid case, and the result is a partnership, not full valuation.
 

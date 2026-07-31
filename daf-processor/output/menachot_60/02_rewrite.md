@@ -128,7 +128,7 @@ A further question arises — whether *shima* (placing) should be understood thr
 
 The *Gemara* now takes up whether both prohibitions — oil and *levonah* — can apply to the same *mincha*. A *baraita* states: *lo yasim aleha shemen v'lo yiten* — do not place oil upon it and do not give *levonah* upon it. The *baraita* thus groups the two prohibitions together in reference to a single *mincha*.
 
-### Transgress After Invalid…
+### Transgress After Invalid
 
 The question posed is: once oil has been placed and has thereby invalidated the *mincha*, does a subsequent application of *levonah* constitute a separate transgression? One might think not — since the offering is already *pasul*, any further act performed upon it cannot constitute a meaningful violation. Indeed, we have seen that one does not transgress the prohibition of making the *mincha chametz* (*lo te'afeh chametz*) if the *mincha* is already *pasul*, because there is nothing left to ruin. Perhaps the same logic applies here.
 
@@ -140,7 +140,7 @@ On the other hand, one might argue that oil and *levonah* are linked by the Tora
 
 *Tosafot* notes a second reading in which the conclusion runs in the opposite direction: *aleha* limits each prohibition to a *mincha* in proper individual status, implying that once the *mincha* has been invalidated by oil, the subsequent addition of *levonah* does not generate an additional violation. On this reading, each prohibition operates independently on a valid *mincha* but cannot compound upon an already-disqualified one.
 
-### Vessel on Vessel
+### Vessel on Vessel (II)
 
 The *baraita* then addresses the vessel-on-vessel case: *yachol lo yiten kli agabei kli* — perhaps one may not place a vessel of oil atop the *mincha*. The verse responds *aleha* — the prohibition requires placing the oil directly *upon* the *mincha* itself, not merely positioning a vessel containing oil above it. Accordingly, placing oil in a vessel and resting that vessel on top of the *mincha* neither invalidates the offering nor constitutes a transgression.
 

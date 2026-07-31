@@ -142,7 +142,7 @@ The *Gemara* draws a comparison to a discussion about water for *Para Aduma*. Wa
 
 This parallel is instructive: water in the open airspace above the barrel is treated as though it were already inside the barrel. This is the principle of *avir kli* — the airspace of a vessel is legally equivalent to the vessel itself.
 
-### Airspace Keshesofo Lanua…
+### Airspace Keshesofo Lanua
 
 The *Gemara* now examines this principle carefully, noting the distinction between two cases. The case of *avir she-sofo lanuach* — airspace above a vessel whose floor is intact, meaning the object (blood or water) will inevitably land in the vessel — is one thing. In that case, the *Gemara* is inclined to say *ke-munach dami* — it is treated as though it has already landed. But the original question was about *avir she-ein sofo lanuach* — airspace above a vessel whose floor has fallen out, so that the object will not in fact land in the vessel. Does the same principle apply?
 

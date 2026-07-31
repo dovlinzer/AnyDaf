@@ -94,7 +94,7 @@ The *braita* then addresses the parallel case involving animals. *Haysa lo behem
 
 ## Mum Status
 
-### Inference: Unspecified M…
+### Inference: Ba'al Mum
 
 The *gemara* now draws an inference from the *braita*. When the *braita* contrasts unspecified money — which goes toward an *olah* as *nedava* — with specified animals — where each goes to its designated sacrifice — the *gemara* asks: *mai lav afilu ba'alat mum* — does this not apply even to animals with a blemish? That is, the *braita* seems to be drawing a contrast between money and all forms of animals. If so, even animals with a *mum*, which we have suggested are cash-equivalent, would still fall on the "animal" side of the ledger and would be treated as *mefureshet* rather than as *maot stumot*. This would undermine what Rav Nachman had ruled earlier.
 

@@ -1,4 +1,5 @@
 # Zevachim 62 — Daf Yomi Shiur
+[DAF:61b]
 
 ## Locating the Altar
 
@@ -120,6 +121,7 @@ Having established the four *me'akvin* elements, the *gemara* returns to the oth
 
 Rabbi Mani qualifies this ruling with an important caveat: *u-bilvad shelo yifchatenu mi-mizbe'ach she-asa Moshe* — provided one does not make it smaller than the *mizbe'ach* that Moshe built. While the upper bound extends to sixty *amot*, there is a floor below which the *mizbe'ach* may not be reduced.
 
+[DAF:62b]
 ### R. Yosef's Confusion
 
 > **Hebrew/Aramaic:** וְכַמָּה? אָמַר רַב יוֹסֵף: אַמָּה. מַחֲכוּ עֲלֵיהּ: ״חָמֵשׁ אַמּוֹת אֹרֶךְ וְחָמֵשׁ אַמּוֹת רֹחַב רָבוּעַ יִהְיֶה הַמִּזְבֵּחַ״!

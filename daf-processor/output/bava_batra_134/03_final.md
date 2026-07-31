@@ -1,4 +1,5 @@
 # Bava Batra 134 — Daf Yomi Shiur
+[DAF:133b]
 
 ## Disinheritance Ethics
 
@@ -134,6 +135,7 @@ Yonatan ben Uziel was not comfortable with the complete disinheritance of the so
 
 The purpose of the first two transactions was not primarily self-interest. Had Yonatan simply received the estate and immediately written it back to the sons, someone could argue — as indeed Shammai will argue — that the gift to Yonatan was never real, that he was merely a conduit, and therefore that the property never truly left the family. By first selling a portion and consecrating another portion, Yonatan demonstrated concretely that the gift was genuine — he truly owned it and disposed of it as an owner would. Only once that was established could he freely gift the remaining third to whomever he chose, including the sons.
 
+[DAF:134a]
 ### Shammai Challenge
 
 > **Hebrew/Aramaic:** בָּא עָלָיו שַׁמַּאי בְּמַקְלוֹ וְתַרְמִילוֹ. אָמַר לוֹ: שַׁמַּאי, אִם אַתָּה יָכוֹל לְהוֹצִיא אֶת מַה שֶּׁמָּכַרְתִּי וּמַה שֶּׁהִקְדַּשְׁתִּי – אַתָּה יָכוֹל לְהוֹצִיא מַה שֶּׁהֶחְזַרְתִּי, אִם לָאו – אִי אַתָּה יָכוֹל לְהוֹצִיא מַה שֶּׁהֶחְזַרְתִּי. אָמַר: הֵטִיחַ עָלַי בֶּן עוּזִּיאֵל! הֵטִיחַ עָלַי בֶּן עוּזִּיאֵל!
@@ -274,6 +276,7 @@ The reverse scenario, however, works differently. If Levi comes into great wealt
 
 The *mishna* having established that a father is believed to say "this is my son," the *gemara* asks: *lemai hilcheta* — for what halachic purpose is he believed? This is not a trivial question. Rav Yehuda said in the name of Shmuel: *leyorsho* — the son inherits from him. And second: *ulifetur ishto min hayibum* — to exempt the father's wife from *yibum*. If the father had no publicly known children and declares "this is my son" before his death, his wife is thereby exempt from *yibum* with the father's brother.
 
+[DAF:134b]
 ### Property Control
 
 > **Hebrew/Aramaic:** לְיוֹרְשׁוֹ – פְּשִׁיטָא! לִפְטוֹר אֶת אִשְׁתּוֹ מִן הַיִּבּוּם אִצְטְרִיכָא לֵיהּ.

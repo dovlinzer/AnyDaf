@@ -50,7 +50,7 @@ The final case: *Parshat Shekalim* falls directly on the *Shabbat* of *Ki Tissa*
 
 ---
 
-## Special Parshiyot Calend…
+## Special Parshiyot & Adar
 
 ### Rosh Chodesh Mid-Week
 

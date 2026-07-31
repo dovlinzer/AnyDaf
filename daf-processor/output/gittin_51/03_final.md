@@ -1,4 +1,5 @@
 # Gittin 51 — Daf Yomi Shiur
+[DAF:50b]
 
 ## Third-Party Protection
 
@@ -292,6 +293,7 @@ The Gemara specifies the case: *maneh l'avicha b'yadi* — a person approaches t
 
 ## Migo Analysis
 
+[DAF:51b]
 ### Migo Principle
 
 > **Hebrew/Aramaic:** וַחֲכָמִים אוֹמְרִים: אֵינוֹ אֶלָּא כְּמֵשִׁיב אֲבֵידָה, וּפָטוּר.

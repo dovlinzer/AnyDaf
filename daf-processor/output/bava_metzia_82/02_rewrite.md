@@ -34,7 +34,7 @@ The *baraita* then presents an agreed-upon case. If a thousand *zuz* were lent *
 
 ---
 
-## Rashi: Zichron vs. Colle…
+## Rashi: Zichron vs. Kolel
 
 ### R. Eliezer: Zichron
 
@@ -68,7 +68,7 @@ The *gemara* promptly dismantles this reading. *Mi-dekattani seifa Rabbi Yehuda 
 
 The *gemara* does attempt one further maneuver: perhaps the entire *mishna* is Rabbi Yehuda's view, and the opening ruling represents not an independent *tanna kamma* but rather Rabbi Yehuda himself, with his subsequent clause as a clarification rather than a dispute. This reading would require us to understand the *mishna* as *chisura me-chasra* — missing words — and reconstruct it as: the creditor is a *shomer sachar* when he lent fruit; but if he lent money, he is a *shomer chinam*, as Rabbi Yehuda teaches. The *gemara* notes, however, that this leaves the *mishna* inconsistent with Rabbi Akiva, and a *stam mishna* is attributed to Rabbi Meir — a student of Rabbi Akiva — making it very difficult to accept that the *mishna* runs contrary to Rabbi Akiva's position.
 
-### Conclusion: Not R. Eliez…
+### Conclusion: Not Eliezer
 
 The *gemara* concludes: *ela michvarta, matnisin d'lo k'Rabbi Eliezer* — the straightforward conclusion is that our *mishna* is simply not in accordance with Rabbi Eliezer. The *mishna* holds the creditor to be a *shomer sachar*; Rabbi Eliezer holds the creditor to be a *shomer chinam*; and no acceptable reading can harmonize the two. This does not mean the *mishna* necessarily follows Rabbi Akiva's exact logic either. As noted, Rabbi Akiva's argument — that loss of the *mashkon* erases the debt — is not the same as saying the creditor is a *shomer sachar* in the technical sense. The *mishna*'s use of the *shomer sachar* framework will require its own explanation.
 

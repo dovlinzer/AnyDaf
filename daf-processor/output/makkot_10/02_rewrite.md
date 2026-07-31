@@ -6,11 +6,11 @@
 
 The daf opens in the middle of a tannaitic dispute regarding the culpability of a blind person who unintentionally caused a death. Rabbi Yehuda holds that a blind person does not go into exile, while Rabbi Meir holds that he does. One might initially frame this debate as a question about degree of responsibility — how much awareness and caution can we attribute to a blind person navigating the world? — but the Gemara anchors the disagreement firmly in hermeneutical analysis of the relevant verses rather than in any general theory of responsibility.
 
-### Hermeneutics: Exclude/In…
+### Hermeneutics: In/Exclude
 
 The Gemara introduces a *baraita*: the phrase *belo re'ot*, "without seeing," implies that the killer could have seen his victim but failed to do so — which, according to Rabbi Yehuda, excludes (*prat l'suma*) a blind person for whom there was never any possibility of seeing at all. Rabbi Meir reads the same phrase in the opposite direction: *belo re'ot* comes specifically to include (*l'rabbot et hasuma*) even someone who cannot see.
 
-### R. Yehuda: 'Without Seei…
+### R. Yehuda: Without Seeing
 
 The Gemara then asks: what is Rabbi Yehuda's textual basis? The verse states, "and one who comes with his friend into the forest" — which encompasses even a blind person. Then follows the phrase *belo re'ot*, "without seeing," which implies that the killer could have seen, thereby excluding the blind person for whom sight was never possible. On this reading, Rabbi Yehuda's interpretation is internally coherent and flows naturally from the text.
 
@@ -68,7 +68,7 @@ Rabbi Shimon takes what might be called a contextual or circumstantial approach.
 
 A *baraita* provides the concrete illustration. *Nifsak goleh* — if the rope broke, he goes into exile. *Nishmat eino goleh* — if it slipped out of his hands, he does not go into exile. The intuition is that if the rope broke (*nifsak*), the most natural explanation is that it was an accident, and even a *soneh* should receive *galut*. If it slipped out of his hands (*nishmat*), the circumstances lend themselves to the possibility that the release was intentional — he let go deliberately — and this opens up enough of a reasonable suspicion, even if not more likely than the innocent interpretation, to deny him exile.
 
-### Contradiction: Two Barai…
+### Contradiction: 2 Baraitot
 
 A second *baraita*, however, appears to say the exact opposite: Rabbi Shimon holds that a person never goes into exile unless the tool slips (*nishmat*) from his hand. This would make the slipping case the one that leads to exile and the breaking case the one that does not — a direct reversal of the first *baraita*. The Gemara acknowledges the contradiction sharply: *kashya nifsak anifsak, kashya nishmat anishmat*.
 

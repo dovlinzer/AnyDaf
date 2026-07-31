@@ -58,7 +58,7 @@ Rava draws a broader legal principle from this exclusion. The very fact that the
 
 From Rava's inference, the Gemara pivots into a broader discussion of inheritance law as it applies to non-Jews and converts. Rava's conclusion — *oved kochavim yoresh et aviv* — is presented as a biblical proposition. The textual proof he adduces is indirect, derived from the logical structure of the exclusion in the verse about the purchased slave. But the Gemara will also present a more direct scriptural basis.
 
-### Convert Rabbinical Inher…
+### Convert Inherits Rabbinic
 
 A convert presents a distinct case. The halakhic principle is *kekatan shenolad dami* — a convert is legally like a newborn child. This means that all prior legal family relationships are severed. When a man converts, his non-Jewish father is no longer legally his father; consequently, when the non-Jewish father dies, the convert does not inherit him as a matter of biblical law.
 

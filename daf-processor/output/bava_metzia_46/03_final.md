@@ -1,4 +1,5 @@
 # Bava Metzia 46 — Daf Yomi Shiur
+[DAF:46a]
 
 ## Chalipin & Coinage
 
@@ -130,6 +131,7 @@ The Gemara introduces another source, a Mishna from *Kiddushin*: *kol hane'aseh 
 
 One might read the phrase *kol hane'aseh damim* — "whatever constitutes payment" — as a reference to coinage. If so, the Mishna would be saying that money can function within a *chalipin* framework to effect legal transfer, and this would constitute a proof that *ein matbea na'aseh chalipin* is incorrect. The Gemara entertains this reading before subjecting it to scrutiny.
 
+[DAF:46b]
 ### Rav Yehuda Reinterp
 
 > **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה, הָכִי קָאָמַר: כׇּל הַנִּישּׁוֹם דָּמִים בְּאַחֵר, כֵּיוָן שֶׁזָּכָה זֶה נִתְחַיֵּיב זֶה בַּחֲלִיפִין.

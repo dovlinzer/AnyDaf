@@ -1,10 +1,10 @@
 # Niddah 51 — Daf Yomi Shiur
 
-## Dead Bird & Machshav (II)
+## Dead Bird & Machshava
 
 ### Context & Background
 
-Today's *daf* is 51, and we pick up at the bottom of 50b. The discussion has been a digression concerning whether the carcass of a kosher bird — *nevilat of tehorah* — which causes *tumah* when swallowed, requires any preliminary condition before it can itself become *tamei*.
+ The discussion has been a digression concerning whether the carcass of a kosher bird — *nevilat of tehorah* — which causes *tumah* when swallowed, requires any preliminary condition before it can itself become *tamei*.
 
 The relevant background principle is as follows. Something that will itself become an *av ha-tumah*, if it is also a type of food, can essentially render itself *tamei* as a *rishon* without needing to come into contact with water or touch anything else — by virtue of its potential to become an *av*. However, for this to occur, the dead bird must be considered food, since the *tumah* it is receiving is the *tumah* of foodstuff. This discussion arose in the context of a broader question: when does *machshava* — intention — define something as food?
 

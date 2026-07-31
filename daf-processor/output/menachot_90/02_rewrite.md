@@ -1,6 +1,6 @@
 # Menachot 90 — Daf Yomi Shiur
 
-## Asham Metzora Shelo Lish…
+## Asham Metzora Shelo Lish
 
 ### Debate Setup
 

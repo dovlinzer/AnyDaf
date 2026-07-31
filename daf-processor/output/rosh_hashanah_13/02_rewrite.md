@@ -2,7 +2,7 @@
 
 ## Critical Moment Overview
 
-### Development Stage Questi…
+### Development Stage: Year
 
 The daf opens in the midst of a fundamental question: at what stage of development does one examine a crop in order to determine which year it belongs to? The year itself is established by *rosh hashanah* — the first of *tishrei* — which determines one's position in the *shemita* cycle, whether produce from one year may be taken on another, and related matters. But the operative question is which developmental milestone triggers the assignment to a given year.
 
@@ -42,7 +42,7 @@ To illustrate with grain: if wheat is planted in one year and growing, but does 
 
 ---
 
-## Sukkot Proof & Chall (II)
+## Sukkot Proof & Challenges
 
 ### Source of Third
 
@@ -148,7 +148,7 @@ This answer is cited by Rabbi Yirmiyah as evidence that the rabbis can indeed di
 
 Perhaps where grain was a quarter developed — somewhere between a third and nothing — one still could not determine which side of the threshold it had crossed.
 
-### Grain Development Timeli…
+### Grain Development Nissan
 
 The *gemara* immediately rules out the scenario in which no development had occurred at all upon entry:
 

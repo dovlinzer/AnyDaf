@@ -106,7 +106,7 @@ Ravina challenges this distinction by pointing to a case discussed by Ulla: *emu
 
 The answer requires understanding a specific feature of *kodshim kalim*. A *shlamim* is characterized by the fact that the animal essentially remains in the owner's domain in a meaningful sense — that is why there is no *me'ila* (liability for misuse of consecrated property) with respect to a *shlamim* before the blood is thrown. The *emurim*, though physically identifiable as the altar's portion, are not yet fully under the altar's control — they have not yet become fully *God's portion*, as it were — until *zerikas dam* is performed. Before that moment, even the *emurim* are not subject to *me'ila*. In that sense, they resemble the unsanctified *kometz*: both lack full designation for the altar at the moment of placement.
 
-### Missing Act vs. Designat…
+### Missing Act vs Desig
 
 Nevertheless, the *gemara* draws a key distinction between the two cases. By the *emurim* of *kodshim kalim*, nothing is *missing in the emurim themselves*. They are physically and substantively in the state they need to be. What is incomplete is an *external act* — the throwing of the blood — which is performed on a different object entirely. Because the *emurim* themselves lack nothing, they are considered sufficiently connected to the altar to remain there.
 

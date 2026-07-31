@@ -2,7 +2,7 @@
 
 ## Tzedakah vs. Korbanot
 
-### Tzedakah Replaces Korban…
+### Tzedakah Replaces Korban
 
 The daf opens at the very end of 9b, in the middle of a major *sugya* on *tzedakah*. Rabbi Elazar teaches: *bizman shebeis hamikdash kayam, adam shokeil shiklo umischaper lo* — when the Temple stood, a person would give his shekel and thereby receive atonement. And now that the Temple no longer stands, *im osim tzedakah mutav* — if one gives *tzedakah*, it is good. It is worth noting that we more commonly think of *tefillah* as the replacement for *korbanot*, yet here the *gemara* explicitly draws the parallel to *tzedakah* instead. There have been earlier comparisons as well — the concept of *tzedakah* was learned, in part, from money given to the Temple — but here the identification is direct: the money one gives to the poor serves as a kind of *korban*.
 
@@ -98,7 +98,7 @@ The Talmudic response: *kidei shenitzol anu bahem midina shel geihinnom* — God
 
 The *gemara* notes that Turnusrufus the wicked, the Roman governor in the time of Rabbi Akiva, posed the same question — *elokeichem ohev aniyim hu, mipnei mah eino mefarnesam* — and received the same initial response. Turnusrufus then pushed back: *zu she'mechayvatan l'geihinnom* — by giving to the poor you are actually sinning. He offered a parable: a human king who was angry at his servant imprisoned him and commanded that no one give him food or drink. One who defied that order and brought him food — would the king not be furious with that person? You are called God's servants, as the verse states, *ki li venei Yisrael avadim avadai hem*. The natural order of the world reflects God's decree; by subverting it through charity, you are violating the divine will.
 
-### Father's Discipline Para…
+### God's Displeasure: Wrath
 
 Rabbi Akiva responded with a counter-parable. It is not a servant the king imprisoned — it is a son. *Keshem she'ka'as al beno, chavsho be'veit ha'asurim v'tzivah alav she'lo le'hakhilo v'lo le'hashkoto* — the king grew angry at his son and imprisoned him, commanding that no one feed or give him drink. But if someone came and fed and cared for the son — *keshe'shama ha'melech lo doron meshagei'r lo* — would the king not send that person a gift in gratitude? Even if a parent must impose a punishment, what the parent truly wants is for the child to be cared for. And we are called God's children: *banim atem la'Hashem Elokeichem*.
 
@@ -128,7 +128,7 @@ There is an inherent irony here: by teaching this story, the Rabbis introduce a 
 
 ---
 
-## Ignoring Poor=Avodah Zar…
+## Ignoring Poor: Divine Ret
 
 ### Rav Papa's Fall
 

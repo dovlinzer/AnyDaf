@@ -30,7 +30,7 @@ Rabbi Shimon responds with the inverse formulation: *bameh devarim amurim be-mat
 
 This restates the debate from the *Mishnah* itself. The *Tanna Kamma* holds that the smaller *shiurim* (for honey, milk, blood, and so forth) are the standard measures for ordinary carrying; if the person additionally designated the item as significant, liability descends further to *kol shehu*, any amount. Rabbi Shimon takes the opposite position: the smaller *shiurim* reflect the significance conferred by setting aside; absent such designation, all liquids — even honey, milk, and blood — revert to the default *revi'it*.
 
-### Master-Apprentice Exception
+### Master-Apprentice Except
 
 The *Gemara* raises a difficulty with the *Tanna Kamma*'s formulation. The *baraita* reads *be-matznia kol shehu chayav* — "in a case where it was set aside." The *Gemara* notes that Tosafot and Rashi actually read this phrase differently from each other, but following Tosafot's reading: had the *baraita* said *ha-matznia*, it would mean "the one who set it aside" — that is, only the person who personally designated the item would be liable for carrying any amount. That would accord with the *Tanna Kamma*'s baseline view. But the *baraita* says *be-matznia*, meaning "in a case where it was set aside" — implying that anyone who carries it, even someone other than the person who designated it, would be liable for *kol shehu*.
 
@@ -154,7 +154,7 @@ Rabbi Yehuda holds *mutar le-shehot shtar parua* — it is permitted to retain a
 
 *Abaye* offers a different framing entirely: *de-chulei alma assur le-shehot shtar parua* — everyone agrees that one may not retain a paid-up document. The dispute between the Sages and Rabbi Yehuda concerns an entirely different question.
 
-### Admission vs. Notarization
+### Admission vs. Notary
 
 *Abaye* identifies the true axis of the debate as *modeh be-shtar she-ketavo tzarich le-kayemo* — whether one who admits that a debt document is genuine still requires that document to be verified (*kiyum*). This refers to the process of notarization: to collect on a debt document, the creditor must typically produce witnesses who recognize the signatures of the signing witnesses, establishing that the document is authentic and not forged. Without *kiyum*, the document cannot be used to collect.
 

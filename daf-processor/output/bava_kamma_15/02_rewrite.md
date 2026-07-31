@@ -116,7 +116,7 @@ The related question of women serving as *dayanim* — judges — is taken up by
 
 The *mishna* states: *ve-nashim bikhlal ha-nezek* — women are included in the laws of damages. The *gemara* asks: *mena hani mili?* From where is this derived?
 
-### Masculine Language Defau…
+### Masculine Presumption
 
 Rav Yehuda in the name of Rav, and similarly the school of Rabbi Yishmael, derive it from the verse *ish o isha ki ya'asu mikol chatot ha-adam* — if a man or woman commits any of the sins of a person. From this, *hishvah ha-katuv isha le-ish le-khol onashim she-ba-Torah* — the Torah equates women to men with regard to all punishments in the Torah. The reason such a verse is needed, as Tosafot explains, is that the entire Torah is written *be-lashon zachar*, in the masculine gender. As in classical legal drafting, the masculine formulation is presumed to function as a gender-neutral default unless explicitly stated otherwise. But this raises the question of whether women are automatically included or whether explicit inclusion is required in each domain.
 

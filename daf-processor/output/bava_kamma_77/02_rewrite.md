@@ -92,11 +92,11 @@ Having established that both Rabbi Yochanan's and Reish Lakish's scenarios are i
 
 The Gemara begins with the easier case. *Bishlama* Rabbi Yochanan did not employ Reish Lakish's *ba'al mum* scenario — *d'kabai l'okme masnisin afilu b'tamimim* — because he did not want to limit the Mishnah's ruling to blemished animals. Rabbi Yochanan did not dispute Reish Lakish; he acknowledged that a blemished animal slaughtered outside the *Beis Hamikdash* would indeed be a valid case. But the Mishnah's law should apply even to unblemished animals brought inside the *Beis Hamikdash*, and Rabbi Yochanan therefore framed his answers to account for that broader scope.
 
-### Tvicha u-Mechira Princip…
+### Tvicha u-Mechira Princ.
 
 The more substantive question is why Reish Lakish did not adopt Rabbi Yochanan's scenarios. Here the Gemara introduces a new principle — *tvicha u-mechira*. The verse states *u'tvacho o mechoro* — "and slaughtered it or sold it" — and Reish Lakish derives from this juxtaposition a rule of structural symmetry: *kol heicha de-isa bi-mechira isa bi-tvicha* — wherever there is liability for *mechira* (sale), there is liability for *tvicha* (slaughter); *ve-chol heicha de-leisa bi-mechira leisa bi-tvicha* — wherever there is no liability for *mechira*, there is no liability for *tvicha*. The two forms of liability are interdependent.
 
-### Unblemished Sale Impossi…
+### Sacred: No Sale
 
 This principle explains why Reish Lakish cannot accept Rabbi Yochanan's scenarios. An unblemished *kodshim* animal cannot be sold. If the thief attempted to transfer the animal to a third party, no valid sale could occur — one cannot acquire a *kodshim* animal through a standard commercial transaction, because the animal's sanctity cannot be transferred by sale. Consequently, since the thief could not have been liable for *mechira*, he cannot be liable for *tvicha* either. This is not a disagreement with Rabbi Yochanan about whether the *shechita* was technically valid — Reish Lakish may well agree that slaughtering an unblemished *kodshim* inside the *Beis Hamikdash* constitutes a *shechita re'uya*. Rather, his objection is structural: the Torah's four-and-five penalty operates through a linked framework where liability for sale and liability for slaughter stand or fall together.
 
@@ -104,7 +104,7 @@ This principle explains why Reish Lakish cannot accept Rabbi Yochanan's scenario
 
 The Gemara confirms that this dispute between Rabbi Yochanan and Reish Lakish is not ad hoc; they are each applying their own consistently held positions. *Ve-azdu le-ta'amaihu* — and they have gone each according to his own reasoning — meaning this is a known, independent debate between these two *amoraim* about the relationship between *shechita* and *mechira* within the four-and-five framework.
 
-### Reish Lakish Interdepend…
+### Reish Lakish: Tvisha
 
 Reish Lakish's position is stated with full symmetry: *kol heicha de-isa bi-mechira isa bi-tvicha ve-chol heicha de-leisa bi-mechira leisa bi-tvicha*. The liability for slaughter and the liability for sale are perfectly interdependent. Being unable to incur liability for one necessarily precludes liability for the other. It is this principle that drives Reish Lakish to require the *ba'al mum* scenario: a blemished *kodshim* animal can in principle be sold — through redemption, the sanctity transfers and the animal can change hands — and therefore the *tvicha* liability can also attach.
 
@@ -160,6 +160,6 @@ But there are two *o*'s in this verse. The first (*o chesev*) excludes *kilayim*
 
 This explains why two *o*'s are required. If the *o*'s were serving an *inclusive* function, one *o* would suffice — once you have included *kilayim*, there is no remaining category left to include, since *nidmeh* (which is biologically pure) would *a fortiori* be included. But if the *o*'s are serving an *exclusive* function, then two *o*'s make perfect sense: the first excludes *kilayim* — genuine hybrids — while the second is needed to extend the exclusion to *nidmeh* — animals that are genetically pure but look different from their parents. These are two distinct categories, each requiring its own exclusion. The logical structure thus forces us to read both *o*'s as exclusionary, confirming that the verse in *kodshim* limits eligible animals to those that are genuinely typical specimens of their species.
 
-### Default Principle Questi…
+### Rava's Default Principle
 
 This raises a pointed question that the Gemara leaves open. Rava articulated a principle — the word *seh* by itself defaults to excluding *kilayim*. But as the preceding analysis has shown, the entire interpretive exercise was driven not by this default but by the surrounding context: in each case, the *o* was read against the background assumption created by the other animals mentioned in the verse, not against any free-standing default meaning of *seh*. One might therefore ask: does Rava's stated default ever actually do independent work? In every case we have examined, the direction of the *o* — whether inclusive or exclusive — was determined entirely by contextual considerations. The Gemara does not resolve this question. We will resume from this point in the next shiur.

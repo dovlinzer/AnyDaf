@@ -1,4 +1,5 @@
 # Moed Katan 6 — Daf Yomi Shiur
+[DAF:6a]
 
 ## Graves & Safekot
 
@@ -222,6 +223,7 @@ Even granting that a second *kilayim* inspection is warranted, why specifically 
 
 Rav Zvid (or according to some, Rav Mesharshaya) infers from this that the wages paid to these inspectors come from *trumas halishka* — the communal temple treasury. The logic is clean: if the payment came from fining the field-owners whose *kilayim* was found, why would anyone care about keeping the cost down? Let them pay whatever the going rate is — it is their penalty. The fact that the Gemara is deliberately seeking cheap labor must mean the funds are communal, drawn from the *shekalim* collected annually, and the community has an interest in conserving those funds. The broader question of how *trumas halishka* — a sanctified fund — may be used for non-sanctified communal purposes is connected to the principle that the *beit din* may stipulate the conditions under which such funds are deployed, as discussed at length when studying *Masechet Shekalim*.
 
+[DAF:6b]
 ### Kilayim Penalties
 
 > **Hebrew/Aramaic:** וְעַד כַּמָּה? אָמַר רַב שְׁמוּאֵל בַּר יִצְחָק, כְּאוֹתָהּ שֶׁשָּׁנִינוּ: כׇּל סְאָה שֶׁיֵּשׁ בָּהּ רוֹבַע זֶרַע מִמִּין אַחֵר — יְמַעֵט.

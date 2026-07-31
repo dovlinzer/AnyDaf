@@ -74,7 +74,7 @@ But the Gemara presses further: the *braisa* does not merely assert a ruling —
 
 Aviha de-Rabbi Aptoriki, by contrast, reads both words *hu* and *zeh* in the *pasuk ki hu zeh* as limiting terms. One limits the application to a genuine *modeh be-miktzas* — partial admission of the very claim being made. The other limits it to cases where the defendant himself speaks (*asher yomar*), excluding cases where *edim* do the obligating.
 
-### Chitim/Se'orim
+### Chitim/Serim
 
 Rabbi Chiya reads those two limiting terms differently. He agrees that one is needed to establish the basic principle of *modeh be-miktzas*. But he uses the second limiting word to address a different case: *modeh she-lo mimin ha-tana'ah* — an admission that does not correspond to the substance of the claim. The case is illustrated by the *mishnah*: if Reuven claimed that Shimon owes him a measure of wheat, and Shimon admits to owing a measure of barley — which is worth less — is that a *modeh be-miktzas*? The admission is of something less valuable, but it is not the same item being claimed. Rabbi Chiya says this is not a valid *modeh be-miktzas*, using the word *zeh* in the *pasuk* as the exclusion.
 

@@ -1,4 +1,5 @@
 # Sanhedrin 66 — Daf Yomi Shiur
+[DAF:66a]
 
 ## Ba'al Ov & Yidoni
 
@@ -370,6 +371,7 @@ The derivation just completed presupposed that *Elohim lo tekalel* refers to a j
 
 According to Rabbi Akiva, then, we lack a verse explicitly prohibiting cursing a judge (we have only the verse about the king), and therefore the full derivation above — which required the judge as a separate pole — may be problematic. And yet another *baraisa* notes: *Rabbi Eliezer ben Yaakov omer, azharah le-mevarech et ha-Shem minayin? Talmud lomar Elohim lo tekalel* — where is the prohibition against blasphemy? From *Elohim lo tekalel*. So according to that view (aligned with Rabbi Akiva), it is that verse that prohibits cursing God, not cursing a judge.
 
+[DAF:66b]
 ### Double Lamed
 
 > **Hebrew/Aramaic:** לְמַאן דְּאָמַר ״אֱלֹהִים״ חוֹל – גָּמַר קוֹדֶשׁ מֵחוֹל, לְמַאן דְּאָמַר ״אֱלֹהִים״ קוֹדֶשׁ – גָּמְרִינַן חוֹל מִקּוֹדֶשׁ.

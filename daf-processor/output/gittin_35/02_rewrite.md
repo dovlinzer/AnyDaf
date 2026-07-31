@@ -22,7 +22,7 @@ The question of who constitutes the *olam* being addressed is worth pausing over
 
 ## Widow's Kesuba Collection
 
-### General Debt Collection…
+### Debt Collectors, Orphans
 
 The *gemara* immediately challenges the formulation of the *mishna*. Why does the *mishna* specify that an *almana* — a widow — cannot collect from the orphans without an oath? This rule ought to apply universally: anyone who comes to collect a debt from orphans after the father has died must take an oath, since the father is no longer alive to verify that the debt was never repaid. Perhaps he trusted the creditor and did not demand a receipt; perhaps he paid and the receipt was lost. The general rule is well established: *haba lipara minechasei yesomim lo yipara ela bishvua* — one who comes to collect from orphan heirs does not collect without an oath. So why single out the widow?
 
@@ -42,7 +42,7 @@ The *gemara* then probes: why was she punished at all, if she swore truthfully? 
 
 ---
 
-## Why Widows Uniquely at R…
+## Oaths Suspended Widows
 
 ### Specificity Question
 

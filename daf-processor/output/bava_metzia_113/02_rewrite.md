@@ -104,7 +104,7 @@ This leads to two possible readings of the *pasuk*. One reading holds that the w
 
 The Gemara brings a *baraita* bearing on this question. The *pasuk* states *im chavo tachvol salmas re'echa ad bo hashemesh teshiveno lo* — if you take his garment as collateral, return it before sunset. The *baraita* asks: who has seized this collateral? The *pasuk* uses the language of *chavol*, which implies entering the home — for why else would *chavol* be used? If the creditor is forbidden from entering the home, who performed this entry?
 
-### Baraita 1: Entry Permitt…
+### Shliach Beit Din Seizure
 
 One *baraita* resolves the question explicitly: *besheliach beit din hakasuv medaber* — the *pasuk* speaks of the *shliach beit din*. The *shliach beit din* entered the home, seized the collateral, and consequently the Torah imposes the obligation to return it when needed. This *baraita* thus holds that the *shliach beit din* is permitted to enter the borrower's home to seize collateral.
 
@@ -150,7 +150,7 @@ The *erchin* framework works as follows. If a person declares *erech ploni alay*
 
 The Gemara immediately raises a sharp challenge. Rav Nachman's student has just taught the principle of *mesadrin l'baal chov* in the name of *Rabban Shimon ben Gamliel* — that one must leave the debtor his basic necessities when collecting a debt. But Rav Nachman objects: *hashta zevunei mezavninan lei, sidurei mesadrinan lei?* — if we are liquidating his possessions to pay the debt, how can we simultaneously be obligated to leave things behind for him? The difficulty arises because the student attributed *mesadrin* to *Rabban Shimon ben Gamliel*, and the Mishnah records *Rabban Shimon ben Gamliel* saying that after thirty days, the collateral may be sold through *beit din*. That ruling appears to contemplate liquidating the very items — the pillow, the basic necessities — that were being returned to the debtor daily. There seems to be a direct tension within *Rabban Shimon ben Gamliel*'s own position.
 
-### Distinction: Luxury vs.…
+### Luxury vs Necessities
 
 One possible resolution is that liquidating collateral and leaving the debtor his basic needs are not mutually exclusive. One can sell *some* of the debtor's property to satisfy the creditor while simultaneously setting aside what is necessary for the debtor's basic subsistence. The analogy is instructive: if a debtor owns a large mansion, one might sell it and use the proceeds to satisfy the loan while using the remainder to house the debtor in more modest accommodation. Liquidation does not necessarily mean leaving the debtor with nothing — it means selling property beyond what is needed for basic needs.
 

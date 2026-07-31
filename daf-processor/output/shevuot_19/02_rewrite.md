@@ -102,7 +102,7 @@ What we observe throughout this discussion is the strikingly high degree of spec
 
 ---
 
-## Yochanan: Mishmosh D'ors…
+## Yochanan: Dispute vs
 
 ### Mishmosh D'orshin
 
@@ -186,7 +186,7 @@ The *Gemara* now addresses the earlier case — *shnei shvilin* with entries on 
 
 ---
 
-## Cheilev and Safek Awaren…
+## Safek Cheilev & Korbanot
 
 ### Safek Cheilev Cases
 

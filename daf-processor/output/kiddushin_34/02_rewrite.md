@@ -44,7 +44,7 @@ There is yet a third reading, perhaps the most compelling: the statement may be 
 
 The *gemara* now turns to the tension between *kibbud rav* and *kibbud av va'em*. The background to this discussion is the well-known ruling that if a person must choose between returning a lost object to his *rebbe* or to his father, the *rebbe* takes precedence — because the father brings one into this world, but the *rebbe* brings one into the world-to-come. This priority of *kibbud rav* over *kibbud av* in cases of conflict seems to suggest that wherever the two obligations cannot both be fulfilled simultaneously, the *rebbe's* claim wins.
 
-### Son Stand Q.
+### Son Stand Q
 
 But the case now posed is far more complicated. The *ibaya* — the question raised — is: *beno vehu rabbo* — what happens when the son is the father's *rebbe*? This is not a simple matter of choosing between two competing obligations running in the same direction. It creates an inversion. If the father must stand before the son as his *rebbe*, the entire structure of *kibbud av va'em* — in which the child defers to the parent — is turned on its head. The question therefore branches in two directions: does the son still stand before the father even if he is the father's *rebbe*? And does the father stand before the son precisely because the son is his *rebbe*?
 

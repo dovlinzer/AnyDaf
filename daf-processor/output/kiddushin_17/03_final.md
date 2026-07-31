@@ -1,4 +1,5 @@
 # Kiddushin 17 — Daf Yomi Shiur
+[DAF:16b]
 
 ## Reish Lakish Kal Vachomer
 
@@ -132,6 +133,7 @@ The *boreach* case is more intuitively understandable: one who ran away should n
 
 When a slave runs away and is later recaptured, the principle of *hashlama* applies — he must make up the time he was absent. This is derived from the verse *"shesh shanim ya'avod"* — "he shall work six years" — meaning a full six years of actual service, not merely six calendar years from the date of purchase. If the slave runs away but then returns and completes his full six years before *yovel*, he would have fulfilled his obligation and would presumably be entitled to the *hanaka*. The specific case of exclusion, as Rav Sheshet explains, is where the slave ran away and *yovel* intervened before he could make up the lost time. In such a case, he genuinely stole service from his master — the *yovel* arrived during what should have been makeup time, cutting short his obligation to repay. One might have thought that since ultimately it was *yovel* that freed him — and *yovel* is a release "from you" in the broad sense — he should receive the *hanaka*. The *Gemara* rejects this: the fact remains that he failed to provide the service he owed, and therefore he does not receive the *hanaka*.
 
+[DAF:17a]
 ### Sick Leave Rules
 
 > **Hebrew/Aramaic:** יָכוֹל אֲפִילּוּ חָלָה? – תַּלְמוּד לוֹמַר: ״וּבַשְּׁבִעִת יֵצֵא״?
@@ -310,6 +312,7 @@ The final section of the *daf* discusses the question of whether an *eved ivri* 
 
 The derivation proceeds from two verses. One verse says *"va-avadcha shesh shanim"* — "and he shall work for you six years" — which implies working *for you*, not for your heir. The other verse says *"shesh shanim ya'avod"* — "he shall work six years" — without specifying for whom, implying the six years must be completed regardless. The *Gemara* reconciles these: the second verse, which speaks unconditionally of six years, applies to the case of the son. The first verse, which specifies "for you," excludes other heirs.
 
+[DAF:17b]
 ### Son as Continuation
 
 > **Hebrew/Aramaic:** מָה רָאִיתָ לְרַבּוֹת אֶת הַבֵּן, וּלְהוֹצִיא אֶת הָאָח? מְרַבֶּה אֲנִי אֶת הַבֵּן – שֶׁכֵּן קָם תַּחַת אָבִיו לִיעִדָה וְלִשְׂדֵה אֲחוּזָּה.

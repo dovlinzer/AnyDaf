@@ -1,6 +1,6 @@
 # Bava Batra 87 — Daf Yomi Shiur
 
-## Rav & Shmuel: Sale Compl…
+## Rav & Shmuel: Sale
 
 ### When Sale Finalized
 
@@ -18,7 +18,7 @@ The *gemara* then presses: but if we follow Rav and Shmuel's principle that when
 
 The *gemara* articulates the concern precisely: *ve-ha agar natar lei hu* — this is payment now for a deferred and more valuable return. If each day is a separate unit of hire, then the thirty days of harvest-season labor are being paid for in advance at well below their going rate, and this looks structurally identical to a usurious loan.
 
-### Rava: No Fixed Labor Val…
+### Rava: Labor No Fixed Val
 
 Rava intervenes with a fundamental reframing. He asks: *zilzulei bi-sechirut mi asar?* — who ever said that a person is forbidden from renting themselves out cheaply? There is no *halacha* that fixes a market rate for labor, and therefore there is no objective sense in which the worker is returning something "worth more" than what he received. This is the crucial distinction between labor and goods. With goods, *halachot* of *ona'ah* — overcharging — establish that there is an objectively recognized fair market price. Deviating significantly from that price has *halachic* consequences. But with hired labor, *halacha* makes no such claim. A worker is entirely free to rent himself out at whatever price he chooses, and an employer is free to hire at whatever rate the worker accepts.
 
@@ -32,11 +32,11 @@ The operative distinction, then, is entirely about *appearance* rather than obje
 
 ## Flax & Chazakah
 
-### Pulling Flax: Full Acqui…
+### Flax: Partial Kinyan
 
 The final clause of the *mishna* states: *ve-im hayah mechubar la-karka ve-talash kol she-hu kanah* — if the flax being sold was still attached to the ground, then as soon as the buyer rips up even a tiny amount, he acquires all of the flax he is purchasing. This is striking: pulling up a small piece of flax that is still rooted in the earth somehow effects acquisition of all the remaining flax, which is also still rooted in the earth. What *kinyan* has the buyer performed on the flax he has not yet touched?
 
-### Rav Sheshet: Kinyan Chaz…
+### Rav Sheshet: Kinyan
 
 Rav Sheshet explains: *hacha be-mai askinan de-amar lei leich yafei lach karka kol she-hu u-knei kol mah she-aleha* — the owner says to the buyer: "Go, improve the land slightly, and thereby take possession of everything growing from it." The pulling up of the flax is not being conceptualized as *hagbahah* — lifting — on the flax itself. Rather, it is conceptualized as an act of improvement performed on the land. Plucking flax advances the preparation of the ground, whether for threshing or for the next stage of cultivation. That act of improvement constitutes a *kinyan chazakah* on the land — the recognized mode of acquiring real property by performing a beneficial act upon it — and through that *chazakah* the buyer acquires all the flax growing from it.
 
@@ -48,15 +48,15 @@ Tosafot raises a difficulty with this: the *chazakah* is being performed on the 
 
 ---
 
-## Wine & Oil: Possessi (II)
+## Wine & Oil: Possession
 
-### Filled Vessel = Possessi…
+### Vessel Filled=Possession
 
 The next *mishna* addresses the sale of wine and oil — liquids that are viscous and adhere to the sides of vessels — and asks when the sale becomes final. The *mishna* rules: *im ad shelo nismala hamida lamoicher, mishenismala hamida lalokeiach* — as long as the measuring vessel has not been completely filled, the wine or oil belongs to the seller; once it is full, it passes to the buyer.
 
 This ruling, as the *gemara* will explain, corresponds to a *braita* taught earlier and presupposes that the vessel belongs to neither buyer nor seller but to a third party. The seller retains ownership or rights of use while the vessel is being filled; once full, those rights transfer to the buyer, who then effects *kinyan* through the vessel.
 
-### Middleman: Purchase or C…
+### Kinyan vs Pikadon
 
 The *mishna* adds: *ve-im haya sarsur beineihem, nishbera hachavis nishbera lasarsur* — if there was a middleman between seller and buyer, and the barrel broke, the loss falls on the middleman.
 
@@ -72,7 +72,7 @@ Tosafot objects: if the *mishna* were simply establishing that the middleman buy
 
 Continuing with matters of accurate measurement, the *mishna* states: *ve-chayav lehatif lo shalosh tipin* — when measuring out oil for a buyer, the seller is obligated to add three extra drops. This compensates for the oil's viscosity: after what appears to be a full measure has been poured out, oil continues to cling to the interior walls of the measuring vessel. Waiting for three drops to drip off after the main flow ceases — or adding three drops directly to the buyer's vessel — is the recognized way of ensuring the buyer receives his full measure, given the practical impossibility of capturing every last trace of oil.
 
-### Inclined Vessel: Seller…
+### Inclined Vessel: Oil
 
 The *mishna* further rules: *harchina u-mitzetz harei shel mocher* — if the seller inclines the measuring vessel and oil still remains adhering to the inner walls, that residual oil belongs to the seller. Even though a full measured quantity was poured, the fraction left clinging to the vessel walls is not required to be delivered. The practical reasoning is that waiting for every last drop to be extracted would be excessively time-consuming, and *halacha* does not impose that burden. The seller keeps what remains on the walls.
 
@@ -86,7 +86,7 @@ The *mishna* adds two further qualifications. A storekeeper — *chanvani* — i
 
 The *gemara* probes the rationale behind the *mishna*'s rule that the sale of wine or oil becomes final only upon the vessel being filled. It asks: *hamida d'man* — whose vessel is this? If it belongs to the buyer, then everything poured into it should belong to the buyer from the first drop — why should the seller retain ownership until the vessel is full? And if it belongs to the seller, then even after it is full the seller should retain ownership — why does the *mishna* say the buyer takes possession upon filling?
 
-### Rabbi Elazar: Middleman'…
+### Elazar: Middleman Vessel
 
 Rabbi Elazar resolves this: *b'midas sirsur* — the vessel belongs to the middleman, who is lending its use to both parties. As in the *braita* cited earlier, there is an implicit understanding governing the use of this third-party vessel: the seller holds rights to it and its contents while it is being filled, and those rights transfer to the buyer once it is full.
 
@@ -108,7 +108,7 @@ These two rulings appear to conflict. In the sales context, the residual oil rev
 
 The resolution is attributed to Rav Abba: *mishum yeush ba'alim nangu bah* — the distinction turns on *yeush*, the owner's waiver of his claim. Technically, when oil is measured out for a buyer, every last drop — including what clings to the walls — belongs to the buyer. The seller is obligated to provide the full measure. However, when the oil is poured and the buyer sees that thin film of residue clinging to the walls, he simply does not have the patience or inclination to wait while the seller coaxes out every remaining drop. He waives his right to it — he is *miya'esh*, he foregoes that portion. It is this implicit *yeush* on the part of the buyer that permits the seller to retain the residue. In the *truma* context, no such *yeush* applies. Once oil has been designated as *truma* and declared *kodesh*, it is entirely sanctified — even the portion that clings to the walls — and there is no basis for the original owner to waive his sanctification of it. The *truma* remains *truma*, including the residue.
 
-### Storekeeper & Erev Shabb…
+### Storekeeper: Three Drops
 
 The *gemara* then resolves the ambiguity about Rabbi Yehuda's ruling on *Erev Shabbos*. A *braita* clarifies: *Rabbi Yehuda omer erev shabbos im chashecha chanvani patur mipnei she-chanvani tarud* — Rabbi Yehuda says that on Friday afternoon as darkness falls, the storekeeper is exempt from the three drops because he is under extreme pressure. The implication is that at all other times, Rabbi Yehuda disagrees with the *chachamim* and holds that even a storekeeper is obligated to provide the three drops. Rabbi Yehuda's ruling is therefore a restriction relative to the majority position, not a leniency: the *chachamim* exempt storekeepers entirely, while Rabbi Yehuda limits that exemption to *Erev Shabbos* alone, when the pressure is genuinely acute.
 
@@ -126,7 +126,7 @@ The *tanna kamma* rules that the storekeeper is liable. The reasoning is straigh
 
 Rabbi Yehuda exempts the storekeeper: *she'al menas ken shalacho* — the father sent the child precisely for this purpose. Rabbi Yehuda reasons that if the *tanna kamma*'s view were correct, no storekeeper would ever sell anything to a child, since no transaction could ever be completed. Moreover, the father obviously wants his child to bring home the oil and the change — that is the entire point of sending him. Rabbi Yehuda therefore holds that by sending the child, the father implicitly communicates to the storekeeper: give the oil and the change to my child, and you will have fulfilled your obligation to me. You may keep the *pundyon* once you have done so. Even though the child cannot technically perform a *kinyan*, the father's act of sending him constitutes an implicit waiver of the storekeeper's liability.
 
-### Child Holding Jug Except…
+### Child Holds Jug
 
 The *mishna* then adds that the *chachamim* agree with Rabbi Yehuda in one specific case: *bizman she-hatzluchit be-yad hatinok u-madad chanvani l'tocha, ha-chanvani patur* — if the child is holding the jug and the storekeeper measures oil directly into it, the storekeeper is exempt.
 
@@ -134,11 +134,11 @@ The Rashbam immediately notes an important qualification: this exemption applies
 
 The *mishna* distinguishes between two situations: if the storekeeper takes the jug from the child to fill it, he bears some degree of liability; if the jug remains in the child's hands throughout, he does not. The natural reading of the *mishna* is that the jug belongs to the father, who sent it along with his child. The question then becomes: why should the storekeeper ever be liable for a jug that was never his and that he simply filled and returned?
 
-### Storekeeper Liability: I…
+### Storekeeper Liability
 
 The difficulty is acute. The father already handed the jug to the child — someone *halachically* incapable of guarding it — before anything else happened. One might therefore argue that the father has already placed the jug in a vulnerable situation, and no subsequent handling by the storekeeper should create liability. How does the storekeeper's act of taking the jug generate responsibility?
 
-### Shmuel: Inspection = Sho…
+### Shmuel: Inspection=Shoel
 
 One answer is offered by invoking a ruling of Shmuel: *de-amar Shmuel hanotel kli min ha'uman al menat levakro, ve-ne'enas beyado, chayav* — one who takes a vessel from a craftsman to inspect it, and even if a complete accident occurs while he holds it, is liable. The theory is that the inspector is considered a *shoel*, a borrower, during the period of inspection: he is the only one currently deriving any benefit from the exchange — the craftsman is not receiving anything while his vessel is being examined — and therefore all risk of loss falls on him, just as a borrower bears full liability.
 

@@ -8,7 +8,7 @@ The *mishnah* at the bottom of 13b continues the broader discussion of how multi
 
 The *mishnah* closely parallels the discussion in Makkos, where the question is how many sets of lashes one can incur from a single forbidden act. Here, in *Kerisot*, the parallel question concerns *chatosos* brought *beshogeg* — unintentionally.
 
-### Fat/Impure/Leftover/Kods…
+### Fat & Impurity: Kodshim
 
 The *mishnah* states: *yesh ochel achilah achas vechayav aleha arba chatos ve'asham echad* — there is one who eats one eating and is liable for four sin offerings and one guilt offering. The case is constructed as follows. A *tamei* person eats *cheilev* — forbidden fat. The fat is simultaneously *nosar* — leftover sacrifice — which itself carries *kares*, adding a second sin offering. The food is *min hamukdashin*, sanctified sacrificial meat, and since a *tamei* person who eats *kodshim* is liable for an *oleh veyored* offering, that is a third. The eating takes place on *Yom Kippur*, generating a fourth *kares* obligation and thus a fourth *chatas*. The *asham* arises from *me'ilah*: since the fat always goes upon the *mizbe'ach* and no person is permitted to eat it, there is a transgression of deriving benefit from sanctified property, which carries an *asham me'ilah*.
 

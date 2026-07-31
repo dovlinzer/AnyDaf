@@ -1,4 +1,5 @@
 # Bava Kamma 24 — Daf Yomi Shiur
+[DAF:24a]
 
 ## Inciting Animals
 
@@ -230,6 +231,7 @@ Rav Kahana challenges the *le-i'udei tora* interpretation sharply. Rav Kahana's 
 
 This challenge applies even if the *mu'ad* determination is purely about the animal's status and not the owner's notification. Even within the *le-i'udei tora* framework, the final witnesses acted without any knowledge of what their testimony would accomplish. Rav Kahana's point is that for *edim zomemim* liability to attach, the witnesses must have had some awareness of the consequences their false testimony would create.
 
+[DAF:24b]
 ### Conspiracy Evidence
 
 > **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי: כְּשֶׁבָּאוּ רְצוּפִים. רָבִינָא אָמַר: בְּמַכִּירִין בַּעַל הַשּׁוֹר, וְאֵין מַכִּירִין אֶת הַשּׁוֹר.

@@ -4,9 +4,9 @@
 
 ### Women Unable to Conceive
 
-Today's *daf* is 26, and we pick up on 25b with the topic of *muberet chaveiro*. The *mishnah* deals with women who cannot give birth — either because they are elderly (*zkeinah*) or infertile (*akarah*) — and their status with respect to the *sotah* procedure.
+ The *mishnah* deals with women who cannot give birth — either because they are elderly (*zkeinah*) or infertile (*akarah*) — and their status with respect to the *sotah* procedure.
 
-### Divorce Requirement Deba…
+### Chachamim vs. Eliezer
 
 The *Chachamim* ruled that such a woman cannot be made to drink the *sotah* water, because she falls into a category of women whom the husband is obligated to divorce. The reason is that he must fulfill the *mitzvah* of *pru u'revu*, and remaining married to a woman incapable of bearing children prevents this. To this, *Rabbi Eliezer* cogently responds: there is no need to divorce her, since he could simply marry another woman and thereby fulfill *pru u'revu*. The marriage to the infertile or elderly woman thus remains valid, and consequently he may administer the *sotah* water.
 

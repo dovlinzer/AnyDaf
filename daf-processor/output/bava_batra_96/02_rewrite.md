@@ -22,7 +22,7 @@ The ambiguity of the *baraita*'s language opens a dispute between *Rabbi Yochana
 
 The critical empirical assumption is that wine does not turn to vinegar instantaneously. The process of souring (*reicha chala, ta'ama chamra* — smells like vinegar, tastes like wine) is a transitional phase that takes approximately three days to complete, after which the wine tastes like vinegar as well. This transitional phase is the crux of the dispute.
 
-## Grape Drink Blessing (II)
+## Grape Drink Blessings
 
 ### Tasting Tevel Issue
 

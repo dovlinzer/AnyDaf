@@ -1,6 +1,6 @@
 # Bava Metzia 53 — Daf Yomi Shiur
 
-## Ona'ah & Deficient C (II)
+## Ona'ah & Deficient Coins
 
 ### Mishna Overview
 

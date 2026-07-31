@@ -1,4 +1,5 @@
 # Gittin 66b — Daf Yomi Shiur
+[DAF:66a]
 
 ## Multiple Messengers
 
@@ -12,6 +13,7 @@ The present daf picks up with the final line of 66a, continuing the *mishna*'s d
 
 The *mishna* opens with two cases. If the husband says to two people, *tnu get l'ishti* — give a *get* to my wife — then since *tnu* implies giving but necessarily also writing, the two must themselves carry out both actions. Similarly, if he says to three people, *kitvu get u'tnu l'ishti* — write a *get* and give it to my wife — then *harei elu yichtevu v'yitnu*: it must be precisely those individuals who do it.
 
+[DAF:66b]
 ### Three People: Delivery O…
 
 > **Hebrew/Aramaic:** אָמַר לִשְׁלֹשָׁה: ״תְּנוּ גֵּט לְאִשְׁתִּי״, הֲרֵי אֵלּוּ יֹאמְרוּ לַאֲחֵרִים וְיִכְתְּבוּ, מִפְּנֵי שֶׁעֲשָׂאָן בֵּית דִּין; דִּבְרֵי רַבִּי מֵאִיר. וְזוֹ הֲלָכָה הֶעֱלָה רַבִּי חֲנִינָא אִישׁ אוֹנוֹ מִבֵּית הָאֲסוּרִין: מְקוּבָּל אֲנִי בְּאוֹמֵר לִשְׁלֹשָׁה: ״תְּנוּ גֵּט לְאִשְׁתִּי״ – שֶׁיֹּאמְרוּ לַאֲחֵרִים וְיִכְתְּבוּ, מִפְּנֵי שֶׁעֲשָׂאָן בֵּית דִּין,

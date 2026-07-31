@@ -1,4 +1,5 @@
 # Nedarim 72 — Daf Yomi Shiur
+[DAF:72a]
 
 ## Pre-Marital Vow Annulment
 
@@ -138,6 +139,7 @@ The *pshat* of the *mishna* clearly reads as genuine pre-emptive annulment. But 
 
 Rabbi Yonatan objects: *matzinu be-chol ha-Torah kulo shlucho shel adam k'moto* — throughout the entire Torah, an agent stands in the place of the one who appointed him. Why should *hafara* be any different? Why can the husband not empower a *shaliach* to annul on his behalf?
 
+[DAF:72b]
 ### Hearing vs. Legal Act
 
 > **Hebrew/Aramaic:** וַאֲפִילּוּ רַבִּי יֹאשִׁיָּה לָא קָאָמַר אֶלָּא מִשּׁוּם דִּגְזֵירַת הַכָּתוּב הוּא ״אִישָׁהּ יְקִימֶנּוּ וְאִישָׁהּ יְפֵרֶנּוּ״, אֲבָל דְּכוּלֵּי עָלְמָא שְׁלוּחוֹ שֶׁל אָדָם כְּמוֹתוֹ. וְהָא לָא שְׁמִיעַ לֵיהּ!

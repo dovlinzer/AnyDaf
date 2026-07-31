@@ -28,11 +28,11 @@ Rav Nachman now rules on a case that tests the limits of *matnat shchiv mera*. A
 
 Why not? Because neither statement transfers any concrete property. Dwelling in a house is an abstraction; the right to future fruit is a *davar shelo ba le-olam*, something that does not yet exist in the world. The family may choose to honor the dying man's wishes out of respect for his memory, but no legally cognizable gift has been made. The *shchiv mera* has not transferred anything.
 
-### Property Transfer Requir…
+### Kinyan: Transfer Req.
 
 To achieve the desired result, Rav Nachman specifies the required formulation: *tenu bayis zeh le-ploni ve-yeidor bo* — "Give Reuven this house so that he may live in it"; *tenu de-ikal zeh le-ploni ve-yochal peirosav* — "Give Reuven this palm tree so that he may eat its fruit." Once actual ownership of the object is transferred, the incidental benefits — dwelling, fruit — follow automatically. The explicit statement of purpose (*ve-yeidor bo*, *ve-yochal peirosav*) is not strictly necessary once ownership is conveyed, but the ownership transfer itself is indispensable. An intermediate option also exists — conveying the tree *le-peirosav*, transferring ownership for the specific purpose of its fruit — but even here, some concrete property right must be the subject of the transfer.
 
-### Conditional Language Deb…
+### Conditional Language Mat
 
 This raises a genuinely difficult question: can a *matnat shchiv mera* include conditional language — for instance, giving Reuven the house *letzorech dira*, for the purpose of dwelling, in a way that might limit what Reuven can do with it? The question cuts to the heart of the conceptual debate. A *kinyan* can certainly include conditions: one can transfer property *al tnai*, with a stipulation that reverts ownership if a condition is unmet. But a *yerusha* cannot be conditioned — one cannot inherit *b'tnai*. If *matnat shchiv mera* operates on the *yerusha* model, conditional transfers may be structurally unavailable. This remains an open and genuinely interesting question.
 
@@ -112,7 +112,7 @@ The Gemara attempts to provide a working standard: *stamei d'shchiv mera ma'ayan
 
 Rav Nachman raises what seems at first to be a devastating objection. Even when a *shchiv mera* appears to have distributed all his property, how can we ever be confident that we are truly in the category of *kol nechasav*? Perhaps he holds assets in another location — a forgotten account, an investment buried in paperwork, some property elsewhere. *Chashinan shema yesh lo nechasim b'medina acheret* — we must worry that he has property in another jurisdiction. If this concern is taken seriously, it would mean that virtually every case falls into *miktzat nechasav*, effectively eliminating the category of *kol nechasav* — and with it, the institution of *amad chozer* — almost entirely.
 
-### Explicit Language Soluti…
+### Kol Nechasav: Language
 
 Rav Chama resolves the difficulty: the category of *kol nechasav* is established when the *shchiv mera* explicitly uses the language *kol nechasai* — "all my property." When he frames his gift with that phrase, the hidden-assets concern is set aside because the gift is self-defining: whatever he owns, all of it, is being transferred. The concern about unknown assets does not override an explicit declaration of totality.
 

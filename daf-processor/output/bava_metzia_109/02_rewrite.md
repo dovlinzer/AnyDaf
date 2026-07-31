@@ -6,7 +6,7 @@
 
 Daf 109 opens by returning from the discussion of *bar metzra* to the laws of *sechirut* — renting land. This daf introduces not only the *choker* but a new figure who will occupy much of the subsequent discussion: the *shatla*, the planter. We have previously encountered the *kablan*, who rents land at a fixed ratio of the produce, and the *choker*, who rents for a fixed sum regardless of yield. The two figures operate under meaningfully different legal frameworks, and that distinction drives the opening *mishnah*. The *shatla*, by contrast, is not a renter in the traditional sense at all — he is hired specifically to plant, receives compensation in a particular form, and if he breaks his contract, distinct rules govern what he owes and what he may claim.
 
-### Flax & Sycamore Restrict…
+### Flax & Sycamore Limits
 
 The *mishnah* begins: *ha-mekabel sadeh me-chavero le-shanim mu'atot* — one who rents land from another *be-chakirut*, at a fixed cost, for a small number of years. Rashi explains, and the *seifa* of the *mishnah* confirms, that *shanim mu'atot* means fewer than seven years. Such a renter *lo yizra bah pishtan* — may not plant flax. The reason, as Rashi explains, is that *pishtan* damages the soil. This restriction also proves, according to Rashi, that the *mishnah* is discussing a *choker* rather than a *kablan*: a *kablan* who rents at a fixed ratio of produce has already agreed with the landowner on what to plant. As we saw in an earlier *mishnah*, a *kablan* may not substitute a crop that is worse for the land than the one contracted — *ha-mekabel sadeh me-chavero lizroa chitin lo yizra'enah se'orin, lizroa se'orin lo yizra'enah chitin* — but may substitute something less harmful. Flax, being harmful to the soil, would be permissible for a *kablan* who expressly contracted for it. Since the *mishnah* prohibits it without qualification, it must be addressing the *choker* who pays a fixed rent.
 
@@ -18,7 +18,7 @@ If the rental is for a full seven-year period, the calculus changes. *Shanah ris
 
 ---
 
-## Sycamore Overgrowth Deba…
+## Sycamore Shevach Debate
 
 ### Abaye: Gets Shevach
 
@@ -28,7 +28,7 @@ The *gemara* opens with Abaye's comment on the *mishnah*: *be-kurot shikmah ein 
 
 Rava disagrees: *afilu be-shevach shikmah ein lo* — even for the excess growth, the renter receives nothing.
 
-### Vegetables Counterargume…
+### Veggie Counterargument
 
 The *gemara* attempts to refute Rava from a *baraita*: *ha-mekabel sadeh me-chavero ve-higi'a zemano latzet, shamin lo* — when a renter's time to leave arrives, an evaluation is made of what is owed to him. The *gemara* asks: does this not mean that we evaluate the excess growth of the sycamore trees, refuting Rava? The *gemara* deflects: *lo, shamin lo yarak u-silka* — no, the evaluation is made for vegetables growing on the property. But this prompts an immediate question: why evaluate vegetables at all? Vegetables can simply be taken and sold — *yarka ve-ashla na'akor venishtakar*. Why is an evaluation (*shimin lo*) necessary?
 
@@ -62,7 +62,7 @@ The *gemara* now shifts to a series of practical cases exploring the boundaries 
 
 Rav Shisha son of Rav Idi challenged him: *ela me'ata dikla be-alma, hachi nami devayei mar shevcha?* — by that reasoning, if you had rented land to grow palm trees and they grew more than expected, would you also demand *shevach* for the excess growth of the palms?
 
-### Short vs. Long-Term Inte…
+### Rav Pappa: Alfalfa vs
 
 Rav Pappa draws a distinction. *Hatam lav ada'ata dehachi nachit ana* — in that case, if I had rented land to grow palms and they grew more than expected, that was never my intent; I rented to get the fruit. *Hacha ada'ata dehachi nachitna* — here, my purpose in renting was to plant things and cultivate growth. The assumption underlying my agreement was that new growth occurring during my tenancy would accrue to me, and these sprouting trees represent exactly that. The *gemara* notes that this position appears consistent with Abaye's, which raises a difficulty — we generally do not rule like Abaye against Rava in matters of *halacha*. The *gemara* deflects: *afilu teima ke-Rava* — one may read Rav Pappa's position as consistent with Rava as well. *Hatam leit leh pseida* — in the original case of the *mishnah*, Rava held that the renter gets no *shevach* because no loss accrued to him from the sycamore's presence; the sycamore was always there. *Hacha ika pseida* — here there is a loss, because land was occupied by these sprouting trees where alfalfa could have been planted.
 
@@ -128,7 +128,7 @@ The *gemara* presents a case involving a planter named Runya who worked for Ravi
 
 Runya protested: *ha lo hitrah bi* — he gave me no warning before dismissing me. Rabba's response is categorical: *lo tsarich le-hatrah* — no warning was required whatsoever. Rabba then articulates a broader principle: certain categories of workers are at-will hires, and no advance notice is necessary before dismissing them. He lists: *makrei dardakei, shatla, tavcha, umana ve-safra mata* — teachers of young children, planters, butchers, bloodletters, and the town scribe.
 
-### Irrecoverable Loss Doctr…
+### Irrecoverable Loss Work
 
 Rava formulates the underlying rationale as a general rule: *kol pseida de-lo hadar* — any loss which is irrecoverable — that worker is treated as an at-will hire who may be dismissed without warning. A teacher who neglects children, a planter who damages crops, a butcher who renders meat *treif* — in each case, the damage cannot be undone. Because the nature of the work is such that a single instance of carelessness causes permanent, unrecoverable harm, the employer's right to terminate immediately without notice is recognized as an overriding consideration. This rule will be elaborated further in *Bava Batra*.
 
@@ -210,6 +210,6 @@ Rava disagrees: *karna havei* — the dried trees are classified as *karna*, the
 
 A *baraita* is cited that appears to create difficulty: *yavesh ilan o niktzatz, sheneihem asurim bo* — if a tree withers or is cut down, neither the creditor nor the owner has rights to the wood. *Keitzad yaasu? Yimcheru le-etzim, ve-yilkach bahen karka ve-hu ochel peirot* — what should they do? Sell the wood as timber, use the proceeds to buy land, and the creditor eats the produce of that land. This ruling aligns with Rava's position and seems to contradict Abaye's.
 
-### Normal vs. Abnormal With…
+### Abnormal Withering
 
 The *gemara* examines the *baraita* closely. The initial reading assumed *yavesh dumya de-niktzatz* — that "withering" is analogous to "being cut," both representing trees that have completed their productive cycle and dried out at their proper time. Under that reading, the *baraita* supports Rava comprehensively. But an alternative reading is pressed: *niktzatz dumya de-yavesh* — no, "cut" should be read as analogous to "withered," and *yavesh belo zemano* — the withering described is premature, abnormal death before the tree's expected productive life has ended. If the trees died before their time, *hazkin bizmano* — aged and dried in the normal course — would be described differently. On this reading, the *baraita* speaks only of trees that died abnormally early, and the dispute between Abaye and Rava comes down to whether the withering in our original case — where the orchard died after five years of a ten-year mortgage — was within the normal expected lifespan of those vines or premature. If it was within normal time, Abaye's ruling that it is *pira* may still stand; if it was abnormally early, the *baraita's* rule of *karna* applies. The daf concludes with this question open, to be taken up in the continuation.

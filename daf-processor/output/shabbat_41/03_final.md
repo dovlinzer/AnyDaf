@@ -1,4 +1,5 @@
 # Shabbat 41 — Daf Yomi Shiur
+[DAF:41a]
 
 ## Kli Rishon/Kli Sheni
 
@@ -226,6 +227,7 @@ The *mishnah* introduces the case of a *meicham* — a hot water kettle — ruli
 
 Rav Adda bar Matnah's reading is as follows: *hamicham shepinah mimenu mayim* — the kettle from which the water has been poured out, leaving an empty but very hot vessel. Into this empty hot kettle, one may not add a little cold water, because the little water will quickly reach *yad soledet bo* — that is *bishul*. But one may add a large amount of cold water, because the volume of cold water will cool the vessel sufficiently that the water will only warm, not cook.
 
+[DAF:41b]
 ### Abaye's Version
 
 > **Hebrew/Aramaic:** וַהֲלֹא מְצָרֵף? רַבִּי שִׁמְעוֹן הִיא, דְּאָמַר: דָּבָר שֶׁאֵין מִתְכַּוֵּין — מוּתָּר. מַתְקִיף לַהּ אַבָּיֵי: מִידֵּי מֵיחַם שֶׁפִּינָּה מִמֶּנּוּ מַיִם קָתָנֵי?! מֵיחַם שֶׁפִּינָּהוּ קָתָנֵי! אֶלָּא אָמַר אַבָּיֵי, הָכִי קָאָמַר: הַמֵּיחַם שֶׁפִּינָּהוּ וְיֵשׁ בּוֹ מַיִם חַמִּין — לֹא יִתֵּן לְתוֹכוֹ מַיִם מוּעָטִין בִּשְׁבִיל שֶׁיָּחוֹמּוּ, אֲבָל נוֹתֵן לְתוֹכוֹ מַיִם מְרוּבִּים כְּדֵי לְהַפְשִׁירָן. וּמֵיחַם שֶׁפִּינָּה מִמֶּנּוּ מַיִם — לֹא יִתֵּן לְתוֹכוֹ מַיִם כׇּל עִיקָּר, מִפְּנֵי שֶׁמְּצָרֵף. וְרַבִּי יְהוּדָה הִיא, דְּאָמַר דָּבָר שֶׁאֵין מִתְכַּוֵּין אָסוּר.

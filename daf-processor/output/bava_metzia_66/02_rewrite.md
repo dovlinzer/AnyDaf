@@ -96,7 +96,7 @@ The underlying principle being crystallized is: a commitment made after the fact
 
 A *shechiv mera* — a man on his deathbed — gives his wife a *get*. The reason a dying man would give a *get* at this point is to spare his wife from *yibum*: were she to be left a *yevamah*, she would need to undergo *chalitzah* or *yibum* with her husband's brother. To preempt this, he divorces her on his deathbed so that she dies as a divorcée, not as a widow. The man, however, groans — *angid ve-itnach* — and sighs as he hands over the *get*, expressing his reluctance. His wife, moved by his hesitation, says to him: *i kaymet ana didach* — if you live, I will remain your wife. She is offering a kind of comfort: do not be so distressed; if by some miracle you recover, I am yours.
 
-### Wife's Words Insignifica…
+### Wife's Statement: Pitumei
 
 Zeiri rules: *pitumei mili de-amrah* — what she said is mere comforting words, legally empty. Just as in the previous cases, the post-hoc verbal declaration carries no binding force.
 

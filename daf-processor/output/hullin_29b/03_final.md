@@ -1,4 +1,5 @@
 # Hullin 29b — Daf Yomi Shiur
+[DAF:28b]
 
 ## Shechita Timing
 
@@ -104,6 +105,7 @@ Abaye objects: this exclusion of two people from shechting a parah adumah is the
 
 And, continues Abaye, even according to Rabbi Eliezer son of Rabbi Shimon who prohibits two people, one can construct an equivalent scenario with one person and two garments. if the shochet was wearing one garment at the beginning of shechita and a different garment at the end, the first garment was only present during the beginning of the process and not at its completion. According to the view that shechita is only at the end, only the final garment would become tamei. This scenario requires only one person and could have been stated by the Mishnah to illustrate the principle.
 
+[DAF:29a]
 ### Gemara Clarifies
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: לָאו אִתְּמַר עֲלַהּ, אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: זוֹ דִּבְרֵי רַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן
@@ -206,6 +208,7 @@ Reish Lakish provides the textual source for the requirement of shechita meforaa
 
 Rabbi Elazar challenges this requirement from a Mishnah: two people holding knives and shechting, even if one is working from above and one from below, the shechita is valid. This appears to describe exactly the scenario of shechita in two separate locations, with each person contributing part of the cut at a different place on the siman. Why would that be valid if shechita meforaat is required?
 
+[DAF:29b]
 ### One Knife Two Handles
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבִּי יִרְמְיָה: מִשְׁנָתֵינוּ בְּסַכִּין אֶחָד וּשְׁנֵי בְּנֵי אָדָם.

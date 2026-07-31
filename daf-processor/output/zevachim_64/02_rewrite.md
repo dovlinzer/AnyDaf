@@ -42,7 +42,7 @@ The *gemara* itself notes that the figure comes out to somewhat more than thirty
 
 ## Traffic Patterns
 
-### Counterclockwise/SW Acce…
+### Counterclockwise Rotation
 
 The *gemara* establishes that all who ascend the *mizbeach* normally proceed counterclockwise — all turns are to the right — and this applies to every standard service. However, for the three things performed at the southwest corner at the top of the *mizbeach*, rather than making the full counterclockwise rotation, the *kohein* would go directly to the southwest, turning left instead of right. The *gemara* asks: *mai taama* — what is the reason one is permitted to deviate from the normal directional pattern?
 

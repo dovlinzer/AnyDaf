@@ -74,7 +74,7 @@ Yet this celebrated exchange creates a legal problem. The *mishna* stated that a
 
 ---
 
-## Pigul vs. Shelo Lish (II)
+## Pigul vs. Shelo Lishmah
 
 ### Rava's Resolution
 
@@ -136,7 +136,7 @@ The discussion now shifts to a particularly intricate case: the *chatat pnimit*,
 
 Ilfa heard this teaching and reported it before Rav Padda. Rav Padda raises an immediate objection.
 
-### Learning Pigul from Shel…
+### Pigul from Shelamim
 
 Rav Padda's objection is pointed: *kelum lamadnu pigul ela mishlamim?* — Have we not derived all the laws of *pigul* from the *shelamim*, from the verse in Vayikra 7:18? And if all *pigul* law flows from that verse, then any application of *pigul* to other offerings must be derived by analogy to *shelamim*. But this creates a serious problem: in *shelamim*, there is no act of *tevilat etzba*, no dipping of the finger in the blood. The *shelamim*'s blood is collected in a vessel and sprinkled; the finger-dipping procedure simply has no parallel there. How, then, can we derive that *tevilat etzba* generates *pigul* in the inner *chatat* when there is nothing in *shelamim* with which to compare it?
 
@@ -184,7 +184,7 @@ The problematic parallel is *noten bikli* — placing the handful in a vessel. R
 
 The *Gemara* responds that this distinction is ultimately inconsequential: *keivan de'idi ve'idi matan kli hu* — since in both cases the defining feature is the placement into a vessel, whether it arrives there spontaneously or is actively placed makes no difference. *Mah li memeilah, mah li ka shakil ve'yahiv* — it is the same to me whether the blood flows in by itself or whether the *kohen* takes and places it. The vessel is the common denominator.
 
-### No Pigul for Finger Dipp…
+### Finger Dip, No Pigul
 
 But this resolution, while it establishes the parallel between *noten bikli* and *kabbalah*, actually sharpens the problem regarding *tevilat etzba* in the inner *chatat*. The *noten bikli* of the *minchah* and the *kabbalah* of the blood offering can be compared because both involve the vessel as the defining element. *Tevilat etzba*, however — the dipping of the finger in the blood of the inner *chatat* — has no counterpart whatsoever in the *shelamim* procedure. There is no vessel, no spontaneous collection, no analogous act in the offering from which we derive all *pigul* law.
 

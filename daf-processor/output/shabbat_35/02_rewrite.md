@@ -10,7 +10,7 @@ Today's *daf* is 35, and we are in the middle of a *sugya* in *Shas* on *bein ha
 
 The *Gemara* has established that the period of *bein hashmashot* runs from the time the sun sets until the sky darkens. There is, however, a subsidiary question: perhaps even a few minutes after sunset it is still day, so long as the sky remains red. This distinction generates the difference between the two primary positions.
 
-### Two-thirds/Three-quarter…
+### Redness Disappears
 
 The disagreement between two-thirds of a *mil* and three-quarters of a *mil* turns on whether *bein hashmashot* begins immediately at sunset or only once the redness of the sky has dissipated. Both versions of Rabbi Yehuda's position, however, agree that *tzeis* occurs three-quarters of a *mil* after sunset — the only question is when *bein hashmashot* itself begins. Three-quarters of 18 minutes is approximately 14 minutes; three-quarters of 24 minutes is 18 minutes. So even on the latest reckoning, *tzeis* falls between 14 and 18 minutes after sunset — a figure that will become significant once the *Gemara* in Pesachim enters the picture.
 

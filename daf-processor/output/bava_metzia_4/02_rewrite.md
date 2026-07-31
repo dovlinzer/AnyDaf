@@ -26,7 +26,7 @@ Witnesses, by contrast, are subject to *hachshasha* (contradiction through count
 
 ---
 
-## Kal VaChomer from One Wi…
+## Kal VaChomer: Oath
 
 ### One to Two Witnesses
 

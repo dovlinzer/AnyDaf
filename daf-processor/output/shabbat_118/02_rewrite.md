@@ -134,7 +134,7 @@ Rav Yehuda said in the name of Rav: *ilmalei shamru Yisrael Shabbat rishonah, lo
 
 This is the precise inverse of the promise: *shabbat* in its fullness connects Israel entirely to God and is the source of their protection. Its violation severs that connection and exposes them to attack.
 
-### Two Shabbatot = Redempti…
+### Two Shabbatot, Redemption
 
 Rabbi Yochanan said in the name of Rabbi Shimon ben Yochai: *ilmalei meshamrin Yisrael shtei Shabbatot ke-hilchatan, miyad nig'alin* — if Israel were to properly keep just two *shabbatot*, they would be redeemed immediately. Two is the minimum to establish a pattern rather than an anomaly — two demonstrates commitment. The proof: *koh amar Hashem lasarisim asher yishmoru et shabbatotai* — the plural *shabbatotai* in Isaiah — and immediately following: *vahaviotim el har kodshi ve-simachtim be-veit tefilati* — I will bring them to My holy mountain and gladden them in My house of prayer.
 

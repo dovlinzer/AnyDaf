@@ -82,7 +82,7 @@ Rav Nachman bar Yitzchak offers an alternative: they died of *askara*, croup —
 
 ---
 
-## Jordan Crossing & Ar (II)
+## Jordan Crossing & Ark
 
 ### Waters Return
 

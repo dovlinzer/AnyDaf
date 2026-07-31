@@ -50,7 +50,7 @@ The more fundamental question — why the fact that the thieves came specificall
 
 The *gemara* presents the classic case: *hahu gavra de-atzin ve-asi chamra le-mavra* — a certain man brought his donkey onto a ferry boat. There is a textual question here about the *girsa*: the standard reading has him bringing the donkey onto the boat before the other passengers boarded (*kamei de-sliku inshi be-mavra*), while other versions simply have him bringing it on along with everyone else. The *gemara* continues: *baei le-atvuei* — the boat was in danger of sinking. A certain bystander came and pushed the donkey overboard (*umalakh lei le-chamra de-hahu gavra va-shadya le-nahr*), and the donkey drowned. The matter came before Rava, who exempted the bystander.
 
-### Rava Exempt, Abaye Objec…
+### Rava Exempt, Abaye Obj.
 
 Abaye objects once more: *ve-ha-matzil atzmo be-mamon chavero* — the people on the boat were saving themselves with another's property. Why should the one who pushed the donkey be exempt?
 
@@ -172,7 +172,7 @@ The *gemara* explains Rav Chisda's reasoning: *ho'il ve-anketina nagrei baraita*
 
 ---
 
-## Tanaim: Return Metho (II)
+## Tanaim: Return Methods
 
 ### R. Yishmael Location
 

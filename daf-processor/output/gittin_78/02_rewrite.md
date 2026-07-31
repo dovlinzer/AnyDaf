@@ -60,7 +60,7 @@ The *Gemara* resolves otherwise. *D'chulei alma chatzer mishum yad itrabai* — 
 
 The debate over what constitutes *yad* surfaces in two directions. One view treats *yad* as a physical, bodily concept — something on my person, attached to me, immediately adjacent to my body. On this model, the *chatzer* functions as a *yad* only when it is physically continuous with the person in some meaningful sense.
 
-### Yad: Physical vs. Concep…
+### Yad: Physical vs Concept
 
 The two interpretations of *yad* map onto this debate directly. *Mah yadah b'sumucha* — just as her hand is next to her, attached to her, so the *chatzer* she must be adjacent to the *chatzer* for it to serve as an extension of her. The second view: *im mah yadah b'dvuka af chatzer b'dvuka* — if you take the analogy that far, you would require her to be literally connected to the yard, which is untenable. Therefore, we must read *yad* conceptually.
 

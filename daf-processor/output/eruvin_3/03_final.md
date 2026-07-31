@@ -1,4 +1,5 @@
 # Eruvin 3 — Daf Yomi Shiur
+[DAF:3a]
 
 ## Heichal Basis & Dimensions
 
@@ -172,6 +173,7 @@ Ravina offers a parallel but structurally opposite formulation. Since *sukkah* i
 
 ## Space vs. Object
 
+[DAF:3b]
 ### Challal Definition
 
 > **Hebrew/Aramaic:** חֲלַל סוּכָּה תְּנַן, חֲלַל מָבוֹי תְּנַן. אֲמַר לֵיהּ רַב פָּפָּא לְרָבָא, תַּנְיָא דִּמְסַיַּיע לָךְ: מָבוֹי שֶׁהוּא גָּבוֹהַּ מֵעֶשְׂרִים אַמָּה יוֹתֵר מִפִּתְחוֹ שֶׁל הֵיכָל יְמַעֵט. וְהֵיכָל גּוּפוֹ חֲלָלוֹ עֶשְׂרִים.

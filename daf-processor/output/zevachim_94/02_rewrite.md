@@ -2,7 +2,7 @@
 
 ## Leather & Flaying
 
-### Opening: Blood & Launder…
+### Blood & Launder Chatat
 
 The *daf* begins at the bottom of 93b, continuing the *halacha* concerning blood of a *chatat* that splatters on a garment and must be laundered in the *azarah*. The *mishna* now turns from the question of what type of blood triggers this obligation to the question of what type of material the blood must land on.
 

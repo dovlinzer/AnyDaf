@@ -100,7 +100,7 @@ But if *shira* requires wine, how can *Bikkurim* require *shira*? There is no wi
 
 ---
 
-## When Singing Require (II)
+## When Singing Required
 
 ### Chizkiyahu Story
 
@@ -120,7 +120,7 @@ But if *shira* requires wine, how can *Bikkurim* require *shira*? There is no wi
 
 ## Role Boundaries
 
-### Death for Wrong Role
+### Offering Identity
 
 The Gemara now develops the implications of the verse *ve-lo yamutu gam hem gam attem* in a striking direction. *Tanya nami hakhi: attem be-shelahem, ve-hem be-shelakhem, be-mitah* — if the *kohanim* perform Levitical duties or the Levites perform priestly duties, they are *chayav mitah*. The case of a Levite doing priestly service is understandable: the *halacha* is *zar she-shimmesh be-mitah*, that a non-*kohen* who performs the Temple service is liable. But the verse now establishes the parallel: just as they are liable for doing your job, you are liable for doing theirs.
 
@@ -128,7 +128,7 @@ More striking still: *hem be-shelahem* — if Levites perform Levitical duties t
 
 Rav Soloveitchik, in his *Shiurim Lezecher Abba Mari*, develops this point into a broader philosophical distinction between *kohanim* and *Levi'im*. A *kohen* is defined by his personal status — *kehuna* is a matter of who he is. A Levite, by contrast, is defined by his *avodah* — by the role to which he is assigned. His identity in the Temple context is constituted by his job, not the reverse. This is why a Levite who performs a different Levitical function is a *zar* relative to it: the assignment is not incidental to his Levitical identity but constitutive of it. Among the *kohanim*, by contrast, we never find a parallel prohibition against performing a priestly function outside one's specific assignment — because for *kohanim*, all priestly functions flow from a unified personal status.
 
-### Crossing Roles Story
+### Death for Wrong Role
 
 *Maaseh be-Rabbi Yehoshua ben Chananya she-halach le-sayei be-agafat daltot* — there was an episode involving Rabbi Yehoshua ben Chananya, who was a Levite and a singer, and who went to assist with the closing of the Temple gates. *Matza'o Rabbi Yochanan ben Gudgada* — Rabbi Yochanan ben Gudgada encountered him. *Amar lo: beni, chazor le-achorecha, she-atah min ha-meshorerim, va-ani min ha-sho'arim* — my son, go back; you are among the singers, and I am among the gatekeepers. One must not perform the role belonging to the other.
 
@@ -136,7 +136,7 @@ Rav Soloveitchik, in his *Shiurim Lezecher Abba Mari*, develops this point into 
 
 ## Role Boundaries (II)
 
-### Assisting Debate
+### Crossing Roles Story
 
 The Gemara draws on this episode to address the question of whether *assisting* in another Levitical role triggers the same concern as performing it. The *baraita* rules: *meshorer she-shiyeir, ve-sho'er she-shorer, einam be-mitah ela be-lav* — a singer who performs gating duty, or a gatekeeper who performs singing duty, is not *chayav mitah* but transgresses a prohibition. Abaye rules more stringently: *naktinan, meshoreir she-shiyeir beshel chaveiro, be-mitah* — our ruling is that a singer who performs a gatekeeper's duty is in fact liable, like a non-Levite doing Levitical service.
 
@@ -148,7 +148,7 @@ The Gemara then suggests an alternative: *de-kulei alma lav hi* — perhaps ever
 
 ## When Singing Require (II)
 
-### Free-Will Offerings
+### Assisting Debate
 
 *Ba'ei Rabbi Avin*: now that we have established that *shira* accompanies *korbanot*, the question is which *korbanot* require it. The assumption is that obligatory communal *olot* — the *Tamid* and the *Musaf* — are accompanied by *shira*. Rabbi Avin asks: *olat nidvat tzibur, te'unah shirah o einah te'unah shirah?* Does a voluntary communal *olah* require *shira* or not?
 
@@ -158,7 +158,7 @@ The Gemara cites the verse *oloseichem amar Rachmana* — the Torah uses the plu
 
 *Ta shema*: from the episode of Chizkiyahu, *vayomer Chizkiyahu le'haalos ha'olah la-mizbe'ach u'veit heichel ha'olah heichel shir Hashem veha-chatzotzrot* — Chizkiyahu directed that the *olah* be brought to the altar, and when the offering began, so did the singing and the *chatzotzrot*. The verse implies deliberation before this decision. If this were a standard obligatory *olah*, why was there consultation? It seems he was deliberating about a non-standard case. *Ela lav de'olas nedava* — it must have been a voluntary offering, and the deliberation concluded that *shira* and *chatzotzrot* accompany even a voluntary communal *olah*.
 
-### Offering Identity
+### Free-Will Offerings
 
 However, the identification of Chizkiyahu's offering remains unresolved. *Amar Rav Yosef: lo, olas Rosh Chodesh hava* — it was the *Rosh Chodesh olah*, and the deliberation concerned whether *Rosh Chodesh* had been properly established that day. Abaye objects: *ve-chasiv beyom shisha asar lachodesh harishon* — the verse explicitly states it was the sixteenth of Nissan, the second day of Pesach — so it cannot have been *Rosh Chodesh*.
 

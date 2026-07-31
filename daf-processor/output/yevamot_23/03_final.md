@@ -1,4 +1,5 @@
 # Yevamot 23 — Daf Yomi Shiur
+[DAF:23a]
 
 ## Yossi: Marriageability
 
@@ -254,6 +255,7 @@ The *mishnah* now complicates the scenario: two men — say, two unrelated indiv
 
 If both men die, each man's surviving brother must perform *chalitzah* with both sisters. The presence of the second possible husband compounds the uncertainty: each surviving brother must address the possibility that his deceased brother was married to either of the sisters.
 
+[DAF:23b]
 ### One vs. Two Bros
 
 > **Hebrew/Aramaic:** לָזֶה אֶחָד וְלָזֶה שְׁנַיִם — הַיָּחִיד חוֹלֵץ לִשְׁתֵּיהֶן, וְהַשְּׁנַיִם — אֶחָד חוֹלֵץ, וְאֶחָד מְיַיבֵּם. קָדְמוּ וְכָנְסוּ, אֵין מוֹצִיאִין מִיָּדָם.

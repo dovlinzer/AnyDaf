@@ -1,4 +1,5 @@
 # Gittin 31 — Daf Yomi Shiur
+[DAF:31a]
 
 ## Lending to Kohen/Levi
 
@@ -210,6 +211,7 @@ Before returning to resolve this, the *gemara* presents a tradition reported by 
 
 The southern wind, however, is the most powerful and dangerous of them all: *veruach dromit kashah mikulam* — the southern wind is the harshest. Were it not for an angel called Netz, who stands in its path and holds it back, *machrevet kol ha'olam kulo mipaneha* — it would destroy the entire world, presumably through an excess of cold. The scriptural basis is *hamavinatcha ya'aver Netz yifros knafav l'teiman* — "from Your understanding does Netz spread its wings to the south" (Iyov 39:26). This angel spreads its wings southward to restrain the southern wind and protect the world from its destructive force.
 
+[DAF:31b]
 ### Destructive Effects
 
 > **Hebrew/Aramaic:** ״וַיְהִי כִּזְרוֹחַ הַשֶּׁמֶשׁ וַיְמַן אֱלֹהִים רוּחַ קָדִים חֲרִישִׁית״ – מַאי ״חֲרִישִׁית״? אָמַר רַב יְהוּדָה: בְּשָׁעָה שֶׁמְּנַשֶּׁבֶת, עוֹשֶׂה תְּלָמִים תְּלָמִים בַּיָּם. אֲמַר לֵיהּ רַבָּה: אִי הָכִי, הַיְינוּ דִּכְתִיב: ״וַתַּךְ הַשֶּׁמֶשׁ עַל רֹאשׁ יוֹנָה וַיִּתְעַלָּף״?! אֶלָּא אָמַר רַבָּה: בְּשָׁעָה שֶׁמְּנַשֶּׁבֶת, מְשַׁתֶּקֶת כׇּל הָרוּחוֹת מִפָּנֶיהָ. וְהַיְינוּ דִּכְתִיב: ״אֲשֶׁר בְּגָדֶיךָ חַמִּים בְּהַשְׁקִט אֶרֶץ מִדָּרוֹם״.

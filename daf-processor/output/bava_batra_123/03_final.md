@@ -1,4 +1,5 @@
 # Bava Batra 123 — Daf Yomi Shiur
+[DAF:123a]
 
 ## Pi Shnayim Definition
 
@@ -210,6 +211,7 @@ The *gemara* explains: *ra'ah Yaakov Avinu she'ein zaro shel Eisav nimsar ela b'
 
 The proof text is the verse from Ovadiah: *vehaya veit Yaakov eish uveit Yosef lehava uveit Eisav l'kash* — the house of Yaakov shall be fire, the house of Yosef a flame, and the house of Eisav shall be stubble. Fire does not ignite stubble without a flame as intermediary. The house of Yaakov alone — the other tribes — cannot bring Eisav down. It is the house of Yosef, the flame, that is the essential catalyst. Yaakov therefore waited until that catalytic force was present before he could contemplate the return journey.
 
+[DAF:123b]
 ### David Challenge
 
 > **Hebrew/Aramaic:** אֵיתִיבֵיהּ: ״וַיַּכֵּם דָּוִד מֵהַנֶּשֶׁף וְעַד הָעֶרֶב לְמׇחֳרָתָם״! אֲמַר לֵיהּ: דְּאַקְרְיָךְ נְבִיאֵי לָא אַקְרְיָךְ כְּתוּבֵי; דִּכְתִיב: ״בְּלֶכְתּוֹ אֶל צִקְלַג, נָפְלוּ עָלָיו מִמְּנַשֶּׁה עַדְנָה וְיוֹזָבָד וִידִיעֲאֵל וּמִיכָאֵל וְיוֹזָבָד וֶאֱלִיהוּא וְצִלְּתָי – רָאשֵׁי הָאֲלָפִים אֲשֶׁר לִמְנַשֶּׁה״.

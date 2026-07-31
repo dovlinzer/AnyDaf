@@ -1,4 +1,5 @@
 # Hullin 31 — Daf Yomi Shiur
+[DAF:30b]
 
 ## Rashi vs. Rabbeinu Tam
 
@@ -72,6 +73,7 @@ The *gemara* asks: where is the textual source for the principle that *shechita*
 
 The *gemara* notes that one might have thought *zahav shachut* is not derived from the same root as *shechita* — perhaps the *shin* is not part of the verbal root and the word simply means gold shaped into threads. Therefore the verse about the arrow (*chetz shachut*) is also cited, to confirm the association with horizontal cutting.
 
+[DAF:31a]
 ### Arrow Story
 
 > **Hebrew/Aramaic:** רָבָא הֲוָה בָּדֵיק לֵיהּ גִּירָא לְרַבִּי יוֹנָה בַּר תַּחְלִיפָא, וְשָׁחַט בֵּהּ עוֹפָא בַּהֲדֵי דְּפָרַח. וְדִילְמָא עָבִיד חֲלָדָה? חֲזִינַן גִּידְפֵי דְּמִיפַּרְמִי. וְהָא בָּעֵי כִּסּוּי, וְכִי תֵּימָא דִּמְכַסּוּ לֵיהּ, וְהָאָמַר רַבִּי זֵירָא אָמַר רַב: הַשּׁוֹחֵט צָרִיךְ שֶׁיִּתֵּן עָפָר לְמַטָּה וְעָפָר לְמַעְלָה, שֶׁנֶּאֱמַר: ״וְכִסָּהוּ בֶּעָפָר״, ״עָפָר״ לֹא נֶאֱמַר אֶלָּא ״בֶּעָפָר״, מְלַמֵּד שֶׁהַשּׁוֹחֵט צָרִיךְ שֶׁיִּתֵּן עָפָר לְמַטָּה וְעָפָר לְמַעְלָה! דְּמַזְמֵין לֵיהּ לְעָפָר דְּכוּלַּהּ פִּתְקָא.
@@ -172,6 +174,7 @@ The *gemara* then asks: if both the person and the vessels had intent, what is t
 
 A subtle additional point deserves mention. Even if one were to posit that the person in the wave case had *kavana* — sitting and waiting for the wave — this raises a conceptual difficulty about how *kavana* functions. Normally, *kavana* accompanies an intentional *act*: I lower myself into the *mikveh* with intent; I move the knife with intent. Here, the person performs no action — the wave acts upon them. Even if one stipulates that the person's waiting constitutes an act of some kind, the extension of *kavana* to this setting — particularly for the vessels, which are inanimate objects placed passively on the shore — is conceptually strained. The *gemara* does not press this point further, but it is a genuine difficulty.
 
+[DAF:31b]
 ### Fruit Case
 
 > **Hebrew/Aramaic:** אֶלָּא חוּלִּין דְּלָא בָּעֵי כַּוָּונָה מִיהָא מְנָלַן? דִּתְנַן: פֵּירוֹת שֶׁנָּפְלוּ לְתוֹךְ אַמַּת הַמַּיִם, וּפָשַׁט מִי שֶׁיָּדָיו טְמֵאוֹת וּנְטָלָן – יָדָיו טְהוֹרוֹת, וּפֵירוֹת אֵינָן בְּ״כִי יוּתַּן״. וְאִם בִּשְׁבִיל שֶׁיּוּדְחוּ יָדָיו – טְהוֹרוֹת, וּפֵירוֹת בְּ״כִי יוּתַּן״.

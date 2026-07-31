@@ -28,7 +28,7 @@ The *gemara* proceeds to examine why each sage rejects the other's position. Rav
 
 The more formidable challenge, however, runs in the opposite direction — against Rav Nachman bar Yitzchak. The *gemara* asks: in the days of Rabban Yochanan ben Zakkai, was the red string actually turning white? A *braita* teaches that Rabban Yochanan ben Zakkai lived 120 years — forty years devoted to business, forty to learning, and forty to teaching. Any act of communal leadership, then, belongs to his final forty years. But a second *braita* teaches that *arba'im shanah kodem shenechrav habayit* — for the forty years preceding the *Churban*, the red string did not turn white; it remained red. And we know from the *Mishnah* that Rabban Yochanan ben Zakkai made his *takkanot mishcharav habayit* — after the *Churban*. Working backwards: if the *Churban* is year zero, then Rabban Yochanan ben Zakkai was teaching for the forty years prior, going back no more than thirty-nine years before the *Churban*. But the string had already ceased to turn white forty years before the *Churban*. The entire *takkanah* of the red string — which presupposes that the string *sometimes* turned white and *sometimes* did not — must therefore have been instituted before Rabban Yochanan ben Zakkai's tenure of leadership. His active role post-dates the period in which the *takkanah* could have been made.
 
-### Resolution: Young Yochan…
+### Resolution: Red String
 
 The *gemara* offers a resolution: during those forty years that Rabban Yochanan ben Zakkai was a *talmid yoshev lifnei rabo* — a student sitting before his *rebbe* — he was not merely learning independently. He was present in the context of active *halachic* life and occasionally offered a suggestion: *amar milta*, he said something. *V'istaber tameih* — they found it reasonable, *v'karu rabo mishmeih* — and his *rebbe* attributed the ruling to him by name. The analogy is almost reversed from academic convention: rather than the *rebbe* taking credit for the student's insight, the *rebbe* attributed it to the student. So the *takkanah* could technically be ascribed to Rabban Yochanan ben Zakkai even from his years as a student.
 
@@ -130,7 +130,7 @@ This question of placement is not merely technical. If *Kedushat HaYom* is attac
 
 The *Mishnah* states: *ein pochtin me'asarah malchuyos me'asarah zichronos me'asarah shofros* — one must not recite fewer than ten *malchuyos*, ten *zichronos*, and ten *shofros*. The *gemara* asks what the ten *malchuyos* correspond to. Rabbi Levi answers: *k'neged asarah hillulim she'amar David b'sefer Tehillim* — the ten praises of God found in Psalm 150, *halleluhu b'teka shofar*. There the word *hallelu* appears in connection with various musical instruments, and counting yields ten instances — hence ten *malchuyos*, consonant with the theme of praising the divine king. Rabbi Yochanan offers a different correspondence: the ten *malchuyos* correspond to the *asarah ma'amarot* — the ten utterances by which the world was created — connecting the theme of God's kingship on Rosh Hashanah directly to the creation of the world.
 
-### Rabbi Yochanan: Three Ve…
+### Yochanan: Three Verses
 
 Rabbi Yochanan ben Nuri's lenient position is then stated: *im amar shalosh shalosh mi-kullan yatza* — if one recites three from each category, one has fulfilled the obligation.
 

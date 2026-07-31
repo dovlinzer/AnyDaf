@@ -250,7 +250,7 @@ If instead he says *be-sachar she-e'eseh imach* — "in exchange for work I will
 
 Rabbi Natan disagrees: *be-sachar she-e'eseh imach einah mekudeshet ve-khol shekein be-sachar she-asiti imach* — neither the future-work formulation nor the past-work formulation creates valid *kiddushin*.
 
-### Extra Improvement Except…
+### Extra Improvement Ex.
 
 However, Rabbi Natan concedes: *aval im hosif lah nofech mi-shelo, mekudeshet* — if the craftsman added a personal extra improvement beyond what was contracted, she is betrothed with that addition.
 

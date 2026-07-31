@@ -1,4 +1,5 @@
 # Pesachim 101 — Daf Yomi Shiur
+[DAF:101a]
 
 ## Kiddush in Shul
 
@@ -204,6 +205,7 @@ Rabbi Yochanan goes according to a principle he is quoted as holding in the name
 
 The *Gemara* immediately challenges Rabbi Yochanan with a *braita*: *shinuy makom tzarich levarech, shinuy yayin ein tzarich levarech* — a change of location requires a new *berakhah*, a change of wine does not. This *braita* is unambiguous: *shinuy makom* requires a new *berakhah*. The *Gemara* concludes: *tyuvta d'Rabbi Yochanan tyuvta* — Rabbi Yochanan's position is refuted. So *shinuy makom* does require a new *borei pri hagafen*. A question is noted: if one recited a *berakhah acharona* before leaving the first location, that would certainly break the continuity; but even absent a *berakhah acharona*, the objective change of location requires a new *berakhah rishona*.
 
+[DAF:101b]
 ### Rav Chisda's First Teach…
 
 > **Hebrew/Aramaic:** יָתֵיב רַב אִידִי בַּר אָבִין קַמֵּיהּ דְּרַב חִסְדָּא, וְיָתֵיב רַב חִסְדָּא וְקָאָמַר מִשְּׁמֵיהּ דְּרַב הוּנָא: הָא דְּאָמְרַתְּ שִׁינּוּי מָקוֹם צָרִיךְ לְבָרֵךְ, לֹא שָׁנוּ אֶלָּא מִבַּיִת לְבַיִת, אֲבָל מִמָּקוֹם לְמָקוֹם — לָא.

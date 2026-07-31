@@ -52,7 +52,7 @@ But *Rashi* reads it differently, and his reading is remarkable. On the words *s
 
 This is an astonishing move. *Rashi* is reading the Gemara as operating with an assumption of patrilineal Jewish identity — the child of a Jewish father and a non-Jewish mother is, on this view, still Jewish, and indeed a *mamzer*. One might think this opens some door: there is a Talmudic opinion, apparently, that patrilineal descent confers Jewish identity. But as will become immediately clear, that is precisely the wrong conclusion to draw. If this view says the child is a *mamzer*, then patrilineal descent, on this reading, is worse than no descent at all — a *mamzer* cannot be remedied, whereas a non-Jew can convert.
 
-### Tosafot Rejects Patrilin…
+### Tosafot: Matrilineal Law
 
 *Tosafot* reacts with considerable force. In the *dibur hamatchil* beginning *oved kochav she-kidesh be-zman ha-zeh*, *Tosafot* writes: *peirush be-kuntres de-kasvar ovedet kochavim she-yaldah mi-Yisrael ha-velad mamzer ve-chosheshin le-kidushei mamzer* — so *Rashi* has explained it. But *Tosafot* objects: *u-teimah de-ve-kama mishnayot muchach de-ein ha-yachas ela achareha* — it is demonstrated from numerous *Mishnayot* that lineage follows the mother, not the father. When the father is Jewish and the mother is not Jewish, the child is not Jewish. The evidence from across *Shas* is overwhelming, and *Tosafot* marshals it.
 

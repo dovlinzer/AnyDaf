@@ -36,7 +36,7 @@ The *gemara* resolves this: *doreish el ha-meitim k'detanya* — *doreish el ha-
 
 ## Doreish El HaMetim
 
-### Cemetery Fasting Definit…
+### Doreish El HaMetim (II)
 
 The *gemara* elaborates on this definition of *doreish el ha-meitim*: self-imposed starvation in cemeteries, undertaken so that a spirit of impurity will rest upon the practitioner. There are parallel traditions of sleeping in cemeteries and hearing the dead speak, or even hearing heavenly voices from behind the divine curtain — but in this case, it is specifically about the *ruach tum'ah* taking up residence and facilitating acts of witchcraft, rather than direct necromantic communication.
 

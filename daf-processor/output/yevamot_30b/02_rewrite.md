@@ -182,7 +182,7 @@ The *gemara* acknowledges the force of this logic but answers on the basis of fr
 
 Divorce, by contrast, is unfortunately common. Cases of *safek gerushin* — where the validity of a *get* is uncertain — arise with sufficient regularity that the Rabbis had to think carefully about what message demanding *chalitza* would send to the public at large. The rarity of the *mapoles* case and the frequency of divorce cases thus lead to opposite outcomes.
 
-### Rabbinic Verification Concern
+### Safek Gerushin & Yibum
 
 The *gemara* makes this distinction explicit. In the case of *safek gerushin*, people understand that the Rabbis have the capacity and authority to investigate the validity of a *get*. If they see *chalitza* being performed in a case where Rachel is apparently still in the picture as a potential *ervah*, they will naturally assume that the Rabbis looked into it and determined that the *get* was in fact valid. *Kamu bah rabbanan b'gita* — they will conclude the Rabbis verified the divorce. And from that conclusion they will infer that *yibum* is permissible, when in truth Rachel remains married and Devorah is still a genuine *tzarat ervah*. The cost of demanding *chalitza* in the *safek gerushin* case is therefore real and substantial.
 

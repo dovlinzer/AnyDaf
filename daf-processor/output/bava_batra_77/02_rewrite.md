@@ -14,7 +14,7 @@ In the middle of that discussion, the *Gemara* had introduced the question of a 
 
 With that background in place, the *Gemara* now wraps up the boat discussion. The question raised is whether Abaye and Rava, who rule that in a *reshut harabim* only *mesira* works and *meshikha* does not, are thereby aligning themselves with Rabbi — a *da'at yachid*, a minority opinion — against the *Chachamim*, who require *meshikha* into a *simta* and do not allow *mesira* in a *reshut harabim* to suffice.
 
-### Domain-Based Reconciliation
+### Mesira & Meshikha Domain
 
 The *Gemara* asks: does this mean Abaye and Rava must follow only Rabbi? The answer is nuanced. Rav Ashi says: *i de-amar lei lekh chazeki u-knei* — if the seller explicitly said "go take possession of it," using the language of *mesira*, then everyone agrees, both Rabbi and the *Chachamim*, that *mesira* in a *reshut harabim* is effective. In such a case, Abaye and Rava's ruling that *mesira* works in a *reshut harabim* would be consistent with the view of all authorities.
 

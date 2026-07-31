@@ -1,4 +1,5 @@
 # Niddah 11b — Daf Yomi Shiur
+[DAF:11a]
 
 ## Dam Tahor: One or Two Wellsprings
 
@@ -32,6 +33,7 @@ To sharpen the issue: it is not that blood beginning on day eight is ever *tamei
 
 It is worth noting that our current practice departs from the Gemara's framework here. Post-Gemara, blood during the 33 and 66 days is treated as *dam niddah*. This is part of a broader pattern, which will be discussed further below, of treating all blood uniformly as *tamei* — a generalized *chumra* that emerged in stages.
 
+[DAF:11b]
 ### Mishna as Beit Shammai
 
 > **Hebrew/Aramaic:** אָמַר לָךְ לֵוִי: הָא מַנִּי? בֵּית שַׁמַּאי הִיא, דְּאָמְרִי: מַעְיָן אֶחָד הוּא. וּסְתַם לַן תַּנָּא כְּבֵית שַׁמַּאי?! סְתָם וְאַחַר כָּךְ מַחְלוֹקֶת הוּא, וְכׇל סְתָם וְאַחַר כָּךְ מַחְלוֹקֶת אֵין הֲלָכָה כִּסְתָם.

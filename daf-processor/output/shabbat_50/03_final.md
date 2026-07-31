@@ -1,4 +1,5 @@
 # Shabbat 50 — Daf Yomi Shiur
+[DAF:50a]
 
 ## 39 Melachot Overview
 
@@ -158,6 +159,7 @@ The *gemara* cites a *beraita* that permits using *netar* (natron, a washing sod
 
 ## Cleansers & Hair
 
+[DAF:50b]
 ### R. Yehuda vs Shimon
 
 > **Hebrew/Aramaic:** בְּמַאי אוֹקֵימְתָּא לְהָא דְּשָׁרֵי — כְּרַבִּי שִׁמְעוֹן, אֵימָא סֵיפָא: אֲבָל לֹא יָחוֹף בָּהֶם שְׂעָרוֹ, וְאִי רַבִּי שִׁמְעוֹן — מִשְׁרָא קָשָׁרֵי. דִּתְנַן: נָזִיר חוֹפֵף וּמְפַסְפֵּס, אֲבָל לֹא סוֹרֵק! אֶלָּא הָא וְהָא רַבִּי יְהוּדָה הִיא, וּתְרֵי תַנָּאֵי אַלִּיבָּא דְּרַבִּי יְהוּדָה.

@@ -100,7 +100,7 @@ This concession strongly implies that the elevated *bechiburin* status is not bi
 
 The Gemara's response: *kan bechiburei adam b'adam, kan bechiburei adam b'meis*. There is a difference between the case of person B touching person A who touches the corpse (*chiburei adam b'adam*) and the case of person A directly touching the corpse (*chiburei adam b'meis*). Person A's seven-day status when directly touching the corpse is *d'Oraita*. Person B's derived seven-day status, one step removed, is *d'Rabbanan* — and therefore we set it aside for *nazir* and *pesach*. It is only the third person in the chain (person C touching person B who touches person A who touches the corpse) whose elevated status is purely *d'Rabbanan*. This is the reading of *Tosafot*; the *Rambam* reads the Gemara's conclusion differently, maintaining that even person B's elevated status is ultimately *d'Rabbanan*, though he nonetheless agrees that touching another corpse while actively in contact with the first does not incur additional *malkus*.
 
-### Resolution: contact vs.…
+### Resolution: Contact Rule
 
 To summarize the resolution as Rava frames it: during active contact with a corpse, the person's *tumah* level is at its maximum — essentially elevated to a status approaching *avi avot* for purposes of biblical law. Touching another corpse at that moment does not change his status and therefore does not trigger additional liability. But once he removes his hand, his *tumah* level diminishes (he is now an *av* rather than the elevated status of *bechiburin*), and subsequently touching another corpse represents a genuine change — a new act of *tumah* in the *d'Oraita* sense — for which he incurs a separate set of lashes with a separate warning.
 

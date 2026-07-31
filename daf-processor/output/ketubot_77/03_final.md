@@ -1,4 +1,5 @@
 # Ketubot 77 — Daf Yomi Shiur
+[DAF:76b]
 
 ## Blemishes & Burden
 
@@ -34,6 +35,7 @@ If the latter reading is adopted — that even without any stipulation, a husban
 
 ## Husband Blemishes
 
+[DAF:77a]
 ### Man Blemishes Post
 
 > **Hebrew/Aramaic:** מַתְנִי׳ הָאִישׁ שֶׁנּוֹלְדוּ בּוֹ מוּמִין — אֵין כּוֹפִין אוֹתוֹ לְהוֹצִיא. אָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל: בַּמֶּה דְּבָרִים אֲמוּרִים — בְּמוּמִין הַקְּטַנִּים, אֲבָל בְּמוּמִין הַגְּדוֹלִים — כּוֹפִין אוֹתוֹ לְהוֹצִיא.
@@ -268,6 +270,7 @@ The *Gemara* is candid that this asymmetry rests on a gendered presumption about
 
 Rabbi Yochanan records a tradition he received from a man described as a coal-man (*pecham*) from the people of Jerusalem, relating to twenty-four types of skin disease — a list directly relevant to the coming Torah portion of *Metzora*. The *Gemara* states that the *Chachamim* ruled regarding all twenty-four that *tashmish kasheh lahem* — sexual relations aggravate the condition. The worst of all is the condition known as *ra'atan*, which the *Gemara* describes as involving a worm or bug that enters the skull and causes a particularly severe form of skin or neurological disease.
 
+[DAF:77b]
 ### Raatan Treatment
 
 > **Hebrew/Aramaic:** מַאי סִימָנֵיהּ? דָּלְפָן עֵינֵיהּ, וְדָיְיבִי נְחִירֵיהּ, וְאָיתֵי לֵיהּ רִירָא מִפּוּמֵּיהּ, וּרְמוּ דִּידְבֵי עִילָּוֵיהּ. וּמַאי אָסוּתֵיהּ? אָמַר אַבָּיֵי: פִּילָא, וְלוּדָנָא, גִּירְדָּא דֶאֱגוֹזָא, וְגִירְדָּא דְּאַשְׁפָּא, וּכְלִיל מַלְכָּא, וּמְתַחְלָא דְּדִיקְלָא סוּמָּקָא. וְשָׁלֵיק לְהוּ בַּהֲדֵי הֲדָדֵי, וּמְעַיֵּיל לֵיהּ לְבֵיתָא דְשֵׁישָׁא. וְאִי לָא אִיכָּא בֵּיתָא דְשֵׁישָׁא — מְעַיֵּיל לֵיהּ לְבֵיתָא דְּשַׁב לִבְנֵי וַאֲרִיחָא, וְנָטֵיל לֵיהּ תְּלָת מְאָה כָּסֵי עַל רֵישֵׁיהּ, עַד דְּרָפְיָא אַרְעִיתָא דְמוֹחֵיהּ, וְקָרַע לְמוֹחֵיהּ וּמַיְיתֵי אַרְבַּע טַרְפֵי דְאָסָא וּמַדְלֵי כֹּל חַד כַּרְעָא וּמוֹתֵיב חַד, וְשָׁקֵיל בִּצְבָתָא וְקָלֵי לֵיהּ. דְּאִי לָא — הָדַר עִילָּוֵיהּ.

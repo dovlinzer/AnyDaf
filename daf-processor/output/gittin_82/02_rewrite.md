@@ -30,7 +30,7 @@ Abaye adds a corroboration from a careful reading of the *braita* itself: *matni
 
 One might ask whether it matters where in the sequence the *pasul* witness signs — must he be at the beginning, middle, or end? The answer flows from the same *braita*. Since it never specifies a location for the *pasul* signature, we infer that he may sign in any fold. As the *gemara* puts it: *midlo kavah lei makom* — because no particular location was specified, the *pasul* may sign anywhere — at the beginning, middle, or end.
 
-### Non-Consecutive Validati…
+### Non-Consecutive Get Reach
 
 A second inference follows from the same logic: *beis din* need not validate three consecutive signatures. If *ratsufin* — consecutive signatures — were required, one could simply mandate that the *pasul* witness sign only in a position immediately following two *kasher* witnesses. In that arrangement, any sequence of three consecutive signatures would necessarily include two valid ones. Since the *gemara* instead limits the *pasul* to a single occurrence regardless of position, it must be that *beis din* may validate any three signatures it chooses, not only consecutive ones. This is the rule of *mikol tlasa d'mekaymin* — validation may be drawn from any three confirmable signatures in the document.
 
@@ -126,7 +126,7 @@ The *Chachamim* counter: *issur kehunah shani* — *kehunah* law is different. T
 
 ## Polyandry Scenarios
 
-### Partial Kiddushin Questi…
+### Partial Kiddushin: Abba's
 
 Rabbi Abba now poses a question that pushes the sugya into still more remarkable territory: if Rabbi Eliezer allows a *get* that is only partially effective — that divorces the wife vis-à-vis everyone except Reuven — then what is the status of *kiddushin* given with a similar exclusion? If one can end up in a reality where a woman is "a little divorced," can one create the reverse reality at the outset — a "partial marriage"?
 

@@ -176,6 +176,6 @@ If *yichud* was already prohibited, what was new in the decree? The Gemara clari
 
 The *mishnah* concludes with Adoniyah the son of Chagit, who declared *ani emloch* — I shall be king — and made an attempt to claim the throne. Rav Yehudah citing Rav interprets this: *melamed she-bikkesh le-holmo ve-lo holmato* — the text teaches that he sought to have the crown placed on his head, and it did not fit.
 
-### Speedy Runners Enhanceme…
+### Swift Runners: Spleen
 
 The verse records that Adoniyah prepared a chariot and cavalry and fifty runners to go before him. The Gemara asks: is that remarkable? Many princes have entourages. The answer is what distinguished these fifty men: *kulam ntulei tchol ve-chakukei kipot raglayim hayu* — they had all undergone spleen removal, and their foot-soles had been treated — literally, carved. The spleen removal was apparently understood to enhance running endurance. The treatment to the feet refers to the deadening of nerve endings: since runners of that era ran barefoot, they would be slowed or stopped by sharp thorns and rocks underfoot. By killing the nerve endings in the soles of their feet, these runners could traverse any terrain without pain, enabling them to travel greater distances at greater speed. These were deliberately engineered elite runners, prepared through what amounts to surgical intervention.

@@ -1,6 +1,6 @@
 # Bava Kamma 97 — Daf Yomi Shiur
 
-## Shinui & Gezeila Framewo…
+## Gezeila & Shinui
 
 ### Aged Animals & Slaves
 
@@ -40,7 +40,7 @@ One might note that a government-invalidated coin still has its raw metal value 
 
 ---
 
-## Permanent Change Criteri…
+## Dilo Hadra Bari: Shinui
 
 ### Rav Pappa's Weakening
 
@@ -160,7 +160,7 @@ The question is: why should the owner be able to collect a rental fee? If this i
 
 Shmuel disagrees: *eino notel ela pachas* — the owner collects only the depreciation, not the rental fee. This is consistent with the *gazlan* principle: the *gazlan* is liable for damage to the object but not for its rental value during the period of unauthorized use.
 
-### Rental Status Matters
+### Rental Status Matter
 
 Rav Pappa resolves the dispute: *lo pligi* — Rav and Shmuel do not actually disagree. Their rulings apply to different cases. *Ha de'avida le-agra, ha de-lo avida le-agra* — one rule applies when the boat is the type that is regularly rented out, the other when it is not. If the boat is normally available for hire, the owner can collect the rental fee; if it is just a private boat sitting in someone's yard, only depreciation is owed.
 

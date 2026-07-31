@@ -6,7 +6,7 @@
 
 The daf begins at the bottom of 99b, with the words *rav mari amar* — Rav Mari's statement — serving as the springboard for the lengthy discussion that follows on 100a. The subject under examination is whether an *onen* (one who has lost a close relative and not yet buried them) may eat *korbanot* at night. The Gemara had inferred from the Mishnah that an *onen* is prohibited from eating *korbanot* only during the day, implying that on the night following the day of death, eating would be permitted. But the Gemara challenged this inference, noting that such leniency seemed to apply only to the *korban Pesach* and not to *korbanot* generally.
 
-### Yom Misa/Kvura Distincti…
+### Yom Misa vs. Yom Kvura
 
 One of the central distinctions that emerged in the preceding discussion is the difference between *yom misa* — the day of death itself — and *yom kvura* — the day of burial, when that falls on a separate day. The Gemara established that whether the night following an *onen*'s day is forbidden depends on which of these two days is at issue. On the day of death, the following night is included in the prohibition; on the day of burial alone, when the death occurred on a prior day, the status may be different. This distinction will drive much of the analysis that follows.
 

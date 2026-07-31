@@ -1,4 +1,5 @@
 # Bekhorot 45 — Daf Yomi Shiur
+[DAF:44b]
 
 ## Ruach Ketzerit
 
@@ -92,6 +93,7 @@ One might also note that a condition like inflated testicles — Rabbi Akiva's r
 
 The *mishnah* continues moving down the body. The next defect listed is *makish bekarsulav* — a person whose knees knock together as he walks — or whose ankles knock, *u've'arkovotav*, striking one another. Also listed is *ba'al hapikas* and *ha'ikal*, terms whose meanings the *mishnah* itself goes on to explain.
 
+[DAF:45a]
 ### Ikal Bowlegged
 
 > **Hebrew/Aramaic:** וּבַעַל הַפִּיקִים, הָעִיקֵּל. אֵיזֶהוּ הָעִיקֵּל? כׇּל שֶׁהוּא מַקִּיף פַּרְסוֹתָיו וְאֵין אַרְכֻּבּוֹתָיו נוֹקְשׁוֹת זוֹ לָזוֹ. פִּיקָּה יוֹצֵא מִגּוּדָּלוֹ, עֲקֵיבוֹ יוֹצֵא לַאֲחוֹרָיו, פַּרְסוֹתָיו רְחָבוֹת כְּשֶׁל אַוָּוז.
@@ -306,6 +308,7 @@ This circles back to a broader point about the number 248. Since both Rabbi Akiv
 
 ## Six Digits (II)
 
+[DAF:45b]
 ### Scriptural 6-6-24
 
 > **Hebrew/Aramaic:** אָמַר רַבָּה: מָה לִי דִּכְתִיב ״שֵׁשׁ וָשֵׁשׁ עֶשְׂרִים וְאַרְבַּע מִסְפָּר״? צְרִיכִי, דְּאִי כְּתַב רַחֲמָנָא ״שֵׁשׁ וָשֵׁשׁ״ הֲוָה אָמֵינָא: שֵׁית דִּידֵיהּ וְשֵׁית דְּכַרְעֵיהּ, כְּתַב ״עֶשְׂרִים וְאַרְבַּע״. וְאִי כְּתַב ״עֶשְׂרִים וְאַרְבַּע״ הֲוָה אָמֵינָא: הוּא חֲמֵשׁ מֵהַאי גִּיסָא וּשְׁבַע מֵהַאי גִּיסָא, כְּתַב ״שֵׁשׁ וָשֵׁשׁ״. ״מִסְפָּר״ — בְּנִסְפֶּרֶת עַל גַּבֵּי הַיָּד.

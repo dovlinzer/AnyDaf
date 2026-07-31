@@ -1,4 +1,5 @@
 # Sanhedrin 46b — Daf Yomi Shiur
+[DAF:46a]
 
 ## Burial & Cemeteries
 
@@ -18,6 +19,7 @@ The *mishna* at the close of 46a addresses the post-execution treatment of the c
 
 The *mishna* further states: *nis'achal habasar, m'laktin et ha'atzamot v'kovrin otan bimkoman* — once the flesh had decomposed, they would gather the bones and rebury them in the family plot. This practice of *likut atzamot* — the secondary collection and reburial of bones after decomposition — was common in that era more broadly, and the *mishna* here specifies that it was available even for the executed criminal, allowing eventual return to the family burial ground once the flesh had run its course.
 
+[DAF:46b]
 ### Relatives & Mourning
 
 > **Hebrew/Aramaic:** וְהַקְּרוֹבִים בָּאִים וְשׁוֹאֲלִים בִּשְׁלוֹם הַדַּיָּינִין וּבִשְׁלוֹם הָעֵדִים, כְּלוֹמַר שֶׁאֵין בְּלִבֵּנוּ עֲלֵיכֶם שֶׁדִּין אֱמֶת דַּנְתֶּם.

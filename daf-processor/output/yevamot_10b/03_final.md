@@ -1,4 +1,5 @@
 # Yevamot 10b — Daf Yomi Shiur
+[DAF:10a]
 
 ## Opening Context
 
@@ -12,6 +13,7 @@ From this point forward, the *sugya* moves into a more recognizable Talmudic str
 
 ## Reish Lakish vs. Yochanan
 
+[DAF:10b]
 ### Chalitzah Then Remarriage
 
 > **Hebrew/Aramaic:** וְאַף עַל פִּי שֶׁשָּׁנוּ חֲכָמִים בְּמִשְׁנָתֵנוּ "חֲמֵשׁ עֶשְׂרֵה", יֵשׁ לָנוּ לְהוֹסִיף שֵׁשׁ עֶשְׂרֵה כְּגוֹן זוֹ. אֲמַר לֵיהּ רֵישׁ לָקִישׁ לְרַבִּי יוֹחָנָן: לְלֵוִי דַּאֲמַר "דְּאִי" נָמֵי קָתָנֵי — לִתְנֵי: הַחוֹלֵץ לִיבִמְתּוֹ וְחָזַר וְקִדְּשָׁהּ, וּמֵת בְּלֹא בָּנִים, דְּמִגּוֹ דְּאִיהִי אֲסוּרָה — צָרָתָהּ נָמֵי אֲסִירָא!

@@ -6,7 +6,7 @@
 
 Daf 35 opens with an abundance of practically relevant material — non-Jewish cheese, milk, bread, and a range of other foods — but before engaging the *gemara* directly, it is necessary to review a *mishnah* from 29b, which the *gemara* on our daf references repeatedly. Without familiarity with that *mishnah*, the subsequent discussion would be difficult to follow.
 
-### R. Yishmael vs R. Yehosh…
+### R. Yishmael vs R. Yehosh.
 
 The *mishnah* records a conversation attributed to Rabbi Yehuda, in which Rabbi Yishmael questioned Rabbi Yehoshua while they were walking together: *mipnei mah asru gevinat ovdei kochavim* — why did the sages forbid non-Jewish cheese? Rabbi Yehoshua's initial answer was *mipnei shema'amidin otah bekeivat neveilah* — because non-Jews coagulate the cheese using stomach gunk from animals that were not slaughtered through proper *shechitah*, rendering the material *neveilah*.
 

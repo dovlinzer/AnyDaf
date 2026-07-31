@@ -1,6 +1,6 @@
 # Ketubot 10 — Daf Yomi Shiur
 
-## Petach Patuach & Ketubah…
+## Petach Patuach & Ketubah
 
 ### Petach Patuach Claim
 
@@ -58,7 +58,7 @@ The *Rosh* offers one answer: the obligation is rabbinic, but the method of calc
 
 ## Testing Non-Virginity
 
-### Rav Naḥman's Case
+### Rav Nachman's Case
 
 The *gemara* returns to practical cases of *petach patuach*. A man came before Rav Naḥman and said *petach patuach matzasi* — he claimed that his experience of consummation indicated his wife had not been a virgin. Rav Naḥman's response was striking: *asvuhi kufrei* — go beat him with palm branches, the barbed kind that cut as well as strike.
 

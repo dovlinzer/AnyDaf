@@ -1,4 +1,5 @@
 # Sanhedrin 59b — Daf Yomi Shiur
+[DAF:59a]
 
 ## Repetition at Har Sinai
 
@@ -100,6 +101,7 @@ The most stringent position in modern *halachic* literature on abortion is that 
 
 ## Milah & Avraham
 
+[DAF:59b]
 ### Milah Exception
 
 > **Hebrew/Aramaic:** וַהֲרֵי מִילָה, שֶׁנֶּאֶמְרָה לִבְנֵי נֹחַ, דִּכְתִיב: ״וְאַתָּה אֶת בְּרִיתִי תִשְׁמֹר״, וְנִשְׁנֵית בְּסִינַי: ״וּבַיּוֹם הַשְּׁמִינִי יִמּוֹל״ – לְיִשְׂרָאֵל נֶאֶמְרָה וְלֹא לִבְנֵי נֹחַ.

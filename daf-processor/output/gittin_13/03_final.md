@@ -1,4 +1,5 @@
 # Gittin 13 — Daf Yomi Shiur
+[DAF:13a]
 
 ## Freedom as Benefit
 
@@ -154,6 +155,7 @@ Thus the *mishnah*'s distinction between *tenu* and *kisvu* in the context of *g
 
 ## Maamad Shloshtan
 
+[DAF:13b]
 ### Rav Huna Transfer
 
 > **Hebrew/Aramaic:** גּוּפָא – אָמַר רַב הוּנָא אָמַר רַב: ״מָנֶה לִי בְּיָדְךָ, תְּנֵהוּ לוֹ לִפְלוֹנִי״, בְּמַעֲמַד שְׁלָשְׁתָּן – קָנָה.

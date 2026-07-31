@@ -1,6 +1,6 @@
 # Eruvin 3 — Daf Yomi Shiur
 
-## Heichal Basis & Dimensio…
+## Heichal: Beam & Opening
 
 ### Tanna Kamma & R. Yehuda
 

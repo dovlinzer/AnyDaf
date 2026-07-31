@@ -8,7 +8,7 @@ We begin at the very bottom of 88b, concluding a discussion about the מנורה
 
 The reasoning flows from the way the תורה assigns the כיכר. The תורה says two things about the מנורה: that it requires a כיכר of gold, and that it is מקשה — beaten, formed as one unit. The assumption is that these two characteristics belong together. Rabbi Yehoshua ben Karchah therefore holds that only the מנורה proper was formed from the כיכר and was part of that unified structure, while the implements and the lamps were not.
 
-### Unified Menorah, Separat…
+### Menorah: One Gold Unit
 
 What, then, does the phrase אלא מה אני מקיים את כל הכלים האלה — "what do I make of all these vessels" — mean, given that the תורה speaks of both the כיכר and all these vessels? The answer is שהיו כלי זהב — it means they are of gold, not that they are from the כיכר and not that they are attached. The גמרא objects: but that they are gold is already explicit, as the verse states ועשית את נרותיה שבעה... מלקחיה ומחתותיה זהב טהור. If the goldness of the implements is already stated explicitly, what purpose remains for the verse?
 

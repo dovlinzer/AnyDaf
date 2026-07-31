@@ -1,4 +1,5 @@
 # Kiddushin 81 — Daf Yomi Shiur
+[DAF:81a]
 
 ## Aninus & Yichud
 
@@ -340,6 +341,7 @@ The *yetzer hara* followed Plimo to the outhouse, fell before him, and revealed 
 
 Rabbi Chiya bar Ashi had the practice, every time he performed *tachanun* — falling on his face in prayer — of saying: *HaRachaman yatzileinu miyetzer hara* — may God save us from the evil inclination. One day his wife overheard him and reflected: it has been many years since we have had relations — and yet he still prays to be saved from the *yetzer hara*? She resolved to investigate.
 
+[DAF:81b]
 ### Disguise as Charuta
 
 > **Hebrew/Aramaic:** יוֹמָא חֲדָא הֲוָה קָא גָרֵס בְּגִינְּתֵיהּ. קַשִּׁטָה נַפְשַׁהּ, חָלְפָה וְתָנְיָיה קַמֵּיהּ. אֲמַר לַהּ: מַאן אַתְּ? אֲמַרָה: אֲנָא חָרוּתָא דַּהֲדַרִי מִיּוֹמָא. תַּבְעַהּ. אֲמַרָה לֵיהּ: אַיְיתִי נִיהֲלַי לְהָךְ רוּמָּנָא דְּרֵישׁ צוּצִיתָא. שְׁוַור, אֲזַל אַתְיֵיהּ נִיהֲלַהּ.

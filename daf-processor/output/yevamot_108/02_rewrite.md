@@ -1,6 +1,6 @@
 # Yevamot 108 — Daf Yomi Shiur
 
-## Miun: Beis Shammai vs. B…
+## Miun: Shammai vs. Hillel
 
 ### Dispute Framework
 
@@ -24,7 +24,7 @@ One participant raised an intriguing alternative reading of the *befanav* requir
 
 ---
 
-## Chalitza & Miun: Three W…
+## Chalitza & Miun: Witness
 
 ### Three-Witness Rule
 
@@ -40,19 +40,19 @@ Against this consensus, Rabbi Yose son of Rabbi Yehuda and Rabbi Elazar son of R
 
 ---
 
-## Miun Eligibility Standar…
+## Muin Eligibility Criteria
 
 ### Multiple Miun Debate
 
 The *mishna* asks whether a *ketana* can perform *miun* repeatedly. *Beis Hillel* permits it; *Beis Shammai* objects that allowing a minor to marry, perform *miun*, marry again, and perform *miun* again renders *benot Yisrael hefker* — treats Jewish women as disposable. The language of the *mishna* on this point is somewhat ambiguous: it speaks of her performing *miun*, then waiting until she grows up, or alternatively performing *miun* and then marrying immediately. This led to two readings.
 
-### Reaffirmation Upon Matur…
+### Reaffirmation in
 
 Shmuel reads the *mishna* as requiring that after performing *miun* as a minor, the girl must, upon reaching adulthood, reaffirm her *miun* — she must say *rotzah ani be-miyvunin ha-rishonim*, "I affirm my earlier refusal." This is a striking idea with no prior parallel: a kind of confirmation, ensuring that the act of *miun* performed during minority is endorsed by the adult woman. The *gemara* objects that the *mishna*'s language does not express this clearly — it should have said she "reaffirms" rather than she "does *miun*" — and acknowledges this as a difficulty (*kashya*).
 
 Ulla offers an alternative reading: the *mishna* is presenting two options (*tarte katani*). Either she performs *miun* and waits until she becomes an adult before marrying again, or she performs *miun* and marries again immediately — but only on condition that this second marriage includes *nisuin* straightaway. Why would *Beis Shammai* require immediate *nisuin* in the second scenario? Because according to *Beis Shammai*, once *nisuin* has taken place, *miun* is no longer available. So if she wants to remarry as a minor, *Beis Shammai* insists that the marriage be consummated immediately with *nisuin*, thereby foreclosing the possibility of a second *miun*. The ו in the *mishna* is thus read as "or," presenting two alternatives — a reading also supported by a *braita* that phrases them disjunctively.
 
-### Minor's Consent Requirem…
+### Minor's Consent to Miun
 
 The next *mishna* asks: which minor must perform *miun*? The answer: one whose mother and brothers married her off *l'da'atah* — with her knowledge and consent. This is a remarkable requirement. When a father marries off his daughter, her personal awareness and consent are irrelevant — she could be an infant. Here, by contrast, the entire rabbinic institution is conditioned on her participation. The *Rambam*, it should be noted, largely drops the reference to the mother and brothers in his formulation, framing this institution more directly as the girl marrying herself off, with the mother and brothers acting alongside her rather than independently.
 
@@ -70,7 +70,7 @@ This position has a pointed internal logic. The *mishna* has been moving steadil
 
 ---
 
-## Miun: Documentation (II)
+## Miun: Documentation
 
 ### Document Reform
 
@@ -116,7 +116,7 @@ What the cases collectively express is the principle embedded in the *mishna*'s 
 
 ---
 
-## Miun Via Alternative Act…
+## Miun via Alternative Act
 
 ### Rabbi Yehuda ben Beteira
 

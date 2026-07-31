@@ -2,7 +2,7 @@
 
 ## Hatzad Hashaveh
 
-### Intro: Principle & Categ…
+### Intro: Principle & Categ
 
 The sixth daf opens with the *mishna*'s statement of the *hatzad hashaveh shebahen* — the common denominator shared by the four primary categories of damage. At this stage in the *mishna*, we have already established the four *avot nezikin*, abstracted and defined what is included in each, and examined specific cases such as *regel*'s liability for thrown stones. The *mishna* now articulates the overarching principle: because no single category could have been derived from any other, once we have all four together, there is a common denominator that captures a more general standard of liability.
 
@@ -154,7 +154,7 @@ What genuinely requires the *tzad hashaveh* in this case is the element of *resh
 
 The *gemara* says: *shor yochiach* — *shor* demonstrates that liability exists even when no improper act was committed. The ox owner did nothing prohibited; his negligence in failing to watch his animal is what creates liability. But *mah leshor sheken darko leilech ulehazik* — *shor* does active damage, whereas this is a stationary hazard. *Bor tochiach*, and *v'chazar hadin*. The *hatzad hashaveh* establishes that permission to perform an act does not automatically generate exemption from damage caused through negligence as a result of that act. Even when one has the legal right to pour refuse into *reshus harabim*, one must ensure that no one is injured as a consequence. This is a striking ruling, and perhaps the most intuitively challenging of the cases discussed.
 
-### Shor & Bor Learn
+### Shor & Bor Learn (II)
 
 The broader principle it establishes is genuinely important. *Reshus* — whether legal permission or communal authorization — does not translate into a waiver of liability for foreseeable harm. One may always have a *takana* or explicit communal override, but absent such a special provision, the fundamental principle is that creating a hazard, even with permission, requires one to prevent damage; and if through negligence one fails to do so, liability follows.
 
@@ -166,7 +166,7 @@ The broader principle it establishes is genuinely important. *Reshus* — whethe
 
 *Ravina* offers the final example: *le'seifa detnan* — to include what is taught in the *mishna* itself: *hakotel veha'ilan shenafelu l'reshus harabim vehiziku patur milishalem* — if a wall or tree fell into *reshus harabim* and caused damage, the owner is exempt. But if authorities had warned the owner (*natnu lo zman*) — telling him he must cut down the tree or demolish the wall within a set period — and it fell within that allotted time, the owner is still exempt (since he had not yet been negligent in failing to act). If it fell *le'achar zman* — after the allotted time expired — he is liable.
 
-### Case Setup
+### Case Setup (II)
 
 Once again the *gemara* asks: *heichi dami*? We again assume the scenario involves someone tripping on the fallen debris (not being struck during the fall, which will be addressed separately). If the owner renounced ownership (*afkerinu*), the case resembles a *bor*: *hanami hezeika matzui ushmiraso alecha* — here too damage is prevalent and the obligation to prevent it applies.
 
@@ -246,7 +246,7 @@ This is a genuinely fascinating objection. One might have supposed that the *Tor
 
 *Rabbi Akiva* reads the verse more straightforwardly: *meitav sadehu umeitav karmo yeshalem* — he shall pay his best field and his best vineyard. The *he* who pays is the *mazik*. Therefore the collection is from the *mazik*'s best. The *gezeira shava* that *Rabbi Yishmael* employs is not needed because the plain sense of the verse already establishes whose property is in question: it is the property of the one paying, i.e., the *mazik*.
 
-### Synthesis: Equivalent Qu…
+### Equivalent Quality
 
 *Rav Acha bar Yaakov*'s synthesis reconciles the two positions into a coherent framework. Everyone agrees the amount of the debt is fixed by the actual damage. The dispute is only about the quality of land from which collection occurs. *Rabbi Yishmael* says: collect from whatever quality of *Reuven*'s land equals *Shimon*'s best. If *Reuven* has grade B land (equal to *Shimon*'s best), collect from that grade B. But *ahanei kra* — the verse is also operative: if *Reuven* does not have grade B (in the example, *Reuven* has only A and C, but not B), then *Shimon* does not have to accept grade C merely because that is what *Reuven* has. He is entitled to go up and collect from grade A — *Reuven*'s best. *Ve'lo matzi amar lei ta agbi mi'ziboris* — *Reuven* cannot tell *Shimon* to go collect from his worst quality land.
 

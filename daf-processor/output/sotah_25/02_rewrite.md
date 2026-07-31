@@ -2,7 +2,7 @@
 
 ## Overes Al Das & Warning
 
-### Definition of Overes Al Das…
+### Overes Al Das Definition
 
 The daf opens with a fresh topic, framed as an *ibayahu* — a question raised by the rabbis. Before examining that question, however, it is worth establishing the meaning of the central term: *overes al das*, a woman who transgresses the norms of married life. This concept originates in a *mishnah* in *Kesubos* that distinguishes between *das Moshe* — biblical norms — and *das Yehudis* — the recognized practices of Jewish women. The category is not about a woman who sins against God; it is specifically about behaviors that affect the marriage itself. The Gemara's examples of *overes al das Moshe* include a woman who does not go to the *mikvah* or who feeds her husband non-kosher food. Notably, the Gemara does not include *chilul Shabbos* in this list, because a woman who violates Shabbos has sinned between herself and God — that transgression does not intrinsically damage the marital relationship. By contrast, *overes al das* describes conduct that compromises the intimacy of the marriage, or that, in the idiom of the Mishnah, attracts unwanted attention from other men.
 
@@ -32,13 +32,13 @@ This is a brilliant point because it eliminates both of Abaye's and Rav Papa's a
 
 Rav Yehuda of Diskarta then steps in to rescue the earlier approach: *le'osrah labo'el k'ba'al*. The purpose of *kinuy* in the cases of *issurei lavin* is to make her forbidden to the man she is suspected of having slept with, just as she is forbidden to her husband. A *sotah* — a woman suspected of adultery — becomes forbidden both to her husband and to the man she is suspected of. If the husband performs *kinuy*, establishes the *sotah* process, and then for whatever reason divorces her without her ever having a chance to drink — because he never brought her to the *Beis HaMikdash*, or the *Beis HaMikdash* was destroyed — she remains forbidden to that other man. This is a significant and independent legal consequence of *kinuy*, entirely separate from the *kesuvah*. Therefore, one still cannot prove that *hasra'ah* is required for the *kesuvah* from these cases.
 
-### Beit Din Acts for Incapa…
+### Beit Din: Incapacitated
 
 The Gemara pivots to a cleaner proof. *Ta shema*: the *mishnah* teaches that *beis din* steps in and performs *kinuy* on behalf of a husband in certain cases — when the husband became a deaf-mute, became insane or mentally incapacitated, or is imprisoned. And the *mishnah* specifies the purpose explicitly: *lifoslah miksuvashah* — to cause the wife to lose her *kesuvah*. This is not framed as being about making her forbidden to her husband or forbidden to the suspected paramour. It is stated plainly that *beis din* acts for this specific purpose.
 
 This seems decisive. If going into seclusion were sufficient on its own to cause her to forfeit the *kesuvah*, why would *beis din* need to perform *kinuy* at all? The witnesses to her *stirah* could simply testify, and she would lose the *kesuvah* without any further step. The fact that *beis din* found it necessary to go through the process of *kinuy* indicates that *stirah* alone is insufficient — some form of warning is required, and in the absence of a capable husband, *beis din* steps in to provide that warning through *kinuy*.
 
-### Conclusion: Warning Need…
+### Warning: Husband Present
 
 The Gemara, however, entertains the possibility of distinguishing this case. Perhaps the reason *hasra'ah* is required for the *beis din* cases, even though in ordinary circumstances it would not be needed, is that the husband is absent. When the husband is not present — when he is deaf, insane, or imprisoned — the wife's behavior will naturally be less constrained, and her conduct therefore does not carry the same weight of defiance as it would if she were knowingly acting against her present husband's wishes. In that context, one might say that she cannot be penalized without warning, since her behavior is not as blameworthy. But when the husband is present and she still acts this way, it is worse — and perhaps there no warning would be needed.
 

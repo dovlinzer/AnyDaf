@@ -1,7 +1,9 @@
 # Menachot 59b — Daf Yomi Shiur
+[DAF:58b]
 
 ## Shemen v'Levonah
 
+[DAF:59a]
 ### Intro: Menachot Types
 
 > **Hebrew/Aramaic:** מַתְנִי׳ יֵשׁ טְעוּנוֹת שֶׁמֶן וּלְבוֹנָה, שֶׁמֶן וְלֹא לְבוֹנָה, לְבוֹנָה וְלֹא שֶׁמֶן, לֹא לְבוֹנָה וְלֹא שֶׁמֶן.
@@ -44,6 +46,7 @@ The *mishnah* also clarifies that *nasan kli al gabei kli lo pasalah* — if one
 
 One might raise the question — drawn from the laws of *lav hanitak la'aseh* — of why one transgresses when the *levonah* can be removed. The answer is that the concept of *lav hanitak la'aseh* requires a specific *mitzvat aseh* linked to the prohibition; the mere fact that a violation is physically reversible does not prevent transgression. One can, for example, turn on a light on *Shabbos* and extinguish it afterward, and the transgression has occurred regardless.
 
+[DAF:59b]
 ### Baraita: Oil/Frankincense
 
 > **Hebrew/Aramaic:** יָכוֹל לֹא יִתֵּן כְּלִי עַל גַּבֵּי כְּלִי, וְאִם נָתַן – פָּסַל? תַּלְמוּד לוֹמַר ״עָלֶיהָ״, בְּגוּפָהּ שֶׁל מִנְחָה הַכָּתוּב מְדַבֵּר.

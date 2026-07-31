@@ -1,12 +1,12 @@
 # Sanhedrin 81 — Daf Yomi Shiur
 
-## Two Sins, Stringent Puni…
+## Two Sins, Stringent Rule
 
 ### Intro: Two Violations
 
 The *mishna* opens with a case of *mi shenischayev shtei misos beis din* — a person who has incurred two separate death penalties from among the four modes of execution discussed throughout this tractate. The rule is *nidonin b'chamura*: he is executed by the more stringent of the two methods. The underlying logic is straightforward — the fact that he is also liable for a lighter execution should not, counterintuitively, reduce his punishment.
 
-### Single Act, Two Violatio…
+### Single Act, Two Issurim
 
 A second case in the *mishna* appears at first glance to be identical, but involves a single *aveira* carrying two separate capital liabilities simultaneously. The *gemara* will elaborate on the classic example: a man who has relations with his mother who is also a married woman — generating both a prohibition of *isha uvita* and a prohibition of *eshet ish*. The *tanna kamma* rules the same as in the first case: *nidon b'chamura*, he receives the more stringent execution. Rabbi Yosi, however, disagrees. He holds *nidon b'zika rishona sheba lo* — the punishment is determined by the first *zika*, the first legal status this woman held in relation to him. The *gemara* will work out the precise implications of this position.
 
@@ -14,7 +14,7 @@ A second case in the *mishna* appears at first glance to be identical, but invol
 
 The *gemara* opens with an objection: *pshita* — is this not obvious? Of course the weightier punishment applies; should a person be rewarded for having committed two *aveiros* by receiving only the lighter execution?
 
-### Rava's Case: Judgment Pa…
+### Rava's Case: Judgment Day
 
 Rava clarifies that the *mishna* is addressing a less obvious case. The scenario is one of sequence: a person sinned and received a judgment — *nigmar dino* — for a lighter offense, such as *chenek* (strangulation). Then, after that judgment had already been rendered, he went ahead and committed an additional, graver sin, one deserving of a weightier execution such as *sreifa* (burning) or *sayif* (the sword). The *havah amina* — the initial assumption one might have entertained — is that since his judgment has already been passed, *hai gavra ktila hu*, he is already considered as a man condemned to die. One might therefore think that the subsequent, graver transgression carries no legal consequence beyond the existing judgment. The *mishna* teaches otherwise.
 
@@ -82,7 +82,7 @@ Rav Adda bar Ahava raises a challenge to Rava. In the first scenario — where s
 
 Rabbi Abbahu's teaching is that Rabbi Yosi would concede in a case of *issur mosif* that the second prohibition does take effect. If so, in the first scenario the man would be liable both as one who violated his *chamot* and as one who violated an *eshet ish*. The question is whether this affects his punishment.
 
-### Response: Irrelevant Sta…
+### Response: Irrelevant Sta
 
 The response is pointed: *Adda brei, Adda, masya bisrei katlei katlas lei?* — Do you want to kill him twice? Yes, the second status takes effect, and yes, she is also forbidden to him as an *eshet ish* — but this is entirely irrelevant to the question of execution. Since we are speaking of intentional transgression (*be-meizid*), the man is already subject to *sreifa* on account of the *chamot* prohibition. The lighter *chenek* of *eshet ish* adds nothing to his sentence. As both Rashi and Tosafos note, the question becomes meaningful only in the case of unintentional transgression (*be-shogeg*). There, if the second status takes effect as an *issur mosif*, the man would be required to bring two *korbanos* rather than one. But in the realm of capital punishment, the superimposition of a lesser *issur* upon a greater one does not alter the outcome.
 

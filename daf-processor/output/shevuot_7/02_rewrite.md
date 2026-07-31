@@ -6,11 +6,11 @@
 
 The Gemara's discussion on this amud requires us to take a few lines back to the bottom of 6b in order to properly unpack the Mishnah's framework. The Mishnah enumerates four distinct configurations of awareness — *yedi'ah* — and concealment — *he'elam* — as they relate to a transgression. The four possibilities are: awareness at the beginning and awareness at the end, with *he'elam* in the middle; awareness at the beginning but no awareness at the end; no awareness at the beginning but awareness at the end; and no awareness at either the beginning or the end.
 
-### Knowledge-Concealment-Kn…
+### Awareness-Concealment-End
 
 The Mishnah now addresses the case of *et she-yesh bah yedi'ah ba-techilah* — a situation in which there is *yedi'ah* at the outset, a period of *he'elam* in the middle, and *yedi'ah* again at the end.
 
-### Mezid vs. Shogeg Distinc…
+### Mezid vs. Shogeg Distinc
 
 One might ask: why is there no fifth category — full awareness at both beginning and end with no *he'elam* at all? The answer is that a person who is fully aware of what he is doing wrong at every moment would be classified as a *mezid*, acting intentionally, and would therefore fall into an entirely different legal category. The present discussion concerns only those cases that involve some gap in awareness, situating the transgressor in the realm of *shogeg* rather than *mezid*.
 
@@ -48,7 +48,7 @@ The Gemara immediately raises an objection: *ve-eima tumah* — perhaps the scop
 
 Here a crucial distinction must be kept in mind. The punishment for intentionally defiling something connected to the Temple is *karet* — a cutting off that affects the transgressor's future generations. The punishment for intentionally eating *terumah* in a state of *tumah*, by contrast, is *mita bi-yedei shamayim* — a premature death that affects only the transgressor himself, not his descendants. These are two distinct categories of divine punishment, and they are not interchangeable.
 
-### Offering Types (Oleh/Yor…
+### Oleh Ve-Yored vs. Kavua
 
 The *korban* at issue here is not a *korban kavua*, a fixed offering, but the *korban oleh ve-yored* — the sliding-scale offering described in Vayikra 5, whose form varies according to the transgressor's means, ranging from an animal to birds to flour. The rule is that one brings a *korban oleh ve-yored* for unintentional violation of a transgression whose intentional commission carries *karet*. This is the link established by the Mishnah: the *korban oleh ve-yored* is brought for *shemiat kol* and *vitui sefatayim* — the hearing of an oath-taking and the utterance of an oath — as well as for *tumat mikdash ve-kodashav*.
 
@@ -58,7 +58,7 @@ It is at this point that Rava, with characteristic depth, invokes a verse from P
 
 ---
 
-## Rabbi Yehuda's Chayah-Be…
+## Yehuda: Chayah-Behemah
 
 ### Chayah & Behemah Question
 
@@ -94,7 +94,7 @@ The logic runs as follows: one who intentionally defiles the Temple by entering 
 
 The Gemara then presents Rabbi Abahu's alternative reading. Rabbi Abahu agrees that there are three mentions, but he assigns the third not to an unknown *tumah* but rather to *devarim she-einam ne'echalim* — things that are not eaten. This is a different legal application for the same surplus textual mention.
 
-### Rabbi Shimon: Uneaten It…
+### Rabbi Shimon: Uneaten
 
 Rabbi Shimon goes further and offers a limiting principle: for items that are not generally eaten — such as certain forms of *ketoret* — one is not liable to *karet* on account of *tumah* if one consumes them. The rationale is that *karet* applies specifically to the consumption of sacred food in a state of impurity, and items not designated for eating fall outside that category.
 
@@ -120,7 +120,7 @@ Just as the verse in Bamidbar 19:13 explicitly addresses *tumat mikdash* — the
 
 Having resolved the status of *mikdash* and *kodashim*, the Gemara returns to the word *ba* — the restrictive particle in Vayikra 5:3. If *ba* is a *mi'ut*, a limitation, what does it include through its exclusion? The Gemara answers: *le-rabbot nevelat of tahor* — to include the case of someone who becomes ritually impure through eating an improperly slaughtered carcass of a kosher bird. But this raises an immediate difficulty: we just said *ba* is a *mi'ut* that excludes *terumah*. How can the same particle both exclude and include?
 
-### Double Limitation = Incl…
+### Limitation Inclusion
 
 The Gemara resolves this through the principle of *mi'ut achar mi'ut* — a double limitation. The verse actually contains two restrictive elements in close proximity: the phrase *o ki yiga ba-davar* — "or if he touches" — already implies a limitation through its particularity, and *ba* constitutes a second limitation on top of the first. The rule of hermeneutics is that a *mi'ut achar mi'ut* — a restriction following upon a restriction — does not intensify the exclusion but rather reverses it, creating inclusion. The double *mi'ut* thus functions as a positive statement: the obligation of the *korban oleh ve-yored* applies to one who contracts *tumah* through any form of impurity that can be transmitted via contact — *negia* — but not to one whose impurity cannot be transmitted through touching.
 
@@ -154,7 +154,7 @@ The Gemara identifies three forms of *tumah* that the verse might be understood 
 
 The Gemara answers through the letter *mem* that prefixes *tum'ot* in Vayikra 16:16: the verse says *mi-tum'ot b'nei Yisrael* — "from the impurities of Israel" — not *kol tum'ot b'nei Yisrael* — "all the impurities of Israel." The prefixed *mem* functions as a limiting particle, indicating that the *sa'ir* atones not for all *tumot* but only for some. The question becomes: which *tumah* is included and which is excluded?
 
-### Rabbi Yehuda vs. Rabbi Shimon
+### Rabbi Yehuda vs. Shimon
 
 Rabbi Yehuda holds that the limiting *mem* is understood through comparison with another context where a *tumah* was explicitly differentiated from the general category. The case we have just analyzed — *tumat mikdash ve-kodashav* — is precisely such a case. Therefore, the *sa'ir ha-pnimi* atones specifically for *tumat mikdash ve-kodashav* in the configuration of *yesh bah yedi'ah ba-techilah ve-ein bah yedi'ah ba-sof*: the person knew at the outset but never regained awareness.
 
@@ -164,7 +164,7 @@ The Gemara then asks whether the *sa'ir* might atone for every act of *tumah* co
 
 ---
 
-## Specific Transgression C…
+## Intentional/Unintentional
 
 ### Avodah Zarah Cases
 

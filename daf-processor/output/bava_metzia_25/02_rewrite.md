@@ -6,7 +6,7 @@
 
 The daf begins at the bottom of 24b with a *mishna* that stands as a direct structural parallel to the opening *mishna* of *Elu Metziot*. Where that first *mishna* enumerated the objects a finder is permitted to keep — *elu metziot shelo*, these are the found objects that are his — the present *mishna* presents the inverse: *elu chayav lehachriz*, these are the objects a finder is obligated to announce and return to their owner. The underlying logic of both *mishnayot* is identical: the presence or absence of identifiable *simanim*. In the earlier *mishna*, the objects lacked any *siman* and were therefore deemed ownerless upon being lost. Here, by contrast, the objects carry *simanim* — identifying characteristics — that allow the original owner to stake a claim.
 
-### Simanim and Identification
+### Simanim and Ownership
 
 One of the striking features of studying *mishna* as an independent body of law, distinct from its embedding within the Talmud, is that the *mishnayot* address the laws themselves without articulating the underlying principles that drive them. Neither this *mishna* nor the parallel earlier one explicitly mentions the term *simanim*. The concept, along with its entire associated *machloket* — including the debates over whether *simanim de-oraita* or *simanim de-rabbanan* — emerges entirely from the *Amoraim*'s analysis. The principle of *simanim* is implicit throughout the *mishna*; the *mishna* records outcomes, while the *gemara* excavates the framework beneath them.
 
@@ -28,7 +28,7 @@ The *gemara* opens with a sharp inferential question. *Ta'ama dematza peirot bik
 
 The *gemara* notes that this *diyuk* finds support in a *braita*: *matza kli ulfanav peirot* — if you found a vessel with fruit in front of it, *o kis ulfanav me'ot* — or a wallet with coins beside it — *harei elu shelo*, they are yours. The *mishna* is thus the operative *halacha*: it is only when the fruit or coins are actually *inside* the container that the finder is obligated to announce and return. The *braita* continues, however, with a more nuanced clause: *miktzatan bikli umiktzatan al gabei karka* — if some of the fruit are inside the vessel and some on the ground, or *miktzatan bekis umiktzatan al gabei karka* — some of the coins inside the wallet and some outside — *chayav lehachriz*, one must announce everything. The reasoning is intuitive: if a bucket of apples has some apples still inside it and a pile of apples beside it, one can reasonably presume those outside fell out of the vessel. The partial containment reveals a connection between the vessel and the adjacent items.
 
-### Second Braita Contradiction
+### Second Braita: Vessel
 
 A second *braita* is then cited as a challenge. This *braita* states: *matza davar she'ein bo siman b'tzad davar she'yesh bo siman* — if one found something without a *siman* alongside something with a *siman* — *chayav lehachriz*, one must announce. So far this appears consistent with the first *braita*. But the *braita*'s *seifa* creates an apparent contradiction: *ba ba'al siman v'natal et shelo, zacha haleh b'davar she'ein bo siman* — if the owner of the object *with* a *siman* comes and retrieves what is his, the finder acquires the object *without* a *siman*. This seems to imply that the fruits — which have no independent *siman* — can ultimately be retained by the finder even in this mixed-case scenario, in tension with the first *braita*'s ruling of *chayav lehachriz* on the whole.
 
@@ -46,7 +46,7 @@ A second *braita* is then cited as a challenge. This *braita* states: *matza dav
 
 Rav Pappa offers two alternative resolutions. His first: *ha de-ishtayer ba midi, ha de-lo ishtayer ba midi* — the distinction has nothing to do with the type of material (flax versus fruit), but simply whether anything remained inside the container. If some did remain, one presumes the external items fell out; if nothing remained, no such presumption arises. His second alternative (*ve'ibeit eima*): even if both cases involve an entirely empty container with fruit alongside it, the determinative factor is the orientation of the container's opening. *Ha de-mahadrei apei legabei pirei* — if the mouth of the container faces the pile of fruit, one can presume the fruit rolled out in that direction. If the mouth faces away, no such inference is available.
 
-### Container Design Distinction
+### Container Design & Lips
 
 A final resolution (*ve'ibeit eima*) addresses the case where, in both scenarios, the container's mouth faces the adjacent fruit. Here the distinction turns on whether the container has a lip or lid — *de-it lei ognin letzana* versus *de-leit lei ognin letzana*. If the container has a lip designed to retain its contents, one cannot presume the adjacent fruit spilled out of it, since the structural design would have prevented spillage. If there is no such lip or lid, the inference of spillage remains available.
 
@@ -76,7 +76,7 @@ A *braita* provides parallel support: *matza ma'ot mefuzarot, harei elu shelo* �
 
 The *gemara* notes that the *braita*'s formulation creates a potential internal tension. If the rule is *matza ma'ot mefuzarot harei elu shelo* — scattered coins are yours — then coins that are *somewhat* stacked but not perfectly aligned (*mishalchafei*) fall into a gray zone: they are not perfectly scattered, yet not in a tower. The implication might be that they require *chayav lehachriz*. But the *seifa* — that only *kemigdalin* requires announcing — implies the opposite: anything less than a tower counts as scattered and may be kept. The *tanna*'s resolution: *kol she'einan asuyin kemigdalin mefuzarot kari lehu* — anything that does not constitute a proper tower formation is classified as *mefuzarot*. The criterion is binary: either it is a *migdal* or it is considered scattered, with no intermediate category. The logic is that a defined stack of coins signals deliberate placement — the owner intends to return for them — whereas a lopsided or casual arrangement lacks that intentional quality.
 
-### Rabbi Chanina's Restriction
+### Rabbi Chanina: Tower
 
 *Amar Rabbi Chanina: lo shanu ela shelosha melachim* — Rabbi Chanina limits the tower rule to three coins bearing *different* kings, meaning three different denominations or coin types. *Aval shel melech echad eino chayav lehachriz* — if all three bear the same king's image (i.e., are identical coins), one need not announce. The *gemara* immediately challenges this: if the coins are arranged in tower form, why should the identity of the king matter? And if they are *not* in tower form, then even three different kings would not require announcement. What work is Rabbi Chanina's distinction actually doing?
 
@@ -152,7 +152,7 @@ Two answers are offered. *Amar Rabbi Abba bar Zavda amar Rav: bimkusharim bichen
 
 The *mishna* continues with an analogous case involving vessels in a trash pile. *Matza kli be-ashpah: im mechuseh, lo yigah bo* — if you found a vessel in a trash pile and it was covered, do not touch it. *Im megulah, notel u-machriz* — if it was uncovered, take it and announce. The parallel to the birds case is clear: a covered vessel in a trash pile was presumably placed there deliberately as a hiding spot, so the location (and the act of concealment) is the *siman*; removing it destroys that *siman*. A vessel that is partially exposed, by contrast, appears to have been discarded rather than hidden, and is treated as a normal found object requiring announcement.
 
-### Trash Braita Contradiction
+### Braita: Vessel in Trash
 
 A *braita* is cited as a challenge: *matza kli tamun be-ashpah, notel u-machriz* — if you found a vessel hidden in a trash pile, you take it and announce it — *sheken derech ashpah lifnot* — because the trash pile is regularly cleaned out. This appears to contradict the *mishna*, which said a covered vessel in the trash should not be touched.
 
@@ -160,7 +160,7 @@ A *braita* is cited as a challenge: *matza kli tamun be-ashpah, notel u-machriz*
 
 *Amar Rav Zevid: lo kashya* — Rav Zevid resolves the apparent contradiction through a distinction based on the type of vessel. *Ha bekuba u-khese* — one ruling addresses large containers such as barrels and platters; *ha be-sakinei ve-himnak* — the other addresses small objects such as knives and forks. Large vessels, even if hidden in a trash pile, are unlikely to be accidentally discarded; their size makes deliberate concealment the far more plausible explanation. Small objects, however, might easily have been accidentally mixed into the trash and are presumed lost rather than hidden. Therefore, for small objects, *chayav lehachriz*; for large ones, *lo yigah bo*, since the act of hiding is presumed deliberate and the location is the *siman*.
 
-### Trash Cleaning Distinction
+### Trash Pile: Cleaned vs.
 
 An alternative resolution (*ve-ibeit eima*, here attributed to the *mar bar Rav Pappa* position in the *gemara*): the distinction in both rulings — for large and small vessels alike — depends on the nature of the trash pile. *Kan be-ashpah ha-asuya lifnot* — one case involves a trash pile that is regularly cleared out; *kan be-ashpah she-eina asuya lifnot* — the other involves a pile that is not regularly cleared. If the pile is regularly emptied, hiding anything there makes no practical sense as a long-term storage strategy. The further scenario involves a trash pile not normally cleared that the owner of the courtyard then decided to empty — *ve-nimlach aleha lifnotah* — which accounts for why objects might be found even within a heap that had been used as a hiding place.
 

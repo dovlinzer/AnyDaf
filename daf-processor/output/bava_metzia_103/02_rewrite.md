@@ -6,7 +6,7 @@
 
 The daf opens by doubling back nine lines from the bottom of 102b. The *gemara* presents a question posed to Rav Yannai: *socheir amar nasati, maskir amar lo natalti* — the tenant claims to have already paid the rent, while the landlord claims he never received it. Who bears the burden of proof?
 
-### Hamotzi Mechavero Princi…
+### Hamotzi Mechavero
 
 At first glance, the answer seems straightforward. We normally apply the principle of *hamotzi mechavero alav hara'aya* — whoever seeks to extract money from another bears the burden of proof. This is a classic case of *kofer hakol*: the tenant admits there was a rental agreement and presumably a debt, but claims to have paid it. By the standard rule, the landlord is the one making a demand, and the tenant, as *kofer hakol*, should be believed — he need not even take a *shvua de'oraisa*, and at most would be subject to a rabbinic *shvuas heses*. So why would this case be any different?
 
@@ -44,7 +44,7 @@ Rav Acha of Difti challenges Ravina with an obvious objection: surely this shoul
 
 The response distinguishes the two cases at the level of purpose. *Hatam shtar le-guvaina ka'ei* — there, a loan document exists specifically to serve as the instrument of collection. Everyone involved understands that the document will be used to extract the debt, and accordingly both parties know that if any payment occurs, it must be documented in a counter-instrument. *Im ita de-para ibayei leh limchtav agabei* — if the borrower actually paid fifty, he would insist on having "fifty paid" written on the face of the *shetar*, or he would demand a separate *shover*, precisely because he knows the *shetar* is the evidentiary weapon that will be used against him.
 
-### Shetar Non-Extractive Pu…
+### Shetar Rental: Non-Extr
 
 In the rental context, the *shetar* does not function as an instrument of extraction. *Hai de-chtav lach shtara ki heichi de-lo tachzik alei* — the document is written so that the tenant cannot later claim *chazaka*, i.e., so that after occupying the property for years the tenant cannot argue he purchased it or that some transfer of ownership occurred. This connects directly to the laws of *chazaka* as developed in Bava Batra: a tenant occupying land for an extended period might otherwise generate a presumption of ownership, and the *shetar* forestalls that by clarifying the nature of the relationship.
 
@@ -52,23 +52,23 @@ Because the *shetar* is not an instrument designed to prove how many years of re
 
 ---
 
-## Loan Language Interpreta…
+## Loan Language Sheol
 
 ### Betuvo Indefinite Rights
 
 Rav Nachman introduces a principle: *shoel adam betuvo le'olam* — if one says to a friend "lend me [your tool] *betuvo*," meaning "while it is still good" or "in its good condition," then the borrower acquires the right to use it for as long as it remains functional. The word *betuvo* is being read as a temporal parameter: lend it to me for however long it retains its functional integrity.
 
-### Kinyan Sudar for Ongoing…
+### Kinyan Sudar for Rights
 
 Rav Mari the son of Rav Shmuel adds a qualification: *vehu dekani minei* — this unlimited usage right applies only if a *kinyan sudar* was performed. Rashi explains that the distinction concerns the moment the object has been returned. So long as the borrower is still holding the object, his right to continued use is uncontested — the lending is ongoing. But once the object has been returned, if the borrower later wishes to assert a right to borrow it again by invoking the *betuvo* language, that ongoing right requires something more than the original verbal agreement; it requires a *kinyan sudar* to demonstrate a binding commitment extending beyond the first transaction.
 
-### Return in Broken Conditi…
+### Betuvo Obligation
 
 Rav Mari the son of Rav Ashi adds a further corollary: *umehadar lei katei* — when the borrower does eventually return the object under the *betuvo* arrangement, he returns it in its broken form. That is, he uses it until it breaks, and the moment of breakage is the moment of return. This follows directly from the logic of *betuvo*: the loan extends through the full functional life of the object, so there is nothing to return until that functionality is exhausted.
 
 ---
 
-## Shovel Lending Specifici…
+## Shovel Lending: Language
 
 ### Orchard Scope Limits
 
@@ -90,7 +90,7 @@ Rav Papa addresses an analogous situation involving a well — specifically a *g
 
 A third formulation is *bei garguta*, "this area of wells." In that case, *kari va'azil kama garguta be'ara ad demitrami lei* — the borrower may keep digging within the designated area until he finds water, even if the first well collapses and a second must be dug. The parameter is not the specific well nor even a single well in the abstract, but the geographic zone.
 
-### Kinyan for Non-Possessed…
+### Kinyan Sudar: Non-Posses
 
 However, in all these cases where the lending right concerns something not yet physically in the borrower's possession — as in the area-of-wells scenario where the borrower might be digging a future well — *vetzarich lemikni minei*, a *kinyan sudar* is required to make the commitment legally binding. Without physical delivery of an existing object, a mere verbal agreement to allow access to a future or reconstructed well is only a promise, and a promise may be retracted. A *kinyan sudar* transforms the commitment into an enforceable right.
 
@@ -98,7 +98,7 @@ However, in all these cases where the lending right concerns something not yet p
 
 ## Fallen House Rental
 
-### Specific vs. Generic Hou…
+### Specific vs. Generic
 
 The *gemara* now takes up the last *mishna* of the perek. The *mishna* states: if one rents a house to another and it falls down, the landlord is obligated to rebuild or replace it — *chayav le'ha'amid lo bayis*. Replacement must preserve the parameters of the original: if it was small it may not be made large; if large it may not be made small; one room may not become two, nor two become one; windows may not be reduced or added without mutual agreement.
 
@@ -118,7 +118,7 @@ The *gemara* answers: *lo tzricha d'kaya guda d'nahara* — the case concerns a 
 
 ## Agricultural Tenancy
 
-### Harvest vs. Uproot Pract…
+### Harvest vs. Uproot
 
 With the beginning of the new perek, the *mishna* addresses the case of one who takes on a field from another — *ha-mekabel sadeh me-chavero*. Two arrangements are possible: a *chocher*, who pays a fixed annual rent and keeps all the produce, or an *arisa*, a sharecropper, who covers the working expenses and splits the harvest with the owner, the classic proportion being a quarter to the owner. The *mishna* rules that in a place where the practice is to harvest with a sickle — *liktzor* — leaving the stubble in the ground, the worker must do so; where the practice is to uproot entirely — *la'akor* — pulling out the roots, that must be done instead. Everything follows *minhag hamedinah*.
 
@@ -134,7 +134,7 @@ The *mishna* further states that if the local practice is to plow after the harv
 
 The *mishna*'s phrase *hakol ke-minhag hamedinah*, "everything follows local custom," is understood by the *gemara* as a broad inclusive formulation, bringing in an additional *baraisa*: if the local practice in a region is that trees growing in a field go along with the rental or sharecropping agreement — meaning the person working the land gets the benefit of the fruit — then that applies. If the practice is that trees are excluded and the owner retains the fruit, then that applies instead.
 
-### Explicit Stipulation Ove…
+### Explicit Stipulation Ovrd
 
 What is not self-evident is when one party has deviated from the standard split in the percentage arrangement, and argues that the deviation implicitly modified the tree rights. In the first scenario: the norm is that the owner takes a third as *arisa* (sharecropper's percentage to the owner), but the owner agreed to take only a quarter. Can the owner later argue that the reduction in his percentage was *implicitly conditional* on receiving the tree fruit — i.e., that since the practice *includes* tree rights for the worker, his reduced percentage was compensation for giving that up? The *gemara* rules *de'ibei lei lefarushei lei* — if that was the owner's intent, he needed to say so explicitly. He cannot retroactively argue that his below-standard percentage was conditioned on retaining the trees. The *minhag* controls and the worker gets the trees unless explicitly excluded.
 
@@ -164,10 +164,10 @@ The *gemara* asks why this needs to be stated separately; both the supply rule a
 
 ## Well and Tree Drying
 
-### Unnamed Features No Redu…
+### Unnamed Features: No Rent
 
 The final *mishna* of the daf addresses a sharecropper or renter who takes on a field that contains a well or trees — features that benefit the person working the land. The well reduces the need to bring water from afar; the trees yield produce the worker is entitled to without having to cultivate them. The *mishna* rules: if the well dries up or the tree dies, *eino menake lo min chikuro* — the renter may not demand a reduction in rent. Taking on the field with these features was his good fortune; losing them is his bad luck. The original rental figure stands.
 
-### Named Features Allow Red…
+### Named Features: Rent Red.
 
 However, if the renter specifically named these features in the agreement — *im amar lo chor li sadeh beit ha-shlachin zu*, "rent me *this* field, the one that has a well," or *sadeh beit ha-ilan zu*, "this one, the one with the tree" — then the situation changes. By naming these specific features, he demonstrated that they were material to his decision to pay the agreed-upon rent or accept the agreed-upon sharecropping percentage. Their presence was a condition, not merely incidental. Therefore, if the well dries up or the tree dies, *menake lo min chikuro* — he is entitled to a reduction in what he owes. The explicit identification of the feature in the agreement converts it from a background circumstance into a term of the contract, and its disappearance entitles the injured party to renegotiate the price.

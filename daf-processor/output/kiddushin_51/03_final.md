@@ -1,4 +1,5 @@
 # Kiddushin 51 — Daf Yomi Shiur
+[DAF:51a]
 
 ## Savlanot & Kiddushin
 
@@ -234,6 +235,7 @@ This reading creates an asymmetry between the beginning and end of the *mishnah*
 
 *V'l'Abaye kashya seifa* — for Abaye, the end of the *mishnah* is difficult. Reading the end as "one of you," Abaye must explain why neither sister would be married even in that case, since according to Abaye, *kiddushin she'einam mesurin l'biah* does take effect — the sisters should at least be *safek mekudeshet*.
 
+[DAF:51b]
 ### Abaye's Reading
 
 > **Hebrew/Aramaic:** אַבָּיֵי מְתָרֵץ לְטַעְמֵיהּ: הַמְקַדֵּשׁ אִשָּׁה וּבִתָּהּ, אוֹ אִשָּׁה וַאֲחוֹתָהּ כְּאַחַת – אֵינָן מְקוּדָּשׁוֹת. הָא אַחַת מֵאִשָּׁה וּבִתָּהּ, מֵאִשָּׁה וַאֲחוֹתָהּ – מְקוּדֶּשֶׁת. וְאִם אָמַר: ״הָרְאוּיָה לְבִיאָה תִּתְקַדֵּשׁ לִי״ – אֵינָהּ מְקוּדֶּשֶׁת. וּמַעֲשֶׂה נָמֵי בְּחָמֵשׁ נָשִׁים וּבָהֶן שְׁתֵּי אֲחָיוֹת, וְלִיקֵּט אֶחָד כַּלְכַּלָּה שֶׁל תְּאֵנִים וְאָמַר: ״הָרְאוּיָה לִי מִכֶּם תִּתְקַדֵּשׁ לִי״, וְאָמְרוּ חֲכָמִים: אֵין אֲחָיוֹת מְקוּדָּשׁוֹת.

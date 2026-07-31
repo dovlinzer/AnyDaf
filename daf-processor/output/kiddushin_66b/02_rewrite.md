@@ -24,7 +24,7 @@ Rabbi Akiva rules *metamei* — he considers everything done since the last veri
 
 Unable to resolve the competing *chazakot* directly, Rabbi Tarfon proposes an analogy: *mashal le'omed umakriv al gabbe hamizbeach* — imagine a *kohen* who has been standing and offering *korbanot*, and it then becomes known that he is a *ben gerushah* or *ben chalutzah*, i.e., a *chalal*. In that case, his *avodah* until that point is *kesheirah*. This is not merely a matter of presumption but a special *gezeirat hakatuv*, derived from a *pasuk*, that retroactive invalidation does not apply once the *avodah* was performed in ignorance. Rabbi Tarfon invokes this case to suggest a general policy consideration: just as one cannot issue recall notices invalidating years of priestly service, so too one cannot retroactively invalidate months of *taharot* performed using the *mikvah*.
 
-There is, as the lecturer acknowledges, a notable imprecision in the analogy. The *mikvah* case involves a *safek* — genuine uncertainty about when the deficiency arose — whereas the *kohen* case involves a situation where the *pesul* was present throughout, and we are simply applying a special legal rule that suspends retroactive invalidation. Nonetheless, Rabbi Tarfon's point has a certain policy logic: the societal consequences of wholesale retroactive invalidation support leaning toward the *chazakah* that the *mikvah* remained *kasher*.
+There is a notable imprecision in the analogy. The *mikvah* case involves a *safek* — genuine uncertainty about when the deficiency arose — whereas the *kohen* case involves a situation where the *pesul* was present throughout, and we are simply applying a special legal rule that suspends retroactive invalidation. Nonetheless, Rabbi Tarfon's point has a certain policy logic: the societal consequences of wholesale retroactive invalidation support leaning toward the *chazakah* that the *mikvah* remained *kasher*.
 
 ### Baal Mum Analogy
 
@@ -64,7 +64,7 @@ Rabbi Yannai derives it from *u'vata el hakohen asher yihyeh bayamim hahem* — 
 
 For the *baal mum*, the Gemara inverts the derivation. Rav Yehudah citing Shmuel reads *lachen emor hineni noten lo et briti shalom* — the covenant of peace — as applying *kshehu shalem*, only when he is physically complete, unblemished. The word *shalom* in this verse is written with a *vav ketia*, a broken or truncated *vav*, as a scribal tradition indicating that the wholeness the verse describes is conditional on physical integrity. Once there is a *mum*, the condition fails, and past *avodah* is retroactively *pesulah*.
 
-The lecturer acknowledges difficulty with the internal logic of this distinction: intuitively, a *chalal* — who lacks *kedushat kehunah* entirely — seems more fundamentally disqualified than a *baal mum*, who retains *kedushat kehunah* and participates in *korbanot*. And yet the *halacha* holds the *baal mum*'s past *avodah* invalid while validating the *chalal*'s. The best available explanation tracks the distinction between something demonstrable and present — the *mum* was on the body, in principle perceptible — versus something more abstract and genealogical, which could not have been known without information from others. But the lecturer notes that this explanation remains imperfect.
+There is a difficulty with the internal logic of this distinction: intuitively, a *chalal* — who lacks *kedushat kehunah* entirely — seems more fundamentally disqualified than a *baal mum*, who retains *kedushat kehunah* and participates in *korbanot*. And yet the *halacha* holds the *baal mum*'s past *avodah* invalid while validating the *chalal*'s. The best available explanation tracks the distinction between something demonstrable and present — the *mum* was on the body, in principle perceptible — versus something more abstract and genealogical, which could not have been known without information from others. But this explanation remains imperfect.
 
 ---
 
@@ -90,7 +90,7 @@ The illustrative cases of forbidden *kohen* marriages: an *almanah* with a *kohe
 
 Similarly, if a woman who is a *mamzeret* or *netinah* marries a *Yisrael* (or vice versa — a *mamzer* marrying a *bat Yisrael*), *kiddushin* is binding, but the child is a *mamzer*. The principle of *holech achar hapagum* applies directly: the child carries the disqualified status.
 
-### No Kiddushin/Others Poss…
+### No Kiddushin/Mamzer
 
 The *mishnah* then addresses a woman with whom *kiddushin* is not binding at all regarding this particular man, but who could be validly married to others: *havalad mamzer*. The child is a *mamzer*. The paradigm case here is a married woman — her husband could marry her, but she cannot create *kiddushin* with this other man. Any issue of such a union, being from *arayot*, is a *mamzer*.
 

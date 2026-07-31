@@ -138,7 +138,7 @@ The *Gemara* resolves the problem by rereading the *mishnah*. The cases of *kona
 
 ---
 
-## Impossibility & Nede (II)
+## Impossibility & Neder
 
 ### Shvuah Sleep
 

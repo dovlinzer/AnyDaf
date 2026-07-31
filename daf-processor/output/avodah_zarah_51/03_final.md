@@ -1,4 +1,5 @@
 # Avodah Zarah 51 — Daf Yomi Shiur
+[DAF:51a]
 
 ## Tikroves: Act Model
 
@@ -202,6 +203,7 @@ The *baal mum* ruling then raises a pointed question: if one is exempt for slaug
 
 Rabbi Eliezer asks: from where do we derive that slaughtering an animal for *Markulis* — even though slaughter is not the *derech avodah* of *Markulis* — renders one *chayav*? The source is the verse *velo yizbechu od et zivcheihem la-se'irim asher hem zovchim al pnei ha-sadeh* (Leviticus 17:7). Since the general prohibition of worshipping idols in their characteristic manner is derived from *eich ya'avdu ha-goyim ha-eileh et eloheihem va'e'eseh ken gam ani* (Deuteronomy 12:30) — how do those nations serve their gods, and I will do the same — we do not need the verse about *se'irim* for that purpose. Therefore it must be teaching something new: apply it to non-characteristic worship. Even if slaughter is not how *Markulis* is served, performing a classic *avodah* like *shechita* renders one *chayav*.
 
+[DAF:51b]
 ### Pasuk Context
 
 > **Hebrew/Aramaic:** וְהָא לְהָכִי הוּא דַּאֲתָא? הַאי מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: עַד כָּאן הוּא מְדַבֵּר בְּקָדָשִׁים שֶׁהִקְדִּישָׁן בִּשְׁעַת אִיסּוּר הַבָּמוֹת, וְהִקְרִיבָן בִּשְׁעַת אִיסּוּר הַבָּמוֹת, שֶׁהֲרֵי עוֹנְשָׁן אָמוּר, שֶׁנֶּאֱמַר: "וְאֶל פֶּתַח אֹהֶל מוֹעֵד לֹא הֱבִיאוֹ וְגוֹ׳". עוֹנֶשׁ שָׁמַעְנוּ, אַזְהָרָה מִנַּיִן? תַּלְמוּד לוֹמַר: "פֶּן תַּעֲלֶה עֹלֹתֶיךָ".

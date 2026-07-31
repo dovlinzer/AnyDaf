@@ -188,7 +188,7 @@ One might also wonder whether the analysis can be pushed further: I have flax, I
 
 *Ella le-man de-amar mishum mamono, hai eish lav mamono de-ba'al gamal hu* — according to Reish Lakish, the same problem as in the dog case arises: this is not the camel owner's fire. The *chanvani* lit the candle; it is the *chanvani*'s fire. The camel owner was negligent with the flax, but once the flax caught fire, he had no ability to intervene — he is an *ones* at that point. He is not liable for the *chanvani*'s fire, and it never becomes his own *mamono*. He should therefore be exempt.
 
-### Direct Contact Requireme…
+### Mistachsechet Contact
 
 The resolution for Reish Lakish, as with the dog case, depends on the distinction between direct contact and spreading. *Di-mesachseches kol ha-birah kullah* — the key is that the animal was not merely the source of ignition from which fire then spread; rather, the camel itself, carrying the burning flax on its back, was directly moving through and coming into contact with the entire building. This is not fire spreading on its own — it is the camel's body (or the flax attached to it) directly burning the structure. This falls into the category of *mekom gechelet* extended: it is all treated as direct contact, *kocho* of the animal, not the spreading of fire.
 

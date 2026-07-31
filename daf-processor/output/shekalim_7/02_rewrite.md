@@ -144,7 +144,7 @@ Rabbi Avin bar Bun bar Chiya in the name of Shmuel bar Abba reasons: *mikeivan s
 
 This raises the question: if *lishmo u'she'lo lishmo* neutralize one another and produce the same result as silence, what would be the *halacha* if someone slaughtered it *lishmo* but then intended to sprinkle its blood *she'lo lishmo*? Could one argue that the separated *lishmo* and *she'lo lishmo* — one at *shechita* and one at *zrika* — also neutralize? The *gemara* resists this extension. One might argue that when the acts are separated temporally, the first act (*shechita lishmo*) already defines the animal and takes precedence, precluding any subsequent neutralization.
 
-### Challenge to Neutralizat…
+### Neutralized vs Separated
 
 A challenge follows: if we say that *lishmo u'she'lo lishmo* in combination neutralize and produce the result of silence, then the same logic could presumably extend to cases where the two intents were somehow articulated sequentially rather than simultaneously. Why does neutralization apply only to the combined declaration?
 
@@ -156,7 +156,7 @@ This maps precisely onto the question in the *Bavli* of whether *pesach bish'ar 
 
 ---
 
-## Nazirite Leftovers
+## Nazirite Leftovers (II)
 
 ### Order Rule
 

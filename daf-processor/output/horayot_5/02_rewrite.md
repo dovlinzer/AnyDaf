@@ -116,7 +116,7 @@ The *chachamim* disagree: *ein chayavin ela al hora'at beis din hagadol bilvad* 
 
 ---
 
-## Knowledge Requiremen (II)
+## Knowledge Requirement
 
 ### Specific Sin
 

@@ -72,7 +72,7 @@ The spectrum of opinions is illuminating. At the most conservative end, *Shmuel*
 
 The *Gemara* transitions to a parallel inquiry that *Rabbi Akiva* directed at *Rabbi Eliezer* — almost certainly not at the same marketplace setting, but reported here because of its structural similarity to the earlier debate. *Rabbi Akiva* asks: if one performs many different *melachos* that are all *me'ein melacha achas* — all of the same category, i.e., multiple *toldos* (subcategory acts) of a single *av melacha* such as *zri'ah* (planting) — over multiple *Shabbatot*, in a single state of forgetfulness, how many *chata'ot* does one bring? This combines two separate questions: are multiple *toldos* of the same *av* considered distinct acts? And does doing the same *melacha* across multiple *Shabbatot* generate separate obligations per *Shabbos*?
 
-### Forgetting Shabbat vs Me…
+### Shabbat vs Melachot
 
 The *Gemara* observes that *Rabbi Akiva* has collapsed two distinct questions into one. If the real question is whether different *Shabbatot* are *gufei m'chulakin*, then one need only ask: what if one performed the same *melacha* on multiple *Shabbatot*? The addition of multiple *toldos* is unnecessary. Conversely, if the real question is whether multiple *toldos* of the same *av* are treated as distinct acts, then one need only ask: what if one performed multiple *toldos* on a single *Shabbos*? The question as posed by *Rabbi Akiva* folds both issues together.
 

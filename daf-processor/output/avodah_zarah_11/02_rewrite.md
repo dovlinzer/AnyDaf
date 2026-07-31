@@ -1,8 +1,8 @@
 # Avodah Zarah 11 — Daf Yomi Shiur
 
-## Jewish Minority Cont (II)
+## Jewish Minority Context
 
-### Integration vs. Distinct…
+### Integration vs. Distinct.
 
 The tractate of *Avodah Zarah* opens up a fundamental question about how we think about the larger world. Is this tractate primarily about idolatry in the technical sense, or is it about a different type of life altogether — a life that is not oriented around *Torah* and *mitzvos*? Whatever the answer, the Rabbis are manifestly aware of the world in which they live. They know all of these pagan holidays intimately, and more than that, the entire calendar is structured around events of the larger world — the *minyan shtarot*, not the destruction of the *Beis HaMikdash* and not the creation of the world. Even the socio-structural organization of time reflects this embeddedness: the discussion of counting from *Tishrei* rather than from *Nissan* evokes a year beginning in January rather than on *Rosh Hashanah*. We are in many ways one fabric with that larger world, even as we work to retain our distinctiveness.
 

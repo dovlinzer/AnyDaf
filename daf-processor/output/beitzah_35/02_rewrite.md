@@ -68,7 +68,7 @@ With this understanding, the contradiction within Rabbi Eliezer's position disso
 
 What emerges is striking: both Rabbi Eliezer and Rabbi Yehoshua agree that one cannot eat the grapes on *shabbat* itself. Their dispute is only about whether after *shabbat* the grapes retain the restriction. Rabbi Eliezer says after *shabbat* one may resume; Rabbi Yehoshua says the restriction persists even afterward. Both, however, accept that *shabbat* is *koveia* in the sense that eating on *shabbat* from unfinished produce constitutes *achilat keva*. This makes the Gemara's earlier contortions to avoid that conclusion seem, in retrospect, puzzling — but such is the nature of this particular *sugya*.
 
-### R. Yochanan: Gemar Melac…
+### R. Yochanan: Gemar Melach
 
 Despite all of the foregoing evidence pushing toward the conclusion that *shabbat* is *koveia*, a definitive ruling arrives from Eretz Yisrael. *Ki asa Ravin amar Rabbi Yochanan*: whether it is *shabbat*, whether it is *teruma*, whether it is a *chatzer*, whether it is a *mekach* — a sale or purchase — none of these makes unfinished produce *keva*. *Kulam ein kovin ela bedavar shenigmerah melachtan*: all of them operate only where the produce has already reached *gemar melacha*. Before that point, no halachic event — not the arrival of *shabbat*, not the separation of *teruma*, not bringing the produce into a *chatzer*, not a commercial transaction — changes the produce's fundamental status. One may still snack from it. All of the readings of the *mishna* and the positions attributed to various *tannaim* that pointed toward *shabbat* or *teruma* being *koveia* are thereby set aside, at least as normative *halacha*.
 

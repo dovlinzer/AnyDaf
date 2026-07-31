@@ -1,10 +1,10 @@
 # Chullin 3 — Daf Yomi Shiur
 
-## Mishnah Structure & Them…
+## Lechatchila & Bedi'avad
 
-### L'chatchila/B'diavad Int…
+### L'chatchila/B'diavad
 
-We pick up on the bottom of Daf 2b. The first discussion in the Gemara may have felt somewhat frustrating, in that it created what seems like an artificial question about the Mishnah — is it talking about le'chatchila or be'di'avad? — and then forced itself toward the answer that the Mishnah is addressing both: le'chatchila and be'di'avad. That said, it is worth stepping back to appreciate what the Gemara is doing here, because the answer illuminates a great deal about what is to come.
+ The first discussion in the Gemara may have felt somewhat frustrating, in that it created what seems like an artificial question about the Mishnah — is it talking about le'chatchila or be'di'avad? — and then forced itself toward the answer that the Mishnah is addressing both: le'chatchila and be'di'avad. That said, it is worth stepping back to appreciate what the Gemara is doing here, because the answer illuminates a great deal about what is to come.
 
 ### Opening Sugya Pattern
 
@@ -16,11 +16,11 @@ That is precisely what is happening here. We insisted that the Mishnah first ind
 
 ## Tamei & Tuma Mechanics
 
-### Tamei Source & Distincti…
+### Tamei: Meis vs Sheretz
 
 We are wrapping up the first explanation, which held that the le'chatchila and be'di'avad in the Mishnah concerned a person who is tamei. Le'chatchila, such a person may shecht chullin — even chullin treated with the purity standards of hekdesh — but may not shecht hekdesh itself. Be'di'avad, if he did shecht hekdesh and did not touch it, the shechita is valid. Now the Gemara asks: hai tamei de-itma be-mai — this tamei person who is performing the shechita, how did he become tamei?
 
-### Cherev ke-Chalal Princip…
+### Cherev ke-Chalal: Avi
 
 The Gemara raises the case: ileima de-itma be-meis — if he became tamei through a met, a dead body. And here the Gemara cites the halakhic principle of cherev harei hu ke-chalal, derived from the pasuk be-chalal cherev, at the top of Daf 3a. This is a special rule in Hilchot Tumas Meis. Normally, tuma descends in level as it transfers from one object to another. The corpse itself occupies the highest level, avi avot hatuma — the granddaddy of tumot. The person who touches it becomes an av hatuma; what that person touches becomes a rishon, then a sheni, and so on. But by tumas meis, there is a remarkable exception: a metal object that contacts a met does not descend a level — it retains the status of avi avot hatuma. And by extension, if a person who is an av hatuma by virtue of having touched a met then touches a metal object, that metal object retains av hatuma status rather than descending to rishon.
 
@@ -56,7 +56,7 @@ The Kuti here is used literally, not as a euphemism. There are several distinct 
 
 So the concern is not that the Kuti does not know the laws or is technically incompetent. The concern is one of intent and motivation when shechting for others.
 
-### Supervision & Salvage Te…
+### Omeid al Gabav & Salvage
 
 With that background, Abaye parses the Mishnah as follows: hachi katani — hakol shochtin, everybody may shecht, va'afilu Kuti, even a Samaritan. B'meh devarim amurim — when is this true? Kshe'Yisrael omeid al gabav — when a Jew is standing over him, in direct and constant supervision. Under those conditions, even though the Kuti's motivations might be suspect, the direct observation ensures he is performing the shechita correctly. That is the le'chatchila. Aval yotzei v'nichnas lo yishchot — but if the supervision is merely yotzei ve'nichnas — the supervisor popping in and out at intervals rather than maintaining constant presence — that is not sufficient le'chatchila.
 
@@ -122,7 +122,7 @@ The final phrase of the Mishnah — vechulan sheshachatu — poses the same diff
 
 ---
 
-## Ravina: Expertise & Expe…
+## Ravina: Mumcheh & Muchzak
 
 ### Ravina I: Expertise
 

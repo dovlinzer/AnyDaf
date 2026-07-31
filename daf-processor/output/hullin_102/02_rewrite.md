@@ -154,7 +154,7 @@ Crucially, the Gemara notes that on one matter all agree: *lo ba'inan kzayis* �
 
 ## Kezayit Resolution
 
-### Limb Kezayit Reinterpret…
+### Kezayit Limb vs. Meat
 
 At this point the Gemara attempts to reconcile all of this with Rav's original statement that *ever min hachai* requires a *kezayis*. The resolution offered is a reinterpretation: when the *braita* says the bird does not contain a *kezayis*, it does not mean the bird has no *kezayis* at all. It means there is not a *kezayis* of meat alone — *bemashu basar, gidim va'atzamot* — only a small amount of meat, with the remainder being sinews and bones. The *kezayis* of the *ever* (meat plus bone and sinew together) does exist; what is absent is a *kezayis* of meat in isolation. This allows Rav's position — that a *kezayis* of the *ever* is required — to remain intact.
 

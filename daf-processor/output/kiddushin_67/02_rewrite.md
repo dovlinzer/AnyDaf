@@ -62,7 +62,7 @@ The *mishnah* opens with a tripartite framework governing *yichus* — genealogi
 
 The first principle: *kol makom she-yesh kiddushin ve-ein aveira, ha-velad holech achar ha-zachar* — wherever *kiddushin* is binding and there is no transgression, the child's status follows the father. The *mishnah* illustrates this with the most basic case: whether the mother is a *kohenet*, a *leviyah*, or a *yisraelit*, and the father is a *kohen*, *levi*, or *yisrael*, the child inherits the father's tribal and priestly status. A *kohen* father produces a *kohen* child regardless of the mother's background. This is the standard, unexceptional case of a valid and permitted marriage.
 
-### Child Follows Disqualifi…
+### Child Follows Disqualifi
 
 The second principle: *kol makom she-yesh kiddushin ve-yesh aveira, ha-velad holech achar ha-pagum* — wherever *kiddushin* is binding but the union involves transgression, the child follows the disqualified party. The examples given are the forbidden unions of *kohanim*: an *almanah* with a *kohen gadol*, or a *grushah* or *chalutzah* with a *kohen hedyot*. The child born of such a union does not himself become a *kohen gadol* or a divorcée — rather, the child becomes a *challal*, stripped of the full sanctity of *kehuna*, which is the operative consequence of a forbidden *kohen* union. The conceptual principle is that the stigma of the forbidden relationship attaches to the offspring, regardless of whether the disqualified party is the father or the mother.
 

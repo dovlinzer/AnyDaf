@@ -1,4 +1,5 @@
 # Shabbat 39 — Daf Yomi Shiur
+[DAF:39a]
 
 ## Oven Types
 
@@ -232,6 +233,7 @@ The reason for this restriction is the famous *gezeirat merchatza'ot* — the ra
 
 Returning to the Tiberian case: when the *mishnah* says that the water is "like water heated on *Shabbat*" and therefore forbidden for bathing, it cannot mean that full-body bathing is forbidden, since that is already forbidden even with pre-heated water. It must therefore mean the prohibition extends even to washing one's face, hands, and feet — the partial washing that would normally be permitted with pre-heated water is also forbidden, because the water is treated as if it were heated on *Shabbat* itself.
 
+[DAF:39b]
 ### Yom Tov Water
 
 > **Hebrew/Aramaic:** אֵימָא סֵיפָא: בְּיוֹם טוֹב, כְּחַמִּים שֶׁהוּחַמּוּ בְּיוֹם טוֹב, וַאֲסוּרִים בִּרְחִיצָה וּמוּתָּרִים בִּשְׁתִיָּה. לֵימָא תְּנַן סְתָמָא כְּבֵית שַׁמַּאי? דִּתְנַן, בֵּית שַׁמַּאי אוֹמְרִים: לֹא יָחֵם אָדָם חַמִּים לְרַגְלָיו אֶלָּא אִם כֵּן רְאוּיִים לִשְׁתִיָּה, וּבֵית הִלֵּל מַתִּירִין.

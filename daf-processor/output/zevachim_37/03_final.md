@@ -1,4 +1,5 @@
 # Zevachim 37 — Daf Yomi Shiur
+[DAF:37a]
 
 ## Pigul & Blood Apps
 
@@ -140,6 +141,7 @@ According to *Rabbi Yosi HaGelili*, however, the passage addresses *bechor*, *ma
 
 This latter point is itself a striking *halacha*. *Shelo matzinu lo bechol haTorah kulah* — as *Rashi* notes, we do not find elsewhere in the Torah what to do with a *bechor ba'al mum*. It cannot be redeemed — *lo tifdeh* is explicit — yet it cannot be offered. *Tosafot* sharpens this further: not only is there no other *pasuk* about it, but there is no other phenomenon in the Torah quite like it — something that is *kadosh* yet may be eaten in its state of *mum* without redemption. You need the plural *u'vsaram yiyeh lach* to tell you that this bizarre category exists and that the *kohen* eats the meat both of a *tam* (brought as a *korban*) and of a *ba'al mum* (eaten directly in its *kedushah* state). Both the *kosher*-for-offering and the blemished *bechor* are included.
 
+[DAF:37b]
 ### Yishmael vs Yosi
 
 > **Hebrew/Aramaic:** וְרַבִּי יִשְׁמָעֵאל – נָפְקָא לֵיהּ מִ״לְּךָ יִהְיֶה״ דְּסֵיפָא. בִּשְׁלָמָא לְרַבִּי יוֹסֵי הַגְּלִילִי, דְּמוֹקֵי לֵהּ נָמֵי בְּמַעֲשֵׂר וָפֶסַח; הַיְינוּ דִּכְתִיב: ״לֹא תִפְדֶּה כִּי קֹדֶשׁ הֵם״ – הֵם קְרֵיבִין, וְאֵין תְּמוּרָתָן קְרֵיבָה.

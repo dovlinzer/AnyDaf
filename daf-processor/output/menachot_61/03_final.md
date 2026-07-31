@@ -1,7 +1,9 @@
 # Menachot 61 — Daf Yomi Shiur
+[DAF:60b]
 
 ## Hagasha Overview
 
+[DAF:61a]
 ### Opening & Context
 
 > **Hebrew/Aramaic:** מְרַבֶּה אֲנִי שְׁאָר מְנָחוֹת שֶׁבָּאוֹת בִּגְלַל עַצְמָן, וּמוֹצִיא אֲנִי מִנְחַת נְסָכִים שֶׁאֵינָהּ בָּאָה בִּגְלַל עַצְמָהּ. וַהֲלֹא מִנְחַת כֹּהֲנִים וּמִנְחַת כֹּהֵן מָשִׁיחַ בָּאוֹת בִּגְלַל עַצְמָן, יָכוֹל יְהוּ טְעוּנוֹת הַגָּשָׁה?
@@ -304,6 +306,7 @@ The *Gemara* now asks: who is Rabbi Elazar ben Yaakov, and what is the source of
 
 The derivation is a *gezeirah shavah* of *yad-yad* connecting *bikkurim* to *shelamim*. By *bikkurim*, the *Torah* writes *v'lakach hakohen et hatene miyadecha* — the *kohen* shall take the basket from your hand. By *shelamim*, the *Torah* writes *yadav tevi'ena* — his hands shall bring the offering. The shared root *yad* (hand) connects the two contexts, and since the *shelamim* context involves waving, so too does the *bikkurim* context.
 
+[DAF:61b]
 ### Hand Position
 
 > **Hebrew/Aramaic:** מָה כָּאן כֹּהֵן – אַף לְהַלָּן כֹּהֵן, וּמָה לְהַלָּן בְּעָלִים אַף כָּאן בְּעָלִים. הָא כֵּיצַד? כֹּהֵן מַנִּיחַ יָדוֹ תַּחַת יְדֵי בְּעָלִים וּמֵנִיף.

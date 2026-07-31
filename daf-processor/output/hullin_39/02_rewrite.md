@@ -70,7 +70,7 @@ This reading makes Rabbi Yochanan's position both more coherent and more far-rea
 
 ## Shechitah L'Shem Intent
 
-### Proper Intent, Wrong Fut…
+### Shechitah: Olah Intent
 
 The *gemara* now notes *ve'azdu leta'ameihu* — they follow their respective lines of reasoning — and introduces a parallel dispute. The case: a *kohen* performs *shechitah* on a *korban olah* properly, with the correct *lishma* intent — this is an *olah* and he is slaughtering it as an *olah*. However, as he performs the *shechitah* he says to himself: when I get around to sprinkling the blood, I am going to sprinkle it *leshem chatas* — with the intent appropriate for a *chatas*, not an *olah*. He has the right intent now, during *shechitah*, but plans a wrong intent for a future *avodah*. Does that future plan of *shelo lishma* affect the present?
 
@@ -106,7 +106,7 @@ Conversely, *v'ei itmar b'ha* — had the *gemara* recorded only the debate abou
 
 The *gemara* now introduces a *kal va'chomer* posed by Rav Yosef, directed at the logic underlying the *mishnah*. Rav Yosef argues as follows: *u-mah be-makom she-machshava poselet be-mukdashin* — in the realm of *korbanos*, where thoughts do have the power to invalidate — *ein ha-kol holech ela achar ha-oved* — nevertheless, it is only the thoughts of the one performing the *avodah*, the *shochet*, that matter. The owner's thoughts are irrelevant even in the more stringent realm of *kodshim*. *makom she-ein machshava poselet be-chullin* — in non-sacrificial contexts, where thoughts have even less power to invalidate — *eino din she-lo yehei ha-kol holech ela achar ha-shochet?* — how much more so should it be that only the *shochet*'s thoughts matter, and not the thoughts of the non-Jewish owner?
 
-### Thoughts Invalidate Deba…
+### Thoughts Invalidate
 
 The *gemara* then pauses to interrogate the assumption built into Rav Yosef's *kal va'chomer* — namely, that thoughts do not invalidate in *chullin*. *mai ein machshava poselet be-chullin?* — what exactly does Rav Yosef mean when he says thoughts do not invalidate by non-sanctified meat? If he means thoughts *never* invalidate in *chullin*, that cannot be right: *ela zoveach le'avodah zarah de-mitasra heichi mashkachat lah?* — how would we ever find a case of slaughtering for *avodah zarah* in which the meat becomes forbidden? The entire category of *tikroves Avodah Zarah* — things offered to an idol, which are forbidden in *hana'ah* — presupposes that thought or intent can affect the status of meat outside the *beis haMikdash*. So thoughts clearly do sometimes invalidate in *chullin*.
 

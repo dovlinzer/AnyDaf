@@ -1,6 +1,6 @@
 # Ketubot 40 — Daf Yomi Shiur
 
-## 50 Shekel Fine & Other P…
+## 50 Shekel Fine & Ona'at
 
 ### Mishnah Overview
 
@@ -52,15 +52,15 @@ As a parallel case, Rav Huna in the name of Rav asks: from where do we know that
 
 The *gemara* then turns this against the *shevach neurim* argument. If the verse *b'neureha beit aviha* already established a sweeping principle that all benefits from the daughter's youth belong to the father, then we would never have needed the separate derivation from the slave-sale verse to establish that her earnings belong to him. The very necessity of that second derivation proves that *b'neureha beit aviha* does not function as a general umbrella rule.
 
-### Monetary vs. Ritual Righ…
+### Monetary vs. Ritual
 
 The reason for this limitation is now given: *mamona me'issura lo yalfinan* — we do not derive monetary rights from ritual obligations. The father's power to annul vows is a matter of *issur*, of religious obligation and its nullification. That power cannot be extended by analogy into the domain of monetary entitlement. Accordingly, *b'neureha beit aviha* tells us only about vows, the slave-sale verse tells us only about earnings, and neither reaches the question of payments for personal injury.
 
-### Fines Cannot Establish R…
+### Fines Cannot Establish
 
 The *gemara* then forecloses yet another avenue: *vechi teima neilef miknasa* — perhaps we can learn the father's right to *boshet* and *pegam* from the fact that he already receives the fifty-*shekel knas*? This too fails. *Mamona miknasa lo yalfinan* — monetary compensation cannot be derived from a fine. A *knas* is always treated as a legal exception, not as a model from which general monetary principles can be extrapolated. Thus we know the father receives the *knas*, we know he receives her earnings, and we know he may annul her vows — but none of these sources establishes his right to payments for injury done to her person.
 
-### Father's Control Rationa…
+### Father's Control Reason
 
 The *gemara* resolves the difficulty not through scriptural derivation but through a rational inference: *mistavra de'aviha havu* — it stands to reason that these payments belong to the father. The reasoning is as follows. The father has full practical control over precisely those aspects of his daughter's existence that generate *boshet* and *pegam*. He may marry her off to whomever he chooses — even, as the *gemara* notes starkly, to a repulsive or diseased man — and in doing so he controls whether she will suffer shame and whether she will lose her virginity. Since *pegam* arises from the loss of virginity and *boshet* from the experience of shame, and since the father has legal dominion over both, it follows that the associated monetary payments belong to him.
 

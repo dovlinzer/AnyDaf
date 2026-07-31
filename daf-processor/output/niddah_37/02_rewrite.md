@@ -72,7 +72,7 @@ Those present then saw *deparcha asa* — a myrtle branch flying *me'hai puraya 
 
 ---
 
-## Interrupting Clean D (II)
+## Interrupting Clean Days
 
 ### Rava's Question
 

@@ -1,6 +1,6 @@
 # Bava Kamma 81 — Daf Yomi Shiur
 
-## Yehoshua's Ten Stipulati…
+## Yehoshua's Ten Rules
 
 ### Ten Takkanot Overview
 
@@ -26,7 +26,7 @@ The seventh stipulation concerns *shvilei ha-reshut* — either paths that priva
 
 The eighth stipulation, *u-mistalkin le-tzidei ha-derachim mipnei yesados ha-derachim*, permits walking onto private property at the edges of a road when the hardened mud of the path — having dried into sharp, uneven ridges after the rainy season — makes the center of the road difficult to traverse.
 
-### Lost in Vineyard & Meis…
+### Lost Vineyard & Burial
 
 The ninth and tenth stipulations complete the list. *Ha-to'eh bein ha-keramim* — one who is lost among the vines of a vineyard — may cut his way out, whether upward or downward, *mafaseg ve-oleh mafaseg ve-yored*, until he reaches a road or a town. And *meis mitzvah koneh mekomo* — an unidentified corpse acquires, as it were, its place of death. Wherever an unknown person dies, he has the right to be buried there, regardless of whose property it is.
 
@@ -34,7 +34,7 @@ The ninth and tenth stipulations complete the list. *Ha-to'eh bein ha-keramim* �
 
 ## Grazing Qualifications
 
-### Animal Size & Forest Den…
+### Small Animals: Forest
 
 The *gemara* now unpacks each stipulation in detail. Regarding the first — grazing in forests — Rav Papa qualifies: *lo amran ela daka b'gasah* — this was only said of small animals (*daka*), such as sheep and goats, grazing in a thick, densely wooded forest (*gasah*). Three other combinations are excluded. Small animals in a thin forest (*daka b'daka*) — not permitted, because the sparse vegetation could be significantly damaged. Large animals in a dense forest (*gasah b'gasah*) — also not permitted, because even dense growth cannot withstand large animals without real harm to the owner. And *kol she-kein gasah b'daka* — certainly large animals in a thin forest are not permitted. All of this, of course, applies only to someone else's forest; an owner may do as he pleases on his own land.
 
@@ -116,7 +116,7 @@ Rav Papa qualifies this for Babylonian conditions: *va-hadidan afilu talya di-ka
 
 A narrative illustrates this. Shmuel and Rav Yehuda were walking along a road, and Shmuel stepped off to the side — onto private land — to avoid the hardened, treacherous mud of the path in the dry season. This is, of course, a stipulation Yehoshua made for the Land of Israel. But here we are outside of Eretz Yisrael, in Babylonia.
 
-### Outside Eretz Yisrael Qu…
+### Yehoshua's Rules Outside
 
 Rav Yehuda challenged Shmuel directly: *tenayim she-hitna Yehoshua afilu b'Bavel?* — are you claiming that the conditions Yehoshua stipulated apply even in Bavel? Yehoshua's conditions were manifestly limited to Eretz Yisrael. Shmuel replied: *sha'ani omer afilu b'chutz la-aretz* — I say they apply even outside the land. Whether Shmuel is claiming that Yehoshua himself intended universal application, or that any organized Jewish community operates with these implicit norms, is left somewhat open. It is worth noting that the *gemara* earlier applied the restrictions of the *mishna* regarding small animals to Babylonia as well, so there is a broader tendency to treat Babylonian Jewish society as operating by similar principles.
 

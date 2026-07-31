@@ -1,4 +1,5 @@
 # Yevamot 23b — Daf Yomi Shiur
+[DAF:23a]
 
 ## Unknown Marriage Cas (II)
 
@@ -94,6 +95,7 @@ The *mishnah* then presents a more complex scenario involving two unrelated men 
 
 When one of the husbands dies leaving a single brother, that brother performs *chalitzah* with both women and thereby removes himself entirely from the picture, since he cannot perform *yibum* in any case: even if he were to perform *chalitzah* with one woman and then *yibum* with the other, the second would be *achot chalutzato* — the sister of the woman with whom he performed *chalitzah* — rendering the *yibum* forbidden.
 
+[DAF:23b]
 ### Both Men Die
 
 > **Hebrew/Aramaic:** לָזֶה אֶחָד וְלָזֶה שְׁנַיִם — הַיָּחִיד חוֹלֵץ לִשְׁתֵּיהֶן, וְהַשְּׁנַיִם — אֶחָד חוֹלֵץ, וְאֶחָד מְיַיבֵּם. קָדְמוּ וְכָנְסוּ, אֵין מוֹצִיאִין מִיָּדָם.

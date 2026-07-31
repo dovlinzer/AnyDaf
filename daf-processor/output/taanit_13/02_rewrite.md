@@ -2,7 +2,7 @@
 
 ## Private Fasting Rules
 
-### Components of Ta'anit Ya…
+### Kabbalah Duration Kinyan
 
 The *Gemara* on this *daf* continues a sustained discussion of the private fast, *ta'anit yachid*, returning to it briefly before the next *mishna*. Three distinct components have already emerged in the preceding sugya: the requirement of *kabbalah mibe'od yom* — accepting the fast while it is still day — the obligation to maintain the fast through the end of the day, and now a third element introduced here by Rav Yehuda in the name of Rav: *loveh adam ta'anito upore'a* — a person may borrow against his fast and pay it back. The language is striking. It frames the private fast not as a fixed obligation tied to a particular calendar day, but as a kind of personal debt that can be discharged on a different occasion. If circumstances arise that make fasting on the designated day difficult or impossible, one may eat, and fulfill the fast on another day.
 
@@ -58,7 +58,7 @@ One additional subtlety deserves mention: the *ta'anit chalom* also lacks the *k
 
 ## Communal Fasting
 
-### Three-Plus-Three Fast Cy…
+### Three Fast Cycles
 
 The *Gemara* now turns to the next *mishna*, which continues the account of the communal response to drought. The sequence established previously had *yechidim* — private, especially pious individuals — beginning to fast when the seventeenth of *Marcheshvan* arrived without rain. When *Rosh Chodesh Kislev* arrived and still no rain had fallen, the community began its three fasts. Those first three communal fasts, it is important to note, were daytime fasts only, without the additional restrictions characteristic of a full *ta'anit tzibur*. They were fasts of the community without the full panoply of self-denial.
 

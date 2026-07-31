@@ -1,4 +1,5 @@
 # Arakhin 7 — Daf Yomi Shiur
+[DAF:7a]
 
 ## Execution & Obligations
 
@@ -304,6 +305,7 @@ The *Gemara* initially assumes this is about natural hair and raises an obvious 
 
 This raises a parallel question: *ba'ei Rabbi Yossi b'Rabbi Chanina, se'ar nashim tzidkaniyot, mahu?* — Rabbi Yossi b'Rabbi Chanina raised the question of the hair of righteous women in an *ir hanidachas*, an apostate city. Those who did not sin must leave and abandon all their property, which is destroyed along with the city. The question is whether this woven-in hair is considered her body — in which case she takes it with her — or her property — in which case it must be left behind.
 
+[DAF:7b]
 ### Hanging by Peg
 
 > **Hebrew/Aramaic:** וְאָמַר רָבָא: בְּפֵאָה נׇכְרִית לָא קָמִיבַּעְיָא לֵיהּ, כִּי קָמִיבַּעְיָא לֵיהּ לְרַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא דִּתְלֵי בְּסִיכְּתָא.

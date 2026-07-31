@@ -1,6 +1,6 @@
 # Sotah 41 — Daf Yomi Shiur
 
-## High Priest's Blessi (II)
+## High Priest's Blessing
 
 ### High Priest Intro
 

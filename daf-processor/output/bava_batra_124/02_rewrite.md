@@ -112,7 +112,7 @@ On this point Rabbi and the *rabbanan* divide. Rabbi maintains that even transfo
 
 ---
 
-## Psak Halacha Authori (II)
+## Psak Halacha Authority
 
 ### Both Legitimate
 

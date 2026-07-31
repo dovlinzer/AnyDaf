@@ -46,13 +46,13 @@ Tosafot resolves this by distinguishing between different models of operation. M
 
 ---
 
-## Sedeh HaBaal: Three Seas…
+## Sedeh HaBaal: Three Seas
 
 ### Sedeh HaBaal Definition
 
 The *mishna* continues with a different category: the *sedeh haba'al*, the rain-fed field. Here, *chazkatah shalosh shanim ve'einah mi-yom le-yom* — its *chazakah* is three years, but not measured continuously day to day, because of the seasonal nature of agricultural production. Since such a field lies fallow during portions of the year, one can accumulate three seasons of use without being present for three full consecutive calendar years.
 
-### R. Ishmael's 18-Month Mo…
+### R. Ishmael: 18-Mo Formula
 
 The question then becomes: how does one measure these three seasons? *Rabbi Ishmael omer*: *gimmel chodashim barishona vegimmel ba'achrona veshneim asar chodesh ba'emtza* — three months at the beginning, twelve months in the middle, and three months at the end, totaling eighteen months.
 
@@ -60,7 +60,7 @@ The question then becomes: how does one measure these three seasons? *Rabbi Ishm
 
 What are these three months at the beginning? Rashi explains that they are the three months immediately preceding *Rosh HaShanah* — that is, the final months of one agricultural year. The planting season begins at *Rosh HaShanah*, which is one of the reasons *Tishrei* is considered the beginning of the year even though *Nissan* marks the beginning of the months: from an agricultural standpoint, the planting cycle commences in early autumn. Seeds are sown as the soil softens, the rains come, and the seeds remain protected through the winter before sprouting in spring and being harvested through summer. A quick-ripening crop planted before *Rosh HaShanah* can be brought in within three months, representing one year of the *chazakah*. Tosafot has a broader discussion of exactly which three-month period is intended and whether it refers to the months before *Nissan* or before *Tishrei*, though Rashi is fairly clear that it is *lifnei Rosh HaShanah*.
 
-### Rashi & Tosafot: Harvest…
+### Rashi & Tosafot: Harvest
 
 Rashi's position regarding the final three months is notable: he holds that planting alone during those months suffices. As he writes: *v'yeish lo eidim she'zara bo gimmel chadashim... harei zu chazkat shalosh shanim retzufot she'ein lecha adam haro'eh et chaveiro she'zoreia et sadeihu l'chol piroy ha'asuyah l'shana v'shoteik* — if witnesses can testify that he sowed the field during three months of the final period (say, *Tishrei*, *Cheshvan*, and *Kislev*), that constitutes a *chazakah* of three consecutive years, because no person who sees another sowing his entire field — a field designed to produce a full year's crop — would remain silent about it.
 
@@ -74,7 +74,7 @@ The deeper conceptual point is that the *sedeh haba'al* model is not measuring t
 
 ---
 
-## Orchards: Multiple Harve…
+## Orchards: Multi Harvests
 
 ### Wheat vs. Orchards
 
@@ -84,7 +84,7 @@ Rabbi Ishmael himself then clarifies the scope of his eighteen-month formula: *b
 
 Rabbi Akiva offers an alternative formula of fourteen months: one month at the beginning, twelve in the middle, and one at the end. The Gemara and *rishonim* will work out the specifics of how multiple harvests within a single year can constitute three years of *chazakah*.
 
-### Three Harvests Equal 3 Y…
+### Three Harvests, 3 Years
 
 The *mishna* teaches: *kanas et tevu'ato umasak et zeito vekanas et kaitzo harei elu shalosh shanim* — if one gathered in the grapes (*tevu'ato* here, as Rashi and Tosafot note based on the Gemara, refers to grapes rather than grain, since we are dealing with an orchard), gathered in the olives (*masik* being the specific verb for olive harvest), and gathered in the dried figs (*kaitzo*), that constitutes three years of *chazakah*.
 
@@ -114,7 +114,7 @@ The Gemara does raise one preliminary challenge before moving on: perhaps, just 
 
 ---
 
-## Challenge: Need for (II)
+## Challenge: Chazakah
 
 ### Gemara's Question
 
@@ -156,7 +156,7 @@ This is a subtle but important point. The Gemara is not entirely abandoning the 
 
 ---
 
-## Mecha'ah Presence Requir…
+## Mecha'ah: Owner Presence?
 
 ### Rav Avira's Argument
 
@@ -166,7 +166,7 @@ Rav Avira now presses the *shor hamu'ad* analogy further, and his challenge is g
 
 The Gemara's response addresses *mecha'ah shelo befanav* directly: *hacha chavrach chavrah is lei* — here, your friend has a friend, and your friend's friend has a friend. Word spreads. Even an objection made in France eventually reaches the possessor's ears through overlapping networks of acquaintances. The formal requirement of presence that applies to *beit din* testimony — *vehu'ad biva'alav* — is a specific biblical mandate tied to the formal judicial process of warning an owner in court. That requirement does not translate to the informal social reality of how news travels, and *mecha'ah* is not a formal court proceeding in the same sense.
 
-### Tosafot's Reinterpretati…
+### Tosafot: Chazakah Owner
 
 Tosafot, however, identifies a deeper issue with how this question was framed. The more cogent version of Rav Avira's argument, Tosafot suggests, is not about *mecha'ah* at all. It is about *chazakah* itself. If we are serious about the *shor hamu'ad* analogy — that establishing *mu'ad* status requires the goring to occur in the owner's presence so that the warning can be administered directly — then by parallel logic, the acts of possession that constitute *chazakah* should have to take place in the original owner's presence. Just as goring followed by warning *in the owner's presence* is what creates the status of *mu'ad*, so too: possession followed by the owner's silence, with that encounter happening *in the owner's presence* (or at least within the owner's accessible awareness), should be what creates the status of ownership. If the original owner is wholly absent and unaware, there is no real confrontation between the act of possession and the owner's non-response. Tosafot understands the Gemara's answer — that word gets around even without direct presence — as addressing this point: the owner is treated as constructively present because information in an interconnected community circulates and reaches everyone.
 
@@ -174,7 +174,7 @@ This reinterpretation reflects the logical tension in the Gemara's position. Eve
 
 ---
 
-## Rabbi Meir & Short Perio…
+## Meir: Three Gorings/Short
 
 ### R. Meir: Kal VaChomer
 
@@ -194,7 +194,7 @@ The Gemara moves progressively toward cases of greater temporal separation. Thre
 
 The Gemara then advances to three harvests of *aspasta* — a fodder crop that can be cut down and will regrow — over thirty days. Here, one cuts the entire crop, it fully regrows, one cuts again, it fully regrows, and one cuts a third time. Surely these are genuinely distinct acts? The Gemara again resists: *dekadid ve'achil dekadid ve'achil* — if one is cutting it down before it has fully grown each time, one is merely *mishmashmit ve'achil*, snatching a bit here and there as soon as it sprouts. That is not a full, genuine eating that demonstrates ownership.
 
-### Resolution & R. Ishmael…
+### Resolution: R. Ishmael
 
 The Gemara then considers three full growths of *aspasta* over three months — three months in which the crop genuinely grows to full maturity, is fully harvested, genuinely regrows, is again fully harvested, and so on three times. Should this not suffice? And the Gemara's answer at this point is striking: *man hanei oushayei Rabbi Yishmael* — who are the sages from Usha whose tradition underlies this whole discussion? It is Rabbi Ishmael. And *de'Rabbi Yishmael hachi nami* — yes, according to Rabbi Ishmael, it would indeed work.
 
@@ -212,6 +212,6 @@ Let us summarize where today's Gemara has brought us regarding the conceptual fo
 
 A different model is anticipated but not yet fully developed in today's shiur: the logical or evidentiary model, in which *chazakah* functions as a rational inference. On this account, the owner's silence in the face of three years of provocation is itself psychological and evidentiary proof that he must have sold the land. No person watches another harvest his field year after year and says nothing unless the field is legitimately no longer his. The *chazakah* on this model is an inference to the best explanation of the owner's silence, not a formal status change.
 
-### Psychological Proof Not…
+### Mecha'ah & Ta'anah Claims
 
 Crucially, the Gemara has not yet invoked this logical-inferential model in today's discussion. The entire analysis of the *shor hamu'ad* analogy, the requirement of a *ta'anah*, the challenge of Rav Avira, and the progressive testing of Rabbi Meir's position — all of this proceeds entirely within the formalistic framework. The owner's lack of *mecha'ah* is not treated as psychological evidence that he sold the field; it is treated as a component of a formal status-changing mechanism. The meaning of the possessor's acts is framed by the *ta'anah*, and the owner's silence allows those framed acts to run their course and effect the status change. It is only tomorrow, when the Gemara turns to the position of the *rabbanan* who differ from Rabbi Ishmael, that the fully logical model — grounded in the inference from the owner's non-response — is expected to emerge.

@@ -1,4 +1,5 @@
 # Bava Metzia 48 — Daf Yomi Shiur
+[DAF:48a]
 
 ## Money & Meshicha
 
@@ -180,6 +181,7 @@ The discussion of *chalifin* also surfaces briefly in this context. Rav Nachman'
 
 ## Abaye vs. Rava
 
+[DAF:48b]
 ### Abaye Informs
 
 > **Hebrew/Aramaic:** אֲבָל אָמְרוּ מִי שֶׁפָּרַע וְכוּ׳. אִיתְּמַר, אַבָּיֵי אָמַר: אוֹדוֹעֵי מוֹדְעִינַן לֵיהּ. רָבָא אָמַר: מֵילָט לָיְיטִינַן לֵיהּ.

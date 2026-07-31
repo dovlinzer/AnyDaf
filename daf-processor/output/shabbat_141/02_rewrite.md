@@ -178,7 +178,7 @@ Rava explains the rationale: scraping plaster onto a wall is forbidden because *
 
 Rava then inverts the ruling: one should scrape on the wall — *mikancho b'kosel* — and not on the ground — *ve'ein mikancho b'karka* — because *dilma ati le'ashvei gumos* — one might come to level the ground, which constitutes a form of *boneh* or *choresh*. So the two statements — Abaye/Rav Yehuda and Rava — appear to contradict each other.
 
-### Contradiction: Allowed/F…
+### Contradiction: Mar vs Rav
 
 Mar brei d'Ravina rules that neither is permissible: *echad ze ve'echad ze assur*. Rav Papa rules that both are permissible: *echad ze ve'echad ze mutar*.
 

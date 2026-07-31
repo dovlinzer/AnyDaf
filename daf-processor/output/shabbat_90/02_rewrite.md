@@ -70,7 +70,7 @@ The question is then flipped: one took out a full *grogeret* intending to eat it
 
 An even more extreme case: one took out a *grogeret* for eating — minimum satisfied. During transit it shriveled below the minimum. Before being put down, it re-expanded to a full *grogeret*. The endpoints both satisfy the minimum; the intermediate period did not. This question is qualitatively different from the preceding ones, because here there is no change of intent at all. The issue is not whether the subjective redefinition of the minimum can bridge two differently-intended halves; it is a question about the nature of the carrying act itself. Does the transporting process itself need to maintain the minimum at every moment? While one might expect the *gemara* to frame this as a question about the centrality of the transporting phase, the *gemara* instead frames it strikingly in terms of *dichui* — the concept of disqualification.
 
-### Permanent Disqualificati…
+### Dichui: Perm Disqual.
 
 *Yesh dichui le'inyan Shabbat o ein dichui le'inyan Shabbat*? — Is there a principle of permanent disqualification (*dichui*) applicable to the laws of Shabbat? Normally *dichui* arises in the context of *mitzvot* and *korbanot*: if an animal had a *mum* (blemish) that temporarily rendered it unfit for sacrifice, and the *mum* later healed, some hold it remains permanently rejected. The *gemara* here applies this logic — strikingly — not to qualifying for a *mitzvah* or a *korban*, but to qualifying as the object of a *melacha*. Did the temporary shrinking below the minimum "reject" the object, such that even after re-expansion it can no longer serve as the object of a complete act of *hotza'ah*? By framing it this way, the *gemara* is not emphasizing that the carrying process itself requires an ongoing minimum, but rather that once disqualified at a moment in the middle, perhaps the object is permanently disqualified. All of these questions are left unresolved — *teiku*.
 
@@ -100,7 +100,7 @@ But the case *Rava* has posed is different: *hacha shabbat v'tum'ah bahadi hadad
 
 ## Bring Back Inside
 
-### Intent Negation
+### Intent Negation (II)
 
 The *mishna* states: *chazar v'hichniso eino chayav ela k'shiuro* — if after having taken the item out one brings it back inside without having used it for its original purpose, one is no longer *chayav* except according to the standard minimum. The subjective significance that had been conferred, for example by intending to plant a single seed, evaporates once one has abandoned that purpose by returning the item without using it. One might have thought that once significance is conferred, it persists — but the *gemara* says it does not.
 

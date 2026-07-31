@@ -8,7 +8,7 @@ Today's *daf* is 88, and we pick up at the very bottom of 87b, in the middle of 
 
 Before continuing, a brief clarification is in order regarding the previous session. The *mishnah* states that placing something in a *kli sharet* is also *mekadesh*. *Reish Lakish* asked *Rabbi Yochanan* whether this means one could even offer it up *lechatchila* even if it is *pasul* — for what else would the *mishnah* mean? *Rashi* explains that the alternative is one of the normal effects of a *kli sharet*: it elevates the *korban* to a higher level of sanctity, such that it can no longer be redeemed; it is no longer merely verbally designated but is fully consecrated.
 
-### Meila & Kli Sharet Effec…
+### Meila & Kli Sharet FX
 
 One point from yesterday requires explicit correction: it was mistakenly stated that entry into a *kli sharet* has an implication for *meila*. That is incorrect. *Meila* applies as soon as verbal sanctity takes place — this is a *meforash mishnah* in *Meila*. A *kli sharet* has two primary *nafkaminot*: first, the item placed within it can no longer be redeemed; second, it becomes *pasul* through *linah*, *yotzei*, lower levels of *tumah*, and removal from the *Beit Hamikdash*. If one sanctifies flour and oil at home verbally, the item does not become *pasul* by leaving the *Beit Hamikdash*; only after it enters a *kli sharet* does it acquire that susceptibility. *Meila*, however, begins at the moment of verbal consecration.
 

@@ -1,4 +1,5 @@
 # Middot 34b — Daf Yomi Shiur
+[DAF:34a]
 
 ## Parah Adumah Bridge
 
@@ -162,6 +163,7 @@ The northwest chamber, the fourth and final, was *bah yordim le-beit ha-tvilah* 
 
 *U-pirchei kehunah ish kesuto ba-aretz* — the younger *Kohanim*, by contrast, did not sleep on the elevated steps but on the ground, each man with his garment beneath him. This echoes a discussion from *Tamid* about whether the *bigdei kehunah* could be used for personal comfort — whether one could derive benefit from the priestly vestments by sleeping on them.
 
+[DAF:34b]
 ### Key Storage Ritual
 
 > **Hebrew/Aramaic:** וּמָקוֹם הָיָה שָׁם, אַמָּה עַל אַמָּה, וְטַבְלָא שֶׁל שַׁיִשׁ וְטַבַּעַת הָיְתָה קְבוּעָה בָהּ, וְשַׁלְשֶׁלֶת שֶׁהַמַּפְתְּחוֹת הָיוּ תְלוּיוֹת בָּהּ. הִגִּיעַ זְמַן הַנְּעִילָה, הִגְבִּיהַּ אֶת הַטַּבְלָא בַּטַּבַּעַת וְנָטַל אֶת הַמַּפְתְּחוֹת מִן הַשַּׁלְשֶׁלֶת, וְנָעַל הַכֹּהֵן מִבִּפְנִים, וּבֶן לֵוִי יָשֵׁן לוֹ מִבַּחוּץ. גָּמַר מִלִּנְעֹל, הֶחֱזִיר אֶת הַמַּפְתְּחוֹת לַשַּׁלְשֶׁלֶת וְאֶת הַטַּבְלָא לִמְקוֹמָהּ, נָתַן כְּסוּתוֹ עָלֶיהָ, יָשֵׁן לוֹ.

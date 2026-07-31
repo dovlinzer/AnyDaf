@@ -1,4 +1,5 @@
 # Kiddushin 31 — Daf Yomi Shiur
+[DAF:31a]
 
 ## Yetzer Hara & Torah
 
@@ -348,6 +349,7 @@ The contrast with the earlier story is instructive. In the case of the sleeping 
 
 ## Attitude Principle
 
+[DAF:31b]
 ### Feeding Example
 
 > **Hebrew/Aramaic:** תָּנֵי אֲבִימִי בְּרֵיהּ דְּרַבִּי אֲבָהוּ: יֵשׁ מַאֲכִיל לְאָבִיו פַּסְיוֹנֵי וְטוֹרְדוֹ מִן הָעוֹלָם, וְיֵשׁ מַטְחִינוֹ בָּרֵיחַיִם וּמְבִיאוֹ לְחַיֵּי הָעוֹלָם הַבָּא.

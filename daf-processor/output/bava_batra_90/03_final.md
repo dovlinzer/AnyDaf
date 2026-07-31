@@ -1,4 +1,5 @@
 # Bava Batra 90 — Daf Yomi Shiur
+[DAF:90a]
 
 ## Inaccurate Measures
 
@@ -158,6 +159,7 @@ The Gemara presses the point: is it sufficient that the merchant merely not suff
 
 Rav Chisda states that Shmuel *kra ashkach ve-darash* — found and expounded a biblical verse as the source for this rule. The verse is from Yechezkel: *ve-ha-shekel esrim gerah; esrim shekalim, chamesh ve-esrim shekalim, asarah va-chamishah shekel — ha-maneh yihiyeh lachem*. That is, twenty *gerah* to the *shekel*, and the *maneh* consists of twenty, twenty-five, and fifteen *shekalim*, totaling sixty *shekalim* to the *maneh*.
 
+[DAF:90b]
 ### Maneh 50 to 60
 
 > **Hebrew/Aramaic:** מָנֶה?! מָאתָן וְאַרְבְּעִים הָווּ! אֶלָּא שְׁמַע מִינַּהּ תְּלָת: שְׁמַע מִינַּהּ מָנֶה שֶׁל קֹדֶשׁ – כָּפוּל הָיָה; וּשְׁמַע מִינַּהּ מוֹסִיפִין עַל הַמִּדּוֹת – וְאֵין מוֹסִיפִין יוֹתֵר מִשְּׁתוּת; וּשְׁמַע מִינַּהּ שְׁתוּתָא – מִלְּבַר.

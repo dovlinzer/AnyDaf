@@ -90,7 +90,7 @@ Tosafot offers what has become the standard response of Chazal to the problem of
 
 The Gemara now introduces a *braisa* from Beis Shammai on an altogether different plane of judgment — not the annual determination on Rosh Hashanah but the *yom hadin* at the end of days, the final judgment of the messianic era and the time of *techiyat hameitim*. *Gimel kitos hein l'yom hadin* — three groups stand for the final day of judgment: one of *tzadikim gemurim*, one of *resha'im gemurim*, and one of *beinonim*.
 
-### Tzaddikim and Resha'im F…
+### Tzaddikim, Resha'im
 
 *Tzadikim gemurim* are immediately written and sealed for *chayei olam* — eternal life. Notice the shift in language from the earlier Gemara: where before it said *l'chayim*, here it says *l'chayei olam*, eternal life — appropriate to this eschatological setting in which physical, bodily existence in the world to come is presumably what is at stake. *Resha'im gemurim* are sealed immediately for *gehinnom*. Again, the language changes: in the earlier Gemara it said *l'mitah*, death; here it says *l'gehinnom*. The verse cited is from Daniel: *rabim miyeshenei admat afar yakitzu* — many who sleep in the dust will awaken — *eileh l'chayei olam*, these to eternal life, *v'eileh lachaparot l'dira'on olam*, those to shame and eternal damnation.
 

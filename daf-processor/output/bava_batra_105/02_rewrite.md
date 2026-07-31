@@ -1,16 +1,16 @@
 # Bava Batra 105 — Daf Yomi Shiur
 
-## Mishna: Mida vs. Chaseir…
+## Mishna: Mida vs. Chaseir
 
 ### Mishna Setup
 
 The *mishna* at the bottom of 104b introduces a case that will animate the entire discussion on our daf: a seller uses contradictory language in describing a land transaction. He says, "I am selling you a *beit kor* — an acre — by the measuring stick, more or less." On its face, the phrase *mida bechevel* ("by the measuring stick") suggests precision, while *hen chaseir hen yeter* ("more or less") suggests approximation. Both appear in the same contractual statement. How does the law treat this conflict?
 
-### Chaseir Yeter Negates Mi…
+### Chaseir Yeter Negates
 
 The *mishna* rules that one goes by the last phrase stated. In the first scenario, the seller says *mida bechevel ani mocher lach, hen chaseir hen yeter* — he begins with the precise language and concludes with the approximate. The result: *batel mida bechevel* — the earlier phrase, "by the measuring stick," is nullified by the closing phrase, "more or less." The sale therefore follows the rules of approximation, as elaborated in the preceding *mishna*, meaning the measurement may vary by as much as a *rova* per *beit sa'ah*.
 
-### Mida Negates Chaseir Yet…
+### Mida Negates Chaseir
 
 In the second scenario the order is reversed: *hen chaseir hen yeter, mida bechevel* — he begins with the approximate language and concludes with the precise. Here too the *mishna* rules by the final phrase: *batel hen chaseir hen yeter* — the "more or less" opening is nullified by the closing "by the measuring stick," and the sale must conform to the rules of precision.
 
@@ -40,7 +40,7 @@ This ruling reflects the principle of *mammon hamutal besafek*: when there is a 
 
 ---
 
-## Clarification vs. Revers…
+## Clarification vs Reversal
 
 ### Reversal/Explication
 
@@ -56,7 +56,7 @@ Given that ambiguity, one might have thought the *tannaitic* debate over splitti
 
 ---
 
-## Shmuel: Pachot Shebalesh…
+## Shmuel: Pachot Shebalesh
 
 ### Ben Nanas vs. Chachamim
 
@@ -74,7 +74,7 @@ The reason for this disposition, as the *gemara* makes clear, is the principle o
 
 ## Kor Beshloshim Case
 
-### Kor for 30 / Se'ah per S…
+### Kor for 30 / Se'ah Sela
 
 When Shmuel says "these are the words of Ben Nanas" without explicitly endorsing them, the *gemara* infers that Shmuel rejects Ben Nanas and holds instead like the *Chachamim* — that contradictory language creates a *safek* resolved by *muchzak*. But this inference is immediately challenged. The *gemara* notes: *veha Rav u'Shmuel d'amri tarvaihu* — Rav and Shmuel both said — *kor bishloshim ani mocher lach yachol lachzor bo afilu bese'ah achronah* — "I am selling you a *kor* for thirty": until the very last *se'ah* is transferred, either party may retract, because the entire *kor* is treated as a single unit. However, if one says *kor bishloshim, se'ah besela ani mocher lach* — "a *kor* for thirty, each *se'ah* for one *sela*" — then the second formulation governs: the transaction is structured as thirty separate unit sales, and *rishon rishon kana* — each *se'ah* as it is measured out becomes a completed, irrevocable sale.
 
@@ -126,7 +126,7 @@ The *gemara* immediately challenges: did Rav not already say this? *Ha amrah Rav
 
 ## Explication Caveat
 
-### Explication vs. Contradi…
+### Rental: Explication Only
 
 The answer lies in the potential to distinguish the rental case. One might have concluded that Rav's ruling in the rental context rested not on the general principle that the second language always wins, but on the specific feature that in the rental the two formulations could plausibly be read as consistent — twelve per year, meaning a normal year, meaning one per month. Under that reading, the second phrase does not override the first but rather explicates it, clarifying what the speaker intended all along. If so, Rav's ruling there would apply only when explication is possible — when the second phrase can be understood as commentary on the first rather than as a contradiction of it. In a case of genuine contradiction, like nine-ninety-five versus ten dollars, where no harmonization is available, perhaps even Rav would treat it as a *safek*.
 

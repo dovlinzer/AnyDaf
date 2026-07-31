@@ -40,7 +40,7 @@ At that moment, they declared: *arur she-yigadel hazir* — cursed be one who ra
 
 *Rashi* explains the connection to our *mishnah*: a standard tactic in siege warfare was to burn the surrounding fields so that the besieged city could not draw sustenance from the area. Accordingly, all the nearby fields of barley and wheat were scorched, making it impossible to source the *omer* and *shtei halechem* from the usual nearby locations. The tradition recorded in the *mishnah* — that the *omer* once came from *Gagot Tsrifin* and the *shtei halechem* from *Ein Socher* — dates to this period. It is also possible that the distant sourcing occurred after the siege was resolved and the city was taken, at which point the besieging forces had already burned the nearby fields; this would better explain how those who brought the *omer* and *shtei halechem* could do so without depending on the cooperation of troops still outside the walls.
 
-### Deaf-Mute & Gagot Tserif…
+### Deaf-Mute Gagot Tserifim
 
 When it came time to bring the *omer*, no one knew where to find suitable barley — *lo havu yad'i meheika aytuyei omer* — as all the nearby grain was gone. An announcement was made: if anyone knows of a place where barley is available, please come forward. A mute person appeared — *ata hahu charesha*; the word *cheresh* can mean deaf-mute, but here the emphasis is on his inability to speak, though presumably he heard the announcement or was informed of it. He placed one hand on the roof of a nearby building — *oteiv chada yadei a-igra* — and his other hand on a *tsrifa*, a tent-like structure — *ve-chada yadei a-tsrifa*.
 
@@ -62,17 +62,17 @@ Regarding *chokhmat Yevanit* and the curse against it: the scholar Saul Lieberma
 
 ---
 
-## Mordechai & Bird Offerin…
+## Mordechai & Bird Offering
 
 ### Three Women's Birds
 
 The *Gemara* continues with another episode in which Mordechai's interpretive genius is on display. Three women arrived at the *Beit Hamikdash*, each bearing a pair of birds — *kinin* — as an offering. The first said she was bringing it *le-zivati*, for her flow; the second said *le-yamati*, for her ocean; and the third said *le-onati*, for her period. On the surface, all three seemed to be indicating conditions related to uterine bleeding and thus presenting their birds as the *korban* of a *zavah* — a woman who experiences a non-menstrual uterine flow and who, after seven clean days, brings one bird as a *chatat* and one as an *olah*.
 
-### Mordechai's Interpretati…
+### Mordechai: Health Threats
 
 Those present assumed that *zivati* meant she was literally a *zavah*, that *yamati* meant a heavy flow, and that *onati* referred to her menstrual period — all variants of the same *tum'ah*-based obligation, each requiring one *chatat* and one *olah*. Mordechai intervened. He suggested: *shema be-zov sakanah*, *shema be-yam sakanah*, *shema be-oness sakanah* — perhaps what each woman meant was not that she had suffered from a *tum'ah*-related flow, but that her flow had posed a health danger. She had been in peril and recovered, and was now bringing her birds not as an obligatory *korban* for *tum'ah*, but as a voluntary *olah* — a thanksgiving for her recovery. Under this reading, all six birds are *olot*, not one *chatat* and one *olah* per pair. *Badku ve-ashkechu* — they investigated and found that Mordechai's interpretation was correct.
 
-### Petachiah/Balshan Identi…
+### Petachiah/Balshan ID
 
 This connects directly to the *mishnah* at the opening of 65a: *Petachyah al ha-kinin* — one of the officers of the *Beit Hamikdash* who oversaw the funds designated for bird offerings was named Petachyah. The *Gemara* identifies this Petachyah as Mordechai. Why was Mordechai called Petachyah? *She-poteach devarim ve-dorshanam* — because he would open up words and interpret them, as demonstrated in both the gestural communication stories and the women's bird offerings. Additionally, *veyodeia be-shivim lashon* — he knew all seventy languages — which presumably enabled this capacity for creative interpretation across linguistic registers.
 
@@ -118,7 +118,7 @@ What was the dispute about the *tamid*? *She-hayu ha-Tzedukim omrim: yachid mitn
 
 The Pharisaic response drew on another verse: *et korbani lachmi le-ishai tishm'ru* — "you," in the plural, shall observe my offerings. The plural *tishm'ru* indicates that the *tamid* is inherently a communal obligation, funded by communal *shekalim*, not by individual donation. This answer was considered decisive, though as a matter of textual argument one might equally note that singular language in the Torah can refer to the collective — "you" the nation — without implying individual sponsorship.
 
-### Subtext: Individual vs.…
+### Tzedukim vs. Pharisaic
 
 Beyond the textual argument, there is a notable subtext: it is consistently the *Tzedukim* who seek to break from the communal framework. Whether in the case of the *tamid* or, as we will see, in the calendar debates, their positions allow for individual assertion — a single donor imposing his identity on a communal sacrifice — at the expense of the shared, consensual reality. *Chazal*, writing as the victors in these debates, frame themselves as the mainstream and the *Tzedukim* and *Baitusin* as sectarians. One should bear in mind that each party considered itself the authentic carrier of tradition. The rhetorical framing — the overwhelming consensus, the dismissal of opposing positions as self-evidently absurd — is a polemical strategy, not necessarily a reflection of how evenly or unevenly matched the underlying arguments were. The debate over the *tamid*, whatever its substance, lasted eight days before resolution, which itself suggests it was not a foregone conclusion.
 

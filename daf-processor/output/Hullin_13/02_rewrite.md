@@ -2,13 +2,13 @@
 
 ## Cheresh, Shoteh, Katan
 
-### Physical Act vs. Intenti…
+### Physical Act vs Intent
 
 The daf opens by returning to the Mishna's ruling that a cheresh, shoteh, and katan may perform shechita, provided that an observer confirms the technical correctness of the act. This ruling immediately raises a foundational question: is shechita fundamentally a physical act, or does it require kavana — intention, the awareness that one is actually slaughtering an animal?
 
 On one level, the Mishna itself seems to answer this question. The cheresh, shoteh, and katan are not bnei daat — not because of any simple assessment of their intellectual capacity, but because halakha does not recognize them as legal agents capable of effecting a halakhic change, entering into transactions, or altering status through an act of the mind. Yet shechita, perhaps, is different: it may be categorically a physical act, not an act of daat at all. If so, there would be no difficulty in allowing a cheresh, shoteh, or katan to perform it. But the Gemara presses further: even if daat is not required, does shechita require kavana? And kavana is distinct from daat.
 
-### Non-Agency & Halakhic St…
+### Non-Agency & Halakhic
 
 The distinction deserves emphasis. Daat, in the halakhic sense, is not merely describing the presence or absence of thought. It refers to a threshold category of legal agency — the recognized capacity to effect changes of halakhic status, to be a party to a transaction, to function as a full agent within the law. Cheresh, shoteh, and katan are categorically excluded from this category. They are not bnei daat, and no act they perform that fundamentally depends on this kind of legal personhood will be recognized by halakha, regardless of whether they are physically capable of performing it.
 
@@ -70,7 +70,7 @@ Rabbi Yochanan's qualification introduces the middle case. Lo shanu ela shelo hi
 
 ---
 
-## Action vs. Intention Lev…
+## Action, Intention, Weight
 
 ### Action Biblically Valid
 

@@ -1,4 +1,5 @@
 # Bekhorot 11 — Daf Yomi Shiur
+[DAF:11a]
 
 ## Sheep Redemption Value
 
@@ -318,6 +319,7 @@ The *Gemara* explains why both cases — the donkeys and the grain — are neces
 
 *Rabbi Shmuel bar Natan* said in the name of *Rabbi Chanina*: if a person purchases *tevel memurachim* — grain already rendered obligatable by smoothing — from a non-Jew, he separates *terumos u'ma'asros* but keeps the separated portions himself.
 
+[DAF:11b]
 ### Keep Despite Maaser
 
 > **Hebrew/Aramaic:** דְּמָרְחִינְהוּ מַאן? אִילֵּימָא דְּמָרְחִינְהוּ גּוֹי — ״דְּגָנְךָ״ אָמַר רַחֲמָנָא, וְלֹא דְּגַן גּוֹי! אֶלָּא דְּמָרְחִינְהוּ יִשְׂרָאֵל מֵרְשׁוּת גּוֹי. מְעַשְּׂרָן, דְּאֵין קִנְיָן לְגוֹי בְּאֶרֶץ יִשְׂרָאֵל לְהַפְקִיעַ מִיַּד מַעֲשֵׂר, וְהֵן שֶׁלּוֹ — דְּאָמַר לֵיהּ: קָאָתֵינָא מִכֹּחַ גַּבְרָא דְּלָא מָצֵית (אִישְׁתַּעֵית) [אִישְׁתַּעוֹיֵי] דִּינָא בַּהֲדֵיהּ.

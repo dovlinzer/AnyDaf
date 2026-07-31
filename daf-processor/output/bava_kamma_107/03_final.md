@@ -1,4 +1,5 @@
 # Bava Kamma 107 — Daf Yomi Shiur
+[DAF:107a]
 
 ## Toein Ta'anat Ganav
 
@@ -264,6 +265,7 @@ According to Rashi, the answer is no: the *pikadon* case of total denial is diff
 
 The Gemara closes the *daf* with a *baraita* attributed to Rami bar Chama that extends the requirement — following the opinion that *modeh b'miktzat* is a prerequisite for *shvuat hashomrim* — to all four categories of *shomrim*. The teaching is: *arba shomrim tzrichin kfirah b'miktzat v'hoda'ah b'miktzat* — all four watchmen require the structure of partial denial and partial admission in order for the *shvuat hashomrim* to be imposed. These four are: the *shomer chinam* (unpaid watchman), the *shoel* (borrower), the *shomer sachar* (paid watchman), and the *socher* (renter).
 
+[DAF:107b]
 ### Ki Yiten Link
 
 > **Hebrew/Aramaic:** אָמַר רָבָא: מַאי טַעְמָא דְּרָמֵי בַּר חָמָא? שׁוֹמֵר חִנָּם – בְּהֶדְיָא כְּתִיב בֵּיהּ: ״כִּי הוּא זֶה״. שׁוֹמֵר שָׂכָר – יָלֵיף ״נְתִינָה״–״נְתִינָה״ מִשּׁוֹמֵר חִנָּם.

@@ -1,4 +1,5 @@
 # Ketubot 7 — Daf Yomi Shiur
+[DAF:7a]
 
 ## Blister Case
 
@@ -168,6 +169,7 @@ The Gemara then raises a further challenge from a *braita*: *mevarchin b'betulah
 
 The Gemara rejects this: *lo, kan b'alman shenasa almanah* — the *braita* refers only to the case where the man is also a widower. If a bachelor marries a widow, the ruling would be seven days. The *braita*'s formulation is *milta psikta katani* — it states things in absolute terms: a *betulah* never has fewer than seven days, and an *almanah* never has fewer than one day, but sometimes an *almanah* also receives seven. The Gemara's answer is admittedly not entirely satisfying, as the *braita* does seem to ground the distinction entirely in the woman's status.
 
+[DAF:7b]
 ### Status Shift
 
 > **Hebrew/Aramaic:** מֵיתִיבִי: מְבָרְכִין לִבְתוּלָה שִׁבְעָה וּלְאַלְמָנָה יוֹם אֶחָד. מַאי לָאו, אֲפִילּוּ אַלְמָנָה שֶׁנִּשֵּׂאת לְבָחוּר! לֹא, לְאַלְמוֹן. אֲבָל לְבָחוּר מַאי, שִׁבְעָה? אִי הָכִי לִיתְנֵי: מְבָרְכִין לִבְתוּלָה שִׁבְעָה, וּלְאַלְמָנָה שֶׁנִּשֵּׂאת לְבָחוּר שִׁבְעָה, וּלְאַלְמָנָה יוֹם אֶחָד?

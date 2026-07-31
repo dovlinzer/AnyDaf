@@ -6,7 +6,7 @@
 
 With daf 68 we arrive at a new *perek* — and, more significantly, a new dimension of *Masechet Shabbat* altogether. The preceding six chapters concerned themselves with preparations on *erev Shabbat*; only now do we enter into the laws of Shabbat proper. The *perek* opens with a *mishna* that begins, *klal gadol amru b'Shabbat* — "a great principle they stated regarding Shabbat" — and this phrase itself will occupy a substantial portion of the *gemara's* attention before it reaches the substantive halachic material.
 
-### Case 1: Forgot Shabbat E…
+### Forgot Shabbat Existence
 
 The *mishna* presents three distinct cases, each defined by the nature of the person's error and each carrying different consequences for the number of *chatat* offerings required.
 
@@ -18,11 +18,11 @@ The second case: *hayodea ikar Shabbat v'asa melachos harbeh b'Shabbatos harbeh*
 
 One might ask: what if the confusion began with a single initial error — a one-time disorientation from which all subsequent mistakes derived? The *gemara* addresses this and makes clear that, objectively, each week's violation is defined as a separate act, even if causally linked to a first mistake.
 
-### Case 3: Forgot Melacha C…
+### Case 3: Forgot Melacha
 
 The third case: *hayodea shehu Shabbat v'asa melachos harbeh b'Shabbatos harbeh* — someone who knows it is Shabbat but did not know, or forgot, that a particular *melacha* or *melachos* were forbidden. Here the liability is *chayav al kol av melacha u'melacha* — one *chatat* for each distinct category of *melacha*. If such a person did not know that watering plants was forbidden, and violated this over ten Shabbatot, they bring one *chatat*. If they additionally did not know that kindling fire was forbidden, they bring a second *chatat*. The principle here is that the liability tracks the category of the error, not the number of Shabbatot on which it was repeated.
 
-### One Category = One Offer…
+### Melachot: One Category
 
 A final refinement of the *mishna*: *v'oseh melachos harbeh m'ein melacha achas* — if one performs many *melachos* that all belong to the same essential category, they bring only one *chatat*, since the fundamental mistake was one. Watering, planting, pruning, and fertilizing are all *toldos* of the *av melacha* of planting — they all fall under the same heading. Even if performed in many variations on a single Shabbat, a single *chatat* suffices.
 
@@ -98,7 +98,7 @@ Rav and Shmuel maintain that even such a person, who bears no fault whatsoever, 
 
 *Tosafot* answers: *v'lo hodiu mitzvos Shabbat* — the *beit din* simply did not get around to mentioning Shabbat specifically among the *mitzvos* they conveyed. The *beit din* was present and functional; the oversight was theirs, not the convert's.
 
-### Kabbalat Mitzvot Princip…
+### Kabbalat Mitzvot
 
 This leads *Tosafot* to articulate a significant principle about *geirut*: *bedi'avad*, the failure to inform a convert of the *mitzvos* does not invalidate the conversion. This is distinct from the requirement of *kabbalat mitzvot* — acceptance of the commandments — which must be present. But *kabbalat mitzvot* can function like signing a blank check, as it were: one accepts whatever the *mitzvos* are, even without knowing their precise content. *Na'aseh v'nishma* is the model. The *gemara* here, and a small number of related passages, thus forms a primary basis for the ruling that a conversion performed *bedi'avad* without a full enumeration of the *mitzvos* is nonetheless valid.
 

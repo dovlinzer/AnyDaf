@@ -160,7 +160,7 @@ Rashi and Tosafot differ on the precise basis of this inhibition. Rashi attribut
 
 Given this inhibition, why does the debtor not admit to the full amount? Rabba explains: *be'kulei ba'ei di'nichferei* — his better self wants to fully admit. The reason he does not fully admit is *ishtamutei hu de'ka mishtamit minei* — he is simply putting the creditor off. He does not have the cash on hand. He borrowed the money, the creditor has been pressing him, and he says to himself: *ad de'havu li zuzei u'far'ana lei* — let me get the money together and then I'll pay him off. He is not trying to steal; he is trying to buy time. He rationalizes: "I'll eventually pay the full amount, so it's not really lying, I just need a bit longer."
 
-### Oath Breaks Rationalizat…
+### Oath Breaks Rationalizer
 
 This is where the *shvuah* becomes decisive. Because the debtor is fundamentally a rationalizer — not a brazen thief — the *shvuah* cuts through his psychological maneuvering. *Ve'amar Rachmana rami shvua aleih ki heihi de'lodei lei be'kulei* — the Torah therefore imposes a *shvuah* on him precisely in order to force full admission. Confronted with the gravity of an oath, the rationalizer can no longer hide behind his excuses. This makes the *shvuah* a remarkably targeted instrument of moral and legal pressure, one whose efficacy depends entirely on the debtor being a rationalizer rather than an outright liar. The *mussar* dimension of this insight is hard to miss: the mechanism by which *halacha* breaks through self-deception is directly analogous to the process of honest *cheshbon ha'nefesh* — taking stock of oneself without the cushion of rationalization.
 

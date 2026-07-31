@@ -1,4 +1,5 @@
 # Eruvin 81 — Daf Yomi Shiur
+[DAF:80b]
 
 ## Replenishing & Informing
 
@@ -104,6 +105,7 @@ The Gemara at the top of 81a notes: *tanina chada zimna* — we have already tau
 
 Rabba answers: *la'apukei mi-deRabbi Yehoshua d'amar kikar in midei achrinei lo* — to exclude the position of Rabbi Yehoshua, who says that only bread qualifies. By stating the rule twice, the Mishnah underscores that we do not rule like Rabbi Yehoshua — in both contexts. Rashi explains that one might have thought Rabbi Yehoshua voiced his bread requirement only in the context of *eruvei chatzerot*, and that by *eruv techumin* he would concede that any food is acceptable. By repeating the *bechol me'arvin* formulation in both places, the Mishnah implies that Rabbi Yehoshua in fact held his position in both cases, and that the Tanna Kamma is therefore responding to him in both contexts. Hence the need for the double statement.
 
+[DAF:81a]
 ### Abaye's Challenge and Girsa Issue
 
 > **Hebrew/Aramaic:** אֵיתִיבֵיהּ אַבָּיֵי: בַּכֹּל מְעָרְבִין עֵירוּבֵי חֲצֵירוֹת וּבַכֹּל מִשְׁתַּתְּפִין שִׁיתּוּפֵי מְבוֹאוֹת, וְלֹא אָמְרוּ לְעָרֵב בְּפַת אֶלָּא בֶּחָצֵר בִּלְבַד. מַאן שָׁמְעַתְּ לֵיהּ דְּאָמַר פַּת — אִין, מִידֵּי אַחֲרִינָא — לָא, רַבִּי יְהוֹשֻׁעַ, וְקָתָנֵי ״בַּכֹּל״!
@@ -320,6 +322,7 @@ The converse principle is equally clear: *ve-ein chavin le-adam ela be-fanav* �
 
 ## Third-Party Kinyan
 
+[DAF:81b]
 ### Four Times of Year
 
 > **Hebrew/Aramaic:** מַאי טַעְמָא דְּרַבִּי אֱלִיעֶזֶר? הָא לֹא מָשַׁךְ! אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבָהוּ: עֲשָׂאוֹ רַבִּי אֱלִיעֶזֶר כְּאַרְבָּעָה פְּרָקִים בַּשָּׁנָה, דִּתְנַן: בְּאַרְבָּעָה פְּרָקִים אֵלּוּ מַשְׁחִיטִין אֶת הַטַּבָּח בְּעַל כׇּרְחוֹ. אֲפִילּוּ שׁוֹר שָׁוֶה אֶלֶף דִּינָר וְאֵין לַלּוֹקֵחַ אֶלָּא דִּינָר אֶחָד — כּוֹפִין אוֹתוֹ לִשְׁחוֹט.

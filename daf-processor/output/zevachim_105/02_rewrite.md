@@ -154,7 +154,7 @@ The *neveilat of tahor* is therefore excluded from the *hechsher* requirement be
 
 The Gemara challenges the *Rabbanan* who reject Rabbi Meir's *drasha*. If they do not accept the hermeneutic of *tana d'vei Rabbi Yishmael*, then they face a consistency problem. On one hand, they would seem obligated to say that even the *seir hamishtaleach* should require *hechsher* from an external source of *tumah* before it can transmit *tumah* — since it is a live goat that can never become an *av hatumah* in the normal sense. On the other hand, if they dispense with the *drasha* entirely, why should the *parah adumah* and *parim* be *metamei ochlin umashkin* at all, given that they also have not yet been contacted by an external *tumah* source?
 
-### Rav Dimi's Answer
+### External Source Logic
 
 When Rav Dimi arrived from *Eretz Yisrael* to *Bavel*, he conveyed the teaching of the western academies: *tzrichin hechsher tumah mimakom acher* — these offerings require *tumah* from an outside source in order to then transmit *tumah* to other things. The *Rabbanan*'s position is that the *parim* and *parah*, in order to be *metamei ochlin umashkin*, must first have become *tamei* themselves from some external source — be it contact with a *sheretz*, a *neveilah*, or something similar. Their capacity to then make *ochlin* and *mashkin tamei* is derivative of their having first received *tumah* from outside.
 

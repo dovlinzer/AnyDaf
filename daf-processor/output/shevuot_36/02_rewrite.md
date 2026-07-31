@@ -2,7 +2,7 @@
 
 ## Shvuat Ha'edut Basics
 
-### Oath Language & God's Na…
+### Oath Language & God's
 
 We begin at the bottom of 35b, just before the lines widen and the double dots mark the new sugya. The topic at hand is *shvuat ha'edut*: what language is required, and what constitutes a valid *shvua*? The *Mishnah* had mentioned formulas such as *mashbia ani aleichem* and *metzaveh ani aleichem*, which might have suggested that no explicit *shvua* language is needed at all. The *Gemara*, however, clarifies that these phrases are shorthand for *metzaveh ani aleichem bishvua* — some keyword of *shvua* is indeed required. This was established earlier in the tractate when treating *shvuat bitui* as well: there are synonyms that function as *shvua* language, but some form of oath terminology is necessary.
 

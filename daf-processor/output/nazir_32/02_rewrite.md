@@ -86,7 +86,7 @@ The release in such a case works through the process of *hatara* as it operates 
 
 ---
 
-## Future Destruction E (II)
+## Future Destruction Error
 
 ### Ein Potchin B'Nolad
 
@@ -156,11 +156,11 @@ Person one says *hareini nazir shezeh ploni* — I will be a *nazir* if that is 
 
 *Beit Shammai omrim kulam nezirim* — all six are *nezirim*. This is the position of *Beit Shammai*, who holds that *nezirut b'ta'ut* is *nezirut*. Everyone in this group wanted to become a *nazir*, and everyone thought their condition was being met, even if some were factually mistaken. The desire to accept *nezirut* was present; the error concerned the factual condition, not the intention. Under *Beit Shammai's* framework, that error does not undo the *nezirut*.
 
-### Beit Hillel: Condition M…
+### Beit Hillel: Condition
 
 *Beit Hillel omrim: eino nazir ela mi shelo nitkaymu devarav* — only those whose conditions were met become *nezirim*. The *gemara* notes that this formulation is puzzling on its face, since it seems to say only those who were *wrong* become *nezirim*. The *gemara* immediately corrects this to mean the opposite: only those who were *right*, whose conditions were fulfilled by the objective facts, are *nezirim*. Under *Beit Hillel's* understanding, if your condition was not met, you are simply not a *nazir* — there is no vow to be retroactively affirmed by the fact that you thought you were right.
 
-### Rabbi Tarfon: None Nezir…
+### Rabbi Tarfon: No Nezirim
 
 *Rabbi Tarfon omer: ein echad mehem nazir* — not one of them is a *nazir*. *Rabbi Tarfon* takes the opposite extreme from *Beit Shammai*: *lo nitna nezirut ela lehafla'ah* — *nezirut* was given only for *hafla'ah*, clear articulation, drawn from the verse *ki yafli lindor neder nazir*. Since at the time each person accepted *nezirut* there was genuine uncertainty about whether the condition would be met, the vow lacked the clarity required. Even persons three and four, who might seem to have had their conditions certainly met, are not *nezirim* according to *Rabbi Tarfon*: since persons one and two lacked the requisite clarity and are thus not *nezirim*, person three's condition — *one of you is a nazir* — was not met, and person four's condition — *one of you is not a nazir* — must be read narrowly, as *Tosafot* explains, to mean one is not and one is, which also fails if neither one nor two is a *nazir*. Persons five and six, who conditioned their *nezirut* on the *nezirut* of others, are therefore likewise released.
 

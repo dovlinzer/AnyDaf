@@ -72,7 +72,7 @@ Rava challenges the coherence of Rabbi Akiva's position. *Teda sheharei lo asu m
 
 ## Meshalem Al Pi Atzmo
 
-### Multiple Witnesses Payme…
+### Ed Zomem Division Rule
 
 The Gemara at the top of 3a turns to the teaching of Rav Nachman quoting Rav Yehuda quoting Rav: *ed zomem meshalem lefi chelko* — a single *ed zomem* pays according to his proportional share of the conspiratorial testimony.
 

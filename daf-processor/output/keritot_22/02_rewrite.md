@@ -6,7 +6,7 @@
 
 The current *perek* opens with the *parsha* of *dam shechita*, concerned primarily with which categories of blood fall under the *issur* of blood consumption. The *mishnah* at the bottom of 21b establishes that the blood of humans, fish, and grasshoppers is permitted. The discussion of fish blood invoked the concept of *maris ayin*: although the language of the *mishnah* was *assur*, the context indicated a rabbinic concern that fish blood gathered into a cup resembles forbidden animal blood — a concern dispelled if the fish scales are kept nearby. Human blood was similarly characterized as *assur*, though the precise degree of that prohibition requires further analysis. There are essentially two distinct cases: blood pooled into a cup, which genuinely resembles animal blood, and blood that has left the body but is not gathered, such as blood visible on a loaf of bread (*dam al ha-kikar*).
 
-### Rav Sheshes on Human Blood
+### Rav Sheshes on Human
 
 On this question, Rav Sheshes states that for *dam mehalechei shtayim* — the blood of bipeds — not even a *mitzvas prisha* applies. This is a striking formulation: Rav Sheshes is not merely saying that human blood carries no biblical or even rabbinic prohibition in the technical sense, but that it is not even subject to the kind of religious fastidiousness or unseemly quality that would otherwise attach to it. There is no requirement to distance oneself from it whatsoever.
 

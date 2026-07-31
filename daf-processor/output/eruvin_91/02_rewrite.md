@@ -114,7 +114,7 @@ The upshot is that according to Rabbi Shimon himself, it would make no differenc
 
 ---
 
-## Balcony/Courtyard Ba (II)
+## Balcony/Courtyard Baraita
 
 ### Height ownership test
 
@@ -146,7 +146,7 @@ The *Gemara* draws the inference: this *baraita* cannot represent Rabbi Shimon's
 
 The *Gemara* now introduces a case involving five courtyards open to one another and all opening into a *mavoi* (alley): *chamesh chatzerot hapetuchot zo l'zo ufetuchot lemavoi, veshachachu kulam velo eirvu* — all of them forgot and did not make an *eiruv*, not even an internal one among themselves.
 
-### Chachamim: distinct doma…
+### Chachamim: Distinct Paths
 
 The ruling that follows: *assur lehachnis ulehotzi mechatzer lemavoi umin hamavoi lechatzer* — it is forbidden to carry from courtyard to *mavoi* or from *mavoi* to courtyard. This is assumed to represent the position of the *Chachamim*, who, as we have now established, treat *mavoi* (like *karpaf*) as a domain categorically distinct from the regularly-used outdoor spaces. Even though nobody made any *eiruv* — so there is no concern of confusing house vessels with yard vessels — the *Chachamim* still prohibit movement between *chatzer* and *mavoi* because these are different *genres* of domain, not merely different individual spaces.
 
@@ -174,7 +174,7 @@ The *Gemara* offers a first resolution: *mai lo eirvu? Lo eirvu chatzerot bahadi
 
 The *Gemara* offers an alternative interpretation: *Rabbi Shimon ledivreihemdeRabbanan ka'amar* — Rabbi Shimon is formulating his ruling in terms that concede a premise to those who argue with him. From Rabbi Shimon's own perspective, *lo shena eirvu velo shena lo eirvu* — it makes no difference whether an *eiruv* was made in A or not; he is not afraid of vessel confusion regardless. But he addresses his opponents on their own terms: even if you, the *Rabbanan*, would be concerned about confusion when an *eiruv* exists in A and house vessels mix with yard vessels in the courtyard — *aval odu li mihat d'heicha d'lo eirvu* — at least concede to me that where no *eiruv* was made, where there is simply no possibility of a house vessel having entered the courtyard, you should agree that yard vessels may move freely from *chatzer* to *mavoi*.
 
-### Chachamim: genre differe…
+### Chachamim: Mavoi Genre
 
 *Ve'amru lei Rabbanan*: the *Rabbanan* respond — *lo*. Even that concession we will not make. We are not restricting movement from *chatzer* to *mavoi* out of fear of vessel confusion. We restrict it because *shear reshuyot bamavoi asurin* — the *mavoi* is a categorically different type of domain from the courtyard. The prohibition is not remedied by the absence of an *eiruv*; it is structural. The *Chachamim*'s middle position does not rest on confusion concerns at all — it rests on a principled taxonomy of domain types.
 

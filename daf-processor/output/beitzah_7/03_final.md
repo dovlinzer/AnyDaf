@@ -1,4 +1,5 @@
 # Beitzah 7 — Daf Yomi Shiur
+[DAF:7a]
 
 ## Egg Completion & Mekach…
 
@@ -164,6 +165,7 @@ The *Gemara* pushes back: even with a rooster present, perhaps the hen laid an u
 
 How close must the rooster be for this principle to apply? *Rav Gamda in the name of Rav* teaches: as far as the rooster's voice can be heard *bi-ymama* — during the daytime. The qualifier "daytime" is significant: since hens mate and lay during the day, and sounds carry less far in the day than at night, the relevant question is whether the hen can hear the rooster's crowing during daytime hours. If it can, it will not lay unfertilized eggs; if it cannot, it might.
 
+[DAF:7b]
 ### Sixty Houses Rule
 
 > **Hebrew/Aramaic:** עֲבַד רַב מָרִי עוֹבָדָא עַד שִׁתִּין בָּתֵּי.

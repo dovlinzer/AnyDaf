@@ -170,7 +170,7 @@ The contemporary practice of using individual printed *chumashim* in schools is 
 
 ## Torah Transmission
 
-### R. Yochanan vs Reish Lakish
+### R. Yochanan vs Reish
 
 The debate about how the Torah was given is now examined directly. Rabbi Yochanan, citing Rabbi Banna'ah, holds: *Torah megillah megillah nitnah* — the Torah was given section by section. His prooftext is from *Tehillim*: *Az amarti hinei vati be-megillat sefer katuv alai* — "Then I said, behold I come with a scroll-book written about me." The text calls it a *megillat sefer*, a scroll or sectioned book, and is understood as referring to the Torah — implying that the Torah is a composition of *megillos*, distinct sections. Reish Lakish disagrees: *Torah chatumah nitnah* — the Torah was given as one sealed, indivisible unit. His prooftext is from the end of *Devarim*: *Lakoch et Sefer ha-Torah ha-zot* — "Take this Sefer Torah," the singular *sefer* pointing to one complete and unified document.
 
@@ -184,7 +184,7 @@ Yet Reish Lakish concedes something to the structure of Rabbi Levi's tradition: 
 
 ---
 
-## Written vs Oral (II)
+## Written vs Oral
 
 ### R. Elazar View
 

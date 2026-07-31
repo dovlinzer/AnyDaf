@@ -114,7 +114,7 @@ With this, the Gemara begins to shift explicitly against the mode of proactive i
 
 ---
 
-## Boundaries & Assumpt (II)
+## Boundaries & Assumptions
 
 ### Shmuel's Teaching
 
@@ -132,7 +132,7 @@ The scholars pursued him but could not catch up. When they sat back down and beg
 
 ## Keep It Hidden (II)
 
-### Rabbi Yochanan Stays Sil…
+### Yochanan: Invalid Fams
 
 Rabbi Yochanan stated, taking an oath by the *Beit HaMikdash*: *b'yadeinu hu* — it is within our capacity to identify certain families of invalid lineage — *aval mah e'eseh she'gdolei hador nitme'u bo* — but what can I do, since great figures of this generation have already been intermingled with those families? To reveal the invalidity would call into question the *yichus* of major communal figures. And so Rabbi Yochanan kept silent. This is the clearest expression yet of the principle of *mishpacha shenitme'ah nitme'ah*: even when knowledge exists, the decision is made not to deploy it. Rabbi Yochanan *savar lah k'Rabbi Yitzchak* — held in accordance with Rabbi Yitzchak, who taught explicitly: *mishpacha shenitmeah nitmeah* — once a family has been merged in, it stays merged in.
 

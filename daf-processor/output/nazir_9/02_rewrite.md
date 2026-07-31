@@ -168,7 +168,7 @@ When someone says *mincha min ha'adashim*, the situation is qualitatively differ
 
 ---
 
-## Rabbi Yochanan Refined
+## R. Yochanan Reframing
 
 ### Rabbi Yochanan Final
 

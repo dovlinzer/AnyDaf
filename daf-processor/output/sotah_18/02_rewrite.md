@@ -6,7 +6,7 @@
 
 The daf opens with a question posed by Rava (*ba'ei Rava*) concerning the practical mechanics of the *sotah* ritual. Suppose a *kohen* is processing two *sotot* simultaneously and writes two *megillot* — one for each woman — and then scrapes them both into a single vessel. May both women drink from that one vessel?
 
-### Individual Process Requi…
+### Writing & Scraping
 
 The underlying issue is the requirement of *ketivah lishmah* — that the scroll must be written specifically for her, as the verse states *vechatav lah hakohen*, "and the priest shall write for her." This requirement has already been established: the scroll cannot be pre-written, and it must be composed after she takes the oath. The *ketivah lishmah* requirement is clearly satisfied here, since each scroll was written individually for its respective woman. But the Gemara raises a further possibility: perhaps *mechika lishmah* is also required — that the act of scraping must itself be individualized for each woman.
 
@@ -66,7 +66,7 @@ One might have thought that one oath precedes the scraping of the scroll and the
 
 Rava therefore offers an alternative: one instance refers to a *shvuah she'yesh imah alah* — an oath accompanied by a curse — and the other to a *shvuah she'ein imah alah* — an oath without a curse. The first, more conditional presentation is an oath without an explicit curse, while the second invokes the full force of the *alah*.
 
-### Defining Shvuah Sheyesh…
+### Shvuah with Curse
 
 The Gemara then struggles to define precisely what constitutes a *shvuah she'yesh imah alah*. Rav Abba citing Rav offers: *mashpiani alayich she-lo nitmeis she-im nitmeis yavo'u bach* — I am making you swear that you did not sin, because if you sinned the water will come upon you. The curse functions as the motivating consequence of the oath — swear truthfully and understand that if you are lying, this is the result.
 
@@ -132,7 +132,7 @@ It is worth noting that there is no other case of an *issur lav* that creates th
 
 ## Oath Scope Extension
 
-### Previous & Later Marriag…
+### Previous & Later Marr.
 
 Rabbi Yirmiah raises a further pair of questions regarding the extension of the *sotah* oath. First: *mahu she-yatne adam al nisuin harishonim* — can a man stipulate that the oath cover conduct during a previous marriage between them? That is, if a man divorced his wife and then remarried her, and now in the second marriage she is undergoing the *sotah* process, can he extend the oath to encompass any adultery she may have committed during the first marriage? Second: *al nisuei achiv* — can a *yavam* who performed *yibbum* extend the oath to cover conduct during the *arusah* period of the deceased brother's marriage, when that deceased brother was the husband?
 

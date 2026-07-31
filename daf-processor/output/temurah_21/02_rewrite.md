@@ -8,7 +8,7 @@ The *gemara* picks up five lines from the wide lines on 21b with a question pose
 
 The background to this question is as follows. When a female animal is consecrated for an *asham*, it cannot be brought as an *asham*, since an *asham* requires a male. The normal consequence for an *asham* that becomes derailed — whether through *temurah*, through the owner having achieved atonement through another animal, or otherwise — is that one waits for it to acquire a *mum*, redeems it, and uses the proceeds to purchase an *olah*. So the question becomes: once the offspring of this female *asham* happens to be male, why not simply bring the animal itself as an *olah* rather than waiting for a *mum* and using the proceeds?
 
-### Earlier Discussion Refer…
+### Earlier: Kedusha
 
 The *gemara* observes that this very question appears to have been addressed in an earlier discussion: *tifshotei mid'Rabbi Yochanan bar Chanina* — the matter can seemingly be resolved from the earlier teaching in which Rabbi Yochanan bar Chanina weighed in on a structurally similar case. The earlier *mishna* discussed the *temurat olah* and its offspring, where Rabbi Eliezer maintained that once you arrive at a male you may bring it as an *olah*. One might assume the same reasoning applies here: a female consecrated for an *asham* produces a male offspring, and since derailed *asham* funds go toward an *olah*, why not bring the thing itself?
 
@@ -108,7 +108,7 @@ Two distinctions are offered. First, in the *Menachot* case, the animal started 
 
 ---
 
-## Three Tannaic Opini (III)ons
+## Three Tannaic Opinions
 
 ### Contradiction Setup
 
@@ -116,7 +116,7 @@ The *gemara* now addresses an apparent contradiction regarding bringing *bechor*
 
 ---
 
-## Rabbi Akiva (III)
+## Rabbi Akiva
 
 ### Akiva's Distinction
 
@@ -124,7 +124,7 @@ Rabbi Akiva's position is: *yachol ya'aleh bechor michutz la'aretz la'aretz bizm
 
 ---
 
-## Three Tannaic Opini (III)ons…
+## Three Tannaic Opinio (II)
 
 ### Rabbi Yishmael
 
@@ -138,7 +138,7 @@ The *talmud lomar* — the verse itself — resolves the matter: *ve'achalta lif
 
 ---
 
-## Rabbi Akiva (III)
+## Rabbi Akiva (II)
 
 ### Akiva's Derivation
 
@@ -148,7 +148,7 @@ The underlying rationale for Rabbi Akiva's position is conceptual. The obligatio
 
 ---
 
-## Three Tannaic Opini (III)ons…
+## Three Tannaic Opini (III)
 
 ### Common Denominator Q
 
@@ -190,7 +190,7 @@ Rabbi Akiva's conceptual basis for excluding *bechor* from *chutz la'aretz* refl
 
 The third tradition cited by Rabbi Yossi is that of Ben Azzai. Ben Azzai addresses yet another question derivable from the verse's equation of *maaser* and *bechor*. He asks: *yachol maaleh maaser sheni yochlenu bechol haroeh* — perhaps when bringing *maaser sheni* to *Yerushalayim*, one need not limit oneself to within the walls but may eat it anywhere visible from *Yerushalayim* — the area known as *kol haroeh*. The concept of *kol haroeh* is familiar in other contexts: cities visible from a walled city read the *Megillah* on the fifteenth. Might *Yerushalayim*'s status for *maaser sheni* extend similarly beyond its walls?
 
-### Logical Derivation
+### Logical Derivation (II)
 
 Ben Azzai attempts a logical derivation: *bechor ta'un hava'at makom u'maaser ta'un hava'at makom* — both *bechor* and *maaser* must be brought to *Yerushalayim*. Just as *bechor* is eaten *lifnim min hachoma* — within the walls — perhaps *maaser* follows suit and is also limited to within the walls.
 

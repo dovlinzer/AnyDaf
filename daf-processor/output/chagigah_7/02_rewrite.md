@@ -1,6 +1,6 @@
 # Chagigah 7 — Daf Yomi Shiur
 
-## Rav Yochanan vs Reish La…
+## Yochanan vs Reish Lakish
 
 ### Re'iyat Panim/Korban
 

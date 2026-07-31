@@ -72,7 +72,7 @@ The halakhic understanding of *baal karkhah* here is nuanced. The woman's *da'at
 
 ## Chalitzah Release
 
-### Chalitzah Permits Remarr…
+### Chalitzah: Remarriage
 
 The *mishnah* also taught that the *yevamah* acquires her freedom through *chalitzah*. The Gemara asks: *minalan d'chalutzah muteret lehinnase?* — how do we know that a woman who has undergone *chalitzah* is permitted to remarry? One might think that after *chalitzah* she remains unable to remarry anyone: she has been rejected by the *yavam* (or has rejected him), but that alone does not necessarily permit her to marry a stranger. The death of her first husband left strings attached; her only options were *yibum* or *chalitzah*, and it is not self-evident that performing *chalitzah* entirely dissolves the bond and opens the door to any other marriage.
 

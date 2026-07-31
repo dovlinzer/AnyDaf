@@ -170,7 +170,7 @@ This confirms that *matana* language can indeed bridge across different people �
 
 Having established that *matana* language can extend across different people and different fields, a difficulty now arises. Rava rules that the *halacha* follows Reish Lakish in three specific areas, and one of those areas is precisely our case: when a declaration involves different people and different fields, Reish Lakish requires tight packaging — without it, the *yerusha* language fails. Yet the proofs just adduced demonstrate that borrowed *matana* language can cover different people and different fields without any special packaging formula. How are these two rulings to be reconciled?
 
-### Toch Kedei Dibbur Resolu…
+### Reish Lakish: Toch Kedei
 
 The Gemara resolves the contradiction through the concept of *toch kedei dibbur*. The rule is: *kol toch kedei dibbur ke-dibbur dami* — anything stated within the time it takes to say a brief greeting is considered part of a single statement.
 

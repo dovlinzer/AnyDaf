@@ -48,7 +48,7 @@ One might ask whether there is a prohibition involved in knowingly bringing a *p
 
 *Achas l'zu v'shtayim l'zu* — one pair mixed with two, and by extension three, five, ten, a hundred. When groups are of unequal size and the *kohen* asks permission, the rule is that he may only bring as many birds as the smallest group. The reasoning is straightforward: the moment he exceeds the smallest group's count, he risks bringing a bird from that smaller group in the wrong mode. For example, if the smallest group was one pair, bringing three birds risks having offered the *olah* of the smaller group and then bringing its *chatat* as though it were an *olah*, or vice versa. So the ceiling is always the smallest group.
 
-### No Permission: Half Kosher
+### No Permission: Kosher
 
 If the *kohen* did not ask, *kulam l'mala* — all above — then *mechtza kasher mechtza pasul*. Consider an extreme case: one group of one hundred pairs mixed with one group of one pair, for a total of one hundred and one pairs. If you asked permission, you would be told: bring only one full group — two birds. But the *kohen* went ahead and brought all one hundred and one pairs above. How many are *kosher*? Half. He has effectively brought one hundred and one *chatat-olah* pairs, all treated as *olos* — so all the actual *olos* are *kosher*, which is half. Similarly, *kulam l'mata* yields half *kosher* as well. In stark contrast to what permission would have allowed — a single pair — the *kohen* who acted without permission ends up with over fifty pairs that are *kosher*.
 

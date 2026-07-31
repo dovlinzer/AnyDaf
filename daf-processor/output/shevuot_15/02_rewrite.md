@@ -2,7 +2,7 @@
 
 ## Yediya Requirement
 
-### Babylonian in Eretz Yisr…
+### Babylonian Mikdash Site
 
 The *gemara* opens with a question posed by Rabbi Yirmiyah: *ben Bavel she-ala le-Eretz Yisrael ve-ne'elam mimeno mekom hamikdash* — what is the status of a Babylonian who traveled to Eretz Yisrael but never actually knew where the *mikdash* was located? The background to this question lies in the general framework of *yediya bas-tchilah*: in order to incur liability for entering the *mikdash* in a state of *tumah*, one must have had initial knowledge — both awareness of one's *tumah* and awareness of the *mikdash* — and then subsequently forgotten one of those components. The question here is whether this Babylonian ever possessed the requisite *yediya bas-tchilah* to begin with, given that he never knew the precise location of the *makom hamikdash*.
 
@@ -24,7 +24,7 @@ The *gemara* therefore concludes that the question must be asked *aliba de-Rebbe
 
 The answer lies in another principle associated with Rabbi: *yediya bei rabbo shemah yediya* — knowledge acquired from one's teacher constitutes *yediya*, even when it is no longer consciously at the forefront of one's awareness. Rashi clarifies what this means in practice. It is not simply that one once learned something twenty years ago and has entirely forgotten it. Rather, Rashi describes a state in which the knowledge is still somewhere in one's awareness — one would acknowledge, if asked, that there is such a concept as *tumas sheretz* — yet when one actually touched the *sheretz*, one simply did not connect the dots. The knowledge existed but was not activated. That latent, background awareness is what Rabbi considers *yediya bas-tchilah*.
 
-### Mikdash Knowledge Standa…
+### Mikdash: Awareness
 
 Applying this principle to the case at hand: *keivan d'yada de-ika mikdash be-olam, yediya hi* — since the Babylonian knew that there exists such a thing as a *beis hamikdash*, perhaps that general awareness constitutes *yediya* in the same way that knowing there is such a thing as *sheratzim* does. One might never have translated that knowledge into a specific awareness of which mountain to avoid, yet the conceptual knowledge was there.
 
@@ -60,7 +60,7 @@ The framework of the three *machanot* — *machaneh shechinah*, *machaneh levaya
 
 The *gemara* asks: *mena hani mili* — where does the Torah source for this sanctification procedure come from? Rav Shimi bar Chiyya derives it from the verse at the end of the command to build the *mishkan*: *kechol asher ani mareh otcha et tavnit hamishkan ve-et tavnit kol kelav ve-chen ta'asu* — "as all that I show you, the form of the *mishkan* and the form of all its vessels, so shall you do." The phrase *ve-chen ta'asu* appears somewhat superfluous in context. The *gemara* therefore reads it as a directive to future generations: the ability to sanctify sacred space is not a one-time event but a recurring capacity — *l'dorot*, for future generations.
 
-### Rashi on Future Sanctifi…
+### Rashi: Future Sanctifi
 
 Rashi notes that *ve-chen ta'asu kra yateira l'midrash l'dorot* — it is a superfluous verse to be expounded for future generations. One might observe that the verse speaks nowhere about sanctifying a *space*; the surrounding context is entirely about the construction of the *mishkan* and its vessels. And yet this is the source we work with. Additionally, we learn the specific components of the ritual — the participation of the king, *navi*, *Urim V'Tumim*, and *sanhedrin* — partly from the parallel to the components present in Moshe's time: Moshe himself was king and *navi*, Aharon was *kohen gadol* with the *Urim V'Tumim*, and there were seventy elders.
 

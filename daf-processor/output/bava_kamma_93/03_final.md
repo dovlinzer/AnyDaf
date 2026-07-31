@@ -1,7 +1,9 @@
 # Bava Kamma 93 — Daf Yomi Shiur
+[DAF:92b]
 
 ## Popular Sayings
 
+[DAF:93a]
 ### Intro to Sayings
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא לְרַבָּה בַּר מָרִי, מְנַָא הָא מִילְּתָא דַאֲמוּר רַבָּנַן
@@ -356,6 +358,7 @@ Rava resolves the apparent contradiction between the *baraita* and the *mishnah*
 
 ## Shinui Koneh
 
+[DAF:93b]
 ### Wood to Vessel
 
 > **Hebrew/Aramaic:** מַתְנִי׳ הַגּוֹזֵל עֵצִים וַעֲשָׂאָן כֵּלִים, צֶמֶר וַעֲשָׂאָן בְּגָדִים – מְשַׁלֵּם כִּשְׁעַת הַגְּזֵלָה.

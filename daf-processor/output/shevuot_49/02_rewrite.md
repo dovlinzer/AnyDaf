@@ -1,6 +1,6 @@
 # Shevuot 49 — Daf Yomi Shiur
 
-## Ta'anat Shema & Gilgul S…
+## Ta'anat Shema & Gilgul
 
 ### Ta'anat Shema Principle
 
@@ -54,7 +54,7 @@ The logic maps onto five categories of mishap: *met, nishbar, nishba, avad, nign
 
 ---
 
-## Shomer Chinam Cases (II)
+## Shomer Chinam Cases
 
 ### Death Claim (Multiple)
 

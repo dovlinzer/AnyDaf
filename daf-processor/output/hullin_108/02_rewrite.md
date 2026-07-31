@@ -110,7 +110,7 @@ The Gemara records that this debate is between major Amoraic authorities. Rav, R
 
 ---
 
-## Meat in Milk Pot (III)
+## Meat in Milk Pot
 
 ### Meat Falls in
 
@@ -122,7 +122,7 @@ Rav rules: *basar assur v'chalav mutar* — the meat is forbidden, and the milk 
 
 ---
 
-## Meat in Milk Pot (III)
+## Meat in Milk Pot (II)
 
 ### Status Problem
 

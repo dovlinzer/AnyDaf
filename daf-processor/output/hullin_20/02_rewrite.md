@@ -62,11 +62,11 @@ This raises in passing a further question: if melika can be performed with any p
 
 The Gemara objects to the Rabbah bar bar Chana reading as well: shen ve-tzipporen be-hedya katani le-hu — the tooth and the fingernail are stated explicitly in the earlier Mishnah, so the concluding formulation would not be needed to convey that point. Ella amar Rabbi Yirmiya: lema'utei molich u-mevi — rather, the Mishnah's concluding statement comes to exclude the back-and-forth motion. By shechita, the valid act is performed molich u-mevi — a horizontal, sawing, back-and-forth motion. By melika, the valid act is a piercing, downward cut — not a horizontal motion. The horizontal motion by melika would constitute hadrassa, a form of pressure, which is invalid for shechita precisely because it does not involve the sharp cutting action required. Conversely, the piercing motion that is valid for melika is invalid for shechita. This formulation — what is valid for shechita is invalid for melika and vice versa — cleanly captures the distinction between these two modes of motion.
 
-### Bnei Chiya & Molich u-Me…
+### Bnei Chiya: Molich u-Mevi
 
 The Gemara then reasons: henicha le-man de'amar molich u-mevi bi-melika pasul — this reading of the Mishnah works perfectly if we hold that the back-and-forth motion is invalid for melika. But ela le-man de'amar kasher — if we hold that the back-and-forth motion is actually valid for melika, then Rabbi Yirmiya's reading collapses, and we would need to revert to the reading that the Mishnah is excluding machzir simanim. Benei Rabbi Chiya savrei lah ke-man de'amar molich u-mevi bi-melika pasul — the bnei Rabbi Chiya would hold that the horizontal sawing motion is invalid for melika. Therefore, from their perspective, the Mishnah's concluding formulation is not addressing the machzir simanim case at all; it is addressing the motion — what is valid for shechita (the horizontal cut) is invalid for melika, and what is valid for melika (the piercing motion) is invalid for shechita. This allows their position on machzir simanim to remain technically intact, even if Rav Yannai has largely dismantled it from another direction.
 
-### Melika vs. Shechita Summ…
+### Melika vs. Shechita
 
 At this point it is worth summarizing the several dimensions in which melika differs from shechita. First, location: melika must be performed from the back of the neck, which by shechita would render the animal a treifa or a neveilah by breaking the spinal cord before reaching the simanim. Second, motion: shechita requires the horizontal sawing motion of molich u-mevi, while melika requires the piercing, downward kotzetz ve-yored motion; these motions are mutually exclusive as valid acts for their respective procedures. Third, instrument: shechita requires a detached knife, and according to Rabbi, an attached object cannot serve; melika by contrast is performed with the kohen's own fingernail — or, according to Tosafot's reading, potentially with his tooth — which is precisely what would be invalid for shechita.
 
@@ -86,7 +86,7 @@ Sevar Rav Ami lemeimar: kotzetz ve-yored — in, molich u-mevi — lo. Rav Ami a
 
 Amar Rabbi Yirmiya amar Shmuel: kol ha-kasher bi-shchita, kenegdo ba-oref kasher bi-melika — anything that is valid for shechita, its counterpart at the back of the neck is valid for melika. The emphasis here is not on the instrument or the motion per se, but on the location within the animal's throat and neck. Wherever the anatomy of the throat would make shechita valid, the corresponding location at the back of the neck makes melika valid. What Shmuel is coming to include is that a range of positions along the length of the valid shechita zone, when transposed to the back of the neck, will each be valid for melika.
 
-### Pasul Shechita = Pasul M…
+### Pasul Shechita & Melika
 
 The Gemara then extrapolates the inverse: ha-pasul bi-shchita pasul bi-melika — what is invalid for shechita is invalid for melika. Lema'utei mai — what is this coming to exclude? Ileima lema'utei ikur simanim — perhaps it comes to exclude the case where the simanim have been uprooted. The psul of ikur simanim is one of the invalidating conditions of shechita: if the trachea or esophagus has somehow been wrenched or detached from its natural embedded position within the flesh of the animal's throat — not merely torn through the cut, but physically displaced from where it sits — the shechita is invalid. Rashi in several places describes this as rendering the animal a treifa, though Tosafot argues cogently that we never find ikur simanim listed as a treifa condition, and that it is better understood as a psul she-chitah — a defect in the act of shechita itself, requiring that the simanim be in their proper anatomical position for the shechita to be valid. The question, then, is whether ikur simanim similarly invalidates melika.
 
@@ -110,7 +110,7 @@ The counterargument is stated: amar lei — adaraba, ipcha mistabra — the oppo
 
 The reason this framing becomes significant is the very basis upon which biblical shechita of birds is claimed. The Torah never uses the word veshachatta in the context of birds. The word vezavachta, from which the requirement of shechita is derived for beheimah, does not appear in any pasuk about birds. The one passage where birds are mentioned in the context of eating — the covering of blood — speaks only of shefichat dam, not of shechita. Therefore, any claim of biblical shechita for birds cannot rest on a standard textual derivation but must rely on a tradition, or be learned from the verse zot torat ha-beheimah ve-ha-of, which links birds to the same legal framework as animals. Given this, the view that shechita of birds is biblical can accommodate birds having their own distinctive rules — including the absence of an ikur problem — because the very content of that tradition may include such distinctions.
 
-### Rabbinic = Modeled on Be…
+### Shechita Birds: Beheimah
 
 Ve-afilu le-man de'amar ke-beheimah — even according to the view that the biblical basis for bird shechita is derived from the verse linking birds to animals, it does not follow that every detail of shechita law is fully equated. The ikur principle might still not apply to birds even if the general shechita requirement is biblical. However, the inverse argument has force: ela le-man de'amar ein shechita la-of min ha-Torah, ela mi-divrei sofrim — if shechita of birds is only rabbinic, me-heicha gemiri lah — where would the rabbis have derived their model? From beheimah. Me-heicha gamiri lah mi-beheimah — they would have taken the laws of beheimah as their template and applied them to birds. If so, kuleihu nuscha ke-beheimah — all the details should follow the model of beheimah, including the psul of ikur simanim. Under this view, the lenient ruling of ein ikur simanim ba-of is harder to explain if shechita of birds is rabbinic, because a rabbinic ordinance modeled on biblical precedent would typically import all the attendant stringencies of that precedent.
 
@@ -122,13 +122,13 @@ Amar Ravina amar li Ravin bar Kisi: ha de-tani Rami bar Yechezkel ein ikur siman
 
 This position, however, stands in tension with the principle stated earlier by Shmuel: kol ha-kasher bi-shchita kenegdo ba-oref kasher bi-melika, ha poslo poslo — what is valid for shechita is valid for melika, and what is invalid for shechita is invalid for melika. If ikur simanim is a psul for shechita of birds but not for melika, this directly contradicts Shmuel's symmetry principle. Ha pligu — yes, Ravina's position is in explicit disagreement with Shmuel's rule. The two positions reflect genuinely competing frameworks for understanding the relationship between shechita and melika.
 
-## Nishbera Mafreket & Neve…
+## Nishbera Mafreket Neveila
 
 ### Shechita vs. Death Intro
 
 A broader question lurks beneath all of these discussions: is shechita a legal definition of an act, or is it a definition of the moment of death? When the Gemara speaks of shechita and the categories that follow from it, is it determining only whether the required ritual act has been performed, or is it also determining when, halachically, the animal has died? This question has bearing on fundamental issues far beyond the laws of korbanot.
 
-### Ben Noach & Eiver Min Ha…
+### Ben Noach & Eiver Min
 
 An illuminating example is the following case discussed in the Gemara: if one performs shechita on an animal and the animal continues to thrash — which it will do for some time after a valid shechita — a Jew may take a piece of meat from that animal and eat it, because the animal is halachically shechted. However, if a Ben Noach were to take a piece of meat from that same animal while it is still thrashing, he would be liable for eiver min ha-chai — the prohibition against taking a limb from a living animal. The Jew is exempt because he operates within a halachic category of shechita; once shechita is performed, the meat is permissible. The Ben Noach has no such category; he has only the concepts of alive and dead, and from his perspective the animal is still alive.
 

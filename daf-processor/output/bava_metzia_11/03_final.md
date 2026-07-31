@@ -1,4 +1,5 @@
 # Bava Metzia 11 — Daf Yomi Shiur
+[DAF:11a]
 
 ## Chatzer: Shliach or Yad?
 
@@ -362,6 +363,7 @@ The implication is decisive: *tovat hana'ah einah mamon* — this benefit-right 
 
 What he *could* do is give. The Torah says *venatata* — "you shall give" the *ma'aser* — indicating that the mechanism of transfer for *ma'aser* and *matnot kehunah* is an act of giving, not an act of transferring ownership. And one form of giving is placing something in the recipient's hand. Another form is placing it in the recipient's *chatzer*. That Rabban Gamliel could do, even without being present beside the field, because the mechanism at work is not *kinyan* in the ownership-transfer sense but rather the act of *nesinah*, of giving.
 
+[DAF:11b]
 ### Why Not Chalifin
 
 > **Hebrew/Aramaic:** וְלָא הִיא, מַתְּנוֹת כְּהוּנָּה נְתִינָה כְּתִיבָא בְּהוּ. חֲלִיפִין, דֶּרֶךְ מִקָּח וּמִמְכָּר הוּא. מִטַּלְטְלִין אַגַּב מִקַּרְקַע, נְתִינָה אַלִּימְתָּא הִיא.

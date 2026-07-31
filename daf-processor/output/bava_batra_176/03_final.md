@@ -1,4 +1,5 @@
 # Bava Batra 176 — Daf Yomi Shiur
+[DAF:175b]
 
 ## Liens: דאורייתא vs. דרבנן
 
@@ -132,6 +133,7 @@ One further question arises: is a *shtar chov* itself a biblical institution? A 
 
 ## Document & Witness Rules
 
+[DAF:176a]
 ### Document + Witnesses
 
 > **Hebrew/Aramaic:** הוֹצִיא עָלָיו כְּתַב יָדוֹ שֶׁהוּא חַיָּיב לוֹ – גּוֹבֶה מִנְּכָסִים בְּנֵי חוֹרִין וְכוּ׳.
@@ -290,6 +292,7 @@ The *gemara* now raises the question of *kinyan* — the formal act of acquisiti
 
 Rav Nachman introduces a qualification. He rules: *areiv de-bei din hu de-lo ba'ei kinyan* — specifically a guarantor whose role is assigned or supervised by a *beit din* does not require a *kinyan*. The logic: the honor and gravity of being designated by the court gives the guarantor's commitment such seriousness and weight that we need not require a formal act to confirm it. *De-be-hahi d-heiman lei gamar u-mishta'abed lei* — by the trust the *beit din* places in him, he fully resolves to accept the obligation and binds himself. But Rav Nachman holds that in an ordinary case — *ha de-alma* — a *kinyan* is indeed required. This conflicts with the earlier derivation from Shmuel, which suggested that only the pressure-induced guarantee (*chanok*) requires a *kinyan*, while all other guarantors are bound by words alone.
 
+[DAF:176b]
 ### Final Halakha
 
 > **Hebrew/Aramaic:** וְהִלְכְתָא: עָרֵב בִּשְׁעַת מַתַּן מָעוֹת – לֹא בָּעֵי קִנְיָן, אַחַר מַתַּן מָעוֹת – בָּעֵי קִנְיָן. עָרֵב דְּבֵית דִּין – לָא בָּעֵי קִנְיָן; דִּבְהָהִיא הֲנָאָה דִּמְהֵימַן לֵיהּ – גָּמַר וּמְשַׁעְבֵּד לֵיהּ. הֲדַרַן עֲלָךְ גֵּט פָּשׁוּט, וּסְלִיקָא לַהּ מַסֶּכֶת בָּבָא בָּתְרָא

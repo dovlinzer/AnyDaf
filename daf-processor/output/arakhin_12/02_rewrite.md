@@ -126,7 +126,7 @@ But the *gemara* now points out a glaring contradiction. *Ei Rabbi Yehuda berish
 
 ---
 
-## Historical Interruption…
+## Shemita Calculation
 
 ### 17 Yovels Problem
 
@@ -174,6 +174,6 @@ The prophets of that era — *Chaggai, Zecharya*, and *Malachi* — wanted to pr
 
 Those who failed to return when it mattered forfeited their institutional standing. A descendant of *Yehoyariv* who arrived years after the fact, however distinguished his lineage, would find that his family's slot was now permanently occupied.
 
-### Similarities Not Identic…
+### Similar Not Identical
 
 This demonstrates that the destruction of the Second *Beit HaMikdash* could not have been precisely identical to that of the First in every detail the *braita* enumerates. There was no *mishmar* of *Yehoyariv* as such in the Second *Beit HaMikdash*; one might argue that the *mishmar* then serving was *standing in for Yehoyariv*, but the *gemara* reads the *braita* literally and concludes that it was not the same. Similarly, the *shemita* cycle year was not the same. The *braita*'s phrase *v'chen bashniyah* means: in many significant respects the destruction was similar — the date of *Tisha B'Av*, the day of the week, the terrible appropriateness of the moment — but not that every detail was identical. It was *ashara*, approximate, similar in character but not a point-for-point replica.

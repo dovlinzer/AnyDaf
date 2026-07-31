@@ -50,7 +50,7 @@ The genuinely interesting case is when the debtor holds only Grade A and Grade C
 
 ## Braitot Contradiction
 
-### Subjective Standard Prob…
+### Subjectivity Standard
 
 The Gemara now trains its scrutiny on the scenario of Grade B and Grade C only, and raises a pointed problem. The middle case of the *braitah* — *beinonis v-ziboris* — teaches that *nezikin* and the *baal chov* both collect from Grade B. But if we accept the subjective standard, *bishlo hen shamin*, then the *baal chov*'s Grade B *is* Grade A from the debtor's personal perspective. In that case, *ta'aseh beinonis shelo ke-idit* — his Grade B becomes Grade A — and therefore *nezikin* should be entitled to it exclusively, pushing the *baal chov* down to *ziborit*. The *braitah*'s ruling that they share Grade B seems to presuppose an objective standard.
 
@@ -58,7 +58,7 @@ The Gemara now trains its scrutiny on the scenario of Grade B and Grade C only, 
 
 The Gemara answers: *hacha bemai askinan kegon de-it lei idit u-machra* — we are speaking of a case where the debtor previously held Grade A land and then sold it off. When the loan was taken out, Grade A, B, and C all existed. At that point, the *baal chov* acquired a lien specifically on the Grade B property, since that was the quality to which he was entitled. Even after Grade A was sold off — causing Grade B to functionally become the best remaining — the *baal chov* does not lose the lien he had already acquired. His rights to Grade B are locked in from the time of the loan. This is confirmed by Rav Chisda, who explains the case the same way: *kegon de-hava lei idit u-machra* — it is a case where Grade A had existed and been sold.
 
-### Braitot Contradiction Ch…
+### Braitot Contradiction
 
 This resolution sets the stage for a stark contradiction between two *braitot*. Both deal with a debtor holding only Grade B and Grade C. The first *braitah* rules that *nezikin* and the *baal chov* collect from Grade B while the *kesubas ishah* collects from Grade C. A second *braitah* rules the opposite for the *baal chov*: *nezikin* gets Grade B, while both the *baal chov* and the *kesubas ishah* are relegated to Grade C. These two positions directly contradict each other regarding the *baal chov*'s entitlement.
 

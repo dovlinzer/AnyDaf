@@ -4,7 +4,7 @@
 
 ### Mishna: Falling Asleep
 
-Today's daf is 46, and we pick up from the bottom of 45b. The *mishna* addresses the case of somebody who falls asleep: if a person is not conscious, can he establish that location as the place of his *eruv*? According to *Rabbi Yochanan ben Nuri*, he can; according to the *Chachamim*, he cannot. Interestingly, if he cannot, where is the place of his *eruv*? The *mishna* gives him the same status as someone who has gone outside the *techum* — he is not defined as being in any particular place and has only his four *amos*.
+ The *mishna* addresses the case of somebody who falls asleep: if a person is not conscious, can he establish that location as the place of his *eruv*? According to *Rabbi Yochanan ben Nuri*, he can; according to the *Chachamim*, he cannot. Interestingly, if he cannot, where is the place of his *eruv*? The *mishna* gives him the same status as someone who has gone outside the *techum* — he is not defined as being in any particular place and has only his four *amos*.
 
 Some *Rishonim* ask why this is different from the case discussed later in the *Gemara* of rain that falls on *Shabbos* or a boat that lands on *Shabbos* when it was higher than ten *tefachim* — in those cases the object can at least acquire two thousand *amos* from where it lands. Here, however, the *Chachamim* are not so lenient: they reason that in those other cases the object was never yet situated within the zone, whereas here the person was in the zone but simply was not conscious. The distinction is not entirely clear, but the consequence is plain: without an established place, the sleeping person is left with only four *amos*.
 
@@ -120,7 +120,7 @@ Thus the *Gemara* on today's daf establishes a clear and important framework: th
 
 ---
 
-## Eruv Chatzerot vs. Techu…
+## Eruvin vs. Techumin
 
 ### Chatzerot vs. Techumin
 

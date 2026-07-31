@@ -1,8 +1,8 @@
 # Kiddushin 44 — Daf Yomi Shiur
 
-## Father vs. Father+Daught…
+## Father+Daughter Kiddushin
 
-### Mishna Intro & Reish Lak…
+### Mishna Intro & Reish
 
 The daf opens in the middle of 43b, approximately fifteen lines from the bottom, at the break in the text. The *mishna* states: *ha-ish mekadesh et bito* — a man may betroth off his daughter when she is a *na'arah*, meaning between the ages of twelve and twelve-and-a-half. Even though she is halachically an adult at this stage, her father retains power over her with respect to marriage. The *gemara* will explore the precise degree to which the *na'arah* herself also possesses some form of independent agency, or whether authority resides exclusively with her father.
 
@@ -32,7 +32,7 @@ Rabbi Yochanan disagrees sharply: *machlokes le-gerushin aval kiddushin divrei h
 
 Rabbi Yose b'Rabbi Chanina explains the reasoning behind Rabbi Yochanan's position. By *kiddushin*, where the process requires *da'at* — agreement, will, and decision — that authority is vested in the father alone: *kiddushin demida'atah aviha velo hi*. By *gerushin*, however, a woman can be divorced *be'al korchah*, against her will; the husband delivers the *get* and the divorce takes effect regardless of her consent. Because *gerushin* does not require any active exercise of will on the receiving side, the question of who receives the *get* is a question not of power but of delivery — who serves as the correct address.
 
-### Gerushin Returns to Fath…
+### Gittin to Daughter
 
 Rabbi Yose b'Rabbi Chanina articulates the distinction as follows: *gerushin de-machneset atzmah li-reshut aviha, bein hi uvein aviha* — by *gerushin*, the effect of the divorce is that the woman re-enters her father's authority. She is still a *na'arah*, the *kiddushin* was without *nissu'in*, and the *get* returns her to her father's domain. Because her return benefits the father's sphere of control, the *rabanan* regard her as an extension of the father in the receiving act. Whether she or he receives the *get*, the outcome flows back to him.
 
@@ -66,7 +66,7 @@ The *gemara* notes that this explanation follows the position of Rabbi rather th
 
 ---
 
-## Mishna Reconciliatio (II)
+## Mishna Reconciliation
 
 ### Mishna Conclusion
 

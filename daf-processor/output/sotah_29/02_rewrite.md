@@ -4,7 +4,7 @@
 
 ### Intro: Sotah to Terumah
 
-Today's daf is 29, and we pick up at the bottom of 28b. The sugya has now transitioned from *sotah* to *terumah* — which, somewhat surprisingly, will be the focus of this entire daf. The immediate reason for the shift is not primarily the connection between *sotah* and *terumah* as such, but rather that our *mishnah* of this *perek* recorded a series of *drashos* under the heading *bo bayom darash Rabbi Akiva*, several of which concern *tumah*, and it is those *drashos* that will occupy us.
+ The sugya has now transitioned from *sotah* to *terumah* — which, somewhat surprisingly, will be the focus of this entire daf. The immediate reason for the shift is not primarily the connection between *sotah* and *terumah* as such, but rather that our *mishnah* of this *perek* recorded a series of *drashos* under the heading *bo bayom darash Rabbi Akiva*, several of which concern *tumah*, and it is those *drashos* that will occupy us.
 
 The original connection was that from the case of *sotah* — a wife who secluded herself (*yichud*) with another man after her husband's formal warning — we derived the broader principle governing *safek tumah bereshut hayachid*. The *sotah's* status demonstrates that once the relevant circumstances are established, the presumption shifts: she is treated as definitively forbidden rather than merely doubtfully so.
 
@@ -34,7 +34,7 @@ To close the introductory survey, the Gemara recaps the three restrictions the *
 
 ## R. Akiva vs. R. Yishmael
 
-### R. Yishmael's Kal VaChom…
+### R. Yishmael Kal VaChomer
 
 Rabbi Yishmael, responding to Rabbi Akiva's derivation of *terumah* from *venitma'ah*, proposes a *kal vachomer*: if there exist women who are forbidden to marry a *kohen* yet are still permitted to eat *terumah* — such as a *gerushah* who is a *bat kohen* — then a woman who cannot eat *terumah* at all should certainly be forbidden from marrying a *kohen*. The scenario being contemplated is where this woman's husband subsequently dies; her status as a presumed adulteress or as a *sotah* should, by this logic, render her permanently forbidden to a *kohen* just as a *zonah* is.
 

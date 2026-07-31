@@ -40,7 +40,7 @@ These three models — evidence, status-change, and burden-shifting through poss
 
 ---
 
-## Evidence & Lack of Objec…
+## Evidence & Objection
 
 ### Rav Yosef & Jeremiah
 
@@ -52,7 +52,7 @@ Rav Yosef answers by citing a *pasuk* in *Yirmiyah*: *sadot bechesef yiknu vecht
 
 Abaye objects sharply: perhaps *Yirmiyah* was simply offering practical advice, not articulating any *halakha* about the duration of *chazakah*. The *pasuk* about fields purchased with documentation might just be a pragmatic recommendation — you will be in exile for decades, your witnesses will be dead or unavailable, better have written records. To prove the point, Abaye observes that the same passage in *Yirmiyah* also says *bnu batim veshevu venitu ganot ve'ichlu et piryam* — build houses, settle, plant gardens and eat their fruit. Clearly that is not a *halakhic* obligation to plant gardens in Bavel; it is practical advice about settling in for a long exile. And *venatatam bichli cheres lema'an ya'amdu yamim rabbim* — store the documents in pottery vessels so they will last a long time — is equally practical advice about preservation, not a *halakhic* norm. The whole passage is *eitzah tovah*, good counsel, and proves nothing about the legal duration of *chazakah*.
 
-### Rava's Three-Year Thresh…
+### Rava's Three-Year Plan
 
 Rava then offers an alternative grounding for the three-year rule, abandoning the *pasuk* and turning to human psychology and the logic of evidence. He frames the question as follows: what does a person's silence in the face of another's occupation of his land actually demonstrate?
 
@@ -76,7 +76,7 @@ Abaye presses further with a pointed challenge. If the entire framework is about
 
 Rava responds with a crucial principle: *im kein nasata devarecha lishiurin* — if you allow the threshold to vary by individual, you have made the entire system one of multiple shifting measures rather than a single objective standard. The whole point of a *shiur* — a fixed quantitative measure — is that it applies uniformly across cases. A system in which the *chazakah* period is three years for one person, one day for another, six years for a third, is no system at all. Therefore, even if in theory the inference drawn from silence might be context-sensitive, the law must establish a uniform standard.
 
-### Evidence Plus Documentat…
+### Evidence Plus Documents
 
 Rava then introduces the deeper integration of the two components. He explains: *shata kamaita mizdahar inish bishtarei, tartei uslas mizdahar, tfei lo mizdahar* — for the first year of occupying land, a person is careful to preserve his documentation; through two and three years he remains careful; beyond three years, people are no longer careful with their paperwork. The absence of a *shtar* after three years therefore has a legitimate explanation: it is the normal human tendency not to maintain documentation indefinitely.
 
@@ -186,7 +186,7 @@ Rashbam limits the scope of this demand, however. The owner cannot make the dema
 
 Mar Zutra adds a further qualification: *beruchlin hamachzirin ba'ayarot* — in the case of traveling merchants, meaning owners who are regularly away on business and therefore have no first-hand knowledge of whether the *machzik* was or was not present at night, the court itself makes the demand on the owner's behalf. Since the owner cannot personally assess the nighttime facts, and since it is possible the *machzik* was absent at night, the *machzik* must affirmatively demonstrate his continuous habitation even without the owner making an explicit demand.
 
-### Tosafot's Implicit Readi…
+### Tosafot's Different Read
 
 Tosafot reads this entire passage in a strikingly different direction. Where Rashbam understands the *gemara* as placing a potentially stringent evidentiary burden on the *machzik* — requiring, upon demand, direct proof of each night — Tosafot reads it as establishing almost the opposite. In Tosafot's reading, the word *tayinin* in the context of traveling merchants means that we allow the *machzik* to bring witnesses who testify to general continuous habitation, and this is understood implicitly to include nighttime presence unless the owner brings specific evidence to the contrary. The basic posture, on this reading, is that once sufficient evidence of ongoing habitation is established, continuity through the nighttime is presumed, not demanded as a separate evidentiary requirement.
 

@@ -10,7 +10,7 @@ The complication, of course, is how one arrives at *shnei edim* when each person
 
 There was, to be sure, a significant position advanced in an earlier *Gemara* — that of Rabbi Elazar BeRabbi Shimon — who held that even an *ed echad* is *chayav*. Two approaches were entertained: first, that *ed echad* might itself obligate payment; second, and the one the *Gemara* settled on, that even if *ed echad* only obligates a *shevua*, since the defendant might choose not to take that *shevua* and thereby trigger a monetary loss, the testimony carries sufficient potential weight to fall under *shevuat edut*. But we proceed according to the *Chachamim*, who hold that *ed echad* is not *chayav*. The upshot is that *chiyuv* falls either on both witnesses when they take their *shevuot* together, or on the first of the two when they act sequentially.
 
-### Simultaneous vs Sequenti…
+### Two Witnesses: Joint/Seq
 
 The *Mishna* states: *kafar echad ve-hoda echad* — one witness denied and one admitted. The *Gemara* raises the obvious question. If we have already established that when both deny sequentially the first is *chayav* and the second is *patur* — even though the second also denied — because the first had already nullified the *edut*, then surely it is self-evident that if one denies and one admits, the one who denied is *chayav* and the one who admitted is *patur*. What does the *Mishna* need to add?
 

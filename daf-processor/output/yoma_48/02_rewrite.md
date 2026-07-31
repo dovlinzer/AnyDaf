@@ -1,6 +1,6 @@
 # Yoma 48 — Daf Yomi Shiur
 
-## Stuff Between Finger (II)
+## Stuff Between Fingers
 
 ### Kemitzah Overview
 
@@ -90,7 +90,7 @@ Practically, one might wonder what would be done if a *kohen* had placed the *ko
 
 ### Two Readings
 
-Two interpretations of this case are possible. One reading, which the lecturer adopts as primary, takes *ar'isa* to mean that the *kometz* is literally stuck to the floor of the vessel, but the floor is now facing downward. The *kometz* is affixed to the underside of the inverted vessel. On this reading, the item is clearly not within *toch* — the interior — of the vessel in any meaningful sense, since the vessel is inverted and not functioning as a container. The question of whether *hanacha betocho beinun v'ika* — whether placement within the interior satisfies the requirement — becomes pressing, since on this reading the interior requirement is simply not met.
+Two interpretations of this case are possible. One reading, which I adopt as primary, takes *ar'isa* to mean that the *kometz* is literally stuck to the floor of the vessel, but the floor is now facing downward. The *kometz* is affixed to the underside of the inverted vessel. On this reading, the item is clearly not within *toch* — the interior — of the vessel in any meaningful sense, since the vessel is inverted and not functioning as a container. The question of whether *hanacha betocho beinun v'ika* — whether placement within the interior satisfies the requirement — becomes pressing, since on this reading the interior requirement is simply not met.
 
 *Tosafot*, however, read the case differently. They understand the base of the vessel to be curved, such that when the vessel is inverted, its concave base creates a hollow on the underside. On this reading, the *kometz* placed within that curved hollow might be considered to be within a space analogous to the interior of the vessel, and the question is whether such a space counts as *toch*. This reading of *Tosafot* is based on another *gemara* and preserves the possibility that the item could still be considered inside some form of *toch*. The *gemara* does not resolve the question.
 
@@ -142,7 +142,7 @@ The *gemara* spells out the mechanics of this derivation: *gurin u'mosifin v'dor
 
 *O dilma k'kli sharet dami v'lo psula* — or perhaps the *kohen*'s hand is to be regarded as a *kli sharet*. The *kohen*'s body is sanctified, and in many contexts we objectify the *kohen*'s body as functioning like a vessel of *kedusha*. If so, the *ketoret* was already received into the *kli sharet* — the hands — at the moment of the *chafinah*. The transfer from the hands into the *kaf* is not analogous to catching the blood from the animal. The relevant reception already occurred, and the subsequent scatter would be equivalent to blood that was properly received in a vessel and then spilled — which, as the *mishna* established, is *kasher*.
 
-### Teiku
+### Teiku (II)
 
 The *gemara* concludes with *teiku*. The *Rambam*, in his ruling on this matter, takes the stringent position and treats it as a *safek*, ruling that the *ketoret* should not be offered but that if it was, it is valid *bedi'eved*. Nevertheless, there are strong conceptual reasons, as the *gemara*'s analysis itself reflects, to distinguish this case from the blood paradigm.
 
@@ -210,7 +210,7 @@ However, a fundamental problem with the proof must be acknowledged. The entire a
 
 This principle — *machshirei mitzvah k'mitzvah dami* — has broad applications beyond the present context. It bears on questions such as when a *berachah* is recited for the preparation of an object used in a *mitzvah*, whether *hiddur mitzvah* applies to preparatory acts, and similar questions. But the answers are not uniform across contexts, and one cannot simply assume the same ruling applies everywhere.
 
-### Teiku
+### Teiku (II)
 
 *Teiku* — the question remains unresolved. The *gemara* does not know whether the scooping of the coals, as a *machshir* to the *ketoret* service, is elevated to the status of an *avodah* such that *machshava* during it is operative.
 
@@ -230,7 +230,7 @@ The *gemara* now takes up a question that was raised earlier in the *mishna* but
 
 The *gemara* asks: why not derive the permissibility of left-hand *holacha* from a different source? *Ha-regel she-ha-yamin b'smolo l'veit ha-ora l'chutz* — when the *kohen* carries the limbs of the *olah* to the *mizbe'ach*, the right hind leg is carried in his left hand. This would appear to demonstrate that *holacha* can be performed with the left hand.
 
-### Essential vs. Non-Essent…
+### Essential vs. Limbs
 
 The *gemara* rejects this as a proof. *Im mei-hatam hava amina hani mili holacha d'la me'akva kapara* — from that source alone, one would conclude only that a *holacha* which is not essential to the atonement can be performed with the left hand. The burning of the limbs of an *olah* on the *mizbe'ach* is not *me'akva* — not necessary for *kapara*. The *kapara* of the *korban* is achieved without the burning of individual limbs.
 

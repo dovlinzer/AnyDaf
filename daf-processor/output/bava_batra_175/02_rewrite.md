@@ -46,7 +46,7 @@ Second, Rav Huna was a *tzurba me'rabanan*, a Torah scholar, and this distinguis
 
 ---
 
-## Arev Ketubah No Obligati…
+## Arev Ketubah No Obligate
 
 ### Father Liability
 

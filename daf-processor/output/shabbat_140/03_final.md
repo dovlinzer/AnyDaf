@@ -1,4 +1,5 @@
 # Shabbat 140 — Daf Yomi Shiur
+[DAF:140a]
 
 ## Filtering Liquids
 
@@ -270,6 +271,7 @@ Rav Chiya bar Ashi in the name of Rav states: *hai taya de'bisra shari letitulei
 
 ## Rav Chisda's Wisdom
 
+[DAF:140b]
 ### Vegetables & Appetite
 
 > **Hebrew/Aramaic:** וְאָמַר רַב חִסְדָּא: בַּר בֵּי רַב דְּזָבֵין יַרְקָא — לִיזְבֵּין אֲרִיכָא, כִּישָּׁא כִּי כִישָּׁא, וְאוּרְכָּא מִמֵּילָא.

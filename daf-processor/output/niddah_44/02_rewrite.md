@@ -64,7 +64,7 @@ The *mishna* states *ve-hargo chayav* — only once the child is born is killing
 
 Finally, the *mishna* states: *va-harei hu le-aviv ule-imo ule-khol kerovav ke-chatan shalem* — once he is born, he is to his father, his mother, and all his relatives like a complete *chatan*. The *Gemara* will explain that the halakhic significance of this phrase is with respect to *aveilus*: if the infant dies, the full laws of mourning apply even for a one-day-old child.
 
-## Gemara: Textual Derivati…
+## Gemara: Infants Tumah
 
 ### Niddah from Vav
 
@@ -102,7 +102,7 @@ The *Gemara* now turns to the derivations for the opposite direction — that bi
 
 Regarding *poter min ha-yibum* — exemption from *yibum* — the verse states *u-ven ein lo*, that the *yibum* obligation applies only when the deceased has no son. As long as the child has not yet been born, *leit lei* — there is no son. A fetus is a potential son, not yet a son in the halakhic sense. Only once he is born is the widow exempt.
 
-### Pregnant Bas Kohen
+### Pregnant Bas Kohen (II)
 
 The *Gemara* now raises a strong challenge against the *mishna*'s formulation of *posseil min ha-terumah*. The verse states *ve-zera ein lah* — when she has no offspring, the *bat kohen* who was widowed from her *Yisrael* husband can return and eat *terumah*. *Ve-ha issa* — but she does have seed, namely the fetus in her womb. Even a fetus should prevent her return.
 
@@ -180,7 +180,7 @@ The word *muttar* is stark and has attracted significant attention in the aborti
 
 This paradox is not unique to the beginning of life. An analogous tension appears at the end of life, where in certain circumstances a person may have the right to refuse intervention and allow their own death, while at the same time, if they choose to live, every halakhic resource including *chilul Shabbat* is deployed to preserve them. *Tosafot* recognizes this as a genuine and unresolved tension, and the observation remains directly relevant to contemporary halakhic discussions.
 
-## Inheritance Details…
+## Inheritance: Birth & Kin
 
 ### Born After Death
 
@@ -198,13 +198,13 @@ The *Gemara* concludes: *ve-hilkheta ke-khol hanei lishnei be-Mar bar Rav Yosef 
 
 The *mishna* states *ve-hargo chayav* — only once the child is born does killing him constitute murder. A *pasuk* confirms this: *ve-ish ki yakkeh kol nefesh* — if a man strikes any soul. The phrase *kol nefesh* — any soul — teaches that even an infant is included; the *chiddush* of the *mishna* is not the birth requirement per se but that even a newborn counts as a full life for the purposes of murder. The birth requirement emerges as the other side of the same coin.
 
-## Fetal Viability…
+## Fetal Viability & Death
 
 ### Rav Moshe: Murder
 
 It should be noted that *Rav Moshe Feinstein* took the position that abortion constitutes an act equivalent to murder, even if the perpetrator is exempt from the death penalty. This view is grounded in an ambiguous *Rambam* which *Rav Moshe* reads in support of that position. Prior to *Rav Moshe*, authorities debated the severity of abortion across a broad spectrum — from the relatively lenient to the very severe — but *Rav Moshe* appears to be the first to articulate explicitly that abortion is structurally equivalent to murder, with only the capital sanction removed.
 
-## Horgo Chayav & Aveilus…
+## Horgo Chayav & Aveilus
 
 ### Kol Nefesh
 

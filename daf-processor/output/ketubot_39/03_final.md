@@ -1,4 +1,5 @@
 # Ketubot 39 — Daf Yomi Shiur
+[DAF:39a]
 
 ## Knas: Betrothal & Di (II)
 
@@ -178,6 +179,7 @@ Rav Zeira challenges: if he threw her onto soft garments rather than bare ground
 
 The *gemara* responds on behalf of the majority: *ein domeh niva'alah be-ones li-niva'alah be-ratzon* — intercourse by rape is not comparable to intercourse by consent. This seems to be exactly the right answer: the two experiences are fundamentally different. Yet, as will become apparent, the *gemara* does not press this insight to its full conclusion.
 
+[DAF:39b]
 ### Consent Argument
 
 > **Hebrew/Aramaic:** אֶלָּא אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: צַעַר שֶׁל פִּיסּוּק הָרַגְלַיִם. וְכֵן הוּא אוֹמֵר: ״וַתְּפַשְּׂקִי אֶת רַגְלַיִךְ לְכׇל עוֹבֵר״. אִי הָכִי, מְפוּתָּה נָמֵי! אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: מָשָׁל דִּמְפוּתָּה לְמָה הַדָּבָר דּוֹמֶה? לְאָדָם שֶׁאָמַר לַחֲבֵירוֹ: קְרַע שִׁירָאִין שֶׁלִּי וְהִפָּטֵר. שֶׁלִּי?! דַּאֲבוּהּ נִינְהוּ?

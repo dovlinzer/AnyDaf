@@ -1,6 +1,6 @@
 # Arakhin 14 — Daf Yomi Shiur
 
-## Intro: Cases Lehakeil/Le…
+## Intro: Cases Lehakeil
 
 ### New Chapter Overview
 
@@ -10,9 +10,9 @@ With the opening of this new chapter, the *mishna* introduces a governing princi
 
 The *mishna* thus covers four domains. First, *erachin* — the fixed valuations assigned to human beings when someone declares *erech ploni alai*, committing to donate the Torah-prescribed valuation of a named individual to the Temple. Second, *sdei achuza* — ancestral land, that is, land that came to one's possession through tribal inheritance tracing back to the original division of the land. Third, the *shor muad* — an ox that has been formally established as a goring ox and therefore carries enhanced liability for its owner — in the case where such an ox kills a slave. Fourth, the three categories of sexual offense: *ones* (rape), *mefateh* (seduction), and *motzi shem ra* (a husband who falsely claims his wife was not a virgin at the time of marriage). In each of these areas the *mishna* will demonstrate how the very same fixed rule can, depending on circumstances, operate either as a *kula* or as a *chumra*.
 
-## Erachin: Leniency/String…
+## Erachin: Lehakeil
 
-### Beautiful/Homely: Fixed…
+### Beautiful vs. Homely: 50
 
 The *mishna* presents the *erachin* case: *hechan she'he'erich et hana'eh shebeyisrael ve'et haka'ur shebeyisrael noten chamishim sela*. If one declares *erech ploni alai* with respect to the most handsome specimen in Israel, one pays fifty *shekalim* — even though on the open slave market such a person might command a sum far in excess of that. In that situation the Torah's fixed rate is a *kula*, a bargain. Conversely, if one makes the same declaration regarding the most broken-down and physically diminished individual, the fifty *shekalim* still applies — and in that case one is paying considerably more than the market would demand, making it a *chumra*.
 
@@ -42,9 +42,9 @@ But is this rule consistently applied? The *gemara* itself notes that later, in 
 
 Alternatively — *ve-iba'it eima* — since the subsequent discussion of *sdei achuza* is by definition an exclusively Israelite institution (non-Jews hold no ancestral portion in the Land of Israel and are thus not subject to the *dinim* of *achuza*), the entire chapter naturally confines itself to the Israelite context. The *mishna* begins with Jews in the *erachin* case precisely because everything that follows will also concern Jews exclusively.
 
-## Ancestral Fields: Fi (II)
+## Sdei Achuza: Lehakeil
 
-### Bad/Premium Land: Same R…
+### Bad & Premium Land Rate
 
 The *mishna* now takes up *sdei achuza*: *echad hamakdish becholat hamachoz ve'echad hamakdish bepardesot Sevasti — noten zera chomer se'orim be'chamishim shekel kesef*. Whether one consecrates to the Temple a barren, sandy wasteland — *cholot hamachoz*, which Albeck identifies as sandy, infertile ground — or the celebrated pleasure gardens of *Sevasti* (identified with Herod's rebuilt Shomron, which boasted orchards and landscaped *pardesim*), the rate of redemption is the same: fifty *shekalim* for every *chomer* of barley that could be planted in that land. A *chomer* is equivalent to a *kor*, a standard dry measure — approximately 75,000 square *amos* — and the rate is uniform regardless of whether the land is prime real estate or effectively worthless.
 
@@ -60,7 +60,7 @@ The rationale behind this position is that *adam makdish be'ayin yafah makdish* 
 
 This position stands in contrast to that of Rabbi Shimon, who holds that *makdish be'ayin ra'ah makdish* — one who consecrates property does so with a conservative, minimal intent. Rabbi Shimon's view would lead to a narrower reading of what is included in any act of consecration.
 
-## Special Cases: Rocks (II)
+## Rocky Fields & Trees
 
 ### Potential vs. Actual
 
@@ -122,7 +122,7 @@ If the trees were sold and not redeemed, they do not return to the original owne
 
 The *gemara* notes a question implicit in Rav Papa's ruling: once one consecrates trees, why should the land beneath them not be included in the consecration by virtue of the principle that a sale of a tree conveys the ground beneath it? The *gemara* cites the teaching of Menchamya of Hutzla that one who sells a tree conveys ownership *mishippulei ve'ad tehoma* — from the base of the trunk down to the depths of the earth. If so, consecrating trees should automatically consecrate the underlying land, and the redemption should follow the Torah's field-rate, not the market rate. The *gemara* responds: that principle applies only when the seller explicitly stipulates that the land is included in the transfer. In ordinary circumstances, selling or consecrating trees does not convey the underlying land.
 
-## Rabbi Eliezer vs. Chacha…
+## Eliezer vs. Chachamim
 
 ### Rabbi Eliezer Position
 
@@ -168,7 +168,7 @@ The *gemara* resolves this: *afilu teima Rabbi Akiva — hu hadin de'afilu shor 
 
 Because the earlier part of the *mishna* — the case of killing a slave with a fixed thirty-*shekel* payment, and killing a free person with a variable *kofer* — is a case that *only* arises with a *shor muad*. A *shor tam* that kills a person is entirely exempt from monetary liability; no *kofer* or payment of thirty *shekalim* applies. *D'v'muad hu de'mishkachat lah, v'tam lo mishkachat lah* — those laws are found only in the case of a *shor muad*, not in the case of a *shor tam*. Since the *mishna* needed to introduce the category of *shor muad* for the killing cases, it carries that language into the injury clause as well — even though the injury clause itself would equally encompass a *shor tam*.
 
-## Sexual Offenses: Fixed/F…
+## Sexual Offenses: Lehakeil
 
 ### Offense: Fixed 50 Sela
 

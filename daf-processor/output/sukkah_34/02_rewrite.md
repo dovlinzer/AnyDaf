@@ -132,7 +132,7 @@ Abaye adds: *shema mina hai chilfah gila kashra le-hoshana* — we may infer fro
 
 One clarification regarding the *ba'al* reference in the *mishnah*: the term *shel ba'al* does not distinguish between irrigated and non-irrigated fields, but rather contrasts with growth specifically by the river. Whether a field is irrigated artificially or depends on rainfall is irrelevant; what matters is whether the plant is of the *aravah* species, not how it is watered.
 
-### Names Changed Post-Destr…
+### Chisda: Post-Destruction
 
 Rav Chisda teaches: *hani telat milei ishtanu shemayehu mi-de-charav Beis HaMikdash* — the following three things had their names reversed from the time the Temple was destroyed. *Chilfasa aravsa, aravsa chilfasa* — what used to be called *aravsa* (the valid willow species) is now called *chilfasa*, and what used to be called *chilfasa* (the invalid species, comparable to *tzaftzafah*) is now called *aravsa*. The practical implication — *le-lulav* — is that if one wants to identify the kosher *aravah* species today, one should ask for what people call *chilfasa*, since the names have inverted.
 

@@ -1,6 +1,6 @@
 # Sukkah 46 — Daf Yomi Shiur
 
-## Lulav vs. Sukkah Blessin…
+## Lulav vs. Sukkah Brachot
 
 ### Rav Yehuda's Position
 
@@ -122,7 +122,7 @@ One additional point deserves mention. The *sukkah* is, in a genuine sense, more
 
 ---
 
-## Blessings on Rabbinic Mi…
+## Lulav Blessings: Rabbinic
 
 ### All Seven Days
 

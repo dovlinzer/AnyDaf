@@ -12,7 +12,7 @@ The *Gemara* now cites a *baraita* that elaborates on the *mishna*: *Tanu Rabana
 
 *Yavi minchah she-shishim esronim Divrei Chachamim* — according to the *Chachamim*, one brings sixty *esronim* in a single vessel and stipulates: whatever is needed for my *neder* is the *neder*, and the rest is a *nedavah*, an additional *minchah* brought as a free-will offering. *Rebbi omer yavi menachot shel esronim me-echad v'ad shishim* — *Rebbi* says one brings separate *menachot* of *esronim* from one through sixty. And if the person also does not know which of the five types of *minchah* he vowed, or how many *esronim* he intended — *v'eini yodeia mah perashti v'eizo mehem perashti v'eini yodeia kamah perashti* — the phrase *kamah perashti* addresses how many, *eizo mehem* addresses what type, and *mah perashti* encompasses the whole uncertainty — then *yavi chamesh menachot she-shishim esronim Divrei Chachamim*: the *Chachamim* require five sets of sixty *esronim*, one for each type of *minchah*, and *Rebbi omer yavi chamesh menachot she-shishim esronim me-echad v'ad shishim*: *Rebbi* requires bringing all five types, each multiplied across all amounts from one to sixty.
 
-### Sum 1–60
+### Sum 1-60
 
 This raises the arithmetic: what is the total number of *esronim* according to *Rebbi*? Adding all integers from one to sixty yields 1,830 — *she-hen elef u-shmoneh me'ot u-shloshim*. *Tosafot* provides an elegant method for this calculation: *keitzad kach b'yadcha me-echad v'ad shishim v'tzaref techilatan v'sofan ad ha-emtza k'gon echad v'shishim hen shishim v'echad* — take the numbers from one to sixty and pair each from the beginning with one from the end: one plus sixty equals sixty-one, two plus fifty-nine equals sixty-one, and so on, until the middle pair of thirty and thirty-one. That yields thirty pairs of sixty-one, and thirty times sixty-one is 1,830. This same method is attributed to the mathematician Carl Gauss, who reportedly discovered it as a young boy when a teacher assigned him to sum all integers from one to one hundred. Whatever the history, *Tosafot* records the identical insight centuries earlier.
 
@@ -156,13 +156,13 @@ The *baraita* also addresses a further case: *perashti ve-eini yode'a mah perash
 
 The minimum quantity for a vow of frankincense is one *kometz*, derived from the following verse: *veherim mimenu vekomzo misolet hamincha umishamnah ve-et kol halevona* — "and he shall raise from it his handful of the fine flour of the *minchah* and its oil, and all the frankincense." *Maquish levona le-harama de-mincha* — the frankincense is hereby equated to the taking of the *kometz* of the *minchah* itself. *Mah harama de-mincha kometz af levona nami kometz* — just as the standard unit of the *minchah* offering is a *kometz*, so too the standard unit of frankincense is a *kometz*. The *Gemara* here is explaining not how we know one can vow frankincense in the first place, but how we know that the unit of frankincense — once vowed — is measured in *kematzim*.
 
-## Wood & Metals…
+## Wood, Metals & Incense
 
 ### Uncertainty Rule
 
 If a person declared *harei alai la-mizbeach* but forgot what he had in mind, *yavi mi-kol davar she-karav legabei mizbeach* — he must bring from every category of permitted altar offerings. Since he cannot determine which type of offering he intended, he covers every possibility.
 
-## Frankincense Default…
+## Frankincense Default (II)
 
 ### Why Frankincense
 

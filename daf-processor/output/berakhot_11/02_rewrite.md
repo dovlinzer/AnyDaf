@@ -24,7 +24,7 @@ The same tradition then continues with a further requirement: *hamitpalel tzaric
 
 The same chain of tradition continues: *lo tochlu al hadam* — "do not eat over the blood" — is interpreted to mean *lo tochlu kodem she-titpalelu al damchem*: do not eat before you pray for your very soul, for your very blood. The prohibition against eating before davening is rooted in this verse. A further statement is then transmitted: *kol ha-ochel ve-shoteh ve-acher kach mitpallel* — whoever eats and drinks and only then prays — *alav ha-katuv omer: ve-oti hishlachta acharei gavecha* — of such a person Scripture says, "You have cast Me behind your back." The Gemara then applies a *al tikri* reading: do not read *gavecha* — your back — but *ge'echa* — your haughtiness. God says: after this person has attended to his own needs and his own haughtiness, only then does he accept the yoke of Heaven?
 
-### Priorities & Divine Acce…
+### Priorities & Acceptance
 
 This is a profound statement about the ordering of priorities. Two dimensions are at stake. The first is how one frames the day: does the day begin with tefillah and *ol malchut shamayim*, with the acknowledgment that everything comes from God, or does it begin with attending to one's own body and needs? The second dimension concerns the very nature of the tefillah itself. When a person eats first, satisfies his own needs, and feels fully embodied and self-sufficient, there is a natural swelling of ego that accompanies that experience. Prayer that follows from such a state is qualitatively different — it reflects a posture of *ve-oti hishlachta acharei gavecha*, of having already positioned oneself and one's body as primary. The real point is that one's total dependence on God must be fully acknowledged before one begins to attend to one's own needs. This is *halacha*, with its own parameters regarding what kinds of eating and drinking may be permitted before davening in cases of necessity — but the underlying principle is clear.
 
@@ -78,7 +78,7 @@ Furthermore, the observation that the Torah *could* have said "morning and eveni
 
 ## Osek B'Mitzvah
 
-### Derivation from Uvlechet…
+### Uvlechetecha Vaderech
 
 Since Beit Hillel uses *u'v'lechtecha vaderech* to establish that physical position does not matter, Beit Shammai must derive something else from it. The Gemara identifies what: *b'shivtecha b'veitecha — prat l'osek b'mitzvah* — "when you dwell in your house" excludes one who is occupied with a mitzvah. *u'v'lechtecha vaderech — prat l'chatan* — "when you walk on the way" excludes a groom on his wedding night, who is mentally preoccupied with the mitzvah that is about to be performed, and is therefore considered an *osek b'mitzvah* and exempt from reciting Shema.
 

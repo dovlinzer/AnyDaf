@@ -140,7 +140,7 @@ The Gemara asks: *hi samuch le-mincha* — which *mincha* does the Mishnah refer
 
 The question is which period triggers the Mishnah's restrictions. Logically, one would assume *mincha ketana*: at *mincha gedola*, one still has five and a half hours remaining in the day. How can anyone be concerned about forgetting to daven when there is that much time? The Gemara confirms this initial logic: *eileima le-Mincha Gedola, amai lo? Ha-ika she'os ha-yom tuba* — if it means before *mincha gedola*, why not? You have plenty of time. *Ela samuch le-mincha ketana* — so the Mishnah must mean right before *mincha ketana*, around 3:00 PM.
 
-### Rav Yehoshua Contradicti…
+### Rav Yehoshua's Position
 
 Having established this, the Gemara raises a contradiction with the position of Rabbi Yehoshua ben Levi, who said: *keivan she-higi'a zman tefilat ha-mincha, assur la-adam she-yitam klum kodem she-yispalel* — once the time for *mincha* prayer has arrived, it is forbidden for a person to taste anything before davening. The phrasing *assur litom klum* — forbidden to taste anything at all — sounds absolute, suggesting that even if one has already begun eating, one must stop. This stands in tension with the Mishnah's ruling that once one has begun, one does not interrupt.
 
@@ -208,7 +208,7 @@ The Gemara resolves this as follows: *lo peligi, ha lan ve-ha le-hu* — they ar
 
 ### Maariv Reshut Rule
 
-Abaye's comment leads the Gemara into a topic that might initially seem like a digression but is in fact one of the primary loci for a major halachic question discussed at length in Tractate Berachot: the status of *tefillat arvis* as either *reshut* (optional) or *chova* (obligatory). The full implications of that debate were not explored in Berachot, and the key discussion, as the lecturer observes, winds up here in Shabbat. Abaye says: *hani chavran Bavla'ei, le-man de-amar tefillat arvis reshut* — these Babylonian colleagues of ours, according to the view that *maariv* is a *reshut*, *keivan de-sharrei lahenne* — once they have loosened their belts and begun the meal, *u-matrichinnan lei* — we do not burden them by requiring them to interrupt and go daven *maariv* first.
+Abaye's comment leads the Gemara into a topic that might initially seem like a digression but is in fact one of the primary loci for a major halachic question discussed at length in Tractate Berachot: the status of *tefillat arvis* as either *reshut* (optional) or *chova* (obligatory). The full implications of that debate were not explored in Berachot, and the key discussion winds up here in Shabbat. Abaye says: *hani chavran Bavla'ei, le-man de-amar tefillat arvis reshut* — these Babylonian colleagues of ours, according to the view that *maariv* is a *reshut*, *keivan de-sharrei lahenne* — once they have loosened their belts and begun the meal, *u-matrichinnan lei* — we do not burden them by requiring them to interrupt and go daven *maariv* first.
 
 ### Mincha vs. Maariv
 

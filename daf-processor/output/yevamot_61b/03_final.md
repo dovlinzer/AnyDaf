@@ -1,4 +1,5 @@
 # Yevamot 61b — Daf Yomi Shiur
+[DAF:61a]
 
 ## Aylonit & Zonah (III)
 
@@ -212,6 +213,7 @@ A *baraita* attributed to Rabbi Natan presents a variant reading of Beit Shammai
 
 A second *baraita* attributed to Rabbi Natan presents yet another version: *Beit Shammai omrim zachar u-nekeva* (what we had known as the Beit Hillel position), and *Beit Hillel omrim o zachar o nekeva* — even one child of either sex suffices.
 
+[DAF:61b]
 ### Hevel & Sister
 
 > **Hebrew/Aramaic:** תַּנְיָא, רַבִּי נָתָן אוֹמֵר: בֵּית שַׁמַּאי אוֹמְרִים: שְׁנֵי זְכָרִים וּשְׁתֵּי נְקֵבוֹת, וּבֵית הִלֵּל אוֹמְרִים: זָכָר וּנְקֵבָה. אָמַר רַב הוּנָא: מַאי טַעְמָא דְּרַבִּי נָתָן אַלִּיבָּא דְּבֵית שַׁמַּאי? דִּכְתִיב: ״וַתּוֹסֶף לָלֶדֶת אֶת אָחִיו אֶת הָבֶל״: הֶבֶל וַאֲחוֹתוֹ, קַיִן וַאֲחוֹתוֹ, וּכְתִיב: ״כִּי שָׁת לִי אֱלֹהִים זֶרַע אַחֵר תַּחַת הָבֶל כִּי הֲרָגוֹ קָיִן״. וְרַבָּנַן? אוֹדוֹיֵי הוּא דְּקָא מוֹדְיָא.

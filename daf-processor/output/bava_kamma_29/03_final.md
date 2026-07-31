@@ -1,4 +1,5 @@
 # Bava Kamma 29 — Daf Yomi Shiur
+[DAF:28b]
 
 ## Rav v. Shmuel
 
@@ -102,6 +103,7 @@ This conclusion immediately raises a profound objection. The *Gemara* asks: *ama
 
 The *Gemara* then entertains the possibility that this principle of *ones* exemption applies only to capital crimes — *inyanei kilkala* — but that in matters of *nezikin* there might be strict liability. The rationale for strict liability is not arbitrary: if my water caused your injury, why should *you* be the one to absorb the loss? The fact that I am blameless may be morally significant, but from a civil damages perspective, my property was the instrument of harm. This principle exists elsewhere in the *Gemara*'s framework: *adam mu'ad le'olam* — a person is always forewarned, always liable for bodily damage regardless of intent or care, establishing that strict liability is not alien to *halakha*.
 
+[DAF:29a]
 ### Braita Cases
 
 > **Hebrew/Aramaic:** פָּטוּר מִדִּינֵי אָדָם, וְחַיָּיב בְּדִינֵי שָׁמַיִם.
@@ -276,6 +278,7 @@ The *Gemara* immediately clarifies: this dispute does not concern the *nitkal* c
 
 The *Gemara* concludes that Rav Elazar is the one who holds *chayav* — meaning that one does not need to own the *bor* in order to be liable for it. The textual basis for this is a statement of Rav Elazar in the name of Rabbi Yishmael: *shnei devarim einam bi-reshuto shel adam ve-hakatuv asa'an ke-ilu hem bi-reshuto* — there are two things that are not truly in a person's domain, yet the Torah treats them as if they were. These are: a *bor bi-reshut harabbim* and *chametz* from midday of Pesach onwards. Chametz at that point is *assur be-hana'ah* — forbidden to derive benefit from — and thus cannot truly be owned; yet the Torah holds one accountable for its presence. Similarly, a *bor* dug in the public domain is not owned property — one does not own the public domain — yet the Torah imposes liability on the one who dug it. Rav Elazar thus establishes explicitly that *bor* liability does not require ownership; it is grounded in the act of creation and the resulting hazard, not in continuing proprietary interest.
 
+[DAF:29b]
 ### Dung Case
 
 > **Hebrew/Aramaic:** וּמִי אָמַר רַבִּי אֶלְעָזָר הָכִי? וְהָא אָמַר רַבִּי אֶלְעָזָר אִיפְּכָא! דִּתְנַן: הַהוֹפֵךְ אֶת הַגָּלָל בִּרְשׁוּת הָרַבִּים, וְהוּזַּק בָּהֶן אַחֵר – חַיָּיב בְּנִזְקוֹ. וְאָמַר רַבִּי אֶלְעָזָר: לֹא שָׁנוּ אֶלָּא שֶׁנִּתְכַּוֵּין לִזְכּוֹת בָּהֶן, אֲבָל לֹא נִתְכַּוֵּין לִזְכּוֹת בָּהֶן – פָּטוּר. אַלְמָא מַפְקִיר נְזָקָיו – פָּטוּר!

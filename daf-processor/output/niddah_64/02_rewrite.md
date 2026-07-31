@@ -2,7 +2,7 @@
 
 ## Vestot Overview
 
-### Veset Haguf/Hayamim Revi…
+### Veset Haguf & Hayamim
 
 We pick up at the bottom of 63b, in the midst of the ongoing discussion of *vestot*. By way of review: the *veset haguf* refers to bodily experiences — such as cramps or other physical sensations — that indicate a woman is approaching her period. The *veset hayamim* refers to a cyclical pattern based on a fixed number of days. Interestingly, the *veset haguf* was considered more precise and, in certain respects, more significant: whereas a *veset haguf* required three repetitions to be established, it was seen as a sharper indicator of the body's state. By contrast, for a *veset hayamim*, there is no marital relations permitted for the entire day-unit — whether daytime or nighttime — during which the woman is expected to see.
 
@@ -134,7 +134,7 @@ The general tendency among the *rishonim* is that a *veset kavua* must be *repla
 
 ---
 
-## Dam Betulim Intro (III)
+## Dam Betulim Intro
 
 ### Women as Vines
 
@@ -162,7 +162,7 @@ If, however, the bleeding occurs consistently regardless of position — she ble
 
 ---
 
-## Dam Betulim Intro (III)
+## Dam Betulim Intro (II)
 
 ### Rabbi Yehuda
 
@@ -186,7 +186,7 @@ According to *Rav*, this phrasing of "until *Motzaei Shabbat*" is simply the nat
 
 ---
 
-## Dam Betulim Intro (III)…
+## Dam Betulim Intro (III)
 
 ### Blood & Fertility
 

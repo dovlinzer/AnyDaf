@@ -1,6 +1,6 @@
 # Bava Batra 99 — Daf Yomi Shiur
 
-## Kodesh Kodashim Measurem…
+## Kodesh Kodashim: Dvir Ht
 
 ### Pesuk Contradiction
 
@@ -62,13 +62,13 @@ What is striking about this sequence is that the original statement of Shmuel in
 
 ## Keruvim Orientation
 
-### Facing Each Other or Bay…
+### Facing Each Other vs Bay
 
 Having addressed how the *keruvim* fit within the *kodesh kodashim*, the *gemara* turns to the question of how they were oriented. Rabbi Yochanan and Rabbi Elazar dispute the matter. One holds *pneihem ish el achiv* — they faced one another, as described in the *pasuk* in Shemot concerning the *keruvim* atop the *aron*. The other holds *pneihem labayit* — they faced outward toward the main hall of the *beis hamikdash*, toward the *parochet*.
 
 The difficulty is that there are *pesukim* supporting both positions. One could answer that the *keruvim* on the *aron* faced one direction and the larger *keruvim* Shlomo placed standing on the floor of the *kodesh kodashim* faced another. But the *gemara* seeks an understanding that applies consistently to both.
 
-### Temporal Orientation Cha…
+### Temporal Orientation
 
 The resolution is a temporal one: *lo kashya, kan bizman she-Yisrael osin retzono shel Makom, kan bizman she-ein Yisrael osin retzono shel Makom* — there is no contradiction, because the orientation changed depending on the spiritual state of Israel. When Israel was fulfilling God's will, the *keruvim* faced one another, conveying intimacy — the intimacy between God and *Bnei Yisrael*, represented by the two figures drawing close. When Israel was not doing God's will, they turned their faces away from one another, like a couple in a dispute who are still living together but giving each other the silent treatment — the relationship persisted but the closeness was suspended.
 
@@ -196,11 +196,11 @@ Rav Zevid in the name of Rava explains that the transaction is indeed illegitima
 
 Rav Mesharshiya also in the name of Rava offers a superficially similar formulation but with a meaningfully different position: he is actually describing a case where the owner *did* give a twisted road. Under his reading, a genuinely equivalent road could be validly exchanged — the *mishnah* is simply discussing a case where the road offered was not in fact equivalent, and therefore the transaction fails. This position is more permissive than Rav Zevid's across the board invalidation.
 
-### Rav Ashi: Any Change Har…
+### Rav Ashi: Any Alternative
 
 Rav Ashi states a more sweeping principle: *kol min hatzad derech akalton hi* — any side road is, by definition, a twisted road for someone. *Kerova lizeh verachoka lizeh* — what is close for one person is far for another. Any change in the routing of a public road inevitably benefits certain travelers and inconveniences others. The people who used to live along the original road now have a longer walk; the people who happen to live near the new road benefit. Since no change can ever be neutral for all members of the public, and since the public has no formal representative in the negotiation, any such unilateral transaction must be considered illegitimate. The field owner simply lacks the authority to impose a road change on a community of diverse interests.
 
-### Rabbi Eliezer: Path Sele…
+### Rabbi Eliezer: Path Sel
 
 Given that the transaction was not valid, the *gemara* asks: the field owner should be able to recover his old road — *shaklu didchu vehavu li didi*, take back yours and give me mine. Why does the *mishnah* rule that he does not get it back?
 

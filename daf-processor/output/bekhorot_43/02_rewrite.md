@@ -6,7 +6,7 @@
 
 Daf 43 opens a new *perek*, *Mumim Ellu*, transitioning from the earlier discussion of blemishes in animals to the parallel category of blemishes in *kohanim*. The connection is organic: while the *masechta* is primarily concerned with the *bechor*, the issue of *mumim* naturally bridges to the priestly service. Although this is not strictly about the *bechor* in the narrow sense, the conceptual framework — what constitutes a disqualifying blemish — applies across both domains, and the Mishnah treats them together.
 
-### Kohanim-Specific Blemish…
+### Kohanim Blemishes
 
 The Mishnah introduces a list of blemishes that are additional to those shared with animals — conditions that disqualify a *kohen* but have no exact parallel in the laws governing animal offerings. These include distinctive head shapes referred to as *kilyon*, *liftan*, and *makban*; deformities of the neck known as *shakut* and *shamut*; a condition called *skifat* affecting the back of the skull; and *ba'alei chatoteret*, those with a hunchback or dorsal growth. The Mishnah then addresses *kireach* — baldness — and records a dispute concerning whether a hunchback is disqualifying.
 
@@ -116,7 +116,7 @@ The answer is *mishum achulei avoda* — the difference lies in whether the *avo
 
 The Gemara then introduces a third category: *marit ha'ayin*. This is a term familiar from other halakhic contexts — for instance, the prohibition against leaving non-dairy creamer out alongside a *fleishig* meal because of how it appears to observers. Here, *marit ha'ayin* refers to conditions of a *kohen*'s appearance that are visually distracting to the people in the *Azarah* who observe him during the *avodah*, but which do not constitute a *mum* and do not fall within the category of *she'eino shaveh bezera shel Aharon*. The example brought in the next Mishnah is eyelashes that have fallen out. This is visually unusual and distracting, but it is natural, not necessarily far outside the normal distribution, and certainly not a classical *mum*. The Mishnah explicitly labels such cases *mishum marit ha'ayin*.
 
-### Three Categories
+### Three Categories (II)
 
 The Gemara thus lays out three precisely defined halakhic categories. First, a genuine *mum*: this *machil avoda*, invalidates the service retroactively, and it is a *lo ta'aseh* for the *kohen* to perform service in such a state. Second, *she'eino shaveh bezera shel Aharon*: this does not invalidate the *avodah* retroactively; it is only an *aseh*, a positive command, not to serve in this condition — a biblically grounded prohibition of lesser force. Third, *marit ha'ayin*: purely rabbinic in origin, not a Torah prohibition at all, and similarly does not invalidate the *avodah*. These three categories are conceptually clean and halakhically differentiated, and they will govern the analysis of each specific condition in the Mishnah.
 

@@ -160,7 +160,7 @@ Abaye objects: *ela ke-man? Ke-ven chorin?* If not assessed like a slave, then y
 
 ---
 
-## Assessment Without Marke…
+## Assessment w/o Markets
 
 ### Donkey Case
 

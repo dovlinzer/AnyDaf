@@ -1,4 +1,5 @@
 # Bava Kamma 92 — Daf Yomi Shiur
+[DAF:91b]
 
 ## Self-Injury & Exempt Acts
 
@@ -104,6 +105,7 @@ The *gemara* then introduces a crucial qualification: *v'im haya me'ula b'damim 
 
 One might ask how exactly to perform this calculation. Is it the immediate value of the wood versus the cumulative value of the fruit over the tree's lifetime? The principle is clear even if the precise arithmetic is left open: the governing standard is financial rationality, not categorical tree type.
 
+[DAF:92a]
 ### Textual Abstraction
 
 > **Hebrew/Aramaic:** תַּנְיָא נָמֵי הָכִי: ״רַק עֵץ אֲשֶׁר תֵּדַע״ – זֶה אִילַן מַאֲכָל, ״כִּי לֹא עֵץ מַאֲכָל הוּא״ – זֶה אִילַן סְרָק.
@@ -344,6 +346,7 @@ God heard, and the bones were restored — *al eivarei l'shafa*, the limbs retur
 
 Rava asks: what is the source for the popular saying *basar anya azla anyusa* — poverty follows the poor? The rich get richer and the poor get poorer. Rabbah bar Mari cites the *mishnah* on *bikurim*: wealthy people would bring their *bikurim* in baskets of gold and silver, while poor people brought theirs in baskets of wicker made from peeled willow. When the *bikurim* were presented to the *kohanim*, the *kohanim* kept the baskets along with the produce. The rich man's gold or silver basket was returned to him; the poor man's wicker basket was kept. So not only did the poor man have to give up his produce — he also had to surrender his basket. Poverty follows the poor: even in the performance of a *mitzvah*, the poor man is further diminished.
 
+[DAF:92b]
 ### Metzora Self
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ: אַתְּ אָמְרַתְּ מֵהָתָם, וַאֲנָא אָמֵינָא מֵהָכָא: ״וְטָמֵא טָמֵא יִקְרָא״.

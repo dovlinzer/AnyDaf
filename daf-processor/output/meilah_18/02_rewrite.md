@@ -22,7 +22,7 @@ In any case, this rabbinic *tumah* — being of lesser character — is what the
 
 However, Shmuel adds: *aval min ha-achilah mitztarfin* — but with respect to the prohibition of eating, they do combine. A *baraita* is cited: Rabbi Eliezer derives from the verse *lo yochal ki kodesh heim* — "it shall not be eaten for they are holy" — that there is a generic negative prohibition applicable to anything that has become *pasul* on account of its *kedushah* status, the classic examples being *pigul* and *nosar*. This generic prohibition of eating all *psulei ha-mukdashin* means that *pigul* and *nosar*, despite being distinct specific prohibitions, share a common *issur achilah* under which they can combine. The combination does not produce liability for *karet* — for that, one would need a *kezayit* of the specific item — but it does produce a transgression of this generic prohibition, for which one would receive *malkot*.
 
-## Tumah Sources & Leve (II)
+## Tumah Sources & Levels
 
 ### Av vs. Velad HTumah
 
@@ -38,7 +38,7 @@ The *Gemara* then asks the precise meaning of Rabbi Shimon's explanation: *she-e
 
 Rav Ashi offers an additional formulation: *rishon v'sheni legabi shelishi benei chada bikta inun* — a *rishon* and a *sheni* are, from the perspective of a *shelishi*, members of the same household. The practical implication is that what a *sheni* typically seeks to render *tamei* is *terumah*, which it would render a *shelishi*. From the vantage point of the *terumah* being rendered *tamei*, both a *rishon* and a *sheni* occupy the same functional category — both have the capacity to defile it. As Rashi notes, this is not so much a different answer as another way of articulating the same underlying principle: that derivative *tumah* is generic enough in character that a *rishon* and a *sheni* can combine.
 
-## Foods/Liquids Combinatio…
+## Foods & Liquids Tumah
 
 ### Food Shiurim Combos
 

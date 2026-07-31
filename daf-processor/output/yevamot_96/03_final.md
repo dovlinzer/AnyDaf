@@ -1,4 +1,5 @@
 # Yevamot 96 — Daf Yomi Shiur
+[DAF:95b]
 
 ## Rabbi Yossi & Shmuel
 
@@ -120,6 +121,7 @@ The larger *chiddush* emerging from the entire extended discussion is worth paus
 
 ## Sequential Sisters
 
+[DAF:96a]
 ### Three Wives Setup
 
 > **Hebrew/Aramaic:** מַתְנִי׳ אָמְרוּ לוֹ: ״מֵתָה אִשְׁתְּךָ״, וְנָשָׂא אֲחוֹתָהּ מֵאָבִיהָ. מֵתָה, וְנָשָׂא אֲחוֹתָהּ מֵאִמָּהּ. מֵתָה, וְנָשָׂא אֲחוֹתָהּ מֵאָבִיהָ. מֵתָה, וְנָשָׂא אֲחוֹתָהּ מֵאִמָּהּ, וְנִמְצְאוּ כּוּלָּן קַיָּימוֹת — מוּתָּר בָּרִאשׁוֹנָה וּבַשְּׁלִישִׁית וּבַחֲמִישִׁית, וּפוֹטְרוֹת צָרוֹתֵיהֶן.
@@ -278,6 +280,7 @@ A related case: the same minor who had *bi'ah* with the *yevamah* then also has 
 
 Rabbi Shimon disagrees with both cases. His position, explained in the *baraita*, is: *im biah rishonah biah, biah sheniyah einah biah* — if the first act was a full, binding *bi'ah*, then the second act is simply not a *bi'ah* at all (since the matter is already settled). And *v'im biah rishonah einah biah, biah sheniyah nami einah biah* — if the first act was not a full, binding *bi'ah*, then the second act is likewise not a *bi'ah*. Rabbi Shimon rejects the intermediate, fifty-percent position entirely. For him, the minor's act is either one hundred percent effective or zero percent effective — there is no quasi-status.
 
+[DAF:96b]
 ### All-or-Nothing Logic
 
 > **Hebrew/Aramaic:** מַתְנִיתִין דְּלָא כְּבֶן עַזַּאי. דְּתַנְיָא, בֶּן עַזַּאי אוֹמֵר: יֵשׁ מַאֲמָר אַחַר מַאֲמָר בִּשְׁנֵי יְבָמִין וִיבָמָה אַחַת. וְאֵין מַאֲמָר אַחַר מַאֲמָר בִּשְׁתֵּי יְבָמוֹת וְיָבָם אֶחָד.

@@ -156,7 +156,7 @@ Rav Pappa explains the apparent tension between our *mishna* — which says the 
 
 Abaye adds a practical dimension: from the third time onward, how does the court determine whether there is *mamashut* to the claim? A pair of rabbis accompanies the condemned and listens to what he intends to say. *Ei ika mamash bidvarav in, ei lo lo* — if there is substance, he is brought back; if not, he is not. One might ask why this procedure is not applied from the very first appeal. The *gemara* answers: *agav d'ba'it lei* — because the condemned is frightened and may not be able to fully articulate his claim under that duress, the court gives him unconditional latitude for the first two attempts.
 
-## Pre-Execution Announceme…
+## Announcement Before Run
 
 ### Announcer Role
 

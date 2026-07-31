@@ -82,7 +82,7 @@ According to Abaye, who already knows that violations produce effects, why does 
 
 ---
 
-## Species-to-Species Terum…
+## Species-to-Species Gifts
 
 ### Species Rule
 
@@ -170,7 +170,7 @@ The *Gemara* turns now to a case that is in some ways the most conceptually dire
 
 The *Mishnah* states: *hamakdim — af al pi shehu belo ta'aseh, ma she'asa asui* — if one went out of order, even though it constitutes a violation of a *lo ta'aseh*, what was done is done. What is striking about this case — and about the parallel formulation in the laws of *temura* — is that the conceptual tension is explicitly articulated in the language of the *Mishnah* itself: you are forbidden to do it, yet if you did, it takes effect. This is Abaye's principle stated in so many words.
 
-### Challenge to Rava
+### Challenge to Rava (II)
 
 The *Gemara* presents this as *tiyuvta deRava*: here the Mishnah explicitly says the act takes effect despite the violation. According to Rava's principle, it should not.
 
@@ -200,7 +200,7 @@ The final case considered in this section concerns a *kohen gadol* who marries a
 
 The general rule, derived from the principle *kol makom she'yeish kiddushin v'yeish aveirah, havlad holeich achar hapagum*, is that when *kiddushin* is effective despite a prohibition, the child follows the stigmatized party — meaning the child is *pasul* (*chalal*) but not a *mamzer*. The severe *issurei arayos* — *kares*-level prohibitions such as incest or adultery — produce no *kiddushin* at all, and the child is a *mamzer*. But the case of a *kohen gadol* with an *almanah* or a regular *kohen* with a *gerushah* is at a lower level of severity, and *kiddushin* does take effect. The child becomes *pasul* for *kehunah*, but the marriage registers.
 
-### Challenge to Rava
+### Challenge to Rava (II)
 
 The *braisa* explicitly states *yeish kiddushin* — there is *kiddushin* in this case. This is a direct challenge to Rava: why does the forbidden act take effect?
 

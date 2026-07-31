@@ -1,4 +1,5 @@
 # Nazir 49b — Daf Yomi Shiur
+[DAF:49a]
 
 ## Overview & Context
 
@@ -22,6 +23,7 @@ An important nuance emerges: in a few cases, something causes *tumat meit* as a 
 
 ## Mishnah: Tumah Items
 
+[DAF:49b]
 ### Mishnah Introduction
 
 > **Hebrew/Aramaic:** מַתְנִי׳ עַל אֵלּוּ טוּמְאוֹת הַנָּזִיר מְגַלֵּחַ: עַל הַמֵּת, וְעַל כְּזַיִת מִן הַמֵּת, וְעַל כְּזַיִת נֶצֶל, וְעַל מְלֹא תַּרְווֹד רָקָב. עַל הַשִּׁדְרָה, וְעַל הַגּוּלְגּוֹלֶת, וְעַל אֵבֶר מִן הַמֵּת, וְעַל אֵבֶר מִן הַחַי שֶׁיֵּשׁ עָלָיו בָּשָׂר כָּרָאוּי, וְעַל חֲצִי קַב עֲצָמוֹת, וְעַל חֲצִי לוֹג דָּם.

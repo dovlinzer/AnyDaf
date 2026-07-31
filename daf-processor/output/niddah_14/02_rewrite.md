@@ -2,7 +2,7 @@
 
 ## Zera L'vatala
 
-### Hand Cutting: Law or Cur…
+### Hand Cutting: Law/Curse?
 
 The Gemara on 13b, approximately twenty lines into the page, concludes its extended discussion of *zera l'vatala* with a pointed question about the precise legal weight of the phrase appearing in the Mishnah: that the hand of a man who acts improperly "should be cut off." The Gemara asks directly — *dina tenan o litusa tenan*? Is this literally the law, or is it a curse?
 
@@ -22,7 +22,7 @@ The subsequent exchange reinforces this reading. The rabbis ask Rabbi Tarfon: wh
 
 The Gemara stops short of a definitive resolution. The preferred reading is clearly figurative, but the question is left somewhat open. The sense one gets from the Gemara's structure — introducing a possibility and then retreating from it — is that it favors the figurative reading, and the precedent of the verse in Deuteronomy about the woman who grabs a man's genitals, whose "hand" the Gemara treats figuratively, supports this. But it remains ambiguous.
 
-### Religious Weight & Halac…
+### Religious Weight & Halac
 
 Beyond the narrow question of literal versus figurative, the broader question of the halachic and religious weight of *zera l'vatala* deserves attention. The Gemara employs a range of vivid rhetorical formulations in this context — one who is wasteful of seed is deserving of a curse, compared to one who sheds blood, described as producing children of the flood. These formulations parallel other Talmudic hyperboles: one who gets angry is *ke'ilu oved avodah zarah*; one who has *ga'avah* is *ke'ilu oved avodah zarah*; one who does not engage in procreation is *ke'ilu shofech damim*. These are not merely empty expressions — they tap into the nature of the underlying concern. Not engaging in *periyah ve'riviyah* is *ke'ilu shofech damim* because one is withholding life from the world. The hyperbole is purposeful, but it remains *ke'ilu*, "as if," and does not generate literal legal consequences.
 
@@ -32,7 +32,7 @@ This creates serious tension, particularly in the contemporary context. The Gema
 
 ---
 
-## Women & Diminished Capac…
+## Women, Deaf-Mutes, Insane
 
 ### Categories & Definitions
 
@@ -138,7 +138,7 @@ The Gemara then notes that the *chachamim* agree with Rabbi Akiva in one specifi
 
 ---
 
-## Blood Source Determinati…
+## Menstrual vs Insect Blood
 
 ### Louse Blood Concern
 

@@ -4,7 +4,7 @@
 
 ### Mishnah Clarification
 
-The daf opens with a corrective gloss on the *mishnah*. The *mishnah* speaks of four brothers, and the *gemara* immediately notes that the formulation "four brothers" raises an obvious difficulty: if they all died, who remains to perform *yibum*? The *gemara* therefore emends the reading — *ela eima arba me-achim*, say rather that four of the brothers died, leaving four widows, while other brothers survive. This is, as the lecturer observes, one of those *mishnayot* in this *masechet* that would have made an excellent opening for the tractate had it appeared earlier.
+The daf opens with a corrective gloss on the *mishnah*. The *mishnah* speaks of four brothers, and the *gemara* immediately notes that the formulation "four brothers" raises an obvious difficulty: if they all died, who remains to perform *yibum*? The *gemara* therefore emends the reading — *ela eima arba me-achim*, say rather that four of the brothers died, leaving four widows, while other brothers survive. This is one of those *mishnayot* in this *masechet* that would have made an excellent opening for the tractate had it appeared earlier.
 
 ### Oldest Brother Priority
 
@@ -32,7 +32,7 @@ The immediate question is why the *mishnah* limits the brother to four wives. If
 
 ### Senegal Digression
 
-It is an interesting coincidence that Islamic law similarly limits a man to four wives, a number said to reflect the personal practice of Muhammad. The parallel with the Talmud's reasoning is worth noting, though the justifications differ. By way of illustration: on a rabbinic mission to Senegal — a society in which the overwhelming majority of the population practices polygamy, with only a small Christian minority living monogamously — the lecturer had occasion to observe a kind of living parallel to the world of *Avraham, Yitzchak, ve-Yaakov*: village compounds in which co-wives occupied separate quarters, maintained their own domestic rotations, and shared child-rearing responsibilities. A question from one of the visiting rabbinical students — "what is it like living in a polygamous society?" — met with understandable puzzlement from the Senegalese women, who might equally have asked what it is like to be monogamous. The tension was dissolved with a joke: asked what the penalty for polygamy is, the answer was — two mothers-in-law. The laughter that followed confirmed that mother-in-law humor requires no translation across cultures.
+It is an interesting coincidence that Islamic law similarly limits a man to four wives, a number said to reflect the personal practice of Muhammad. The parallel with the Talmud's reasoning is worth noting, though the justifications differ. By way of illustration: on a rabbinic mission to Senegal — a society in which the overwhelming majority of the population practices polygamy, with only a small Christian minority living monogamously — I had occasion to observe a kind of living parallel to the world of *Avraham, Yitzchak, ve-Yaakov*: village compounds in which co-wives occupied separate quarters, maintained their own domestic rotations, and shared child-rearing responsibilities. A question from one of the visiting rabbinical students — "what is it like living in a polygamous society?" — met with understandable puzzlement from the Senegalese women, who might equally have asked what it is like to be monogamous. The tension was dissolved with a joke: asked what the penalty for polygamy is, the answer was — two mothers-in-law. The laughter that followed confirmed that mother-in-law humor requires no translation across cultures.
 
 ---
 
@@ -248,7 +248,7 @@ The *niddah* case presents itself as a powerful illustration. Relations with a *
 
 The *gemara* raises a challenge from a *baraita*: *Rabbi Shimon ben Yehuda omer ein mamzer ela mi-she-issuro issur ervah ve-onush kares* — a *mamzer* results only from a union that is both a sexual prohibition (*issur ervah*) and punishable by *kares*. Intercourse with a non-Jew, being only an *issur lav*, would not produce a *mamzer* on this view. The *baraita* thus directly contradicts the claim that "everyone" agrees a non-Jew-fathered child is a *mamzer*.
 
-### Rabbi's Possible Excepti…
+### Rabbi Exception: Non-Jew
 
 *Rav Yosef* responds: *Ella amar Rav Yosef man d'chula modei Rabbi* — the "everyone" who concedes this point is *Rebbi*, Rabbi Yehudah HaNasi himself. Although *Rebbi* in another context says the lenient positions apply only according to Rabbi Akiva, and his own ruling aligns with the view that *mamzer* requires *issur kares* — nevertheless, in the specific case of a non-Jewish or slave father, *Rebbi* may concede that the child is a *mamzer*. The rationale is that even one who normally reserves *mamzer* status for *issur kares* might make an exception when *kiddushin* is categorically impossible, treating the non-Jew case as functionally equivalent to an *issur kares* situation in terms of its legal consequences. This remains the position being tested.
 

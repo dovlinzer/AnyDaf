@@ -1,4 +1,5 @@
 # Yoma 13 — Daf Yomi Shiur
+[DAF:13a]
 
 ## Backup Kohen Gadol
 
@@ -170,6 +171,7 @@ The choice of "entering a *beit knesset*" as the trigger is, as the *Gemara* imp
 
 This entire discussion is, as *Rashi* cautioned, more a framework for thinking through the problem than a fully worked-out practical solution. Each step clears one obstacle while leaving others unaddressed, and the *Gemara* is transparent that many objections could be raised that it does not stop to answer.
 
+[DAF:13b]
 ### Rav Ashi
 
 > **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב אַסִּי, וְאִיתֵּימָא רַב עַוִּירָא: אֶלָּא מֵעַתָּה, שְׁתֵּי יְבָמוֹת הַבָּאוֹת מִבַּיִת אֶחָד, לֹא יִתְיַיבְּמוּ! ״יְבִמְתּוֹ״ ״יְבִמְתּוֹ״ רִיבָּה. מַתְקֵיף לַהּ רָבִינָא, וְאִיתֵּימָא רַב שֵׁרֵבְיָה: אֶלָּא מֵעַתָּה אֲרוּסָה לֹא תִּתְיַיבֵּם? ״הַחוּצָה״, לְרַבּוֹת אֶת הָאֲרוּסָה.

@@ -1,6 +1,6 @@
 # Taanit 5 — Daf Yomi Shiur
 
-## Mashiv HaRuach & Shmini…
+## Mashiv HaRuach: Shmini Az
 
 ### Three Solutions Debate
 
@@ -40,11 +40,11 @@ Rav Chananel's formulation is illuminating in a different way. By framing the ma
 
 The Mishnah now asks: *ad matay sho'alin et ha'geshamim* — until when does one recite *veten tal u'matar*? One might expect the Mishnah to have addressed when one *begins* asking for rain before addressing when one stops. The reversal of order is deliberate: the following Mishnah takes up the question of when one begins asking for rain in *Marcheshvan*, and that discussion opens naturally into the arc of what happens when rain does not come — the progression toward public fasting. In order to flow into that narrative of escalating response to drought, the tractate first dispatches the question of when the rain prayers cease, and only then returns to when they begin.
 
-### Rabbi Yehuda: Until Pesa…
+### Rabbi Yehuda: Until Pesah
 
 Rabbi Yehuda holds: *ad she'ya'avor ha'Pesach* — until *Pesach* has passed. This can be reconciled with another formulation attributed to Rabbi Yehuda specifying the first day of *Pesach*; the two may represent variant traditions of his view.
 
-### Rabbi Meir: Until Nisan…
+### Rabbi Meir: Until Nisan
 
 Rabbi Meir goes further: *ad she'yeitzei Nisan* — one continues reciting *veten tal u'matar* through the entire month of *Nisan*.
 
@@ -54,7 +54,7 @@ Rabbi Meir derives this from the verse in *Yoel*: *ve'yored lachem geshem moreh 
 
 ---
 
-## Yoreh in Nisan Probl (II)
+## Yoreh in Nisan Problem
 
 ### Early Rain in Nisan?
 
@@ -100,7 +100,7 @@ The Gemara links this to the verse: *ha'zor'im be'dimah be'rinah yiktzoru* — t
 
 ---
 
-## Aggadic Dialogue Ser (II)
+## Aggadic Dialogue Series
 
 ### Famine Food Sources
 
@@ -184,6 +184,6 @@ Rav Yitzchak then offered an independent teaching: *kol ha'omer Rachav Rachav mi
 
 As they prepared to part, Rav Nachman asked Rav Yitzchak for a *berachah*. Rav Yitzchak responded with a *mashal*, a parable that has become among the most celebrated in the Gemara. *Le'adam she'hayah holech ba'midbar ve'hayah ra'ev ve'ayef ve'tzameh u'matza ilan she'perotav metukim ve'tzilo na'eh ve'amat ha'mayim overet tachtav* — a man was traveling through the wilderness, hungry, weary, and thirsty. He found a tree whose fruit was sweet, whose shade was pleasant, and beneath which ran a brook of water. He ate of the fruit, drank of the water, and rested in the shade. When the time came to leave, he addressed the tree: *ilan ilan, ba'meh avarechecha?* — Tree, tree, what blessing can I give you? If I bless you that your fruit should be sweet — your fruit is already sweet. That your shade should be pleasant — your shade is already pleasant. That a brook should pass beneath you — the brook already flows. So he said: *yehi ratzon she'kol neti'ot she'not'im mimcha yihyu kamotcha* — may it be God's will that all the saplings planted from you be just like you.
 
-### Blessing Future Generati…
+### Bless Future Generations
 
 Rav Yitzchak then turned this *mashal* on Rav Nachman: *af atah* — so too you. How shall I bless you? *Im ba'Torah harei Torah, im be'osher harei osher, im be'vanim harei vanim* — in Torah, you already have Torah; in wealth, you already have wealth; in children, you already have children. Therefore: *yehi ratzon mi'pi ha'Gadol she'yihyu tze'etza'ei me'echa kamotcha* — may it be the will of the Great One that the descendants who emerge from you be just like you.

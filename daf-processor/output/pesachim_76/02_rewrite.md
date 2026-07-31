@@ -1,8 +1,8 @@
 # Pesachim 76 — Daf Yomi Shiur
 
-## Ila'ah Gavar / Tata'ah G…
+## Ila'ah vs Tata'ah Gavar
 
-### Cham L'toch Cham / Tzone…
+### Hot into Hot, Cold Cold
 
 Daf 76 opens on the very last line of 75b, resuming from the *mishnah* studied the previous day. That *mishnah* addressed the case of a *pesach* that touches the pottery walls of the oven: if those walls are hot, the *pesach* is being roasted not directly by fire but by something that has absorbed heat, and the affected spot must be cut away. Similarly, if juices drip from the *pesach* and bounce back after being heated by the pottery walls, those juices cannot be eaten and the area they re-entered must be removed.
 
@@ -24,11 +24,11 @@ The difficult case is when one substance is hot and the other is cold: *cham l't
 
 ### Heat Rises Physics
 
-One might pause to note that from the standpoint of physics, Shmuel's position has a certain intuitive support: heat rises. If the hot substance is on top and the cold is on the bottom, much of the heat from above dissipates upward into the air rather than conducting downward. The ruling, of course, was reached before modern thermodynamics, but it is at least consistent with our understanding — *baruch Hashem*, as the lecturer observes, the halachic ruling and physical reality are not at odds here.
+One might pause to note that from the standpoint of physics, Shmuel's position has a certain intuitive support: heat rises. If the hot substance is on top and the cold is on the bottom, much of the heat from above dissipates upward into the air rather than conducting downward. The ruling, of course, was reached before modern thermodynamics, but it is at least consistent with our understanding — *baruch Hashem* the halachic ruling and physical reality are not at odds here.
 
 ---
 
-## Nataph Merutvo Al HaCher…
+## Gravy on Hot Pottery
 
 ### Pesach Juice on Pottery
 
@@ -72,7 +72,7 @@ One might also ask: if the gravy drips into a large quantity of flour, could *bi
 
 ---
 
-## Sach BaShemen Shel Terum…
+## Oil in Roasted Pesach
 
 ### Oil on Pesach Rules
 
@@ -112,7 +112,7 @@ The conclusion is that the *mishnah* cannot prove either Rav or Shmuel correct. 
 
 *Tanya kivsei d'Shmuel* — a *beraita* was taught in accordance with Shmuel. *Cham l'toch cham assur, v'chein tzonen she-nasan l'toch cham assur* — hot into hot is forbidden, and likewise cold into hot is forbidden. In both cases, the bottom is hot, and the bottom wins — that is Shmuel's position. *Cham l'toch tzonen v'tzonen l'toch tzonen, madiach* — hot into cold, or cold into cold, since the bottom is cold, simply rinsing suffices. This *beraita* is a direct ruling like Shmuel, and it is the basis for ruling *l'halacha* like *tata'ah gavar*.
 
-### Objection to Hot Into Co…
+### Objection: Hot into Cold
 
 But the *gemara* resists accepting the *beraita* as stated. *Cham l'toch tzonen madiach?* — hot into cold and you merely rinse it off? *Keivan d'cham hu*, since the upper substance is hot, *ad mekar lei* — while the cold bottom is in the process of cooling it down, *ee efshar d'lo bala purta* — it is impossible that nothing at all is absorbed in the interim. Heat transfer takes time; during that cooling process, some minimal absorption must occur. *Klipah miha nibei* — at the very least, a *klipah*, an outer layer, should be required.
 
@@ -166,7 +166,7 @@ The *gemara* relates a practical incident: *hahu bar gozala de-nafal le-khadda d
 
 ---
 
-## Roasted / Porous / Spice…
+## Roasted, Porous, Spiced
 
 ### Roasted Cold Exception
 
@@ -186,7 +186,7 @@ The broader principle emerging from these exceptions is that absorbency — not 
 
 ---
 
-## Reicha Debate: Rav vs. L…
+## Reicha: Rav vs. Levi
 
 ### Rav: Reicha Transfers
 
@@ -204,7 +204,7 @@ Levi goes to the opposite extreme: *afilu basar shechuta kachush she-tzla'o im b
 
 ## Two Pesachim Together
 
-### Baraita Text
+### Baraita Text (II)
 
 *Meitivei* — the *gemara* challenges. A *beraita* states: *ein tzolin shnei pesachim k'echad mipnei ha-ta'arovot* — one may not roast two *korban Pesach* animals side by side, because of *ta'arovot* — mixing.
 
@@ -230,7 +230,7 @@ This reading of the *beraita* actually clarifies Rav's position. *V'hachi ka-ama
 
 ---
 
-## Bread and Wine Tannaim D…
+## Bread Wine Tannaim Reicha
 
 ### Bread Wine Case
 
@@ -262,7 +262,7 @@ Rav's synthesis is thus: *reicha milsa hi* is agreed upon by all; the disagreeme
 
 ---
 
-## Bread/Fish With Meat Rul…
+## Reicha: Bread & Fish
 
 ### Bread with Meat Ruling
 
@@ -282,7 +282,7 @@ A parallel case: *ha'i binisa d'itvava b'hadai bisra* — a fish that was roaste
 
 ---
 
-## Rambam / Shulchan Aruch…
+## Rambam & Shulchan Aruch
 
 ### Rambam on Health
 

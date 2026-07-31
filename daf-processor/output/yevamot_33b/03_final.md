@@ -1,4 +1,5 @@
 # Yevamot 33b — Daf Yomi Shiur
+[DAF:33a]
 
 ## Rabbi Chiyya vs. Bar Kappara
 
@@ -18,6 +19,7 @@ The sugya on 33b picks up in the middle of a discussion concerning *issur chal a
 
 The debate was attributed to Rabbi Chiyya and Bar Kappara, both of whom swore that Rebbe had taught them his ruling — Rabbi Chiyya reporting that Rebbe said two transgressions, Bar Kappara reporting that Rebbe said one. The *Gemara* had concluded that their dispute was really about *issur b'vas achas* — prohibitions that take effect simultaneously — and whether Rabbi Shimon, who generally holds *ein issur chal al issur*, would concede that when two prohibitions arrive at exactly the same moment, both take effect. That explanation seems coherent. But it raises a sharp difficulty: if Rabbi Chiyya is correct that even Rabbi Shimon would agree to liability in a case of *b'vas achas*, from where did Bar Kappara ever hear that Rebbe taught only one transgression? The *Gemara* asks directly: *l'Rabbi Chiyya, Bar Kappara shikora kameshakeir* — is Bar Kappara simply lying?
 
+[DAF:33b]
 ### Kolel vs. Bas Achas
 
 > **Hebrew/Aramaic:** אֶלָּא, קָמִיפַּלְגִי בְּאִיסּוּר בְּבַת אַחַת, וְאַלִּיבָּא דְּרַבִּי שִׁמְעוֹן: בִּשְׁלָמָא לְרַבִּי חִיָּיא, קָא מִישְׁתְּבַע לְאַפּוֹקֵי לְרַבִּי שִׁמְעוֹן מֵחֶזְקֵיהּ. אֶלָּא לְבַר קַפָּרָא — לְמָה לֵיהּ לְאִשְׁתְּבוֹעֵי? קַשְׁיָא. בִּשְׁלָמָא לְבַר קַפָּרָא, כִּי אַתְנְיֵיהּ רַבִּי לְדִידֵיהּ — אַלִּיבָּא דְּרַבִּי שִׁמְעוֹן, כִּי אַתְנְיֵיהּ לְרַבִּי חִיָּיא — אַלִּיבָּא דְּרַבִּי יוֹסֵי. אֶלָּא לְרַבִּי חִיָּיא בַּר קַפָּרָא, שַׁקּוֹרֵי קָא מְשַׁקֵּר? אָמַר לָךְ רַבִּי חִיָּיא: כִּי אַתְנְיֵיהּ רַבִּי לְדִידֵיהּ, תַּרְתֵּי לִפְטוּר אַתְנְיֵיהּ, וְאִיסּוּר כּוֹלֵל אַתְנְיֵיהּ, וְאַלִּיבָּא דְּרַבִּי שִׁמְעוֹן.

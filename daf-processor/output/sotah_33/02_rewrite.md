@@ -1,8 +1,8 @@
 # Sotah 33 — Daf Yomi Shiur
 
-## All Languages: Sotah, Vi…
+## Sotah, Viduy, Shema
 
-### Sotah, Viduy, Shema
+### Sotah, Viduy, Shema (II)
 
 The daf opens in the middle of a discussion about which ritual declarations may be recited in any language. Already mentioned are *sotah* — not the writing of the *parsha* but the reciting of it — along with *viduy maaser* and *shema*. All three derive from the *Torah*, and the Mishnah has established that each may be performed in any language.
 

@@ -38,7 +38,7 @@ The *gemara*'s actual answer is striking: even a person with no assets benefits 
 
 This raises an interesting question about the nature of the benefit that disqualifies a witness. Is non-monetary, reputational, or psychological benefit sufficient? Perhaps it does have a concrete monetary dimension — a person burdened by outstanding debt has diminished creditworthiness and will find future borrowing more difficult or impossible. In that sense, there is a real economic value to clearing one's debt even when current assets are zero.
 
-### Tosafot: Future vs Immed…
+### Tosafot: Future vs
 
 *Tosafot* raise a sharp question: the *gemara*'s silence is puzzling. The most obvious benefit of keeping the field in Shimon's hands — that if Reuven later acquires assets, he will never have to pay Levi because the debt would already have been discharged — goes entirely unmentioned by the *gemara*. *Tosafot* articulate this: *nafka minei she-yiftaru im yisasher* — there is a clear practical difference, namely that if Reuven later becomes wealthy, he will be free of the obligation. Why doesn't the *gemara* simply say that?
 

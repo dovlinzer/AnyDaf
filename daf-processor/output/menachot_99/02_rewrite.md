@@ -22,7 +22,7 @@ There is also a more radical reading, one that Rashi is certainly not advancing 
 
 ---
 
-## Fallen Scholars & Forget…
+## Reish Lakish: Fallen Sage
 
 ### Honoring Fallen Scholars
 
@@ -92,13 +92,13 @@ The principle governing this arrangement is *ma'alin bakodesh velo moridin* — 
 
 *Ve'arba makdimim lifnehem* — four additional *kohanim* would go in ahead of them, whose role was to remove the existing bread and *levonah* as the new contingent placed the new ones. Two were assigned to take out the two columns of bread and two to take out the two dishes of *levonah*.
 
-### Positioning & Coordinati…
+### Positioning & Coord.
 
 The spatial choreography was precise. *Hamachnisim omdim batzafon upnehem ladarom* — those bringing the new bread stood in the north, facing south. Since the *shulchan* was itself positioned in the north, these four were positioned between the northern wall and the *shulchan*, facing inward toward the table. *Hamotzim omdim badarom upnehem batzafon* — those removing the old bread stood to the south, in the more open space of the *heichal*, facing toward the *shulchan*.
 
 *Elu moshchin ve'elu manichim* — the ones on the outside pull away the old bread while those between the table and the wall place the new bread into the cleared spaces. *Vetfacho shel ze keneged tfacho shel ze* — one *tefach* is directly opposite the other *tefach*, meaning the movements are so closely coordinated that the hands of the two groups are at virtually the same distance from the table at every moment.
 
-### Continuous Presence Deba…
+### Continuous Presence Deb
 
 This choreography is driven by the requirement of *lefanai tamid* — constantly before Me. For the *Tanna Kamma*, *tamid* means there cannot be even a single moment when the table holds no bread. The simultaneous pulling-away and placing-on, with hands within a *tefach* of one another, ensures that at no instant is the *shulchan* left bare.
 
@@ -126,7 +126,7 @@ If Yom Kippur fell on *erev Shabbat*, a further complexity arose: *se'iro shel Y
 
 ## Rabbi Yose's View
 
-### Morning Removal/Evening…
+### Morning Removal/Evening
 
 The Gemara now examines Rabbi Yose's position. A *baraita* states: *Rabbi Yose omer afilu silek et hayashan shacharit vesider et hachadasha aravit, ein bakach klum* — even if the old bread was removed in the morning and the new bread was not arranged until the evening, it is not a problem at all — not even *bedi'avad*. For Rabbi Yose, the requirement of *tamid* is not violated by a daytime gap.
 
@@ -216,7 +216,7 @@ The *midrash* continues with a series of reassurances — or warnings, depending
 
 ---
 
-## Babylonians vs. Alexandr…
+## Babylonians vs.
 
 ### True Identity Revealed
 

@@ -1,4 +1,5 @@
 # Bava Metzia 107 — Daf Yomi Shiur
+[DAF:106b]
 
 ## Field Rental & Crops
 
@@ -26,6 +27,7 @@ The *gemara* opens with Rav Chisda's question: what is Rabban Shimon ben Gamliel
 
 The answer given is rooted in a verse from the prophets: *She'erit Yisrael lo ya'asu avlah velo yedabru kazav velo yimatze befihem lashon tarmit* — the remnant of Israel shall not commit wrongdoing, shall not speak falsehood, and no deceitful tongue shall be found in their mouth. The principle is that Jews are forbidden to misrepresent what they undertook to do. If a contract specifies one crop, planting a different one — even a superior one for the soil — constitutes a form of deception relative to the agreed terms.
 
+[DAF:107a]
 ### Purim Collections
 
 > **Hebrew/Aramaic:** מֵיתִיבִי: מִגְבַּת פּוּרִים לְפוּרִים, וְאֵין מְדַקְדְּקִין בַּדָּבָר. וְאֵין הֶעָנִי רַשַּׁאי לִיקַּח מֵהֶן רְצוּעָה לְסַנְדָּלוֹ, אֶלָּא אִם כֵּן הִתְנָה בְּמַעֲמַד אַנְשֵׁי הָעִיר, דִּבְרֵי רַבִּי יַעֲקֹב שֶׁאָמַר מִשּׁוּם רַבִּי מֵאִיר. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל מֵיקֵל,
@@ -218,6 +220,7 @@ The *gemara* returns to the tension in Rav's position — how can Rav say one sh
 
 ## Disease Interpretations
 
+[DAF:107b]
 ### Rav: Evil Eye
 
 > **Hebrew/Aramaic:** ״וְהֵסִיר ה׳ מִמְּךָ כׇּל חֹלִי״, אָמַר רַב: זוֹ [הָ]עַיִן. רַב לְטַעְמֵיהּ. דְּרַב סָלֵיק לְבֵי קִבְרֵי, עֲבַד מַאי דַּעֲבַד, אֲמַר: תִּשְׁעִין וְתִשְׁעָה בְּעַיִן רָעָה, וְאֶחָד בְּדֶרֶךְ אֶרֶץ.

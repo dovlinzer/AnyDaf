@@ -92,7 +92,7 @@ Rav Ashi offers an entirely different reading. *Kula Rabbi Akiva hi* — the ent
 
 On this reading, birds are rabbinically prohibited while *basar behema* is biblically prohibited. Fish and grasshoppers are neither: *she'einam lo midivrei Torah velo midivrei sofrim* — they are exempt from both biblical and rabbinic prohibition. The *mishnah*'s structure thus accommodates all of this within a single Akivan framework without internal contradiction.
 
-## Multiple Safeguards Prob…
+## Multiple Safeguards Issue
 
 ### Rav Yosef Challenge
 
@@ -122,13 +122,13 @@ With *basar b'chalav*, however, the calculus is entirely different. *De-sharat l
 
 The underlying principle Abaye articulates is: a *gezeirah ligezeirah* is justified not as a matter of abstract principle but as a function of how naturally and readily one step leads to the next. Where the chain of causation is realistic and close at hand, we may stack safeguards. Where the feared outcome is remote and practically unreachable, we do not.
 
-## Safeguards & Defini (III)tions
+## Safeguards & Definitions
 
 ### Student Objections
 
 A natural question arises: why would people not simply be taught the distinction? Chicken is one thing, beef another; one is rabbinic, one biblical. If people understood the boundary, the slope would not be slippery at all.
 
-### Cultural Kashrus Complex…
+### Cultural Kashrus Nuance
 
 The concern, it should be emphasized, is not about people who knowingly intend to transgress — such people would ignore *gezeirot* along with everything else. The concern is about well-intentioned people who confuse similar cases or who absorb the logic of one situation and apply it, perhaps unconsciously, to an adjacent one. And this is a realistic worry. Ask many people who carefully observe *basar b'chalav* whether chicken and milk is biblical or rabbinic, and a significant number will not know — because we do not think in terms of the verse about the kid goat, we think in terms of the category of meat and milk. Chicken sits inside that category in popular consciousness, and someone who sees chicken and cheese together at a table may reason: if that is permitted, why not this?
 
@@ -168,7 +168,7 @@ Rabbi Yosi adds: *zu mikulei Beis Shammai u'mechumrei Beis Hillel* — this is o
 
 It is worth noting that Rabbi Yehuda Hanasi sometimes chose to render rulings *stam* — anonymously — to give them greater normative weight. Here, by contrast, he attributed the ruling to Rabbi Yosi explicitly. An additional reason may be that it is so unusual for Beis Shammai to be the lenient party that explicit attribution was necessary to prevent readers from assuming an error and reversing the positions.
 
-## Safeguards & Defini (III)tio…
+## Safeguards & Definit (II)
 
 ### Table Type Distinction
 
@@ -184,7 +184,7 @@ This distinction is striking because intuitively one might expect the preparatio
 
 Rashi explains the distinction on psychological grounds: at the eating table, one is engaged in conversation, relaxed, mentally occupied — exactly the conditions under which one's attention wanders and one might mindlessly reach across and combine prohibited items. By contrast, at the preparation surface, one is actively and consciously engaged in the task of arranging the food; the focused, purposeful activity of setting up a meal is not the setting in which inadvertent mixing occurs.
 
-## Safeguards & Defini (III)tio…
+## Safeguards & Defini (III)
 
 ### Extension Framework
 

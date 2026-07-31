@@ -42,7 +42,7 @@ Rav Chisda then presents the mirror image. Suppose something worth six was sold 
 
 Having laid out Rav Chisda's two cases together with the parallel passages from the *mishna*, the *gemara* objects: *mai kamashma lan masnisin hi* — what is Rav Chisda adding? His ruling seems to be nothing more than a restatement of the *mishna*'s own principle. The *mishna* already makes clear that the wronged party has the right to reverse and the other side does not. Why, then, did Rav Chisda need to teach this?
 
-### Ona'ah vs Taʿut Distinct…
+### Ona'ah vs Taʿut
 
 The *gemara* resolves this by pointing to the circumstantial difference between *ona'ah* and *ta'ut*, even if the underlying *halacha* turns out to be the same. Without Rav Chisda's ruling, one might have thought: in a case of *ona'ah*, where the price paid was objectively wrong relative to the going rate, perhaps both sides should be able to reverse during the verification window — precisely because the price was objectively out of line, which throws the entire transaction into question. One could argue that when the monetary terms of a sale are demonstrably improper, both parties should be released from it.
 
@@ -124,7 +124,7 @@ Rav Zeira challenges Rav Assi: *shema lo shamar Rebbi ella be-moded le-tokh kupa
 
 Rav Assi responds sharply: *damya lee rabbana ke-lo gamar inish shema'ta* — it seems to me as if this rabbi never properly learned a *daf* of *gemara*. If Rabbi Yochanan were speaking of a case where the seller poured the grain into the buyer's vessels, that would not be a *chidush* worth transmitting at all — it would be the standard *halacha*, since *kinyan kli* in a *simta* is uncontroversial. Rabbi Yochanan's teaching is clearly being cited as a novel ruling; therefore it must address the more challenging scenario, namely, the grain placed directly on the ground of the *simta* without any vessel. Of course Rabbi Yochanan was making a broader statement than Rav Zeira assumed.
 
-## Rabbi Yochanan Contradic…
+## Yochanan Contradiction
 
 ### Rav Assi Version
 

@@ -1,4 +1,5 @@
 # Chagigah 13 — Daf Yomi Shiur
+[DAF:12b]
 
 ## Heavens & Angels
 
@@ -114,6 +115,7 @@ A *baraita* is now introduced, presented by Rabbi Yochanan ben Zakkai, which con
 
 The *bat kol* responded: *rasha ben rasha* — wicked person, son of a wicked person. Tosafos notes that the phrase *ben beno shel Nimrod harasha* does not mean literal biological descent but spiritual lineage: Nevuchadnetzar was the spiritual grandson of Nimrod, *she'himrid kol ha'olam kulo alav bemalchuso* — who incited all of humanity to rebel against God. Nimrod's name, derived from the word *mered* (rebellion), and his role in the *migdal Bavel* as imagined by the Midrashic tradition, made him the paradigmatic figure of human arrogance against the divine. And here is Nevuchadnetzar standing in that tradition.
 
+[DAF:13a]
 ### Journey to God
 
 > **Hebrew/Aramaic:** כַּמָּה שְׁנוֹתָיו שֶׁל אָדָם — שִׁבְעִים שָׁנָה, שֶׁנֶּאֱמַר: ״יְמֵי שְׁנוֹתֵינוּ בָהֶם שִׁבְעִים שָׁנָה וְאִם בִּגְבוּרוֹת שְׁמוֹנִים שָׁנָה״. וַהֲלֹא מִן הָאָרֶץ עַד לָרָקִיעַ מַהֲלַךְ חֲמֵשׁ מֵאוֹת שָׁנָה, וְעוֹבְיוֹ שֶׁל רָקִיעַ מַהֲלַךְ חֲמֵשׁ מֵאוֹת שָׁנָה, וְכֵן בֵּין כׇּל רָקִיעַ וְרָקִיעַ.
@@ -224,6 +226,7 @@ Chananya ben Chizkiya replied: *im zeh chacham, hakol chachamim* — if this chi
 
 ## Chashmal
 
+[DAF:13b]
 ### Chashmal Definition
 
 > **Hebrew/Aramaic:** מַאי חַשְׁמַל? אָמַר רַב יְהוּדָה: חַיּוֹת אֵשׁ מְמַלְּלוֹת. בְּמַתְנִיתָא תָּנָא: עִתִּים חָשׁוֹת, עִתִּים מְמַלְּלוֹת. בְּשָׁעָה שֶׁהַדִּיבּוּר יוֹצֵא מִפִּי הַקָּדוֹשׁ בָּרוּךְ הוּא — חָשׁוֹת, וּבְשָׁעָה שֶׁאֵין הַדִּיבּוּר יוֹצֵא מִפִּי הַקָּדוֹשׁ בָּרוּךְ הוּא — מְמַלְּלוֹת.

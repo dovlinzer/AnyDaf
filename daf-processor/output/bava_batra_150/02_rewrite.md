@@ -6,7 +6,7 @@
 
 The *mishnah* on 150 establishes that the critical line separating a *matnat shechiv mera*—a deathbed gift that reverts if the giver recovers and requires no *kinyan*—from an ordinary gift is whether the giver transferred all of his property or only some of it. The *mishnah*'s specific formulation is *di-shiyar karka kol shehu*: if he retained even the smallest amount of land, the gift does not have the special status of a *matnat shechiv mera* and therefore remains binding even if he recovers.
 
-### Rav Yehuda's Reinterpret…
+### Rav Yehuda & Rav Yirmeyah
 
 Against this apparently straightforward reading, the *gemara* cites a statement in the name of Rav Yehuda Amar Rav and a parallel statement of Rav Yirmeyah bar Abba, proposing that *karka* in this context does not literally mean land, and *kol shehu* does not literally mean the smallest possible amount. Rather, according to this view, retaining any property sufficient to provide for one's ongoing support — whether land or otherwise — would suffice to remove the gift from the category of *matnat shechiv mera*. The reasoning is that when a person holds back enough to sustain himself, we understand that even if he recovers, the gift was intended as a genuine transfer, since he retained a basis for self-support.
 

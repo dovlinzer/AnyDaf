@@ -1,4 +1,5 @@
 # Beitzah 19 — Daf Yomi Shiur
+[DAF:19a]
 
 ## Tevilat Keilim Erev YT
 
@@ -192,6 +193,7 @@ Now, if someone had already accepted an obligation to bring a *toda* — perhaps
 
 When the *Gemara* asks whether this ruling about *chagigah* is so obvious as to require no statement, it answers: *lo tzericha* — yes it does, because it comes to tell us that even if one *explicitly stipulated* at the time of accepting the *toda* that he intends it also to satisfy his *chagigah* obligation, it still cannot. And this is what leads into the discussion of Rabbi Shimon ben Lakish and Rabbi Yochanan.
 
+[DAF:19b]
 ### Abaye's Frame
 
 > **Hebrew/Aramaic:** אָמַר מָר: אֵין מְבִיאִין תּוֹדָה בְּחַג הַמַּצּוֹת — מִפְּנֵי חָמֵץ שֶׁבָּהּ. פְּשִׁיטָא! אָמַר רַב אַדָּא בְּרֵיהּ דְּרַב יִצְחָק, וְאָמְרִי לַהּ רַב שְׁמוּאֵל בַּר אַבָּא: הָכָא בְּאַרְבָּעָה עָשָׂר עָסְקִינַן, וְקָסָבַר: אֵין מְבִיאִין קָדָשִׁים לְבֵית הַפְּסוּל.

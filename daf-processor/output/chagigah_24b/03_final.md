@@ -1,4 +1,5 @@
 # Chagigah 24b — Daf Yomi Shiur
+[DAF:24a]
 
 ## Hand Contamination
 
@@ -52,6 +53,7 @@ The conceptual distinction between the two models is fundamental. If we say the 
 
 ## Lakish vs Yochanan
 
+[DAF:24b]
 ### Resh Lakish's View
 
 > **Hebrew/Aramaic:** אִיתְּמַר נָמֵי, אָמַר רֵישׁ לָקִישׁ: לֹא שָׁנוּ אֶלָּא יָדוֹ, אֲבָל יַד חֲבֵירוֹ — לֹא.

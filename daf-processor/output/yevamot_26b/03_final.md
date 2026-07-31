@@ -1,4 +1,5 @@
 # Yevamot 26b — Daf Yomi Shiur
+[DAF:26a]
 
 ## Four Brothers Case
 
@@ -46,6 +47,7 @@ One might ask: why not simply allow Yissachar to perform *chalitzah* with all th
 
 The ruling, stated in the name of Rav via Rava bar Rav Huna, is as follows: one brother performs *chalitzah* with the first sister, the other brother performs *chalitzah* with the second sister, and the third sister — called the *emtza'it*, the "middle" one — requires *chalitzah* from both brothers. The term *emtza'it* is somewhat misleading: she is called "middle" not because she is the second to fall to *yibum*, but because she stands between both brothers in terms of their obligations. She has a claim on each of them and, as will be explained, requires *chalitzah* from each.
 
+[DAF:26b]
 ### Sequential Deaths
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבָּה: מִדְּקָאָמְרַתְּ אֶמְצָעִית צְרִיכָה חֲלִיצָה מִשְּׁנֵיהֶם, קָסָבְרַתְּ יֵשׁ זִיקָה, וְהָוְיָא לַהּ חֲלִיצָה פְּסוּלָה — וַחֲלִיצָה פְּסוּלָה צָרִיךְ לַחֲזוֹר עַל כׇּל הָאַחִין, אִי הָכִי, קַמַּיְיתָא נָמֵי! אִי דִּנְפוּל בְּבַת אַחַת — הָכִי נָמֵי. לָא צְרִיכָא: דִּנְפוּל בְּזוֹ אַחַר זוֹ. נְפַלָה חֲדָא — חָלֵץ לַהּ רְאוּבֵן, נְפַלָה אִידַּךְ — חָלֵץ לַהּ שִׁמְעוֹן, נְפַלָה אִידַּךְ, חָלֵץ לַהּ הַאי — מַפְקַע זִיקָתוֹ, חָלֵץ לַהּ הַאי — מַפְקַע זִיקָתוֹ.

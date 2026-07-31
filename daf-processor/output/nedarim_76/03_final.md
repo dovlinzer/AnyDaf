@@ -1,7 +1,9 @@
 # Nedarim 76 — Daf Yomi Shiur
+[DAF:76a]
 
 ## Annulling Throughout Day
 
+[DAF:76b]
 ### Whole Day Principle
 
 > **Hebrew/Aramaic:** מַתְנִי׳ הֲפָרַת נְדָרִים כׇּל הַיּוֹם. יֵשׁ בַּדָּבָר לְהָקֵל וּלְהַחֲמִיר

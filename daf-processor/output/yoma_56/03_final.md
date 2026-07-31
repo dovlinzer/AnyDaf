@@ -1,4 +1,5 @@
 # Yoma 56 — Daf Yomi Shiur
+[DAF:56a]
 
 ## Mixed Money Concern
 
@@ -84,6 +85,7 @@ This objection is important, and the *Gemara* accepts it: one cannot prove from 
 
 The proof is brought from a teaching of Ayo: *Rabbi Yehuda omer, ein adam matneh al shnei devarim ke-echad* — a person cannot stipulate about two contradictory things at once. The specific case is the conditional *eiruv*. One wishes to visit one's *rebbe* on *Shabbos*, but does not know which direction the *rebbe* will be coming from — whether from the east or the west. A person wishes to place an *eiruv* accordingly and stipulate: if the *rebbe* comes from the east, my *eiruv* is to the east; if he comes from the west, my *eiruv* is to the west. Rabbi Yehuda forbids this. One may stipulate to a single direction — if the *rebbe* comes from the east, my *eiruv* is in the east — but one cannot stipulate for both directions simultaneously.
 
+[DAF:56b]
 ### Yochanan's Resolution
 
 > **Hebrew/Aramaic:** אֶלָּא: אִם בָּא חָכָם לַמִּזְרָח — עֵירוּבוֹ לַמִּזְרָח. לַמַּעֲרָב — עֵירוּבוֹ לַמַּעֲרָב. אֲבָל לְכָאן וּלְכָאן — לָא.

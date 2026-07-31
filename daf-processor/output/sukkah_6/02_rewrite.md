@@ -2,11 +2,11 @@
 
 ## Ten Tefachim Review
 
-### Three Sources for 10 Tef…
+### Three Sources: 10 Tefach
 
 The *daf* opens by reviewing a discussion from the preceding *daf* concerning the minimum height of a *sukkah*: ten *tefachim*. By way of contrast, the maximum height of twenty *amot* was established through the Rabbis' application of functional principles — the ability to see the *sechach* and the ability of the *sechach* to cast shade — whereas the specific quantity of twenty itself was arrived at through the application of those principles rather than a concrete derivation. The number ten *tefachim*, however, rests on more firmly grounded sources. The *Gemara* offered three explanations. The first derives the number from the *Aron* together with the *Kaporet*: the *Aron* was nine *tefachim* and the *Kaporet* one, yielding ten. The second derives it from the *Keruvim* atop the *Aron*, whose wingspan over the base measured ten *tefachim*. The third explanation, which will serve as the jumping-off point for the present *daf*, is simply *halakha l'Moshe miSinai* — a direct tradition requiring no textual derivation.
 
-### Shekhina & Anan'ei HaKav…
+### Shekhina & Anannei HaKav
 
 The connection between the *Aron* and the *Kaporet* and the laws of *sukkah* is not immediately obvious, and the *Gemara* acknowledges the difficulty. Rashi explains that ten *tefachim* near the ground constitutes the domain of the earth, and therefore a *mechitzah* — focusing here on the walls of the *sukkah* — must be ten *tefachim* in order to span the full height of that domain. On this reading, the rule is a general principle of *mechitzah* applicable across many domains of *halakha*. However, a far more evocative reading understands the ten *tefachim* as rooted in the idea of the *sukkah* as the *ananei haKavod* — the clouds of divine glory that hovered over the people in the wilderness. The divine presence manifested concretely in the *Mishkan*, hovering above the *Kaporet*, and that presence never descended below ten *tefachim*. The *sukkah* therefore must be at minimum ten *tefachim* because it cannot be lower than the domain in which God's presence dwells. On this reading, the imagery of *Sukkot* is not merely commemorative but reenactive: one inhabits a space that mirrors the immediate divine encounter.
 

@@ -1,4 +1,5 @@
 # Keritot 26b — Daf Yomi Shiur
+[DAF:26a]
 
 ## Yediah & Nasi
 
@@ -26,6 +27,7 @@ How, then, does Abaye know the rule? *Ela amar Abaye mehacha*: since all three c
 
 At this point the Gemara raises a further question. Perhaps what we have demonstrated is only that awareness after *yom kippur* obligates a *chatas* — because *yom kippur* did not come specifically for this sin, its *kapparah* is generic, and when one later becomes aware, one must bring. But by an *asham talui*, which *de'al da'ata decheit asi* — which was brought specifically for this doubtful sin — perhaps it atones completely, such that if one becomes aware afterward, *lo maysi Chatas*? This is a striking point, because the rule that an *asham talui* does not wipe away the underlying sin has been assumed throughout the tractate; here the Gemara is pressing on the basis for that assumption.
 
+[DAF:26b]
 ### Asham Talui Function
 
 > **Hebrew/Aramaic:** אָמַר רָבָא: אֲמַר קְרָא: ״אוֹ הוֹדַע אֵלָיו״ – מִכׇּל מָקוֹם. הַשְׁתָּא דְּאָמַר: כִּי מִתְיְידַע לֵיהּ מַיְיתֵי חַטָּאת, אָשָׁם תָּלוּי לָמָּה בָּא? אָמַר רַבִּי זֵירָא: שֶׁאִם מֵת, מֵת בְּלֹא עָוֹן. מַתְקֵיף לַהּ רָבָא: מֵת, מִיתָה מְמָרֶקֶת! אֶלָּא אָמַר רָבָא: לְהָגֵן עָלָיו מִן הַיִּיסּוּרִים.

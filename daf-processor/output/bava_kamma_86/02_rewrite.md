@@ -12,7 +12,7 @@ Several concrete examples illustrate this principle. A person whose hand has bee
 
 ---
 
-## Rava's Multiple Inju (II)
+## Rava's Multiple Injuries
 
 ### Successive Injuries
 

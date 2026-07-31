@@ -16,7 +16,7 @@ The *mishnah* rules: *lo amar klum* — he has said nothing. If, however, he dec
 
 The distinction between these two rulings rests on the conceptual difference between *mekayem* (affirming a vow) and *meifer* (annulling it). To be *mekayem* a vow is to strengthen its reality as a binding *issur*, and one cannot strengthen what does not yet exist. But negating a vow — the *chachamim* and Rabbi Eliezer dispute whether annulment requires the prior existence of a vow in the same way.
 
-### Rabbi Eliezer Kal Vachom…
+### Eliezer Kal VaChomer
 
 Rabbi Eliezer presses his case with a *kal va-chomer*: *im heifer nedarim she-ba'u li-khlal issur, lo yafer nedarim she-lo ba'u li-khlal issur?* — If the husband can annul vows that have already taken effect and manifested as real-world prohibitions, how much more so should he be able to annul vows that have not yet come into existence? As the *gemara* will soon explore, the precise import of this argument — whether Rabbi Eliezer means the pre-annulment *prevents* the vow from ever taking effect, or whether it *annuls* the vow at the instant of its formation — is itself an open question.
 
@@ -132,7 +132,7 @@ The Ran explains the double thrust of the *chachamim's* argument. Point one: the
 
 ---
 
-## Pre-dunking & Seeds (III)
+## Pre-dunking & Seeds
 
 ### Pre-dunking
 
@@ -148,7 +148,7 @@ At this point the *gemara* has two analogies pointing in opposite directions. Th
 
 ---
 
-## Conclusion & Scriptu (II)
+## Conclusion & Scripture
 
 ### Either Way
 
@@ -156,7 +156,7 @@ The *gemara* resolves this tension in a striking way. *Rabbanan lo kaymei lehu b
 
 ---
 
-## Pre-dunking & Seeds (III)
+## Pre-dunking & Seeds (II)
 
 ### Seeds Response
 
@@ -164,7 +164,7 @@ Rabbi Eliezer then responds with his own analogy. *U-mah zera'im teme'im, keivan
 
 ---
 
-## Pre-dunking & Seeds (III)…
+## Pre-dunking & Seeds (III)
 
 ### Suggests Lo Haylan
 

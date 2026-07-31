@@ -1,6 +1,6 @@
 # Nazir 35 — Daf Yomi Shiur
 
-## Klal U'Prat & Ribuy U'Mi…
+## Klal U'Prat & Ribuy Miut
 
 ### Intro: Hermeneutics
 
@@ -190,7 +190,7 @@ Notably, both structures — *klal u'prat u'klal* and *prat klal u'prat* — arr
 
 ---
 
-## Similarity Requireme (II)
+## Similarity Requirements
 
 ### Single Aspect Suffices
 

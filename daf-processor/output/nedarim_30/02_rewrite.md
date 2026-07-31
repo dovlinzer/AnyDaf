@@ -8,7 +8,7 @@ We pick up at the bottom of 29b, in the middle of the fascinating *sugia* concer
 
 The discussion that immediately precedes our passage concerns what happens when that sanctified status is assigned for a limited period of time. *Bar Padda* holds that the status cannot expire automatically; it can only be removed through an active act of *pidyon*. What, then, does a time-limiting phrase accomplish? According to *Bar Padda*, it means that the object is to be continuously and perpetually re-sanctified throughout that period, such that even a successful redemption is immediately overridden by the original statement.
 
-### Continuous Re-sanctifica…
+### Neder: Continuous Renewal
 
 *Bar Padda*'s principle is that *pade'an chozerot vekodshot* — if you redeem them, they re-acquire their sanctified status. A person cannot simply limit a *neder* to a fixed period and expect the status to dissolve automatically when that period ends, because sanctified status can only be removed through the act of *pidyon*. Accordingly, the phrase "until such-and-such a time" is interpreted not as a terminal condition but as an ongoing directive: I want these objects to continuously hold this status throughout that entire period. Any act of redemption during that interval causes the status to be immediately reinstated by virtue of the original declaration. The *dibbur* — the original statement — is understood as perpetually re-sanctifying the object for as long as the designated period has not elapsed.
 

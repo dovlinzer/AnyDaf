@@ -1,4 +1,5 @@
 # Sotah 6 — Daf Yomi Shiur
+[DAF:6a]
 
 ## Sotah Status & Yibum
 
@@ -248,6 +249,7 @@ Now, says the *Gemara*, if we accept Rav Sheshet's position — that the waters 
 
 But if we say the waters function even with overseas witnesses — meaning the waters are not neutralized by their existence — then we are forced to say that even had the witnesses not come, the process would have been ineffectual from the outset. The sanctification was therefore in error from the very beginning: *de-kadosh me-ikara be-ta'ut kadosh*. If so, the *minchah* was never truly sanctified, and rather than burning it, one should be able to take it out as ordinary *chulin* — *tipok le-chulin*. The fact that the *Mishnah* says it must be burned, and not simply redeemed or eaten as *chulin*, thus appears to support Rav Sheshet.
 
+[DAF:6b]
 ### Yehuda Limitation
 
 > **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה מִדִּיסְקַרְתָּא: כְּגוֹן שֶׁזִּינְּתָה בָּעֲזָרָה, דְּכִי קְדוּשׁ מֵעִיקָּרָא — שַׁפִּיר קְדוּשׁ.

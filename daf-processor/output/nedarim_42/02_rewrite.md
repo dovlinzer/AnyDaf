@@ -1,6 +1,6 @@
 # Nedarim 42 — Daf Yomi Shiur
 
-## Mishnah: Nedarim & Shemi…
+## Mishnah: Nedarim Shemitah
 
 ### Opening Remarks
 
@@ -28,7 +28,7 @@ The Mishnah is thus fairly straightforward in its basic contours. The central an
 
 ---
 
-## Rav/Shmuel vs. R. Yochan…
+## Rav/Shmuel vs. Yochanan
 
 ### Rav & Shmuel Position
 
@@ -42,7 +42,7 @@ Accordingly, Rav and Shmuel read the Mishnah's statement *uveshevi'it* as referr
 
 Rabbi Yochanan and Reish Lakish both say: if someone declared *nechasai alecha* — "my property is forbidden to you" — before *shemitah*, then *eino yored letoch sadehu ve'eino ochel min hanotos* — naturally, he cannot enter the yard or eat the overhanging fruit. But *hegia shvi'is* — once *shevi'it* arrives — *eino yored letoch sadehu aval ochel hu et hanotos* — he still cannot enter the yard, but he may now eat the overhanging fruit. The vow made before *shemitah* ceases to apply to the fruit once *shemitah* arrives, because the owner no longer owns that fruit.
 
-### Property Access & Gezeir…
+### Property Access & Gezerim
 
 This position gives rise to a pointed observation from within the sugya. If forbidding access to one's field through a *neder* is effective on *shevi'it*, that would seem to be a highly convenient tool: one could effectively shut the poor out of one's land merely by declaring the property forbidden. But the Gemara does not regard this as an insuperable problem, because the person cannot forbid the new fruit that grows during *shemitah* — that was never his. And the stuff that already existed before *shemitah* could equally have been harvested and stored away before the sabbatical year began.
 
@@ -84,7 +84,7 @@ When Rav and Shmuel said the *neder* remains in force even when *shemitah* arriv
 
 What remains is a striking *hava amina*: one might have thought that the power to forbid is inherently and always bounded by ownership, such that no *neder* could ever outlast one's control over the object — but at the end of the day we reject this and hold that the determinative factor is not metaphysical power but linguistic formulation. Generic, demonstrative language creates a prohibition that is object-bound; possessive language creates one that is relationship-bound and lapses with the relationship.
 
-### Possessive & Demonstrati…
+### Possessive/Demonstrative
 
 The Ran at the close of this section cites a fascinating *Yerushalmi* addressing a case where someone uses *both* a possessive and a demonstrative: *beitecha zeh* — "your house, this one." Which term governs the interpretation? Does "your house" limit the prohibition to the duration of the other person's ownership, or does "this" extend it to the object itself regardless of ownership? The *Yerushalmi* concludes: *mishum zeh* — you follow the final term. If he ended with the demonstrative "this," that is the operative word, and the prohibition follows the object. The principle is *holchin achar lashon acharon* — we follow the last formulation.
 
