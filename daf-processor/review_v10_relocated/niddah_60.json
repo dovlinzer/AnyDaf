@@ -1,0 +1,535 @@
+[
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Nechemia: Stone Seats",
+    "candidates": [
+      "Opening & Context",
+      "Tliyah Basics",
+      "Mishnah: Lending & Niddot",
+      "Who Loses Analysis",
+      "Mishnah Setup",
+      "Equal Parties Rule",
+      "Two Roads Analogy",
+      "Nechemia: Stone Seats",
+      "Stain Principle",
+      "Tosafos Analysis",
+      "Modern Applications",
+      "Relevance Today",
+      "Rav's Position"
+    ],
+    "result": {
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Mishnah about women sitting on a stone bench or bathhouse bench and Rabbi Ne\u1e25emya's ruling, which is precisely what the 'Nechemia: Stone Seats' section's prose describes as its content.",
+      "chosen_heading": "Nechemia: Stone Seats",
+      "current_heading": "Nechemia: Stone Seats",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Stain Principle",
+      "Tosafos Analysis",
+      "Modern Applications",
+      "Relevance Today",
+      "Rav's Position",
+      "Rav Sheshet Critique"
+    ],
+    "result": {
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav's ruling limiting the Mishnah's leniency to a gentile woman who has already seen menstrual blood, with the dumya deniddah analogy \u2014 exactly what the prose under 'Rav's Position' describes.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Rav Sheshet Critique",
+    "candidates": [
+      "Rav Sheshet Critique",
+      "Rabbi Meir Debate",
+      "Rav Papa Resolution"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Sheshet's critique of Rav (calling his ruling a sleeping error) and the baraita about attributing to a gentile woman with Rabbi Meir's qualification, which is precisely what the 'Rav Sheshet Critique' prose describes \u2014 the 'Rabbi Meir Debate' section covers only the clarificatory aside about Rabbi Meir not requiring actual menstruation, which is a sub-point within this same passage.",
+      "chosen_heading": "Rav Sheshet Critique",
+      "current_heading": "Rav Sheshet Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Rav Papa Resolution",
+    "candidates": [
+      "Rabbi Meir Debate",
+      "Rav Papa Resolution",
+      "Case Setup"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's clarification that Rabbi Meir is lenient (not stringent), which matches candidate 0's prose about clarifying who is strict vs. lenient and Rabbi Meir's position on age appropriateness \u2014 whereas candidate 1 misattributes the statement to 'Rav Papa' when the Gemara explicitly says 'Rava said.'",
+      "chosen_heading": "Rabbi Meir Debate",
+      "current_heading": "Rav Papa Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Case Setup",
+      "Rabban Shimon View",
+      "Rabbi's Position",
+      "Agreement Cases"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening baraita that sets up the case of attribution to a shomeret yom k'neged yom on her second day, which is precisely what the 'Case Setup' prose describes as its central content.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Agreement Cases",
+    "candidates": [
+      "Rabban Shimon View",
+      "Rabbi's Position",
+      "Agreement Cases",
+      "Case Introduction"
+    ],
+    "result": {
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Agreement Cases' prose: the agreement between Rabban Shimon ben Gamliel and Rabbi on costless-attribution cases (shomeret yom, dam tohor, betula), plus the Gemara's discussion of why 'lefikach' appears in both rulings \u2014 all of which is explicitly laid out in candidate 2's prose.",
+      "chosen_heading": "Agreement Cases",
+      "current_heading": "Agreement Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Case Introduction",
+    "candidates": [
+      "Case Introduction",
+      "Rav Adda Challenge"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's statement introducing the two-paths case and connecting it to the Rebi\u2013Rabban Shimon ben Gamliel dispute, which is precisely what the 'Case Introduction' prose describes and analyzes in detail.",
+      "chosen_heading": "Case Introduction",
+      "current_heading": "Case Introduction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Rav Adda Challenge",
+    "candidates": [
+      "Rav Adda Challenge",
+      "Interpretation Debate"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Adda's objection AND Rav \u1e24isda's response (sof sof itvilah ba'aya), but the current heading 'Rav Adda Challenge' captures the primary content of Rav Adda's challenge, and the prose under index 0 accurately describes exactly what this passage discusses \u2014 Rav Adda's argument about structural differences between the shomeret yom case and the two-roads case based on essential equivalence of status.",
+      "chosen_heading": "Rav Adda Challenge",
+      "current_heading": "Rav Adda Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Interpretation Debate",
+    "candidates": [
+      "Interpretation Debate",
+      "Talui Case",
+      "No Additional Loss",
+      "Ketem B'Ketem Query",
+      "Yochanan Query",
+      "Rabbi's Answer"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage from Rabbi Yosei b'Rabbi Chanina about a tamei/tahor person and a talui person walking two paths with unanimous agreement directly matches the 'Talui Case' prose, which explicitly describes this exact scenario and ruling.",
+      "chosen_heading": "Talui Case",
+      "current_heading": "Interpretation Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Rabbi's Answer",
+    "candidates": [
+      "Talui Case",
+      "No Additional Loss",
+      "Ketem B'Ketem Query",
+      "Yochanan Query",
+      "Rabbi's Answer",
+      "Braita Conflict",
+      "Resolutions",
+      "Retroactive Discovery"
+    ],
+    "result": {
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the actual Talmudic text of Rabbi Yochanan's query to Rabbi Yehuda bar Livai about attributing a ketem to a woman with a ketem, which is precisely what candidate 3 ('Yochanan Query') describes \u2014 the formal posing of the question, the two sides of the argument, and the answer 'ein toleh' \u2014 whereas candidate 4 ('Rabbi's Answer') prose focuses on elaborating the reasoning behind the answer rather than presenting the query itself.",
+      "chosen_heading": "Yochanan Query",
+      "current_heading": "Rabbi's Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Retroactive Discovery",
+    "candidates": [
+      "Braita Conflict",
+      "Resolutions",
+      "Retroactive Discovery",
+      "Abaye Reframes"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full arc from raising the braita objection through all its internal contradictions and resolutions (Rabbi vs. Rabban Shimon ben Gamliel, first/second day, retroactive/forward, and Ravina's reinterpretation), which maps precisely to heading 0 ('Braita Conflict') whose prose describes exactly this sequence \u2014 the braita's internal contradiction and the ha gufa kashya analysis \u2014 rather than being limited to just Rav Ashi's resolution as in the current 'Retroactive Discovery' placement.",
+      "chosen_heading": "Braita Conflict",
+      "current_heading": "Retroactive Discovery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Abaye Reframes",
+    "candidates": [
+      "Abaye Reframes",
+      "Principle Maintained",
+      "Scriptural Basis"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Ravina's reinterpretation that the baraita's 'or to a woman observing a stain' actually means 'or to a woman observing blood of purity,' which is precisely what preserves the principle that stain-to-stain attribution is impermissible \u2014 matching the 'Principle Maintained' prose that discusses how the braita's permissive clause is properly understood not to violate that principle.",
+      "chosen_heading": "Principle Maintained",
+      "current_heading": "Abaye Reframes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Scriptural Basis",
+    "candidates": [
+      "Principle Maintained",
+      "Scriptural Basis",
+      "Pottery Example"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Mattana's scriptural derivation of Rabbi Nechemia's principle from Isaiah 3:26, which is precisely what the 'Scriptural Basis' section's prose discusses \u2014 the textual basis (*mai ta'ama*) and the verse *v'niketa la'aretz teshev*.",
+      "chosen_heading": "Scriptural Basis",
+      "current_heading": "Scriptural Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Pottery Example",
+    "candidates": [
+      "Pottery Example",
+      "Rag Size"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi Ne\u1e25emya's ruling on the exterior of an earthenware vessel and the Gemara's question/answer about a potential rabbinic decree, which matches exactly the prose under 'Pottery Example' discussing *achorei kli cheres*, *peshita*, and *ligzar gabo atu tocho*.",
+      "chosen_heading": "Pottery Example",
+      "current_heading": "Pottery Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Rag Size",
+    "candidates": [
+      "Rag Size",
+      "Nachman Objection"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abaye's statement about Rabbi Ne\u1e25emya ruling pure on rags smaller than three by three fingerbreadths, which is precisely what the 'Rag Size' section's prose explicates in detail, while the 'Nachman Objection' section focuses on Rav's ruling and Rav Nachman's challenge about the Sages' contrary ruling.",
+      "chosen_heading": "Rag Size",
+      "current_heading": "Rag Size",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Nachman Objection",
+    "candidates": [
+      "Nachman Objection",
+      "Grinding Case"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Rav \u1e24iyya bar Rav Mattana ruling in Rav's name that the halakha follows Rabbi Ne\u1e25emya and Rav Na\u1e25man's immediate challenge citing a baraita where the Sages ruled impure \u2014 exactly what the 'Nachman Objection' prose describes.",
+      "chosen_heading": "Nachman Objection",
+      "current_heading": "Nachman Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Grinding Case",
+    "candidates": [
+      "Grinding Case",
+      "Olive Leaf Case"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the two-women-grinding scenario with inner/outer positioning and blood found in three locations, which is precisely what the 'Grinding Case' prose discusses in detail.",
+      "chosen_heading": "Grinding Case",
+      "current_heading": "Grinding Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146
+    ],
+    "current_heading": "Olive Leaf Case",
+    "candidates": [
+      "Olive Leaf Case",
+      "Resolution",
+      "Three Leniencies",
+      "Tzara'at Parallel",
+      "Formal vs. Practical",
+      "Mishnah Setup (II)",
+      "All Become Tmeia"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the olive-leaf and bathtub cases plus the tanna'im dispute resolution that the 'Olive Leaf Case' prose discusses, and the resolution portion is an integral continuation of that same unit rather than a standalone section \u2014 the current placement is correct.",
+      "chosen_heading": "Olive Leaf Case",
+      "current_heading": "Olive Leaf Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      161
+    ],
+    "current_heading": "All Become Tmeia",
+    "candidates": [
+      "Resolution",
+      "Three Leniencies",
+      "Tzara'at Parallel",
+      "Formal vs. Practical",
+      "Mishnah Setup (II)",
+      "All Become Tmeia",
+      "Individual Check",
+      "Attribution Between",
+      "Equal Unsuitability",
+      "Instantaneous Check"
+    ],
+    "result": {
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself ('shalosh nashim she-hayu yeshenot b'mita achat'), and candidate 4 ('Mishnah Setup (II)') explicitly describes the Gemara moving to this next Mishnah about three women sleeping in one bed \u2014 it is the introductory heading for this exact Mishnah passage, making it the natural home for the full Mishnah quote rather than 'All Become Tmeia' which covers only the first ruling within it.",
+      "chosen_heading": "Mishnah Setup (II)",
+      "current_heading": "All Become Tmeia",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      171
+    ],
+    "current_heading": "Instantaneous Check",
+    "candidates": [
+      "Individual Check",
+      "Attribution Between",
+      "Equal Unsuitability",
+      "Instantaneous Check",
+      "Chatat Principle",
+      "Bar Pada Framework"
+    ],
+    "result": {
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Yehuda's ruling in Rav's name about the condition that she must have examined herself within the 'shiur veset,' which is precisely what the 'Instantaneous Check' section's prose explicates in detail.",
+      "chosen_heading": "Instantaneous Check",
+      "current_heading": "Instantaneous Check",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      177,
+      178,
+      179
+    ],
+    "current_heading": "Bar Pada Framework",
+    "candidates": [
+      "Chatat Principle",
+      "Bar Pada Framework",
+      "Yoshia Principle"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage directly quotes Bar Pada's three-tier framework and Rabbi Oshaya's dissent in the context of establishing that Rav holds like Bar Pada \u2014 matching the 'Chatat Principle' section's prose which specifically discusses '*Savar lah k'Bar Pada*' and the parallel between the husband's chatat obligation and the terumah's tum'ah status, whereas the 'Bar Pada Framework' section focuses on applying the three tiers to the three-women case rather than introducing the principle itself.",
+      "chosen_heading": "Chatat Principle",
+      "current_heading": "Bar Pada Framework",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      184
+    ],
+    "current_heading": "Yoshia Principle",
+    "candidates": [
+      "Yoshia Principle",
+      "Child & Elder Mashal"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly uses the phrase 'emar shamash ikvo l'dam' (the organ prevented the blood) to contrast the coitus case with the food-preparation case, which is precisely the physiological principle described in the 'Yoshia Principle' prose, not the child-and-elder analogy of candidate 1.",
+      "chosen_heading": "Yoshia Principle",
+      "current_heading": "Yoshia Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      187
+    ],
+    "current_heading": "Child & Elder Mashal",
+    "candidates": [
+      "Child & Elder Mashal",
+      "Eye & Tears Mashal",
+      "Distinction from Others",
+      "Pregnant Case"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the Rabbi Yirmeya mashal (child and elder) AND the Abaye mashal (finger and eye), and the current placement's prose explicitly covers both analogies together, making it the correct home for the full quoted text.",
+      "chosen_heading": "Child & Elder Mashal",
+      "current_heading": "Child & Elder Mashal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      195,
+      196
+    ],
+    "current_heading": "Pregnant Case",
+    "candidates": [
+      "Eye & Tears Mashal",
+      "Distinction from Others",
+      "Pregnant Case",
+      "Nursing Case",
+      "Age Case",
+      "Menarche Case",
+      "Equal Status Rule"
+    ],
+    "result": {
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers all four attribution cases (pregnant, nursing, old, virgin) as a single baraita unit introduced by 'keitzad tolot zo b'zo,' and the 'Pregnant Case' prose explicitly introduces this same baraita with the identical framing 'Tanu Rabbanan keitzad tolot zo b'zo,' making it the natural home for the full quoted passage rather than any of the individual sub-case sections.",
+      "chosen_heading": "Pregnant Case",
+      "current_heading": "Pregnant Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      205
+    ],
+    "current_heading": "Equal Status Rule",
+    "candidates": [
+      "Nursing Case",
+      "Age Case",
+      "Menarche Case",
+      "Equal Status Rule"
+    ],
+    "result": {
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses the case where both women share the same status (both pregnant, both nursing, both old, both virgins) and concludes with the mishna's rule, which is precisely what the 'Equal Status Rule' prose describes.",
+      "chosen_heading": "Equal Status Rule",
+      "current_heading": "Equal Status Rule",
+      "moved": false
+    }
+  }
+]

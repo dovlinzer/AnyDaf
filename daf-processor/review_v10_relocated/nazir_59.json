@@ -1,0 +1,154 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Partner Death Problem",
+    "candidates": [
+      "Setup: Two Partners",
+      "Partnership & Conditions",
+      "Partner Death Problem",
+      "Yehoshua: Stranger",
+      "Conditional Stipulations"
+    ],
+    "result": {
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna's content \u2014 Rabbi Yehoshua's specific prescription to ask a stranger in the marketplace to vow naziriteship \u2014 matches exactly the prose of candidate 3 ('Yehoshua: Stranger'), which describes yevakesh she'chamino shuk and the purpose of reconstituting a two-person framework, whereas the current placement (candidate 2) discusses the problem of the partner's death and a different instinctive solution rather than Rabbi Yehoshua's marketplace-stranger prescription.",
+      "chosen_heading": "Yehoshua: Stranger",
+      "current_heading": "Partner Death Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Conditional Stipulations",
+    "candidates": [
+      "Yehoshua: Stranger",
+      "Conditional Stipulations",
+      "Why Wait Thirty Days",
+      "Original Tamei Scenario",
+      "Original Tahor Scenario",
+      "Hair Cutting & Nezirut",
+      "Zoma: Who Agrees?",
+      "Zoma: Bird & Animal",
+      "First Period: Besafek",
+      "Second Period: Complete"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the conditional stipulations and the sequence of korban tumah and korban tahara declarations that the 'Conditional Stipulations' section's prose explicitly details, making the current placement correct.",
+      "chosen_heading": "Conditional Stipulations",
+      "current_heading": "Conditional Stipulations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Second Period: Complete",
+    "candidates": [
+      "Why Wait Thirty Days",
+      "Original Tamei Scenario",
+      "Original Tahor Scenario",
+      "Hair Cutting & Nezirut",
+      "Zoma: Who Agrees?",
+      "Zoma: Bird & Animal",
+      "First Period: Besafek",
+      "Second Period: Complete",
+      "Yehoshua: No Split"
+    ],
+    "result": {
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes Ben Zoma's proposed procedure for the first period (bringing a bird sin-offering and animal burnt-offering with conditional declarations about tamei/tahor status), which matches heading 6 'First Period: Besafek' \u2014 the current placement under heading 7 'Second Period: Complete' is wrong because the passage covers both periods as a unified proposal, but the first-period mechanics are the core innovation Ben Zoma introduces, and heading 6's prose explicitly describes this exact chatas ha'of and olat behemah mechanism with the safek declarations.",
+      "chosen_heading": "First Period: Besafek",
+      "current_heading": "Second Period: Complete",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Yehoshua: No Split",
+    "candidates": [
+      "Yehoshua: No Split",
+      "Sages Agree with Zoma",
+      "Yehuda: Sharpening"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehoshua's objection about split offerings AND the note that the Sages agreed with Ben Zoma, and the current section's prose explicitly discusses Rabbi Yehoshua's 'nimtza zeh mevi korbonosav lachatza'in' statement, making it the best match for this combined passage.",
+      "chosen_heading": "Yehoshua: No Split",
+      "current_heading": "Yehoshua: No Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Yehuda: Sharpening",
+    "candidates": [
+      "Sages Agree with Zoma",
+      "Yehuda: Sharpening",
+      "Nachman: Fat Problems",
+      "Complex Case Setup",
+      "Single-Status Scenarios",
+      "First Wait: Tahor Risk",
+      "Four Stages Mapped"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara stating that Rav Yehuda said in Shmuel's name that Rabbi Yehoshua only spoke to sharpen his students, which is exactly what heading 1 'Yehuda: Sharpening' and its prose discuss, making the current placement correct.",
+      "chosen_heading": "Yehuda: Sharpening",
+      "current_heading": "Yehuda: Sharpening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Four Stages Mapped",
+    "candidates": [
+      "Nachman: Fat Problems",
+      "Complex Case Setup",
+      "Single-Status Scenarios",
+      "First Wait: Tahor Risk",
+      "Four Stages Mapped",
+      "Permitted Acts Timeline",
+      "Year-Long Nezirut",
+      "Each Stage: 30 Days",
+      "Four Shavings Intro",
+      "First Shaving",
+      "Second Shaving",
+      "Third Shaving",
+      "Fourth Shaving"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with Rav Nachman's remark about Rabbi Yehoshua's fat/intestines problem, which is precisely what candidate 0 ('Nachman: Fat Problems') discusses in its prose, before moving into the new mishnah about the nazir with double uncertainty \u2014 the current placement under 'Four Stages Mapped' is too far into the essay.",
+      "chosen_heading": "Nachman: Fat Problems",
+      "current_heading": "Four Stages Mapped",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Psulim Gets Kelali",
+    "candidates": [
+      "Yochanan v. Lakish",
+      "Two Reasons for Zman",
+      "Rabbi Shimon Get",
+      "Psulim Gets Kelali",
+      "Circumventing Zman"
+    ],
+    "result": {
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's challenge to Rav Yosef about what the Sages accomplished with their takanah requiring a zman, given that a get lacking a date is invalid but retroactively effective \u2014 which is precisely what the prose of 'Psulim Gets Kelali' describes as its central topic.",
+      "chosen_heading": "Psulim Gets Kelali",
+      "current_heading": "Psulim Gets Kelali",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Circumventing Zman",
+    "candidates": [
+      "Circumventing Zman",
+      "Takanah Effectiveness"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the three scenarios discussed in 'Circumventing Zman' prose: cutting out the date, writing an imprecise date (shemita/year/month/week), and the Gemara's answer about what the takanah accomplishes with vague dating \u2014 all of which are explicitly described in that section's prose.",
+      "chosen_heading": "Circumventing Zman",
+      "current_heading": "Circumventing Zman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Takanah Effectiveness",
+    "candidates": [
+      "Takanah Effectiveness",
+      "Two Wives Case"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the two scenarios described in the 'Takanah Effectiveness' prose: Ravina's question to Rava about a husband who writes a get and puts it in his pocket, and Ravina's question to Rav Ashi about gittin from overseas written in Nisan but not arriving until Tishrei, both of which are fully addressed in that section's prose.",
+      "chosen_heading": "Takanah Effectiveness",
+      "current_heading": "Takanah Effectiveness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Two Wives Case",
+    "candidates": [
+      "Two Wives Case",
+      "Rav Netinah"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav/Shmuel dispute about when counting begins, Rav Natan bar Hoshaya's objection about two women in one courtyard, and Abaye's resolution that each get's date proves its own timing \u2014 exactly what the 'Two Wives Case' prose describes.",
+      "chosen_heading": "Two Wives Case",
+      "current_heading": "Two Wives Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Rav Netinah",
+    "candidates": [
+      "Rav Netinah",
+      "Shmuel Ketivah",
+      "Final Ruling Ketivah"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both baraitot (supporting Rav and Shmuel), and the current section 'Rav Netinah' prose explicitly discusses both baraitot together, describing the agent-delay case supporting Rav and mentioning the get yashan concept \u2014 matching the passage's content precisely, while section 1 only discusses the Shmuel baraita in isolation.",
+      "chosen_heading": "Rav Netinah",
+      "current_heading": "Rav Netinah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Final Ruling Ketivah",
+    "candidates": [
+      "Shmuel Ketivah",
+      "Final Ruling Ketivah",
+      "Ketubah Not Cancelled"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly reports the practical rulings of Rav Kahana, Rav Pappi, Rav Ashi, Rav Pappa, and Rav Huna b. Rav Yehoshua and the final halakhic ruling (v'hilchata mishaat ketivah), which is precisely what the 'Final Ruling Ketivah' prose describes.",
+      "chosen_heading": "Final Ruling Ketivah",
+      "current_heading": "Final Ruling Ketivah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Ketubah Not Cancelled",
+    "candidates": [
+      "Ketubah Not Cancelled",
+      "Rav Two Conditions"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening question 'From when is a marriage contract canceled by the Sabbatical Year?' which introduces the very topic the 'Ketubah Not Cancelled' prose explicitly sets up \u2014 asking whether and when a ketubah becomes subject to shemita cancellation \u2014 whereas the 'Rav Two Conditions' prose discusses Rav's specific answer to that question, not the introductory framing.",
+      "chosen_heading": "Ketubah Not Cancelled",
+      "current_heading": "Ketubah Not Cancelled",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rav Two Conditions",
+    "candidates": [
+      "Rav Two Conditions",
+      "Shmuel One Condition",
+      "Rav Baraita Support",
+      "Women's Obligations"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav's position requiring both pegimah AND zekifah together, which is precisely what the 'Rav Two Conditions' prose describes, while Shmuel's alternative (either condition alone suffices) is presented as a contrast \u2014 the passage belongs under Rav's heading where his two-condition requirement is introduced.",
+      "chosen_heading": "Rav Two Conditions",
+      "current_heading": "Rav Two Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Women's Obligations",
+    "candidates": [
+      "Shmuel One Condition",
+      "Rav Baraita Support",
+      "Women's Obligations",
+      "Shmuel Parallel"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both the baraita supporting Rav (requiring both pegimah and zekifah) and the baraita supporting Shmuel, and candidate 1 ('Rav Baraita Support') is specifically about the Gemara citing a baraita that explicitly supports Rav's position with those exact conditions, making it the natural home for this passage that introduces both baraitot together.",
+      "chosen_heading": "Rav Baraita Support",
+      "current_heading": "Women's Obligations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Shmuel Parallel",
+    "candidates": [
+      "Shmuel Parallel",
+      "Chiya Ketubah",
+      "Same Matter Leniency"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Shmuel's principle comparing a ketubah to a ma'aseh beis din and the anecdote about Rabbi \u1e24iyya bar Rav's ketubah, which together form the complete content described in candidate 0's prose, while candidate 1's prose only describes the anecdote in isolation as a 'practical illustration' of an already-stated principle.",
+      "chosen_heading": "Shmuel Parallel",
+      "current_heading": "Shmuel Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Same Matter Leniency",
+    "candidates": [
+      "Chiya Ketubah",
+      "Same Matter Leniency",
+      "Rabbi Shimon Reasoning"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita of Rabbi Elazar bar Rabbi Tzadok establishing the 'oskim b'oto inyan' (engaged in the same matter) leniency, which is precisely what the 'Same Matter Leniency' section's prose describes and discusses.",
+      "chosen_heading": "Same Matter Leniency",
+      "current_heading": "Same Matter Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Rabbi Shimon Reasoning",
+    "candidates": [
+      "Rabbi Shimon Reasoning",
+      "Lakish Limits Window"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's explanation of Rabbi Shimon's reasoning (peirot rights forfeited upon deciding to divorce), which directly matches the prose of section 0 that explicitly analyzes this same Rava statement about Rabbi Shimon's rationale.",
+      "chosen_heading": "Rabbi Shimon Reasoning",
+      "current_heading": "Rabbi Shimon Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Lakish Limits Window",
+    "candidates": [
+      "Lakish Limits Window",
+      "Yochanan Expands",
+      "Ten People Command"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Reish Lakish's limitation (l'altar only, not ten days, due to shema piyes) and Rabbi Yochanan's expansion (up to ten days, kala it lehu), and since the current placement under 'Lakish Limits Window' covers both opinions as introduced by Reish Lakish's position first, and the essay separates them into two sections, the passage actually belongs under the current heading where Reish Lakish's view is introduced \u2014 though it also contains Yochanan's response, the natural unit of the sugya presents them together and the current section is where this dispute begins.",
+      "chosen_heading": "Lakish Limits Window",
+      "current_heading": "Lakish Limits Window",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Ten People Command",
+    "candidates": [
+      "Yochanan Expands",
+      "Ten People Command",
+      "Yochanan Two Edim",
+      "Lakish All Edim",
+      "Practical Differences"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the dispute between Rabbi Yochanan and Reish Lakish about ten people being told to write a get, establishes that the case must involve 'kulchem,' and sets up the debate \u2014 exactly what the 'Ten People Command' section's prose describes as its content, including the baraita clarification and the kulchem requirement.",
+      "chosen_heading": "Ten People Command",
+      "current_heading": "Ten People Command",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Practical Differences",
+    "candidates": [
+      "Yochanan Two Edim",
+      "Lakish All Edim",
+      "Practical Differences",
+      "Two Days Signing"
+    ],
+    "result": {
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the practical differences between Rabbi Yochanan and Reish Lakish \u2014 signing on different days, disqualified witnesses, and the sub-question about a pasul signing first \u2014 which is precisely what the 'Practical Differences' section's prose covers in detail.",
+      "chosen_heading": "Practical Differences",
+      "current_heading": "Practical Differences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Two Days Signing",
+    "candidates": [
+      "Two Days Signing",
+      "Rabbi Shimon Valid",
+      "Sha'at Hadeichak",
+      "Yochanan Leniency"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the actual case of ten men being asked to write a get, with two signing that day and others signing later, which directly matches the 'Two Days Signing' prose describing this exact scenario \u2014 the subsequent ruling by Rabbi Yehoshua ben Levi is the conclusion of the same narrative unit, not a separate section.",
+      "chosen_heading": "Two Days Signing",
+      "current_heading": "Two Days Signing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Yochanan Leniency",
+    "candidates": [
+      "Rabbi Shimon Valid",
+      "Sha'at Hadeichak",
+      "Yochanan Leniency"
+    ],
+    "result": {
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the interplay between Reish Lakish's and Rabbi Yo\u1e25anan's positions and how Rabbi Yehoshua ben Levi navigates between them, which is precisely what the 'Yochanan Leniency' section's prose explicates \u2014 the compound reliance on both opinions to resolve the apparent tension.",
+      "chosen_heading": "Yochanan Leniency",
+      "current_heading": "Yochanan Leniency",
+      "moved": false
+    }
+  }
+]

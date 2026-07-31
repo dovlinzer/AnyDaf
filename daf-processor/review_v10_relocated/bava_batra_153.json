@@ -1,0 +1,300 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rav Huna Case",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Rashbam & Tosafot",
+      "Rav Huna Case",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Rav Huna case where someone performed a kinyan and then recovered and sought to retract, matching the 'Rav Huna Case' prose precisely.",
+      "chosen_heading": "Rav Huna Case",
+      "current_heading": "Rav Huna Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Rav Position"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the dispute between Rav and Shmuel over the 'in life and in death' gift document, which matches exactly the prose of section 0 that frames this new case and poses the central question, before section 1 which elaborates only on Rav's specific position and reasoning.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rav Position",
+    "candidates": [
+      "Rav Position",
+      "Shmuel Position"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly presents Rav's position that the gift is like a matnas shchiv mera because 'be-mavet' indicates post-death transfer and 'be-hayim' is merely a siman be-alma, which matches exactly the prose in candidate 0.",
+      "chosen_heading": "Rav Position",
+      "current_heading": "Rav Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Shmuel Position",
+    "candidates": [
+      "Shmuel Position",
+      "Rava Limitation"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's position that the gift is like a matnas bari because 'be-hayim' means it takes effect immediately and 'u-ve-mavet' means 'from now and henceforth,' which matches exactly what the 'Shmuel Position' prose describes.",
+      "chosen_heading": "Shmuel Position",
+      "current_heading": "Shmuel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Rava Limitation",
+    "candidates": [
+      "Rava Limitation",
+      "Ruling & Clarification",
+      "Case Presented",
+      "Rav Nachman's Respect"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Ameimar's ruling that the halakha does not follow Rava AND Rav Ashi's clarification about the Nehardaei ruling like Rav and the lest-you-say reasoning \u2014 all of which is precisely what the 'Ruling & Clarification' prose section describes, whereas the current 'Rava Limitation' section only covers Rava's own statement.",
+      "chosen_heading": "Ruling & Clarification",
+      "current_heading": "Rava Limitation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rav Nachman's Respect",
+    "candidates": [
+      "Ruling & Clarification",
+      "Case Presented",
+      "Rav Nachman's Respect",
+      "Rava Rules"
+    ],
+    "result": {
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Na\u1e25man sending the case to Rabbi Yirmeya bar Abba because Nehardea is Shmuel's city, which is precisely what the 'Rav Nachman's Respect' prose discusses \u2014 his deference to Shmuel's legacy by declining to rule against it in Shmuel's own city.",
+      "chosen_heading": "Rav Nachman's Respect",
+      "current_heading": "Rav Nachman's Respect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rava Rules",
+    "candidates": [
+      "Rava Rules",
+      "Deception Attempt"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava ruling on the woman's case in accordance with his own halakhic position, which matches exactly the 'Rava Rules' section prose, while the troubling/pressing him (*hava ka-tarda lei*) is only the tail end of the quoted text and the fuller narrative of her persistence belongs to the next section.",
+      "chosen_heading": "Rava Rules",
+      "current_heading": "Rava Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Deception Attempt",
+    "candidates": [
+      "Deception Attempt",
+      "Curse & Punishment",
+      "Mishna Setup",
+      "The Dispute"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava instructing his scribe to write a document with the embedded phrase as a ruse, which is precisely the 'Deception Attempt' section's subject matter \u2014 the curse and punishment portion belongs to candidate 1, but the Talmudic passage covers both the deception and the curse/punishment together, and since the prose of candidate 0 explicitly discusses this exact Talmudic exchange (the scribe instruction, the embedded mishna phrase, and the deceptive document), it is the better match for where this unified passage should sit.",
+      "chosen_heading": "Deception Attempt",
+      "current_heading": "Deception Attempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "The Dispute",
+    "candidates": [
+      "Curse & Punishment",
+      "Mishna Setup",
+      "The Dispute",
+      "Rabbi Meir",
+      "Chachamim",
+      "Rabba's View"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself, and candidate 1 ('Mishna Setup') explicitly describes this exact mishna \u2014 a gift document that does not state the donor was a shchiv mera, where the dispute about burden of proof arises \u2014 making it the natural home for the quoted text before the dispute analysis begins.",
+      "chosen_heading": "Mishna Setup",
+      "current_heading": "The Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rabba's View",
+    "candidates": [
+      "Rabbi Meir",
+      "Chachamim",
+      "Rabba's View",
+      "Rabba Position"
+    ],
+    "result": {
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case Rabba's View prose analyzes: a gift deed containing 'kad hava katzir u-rami be-arseih' but lacking 'u-migo mara'eih iptar le-beit olamo,' which is the precise scenario introduced in candidate 2's prose before Rabba's ruling is stated.",
+      "chosen_heading": "Rabba's View",
+      "current_heading": "Rabba's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rabba Position",
+    "candidates": [
+      "Rabba Position",
+      "Abaye Challenge",
+      "Rabba Reply",
+      "Rav Huna Link",
+      "Rabbi Yaakov"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rabbi Yaakov",
+    "candidates": [
+      "Abaye Challenge",
+      "Rabba Reply",
+      "Rav Huna Link",
+      "Rabbi Yaakov",
+      "Rabbi Natan"
+    ],
+    "result": {
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna ben Rav Yehoshua's question and answer linking Rabba's ruling to Rabbi Natan, which is precisely what the 'Rav Huna Link' section's prose describes \u2014 it currently sits under 'Rabbi Yaakov' which deals with the content of Rabbi Yaakov's position, not the attribution question posed by Rav Huna.",
+      "chosen_heading": "Rav Huna Link",
+      "current_heading": "Rabbi Yaakov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rabbi Natan",
+    "candidates": [
+      "Rabbi Natan",
+      "Field Status"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Natan's ruling about burden of proof based on current status, and the prose under heading 0 explicitly discusses and explains this exact ruling in detail.",
+      "chosen_heading": "Rabbi Natan",
+      "current_heading": "Rabbi Natan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Field Status",
+    "candidates": [
+      "Field Status",
+      "Rava on Seasons",
+      "Rav Huna",
+      "Rav Chisda",
+      "Peh She'asar"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what the 'Field Status' prose discusses: Rabbi Elazar's parallel from tuma laws, the summer/rainy season distinction for reshut ha-yachid vs. reshut ha-rabim, Rava's limitation about intervening rainy seasons, and the closing line about the Rabbis' burden of proof \u2014 all of which are sequentially addressed in candidates 0 and 1, but the full passage spanning Rabbi Elazar through Rava belongs under candidate 0 where the essay's prose covers the entire topic including Rava's clarification within the same section.",
+      "chosen_heading": "Field Status",
+      "current_heading": "Field Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Peh She'asar",
+    "candidates": [
+      "Rava on Seasons",
+      "Rav Huna",
+      "Rav Chisda",
+      "Peh She'asar",
+      "Mishna Case",
+      "Gemara Question",
+      "Found Implication"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Huna's position (raaya be-edim) and Rav Chisda/Rabba bar Rav Huna's position (raaya be-kiyum ha-shtar) along with their underlying rationales, and candidate 1 ('Rav Huna') is the section that introduces this entire Gemara discussion about what proof is required, making it the natural home for the full passage rather than the 'Peh She'asar' section which covers only the analytical implications.",
+      "chosen_heading": "Rav Huna",
+      "current_heading": "Peh She'asar",
+      "moved": true
+    }
+  }
+]
