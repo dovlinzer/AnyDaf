@@ -75,6 +75,19 @@ Passes run in sequence: 1 → 2 → 2.5 → 3 → amud B detection. Use `--passe
   5. Enforces 25-char `display_title` limit on all macro and micro segments
 - Retries once if output JSON is invalid.
 
+**Open, deferred — micro-segment thematic grouping can override chronology (2026-07-31).**
+`repair_segmentation()` already guards against this at the macro level (item 4 above), but
+found a micro-level instance on Bava Batra 84: the "*im hayah pikeach, socher es mekoman*"
+mishna clause was spoken at 28:08, inside "Meshicha Rule"'s own window (26:48–28:49) — well
+before "Flax Hagbaha" (28:49) and "Attached Items" (28:59) — but segmentation assigned it to
+"Attached Items" anyway (its generated micro-title literally reads "...Smart Buyer Can Rent
+Space for Alternative Kinyan," grouping it with "attached items" as a shared theme). Pass 2
+then wrote it in that position, faithfully following segmentation's order — pass 2 is not at
+fault here, unlike the aggada-scoping gap above. Confirmed against both the SRT and the
+Mishna's own text (this clause is textually part of the *first* teaching, before the
+separate flax teaching begins), so this wasn't a borderline call. User-assessed as minor and
+not worth chasing alone; noted here in case a pattern shows up across more dafim later.
+
 **Pass 2 — Rewrite** (Sonnet): raw SRT text + segmentation JSON → `02_rewrite.md`
 - Prompt: `rewrite_prompt()`. Produces a written essay; inline Aramaic is translated to English.
 
@@ -200,7 +213,8 @@ away; every one is a fix for something a reader actually hit:**
 | v5 | Assign segments to sections by monotonic DP over content agreement, replacing timestamp windows — pass 1's micro timestamps are approximate topic markers (two adjacent ones 8 seconds apart covering minutes of material) |
 | v6 | Never split a block mid-sentence; prefer starting a block at Sefaria's own `§` topic marker |
 | v7/v8 | Lateness penalty (place a passage where its discussion *starts*). **Rejected** — fixed Berakhot 31b's header-traversal problem but pulled unrelated Gemara into Gittin 18b's opening and stripped its tail |
-| **v9** | **v6 + the colon fix. The candidate.** |
+| v9 | v6 + the colon fix. |
+| **v10** | **v9 + three fixes from human review of Bava Batra 174/153/103. The candidate.** See "v10 fixes" below. |
 
 **Two calibration decisions, both from human review:**
 - **v9 over v8.** Reviewer rated v6 "almost perfect" on halakhic Gittin 18b and 90-95% on
@@ -211,6 +225,106 @@ away; every one is a fix for something a reader actually hit:**
   Berakhot-v6 — the opposite of the reviewer's judgment. Content-overlap scores do not track
   reading experience. Do not build a per-daf v6/v8 switch without many more labelled
   examples.
+
+**v10 fixes (2026-07-29/30), each calibrated against a corpus sample before shipping — do
+not re-tune these thresholds without recalibrating the same way:**
+
+- **Guarded search, `guarded_consistent_run()`.** `longest_consistent_run()`'s LIS only
+  enforces non-decreasing time; nothing stops one isolated, marginal-score match at a much
+  later INDEX from becoming `span_end`/`span_start` and dragging every unrecited segment
+  between it and the true boundary into the essay (assembly emits the full span,
+  matched or not). A transition jumping more than `JUMP_GAP=3` indices without clearing
+  `HIGH_CONFIDENCE=0.85` is now unreachable in the search itself, not filtered from its
+  output after the fact — the distinction matters: a post-hoc filter tried first and lost
+  Bava Batra 103's own mishna text as collateral damage, because it could only delete from
+  whichever chain the plain LIS's tie-break happened to pick, not recover the one it
+  discarded. Fixed: BB174's 22-segment drift into the next daf's mishna; BB153's
+  three-way identical-timestamp tie (physically impossible — one lecturer can't recite
+  three passages simultaneously). Symmetric: also trims spurious opening matches into the
+  *previous* daf (found on Yevamot 33, Zevachim 29 — unreviewed, flag if you get to them).
+- **Singleton rescue, `rescue_homeless_singletons()`.** A section whose entire block is
+  one segment scoring both LOW (`LOW_SCORE_FLOOR=0.45`) and AMBIGUOUS
+  (`LOW_MARGIN_FLOOR=0.01` ahead of the runner-up) merges onto whichever section already
+  owns the segment before it, rather than sitting under whatever heading won a
+  near-coin-flip. Either signal alone is common even on CORRECT placements (11-26% of all
+  singleton sections in a 180-daf sample) — neighboring sections in a continuous sugya
+  share vocabulary — so only their conjunction (~2.6%) is used. Fixed: BB174's Rabban
+  Shimon ben Gamliel aside, previously stranded under "Level 5" though the essay never
+  discusses it there; now correctly lands as a coda to the Mishna material it actually
+  glosses.
+- **Head extension, `extend_head_to_confident_neighbor()`.** `span_start` pulls back by
+  one segment if excluded only because it was paraphrased in English rather than recited
+  (scores just under `DEFAULT_THRESHOLD`), provided the CURRENT opening is itself
+  near-certain (`HEAD_ANCHOR_CONFIDENCE=0.90`) and the excluded neighbor still clears
+  `HEAD_NEIGHBOR_FLOOR=0.40` on its own. Fixed: BB103 opened mid-sentence at "*ein
+  nimdadin imah*" because "*tnan hatam: hamakdish sadeihu...*" scored 0.41 (explained in
+  English, not recited) one segment before a 1.00 match. **Deliberately head-only** — a
+  180-daf sample found tail candidates (`span_end+1`) at 2-3x the head rate with no
+  signal yet to distinguish a real recitation from an echo of the fabricated-tail problem
+  the guarded search exists to reject. Do not add the symmetric tail rule without that
+  signal; it risks re-opening exactly what the guard fixed.
+
+Full corpus diagnose (`--all --diagnose`, ~2:30, no files written) confirmed 0 completeness
+assertion failures across all 2,343 processable dafim after each of the three fixes above.
+
+**Tried and rejected: "section opening sentence" bonus (2026-07-30).** Motivated by a BB174
+case where a section opens with Gemara that actually belongs elsewhere ("no strong home,"
+distinct from the singleton-rescue case above — this was a *confident* but wrong opening
+match, not a weak/ambiguous one). Built a DP bonus rewarding a section's own opening
+sentence for landing at the start of its block, calibrated on a corpus sample (restricting to
+nearby misattachment, `|owner - section| <= 2`, to avoid the same long-range false-positive
+trap v1 hit — see v1's entry above). Tested against 7 confirmed nearby-misattachment cases:
+fixed only 1/7 (shabbat_61). Failed on its own motivating BB174 case (the essay's opening uses
+transliterated Hebrew, e.g. "the *ibayu lehu*," while Sefaria's English translation uses
+different words — zero word overlap, a blind spot no bonus tuning fixes) and was blocked
+outright on sukkah_10 by the pre-existing `is_continuation` hard constraint (the candidate
+segment has no terminal punctuation, so it's categorically barred from starting any block).
+
+**Tried and rejected: transliteration matching + IDF word-rarity reweighting (2026-07-31).**
+Motivated by BB84, where two Gemara blocks *confidently* open the wrong section (not a
+near-tie, not weak/ambiguous — same "confident wrong opening" class as the case above, found
+independently): `content_words_en()` overlap rewards generic recurring domain vocabulary
+(buyer/seller/sale) over the section that actually discusses the quote, because that
+section's own prose paraphrases it in different English words than Sefaria's translation.
+Built two candidate signals:
+- **Transliteration skeleton match** — compare the essay's own italicized Aramaic/Hebrew
+  transliteration against each candidate segment's actual Hebrew (nikud-aware consonant
+  skeleton, `SequenceMatcher` edit-distance ratio, essay-local stopwording for terms
+  recurring across >2 sections of the same essay). This one **works** as a signal — cleanly
+  separates the correct section from the wrong one on BB84's two confirmed cases (e.g. 0.82
+  vs 0.68), and correctly stays neutral on BB174's `ibayu lehu` case (a genuine near-tie
+  even under this signal, consistent with rejecting a fix there above).
+- **IDF-weighted content overlap** (down-weight English words that recur across many of the
+  essay's own sections) — tested alone, in isolation, across several thresholds: never
+  recovers BB84's two confirmed cases. The two sections' prose just uses different English
+  words for the same content; there's no rare-vs-common signal to rescue, because there's
+  barely any shared vocabulary at all. Not a substitute for the transliteration signal —
+  a different, weaker one that doesn't cover this failure mode.
+
+**Both were rejected regardless**, because wiring either into `align_constrained`'s DP —
+even gated to block-opening positions only, even behind a hard absolute-score floor —
+destabilized dense, argumentative dafim (bava_metzia_11, niddah_60, berakhot_31b,
+zevachim_29: 84%+ of section boundaries shifted) while barely moving clean narrative ones.
+Root cause: the DP assigns one contiguous, *monotonic* block per section across the whole
+span, so a single new signal anywhere can pull the globally-optimal partition everywhere
+else, and dafim whose base content-word signal is already thin/ambiguous throughout are the
+most exposed. Verified concretely on BB84 itself (the motivating daf): the gated version
+fixed the 2 target cases but also broke a previously-correct placement (segments 15–18,
+the wine/vinegar mishna text, pulled from "Consumer Preference" — where the essay literally
+quotes that passage — into "Rabbi vs Rabbanan," which doesn't quote it at all).
+
+Also surfaced, independent of the above and worth remembering on its own: `content_words_en()`
+filters any word of length ≤3, which silently drops short-but-meaningful English words like
+"red" and "sun" from every content-overlap comparison in the corpus, not just this case.
+
+**Conclusion:** "confident wrong opening" (this case and the BB174 one above) is accepted as
+inherent imprecision of word-overlap-based section assignment without semantic
+comprehension — not fixed by v10, not scheduled for further work absent a new idea.
+Reverted in full — constants, `section_opening_words()`, and the DP wiring — rather than
+ship a fix with a 1/7 success rate. If revisited, the real blocker is scoring by English-word
+overlap when the essay quotes Hebrew/transliteration directly — see the still-open "confident
+wrong opening" problem this was meant to solve, and the transliteration-vs-Hebrew idea under
+consideration as of 2026-07-31 (BB84 review).
 
 **Two subtle bugs worth remembering:**
 - **`:` is not a sentence terminator in Talmudic text** — it introduces quoted speech
@@ -255,16 +369,37 @@ No API cost at any step: everything below reads existing `02_rewrite.md` output.
 
 | # | Step | Why it sits here |
 |---|---|---|
-| 0 | `apply_display_titles.py --rewrite-only --only daf-processor/title_pass_aligned.txt` | **Must precede v9.** v9 copies `02_rewrite.md` headings verbatim, so a stale `…` heading gets baked into the final |
+| 0 | `apply_display_titles.py --rewrite-only --only daf-processor/title_pass_aligned.txt` | **Must precede v10.** v10 copies `02_rewrite.md` headings verbatim, so a stale `…` heading gets baked into the final |
 | 1 | Back up `03_final.md` corpus-wide (`.bak_pass3`) | Step 3 overwrites 2,362 files |
-| 2 | `prototype_text_first_v9.py --all` (~5 min) | Watch for `COMPLETENESS ASSERTION FAILED` |
-| 3 | Promote `03_text_first_prototype_v9.md` → `03_final.md` | v9's filename is read by nothing downstream |
+| 2 | `prototype_text_first_v10.py --all` (~2:30) | Watch for `COMPLETENESS ASSERTION FAILED`; confirmed 0 across the full corpus as of 2026-07-30 |
+| 3 | Promote `03_text_first_prototype_v10.md` → `03_final.md` | v10's filename is read by nothing downstream |
 | 4 | `find_sefaria_indices.py` | order-independent of step 5 |
 | 5 | `find_amud_b.py` | order-independent of step 4 |
 | 6 | `upload_to_supabase.py` | |
 
-The easy mistake is running v9 first because it looks like step 1. It is step 2, and getting
-that wrong means redoing the whole corpus.
+The easy mistake is running v10 first because it looks like step 1. It is step 2, and getting
+that wrong means redoing the whole corpus. (v9 is superseded — see "v10 fixes" above — do not
+run v9 corpus-wide.)
+
+**Exception: three dafim need pass 1 + pass 2 rerun FIRST, not just the v10 pass above.**
+The corpus-wide steps above only touch `02_rewrite.md` onward — they cannot fix a source SRT
+problem, since passes 1 and 2 already ran on the bad transcript. Before or separately from the
+corpus-wide run:
+
+| Daf | SRT problem | Status |
+|---|---|---|
+| Menachot 79 | 0 Hebrew characters — see "Menachot 79" section below | Author re-transcribing audio |
+| Bava Batra 153 | Fabricated tail after the real ending ("let's go on to daf 154 amud bet...") | Corrupted region needs identifying/trimming |
+| Bava Batra 174 | Same pattern — fabricated `והלכתא`/next-mishna tail | Corrupted region needs identifying/trimming |
+
+Once each daf's SRT is fixed, that daf needs pass 1 (segmentation) + pass 2 (rewrite) rerun —
+**both call the Anthropic API, requiring explicit authorization per the standing rule above**
+(state which dafim/passes and the API call count before running) — followed by v10 on that
+daf specifically. Don't fold these three into the corpus-wide v10 pass until their SRTs are
+fixed; v10 already contains guards against exactly this failure mode (the guarded search
+correctly excludes BB153/174's existing corrupted tails today), but starting from a corrected
+SRT should also fix the underlying pass 1/2 content rather than just papering over it at the
+matching stage.
 
 #### `apply_display_titles.py` matches POSITIONALLY — two flags exist to contain that
 
