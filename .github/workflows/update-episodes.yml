@@ -33,8 +33,17 @@ jobs:
         # Scrapes client_id fresh from SoundCloud's JS bundle each run.
         # Falls back to stored secret if scraping fails.
         # Output captured in steps.scrape_id.outputs.client_id
+        #
+        # `|| true` is load-bearing: if SoundCloud blocks/rejects this runner's IP
+        # (e.g. a Cloudflare 403 on the whole domain, seen 2026-08-03), the script
+        # exits 1 and CLIENT_ID stays empty. Without `|| true`, bash -e would kill
+        # this step outright, which killed the ENTIRE job before sync_episodes.py
+        # ever ran — including the Transistor sync below, which needs no client_id
+        # at all. sync_episodes.py already degrades gracefully on a bad/empty
+        # client_id (syncs RSS, skips only SoundCloud playlists, exits 2) — this
+        # just lets it actually get the chance to do that.
         run: |
-          CLIENT_ID=$(python3 daf-processor/refresh_client_id.py --validate --fallback "$FALLBACK_CLIENT_ID")
+          CLIENT_ID=$(python3 daf-processor/refresh_client_id.py --validate --fallback "$FALLBACK_CLIENT_ID") || true
           echo "client_id=$CLIENT_ID" >> $GITHUB_OUTPUT
 
       - name: Sync SoundCloud episodes to Supabase
@@ -50,9 +59,12 @@ jobs:
         #       → GitHub will mark this run as FAILED and email you automatically
 
       - name: Sync Transistor episodes to Supabase
+        if: ${{ !cancelled() }}
         env:
           SUPABASE_URL:         ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: python3 daf-processor/sync_transistor_rss.py
         # Runs after SoundCloud sync so Transistor URLs overwrite SoundCloud URLs
         # for any episode that has been ported to Transistor.
+        # `if: !cancelled()` so this independent sync (no client_id needed) still
+        # runs even if the SoundCloud step above failed/exited non-zero.
