@@ -2,7 +2,7 @@
 
 ## Navi Shehidiach
 
-### Intro: Navi & Avodah Zar…
+### Intro: Navi & Avodah Zara
 
 The daf opens in the middle of a discussion about a *navi* who prophesies something he did not actually receive, or who prophesies in the name of another god — both of which carry the penalty of *chenek*. There is also the related case of one who fails to heed the words of a prophet, which carries *misa b'yedei shamayim*. These categories prompt the broader question of how one identifies a true prophet and why one is obligated to obey him — a question that ultimately opens into the *agadata* of *akeidas Yitzchak*, exploring why Yitzchak listened to Avraham.
 

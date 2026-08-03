@@ -47,3 +47,28 @@
 **12.**
 *Hebrew/Aramaic:* גְּמָ׳ אֲמַר לֵיהּ רַב לְחִיָּיא בְּרֵיהּ:
 *Translation:* GEMARA: **Rav said to his son Ḥiyya:**
+
+
+---
+
+### Nazir 66b
+
+**1.**
+*Hebrew/Aramaic:* חֲטוֹף וּבָרֵיךְ. וְכֵן אֲמַר לֵיהּ רַב הוּנָא לְרַבָּה בְּרֵיהּ: חֲטוֹף וּבָרֵיךְ.
+*Translation:* **Seize** the opportunity **and** quickly **recite a blessing** over the cup of blessing for the Grace after Meals. **And similarly, Rav Huna said to his son, Rabba: Seize** the opportunity **and recite a blessing.**
+
+**2.**
+*Hebrew/Aramaic:* לְמֵימְרָא דִּמְבָרֵךְ עֲדִיף? וְהָתַנְיָא, רַבִּי יוֹסֵי אוֹמֵר: גָּדוֹל הָעוֹנֶה ״אָמֵן״ יוֹתֵר מִן הַמְבָרֵךְ. וְאָמַר לוֹ רַבִּי נְהוֹרַאי: הַשָּׁמַיִם! כָּךְ הוּא: תֵּדַע שֶׁהֲרֵי גּוּלְיָירִים מִתְגָּרִין בַּמִּלְחָמָה, וְגִבּוֹרִים נוֹצְחִין.
+*Translation:* The Gemara asks: **Is this to say that one who recites a blessing is preferable** to one who answers amen? **But isn’t it taught** in a *baraita* that **Rabbi Yosei says: The one who answers amen is greater than the one who recites the blessing? And Rabbi Nehorai said to him: By Heavens, it is so. Know** that this is true, **as the military assistants [*gulyarim*]** descend to the battlefield and **initiate the war and the mighty** follow them and **prevail.** The amen that follows a blessing is compared to the mighty who join the war after the assistants, illustrating that answering amen is more significant than reciting the initial blessing.
+
+**3.**
+*Hebrew/Aramaic:* תַּנָּאֵי הִיא, דְּתַנְיָא: אֶחָד הַמְבָרֵךְ וְאֶחָד הָעוֹנֶה ״אָמֵן״ בַּמַּשְׁמָע, אֶלָּא שֶׁמְּמַהֲרִין לַמְבָרֵךְ תְּחִילָּה.
+*Translation:* The Gemara responds: This **is** a dispute between ***tanna’im*, as it is taught** in a *baraita*: **Both the one who recites a blessing and the one who answers amen are included** among those who “stand up and bless” (Nehemiah 9:5), **but one hurries to first** reward **the one who recites the blessing.** This *baraita* apparently holds that reciting the blessing is greater than answering amen.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אֶלְעָזָר אָמַר רַבִּי חֲנִינָא: תַּלְמִידֵי חֲכָמִים מַרְבִּים שָׁלוֹם בָּעוֹלָם, שֶׁנֶּאֱמַר: ״וְכׇל בָּנַיִךְ לִמּוּדֵי ה׳ וְרַב שְׁלוֹם בָּנָיִךְ״.
+*Translation:* **Rabbi Elazar said** that **Rabbi Ḥanina said: Torah scholars increase peace in the world, as it is stated: “And all your children [*banayikh*] shall be taught of the Lord, and great shall be the peace of your children”** (Isaiah 54:13). The Sages interpreted this verse homiletically: Do not read it as: “Your children [*banayikh*],” but as: Your builders [*bonayikh*]. Torah scholars are those who build peace for their generation.
+
+**5.**
+*Hebrew/Aramaic:* הַדְרָן עֲלָךְ הַגּוֹיִם אֵין לָהֶם נְזִירוּת וּסְלִיקָא לַהּ מַסֶּכֶת נָזִיר
+*Translation:* 

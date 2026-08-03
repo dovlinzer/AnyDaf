@@ -1,0 +1,77 @@
+### Niddah 53a
+
+**1.**
+*Hebrew/Aramaic:* אָמַר רַבִּי: נִרְאִין דִּבְרֵי רַבִּי יְהוּדָה בֶּן אַגְרָא בְּשֶׁלֹּא בָּדְקָה, וְדִבְרֵי חֲכָמִים בְּשֶׁבָּדְקָה.
+*Translation:* **Rabbi** Yehuda HaNasi **says** that the dispute between Rabbi Yehuda ben Agra and the Rabbis should be decided as follows: **The statement of Rabbi Yehuda ben Agra,** who maintains that there is a concern for the possibility that the woman might have seen blood at twilight, **appears** to be correct **in** a case **where she did not examine. And the statement of the Rabbis,** who are not concerned about that possibility, appears to be correct **in** a case **where she did examine.**
+
+**2.**
+*Hebrew/Aramaic:* מַאי ״בָּדְקָה״, וּמַאי ״לֹא בָּדְקָה״? אֲמַר רָבָא: אַשְׁכַּחְתִּינְהוּ לְרַבָּנַן דְּבֵי רַב דְּיָתְבִי וְקָאָמְרִי — הָכָא בְמַאי עָסְקִינַן? כְּגוֹן שֶׁבָּדְקָה עַצְמָהּ, וְלֹא בָּדְקָה חֲלוּקָהּ, וְאַף עַצְמָהּ לֹא בָּדְקָה אֶלָּא בֵּין הַשְּׁמָשׁוֹת דְּרַבִּי יְהוּדָה, וּבְבֵין הַשְּׁמָשׁוֹת דְּרַבִּי יוֹסֵי לֹא בָּדְקָה.
+*Translation:* The Gemara asks: **What** did Rabbi Yehuda HaNasi mean by: Where she **did examine, and what** did he mean by: Where she **did not examine? Rava says: I found the Sages in the study hall of Rav sitting and saying** the following explanation of the *baraita*: **Here we are dealing with** a case **where** the woman **examined herself but did not examine her robe. And even** with regard to **herself, she examined** herself **only** during **twilight [*bein hashemashot*]** as defined **by Rabbi Yehuda,** i.e., the time it takes to walk a half *mil* before the emergence of the stars. **But during twilight** as defined **by Rabbi Yosei,** i.e., the blink of an eye before the emergence of the stars, **she did not examine** herself.
+
+**3.**
+*Hebrew/Aramaic:* דְּרַבָּנַן סָבְרִי בְּבֵין הַשְּׁמָשׁוֹת דְּרַבִּי יוֹסֵי לֵילְיָא הוּא, וְהָא בָּדְקָה בְּבֵין הַשְּׁמָשׁוֹת דְּרַבִּי יְהוּדָה, וְרַבִּי יוֹסֵי לְטַעְמֵיהּ, דְּאָמַר בֵּין הַשְּׁמָשׁוֹת סְפֵיקָא הָוֵי.
+*Translation:* **As the Rabbis hold** that **during** the period of **twilight** as defined **by Rabbi Yosei it is** already **night,** and therefore it does not matter that she did not examine herself then. **And** as **she did examine** herself **during** the period of **twilight** as defined **by Rabbi Yehuda,** and she found no blood, there is no concern that she saw during twilight, which would count as two sightings. **And Rabbi Yosei** conforms **to his** line of **reasoning, as** Rabbi Yosei, in whose name Rabbi Yehuda ben Agra said his ruling, **stated** that the time that he defines as **twilight is** considered **uncertain,** i.e., it is not definitely night or day, and therefore there is a concern that she might have seen blood at that time, which would count as seeing twice.
+
+**4.**
+*Hebrew/Aramaic:* וְאָמֵינָא לְהוּ אֲנָא: אִילְמָלֵי יָדֶיהָ בְּעֵינֶיהָ כׇּל בֵּין הַשְּׁמָשׁוֹת — יָפֶה אַתֶּם אוֹמְרִים, עַכְשָׁיו שֶׁמָּא עִם סִלּוּק יָדֶיהָ רָאֲתָה? וְאָמְרוּ לִי: כִּי קָאָמְרִינַן כְּשֶׁנָּתְנָה יָדֶיהָ בְּעֵינֶיהָ כׇּל בֵּין הַשְּׁמָשׁוֹת.
+*Translation:* Rava continues: **And I said to** those Sages: **Had** the woman’s **hands** been **in her eyes,** a euphemism for her private parts, for **the entire twilight** period, what **you say** would be **fine.** But **now** that this is not the case, **perhaps when she removed her hands** from examining herself **she saw** blood. **And** those Sages **said to me:** The case about which **we said** that opinion **was where she placed her hands in her eyes** for **the entire twilight** period.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַבִּי: נִרְאִין דִּבְרֵי רַבִּי יְהוּדָה בֶּן אַגְרָא כְּשֶׁלֹּא בָּדְקָה. מַאי ״לֹא בָּדְקָה״?
+*Translation:* The Gemara further clarifies the *baraita*. **Rabbi** Yehuda HaNasi **says: The statement of Rabbi Yehuda ben Agra** in the name of Rabbi Yosei, who maintains that one needs to be concerned for the possibility that the woman saw blood at twilight, which would count as though she saw blood twice, **appears** to be correct **in** a case **where she did not examine.** The Gemara asks: **What** is meant by: Where she did **not examine?**
+
+**6.**
+*Hebrew/Aramaic:* אִילֵּימָא דְּבָדְקָה בִּדְרַבִּי יְהוּדָה, וְלֹא בָּדְקָה בִּדְרַבִּי יוֹסֵי, מִכְּלָל דְּרַבִּי יְהוּדָה סָבַר: אַף עַל גַּב דְּבָדְקָה בְּתַרְוַיְיהוּ חָיְישָׁא? הָא בָּדְקָה!
+*Translation:* **If we say that she examined** herself **during** the period **that is** defined by **Rabbi Yehuda** as twilight, **but** she **did not examine** herself **during** the time period **that is** defined by **Rabbi Yosei** as twilight, this is difficult: If Rabbi Yehuda HaNasi accepted the opinion of Rabbi Yehuda ben Agra only in such a case, this indicates, **by inference, that Rabbi Yehuda** ben Agra himself, whose ruling is more strict than that of the Rabbis, **holds** that **even though** she **examined** herself **during** the twilight period as defined by **both** Rabbi Yehuda and Rabbi Yosei, **she must be concerned.** This conclusion is untenable, as **she examined** herself throughout twilight and there was no blood.
+
+**7.**
+*Hebrew/Aramaic:* אֶלָּא פְּשִׁיטָא דְּלֹא בָּדְקָה, לָא בִּדְרַבִּי יְהוּדָה וְלָא בִּדְרַבִּי יוֹסֵי, אֲבָל בָּדְקָה בִּדְרַבִּי יְהוּדָה וְלֹא בָּדְקָה בִּדְרַבִּי יוֹסֵי — לָא חָיְישָׁא.
+*Translation:* **Rather,** it is **obvious** that when Rabbi Yehuda HaNasi referred to a case where she did not examine herself, he meant **that she examined** herself **neither during** the period **that Rabbi Yehuda** defines as twilight, **nor during** the period **that Rabbi Yosei** defines as twilight. **But** if she **examined** herself **during** the period **that Rabbi Yehuda** defines as twilight, **but** she **did not examine** herself **during** the period **that Rabbi Yosei** defines as twilight, then she does **not** need to be **concerned.**
+
+**8.**
+*Hebrew/Aramaic:* אַלְמָא, בֵּין הַשְּׁמָשׁוֹת דְּרַבִּי יוֹסֵי לְרַבִּי לֵילְיָא הוּא. אֵימָא סֵיפָא: ״וְדִבְרֵי חֲכָמִים כְּשֶׁבָּדְקָה״. מַאי ״בָּדְקָה״?
+*Translation:* **Evidently,** the time period **that Rabbi Yosei** defines as **twilight is** considered **nighttime** according **to Rabbi** Yehuda HaNasi. But if so, **say the latter clause: And the statement of the Rabbis** appears to be correct **in** a case **where she did examine. What** is meant by: Where she did **examine?**
+
+**9.**
+*Hebrew/Aramaic:* אִילֵּימָא דְּבָדְקָה בִּדְרַבִּי יְהוּדָה, וְלֹא בָּדְקָה בִּדְרַבִּי יוֹסֵי, מִכְּלָל דְּרַבָּנַן סָבְרִי אַף עַל גַּב דְּלֹא בָּדְקָה בְּתַרְוַיְיהוּ — לָא חָיְישִׁינַן, הָא לֹא בָּדְקָה!
+*Translation:* **If we say that she examined** herself **during** the period **that is** defined **by Rabbi Yehuda** as twilight, **but** she **did not examine** herself **during** the period **that is** defined **by Rabbi Yosei** as twilight, this is difficult: If Rabbi Yehuda HaNasi accepted the opinion of the Rabbis only in such a case, this indicates **by inference that the Rabbis** themselves **hold** that **even though** she **did not examine** herself **during** the twilight period as defined by **both** Rabbi Yehuda and Rabbi Yosei, nevertheless, **we are not concerned. But** in such a case, **she did not examine** herself at twilight at all.
+
+**10.**
+*Hebrew/Aramaic:* אֶלָּא פְּשִׁיטָא דְּבָדְקָה בֵּין בִּדְרַבִּי יְהוּדָה, וּבֵין בִּדְרַבִּי יוֹסֵי, אֲבָל בָּדְקָה בִּדְרַבִּי יְהוּדָה וְלֹא בָּדְקָה בִּדְרַבִּי יוֹסֵי — חָיְישִׁינַן.
+*Translation:* **Rather,** it is **obvious that** she **examined** herself **both during** the period **that Rabbi Yehuda** defines as twilight, **and during** the period **that Rabbi Yosei** defines as twilight. **But** if she **examined** herself **during** the period **that Rabbi Yehuda** defines as twilight, **and** she **did not examine** herself **during** the period **that Rabbi Yosei** defines as twilight, then **we** are **concerned.**
+
+**11.**
+*Hebrew/Aramaic:* אַלְמָא, בֵּין הַשְּׁמָשׁוֹת דְּרַבִּי יוֹסֵי לְרַבִּי סְפֵקָא הָוֵי, קַשְׁיָא דְּרַבִּי אַדְּרַבִּי!
+*Translation:* **Evidently,** the time period **that Rabbi Yosei** defines as **twilight is** considered to be of **uncertain** status regarding whether it is day or night **according to Rabbi** Yehuda HaNasi. The Gemara asks: If so, one statement **of Rabbi** Yehuda HaNasi poses **a difficulty for** another statement **of Rabbi** Yehuda HaNasi, as the inferences from the two parts of Rabbi Yehuda HaNasi’s observation contradict one another.
+
+**12.**
+*Hebrew/Aramaic:* הָכִי קָאָמַר: נִרְאִין דִּבְרֵי רַבִּי יְהוּדָה בֶּן אַגְרָא לְרַבָּנַן, דְּלָא בָּדְקָה כְּלָל — לֹא בִּדְרַבִּי יְהוּדָה וְלֹא בִּדְרַבִּי יוֹסֵי, שֶׁאַף חֲכָמִים לֹא נֶחְלְקוּ עָלָיו אֶלָּא דְּבָדְקָה בִּדְרַבִּי יְהוּדָה וְלֹא בָּדְקָה בִּדְרַבִּי יוֹסֵי. אֲבָל הֵיכָא דְּלֹא בָּדְקָה כְּלָל — מוֹדוּ לֵיהּ.
+*Translation:* The Gemara explains that **this** is what Rabbi Yehuda HaNasi **is saying: The statement of Rabbi Yehuda ben Agra appears** correct **to the Rabbis** in a case **where she did not examine** herself **at all, neither during** the period **that Rabbi Yehuda** defines as twilight, **nor during** the period **that Rabbi Yosei** defines as twilight. **As, even the Rabbis disagree with** Rabbi Yehuda ben Agra **only** in a case **where** she **examined** herself **during** the period **that Rabbi Yehuda** defines as twilight **but** she **did not examine** herself **during** the time period **that Rabbi Yosei** defines as twilight. **But** in a case **where** she **did not examine** herself **at all, they concede to him** that we are concerned that she might have emitted blood at twilight.
+
+**13.**
+*Hebrew/Aramaic:* וּרְמִינְהוּ: הָרוֹאָה כֶּתֶם, לִרְאִיָּה מְרוּבָּה — חוֹשֶׁשֶׁת, לִרְאִיָּה מוּעֶטֶת — אֵינָהּ חוֹשֶׁשֶׁת. זוֹ דִּבְרֵי רַבִּי יְהוּדָה בֶּן אַגְרָא שֶׁאָמַר מִשּׁוּם רַבִּי יוֹסֵי.
+*Translation:* **And** the Gemara **raises a contradiction** from a *baraita*: In the case of a woman **who sees** a red **stain,** if she **saw a large** stain, covering an area the size of at least three split beans, she must be **concerned** that she might be a *zava*. But if she **saw a small** stain, covering an area of less than the size of three split beans, she does **not** need to **be concerned** that she is a *zava*. **This** is **the statement of Rabbi Yehuda ben Agra, who said** it **in the name of Rabbi Yosei.**
+
+**14.**
+*Hebrew/Aramaic:* אָמַר רַבִּי: אֲנִי שָׁמַעְתִּי מִמֶּנּוּ שֶׁאַחַת זוֹ וְאַחַת זוֹ חוֹשֶׁשֶׁת, וּמִן הַטַּעַם הַזֶּה אָמַר לִי: וּמָה אִילּוּ נִדָּה שֶׁלֹּא הִפְרִישָׁה בְּטָהֳרָה מִן הַמִּנְחָה וּלְמַעְלָה — לֹא תְּהֵא בְּחֶזְקַת טְמֵאָה? וְנִרְאִין דְּבָרָיו כְּשֶׁבָּדְקָה.
+*Translation:* **Rabbi** Yehuda HaNasi **said: I heard from** Rabbi Yosei **that** with regard to both **this one and that one,** i.e., whether it is a large or small stain, she **must be concerned** that she is a *zava*. **And** Rabbi Yosei **said** this *halakha* **to me based on this reasoning: And what** would be the case **if a menstruating woman did not** perform the examination marking the first step in her **transition** from ritual impurity **to ritual purity** on the seventh day **from *minḥa*** time **onward?** Would she **not** have **a presumptive status of ritual impurity?** Rabbi Yehuda HaNasi added: **And** Rabbi Yosei’s **statement appears** to be correct **with regard to** the case **where she examined.**
+
+**15.**
+*Hebrew/Aramaic:* מַאי בָּדְקָה? אִילֵּימָא דְּבָדְקָה בִּדְרַבִּי יְהוּדָה, וְלֹא בָּדְקָה בִּדְרַבִּי יוֹסֵי, מִכְּלָל דְּרַבִּי יְהוּדָה בֶּן אַגְרָא סָבַר אַף עַל גַּב דְּלֹא בָּדְקָה לָא בִּדְרַבִּי יְהוּדָה וְלָא בִּדְרַבִּי יוֹסֵי — לָא חָיְישָׁא? וְהָא לֹא בָּדְקָה!
+*Translation:* Once again, the Gemara asks: **What** is meant by the term: Where she **examined? If we say that she examined** herself **during** the period **that is** defined **by Rabbi Yehuda** as twilight, **but** she **did not examine** herself **during** the period **that is** defined **by Rabbi Yosei** as twilight, this indicates **by inference that Rabbi Yehuda ben Agra,** who disagrees in the second *baraita* with this version of Rabbi Yosei’s opinion and rules more leniently, **holds** that **even though** she **did not examine** herself **during** the twilight period as defined by **both Rabbi Yehuda and Rabbi Yosei,** nevertheless, **she** does **not** need to **be concerned** that she is a *zava*. **But** this conclusion is untenable, as **she did not examine** herself at twilight at all.
+
+**16.**
+*Hebrew/Aramaic:* אֶלָּא פְּשִׁיטָא דְּבָדְקָה בֵּין בִּדְרַבִּי יְהוּדָה וּבֵין בִּדְרַבִּי יוֹסֵי, מִכְּלָל דְּרַבִּי יְהוּדָה בֶּן אַגְרָא סָבַר: בָּדְקָה בִּדְרַבִּי יְהוּדָה וְלֹא בָּדְקָה בִּדְרַבִּי יוֹסֵי — לָא חָיְישָׁא.
+*Translation:* **Rather,** it is **obvious that** Rabbi Yehuda HaNasi is referring to a case **where** she examined herself **both during** the period **that Rabbi Yehuda** defines as twilight **and during** the period **that Rabbi Yosei** defines as twilight. This indicates, **by inference, that Rabbi Yehuda ben Agra holds** that if she **examined** herself **during** the period **that Rabbi Yehuda** defines as twilight, **but** she **did not examine** herself **during** the time period **that Rabbi Yosei** defines as twilight, then she does **not** need to be **concerned,** as a sighting at that time would not count as two.
+
+**17.**
+*Hebrew/Aramaic:* אַלְמָא, בֵּין הַשְּׁמָשׁוֹת דְּרַבִּי יוֹסֵי לְרַבִּי יְהוּדָה בֶּן אַגְרָא — לֵילְיָא הוּא. קַשְׁיָא דְּרַבִּי יְהוּדָה בֶּן אַגְרָא אַדְּרַבִּי יְהוּדָה בֶּן אַגְרָא!
+*Translation:* **Evidently,** the period **that Rabbi Yosei** defines as **twilight is** considered to be **nighttime according to Rabbi Yehuda ben Agra.** If so, one statement **of Rabbi Yehuda ben Agra** poses **a difficulty with regard to** another statement **of Rabbi Yehuda ben Agra,** as earlier it was stated that according to Rabbi Yehuda ben Agra twilight is not definitely night.
+
+**18.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא בְּלֹא רַבִּי — לָא קַשְׁיָא: הָתָם דְּבָדְקָה בִּדְרַבִּי יְהוּדָה וְלֹא בָּדְקָה בִּדְרַבִּי יוֹסֵי, הָכָא דְּבָדְקָה נָמֵי בִּדְרַבִּי יְהוּדָה וּבִדְרַבִּי יוֹסֵי, אֶלָּא בִּדְרַבִּי קַשְׁיָא!
+*Translation:* **Granted, without** the statement of **Rabbi** Yehuda HaNasi, the apparent contradiction between these statements of Rabbi Yehuda ben Agra in the two *baraitot* is **not difficult,** as one could explain as follows: **There,** with regard to the first *baraita*, it is referring to a case **where she examined** herself **during** the period **that is** defined **by Rabbi Yehuda** as twilight, **but** she **did not examine** herself **during** the period **that is** defined **by Rabbi Yosei** as twilight. By contrast, **here** it is referring to a case **where she examined** herself **both during** the period **that is** defined **by Rabbi Yehuda** as twilight **and during** the period **that is** defined **by Rabbi Yosei** as twilight. **But in** light of the statement **of Rabbi** Yehuda HaNasi, one cannot explain in this manner, and therefore the contradiction poses **a difficulty.**
+
+**19.**
+*Hebrew/Aramaic:* תְּרֵי תַּנָּאֵי וְאַלִּיבָּא דְּרַבִּי יְהוּדָה בֶּן אַגְרָא: הַאי תַּנָּא סָבַר, שָׁלֵים בֵּין הַשְּׁמָשׁוֹת דְּרַבִּי יְהוּדָה,
+*Translation:* The Gemara answers: This is not a contradiction, as there are **two *tanna’im* and** they disagree **with regard to** the opinion **of Rabbi Yehuda ben Agra. This *tanna* holds** that **Rabbi Yehuda’s twilight ends,**

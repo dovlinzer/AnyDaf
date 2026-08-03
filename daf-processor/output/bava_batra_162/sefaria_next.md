@@ -43,3 +43,40 @@
 **11.**
 *Hebrew/Aramaic:* וְלֵיחוּשׁ דִּלְמָא גָּיֵיז לֵיהּ לְעֵילָּא, וּמָחֵיק לֵיהּ לִטְיוּטָא, וְכָתֵב מַאי דְּבָעֵי, וּמַחְתִּים סָהֲדֵי; וְאָמַר רַב: שְׁטָר הַבָּא הוּא וְעֵדָיו עַל הַמְּחָק – כָּשֵׁר!
 *Translation:* The Gemara raises another issue: **And let** there be **a concern** that **perhaps** the holder of the document will **excise** the entire text that appears **above** the signatures, **and** then **erase the inked-in** part **and write whatever he wants** in that erased area, **and** have unscrupulous **witnesses sign** it. **And** this would be a valid document, as **Rav says: A document that comes** before the court for ratification in which **its** content **and** the signatures of **its witnesses are** both written **over an erasure** is **valid.** The court ratification would then be assumed to be referring to this new, forged document.
+
+
+---
+
+### Bava Batra 163b
+
+**1.**
+*Hebrew/Aramaic:* הָנִיחָא לְרַב כָּהֲנָא – דְּמַתְנֵי לַהּ מִשְּׁמֵיהּ דִּשְׁמוּאֵל, שַׁפִּיר; אֶלָּא לְרַב טָבְיוֹמֵי – דְּמַתְנֵי לַהּ מִשְּׁמֵיהּ דְּרַב, מַאי אִיכָּא לְמֵימַר?
+*Translation:* **This works out well,** i.e., this concern does not apply, **according to Rav Kahana, who teaches in the name of Shmuel** that a document in which its content and its witnesses’ signatures are both written over an erasure is valid; according to him, all **is well.** It is Rav who says that an inked-in gap between the witnesses’ signatures and the court’s ratification is acceptable, and it is Shmuel who says that a document that is written and signed over an erasure is acceptable. **But according to Rav Tavyumei, who teaches** this latter statement **in the name of Rav, what can be said?** According to him, Rav said both statements, and taken together they pose a difficulty: The inked-in gap between the witnesses’ signatures and the ratification can easily be erased and a new document with signatures can be written over the erasure.
+
+**2.**
+*Hebrew/Aramaic:* קָסָבַר: כׇּל כִּי הַאי גַוְונָא, אֵין מְקַיְּימִין אוֹתוֹ מִן הָאַשַּׁרְתָּא שֶׁבּוֹ, אֶלָּא מִן הָעֵדִים שֶׁבּוֹ.
+*Translation:* The Gemara answers: Rav **maintains** that in **all cases like this,** where a document and its witnesses’ signatures are written over an erasure and there is a court ratification on a non-erased part of the paper, the later court **ratifies** the document **not on the basis of the** previous court’s **ratification that is on it, but** only **on the basis of the** signatures of the **witnesses that are on it.** Therefore, the forging of a document in this manner is impossible, as the prior ratification of the court is disregarded, and the witnesses will attest to what they signed upon.
+
+**3.**
+*Hebrew/Aramaic:* וְרַבִּי יוֹחָנָן אָמַר: לֹא שָׁנוּ אֶלָּא בֵּין הָעֵדִים לַכְּתָב, אֲבָל בֵּין עֵדִים לָאַשַּׁרְתָּא – אֲפִילּוּ שִׁיטָה אַחַת פָּסוּל.
+*Translation:* The Gemara cites another opinion: **And Rabbi Yoḥanan says: They taught** in the *baraita* that a gap of one line does not invalidate the document **only** in the case where that space is **between the witnesses’** signatures **and the text** of the document. **But** if the gap is **between the witnesses’** signatures **and** a court’s **ratification** of the document, then a space of **even one line** renders the document **not valid.**
+
+**4.**
+*Hebrew/Aramaic:* מַאי שְׁנָא בֵּין עֵדִים לָאַשַּׁרְתָּא – דִּלְמָא גָּיֵיז לְעִילַּאי, וְכָתֵב הוּא וְעֵדָיו בְּשִׁיטָה אַחַת, וְקָסָבַר: שְׁטָר הַבָּא הוּא וְעֵדָיו בְּשִׁיטָה אַחַת – כָּשֵׁר;
+*Translation:* The Gemara asks: **What is different** about the case where there is a one-line gap **between the witnesses’** signatures **and** the court’s **ratification** that you say it is not valid? The Gemara answers: There is a concern that **perhaps** the holder of the document will **excise** the entire text of the document at **the top** of the paper **and** then **write** a new, brief document, with **its** text **and** the signatures of **its witnesses on one line.** The court’s ratification will appear to verify the new, forged document. **And** Rabbi Yoḥanan **holds** that **a document that comes** before the court with **its** text **and** the signatures of **its witnesses** appearing **on one line is valid.**
+
+**5.**
+*Hebrew/Aramaic:* אִי הָכִי, בֵּין עֵדִים לַכְּתָב נָמֵי – דִּלְמָא גָּיֵיז לֵיהּ לְעִילַּאי, וְכָתֵב מַאי דְּבָעֵי, וַחֲתִימִי סָהֲדֵי! קָא סָבַר: שְׁטָר הַבָּא הוּא בְּשִׁיטָה אַחַת, וְעֵדָיו בְּשִׁיטָה אַחֶרֶת – פָּסוּל.
+*Translation:* The Gemara suggests: **If so,** the same problem **also** exists when there is a one-line gap **between the witnesses’** signatures **and the text:** There should be a concern that **perhaps** he will **excise** the entire text of the document at **the top** of the paper **and** then **write whatever he wants** in a brief, one-line document. **And the witnesses’** signatures on the next line, which are there from the old document, will still be **signed** there, appearing to attest to the veracity of the new, one-line document. The Gemara answers: Rabbi Yoḥanan **holds** that **a document that comes** before the court with **its** text **on one line and** the signatures of **its witnesses** appearing **on another line,** i.e., on the following line, is **not valid.**
+
+**6.**
+*Hebrew/Aramaic:* וְלֵיחוּשׁ דִּלְמָא כָּתֵב הוּא וְעֵדָיו בְּשִׁיטָה אַחַת, וְאָמַר: אֲנָא לְרַבּוֹת בְּעֵדִים הוּא דַּעֲבַדִי!
+*Translation:* The Gemara suggests: **And let** there be **a concern** that **perhaps** the holder of the document will excise the entire document, leaving only the blank line and the signatures that follow it, and he will **write** a brief document in which **its** text **and** the signatures of **its witnesses** are **on one line,** followed by the original signatures that remained from the original document, **and** he will **say: I did this** in order **to increase** the number of **witnesses,** the more to publicize the matter written in the document. The document is therefore still forgeable.
+
+**7.**
+*Hebrew/Aramaic:* קָסָבַר: כֹּל כִּי הַאי גַוְונָא – אֵין מְקַיְּימִין אוֹתוֹ מִן הָעֵדִים שֶׁלְּמַטָּה, אֶלָּא מִן הָעֵדִים שֶׁלְּמַעְלָה.
+*Translation:* The Gemara answers: Rabbi Yoḥanan **maintains** that in **all cases like this,** where a document and its witnesses’ signatures are written on one line, followed by other signatures on subsequent lines, the court **ratifies** the document **not on the basis of the** signatures of the **witnesses that** are **on the bottom, but on the basis of the** signatures of the **witnesses that** are **on top,** on the same line as the text. Therefore, the forging of a document in this manner is impossible. The false signatures of the witnesses will be discovered when those witnesses attest to what they signed upon.
+
+**8.**
+*Hebrew/Aramaic:* גּוּפָא – אָמַר רַב: שְׁטָר הַבָּא הוּא וְעֵדָיו עַל הַמְּחָק – כָּשֵׁר.
+*Translation:* § Having cited Rav’s statement, the Gemara discusses **the** matter **itself. Rav says: A document that comes** before the court in which **its** content **and** the signatures of **its witnesses are** both written **over an erasure** is **valid.**

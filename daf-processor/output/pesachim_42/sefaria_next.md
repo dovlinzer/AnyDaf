@@ -107,3 +107,68 @@
 **27.**
 *Hebrew/Aramaic:* אִיצְטְרִיךְ,
 *Translation:* The Gemara answers: Nonetheless, it is **necessary** to cite a source that men and women are equal specifically with regard to the punishment of *karet* for eating leavened bread,
+
+
+---
+
+### Pesachim 43b
+
+**1.**
+*Hebrew/Aramaic:* סָלְקָא דַּעְתָּךְ אָמֵינָא: הוֹאִיל וּכְתִיב ״לֹא תֹאכַל עָלָיו חָמֵץ שִׁבְעַת יָמִים תֹּאכַל עָלָיו מַצּוֹת״, כֹּל שֶׁיֶּשְׁנוֹ בְּקוּם אֱכוֹל מַצָּה — יֶשְׁנוֹ בְּבַל תֹּאכַל חָמֵץ, וְהָנֵי נְשֵׁי, הוֹאִיל וְלֵיתַנְהוּ בְּקוּם אֱכוֹל מַצָּה, דְּהָוְיָא לַיהּ מִצְוַת עֲשֵׂה שֶׁהַזְּמַן גְּרָמָא (הִיא) — אֵימָא בְּבַל תֹּאכַל חָמֵץ נָמֵי לֵיתַנְהוּ, קָא מַשְׁמַע לַן.
+*Translation:* as **it could enter your mind to say** that **since it is written: “You shall eat no leavened bread with it; seven days you shall eat with it *matzot*”** (Deuteronomy 16:3), one might have thought that **anyone included** in the obligation **to eat *matza* is** also **included** in the **prohibition against eating leavened bread. And these women, since they are excluded** from the obligation **to eat *matza*, as it is a time-bound, positive mitzva** from which they are exempt as a rule, I might **say they are also excluded from the prohibition against eating leavened bread.** Therefore, the verse **teaches us** that women are also prohibited from eating leavened bread.
+
+**2.**
+*Hebrew/Aramaic:* וְהַשְׁתָּא דְּאִתְרַבּוּ לְהוּ בְּבַל תֹּאכַל חָמֵץ — אִיתְרַבִּי נָמֵי לַאֲכִילַת מַצָּה, כְּרַבִּי (אֱלִיעֶזֶר). דְּאָמַר רַבִּי אֱלִיעֶזֶר: נָשִׁים חַיָּיבוֹת בַּאֲכִילַת מַצָּה דְּבַר תּוֹרָה, שֶׁנֶּאֱמַר: ״לֹא תֹאכַל עָלָיו חָמֵץ וְגוֹ׳״, כֹּל שֶׁיֶּשְׁנוֹ בְּבַל תֹּאכַל חָמֵץ — יֶשְׁנוֹ בַּאֲכִילַת מַצָּה. וְהָנֵי נְשֵׁי נָמֵי, הוֹאִיל וְיׇשְׁנָן בְּבַל תֹּאכַל חָמֵץ — יֶשְׁנָן בְּקוּם אֱכוֹל מַצָּה.
+*Translation:* The Gemara comments: **And now** that women **have been included in the prohibition against eating leavened bread, they** should **also be included** in the obligation **to eat *matza*,** even though it is a time-bound, positive mitzva, **in accordance with** the opinion of **Rabbi Eliezer. As Rabbi Eliezer said: Women are obligated to eat *matza* by Torah** law, **as it is stated: “You shall eat no leavened bread with it;** seven days you shall eat with it *matzot*” (Deuteronomy 16:3). These two commandments are juxtaposed to teach that **anyone included** in **the prohibition against eating leavened bread is** also **included in** the obligation **to eat *matza*. And these women too, since they** are **included** in **the prohibition against eating leavened bread, they are** also **included in** the obligation **to eat *matza*.**
+
+**3.**
+*Hebrew/Aramaic:* וּמַאי חָזֵית דְּהַאי ״כׇּל״ לְרַבּוֹיֵי נָשִׁים, וּמַפְּקַתְּ עֵירוּבוֹ? אֵימָא: לְרַבּוֹיֵי עֵירוּבוֹ!
+*Translation:* The Gemara questions this derivation: **What did you see** that led you to understand **that** the term **anything [*kol*]** comes to **include women and to exclude** leaven in **its mixture?** On the contrary, **say** that it comes **to include** in the punishment of *karet* one who eats **its mixture.**
+
+**4.**
+*Hebrew/Aramaic:* מִסְתַּבְּרָא, קָאֵי בְּאוֹכְלִין מְרַבֵּה אוֹכְלִין. קָאֵי בְּאוֹכְלִין מְרַבֵּה נֶאֱכָלִין?
+*Translation:* The Gemara answers: **It is reasonable** to explain that the verse comes to include women since the verse is **dealing with those who** are obligated in the mitzva not to **eat** leavened bread, **it includes those who eat,** as the verse says: “For anyone who eats leavened bread…shall be cut off.” It stands to reason that the expression: Anyone [*kol*] includes additional people who are punishable by *karet*, not additional types of leaven. Would a verse that **is dealing with those who** may not **eat** leaven come to **include** additional types of foods that may not **be eaten?**
+
+**5.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב נָתָן אֲבוּהּ דְּרַב הוּנָא (בְּרֵיהּ דְּרַב נָתָן): וְכׇל הֵיכָא דְּקָאֵי בְּאוֹכְלִין לָא מְרַבֵּה נֶאֱכָלִין? וְהָא תַּנְיָא: ״כִּי כׇּל אֹכֵל חֵלֶב מִן הַבְּהֵמָה אֲשֶׁר יַקְרִיב״, אֵין לִי אֶלָּא חֵלֶב תְּמִימִין שֶׁרָאוּי לִיקְרַב, חֵלֶב בַּעֲלֵי מוּמִין מִנַּיִן? תַּלְמוּד לוֹמַר: ״מִן הַבְּהֵמָה״. חֵלֶב חוּלִּין מִנַּיִין? תַּלְמוּד לוֹמַר: ״כִּי כׇּל״. וְהָא הָכָא דְּקָאֵי בְּאוֹכְלִין, וְקָא מְרַבֵּה נֶאֱכָלִין!
+*Translation:* **Rav Natan, father of Rav Huna, son of Rav Natan, strongly objects to this: And anywhere that** a verse **is dealing with those who eat, does** it necessarily **not** come to **include** additional **types of food** in the prohibition? **Wasn’t** it **taught** in a *baraita*: **“For anyone who eats the fat of the domesticated animal, of which men present** an offering of fire to God, the soul that eats it shall be cut off from its people” (Leviticus 7:25)? The Sages interpreted this verse: **I have** derived from this verse that the prohibition applies **only** to the **fats** of **unblemished** animals **that are fit to be sacrificed. From where** is it derived that it is also prohibited to eat the **fats of blemished animals,** which may not be offered as sacrifices? **The verse states: “Of the domesticated animal.” From where** is it derived that it is prohibited to eat the **fats of non-sacred** animals? **The verse states: “For anyone** who eats the fat.” Rav Natan explains his objection: **Here, isn’t** the verse **dealing with those who eat** fats, and nevertheless, its superfluous phrases come to **include** types of foods that may not **be eaten.**
+
+**6.**
+*Hebrew/Aramaic:* הָתָם דְּלֵיכָּא אוֹכְלִין — מְרַבֵּה נֶאֱכָלִין. הָכָא דְּאִיכָּא אוֹכְלִין — לָא שָׁבֵיק לְהוּ לְאוֹכְלִין וּמְרַבֵּה נֶאֱכָלִין.
+*Translation:* The Gemara answers: **There,** in the verse concerning prohibited fats, **where there are no** additional people **who eat** of it to include, as the prohibition already applies to everyone, the superfluous expression comes **to include** additional **foods. Here,** in the verse that deals with leavened bread, **where there are** people **who eat** of it who can be included, namely women, the verse does **not exclude** people **who eat and include** foods that are **eaten.** Generally, there should be a connection between the content of a verse and that which is derived from it. Only when no other derivation is possible is a less related matter derived.
+
+**7.**
+*Hebrew/Aramaic:* וְרַבָּנַן דְּלֵית לְהוּ עֵירוּב, ״כׇּל״ לָא דָּרְשִׁי. אֶלָּא נָשִׁים מְנָא לְהוּ?
+*Translation:* The Gemara explains: **And the Rabbis, who are not of** the opinion that leaven in a **mixture** is included in the prohibition, **do not interpret** that the term: **Anything [*kol*],** comes to include other matters; neither with regard to leaven in a mixture nor with regard to *karet*. The Gemara asks: **However,** in that case, **from where do they** derive that it is prohibited for **women** to eat leavened bread?
+
+**8.**
+*Hebrew/Aramaic:* ״כׇּל״ — לָא דָּרְשִׁי, ״כִּי כׇּל״ — דָּרְשִׁי.
+*Translation:* The Gemara answers: Although **they do not derive** a *halakha* from the term: **Anything, they derive** a *halakha* from the expression: **For anyone [*ki kol*],** in the verse: “For anyone who eats leaven.”
+
+**9.**
+*Hebrew/Aramaic:* וְרַבִּי אֱלִיעֶזֶר, אֵימָא: ״כׇּל״ — לְרַבּוֹת אֶת הַנָּשִׁים, ״כִּי כׇּל״ — לְרַבּוֹת אֶת עֵירוּבוֹ!
+*Translation:* The Gemara asks: **And** if indeed the phrase: For anyone, is a more inclusive expression than the simple word anything, then according to **Rabbi Eliezer,** another *halakha* could also be derived from here. **Say** that the phrase: **Anyone** who eats leaven, comes **to include the women,** and the phrase: **For anyone** who eats, comes **to include** leaven in **its mixture.** According to Rabbi Eliezer, then, one would be punishable by *karet* for eating leaven in a mixture.
+
+**10.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא ״כִּי כׇּל״ רַבִּי אֱלִיעֶזֶר לָא דָּרֵישׁ, וְהָתַנְיָא: שְׂאֹר בַּל תַּקְטִירוּ — אֵין לִי אֶלָּא כּוּלּוֹ, מִקְצָתוֹ מִנַּיִין? תַּלְמוּד לוֹמַר: ״כׇּל״. עֵירוּבוֹ מִנַּיִין? תַּלְמוּד לוֹמַר: ״כִּי כׇּל״. מַאן שָׁמְעַתְּ לֵיהּ דְּדָרֵישׁ ״כׇּל״ — רַבִּי אֱלִיעֶזֶר, וְקָא דָּרֵישׁ ״כִּי כׇּל״!
+*Translation:* **And lest you say that Rabbi Eliezer does not derive** a *halakha* from the phrase: **For anyone [*ki kol*],** as he does not consider this an inclusive expression, the result would be another contradiction. **Wasn’t** it **taught** in another *baraita*: “For no [*ki kol*] leaven nor any honey shall be offered as a burnt-offering before God” (Leviticus 2:11)? Had the verse stated only: **You shall not offer leaven, I would have** derived **nothing other** than the *halakha* that it is prohibited to sacrifice **an entire** piece of leaven. **From where** is it derived that it is also prohibited to sacrifice **part of it? The verse states: “No [*kol*]** leaven,” indicating that it is prohibited to sacrifice even part of it. **From where** is it derived that it is prohibited to sacrifice leaven in **a mixture? The verse states: “For no** [***ki kol***] leaven.” The Gemara analyzes this statement: **Whom did you hear who derives** *halakhot* from the term: ***Kol*?** It is **Rabbi Eliezer, and** nevertheless, **he derives** additional details from the expression: ***Ki kol*.**
+
+**11.**
+*Hebrew/Aramaic:* קַשְׁיָא.
+*Translation:* The Gemara concludes: This matter remains **difficult,** as no satisfactory explanation has been found for why Rabbi Eliezer does not derive from the expression *ki kol* that leaven in a mixture is also prohibited.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אֲבָהוּ אָמַר רַבִּי יוֹחָנָן: כׇּל אִיסּוּרִין שֶׁבַּתּוֹרָה — אֵין הֶיתֵּר מִצְטָרֵף לְאִיסּוּר, חוּץ מֵאִיסּוּרֵי נָזִיר, שֶׁהֲרֵי אָמְרָה תּוֹרָה ״מִשְׁרַת״.
+*Translation:* After discussing leaven in a mixture, the Gemara states a more general principle. **Rabbi Abbahu said** that **Rabbi Yoḥanan said: With regard to all prohibitions of the Torah, a permitted** substance **does not join together with a prohibited** substance. If one eats a permitted food with a prohibited food, and together they constitute the minimum prohibited measure, he is exempt from punishment for this act of consumption. This principle applies to all *halakhot* **except for the prohibitions of a nazirite,** who is liable for eating a mixture of that kind, **as the Torah said** with regard to a nazirite: “He shall abstain from wine and strong drink; he shall drink no vinegar of wine, or vinegar of strong drink, nor shall he drink anything **soaked** in grapes” (Numbers 6:3). This verse indicates that a nazirite is prohibited from consuming not only wine and vinegar, but also any food that was soaked in these liquids.
+
+**13.**
+*Hebrew/Aramaic:* וּזְעֵירִי אָמַר: אַף שְׂאוֹר בַּל תַּקְטִירוּ.
+*Translation:* **And Ze’eiri said:** Permitted and prohibited substances **also** combine with regard to **the prohibition against offering leaven** on the altar, as it states: “For no [*kol*] leaven and no [*kol*] honey shall be offered as a burnt-offering before the Lord” (Leviticus 2:11). This indicates that one is also liable for sacrificing leaven in a mixture (*Tosafot*) in addition to the liability for sacrificing pure leaven.
+
+**14.**
+*Hebrew/Aramaic:* כְּמַאן? כְּרַבִּי אֱלִיעֶזֶר, דְּדָרֵישׁ ״כׇּל״.
+*Translation:* The Gemara asks: **In accordance with whose** opinion did Ze’eiri issue his ruling? It is **in accordance with** the opinion of **Rabbi Eliezer, who derives** from the term ***kol*** that any mixture that contains any amount of a prohibited substance is not nullified.
+
+**15.**
+*Hebrew/Aramaic:* אִי הָכִי
+*Translation:* The Gemara raises a difficulty: **If so,**

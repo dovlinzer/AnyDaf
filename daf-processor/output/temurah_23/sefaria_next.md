@@ -119,3 +119,48 @@
 **30.**
 *Hebrew/Aramaic:* הֲדַרַן עֲלָךְ וְלַד חַטָּאת.
 *Translation:* 
+
+
+---
+
+### Temurah 24b
+
+**1.**
+*Hebrew/Aramaic:* מַתְנִי׳ כֵּיצַד מַעֲרִימִין עַל הַבְּכוֹר? מְבַכֶּרֶת שֶׁהָיְתָה מְעוּבֶּרֶת, אוֹמֵר: ״מַה שֶּׁבְּמֵעֶיהָ שֶׁל זוֹ אִם זָכָר — עוֹלָה״, יָלְדָה זָכָר — יִקְרַב עוֹלָה, ״וְאִם נְקֵבָה — זִבְחֵי שְׁלָמִים״, יָלְדָה נְקֵבָה — תִּקְרַב שְׁלָמִים.
+*Translation:* MISHNA: **How** may **one employ artifice to** circumvent the obligation to give **the firstborn** to the priest and utilize the animal for a different offering that he is obligated to bring? The owner approaches **an animal** that is going to **give birth to its firstborn** while **that** animal **was** still **pregnant,** and **says:** That **which is in the womb of this** animal, **if** it is **male,** is designated as a **burnt offering.** In that case, if the animal **gave birth to a male, it will be sacrificed as a burnt offering. And** in a case where he says: **If it is female,** it is designated as a **peace offering,** if the animal **gave birth to a female, it will be sacrificed as a peace offering.**
+
+**2.**
+*Hebrew/Aramaic:* ״אִם זָכָר — עוֹלָה, וְאִם נְקֵבָה — זִבְחֵי שְׁלָמִים״, יָלְדָה זָכָר וּנְקֵבָה — הַזָּכָר יִקְרַב עוֹלָה, וְהַנְּקֵבָה תִּקְרַב שְׁלָמִים. יָלְדָה שְׁנֵי זְכָרִים — אֶחָד מֵהֶם יִקְרַב עוֹלָה, וְהַשֵּׁנִי יִמָּכֵר לְחַיָּיבֵי עוֹלָה, וְדָמָיו חוּלִּין.
+*Translation:* In a case where the owner says: **If** it is **male** it is designated as a **burnt offering, and if it is female** it is designated as a **peace offering,** and the animal **gave birth to a male and a female, the male will be sacrificed as a burnt offering and the female will be sacrificed as a peace offering.** If the animal **gave birth to two males, one of them will be sacrificed as a burnt offering and the second will be sold to** those **obligated** to bring **a burnt offering,** who will sacrifice it as a burnt offering; and the **money** received from **its** sale is **non-sacred.**
+
+**3.**
+*Hebrew/Aramaic:* יָלְדָה שְׁתֵּי נְקֵבוֹת — אַחַת מֵהֶם תִּקְרַב שְׁלָמִים, וְהַשְּׁנִיָּה תִּימָּכֵר לְחַיָּיבֵי שְׁלָמִים, וְדָמֶיהָ חוּלִּין. יָלְדָה טוּמְטוּם וְאַנְדְּרוֹגִינוֹס — רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֵין קְדוּשָּׁה חָלָה עֲלֵיהֶן.
+*Translation:* If the animal **gave birth to two females, one of them will be sacrificed as a peace offering and the second will be sold to** those **obligated** to bring **a peace offering,** who will sacrifice it as a peace offering, and the **money** received from **its** sale is **non-sacred.** If the animal **gave birth to a *tumtum*,** whose gender is unknown, **or a hermaphrodite,** which has both male and female sexual organs, both of which are unfit for sacrifice, **Rabban Shimon ben Gamliel says: They are not imbued with sanctity.**
+
+**4.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב יְהוּדָה: מוּתָּר לְהַטִּיל מוּם בִּבְכוֹר קוֹדֶם שֶׁיֵּצֵא לַאֲוִיר הָעוֹלָם. תְּנַן: אוֹמֵר אָדָם ״מַה שֶּׁבְּמֵעֶיהָ שֶׁל זוֹ עוֹלָה״ — עוֹלָה אִין, שְׁלָמִים לָא, וְאַתְּ אָמְרַתְּ דְּמָצֵית מַפְקְעַתְּ לֵיהּ מִקְּדוּשְּׁתַהּ!
+*Translation:* GEMARA: **Rav Yehuda says:** It is permitted **to inflict a blemish upon a firstborn before it left** the womb and entered **into the air of the world,** as it has not yet become sanctified as a firstborn. The Gemara raises a difficulty: **We learned** in the mishna: **A person says** about an animal that is going to give birth to its firstborn: **That which is in the womb of this** animal, if it is male, is designated as a **burnt offering.** This indicates that as **a burnt offering, yes,** one may designate it in this manner, as the sanctity of a burnt offering is more stringent than that of a firstborn but as **a peace offering, no. And** yet **you say that one may** entirely **abrogate** the animal’s **sanctity** by inflicting a blemish upon it before it is born.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר לָךְ רַב יְהוּדָה: הָנֵי מִילֵּי — בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים, כִּי קָאָמֵינָא אֲנָא — בִּזְמַן הַזֶּה, דְּלָא חֲזֵי לְהַקְרָבָה.
+*Translation:* **Rav Yehuda** could have **said to you: That statement,** that one is permitted to consecrate a firstborn fetus only with a more stringent sanctity, applies **when the Temple is standing** and offerings are sacrificed upon the altar. By contrast, when **I say** that one is permitted to inflict a blemish upon a firstborn and abrogate the firstborn’s sanctity, I am referring to **today, when** offerings **are not able to be sacrificed,** and therefore the animal cannot be consumed until it becomes blemished.
+
+**6.**
+*Hebrew/Aramaic:* אִי בִּזְמַן הַזֶּה, מַאי לְמֵימְרָא? מַהוּ דְּתֵימָא: נִגְזַר, דִּלְמָא נָפֵיק רוֹב רֹאשׁוֹ וְקָשָׁדֵי בֵּיהּ מוּמָא.
+*Translation:* The Gemara asks: **If** Rav Yehuda is referring only to **today, what** is the purpose **of stating** this *halakha*? Isn’t it obvious? The Gemara answers that Rav Yehuda’s statement is necessary, **lest you say: Let us issue a decree** against inflicting a blemish on a firstborn fetus, **lest most of the** fetus’s **head emerge** from the womb, which is when the sanctity of the firstborn takes effect, **and** then **one inflicts a blemish upon** the animal. That would constitute the unlawful infliction of a blemish upon a sacred animal. Rav Yehuda therefore teaches us that such a decree was not issued.
+
+**7.**
+*Hebrew/Aramaic:* וְאֵימָא: הָכִי נָמֵי! אֲפִילּוּ הָכִי — הָא עֲדִיפָא יַתִּירָא, מִדְּאָתֵי בֵּיהּ לִידֵי גִּיזָּה וַעֲבוֹדָה.
+*Translation:* The Gemara raises a difficulty: **But** one can **say** that **indeed,** a decree should be issued prohibiting inflicting a blemish on a fetus due to that concern. The Gemara explains: **Even so,** inflicting the blemish on the fetus **is preferable** to leaving it alone, despite that concern, **as** otherwise one might **come to** transgress the prohibitions against **shearing** the firstborn **or working with it.** It is prohibited to work or shear a firstborn, even if it is blemished. If the firstborn is born blemished, it may be slaughtered and eaten immediately. By contrast, if it is unblemished, then one must wait for it to become blemished, and there is a concern that one might work or shear the animal in the meantime.
+
+**8.**
+*Hebrew/Aramaic:* אִם נְקֵבָה זִבְחֵי שְׁלָמִים — נְקֵבָה מִי קָא קָדְשָׁה בִּבְכוֹרָה? סֵיפָא אָתְיָא לִבְהֵמָה דְּהֶקְדֵּשׁ.
+*Translation:* § The latter clause of the mishna teaches that in a case where the owner of an animal that is going to give birth to its firstborn says: **If it is female,** it is designated as **a peace offering,** then if the animal gave birth to a female, it will be sacrificed as a peace offering. The Gemara asks: **Does a female** animal become **consecrated** with **firstborn** status, such that the owner must designate the fetus as a peace offering in order to circumvent the obligation of the firstborn? The sanctity of the firstborn takes effect only upon male animals. The Gemara answers: **The latter clause** of the mishna **comes** to discuss the offspring of **an animal consecrated** as a sin offering. Since the offspring of a sin offering is put to death, the owner may wish to employ artifice to circumvent the sanctity of the mother by consecrating the fetus with a different sanctity.
+
+**9.**
+*Hebrew/Aramaic:* יָלְדָה שְׁנֵי זְכָרִים כּוּ׳. אָמְרִי: אִי בְּהֵמָה דְּהֶקְדֵּשׁ, הַיְאךְ דְּאַקְדֵּישׁ עוֹלָה — לֶיהְדַּר עוֹלָה, אִידַּךְ נֶהֱוֵי בִּקְדוּשְּׁתַיהּ דְּאִימֵּיהּ! סֵיפָא אֲתָאן לְבֶהֱמַת חוּלִּין.
+*Translation:* § The mishna teaches: If the animal **gave birth to two males,** one of them will be sacrificed as a burnt offering and the second will be sold to those obligated to bring a burnt offering, who will sacrifice it as a burnt offering; and the money received from its sale is non-sacred. The Sages **say: If the animal** that gave birth to two males was **consecrated** as a sin offering, then it is understandable **that** the newborn animal **which is consecrated** to be **a burnt offering** should **be a burnt offering.** But with regard to **the other, let it** retain **the sanctity of its mother.** Why does the mishna rule that the money received from its sale is non-sacred? The Gemara answers: In **the last clause** of the mishna, **we come to** the case of **a non-sacred animal** that is about to give birth to its firstborn.
+
+**10.**
+*Hebrew/Aramaic:* יָלְדָה טוּמְטוּם וְאַנְדְּרוֹגִינוֹס כּוּ׳.
+*Translation:* § The mishna teaches: If the animal **gave birth to a *tumtum* or a hermaphrodite,** Rabban Shimon ben Gamliel says: They are not imbued with sanctity. This indicates that they are not imbued with sanctity in any case, even if they are the offspring of a consecrated animal.

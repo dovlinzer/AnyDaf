@@ -67,3 +67,56 @@
 **17.**
 *Hebrew/Aramaic:* מִמַּאי דְּתִשְׁרִי הוּא? דִּכְתִיב: ״תִּקְעוּ בַחֹדֶשׁ שׁוֹפָר בַּכֵּסֶה לְיוֹם חַגֵּנוּ״, אֵיזֶהוּ חַג
 *Translation:* The Gemara raises a question: **From where** is it known **that** the day of judgment is in **Tishrei? As it is written: “Blow a *shofar* at the New Moon, at the covered time for our Festival day”** (Psalms 81:4). **Which is the Festival day**
+
+
+---
+
+### Rosh Hashanah 8b
+
+**1.**
+*Hebrew/Aramaic:* שֶׁהַחֹדֶשׁ מִתְכַּסֶּה בּוֹ — הֱוֵי אוֹמֵר זֶה רֹאשׁ הַשָּׁנָה. וּכְתִיב: ״כִּי חֹק לְיִשְׂרָאֵל הוּא מִשְׁפָּט לֵאלֹהֵי יַעֲקֹב״.
+*Translation:* **on which the moon is covered,** i.e., hidden? **You must say** that **this is Rosh HaShana,** which is the only Festival that occurs at the beginning of a month, when the moon cannot be seen. **And it is written** in the next verse: **“For this is a statute for Israel, a judgment of the God of Jacob”** (Psalms 81:5), implying that this is the day of judgment.
+
+**2.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: ״כִּי חֹק לְיִשְׂרָאֵל הוּא מִשְׁפָּט לֵאלֹהֵי יַעֲקֹב״ — מְלַמֵּד שֶׁאֵין בֵּית דִּין שֶׁל מַעְלָה נִכְנָסִין לַדִּין אֶלָּא אִם כֵּן קִידְּשׁוּ בֵּית דִּין שֶׁל מַטָּה אֶת הַחֹדֶשׁ.
+*Translation:* With regard to this same verse, **the Sages taught** in a *baraita*: **“For this is a statute for Israel, a judgment of the God of Jacob”; this teaches that the heavenly court does not assemble for judgment until the earthly court has sanctified the month,** once the Sanhedrin has declared that day as Rosh HaShana.
+
+**3.**
+*Hebrew/Aramaic:* תַּנְיָא אִידַּךְ: ״כִּי חֹק לְיִשְׂרָאֵל הוּא״ — אֵין לִי אֶלָּא לְיִשְׂרָאֵל, לְאוּמּוֹת הָעוֹלָם מִנַּיִן? תַּלְמוּד לוֹמַר: ״מִשְׁפָּט לֵאלֹהֵי יַעֲקֹב״. אִם כֵּן, מָה תַּלְמוּד לוֹמַר: ״כִּי חֹק לְיִשְׂרָאֵל״, מְלַמֵּד שֶׁיִּשְׂרָאֵל נִכְנָסִין תְּחִילָּה לַדִּין.
+*Translation:* It **is taught** in **another** *baraita*: The verse states: **“For this is a statute for Israel.”** From here **I have** derived **only** that this is the day of judgment **for the Jewish people; from where** do I derive that it is also the day of judgment **for the** gentile **nations of the world?** Therefore, **the verse states: “A judgment for the God of Jacob,”** Who rules over the entire world. **If so, what** is the meaning when **the verse states: “A statute for Israel”? This teaches that the Jewish people enter for judgment first.**
+
+**4.**
+*Hebrew/Aramaic:* כִּדְרַב חִסְדָּא. דְּאָמַר רַב חִסְדָּא: מֶלֶךְ וְצִיבּוּר — מֶלֶךְ נִכְנָס תְּחִילָּה לַדִּין, שֶׁנֶּאֱמַר: ״מִשְׁפַּט עַבְדּוֹ וּמִשְׁפַּט עַמּוֹ״.
+*Translation:* The Gemara notes: This is **in accordance with** the opinion **of Rav Ḥisda, as Rav Ḥisda said:** When **a king and a community** are brought before God for judgment, the **king is brought in for judgment first, as it is stated:** “And let these my words, with which I have made supplication before the Lord, be near to the Lord our God day and night, that He make **the judgment of His servant and the judgment of His people** Israel at all times” (I Kings 8:59). This verse is from King Solomon’s prayer at the dedication of the Temple, and he is referring to himself a servant of God.
+
+**5.**
+*Hebrew/Aramaic:* מַאי טַעְמָא? אִי בָּעֵית אֵימָא: לָאו אוֹרַח אַרְעָא לְמֵיקַם מַלְכָּא אַבָּרַאי, וְאִיבָּעֵית אֵימָא: מִקַּמֵּי דְּלִיפּוֹשׁ חֲרוֹן אַף.
+*Translation:* **What is the reason** that the king is brought in first? **If you wish, say** that it is **not proper conduct for the king to stand outside** and wait for the trial of his subjects to come to an end. **And if you wish, say** instead that the king is brought in first so that he may be judged **before** God’s **anger intensifies** due to the sins of the community, and he may thereby be saved from overly harsh judgment.
+
+**6.**
+*Hebrew/Aramaic:* וְלַשְּׁמִיטִּין. מְנָלַן? דִּכְתִיב: ״וּבַשָּׁנָה הַשְּׁבִיעִית שַׁבַּת שַׁבָּתוֹן יִהְיֶה לָאָרֶץ״, וְגָמַר ״שָׁנָה״ ״שָׁנָה״ מִתִּשְׁרִי, דִּכְתִיב: ״מֵרֵאשִׁית הַשָּׁנָה״.
+*Translation:* § The mishna teaches: The first of Tishrei is also the New Year **for** calculating **Sabbatical Years.** The Gemara asks: **From where do we** derive this? **As it is written: “But in the seventh year shall be a Shabbat of solemn rest for the land”** (Leviticus 25:4), **and** we **learn** by way of a verbal analogy between one instance of the word **“year”** and another instance of the word **“year”** that the year begins for this purpose **from Tishrei, as it is written: “From the beginning of the year”** (Deuteronomy 11:12). The latter verse is referring to the year that begins at the onset of the rainy season, i.e., Tishrei.
+
+**7.**
+*Hebrew/Aramaic:* וְלִגְמוֹר ״שָׁנָה״ ״שָׁנָה״ מִנִּיסָן, דִּכְתִיב: ״רִאשׁוֹן הוּא לָכֶם לְחׇדְשֵׁי הַשָּׁנָה״! דָּנִין שָׁנָה שֶׁאֵין עִמָּהּ חֳדָשִׁים מִשָּׁנָה שֶׁאֵין עִמָּהּ חֳדָשִׁים, וְאֵין דָּנִין שָׁנָה שֶׁאֵין עִמָּהּ חֳדָשִׁים מִשָּׁנָה שֶׁיֵּשׁ עִמָּהּ חֳדָשִׁים.
+*Translation:* The Gemara raises a difficulty: **But let us learn** by way of a verbal analogy between one instance of the word **“year”** and another instance of the word **“year”** and conclude that for this purpose the year begins **from Nisan, as it is written: “It shall be the first month of the year to you”** (Exodus 12:2), and there the reference is to Nisan. The Gemara answers: The Sages **derive** the meaning of the word **“year”** that appears in the verse about the Sabbatical Year, where **months are not** mentioned **with it, from** the word **“year”** that appears in the verse in Deuteronomy above, where **months** are also **not** mentioned **with it. And** they **do not derive** the meaning of the word **“year”** where **months are not** mentioned **with it from** the word **“year”** that appears in the verse where **months are** mentioned **with it,** i.e., “It shall be the first month of the year for you.”
+
+**8.**
+*Hebrew/Aramaic:* וְלַיּוֹבְלוֹת. יוֹבְלוֹת בְּאֶחָד בְּתִשְׁרִי הוּא? יוֹבְלוֹת בַּעֲשָׂרָה בְּתִשְׁרִי הוּא, דִּכְתִיב: ״בְּיוֹם הַכִּפּוּרִים תַּעֲבִירוּ שׁוֹפָר״!
+*Translation:* § The mishna teaches: The first of Tishrei is also the New Year **for Jubilee Years.** The Gemara asks: **Is** the New Year for **Jubilee Years on the first of Tishrei?** Isn’t the New Year for **Jubilee Years on the tenth of Tishrei,** Yom Kippur? **As it is written:** “Then shall you cause the *shofar* to sound on the tenth day of the seventh month, **on Yom Kippur shall you sound the *shofar*** throughout all your land. And you shall hallow the fiftieth year, and proclaim liberty throughout all the land to all its inhabitants; it shall be a Jubilee for you” (Leviticus 25:9–10).
+
+**9.**
+*Hebrew/Aramaic:* הָא מַנִּי — רַבִּי יִשְׁמָעֵאל בְּנוֹ שֶׁל רַבִּי יוֹחָנָן בֶּן בְּרוֹקָא הִיא. דְּתַנְיָא: ״וְקִדַּשְׁתֶּם אֵת שְׁנַת הַחֲמִשִּׁים שָׁנָה״, מָה תַּלְמוּד לוֹמַר? לְפִי שֶׁנֶּאֱמַר ״בְּיוֹם הַכִּפּוּרִים״ — יָכוֹל לֹא תְּהֵא מִתְקַדֶּשֶׁת אֶלָּא מִיּוֹם הַכִּפּוּרִים וְאֵילָךְ, תַּלְמוּד לוֹמַר: ״וְקִדַּשְׁתֶּם אֵת שְׁנַת הַחֲמִשִּׁים״, מְלַמֵּד שֶׁמִּתְקַדֶּשֶׁת וְהוֹלֶכֶת מִתְּחִילָּתָהּ.
+*Translation:* The Gemara answers: In accordance with **whose** opinion **is this** mishna? **It is** the opinion of **Rabbi Yishmael, son of Rabbi Yoḥanan ben Beroka, as it is taught** in a *baraita*: **What** is the meaning when **the verse states: “And you shall hallow the fiftieth year”? Since it is stated** that the *shofar* is blown **“on Yom Kippur,”** one **might** have thought that the year **is sanctified only from Yom Kippur and onward. Therefore, the verse states: “And you shall hallow the fiftieth year,” which teaches that** the year **is sanctified from its beginning onward,** from the first of Tishrei, when the year begins.
+
+**10.**
+*Hebrew/Aramaic:* מִכָּאן אָמַר רַבִּי יִשְׁמָעֵאל בְּנוֹ שֶׁל רַבִּי יוֹחָנָן בֶּן בְּרוֹקָא: מֵרֹאשׁ הַשָּׁנָה עַד יוֹם הַכִּפּוּרִים לֹא הָיוּ עֲבָדִים נִפְטָרִין לְבָתֵּיהֶן, וְלֹא מִשְׁתַּעְבְּדִין לַאֲדוֹנֵיהֶם — אֶלָּא אוֹכְלִין וְשׁוֹתִין וּשְׂמֵחִין, וְעַטְרוֹתֵיהֶן בְּרָאשֵׁיהֶן. כֵּיוָן שֶׁהִגִּיעַ יוֹם הַכִּפּוּרִים, תָּקְעוּ בֵּית דִּין בְּשׁוֹפָר, נִפְטְרוּ עֲבָדִים לְבָתֵּיהֶן וְשָׂדוֹת חוֹזְרוֹת לְבַעְלֵיהֶן.
+*Translation:* **From here, Rabbi Yishmael, son of Rabbi Yoḥanan ben Beroka, said: From Rosh HaShana until Yom Kippur** of the Jubilee Year, Hebrew **slaves were not released to their homes** because the *shofar* had not yet been sounded. **And they were** also **not enslaved to their masters,** as the Jubilee Year had already begun. **Rather, they would eat, drink, and rejoice, and** they would wear **their crowns on their heads** like free people. **Once Yom Kippur arrived, the court** would **sound the *shofar*, slaves** would be **released to their houses, and fields** that were sold would be **returned to their** original **owners.**
+
+**11.**
+*Hebrew/Aramaic:* וְרַבָּנַן — שָׁנִים אַתָּה מְקַדֵּשׁ, וְאִי אַתָּה מְקַדֵּשׁ חֳדָשִׁים.
+*Translation:* The Gemara asks: **And the Rabbis** who disagree with Rabbi Yishmael, son of Rabbi Yoḥanan ben Beroka, how do they interpret the verse: “And you shall hallow the fiftieth year”? The Gemara answers: They derive from here that **you sanctify years, but you do not sanctify months.** According to this opinion, the court is commanded to sanctify the Jubilee Year with a proclamation: This year is sanctified; but it is not commanded to sanctify the months with a similar proclamation.
+
+**12.**
+*Hebrew/Aramaic:* תַּנְיָא אִידַּךְ: ״יוֹבֵל הִיא״ — מָה תַּלְמוּד לוֹמַר? לְפִי שֶׁנֶּאֱמַר: ״וְקִדַּשְׁתֶּם אֵת שְׁנַת הַחֲמִשִּׁים״, יָכוֹל כְּשֵׁם שֶׁמִּתְקַדֶּשֶׁת וְהוֹלֶכֶת מִתְּחִילָּתָהּ, כָּךְ מִתְקַדֶּשֶׁת וְהוֹלֶכֶת בְּסוֹפָהּ. וְאַל תִּתְמַהּ, שֶׁהֲרֵי מוֹסִיפִין מֵחוֹל עַל קֹדֶשׁ — תַּלְמוּד לוֹמַר: ״יוֹבֵל הִיא שְׁנַת הַחֲמִשִּׁים״ — שְׁנַת הַחֲמִשִּׁים אַתָּה מְקַדֵּשׁ, וְאִי אַתָּה מְקַדֵּשׁ שְׁנַת הַחֲמִשִּׁים וְאַחַת.
+*Translation:* **It is taught** in **another** *baraita*: **What** is the meaning when **the verse states: “It shall be a Jubilee Year”** (Leviticus 25:11)? **Since it is stated: “And you shall hallow the fiftieth year,”** one **might** have thought that **just as** the Jubilee Year **is sanctified from its beginning onward, so too, it is sanctified at its end onward,** i.e., it remains sanctified until Yom Kippur of the fifty-first year. **And do not wonder** why one might think this, **as don’t we** regularly **add from the profane to the sacred,** extending a sacred time period by adding to it both before and after from a profane time period? **Therefore, the verse states: “It shall be a Jubilee Year, the fiftieth year,”** to teach that **you sanctify the fiftieth year, but you do not sanctify the fifty-first year,** even partially.

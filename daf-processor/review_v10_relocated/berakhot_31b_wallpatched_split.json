@@ -1,0 +1,507 @@
+[
+  {
+    "quote_indices": [
+      1
+    ],
+    "current_heading": "(no heading)",
+    "candidates": [
+      "Kavana from Heart",
+      "Lips Moving Silently",
+      "Prohibition against raising one's voice in prayer: The lesson from Hannah's quiet prayer",
+      "Drunk Cannot Pray",
+      "Judging favorably: Hannah's response\u2014the obligation to assume the best of others"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all four halakhot derived from Hannah's verses (kavana, lip movement, silent voice, and drunk prohibition) as a single unit attributed to Rav Hamnuna, and heading 0 ('Kavana from Heart') explicitly introduces this Rav Hamnuna passage and its derivations from Hannah's verses as a unified block.",
+      "chosen_heading": "Kavana from Heart",
+      "current_heading": "(no heading)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Judging favorably: Hannah's response\u2014the obligation to assume the best of others",
+    "candidates": [
+      "Kavana from Heart",
+      "Lips Moving Silently",
+      "Prohibition against raising one's voice in prayer: The lesson from Hannah's quiet prayer",
+      "Drunk Cannot Pray",
+      "Judging favorably: Hannah's response\u2014the obligation to assume the best of others",
+      "Appease Wrongly Accused",
+      "The obligation to bless one wrongly suspected: Eli's blessing to Hannah",
+      "Tzevaot Divine Name"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items derive from Eli's rebuke of Hannah ('How long will you remain drunk?') and Hannah's response \u2014 exactly the content described in candidate 3's prose, which explicitly quotes 'Vayomer eleiha Eli: ad matai tistakarin' and Rabbi Eleazar's derivation that one who sees another doing something inappropriate must rebuke them, followed by Hannah's response; the current placement under heading 4 ('Judging favorably') covers the same material but candidate 3's prose is the primary and clearly better match for items 1\u20133 specifically.",
+      "chosen_heading": "Drunk Cannot Pray",
+      "current_heading": "Judging favorably: Hannah's response\u2014the obligation to assume the best of others",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Tzevaot Divine Name",
+    "candidates": [
+      "Appease Wrongly Accused",
+      "The obligation to bless one wrongly suspected: Eli's blessing to Hannah",
+      "Tzevaot Divine Name",
+      "Poor Man Parable"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Appease Wrongly Accused",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 all deal with halakhot derived from the Eli-Hannah confrontation (clearing suspicion, appeasing the wrongly accused, blessing them), matching candidates 0 and 1, with item 3 specifically matching candidate 1's prose about Eli's blessing and the essay's concluding reflection.",
+      "second_heading": "Tzevaot Divine Name",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 are about Hannah's use of the divine name Tzevaot and the parable of Hannah pressing God for a son, which matches candidate 2's prose exactly about Rabbi Eleazar's teaching on the name Tzevaot and Hannah's argument from God's hosts.",
+      "current_heading": "Tzevaot Divine Name",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Poor Man Parable",
+    "candidates": [
+      "Poor Man Parable",
+      "Conditional Threat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Poor Man Parable",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the poor man parable about forcing one's way before the king, which is precisely what the 'Poor Man Parable' prose section describes in detail.",
+      "second_heading": "Conditional Threat",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is about the double language 'im ra'oh tireh' and Rabbi Elazar's interpretation of Hannah's conditional statement, which matches the 'Conditional Threat' prose section discussing that exact verse and Rabbi Eleazar's teaching.",
+      "current_heading": "Poor Man Parable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Conditional Threat",
+    "candidates": [
+      "Conditional Threat",
+      "Sotah Waters Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Hannah's direct threat about secluding herself and the sota waters \u2014 exactly what the 'Conditional Threat' section's prose discusses, including the same quotes and the palaster concept, before the Gemara raises the machloket objection addressed in 'Sotah Waters Debate'.",
+      "chosen_heading": "Conditional Threat",
+      "current_heading": "Conditional Threat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Sotah Waters Debate",
+    "candidates": [
+      "Sotah Waters Debate",
+      "Three Women's Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous sotah-waters debate passage \u2014 the machloket between Rabbi Yishmael and Rabbi Akiva about what the waters accomplish, and the resolution regarding Hannah's double language \u2014 which is precisely what the 'Sotah Waters Debate' prose describes in detail.",
+      "chosen_heading": "Sotah Waters Debate",
+      "current_heading": "Sotah Waters Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Three Women's Mitzvot",
+    "candidates": [
+      "Three Women's Mitzvot",
+      "Four Cubits Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss Hannah's use of 'amatecha' three times, the three women's mitzvot, and the interpretation of 'zera anashim' \u2014 exactly the content described in the 'Three Women's Mitzvot' section prose, which is the current placement.",
+      "chosen_heading": "Three Women's Mitzvot",
+      "current_heading": "Three Women's Mitzvot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Four Cubits Law",
+    "candidates": [
+      "Four Cubits Law",
+      "Samuel's precocious ruling: The sin of paskening in front of one's master Eli"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly derives the law of not sitting within four cubits of one praying from Hannah's words to Eli, which is exactly what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Four Cubits Law",
+      "current_heading": "Four Cubits Law",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Samuel's precocious ruling: The sin of paskening in front of one's master Eli",
+    "candidates": [
+      "Samuel's precocious ruling: The sin of paskening in front of one's master Eli",
+      "Hannah's refusal: This is the child I prayed for, not a replacement",
+      "Hannah's argument from creation: Why you gave me a body meant to nurse a child"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous narrative about Samuel teaching halakha in front of his teacher Eli, the incident with the slaughter, Eli's rebuke, and Hannah's intervention \u2014 exactly what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Samuel's precocious ruling: The sin of paskening in front of one's master Eli",
+      "current_heading": "Samuel's precocious ruling: The sin of paskening in front of one's master Eli",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Hannah's argument from creation: Why you gave me a body meant to nurse a child",
+    "candidates": [
+      "Hannah's refusal: This is the child I prayed for, not a replacement",
+      "Hannah's argument from creation: Why you gave me a body meant to nurse a child",
+      "Aggressive Prayer Models"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under heading 1 explicitly discusses all three items: Hannah's anatomical argument (item 1), the ruling about fasting on Shabbat (item 2), and Rav Na\u1e25man bar Yitz\u1e25ak's remedy of fasting for the fast (item 3), making the current placement correct.",
+      "chosen_heading": "Hannah's argument from creation: Why you gave me a body meant to nurse a child",
+      "current_heading": "Hannah's argument from creation: Why you gave me a body meant to nurse a child",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Aggressive Prayer Models",
+    "candidates": [
+      "Aggressive Prayer Models",
+      "Three Saving Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the theme of Hannah and Elijah speaking impertinently toward God, which is precisely what candidate 0 ('Aggressive Prayer Models') covers in its prose, including the same specific passages and Rabbi Shmuel bar Rabbi Yitz\u1e25ak's statement about God conceding to Elijah.",
+      "chosen_heading": "Aggressive Prayer Models",
+      "current_heading": "Aggressive Prayer Models",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Three Saving Verses",
+    "candidates": [
+      "Three Saving Verses",
+      "Prosperity & Rebellion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the three saving verses of Rabbi \u1e24ama son of Rabbi \u1e24anina plus Rav Pappa's addition, which are precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Three Saving Verses",
+      "current_heading": "Three Saving Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Prosperity & Rebellion",
+    "candidates": [
+      "Prosperity & Rebellion",
+      "Spoiled Son Parable"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Prosperity & Rebellion",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 cover Moses speaking impertinently toward God, the Di Zahav/Golden Calf argument, and the lion/prosperity parable \u2014 all explicitly discussed in the 'Prosperity & Rebellion' prose.",
+      "second_heading": "Spoiled Son Parable",
+      "second_confidence": "high",
+      "second_reason": "Item 6, Rabbi Oshaya's parable of the lean cow fed lupines, is the opening item explicitly discussed in the 'Spoiled Son Parable' prose section.",
+      "current_heading": "Prosperity & Rebellion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Spoiled Son Parable",
+    "candidates": [
+      "Spoiled Son Parable",
+      "God's initial response: Go down, you have lost your status because I'm angry at Israel",
+      "Moses's moment of weakness and then recovery: Only when God asks him to let go does he find his strength"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (the brothel parable, the 'full stomach breeds sin' maxim with supporting verses, and God's concession to Moses) are explicitly quoted and discussed together in the prose under heading 0 ('Spoiled Son Parable'), making the current placement correct.",
+      "chosen_heading": "Spoiled Son Parable",
+      "current_heading": "Spoiled Son Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Moses's moment of weakness and then recovery: Only when God asks him to let go does he find his strength",
+    "candidates": [
+      "God's initial response: Go down, you have lost your status because I'm angry at Israel",
+      "Moses's moment of weakness and then recovery: Only when God asks him to let go does he find his strength",
+      "King & Counselor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both God's rebuke of Moses's greatness AND Moses's recovery through prayer \u2014 spanning headings 0 and 1 \u2014 but heading 0's prose already discusses the full arc including Moses's standing being precarious, and the current placement under heading 1 is also defensible since that prose directly addresses the 'tashash kocho' and 'heref mimeni' elements; however, since the passage is a single continuous unit beginning with 'lech red,' it most naturally belongs under heading 0 where the initial verse is introduced, with heading 1's prose serving as commentary on the same passage's continuation.",
+      "chosen_heading": "God's initial response: Go down, you have lost your status because I'm angry at Israel",
+      "current_heading": "Moses's moment of weakness and then recovery: Only when God asks him to let go does he find his strength",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "King & Counselor",
+    "candidates": [
+      "King & Counselor",
+      "Grab Divine Collar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mashal about the king, his son, and the counselor/well-wisher, which is precisely what heading 0 ('King & Counselor') discusses in its prose, describing the same parable and its application to Moses and God.",
+      "chosen_heading": "King & Counselor",
+      "current_heading": "King & Counselor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "Grab Divine Collar",
+    "candidates": [
+      "Grab Divine Collar",
+      "Moses's refusal of replacement: God offers to make him a great nation; Moses insists on Israel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Moses grabbing God like a person grabbing a friend by his garment, which is exactly what the 'Grab Divine Collar' section's prose discusses in detail.",
+      "chosen_heading": "Grab Divine Collar",
+      "current_heading": "Grab Divine Collar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160,
+      161
+    ],
+    "current_heading": "Moses's refusal of replacement: God offers to make him a great nation; Moses insists on Israel",
+    "candidates": [
+      "Moses's refusal of replacement: God offers to make him a great nation; Moses insists on Israel",
+      "Prayer Makes Ill"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the prose in candidate 0, which quotes and explains the exact same Talmudic passage about Moses refusing God's offer to make him a great nation, the three-legged chair metaphor, and Moses's shame before his forefathers.",
+      "chosen_heading": "Moses's refusal of replacement: God offers to make him a great nation; Moses insists on Israel",
+      "current_heading": "Moses's refusal of replacement: God offers to make him a great nation; Moses insists on Israel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      167,
+      168,
+      169,
+      170,
+      171
+    ],
+    "current_heading": "Prayer Makes Ill",
+    "candidates": [
+      "Prayer Makes Ill",
+      "Releasing God from His vow: The halakhic mechanism of annulling a divine oath through a Beis Din",
+      "Patriarchs' Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are interpretations of the same word *vay\u1e25al* from Exodus 32:11, and the prose under heading 0 ('Prayer Makes Ill') explicitly walks through every single one of these interpretations in the same order \u2014 Rabbi Elazar, Rava, Shmuel, Rav Yitz\u1e25ak, the Rabbis, and Rabbi Eliezer the Great with the *a\u1e25ilu* discussion \u2014 making this the clear and correct placement.",
+      "chosen_heading": "Prayer Makes Ill",
+      "current_heading": "Prayer Makes Ill",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      179,
+      180,
+      181,
+      182
+    ],
+    "current_heading": "Patriarchs' Oath",
+    "candidates": [
+      "Releasing God from His vow: The halakhic mechanism of annulling a divine oath through a Beis Din",
+      "Patriarchs' Oath",
+      "Moses's pragmatic argument: The nations will say God is weak if He destroys Israel after the miracles and conquest"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Patriarchs' Oath",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 all deal with Moses's prayer invoking the oath sworn to the patriarchs (Exodus 32:13), including the meaning of 'in Your name,' the grammatical puzzle of 'asher amarti,' and the dispute between Rabbi Elazar and Rabbi Shmuel bar Nahmani \u2014 all of which are explicitly covered in candidate 1's prose.",
+      "second_heading": "Moses's pragmatic argument: The nations will say God is weak if He destroys Israel after the miracles and conquest",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces the verse about 'mi-bilti yekholet Hashem' (Numbers 14:16) and the grammatical puzzle of the feminine form, which is the precise topic candidate 2's prose discusses under Moses's pragmatic argument about the nations saying God is weak.",
+      "current_heading": "Patriarchs' Oath",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      189
+    ],
+    "current_heading": "Moses's pragmatic argument: The nations will say God is weak if He destroys Israel after the miracles and conquest",
+    "candidates": [
+      "Moses's pragmatic argument: The nations will say God is weak if He destroys Israel after the miracles and conquest",
+      "God concedes to Moses: 'I have forgiven them according to your words'"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Moses's argument that the nations will say God's strength weakened and His inability to stand against thirty-one kings, which is precisely the content described in heading 0's prose.",
+      "chosen_heading": "Moses's pragmatic argument: The nations will say God is weak if He destroys Israel after the miracles and conquest",
+      "current_heading": "Moses's pragmatic argument: The nations will say God is weak if He destroys Israel after the miracles and conquest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      193,
+      194,
+      195
+    ],
+    "current_heading": "God concedes to Moses: 'I have forgiven them according to your words'",
+    "candidates": [
+      "God concedes to Moses: 'I have forgiven them according to your words'",
+      "The ruling of Rav Simai: One must always praise God before making requests",
+      "Moses Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (Rabbi Yochanan on God conceding to Moses, the 'happy is the student' closing, and Rava/Rav Yitzchak on 'you have given Me life') are explicitly discussed in the prose of candidate 0, which covers exactly this sequence of the Gemara.",
+      "chosen_heading": "God concedes to Moses: 'I have forgiven them according to your words'",
+      "current_heading": "God concedes to Moses: 'I have forgiven them according to your words'",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      204
+    ],
+    "current_heading": "Moses Example",
+    "candidates": [
+      "The ruling of Rav Simai: One must always praise God before making requests",
+      "Moses Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with Rabbi Simlai's ruling ('le-olam yesader adam shivcho') and then immediately derives it from Moses \u2014 the entire unit, including the Moses example, belongs under the heading about Rav Simlai's ruling, whose prose explicitly covers both the rule and its derivation from Moses, whereas the current placement ('Moses Example') artificially splits the Talmudic unit mid-passage.",
+      "chosen_heading": "The ruling of Rav Simai: One must always praise God before making requests",
+      "current_heading": "Moses Example",
+      "moved": true
+    }
+  }
+]

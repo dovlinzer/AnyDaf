@@ -136,8 +136,6 @@ This leads to a further question: what about a *katan* — a minor boy? Boys are
 
 The Gemara then suggests a possible reconciliation: *ve'iba'it eima, mar mar chada u'mar chada velo pligi* — perhaps the two views are not actually in conflict. The one who says *chatzer* works as *yad* may be referring to a *ketana*, while the one who says it does not may be referring to a *katan*. Alternatively, one may be speaking of *get* and the other of *metziah*, without any true disagreement between them.
 
----
-
 > **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: בִּקְטַנָּה כּוּלֵּי עָלְמָא לָא פְּלִיגִי דְּיָלְפִינַן מְצִיאָה מִגֵּט. וְהָכָא בְּקָטָן קָא מִיפַּלְגִי,
 > **Translation:** **And if you wish, say** instead that **with regard to a minor girl, everyone agrees** that **we derive** the *halakha* with regard to **a found item from** the *halakha* with regard to **a bill of divorce,** and she acquires an ownerless item that is found in her courtyard. **And here they disagree with regard to** whether **a minor boy** acquires an item that is placed in his courtyard.
 
@@ -146,6 +144,8 @@ The Gemara then suggests a possible reconciliation: *ve'iba'it eima, mar mar cha
 
 > **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: מָר אֲמַר חֲדָא, וּמָר אֲמַר חֲדָא וְלָא פְּלִיגִי.
 > **Translation:** **And if you wish, say** instead that there is no dispute here at all. Rather, one **Sage,** Abba Kohen Bardela, **said one** statement, that a minor girl is divorced by her husband placing a bill of divorce in her courtyard, **and** one **Sage,** Rabbi Yannai, **said another** statement, that a minor boy or girl does not acquire an item that is found in his or her courtyard; **and they do not disagree.**
+
+---
 
 ## Implications & Transition
 

@@ -1,0 +1,53 @@
+### Eruvin 91a
+
+**1.**
+*Hebrew/Aramaic:* קַרְפֵּיפוֹת רְשׁוּת לְעַצְמָן. לְדִבְרֵי חֲכָמִים: גַּגִּין וַחֲצֵירוֹת רְשׁוּת אַחַת, קַרְפֵּיפוֹת רְשׁוּת אַחַת הֵן. לְדִבְרֵי רַבִּי שִׁמְעוֹן: כּוּלָּן רְשׁוּת אַחַת הֵן.
+*Translation:* Similarly, **enclosures are a domain in and of themselves,** and one is therefore permitted to carry from one enclosure to another. **According to the statement of the Rabbis, roofs and courtyards** constitute **one domain,** and therefore, one may carry even from a roof to a courtyard; however, **enclosures are one** discrete **domain. According to the statement of Rabbi Shimon, all of them,** roofs, courtyards, and enclosures, **are one domain,** and therefore it is permitted to carry between any of them.
+
+**2.**
+*Hebrew/Aramaic:* תַּנְיָא כְּווֹתֵיהּ דְּרַב, תַּנְיָא כְּווֹתֵיהּ דְּרַב יְהוּדָה. תַּנְיָא כְּווֹתֵיהּ דְּרַב: כׇּל גַּגּוֹת הָעִיר רְשׁוּת אַחַת הֵן, וְאָסוּר לְהַעֲלוֹת וּלְהוֹרִיד מִן הַגַּגִּין לֶחָצֵר וּמִן הֶחָצֵר לְגַגִּין. וְכֵלִים שֶׁשָּׁבְתוּ בֶּחָצֵר — מוּתָּר לְטַלְטְלָן בֶּחָצֵר, בַּגַּגִּין — מוּתָּר לְטַלְטְלָן בַּגַּגִּין, וּבִלְבַד שֶׁלֹּא יְהֵא גַּג גָּבוֹהַּ עֲשָׂרָה אוֹ נָמוּךְ עֲשָׂרָה, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים: כׇּל אֶחָד וְאֶחָד רְשׁוּת לְעַצְמוֹ, וְאֵין מְטַלְטְלִין בּוֹ אֶלָּא בְּאַרְבַּע.
+*Translation:* The Gemara comments: A *baraita* **was taught in accordance with** the opinion of **Rav,** and a *baraita* **was taught in accordance with** the opinion of **Rav Yehuda.** The Gemara elaborates. A *baraita* **was taught in accordance with** the opinion of **Rav,** that according to the Rabbis one may carry only four cubits on each roof: **All the roofs of a city are one domain, and it is prohibited to carry** objects **up or carry** them **down, from the roofs to the courtyard or from the courtyard to the roofs. And** with regard to **vessels that were inside a courtyard** when **Shabbat** began, **it is permitted to carry them in the courtyard** even if an *eiruv* was not established, and it is likewise permitted to carry them from that courtyard to other courtyards. With regard to vessels that were **on the roofs** when **Shabbat** began, **it is permitted to carry them on the roofs, provided that one roof is neither ten** handbreadths **higher nor ten** handbreadths **lower** than the other. This is **the statement of Rabbi Meir. And the Rabbis say: Each and every one of** the roofs **is a domain in and of itself, and one may move** objects **on** each roof **only within four** cubits.
+
+**3.**
+*Hebrew/Aramaic:* תַּנְיָא כְּווֹתֵיהּ דְּרַב יְהוּדָה: אָמַר רַבִּי, כְּשֶׁהָיִינוּ לוֹמְדִים תּוֹרָה אֵצֶל רַבִּי שִׁמְעוֹן בִּתְקוֹעַ, הָיִינוּ מַעֲלִין שֶׁמֶן וַאֲלוּנְטִית מִגַּג לְגַג, וּמִגַּג לְחָצֵר, וּמֵחָצֵר לְחָצֵר, וּמֵחָצֵר לְקַרְפֵּף, וּמִקַּרְפֵּף לְקַרְפֵּף אַחֵר, עַד שֶׁהָיִינוּ מַגִּיעִין אֵצֶל הַמַּעְיָין שֶׁהָיִינוּ רוֹחֲצִין בּוֹ.
+*Translation:* Likewise, a *baraita* **was taught in accordance with Rav Yehuda’s** interpretation of the opinion of Rabbi Shimon. **Rabbi** Yehuda HaNasi **said: When we were studying Torah with Rabbi Shimon in Tekoa, we would carry oil** for smearing **and a towel** for drying **from roof to roof, and from roof to courtyard, and from courtyard to courtyard, and from courtyard to enclosure, and from enclosure to enclosure,** to refrain from carrying in a prohibited place, **until we reached the spring in which we would bathe.**
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יְהוּדָה: מַעֲשֶׂה בִּשְׁעַת הַסַּכָּנָה וְהָיִינוּ מַעֲלִין תּוֹרָה מֵחָצֵר לְגַג, וּמִגַּג לְחָצֵר, וּמֵחָצֵר לְקַרְפֵּף לִקְרוֹת בּוֹ.
+*Translation:* And similarly, **Rabbi Yehuda said:** There was **an incident during a time of danger,** when decrees were issued that banned religious observance, **and we would carry a Torah scroll from courtyard to roof, and from roof to courtyard, and from courtyard to enclosure, to read from it.**
+
+**5.**
+*Hebrew/Aramaic:* אָמְרוּ לוֹ: אֵין שְׁעַת הַסַּכָּנָה רְאָיָה.
+*Translation:* The Sages **said to him:** The *halakha* cannot be determined from that incident, as an incident occurring during **a time of danger is no proof.** At a time of danger it is permitted to carry even in places where carrying is ordinarily prohibited by rabbinic law.
+
+**6.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן אוֹמֵר: אֶחָד גַּגִּין וְכוּ׳.
+*Translation:* **Rabbi Shimon says: Roofs,** courtyards, and enclosures are **all** one domain with regard to vessels that were inside them when Shabbat began, and one may therefore carry from one of these areas to the other. However, they are not one domain with regard to vessels that were inside the house when Shabbat began.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַב: הֲלָכָה כְּרַבִּי שִׁמְעוֹן, וְהוּא שֶׁלֹּא עֵירְבוּ. אֲבָל עֵירְבוּ — לָא, דְּגָזְרִינַן דִּילְמָא אָתֵי לְאַפּוֹקֵי מָאנֵי דְבָתִּים לֶחָצֵר.
+*Translation:* **Rav said: The *halakha* is in accordance with** the opinion of **Rabbi Shimon, provided that** the residents of each courtyard **did not establish a** separate ***eiruv*** for themselves, as in that case they may not move objects from their houses into the courtyard. **However, if they established** a separate ***eiruv*** for each courtyard, without establishing an *eiruv* between the various courtyards, **no,** that is not the *halakha*, **as we issue a decree lest one come to take out vessels** from one **of** the **houses to the courtyard,** an action that is fundamentally permitted, and subsequently proceed to carry them out to a different courtyard with which an *eiruv* had not been established, which everyone agrees is prohibited.
+
+**8.**
+*Hebrew/Aramaic:* וּשְׁמוּאֵל אָמַר: בֵּין עֵירְבוּ בֵּין שֶׁלֹּא עֵירְבוּ. וְכֵן אָמַר רַבִּי יוֹחָנָן: מִי לְחָשְׁךָ, בֵּין עֵירְבוּ וּבֵין שֶׁלֹּא עֵירְבוּ?
+*Translation:* **And Shmuel said:** The *halakha* is in accordance with Rabbi Shimon, **whether they established an *eiruv* or whether they did not establish an *eiruv*. And similarly, Rabbi Yoḥanan said: Who whispered to you,** who told you that there is a difference **whether they established an *eiruv* or whether they did not establish an *eiruv*?**
+
+**9.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב חִסְדָּא: לִשְׁמוּאֵל וּלְרַבִּי יוֹחָנָן, יֹאמְרוּ: שְׁנֵי כֵלִים בְּחָצֵר אַחַת, זֶה מוּתָּר וְזֶה אָסוּר!
+*Translation:* **Rav Ḥisda strongly objects to this** ruling. **According to Shmuel and according to Rabbi Yoḥanan,** people **will say** with regard to **two vessels** located **in the same courtyard,** one of which was in the courtyard when Shabbat began while the other was in the house, that moving **this** one, which was in the courtyard at the start of Shabbat, to another courtyard is **permitted, while** moving **that one,** which was in the house at the start of Shabbat, to another courtyard, is **prohibited.**
+
+**10.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן לְטַעְמֵיהּ, דְּלָא גָּזַר. דִּתְנַן, אָמַר רַבִּי שִׁמְעוֹן: לְמָה הַדָּבָר דּוֹמֶה, לְשָׁלֹשׁ חֲצֵירוֹת הַפְּתוּחוֹת זוֹ לָזוֹ וּפְתוּחוֹת לִרְשׁוּת הָרַבִּים, וְעֵירְבוּ שְׁתֵּי הַחִיצוֹנוֹת עִם הָאֶמְצָעִית — הִיא מוּתֶּרֶת עִמָּהֶן, וְהֵן מוּתָּרוֹת עִמָּהּ, וּשְׁתֵּי הַחִיצוֹנוֹת אֲסוּרִין זוֹ עִם זוֹ.
+*Translation:* The Gemara answers: In this regard, **Rabbi Shimon** conforms **to his** standard **reasoning, as he did not issue a decree** due to these concerns. **As we learned** in a mishna, **Rabbi Shimon said: To what is this matter comparable?** It is comparable **to three courtyards that are open into each other, and that are** also **open into a public domain.** If **the two outer** courtyards each **established an *eiruv* with the middle one,** it is **permitted** for the residents of the middle one to carry **into** the two outer ones, **and they,** the residents of the two outer ones, **are permitted** to carry **into it, but** for the residents of **the two outer** courtyards it is **prohibited** to carry **into each other,** as they did not establish an *eiruv* together.
+
+**11.**
+*Hebrew/Aramaic:* וְלָא גָּזַר דִּילְמָא אָתֵי לְאַפּוֹקֵי מָאנֵי דְּהָא חָצֵר לְהָא חָצֵר, הָכִי נָמֵי לָא גָּזְרִינַן דִּילְמָא אָתֵי לְאַפּוֹקֵי מָאנֵי דְבָתִּים לְחָצֵר.
+*Translation:* **And** in that case Rabbi Shimon **did not issue a decree** prohibiting one to carry objects from the middle courtyard to one of the outer ones **lest one come to take out vessels from this** outer **courtyard to that** outer **courtyard,** despite the fact that both sets of vessels are located in the middle courtyard. **Here too, we do not issue a decree lest one come to take out utensils** from one **of the houses to the courtyard,** and carry them to a different courtyard.
+
+**12.**
+*Hebrew/Aramaic:* מֵתִיב רַב שֵׁשֶׁת: רַבִּי שִׁמְעוֹן אוֹמֵר, אֶחָד גַּגּוֹת אֶחָד חֲצֵירוֹת וְאֶחָד קַרְפֵּיפוֹת רְשׁוּת אַחַת הֵן לְכֵלִים שֶׁשָּׁבְתוּ בְּתוֹכָן, וְלֹא לְכֵלִים שֶׁשָּׁבְתוּ בְּתוֹךְ הַבַּיִת. אִי אָמְרַתְּ בִּשְׁלָמָא דְּעֵירְבוּ — הַיְינוּ דְּמַשְׁכַּחַתְּ לַהּ מָאנֵי דְבָתִּים בְּחָצֵר.
+*Translation:* **Rav Sheshet raised an objection.** We learned in the mishna that **Rabbi Shimon says: Roofs, courtyards, and enclosures are all one domain with regard to vessels that were inside them** when **Shabbat** began. **But** they are **not** one domain **with regard to vessels that were inside the house** when **Shabbat** began. **Granted, if you say** that it is dealing with a case where the residents of the courtyards **established an *eiruv*, that is how you find vessels** that were taken **from the house in the courtyard.** Because those vessels were in the house at the beginning of Shabbat, they may not be moved to a different courtyard.
+
+**13.**
+*Hebrew/Aramaic:* אֶלָּא אִי אָמְרַתְּ בְּשֶׁלֹּא עֵירְבוּ — הֵיכִי מַשְׁכַּחַתְּ לַהּ מָאנֵי דְבָתִּים בְּחָצֵר? הוּא מוֹתֵיב לַהּ וְהוּא מְפָרֵק לַהּ: בְּכוּמְתָּא וְסוּדָרָא.
+*Translation:* **However, if you say** it is referring to a case **where they did not establish an *eiruv*,** under **what** circumstances can the case of **vessels from the house in the courtyard** be found? This poses a difficulty for Rav. Rav Sheshet **raised the objection, and he resolved it:** It refers **to** the case of **a hat or a shawl,** which one wore in the house and subsequently went out to the courtyard and placed it there. In this manner, it is possible that objects taken from the house can be found in the courtyard, even if an *eiruv* was not established.

@@ -1,0 +1,65 @@
+### Sotah 14a
+
+**1.**
+*Hebrew/Aramaic:* גַּסְטְרָא שֶׁל בֵּית פְּעוֹר: הַרְאֵנוּ הֵיכָן מֹשֶׁה קָבוּר. עָמְדוּ לְמַעְלָה — נִדְמָה לָהֶם לְמַטָּה, לְמַטָּה — נִדְמָה לָהֶם לְמַעְלָה. נֶחְלְקוּ לִשְׁתֵּי כִיתּוֹת, אוֹתָן שֶׁעוֹמְדִים לְמַעְלָה — נִדְמָה לָהֶן לְמַטָּה, לְמַטָּה — נִדְמָה לָהֶן לְמַעְלָה, לְקַיֵּים מַה שֶּׁנֶּאֱמַר ״וְלֹא יָדַע אִישׁ אֶת קְבֻרָתוֹ״.
+*Translation:* **the garrison [*gastera*] of Beth Peor** and said to them: **Show us where Moses is buried.** As the men **stood above** on the upper section of the mountain, **it appeared to them** as if the grave was **below** in the lower section. As they stood **below, it appeared to them** to be **above. They divided into two groups,** one above and one below. To **those who were standing above,** the grave **appeared to them** to be **below;** to those who were standing **below,** the grave **appeared to them to be above, to fulfill that which is stated: “And no man knows of his grave** to this day” (Deuteronomy 34:6).
+
+**2.**
+*Hebrew/Aramaic:* רַבִּי חָמָא בְּרַבִּי חֲנִינָא אָמַר: אַף מֹשֶׁה רַבֵּינוּ אֵינוֹ יוֹדֵעַ הֵיכָן קָבוּר. כְּתִיב הָכָא: ״וְלֹא יָדַע אִישׁ אֶת קְבֻרָתוֹ״, וּכְתִיב הָתָם: ״וְזֹאת הַבְּרָכָה אֲשֶׁר בֵּרַךְ מֹשֶׁה אִישׁ הָאֱלֹהִים״. וְאָמַר רַבִּי חָמָא בְּרַבִּי חֲנִינָא: מִפְּנֵי מָה נִקְבַּר מֹשֶׁה אֵצֶל בֵּית פְּעוֹר — כְּדֵי לְכַפֵּר עַל מַעֲשֵׂה פְעוֹר.
+*Translation:* **Rabbi Ḥama, son of Rabbi Ḥanina, says: Even Moses our teacher** himself **does not know where he is buried. It is written here: “And no man knows of his grave,” and it is written there: “And this is the blessing wherewith Moses the man of God blessed** the children of Israel before his death” (Deuteronomy 33:1). In other words, even Moses, as he is referred to by the term “man,” does not know his burial place. **And Rabbi Ḥama, son of Rabbi Ḥanina, says: For what** reason **was Moses buried near Beth Peor? In order to atone for the incident** that transpired at Beth **Peor** (Numbers, chapter 25).
+
+**3.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי חָמָא בְּרַבִּי חֲנִינָא, מַאי דִּכְתִיב: ״אַחֲרֵי ה׳ אֱלֹהֵיכֶם תֵּלֵכוּ״, וְכִי אֶפְשָׁר לוֹ לְאָדָם לְהַלֵּךְ אַחַר שְׁכִינָה? וַהֲלֹא כְּבָר נֶאֱמַר ״כִּי ה׳ אֱלֹהֶיךָ אֵשׁ אוֹכְלָה הוּא״!
+*Translation:* **And Rabbi Ḥama, son of Rabbi Ḥanina, says: What is** the meaning of that **which is written: “After the Lord your God shall you walk,** and Him shall you fear, and His commandments shall you keep, and unto His voice shall you hearken, and Him shall you serve, and unto Him shall you cleave” (Deuteronomy 13:5)? **But is it** actually **possible for a person to follow the Divine Presence? But hasn’t it already been stated: “For the Lord your God is a devouring fire,** a jealous God” (Deuteronomy 4:24), and one cannot approach fire.
+
+**4.**
+*Hebrew/Aramaic:* אֶלָּא, לְהַלֵּךְ אַחַר מִדּוֹתָיו שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא: מָה הוּא מַלְבִּישׁ עֲרוּמִּים, דִּכְתִיב: ״וַיַּעַשׂ ה׳ אֱלֹהִים לְאָדָם וּלְאִשְׁתּוֹ כׇּתְנוֹת עוֹר וַיַּלְבִּשֵׁם״ — אַף אַתָּה הַלְבֵּשׁ עֲרוּמִּים. הַקָּדוֹשׁ בָּרוּךְ הוּא בִּיקֵּר חוֹלִים, דִּכְתִיב: ״וַיֵּרָא אֵלָיו ה׳ בְּאֵלֹנֵי מַמְרֵא״ — אַף אַתָּה בַּקֵּר חוֹלִים. הַקָּדוֹשׁ בָּרוּךְ הוּא נִיחֵם אֲבֵלִים, דִּכְתִיב: ״וַיְהִי אַחֲרֵי מוֹת אַבְרָהָם וַיְבָרֶךְ אֱלֹהִים אֶת יִצְחָק בְּנוֹ״ — אַף אַתָּה נַחֵם אֲבֵלִים. הַקָּדוֹשׁ בָּרוּךְ הוּא קָבַר מֵתִים, דִּכְתִיב: ״וַיִּקְבֹּר אוֹתוֹ בַּגַּי״ — אַף אַתָּה קְבוֹר מֵתִים.
+*Translation:* He explains: **Rather,** the meaning is **that one should follow the attributes of the Holy One, Blessed be He.** He provides several examples. **Just as He clothes the naked, as it is written: “And the Lord God made for Adam and for his wife garments of skin, and clothed them”** (Genesis 3:21), **so too,** should **you clothe the naked.** Just as **the Holy One, Blessed be He, visits the sick, as it is written** with regard to God’s appearing to Abraham following his circumcision: **“And the Lord appeared unto him by the terebinths of Mamre”** (Genesis 18:1), **so too,** should **you visit the sick.** Just as **the Holy One, Blessed be He, consoles mourners, as it is written: “And it came to pass after the death of Abraham, that God blessed Isaac his son”** (Genesis 25:11), **so too,** should **you console mourners.** Just as **the Holy One, Blessed be He, buried the dead, as it is written: “And he was buried in the valley** in the land of Moab” (Deuteronomy 34:6), **so too,** should **you bury the dead.**
+
+**5.**
+*Hebrew/Aramaic:* ״כׇּתְנוֹת עוֹר״. רַב וּשְׁמוּאֵל, חַד אָמַר: דָּבָר הַבָּא מִן הָעוֹר, וְחַד אָמַר: דָּבָר שֶׁהָעוֹר נֶהֱנֶה מִמֶּנּוּ.
+*Translation:* The Gemara discusses the verse: “And the Lord God made for Adam and for his wife **garments of skin,** and clothed them” (Genesis 3:21). **Rav and Shmuel** disagree as to the meaning of the term “garments of skin.” **One says** that these garments were made of **something that comes from the skin, and one says** that these garments were **something from which the skin benefits.**
+
+**6.**
+*Hebrew/Aramaic:* דָּרַשׁ רַבִּי שִׂמְלַאי: תּוֹרָה תְּחִלָּתָהּ גְּמִילוּת חֲסָדִים, וְסוֹפָהּ גְּמִילוּת חֲסָדִים. תְּחִילָּתָהּ גְּמִילוּת חֲסָדִים — דִּכְתִיב: ״וַיַּעַשׂ ה׳ אֱלֹהִים לְאָדָם וּלְאִשְׁתּוֹ כׇּתְנוֹת עוֹר וַיַּלְבִּשֵׁם״, וְסוֹפָהּ גְּמִילוּת חֲסָדִים — דִּכְתִיב: ״וַיִּקְבֹּר אוֹתוֹ בַּגַּי״.
+*Translation:* **Rabbi Samlai taught:** With regard to the **Torah, its beginning is an act of kindness and its end is an act of kindness. Its beginning is an act of kindness, as it is written: “And the Lord God made for Adam and for his wife garments of skin, and clothed them”** (Genesis 3:21). **And its end is an act of kindness, as it is written: “And he was buried in the valley** in the land of Moab” (Deuteronomy 34:6).
+
+**7.**
+*Hebrew/Aramaic:* דָּרַשׁ רַבִּי שִׂמְלַאי: מִפְּנֵי מָה נִתְאַוָּה מֹשֶׁה רַבֵּינוּ לִיכָּנֵס לְאֶרֶץ יִשְׂרָאֵל? וְכִי לֶאֱכוֹל מִפִּרְיָהּ הוּא צָרִיךְ?! אוֹ לִשְׂבּוֹעַ מִטּוּבָהּ הוּא צָרִיךְ?! אֶלָּא כָּךְ אָמַר מֹשֶׁה: הַרְבֵּה מִצְוֹת נִצְטַוּוּ יִשְׂרָאֵל, וְאֵין מִתְקַיְּימִין אֶלָּא בְּאֶרֶץ יִשְׂרָאֵל. אֶכָּנֵס אֲנִי לָאָרֶץ כְּדֵי שֶׁיִּתְקַיְּימוּ כּוּלָּן עַל יָדִי.
+*Translation:* **Rabbi Samlai taught: For what** reason **did Moses our teacher** greatly **desire to enter Eretz Yisrael? Did he need to eat of its produce, or did he need to satisfy himself from its goodness? Rather, this** is what **Moses said: Many mitzvot were commanded** to the **Jewish people, and** some of **them can be fulfilled only in Eretz Yisrael,** so **I will enter the land in order that they can all be fulfilled by me.**
+
+**8.**
+*Hebrew/Aramaic:* אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא: כְּלוּם אַתָּה מְבַקֵּשׁ אֶלָּא לְקַבֵּל שָׂכָר? מַעֲלֶה אֲנִי עָלֶיךָ כְּאִילּוּ עֲשִׂיתָם, שֶׁנֶּאֱמַר: ״לָכֵן אֲחַלֶּק לוֹ בָרַבִּים וְאֶת עֲצוּמִים יְחַלֵּק שָׁלָל תַּחַת אֲשֶׁר הֶעֱרָה לַמָּוֶת נַפְשׁוֹ וְאֶת פּוֹשְׁעִים נִמְנָה וְהוּא חֵטְא רַבִּים נָשָׂא וְלַפֹּשְׁעִים יַפְגִּיעַ״.
+*Translation:* **The Holy One, Blessed be He, said to him: Do you seek** to enter the land to perform these mitzvot **for any** reason **other than to receive a reward? I will ascribe you** credit **as if you had performed them** and you will receive your reward, **as it is stated: “Therefore will I divide him a portion among the great, and he shall divide the spoil with the mighty; because he bared his soul unto death, and was numbered with the transgressors; yet he bore the sin of many, and made intercession for the transgressors”** (Isaiah 53:12).
+
+**9.**
+*Hebrew/Aramaic:* ״לָכֵן אֲחַלֶּק לוֹ בָּרַבִּים״. יָכוֹל כָּאַחֲרוֹנִים וְלֹא כָּרִאשׁוֹנִים, תַּלְמוּד לוֹמַר: ״וְאֶת עֲצוּמִים יְחַלֵּק שָׁלָל״, כְּאַבְרָהָם יִצְחָק וְיַעֲקֹב, שֶׁהֵן עֲצוּמִים בַּתּוֹרָה וּבְמִצְוֹת. ״תַּחַת אֲשֶׁר הֶעֱרָה לַמָּוֶת נַפְשׁוֹ״, שֶׁמָּסַר עַצְמוֹ לְמִיתָה, שֶׁנֶּאֱמַר: ״וְאִם אַיִן מְחֵנִי נָא וְגוֹ׳״.
+*Translation:* Rabbi Samlai proceeds to expound the verse **“Therefore will I divide him a portion among the great”** to mean that he will receive reward. One **might** have thought that he will receive reward **like the later ones and not like the earlier ones,** so **the verse states: “And he shall divide the spoil with the mighty,”** meaning **like Abraham, Isaac, and Jacob, who were mighty in Torah and in mitzvot. “Because he bared his soul unto death,”** meaning **he gave himself over to death** on behalf of the Jewish people, **as it is stated:** “Yet now, if You will forgive their sin; **and if not, blot me, I pray** You, out of Your book that You have written” (Exodus 32:32).
+
+**10.**
+*Hebrew/Aramaic:* ״וְאֶת פּוֹשְׁעִים נִמְנָה״ — שֶׁנִּמְנָה עִם מֵתֵי מִדְבָּר. ״וְהוּא חֵטְא רַבִּים נָשָׂא״ — שֶׁכִּיפֵּר עַל מַעֲשֵׂה הָעֵגֶל. ״וְלַפֹּשְׁעִים יַפְגִּיעַ״ — שֶׁבִּיקֵּשׁ רַחֲמִים עַל פּוֹשְׁעֵי יִשְׂרָאֵל שֶׁיַּחְזְרוּ בִּתְשׁוּבָה. וְאֵין פְּגִיעָה אֶלָּא תְּפִלָּה, שֶׁנֶּאֱמַר: ״וְאַתָּה אַל תִּתְפַּלֵּל בְּעַד הָעָם הַזֶּה וְאַל תִּשָּׂא בַעֲדָם רִנָּה וּתְפִלָּה וְאַל תִּפְגַּע בִּי״.
+*Translation:* **“And was numbered with the transgressors,”** meaning **that he was counted among those who died in the desert,** for, just like them, he did not enter Eretz Yisrael. **“Yet he bore the sin of many,” as he atoned for the incident of the Golden Calf. “And made intercession [*yafgia*] for the transgressors,” as he requested mercy for the sinners of Israel** so **that they should engage in repentance. And** the word ***pegia*** means **nothing other** than **prayer, as it is stated: “Therefore pray not you for this people, neither lift up cry nor prayer for them, neither make intercession [*tifga*] to Me;** for I will not hear you” (Jeremiah 7:16).
+
+**11.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ הַמְקַנֵּא לְאִשְׁתּוֹ
+*Translation:* 
+
+**12.**
+*Hebrew/Aramaic:* הָיָה מֵבִיא אֶת מִנְחָתָהּ בְּתוֹךְ כְּפִיפָה מִצְרִית וְנוֹתְנָהּ עַל יָדֶיהָ כְּדֵי לְיַגְּעָהּ.
+*Translation:* MISHNA: The husband of the *sota* **would bring** his wife’s **meal-offering** to the priest **in an Egyptian wicker basket** made of palm branches, **and he would place** the meal-offering **in her hands** for her to hold throughout the ritual **in order to fatigue her.** This might lead her to confess her guilt and not drink the water of a *sota* unnecessarily.
+
+**13.**
+*Hebrew/Aramaic:* כׇּל הַמְּנָחוֹת תְּחִילָּתָן וְסוֹפָן בִּכְלִי שָׁרֵת, וְזוֹ תְּחִלָּתָהּ בִּכְפִיפָה מִצְרִית, וְסוֹפָהּ בִּכְלִי שָׁרֵת.
+*Translation:* The mishna lists differences between this meal-offering and other meal-offerings. Generally, **all meal-offerings,** from **their beginnings,** i.e., the moment they are consecrated, **and** until **their ends,** i.e., the moment they are sacrificed, must be **in a service vessel. But** in the case of **this one, its beginning is in a wicker basket and** only at **its end,** immediately before it is offered, is it placed **in a service vessel.**
+
+**14.**
+*Hebrew/Aramaic:* כׇּל הַמְּנָחוֹת טְעוּנוֹת שֶׁמֶן וּלְבוֹנָה, וְזוֹ אֵינָהּ טְעוּנָה לֹא שֶׁמֶן וְלֹא לְבוֹנָה. כׇּל הַמְּנָחוֹת בָּאוֹת מִן הַחִטִּין, וְזוֹ בָּאָה מִן הַשְּׂעוֹרִין. מִנְחַת הָעוֹמֶר, אַף עַל פִּי שֶׁבָּאָה מִן הַשְּׂעוֹרִין — הִיא הָיְתָה בָּאָה גֶּרֶשׂ, וְזוֹ בָּאָה קֶמַח. רַבָּן גַּמְלִיאֵל אוֹמֵר: כְּשֵׁם שֶׁמַּעֲשֶׂיהָ מַעֲשֵׂה בְּהֵמָה, כָּךְ קׇרְבָּנָהּ מַאֲכַל בְּהֵמָה.
+*Translation:* **All** other **meal-offerings require oil and frankincense, and this one requires neither oil nor frankincense.** Furthermore, **all** other **meal-offerings are brought from wheat, and this one is brought from barley. Although** in fact **the *omer* meal-offering** is also **brought from barley,** it is still different in that **it was brought as groats,** i.e., high-quality meal. The meal-offering of the *sota*, however, **is brought as** unsifted barley **flour. Rabban Gamliel says:** This hints that **just as her actions** of seclusion with another man **were the actions of an animal, so too her offering is animal food,** i.e., barley and not wheat.
+
+**15.**
+*Hebrew/Aramaic:* גְּמָ׳ תַּנְיָא, אַבָּא חָנִין אוֹמֵר מִשּׁוּם רַבִּי אֱלִיעֶזֶר: [וְכׇל כָּךְ לָמָּה —] כְּדֵי לְיַגְּעָהּ, כְּדֵי שֶׁתַּחֲזוֹר בָּהּ. אִם כָּכָה חָסָה תּוֹרָה עַל עוֹבְרֵי רְצוֹנוֹ, קַל וָחוֹמֶר עַל עוֹשֵׂי רְצוֹנוֹ.
+*Translation:* GEMARA: **It is taught** in a *baraita* that **Abba Ḥanin says in the name of Rabbi Eliezer: And why** is **so much** done to her? It is **in order to fatigue her, so that she will retract** and confess her guilt and be spared death. And **if the Torah is so protective of those who transgress His will,** i.e., the *sota*, who secluded herself with the man she was warned against, then by ***a fortiori*** inference He is protective **of those who do His will.**
+
+**16.**
+*Hebrew/Aramaic:* וּמִמַּאי מִשּׁוּם דְּחָסָה הוּא? דִּילְמָא כִּי הֵיכִי דְּלֹא תִּימָּחֵק מְגִילָּה! קָסָבַר
+*Translation:* The Gemara asks: **And from where** is it derived that they attempt to induce her to confess **because** the Torah **is protective** of the *sota*? **Perhaps** it is **in order that the scroll** of the *sota*, containing the name of God, **will not be erased.** The Gemara responds: Rabbi Eliezer **holds**

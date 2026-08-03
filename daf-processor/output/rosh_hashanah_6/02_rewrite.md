@@ -22,7 +22,7 @@ The *gemara* reinterprets the *drasha* entirely. Rather than *becha chet v'lo b'
 
 This interpretation requires context. The *gemara* invokes a teaching of Rabbi Yochanan — or, some say, Rabbi Elazar — that *ein ishto shel adam meitah ela im ken mevakshin mimenu mamon v'ein lo*: a man's wife does not die unless heaven demands from him a monetary obligation that he is not fulfilling. What does this mean in context? Rashi understands it as referring to stolen money left unrepaid. Tosafot, more attuned to the passage at hand, explains it as referring to an unfulfilled vow — *mevakshin mimenu mamon*, heaven is calling in the pledge he made and has not satisfied. The consequence of non-fulfillment is rendered in vivid terms: the one who sleeps beside you is taken from you. One might then have assumed — *havah amina* — that the same punishment applies even to *bal te'acher*, the mere postponement of a vow. Therefore the verse teaches: *becha chet*, the sin focuses on you alone, it is not collective punishment. Non-fulfillment is one matter; postponement is another — and postponement does not trigger collective consequences.
 
-### Collective Punishment Context
+### Collective Punishment
 
 This, of course, is a striking and theologically charged teaching. The original *baraita* had said the sin falls on you and not on your *korban*; the *gemara* now reads it as saying the sin falls on you and not on your wife. That the two readings coexisted and the *gemara* chose to pursue the second is itself noteworthy.
 

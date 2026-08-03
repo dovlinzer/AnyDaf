@@ -51,3 +51,20 @@
 **13.**
 *Hebrew/Aramaic:* אֶלָּא: הֲרֵי זֶה בָּא לְלַמֵּד, וְנִמְצָא לָמֵד: מָה נַעֲרָה הַמְאוֹרָסָה נִיתָּן לְהַצִּילָהּ בְּנַפְשׁוֹ — אַף רוֹצֵחַ (כּוּ׳). מָה רוֹצֵחַ יֵהָרֵג וְאַל יַעֲבוֹר — אַף נַעֲרָה הַמְאוֹרָסָה יֵהָרֵג וְאַל יַעֲבוֹר.
 *Translation:* **Rather, this** *halakha* about the murderer, which appears to **come to teach** about the betrothed woman, **is found to** actually be the **subject of teaching.** The inference is as follows: **Just as** with regard to **the betrothed woman,** permission is **given to save her at** the cost of the **life of** her attacker, **so too,** the **murderer** may be saved from committing the crime at the cost of his life, i.e., one may save the victim by killing the attacker. Another teaching is derived in the opposite direction, from the case of murder to the case of rape. **Just as** the **murderer** is subject to the *halakha* of **let him be killed, and let him not transgress,** i.e., one must even allow himself to be killed rather than take the life of another, **so too,** a man must surrender his life rather than engage in forbidden sexual relations with **a betrothed young woman.** By inference, the *halakha* of **let him be killed, and let him not transgress,** applies to all forbidden sexual relations.
+
+
+---
+
+### Yoma 82b
+
+**1.**
+*Hebrew/Aramaic:* וְרוֹצֵחַ גּוּפֵיהּ מְנָא לַן? סְבָרָא הִיא: דְּהָהוּא דַּאֲתָא לְקַמֵּיהּ (דְּרָבָא), אֲמַר לֵיהּ, אֲמַר לִי מָרֵי דּוּרַאי: קִטְלֵיהּ לִפְלָנְיָא, וְאִי לָא — קָטֵילְנָא לָךְ. אֲמַר לֵיהּ: נִקְטְלָךְ וְלָא תִּקְטוֹל. מַאי חָזֵית דִּדְמָא דִּידָךְ סוּמָּק טְפֵי? דִּילְמָא דְּמָא דְּהָהוּא גַּבְרָא סוּמָּק טְפֵי!
+*Translation:* The Gemara asks: **And** with regard to the **murderer himself, from where** do **we** derive this *halakha* that he should be killed rather than transgress the prohibition against murder? The Gemara answers: **It is** derived through **reason,** as it was told: **A certain** person **came before Rava. He said to** Rava: **The master of the village** where I live **said to me: Kill so-and-so, and if** you do **not** do so, **I will kill you.** What should I do? Rava **said to him: Let yourself be killed, and you should not kill.** Rava reasoned: **What did you see** to make you think **that your blood is redder** and more important than his? **Perhaps the blood of that man is redder,** and he is more important than you. If so, it is logical that one must not kill another person to save himself.
+
+**2.**
+*Hebrew/Aramaic:* הָהִיא עוּבָּרָה דְּאָרַחָא, אֲתוֹ לְקַמֵּיהּ דְּרַבִּי, אֲמַר לְהוּ: זִילוּ לְחוּשׁוּ לַהּ דְּיוֹמָא דְכִיפּוּרֵי הוּא. לְחוּשׁוּ לָהּ וְאִילְּחִישָׁא. קָרֵי עֲלֵיהּ: ״בְּטֶרֶם אֶצָּרְךָ בַבֶּטֶן יְדַעְתִּיךָ וְגוֹ׳״. נְפַק מִינַּהּ רַבִּי יוֹחָנָן.
+*Translation:* § With respect to a pregnant woman who smells food, it is told: **A certain pregnant woman smelled** a food and craved it. Those involved **came before Rabbi** Yehuda HaNasi to ask how to proceed. **He said to those** who were inquiring: **Go and whisper to her that today is Yom Kippur. They whispered to her, and this whispering helped;** she stopped craving the food. Rabbi Yehuda HaNasi **read** this verse **about** the baby she was carrying: **“Before I formed you in the belly I knew you,** and before you came forth out of the womb I sanctified you” (Jeremiah 1:5), and indeed, the baby who **came out of** that woman was **Rabbi Yoḥanan.**
+
+**3.**
+*Hebrew/Aramaic:* הָהִיא עוּבָּרָה דְּאָרַחָא, אֲתוֹ לְקַמֵּיהּ דְּרַבִּי חֲנִינָא. אֲמַר לְהוּ: לְחוּשׁוּ לָהּ, וְלָא אִילְּחִישָׁא. קָרֵי עֲלֵיהּ:
+*Translation:* The Gemara relates another story: **A certain pregnant woman smelled** food and had a craving to eat it on Yom Kippur. Those involved **came before Rabbi Ḥanina** to ask how to proceed. **He said to them: Whisper to her** that today is Yom Kippur. They whispered to her, but **she did not accept the whisper** and continued to crave the food. Rabbi Ḥanina **read** this verse **about** the baby:

@@ -35,3 +35,64 @@
 **9.**
 *Hebrew/Aramaic:* לָא קַשְׁיָא: כָּאן
 *Translation:* The Gemara explains: This is **not difficult. Here,**
+
+
+---
+
+### Rosh Hashanah 33b
+
+**1.**
+*Hebrew/Aramaic:* בְּקָטָן שֶׁהִגִּיעַ לְחִינּוּךְ, כָּאן בְּקָטָן שֶׁלֹּא הִגִּיעַ לְחִינּוּךְ.
+*Translation:* in the first clause, the *baraita* is dealing **with a minor who has reached** the age of **training** in mitzvot. This child is taught to sound the *shofar*, as one is obligated to teach him the proper way to perform mitzvot. However, **here,** in the second clause, the *baraita* is dealing **with a minor who has not** yet **reached** the age of **training.** Although one need not prevent this child from sounding the *shofar*, one does not encourage him to do so.
+
+**2.**
+*Hebrew/Aramaic:* וְהַמִּתְעַסֵּק לֹא יָצָא. הָא תּוֹקֵעַ לָשִׁיר — יָצָא. לֵימָא מְסַיַּיע לֵיהּ לְרָבָא, דְּאָמַר רָבָא: הַתּוֹקֵעַ לָשִׁיר — יָצָא. דִּלְמָא תּוֹקֵעַ לָשִׁיר — נָמֵי מִתְעַסֵּק קָרֵי לֵיהּ.
+*Translation:* § The mishna taught: **One who acts unawares** while sounding the *shofar*, without any intention to produce a sound, **has not fulfilled** his obligation. The Gemara infers: **One who sounds** a *shofar* **for music,** even if he has no intention to perform the mitzva, **has fulfilled** his obligation. The Gemara asks: **Let us say** that the mishna **supports** the opinion of **Rava, as Rava said: One who sounds** a *shofar* **for music has fulfilled** his obligation. The Gemara rejects this suggestion. There is no clear proof from here, as **perhaps one who sounds** a *shofar* **for music is also called** one who **acts unawares.** It is possible that the *tanna* of the mishna includes in this category anyone who sounds the *shofar* without a clear intention to fulfill the mitzva.
+
+**3.**
+*Hebrew/Aramaic:* וְהַשּׁוֹמֵעַ מִן הַמִּתְעַסֵּק — לֹא יָצָא. אֲבָל הַשּׁוֹמֵעַ מִן הַמַּשְׁמִיעַ לְעַצְמוֹ, מַאי? יָצָא. לֵימָא תֶּיהְוֵי תְּיוּבְתֵּיהּ דְּרַבִּי זֵירָא, דְּאָמַר לֵיהּ רַבִּי זֵירָא לְשַׁמָּעֵיהּ: אִיכַּוַּון וּתְקַע לִי!
+*Translation:* § The mishna continues. **And one who hears** the *shofar* blasts **from one who acts unawares has not fulfilled** his obligation. The Gemara asks: **However, one who hears** the *shofar* blasts **from one who is sounding** the *shofar* **for himself,** without intention of sounding it for others, **what is** the *halakha*? The mishna apparently indicates that **he has fulfilled** his obligation. **Let us say that this is a conclusive refutation of** the opinion of **Rabbi Zeira, as Rabbi Zeira said to his attendant: Have the intention** to sound the *shofar* on my behalf **and sound** it **for me.** This statement indicates that one must have the intention to enable the one who hears it to fulfill his obligation.
+
+**4.**
+*Hebrew/Aramaic:* דִּלְמָא אַיְּידֵי דִּתְנָא רֵישָׁא מִתְעַסֵּק, תְּנָא סֵיפָא נָמֵי מִתְעַסֵּק.
+*Translation:* The Gemara rejects this argument. **Perhaps** one can explain that **since** the **first clause** of the mishna **taught** the *halakha* with regard to **one who acts unawares, the latter clause also taught** the *halakha* with regard to **one who acts unawares.** If so, no inference may be drawn from here to the case of one who sounds the *shofar* for himself, with no intention of doing so for others.
+
+**5.**
+*Hebrew/Aramaic:* מַתְנִי׳ סֵדֶר תְּקִיעוֹת: שָׁלֹשׁ שֶׁל שָׁלֹשׁ שָׁלֹשׁ. שִׁיעוּר תְּקִיעָה כְּשָׁלֹשׁ תְּרוּעוֹת, שִׁיעוּר תְּרוּעָה כְּשָׁלֹשׁ יְבָבוֹת. תָּקַע בָּרִאשׁוֹנָה וּמָשַׁךְ בַּשְּׁנִיָּה כִּשְׁתַּיִם — אֵין בְּיָדוֹ אֶלָּא אַחַת.
+*Translation:* MISHNA: **The order of the blasts** is **three** sets **of three** blasts **each,** which are: *Tekia*, *terua*, and *tekia*. **The length of a *tekia*** is **equal to** the length of **three *teruot*,** and **the length of a *terua*** is **equal to** the length of **three whimpers.** If **one sounded the first** *tekia* of the initial series of *tekia*, *terua*, *tekia*, **and** then **extended the second** *tekia* of that series **to** the length of **two** *tekiot*, so that it should count as both the second *tekia* of the first set and the first *tekia* of the second set, **he has in his hand** the fulfillment of **only one** *tekia*, and he must begin the second set with a new *tekia*.
+
+**6.**
+*Hebrew/Aramaic:* מִי שֶׁבֵּירַךְ וְאַחַר כָּךְ נִתְמַנָּה לוֹ שׁוֹפָר — תּוֹקֵעַ וּמֵרִיעַ וְתוֹקֵעַ שָׁלֹשׁ פְּעָמִים.
+*Translation:* With regard to **one who recited the blessings** of the additional prayer, **and** only **afterward a *shofar* became available to him, he sounds** a *tekia*, **sounds** a *terua*, **and sounds** a *tekia*, an order he repeats **three times.**
+
+**7.**
+*Hebrew/Aramaic:* כְּשֵׁם שֶׁשְּׁלִיחַ צִבּוּר חַיָּיב, כָּךְ כׇּל יָחִיד וְיָחִיד חַיָּיב. רַבָּן גַּמְלִיאֵל אוֹמֵר: שְׁלִיחַ צִבּוּר מוֹצִיא אֶת הָרַבִּים יְדֵי חוֹבָתָן.
+*Translation:* **Just as the prayer leader is obligated** in the prayer of Rosh HaShana, **so too, each and every individual is obligated** in these prayers. **Rabban Gamliel** disagrees and **says:** Individuals are not obligated, as **the prayer leader fulfills the obligation on behalf of the many.**
+
+**8.**
+*Hebrew/Aramaic:* גְּמָ׳ וְהָתַנְיָא: שִׁיעוּר תְּקִיעָה כִּתְרוּעָה! אָמַר אַבָּיֵי: תַּנָּא דִּידַן קָא חָשֵׁיב תְּקִיעָה דְּכוּלְּהוּ בָּבֵי וּתְרוּעוֹת דְּכוּלְּהוּ בָּבֵי. תַּנָּא בָּרָא קָא חָשֵׁיב חַד בָּבָא וְתוּ לָא.
+*Translation:* GEMARA: The Gemara raises a difficulty. Although the mishna taught that the length of a *tekia* is equal to the length of three *teruot*, **isn’t it taught** in a *baraita* that **the length of a** single ***tekia* is equal to** the length of an entire ***terua*,** which is comprised of several shorter sounds? **Abaye said:** There is no difficulty. **The *tanna*** of **our** mishna **counts the *tekia* of all the sets** of blasts **and the *teruot* of all the sets.** He means that the length of the three *tekiot* is equal to the length of the three *teruot*. Conversely, **the *tanna*** of **the *baraita* counts** the first *tekia* of only **one set, and no more,** and therefore he simply states that the length of one *tekia* is equal to the length of one *terua*.
+
+**9.**
+*Hebrew/Aramaic:* שִׁיעוּר תְּרוּעָה כִּשְׁלֹשׁ יְבָבוֹת. וְהָתַנְיָא: שִׁיעוּר תְּרוּעָה כִּשְׁלֹשָׁה שְׁבָרִים!
+*Translation:* § The mishna continues. **The length of a *terua*** is **equal to** the length of **three whimpers.** The Gemara asks: **Isn’t it taught** in a *baraita* that **the length of a *terua*** is equal **to** the length of **three *shevarim*,** i.e., broken blasts, which presumably are longer than whimpers?
+
+**10.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: בְּהָא וַדַּאי פְּלִיגִי, דִּכְתִיב: ״יוֹם תְּרוּעָה יִהְיֶה לָכֶם״, וּמְתַרְגְּמִינַן: ״יוֹם יַבָּבָא יְהֵא לְכוֹן״. וּכְתִיב בְּאִימֵּיהּ דְּסִיסְרָא: ״בְּעַד הַחַלּוֹן נִשְׁקְפָה וַתְּיַבֵּב אֵם סִיסְרָא״. מָר סָבַר גַּנּוֹחֵי גַּנַּח. וּמָר סָבַר יַלּוֹלֵי יַלֵּיל.
+*Translation:* **Abaye said: In this** matter, the *tanna’im* **certainly disagree.** Although the first *baraita* can be reconciled with the mishna, this second *baraita* clearly reflects a dispute. **As it is written: “It is a day of sounding [*terua*]** the *shofar* **to you”** (Numbers 29:1), **and we translate** this verse in Aramaic as: **It is a day of *yevava* to you. And** to define a *yevava*, the Gemara quotes a verse that **is written about the mother of Sisera: “Through the window she looked forth and wailed [*vateyabev*], the mother of Sisera”** (Judges 5:28). One **Sage,** the *tanna* of the *baraita*, **holds** that this means **moanings,** broken sighs, as in the blasts called *shevarim*. **And** one **Sage,** the *tanna* of the mishna, **holds** that it means **whimpers,** as in the short blasts called *teruot*.
+
+**11.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: מִנַּיִן שֶׁבְּשׁוֹפָר? תַּלְמוּד לוֹמַר: ״וְהַעֲבַרְתָּ שׁוֹפַר תְּרוּעָה״.
+*Translation:* § **The Sages taught** in a *baraita*: **From where** is it derived **that** the soundings of Rosh HaShana must be performed **with a *shofar*? The verse states: “Then you shall make proclamation with the blast of the *shofar*** on the tenth day of the seventh month; on the Day of Atonement you shall make proclamation with the *shofar* throughout all your land” (Leviticus 25:9).
+
+**12.**
+*Hebrew/Aramaic:* אֵין לִי אֶלָּא בַּיּוֹבֵל, בְּרֹאשׁ הַשָּׁנָה מִנַּיִן? תַּלְמוּד לוֹמַר: ״בַּחֹדֶשׁ הַשְּׁבִיעִי״, שֶׁאֵין תַּלְמוּד לוֹמַר ״בַּחֹדֶשׁ הַשְּׁבִיעִי״, וּמָה תַּלְמוּד לוֹמַר ״בַּחֹדֶשׁ הַשְּׁבִיעִי״ — שֶׁיִּהְיוּ כׇּל תְּרוּעוֹת שֶׁל חֹדֶשׁ שְׁבִיעִי זֶה כָּזֶה.
+*Translation:* From this **I have** derived the *halakha* **only** with regard to Yom Kippur **of the Jubilee Year. From where** do I derive that the soundings of **Rosh HaShana** must also be with a *shofar*? **The verse states: “Of the seventh month.” Since** there is **no** need for **the verse to state: “Of the seventh month,”** as it already states: “On the Day of Atonement,” **what** is the meaning when **the verse states: “Of the seventh month”?** This comes to teach **that all** the obligatory **soundings of the seventh month must be similar to one another.**
+
+**13.**
+*Hebrew/Aramaic:* וּמִנַּיִן שֶׁפְּשׁוּטָה לְפָנֶיהָ — תַּלְמוּד לוֹמַר: ״וְהַעֲבַרְתָּ שׁוֹפַר תְּרוּעָה״. וּמִנַּיִן שֶׁפְּשׁוּטָה לְאַחֲרֶיהָ — תַּלְמוּד לוֹמַר: ״תַּעֲבִירוּ שׁוֹפָר״.
+*Translation:* This verse states: “The blast [*terua*] of the *shofar*,” indicating that one must sound a *terua*. The Gemara asks: **And from where** is it derived **that** the *terua* sound **is preceded by a straight blast,** i.e., a *tekia*? **The verse states: “Then you shall make proclamation with the blast of the *shofar* [*shofar terua*]”** (Leviticus 25:9), indicating that the *terua* must be preceded by the basic sound of a *shofar*, i.e., by the straight blast of a *tekia*. **And from where** is it derived **that** the *terua* sound **is followed by a straight blast? The** same **verse states** again: **“You shall make proclamation with the *shofar*,”** which indicates that there must be another *tekia* after the *terua*.
+
+**14.**
+*Hebrew/Aramaic:* וְאֵין לִי אֶלָּא בַּיּוֹבֵל, בְּרֹאשׁ הַשָּׁנָה מִנַּיִן? תַּלְמוּד לוֹמַר: ״בַּחֹדֶשׁ הַשְּׁבִיעִי״.
+*Translation:* The *baraita* continues. From this **I have** derived the *halakha* **only** that these *tekia* blasts before and after the *terua* must be sounded on Yom Kippur **of the Jubilee Year. From where** do I derive that they must be sounded **on Rosh HaShana** as well? **The verse states: “Of the seventh month.”**

@@ -59,3 +59,52 @@
 **15.**
 *Hebrew/Aramaic:* אָמְרִי: הָתָם נָמֵי אִיכָּא מְעִילָה מֵעִיקָּרָא,
 *Translation:* The Sages **say** in response: This is not a proof, as **there too,** in the case of blood **it is** subject to the *halakhot* of **misuse initially.**
+
+
+---
+
+### Meilah 12b
+
+**1.**
+*Hebrew/Aramaic:* דְּאָמַר רַב: הַמַּקִּיז דָּם לְבֶהֱמַת קָדָשִׁים, אָסוּר בַּהֲנָאָה, וּמוֹעֲלִין בּוֹ.
+*Translation:* **As Rav said:** In a case of **one who lets blood from** a live **sacrificial animal,** deriving **benefit** from that blood **is prohibited and** one is liable for **misusing it** by Torah law. Since there is a stage when there is a prohibition of misuse by Torah law, one can understand the *halakha* that one is liable by rabbinic law for misusing the blood ultimately, when it descended to the Kidron Valley. This is not comparable to doves whose time of fitness for sacrifice has not arrived, as they are initially not subject to misuse by Torah law.
+
+**2.**
+*Hebrew/Aramaic:* גּוּפָא. אָמַר רַב הוּנָא, אָמַר רַב: הַמַּקִּיז דָּם לְבֶהֱמַת קָדָשִׁים – אָסוּר בַּהֲנָאָה, וּמוֹעֲלִין בּוֹ. מֵתִיב רַב הַמְנוּנָא חֲלֵב הַמּוּקְדָּשִׁין, וּבֵיצֵי תוֹרִין – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין!
+*Translation:* § The Gemara analyzes **the** matter **itself. Rav Huna says** that **Rav says:** In a case of **one who lets blood from a sacrificial animal, deriving benefit** from that blood **is prohibited and** one is liable for **misusing it. Rav Hamnuna raises an objection** to the opinion of Rav from the mishna below: With regard to **the milk of** animals **consecrated** to be sacrificed **and the eggs of doves** consecrated to be sacrificed, one **may not derive benefit** from them *ab initio*, **but** if one derived benefit from them he is **not** liable for their **misuse,** despite the fact that one is liable for misuse of the animals and doves themselves. Apparently, the products of a consecrated item do not share its status with regard to the *halakha* of misuse. Why doesn’t this principle apply to blood as well?
+
+**3.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: כִּי קָאָמְרִינַן, לְגַבֵּי דָּם, דְּלֹא מִתְקַיֶּימֶת בְּלָא דָּם. אֲבָל חֵלֶב, דְּקָא מִקַּיְימָא בְּלֹא חֵלֶב – לָא.
+*Translation:* Rav **said to** Rav Hamnuna in response: **When we said** the products of a consecrated item are also subject to the *halakha* of misuse that was only **with regard to blood, as** the animal **cannot exist without blood** and therefore the blood is considered like the animal itself. **But** in the case of **milk, since** the animal can **exist without milk,** the milk is **not** considered like the animal itself.
+
+**4.**
+*Hebrew/Aramaic:* מֵתִיב רַב מְשַׁרְשְׁיָא: הַזֶּבֶל וְהַפֶּרֶשׁ שֶׁבֶּחָצֵר – אֵין נֶהֱנִין וְאֵין מוֹעֲלִין. וְיִפְּלוּ דָּמֶיהָ לַלִּשְׁכָּה.
+*Translation:* **Rav Mesharshiyya raises an objection** to this suggestion from a *baraita*: One **may not derive benefit** from **the** dried **manure and the** fresh **dung** of offerings of the most sacred order found **in the** Temple **courtyard** *ab initio*, **but** if one derived benefit from them he is **not** liable for **misusing** them; **and** the **money** received from **their** sale **will** be **allocated for the** treasury **chamber** of the Temple.
+
+**5.**
+*Hebrew/Aramaic:* אַמַּאי? הָכָא נָמֵי, לָא מְקַיֵּים בְּלֹא פֶּרֶשׁ! אָמְרִי: מַאי אִירְיָא, הָדֵין פֶּרֶשׁ דְּמִן עָלְמָא קָאָתֵי לַהּ, אָזֵיל הַאי – אָתֵי אַחֲרִינָא. לְאַפּוֹקֵי דָּם, מִגּוּפַהּ.
+*Translation:* In light of the suggested distinction between blood and milk, the Gemara asks: **Why** is the dung not subject to the *halakhot* of misuse? **Here too,** the animal **cannot exist without dung,** and therefore the dung should be subject to the *halakhot* of misuse like blood. The Sages **say** in response: **How** can you **compare** the two cases? In the case of **this dung that comes to** the animal **from an external** source, i.e., the food that it ate, **this** food **goes** out of the body in the form of dung and **that other** food **comes** into the body and takes its place. This description serves **to exclude blood, which is** part **of** the animal’s **body** and is not replaced from an external source.
+
+**6.**
+*Hebrew/Aramaic:* הָא קָתָנֵי לֹא נֶהֱנִין וְלֹא מוֹעֲלִין וְדָמָיו לַלִּשְׁכָּה. מְסַיְּיעָא לֵיהּ לְרַבִּי אֶלְעָזָר, דְּאָמַר רַבִּי אֶלְעָזָר: כׇּל מָקוֹם שֶׁאָמְרוּ חֲכָמִים קָדוֹשׁ וְאֵינוֹ קָדוֹשׁ – דָּמָיו יִפְּלוּ לַלִּשְׁכָּה.
+*Translation:* The Gemara notes: The *baraita* **teaches** that one **may not derive benefit** from the manure and dung *ab initio*, **but** if one derived benefit from them he is **not** liable for **misuse, and** the **money** received from **their** sale **will** be **allocated for the** treasury **chamber** of the Temple. This **supports** the opinion of **Rabbi Elazar, as Rabbi Elazar said: Wherever the Sages said** an item is **consecrated and not consecrated,** as in this case where one may not derive benefit but he is not liable for misuse either, the **money** received from **its** sale is **allocated for the** treasury **chamber** of the Temple.
+
+**7.**
+*Hebrew/Aramaic:* מַתְנִי׳ חֲלֵב הַמּוּקְדָּשִׁין וּבֵיצֵי תוֹרִין – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין.
+*Translation:* MISHNA: With regard to **the milk of sacrificial** animals **and the eggs of** sacrificial **doves,** one **may not derive benefit** from them *ab initio*, **but** if one derived benefit from them after the fact he is **not** liable for their **misuse.**
+
+**8.**
+*Hebrew/Aramaic:* בַּמֶּה דְּבָרִים אֲמוּרִים – בְּקׇדְשֵׁי מִזְבֵּחַ. אֲבָל בְּקׇדְשֵׁי בֶּדֶק הַבַּיִת, הִקְדִּישׁ תַּרְנְגוֹלֶת – מוֹעֲלִין בָּהּ וּבְבֵיצָתָהּ, חֲמוֹרָה – מוֹעֲלִין בָּהּ וּבַחֲלָבָהּ.
+*Translation:* **In what** case **is this statement,** that if one derived benefit from the eggs or milk of sacrificial animals, he is not liable for their misuse, **said?** It is stated **in** the case of **sacrificial** animals offered on the **altar,** as their eggs and milk are not brought to the altar and therefore they are considered distinct from the offerings themselves. **But** this is not the *halakha* **in** the case of animals that are not sacrificed and are **consecrated** only **for Temple maintenance.** For example, if one **consecrated a hen** he is liable for **misusing it and for** misusing **its egg;** if one consecrated **a donkey** he is liable for **misusing it and for** misusing **its milk,** as the animal and its milk, and likewise the hen and its eggs, are both consecrated for Temple maintenance and are deemed a single unit.
+
+**9.**
+*Hebrew/Aramaic:* גְּמָ׳ אֶלָּא גַּבֵּי מִזְבֵּחַ, כִּי אַקְדְּשַׁהּ קְדוּשַּׁת דָּמִים, לָא אִית בַּהּ מְעִילָה?
+*Translation:* GEMARA: The mishna teaches that if one derived benefit from the eggs or milk of consecrated animals sacrificed on the altar he is not liable for their misuse. The Gemara asks: **But** does that mean that in a case of an item that is suitable to be sacrificed **on the altar, if he consecrated it** with **a sanctity** that inheres in its **value,** i.e., to sell it and use the money to buy an offering rather than sacrifice the animal itself, then its eggs or milk are **not subject to** the *halakhot* of **misuse?** Since he does not intend to sacrifice the animal itself, why shouldn’t the prohibition of misuse apply to its milk or its eggs?
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַב פָּפָּא: חַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: בַּמֶּה דְּבָרִים אֲמוּרִים – כְּשֶׁהִקְדִּישׁ קְדוּשַּׁת הַגּוּף לְגַבֵּי מִזְבֵּחַ, אֲבָל הִקְדִּישׁוֹ קְדוּשַּׁת דָּמִים לְגַבֵּי מִזְבֵּחַ – נַעֲשָׂה כְּמִי שֶׁהִקְדִּישׁוֹ לְבֶדֶק הַבַּיִת. הִקְדִּישׁ תַּרְנְגוֹלֶת – מוֹעֲלִין בָּהּ וּבְבֵיצָתָהּ, חֲמוֹרָה – מוֹעֲלִין בָּהּ וּבַחֲלָבָהּ.
+*Translation:* **Rav Pappa said:** The wording of the mishna **is incomplete and this** is what **it is teaching: In what** case **is this statement,** that the milk and eggs of a consecrated animal sacrificed on the altar are not subject to misuse, **said?** It is said **when he consecrated** the animal with **inherent sanctity** to be sacrificed **on the altar. But** if **he consecrated it** with **a sanctity** that inheres in its **value,** i.e., to sell it and use the money to buy an offering to be sacrificed **on the altar,** then **it is** considered **as though he consecrated it for** the **Temple maintenance** and it is subject to misuse. Therefore, if **one consecrated a hen** to sell it and use the money to buy an offering he is liable for **misusing it and for** misusing **its egg;** if one consecrated **a donkey** he is liable for **misusing it and for** misusing **its milk.**
+
+**11.**
+*Hebrew/Aramaic:* מַתְנִי׳, כׇּל הָרָאוּי לַמִּזְבֵּחַ
+*Translation:* MISHNA: With regard to **any** consecrated item **that is fit for** sacrifice on **the altar**

@@ -63,3 +63,64 @@
 **16.**
 *Hebrew/Aramaic:* וְהָאִיכָּא הָא דְּאָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: עָבְרָה בַּנָּהָר
 *Translation:* The Gemara further asks: **But isn’t there that which Rabbi Yehoshua ben Levi said:** With regard to a pregnant woman who **passed across a river**
+
+
+---
+
+### Niddah 18b
+
+**1.**
+*Hebrew/Aramaic:* וְהִפִּילָה — מְבִיאָה קׇרְבָּן וְנֶאֱכָל.
+*Translation:* **and she miscarried** her fetus into the river, but she does not know whether or not the fetus was fully formed, **she brings** the **offering** of a woman after childbirth, i.e., a burnt offering and a sin offering. **And** the sin offering, which is a bird, **is eaten** after the nape of its neck has been severed, in the manner of a regular bird sin offering. This is the *halakha* despite the uncertainty, i.e., this fetus might not have been fully formed, in which case the woman is not obligated to bring this offering, and a bird that is not an offering may not be eaten if its nape was severed.
+
+**2.**
+*Hebrew/Aramaic:* הַלֵּךְ אַחַר רוֹב נָשִׁים, וְרוֹב נָשִׁים — וָלָד מְעַלְּיָא יָלְדָן.
+*Translation:* Rabbi Yehoshua ben Levi explains the reasoning behind this ruling: One must **follow the majority of** pregnant **women, and most** pregnant **women give birth to full-fledged offspring.** If so, this is another case involving an uncertainty where the Sages established the *halakha* as a certainty based on the majority. Furthermore, this case involves the ritual impurity of a woman. Why then did Rabbi Yoḥanan list only three cases of this kind?
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִיתִין קָאָמְרִינַן, שְׁמַעְתָּתָא לָא קָאָמְרִינַן.
+*Translation:* The Gemara answers: **We say** that only cases taught in **the Mishna** or a *baraita* are included in this list, whereas **we do not say** that those derived from an amoraic **halakhic statement,** e.g., the statement of Rabbi Yehoshua ben Levi, are included.
+
+**4.**
+*Hebrew/Aramaic:* וְהָא כִּי אֲתָא רָבִין, אָמַר: מֵתִיב רַבִּי יוֹסֵי בַּר רַבִּי חֲנִינָא טוֹעָה, וְלָא יָדַעְנָא מַאי תְּיוּבְתֵּיהּ.
+*Translation:* The Gemara raises a difficulty with regard to this explanation: **But when Ravin came** from Eretz Yisrael to Babylonia **he said** that **Rabbi Yosei bar Rabbi Ḥanina raises an objection** against the opinion of Rabbi Yehoshua ben Levi from a *baraita* that deals with **an unsure woman,** i.e., one who does not know when she gave birth. Ravin added: **And I do not know what his objection** was from that *baraita*.
+
+**5.**
+*Hebrew/Aramaic:* מַאי לָאו לָא תְּיוּבְתָּא, אֶלָּא סִיַּיעְתָּא?
+*Translation:* The Gemara discusses Ravin’s statement: **What, is it not** correct to say that Ravin meant that this *baraita* is **not a refutation** of the opinion of Rabbi Yehoshua ben Levi **but** actually provides **support** for that opinion? If so, that would mean that Rabbi Yehoshua ben Levi’s opinion is effectively taught in a *baraita* as well, and therefore according to the above consideration Rabbi Yoḥanan should have included it in his list.
+
+**6.**
+*Hebrew/Aramaic:* לָא, דִּלְמָא לָא תְּיוּבְתָּא וְלֹא סִיַּיעְתָּא.
+*Translation:* The Gemara answers: This is **not** necessarily the correct inference, as **perhaps** Ravin meant simply that the ruling of this *baraita* is **neither a refutation nor a support** for the opinion of Rabbi Yehoshua ben Levi.
+
+**7.**
+*Hebrew/Aramaic:* לְמַעוֹטֵי מַאי?
+*Translation:* § When Rabbi Yoḥanan says that in three places where there is uncertainty the Sages followed the majority and established the *halakha* as though it involved a certainty, he is clearly indicating that some cases are excluded from this category. The Gemara asks: Rabbi Yoḥanan says this **to exclude what?**
+
+**8.**
+*Hebrew/Aramaic:* אִילֵּימָא לְמַעוֹטֵי רוּבָּא, דְּאִיכָּא חֲזָקָה בַּהֲדֵיהּ, דְּלָא שָׂרְפִינַן עֲלֵיהּ אֶת הַתְּרוּמָה — וְהָא אַמְרַהּ רַבִּי יוֹחָנָן חֲדָא זִימְנָא!
+*Translation:* **If we say** that he says this **to exclude** an uncertain case where on the one hand there is **a majority that** indicates the woman should be deemed ritually impure and on the other hand **there is a presumptive status along with it** that opposes that majority, **which** is why the uncertainty is not treated as a certainty, and therefore **one does not burn *teruma* due to** contact with that impurity, this cannot be the case. The reason is that Rabbi Yoḥanan already **said it** on **another occasion,** with regard to other cases of ritual impurity, that if the consideration of a majority indicates that an item should be impure while its presumptive status indicates that it should be pure, it is not considered definitely impure.
+
+**9.**
+*Hebrew/Aramaic:* דִּתְנַן: תִּינוֹק הַנִּמְצָא בְּצַד הָעִיסָּה, וּבָצֵק בְּיָדוֹ — רַבִּי מֵאִיר מְטַהֵר, וַחֲכָמִים מְטַמְּאִין, שֶׁדַּרְכּוֹ שֶׁל תִּינוֹק לְטַפֵּחַ.
+*Translation:* The Gemara cites the source for Rabbi Yoḥanan’s opinion in this regard. **As we learned** in a mishna (*Teharot* 3:8): If a ritually impure **child is found alongside** ritually pure **started dough** that has not yet risen, **and** he has **risen dough in his hand** that may have been removed from the larger portion of started dough, **Rabbi Meir deems** the started dough **pure,** since there is no proof the child touched it, as he might have been given the piece by someone else. **And the Rabbis deem it impure,** as they assume that he touched the started dough. The child is presumed to be impure, **because it is the norm of a child to handle** items.
+
+**10.**
+*Hebrew/Aramaic:* וְאָמְרִינַן: מַאי טַעְמָא דְּרַבִּי מֵאִיר? קָסָבַר: רוֹב תִּינוֹקוֹת מְטַפְּחִין, וּמִיעוּט אֵין מְטַפְּחִין, וְעִיסָּה זוֹ בְּחֶזְקַת טְהוֹרָה עוֹמֶדֶת, סְמוֹךְ מִיעוּטָא לַחֲזָקָה, וְאִיתְּרַע לֵיהּ רוּבָּא.
+*Translation:* **And we say** with regard to this dispute: **What is the reason** for the opinion **of Rabbi Meir? He holds** that **a majority of children handle** items that are within reach, in this case the dough, **and a minority do not handle** items within reach, **and this dough retains a presumptive status of purity,** since its impurity has not been definitively determined. Therefore, one should **append** the fact that the **minority** of children do not handle items within reach **to the presumptive status** of purity of the dough, **and** the force of the **majority** of children who handle items within reach **is weakened.** Therefore, the dough is considered pure.
+
+**11.**
+*Hebrew/Aramaic:* וְרַבָּנַן מִיעוּטָא ״כְּמַאן דְּלֵיתֵיהּ דָּמֵי״, וְרוּבָּא וַחֲזָקָה — רוּבָּא עֲדִיף.
+*Translation:* **And the Rabbis** contend that in a case where the majority is followed, **the minority is considered like it does not exist. And** consequently, there is a conflict between the determining factors of **the majority** of impure children who handle items within reach **and the presumptive status** of purity of the dough. Therefore, **the majority takes precedence.**
+
+**12.**
+*Hebrew/Aramaic:* וְאָמַר רֵישׁ לָקִישׁ מִשּׁוּם רַבִּי אוֹשַׁעְיָא: זוֹ הִיא חֲזָקָה שֶׁשּׂוֹרְפִין עָלֶיהָ אֶת הַתְּרוּמָה, וְרַבִּי יוֹחָנָן אָמַר: אֵין זוֹ חֲזָקָה שֶׁשּׂוֹרְפִין עָלֶיהָ אֶת הַתְּרוּמָה!
+*Translation:* **And Reish Lakish says in the name of Rabbi Oshaya: This** *halakha* of a child **is** an example of **a presumption,** that children handle items within reach, **over which *teruma* is burned,** as the Rabbis hold that it is sufficiently certain that the dough has become impure to allow it to be burned. **And Rabbi Yoḥanan says: This is not a presumption over which *teruma* is burned.** Rather, the dough is left aside, and can be neither eaten nor burned, due to the uncertainty whether it is impure. In this context, Rabbi Yoḥanan has already stated that when a majority is contradicted by a presumption, the status of uncertainty applies. Therefore, there was no need for him to specify the three cases he mentioned in order to exclude situations of this kind.
+
+**13.**
+*Hebrew/Aramaic:* אֶלָּא לְמַעוֹטֵי רוּבָּא דְּרַבִּי יְהוּדָה, דִּתְנַן: הַמַּפֶּלֶת חֲתִיכָה — אִם יֵשׁ עִמָּהּ דָּם טְמֵאָה, וְאִם לָאו — טְהוֹרָה. רַבִּי יְהוּדָה אוֹמֵר: בֵּין כָּךְ וּבֵין כָּךְ טְמֵאָה.
+*Translation:* **Rather,** Rabbi Yoḥanan’s statement that there are only three cases in which uncertainty is treated as certainty is meant **to exclude** a specific situation involving **a majority, as** discussed by **Rabbi Yehuda. As we learned** in a mishna (21a): In the case of a woman **who miscarries** an amorphous **piece** of flesh, **if there is blood** that emerges **with it,** the woman **is ritually impure** with the impurity of a menstruating woman. **And if not, she is pure,** as she is neither a menstruating woman nor a woman after childbirth. **Rabbi Yehuda says:** In **both this** case, where blood emerged, **and that** case, where no blood emerged, the woman **is impure** with the impurity of a menstruating woman, as there was certainly undetected blood that emerged with the flesh.
+
+**14.**
+*Hebrew/Aramaic:* וְאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: לֹא טִימֵּא רַבִּי יְהוּדָה אֶלָּא בַּחֲתִיכָה שֶׁל אַרְבַּע מִינֵי דָמִים, אֲבָל שְׁאָר מִינֵי דָמִים — טְהוֹרָה. וְרַבִּי יוֹחָנָן אָמַר: שֶׁל אַרְבַּע מִינֵי דָמִים — דִּבְרֵי הַכֹּל טְמֵאָה, וְשֶׁל שְׁאָר דָמִים — דִּבְרֵי הַכֹּל טְהוֹרָה. לֹא נֶחְלְקוּ אֶלָּא כְּשֶׁהִפִּילָה
+*Translation:* **And Rav Yehuda says** that **Shmuel says: Rabbi Yehuda deemed** the woman **impure,** despite the fact that no blood emerged, **only in** the case of **a piece** of flesh that has the color **of** one of the **four types of** ritually impure **blood,** as stated in the mishna below (19a). **But** if it has the color **of other types of blood,** the woman is **pure. And Rabbi Yoḥanan says:** If a woman miscarries a piece of flesh that has the color **of** one of the **four types of** ritually impure **blood, all,** i.e., Rabbi Yehuda and the Rabbis, **agree** that she **is impure. And** likewise, if the piece has the color **of other types of blood, all agree** that **she is pure.** The Rabbis and Rabbi Yehuda **disagree only** with regard to a case **where** the woman **miscarried** an amorphous piece of flesh,

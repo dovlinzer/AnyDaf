@@ -67,3 +67,48 @@
 **17.**
 *Hebrew/Aramaic:* לָא שָׁבֵיק לְהוּ גָּנְיָאן גַּבֵּי הֲדָדֵי, לֵימָא מְסַיַּיע לֵיהּ לְרַב הוּנָא. דְּאָמַר רַב הוּנָא: נָשִׁים הַמְסוֹלְלוֹת זוֹ בָּזוֹ
 *Translation:* **He did not allow them to lie next to one another. Let us say that this supports** the opinion of **Rav Huna, as Rav Huna said: Women who rub against one another** motivated by sexual desire
+
+
+---
+
+### Shabbat 65b
+
+**1.**
+*Hebrew/Aramaic:* פְּסוּלוֹת לַכְּהוּנָּה.
+*Translation:* **are disqualified from** marrying into **the priesthood.** The act renders a woman a *zona.* It is prohibited for a priest to marry her (*Tosafot*).
+
+**2.**
+*Hebrew/Aramaic:* לָא — סָבַר כִּי הֵיכִי דְּלָא לֵילְפָן גּוּפָא נוּכְרָאָה.
+*Translation:* The Gemara rejects this: **No,** that is not necessarily so. Perhaps the reason for Shmuel’s father’s insistence was because **he thought** to prevent them from lying next to one another **so that they** would **not become accustomed to** sleeping with **a foreign body,** which could stimulate sexual desire.
+
+**3.**
+*Hebrew/Aramaic:* וְעָבֵיד לְהוּ מִקְוֶה בְּיוֹמֵי נִיסָן, מְסַיַּיע לֵיהּ לְרַב, דְּאָמַר רַב: מִטְרָא בְּמַעְרְבָא סָהֲדָא רַבָּה פְּרָת. סָבַר, שֶׁלֹּא יִרְבּוּ הַנּוֹטְפִין עַל הַזּוֹחֲלִין.
+*Translation:* **And he made a ritual bath for them in the days of Nisan. This supports** the opinion of **Rav, as Rav said:** When **rain** falls **in the West,** Eretz Yisrael, **the great witness** attesting to that fact **is the Euphrates,** as the water flow in the Euphrates increases after the rainy season. The rainfall in northern Babylonia, where the source of the Euphrates is located, is essentially parallel to the rainfall in Eretz Yisrael. The increased water flow of the Euphrates in the spring is the result of the rainfall in the winter. Shmuel’s father **held** that immersion in the Euphrates would not purify them. A river maintains its status as a river in terms of purification through immersion only if it is established **that the** rain water **that fell would not exceed the** naturally **flowing** spring water. In the *halakhot* of ritual baths, there are two manners of purification. The first is the immersion in a place where water is gathered, e.g., collected rainwater that does not flow and remains in place. The second is immersion in flowing waters in their natural state, e.g., a spring or a river. However, rainwater purifies only when it is collected; it does not purify when it is flowing.
+
+**4.**
+*Hebrew/Aramaic:* וּפְלִיגָא דִּשְׁמוּאֵל. דְּאָמַר שְׁמוּאֵל: נַהֲרָא מִכֵּיפֵיהּ מִיבָּרַךְ. וּפְלִיגָא דִּידֵיהּ אַדִּידֵיהּ, דְּאָמַר שְׁמוּאֵל: אֵין הַמַּיִם מְטַהֲרִין בְּזוֹחֲלִין אֶלָּא פְּרָת בְּיוֹמֵי תִשְׁרֵי בִּלְבַד.
+*Translation:* **And he disagrees with** his son **Shmuel, as Shmuel said: The river is blessed from its riverbed** (*ge’onim*); the additional water in the river is not from rainfall but rather from subterranean sources. **And** this statement of Shmuel **disagrees with** another ruling that he **himself** issued, as **Shmuel said: The water purifies when flowing only** in **the Euphrates during the days of Tishrei alone.** Since rain does not fall in the summer, only then is it clear that the water is in fact river water.
+
+**5.**
+*Hebrew/Aramaic:* פּוֹרֶפֶת עַל הָאֶבֶן כּוּ׳. וְהָאָמְרַתְּ רֵישָׁא ״פּוֹרֶפֶת״? אָמַר אַבָּיֵי: סֵיפָא אֲתָאן לְמַטְבֵּעַ.
+*Translation:* We learned in the mishna: A woman **may fasten** her cloak **on a stone,** and on a nut, and on a coin, as long as she does not fasten her cloak with them *ab initio* on Shabbat. The Gemara asks: **Didn’t you say in the first clause** of this *halakha* in the mishna that a woman **may fasten,** indicating that she is permitted to do so even *ab initio*? How do you explain the contradiction? **Abaye said:** In **the latter clause** of the mishna **we have arrived at** the case of **a coin,** one of the examples cited in the mishna. The *halakha* with regard to a coin is the exception. Because a coin is set-aside from use on Shabbat, one might conclude that it may not be used at all; nevertheless, it is only prohibited to fasten the cloak on the coin *ab initio* on Shabbat itself.
+
+**6.**
+*Hebrew/Aramaic:* בָּעֵי אַבָּיֵי: אִשָּׁה מַהוּ שֶׁתַּעֲרִים וְתִפְרוֹף עַל הָאֱגוֹז לְהוֹצִיא לִבְנָהּ קָטָן בְּשַׁבָּת?
+*Translation:* **Abaye raised a dilemma: What is** the *halakha* with regard to a case where **a woman employs artifice** to circumvent the *halakha* **and fastens** her garment **on a nut** in order **to take** the nut **out** in a permissible fashion **to her young child** in the public domain **on Shabbat?**
+
+**7.**
+*Hebrew/Aramaic:* תִּיבְּעֵי לְמַאן דְּאָמַר מַעֲרִימִין. תִּיבְּעֵי לְמַאן דְּאָמַר אֵין מַעֲרִימִין.
+*Translation:* The Gemara notes: This is a **dilemma according to the one who said that one may employ artifice** when there is a fire on Shabbat. One is permitted to wear several layers of garments to take them out of a burning house on Shabbat. And this is a **dilemma according to the one who said that one may not employ artifice** when there is a fire on Shabbat.
+
+**8.**
+*Hebrew/Aramaic:* תִּיבְּעֵי לְמַאן דְּאָמַר מַעֲרִימִין בִּדְלֵיקָה: הָתָם הוּא דְּאִי לָא שָׁרֵית לֵיהּ אָתֵי לְכַבּוֹיֵי, אֲבָל הָכָא אִי לָא שָׁרֵית לֵיהּ לָא אָתֵי לְאַפּוֹקֵי.
+*Translation:* The Gemara elaborates: This is a **dilemma according to the one who said that one may employ artifice** when there is **a fire** on Shabbat, as the cases are distinct. Perhaps **there,** artifice **is** permitted **because if you do not permit** him to take the garments out of the burning house in that manner, **he will come to extinguish** the fire. **However, here, if you do not permit** the woman to employ artifice and take the nut out to her child in the public domain, **she will not come to take it out.**
+
+**9.**
+*Hebrew/Aramaic:* אוֹ דִלְמָא, אֲפִילּוּ לְמַאן דְּאָמַר אֵין מַעֲרִימִין בִּדְלֵיקָה, הָתָם — דֶּרֶךְ הוֹצָאָה בְּכָךְ, אֲבָל הָכָא — אֵין דֶּרֶךְ הוֹצָאָה בְּכָךְ, אֵימָא שַׁפִּיר דָּמֵי. תֵּיקוּ.
+*Translation:* **Or perhaps, even according to one who said that one may not employ artifice in** the case of **a fire,** there is a distinction between the cases. **There,** in the case of a fire, wearing garments **is the typical manner** in which one takes clothing out to the public domain. **However, here,** utilizing a nut as a button **is not the typical manner** in which one takes a nut out to the public domain. Since no Torah prohibition is violated by doing so, **say** that she may **well** employ artifice to take the nut out to her son. The Gemara concludes: **Let** this dilemma **stand** unresolved.
+
+**10.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַקִּיטֵּעַ יוֹצֵא בְּקַב שֶׁלּוֹ — דִּבְרֵי רַבִּי מֵאִיר,
+*Translation:* MISHNA: **One with an amputated leg may go out** on Shabbat **with his wooden leg,** as it has the legal status of a shoe; this is **the statement of Rabbi Meir.**

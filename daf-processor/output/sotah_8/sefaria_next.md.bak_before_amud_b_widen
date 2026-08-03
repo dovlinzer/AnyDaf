@@ -1,0 +1,61 @@
+### Sotah 9a
+
+**1.**
+*Hebrew/Aramaic:* פָּנֶיהָ מוֹרִיקוֹת. הִיא כָּחֲלָה לוֹ עֵינֶיהָ — לְפִיכָךְ עֵינֶיהָ בּוֹלְטוֹת. הִיא קָלְעָה לוֹ אֶת שְׂעָרָהּ — לְפִיכָךְ כֹּהֵן סוֹתֵר אֶת שְׂעָרָהּ. הִיא הֶרְאֲתָה לוֹ בְּאֶצְבַּע — לְפִיכָךְ צִיפּוֹרְנֶיהָ נוֹשְׁרוֹת. הִיא חָגְרָה לוֹ בְּצִילְצוֹל — לְפִיכָךְ כֹּהֵן מֵבִיא חֶבֶל הַמִּצְרִי וְקוֹשֵׁר לָהּ לְמַעְלָה מִדַּדֶּיהָ. הִיא פָּשְׁטָה לוֹ אֶת יְרֵיכָהּ — לְפִיכָךְ יְרֵיכָהּ נוֹפֶלֶת.
+*Translation:* **her face becomes sallow** after drinking the bitter water; **she painted her eyes for** her paramour, **therefore her eyes bulge** after she drinks; **she braided her hair for** her paramour, **therefore a priest unbraids her hair** and makes it disheveled; **she indicated to** her paramour **with a finger** that he should come to her, **therefore her fingernails fall off; she girded herself for** her paramour **with a ribbon** as a belt, **therefore a priest brings an Egyptian rope and ties** it **for her above her breasts; she extended her thigh for** her paramour, **therefore her thigh falls away** after drinking.
+
+**2.**
+*Hebrew/Aramaic:* הִיא קִיבְּלַתּוּ עַל כְּרֵיסָהּ — לְפִיכָךְ בִּטְנָהּ צָבָה. הִיא הֶאֱכִילַתּוּ מַעֲדַנֵּי עוֹלָם — לְפִיכָךְ קׇרְבָּנָהּ מַאֲכַל בְּהֵמָה. הִיא הִשְׁקַתְהוּ יַיִן מְשׁוּבָּח בְּכוֹסוֹת מְשׁוּבָּחִים — לְפִיכָךְ כֹּהֵן מַשְׁקֶה מַיִם הַמָּרִים בִּמְקִידָּה שֶׁל חֶרֶשׂ.
+*Translation:* **She received** her paramour **upon her stomach, therefore her stomach swells; she fed him delicacies of the world, therefore her offering** is **animal food,** as it is from oats; **she gave him fine wine to drink in fine cups, therefore a priest gives her bitter water in an earthenware *mekeida*,** a simple clay vessel, **to drink.**
+
+**3.**
+*Hebrew/Aramaic:* הִיא עָשְׂתָה בַּסֵּתֶר — ״יוֹשֵׁב בְּסֵתֶר עֶלְיוֹן״ שָׂם בָּהּ פָּנִים, שֶׁנֶּאֱמַר: ״וְעֵין נֹאֵף שָׁמְרָה נֶשֶׁף לֵאמֹר לֹא תְשׁוּרֵנִי עָיִן וְגוֹ׳״.
+*Translation:* **She acted in secret;** therefore, God, referred to in the verse **“Who dwell in secret, with the Most High”** (Psalms 91:1), **turns** His **face to her, as it is stated: “The eye of the adulterer waits for the twilight, saying: No eye shall see me;** and the Hidden Face will turn” (Job 24:15). The adulterer acts in the twilight of the night to act in secrecy, and therefore God, Who is concealed, arranges that the matter is revealed in public.
+
+**4.**
+*Hebrew/Aramaic:* דָּבָר אַחֵר: הִיא עָשְׂתָה בַּסֵּתֶר — הַמָּקוֹם פִּירְסְמָה בַּגָּלוּי, שֶׁנֶּאֱמַר: ״תִּכַּסֶּה שִׂנְאָה בְּמַשָּׁאוֹן תִּגָּלֶה רָעָתוֹ בְקָהָל (וְגוֹ׳)״.
+*Translation:* **Alternatively, she acted in secret,** and therefore **the Omnipresent revealed it in the open, as it is stated: “Though his hatred be concealed with deceit, his wickedness shall be revealed before the congregation”** (Proverbs 26:26), i.e., concealed acts of sin are ultimately revealed in public.
+
+**5.**
+*Hebrew/Aramaic:* וּמֵאַחַר דְּנָפְקָא לֵיהּ מֵ״אַחַת לְאַחַת לִמְצֹא חֶשְׁבּוֹן״, ״כִּי כׇל סְאוֹן סֹאֵן בְּרַעַשׁ״ לְמָה לִי? לְכַמִּדָּה.
+*Translation:* § The Gemara questions the need for two verses to indicate that small transgressions are addressed through one significant punishment. **And since Rabbi** Yehuda HaNasi **derives** that small transgressions are combined and punished together **from:** “Behold, this have I found, says Koheleth, **adding one thing to another, to find out the account”** (Ecclesiastes 7:27), **why do I** need the verse: **“For every boot stamped with fierceness”** (Isaiah 9:4)? The Gemara answers: This verse serves **to** teach that even small transgressions are punished **by the measure,** i.e., with a punishment appropriate to the transgression.
+
+**6.**
+*Hebrew/Aramaic:* וּמֵאַחַר דְּנָפְקָא לֵיהּ מִ״כִּי כׇל סְאוֹן סֹאֵן בְּרַעַשׁ״, ״בְּסַאסְּאָה בְּשַׁלְּחָהּ תְּרִיבֶנָּה״ לְמָה לִי?
+*Translation:* The Gemara asks: **And since he derives it from “for every boot stamped with fierceness,” why do I** need **“in full measure, when you send her away, you contend with her”** (Isaiah 27:8)?
+
+**7.**
+*Hebrew/Aramaic:* לְכִדְרַב חִינָּנָא בַּר פָּפָּא. דְּאָמַר רַב חִינָּנָא בַּר פָּפָּא: אֵין הַקָּדוֹשׁ בָּרוּךְ הוּא נִפְרָע מִן הָאוּמָּה עַד שְׁעַת שִׁילּוּחָהּ, שֶׁנֶּאֱמַר: ״בְּסַאסְּאָה בְּשַׁלְּחָהּ וְגוֹ׳״.
+*Translation:* The Gemara answers: This verse serves **to** teach the statement **as** taught **by Rav Ḥinnana bar Pappa, for Rav Ḥinnana bar Pappa says: The Holy One, Blessed be He, does not punish a nation** deserving of punishment **until its time to be banished,** i.e., until the time of its final eradication from the world, **as it is stated: “In full measure, when you send her away,** you contend with her” (Isaiah 27:8).
+
+**8.**
+*Hebrew/Aramaic:* אִינִי? וְהָאָמַר רָבָא: שָׁלֹשׁ(ה) כּוֹסוֹת הָאֲמוּרוֹת בְּמִצְרַיִם, לָמָּה? אַחַת שֶׁשָּׁתָת בִּימֵי מֹשֶׁה, וְאַחַת שֶׁשָּׁתָת בִּימֵי פַּרְעֹה נְכֹה, וְאַחַת שֶׁעֲתִידָה לִשְׁתּוֹת עִם חַבְרוֹתֶיהָ!
+*Translation:* **Is that so? But didn’t Rava say: Why** are there specifically **three cups** of misfortune **that are stated with regard to Egypt** in the dream of its chief butler (see Genesis 40:11–13)? They are an allusion to three cups of misfortune that would later befall Egypt: **One that it drank in the days of Moses** during the ten plagues and the Exodus; **one that it drank in the days of Pharaoh Neco,** the king of Egypt who was defeated by Nebuchadnezzar; **and one that it will drink in the future with its companions,** i.e., the other nations, when they are punished during the days of the Messiah. This indicates that nations can be punished several times, not only when they are eradicated.
+
+**9.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא הָנָךְ אֲזַדוּ וְהָנֵי אַחֲרִינֵי נִינְהוּ — וְהָתַנְיָא, אָמַר רַבִּי יְהוּדָה: מִנְיָמִין גֵּר הַמִּצְרִי הָיָה לִי חָבֵר מִתַּלְמִידֵי רַבִּי עֲקִיבָא. אָמַר מִנְיָמִין גֵּר הַמִּצְרִי: אֲנִי מִצְרִי רִאשׁוֹן, וְנָשָׂאתִי מִצְרִית רִאשׁוֹנָה, אַשִּׂיא לִבְנֵי מִצְרִית שְׁנִיָּה כְּדֵי שֶׁיְּהֵא בֶּן בְּנִי מוּתָּר לָבֹא בַּקָּהָל!
+*Translation:* **And if you would say** that **those** ancient Egyptians, **have gone, and these** later Egyptians **are different ones, but isn’t it taught** in a *baraita* in the *Tosefta* (*Kiddushin* 4:3): **Rabbi Yehuda said: Minyamin, an Egyptian convert, was a friend of mine from among the students of Rabbi Akiva,** and **Minyamin the Egyptian convert said:** After I converted **I** was **a first-**generation **Egyptian** convert, **and** so **I married** another **first-**generation **Egyptian** convert. **I will marry off my son,** who is **a second-**generation Egyptian convert, **to** another **second-**generation **Egyptian** convert, **in order that my son’s son will be permitted to enter into the congregation.** The Torah prohibits Egyptian converts before the third generation to enter into the congregation (see Deuteronomy 23:8–9). By Minyamin’s observance of this prohibition even during the time of Rabbi Akiva, it indicates that Egypt during the tannaitic period was still viewed as biblical Egypt.
+
+**10.**
+*Hebrew/Aramaic:* אֶלָּא אִי אִיתְּמַר הָכִי אִיתְּמַר: אָמַר רַב חִינָּנָא בַּר פָּפָּא: אֵין הַקָּדוֹשׁ בָּרוּךְ הוּא נִפְרָע מִן הַמֶּלֶךְ עַד שְׁעַת שִׁילּוּחוֹ, שֶׁנֶּאֱמַר: ״בְּסַאסְּאָה בְּשַׁלְּחָהּ תְּרִיבֶנָּה וְגוֹ׳״.
+*Translation:* **Rather, if** anything **was stated** with regard to the delay of punishment, it **was stated like this: Rav Ḥinnana bar Pappa says: The Holy One, Blessed be He, does not punish** a sinful **king until his time to be banished, as it is stated: “In full measure, when you send her away, you contend with her”** (Isaiah 27:8).
+
+**11.**
+*Hebrew/Aramaic:* אַמֵּימָר מַתְנֵי לְהָא דְּרַב חִינָּנָא בַּר פָּפָּא אַהָא, מַאי דִּכְתִיב: ״כִּי אֲנִי ה׳ לֹא שָׁנִיתִי וְאַתֶּם בְּנֵי יַעֲקֹב לֹא כְלִיתֶם״? ״אֲנִי ה׳ לֹא שָׁנִיתִי״ — לֹא הִכֵּיתִי לְאוּמָּהּ וְשָׁנִיתִי לָהּ. ״וְאַתֶּם בְּנֵי יַעֲקֹב לֹא כְלִיתֶם״ — הַיְינוּ דִּכְתִיב: ״חִצַּי אֲכַלֶּה בָּם״. חִצַּי כָּלִין, וְהֵן אֵינָן כָּלִין.
+*Translation:* **Ameimar teaches that** statement **of Rav Ḥinnana bar Pappa with regard to this: What is** the meaning of that **which is written: “For I the Lord change not; and you, sons of Jacob, are not consumed”** (Malachi 3:6)? **“For I the Lord change [*shaniti*] not”** is interpreted to mean: **I did not strike a nation and repeat [*shaniti*]** striking **it,** as a stricken nation never recovers from the initial strike. **“And you, sons of Jacob, are not consumed,”** is interpreted to mean: Despite the fact that I strike you many times for your sins, I do not let you perish. **This is** the same **as that which is written:** “I will heap evils upon them; **I will consume My arrows upon them”** (Deuteronomy 32:23), which is interpreted to mean: **My arrows are consumed** and used up, **and they,** the Jewish people, **are not consumed** but will continue to endure despite the many calamities that will befall them.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַב הַמְנוּנָא: אֵין הַקָּדוֹשׁ בָּרוּךְ הוּא נִפְרָע מִן הָאָדָם עַד שֶׁתִּתְמַלֵּא סְאָתוֹ, שֶׁנֶּאֱמַר: ״בִּמְלֹאות שִׂפְקוֹ יֵצֶר לוֹ וְגוֹ׳״.
+*Translation:* **Rav Hamnuna says: The Holy One, Blessed be He, does not punish a person until his *se’a*,** the measure that is suitable for him, **is filled, as it is stated: “In the fullness of his sufficiency he shall be in straits;** the hand of every one that is in misery shall come upon him” (Job 20:22). In other words, when the sufficient measure of sin has been reached, then the trouble will overtake him.
+
+**13.**
+*Hebrew/Aramaic:* דָּרֵשׁ רַב חִינָּנָא בַּר פָּפָּא, מַאי דִּכְתִיב: ״רַנְּנוּ צַדִּיקִים בַּה׳ לַיְשָׁרִים נָאוָה תְהִלָּה״? אַל תִּקְרֵי ״נָאוָה תְהִלָּה״, אֶלָּא ״נָוֶה תְהִלָּה״, זֶה מֹשֶׁה וְדָוִד, שֶׁלֹּא שָׁלְטוּ שׂוֹנְאֵיהֶם בְּמַעֲשֵׂיהֶם.
+*Translation:* Having mentioned Rav Ḥinnana bar Pappa, the Gemara quotes another of his interpretations. **Rav Ḥinnana bar Pappa interpreted** a verse **homiletically: What is** the meaning of that **which is written: “Rejoice in the Lord, you righteous, praise is comely for the upright [*nava tehilla*]”** (Psalms 33:1)? **Do not read** the conclusion of the verse as: **Praise is comely [*nava*]; rather,** read it as: **A house [*naveh*] of praise. This** is referring to **Moses and David, whose enemies did not rule over their achievements,** as they each built a *naveh*, a house for the Lord, and this house remained in existence.
+
+**14.**
+*Hebrew/Aramaic:* דָּוִד — דִּכְתִיב: ״טָבְעוּ בָאָרֶץ שְׁעָרֶיהָ״. מֹשֶׁה — דְּאָמַר מָר: מִשֶּׁנִּבְנָה מִקְדָּשׁ רִאשׁוֹן נִגְנַז אֹהֶל מוֹעֵד, קְרָשָׁיו קְרָסָיו וּבְרִיחָיו וְעַמּוּדָיו וַאֲדָנָיו. הֵיכָא? אָמַר רַב חִסְדָּא אָמַר אֲבִימִי: תַּחַת מְחִילּוֹת שֶׁל הֵיכָל.
+*Translation:* With regard to **David,** the citadel that housed his home and city, was not destroyed, **as it is written: “Her gates are sunk into the ground”** (Lamentations 2:9), as the gates of Jerusalem built by David were not destroyed by enemies, but sunk into the ground and were buried there. This is also so with regard to **Moses, as the Master said: When the first Temple was built, the Tent of Meeting was sequestered,** including **its boards, its clasps, and its bars, and its pillars, and its sockets.** The Gemara asks: **Where** is it sequestered? **Rav Ḥisda says** that **Avimi says: Beneath the tunnels of the Sanctuary.**
+
+**15.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: סוֹטָה נָתְנָה עֵינֶיהָ בְּמִי שֶׁאֵינוֹ רָאוּי לָהּ, מַה שֶּׁבִּיקְּשָׁה — לֹא נִיתַּן לָהּ, וּמַה שֶּׁבְּיָדָהּ — נְטָלוּהוּ מִמֶּנָּה. שֶׁכׇּל הַנּוֹתֵן עֵינָיו בְּמַה שֶּׁאֵינוֹ שֶׁלּוֹ — מַה שֶּׁמְבַקֵּשׁ אֵין נוֹתְנִין לוֹ, וּמַה שֶּׁבְּיָדוֹ — נוֹטְלִין הֵימֶנּוּ.
+*Translation:* § **The Sages taught** in a *baraita* in the *Tosefta* (4:16–19): The ***sota* placed her eyes,** fixed her gaze, **on one who is unfit for her,** i.e., another man, so this is her punishment: **That which she desired,** i.e., to be with her paramour, **is not given to her,** as she becomes forbidden to him forever. **And that which she had,** i.e., her husband, **was taken away from her,** as she is now forbidden to him as well. This teaches **that anyone who places his eyes on that which is not his is not given what he desires, and that which he had is taken from him.**

@@ -39,3 +39,56 @@
 **10.**
 *Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב יְהוּדָה:
 *Translation:* GEMARA: **Rav Yehuda said:**
+
+
+---
+
+### Beitzah 33b
+
+**1.**
+*Hebrew/Aramaic:* אוֹכְלֵי בְּהֵמָה — אֵין בָּהֶן מִשּׁוּם תִּקּוּן כְּלִי.
+*Translation:* **Animal fodder,** such as straw and reed branches, **does not have** any associated prohibition **due to the preparing of a vessel.** One may therefore trim it on Shabbat and use it as one wishes.
+
+**2.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רַב כָּהֲנָא לְרַב יְהוּדָה: מְטַלְטְלִין עֲצֵי בְּשָׂמִים לְהָרִיחַ בָּהֶן, וּלְהָנִיף בָּהֶן לַחוֹלֶה, וּמוֹלְלוֹ וּמֵרִיחַ בּוֹ. וְלֹא יִקְטְמֶנּוּ לְהָרִיחַ בּוֹ, וְאִם קְטָמוֹ — פָּטוּר אֲבָל אָסוּר. לַחְצוֹץ בּוֹ שִׁינָּיו — לָא יִקְטְמֶנּוּ, וְאִם קְטָמוֹ — חַיָּיב חַטָּאת!
+*Translation:* **Rav Kahana raised an objection to Rav Yehuda** from the following *baraita*: **One may handle** wood of **a spice tree** on Shabbat in order **to smell them and to wave them before a sick person** to fan him. **And he may crush it** between his fingers to release its fragrance, **and he may smell it.** However, **he may not cut it** from the branch in order to produce a moist spot on the branch that will emit a strong fragrance, so as **to smell it; and if he did cut it, he is exempt** from punishment according to Torah law, **but it is prohibited** to do so. If he intends **to clean his teeth with it, he may not cut it, and if he did cut it, he is liable** to bring **a sin-offering** for transgressing a prohibited labor on Shabbat. This indicates that although some wood of a spice tree was used as animal fodder, it is nevertheless prohibited to cut it. This appears to contradict Rav Yehuda.
+
+**3.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: הַשְׁתָּא פָּטוּר אֲבָל אָסוּר קָא קַשְׁיָא לִי, חַיָּיב חַטָּאת מִבַּעְיָא? אֶלָּא: כִּי תַּנְיָא הָהִיא בְּקָשִׁין. קָשִׁין בְּנֵי מְלִילָה נִינְהוּ?
+*Translation:* Rav Yehuda **said to** Rav Kahana: **Now,** even the statement **exempt but prohibited** poses **a difficulty to my** opinion, and it is not reasonable. **Is it required** to say the opposite, i.e., **liable** to bring **a sin-offering?** This teaching cannot be understood at face value; **rather,** it must be understood as follows: **When that** *baraita* **was taught,** it was referring to **hard** pieces of wood such as beams, with regard to which there is a concern that one might perform a prohibited labor. The Gemara questions this: And can **hard** branches **be crushed** by hand?
+
+**4.**
+*Hebrew/Aramaic:* חַסּוֹרֵי מְחַסְּרָא וְהָכִי קָתָנֵי: מוֹלְלוֹ וּמֵרִיחַ בּוֹ, קוֹטְמוֹ וּמֵרִיחַ בּוֹ. בַּמֶּה דְּבָרִים אֲמוּרִים — בְּרַכִּין, אֲבָל בְּקָשִׁין — לֹא יִקְטְמֶנּוּ, וְאִם קְטָמוֹ — פָּטוּר אֲבָל אָסוּר. לַחְצוֹץ בּוֹ שִׁינָּיו — לֹא יִקְטְמֶנּוּ, וְאִם קְטָמוֹ — חַיָּיב חַטָּאת.
+*Translation:* The Gemara replies: The *baraita* **is incomplete and is teaching the following:** With regard to wood of a spice tree, **one may crush it and smell it** and **cut it and smell it. In what** case **is this statement said? With regard to soft** pieces of wood, **but with regard to hard ones, one may not cut them. And if he did cut it he is exempt, but it is prohibited** to do so. If he intended **to clean his teeth with it, he may not cut it, and if he did cut it, he is liable** to bring **a sin-offering.**
+
+**5.**
+*Hebrew/Aramaic:* תָּנֵי חֲדָא: קוֹטְמוֹ וּמֵרִיחַ בּוֹ, תַּנְיָא אִידַּךְ: לֹא יִקְטְמֶנּוּ לְהָרִיחַ בּוֹ. אָמַר רַבִּי זֵירָא אָמַר רַב חִסְדָּא, לָא קַשְׁיָא: הָא — בְּרַכִּין, הָא — בְּקָשִׁין.
+*Translation:* Similarly, it **is taught** in **one** *baraita*: **One may cut it and smell it, and** it **is taught** in **another** *baraita*: **One may not cut it to smell it. Rabbi Zeira said** that **Rav Ḥisda said:** This **is not difficult.** In **this** case, when it is permitted, it is referring **to soft** wood. In **that** case, where the *baraita* prohibits it, it is referring **to hard** pieces of wood.
+
+**6.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב אַחָא בַּר יַעֲקֹב: בְּקָשִׁין אַמַּאי לָא? מַאי שְׁנָא מֵהָא דִּתְנַן: שׁוֹבֵר אָדָם אֶת הֶחָבִית לֶאֱכוֹל מִמֶּנָּה גְּרוֹגְרוֹת, וּבִלְבַד שֶׁלֹּא יִתְכַּוֵּין לַעֲשׂוֹת כְּלִי! וְעוֹד: הָא רָבָא בַּר רַב אַדָּא וְרָבִין בַּר רַב אַדָּא דְּאָמְרִי תַּרְוַיְיהוּ: כִּי הֲוֵינַן בֵּי רַב יְהוּדָה, הֲוָה מְפַשַּׁח וְיָהֵיב לַן אַלְוָתָא אַלְוָתָא, אַף עַל גַּב דְּחַזְיָא לְקַתָּתָא דְּנַרְגֵי וַחֲצִינֵי.
+*Translation:* With regard to the *halakha* itself, **Rav Aḥa bar Ya’akov strongly objects to this: With hard ones, why not?** In **what** way **is** this case **different from that which we learned** in a mishna: **A person may break a barrel** in order **to eat dried figs from it, provided that he does not** thereby **intend to make a vessel,** and he may use the barrel afterward. Breaking off wood in order to smell it is certainly not more of a prohibited labor than breaking a barrel. **And furthermore,** it is **Rava bar Rav Adda and Ravin bar Rav Adda, who both say: When we were at the house of Rav Yehuda, he would break and give us many sticks** of wood of a spice tree, although **they were** hard enough to be **fit for handles of axes and hatchets.**
+
+**7.**
+*Hebrew/Aramaic:* לָא קַשְׁיָא: הָא רַבִּי אֱלִיעֶזֶר, הָא רַבָּנַן. דְּתַנְיָא, רַבִּי אֱלִיעֶזֶר אוֹמֵר: נוֹטֵל אָדָם קֵיסָם מִשֶּׁלְּפָנָיו לַחְצוֹץ בּוֹ שִׁינָּיו, וַחֲכָמִים אוֹמְרִים: לֹא יִטּוֹל אֶלָּא מֵאֵבוּס שֶׁל בְּהֵמָה. וְשָׁוִין שֶׁלֹּא יִקְטְמֶנּוּ, וְאִם קְטָמוֹ לַחְצוֹץ בּוֹ שִׁינָּיו וְלִפְתּוֹחַ בּוֹ הַדֶּלֶת, בְּשׁוֹגֵג בְּשַׁבָּת — חַיָּיב חַטָּאת, בְּמֵזִיד בְּיוֹם טוֹב — סוֹפֵג אֶת הָאַרְבָּעִים, דִּבְרֵי רַבִּי אֱלִיעֶזֶר.
+*Translation:* The Gemara answers: This **is not difficult; this** case is in accordance with the opinion of **Rabbi Eliezer,** whereas **that** case follows **the Rabbis. As it is taught** in a *baraita*: **Rabbi Eliezer says:** On Shabbat or a Festival, **a person may take a sliver** of wood **from before him to clean his teeth with it, and the Rabbis say: One may take** a toothpick **only from an animal’s trough;** since it is fit for animal fodder, it is considered prepared for all purposes. **And they agree that he may not pluck it. And if he did pluck it to clean his teeth with it** or **to** use it as a key and **open a door with it,** if he did so **unwittingly on Shabbat, he is liable** to bring **a sin-offering.** If he did so **intentionally on a Festival, he receives the forty** lashes administered to one who desecrates the Festival by performing labor. These are **the words of Rabbi Eliezer.**
+
+**8.**
+*Hebrew/Aramaic:* וַחֲכָמִים אוֹמְרִים: אֶחָד זֶה וְאֶחָד זֶה, אֵינוֹ אֶלָּא מִשּׁוּם שְׁבוּת. רַבִּי אֱלִיעֶזֶר דְּקָאָמַר הָתָם חַיָּיב חַטָּאת — הָכָא פָּטוּר אֲבָל אָסוּר. רַבָּנַן דְּקָא אָמְרִי הָתָם פָּטוּר אֲבָל אָסוּר — הָכָא מוּתָּר לְכַתְּחִלָּה.
+*Translation:* **And the Rabbis say: Both this and this,** whether one did so on Shabbat or a Festival, even if he plucked it by hand to use it as a key, **it is** prohibited **only due to a rabbinic decree.** Therefore, **Rabbi Eliezer, who states there** that one who plucks a toothpick on Shabbat unwittingly in order to make a vessel such as a key is **liable** to bring **a sin-offering,** then **here,** in the case of one who cuts a sliver of wood in order to smell it, he is **exempt, but it is prohibited.** However, **the Rabbis who state there,** in the case of plucking a toothpick, that he is **exempt but it is prohibited,** then **here,** when one cuts a sliver of wood for purposes of smelling, it is **permitted *ab initio*.**
+
+**9.**
+*Hebrew/Aramaic:* וְלֵית לֵיהּ לְרַבִּי אֱלִיעֶזֶר הָא דִּתְנַן: שׁוֹבֵר אָדָם אֶת הֶחָבִית לֶאֱכוֹל מִמֶּנָּה גְּרוֹגְרוֹת, וּבִלְבַד שֶׁלֹּא יִתְכַּוֵּין לַעֲשׂוֹת כְּלִי? אָמַר רַב אָשֵׁי: כִּי תַּנְיָא הָהִיא, בְּמוּסְתָּקִי.
+*Translation:* The Gemara asks: **And** does **Rabbi Eliezer not accept this** *halakha* **that we learned** in a mishna: **A person may break a barrel** in order **to eat dried figs from it, provided that he does not** thereby **intend to make a vessel?** This shows that if one does not intend to make a vessel, it is permitted *ab initio*; whereas Rabbi Eliezer maintains that he is exempt, but it is prohibited. The Gemara answers: **Rav Ashi said: When that** *baraita* **was taught,** its lenient ruling was **with regard to a vessel patched with pitch [*mustaki*],** meaning a vessel that had previously been broken and its pieces glued together with pitch. If one breaks it for his own needs, he does not smash a complete vessel, and he is therefore not considered to have fashioned a vessel.
+
+**10.**
+*Hebrew/Aramaic:* וּמְגַבֵּב מִן הֶחָצֵר. תָּנוּ רַבָּנַן: מְגַבֵּב מִן הֶחָצֵר וּמַדְלִיק, שֶׁכׇּל מַה שֶּׁבֶּחָצֵר מוּכָן הוּא, וּבִלְבַד שֶׁלֹּא יַעֲשֶׂה צִבּוּרִין צִבּוּרִין. וְרַבִּי שִׁמְעוֹן מַתִּיר. בְּמַאי קָא מִפַּלְגִי? מָר סָבַר: מִחֲזֵי דְּקָא מְכַנֵּיף לִמְחַר וּלְיוֹמָא אַחֲרִינָא. וּמָר סָבַר: קְדֵרָתוֹ מוֹכַחַת עָלָיו.
+*Translation:* § It is taught in the mishna: **And one may collect** straw **from the courtyard** on a Festival. **The Sages taught: One may collect** materials **from a courtyard and kindle** a fire because **everything in a courtyard is** considered **prepared, provided he does not arrange it in piles, and Rabbi Shimon permits** it even in such a manner. The Gemara asks: **With regard to what do they disagree;** what is the basis of their dispute? **One Sage,** i.e., the Rabbis, who are stringent, **holds: It looks as though he is collecting for tomorrow and another day,** and it is therefore prohibited, so that one will not be suspected of preparing from a Festival to a weekday. **And one Sage,** Rabbi Shimon, **holds: His pot proves his** intention. When onlookers see that he is using the straw for cooking, they will not suspect him of preparing for after the Festival.
+
+**11.**
+*Hebrew/Aramaic:* אֵין מוֹצִיאִין אֶת הָאוּר וְכוּ׳. מַאי טַעְמָא? מִשּׁוּם דְּקָא מוֹלֵיד בְּיוֹם טוֹב.
+*Translation:* § It is taught in the mishna that **one may not produce** new **fire** on a Festival in any manner. The Gemara asks: **What is the reason** for this? The Gemara explains: **Because he creates** something new **on a Festival.** This is similar to an act of creation, and it is therefore prohibited.
+
+**12.**
+*Hebrew/Aramaic:* וְאֵין מְלַבְּנִין אֶת הָרְעָפִים. מַאי קָא עָבֵיד? אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: הָכָא בִּרְעָפִים חֲדָשִׁים עָסְקִינַן, מִפְּנֵי
+*Translation:* § The mishna states that **one may not whiten tiles** by heating them, in order to roast food on them. The Gemara asks: **What does one** thereby **do;** since his intention is to prepare food, how does this differ from any other manner of roasting? **Rabba bar bar Ḥana said** that **Rabbi Yoḥanan said: Here we are dealing with new tiles,** and it is prohibited **because**

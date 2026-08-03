@@ -95,3 +95,68 @@
 **24.**
 *Hebrew/Aramaic:* אָמַר רָבָא:
 *Translation:* **Rava** qualified this, and **said:**
+
+
+---
+
+### Berakhot 50b
+
+**1.**
+*Hebrew/Aramaic:* וְלָא אֲמַרַן אֶלָּא דְּלָא אַקְדִּימוּ הָנָךְ וְאַזְמוּן עֲלַיְיהוּ בְּדוּכְתַּיְיהוּ, אֲבָל אַזְמוּן עֲלַיְיהוּ בְּדוּכְתַּיְיהוּ — פְּרַח זִימּוּן מִינַּיְיהוּ.
+*Translation:* **We only said** this *halakha* in a case **where those** members of the previous groups **did not include them in the *zimmun* in their** original **place, but in a case where they included them in the *zimmun* in their** original **place, their** obligation to participate in a ***zimmun* has left them.** The obligation incumbent upon these three individuals to form a *zimmun* stems from their obligation to form a *zimmun* with the members of their original groups. If their groups already included them in a *zimmun*, their obligation as individuals has lapsed and they can no longer form another *zimmun*.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רָבָא: מְנָא אָמֵינָא לַהּ — דִּתְנַן: מִטָּה שֶׁנִּגְנְבָה חֶצְיָהּ, אוֹ שֶׁאָבְדָה חֶצְיָהּ, אוֹ שֶׁחֲלָקוּהָ אַחִין אוֹ שׁוּתָּפִין — טְהוֹרָה. הֶחֱזִירוּהָ — מְקַבֶּלֶת טוּמְאָה מִכָּאן וּלְהַבָּא.
+*Translation:* In order to explain the general principle contained in this halakhic ruling, **Rava said: From where do I** derive to **say this** *halakha*? **As we learned** in a mishna: **A** ritually impure **bed, half of which was stolen or half of which was lost, or it was divided by brothers** after they inherited it from their father, or was divided by **partners, it is ritually pure.** This is true with regard to any ritually impure utensil that was broken or divided; it is no longer a utensil and is therefore ritually pure. However, **if they restored it** and reattached the parts, **it is susceptible to ritual impurity from here on.**
+
+**3.**
+*Hebrew/Aramaic:* מִכָּאן וּלְהַבָּא — אִין, לְמַפְרֵעַ — לָא. אַלְמָא, כֵּיוָן דְּפַלְגוּהָ — פְּרַח לַהּ טוּמְאָה מִינַּהּ. הָכָא נָמֵי כֵּיוָן דְּאַזְמוּן עֲלַיְיהוּ, פְּרַח זִימּוּן מִינַּיְיהוּ.
+*Translation:* Rava infers: **From here on, yes,** it is susceptible to ritual impurity, **retroactively, no,** it does not reassume its previous status of ritual impurity. **Apparently, once they divided it, the ritual impurity left it.** Although it was restored, it does not reassume its previous status of ritual impurity. **Here, too, once they included them in the *zimmun*, their** obligation **left them** and they do not reassume their previous obligation.
+
+**4.**
+*Hebrew/Aramaic:* שְׁתֵּי חֲבוּרוֹת וְכוּ׳. תָּנָא: אִם יֵשׁ שַׁמָּשׁ בֵּינֵיהֶם — שַׁמָּשׁ מְצָרְפָן.
+*Translation:* The mishna explained the circumstances in which **two groups** that were eating in one house may combine to form a *zimmun*. The Gemara adds: **It was taught: If there is a** common **waiter among them,** serving both groups, **the waiter joins them** into a single group, even if they cannot see each other.
+
+**5.**
+*Hebrew/Aramaic:* אֵין מְבָרְכִין עַל הַיַּיִן. תָּנוּ רַבָּנַן: יַיִן עַד שֶׁלֹּא נָתַן לְתוֹכוֹ מַיִם — אֵין מְבָרְכִין עָלָיו ״בּוֹרֵא פְּרִי הַגֶּפֶן״ אֶלָּא ״בּוֹרֵא פְּרִי הָעֵץ״. וְנוֹטְלִין מִמֶּנּוּ לַיָּדַיִם. מִשֶּׁנָּתַן לְתוֹכוֹ מַיִם — מְבָרְכִין עָלָיו ״בּוֹרֵא פְּרִי הַגֶּפֶן״, וְאֵין נוֹטְלִין מִמֶּנּוּ לַיָּדַיִם, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים: בֵּין כָּךְ וּבֵין כָּךְ, מְבָרְכִין עָלָיו ״בּוֹרֵא פְּרִי הַגֶּפֶן״ וְאֵין נוֹטְלִין הֵימֶנּוּ לַיָּדַיִם.
+*Translation:* In the mishna, we learned: **One does not recite a blessing over wine** until he adds water to it, that is the statement of Rabbi Eliezer. And the Rabbis say: One recites a blessing over it. Regarding this, **the Sages taught** in the *Tosefta*: **Over wine, until he added water to it, one does not recite: Who creates fruit of the vine; rather,** he recites: **Who creates fruit of the tree,** as it is merely fruit juice and not wine. Moreover, since it is not halakhically considered wine, **one** ritually **washes his hands with it. Once he added water to it,** however, it is considered wine, and **one recites over it: Who creates fruit of the vine, and one does not** ritually **wash his hands with it,** that is **the statement of Rabbi Eliezer. The Rabbis say: In either case,** whether water has been added or not, it is considered wine for all intents and purposes, and **one recites over it: Who creates fruit of the vine, and one may not** ritually **wash his hands from it.**
+
+**6.**
+*Hebrew/Aramaic:* כְּמַאן אָזְלָא הָא דְּאָמַר שְׁמוּאֵל: עוֹשֶׂה אָדָם כׇּל צְרָכָיו בְּפַת, כְּמַאן? כְּרַבִּי אֱלִיעֶזֶר.
+*Translation:* **In accordance with whose** opinion **is that** *halakha* **which Shmuel said: A person may perform all his needs with bread?** He may use it for purposes other than food, and he need not be concerned that he is treating the food contemptuously. **In accordance with whose** opinion among the tannaitic opinions cited above? The Gemara answers: It is **in accordance with** the opinion of **Rabbi Eliezer,** who permits one to wash his hands with undiluted wine.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: מוֹדִים חֲכָמִים לְרַבִּי אֱלִיעֶזֶר בְּכוֹס שֶׁל בְּרָכָה שֶׁאֵין מְבָרְכִין עָלָיו עַד שֶׁיִּתֵּן לְתוֹכוֹ מַיִם. מַאי טַעְמָא? אָמַר רַב אוֹשַׁעְיָא: בָּעֵינַן מִצְוָה מִן הַמּוּבְחָר.
+*Translation:* **Rabbi Yosei bar Rabbi Ḥanina said: The Rabbis agree with Rabbi Eliezer with regard to a cup of blessing,** e.g., the cup of wine over which Grace after Meals is recited, **that one does not recite a blessing over it until he adds water to it. What is the reason? Rav Oshaya said: We require** that **a mitzva be** performed **in the best** possible manner.
+
+**8.**
+*Hebrew/Aramaic:* וְרַבָּנַן, לְמַאי חֲזֵי? אָמַר רַבִּי זֵירָא חֲזֵי לְקוּרְיָיטֵי.
+*Translation:* With regard the issue of wine itself, the Gemara asks: **And according to the Rabbis, for what is** undiluted wine, which is virtually undrinkable, **fit? Rabbi Zeira said:** It is good **for *koraiytei*,** a medicinal drink made of wine and oil.
+
+**9.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אַרְבָּעָה דְּבָרִים נֶאֶמְרוּ בְּפַת: אֵין מַנִּיחִין בָּשָׂר חַי עַל הַפַּת. וְאֵין מַעֲבִירִין כּוֹס מָלֵא עַל הַפַּת. וְאֵין זוֹרְקִין אֶת הַפַּת. וְאֵין סוֹמְכִין אֶת הַקְּעָרָה בְּפַת.
+*Translation:* The Gemara continues to discuss the topic of using food. **The Sages taught: Four things were said with regard to bread: One may not place raw meat on bread** so the blood will not drip onto the bread and render it inedible; **and one may not pass a full cup** of wine **over bread** lest the wine drip on it and ruin the bread; **and one may not throw bread; and one may not prop up a dish with** a piece of **bread.** The basis for these laws is the need to treat bread with respect.
+
+**10.**
+*Hebrew/Aramaic:* אַמֵּימָר וּמָר זוּטְרָא וְרַב אָשֵׁי כְּרַכוּ רִיפְתָּא בַּהֲדֵי הֲדָדֵי, אַיְּיתִי לְקַמַּיְיהוּ תַּמְרֵי וְרִמּוֹנֵי. שְׁקַל מָר זוּטְרָא פְּתַק לְקַמֵּיהּ דְּרַב אָשֵׁי דַּסְתָּנָא. אֲמַר לֵיהּ: לָא סָבַר לַהּ מָר לְהָא דְּתַנְיָא אֵין זוֹרְקִין אֶת הָאוֹכָלִין? הַהִיא בְּפַת תַּנְיָא. וְהָתַנְיָא: כְּשֵׁם שֶׁאֵין זוֹרְקִין אֶת הַפַּת, כָּךְ אֵין זוֹרְקִין אֶת הָאוֹכָלִין! אֲמַר לֵיהּ: וְהָתַנְיָא: אַף עַל פִּי שֶׁאֵין זוֹרְקִין אֶת הַפַּת, אֲבָל זוֹרְקִין אֶת הָאוֹכָלִין!
+*Translation:* The Gemara recounts: **Ameimar, Mar Zutra and Rav Ashi ate bread together when they brought dates and pomegranates before them. Mar Zutra took** fruit **and threw a portion before Rav Ashi.** Rav Ashi was astounded and **said to him:** Does **the Master not hold with that which was taught** in a *baraita*: **One may not throw food?** He responded: **That was taught with regard to bread,** not other foods. Rav Ashi challenged him again: **Wasn’t it taught** in a *baraita*: **Just as one may not throw bread, so too one may not throw** other **foods?** Mar Zutra **said to him: Wasn’t** the opposite **taught** in another *baraita*: **Although one may not throw bread, he may throw** other **foods?**
+
+**11.**
+*Hebrew/Aramaic:* אֶלָּא לָא קַשְׁיָא, הָא — בְּמִידֵּי דְּמִמְּאִיס, הָא — בְּמִידֵּי דְּלָא מִמְּאִיס.
+*Translation:* **Rather,** that is **not difficult,** as the two *baraitot* address two different cases. **This** *baraita*, in which it is taught that one may not throw other foods, refers to **a** food **item that becomes disgusting** when thrown, whereas **that** *baraita*, in which it is taught that one may throw other foods, refers to **a** food **item that does not become disgusting** when thrown.
+
+**12.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: מַמְשִׁיכִין יַיִן בְּצִנּוֹרוֹת לִפְנֵי חָתָן וְלִפְנֵי כַּלָּה, וְזוֹרְקִין לִפְנֵיהֶם קְלָיוֹת וֶאֱגוֹזִים בִּימוֹת הַחַמָּה, אֲבָל לֹא בִּימוֹת הַגְּשָׁמִים. אֲבָל לֹא גְּלוּסְקָאוֹת לֹא בִּימוֹת הַחַמָּה וְלָא בִּימוֹת הַגְּשָׁמִים.
+*Translation:* Similarly, **the Sages taught: One may draw wine through pipes before a bride and groom** as a blessed omen, and one may **throw roasted grain and nuts before them in the summer, but not in the rainy season,** as in the summer they can be retrieved and eaten, which is not the case in the rainy season. **But one may not throw cakes, neither in the summer nor in the rainy season.**
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה: שָׁכַח וְהִכְנִיס אוֹכָלִין לְתוֹךְ פִּיו בְּלֹא בְּרָכָה — מְסַלְּקָן לְצַד אֶחָד וּמְבָרֵךְ.
+*Translation:* **Rav Yehuda said: If one forgot and put food** items **in his mouth without** reciting **a blessing, he moves them to one side** of his mouth **and recites the blessing.**
+
+**14.**
+*Hebrew/Aramaic:* תַּנְיָא חֲדָא: בּוֹלְעָן, וְתַנְיָא אִידַּךְ: פּוֹלְטָן, וְתַנְיָא אִידַּךְ: מְסַלְּקָן.
+*Translation:* The Gemara notes that there are three *baraitot* on this topic: **It was taught** in **one** *baraita*: **He swallows them. It was taught** in **another** *baraita*: **He spits them out. Another** *baraita* **taught: He moves them** to the side of his mouth.
+
+**15.**
+*Hebrew/Aramaic:* לָא קַשְׁיָא. הָא דְּתַנְיָא בּוֹלְעָן בְּמַשְׁקִין. וְהָא דְּתַנְיָא פּוֹלְטָן בְּמִידֵּי דְּלָא מִמְּאִיס. וְהָא דְּתַנְיָא מְסַלְּקָן בְּמִידֵּי דְּמִמְּאִיס.
+*Translation:* The Gemara explains: That is **not difficult,** as each *baraita* addresses a different case. **This** *baraita* **in which it was taught: He swallows them** refers **to liquids,** as there is no alternative. **This** *baraita* **in which it was taught: He spits them out,** refers to **a** food **item that does not become disgusting** and if he removes it from his mouth he can subsequently eat it. **This** *baraita* **in which it was taught: He moves them** to the side of his mouth, refers to **a** food **item that becomes disgusting,** in which case it is sufficient to move it to the side.

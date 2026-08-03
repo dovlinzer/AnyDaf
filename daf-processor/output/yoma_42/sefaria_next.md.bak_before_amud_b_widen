@@ -1,0 +1,57 @@
+### Yoma 43a
+
+**1.**
+*Hebrew/Aramaic:* דְּאַפֵּיק חֲמוֹר בַּהֲדַהּ.
+*Translation:* **where one took out a donkey with it.** According to the first *tanna*, this would be permitted, since there is no concern that people would think that the wrong cow or cows were slaughtered. However, according to Rabbi Yehuda HaNasi, who maintains that this rationale is irrelevant, even this case would be excluded by the word “it.”
+
+**2.**
+*Hebrew/Aramaic:* ״וְשָׁחַט אוֹתָהּ״ — שֶׁלֹּא יִשְׁחוֹט אַחֶרֶת עִמָּהּ. ״לְפָנָיו״, לְרַב — שֶׁלֹּא יַסִּיחַ דַּעְתּוֹ מִמֶּנָּה, לִשְׁמוּאֵל — שֶׁיְּהֵא זָר שׁוֹחֵט וְאֶלְעָזָר רוֹאֶה.
+*Translation:* The Gemara expounds the next phrase in the verse: **“And he shall slaughter it,”** means that “it,” the red heifer, should be slaughtered and **that no other should be slaughtered with it.** And the next phrase: **“Before him”; according to Rav,** it means **that he should not divert his attention from it. According to Shmuel,** it indicates **that a non-priest can slaughter** it **and Elazar** the priest **observes.**
+
+**3.**
+*Hebrew/Aramaic:* ״וְלָקַח אֶלְעָזָר הַכֹּהֵן מִדָּמָהּ בְּאֶצְבָּעוֹ״, לִשְׁמוּאֵל — לְאַהֲדוֹרֵיהּ לְאֶלְעָזָר. לְרַב — הָוֵי מִיעוּט אַחַר מִיעוּט, וְאֵין מִיעוּט אַחַר מִיעוּט אֶלָּא לְרַבּוֹת, דַּאֲפִילּוּ כֹּהֵן הֶדְיוֹט.
+*Translation:* The Gemara proceeds to expound the next verse: **“And Elazar the priest shall take some of its blood with his finger”** (Numbers 19:4). What is indicated by specifying Elazar? **According to Shmuel,** since the phrase “before him” in the previous verse indicates that Elazar himself did not need to slaughter the red heifer but that rather a non-priest could, it is necessary in this stage **to return it to Elazar,** to indicate that he must himself take the blood with his finger. **According to Rav, this is** an example of **a restrictive expression following a restrictive expression,** as both verses indicate that the rite may be performed only by a priest. **And** there is a hermeneutical principle that **a restrictive expression following a restrictive expression** comes **only to amplify** the *halakha* and include additional cases. In this case, it serves to teach **that even a common** priest may perform the rite.
+
+**4.**
+*Hebrew/Aramaic:* ״וְלָקַח הַכֹּהֵן עֵץ אֶרֶז וְאֵזוֹב וּשְׁנִי תוֹלָעַת״, לִשְׁמוּאֵל — דַּאֲפִילּוּ בְּכֹהֵן הֶדְיוֹט. לְרַב — אִצְטְרִיךְ, סָלְקָא דַּעְתָּךְ אָמֵינָא: כֵּיוָן דְּלָאו גּוּפַהּ דְּפָרָה נִינְהוּ, לָא לִיבְעֵי כֹּהֵן, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara expounds another verse in the same passage: **“And the priest shall take cedar wood, and hyssop, and a strip of crimson”** (Numbers 19:6). What is indicated by specifying that this is done by the priest? **According to Shmuel,** who holds that in the previous stage the verse stated: “And Elazar the priest” to indicate that Elazar, i.e., a deputy High Priest, was required to perform that stage, the use of the term “the priest” in this stage indicates that a deputy High Priest is no longer required for this stage; rather, **even a common priest** may perform this stage. **According to Rav,** who holds that even in the previous stage a common priest may perform the rite, the term “and the priest” **is necessary** here, as it could **enter your mind to say** that **since** these stages **do not** involve **the heifer itself, they do not require a priest** at all. Therefore, the verse **teaches us** that this is not correct.
+
+**5.**
+*Hebrew/Aramaic:* ״וְכִבֶּס בְּגָדָיו הַכֹּהֵן״ — בְּכִיהוּנּוֹ. ״וְטָמֵא הַכֹּהֵן עַד הָעָרֶב״ — כֹּהֵן בְּכִיהוּנּוֹ לְדוֹרוֹת.
+*Translation:* The Gemara expounds the next verse: **“Then the priest shall wash his clothes”** (Numbers 19:7). Why is there a need to restate the involvement of the priest? To teach that he should be **in his priestly** state, i.e., wearing his priestly garments and fit for service. In the next phrase of the verse, the involvement of the priest is restated: **“And the priest shall be impure until evening”** (Numbers 19:7). This repetition is to teach that even **in** future **generations** the rite is to be performed only by a priest **in his priestly** state.
+
+**6.**
+*Hebrew/Aramaic:* הָנִיחָא לְמַאן דְּאָמַר לְדוֹרוֹת בְּכֹהֵן הֶדְיוֹט — שַׁפִּיר, אֶלָּא לְמַאן דְּאָמַר לְדוֹרוֹת בְּכֹהֵן גָּדוֹל, הַשְׁתָּא כֹּהֵן גָּדוֹל בָּעֵינַן, בְּכִיהוּנּוֹ מִיבַּעְיָא?! אִין, מִילְּתָא דְּאָתְיָא בְּקַל וְחוֹמֶר — טָרַח וְכָתַב לַהּ קְרָא.
+*Translation:* The Gemara analyzes this derivation according to the two sides of the dispute the Gemara cited previously: It works out **well according to the one who said** that **for** future **generations** the rite of the red heifer may be performed **by a common priest.** It is therefore understandable that the verse emphasizes that the priest has to perform the rite in his priestly state. **But according to the one who said** that **for** future **generations** it must be performed **by a High Priest, now that we require the High Priest, is** it **necessary** to mention that he must be **in his priestly** state? **Yes,** sometimes there is **a matter that** could **be derived by** means of **an *a fortiori* inference,** and **the verse** nevertheless **unnecessarily writes it** explicitly.
+
+**7.**
+*Hebrew/Aramaic:* ״וְאָסַף אִישׁ טָהוֹר אֵת אֵפֶר הַפָּרָה וְהִנִּיחַ״. ״אִישׁ״ — לְהַכְשִׁיר אֶת הַזָּר, ״טָהוֹר״ — לְהַכְשִׁיר אֶת הָאִשָּׁה, ״וְהִנִּיחַ״ — מִי שֶׁיֵּשׁ בּוֹ דַּעַת לְהַנִּיחַ, יָצְאוּ חֵרֵשׁ שׁוֹטֶה וְקָטָן שֶׁאֵין בָּהֶן דַּעַת לְהַנִּיחַ.
+*Translation:* The Gemara expounds another verse in the passage: **“And a man who is pure shall gather up the ashes of the heifer and place them”** (Numbers 19:9). The verse states **“a man” to qualify a non-priest** to perform this stage of the rite. The verse states **“pure” to qualify** even **a woman** to perform this stage. The verse states **“and place”** to indicate that only **one who has** the basic level of **intelligence to** be able **to** intentionally **place** the ashes in their place is qualified to do so, thereby **excluding a deaf-mute, an imbecile, and a minor,** since **they do not have** the basic level of **intelligence to** be able **to** intentionally **place** the ashes in their place.
+
+**8.**
+*Hebrew/Aramaic:* תְּנַן הָתָם: הַכֹּל כְּשֵׁרִין לְקַדֵּשׁ, חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן. רַבִּי יְהוּדָה מַכְשִׁיר בְּקָטָן, וּפוֹסֵל בְּאִשָּׁה וּבְאַנְדְּרוֹגִינוֹס.
+*Translation:* The Gemara prefaces its exposition of another verse in the passage, which details the sanctification of the ashes of the red heifer, by citing a dispute concerning that stage: **We learned** in a mishna **there,** in tractate *Para*: **Everyone** is **qualified to sanctify** the ashes of the red heifer, i.e., to pour the water over them, **except for a deaf-mute, an imbecile, and a minor. Rabbi Yehuda qualifies a minor, but disqualifies a woman and a hermaphrodite.**
+
+**9.**
+*Hebrew/Aramaic:* מַאי טַעְמָא דְּרַבָּנַן — דִּכְתִיב: ״וְלָקְחוּ לַטָּמֵא מֵעֲפַר שְׂרֵיפַת הַחַטָּאת״. הָנָךְ דִּפְסַלִי לָךְ בַּאֲסִיפָה — פְּסַלִי לָךְ בְּקִידּוּשׁ, וְהָנָךְ דְּאַכְשַׁרִי לָךְ בַּאֲסִיפָה — אַכְשַׁרִי לָךְ בְּקִידּוּשׁ.
+*Translation:* **What is the reason of the Rabbis,** i.e., the first *tanna*? **As it is written: “And they shall take for the impure of the ashes of the burning of the purification from sin,** and he shall put running water thereto in a vessel” (Numbers 19:17). The word “they” is understood as referring to those who perform the previous stage of gathering the ashes. The verse therefore indicates: **Those whom I disqualified for you for gathering** the ashes, **I have disqualified for you** also **for sanctification; and those whom I have qualified for you for gathering** the ashes, **I have qualified for you** for **sanctification.**
+
+**10.**
+*Hebrew/Aramaic:* וְרַבִּי יְהוּדָה: אִם כֵּן לֵימָא קְרָא ״וְלָקַח״, מַאי ״וְלָקְחוּ״ — דַּאֲפִילּוּ קָטָן דִּפְסַלִי לָךְ הָתָם, הָכָא — כָּשֵׁר.
+*Translation:* **And** why does **Rabbi Yehuda** not accept this reasoning? **If so, let the verse say: And he shall take. What** is the meaning of **“and they shall take”?** The use of the plural serves to qualify additional people who were excluded from the previous stage. It means **that** with regard to **even a minor, who I disqualified there** with regard to collecting the ash, **here,** with regard to sanctification, **he is qualified.**
+
+**11.**
+*Hebrew/Aramaic:* אִשָּׁה מְנָא לֵיהּ? ״וְנָתַן״, וְלֹא ״וְנָתְנָה״. וְרַבָּנַן: אִי כְּתַב רַחֲמָנָא: ״וְלָקַח ... וְנָתַן״, הֲוָה אָמֵינָא: עַד דְּשָׁקֵיל חַד וְיָהֵיב חַד, כְּתַב רַחֲמָנָא: ״וְלָקְחוּ״.
+*Translation:* **From where** does Rabbi Yehuda derive that **a woman** is unfit? The verse states **“and he shall put” and not: And she shall put.** How do **the Rabbis** interpret this verse? They assume that **if the Merciful One had written: And he shall take…and he shall put, I would have said** the rite is not valid **unless one** person **takes and** the same **one puts** the ashes in the water. Therefore, **the Merciful One writes “and they shall take”** to indicate that the taking and the putting need not necessarily be executed by the same individual.
+
+**12.**
+*Hebrew/Aramaic:* וְאִי כְּתַב רַחֲמָנָא ״וְלָקְחוּ ... וְנָתְנוּ״, הֲוָה אָמֵינָא: עַד דְּשָׁקְלִי תְּרֵי וְיָהֲבִי תְּרֵי, כְּתַב רַחֲמָנָא: ״וְלָקְחוּ ... וְנָתַן״, דַּאֲפִילּוּ שָׁקְלִי תְּרֵי וְיָהֵיב חַד.
+*Translation:* **And if the Merciful One had written** two plural forms such as: **And they shall take…and they shall put, I would have said** the rite is not valid **unless two** people **take and two** people **put.** Therefore, **the Merciful One writes “and they shall take”** and **“and he shall put”** (Numbers 19:17), to indicate **that even** if **two take and one puts** the rite is nevertheless valid.
+
+**13.**
+*Hebrew/Aramaic:* ״וְלָקַח אֵזוֹב וְטָבַל בַּמַּיִם אִישׁ טָהוֹר״, לְרַבָּנַן: אִישׁ וְלֹא אִשָּׁה. ״טָהוֹר״ — לְהַכְשִׁיר אֶת הַקָּטָן, וּלְרַבִּי יְהוּדָה: ״אִישׁ״ — וְלֹא קָטָן, ״טָהוֹר״ — לְהַכְשִׁיר אֶת הָאִשָּׁה.
+*Translation:* The Gemara continues to expound the verses: **“And a man who is pure shall take hyssop and dip it into the water”** (Numbers 19:18). **According to the Rabbis,** who hold that the sanctification of the ashes in the previous stage may be performed by woman but not a minor, the word **“man”** indicates that for this stage, the taking and dipping of hyssop, only a man is qualified **but not a woman,** and the word **“pure”** is written **to qualify** even **a minor** for this stage. **And according to Rabbi Yehuda,** who holds the previous stage may be performed by a minor but not by a woman, the word **man** indicates that for this stage only an adult is qualified **but not a minor,** and the word **pure** is written **to qualify** even **a woman** for this stage.
+
+**14.**
+*Hebrew/Aramaic:* מֵיתִיבִי: הַכֹּל כְּשֵׁרִין לְהַזּוֹת, חוּץ מִטּוּמְטוּם וְאַנְדְּרוֹגִינוֹס וְאִשָּׁה. וְקָטָן (שֶׁיֵּשׁ) בּוֹ דַּעַת, אִשָּׁה מְסַיַּעְתּוֹ וּמַזֶּה.
+*Translation:* The Gemara **raises an objection** from a mishna in tractate *Para*: **Everyone is qualified to sprinkle** the purification waters, except for **a person whose sexual organs are concealed [*tumtum*], and a hermaphrodite [*androginus*], and a woman. And** concerning **a minor who has** a basic level of **intelligence, a woman** may **assist him and he sprinkles** the purification waters. The mishna disqualifies a woman for the sprinkling but qualifies a minor.

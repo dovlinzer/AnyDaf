@@ -1,0 +1,33 @@
+### Bava Batra 57a
+
+**1.**
+*Hebrew/Aramaic:* הָהוּא שְׁטָרָא דַּהֲוָה חֲתִימִי עֲלֵיהּ בֵּי תְרֵי, שָׁכֵיב חַד מִינַּיְיהוּ. אֲתָא אֲחוּהּ דְּהַאי דְּקָאֵי, וְחַד אַחֲרִינָא, לְאַסְהוֹדֵי אַחֲתִימַת יְדֵיהּ דְּאִידַּךְ.
+*Translation:* The Gemara relates: There was **a certain document that had the signatures of two** individuals **on it. One of** the signatory witnesses **died,** and when the court sought to ratify the document, which requires either that the witnesses personally attest to the validity of their signatures or that two other witnesses attest to the validity of the signatures, **the brother of the** witness **who remained** alive **and one other** individual **came to testify with regard to the signature of the other,** deceased, witness, while the living witness attested to his own signature.
+
+**2.**
+*Hebrew/Aramaic:* סְבַר רָבִינָא לְמֵימַר: הַיְינוּ מַתְנִיתִין – שְׁלֹשָׁה אַחִין, וְאֶחָד מִצְטָרֵף עִמָּהֶן.
+*Translation:* **Ravina thought to say** that this case **is** the same as the *halakha* in **the mishna,** which states that if testimony was given by **three brothers,** each of whom testify about one year, **and another,** unrelated individual **joined with** each of the brothers as the second witness, these are considered to be three distinct testimonies. Similarly, in this case, one brother attests to his own signature, while the other brother attests to the signature of the deceased witness.
+
+**3.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אָשֵׁי: מִי דָּמֵי?! הָתָם לָא נָפֵיק נְכֵי רִיבְעָא דְמָמוֹנָא אַפּוּמָּא דְאַחֵי, הָכָא נָפֵיק נְכֵי רִיבְעָא דְמָמוֹנָא אַפּוּמָּא דְאַחֵי.
+*Translation:* **Rav Ashi said to him: Are** these cases **comparable? There, the property less one-quarter,** i.e., three-quarters of the property in question, **is not removed** from the possession of the prior owner based **upon the mouth,** i.e., the testimony, **of brothers.** Each brother provides only half of the testimony for each year about which he testifies. **Here, the property less one-quarter is removed** from the possession of the debtor detailed in the document based **upon the mouth of brothers.** One brother attests to his own signature, which constitutes half of the testimony, while the other signature is authenticated by the testimony of the other brother and another individual. It follows that three-quarters of the testimony is given by brothers, and it is therefore invalid.
+
+**4.**
+*Hebrew/Aramaic:* מַתְנִי׳ אֵלּוּ דְּבָרִים שֶׁיֵּשׁ לָהֶן חֲזָקָה, וְאֵלּוּ דְּבָרִים שֶׁאֵין לָהֶן חֲזָקָה? הָיָה מַעֲמִיד בְּהֵמָה בֶּחָצֵר; תַּנּוּר, רֵיחַיִם וְכִירַיִים; וּמְגַדֵּל תַּרְנְגוֹלִים; וְנוֹתֵן זִבְלוֹ בֶּחָצֵר – אֵינָהּ חֲזָקָה. אֲבָל עָשָׂה מְחִיצָה לִבְהֶמְתּוֹ – גָּבוֹהַּ עֲשָׂרָה טְפָחִים, וְכֵן לַתַּנּוּר וְכֵן לַכִּירַיִים וְכֵן לָרֵיחַיִם; הִכְנִיס תַּרְנְגוֹלִין לְתוֹךְ הַבַּיִת; וְעָשָׂה מָקוֹם לְזִבְלוֹ – עָמוֹק שְׁלֹשָׁה אוֹ גָבוֹהַּ שְׁלֹשָׁה; הֲרֵי זוֹ חֲזָקָה.
+*Translation:* MISHNA: **These are** uses of property **that have** the means to establish the **presumption** of ownership, **and these are** uses of property **that do not have** the means to establish the **presumption** of ownership: If one **would stand an animal in a courtyard;** or if one would place **an oven, a millstone, or a stove** there; **or** if one **raises chickens** in a courtyard, **or places his fertilizer in a courtyard,** these actions **are not** sufficient to establish the **presumption** of ownership. **But** if one **constructed a partition ten handbreadths high to** contain **his animal, and similarly** if he constructed a partition **for** his **oven, and similarly** if he constructed a partition **for** his **stove, and similarly** if he constructed a partition **for** his **millstone;** or if one **brought chickens into the house, or** if he **fashioned a place** in the ground **for his fertilizer** that is **three** handbreadths **deep or three** handbreadths **high,** these actions **are** sufficient to establish the **presumption** of ownership.
+
+**5.**
+*Hebrew/Aramaic:* גְּמָ׳ מַאי שְׁנָא רֵישָׁא, וּמַאי שְׁנָא סֵיפָא?
+*Translation:* GEMARA: The Gemara asks: **What is different** in **the first clause,** where having an animal stand in a courtyard is insufficient to establish the presumption of ownership, **and what is different** in **the latter clause,** where constructing a partition is sufficient to establish the presumption of ownership?
+
+**6.**
+*Hebrew/Aramaic:* אָמַר עוּלָּא: כֹּל שֶׁאִילּוּ בְּנִכְסֵי הַגֵּר קָנָה – בְּנִכְסֵי חֲבֵירוֹ קָנָה, כֹּל שֶׁאִילּוּ בְּנִכְסֵי הַגֵּר לֹא קָנָה – בְּנִכְסֵי חֲבֵירוֹ לֹא קָנָה.
+*Translation:* **Ulla says:** With regard to **any** act **which, if** one **were** to perform it **on** ownerless property such as the **property of a convert** who dies without heirs he would **acquire** that property, that same act is sufficient for him to **acquire the property of another** if he performed it over the course of three years, provided it is accompanied by the claim that the property had been purchased. Conversely, **any** act **that if** one **were** to perform it **on** the **property of a convert** who died without heirs he would **not acquire** that property, that same act is not sufficient for him to **acquire the property of another.** Taking possession of ownerless property requires an act to be done with regard to the property itself, such as constructing a partition, but merely having an animal stand there is not sufficient. Therefore, it does not establish the presumption of ownership.
+
+**7.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב שֵׁשֶׁת: וּכְלָלָא הוּא?! וַהֲרֵי נִיר – דִּבְנִכְסֵי הַגֵּר קָנָה, בְּנִכְסֵי חֲבֵירוֹ לֹא קָנָה! וַהֲרֵי אֲכִילַת פֵּירוֹת – דִּבְנִכְסֵי חֲבֵירוֹ קָנָה, בְּנִכְסֵי הַגֵּר לֹא קָנָה!
+*Translation:* **Rav Sheshet objects to this** explanation: **And is** this an established **principle? But there is plowing, which,** if performed **on** the **property of a convert** who died without heirs one **acquires** it, but if performed **on** the **property of another** one does **not acquire** it. **And** additionally, **there is consumption of produce** for the duration of three years, **which,** if performed **on** the **property of another** one **acquires** it by establishing the presumption of ownership, but if performed **on** the **property of a convert** who died without heirs one does **not acquire** it. These cases contradict Ulla’s claim that the modes of acquisition are analogous.
+
+**8.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ:
+*Translation:* **Rather, Rav Naḥman said** that **Rabba bar Avuh said:**

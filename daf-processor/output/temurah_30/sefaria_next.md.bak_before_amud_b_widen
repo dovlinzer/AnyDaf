@@ -1,0 +1,57 @@
+### Temurah 31a
+
+**1.**
+*Hebrew/Aramaic:* וְלַד טְרֵפָה כּוּ׳. לְמַאן דְּאָמַר טְרֵפָה (אינה) יָלְדָה — מַשְׁכַּחַתְּ לַהּ כְּגוֹן שֶׁנִּטְרְפָה וּלְבַסּוֹף עִיבְּרָה.
+*Translation:* § The mishna teaches that with regard to **the offspring of a *tereifa*,** Rabbi Eliezer prohibits it to be sacrificed on the altar, whereas the Rabbis permit it. The Gemara explains: There is a dispute as to whether a *tereifa* is capable of giving birth. **According to the one who says** that **a *tereifa* can give birth, you find** this dispute between Rabbi Eliezer and the Rabbis in a case **where** the animal first **became a *tereifa* and then became pregnant.**
+
+**2.**
+*Hebrew/Aramaic:* וּבְהָא פְּלִיגִי, דְּרַבִּי אֱלִיעֶזֶר סָבַר: זֶה וָזֶה גּוֹרֵם אָסוּר, וְרַבָּנַן סָבְרִי: זֶה וָזֶה גּוֹרֵם מוּתָּר.
+*Translation:* The Gemara elaborates: **And this is** the matter over which **they disagree, as Rabbi Eliezer holds** that when **both this** permitted factor **and that** prohibited factor **cause** a certain situation, the resulting item **is prohibited.** Here too, as the mother of this offspring is prohibited, the offspring is likewise prohibited, despite the fact that its father is permitted. **And the Rabbis hold** that when **both this** permitted factor **and that** prohibited factor **cause** a situation, the resulting item is **permitted.** Therefore, the offspring in this case is permitted like its father.
+
+**3.**
+*Hebrew/Aramaic:* לְמַאן דְּאָמַר טְרֵיפָה אֵינָהּ חַיָּה, מַשְׁכַּחַתְּ לַהּ כְּגוֹן שֶׁעִיבְּרָה וּלְבַסּוֹף נִטְרְפָה, וּבְהָא פְּלִיגִי: דְּרַבִּי אֱלִיעֶזֶר סָבַר עוּבָּר יֶרֶךְ אִמּוֹ הוּא, וְרַבָּנַן סָבְרִי עוּבָּר לָאו יֶרֶךְ אִמּוֹ הוּא.
+*Translation:* By contrast, **according to the one who says** that **a *tereifa* cannot survive,** i.e., cannot give birth, **you find** this dispute in a case **where** the animal first **became pregnant and then became a *tereifa*. And this is** the point over which **they disagree, as Rabbi Eliezer holds** that **a fetus is** considered **the thigh of its mother,** and therefore just as its mother is prohibited to be sacrificed on the altar as a *tereifa*, the same applies to its offspring. **And the Rabbis hold** that **a fetus is not** considered **the thigh of its mother,** and consequently there is no reason to prohibit it to be sacrificed on the altar.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַב הוּנָא: מוֹדִים חֲכָמִים לְרַבִּי אֱלִיעֶזֶר בְּאֶפְרוֹחַ בֵּיצַת טְרֵפָה שֶׁאָסוּר. מַאי טַעְמָא? עַד כָּאן לָא פְּלִיגִי עֲלֵיהּ דְּרַבִּי אֱלִיעֶזֶר אֶלָּא בִּוְלַד בְּהֵמָה, דְּמֵאַוֵּירָא קָא רָבְיָא, אֲבָל בֵּיצַת טְרֵפָה דְּמִגּוּפַהּ דְּתַרְנְגוֹלְתָּא קָא רָבְיָא — אֲפִילּוּ רַבָּנַן מוֹדוּ.
+*Translation:* § The Gemara continues to discuss the dispute between Rabbi Eliezer and the Rabbis. **Rav Huna says: The Rabbis concede to Rabbi Eliezer in** the case of **a chick** that emerges from **the egg of a *tereifa*** dove **that it is prohibited** to be sacrificed on the altar. **What is the reason** that the Rabbis rule stringently here? The Rabbis **disagree with Rabbi Eliezer** and claim that the offspring of a *tereifa* is permitted **only with regard to the offspring of an animal, which grows from** its own **space,** i.e., even when it is in its mother’s womb it develops as an independent entity. **But** with regard to **an egg of a *tereifa*** hen, which **grows from the body of the hen, even the Rabbis concede** that the chick which emerges from this egg may not be sacrificed on the altar.
+
+**5.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא לְרַב הוּנָא: תַּנְיָא דִּמְסַיַּיע לָךְ, מְלֹא תַּרְוָד רִימָּה הַבָּאָה מֵאָדָם חַי — רַבִּי אֱלִיעֶזֶר מְטַמֵּא, וַחֲכָמִים מְטַהֲרִין. עַד כָּאן לָא פְּלִיגִי רַבָּנַן עֲלֵיהּ אֶלָּא בְּרִימָּה, דְּפִירְשָׁא בְּעָלְמָא הוּא, אֲבָל בֵּיצָה דְּמִגּוּפַהּ דְּתַרְנְגוֹלֶת הוּא — אֲפִילּוּ רַבָּנַן מוֹדוּ.
+*Translation:* **Rava said to Rav Huna: That** which **is taught** in a *baraita* **supports your** opinion: With regard to **a full ladle [*tarvad*] of worms that come from a living person** who subsequently died, **Rabbi Eliezer** holds that it **transmits ritual impurity** in the same manner as a corpse, as a full ladle is the minimum amount of dust from the dead that imparts impurity; **and the Rabbis deem it pure.** Rava analyzes this *baraita*: **The Rabbis disagree with** Rabbi Eliezer **only with regard to worms, which are merely a secretion. But** with regard to **an egg, which is** part **of the hen’s body, even the Rabbis concede** that in the case of a *tereifa*, the chick that emerges from the egg is prohibited to the altar.
+
+**6.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ אַבָּיֵי: אַדְּרַבָּה, אִיפְּכָא מִסְתַּבְּרָא — עַד כָּאן לָא פְּלִיג רַבִּי אֱלִיעֶזֶר עֲלַיְיהוּ דְּרַבָּנַן אֶלָּא בְּרִימָּה, דְּאִיקְּרִי אָדָם מֵחַיִּים ״רִימָּה״, דִּכְתִיב: ״וְתִקְוַת אֱנוֹשׁ רִמָּה וּבֶן אָדָם תּוֹלֵעָה״.
+*Translation:* **Abaye said to** Rava: No proof can be brought from here for the opinion of Rav Huna, as **on the contrary, the opposite is reasonable: Rabbi Eliezer disagrees with the Rabbis only with regard to worms,** as he maintains that worms are considered part of a person even if they emerged from him while he was still alive, **as a person is called a worm while** he is still **alive, as it is written: And the hope of man is a worm, and the son of man, that is a maggot** (see Job 25:6).
+
+**7.**
+*Hebrew/Aramaic:* אֲבָל גַּבֵּי בֵּיצָה, אֵימַת גָּדְלָה? לְכִי מַסְרְחָא, וְכִי אַסְרַחָא — עַפְרָא בְּעָלְמָא הוּא, אֲפִילּוּ רַבִּי אֱלִיעֶזֶר מוֹדֶה! וְעוֹד, תַּנְיָא בְּהֶדְיָא: מוֹדֶה רַבִּי אֱלִיעֶזֶר לַחֲכָמִים בְּאֶפְרוֹחַ בֵּיצַת טְרֵפָה שֶׁמּוּתָּר! אֲמַר לֵיהּ: אִי תַּנְיָא — תַּנְיָא.
+*Translation:* **But with regard to** a chick that emerges from **an egg,** one can say: **When** does the chick **grow** out of and emerge from the egg? It does so **when** the egg **rots, and when** it **rots it is** considered **merely dust** and is no longer attributed to the hen that laid it. Therefore, despite the fact that the hen is a *tereifa*, **even Rabbi Eliezer** should **concede** that the chick that emerges from its egg is permitted to be sacrificed. **And furthermore, it is explicitly taught** in a *baraita* that **Rabbi Eliezer concedes to the Rabbis with regard to the chick** that emerged from the **egg of a *tereifa*** animal **that it is permitted** to be sacrificed on the altar, which is not in accordance with the opinion of Rav Huna. Rava **said to** Abaye: **If this** *baraita* **is taught, it is taught,** and I cannot take issue with it.
+
+**8.**
+*Hebrew/Aramaic:* רַבִּי חֲנִינָא בֶּן אַנְטִיגְנוֹס אוֹמֵר: כְּשֵׁרָה כּוּ׳. מַאי טַעְמָא? אִילֵּימָא דְּמִפַּטְמָא מִינַּהּ, אֶלָּא מֵעַתָּה הֶאֱכִילָהּ כַּרְשִׁינֵי עֲבוֹדָה זָרָה, הָכִי נָמֵי דַּאֲסִירָא?
+*Translation:* § The mishna teaches that **Rabbi Ḥanina ben Antigonus says: A kosher** animal that suckled from a *tereifa* is disqualified from being sacrificed on the altar. The Gemara asks: **What is the reason? If we say that** it is because the kosher animal **was fattened from** the *tereifa* animal, **if that is so,** then in a case where its owner **fed it vetches of idolatry, so too,** should one say **that it is prohibited?** Feeding an animal vetches of idolatry renders it prohibited only if the animal has been set aside for idolatry; a regular animal is not prohibited by this action.
+
+**9.**
+*Hebrew/Aramaic:* אֶלָּא, תָּנֵי רַבִּי חֲנִינָא טְרִיטָאָה קַמֵּיהּ דְּרַבִּי יוֹחָנָן: כְּגוֹן שֶׁהֱנִיקָהּ חָלָב רוֹתֵחַ מִשַּׁחֲרִית לְשַׁחֲרִית, הוֹאִיל וִיכוֹלָה לַעֲמוֹד עָלֶיהָ מֵעֵת לְעֵת.
+*Translation:* **Rather, Rabbi Ḥanina Terita taught** the meaning of the mishna **before Rabbi Yoḥanan:** This is referring to a case **where one gave** the kosher animal **to suckle** from the *tereifa* **warm,** i.e., fresh, **milk every morning. Since** the kosher animal **can maintain** its existence **based upon** this suckling **for** a twenty-four-hour **period,** until the next suckling, it survives only due to the *tereifa* animal. Consequently, the kosher animal is prohibited to be sacrificed on the altar.
+
+**10.**
+*Hebrew/Aramaic:* כָּל הַקֳּדָשִׁים שֶׁנַּעֲשׂוּ טְרֵפָה אֵין פּוֹדִין כּוּ׳. מְנָא הָנֵי מִילֵּי? דְּתָנוּ רַבָּנַן: ״תִּזְבַּח״ — וְלֹא גִּיזָּה, ״וְאָכַלְתָּ״ — וְלֹא לִכְלָבֶיךָ, ״בָּשָׂר״ — וְלֹא חָלָב. מִכָּאן שֶׁאֵין פּוֹדִים אֶת הַקֳּדָשִׁים לְהַאֲכִילָן לִכְלָבִים.
+*Translation:* § The mishna further teaches: With regard to **all sacrificial** animals **that became *tereifa*, one may not redeem** them and render them non-sacred, as their consumption is prohibited, and one does not redeem sacrificial animals to feed them to dogs. The Gemara asks: **From where are these matters** derived? **As the Sages taught** with regard to the verse: “Notwithstanding you may slaughter and eat flesh within all your gates” (Deuteronomy 12:15). This verse, which is referring to disqualified consecrated animals that have been redeemed, is expounded as follows: **“You may slaughter,” but** you may **not shear** their wool; **“and eat,” but** you may **not** give **to your dogs** to eat; “and eat **flesh,” but not** their **milk. From here** it is derived **that one does not redeem sacrificial** animals **to feed them to dogs.**
+
+**11.**
+*Hebrew/Aramaic:* אִיכָּא דְאָמְרִי: ״תִּזְבַּח וְאָכַלְתָּ״ — אֵין לְךָ בָּהֶן הֶיתֵּר אֶלָּא מִשְּׁעַת זְבִיחָה וְאֵילָךְ, קָסָבַר: פּוֹדִין אֶת הַקֳּדָשִׁים לְהַאֲכִילָן לִכְלָבִים.
+*Translation:* **There are** those **who state** a different version: **“You may slaughter and eat,”** this teaches that **you have permission** to derive benefit **from them only from the time of slaughter and onward,** i.e., those benefits that come after slaughter, such as the consumption of its flesh, are permitted. But one may not derive benefit from their shearing or their milk, as these occur even when the animal is alive. It can be inferred from here that the *tanna* of this *baraita* **maintains** that **one may redeem sacrificial** animals **to feed them to dogs,** as this occurs after the slaughter.
+
+**12.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ כָּל הָאֲסוּרִין.
+*Translation:* 
+
+**13.**
+*Hebrew/Aramaic:* מַתְנִי׳ יֵשׁ בְּקׇדְשֵׁי מִזְבֵּחַ שֶׁאֵין בְּקׇדְשֵׁי בֶּדֶק הַבַּיִת, וְיֵשׁ בְּקׇדְשֵׁי בֶּדֶק הַבַּיִת שֶׁאֵין בְּקׇדְשֵׁי מִזְבֵּחַ.
+*Translation:* MISHNA: **There are** elements that apply **to** animals **consecrated for the altar that do not** apply **to** items **consecrated for Temple maintenance, and there are** elements that apply **to** items **consecrated for Temple maintenance that do not** apply **to** animals **consecrated for the altar.**
+
+**14.**
+*Hebrew/Aramaic:* שֶׁקׇּדְשֵׁי מִזְבֵּחַ עוֹשִׂין תְּמוּרָה, וְקׇדְשֵׁי בֶּדֶק הַבַּיִת אֵין עוֹשִׂין תְּמוּרָה. קׇדְשֵׁי מִזְבֵּחַ חַיָּיבִין (עָלָיו) [עֲלֵיהֶן] מִשּׁוּם פִּיגּוּל, נוֹתָר, וְטָמֵא,
+*Translation:* One element exclusive to animals consecrated for the altar is **that** animals **consecrated for the altar render** an animal exchanged for them **a substitute, and** items **consecrated for Temple maintenance do not render** an animal exchanged for them **a substitute.** In addition, if one slaughters an animal **consecrated for the altar** with the intention to eat it beyond its designated time, or if he ate the offering after its designated time, or if he ate the offering while ritually impure, **he is liable** to receive *karet* **for eating it due to** violation of the prohibitions of ***piggul*, *notar*, and** eating while **ritually impure,** respectively.

@@ -78,7 +78,7 @@ Rav Nachman's reply is even sharper than Rebbi's: *ani mari, arba'im b'katfeih v
 
 ---
 
-## Bread Conditional (II)
+## Bread Conditional
 
 ### Rejection Chullin
 

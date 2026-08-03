@@ -95,3 +95,96 @@
 **24.**
 *Hebrew/Aramaic:* אָמַר רַבִּי אֶלְעָזָר, מַאי דִּכְתִיב:
 *Translation:* § **Rabbi Elazar said: What is** the meaning of that **which is written:**
+
+
+---
+
+### Megillah 13b
+
+**1.**
+*Hebrew/Aramaic:* ״לֹא יִגְרַע מִצַּדִּיק עֵינָיו״ — בִּשְׂכַר צְנִיעוּת שֶׁהָיְתָה בָּהּ בְּרָחֵל זָכְתָה וְיָצָא מִמֶּנָּה שָׁאוּל, וּבִשְׂכַר צְנִיעוּת שֶׁהָיָה בּוֹ בְּשָׁאוּל זָכָה וְיָצָאת מִמֶּנּוּ אֶסְתֵּר.
+*Translation:* **“He withdraws not His eyes from the righteous;** but with kings upon the throne He establishes them forever, and they are exalted” (Job 36:7)? This teaches that **in reward for the modesty shown by Rachel she merited that Saul,** who was also modest, **should descend from her, and in reward for the modesty shown by Saul, he merited that Esther should descend from him.**
+
+**2.**
+*Hebrew/Aramaic:* וּמַאי צְנִיעוּת הָיְתָה בָּהּ בְּרָחֵל? דִּכְתִיב: ״וַיַּגֵּד יַעֲקֹב לְרָחֵל כִּי אֲחִי אָבִיהָ הוּא״. וְכִי אֲחִי אָבִיהָ הוּא? וַהֲלֹא בֶּן אֲחוֹת אָבִיהָ הוּא?
+*Translation:* The Gemara explains: **What was the modesty shown by Rachel?** It is **as it is written: “And Jacob told Rachel that he was her father’s brother,** and that he was Rebecca’s son” (Genesis 29:12). It may be asked: **Was he,** Jacob, in fact **her father’s brother? But wasn’t he the son of her father’s sister?**
+
+**3.**
+*Hebrew/Aramaic:* אֶלָּא, אֲמַר לַהּ: מִינַּסְבָא לִי? אֲמַרָה לֵיהּ: אִין, מִיהוּ אַבָּא רַמָּאָה הוּא וְלָא יָכְלַתְּ לֵיהּ. אֲמַר לַהּ: אָחִיו אֲנָא בְּרַמָּאוּת. אֲמַרָה לֵיהּ: וּמִי שְׁרֵי לְצַדִּיקֵי לְסַגּוֹיֵי בְּרַמָּיוּתָא? אֲמַר לַהּ, אִין: ״עִם נָבָר תִּתָּבָר וְעִם עִקֵּשׁ תִּתַּפָּל״.
+*Translation:* **Rather,** it must be understood that when Jacob met Rachel, **he said to her: Will you marry me? She said to him: Yes, but my father,** Laban, **is a swindler, and you will not be able to** outwit **him.** Jacob alleviated her fears, as **he said to her** that he is her father’s brother, referring not to their familial affiliation but rather to his ability to deal with her father on his level, as if to say: **I am his brother in deception. She said to him: But is it** really **permitted for the righteous to be involved in deception? He said to her: Yes,** it is permitted when dealing with deceptive individuals, as the verse states: **“With the pure you will show yourself pure, and with the perverse you will show yourself subtle”** (II Samuel 22:27), indicating that one should deal with others in the manner appropriate for their personality.
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לַהּ: וּמַאי רַמָּיוּתָא? אֲמַרָה לֵיהּ: אִית לִי אֲחָתָא דְּקַשִּׁישָׁא מִינַּאי וְלָא מַנְסֵיב לִי מִקַּמַּהּ. מְסַר לַהּ סִימָנִים.
+*Translation:* Jacob then **said to her: What is the deception** that he will plan to carry out and I should be prepared for? Rachel **said to him: I have a sister who is older than I, and he will not marry me off before her,** and will try to give you her in my place. So Jacob **gave her** certain **distinguishing signs** that she should use to indicate to him that she was actually Rachel and not her sister.
+
+**5.**
+*Hebrew/Aramaic:* כִּי מְטָא לֵילְיָא, אֲמַרָה: הַשְׁתָּא מִיכַּסְפָא אֲחָתַאי. מְסַרְתִּינְהוּ נִיהֲלַהּ. וְהַיְינוּ דִּכְתִיב: ״וַיְהִי בַבֹּקֶר וְהִנֵּה הִיא לֵאָה״, מִכְּלָל דְּעַד הַשְׁתָּא לָאו לֵאָה הִיא? אֶלָּא: מִתּוֹךְ סִימָנִין שֶׁמָּסְרָה רָחֵל לְלֵאָה — לָא הֲוָה יָדַע עַד הַשְׁתָּא. לְפִיכָךְ זָכְתָה וְיָצָא מִמֶּנָּה שָׁאוּל.
+*Translation:* **When the** wedding **night arrived,** and Laban planned to switch the sisters, Rachel **said** to herself: **Now my sister will be embarassed,** for Jacob will ask her for the signs and she will not know them. So **she gave them to her. And this is as it is written: “And it came to pass, that in the morning, behold, it was Leah”** (Genesis 29:25). Does this imply **by inference that until now she was not Leah? Rather, due to the distinguishing signs that Rachel had given to Leah, he did not know until now,** when it was light outside, that she was Leah. **Therefore,** Rachel **merited that Saul should descend from her,** due to her act of modesty in not revealing to Jacob that she had shown the signs to Leah.
+
+**6.**
+*Hebrew/Aramaic:* וּמָה צְנִיעוּת הָיְתָה בְּשָׁאוּל? דִּכְתִיב: ״וְאֶת דְּבַר הַמְּלוּכָה לֹא הִגִּיד לוֹ אֲשֶׁר אָמַר שְׁמוּאֵל״, זָכָה וְיָצָאת מִמֶּנּוּ אֶסְתֵּר. וְאָמַר רַבִּי אֶלְעָזָר: כְּשֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא פּוֹסֵק גְּדוּלָּה לְאָדָם — פּוֹסֵק לְבָנָיו וְלִבְנֵי בָנָיו עַד סוֹף כׇּל הַדּוֹרוֹת, שֶׁנֶּאֱמַר: ״וַיּוֹשִׁיבֵם לָנֶצַח וַיִּגְבָּהוּ (וְגוֹ׳)״. וְאִם הֵגִיס דַּעְתּוֹ — הַקָּדוֹשׁ בָּרוּךְ הוּא מַשְׁפִּילוֹ, שֶׁנֶּאֱמַר: ״וְאִם אֲסוּרִים בַּזִּקִּים וְגוֹ׳״.
+*Translation:* **And what was the modesty shown by Saul? As it is written: “But of the matter of the kingdom, of which Samuel spoke, he did not tell him”** (I Samuel 10:16). Saul expressed his modesty by not revealing Samuel’s promise that he would be king, and thereby **merited that Esther would descend from him.** Similarly, **Rabbi Elazar said: When the Holy One, Blessed be He, assigns greatness to a person, He assigns it to his sons and to his son’s sons for all generations, as it is stated:** “He withdraws not his eyes from the righteous; but with kings upon the throne **He establishes them forever, and they are exalted”** (Job 36:7). **And if he becomes arrogant** due to this, **the Holy One, Blessed be He, lowers him** in order to humble him, **as it is stated** in the next verse: **“And if they are bound in chains,** and are held in cords of affliction, then He declares unto them their work, and their transgressions, that they have behaved proudly” (Job 36:8–9).
+
+**7.**
+*Hebrew/Aramaic:* ״וְאֶת מַאֲמַר מׇרְדֳּכַי אֶסְתֵּר עוֹשָׂה״, אָמַר רַבִּי יִרְמְיָה: שֶׁהָיְתָה מַרְאָה דַּם נִדָּה לַחֲכָמִים. ״כַּאֲשֶׁר הָיְתָה בְאׇמְנָה אִתּוֹ״, אָמַר רַבָּה בַּר לִימָא (מִשְּׁמֵיהּ דְּרַב): שֶׁהָיְתָה עוֹמֶדֶת מֵחֵיקוֹ שֶׁל אֲחַשְׁוֵרוֹשׁ וְטוֹבֶלֶת וְיוֹשֶׁבֶת בְּחֵיקוֹ שֶׁל מָרְדֳּכַי.
+*Translation:* § The Gemara returns to its exposition of the Megilla. The verse states: **“For Esther adhered to the words of Mordecai,** as she did when she was brought up with him” (Esther 2:20). **Rabbi Yirmeya said:** This teaches **that she would show** discharges of her **menstrual blood to the Sages** to inquire whether she was pure or impure. The verse continues: **“As she did when she was brought up with him”** (Esther 2:20). **Rabba bar Lima said in the name of Rav:** This means **that she** maintained a relationship with Mordecai, as she **would arise from the lap of Ahasuerus, immerse herself** in a ritual bath, **and sit in the lap of Mordecai.**
+
+**8.**
+*Hebrew/Aramaic:* ״בַּיָּמִים הָהֵם וּמׇרְדֳּכַי יוֹשֵׁב בְּשַׁעַר הַמֶּלֶךְ קָצַף בִּגְתָן וָתֶרֶשׁ״, אָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: הִקְצִיף הַקָּדוֹשׁ בָּרוּךְ הוּא אָדוֹן עַל עֲבָדָיו לַעֲשׂוֹת רְצוֹן צַדִּיק. וּמַנּוּ? יוֹסֵף, שֶׁנֶּאֱמַר: ״וְשָׁם אִתָּנוּ נַעַר עִבְרִי וְגוֹ׳״.
+*Translation:* The Megilla continues: **“In those days, while Mordecai sat in the king’s gate,** two of the king’s chamberlains, **Bigthan and Teresh,** of those that guarded the doors, **became angry,** and sought to lay hands on the king Ahasuerus” (Esther 2:21). **Rabbi Ḥiyya bar Abba said** that **Rabbi Yoḥanan said: The Holy One, Blessed be He, caused a master to become angry with his servants** in order **to fulfill the will of a righteous man. And who is this?** It is **Joseph, as it is stated** in the chief butler’s account of how Pharaoh had become angry with him and with the chief baker and sent them to jail: **“And there was with us there a young man, a Hebrew”** (Genesis 41:12).
+
+**9.**
+*Hebrew/Aramaic:* עֲבָדִים עַל אֲדוֹנֵיהֶן לַעֲשׂוֹת נֵס לַצַּדִּיק, וּמַנּוּ? מָרְדֳּכַי, דִּכְתִיב: ״וַיִּוָּדַע הַדָּבָר לְמׇרְדֳּכַי וְגוֹ׳״.
+*Translation:* Similarly, the Holy One, Blessed be He, also caused **servants** to become angry **with their master in order to perform a miracle for** another **righteous man. And who is he?** It is **Mordecai, as** with regard to the plot to kill the king **it is written: “And the matter became known to Mordecai”** (Esther 2:22).
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: בִּגְתָן וָתֶרֶשׁ שְׁנֵי טַרְסִיִּים הֲווֹ, וְהָיוּ מְסַפְּרִין בְּלָשׁוֹן טוּרְסִי, וְאוֹמְרִים: מִיּוֹם שֶׁבָּאת זוֹ לֹא רָאִינוּ שֵׁינָה בְּעֵינֵינוּ, בֹּא וְנַטִּיל אֶרֶס בַּסֵּפֶל כְּדֵי שֶׁיָּמוּת. וְהֵן לֹא הָיוּ יוֹדְעִין כִּי מָרְדֳּכַי מִיּוֹשְׁבֵי לִשְׁכַּת הַגָּזִית הָיָה, וְהָיָה יוֹדֵעַ בְּשִׁבְעִים לָשׁוֹן.
+*Translation:* The Gemara explains how the matter became known to him. **Rabbi Yoḥanan said: Bigthan and Teresh were two Tarsians, and they would talk** with one another in the **Tarsian language. They said: From the day that** Esther arrived **we have not slept,** as Ahasuerus has been with Esther all night, and he has been busying us with his demands. **Come, let us cast poison in the goblet** from which he drinks **so that he will die. But they did not know that Mordecai was** one **of those who sat** on the Sanhedrin, which convened **in the Chamber of Hewn Stone, and that he knew seventy languages,** a necessity for members of the Sanhedrin.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר לוֹ: וַהֲלֹא אֵין מִשְׁמַרְתִּי וּמִשְׁמַרְתְּךָ שָׁוָה? אָמַר לוֹ: אֲנִי אֶשְׁמוֹר מִשְׁמַרְתִּי וּמִשְׁמַרְתְּךָ. וְהַיְינוּ דִּכְתִיב: ״וַיְבֻקַּשׁ הַדָּבָר וַיִּמָּצֵא״ — שֶׁלֹּא נִמְצְאוּ בְּמִשְׁמַרְתָּן.
+*Translation:* While planning their plot, one of them **said to** the other: **But my post and your post are not identical.** How then can one of us leave our position to succeed in our plot to poison the king? The other one **said to him: I will guard** both **my post and your post. And this is as it is written** with regard to the king’s verifying Mordecai’s revelation of the plan to kill the king: **“And when inquiry was made of the matter, it was found to be so”** (Esther 2:23); it was discovered **that they were not** both **found at their posts.**
+
+**12.**
+*Hebrew/Aramaic:* ״אַחַר הַדְּבָרִים הָאֵלֶּה״. (אַחַר מַאי?) אָמַר רָבָא: אַחַר שֶׁבָּרָא הַקָּדוֹשׁ בָּרוּךְ הוּא רְפוּאָה לַמַּכָּה.
+*Translation:* The verse describes when the rest of the events of the Megilla occurred: **“After these events** did King Ahasuerus promote Haman” (Esther 3:1). The Gemara asks: **After what** particular events? **Rava said:** Only **after the Holy One, Blessed be He, created a remedy for the blow** and set in place the chain of events that would lead to the miraculous salvation was Haman appointed, setting the stage for the decree against the Jews to be issued.
+
+**13.**
+*Hebrew/Aramaic:* דְּאָמַר רֵישׁ לָקִישׁ: אֵין הַקָּדוֹשׁ בָּרוּךְ הוּא מַכֶּה אֶת יִשְׂרָאֵל אֶלָּא אִם כֵּן בּוֹרֵא לָהֶם רְפוּאָה תְּחִילָּה, שֶׁנֶּאֱמַר: ״כְּרׇפְאִי לְיִשְׂרָאֵל וְנִגְלָה עֲוֹן אֶפְרַיִם״. אֲבָל אוּמּוֹת הָעוֹלָם אֵינוֹ כֵּן — מַכֶּה אוֹתָן וְאַחַר כָּךְ בּוֹרֵא לָהֶם רְפוּאָה, שֶׁנֶּאֱמַר: ״וְנָגַף ה׳ אֶת מִצְרַיִם נָגוֹף וְרָפוֹא״.
+*Translation:* Rava explains: **As Reish Lakish said: The Holy One, Blessed be He, does not strike at the Jewish people unless He has** already **created a remedy for them beforehand, as it is stated: “When I would have healed Israel, then the iniquity of Ephraim was uncovered”** (Hosea 7:1). **But** this is **not so** with regard to **the nations of the world.** With them, God first **strikes them and** only **afterward does He create a remedy, as it is stated: “And the Lord shall smite Egypt, smiting and healing”** (Isaiah 19:22).
+
+**14.**
+*Hebrew/Aramaic:* ״וַיִּבֶז בְּעֵינָיו לִשְׁלוֹחַ יָד בְּמׇרְדֳּכַי לְבַדּוֹ״. אָמַר רָבָא: בַּתְּחִילָּה בְּמָרְדְּכַי לְבַדּוֹ, וּלְבַסּוֹף בְּעַם מָרְדֳּכַי, וּמַנּוּ — רַבָּנַן, וּלְבַסּוֹף בְּכׇל הַיְּהוּדִים.
+*Translation:* The verse states: **“But it seemed contemptible in his eyes to lay his hand on Mordecai alone;** for they had made known to him the people of Mordecai; wherefore Haman sought to destroy all the Jews that were throughout the whole kingdom of Ahasuerus, even the people of Mordecai” (Esther 3:6). **Rava said: At first** he wanted to lay his hands on **Mordecai alone, and in the end on the people of Mordecai. And who were** the people of Mordecai? They were **the Sages,** i.e., Mordecai’s special people. **And ultimately** he sought to bring harm **on all the Jews.**
+
+**15.**
+*Hebrew/Aramaic:* ״הִפִּיל פּוּר הוּא הַגּוֹרָל״, תָּנָא: כֵּיוָן שֶׁנָּפַל פּוּר בְּחוֹדֶשׁ אֲדָר שָׂמַח שִׂמְחָה גְּדוֹלָה, אָמַר: נָפַל לִי פּוּר בְּיֶרַח שֶׁמֵּת בּוֹ מֹשֶׁה. וְלֹא הָיָה יוֹדֵעַ שֶׁבְּשִׁבְעָה בַּאֲדָר מֵת, וּבְשִׁבְעָה בַּאֲדָר נוֹלָד.
+*Translation:* The verse states: **“They cast *pur*, that is, the lot”** (Esther 3:7). A Sage **taught** the following *baraita*: **Once the lot fell on the month of Adar, he,** Haman, **greatly rejoiced,** for he saw this as a favorable omen for the execution of his plans. **He said: The lot has fallen for me in the month that Moses died,** which is consequently a time of calamity for the Jewish people. **But he did not know that** not only **did** Moses **die on the seventh of Adar,** but **he was** also **born on the seventh of Adar,** and therefore it is also a time of rejoicing for the Jewish people.
+
+**16.**
+*Hebrew/Aramaic:* ״יֶשְׁנוֹ עַם אֶחָד״, אָמַר רָבָא: לֵיכָּא דְּיָדַע לִישָּׁנָא בִּישָׁא כְּהָמָן. אֲמַר לֵיהּ: תָּא נִיכַלִּינְהוּ. אֲמַר לֵיהּ: מִסְתְּפֵינָא מֵאֱלָהַיְהוּ דְּלָא לֶיעְבֵּיד בִּי כְּדַעֲבַד בְּקַמָּאֵי. אֲמַר לֵיהּ: [״יֶשְׁנוֹ״ —] יָשְׁנוּ מִן הַמִּצְוֹת.
+*Translation:* Haman said to Ahasuerus: **“There is [*yeshno*] one** people scattered abroad [*mefuzar*] and dispersed [*meforad*] among the peoples in all the provinces of your kingdom; and their laws are diverse from those of every people; nor do they keep the king’s laws; therefore it does not profit the king to tolerate them” (Esther 3:8). **Rava said: There was none who knew how to slander like Haman,** as in his request to the king he included responses to all the reasons Ahasuerus might be reluctant to destroy the Jewish people. **He said to** Ahasuerus: **Let us destroy them.** Ahasuerus **said to him: I am afraid of their God, lest He do to me as He did to those** who stood against them **before me.** Haman **said to him: They have been asleep [*yashnu*] with respect to the mitzvot,** having ceased to observe the mitzvot, and, therefore there is no reason to fear.
+
+**17.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: אִית בְּהוּ רַבָּנַן. אֲמַר לֵיהּ: עַם אֶחָד הֵן.
+*Translation:* Ahasuerus **said to him: There are the Sages among them** who observe the mitzvot. Haman **said to him: They are one people,** i.e., they are all the same; nobody observes the mitzvot.
+
+**18.**
+*Hebrew/Aramaic:* שֶׁמָּא תֹּאמַר, קָרְחָה אֲנִי עוֹשֶׂה בְּמַלְכוּתֶךָ — מְפוּזָּרִין הֵם בֵּין הָעַמִּים. שֶׁמָּא תֹּאמַר: אִית הֲנָאָה מִינַּיְיהוּ — ״מְפוֹרָד״, כִּפְרֵידָה זוֹ שֶׁאֵינָהּ עוֹשָׂה פֵּירוֹת. וְשֶׁמָּא תֹּאמַר, אִיכָּא מְדִינְתָּא מִינַּיְיהוּ — תַּלְמוּד לוֹמַר: ״בְּכׇל מְדִינוֹת מַלְכוּתֶךָ״.
+*Translation:* Haman continued with his next response as expressed in the verse: **Perhaps you will say** that **I am making a bald spot in your kingdom,** i.e., you fear that if an entire nation is wiped out there will be a desolate area within the kingdom. There is no need to worry, though, as **they are scattered [*mefuzarin*] among the peoples,** and eradicating them will not result in the creation of an unpopulated zone in the area where they had once lived. Furthermore, **perhaps you will say** that **there is benefit from them;** but this nation is ***meforad*, like this** barren **mule [*pereida*] that cannot bear offspring,** and there is no benefit to be gained from them. And **perhaps you will say** that **there is** at least **a province** that is filled **with them. Therefore the verse states** that they are scattered **“in all the provinces of your kingdom”** (Esther 3:8), and they do not inhabit one place.
+
+**19.**
+*Hebrew/Aramaic:* ״וְדָתֵיהֶם שׁוֹנוֹת מִכׇּל עָם״, דְּלָא אָכְלִי מִינַּן וְלָא נָסְבִי מִינַּן וְלָא מִנַּסְבִי לַן. ״וְאֶת דָּתֵי הַמֶּלֶךְ אֵינָם עוֹשִׂים״, דְּמַפְּקִי לְכוּלָּא שַׁתָּא בְּשִׁהֵי פִּהֵי. ״וְלַמֶּלֶךְ אֵין שֹׁוֶה לְהַנִּיחָם״, דְּאָכְלוּ וְשָׁתוּ וּמְבַזּוּ לֵיהּ לְמַלְכָּא, וַאֲפִילּוּ נוֹפֵל זְבוּב בְּכוֹסוֹ שֶׁל אֶחָד מֵהֶן — זוֹרְקוֹ וְשׁוֹתֵהוּ, וְאִם אֲדוֹנִי הַמֶּלֶךְ נוֹגֵעַ בְּכוֹסוֹ שֶׁל אֶחָד מֵהֶן — חוֹבְטוֹ בַּקַּרְקַע וְאֵינוֹ שׁוֹתֵהוּ.
+*Translation:* Haman continued: **“And their laws are diverse from those of every people”** (Esther 3:8), **as they do not eat from our** food, **nor do they marry from our** women, **nor do they marry off** their women **to us. “Nor do they keep the king’s laws”** (Esther 3:8). **They spend the entire year** in idleness, as they are constantly saying: ***Shehi pehi*,** an acronym for: It is Shabbat today [*Shabbat hayom*]; it is Passover today [*Pesaḥ hayom*]. The verse continues: **“Therefore it does not profit the king to tolerate them,” as they eat and drink and scorn the throne.** And a proof of this is that **even if a fly falls into the cup of one of them, he will throw** the fly **out and drink** the wine **it** fell into, **but if my master the king were to touch the glass of one of them, he would throw it to the ground, and would not drink it,** since it is prohibited to drink wine that was touched by a gentile.
+
+**20.**
+*Hebrew/Aramaic:* ״אִם עַל הַמֶּלֶךְ טוֹב יִכָּתֵב לְאַבְּדָם וַעֲשֶׂרֶת אֲלָפִים כִּכַּר כֶּסֶף וְגוֹ׳״, אָמַר רֵישׁ לָקִישׁ: גָּלוּי וְיָדוּעַ לִפְנֵי מִי שֶׁאָמַר וְהָיָה הָעוֹלָם שֶׁעָתִיד הָמָן לִשְׁקוֹל שְׁקָלִים עַל יִשְׂרָאֵל, לְפִיכָךְ הִקְדִּים שִׁקְלֵיהֶן לִשְׁקָלָיו.
+*Translation:* Therefore, Haman concluded: **“If it please the king, let it be written that they be destroyed, and** I will weigh out **ten thousand talents of silver** into the hands of those who have the charge of the business, to bring it into the king’s treasuries” (Esther 3:9). **Reish Lakish said: It is revealed and known** in advance **to the One Who spoke and the world came into being, that in the future Haman was going to weigh out shekels against the Jewish people; therefore, He** arranged that the Jewish people’s **shekels** that were given to the Temple **preceded** Haman’s **shekels.**
+
+**21.**
+*Hebrew/Aramaic:* וְהַיְינוּ דִּתְנַן: בְּאֶחָד בַּאֲדָר מַשְׁמִיעִין עַל הַשְּׁקָלִים וְעַל הַכִּלְאַיִם.
+*Translation:* **And this is as we learned** in a mishna (*Shekalim* 2a): **On the first of Adar** the court **makes a** public **announcement about** the contribution to the Temple of half-**shekels** that will soon be due, **and about** the need to uproot forbidden mixtures of **diverse kinds** of seeds from the fields now that they have begun to sprout. Therefore, it turns out that the Jewish people give the shekels on the first of Adar, preceding the date of Haman’s planned destruction of the Jewish people and his own collecting of shekels.
+
+**22.**
+*Hebrew/Aramaic:* ״וַיֹּאמֶר הַמֶּלֶךְ לְהָמָן הַכֶּסֶף נָתוּן לָךְ וְהָעָם לַעֲשׂוֹת בּוֹ כַּטּוֹב בְּעֵינֶיךָ״, אָמַר רַבִּי אַבָּא:
+*Translation:* Ahasuerus responded to Haman’s request: **“And the king said to Haman: The silver is given to you; the people also, to do with them as it seems good to you”** (Esther 3:11). **Rabbi Abba said:**

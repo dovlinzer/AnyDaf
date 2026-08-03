@@ -95,3 +95,84 @@
 **24.**
 *Hebrew/Aramaic:* מֵתִיב רַב הוּנָא בַּר יְהוּדָה (לְרָבָא) לְסַיּוֹעֵי לְרַב הוּנָא:
 *Translation:* **Rav Huna bar Yehuda raises an objection** to Rava, **in support** of the opinion **of Rav Huna:**
+
+
+---
+
+### Niddah 46b
+
+**1.**
+*Hebrew/Aramaic:* לְפִי שֶׁמָּצִינוּ שֶׁהִשְׁוָה הַכָּתוּב הַקָּטָן כַּגָּדוֹל לִזְדוֹן שְׁבוּעָה וּלְאִיסָּר וּלְבַל יַחֵל, יָכוֹל יְהֵא חַיָּיב עַל הֶקְדֵּשׁוֹ קׇרְבָּן?
+*Translation:* **Since we find that the verse equates a minor,** i.e., one on the brink of adulthood, **to an adult with regard to an intentional** violation of **an oath and with regard to** a vow of **prohibition,** where one renders an item prohibited to himself through a vow, **and with regard to** the prohibition of **he shall not profane** his word, one **might** have thought that this minor, like an adult, **should** also **be liable** to bring **an offering for** misuse of **his consecrated** property, e.g., if he ate an item that he consecrated.
+
+**2.**
+*Hebrew/Aramaic:* תַּלְמוּד לוֹמַר: ״זֶה הַדָּבָר״.
+*Translation:* Therefore, **the verse states** with regard to vows: **“This is the matter** which the Lord has commanded. When a man vows a vow to the Lord, or takes an oath” (Numbers 30:2–3). The emphasis of “this” indicates that it is only with regard to this matter, i.e., prohibitions resulting from vows, that a discriminating minor on the brink of adulthood is considered an adult, but he is not rendered liable to bring an offering for his misuse.
+
+**3.**
+*Hebrew/Aramaic:* קָתָנֵי מִיהַת לְאִיסָּר וּלְ״בַל יַחֵל״ חַיָּיב. אֵימָא: לְאִיסּוּר ״בַּל יַחֵל״.
+*Translation:* The Gemara analyzes the *baraita*. **In any event,** the *baraita* **teaches** that a discriminating minor on the brink of adulthood is considered an adult **with regard to** a vow of **prohibition and with regard to** the prohibition of **he shall not profane** his word, which indicates that he is **liable** for violating this prohibition. This supports the opinion of Rav Huna that a minor is flogged for eating food he consecrated. The Gemara refutes this proof: There is room to **say** that the word: And, in the phrase: With regard to a vow of prohibition and with regard to the prohibition of he shall not profane his word, should be omitted, and the *baraita* is comparing a minor to an adult **with regard to the prohibition** of **he shall not profane** his word, but it does not indicate that he is liable to receive lashes for violating this prohibition.
+
+**4.**
+*Hebrew/Aramaic:* אִיסּוּר ״בַּל יַחֵל״ — מָה נַפְשָׁךְ: אִי מוּפְלָא סָמוּךְ לְאִישׁ דְּאוֹרָיְיתָא — מִילְקָא נָמֵי לִילְקֵי, וְאִי מוּפְלָא סָמוּךְ לְאִישׁ לָאו דְּאוֹרָיְיתָא — אִיסּוּר נָמֵי לֵיכָּא, לְאוֹתָן הַמּוּזְהָרִים עָלָיו.
+*Translation:* The Gemara asks: Can the *baraita* actually mean that a minor is compared to an adult with regard to **the prohibition** of **he shall not profane** his word, but he is not flogged? **Whichever way you** look at it, this is problematic: **If a discriminating** minor **on the brink of adulthood** is considered an adult **by Torah law, he should be flogged too,** for his violation. **And if a discriminating** minor **on the brink of adulthood** is **not** considered an adult **by Torah law, there is no prohibition** violated here **either.** The Gemara answers that according to the *baraita* the prohibition does not apply to the minor himself, but **to those who are warned to** keep **him** away from the prohibited item.
+
+**5.**
+*Hebrew/Aramaic:* שְׁמַע מִינַּהּ: קָטָן אוֹכֵל נְבֵלוֹת — בֵּית דִּין מְצוִּּוין עָלָיו לְהַפְרִישׁוֹ. הָכָא בְמַאי עָסְקִינַן? כְּגוֹן שֶׁהִקְדִּישׁ הוּא, וְאָכְלוּ אֲחֵרִים.
+*Translation:* The Gemara raises a difficulty: If so, one can **conclude from** the *baraita* that if **a minor eats** meat from unslaughtered **animal carcasses** or violates other prohibitions, **the court is commanded to prevent him** from doing so. This is problematic, as elsewhere it is stated that this matter is subject to dispute (see *Yevamot* 114a). The Gemara explains: **Here we are dealing with** a case **where** the minor **consecrated** the food item **and others ate** it. They are liable to receive lashes for their consumption, but if he ate it he is not liable.
+
+**6.**
+*Hebrew/Aramaic:* הָנִיחָא לְמַאן דְּאָמַר: ״הִקְדִּישׁ הוּא וְאָכְלוּ אֲחֵרִים — לוֹקִין״, אֶלָּא לְמַאן דְּאָמַר: ״אֵין לוֹקִין״ — מַאי אִיכָּא לְמֵימַר? דְּאִיתְּמַר: הִקְדִּישׁ הוּא וְאָכְלוּ אֲחֵרִים, רַב כָּהֲנָא אָמַר: אֵין לוֹקִין, רַבִּי יוֹחָנָן וְרֵישׁ לָקִישׁ דְּאָמְרִי תַּרְוַויְהוּ: לוֹקִין!
+*Translation:* The Gemara raises another difficulty: **This works out well according to the one who said** that if a minor **consecrated** a food item **and others ate** it, **they are flogged. But according to the one who said** that in such a case **they are not flogged, what can be said? As it was stated** that *amora’im* disagreed with regard to this issue: If a minor **consecrated** a food item **and others ate** it, **Rav Kahana says** that **they are not flogged; Rabbi Yoḥanan and Reish Lakish both say** that **they are flogged.**
+
+**7.**
+*Hebrew/Aramaic:* מִדְּרַבָּנַן, וּקְרָא אַסְמַכְתָּא בְּעָלְמָא.
+*Translation:* The Gemara therefore reverts to the interpretation that the *baraita* is referring to the prohibition of he shall not profane his word, not the punishment for violation of the vow. And the reason lashes are not administered is that the prohibition is **by rabbinic law. And** as for the **verse** mentioned in the *baraita*, when it states that the verse equates a minor to an adult, which indicates that it is dealing with Torah law, this verse is **a mere support** for a rabbinic law.
+
+**8.**
+*Hebrew/Aramaic:* גּוּפָא: הִקְדִּישׁ וְאָכְלוּ אֲחֵרִים — רַב כָּהֲנָא אָמַר: אֵין לוֹקִין, רַבִּי יוֹחָנָן וְרֵישׁ לָקִישׁ דְּאָמְרִי תַּרְוַיְיהוּ: לוֹקִין. בְּמַאי קָמִיפַּלְגִי? מָר סָבַר: מוּפְלָא סָמוּךְ לְאִישׁ דְּאוֹרָיְיתָא, וּמָר סָבַר: מוּפְלָא סָמוּךְ לְאִישׁ מִדְּרַבָּנַן.
+*Translation:* § The Gemara discusses **the** matter **itself,** i.e., the dispute cited above. If a minor **consecrated** a food item **and others ate** it, **Rav Kahana says** that **they are not flogged; Rabbi Yoḥanan and Reish Lakish both say** that **they are flogged. With regard to what** principle **do** these Sages **disagree?** One **Sage,** i.e., Rabbi Yoḥanan and Reish Lakish, **holds** that **a discriminating** minor **on the brink of adulthood** is considered an adult **by Torah law,** which is why others are liable for eating an item he consecrated; **and** one **Sage,** Rav Kahana, **holds** that **a discriminating** minor **on the brink of adulthood** is considered an adult **by rabbinic law.**
+
+**9.**
+*Hebrew/Aramaic:* מֵתִיב רַב יִרְמְיָה: יְתוֹמָה שֶׁנָּדְרָה — בַּעְלָהּ מֵפֵר לָהּ. אִי אָמְרַתְּ בִּשְׁלָמָא מוּפְלָא סָמוּךְ לְאִישׁ דְּרַבָּנַן, אָתוּ נִשּׂוּאִין דְּרַבָּנַן וּמְבַטְּלִי נִדְרָא דְּרַבָּנַן; אֶלָּא אִי אָמְרַתְּ דְּאוֹרָיְיתָא, אָתוּ נִשּׂוּאִין דְּרַבָּנַן וּמְבַטְּלִי נִדְרָא דְּאוֹרָיְיתָא?
+*Translation:* **Rav Yirmeya raises an objection** from a *baraita*: In the case of a minor girl who is **an orphan** from her father and her mother or brothers accepted betrothal on her behalf, **who vowed, her husband may nullify her** vow, like any other husband, despite the fact that this marriage is valid merely by rabbinic law. Rav Yirmeya analyzes this *baraita*: **Granted, if you say** that **a discriminating** minor **on the brink of adulthood** is considered an adult **by rabbinic law,** one can explain that a husband whose **marriage** is **by rabbinic law comes and negates a vow** that also applies **by rabbinic law. But if you say** that a discriminating minor on the brink of adulthood is considered an adult **by Torah law,** can a husband whose **marriage** is **by rabbinic law come and negate a vow** that applies **by Torah law?**
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה, אָמַר שְׁמוּאֵל: בַּעְלָהּ מֵפֵר לָהּ מִמָּה נַפְשָׁךְ, אִי דְּרַבָּנַן — דְּרַבָּנַן הוּא, אִי דְּאוֹרָיְיתָא — קָטָן אוֹכֵל נְבֵלוֹת הוּא, וְאֵין בֵּית דִּין מְצוִּּוין עָלָיו לְהַפְרִישׁוֹ.
+*Translation:* **Rav Yehuda says** that **Shmuel says: Her husband may nullify her** vows, **whichever** way **you** look at it: **If** the validity of the vows of such a minor applies **by rabbinic law,** the husband may nullify her vows, as the validity of their marriage **is** likewise **by rabbinic law.** And **if** the validity of a vow by a discriminating minor on the brink of adulthood is **by Torah law,** which means she would be violating a Torah prohibition, this **is** the same as the case of **a minor** who **may eat** meat from unslaughtered **animal carcasses** or violate other prohibitions, **and the court** or any other adult, including her husband in this case, **is not commanded to prevent him** from doing so,and it does not matter if his nullification was not effective.
+
+**11.**
+*Hebrew/Aramaic:* וְהָא כִּי גָדְלָה אָכְלָה בַּהֲפָרָה קַמַּיְיתָא!
+*Translation:* The Gemara raises a difficulty: **But** there is still concern for a violation, as **when she grows** and becomes an adult **she will eat** the food that she rendered forbidden to herself, relying **on the initial nullification** of her vow by her husband, which was not valid. At that stage she is an adult, whom the court is certainly commanded to prevent from violating prohibitions.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַבָּה בַּר לֵיוַאי: בַּעְלָהּ מֵפֵר לָהּ כׇּל שָׁעָה וְשָׁעָה, וְהוּא שֶׁבָּעַל.
+*Translation:* **Rabba bar Livai said** that this is not a concern, as **her husband nullifies her** vows **each and every moment,** and therefore when she reaches majority he will nullify her vow in a manner that is valid by Torah law. **And** this **is** the *halakha*, that the nullification takes effect by Torah law, only in a case **where** her husband **engaged in intercourse** with her after she became an adult, thereby rendering their marriage valid by Torah law.
+
+**13.**
+*Hebrew/Aramaic:* וְהָא אֵין בַּעַל מֵפֵר בְּקוֹדְמִין, כִּדְרַב פִּינְחָס מִשְּׁמֵיהּ דְּרָבָא, דְּאָמַר רַב פִּנְחָס מִשְּׁמֵיהּ דְּרָבָא: כׇּל הַנּוֹדֶרֶת — עַל דַּעַת בַּעְלָהּ הִיא נוֹדֶרֶת.
+*Translation:* The Gemara raises another difficulty: **But** there is a principle that **a husband cannot nullify** vows of his wife that **preceded** their marriage; and as she is considered his wife by Torah law only when she becomes an adult, her vow when she was a minor preceded their marriage. The Gemara answers that he can still nullify her vow, **in accordance with** the statement **of Rav Pineḥas in the name of Rava, as Rav Pineḥas said in the name of Rava: Any** woman **who takes a vow,** it is from the outset contingent **on her husband’s consent** that **she takes the vow.** Since the minor was married by rabbinic law, she vowed on the condition that her husband should agree to her vow, and therefore the nullification is valid by Torah law.
+
+**14.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: תָּא שְׁמַע, קָטָן שֶׁלֹּא הֵבִיא שְׁתֵּי שְׂעָרוֹת, רַבִּי יְהוּדָה אוֹמֵר: אֵין תְּרוּמָתוֹ תְּרוּמָה. רַבִּי יוֹסֵי אוֹמֵר: עַד שֶׁלֹּא בָּא לְעוֹנַת נְדָרִים — אֵין תְּרוּמָתוֹ תְּרוּמָה, מִשֶּׁבָּא לְעוֹנַת נְדָרִים — תְּרוּמָתוֹ תְּרוּמָה.
+*Translation:* § The Gemara continues to discuss the validity of the vows of a discriminating minor on the brink of adulthood. **Abaye said: Come** and **hear** a mishna (*Terumot* 1:3): With regard to **a minor who has not grown two hairs, Rabbi Yehuda says: His *teruma* is not** valid ***teruma*. Rabbi Yosei says: Until he has reached the age of vows,** i.e., when he does not yet have the status of a discriminating minor on the brink of adulthood, **his *teruma* is not** valid ***teruma*,** but **once he has reached the age of vows, his *teruma* is *teruma*.**
+
+**15.**
+*Hebrew/Aramaic:* סַבְרוּהָ, קָסָבַר רַבִּי יוֹסֵי: תְּרוּמָה בַּזְּמַן הַזֶּה דְּאוֹרָיְיתָא. אִי אָמְרַתְּ בִּשְׁלָמָא מוּפְלָא סָמוּךְ לָאִישׁ דְּאוֹרָיְיתָא — אָתֵי גַּבְרָא דְּאוֹרָיְיתָא וּמְתַקֵּן טִבְלָא דְּאוֹרָיְיתָא, אֶלָּא אִי אָמְרַתְּ דְּרַבָּנַן — אָתֵי גַּבְרָא דְּרַבָּנַן וּמְתַקֵּן טִבְלָא דְּאוֹרָיְיתָא? לָא, קָסָבַר רַבִּי יוֹסֵי: תְּרוּמָה בַּזְּמַן הַזֶּה דְּרַבָּנַן.
+*Translation:* The Sages **assumed** that **Rabbi Yosei holds** that ***teruma* in the present** applies **by Torah law.** They therefore objected: **Granted, if you say** that **a discriminating** minor **on the brink of adulthood** is an adult **by Torah law,** one can understand that one who is **a man by Torah law** with regard to vows **can come and prepare untithed produce [*tivla*]** for consumption by tithing it, which also applies **by Torah law. But if you say** that a discriminating minor on the brink of adulthood is an adult **by rabbinic law,** can one who is **a man by rabbinic law come and prepare untithed produce,** which is prohibited **by Torah law?** The Gemara refutes this proof: **No,** perhaps **Rabbi Yosei holds** that ***teruma* in the present** applies **by rabbinic law,** and this is why he rules that a minor on the brink of adulthood can set aside *teruma*.
+
+**16.**
+*Hebrew/Aramaic:* וְסָבַר רַבִּי יוֹסֵי תְּרוּמָה בַּזְּמַן הַזֶּה דְּרַבָּנַן? וְהָתַנְיָא בְּסֵדֶר עוֹלָם: ״אֲשֶׁר יָרְשׁוּ אֲבוֹתֶיךָ וִירִשְׁתָּהּ״,
+*Translation:* The Gemara asks: **And does Rabbi Yosei hold** that ***teruma* in the present** applies **by rabbinic law? But isn’t it taught** in a *baraita* **in** the anthology called ***Seder Olam*:** The verse that states with regard to the Jewish people’s return to Eretz Yisrael following their exile: “And the Lord your God will bring you into the land **that your fathers possessed, and you shall possess it”** (Deuteronomy 30:5).
+
+**17.**
+*Hebrew/Aramaic:* יְרוּשָּׁה רִאשׁוֹנָה וּשְׁנִיָּה — יֵשׁ לָהֶן, שְׁלִישִׁית — אֵין לָהֶן.
+*Translation:* These two expressions of possession indicate that the Jewish people had **a first possession** of Eretz Yisrael in the days of Joshua, when Eretz Yisrael was first sanctified with regard to the obligation of its mitzvot, **and they had a second** possession at the time of Ezra and the return of the Babylonian exile. In other words, the sanctity of the land lapsed when the First Temple was destroyed and the Jews were exiled to Babylonia, and therefore a second sanctification was necessary when they returned to their land. But **they** will **not have a third** possession. That is, it will never be necessary to sanctify the land a third time, as the second sanctification was permanent.
+
+**18.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי יוֹחָנָן: מַאן תְּנָא סֵדֶר עוֹלָם? רַבִּי יוֹסֵי.
+*Translation:* **And Rabbi Yoḥanan said: Who** is the *tanna* that **taught *Seder Olam*? Rabbi Yosei.** Since Rabbi Yosei maintains that the second sanctification of Eretz Yisrael did not lapse even after the destruction of the Second Temple, he must also maintain that *teruma* in the present applies by Torah law.
+
+**19.**
+*Hebrew/Aramaic:* רַבִּי יוֹסֵי תָּנֵי לַהּ, וְלָא סָבַר לַהּ. הָכִי נָמֵי מִסְתַּבְּרָא, דְּתַנְיָא: עִיסָּה שֶׁנִּדְמְעָה, אוֹ שֶׁנִּתְחַמְּצָה בִּשְׂאוֹר שֶׁל תְּרוּמָה —
+*Translation:* The Gemara answers that **Rabbi Yosei taught** *Seder Olam* **but he does not maintain** in accordance with **its** ruling here. The Gemara adds: **So too, it is reasonable** that this is so, **as it is taught** in a *baraita*: With regard to non-sacred **dough that became mixed** with *teruma* dough, **or which was leavened with leaven of *teruma*,**

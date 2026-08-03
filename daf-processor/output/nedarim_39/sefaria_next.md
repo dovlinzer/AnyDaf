@@ -43,3 +43,20 @@
 **11.**
 *Hebrew/Aramaic:* וְאָמַר רָבִין אָמַר רַב: מִטְרָא בְּמַעְרְבָא — סָהֲדָא רַבָּה פְּרָת. וּפְלִיגָא דִּשְׁמוּאֵל, דְּאָמַר שְׁמוּאֵל: נַהְרָא מִכֵּיפֵיהּ מִתְבָּרֵיךְ. וּפְלִיגָא דִּשְׁמוּאֵל אַדִּשְׁמוּאֵל, דְּאָמַר שְׁמוּאֵל: אֵין הַמַּיִם מְטַהֲרִין בְּזוֹחֲלִין
 *Translation:* **And** apropos statements of Rav cited by Ravin, the Gemara cites an additional statement that **Ravin said** that **Rav said: When** there is **rain in the West,** Eretz Yisrael, **a great witness to** that rainfall **is the Euphrates River,** as ultimately that rainwater increases the water flow in the Euphrates River. **And** this statement of Rav **disagrees** with a statement **of Shmuel, as Shmuel said: A river is blessed from its banks,** i.e., the increase in its water flow is attributable to its tributaries and not to rain. The Gemara comments: **And** this statement **of Shmuel disagrees with** another statement **of Shmuel, as Shmuel said: The water purifies when flowing**
+
+
+---
+
+### Nedarim 40b
+
+**1.**
+*Hebrew/Aramaic:* אֶלָּא פְּרָת בְּיוֹמֵי תִשְׁרֵי בִּלְבַד.
+*Translation:* **in the Euphrates** River **only during the days of Tishrei alone,** as after the summer, when no rain falls, it is clear that the water in the river flows from the source of the river. During the rest of the year, rain and snow are mingled with the river water, and water from rain and snow purify one who immerses in them only when the water is standing.
+
+**2.**
+*Hebrew/Aramaic:* אֲבוּהּ דִּשְׁמוּאֵל עֲבַד לְהוֹן מִקְווֹאוֹת לִבְנָתֵיהּ בְּיוֹמֵי נִיסָן, וּמַפָּצֵי בְּיוֹמֵי תִשְׁרֵי.
+*Translation:* The Gemara relates: **Shmuel’s father fashioned ritual baths for his daughters during the days of Nisan and** placed **mats** in the Euphrates River **during the days of Tishrei.** He fashioned ritual baths during Nisan due to the concern that the rainwater and snow water that accumulated in the river exceeded the amount of water that originated in the river’s sources. Since immersion in the flowing water would be ineffective, he fashioned ritual baths of standing water elsewhere for them. He placed mats during the days of Tishrei, when they immersed in the river itself, to prevent the mud on the riverbed from acting as an interposition that would invalidate the immersion.
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אַמֵּי אָמַר רַב: מַאי דִּכְתִיב ״וְאַתָּה בֶן אָדָם עֲשֵׂה לְךָ כְּלֵי גוֹלָה״ — זוֹ נֵר וּקְעָרָה
+*Translation:* **Rabbi Ami said** that **Rav said: What is** the meaning of that **which is written: “And you, son of man, make for yourself implements of exile”** (Ezekiel 12:3)? **That is** referring to **a lamp, and a bowl,**

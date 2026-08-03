@@ -67,3 +67,36 @@
 **17.**
 *Hebrew/Aramaic:* אָמַר רַב נַחְמָן: הָכָא בְּכוֹתֶל תִּשְׁעָה עָשָׂר עָסְקִינַן, וְזִיז יוֹצֵא מִמֶּנּוּ. לְמַטָּה מֵעֲשָׂרָה — לָזֶה בְּפֶתַח, וְלָזֶה בְּשִׁלְשׁוּל. לְמַעְלָה מֵעֲשָׂרָה — לָזֶה בְּפֶתַח, וְלָזֶה בִּזְרִיקָה.
 *Translation:* **Rav Naḥman said:** No proof can be adduced from this teaching, as **here we are dealing with a wall of nineteen** handbreadths **that has a protruding ledge.** If the ledge protrudes **below ten** handbreadths from the ground, **for this** set of residents, those of the courtyard, it can be used **as an entrance, and for that** set of residents, those of the upper story, it can be used only **by lowering.** If the ledge protrudes **above ten** handbreadths, **for this** set of residents, those in the balcony, it can be accessed **as an entrance, and for that** set of residents, those of the courtyard, it can be used only **by throwing.** In this case, there is no middle area between the ten-handbreadths available to each set of residents. Consequently, this case cannot serve as a proof with regard to the dispute between Rav and Shmuel.
+
+
+---
+
+### Eruvin 84b
+
+**1.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: שְׁתֵּי גְזוּזְטְרָאוֹת זוֹ לְמַעְלָה מִזּוֹ. עָשׂוּ לָעֶלְיוֹנָה, וְלֹא עָשׂוּ לַתַּחְתּוֹנָה — שְׁתֵּיהֶן אֲסוּרוֹת עַד שֶׁיְּעָרְבוּ!
+*Translation:* The Gemara attempts to cite yet another proof to resolve the dispute between Rav and Shmuel. **Come** and **hear** a mishna: If a balcony extends over a body of water, and the residents of the balcony cut out a hole in the floor and constructed a partition ten handbreadths high around the hole, water may be drawn through the hole on Shabbat. If there are **two balconies** of this kind, **one above the other,** and **they erected** a partition **for the upper** balcony **but they did not erect** one **for the lower one, they are both prohibited** from drawing water, **unless they establish an *eiruv*** between them. This mishna apparently is referring to a case where the residents of the upper balcony draw water by lowering their buckets down, whereas the residents of the lower balcony hoist their bucket to the upper one and draw water from there, i.e., one balcony draws the water by lowering and the other by throwing. The mishna rules that they are both prohibited, in accordance with the opinion of Rav and contrary to the opinion of Shmuel.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַב אַדָּא בַּר אַהֲבָה: בְּבָאִין בְּנֵי תַחְתּוֹנָה דֶּרֶךְ עֶלְיוֹנָה לְמַלּאוֹת.
+*Translation:* **Rav Adda bar Ahava said:** Here we are dealing with a case **where the residents** of the **lower** balcony **go** up **to the upper** balcony by means of a ladder **to draw** their water from there. Since they themselves are located in the upper balcony when they draw their water, both sets of residents gain access to their water by lowering.
+
+**3.**
+*Hebrew/Aramaic:* אַבָּיֵי אָמַר: כְּגוֹן דְּקַיָּימִין בְּתוֹךְ עֲשָׂרָה דַּהֲדָדֵי, וְלָא מִיבַּעְיָא קָאָמַר: לָא מִיבַּעְיָא עָשׂוּ לַתַּחְתּוֹנָה וְלֹא עָשׂוּ לָעֶלְיוֹנָה — דַּאֲסִירִי, דְּכֵיוָן דִּבְגוֹ עֲשָׂרָה דַּהֲדָדֵי קַיָּימִין — אָסְרָן אַהֲדָדֵי,
+*Translation:* **Abaye said:** Here we are dealing with a case, **where** the two balconies **are situated within ten** handbreadths **of each other, and** the *tanna* **was speaking** in the style of: **There is no need.** In other words, the mishna should be understood in the following manner: **There is no need** to say that if **they erect** a partition **for the lower** balcony **but they did not erect** one **for the upper one, they are** both **prohibited** to draw water. The reason is **that since they are positioned within ten** handbreadths **of each other, they** render it **prohibited for one another** anyway.
+
+**4.**
+*Hebrew/Aramaic:* אֶלָּא אֲפִילּוּ עָשׂוּ לָעֶלְיוֹנָה וְלֹא עָשׂוּ לַתַּחְתּוֹנָה, סָלְקָא דַּעְתָּךְ אָמֵינָא: כֵּיוָן דְּלָזֶה בְּנַחַת וְלָזֶה בְּקָשֶׁה — לִיתְּבֵיהּ לָזֶה שֶׁתַּשְׁמִישׁוֹ בְּנַחַת, קָא מַשְׁמַע לַן: כֵּיוָן דִּבְגוֹ עֲשָׂרָה קַיָּימִין — אָסְרָן אַהֲדָדֵי.
+*Translation:* **Rather,** the *halakha* is the same **even** if **they established** a partition for the **upper** balcony **and they did not establish** a partition **for the lower** one, despite the fact that **it might have entered your mind to say** the following: **Since for this,** the residents of the upper balcony, its use **is convenient, while for that** lower balcony, its use **is demanding,** as the lower balcony can draw water only by hoisting its bucket upward, the use of the hole **should** therefore **be granted to the one whose use is convenient.** This reasoning would render the hole permitted to the upper balcony and prohibited to the lower balcony. To counter this hypothetical argument, the mishna **teaches us** that **since** the upper and lower balconies **are located within ten** handbreadths of each other, they render it **prohibited for one another.**
+
+**5.**
+*Hebrew/Aramaic:* כִּי הָא דְּאָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: גַּג הַסָּמוּךְ לִרְשׁוּת הָרַבִּים — צָרִיךְ סוּלָּם קָבוּעַ לְהַתִּירוֹ. סוּלָּם קָבוּעַ אִין, סוּלָּם עֲרַאי לָא. מַאי טַעְמָא? לָאו מִשּׁוּם דְּכֵיוָן דִּבְתוֹךְ עֲשָׂרָה דַּהֲדָדֵי קָיְימִי — אָסְרָן אַהֲדָדֵי!
+*Translation:* This is **similar to** a teaching **that Rav Naḥman said** that **Shmuel said:** In the case of **a roof that is adjacent to a public domain, there must be a fixed ladder** from the courtyard to the roof **to permit** the use of the roof to the residents of the courtyard. The Gemara infers: If there is **a fixed ladder, yes,** the residents of the courtyard may use the roof; if there is merely **a temporary ladder, no,** they are prohibited to use it. **What is the reason** for this distinction? Is it **not** that since the balcony and the public domain **are situated within ten** handbreadths **of each other,** the residents of both render it **prohibited for one another,** in accordance with the opinion of Abaye? Since the residents of the balcony are located within ten handbreadths of the public domain, the presence of people in the public domain renders the use of the roof prohibited for the inhabitants of the balcony. The only way for the members of the balcony to be permitted to use the roof is by means of a fixed ladder that has the status of a proper door.
+
+**6.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב פָּפָּא: וְדִילְמָא כְּשֶׁרַבִּים מְכַתְּפִין עָלָיו, בְּכוּמְתָּא וְסוּדָרָא.
+*Translation:* **Rav Pappa** strongly **objected to this** argument, claiming that this proof can be refuted: **But perhaps** this applies only to a roof upon which **many people place their hats [*kumta*] and shawls** when they are in need of rest. Even if the people in the public domain are not situated within ten handbreadths of the roof, they can still use it conveniently if they wish to place light objects upon it on a temporary basis. If there was not a fixed ladder, the residents of the courtyard would not be permitted to use the roof, as it serves the public domain as well. Consequently, no proof can be adduced from here either. In summary, no compelling proof has been found either for Rav’s opinion or for Shmuel’s opinion.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל:
+*Translation:* **Rav Yehuda said** that **Shmuel said:**

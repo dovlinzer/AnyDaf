@@ -67,3 +67,24 @@
 **17.**
 *Hebrew/Aramaic:* אֲמַר לֵיהּ אַבָּיֵי לְרַב יוֹסֵף: הָא דְּרַב יְהוּדָה דִּשְׁמוּאֵל הִיא.
 *Translation:* **Abaye said to Rav Yosef: This** ruling **of Rav Yehuda is** a ruling **of** his teacher **Shmuel,** and not of his other teacher, Rav.
+
+
+---
+
+### Eruvin 7b
+
+**1.**
+*Hebrew/Aramaic:* דְּאִי דְּרַב — קַשְׁיָא דְּרַב אַדְּרַב בְּתַרְתֵּי: דְּאָמַר רַב יִרְמְיָה בַּר אַבָּא אָמַר רַב: מָבוֹי שֶׁנִּפְרַץ בִּמְלוֹאוֹ לֶחָצֵר, וְנִפְרְצָה חָצֵר כְּנֶגְדּוֹ — חָצֵר מוּתֶּרֶת וּמָבוֹי אָסוּר. וְאַמַּאי? לֶיהֱוֵי כְּמָבוֹי שֶׁכָּלֶה לִרְחָבָה!
+*Translation:* **For if** it is a ruling **of Rav,** the apparent contradiction between one statement **of Rav** and another statement **of Rav** poses **a difficulty in two** ways. The first is with regard to the fact that this alleyway opens into the public domain on two opposite sides, and the second is based on that **which Rav Yirmeya bar Abba said** that **Rav said:** If **an alleyway was breached along the entire** length of its back wall **into a courtyard, and** likewise **the courtyard was breached opposite it** into the public domain, it is **permitted** to carry in **the courtyard, and** it is **prohibited** to carry in **the alleyway,** since this alleyway is now open on two opposite sides to the public domain. **Why** should this be the ruling? In this case, **let it be like an alleyway that terminates in a backyard,** where Rav Yehuda ruled that nothing further is needed to permit carrying.
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: אֲנָא לָא יָדַעְנָא, עוֹבָדָא הֲוָה בְּדוּרָא דְּרָעֲוָתָא מָבוֹי שֶׁכָּלֶה לִרְחָבָה הֲוָה, וַאֲתָא לְקַמֵּיהּ דְּרַב יְהוּדָה וְלָא אַצְרְכֵיהּ וְלָא מִידֵּי. וְאִי קַשְׁיָא מִשְּׁמֵיהּ דְּרַב — תֶּיהְוֵי מִשְּׁמֵיהּ דִּשְׁמוּאֵל, וְלָא קַשְׁיָא מִידֵּי.
+*Translation:* Rav Yosef **said to** Abaye: **I do not know** in accordance with which of his teachers Rav Yehuda issued this ruling. All I know is that there was **an incident in a shepherds’ village** where **an alleyway terminated in a backyard, and** the matter **came before Rav Yehuda** for a ruling, **and he did not require anything** to render it permitted to carry in the alleyway. **And if,** as you say, **it is difficult** if we say that he issued his ruling **in the name of Rav, let it be** suggested that he issued it **in the name of** his other teacher, **Shmuel, and** then **there will be no difficulty.**
+
+**3.**
+*Hebrew/Aramaic:* הַשְׁתָּא דַּאֲמַר לֵיהּ רַב שֵׁשֶׁת לְרַב שְׁמוּאֵל בַּר אַבָּא, וְאָמְרִי לֵיהּ לְרַב יוֹסֵף בַּר אַבָּא: אַסְבְּרָא לָךְ, כָּאן — שֶׁעֵירְבוּ, כָּאן — שֶׁלֹּא עֵירְבוּ.
+*Translation:* The Gemara comments: **Now that Rav Sheshet said to Rav Shmuel bar Abba, and some say** that he said **to Rav Yosef bar Abba: I will explain to you** Rav’s statement with regard to an alleyway that was breached along the entire length of its back wall into a courtyard. One must make a distinction based on the nature of the case: **Here **it is referring to a case **where** the residents of the courtyard **established an *eiruv*** together. In that case, Rav permits carrying in the alleyway and is not concerned with the breach into the courtyard, as the courtyard and the alleyway are treated as a single domain. **There** it is referring to a case **where** the residents **did not establish an *eiruv*** together. In that case, Rav prohibits carrying in the alleyway, because the alleyway now has new residents, i.e., the residents of the courtyard, who did not participate in the *eiruv*, and they prevent the residents of the alleyway from carrying.
+
+**4.**
+*Hebrew/Aramaic:* דְּרַב אַדְּרַב נָמֵי לָא קַשְׁיָא: כָּאן — שֶׁעֵירְבוּ בְּנֵי חָצֵר עִם בְּנֵי מָבוֹי, כָּאן — שֶׁלֹּא עֵירְבוּ.
+*Translation:* Consequently, it can be said that Rav Yehuda’s statement with regard to an alleyway that terminates in a backyard is in accordance with the opinion of Rav, as the apparent contradiction between one statement **of Rav** and another statement **of Rav also** poses **no difficulty. Here,** where Rav Yehuda permits carrying in an alleyway that terminates in a backyard, he is referring to a case **where the residents of the courtyard and the residents of the alleyway established a joint *eiruv*,** whereas **here,** where Rav prohibits carrying in an alleyway that was breached along the entire length of its back wall into a courtyard, he is referring to a case **where** the residents of the courtyard and the residents of the alleyway **did not establish a joint *eiruv*.**

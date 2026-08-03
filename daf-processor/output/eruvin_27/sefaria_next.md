@@ -55,3 +55,104 @@
 **14.**
 *Hebrew/Aramaic:* כִּי קָאָמַר רַב,
 *Translation:* The Gemara answers: **When Rav said** that green grain may be used for an *eiruv*,
+
+
+---
+
+### Eruvin 28b
+
+**1.**
+*Hebrew/Aramaic:* בִּדְגִנּוּנְיָיתָא.
+*Translation:* he was referring **to the garden variety,** which is commonly eaten.
+
+**2.**
+*Hebrew/Aramaic:* זֶרַע גַּרְגִּיר. לְמַאי חֲזֵי? אָמַר רַבִּי יוֹחָנָן: שֶׁכֵּן רִאשׁוֹנִים שֶׁלֹּא הָיָה לָהֶן פִּלְפְּלִין, שׁוֹחֲקִין אוֹתוֹ וּמַטְבִּילִין בּוֹ אֶת הַצָּלִי.
+*Translation:* Having mentioned **arugula seeds,** the Gemara asks: **For what are they suitable?** Generally, only the plant’s leaves are eaten. **Rabbi Yoḥanan said: The earlier** generations, **who had no pepper, would crush** these seeds **and dip** their **roasted meat in them.** Therefore, arugula seeds are also eaten, even though this is not their typical use.
+
+**3.**
+*Hebrew/Aramaic:* רַבִּי זֵירָא כִּי הֲוָה חֲלִישׁ מִגִּרְסֵיהּ, הֲוָה אָזֵיל וְיָתֵיב אַפִּיתְחָא דְּרַב יְהוּדָה בַּר אַמֵּי, אָמַר: כִּי נָפְקִי וְעָיְילִי רַבָּנַן — אֵיקוּם מִקַּמַּיְיהוּ וַאֲקַבֵּל בְּהוּ אַגְרָא.
+*Translation:* The Gemara relates that **when Rabbi Zeira was exhausted from his studies, he would go and sit at the entrance** to the academy **of Rav Yehuda bar Ami,** and **say: When the Sages go in and out, I shall stand up before them and receive reward for** honoring **them,** as it is a mitzva to honor Torah scholars. Too tired to engage in actual Torah study, he sought a way to rest while fulfilling a different mitzva at the same time.
+
+**4.**
+*Hebrew/Aramaic:* נְפַק אֲתָא יָנוֹקָא דְּבֵי רַב, אֲמַר לֵיהּ: מַאי אַגְמְרָךְ רַבָּךְ? אֲמַר לֵיהּ: כְּשׁוּת ״בּוֹרֵא פְּרִי הָאֲדָמָה״, חֲזִיז ״שֶׁהַכֹּל נִהְיֶה בִּדְבָרוֹ״. אֲמַר לֵיהּ: אַדְּרַבָּה, אִיפְּכָא מִיסְתַּבְּרָא, הַאי — מֵאַרְעָא קָא מִרַבֵּי, וְהַאי — מֵאַוֵּירָא קָא מִרַבֵּי.
+*Translation:* Once, a young **school child was leaving** the study hall. Rabbi Zeira **said to him: What did your teacher teach you** today? **He said to him:** The proper blessing for **dodder** is: **Who creates the fruit of the ground;** the proper blessing for **green grain** is: **By Whose word all things came to be.** Rabbi Zeira **said to him: On the contrary, the opposite is** more **reasonable,** as **this,** the green grain, **derives nourishment from the ground, whereas that,** the dodder, **derives nourishment from the air,** and it is fitting to recite a blessing over each item in accordance with its source of nourishment.
+
+**5.**
+*Hebrew/Aramaic:* וְהִלְכְתָא כְּיָנוֹקָא דְּבֵי רַב. מַאי טַעְמָא: הַאי — גְּמַר פֵּירֵי, וְהַאי — לָאו גְּמַר פֵּירֵי. וּמַאי דְּקָאָמְרַתְּ: הַאי מֵאַרְעָא קָא רָבֵי, וְהַאי מֵאַוֵּירָא קָא רָבֵי — לָא הִיא. כְּשׁוּת נָמֵי מֵאַרְעָא קָא רָבֵי, דְּהָא קָא חָזֵינַן דְּקָטְלִינַן לַהּ לְהִיזְמְתָא וּמָיְיתָא כְּשׁוּתָא.
+*Translation:* The Gemara concludes: **The *halakha* is in accordance with the** young **school child. What is the reason** for this? **This,** the dodder, is **fully ripened produce, and that,** green grain, is **not fully ripened produce.** If produce is not fully ripened one can only recite the blessing: By Whose word all things came to be. **And that which you said: This,** the green grain, **derives nourishment from the ground, whereas that,** the dodder, **derives nourishment from the air, this is not so. Dodder also derives nourishment from the ground, for we see that when the** prickly **shrub is cut off, the dodder** attached to it **dies.** This shows that dodder also derives its nourishment from the ground, albeit indirectly.
+
+**6.**
+*Hebrew/Aramaic:* וּבְכַפְנִיּוֹת אֵין מְעָרְבִין? וְהָתַנְיָא: קוֹר נִיקָּח בְּכֶסֶף מַעֲשֵׂר, וְאֵין מִטַּמֵּא טוּמְאַת אוֹכָלִין. וְכַפְנִיּוֹת נִקָּחוֹת בְּכֶסֶף מַעֲשֵׂר, וּמִטַּמְּאוֹת טוּמְאַת אוֹכָלִים.
+*Translation:* The Gemara now considers the next part of Rav’s statement: **And** is it correct that **one may not establish an *eiruv* with unripe dates? Wasn’t it taught** in a *baraita*: **Heart of palm,** the soft, edible inner core of a palm tree, **may be bought with** second-**tithe money; but it does not contract the** ritual **impurity of foods,** as it is not actually a food, but rather a part of the tree itself. **And unripe dates may be bought with** second-**tithe money, and** they even **contract the** ritual **impurity of foods.**
+
+**7.**
+*Hebrew/Aramaic:* רָבֵי יְהוּדָה אוֹמֵר: קוֹר הֲרֵי הוּא כְּעֵץ לְכׇל דְּבָרָיו — אֶלָּא שֶׁנִּיקָּח בְּכֶסֶף מַעֲשֵׂר, וְכַפְנִיּוֹת הֲרֵי הֵן כִּפְרִי לְכׇל דִּבְרֵיהֶם — אֶלָּא שֶׁפְּטוּרוֹת מִן הַמַּעֲשֵׂר.
+*Translation:* **Rabbi Yehuda says** this somewhat differently: **Heart of palm is like a tree in all its** legal **aspects, except that it may be bought with** second-**tithe money,** as it is edible. **And unripe dates are like fruit in all regards,** as they are actual fruit, **except** with respect to one characteristic, which is **that they are exempt from tithes** because they are not yet fully ripened.
+
+**8.**
+*Hebrew/Aramaic:* הָתָם, בִּדְנִיסְחָנֵי.
+*Translation:* The Gemara answers: **There,** the *baraita* is referring to the **fruit** of palms that **never** fully **ripen**. They are therefore regarded as full-fledged fruit even in their unripe state. Rav, however, was referring to the fruit of palms, which eventually ripen. Their unripe state is merely a transitional stage in their development.
+
+**9.**
+*Hebrew/Aramaic:* אִי הָכִי, בְּהָא לֵימָא רַבִּי יְהוּדָה פְּטוּרוֹת מִן הַמַּעֲשֵׂר? וְהָתַנְיָא, אָמַר רַבִּי יְהוּדָה: לֹא הוּזְכְּרוּ פַּגֵּי בֵיתְיוֹנֵי אֶלָּא לְעִנְיַן מַעֲשֵׂר בִּלְבַד. פַּגֵּי בֵיתְיוֹנֵי וַאֲהִינֵי דְטוֹבִינָא חַיָּיבִין בְּמַעֲשֵׂר.
+*Translation:* The Gemara asks: **If so, would Rabbi Yehuda say with regard to this** that **they are exempt from tithes? Wasn’t it taught** in a *baraita* that **Rabbi Yehuda said: The unripe figs of** the place called **Beityoni were only mentioned with regard to tithes,** as it was stated: In the case of **the unripe figs of Beityoni, and the unripe dates of** the place called **Tuvina, one is obligated to tithe them** even though they never ripen, since they are considered full-fledged fruit in all respects?
+
+**10.**
+*Hebrew/Aramaic:* אֶלָּא לְעוֹלָם לָאו בְּנִיסְחָנֵי, וּלְעִנְיַן טוּמְאַת אוֹכָלִין שָׁאנֵי, כִּדְאָמַר רַבִּי יוֹחָנָן: הוֹאִיל וְרָאוּי לְמַתְּקָן עַל יְדֵי הָאוּר, הָכָא נָמֵי: הוֹאִיל וְיָכוֹל לְמַתְּקָן עַל יְדֵי הָאוּר.
+*Translation:* **Rather,** say as follows: **Actually,** the *baraita* **is not referring to** the **fruit** of palms that **never** fully **ripen,** but rather to the fruit of palms that eventually ripen. However, the *halakha* **pertaining to the** ritual **impurity of foods is different,** and an item’s status as a food with regard to the impurity of foods cannot be brought as proof of its status as a food with regard to an *eiruv*. **As Rabbi Yoḥanan said** elsewhere: **Since they are fit to be sweetened through** cooking with **fire,** they are regarded as food for the purpose of tithes; **here too,** we can say: **Since they are fit to be sweetened through** cooking with **fire,** unripe dates are fit to contract the impurity of foods. However, with regard to an *eiruv*, we require food that is ready for consumption, and something that can be prepared to become food is not sufficient.
+
+**11.**
+*Hebrew/Aramaic:* וְהֵיכָא אִתְּמַר דְּרַבִּי יוֹחָנָן? אַהָא דְּתַנְיָא: שְׁקֵדִים הַמָּרִים — קְטַנִּים חַיָּיבִין, גְּדוֹלִים פְּטוּרִין. מְתוּקִים — גְּדוֹלִים חַיָּיבִין, קְטַנִּים פְּטוּרִין. רַבִּי שִׁמְעוֹן בְּרַבִּי יוֹסֵי אוֹמֵר מִשּׁוּם אָבִיו: זֶה וָזֶה, לִפְטוּר. וְאָמְרִי לַהּ: זֶה וָזֶה לְחִיּוּב. אָמַר רַבִּי אִילְעָא: הוֹרָה רַבִּי חֲנִינָא בְּצִיפּוֹרִי כְּדִבְרֵי הָאוֹמֵר זֶה וְזֶה לִפְטוּר.
+*Translation:* The Gemara asks: **Where was** this comment of **Rabbi Yoḥanan** originally **stated?** The Gemara answers: It was stated **on this** ruling, **which was taught** in a *baraita*: One is **obligated** to tithe **bitter almonds** while they are still **small** and green, as they are fit to be eaten while still undeveloped. When they are **large,** however, one is **exempt** from tithing them, as they are no longer edible. One is **obligated to** tithe **sweet, large** almonds, whereas one is **exempt from** tithing **small ones,** as they have not yet fully ripened. **Rabbi Shimon, son of Rabbi Yosei, said in the name of his father:** One is **exempt from** tithing **both this and that,** large and small bitter almonds. **And some say** that he said in the name of his father: One is **obligated to** tithe **both this and that. Rabbi Ila said: Rabbi Ḥanina ruled in Tzippori in accordance with the one who said:** One is **exempt from** tithing **both this and that.**
+
+**12.**
+*Hebrew/Aramaic:* וּלְמַאן דְּאָמַר זֶה וָזֶה לְחִיּוּב, לְמַאי חֲזֵי? אָמַר רַבִּי יוֹחָנָן: הוֹאִיל וְרָאוּי לְמַתְּקָן עַל יְדֵי הָאוּר.
+*Translation:* The Gemara asks: **According to** the view of **the one who said** one is **obligated to** tithe **both this and that, for what are** large, bitter almonds **suitable? Rabbi Yoḥanan said: Since** these almonds **are fit to be sweetened** and made edible **through** cooking with **fire,** they are regarded as food for the purpose of tithes.
+
+**13.**
+*Hebrew/Aramaic:* אָמַר מָר, רַבִּי יְהוּדָה אוֹמֵר: קוֹר הֲרֵי הוּא כְּעֵץ לְכׇל דְּבָרָיו, אֶלָּא שֶׁנִּיקָּח בְּכֶסֶף מַעֲשֵׂר. הַיְינוּ תַּנָּא קַמָּא!
+*Translation:* The Gemara further examines the *baraita* cited earlier. **The Master said** that **Rabbi Yehuda says: Heart of palm is like a tree in all its** legal **aspects, except that it may be bought with** second-**tithe money.** The Gemara asks: Rabbi Yehuda’s opinion **is** identical to that of **the first *tanna*.**
+
+**14.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: שְׁלָקוֹ וְטִגְּנוֹ אִיכָּא בֵּינַיְיהוּ.
+*Translation:* **Abaye said: There is** a practical difference **between them** in a case where **one boiled or fried** the heart of palm. According to Rabbi Yehuda, it does not contract the ritual impurity of foods even if it was boiled or fried, whereas the first *tanna* holds that in that case it does contract impurity.
+
+**15.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רָבָא: מִי אִיכָּא לְמַאן דְּאָמַר שְׁלָקוֹ וְטִגְּנוֹ לָא? וְהָתַנְיָא: הָעוֹר וְהַשִּׁילְיָא אֵין מִטַּמְּאִין טוּמְאַת אוֹכָלִין. עוֹר שֶׁשְּׁלָקוֹ, וְשִׁילְיָא שֶׁחִישֵּׁב עָלֶיהָ — מִטַּמְּאִין טוּמְאַת אוֹכָלִין!
+*Translation:* **Rava strongly objects to this: Is there** really **anyone who said** that even if **one boiled or fried it,** it does **not** contract the ritual impurity of foods? **Wasn’t it taught** in a *baraita*: **The hide and the placenta** of an animal, which people do not typically eat, **do not contract the** ritual **impurity of foods;** however, **a hide that one boiled** until it became edible **and a placenta that one intended** to eat **do contract the impurity of foods?** This indicates that even something not originally fit to be eaten contracts the impurity of foods once it has been boiled or fried, and the same should apply to heart of palm according to all opinions.
+
+**16.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רָבָא: אִיכָּא בֵּינַיְיהוּ בְּרָכָה. דְּאִתְּמַר: קוֹר — רַב יְהוּדָה אָמַר: ״בּוֹרֵא פְּרִי הָאֲדָמָה״, וּשְׁמוּאֵל אָמַר: ״שֶׁהַכֹּל נִהְיֶה בִּדְבָרוֹ״.
+*Translation:* **Rather, Rava said: There is** a practical difference **between them** with regard to **the blessing** that must be recited prior to eating, **for it was stated** that the *amora’im* disagreed about the blessing recited over heart of palm: **Rav Yehuda said** the appropriate blessing is: **Who creates the fruit of the ground. And Shmuel said** the appropriate blessing is: **By Whose word all things came to be.**
+
+**17.**
+*Hebrew/Aramaic:* רַב יְהוּדָה אָמַר: ״בּוֹרֵא פְּרִי הָאֲדָמָה״ — אוּכְלָא הוּא. וּשְׁמוּאֵל אָמַר: ״שֶׁהַכֹּל נִהְיֶה בִּדְבָרוֹ״ — כֵּיוָן שֶׁסּוֹפוֹ לְהַקְשׁוֹת, לָא מְבָרְכִינַן עִילָּוֵיהּ ״בּוֹרֵא פְּרִי הָאֲדָמָה״.
+*Translation:* The Gemara explains the two opinions: **Rav Yehuda said** the appropriate blessing is: **Who creates the fruit of the ground, as it is food.** Since heart of palm is edible it is called a fruit, and we recite a blessing over it in the manner of all fruits. **And Shmuel said** the appropriate blessing is: **By Whose word all things came to be. Since it will eventually harden** and become like an inedible tree, **we do not recite over it the blessing: Who creates the fruit of the ground,** as it will eventually lose the status of a fruit.
+
+**18.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ שְׁמוּאֵל לְרַב יְהוּדָה: שִׁינָּנָא, כְּווֹתָיךְ מִסְתַּבְּרָא, דְּהָא צְנוֹן שֶׁסּוֹפוֹ לְהַקְשׁוֹת, וּמְבָרְכִינַן עֲלֵיהּ ״בּוֹרֵא פְּרִי הָאֲדָמָה״.
+*Translation:* **Shmuel said to Rav Yehuda: *Shinnana*, your opinion is reasonable, as a radish will eventually harden, and** yet **we recite over it the blessing: Who creates the fruit of the ground.**
+
+**19.**
+*Hebrew/Aramaic:* וְלָא הִיא, צְנוֹן נָטְעִי אִינָשֵׁי אַדַּעְתָּא דְפוּגְלָא, דִּיקְלָא — לָא נָטְעִי אִינָשֵׁי אַדַּעְתָּא דְקוֹרָא. וְאַף עַל גַּב דְּקַלְּסֵיהּ שְׁמוּאֵל לְרַב יְהוּדָה, הִלְכְתָא כְּווֹתֵיהּ דִּשְׁמוּאֵל.
+*Translation:* The Gemara comments: **But it is not so,** because **people plant radish with the intention** of eating it while it is **soft; but people do not plant palm trees with the intention** of eating **heart of palm.** Therefore, heart of palm is not considered the fruit of the palm, but rather food extracted from it, over which only the following blessing should be recited: By Whose word all things came to be. **And** the Gemara concludes: **Even though Shmuel praised Rav Yehuda, the *halakha* is in accordance with** the opinion of **Shmuel.**
+
+**20.**
+*Hebrew/Aramaic:* גּוּפָא, אָמַר רַב יְהוּדָה אָמַר רַב: כְּשׁוּת וַחֲזִיז מְעָרְבִין בָּהֶן, וּמְבָרְכִין עֲלֵיהֶם ״בּוֹרֵא פְּרִי הָאֲדָמָה״. כְּשׁוּת בְּכַמָּה? כִּדְאָמַר רַב יְחִיאֵל: כִּמְלֹא הַיָּד — הָכָא נָמֵי כִּמְלֹא הַיָּד.
+*Translation:* The Gemara now examines **the matter itself** cited in the previous discussion in the name of Rav. **Rav Yehuda said that Rav said** with regard to **dodder and green grain: One may establish an *eiruv* with them, and** when eating **them one recites the blessing: Who creates the fruit of the ground.** The Gemara asks: **How much dodder** must be used to establish an *eiruv*? The Gemara answers: **As Rav Yeḥiel said** with regard to a similar issue: **A handful. Here, too,** the measure is **a handful.**
+
+**21.**
+*Hebrew/Aramaic:* חֲזִיז בְּכַמָּה? אָמַר רַבָּה בַּר טוֹבִיָּה בַּר יִצְחָק אָמַר רַב: כִּמְלֹא אוּזִילְתָּא דְאִיכָּרֵי.
+*Translation:* Similarly, **how much green grain** is needed to establish an *eiruv*? **Rabba bar Toviya bar Yitzḥak said that Rav said: A full farmers’ bundle.**
+
+**22.**
+*Hebrew/Aramaic:* אֲמַר רַב חִלְקִיָּה בַּר טוֹבִיָּה: מְעָרְבִין בְּקִלְיָא. בְּקִלְיָא סָלְקָא דַּעְתָּךְ?! אֶלָּא בְּיַרְקָא דְקִלְיָא, וְכַמָּה? אָמַר רַב יְחִיאֵל: כִּמְלֹא הַיָּד.
+*Translation:* **Rav Ḥilkiya bar Toviya said: One may establish an *eiruv* with glasswort.** The Gemara expresses astonishment: **Does it enter your mind** that one may establish an *eiruv* **with glasswort?** People do not eat glasswort. **Rather,** one may establish an *eiruv* **with the herb from** whose ashes **glasswort** is prepared, as it is fit for human consumption before it is burnt. **And how much** of it is needed to establish an *eiruv*? **Rav Yeḥiel said: A handful.**
+
+**23.**
+*Hebrew/Aramaic:* רַבִּי יִרְמְיָה נְפַק לְקִירְיָיתָא, בְּעוֹ מִינֵּיהּ: מַהוּ לְעָרֵב בְּפוֹלִין לַחִין? לָא הֲוָה בִּידֵיהּ. כִּי אֲתָא לְבֵי מִדְרְשָׁא, אֲמַרוּ לֵיהּ: הָכִי אָמַר רַבִּי יַנַּאי: מְעָרְבִין בְּפוֹלִין לַחִין. וְכַמָּה? אָמַר רַב יְחִיאֵל: כִּמְלֹא הַיָּד.
+*Translation:* The Gemara relates that **Rabbi Yirmeya** once **went out to** visit certain **villages,** and the villagers **asked him: What is** the *halakha* with regard **to establishing an *eiruv* with moist beans? He did not have** an answer for them. **When he came to the study hall, they said to him: This is what Rabbi Yannai said: One may establish an *eiruv* with moist beans. And how much** is needed for that purpose? **Rav Yeḥiel said: A handful.**
+
+**24.**
+*Hebrew/Aramaic:* אָמַר רַב הַמְנוּנָא: מְעָרְבִין בִּתְרָדִין חַיִּין. אִינִי? וְהָאָמַר רַב חִסְדָּא: סִילְקָא חַיָּיא קָטֵיל גַּבְרָא חַיָּיא!
+*Translation:* **Rav Hamnuna said: One may** also **establish an *eiruv* with raw beets.** The Gemara raises a difficulty: **Is that so? Didn’t Rav Ḥisda say: Raw beet kills a healthy person,** which indicates that beets are unhealthy and should therefore be unfit for establishing an *eiruv*?

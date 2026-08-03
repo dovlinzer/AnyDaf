@@ -95,3 +95,68 @@
 **24.**
 *Hebrew/Aramaic:* כִּי נָח נַפְשֵׁיהּ דְּרַבָּה בַּר הוּנָא וְרַב הַמְנוּנָא, אַסְּקוּנְהוּ לְהָתָם.
 *Translation:* The Gemara relates that **when Rabba bar Huna and Rav Hamnuna died, they took them** both **up there,** to Eretz Yisrael.
+
+
+---
+
+### Moed Katan 25b
+
+**1.**
+*Hebrew/Aramaic:* כִּי מְטוֹ אַגִּישְׁרָא, קָמוּ גַּמְלֵי. אֲמַר לְהוּ הַהוּא טַיָּיעָא: מַאי הַאי? אֲמַרוּ לֵיהּ: רַבָּנַן דְּקָא עָבְדִי יְקָרָא אַהֲדָדֵי. מָר אָמַר: מָר נֵיעוּל בְּרֵישָׁא, וּמָר אָמַר: מָר נֵיעוּל בְּרֵישָׁא. אֲמַר: דִּינָא הוּא דְּרַבָּה בַּר הוּנָא לֵיעוּל בְּרֵישָׁא. חֲלֵיף גַּמְלֵיהּ דְּרַבָּה בַּר הוּנָא, נְתוּר כַּכֵּיהּ וְשִׁנֵּיהּ דְּהָהוּא טַיָּיעָא.
+*Translation:* **When they reached a bridge** that could be crossed only in single file, **the camels** carrying the two Sages **stood** in their places and would not cross the bridge. **A certain Arab** [***Tayya’a***] who witnessed what was happening **said to them: What is this** phenomenon that the camels have stopped moving? **They said to him: The** deceased **Sages are showing honor to each other.** It is as if one **Sage is saying: The Master should go** and cross the bridge **first,** while at the same time the other **Sage is saying: The Master should go** and cross **first.** The Arab **said: By law Rabba bar Huna should go first,** since he is the son of a great man, and **the camel** carrying **Rabba bar Huna** then **passed** first. Shortly thereafter, **the molars and** other **teeth of that Arab fell out** due to the disrespect he showed Rav Hamnuna.
+
+**2.**
+*Hebrew/Aramaic:* פְּתַח עֲלֵיהּ הַהוּא יָנוֹקָא: גֶּזַע יְשִׁישִׁים עָלָה מִבָּבֶל, וְעִמּוֹ סֵפֶר מִלְחָמוֹת, קָאַת וְקִפּוֹד הוּכְפְּלוּ, לִרְאוֹת בְּשׁוֹד וָשֶׁבֶר הַבָּא מִשִּׁנְעָר. קָצַף עַל עוֹלָמוֹ וְחָמַס מִמֶּנּוּ נְפָשׁוֹת, וְשָׂמַח בָּהֶם כְּכַלָּה חֲדָשָׁה. רוֹכֵב עֲרָבוֹת שָׂשׂ וְשָׂמַח, בְּבֹא אֵלָיו נֶפֶשׁ נָקִי וְצַדִּיק.
+*Translation:* When they reached Tiberias **a certain child opened** his eulogy saying as follows: **The shoot of an ancient line,** i.e., Rabba bar Rav Huna, who was the descendant of great people, **has ascended from Babylonia, and with him is the book of wars,** i.e., Rav Hamnuna, who was great in Torah, which is referred to as the book of the Wars of the Lord (Numbers 21:14). **The** curses of the **pelican and the bittern,** which are symbols of the destruction of the Temple (Isaiah 34:11), **have been doubled, to see the ruin and brokenness that has come from Shinar,** i.e., Babylonia. The Lord **became angry with His world and seized souls from it, and He rejoices over them** when they come to Him **like a new bride.** God **who rides upon the clouds is joyous and happy when an innocent and righteous soul comes to Him.**
+
+**3.**
+*Hebrew/Aramaic:* כִּי נָח נַפְשֵׁיהּ דְּרָבִינָא, פְּתַח עֲלֵיהּ הַהוּא סַפְדָנָא: תְּמָרִים הָנִיעוּ רֹאשׁ עַל צַדִּיק כַּתָּמָר, נָשִׂים לֵילוֹת כְּיָמִים עַל מֵשִׂים לֵילוֹת כְּיָמִים.
+*Translation:* § The Gemara continues recounting other famous eulogies. **When Ravina passed away, a certain eulogizer opened** his eulogy **for him** with the following words: **Date-palms, hang your heads** in sadness **over the righteous man who may be likened to a date-palm. Let us make,** our **nights like days** in weeping, **over** a man who **made** his **nights like days** studying the Torah.
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אָשֵׁי לְבַר קִיפּוֹק: הָהוּא יוֹמָא מַאי אָמְרַתְּ? אֲמַר לֵיהּ, אָמֵינָא: אִם בַּאֲרָזִים נָפְלָה שַׁלְהֶבֶת, מָה יַעֲשׂוּ אֵיזוֹבֵי קִיר. לִוְיָתָן בְּחַכָּה הוֹעֲלָה, מָה יַעֲשׂוּ דְּגֵי רְקָק. בְּנַחַל שׁוֹטֵף נָפְלָה חַכָּה, מָה יַעֲשׂוּ מֵי גֵבִים.
+*Translation:* The Gemara relates that prior to Ravina’s death, **Rav Ashi said to bar Kippok,** who was a famous eulogizer: **On that day** when Ravina will die, **what will you say? He said to him: I shall** begin my eulogy and **say** as follows: **If the cedars went up in flame, what shall the hyssop of the wall do? If the leviathan was lifted by a hook, what shall the** tiny **fish of the marsh do? If dryness overtook a flowing river, what can the water of the puddles do?**
+
+**5.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ בַּר אָבִין: חַס וְשָׁלוֹם דְּחַכָּה וְשַׁלְהֶבֶת בְּצַדִּיקֵי אָמֵינָא. וּמַאי אָמְרַתְּ? אָמֵינָא: בְּכוּ לָאֲבֵלִים וְלֹא לָאֲבֵידָה, שֶׁהִיא לִמְנוּחָה וְאָנוּ לַאֲנָחָה.
+*Translation:* **Bar Avin,** who was also a eulogizer, **said to him: God forbid** that the words **hook and flame** should be **said with regard to the righteous,** as these are not expressions of honor. Rav Ashi asked him: **And what will you say?** He said to him: **I shall say: Cry for the mourners and not for that which was lost, as** that which was lost, i.e., the soul of Ravina, has gone **to** its eternal **rest, while we,** the mourners, are left with our **sighs.**
+
+**6.**
+*Hebrew/Aramaic:* חֲלַשׁ דַּעְתֵּיהּ עֲלַיְיהוּ, וְאִתְהֲפוּךְ כַּרְעַיְיהוּ. הַהוּא יוֹמָא לָא אֲתוֹ לְאַסְפּוֹדֵיהּ. וְהַיְינוּ דְּאָמַר רַב אָשֵׁי: לָא בַּר קִיפּוֹק חָלֵיץ, וְלָא בַּר אָבִין חָלֵיץ.
+*Translation:* Rav Ashi **was offended by them,** as their words of praise for Ravina might have been understood as a show of disrespect to Rav Ashi, since they likened Ravina to a cedar and the other Sages, Rav Ashi included, to hyssops of the wall. Due to Rav Ashi’s anger, **their feet turned** inward and became crooked. **On that day** when Ravina actually died, **neither** of them **came to eulogize him. This is** what **Rav Ashi said** using a metaphor to describe this incident: **Neither bar Kippok can perform *ḥalitza*, nor can bar Avin perform *ḥalitza*,** because their feet are crooked and so their shoes cannot be removed from their feet in the proper manner.
+
+**7.**
+*Hebrew/Aramaic:* רָבָא, כִּי הֲוָה אֲתָא לְדִגְלַת, אֲמַר לֵיהּ לְבַר אָבִין: קוּם אֵימָא מִילְּתָא. קָאֵי וְאָמַר: בָּאוּ רוֹב שְׁלִישִׁית בְּמַיִם, זְכוֹר וְרַחֵם. תָּעִינוּ מֵאַחֲרֶיךָ כְּאִשָּׁה מִבַּעְלָהּ, אַל תַּזְנִיחֵנוּ כְּאוֹת מֵי מָרָה.
+*Translation:* **When Rava** once **came to the Tigris** River, and he was concerned that he might be swept away by the water, **he said to bar Avin: Rise** and **say** a prayer on our behalf. **He rose and said: Most of the third,** a poetic reference to the Jewish people (Isaiah 19:24), **has come in the water,** implying that Rava was equal in importance to the majority of the Jewish people. **Remember** then **and have mercy** on us. Although **we have strayed from you like an** unfaithful **woman** strays **from her husband, do not forsake** and punish **us like the sign of the bitter water,** with which a woman suspected of adultery is tested. That is to say, do not punish us with water.
+
+**8.**
+*Hebrew/Aramaic:* (חָנִין, יוֹחָנָן, זֵירָא, אַבָּא, יַעֲקֹב, יוֹסֵי, שְׁמוּאֵל, חִיָּיא, מְנַחֵם סִימָן).
+*Translation:* Apropos eulogies for righteous men, the Gemara presents the names: **Ḥanin, Yoḥanan, Zeira, Abba, Ya’akov, Yosei, Shmuel, Ḥiyya,** and **Menaḥem;** this is a **mnemonic device** for the stories that follow.
+
+**9.**
+*Hebrew/Aramaic:* רַבִּי חָנִין, חַתְנֵיהּ דְּבֵי נְשִׂיאָה הֲוָה. לָא (קָא) הֲווֹ לֵיהּ בְּנֵי, בְּעָא רַחֲמֵי וַהֲווֹ לֵיהּ. הָהוּא יוֹמָא דַּהֲוָה לֵיהּ, נָח נַפְשֵׁיהּ, פְּתַח עֲלֵיהּ הַהוּא סַפְדָנָא: שִׂמְחָה לְתוּגָה נֶהְפָּכָה, שָׂשׂוֹן וְיָגוֹן נִדְבָּקוּ, בְּעֵת שִׂמְחָתוֹ נֶאֱנַח, בְּעֵת חֲנִינָתוֹ אָבַד חֲנִינוֹ. אַסִּיקוּ לֵיהּ חָנִן עַל שְׁמֵיהּ.
+*Translation:* It was related that **Rabbi Ḥanin was a son-in-law in the house of the *Nasi*.** At first **he did not have** any **children,** but **he prayed** that God have **mercy** on him, **and** then **had** a child. **On the** same **day that** a son **was** born **to him, he** himself **passed away. A certain eulogizer opened** his eulogy **for him** with the following words: **Happiness has been turned into sorrow; joy and suffering have become joined together. At the moment of his happiness he sighed** his dying breath. **At the moment he was graced** with a son, **his** own **grace was lost. And they named** the child **Ḥanan after** his father.
+
+**10.**
+*Hebrew/Aramaic:* כִּי נָח נַפְשֵׁיהּ דְּרַבִּי יוֹחָנָן, פְּתַח עֲלֵיהּ רַבִּי יִצְחָק בֶּן אֶלְעָזָר: קָשֶׁה הַיּוֹם לְיִשְׂרָאֵל כְּיוֹם בֹּא הַשֶּׁמֶשׁ בַּצׇּהֳרַיִם, דִּכְתִיב: ״וְהָיָה בַּיּוֹם הַהוּא וְהֵבֵאתִי הַשֶּׁמֶשׁ בַּצׇּהֳרַיִם״. וְאָמַר רַבִּי יוֹחָנָן: זֶה יוֹמוֹ שֶׁל יֹאשִׁיָּהוּ.
+*Translation:* **When Rabbi Yoḥanan passed away, Rabbi Yitzḥak ben Elazar opened** his eulogy **for him** as follows: **Today is as difficult for the Jewish people as the day that the sun set at noon, as it is written: “And it shall come to pass on that day,** says the Lord God, **that I will cause the sun to go down at noon,** and I will darken the earth in the clear day. And I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning for an only son, and its end like a bitter day” (Amos 8:9–10). **And Rabbi Yoḥanan said: This was the day** on which King **Josiah** was killed (see II Chronicles 35:20–24). This demonstrates that the most righteous person of the generation is described as the sun.
+
+**11.**
+*Hebrew/Aramaic:* כִּי נָח נַפְשֵׁיהּ דְּרַבִּי יוֹחָנָן, יָתֵיב רַבִּי אַמֵּי שִׁבְעָה וּשְׁלֹשִׁים. אָמַר רַבִּי אַבָּא בְּרֵיהּ דְּרַבִּי חִיָּיא בַּר אַבָּא: רַבִּי אַמֵּי דַּעֲבַד — לְגַרְמֵיהּ הוּא דַּעֲבַד, דְּהָכִי אָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: אֲפִילּוּ רַבּוֹ שֶׁלִּימְּדוֹ חׇכְמָה — אֵינוֹ יוֹשֵׁב עָלָיו אֶלָּא יוֹם אֶחָד.
+*Translation:* It was further related that **when Rabbi Yoḥanan passed away, Rabbi Ami sat** in mourning for him for **seven** days **and** for **thirty** days as though he had lost a close relative. **Rabbi Abba, son of Rabbi Ḥiyya bar Abba, said:** What **Rabbi Ami did, he did on his own,** but this practice does not reflect the *halakha*. **For Rabbi Ḥiyya bar Abba said** that **Rabbi Yoḥanan said as follows: Even** for the death of **his teacher who taught him wisdom, one sits** in mourning **over him for only one day** and no more.
+
+**12.**
+*Hebrew/Aramaic:* כִּי נָח נַפְשֵׁיהּ דְּרַבִּי זֵירָא, פְּתַח עֲלֵיהּ הַהוּא סַפְדָנָא: אֶרֶץ שִׁנְעָר הָרָה וְיָלְדָה, אֶרֶץ צְבִי גִּידְּלָה שַׁעֲשׁוּעֶיהָ. אוֹי נָא לָהּ אָמְרָה רַקַּת, כִּי אִבְּדָה כְּלִי חֶמְדָּתָהּ.
+*Translation:* The Gemara tells of another incident about a eulogy: **When Rabbi Zeira died, a certain eulogizer opened** his eulogy **for him** saying: **The land of Shinar conceived and gave birth** to him, as he was originally Babylonian, but **the land of beauty,** i.e., Eretz Yisrael, **raised the darling** of Babylonia, as he later moved to Eretz Yisrael and grew up there. **Woe to her, said Rakkath,** a poetic name for Tiberias, **for her dearest vessel has been lost.**
+
+**13.**
+*Hebrew/Aramaic:* כִּי נָח נַפְשֵׁיהּ דְּרַבִּי אֲבָהוּ, אַחִיתוּ עַמּוּדֵי דְקֵסָרִי מַיָּא. דְּרַבִּי יוֹסֵי, שְׁפַעוּ מַרְזְבֵי דְצִיפּוֹרִי דְּמָא. דְּרַבִּי יַעֲקֹב, אִתְחֲמִיאוּ כּוֹכְבֵי בִּימָמָא. דְּרַבִּי אַסִּי, אִיעֲקַרוּ כׇּל אִילָנַיָּא. דְּרַבִּי חִיָּיא, נְחִיתוּ כֵּיפֵי דְנוּרָא מֵרְקִיעָא. דְּרַבִּי מְנַחֵם בְּרַבִּי יוֹסֵי, אִישְׁתַּעוֹ צַלְמָנַיָּיא וַהֲווֹ (לְמַחְלְצַיָּיא).
+*Translation:* The Gemara continues to discuss the death of the righteous: **When Rabbi Abbahu passed away, the pillars of Caesarea,** his city, **ran with water** as if they were shedding tears over him. When **Rabbi Yosei** passed away, **the gutters of Tzippori,** his city, **flowed with blood.** When **Rabbi Ya’akov** passed away, **the stars were visible during the day.** When **Rabbi Asi** passed away, **all the trees were uprooted** in a storm. When **Rabbi Ḥiyya** passed away, **fiery stones fell from the sky.** When **Rabbi Menaḥem, son of Rabbi Yosei,** passed away, the faces of **the statues became smooth as if they had been smoothed with** a plasterer’s **trowel** [***meḥlatzaya***].
+
+**14.**
+*Hebrew/Aramaic:* דְּרַבִּי תַּנְחוּם בַּר חִיָּיא, אִיתְקַצַּצוּ כֹּל אַנְדְּרָטַיָּא. דְּרַבִּי אֶלְיָשִׁיב, אִיחֲתַרוּ שִׁבְעִין מַחְתַּרְתָּא בִּנְהַרְדְּעָא. דְּרַב הַמְנוּנָא, נְחִיתוּ כֵּיפֵי דְבַרְדָּא מֵרְקִיעָא. דְּרַבָּה וְרַב יוֹסֵף, נְשׁוּק כֵּיפֵי דִפְרָת אַהֲדָדֵי. דְּאַבָּיֵי וְרָבָא, נְשׁוּק כֵּיפֵי דְּדִגְלַת אַהֲדָדֵי. כִּי נָח נַפְשֵׁיהּ דְּרַבִּי מְשַׁרְשְׁיָא, טְעוּן דִּיקְלֵי שִׁיצֵי.
+*Translation:* When **Rabbi Tanḥum bar Ḥiyya** passed away, **every statue [*andartaya*]** of the king **was mutilated.** When **Rabbi Elyashiv** passed away, **seventy tunnels** of thieves **were dug in Neharde’a,** because as long as he was alive there were no thieves in the town due to his merit. When **Rav Hamnuna** passed away, **hail stones fell from the sky.** When **Rabba and Rav Yosef** passed away, the tops of **the bridges of the Euphrates** collapsed and **touched each other.** When **Abaye and Rava** passed away, the tops of **the bridges of the Tigris** collapsed and **touched each other.** When **Rabbi Mesharshiyya** passed away, **the palm trees** became **laden** with **thorns [*shitzei*].**
+
+**15.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן:
+*Translation:* § The Gemara returns to the subject of tearing garments in mourning: **The Sages taught** the following *baraita*:

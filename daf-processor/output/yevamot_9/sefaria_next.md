@@ -47,3 +47,72 @@
 **12.**
 *Hebrew/Aramaic:* דְּתָנֵי לֵוִי: אִמּוֹ, פְּעָמִים פּוֹטֶרֶת צָרָתָהּ, וּפְעָמִים אֵינָהּ פּוֹטֶרֶת צָרָתָהּ. כֵּיצַד? הָיְתָה אִמּוֹ נְשׂוּאַת אָבִיו, וְנִשֵּׂאת לְאָחִיו מֵאָבִיו, וּמֵת — זוֹ הִיא אִמּוֹ שֶׁאֵין פּוֹטֶרֶת צָרָתָהּ.
 *Translation:* **As Levi taught** in his *baraita*: With regard to the case of **his mother, at times she exempts her rival wife, and at** other **times she does not exempt her rival wife**. **How so?** If **his mother was married to his father and** after his father’s death she illicitly **married** her son’s **paternal brother, who** then **died, this is** a case of: **His mother who does not exempt her rival wife.** The reason is that her marriage to his brother does not take effect at all, as it was forbidden on pain of *karet*. Since this marriage never occurred, only the other wife, the so-called rival wife, is considered a wife of the brother, and she may enter into levirate marriage.
+
+
+---
+
+### Yevamot 10b
+
+**1.**
+*Hebrew/Aramaic:* הָיְתָה אִמּוֹ אֲנוּסַת אָבִיו, וְנִשֵּׂאת לְאָחִיו מֵאָבִיו, וּמֵת — זוֹ הִיא אִמּוֹ שֶׁפּוֹטֶרֶת צָרָתָהּ.
+*Translation:* If, however, **his mother was a woman** who was **raped by his father and** subsequently **married his paternal brother, and** the brother **died, this is** a case of **his mother who exempts her rival wife.** According to the opinion of the Rabbis this marriage is permitted, and even according to the opinion of Rabbi Yehuda the marriage is valid despite the transgression. Consequently, both the mother and her rival wife come before the son for levirate marriage. Since the mother is a forbidden relation to him, her rival wife is exempt as well.
+
+**2.**
+*Hebrew/Aramaic:* וְאַף עַל פִּי שֶׁשָּׁנוּ חֲכָמִים בְּמִשְׁנָתֵנוּ ״חֲמֵשׁ עֶשְׂרֵה״, יֵשׁ לָנוּ לְהוֹסִיף שֵׁשׁ עֶשְׂרֵה כְּגוֹן זוֹ. אֲמַר לֵיהּ רֵישׁ לָקִישׁ לְרַבִּי יוֹחָנָן: לְלֵוִי דַּאֲמַר ״דְּאִי״ נָמֵי קָתָנֵי — לִתְנֵי: הַחוֹלֵץ לִיבִמְתּוֹ וְחָזַר וְקִדְּשָׁהּ, וּמֵת בְּלֹא בָּנִים, דְּמִגּוֹ דְּאִיהִי אֲסוּרָה — צָרָתָהּ נָמֵי אֲסִירָא!
+*Translation:* **And although the Sages taught in the mishna: Fifteen** women, **we must add a sixteenth** case, **for example,** the situation described above. **Reish Lakish said to Rabbi Yoḥanan: According to** the opinion of **Levi, who said** that the mishna **teaches even** cases of: **What if,** which involve a transgression, **let** the mishna also **teach** the case of **one who performs *ḥalitza* with his *yevama* and went back and betrothed her, and** then **died childless.** His betrothal is a transgression, as after *ḥalitza* the *yevama* is permanently forbidden to him. **As,** in this case, **since she is forbidden** to all the brothers, due to the *ḥalitza* performed by the deceased *yavam*, **her rival wife is also forbidden.** This is an additional case of a woman who exempts her rival wife.
+
+**3.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: לְפִי שֶׁאֵינָהּ בְּצָרַת צָרָה.
+*Translation:* Rabbi Yoḥanan **said to** Reish Lakish: This example is not cited **because** the case **does not** include the possibility **of a rival wife of a rival wife.** All of the other cases listed in the mishna involve both rival wives and rival wives of rival wives. Here, however, this is impossible, as the same prohibition applies equally to all of the brothers, and therefore none of them may marry her.
+
+**4.**
+*Hebrew/Aramaic:* וְלֵימָא לֵיהּ: חַיָּיבֵי לָאוִין הִיא, וְחַיָּיבֵי לָאוִין בְּנֵי חֲלִיצָה וְיִבּוּם נִינְהוּ.
+*Translation:* The Gemara asks: **And let** Rabbi Yoḥanan **say** a different answer **to** Reish Lakish, as he could simply have pointed out that marriage to a woman who had performed *ḥalitza* is not a violation that incurs *karet*, neither for the one who performed the *ḥalitza* nor for his brothers if they marry her after he dies. Rather, **it is** an act for which they are **liable for** violating a regular **prohibition, and those liable for** violating **a prohibition are** obligated **in *ḥalitza* and levirate marriage.** In these cases the mitzva of levirate marriage still applies, and although the woman should be released by *ḥalitza*, she is not entirely exempt from levirate marriage, and therefore her rival wife is not exempt either.
+
+**5.**
+*Hebrew/Aramaic:* לִדְבָרָיו קָאָמַר לֵיהּ: לְדִידִי — חַיָּיבֵי לָאוִין הֵם, וְחַיָּיבֵי לָאוִין בְּנֵי חֲלִיצָה וְיִבּוּם נִינְהוּ. אֶלָּא לְדִידָךְ — חַיָּיבֵי כָּרֵיתוֹת נִינְהוּ. לְפִי שֶׁאֵינָן בְּצָרַת צָרָה.
+*Translation:* The Gemara responds that Rabbi Yoḥanan **is speaking in accordance with the statement of** Reish Lakish, as follows: According **to my** opinion your question is groundless, as **they are liable for** violating **a prohibition, and those liable for** violating **a prohibition are** obligated **in *ḥalitza* and levirate marriage. However,** according **to your** opinion, **those** brothers who marry a *yevama* who had performed *ḥalitza* **are liable to** receive ***karet*,** and therefore you must resolve the difficulty by saying that the mishna did not teach this case **because** it **does not** include the possibility **of a rival wife of a rival wife.**
+
+**6.**
+*Hebrew/Aramaic:* אִיתְּמַר: הַחוֹלֵץ לִיבִמְתּוֹ וְחָזַר וְקִדְּשָׁהּ, אָמַר רֵישׁ לָקִישׁ: הוּא — אֵין חַיָּיב עַל הַחֲלוּצָה כָּרֵת,
+*Translation:* The Gemara discusses the dispute alluded to in the previous paragraph. **It was stated:** With regard to **one who performs *ḥalitza* with his *yevama* and went back and betrothed her, Reish Lakish said:** The brother who earlier performed *ḥalitza* **is not liable to** receive ***karet* for** returning to **the *yevama* who performed *ḥalitza* [*ḥalutza*].** She is no longer forbidden as a brother’s wife, although she is forbidden by a regular prohibition.
+
+**7.**
+*Hebrew/Aramaic:* וְהָאַחִין — חַיָּיבִין עַל הַחֲלוּצָה כָּרֵת. עַל הַצָּרָה, בֵּין הוּא וּבֵין הָאַחִים — חַיָּיבִין עַל הַצָּרָה כָּרֵת.
+*Translation:* **And the brothers** who did not actually perform the *ḥalitza* **are liable to** receive ***karet* for** having relations with **a *ḥalutza*.** In their case, the woman retains her status as a forbidden brother’s wife even after the *ḥalitza*. **With regard to the rival wife** of the *ḥalutza*, although she too is released from the levirate bond, since the act of *ḥalitza* itself was not performed with her, **both** the brother who performed the *ḥalitza* **and the** other **brothers are liable to** receive ***karet* for** having relations with **the rival wife,** as she retains her forbidden status as a brother’s wife.
+
+**8.**
+*Hebrew/Aramaic:* וְרַבִּי יוֹחָנָן אָמַר: בֵּין הוּא וּבֵין הָאַחִין אֵינָן חַיָּיבִין לֹא עַל הַחֲלוּצָה כָּרֵת, וְלֹא עַל הַצָּרָה כָּרֵת. מַאי טַעְמָא דְּרֵישׁ לָקִישׁ? אָמַר קְרָא: ״אֲשֶׁר לֹא יִבְנֶה״, כֵּיוָן שֶׁלֹּא בָּנָה — שׁוּב לֹא יִבְנֶה.
+*Translation:* **And Rabbi Yoḥanan said: Neither he nor the** other **brothers are liable to** receive ***karet*, neither for the *ḥalutza* nor for** having relations with **the rival wife.** The Gemara explains: **What is the rationale of Reish Lakish? The verse states** with regard to one who performs *ḥalitza* with his *yevama*: **“Who does not build up** his brother’s house” (Deuteronomy 25:9), which teaches that **since he did not build** his brother’s house by entering into levirate marriage, opting instead for *ḥalitza*, **he shall never build** it **again.** This statement is understood not only as a negative description of events, but also as a prohibition against marrying this woman at any point in the future.
+
+**9.**
+*Hebrew/Aramaic:* אִיהוּ הוּא דְּקָאֵי בְּ״לֹא יִבְנֶה״, אֲבָל אֶחָיו — כִּדְקָיְימִי קָיְימִי.
+*Translation:* However, **it is** the man who performed the act of *ḥalitza* **who stands** liable **to** receive punishment for violating this prohibition of: **Does not build up,** i.e., the prohibition against marrying his *ḥalutza*. For him the prohibition involving *karet* has been replaced by the regular prohibition of: Who does not build up his brother’s house. **However,** with regard to his **brothers, where they stood** before, **they stand** now. In other words, just as before the mitzva of levirate marriage applied to them this woman was forbidden to them as a brother’s wife, once the obligation of levirate marriage has been removed they remain bound by the same prohibition. Consequently, she is forbidden to the brothers on pain of *karet*.
+
+**10.**
+*Hebrew/Aramaic:* וַעֲלֵהּ דִּידַהּ, הוּא דְּקָאֵי בְּ״לֹא יִבְנֶה״, הָא צָרָה — כִּדְקָיְימָא קָיְימָא.
+*Translation:* **And** furthermore, only **with regard to her,** the *ḥalutza*, **does he stand** liable **for: Does not build up,** but as for **the rival wife,** who did not perform *ḥalitza*, **where** all the brothers **stood** before, **they stand** now. Just as before her rival wife performed *ḥalitza* she was forbidden on pain of *karet*, the same applies after the *ḥalitza*, both for the man who performed *ḥalitza* and his brothers.
+
+**11.**
+*Hebrew/Aramaic:* וְרַבִּי יוֹחָנָן: מִי אִיכָּא מִידֵּי דְּמֵעִיקָּרָא אִי בָּעֵי הַאי — חָלֵיץ, וְאִי בָּעֵי הַאי — חָלֵיץ, וְאִי בָּעֵי — לְהַאי חָלֵיץ, וְאִי בָּעֵי — לְהַאי חָלֵיץ, וְהַשְׁתָּא קָאֵי עֲלַהּ בְּכָרֵת?
+*Translation:* **And Rabbi Yoḥanan** claims: **Is there anything** of this kind in *halakha*? After all, **at the outset,** before the *ḥalitza*, **if this** brother **wanted** he could **perform *ḥalitza*, and if that** brother **wanted** he could **perform *ḥalitza*, and if he wanted** he could **perform *ḥalitza* with this** woman **and if he wanted** he could **perform *ḥalitza* with that** woman. All the deceased brother’s wives were included in the levirate obligation of marriage or *ḥalitza*, and therefore the prohibition proscribing a brother’s wife was negated for all of them at that time. **And now,** after the *ḥalitza*, **they stand to** incur ***karet* for** having relations with **her?** How can the prohibition proscribing a brother’s wife return after it was nullified by the death of the childless brother?
+
+**12.**
+*Hebrew/Aramaic:* אֶלָּא, אִיהוּ שְׁלִיחוּתָא דְאַחִים קָעָבֵיד, אִיהִי שְׁלִיחוּתָא דְצָרָה קָעָבְדָה.
+*Translation:* **Rather, he** who performs *ḥalitza* **performs the agency of the** other **brothers,** and therefore he also releases her from the levirate bond of his brothers. Similarly, **she** who performs *ḥalitza* **performs the agency of the rival wife,** as the *ḥalitza* of one wife serves to release the other one as well. Consequently, it is as though all of the brothers released all of the wives, and there is no longer any prohibition that incurs *karet*.
+
+**13.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רַבִּי יוֹחָנָן לְרֵישׁ לָקִישׁ: הַחוֹלֵץ לִיבִמְתּוֹ, וְחָזַר וְקִדְּשָׁהּ, וּמֵת — צְרִיכָה חֲלִיצָה מִן הָאַחִין. בִּשְׁלָמָא לְדִידִי, דְּאָמֵינָא חַיָּיבֵי לָאוִין נִינְהוּ, הַיְינוּ דִּצְרִיכָה חֲלִיצָה מִן הָאַחִין.
+*Translation:* § The Gemara cites the ensuing discussion between the two disputing Sages. **Rabbi Yoḥanan raised an objection to** the opinion of **Reish Lakish** from a *baraita*: In the case of **one who performs *ḥalitza* with his *yevama* and went back and betrothed her, and** then **died, she requires *ḥalitza* from** one of **the brothers. Granted,** this makes sense according **to my** opinion, **as I say** that brothers who marry a *ḥalutza* **are liable** only **for** violating **a prohibition,** and **that is** why **she requires *ḥalitza* from the** other **brothers.** The principle is that a woman with whom relations are forbidden by a regular prohibition that does not incur *karet* may not enter into levirate marriage, but she must undergo *ḥalitza*.
+
+**14.**
+*Hebrew/Aramaic:* אֶלָּא לְדִידָךְ, אַמַּאי צְרִיכָה חֲלִיצָה?
+*Translation:* **However,** according **to your** opinion that the penalty of *karet* does apply here, **why does she require *ḥalitza*** at all? The penalty of *karet* indicates that the betrothal did not take effect at all, and therefore she is not bound to the brothers with regard to the requirement of *ḥalitza*.
+
+**15.**
+*Hebrew/Aramaic:* וּלְטַעְמָיךְ, אֵימָא סֵיפָא: עָמַד אֶחָד מִן הָאַחִין וְקִדְּשָׁהּ, אֵין לָהּ עָלָיו כְּלוּם. וְאִי חַיָּיבֵי לָאוִין נִינְהוּ, אַמַּאי אֵין לָהּ עָלָיו כְּלוּם?
+*Translation:* Reish Lakish answered: **And according to your reasoning,** how would you **state** and explain **the latter clause** of the *baraita*: If **one of the brothers arose and betrothed her, she has no claims on him,** i.e., the marriage does not take effect at all and she does not require a bill of divorce from him? **But if** the brothers **are liable** only **for** violating **a prohibition, why does she have no claim on him?** After all, in cases of regular prohibitions a betrothal is valid. According to my opinion that these brothers are liable to receive *karet* the matter is clear, as the betrothal is invalid. This indicates that there is a contradiction between the first and latter clauses of the *baraita*. How, then, can Rabbi Yoḥanan cite a proof from an apparently flawed *baraita*?
+
+**16.**
+*Hebrew/Aramaic:* אָמַר רַב שֵׁשֶׁת: סֵיפָא אֲתָאן לְרַבִּי עֲקִיבָא, דְּאָמַר: אֵין קִידּוּשִׁין תּוֹפְסִין בְּחַיָּיבֵי לָאוִין. וְלִיתְנֵי: לְדִבְרֵי רַבִּי עֲקִיבָא אֵין לוֹ עָלָיו כְּלוּם!
+*Translation:* **Rav Sheshet said** in resolution of this contradiction: In the **latter clause** of the *baraita* **we have come to** a different opinion, that of **Rabbi Akiva, who said: Betrothal with those** who are forbidden as they are **liable for** violating **a prohibition is not valid.** In Rabbi Akiva’s opinion there is no difference between regular prohibitions and prohibitions that incur *karet* in this regard, as in both cases the betrothals are invalid. The Gemara raises a difficulty: **But** if the first clause of the *baraita* is in accordance with the opinion of the Rabbis, while the latter clause is in accordance with a different opinion, **let** the mishna **teach** explicitly: **According to the statement of Rabbi Akiva she has no claims on him,** as this represents a different opinion.

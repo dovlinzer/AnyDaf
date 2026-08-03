@@ -71,3 +71,48 @@
 **18.**
 *Hebrew/Aramaic:* וְכִי אִית לֵיהּ אוֹגְנַיִים, מַאי הָוֵי? וְהָתְנַן: הַטּוֹמֵן לֶפֶת וּצְנוֹן תַּחַת הַגֶּפֶן, בִּזְמַן
 *Translation:* The Gemara further challenges this explanation: **And if** the basin **has a rim, what of it? Didn’t we learn** in a mishna: With regard to **one who buries a turnip or a radish** in the ground **beneath a vine** for safekeeping, **when**
+
+
+---
+
+### Eruvin 77b
+
+**1.**
+*Hebrew/Aramaic:* שֶׁמִּקְצָת עָלִין מְגוּלִּין אֵינוֹ חוֹשֵׁשׁ לֹא מִשּׁוּם כִּלְאַיִם, וְלֹא מִשּׁוּם מַעֲשֵׂר, וְלֹא מִשּׁוּם שְׁבִיעִית, וְנִיטָּלִין בַּשַּׁבָּת!
+*Translation:* **some of the leaves** of the turnip or radish **are showing, he need not be concerned due to diverse kinds,** i.e., that he violated the prohibition of planting food crops in a vineyard, as he did not intend to commit an act of planting; **nor due to tithes,** i.e., there is no concern lest the turnip or radish grew further, in which case he would be obligated to tithe it; **nor due to** the prohibition against working the land during **the Sabbatical Year,** and similarly, he need not be concerned that they grew further and that the additional growth is prohibited as produce that grew during the Sabbatical Year. **And** therefore, the turnip or radish **may be taken** from the ground **on Shabbat.** Even if most of the turnip or radish is underground, it is permitted to pull it from the ground on Shabbat. If so, in the case described in the mishna here, even if the basin buried in the ground has a rim, it should nevertheless be permitted to move it.
+
+**2.**
+*Hebrew/Aramaic:* לָא צְרִיכָא, דְּבָעֵי מָרָא וַחֲצִינָא.
+*Translation:* The Gemara answers: **No,** Rabbi Yeḥiel’s ruling **is necessary** in a case where the basin was so firmly attached to the ground **that one would need a hoe [*mara*] or a spade** to remove it, as this action would certainly involve digging, which is prohibited on Shabbat. Therefore, since the basin cannot be removed on Shabbat, it is considered fixed in its place and effectively diminishes the height of the wall.
+
+**3.**
+*Hebrew/Aramaic:* סוּלָּם הַמִּצְרִי אֵינוֹ מְמַעֵט וְהַצּוֹרִי מְמַעֵט. הֵיכִי דָּמֵי סוּלָּם הַמִּצְרִי? אָמְרִי דְּבֵי רַבִּי יַנַּאי: כֹּל שֶׁאֵין לוֹ אַרְבָּעָה חֲווֹקִים.
+*Translation:* It was taught in a *baraita*: **An Egyptian ladder,** which is small, **does not diminish** the height of a wall, whereas **a** larger, **Tyrian** ladder effectively **diminishes** its height. The Gemara asks: **What are the circumstances** of an **Egyptian ladder;** i.e., what characterizes it? **The** scholars of the **school of Rabbi Yannai said: Any** ladder **that does not have four rungs.**
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: מַאי טַעְמָא דְּסוּלָּם הַמִּצְרִי דְּלָא מְמַעֵט? אֲמַר לֵיהּ: לָא שְׁמִיעַ לָךְ הָא דְּאָמַר רַב אַחָא בַּר אַדָּא אָמַר רַב הַמְנוּנָא אָמַר רַב: מִשּׁוּם דְּהָוֵה לֵיהּ דָּבָר שֶׁנִּיטָּל בְּשַׁבָּת, וְכׇל דָּבָר שֶׁנִּיטָּל בְּשַׁבָּת — אֵינוֹ מְמַעֵט.
+*Translation:* **Rav Aḥa, son of Rava, said to Rav Ashi: What is the reason** that **an Egyptian ladder does not diminish** the height of a wall? He **said to him: Did you not hear** that which **Rav Aḥa bar Adda said** that **Rav Hamnuna said** that **Rav said:** It is **because it is an object that may be moved on Shabbat,** i.e., it is not set-aside [*muktze*], **and** the principle is that **any object that may be moved on Shabbat does not diminish** the height of a wall, as it cannot be considered a permanent part of the wall.
+
+**5.**
+*Hebrew/Aramaic:* אִי הָכִי, אֲפִילּוּ צוֹרִי נָמֵי! הָתָם כּוֹבְדוֹ קוֹבְעוֹ.
+*Translation:* The Gemara objects: **If so,** this should apply **even** to **a Tyrian** ladder **as well,** as a large ladder is also not set-aside and may be handled on Shabbat. The Gemara answers: **There,** in the case of a Tyrian ladder, **its heaviness establishes it** as part of the wall. Even though one is permitted to move it, since due to its weight it is not moved easily, it effectively diminishes the height of the wall.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: כּוֹתֶל שֶׁבֵּין שְׁתֵּי חֲצֵירוֹת גָּבוֹהַּ עֲשָׂרָה טְפָחִים, וְהִנִּיחַ סוּלָּם רָחָב אַרְבָּעָה מִכָּאן וְסוּלַּם רָחָב אַרְבָּעָה מִכָּאן, וְאֵין בֵּין זֶה לָזֶה שְׁלֹשָׁה טְפָחִים — מְמַעֵט. שְׁלֹשָׁה — אֵינוֹ מְמַעֵט.
+*Translation:* **Abaye said:** If **a wall between two courtyards** is **ten handbreadths high, and one placed a ladder four** handbreadths **wide** against the wall **on one side,** in one courtyard, **and** another **ladder four** handbreadths **wide on the other side,** in the other courtyard, **and there are less than three handbreadths between them,** i.e., the two ladders on the opposite sides of the wall are within three handbreadths of each other, even if they are not directly opposite each other, this **diminishes** the height of the wall. The pair of ladders is regarded as a valid passageway between the two courtyards. However, if the gap between the two ladders is **three** handbreadths or more, this **does not diminish** the height of the wall.
+
+**7.**
+*Hebrew/Aramaic:* וְלָא אֲמַרַן אֶלָּא דְּלָא הָוֵי כּוֹתֶל אַרְבָּעָה, אֲבָל הָוֵי כּוֹתֶל אַרְבָּעָה — אֲפִילּוּ מוּפְלָג טוּבָא, נָמֵי.
+*Translation:* **And we only said** this qualification if the **wall was less than four** handbreadths wide. However, **if** the **wall was** at least **four** handbreadths wide, then **even** if one ladder was **greatly distanced** from the other, this **likewise** renders it permitted. Since it is possible to walk along the thickness of the wall, the pair of ladders constitutes a passageway between the two courtyards.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַב בִּיבִי בַּר אַבָּיֵי: בָּנָה אִיצְטְבָא עַל גַּב אִיצְטְבָא, אִם יֵשׁ בָּאִיצְטְבָא הַתַּחְתּוֹנָה אַרְבָּעָה — מְמַעֵט. אִי נָמֵי אֵין בַּתַּחְתּוֹנָה אַרְבָּעָה, וְיֵשׁ בָּעֶלְיוֹנָה אַרְבָּעָה, וְאֵין בֵּין זֶה לָזֶה שְׁלֹשָׁה — מְמַעֵט.
+*Translation:* **Rav Beivai bar Abaye said: If one built a** wooden **platform** next to the wall **above** another **platform,** then **if the lower platform is four** handbreadths wide, **it diminishes** the height of the wall to below ten handbreadths. **Alternatively,** if **the lower** one **is not four** handbreadths wide, **but the upper** one **is four** handbreadths wide, **and there is** a gap of **less than three** handbreadths **between them, it diminishes** the height of the wall, as the two platforms are considered as one.
+
+**9.**
+*Hebrew/Aramaic:* וְאָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: סוּלָּם שֶׁשְּׁלִיבוֹתָיו פּוֹרְחוֹת, אִם יֵשׁ בַּשְּׁלִיבָה הַתַּחְתּוֹנָה אַרְבָּעָה — מְמַעֵט. אִי נָמֵי אֵין בַּשְּׁלִיבָה הַתַּחְתּוֹנָה אַרְבָּעָה וְיֵשׁ בַּשְּׁלִיבָה הָעֶלְיוֹנָה אַרְבָּעָה, וְאֵין בֵּין זֶה לָזֶה שְׁלֹשָׁה — מְמַעֵט.
+*Translation:* **And Rav Naḥman said** that **Rabba bar Avuh said:** In the case of **a ladder whose rungs are disconnected, if the bottom rung is four** handbreadths wide, **it diminishes** the height of the wall. **Alternatively,** if **the bottom rung is not four** handbreadths wide, **but the upper rung is four** handbreadths wide, **and there is** a gap of **less than three** handbreadths **between them, it diminishes** the height of the wall, because the principle of *lavud* joins the two rungs together.
+
+**10.**
+*Hebrew/Aramaic:* וְאָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ:
+*Translation:* **And Rav Naḥman said that Rabba bar Avuh said:**

@@ -1,0 +1,97 @@
+### Sanhedrin 57a
+
+**1.**
+*Hebrew/Aramaic:* דִּכְתִיב: ״וַתִּשָּׁחֵת הָאָרֶץ לִפְנֵי הָאֱלֹהִים״. וְתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: בְּכׇל מָקוֹם שֶׁנֶּאֱמַר הַשְׁחָתָה, אֵינוֹ אֶלָּא דְּבַר עֶרְוָה וַעֲבוֹדָה זָרָה. דָּבָר עֶרְוָה – שֶׁנֶּאֱמַר: ״כִּי הִשְׁחִית כׇּל בָּשָׂר אֶת דַּרְכּוֹ״. עֲבוֹדָה זָרָה – דִּכְתִיב: ״פֶּן תַּשְׁחִתוּן וַעֲשִׂיתֶם וְגוֹ׳״.
+*Translation:* **as it is written: “And the earth was corrupt before God”** (Genesis 6:11), presumably referring to a transgression, **and the school of Rabbi Yishmael taught: Anywhere that** the term **corruption is stated, it is** referring to **nothing other than a matter of licentiousness and idol worship.** The Gemara cites proofs for this claim: Corruption refers to **a matter of licentiousness, as it is stated: “For all flesh had corrupted their way** upon the earth” (Genesis 6:12); the word “way” alludes to sexual intercourse. **And** corruption also refers to **idol worship, as it is written: “Lest you deal corruptly, and make** you a graven image” (Deuteronomy 4:16).
+
+**2.**
+*Hebrew/Aramaic:* וְאִידָּךְ, אוֹרְחַיְיהוּ דְּקָא מְגַלֵּי.
+*Translation:* The Gemara asks: **And** how do **the other** *tanna’im*, who do not derive from the verse “And the earth was corrupt before God” that the descendants of Noah are prohibited from engaging in idol worship and forbidden sexual relations, interpret this verse? The Gemara answers: In their opinion, the verse merely **exposes the behavior of** the generation of Noah.
+
+**3.**
+*Hebrew/Aramaic:* שְׁפִיכוּת דָּמִים, דִּכְתִיב: ״שֹׁפֵךְ דַּם הָאָדָם וְגוֹ׳״. וְאִידַּךְ? קְטָלַיְיהוּ הוּא דְּקָמְגַלֵּי.
+*Translation:* According to the school of Menashe, the prohibition of **bloodshed** for the descendants of Noah is stated separately in the Torah, **as it is written: “One who sheds the blood of man,** by man his blood shall be shed” (Genesis 9:6). The Gemara asks: **And** how do **the other** *tanna’im* interpret this verse? The Gemara answers: In their opinion, the verse **reveals** the type of **death** penalty administered to the descendants of Noah, but it is not the source for the prohibition of bloodshed.
+
+**4.**
+*Hebrew/Aramaic:* גָּזֵל, דִּכְתִיב: ״כְּיֶרֶק עֵשֶׂב נָתַתִּי לָכֶם אֶת כֹּל״. וְאָמַר רַבִּי לֵוִי: כְּיֶרֶק עֵשֶׂב, וְלֹא כְּיֶרֶק גִּנָּה. וְאִידַּךְ? הָהוּא לְמִישְׁרֵי בָּשָׂר הוּא דַּאֲתָא.
+*Translation:* The prohibition of **robbery** is stated, according to the school of Menashe, **as it is written:** “Every moving thing that is alive shall be for food for you; **like the green herbs I have given you all”** (Genesis 9:3). **And Rabbi Levi says: Like the green herbs** that sprout all over by themselves and are ownerless, **and not like the vegetation of a garden,** which belongs to the garden’s owner alone. This indicates that robbery is prohibited. The Gemara asks: **And** how do **the other** *tanna’im* interpret this verse? The Gemara answers: In their opinion, **that** verse **comes to permit** the consumption of **meat.**
+
+**5.**
+*Hebrew/Aramaic:* אֵבֶר מִן הַחַי, דִּכְתִיב: ״אַךְ בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ״. וְאִידַּךְ? הָהוּא לְמִישְׁרֵי שְׁרָצִים הוּא דַּאֲתָא.
+*Translation:* The prohibition against eating **a limb from a living** animal is stated in the Torah, **as it is written: “Only flesh with its life, which is its blood, you shall not eat”** (Genesis 9:4), i.e., it is prohibited to eat flesh while the animal that it comes from is still alive. **And** how do **the other** *tanna’im* interpret this verse? In their opinion, **that** verse **comes to permit** eating a limb from living **creeping animals;** this prohibition does not apply to creeping animals (see 59b).
+
+**6.**
+*Hebrew/Aramaic:* סֵירוּס, דִּכְתִיב: ״שִׁרְצוּ בָאָרֶץ וּרְבוּ בָהּ״. וְאִידַּךְ? לִבְרָכָה בְּעָלְמָא.
+*Translation:* The prohibition of **castration** that applies to the descendants of Noah is stated, **as it is written:** “And you be fruitful and multiply, **swarm in the earth and multiply in it”** (Genesis 9:7), indicating that nothing may be done to prevent reproduction. **And the other** *tanna’im* hold that this verse is written **merely as a blessing,** not as a mitzva.
+
+**7.**
+*Hebrew/Aramaic:* כִּלְאַיִם, דִּכְתִיב: ״מֵהָעוֹף לְמִינֵהוּ״. וְאִידַּךְ? הָהוּא לְצַוְתָּא בְּעָלְמָא.
+*Translation:* The prohibition of **diverse kinds** that applies to the descendants of Noah is stated, **as it is written: “Of the fowl after their kind** and of the cattle after their kind, of every creeping thing of the ground after its kind” (Genesis 6:20), indicating that each species must be kept separate, and that crossbreeding is prohibited. **And** according to **the other** *tanna’im*, **that** verse does not indicate a mitzva; rather, the reason for keeping the species separate in Noah’s Ark was **merely for** the sake of **companionship,** as animals are most comfortable in the company of other members of their own species.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַב יוֹסֵף: אָמְרִי בֵּי רַב, עַל שָׁלֹשׁ מִצְוֹת בֶּן נֹחַ נֶהֱרָג (גֶּשֶׁר סִימָן) – עַל גִּילּוּי עֲרָיוֹת, וְעַל שְׁפִיכוּת דָּמִים, וְעַל בִּרְכַּת הַשֵּׁם.
+*Translation:* **Rav Yosef says: They say** in the **study hall** that **a descendant of Noah is executed for** transgressing **three mitzvot,** which are represented by the letters ***gimmel*, *shin*, *reish*** in **a mnemonic** device: **For forbidden sexual relations, for bloodshed, and for blessing,** i.e., cursing, **the name** of God.
+
+**9.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב שֵׁשֶׁת: בִּשְׁלָמָא שְׁפִיכוּת דָּמִים, דִּכְתִיב ״שֹׁפֵךְ דַּם הָאָדָם וְגוֹ׳״, אֶלָּא הָנָךְ מְנָא לְהוּ?
+*Translation:* **Rav Sheshet objects to this** statement: **Granted,** a descendant of Noah is executed for **bloodshed, as it is written: “One who sheds the blood of man,** by man his blood shall be shed” (Genesis 9:6). **But** with regard to **those** other prohibitions, **from where do** the Sages derive that a descendant of Noah who transgresses them is executed?
+
+**10.**
+*Hebrew/Aramaic:* אִי גָּמַר מִשְּׁפִיכוּת דָּמִים, אֲפִילּוּ כּוּלְּהוּ נָמֵי. אִי מִשּׁוּם דְּאִיתְרַבַּאי מֵ״אִישׁ אִישׁ״, עֲבוֹדָה זָרָה נָמֵי אִיתְרַבַּי מֵ״אִישׁ אִישׁ״.
+*Translation:* **If** they **derive** it **from** the punishment for **bloodshed** by means of an analogy, then descendants of Noah should be executed **even** if they transgressed **any of** the other Noahide mitzvot. **If** they are executed **because they are included in** the term **“anyone”** and similarly, the term “no one” stated with regard to these two prohibitions, as it is stated with regard to cursing the name of God: “Anyone who curses his God shall bear his sin” (Leviticus 24:15), and it is stated with regard to forbidden sexual relations: “No one shall approach any that is near of kin to him, to uncover their nakedness” (Leviticus 18:6), then gentiles should be executed for **idol worship too,** as **they are included in** the term **“anyone”** stated in that context (see Leviticus 20:2).
+
+**11.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב שֵׁשֶׁת: אָמְרִי בֵּי רַב, עַל אַרְבַּע מִצְוֹת בֶּן נֹחַ נֶהֱרָג.
+*Translation:* **Rather, Rav Sheshet says** that Rav Yosef’s version should be rejected, and that this is what **they say** in the **study hall: A descendant of Noah is executed for** transgressing **four mitzvot;** the three that were listed, and idol worship.
+
+**12.**
+*Hebrew/Aramaic:* וְעַל עֲבוֹדָה זָרָה בֶּן נֹחַ נֶהֱרָג? וְהָתַנְיָא: בַּעֲבוֹדָה זָרָה, דְּבָרִים שֶׁבֵּית דִּין שֶׁל יִשְׂרָאֵל מְמִיתִין עֲלֵיהֶן – בֶּן נֹחַ מוּזְהָר עֲלֵיהֶן. אַזְהָרָה – אִין, מִיתָה – לָא! אָמַר רַב נַחְמָן בַּר יִצְחָק: אַזְהָרָה שֶׁלָּהֶן – זוֹ הִיא מִיתָתָן.
+*Translation:* The Gemara asks: **And is a descendant of Noah executed for idol worship? But isn’t it taught** in a *baraita*: **With regard to idol worship, matters for which a Jewish court executes** the transgressor **are prohibited to a descendant of Noah.** The Gemara infers: **Yes,** there is **a prohibition** for a descendant of Noah, but there is **no death** penalty. **Rav Naḥman bar Yitzḥak says: Their prohibition is their death** penalty. Since the only punishment mentioned in the Torah for transgressing a Noahide mitzva is execution, any descendant of Noah who transgresses is liable to be executed.
+
+**13.**
+*Hebrew/Aramaic:* רַב הוּנָא וְרַב יְהוּדָה וְכוּלְּהוּ תַּלְמִידֵי דְּרַב אָמְרִי: עַל שֶׁבַע מִצְוֹת בֶּן נֹחַ נֶהֱרָג. גַּלִּי רַחֲמָנָא בַּחֲדָא, וְהוּא הַדִּין לְכוּלְּהוּ.
+*Translation:* **Rav Huna, Rav Yehuda, and all of the** other **students of Rav say: A descendant of Noah is executed for** transgressing any of the **seven** Noahide **mitzvot; the Merciful One revealed** this punishment **with regard to one** mitzva, the prohibition of bloodshed, **and the same is true with regard to all of them.**
+
+**14.**
+*Hebrew/Aramaic:* וְעַל הַגָּזֵל בֶּן נֹחַ נֶהֱרָג? וְהָתַנְיָא: עַל הַגָּזֵל, גָּנַב וְגָזַל, וְכֵן יְפַת תּוֹאַר, וְכֵן כַּיּוֹצֵא בָּהֶן – גּוֹי בְּגוֹי וְגוֹי בְּיִשְׂרָאֵל אָסוּר, וְיִשְׂרָאֵל בְּגוֹי מוּתָּר. וְאִם אִיתָא, נִיתְנֵי ״חַיָּיב״!
+*Translation:* The Gemara asks: **But is a descendant of Noah executed for robbery? But isn’t it taught** in a *baraita*: **With regard to** the following types of **robbery:** One who **steals or robs, and likewise** one who engages in intercourse with a married **beautiful woman** who was taken as a prisoner of war, **and likewise** all actions **similar to these,** if they are done by **a gentile to** another **gentile, or** by **a gentile to a Jew,** the action is **prohibited; but** if **a Jew** does so **to a gentile, it is permitted?** The Gemara explains the question: **And if it is so** that a gentile is liable to be executed for robbery, and it is not merely prohibited to him, **let** the *baraita* **teach** that he is **liable** to be executed.
+
+**15.**
+*Hebrew/Aramaic:* מִשּׁוּם דְּקָבָעֵי לְמִיתְנֵי סֵיפָא: ״יִשְׂרָאֵל בְּגוֹי מוּתָּר״, תְּנָא רֵישָׁא: ״אָסוּר״.
+*Translation:* The Gemara answers: **Because** the *tanna* **wanted to teach** in **the latter clause** that if **a Jew** does so **to a gentile, it is permitted, he taught** in **the former clause** that if a gentile does one of these, **it is prohibited.** If the *baraita* were to state that if a gentile does so, he is liable, it would have to state that if a Jew does so to a gentile, he is exempt, because this is the opposite of liable. That would indicate that it is actually prohibited for a Jew to do so to a gentile, and that he is merely exempt from liability, which is not the case. Therefore, the word prohibited is used with regard to a gentile. Therefore, this does not prove that a gentile is exempt from capital punishment.
+
+**16.**
+*Hebrew/Aramaic:* וְהָא כֹּל הֵיכָא דְּאִית לֵיהּ חִיּוּבָא מִיתְנָא קָתָנֵי, דְּקָתָנֵי רֵישָׁא: עַל שְׁפִיכוּת דָּמִים – גּוֹי בְּגוֹי וְגוֹי בְּיִשְׂרָאֵל חַיָּיב, יִשְׂרָאֵל בְּגוֹי פָּטוּר.
+*Translation:* The Gemara challenges: **But wherever there is liability** for capital punishment, this *tanna* **teaches** it; **as it is taught** in **the first clause: With regard to bloodshed,** if **a gentile** murders another **gentile, or a gentile** murders **a Jew,** he is **liable.** If **a Jew** murders **a gentile,** he is **exempt.** Evidently, the term liable is used in the *baraita*.
+
+**17.**
+*Hebrew/Aramaic:* הָתָם, הֵיכִי לִיתְנֵי? לִיתְנֵי ״אָסוּר״ וּ״מוּתָּר״? וְהָתַנְיָא: גּוֹי, וְרוֹעֵי בְּהֵמָה דַּקָּה – לֹא מַעֲלִין וְלֹא מוֹרִידִין.
+*Translation:* The Gemara answers: **There,** in that case, **how should** the *tanna* **teach** it? **Should he teach** it using the terms **prohibited and permitted,** indicating that a Jew may kill a gentile *ab initio*? **But isn’t it taught** in a *baraita* that with regard to **a gentile, and** likewise with regard to Jewish **shepherds of small livestock,** who were typically robbers, **one may not raise** them out of a pit into which they fell, **and one may not lower** them into a pit? In other words, one may not rescue them from danger, but neither may one kill them *ab initio*. With regard to robbery, the term permitted is relevant, as it is permitted for a Jew to rob a gentile.
+
+**18.**
+*Hebrew/Aramaic:* כַּיּוֹצֵא בּוֹ בְּגָזֵל, מַאי הִיא? אָמַר רַב אַחָא בַּר יַעֲקֹב: לֹא נִצְרְכָה אֶלָּא לְפוֹעֵל בַּכֶּרֶם.
+*Translation:* The Gemara returns to discuss the details of the prohibition of robbery mentioned in the *baraita*, which included actions similar to it. The Gemara asks: **With regard to robbery,** to **what** actions **similar to it is** the *baraita* referring? **Rav Aḥa bar Ya’akov says: It is necessary only to** teach the *halakha* of **a laborer** working **in a vineyard** who eats from the fruit of the vineyard; his action is similar to robbery, and it is prohibited for a gentile to do so.
+
+**19.**
+*Hebrew/Aramaic:* פּוֹעֵל בַּכֶּרֶם אֵימַת? אִי בִּשְׁעַת גְּמַר מְלָאכָה – הֶתֵּירָא הוּא, אִי לָאו בִּשְׁעַת גְּמַר מְלָאכָה – גָּזֵל מְעַלְּיָא הוּא.
+*Translation:* The Gemara asks: **When** does this **laborer in a vineyard** eat from the fruit? **If** he does so **at the time of the completion of** the **work,** i.e., while he is harvesting the fruit, **it is permitted** for him to do so, just as a Jew working for another Jew is allowed to do so. **If it is not at the time of the completion of** its **work,** eating the fruit **is full-fledged robbery,** and there is no novel element to this case.
+
+**20.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב פָּפָּא: לֹא נִצְרְכָה אֶלָּא לְפָחוֹת מִשָּׁוֶה פְּרוּטָה. אִי הָכִי, גּוֹי בְּיִשְׂרָאֵל אָסוּר? הָא בַּר מְחִילָה הוּא! נְהִי דְּבָתַר הָכִי מָחֵיל לֵיהּ, צַעֲרָא בְּשַׁעְתֵּיהּ מִי לֵית לֵיהּ?
+*Translation:* **Rather, Rav Pappa says** that the mention in the *baraita* of actions similar to robbery **is necessary only to** teach the *halakha* of one who robs another of **less than the value of one *peruta*.** The Gemara asks: **If so,** why does the *baraita* state that it is **prohibited** for **a gentile** to do so **to a Jew? Isn’t** a Jew **apt to forgive** such a tiny debt? Why is this considered robbery? The Gemara answers: **Although afterward** the owner **forgives him, does he not incur distress at the time of** the robbery? Consequently, at the time of the robbery the robber commits a transgression and is liable to be punished for it.
+
+**21.**
+*Hebrew/Aramaic:* גּוֹי בְּגוֹי כַּיּוֹצֵא בָּהֶן, כֵּיוָן דְּלָאו בְּנֵי מְחִילָה נִינְהוּ – גָּזֵל מְעַלְּיָא הוּא.
+*Translation:* The Gemara challenges: If the mention of actions **similar to** robbery is referring to the robbery of less than the value of one *peruta*, what is the novel element in the case of **a gentile** who robs **a gentile? Since they are not apt to** grant **forgiveness,** robbing a gentile of even a minuscule amount **is** considered **full-fledged robbery,** and not merely similar to robbery.
+
+**22.**
+*Hebrew/Aramaic:* אֶלָּא, אָמַר רַב אַחָא בְּרֵיהּ דְּרַב אִיקָא: לֹא נִצְרְכָה אֶלָּא לְכוֹבֵשׁ שְׂכַר שָׂכִיר. גּוֹי בְּגוֹי וְגוֹי בְּיִשְׂרָאֵל – אָסוּר; יִשְׂרָאֵל בְּגוֹי – מוּתָּר.
+*Translation:* **Rather, Rav Aḥa, son of Rav Ika, says** that there is a different explanation: **It is necessary only to** teach the *halakha* of one who **withholds the wages of a hired laborer;** for **a gentile** to do so **to** another **gentile and** for **a gentile** to do so **to a Jew is prohibited,** but for **a Jew** to do so **to a gentile is permitted.** This case is less obvious than other types of robbery, as instead of taking an item from the victim, the robber withholds money that is due to the victim.
+
+**23.**
+*Hebrew/Aramaic:* כַּיּוֹצֵא בִּיפַת תּוֹאַר, מַאי הִיא? כִּי אֲתָא רַב דִּימִי, אָמַר: רַבִּי אֶלְעָזָר אָמַר רַבִּי חֲנִינָא: בֶּן נֹחַ שֶׁיִּיחֵד שִׁפְחָה לְעַבְדּוֹ וּבָא עָלֶיהָ – נֶהֱרָג עָלֶיהָ.
+*Translation:* The Gemara clarifies further: **What is** the action that is **similar to** engaging in intercourse with **a beautiful woman** who is a prisoner of war, to which the *baraita* is referring? **When Rav Dimi came** from Eretz Yisrael to Babylonia, he said that **Rabbi Elazar says** that **Rabbi Ḥanina says:** In the case of **a descendant of Noah who designated a maidservant** as a mate **for his slave, and** then he himself **engaged in intercourse with her, he is executed on her account.** Although the maidservant is his property and is not the slave’s full-fledged wife, nevertheless, he is guilty of adultery.
+
+**24.**
+*Hebrew/Aramaic:* כַּיּוֹצֵא בּוֹ דִּשְׁפִיכוּת דָּמִים לָא תַּנְיָא. אָמַר אַבָּיֵי: אִי מַשְׁכַּחַתְּ דְּתַנְיָא, רַבִּי יוֹנָתָן בֶּן שָׁאוּל הִיא. דְּתַנְיָא, רַבִּי יוֹנָתָן בֶּן שָׁאוּל אוֹמֵר: רוֹדֵף אַחַר חֲבֵירוֹ לְהוֹרְגוֹ, וְיָכוֹל לְהַצִּילוֹ בְּאֶחָד מֵאֵבָרָיו וְלֹא הִצִּיל -
+*Translation:* The Gemara comments: The *baraita* **does not teach** that a descendant of Noah is liable for actions **similar to bloodshed. Abaye says: If you find** a *baraita* **that teaches** this, **it is** in accordance with the opinion of **Rabbi Yonatan ben Shaul. As it is taught** in a *baraita* that **Rabbi Yonatan ben Shaul says:** If a person **pursues another to kill him, and** the one being pursued **can save himself by** injuring **one of the limbs of** the pursuer, **but he does not save** himself in this manner and instead kills the pursuer,

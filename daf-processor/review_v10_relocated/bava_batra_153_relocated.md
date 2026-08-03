@@ -53,13 +53,13 @@ Rava introduces a qualification to Rav's position: *ve-i katav bei me-hayim kana
 
 Ameimar states as a *meimra*: *lo hilchata kevateih de-Rava* — we do not rule in accordance with Rava's limitation. This is then clarified by Rav Ashi, who explains that the *gemara*'s purpose is to forestall the very reasoning Rava employed. One might have thought that once we rule like Rav, Rav himself would concede if the phrase used is *me-hayim*. The *gemara* teaches us that this is not the case: once the ruling follows Rav, it makes no difference whether the document says *be-hayim* or *me-hayim* — as long as it includes *u-ve-mavet*, it is treated as a *matnas shchiv mera*. Strikingly, it is the *Nehardaei* — the sages of Nehardea, the very academy associated with Shmuel — who declare that the *halacha* follows Rav.
 
----
-
 > **Hebrew/Aramaic:** אָמַר רָבָא: וְאִי כְּתִיב בַּהּ ״מֵחַיִּים״ – קְנָה.
 > **Translation:** **Rava said: And if it was written in** the deed that the gift is given **during life** and in death, the recipient **acquires** the gift and it cannot be retracted, as this term indicates that the gift takes effect while the giver still lives.
 
 > **Hebrew/Aramaic:** אָמַר אַמֵּימָר: לֵית הִלְכְתָא כְּווֹתֵיהּ דְּרָבָא. אֲמַר לֵיהּ רַב אָשֵׁי לְאַמֵּימָר: פְּשִׁיטָא, דְּהָא אָמְרִי נְהַרְדָּעֵי: הִלְכְתָא כְּווֹתֵיהּ דְּרַב! מַהוּ דְּתֵימָא ״מֵחַיִּים״ – מוֹדֵי רַב; קָא מַשְׁמַע לַן.
 > **Translation:** **Ameimar said: The *halakha* is not in accordance with** the opinion **of Rava. Rav Ashi said to Ameimar:** Isn’t that **obvious, as** the Sages **of Neharde’a say** that **the *halakha*** is **in accordance with** the opinion **of Rav?** Ameimar replied: **Lest you say** that with regard to the term: **During life, Rav concedes** that the giver intends for the gift to take effect immediately, Ameimar **teaches us** that since the giver also mentioned death, he intended the gift as the gift of a person on his deathbed and he can retract it.
+
+---
 
 ## Rav Nachman Case
 

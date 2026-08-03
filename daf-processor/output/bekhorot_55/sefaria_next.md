@@ -47,3 +47,92 @@
 **12.**
 *Hebrew/Aramaic:* אִישְׁתְּמִיטְתֵּיהּ הָא דְּאָמַר רַבִּי אַסִּי אָמַר רַבִּי יוֹחָנָן: לָקַח עֲשָׂרָה עוּבָּרִין בִּמְעֵי אִמָּן — כּוּלָּם נִכְנָסִין לַדִּיר לְהִתְעַשֵּׂר.
 *Translation:* The Gemara answers that **this** statement **escaped** that *tanna*: **As Rabbi Asi says** that **Rabbi Yoḥanan says:** If one **purchased ten** animal **fetuses** while they were still **in their mothers’ wombs they all enter the pen to be tithed.** Accordingly, the *baraita* can be understood as referring to an animal that was given to a prostitute as payment and purchased back from her while it was still inside its mother’s womb.
+
+
+---
+
+### Bekhorot 56b
+
+**1.**
+*Hebrew/Aramaic:* וְתִיעַשְּׂרֵהּ אִיהִי! בְּזוֹנָה גּוֹיָה.
+*Translation:* The Gemara asks: **But** if that is the meaning of the *baraita*, why is it necessary to purchase the animal back from the prostitute for it to be subject to animal tithe? **Let her tithe it** herself, as it is not prohibited as payment to a prostitute, since it was in the womb when he gave it to her. The Gemara answers that the *baraita* is referring **to a gentile prostitute,** to whom the mitzva of tithing animals does not apply.
+
+**2.**
+*Hebrew/Aramaic:* וְלוֹקְמַהּ בְּזוֹנָה יִשְׂרְאֵלִית, וְתִיעַשְּׂרֵהּ אִיהִי! קָא מַשְׁמַע לַן דְּזוֹנָה יִשְׂרְאֵלִית לָא הָוֵי אֶתְנַן.
+*Translation:* The Gemara challenges: **But let** the *baraita* **establish** this case, of an animal set aside as payment to a prostitute that nevertheless enters the pen to be tithed, as a case **involving a Jewish prostitute, and let** it be referring to a case where **she tithes it** herself. The Gemara explains that this *baraita* **teaches us that** an animal given as payment to **a Jewish prostitute does not** have the halakhic status of **payment** to a prostitute, and is not prohibited for sacrifice.
+
+**3.**
+*Hebrew/Aramaic:* כִּדְאַבָּיֵי, דְּאָמַר אַבָּיֵי: זוֹנָה גּוֹיָה — אֶתְנַנָּהּ אָסוּר, וְכֹהֵן הַבָּא עָלֶיהָ אֵינוֹ לוֹקֶה מִשּׁוּם ״לֹא יְחַלֵּל זַרְעוֹ״. זוֹנָה יִשְׂרְאֵלִית — אֶתְנַנָּהּ מוּתָּר, וְכֹהֵן הַבָּא עָלֶיהָ לוֹקֶה מִשּׁוּם ״לֹא יְחַלֵּל זַרְעוֹ״.
+*Translation:* The Gemara adds that this is **in accordance with** the opinion **of Abaye, as Abaye says:** An animal given to **a gentile prostitute** is considered to be **payment** to a prostitute, which is **prohibited** for sacrifice on the altar. **And a priest who engages in intercourse with** a gentile prostitute **is not flogged due to** the prohibition of: “A widow, or one divorced, or a profaned woman, or a prostitute, these shall he not take, but a virgin of his own people shall he take to wife. **And he shall not profane his seed** among his people, for I am the Lord who sanctifies him” (Leviticus 21:14–15). Conversely, an animal given to **a Jewish prostitute** is not considered **payment** to a prostitute and it is **permitted** to sacrifice it. **But a priest who engages in intercourse with** a Jewish prostitute **is flogged due to** the prohibition of: **“And he shall not profane his seed** among his people, for I am the Lord who sanctifies him.”
+
+**4.**
+*Hebrew/Aramaic:* זוֹנָה גּוֹיָה אֶתְנַנָּהּ אָסוּר — גָּמַר ״תּוֹעֵבָה״ ״תּוֹעֵבָה״ מֵעֲרָיוֹת.
+*Translation:* The Gemara clarifies Abaye’s opinion. An animal given to **a gentile prostitute** is considered **payment** to a prostitute, which is **prohibited** for sacrifice on the altar, as Abaye **derives** a verbal analogy from the word **“abomination”** stated with regard to payment to a prostitute: “You shall not bring the payment of a prostitute, or the price of a dog, into the House of the Lord your God for any vow, for both of these are an abomination to the Lord your God” (Deuteronomy 23:19), and the word **“abomination”** stated **in** the verses discussing **those with whom relations are forbidden:** “For whosoever shall do any of these abominations, the souls that do them shall be cut off from among their people” (Leviticus 18:29).
+
+**5.**
+*Hebrew/Aramaic:* מָה עֲרָיוֹת, דְּלָא תָּפְסִי בְּהוּ קִדּוּשֵׁי — אַף זוֹנָה, בְּהָךְ דְּלָא תָּפְסִי בַּהּ קִדּוּשֵׁי.
+*Translation:* The Gemara elaborates: **Just as** the verses discussing **those with whom relations are forbidden** are referring specifically to those women **upon** whom **betrothal does not take effect, so too,** the **prostitute** referred to in the verse **is one upon** whom **betrothal does not take effect,** i.e., a gentile prostitute.
+
+**6.**
+*Hebrew/Aramaic:* וְכֹהֵן הַבָּא עָלֶיהָ אֵינוֹ לוֹקֶה מִשּׁוּם ״לֹא יְחַלֵּל זַרְעוֹ״, דְּלֹא יְחַלֵּל זַרְעוֹ אָמַר רַחֲמָנָא, וְהַאי לָאו זַרְעֵיהּ הוּא.
+*Translation:* Abaye further stated: **And a priest who engages in intercourse with her is not flogged due to** the prohibition of: **“And he shall not profane his seed** among his people, for I am the Lord who sanctifies him.” The Gemara explains: The reason is that **the Merciful One states that he should not profane his seed,** i.e., his children, **and** any children born from **this** gentile prostitute **are not** considered to be **his seed,** as the children of a gentile mother are gentiles.
+
+**7.**
+*Hebrew/Aramaic:* מַתְנִי׳ הָאַחִין וְהַשּׁוּתָּפִין, שֶׁחַיָּיבִין בַּקָּלְבּוֹן — פְּטוּרִין מִמַּעְשַׂר בְּהֵמָה, חַיָּיבִין בְּמַעְשַׂר בְּהֵמָה — פְּטוּרִין מִן הַקָּלְבּוֹן.
+*Translation:* MISHNA: With regard to **brothers and partners,** i.e., brothers who are partners in the inheritance of their father, **when they are obligated to** add **the premium [*bakalbon*]** to their annual half-shekel payment to the Temple **they are exempt from animal tithe.** Conversely, those whose halakhic status is like that of sons who are supported by their father and **are obligated to** separate **animal tithe are exempt from** adding **the premium.**
+
+**8.**
+*Hebrew/Aramaic:* קָנוּ מִתְּפִיסַת הַבַּיִת — חַיָּיבִין, וְאִם לָאו — פְּטוּרִין. חָלְקוּ, חָזְרוּ וְנִשְׁתַּתְּפוּ — חַיָּיבִין בַּקָּלְבּוֹן וּפְטוּרִין מִמַּעְשַׂר בְּהֵמָה.
+*Translation:* The mishna clarifies: If the brothers **acquired** the animals through inheritance **from** the property in **the possession of** their father’s **house they are obligated** in animal tithe; **but if not, they are exempt.** How so? If **they divided** the inheritance between them **and then reentered a partnership, they are obligated to** add **the premium and are exempt from animal tithe.**
+
+**9.**
+*Hebrew/Aramaic:* גְּמָ׳ תָּנוּ רַבָּנַן: ״יִהְיֶה לְךָ״ — וְלֹא שֶׁל שׁוּתָּפוּת. יָכוֹל אֲפִילּוּ קָנוּ בִּתְפִיסַת הַבַּיִת? תַּלְמוּד לוֹמַר: ״יִהְיֶה״.
+*Translation:* GEMARA: **The Sages taught** in a *baraita*: The verse states: “That you shall set apart for the Lord all that opens the womb; every firstborn male that emerges from an animal that **shall be yours** belongs to the Lord” (Exodus 13:12). This teaches that the obligation of animal tithe applies only to an animal that belongs to you, i.e., to one owner, **but not** to an animal owned **by partners.** One **might** have thought that the obligation of the tithe does not apply to the animal **even if** brothers **acquired** the animals through inheritance **from** the property in **the possession of** their father’s **house.** Therefore, the **verse states: “Shall be,”** to include animals acquired through inheritance in the obligation of animal tithe.
+
+**10.**
+*Hebrew/Aramaic:* וְהַאי בִּבְכוֹר כְּתִיב! אִם אֵינוֹ עִנְיָן לִבְכוֹר, דְּהָא אִיתֵיהּ בְּשׁוּתָּפוּת, דִּכְתִיב: ״וּבְכוֹרוֹת בְּקַרְכֶם וְצֹאנְכֶם״, תְּנֵהוּ עִנְיָן לְמַעְשַׂר בְּהֵמָה.
+*Translation:* The Gemara asks: **But this** verse is not referring to animal tithe; rather, it is **written with regard to firstborn** animals. The Gemara answers: **If it is not** needed **for the matter of firstborn** animals, **as** the mitzva of sanctifying a firstborn animal **does** apply **in** a case of **partnership, as it is written,** in the plural form: “And you shall bring there your burnt offerings, and your offerings, and your tithes, and the offering of your hand, and your vows, and your gift offerings, **and the firstborn of your herd and of your flock”** (Deuteronomy 12:6), **apply** the verse **to the matter of animal tithe,** teaching that it does not apply to an animal owned by partners.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִרְמְיָה: פְּעָמִים שֶׁחַיָּיבִין בָּזֶה וּבָזֶה, וּפְעָמִים שֶׁפְּטוּרִין מִזֶּה וּמִזֶּה, פְּעָמִים שֶׁחַיָּיבִין בַּקָּלְבּוֹן וּפְטוּרִין מִמַּעְשַׂר בְּהֵמָה, וּפְעָמִים שֶׁחַיָּיבִין בְּמַעְשַׂר בְּהֵמָה וּפְטוּרִין מִן הַקָּלְבּוֹן.
+*Translation:* § The mishna teaches: If the brothers divided the inheritance between them and then reentered a partnership, they are obligated to add the premium and are exempt from animal tithe. **Rabbi Yirmeya says:** There are **times when they are obligated** both **in this,** the premium, **and in that,** animal tithe. **And** there are **times when they are exempt** both **from this and from that.** Furthermore, there are **times when they are obligated to** add **the premium and are exempt from animal tithe; and** finally, there are **times when they are obligated in animal tithe and are exempt from** having to add **the premium.**
+
+**12.**
+*Hebrew/Aramaic:* חַיָּיבִין בָּזֶה וּבָזֶה — שֶׁחָלְקוּ בַּכְּסָפִים וְלֹא חָלְקוּ בַּבְּהֵמָה, פְּטוּרִין מִזֶּה וּמִזֶּה — שֶׁחָלְקוּ בַּבְּהֵמָה וְלֹא חָלְקוּ בַּכְּסָפִים.
+*Translation:* The Gemara elaborates: The guiding principle is that partners are exempt from animal tithe but obligated to pay the premium, whereas in the case of individual ownership one is obligated in the animal tithe but exempt from paying the premium. Therefore, the case where **they are obligated** both **in this,** the premium, **and in that,** animal tithe, is **when they divided the money** they inherited from their father **but did not divide the animals** they inherited. The case where **they are exempt** both **from this and from that** is **when they divided the animals but did not divide the money.**
+
+**13.**
+*Hebrew/Aramaic:* חַיָּיבִין בַּקָּלְבּוֹן וּפְטוּרִין מִמַּעְשַׂר בְּהֵמָה — שֶׁחָלְקוּ בָּזֶה וּבָזֶה.
+*Translation:* The case where **they are obligated to** pay **the premium and are exempt from animal tithe** is **when they divided** up both **this and that,** the money and the animals, from the estate of their deceased father. Afterward they reestablished a partnership and are therefore partners in the normal sense, rather than co-owners of the original inherited estate, and partners are obligated to pay the premium and are exempt from the animal tithe.
+
+**14.**
+*Hebrew/Aramaic:* חַיָּיבִין בְּמַעְשַׂר בְּהֵמָה וּפְטוּרִין מִן הַקָּלְבּוֹן — שֶׁלֹּא חָלְקוּ בְּזֶה וּבָזֶה.
+*Translation:* Finally, the case where **they are obligated in the animal tithe and are exempt from** paying **the premium** involves brothers **who have not divided this or that,** the money and the animals of their father’s estate, between them at all. It is therefore considered as though their father is still the sole owner of the estate and is contributing the shekel for the pair of them. Since the estate is under individual ownership, the animal tithe must be separated from the livestock.
+
+**15.**
+*Hebrew/Aramaic:* פְּשִׁיטָא! חָלְקוּ בַּבְּהֵמָה וְלֹא חָלְקוּ בַּכְּסָפִים אִיצְטְרִיכָא לֵיהּ, סָלְקָא דַּעְתָּךְ אָמֵינָא: כֵּיוָן דְּחָלְקוּ בַּבְּהֵמָה, גַּלּוֹ דַּעְתַּיְיהוּ דִּלְמִיפְלַג קָיְימִי, וְלִיחַיְּיבוּ בְּקָלְבּוֹן — קָא מַשְׁמַע לַן.
+*Translation:* The Gemara asks: Isn’t it **obvious?** What is the novelty of Rabbi Yirmeya’s statement? The Gemara answers: It **was necessary for** Rabbi Yirmeya to teach the case where **they divided the animals but did not divide the money.** It might **enter your mind to say** that **since they divided the animals they** have thereby **revealed their intent** to divide the entire estate. Consequently, the estate **stands to be divided, and they should be obligated** to pay **the premium.** Therefore, Rabbi Yirmeya **teaches us** that they are exempt from paying the premium until they have actually divided the money.
+
+**16.**
+*Hebrew/Aramaic:* אָמַר רַב עָנָן: לֹא שָׁנוּ אֶלָּא שֶׁחָלְקוּ גְּדָיִים כְּנֶגֶד תְּיָישִׁים וּתְיָישִׁים כְּנֶגֶד גְּדָיִים.
+*Translation:* § **Rav Anan says:** The Sages **taught** this *halakha* **only** in a case **where they divided kids for goats and goats for kids,** i.e., when the two brothers inherited both kids and goats, but one took all the goats and the other all the kids. Since each originally inherited both goats and kids, this division is tantamount to one brother trading his goats for the other’s kids. When they again become partners, they are considered like strangers who join together. Consequently, they are exempt from the animal tithe.
+
+**17.**
+*Hebrew/Aramaic:* אֲבָל חָלְקוּ גְּדָיִים כְּנֶגֶד גְּדָיִים וּתְיָישִׁים כְּנֶגֶד תְּיָישִׁים — אוֹמֵר זֶה חֶלְקוֹ הַמַּגִּיעוֹ מִשָּׁעָה רִאשׁוֹנָה לְכָךְ.
+*Translation:* **But** if **they divided kids for kids and goats for goats,** so that each takes some of both types, in the normal manner, one can **say** that **this,** i.e., the group of animals that each brother takes, **is** considered **his share to which he is entitled from the outset,** and no transaction between them has occurred. Consequently, when they reestablish the partnership the estate reverts to its original status as a single entity, and they are therefore obligated to separate animal tithe.
+
+**18.**
+*Hebrew/Aramaic:* וְרַב נַחְמָן אָמַר: אֲפִילּוּ חָלְקוּ גְּדָיִים כְּנֶגֶד גְּדָיִים וּתְיָישִׁים כְּנֶגֶד תְּיָישִׁים — אֵין אוֹמְרִים זֶה הוּא חֶלְקוֹ הַמַּגִּיעוֹ מִשָּׁעָה רִאשׁוֹנָה לְכָךְ.
+*Translation:* **And Rav Naḥman says: Even** if **they divided** the estate in the manner of **kids for kids and goats for goats, we do not say** that **this,** the group of animals taken by each brother, **is** considered **his share to which he is entitled from the outset.** Therefore, if they reestablish a partnership they are considered like partners and are exempt from separating animal tithe.
+
+**19.**
+*Hebrew/Aramaic:* וְרַבִּי אֶלְעָזָר אָמַר: לֹא שָׁנוּ אֶלָּא שֶׁחָלְקוּ תִּשְׁעָה כְּנֶגֶד עֲשָׂרָה, וַעֲשָׂרָה כְּנֶגֶד תִּשְׁעָה.
+*Translation:* The Gemara notes that this matter is also the subject of a dispute between other *amora’im*. **And Rabbi Elazar says:** The Sages **taught** this *halakha* **only when they divided nine** large goats **for ten** kids, **and ten** kids **for nine** large ones. Since the nine large goats are worth the same as ten kids, this division is tantamount to one brother trading his large goats for the other’s kids. When they again become partners they are considered as strangers who join together, and therefore they are exempt from the animal tithe.
+
+**20.**
+*Hebrew/Aramaic:* אֲבָל חָלְקוּ תִּשְׁעָה כְּנֶגֶד תִּשְׁעָה וַעֲשָׂרָה כְּנֶגֶד עֲשָׂרָה — אוֹמֵר זֶה חֶלְקוֹ הַמַּגִּיעוֹ מִשָּׁעָה רִאשׁוֹנָה לְכָךְ.
+*Translation:* **But** if **they divided nine** large goats **for nine** large goats **and ten** kids **for ten** kids, so that each takes some of both types, one can **say** that **this,** the group of animals taken by each brother, **is** considered **his share to which he is entitled from the outset,** and no transaction between them has occurred. Consequently, when they reestablish the partnership the estate reverts to its original status as a single entity, which means they are obligated to separate animal tithe.
+
+**21.**
+*Hebrew/Aramaic:* וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ חָלְקוּ תִּשְׁעָה כְּנֶגֶד תִּשְׁעָה, וַעֲשָׂרָה כְּנֶגֶד עֲשָׂרָה, אֵין אוֹמֵר זֶה חֶלְקוֹ הַמַּגִּיעוֹ מִשָּׁעָה רִאשׁוֹנָה לְכָךְ.
+*Translation:* **And Rabbi Yoḥanan says: Even** if **they divided** the estate in the manner of **nine** large goats **for nine** large goats **and ten** kids **for ten** kids, one does **not say** that **this,** the group of animals taken by each brother, **is** considered **his share to which he is entitled from the outset.** Therefore, if they reestablish a partnership they are considered as partners and are exempt from separating animal tithe.

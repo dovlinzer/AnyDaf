@@ -83,3 +83,96 @@
 **21.**
 *Hebrew/Aramaic:* רַבִּי יְהוּדָה נְשִׂיאָה שַׁדַּר לֵיהּ לְרַבִּי אוֹשַׁעְיָא אַטְמָא דְּעִיגְלָא תִּלְתָּא וְגַרְבָּא דְחַמְרָא, שְׁלַח לֵיהּ:
 *Translation:* The Gemara relates that, on Purim, **Rabbi Yehuda Nesia sent to Rabbi Oshaya the leg of a third-**born **calf and a jug of wine.** Rabbi Oshaya **sent him** a message of gratitude:
+
+
+---
+
+### Megillah 7b
+
+**1.**
+*Hebrew/Aramaic:* קִיַּימְתָּ בָּנוּ רַבֵּינוּ, ״וּמִשְׁלוֹחַ מָנוֹת אִישׁ לְרֵעֵהוּ וּמַתָּנוֹת לָאֶבְיוֹנִים״.
+*Translation:* **You have fulfilled** two mitzvot **through us, our teacher:** The mitzva of: **“And sending portions one to another,”** and the mitzva of: **“And gifts to the poor,”** as Rabbi Oshaya was poor and this was a substantial gift.
+
+**2.**
+*Hebrew/Aramaic:* רַבָּה שַׁדַּר לֵיהּ לְמָרֵי בַּר מָר בְּיַד אַבָּיֵי מְלֵא טַסְקָא דְקַשְׁבָּא וּמְלֵי כָּסָא קִמְחָא דַאֲבִשׁוּנָא. אֲמַר לֵיהּ אַבָּיֵי: הַשְׁתָּא אָמַר מָרִי: אִי חַקְלָאָה מַלְכָּא לֶיהֱוֵי — דִּיקּוּלָא מִצַּוְּארֵיהּ לָא נָחֵית.
+*Translation:* The Gemara relates that **Rabba sent** Purim portions from the house of the Exilarch **to Marei bar Mar in the hands of Abaye,** who was his nephew and student. The Purim portions consisted of **a sack [*taska*] full of dates [*kashva*] and a cupful of roasted flour [*kimḥa de’avshuna*]. Abaye said to him: Now, Mari will say** the popular expression: Even **if a farmer becomes the king, the basket does not descend from his neck.** Rabba was named the head of the yeshiva in Pumbedita, and nevertheless, he continued to send very plain gifts, because he was impoverished.
+
+**3.**
+*Hebrew/Aramaic:* הֲדַר שַׁדַּר לֵיהּ אִיהוּ מְלֵא טַסְקָא דְזַנְגְּבִילָא וּמְלֵא כָּסָא דְּפִלְפְּלָתָא אֲרִיכָתָא. אֲמַר אַבָּיֵי: הַשְׁתָּא אָמַר מָר: אֲנָא שַׁדַּרִי לֵיהּ חוּלְיָא, וְאִיהוּ שַׁדַּר לִי חוּרְפָּא.
+*Translation:* Marei bar Mar **sent back to him a sack full of ginger and a cupful of long peppers [*pilpalta arikha*],** a much more expensive gift. **Abaye said** to him: **The master,** Rabba, **will now say: I sent him sweet** items **and he sent me pungent** ones.
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר אַבָּיֵי: כִּי נְפַקִי מִבֵּי מָר, הֲוָה שָׂבַעְנָא. כִּי מְטַאי לְהָתָם, קָרִיבוּ לִי שִׁיתִּין צָעֵי דְּשִׁיתִּין מִינֵי קְדֵירָה, וַאֲכַלִי בְּהוּ שִׁיתִּין פְּלוּגֵי. וּבִישּׁוּלָא בָּתְרָיְיתָא הֲווֹ קָרוּ לֵיהּ צְלִי קֵדָר, וּבְעַאי לְמִיכַּס צָעָא אַבָּתְרֵהּ.
+*Translation:* In describing that same incident, **Abaye said: When I left** the **house of the master,** Rabba, to go to Marei bar Mar, **I was** already **satiated.** However, **when I arrived there** at Marei bar Mar’s house, **they served me sixty plates of sixty kinds of cooked dishes, and I ate sixty portions from** each of **them. The last dish was called pot roast, and** I was still so hungry that **I wanted to chew the plate afterward.**
+
+**5.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי, הַיְינוּ דְּאָמְרִי אִינָשֵׁי: כָּפֵין עַנְיָא וְלָא יָדַע. אִי נָמֵי: רַוְוחָא לִבְסִימָא שְׁכִיחַ.
+*Translation:* And in continuation **Abaye said: This** explains the folk saying **that people say: The poor** man **is hungry and does not know** it, as Abaye was unaware how hungry he had been in his master’s house. **Alternatively,** there is another appropriate, popular expression: **Room** in the stomach **for sweets** can always be **found.**
+
+**6.**
+*Hebrew/Aramaic:* אַבָּיֵי בַּר אָבִין וְרַבִּי חֲנִינָא בַּר אָבִין מְחַלְּפִי סְעוֹדְתַּיְיהוּ לַהֲדָדֵי.
+*Translation:* The Gemara relates that **Abaye bar Avin and Rabbi Ḥanina bar Avin would exchange their meals with each other** to fulfill their obligation of sending portions on Purim.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רָבָא: מִיחַיַּיב אִינִישׁ לְבַסּוֹמֵי בְּפוּרַיָּא עַד דְּלָא יָדַע בֵּין אָרוּר הָמָן לְבָרוּךְ מָרְדֳּכַי.
+*Translation:* **Rava said: A person is obligated to become intoxicated** with wine **on Purim until he** is so intoxicated **that he does not know** how to distinguish **between cursed is Haman and blessed is Mordecai.**
+
+**8.**
+*Hebrew/Aramaic:* רַבָּה וְרַבִּי זֵירָא עֲבַדוּ סְעוּדַת פּוּרִים בַּהֲדֵי הֲדָדֵי. אִיבַּסּוּם. קָם רַבָּה שַׁחְטֵיהּ לְרַבִּי זֵירָא. לְמָחָר, בָּעֵי רַחֲמֵי וְאַחֲיֵיהּ. לְשָׁנָה, אֲמַר לֵיהּ: נֵיתֵי מָר וְנַעֲבֵיד סְעוּדַת פּוּרִים בַּהֲדֵי הֲדָדֵי. אֲמַר לֵיהּ: לָא בְּכֹל שַׁעְתָּא וְשַׁעְתָּא מִתְרְחִישׁ נִיסָּא.
+*Translation:* The Gemara relates that **Rabba and Rabbi Zeira prepared a Purim feast with each other,** and **they became intoxicated** to the point that **Rabba arose and slaughtered Rabbi Zeira. The next day,** when he became sober and realized what he had done, Rabba **asked** God **for mercy, and revived him. The next year,** Rabba **said to** Rabbi Zeira: **Let** the **Master come and let us prepare the Purim feast with each other. He said to him: Miracles do not happen each and every hour,** and I do not want to undergo that experience again.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רָבָא: סְעוּדַת פּוּרִים שֶׁאֲכָלָהּ בַּלַּיְלָה — לֹא יָצָא יְדֵי חוֹבָתוֹ. מַאי טַעְמָא — ״יְמֵי מִשְׁתֶּה וְשִׂמְחָה״, כְּתִיב: רַב אָשֵׁי הֲוָה יָתֵיב קַמֵּיהּ (דְּרַב כָּהֲנָא), נְגַהּ וְלָא אֲתוֹ רַבָּנַן. אֲמַר לֵיהּ: מַאי טַעְמָא לָא אֲתוֹ רַבָּנַן? דִּלְמָא טְרִידִי בִּסְעוּדַת פּוּרִים. אֲמַר לֵיהּ: וְלָא הֲוָה אֶפְשָׁר לְמֵיכְלַהּ בְּאוּרְתָּא? אָמַר לֵיהּ: לָא שְׁמִיעַ לֵיהּ לְמָר הָא דְּאָמַר רָבָא: סְעוּדַת פּוּרִים שֶׁאֲכָלָהּ בַּלַּיְלָה לֹא יָצָא יְדֵי חוֹבָתוֹ? אָמַר לֵיהּ: (אָמַר רָבָא הָכִי?) [אֲמַר לֵיהּ: אִין]. תְּנָא מִינֵּיהּ אַרְבְּעִין זִימְנִין וְדָמֵי לֵיהּ כְּמַאן דְּמַנַּח בְּכִיסֵיהּ.
+*Translation:* **Rava said: A Purim feast that one ate at night did not fulfill his obligation. What is the reason? “Days of feasting and gladness”** (Esther 9:22) **is written,** i.e., days and not nights. The Gemara relates: **Rav Ashi was sitting before Rav Kahana** his teacher on Purim, and **it grew dark and the Sages** who usually came to study with him **did not come.** Rav Ashi **said to him: What is the reason that the Sages did not come** today? Rav Kahana answered: **Perhaps they are preoccupied with the Purim feast.** Rav Ashi **said to him: Wasn’t it possible** for them **to eat** the feast **at night** on Purim, instead of being derelict in their Torah study on Purim day? Rav Kahana **said to him: Didn’t the master learn that which Rava said: A Purim feast that one ate at night did not fulfill his obligation?** Rav Ashi **said to him: Did Rava say that?** Rav Kahana **said to him: Yes.** Rav Ashi then **learned it from him forty times until** he remembered it so well that **it seemed to him as if it were placed in his purse.**
+
+**10.**
+*Hebrew/Aramaic:* מַתְנִי׳ אֵין בֵּין יוֹם טוֹב לַשַּׁבָּת אֶלָּא אוֹכֶל נֶפֶשׁ בִּלְבָד.
+*Translation:* MISHNA: The previous mishna concluded with the formula: The difference between…is only, thereby distinguishing between the *halakhot* in two different cases. The following *mishnayot* employ the same formula and distinguish between the *halakhot* in cases unrelated to Purim and the Megilla. The first is: **The difference between Festivals and Shabbat** with regard to the labor prohibited on those days **is only** in **preparing food alone.** It is permitted to cook and bake in order to prepare food on Festivals; however, on Shabbat it is prohibited.
+
+**11.**
+*Hebrew/Aramaic:* גְּמָ׳ הָא לְעִנְיַן מַכְשִׁירֵי אוֹכֶל נֶפֶשׁ — זֶה וָזֶה שָׁוִין.
+*Translation:* GEMARA: The Gemara infers **that with regard to the matter of** actions that **facilitate preparation of food,** e.g., sharpening a knife for slaughter, **this,** Shabbat, **and that,** Festivals, **are equal,** in that actions that facilitate preparation of food are prohibited.
+
+**12.**
+*Hebrew/Aramaic:* מַתְנִיתִין דְּלָא כְּרַבִּי יְהוּדָה, דְּתַנְיָא: אֵין בֵּין יוֹם טוֹב לַשַּׁבָּת אֶלָּא אוֹכֶל נֶפֶשׁ, רַבִּי יְהוּדָה מַתִּיר אַף מַכְשִׁירֵי אוֹכֶל נֶפֶשׁ.
+*Translation:* The Gemara comments: If so, **the mishna is not in accordance with** the opinion of **Rabbi Yehuda, as it is taught** in a *baraita*: **The difference between Festivals and Shabbat is only preparing food. Rabbi Yehuda permits even** actions that **facilitate preparation of food** on Festivals.
+
+**13.**
+*Hebrew/Aramaic:* מַאי טַעְמָא דְּתַנָּא קַמָּא? אָמַר קְרָא: ״הוּא״ — וְלֹא מַכְשִׁירָיו, וְרַבִּי יְהוּדָה (אָמַר): ״לָכֶם״ — לָכֶם לְכׇל צוֹרְכֵיכֶם.
+*Translation:* The Gemara elaborates. **What is the reason** for the opinion **of the first *tanna*?** It is as the **verse states:** “Except that which every person must eat, only that may be done for you” (Exodus 12:16). **“That”** is permitted, **and not** actions that **facilitate** it. **And Rabbi Yehuda says: “For you”** means **for you, for all your needs.**
+
+**14.**
+*Hebrew/Aramaic:* וְאִידַּךְ נָמֵי, הָכְתִיב ״לָכֶם״? לָכֶם וְלֹא לְגוֹיִם, לָכֶם וְלֹא לִכְלָבִים.
+*Translation:* The Gemara asks: **And** for **the other,** first, *tanna* **too, isn’t it written: “For you”?** The Gemara answers: He infers: **For you, and not for gentiles; for you, and not for dogs.** It is forbidden to perform labors for the sake of gentiles, or for animals, even if it is to feed them.
+
+**15.**
+*Hebrew/Aramaic:* וְאִידַּךְ נָמֵי, הָא כְּתִיב ״הוּא״? כְּתִיב ״הוּא״ וּכְתִיב ״לָכֶם״. כָּאן בְּמַכְשִׁירִין שֶׁאֶפְשָׁר לַעֲשׂוֹתָן מֵעֶרֶב יוֹם טוֹב, כָּאן בְּמַכְשִׁירִין שֶׁאִי אֶפְשָׁר לַעֲשׂוֹתָן מֵעֶרֶב יוֹם טוֹב.
+*Translation:* The Gemara asks further: **And** for **the other** *tanna*, Rabbi Yehuda, **too, isn’t it written: “That,”** which is a restrictive term that limits the application of a particular *halakha*? The Gemara answers: **It is written: “That,”** which is restrictive, **and it is written: “For you,”** which is inclusive. Rabbi Yehuda resolves the conflict between the two: **Here,** the word: “That,” is referring **to** actions that **facilitate,** in **which it is possible to perform them on the Festival eve** but which are prohibited on the Festival; **there,** the phrase: “For you,” is referring **to** actions that **facilitate,** in **which it is impossible to perform them on the Festival eve** and which are permitted even on the Festival.
+
+**16.**
+*Hebrew/Aramaic:* מַתְנִי׳ אֵין בֵּין שַׁבָּת לְיוֹם הַכִּפּוּרִים, אֶלָּא שֶׁזֶּה — זְדוֹנוֹ בִּידֵי אָדָם, וְזֶה — זְדוֹנוֹ בְּכָרֵת.
+*Translation:* MISHNA: **The difference between Shabbat and Yom Kippur** with regard to the labor prohibited on those days **is only that** in **this** case, i.e., Shabbat, **its intentional** desecration is punishable **at the hand of Man,** as he is stoned by a court based on the testimony of witnesses who forewarned the transgressor; **and** in **that** case, i.e., Yom Kippur, **its intentional** desecration is punishable at the hand of God, **with *karet*.**
+
+**17.**
+*Hebrew/Aramaic:* גְּמָ׳ הָא לְעִנְיַן תַּשְׁלוּמִין — זֶה וָזֶה שָׁוִין.
+*Translation:* GEMARA: The Gemara infers **that with regard to the matter of payment** of damages, both **this,** Shabbat, **and that,** Yom Kippur, **are equal** in that one is exempt in both cases. If one performs an action on Shabbat that entails both a prohibited labor and damage to another’s property, since his transgression is punishable by death, he is exempt from paying damages. Apparently, according to the mishna, the same *halakha* applies to Yom Kippur.
+
+**18.**
+*Hebrew/Aramaic:* מַנִּי מַתְנִיתִין? רַבִּי נְחוּנְיָא בֶּן הַקָּנָה הִיא, דְּתַנְיָא: רַבִּי נְחוּנְיָא בֶּן הַקָּנָה הָיָה עוֹשֶׂה אֶת יוֹם הַכִּפּוּרִים כַּשַּׁבָּת לְתַשְׁלוּמִין, מָה שַׁבָּת — מִתְחַיֵּיב בְּנַפְשׁוֹ וּפָטוּר מִן הַתַּשְׁלוּמִין, אַף יוֹם הַכִּפּוּרִים — מִתְחַיֵּיב בְּנַפְשׁוֹ וּפָטוּר מִן הַתַּשְׁלוּמִין.
+*Translation:* The Gemara asks: According to **whose** opinion is **the mishna** taught? The Gemara answers: **It is** according to the opinion of **Rabbi Neḥunya ben HaKana, as it is taught** in a *baraita*: **Rabbi Neḥunya ben HaKana would render Yom Kippur like Shabbat with regard to payment** of damages. **Just as** in the case of one who intentionally desecrates **Shabbat he is liable to** receive the **death** penalty **and** is therefore **exempt from** the obligation of **payment** of damages caused while desecrating Shabbat, **so too,** in the case of one who intentionally desecrates **Yom Kippur, he is liable to** receive the **death** penalty **and** is therefore **exempt from** the obligation of **payment** of damages caused while desecrating Yom Kippur.
+
+**19.**
+*Hebrew/Aramaic:* תְּנַן הָתָם: כׇּל חַיָּיבֵי כָרֵיתוֹת שֶׁלָּקוּ — נִפְטְרוּ מִידֵי כְּרִיתָתָן, שֶׁנֶּאֱמַר: ״וְנִקְלָה אָחִיךָ לְעֵינֶיךָ״, כֵּיוָן שֶׁלָּקָה — הֲרֵי הוּא כְּאָחִיךָ. דִּבְרֵי רַבִּי חֲנַנְיָה בֶּן גַּמְלִיאֵל. אָמַר רַבִּי יוֹחָנָן: חֲלוּקִין עָלָיו חֲבֵירָיו עַל רַבִּי חֲנַנְיָה בֶּן גַּמְלִיאֵל.
+*Translation:* **We learned there** in a mishna (*Makkot* 23a): **All** those **liable to** receive ***karet* who were flogged** in court **were exempted from their *karet*,** which is imposed by heaven. Most transgressors are liable to receive *karet* for violating prohibitions that are punishable by flogging. If they are flogged, they are exempt from *karet*, **as it is stated** with regard to one liable to receive lashes: **“Then your brother shall be dishonored before you”** (Deuteronomy 25:3), indicating that **once he was flogged he is like your brother,** and his sins have been pardoned; this is **the statement of Rabbi Ḥananya ben Gamliel. Rabbi Yoḥanan said: Rabbi Ḥananya ben Gamliel’s colleagues disagree with him** on this issue.
+
+**20.**
+*Hebrew/Aramaic:* אָמַר רָבָא: אָמְרִי בֵּי רַב, תְּנֵינָא: אֵין בֵּין יוֹם הַכִּפּוּרִים לַשַּׁבָּת אֶלָּא שֶׁזֶּה — זְדוֹנוֹ בִּידֵי אָדָם, וְזֶה — זְדוֹנוֹ בְּהִיכָּרֵת. וְאִם אִיתָא — אִידֵּי וְאִידֵּי בִּידֵי אָדָם הִיא!
+*Translation:* **Rava said** that the Sages of **the school of Rav said: We learned: The difference between Yom Kippur and Shabbat is only that** in **this** case, Shabbat, **its intentional** desecration is punishable **at the hand of Man; and** in **that** case, Yom Kippur, **its intentional** desecration is punishable **with *karet*. And if** the statement of Rabbi Ḥananya ben Gamliel **is so,** in both **this** case, Shabbat, **and that** case, Yom Kippur, the punishment **is at the hand of Man.**
+
+**21.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן: הָא מַנִּי — רַבִּי יִצְחָק הִיא, דְּאָמַר: מַלְקוֹת בְּחַיָּיבֵי כָרֵיתוֹת לֵיכָּא. דְּתַנְיָא, רַבִּי יִצְחָק אוֹמֵר: חַיָּיבֵי כָרֵיתוֹת בַּכְּלָל הָיוּ, וְלָמָּה יָצָאת כָּרֵת בַּאֲחוֹתוֹ — לְדוּנָהּ בְּכָרֵת וְלֹא בְּמַלְקוֹת.
+*Translation:* **Rav Naḥman said:** There is no proof from here that Rabbi Ḥananya ben Gamliel’s colleagues disagree with him, as in accordance with **whose** opinion **is this** mishna taught? **It is** according to the opinion of **Rabbi Yitzḥak, who said: There are no lashes in** cases of **those liable** to receive ***karet*, as it is taught** in a *baraita* that **Rabbi Yitzḥak says:** All **those liable** to receive ***karet*** in cases of incest **were included in** the principle: “For whoever shall commit any of these abominations, even the persons that commit them shall be cut off from among their people” (Leviticus 18:29). **And why was *karet*** administered to **one’s sister excluded** from this verse and mentioned independently (Leviticus 20:17)? It is **to sentence her to** the punishment of ***karet* and not to** the punishment of **lashes.** This serves as a paradigm; wherever one is liable to receive *karet*, there are no lashes.
+
+**22.**
+*Hebrew/Aramaic:* רַב אָשֵׁי אָמַר: אֲפִילּוּ תֵּימָא רַבָּנַן, זֶה — עִיקַּר זְדוֹנוֹ בִּידֵי אָדָם, וְזֶה — עִיקָּר זְדוֹנוֹ בְּהִיכָּרֵת.
+*Translation:* **Rav Ashi said: Even** if **you say** that the mishna is according to the opinion of **the Rabbis** who disagree with Rabbi Yitzḥak and hold that there are lashes even in cases where there is liability for *karet*, there is no proof that Rabbi Ḥananya ben Gamliel’s colleagues disagree with him. The mishna can be understood as follows: In **this** case, Shabbat, the **primary** punishment for **its intentional** desecration is **at the hand of Man; and** in **that** case, Yom Kippur, the **primary** punishment for **its intentional** desecration is **with *karet*.** If, however, he was flogged, he is exempt from *karet*.

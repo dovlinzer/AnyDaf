@@ -1,0 +1,53 @@
+### Ketubot 10a
+
+**1.**
+*Hebrew/Aramaic:* אִיתְּמַר, אָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר: חֲכָמִים תִּקְּנוּ לָהֶם לִבְנוֹת יִשְׂרָאֵל, לִבְתוּלָה מָאתַיִם, וּלְאַלְמָנָה מָנֶה. וְהֵם הֶאֱמִינוּהוּ, שֶׁאִם אָמַר ״פֶּתַח פָּתוּחַ מָצָאתִי״ — נֶאֱמָן. אִם כֵּן — מָה הוֹעִילוּ חֲכָמִים בְּתַקָּנָתָם?
+*Translation:* § **It was stated: Rav Naḥman said** that **Shmuel said in the name of Rabbi Shimon ben Elazar: The Sages instituted** the marriage contract **for Jewish women: For a virgin two hundred** dinars **and for a widow one hundred dinars.** And they **deemed** the groom **credible** in **that if** he **says** with regard to his virgin bride: **I encountered an unobstructed orifice** and she is not a virgin, **he is deemed credible,** causing her to lose her marriage contract. The Gemara asks: **If so,** and the Sages deemed him credible, **what did the Sages accomplish in their ordinance** that the marriage contract of a virgin is two hundred dinars, if his claim that she is not a virgin is effective?
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רָבָא: חֲזָקָה, אֵין אָדָם טוֹרֵחַ בַּסְּעוּדָה וּמַפְסִידָהּ.
+*Translation:* **Rava said:** The ordinance is effective due to the **presumption** that **a person does not exert** himself to prepare a wedding **feast and** then **cause it to be lost.** Investing in the wedding preparations clearly indicates that the groom’s intention is to marry the bride and rejoice with her. If, nevertheless, he claims that she is not a virgin, apparently he is telling the truth.
+
+**3.**
+*Hebrew/Aramaic:* תָּנָא: הוֹאִיל וּקְנַס חֲכָמִים הוּא — לֹא תִּגְבֶּה אֶלָּא מִן הַזִּיבּוּרִית. קְנָסָא? מַאי קְנָסָא?! אֶלָּא אֵימָא: הוֹאִיל וְתַקָּנַת חֲכָמִים הוּא — לֹא תִּגְבֶּה אֶלָּא מִן הַזִּיבּוּרִית. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: כְּתוּבַּת אִשָּׁה מִן הַתּוֹרָה.
+*Translation:* § A Sage **taught** in a *baraita*: **Since** payment of the marriage contract **is a penalty** instituted by the **Sages, she may collect only from the** husband’s **land of the most inferior quality.** The Gemara asks: **A penalty? What penalty** is there in a marriage contract? **Rather,** emend the *baraita* and **say: Since it is a rabbinic ordinance** and not a Torah obligation, **she may collect only from the** husband’s **land of the most inferior quality. Rabban Shimon ben Gamliel says: The marriage contract of a woman is** an obligation **by Torah** law.
+
+**4.**
+*Hebrew/Aramaic:* וּמִי אָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל הָכִי? וְהָתַנְיָא: ״כֶּסֶף יִשְׁקֹל כְּמֹהַר הַבְּתוּלוֹת״: שֶׁיְּהֵא זֶה, כְּמוֹהַר הַבְּתוּלוֹת, וּמוֹהַר הַבְּתוּלוֹת כָּזֶה. מִכָּאן סָמְכוּ חֲכָמִים לִכְתוּבַּת אִשָּׁה מִן הַתּוֹרָה. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: כְּתוּבַּת אִשָּׁה אֵינָהּ מִדִּבְרֵי תוֹרָה, אֶלָּא מִדִּבְרֵי סוֹפְרִים!
+*Translation:* The Gemara asks: **And did Rabban Shimon ben Gamliel say that? But isn’t it taught** in a *baraita* that it is written with regard to a seducer: **“He shall pay money according to the dowry of virgins”** (Exodus 22:16)? The Torah establishes that **this** fine **will be like the dowry of a virgin,** and that **the dowry of a virgin** will be **like this** fine, i.e., fifty silver *sela*, or two hundred dinars. **From here the Sages based** their determination **that a woman’s marriage contract is** an obligation **by Torah** law. **Rabban Shimon ben Gamliel says: The marriage contract of a woman is not** an obligation **by Torah law, but** is **by rabbinic law.**
+
+**5.**
+*Hebrew/Aramaic:* אֵיפוֹךְ. וּמַאי חָזֵית דְּאָפְכַתְּ בָּתְרָיְיתָא, אֵיפוֹךְ קַמַּיְיתָא?
+*Translation:* The Gemara resolves the contradiction between the statements of Rabban Shimon ben Gamliel: **Reverse** the attribution of opinions in this *baraita*. The Gemara asks: **And what did you see that** led **you** to **reverse** the attribution of opinions **in the latter** *baraita*? **Reverse** the attribution of opinions in **the former,** in the *baraita*, and say that Rabban Shimon ben Gamliel is the one who holds that the marriage contract is a rabbinic ordinance.
+
+**6.**
+*Hebrew/Aramaic:* הָא שָׁמְעִינַן לֵיהּ לְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל דְּאָמַר כְּתוּבַּת אִשָּׁה מִדְּאוֹרָיְיתָא. דִּתְנַן, רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר — נוֹתֵן לָהּ מִמְּעוֹת קַפּוֹטְקְיָא.
+*Translation:* The Gemara answers: The reason is **that we learned that** it is **Rabban Shimon ben Gamliel who said** elsewhere **that the marriage contract of a woman is** an obligation **by Torah** law, **as we learned** in a mishna (110b) that **Rabban Shimon ben Gamliel says** that if a man marries a woman in Cappadocia, where the currency is more valuable, and he divorces her in Eretz Yisrael, **he gives her** payment for the marriage contract **from the money of Cappadocia.** From the fact that he is obligated to pay the marriage contract in the currency of the place where he undertook the obligation, apparently the marriage contract of a woman is an obligation by Torah law.
+
+**7.**
+*Hebrew/Aramaic:* וְאִי בָּעֵית אֵימָא: כּוּלָּהּ רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל הִיא, וְחַסּוֹרֵי מִיחַסְּרָא, וְהָכִי קָתָנֵי: מִכָּאן סָמְכוּ חֲכָמִים לִכְתוּבַּת אִשָּׁה מִן הַתּוֹרָה. כְּתוּבַּת אַלְמָנָה אֵינָהּ מִדִּבְרֵי תוֹרָה, אֶלָּא מִדִּבְרֵי סוֹפְרִים, שֶׁרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: כְּתוּבַּת אַלְמָנָה אֵינָהּ מִדִּבְרֵי תוֹרָה, אֶלָּא מִדִּבְרֵי סוֹפְרִים.
+*Translation:* **And if you wish, say** instead that the **entire** latter *baraita* **is** in accordance with the opinion of **Rabban Shimon ben Gamliel, but** the *baraita* **is incomplete and it is teaching the following: From here, the Sages based** their determination **that a woman’s marriage contract** in the case of a virgin **is** an obligation **by Torah** law. However, the **marriage contract of a widow is not** an obligation **by Torah law but** is an ordinance **by rabbinic law, as Rabban Shimon ben Gamliel says: The marriage contract of a widow is not** an obligation **by Torah law but** is an ordinance **by rabbinic law.**
+
+**8.**
+*Hebrew/Aramaic:* הַהוּא דַּאֲתָא לְקַמֵּיהּ דְּרַב נַחְמָן, אֲמַר לֵיהּ: פֶּתַח פָּתוּחַ מָצָאתִי. אֲמַר לֵיהּ רַב נַחְמָן: אַסְּבוּהוּ כּוּפְרֵי, מְבָרַכְתָּא חֲבִיטָא לֵיהּ?
+*Translation:* § The Gemara relates: **A certain** man **who** had never been married **came before Rav Naḥman** and **said to him: I encountered an unobstructed orifice** when I consummated the marriage. Rav Naḥman **said in his** regard: **Flog him** with **palm branches [*kufrei*]; prostitutes [*mevarakhta*] are common** around **him.** As he was never previously married, how was he able to determine whether or not the orifice was unobstructed, if he did not gain experience with prostitutes?
+
+**9.**
+*Hebrew/Aramaic:* וְהָא רַב נַחְמָן הוּא דְּאָמַר מְהֵימַן! מְהֵימַן, וּמַסְּבִינַן לֵיהּ כּוּפְרֵי. רַב אַחַאי מְשַׁנֵּי: כָּאן בְּבָחוּר, כָּאן בְּנָשׂוּי.
+*Translation:* The Gemara asks: **But isn’t Rav Naḥman he who said that he is deemed credible** when he claims that he encountered an unobstructed orifice? The Gemara answers: Yes, **he is deemed credible, and** nevertheless, **we flog him** with **palm branches. Rav Aḥai answered: Here,** in the case where he is flogged, it is **with regard to a bachelor,** who is not accorded credibility, because he lacks experience. **There,** in the case where he is accorded credibility, it is **with regard to** one who has been **married.**
+
+**10.**
+*Hebrew/Aramaic:* הַהוּא דַּאֲתָא לְקַמֵּיהּ דְּרַבָּן גַּמְלִיאֵל, אֲמַר לֵיהּ: פֶּתַח פָּתוּחַ מָצָאתִי. אֲמַר לֵיהּ: שֶׁמָּא הִטֵּיתָהּ? אֶמְשׁוֹל לְךָ מָשָׁל: לְמָה הַדָּבָר דּוֹמֶה? לְאָדָם שֶׁהָיָה מְהַלֵּךְ בְּאִישׁוֹן לַיְלָה וַאֲפֵילָה, הִיטָּה — מְצָאוֹ פָּתוּחַ, לֹא הִיטָּה — מְצָאוֹ נָעוּל.
+*Translation:* The Gemara relates a similar incident from an earlier era: **A certain** man **who came before Rabban Gamliel said to him: I encountered an unobstructed orifice.** Rabban Gamliel **said to him: Perhaps you diverted** your approach and therefore, you encountered no obstruction? **I will tell you a parable to which this is similar.** It is similar **to a man who was walking in the blackness of night and darkness** and he arrived at the entrance to the house; if **he diverts** the object preventing the door from opening, **he finds it open;** if **he does not divert** it, **he finds it locked.** Perhaps you too diverted your approach and entered from a different angle and that is why you did not encounter an obstruction.
+
+**11.**
+*Hebrew/Aramaic:* אִיכָּא דְּאָמְרִי, הָכִי אֲמַר לֵיהּ: שֶׁמָּא בְּמֵזִיד הִטֵּיתָהּ, וַעֲקַרְתְּ לְדַשָּׁא וְעָבְרָא? אֶמְשׁוֹל לְךָ מָשָׁל: לְמָה הַדָּבָר דּוֹמֶה? לְאָדָם שֶׁהוּא מְהַלֵּךְ בְּאִישׁוֹן לַיְלָה וַאֲפֵילָה, הִיטָּה בְּמֵזִיד — מְצָאוֹ פָּתוּחַ, לֹא הִיטָּה בְּמֵזִיד — מְצָאוֹ נָעוּל.
+*Translation:* **Some say this is what** Rabban Gamliel **said to him: Maybe you diverted** your approach **intentionally and you displaced the door and the bolt. I will tell you a parable to which this is similar.** It is similar **to a man who is walking in the blackness of night and darkness** and he arrives at his entrance. **If he diverts intentionally, he finds it open; if he does not divert intentionally, he finds it locked.**
+
+**12.**
+*Hebrew/Aramaic:* הַהוּא דַּאֲתָא לְקַמֵּיהּ דְּרַבָּן גַּמְלִיאֵל בַּר רַבִּי, אֲמַר לֵיהּ: רַבִּי, בָּעַלְתִּי וְלֹא מָצָאתִי דָּם. אָמְרָה לוֹ: רַבִּי, בְּתוּלָה הָיִיתִי. אָמַר לָהֶם: הָבִיאוּ לִי אוֹתוֹ סוּדָר. הֵבִיאוּ לוֹ הַסּוּדָר, וּשְׁרָאוֹ בְּמַיִם וְכִבְּסוֹ, וּמָצָא עָלָיו כַּמָּה טִיפֵּי דָמִים. אָמַר לוֹ: לֵךְ זְכֵה בְּמִקָּחֶךָ.
+*Translation:* The Gemara relates: **A certain** man **who came before Rabban Gamliel bar Rabbi** Yehuda HaNasi **said to him: My teacher, I engaged in intercourse and did not find blood.** The bride **said to him: My teacher, I was a virgin.** Rabban Gamliel bar Rabbi Yehuda HaNasi **said to them: Bring me that cloth [*sudar*]** on which you consummated the marriage. **They brought him the cloth, and he soaked it in water and laundered it and found upon it several drops of blood** from the rupture of the hymen. Rabban Gamliel bar Rabbi Yehuda HaNasi **said to** the groom: **Go take possession of your acquisition,** as she was a virgin and there is no need for concern.
+
+**13.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ הוּנָא מָר בְּרֵיהּ דְּרָבָא מִפַּרְזִקְיָא לְרַב אָשֵׁי: אֲנַן נָמֵי נַעֲבֵיד הָכִי. אֲמַר לֵיהּ:
+*Translation:* **Huna Mar, son of Rava, from Parzakya, said to Rav Ashi: Let us do so as well** in similar cases and examine whether there is blood that is obscured by semen or another substance. Rav Ashi **said to him:**

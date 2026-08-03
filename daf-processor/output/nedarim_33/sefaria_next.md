@@ -27,3 +27,20 @@
 **7.**
 *Hebrew/Aramaic:* אֶלָּא לְמַאן דְּאָמַר בְּשֶׁנִּכְסֵי מַחְזִיר אֲסוּרִין, וְלָא מַהְדַּר, הֵיכִי מְתָרֵץ מָקוֹם? קַשְׁיָא.
 *Translation:* **However, according to the one who said** that **in** a case **where the property of** the **one returning** the lost item **is forbidden** to the owner of the lost item **he may not return** it to him, **how does he explain** the *halakha* taught with regard to **a place** where one takes payment? Since the mishna is referring to a case where the property of the owner of the lost item is forbidden to the one returning the lost item, why is it prohibited for the owner of the lost item to keep the payment? It is not prohibited for him to benefit from the property of the one returning the lost item. The Gemara concludes: Indeed, it is **difficult.**
+
+
+---
+
+### Nedarim 34b
+
+**1.**
+*Hebrew/Aramaic:* אָמַר רָבָא: הָיְתָה לְפָנָיו כִּכָּר שֶׁל הֶפְקֵר, וְאָמַר: ״כִּכָּר זוֹ הֶקְדֵּשׁ״, נְטָלָהּ לְאוֹכְלָהּ — מָעַל לְפִי כּוּלָּהּ. לְהוֹרִישָׁה לְבָנָיו — מָעַל לְפִי טוֹבַת הֲנָאָה שֶׁבָּהּ.
+*Translation:* **Rava said:** In a case where **there was a loaf of ownerless** bread **before** a person, **and he said: This loaf is consecrated,** if **he took** the loaf **to eat it, he misused consecrated** property. His repayment to the Temple for that misuse is **based on** the loaf’s **entire value.** However, if his intent was not to take the loaf for himself but **to bequeath it to his sons, he misused the consecrated** property, and his repayment to the Temple is **based on the discretionary benefit that** he derived from the fact that his children are indebted to him for the bequest, as he himself derived no direct benefit from the loaf.
+
+**2.**
+*Hebrew/Aramaic:* בְּעָא מִינֵּיהּ רַב חִיָּיא בַּר אָבִין מֵרָבָא: ״כִּכָּרִי עָלֶיךָ״ וּנְתָנָהּ לוֹ בְּמַתָּנָה, מַהוּ? ״כִּכָּרִי״ אָמַר לוֹ, כִּי אִיתֵיהּ בִּרְשׁוּתֵיהּ הוּא דְּאָסוּר. אוֹ דִּלְמָא ״עָלֶיךָ״ אֲמַר לֵיהּ, עִילָּוֵיהּ שַׁוִּיתֵיהּ הֶקְדֵּשׁ?
+*Translation:* **Rav Ḥiyya bar Avin raised a dilemma before Rava.** If one said to another: **My loaf** is *konam* **for you, and** then he **gave it to him as a gift, what is** the *halakha*? Should one infer: **My loaf** is forbidden, i.e., **he said to him** that **when** the loaf **is in his possession, that is when it is forbidden,** but when he gives him a gift, it is no longer in his possession and it is no longer forbidden? **Or, perhaps** the inference is: Forbidden **to you,** i.e., **he said to him** that **he rendered** the loaf **for him like a consecrated item** that is forbidden even after the loaf is no longer in his possession.
+
+**3.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: פְּשִׁיטָא דְּאַף עַל גַּב דְּיַהֲבַהּ לֵיהּ בְּמַתָּנָה — אָסוּר. אֶלָּא ״כִּכָּרִי עָלֶיךָ״ לְאַפּוֹקֵי מַאי? לָאו לְאַפּוֹקֵי דְּאִי גַּנְבַהּ מִינֵּיהּ מִיגְנָב? אֲמַר לֵיהּ: לָא, לְאַפּוֹקֵי דְּאִי אַזְמְנֵיהּ עֲלַהּ.
+*Translation:* Rava **said to him:** It **is obvious that although he gave it to** the other person **as a gift,** it is **forbidden.** Rav Ḥiyya bar Avin asked him: **But** if that is so, when he said: **My loaf** is forbidden **to you,** with emphasis on the word my, **what does it** come **to exclude? Does it not** come **to exclude** a case **where he stole it from him,** as in that case it is permitted? The same would be true if he gave it to him as a gift. Rava **said to him: No, it** comes **to exclude** a case where **he invited him** to eat from the loaf before he vowed. In that case, that part of the loaf that he invited him to eat is his, and the owner cannot render it forbidden. However, even if he invited the other person before he vowed, the entire loaf remains forbidden if he gave it to him as a gift.

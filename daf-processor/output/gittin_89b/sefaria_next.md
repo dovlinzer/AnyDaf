@@ -67,3 +67,40 @@
 **17.**
 *Hebrew/Aramaic:* וְיֵשׁ לְךָ אָדָם שֶׁזְּבוּב נוֹפֵל לְתוֹךְ תַּמְחוּי – מוֹצְצוֹ, וְאוֹכְלוֹ; זוֹ הִיא מִדַּת אָדָם רַע, שֶׁרוֹאֶה אֶת אִשְׁתּוֹ יוֹצְאָה וְרֹאשָׁהּ פָּרוּעַ, וְטוֹוָה בַּשּׁוּק,
 *Translation:* **And you have a man who,** when **a fly falls into** his **serving bowl, he sucks** the fly **and eats** the food. **This is the demeanor of a bad man, who sees his wife going out** into the street **with her head uncovered, and spinning in the marketplace** immodestly,
+
+
+---
+
+### Gittin 90b
+
+**1.**
+*Hebrew/Aramaic:* וּפְרוּמָה מִשְּׁנֵי צְדָדֶיהָ, וְרוֹחֶצֶת עִם בְּנֵי אָדָם.
+*Translation:* **and with her garment open from both sides, and bathing with men,** and ignores it.
+
+**2.**
+*Hebrew/Aramaic:* ״עִם בְּנֵי אָדָם״ סָלְקָא דַּעְתָּךְ?! אֶלָּא בִּמְקוֹם שֶׁבְּנֵי אָדָם רוֹחֲצִין.
+*Translation:* The Gemara asks: **Can it enter your mind** that the *baraita* is referring to a wife who bathes **with men?** Even a man of the lowest moral character would not allow his wife to act in this manner. **Rather,** the *baraita* means that she bathes **in a place where men** often **bathe.**
+
+**3.**
+*Hebrew/Aramaic:* זוֹ – מִצְוָה מִן הַתּוֹרָה לְגָרְשָׁהּ, שֶׁנֶּאֱמַר: ״כִּי מָצָא בָהּ עֶרְוַת וְגוֹ׳ וְשִׁלְּחָהּ מִבֵּיתוֹ״. ״וְהָלְכָה וְהָיְתָה לְאִישׁ אַחֵר״ – הַכָּתוּב קְרָאוֹ ״אַחֵר״, לוֹמַר: שֶׁאֵין זֶה בֶּן זוּגוֹ לָרִאשׁוֹן – זֶה הוֹצִיא רְשָׁעָה מִבֵּיתוֹ, וְזֶה הִכְנִיס רְשָׁעָה לְתוֹךְ בֵּיתוֹ.
+*Translation:* The *baraita* continues: With regard to **this** kind of wife, **it is a mitzva by Torah law to divorce her, as it is stated: “Because he has found some unseemly** matter in her, and he writes her a scroll of severance, and gives it in her hand, **and he sends her out of his house…And she goes and becomes another [*aḥer*] man’s wife”** (Deuteronomy 24:1–2). **The verse called** the second husband *aḥer*, other, **to state that this** man **is not a peer of the first** husband. They are morally distinct, as **that** first husband **evicted a wicked woman from his house and this** second man **introduced a wicked woman into his house.**
+
+**4.**
+*Hebrew/Aramaic:* זָכָה שֵׁנִי – שִׁלְּחָהּ, שֶׁנֶּאֱמַר: ״וּשְׂנֵאָהּ הָאִישׁ הָאַחֲרוֹן״. וְאִם לָאו – קוֹבַרְתּוֹ, שֶׁנֶּאֱמַר: ״אוֹ כִי יָמוּת הָאִישׁ הָאַחֲרוֹן״ – כְּדַאי הוּא בְּמִיתָה; שֶׁזֶּה הוֹצִיא רְשָׁעָה מִבֵּיתוֹ, וְזֶה הִכְנִיס רְשָׁעָה לְתוֹךְ בֵּיתוֹ.
+*Translation:* If **the second** man **merits, he will send her out, as it is stated** in the following verse: **“And the latter husband hates** her…and he sends her out of his house” (Deuteronomy 24:3). **And if not, she will bury him, as it is stated** in the same verse: **“Or if the latter husband dies.”** It is **appropriate for him to** receive the punishment of **death, as that** first man **evicted a wicked woman from his house and this** second husband **introduced a wicked woman into his house.**
+
+**5.**
+*Hebrew/Aramaic:* ״כִּי שָׂנֵא שַׁלַּח״ – רַבִּי יְהוּדָה אוֹמֵר: אִם שְׂנֵאתָהּ – שַׁלַּח. רַבִּי יוֹחָנָן אוֹמֵר: שָׂנאוּי הַמְשַׁלֵּחַ.
+*Translation:* § The prophet Malachi states in rebuke of those who divorce their wives: **“For I hate sending away,** says the Lord, the God of Israel” (Malachi 2:16). **Rabbi Yehuda says:** The verse means that **if you hate** your wife, **send** her away. Do not continue living with a woman whom you hate. **Rabbi Yoḥanan says:** The verse means that **one who sends** his wife away **is hated** by God.
+
+**6.**
+*Hebrew/Aramaic:* וְלָא פְּלִיגִי: הָא בְּזוּג רִאשׁוֹן, הָא בְּזוּג שֵׁנִי.
+*Translation:* **And** the Gemara explains that **they do not disagree. This** statement **is with regard to a first marriage,** i.e., one should tolerate his first wife and not divorce her, and **that** statement **is with regard to a second marriage,** in which case the husband should divorce his wife if he hates her.
+
+**7.**
+*Hebrew/Aramaic:* דְּאָמַר רַבִּי אֶלְעָזָר: כׇּל הַמְגָרֵשׁ אִשְׁתּוֹ רִאשׁוֹנָה – אֲפִילּוּ מִזְבֵּחַ מוֹרִיד עָלָיו דְּמָעוֹת, שֶׁנֶּאֱמַר: ״וְזֹאת שֵׁנִית תַּעֲשׂוּ, כַּסּוֹת דִּמְעָה אֶת מִזְבַּח ה׳, בְּכִי וַאֲנָקָה מֵאֵין עוֹד פְּנוֹת אֶל הַמִּנְחָה, וְלָקַחַת רָצוֹן מִיֶּדְכֶם. וַאֲמַרְתֶּם: עַל מָה? עַל כִּי ה׳ הֵעִיד בֵּינְךָ וּבֵין אֵשֶׁת נְעוּרֶיךָ, אֲשֶׁר אַתָּה בָּגַדְתָּה בָּהּ, וְהִיא חֲבֶרְתְּךָ וְאֵשֶׁת בְּרִיתֶךָ״.
+*Translation:* **As Rabbi Elazar says:** With regard to **anyone who divorces his first wife, even the altar sheds tears over him, as it is stated: “And this further you do: You cover the altar of the Lord with tears, with weeping, and with sighing, insomuch that He does not regard the offering anymore, nor does He receive it with goodwill from your hand. Yet you say: What for? Because the Lord has been witness between you and the wife of your youth, against whom you have dealt treacherously, though she is your companion, and the wife of your covenant”** (Malachi 2:13–14). Clearly one should not divorce the wife of his youth, i.e., his first wife, as one who does so is hated by God for divorcing the woman to whom he was bound in companionship and covenant.
+
+**8.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ הַמְגָרֵשׁ וּסְלִיקָא לַהּ מַסֶּכֶת גִּיטִּין
+*Translation:* 

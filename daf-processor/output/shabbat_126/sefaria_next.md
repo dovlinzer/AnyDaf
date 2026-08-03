@@ -59,3 +59,92 @@
 **15.**
 *Hebrew/Aramaic:* אִינִי?! וְהָא אֲנַן תְּנַן: אֵלּוּ דְּבָרִים שֶׁאָדָם עוֹשֶׂה אוֹתָם וְאוֹכֵל פֵּירוֹתֵיהֶן בָּעוֹלָם הַזֶּה, וְהַקֶּרֶן קַיֶּימֶת לוֹ לָעוֹלָם הַבָּא, וְאֵלּוּ הֵן: כִּיבּוּד אָב וָאֵם, וּגְמִילוּת חֲסָדִים, וַהֲבָאַת שָׁלוֹם שֶׁבֵּין אָדָם לַחֲבֵרוֹ, וְתַלְמוּד תּוֹרָה כְּנֶגֶד כּוּלָּם [הָנֵי — אִין, מִידֵּי אַחֲרִינָא — לָא]!
 *Translation:* The Gemara asks: **Is that so? And did we not learn** in a mishna: **These** are the **matters that a person does them and enjoys their profits in this world, and** nevertheless **the principal exists for him for the World-to-Come, and they are: Honoring one’s father and mother, and acts of loving kindness, and bringing peace between a person and another, and Torah study is equal to all of them.** By inference: **These** matters, **yes,** one enjoys their profits in this world and the principal exists for him in the World-to-Come; **other matters, no.**
+
+
+---
+
+### Shabbat 127b
+
+**1.**
+*Hebrew/Aramaic:* הָנֵי נָמֵי, (בִּגְמִילוּת חֲסָדִים שָׁיְיכִי. לִישָּׁנָא אַחֲרִינָא: הָנֵי) בְּהָנֵי שָׁיְיכִי.
+*Translation:* The Gemara answers: **These too,** hospitality toward guests and visiting the sick, **are in the category of acts of loving-kindness. A different version** of that answer: **These** matters on the longer list **are attributable to those,** the matters on the shorter list.
+
+**2.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: הַדָּן חֲבֵירוֹ לְכַף זְכוּת — דָּנִין אוֹתוֹ לִזְכוּת. וּמַעֲשֶׂה בְּאָדָם אֶחָד שֶׁיָּרַד מִגָּלִיל הָעֶלְיוֹן וְנִשְׂכַּר אֵצֶל בַּעַל הַבַּיִת אֶחָד בַּדָּרוֹם שָׁלֹשׁ שָׁנִים. עֶרֶב יוֹם הַכִּפּוּרִים אָמַר לוֹ: תֵּן לִי שְׂכָרִי, וְאֵלֵךְ וְאָזוּן אֶת אִשְׁתִּי וּבָנַי. אָמַר לוֹ: אֵין לִי מָעוֹת. אָמַר לוֹ: תֵּן לִי פֵּירוֹת. אָמַר לוֹ: אֵין לִי. תֵּן לִי קַרְקַע — אֵין לִי. תֵּן לִי בְּהֵמָה — אֵין לִי. תֵּן לִי כָּרִים וּכְסָתוֹת — אֵין לִי. הִפְשִׁיל כֵּלָיו לַאֲחוֹרָיו, וְהָלַךְ לְבֵיתוֹ בְּפַחֵי נֶפֶשׁ.
+*Translation:* **The Sages taught** in a *baraita*: **One who judges another favorably is himself judged favorably. And there was an incident** involving **a certain person who descended from the Upper Galilee and was hired** to work **for a certain homeowner in the South** for **three years. On the eve of the Day of Atonement, he said to** the homeowner: **Give me my wages, and I will go and feed my wife and children.** The homeowner **said to him: I have no money. He said to him:** In that case, **give me** my wages in the form of **produce. He said to him: I have none.** The worker said to him: **Give me** my wages in the form of **land.** The homeowner said to him: **I have none.** The worker said to him: **Give me** my wages in the form of **animals. He said to him: I have none.** The worker said to him: **Give me cushions and blankets.** He said to him: **I have none.** The worker **slung his tools** over his shoulder **behind him and went to his home in anguish.**
+
+**3.**
+*Hebrew/Aramaic:* לְאַחַר הָרֶגֶל נָטַל בַּעַל הַבַּיִת שְׂכָרוֹ בְּיָדוֹ, וְעִמּוֹ מַשּׂוֹי שְׁלֹשָׁה חֲמוֹרִים, אֶחָד שֶׁל מַאֲכָל, וְאֶחָד שֶׁל מִשְׁתֶּה, וְאֶחָד שֶׁל מִינֵי מְגָדִים, וְהָלַךְ לוֹ לְבֵיתוֹ. אַחַר שֶׁאָכְלוּ וְשָׁתוּ נָתַן לוֹ שְׂכָרוֹ.
+*Translation:* **After the festival** of *Sukkot*, **the homeowner took** the worker’s **wages in his hand, along with a burden** that required **three donkeys, one** laden **with food, one** laden **with drink, and one** laden **with types of sweets, and went to the** worker’s **home. After they ate and drank,** the homeowner **gave him his wages.**
+
+**4.**
+*Hebrew/Aramaic:* אָמַר לוֹ: בְּשָׁעָה שֶׁאָמַרְתָּ לִי ״תֵּן לִי שְׂכָרִי״ וְאָמַרְתִּי ״אֵין לִי מָעוֹת״, בַּמֶּה חֲשַׁדְתַּנִי? אָמַרְתִּי: שֶׁמָּא פְּרַקְמַטְיָא בְּזוֹל נִזְדַּמְּנָה לְךָ, וְלָקַחְתָּ בָּהֶן. וּבְשָׁעָה שֶׁאָמַרְתָּ לִי ״תֵּן לִי בְּהֵמָה״, וְאָמַרְתִּי ״אֵין לִי בְּהֵמָה״, בַּמֶּה חֲשַׁדְתַּנִי? אָמַרְתִּי: שֶׁמָּא מוּשְׂכֶּרֶת בְּיַד אֲחֵרִים. בְּשָׁעָה שֶׁאָמַרְתָּ לִי ״תֵּן לִי קַרְקַע״, וְאָמַרְתִּי לְךָ ״אֵין לִי קַרְקַע״, בַּמֶּה חֲשַׁדְתַּנִי? אָמַרְתִּי: שֶׁמָּא מוּחְכֶּרֶת בְּיַד אֲחֵרִים הִיא. וּבְשָׁעָה שֶׁאָמַרְתִּי לְךָ ״אֵין לִי פֵּירוֹת״ בַּמֶּה חֲשַׁדְתַּנִי? אָמַרְתִּי: שֶׁמָּא אֵינָן מְעוּשָּׂרוֹת. וּבְשָׁעָה שֶׁאָמַרְתִּי לְךָ ״אֵין לִי כָּרִים וּכְסָתוֹת״ בַּמֶּה חֲשַׁדְתַּנִי? אָמַרְתִּי: שֶׁמָּא הִקְדִּישׁ כָּל נְכָסָיו לַשָּׁמַיִם.
+*Translation:* The homeowner **said to him: When you said to me: Give me my wages, and I said: I have no money, of what did you suspect me?** Why did you not suspect me of trying to avoid paying you? The worker answered, **I said: Perhaps the opportunity to purchase merchandise [*perakmatya*] inexpensively presented itself, and you purchased** it **with** the money that you owed me, and therefore you had no money available. The homeowner asked: **And when you said to me: Give me animals, and I said: I have no animals, of what did you suspect me?** The worker answered: **I said: Perhaps** the animals **are hired to others.** The homeowner asked: **When you said to me: Give me land, and I said: I have no land, of what did you suspect me?** The worker answered: **I said: Perhaps** the land **is leased to others,** and you cannot take the land from the lessees. The homeowner asked: **And when** you said to me: Give me produce, and **I said: I have no produce, of what did you suspect me?** The worker answered: **I said: Perhaps they are not tithed,** and that was why you could not give them to me. The homeowner asked: **And when I said: I have no cushions or blankets, of what did you suspect me?** The worker answered: **I said: Perhaps he consecrated all his property to Heaven** and therefore has nothing available at present.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר לוֹ: הָעֲבוֹדָה! כָּךְ הָיָה. הִדַּרְתִּי כׇּל נְכָסַי בִּשְׁבִיל הוּרְקָנוֹס בְּנִי שֶׁלֹּא עָסַק בַּתּוֹרָה. וּכְשֶׁבָּאתִי אֵצֶל חֲבֵירַי בַּדָּרוֹם הִתִּירוּ לִי כָּל נְדָרַי. וְאַתָּה, כְּשֵׁם שֶׁדַּנְתַּנִי לִזְכוּת, הַמָּקוֹם יָדִין אוֹתְךָ לִזְכוּת.
+*Translation:* The homeowner **said to him:** I swear by **the** Temple **service** that **it was so.** I had no money available at the time because I **vowed** and consecrated **all my property on account of Hyrcanus, my son, who did not engage in Torah** study. The homeowner sought to avoid leaving an inheritance for his son. **And when I came to my colleagues in the South,** the Sages of that generation, **they dissolved all my vows.** At that point, the homeowner had immediately gone to pay his worker. Now the homeowner said: **And you, just as you judged favorably,** so **may God judge you favorably.**
+
+**6.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: מַעֲשֶׂה בְּחָסִיד אֶחָד שֶׁפָּדָה רִיבָה אַחַת בַּת יִשְׂרָאֵל, וְלַמָּלוֹן הִשְׁכִּיבָהּ תַּחַת מַרְגְּלוֹתָיו. לְמָחָר יָרַד וְטָבַל וְשָׁנָה לְתַלְמִידָיו.
+*Translation:* On a similar note, the Gemara relates that **the Sages taught** in a *baraita*: There was **an incident involving a certain pious man who redeemed a young Jewish woman** from captivity. When they arrived **at the inn he had her lie beneath his feet. The next day, he descended, and immersed** in a ritual bath to purify himself before Torah study and prayer, **and taught his students.** This conduct could arouse suspicion that the pious man kept the maiden for himself, as immersion in the morning is customary for men who have experienced a seminal emission by engaging in sexual relations.
+
+**7.**
+*Hebrew/Aramaic:* וְאָמַר לָהֶן: בְּשָׁעָה שֶׁהִשְׁכַּבְתִּיהָ תַּחַת מַרְגְּלוֹתַי, בַּמֶּה חֲשַׁדְתּוּנִי? אָמַרְנוּ: שֶׁמָּא יֵשׁ בָּנוּ תַּלְמִיד שֶׁאֵינוֹ בָּדוּק לְרַבִּי.
+*Translation:* **And** the pious man **said to** his students: **When I had her lie beneath my feet, of what did you suspect me?** They said to him: **We said: Perhaps there is a student among us whose** conduct **is not established** before **the rabbi,** and he wanted to make certain that this student would not inappropriately accost the young woman. Therefore, the rabbi kept the woman close by.
+
+**8.**
+*Hebrew/Aramaic:* בְּשָׁעָה שֶׁיָּרַדְתִּי וְטָבַלְתִּי, בַּמֶּה חֲשַׁדְתּוּנִי? אָמַרְנוּ: שֶׁמָּא מִפְּנֵי טוֹרַח הַדֶּרֶךְ אֵירַע קֶרִי לְרַבִּי. אָמַר לָהֶם: הָעֲבוֹדָה! כָּךְ הָיָה. וְאַתֶּם, כְּשֵׁם שֶׁדַּנְתּוּנִי לְכַף זְכוּת, הַמָּקוֹם יָדִין אֶתְכֶם לְכַף זְכוּת.
+*Translation:* He said to them: **When I descended and immersed, of what did you suspect me?** They answered: **Perhaps due to the exertion of travel, a** seminal **emission befell the rabbi. He said to them:** I swear **by the** Temple **service** that **it was so. And you, just as you judged** me **favorably,** so **may God judge you favorably.**
+
+**9.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: פַּעַם אַחַת הוּצְרַךְ דָּבָר אֶחָד לְתַלְמִידֵי חֲכָמִים אֵצֶל מַטְרוֹנִיתָא אַחַת שֶׁכׇּל גְּדוֹלֵי רוֹמִי מְצוּיִין אֶצְלָהּ. אָמְרוּ: מִי יֵלֵךְ? אָמַר לָהֶם רַבִּי יְהוֹשֻׁעַ: אֲנִי אֵלֵךְ.
+*Translation:* **The Sages taught** a similar *baraita*: **Once** there was **a certain matter needed by Torah scholars.** They wanted to discuss an issue **with a certain matron whose** company was kept **by all the prominent** people **of Rome.** The Torah scholars wanted to address the government on behalf of the Jewish people, and they sought the matron’s advice. **They said: Who will go? Rabbi Yehoshua said to them: I shall go.**
+
+**10.**
+*Hebrew/Aramaic:* הָלַךְ רַבִּי יְהוֹשֻׁעַ וְתַלְמִידָיו. כֵּיוָן שֶׁהִגִּיעַ לְפֶתַח בֵּיתָהּ, חָלַץ תְּפִילָּיו בְּרִחוּק אַרְבַּע אַמּוֹת, וְנִכְנַס וְנָעַל הַדֶּלֶת בִּפְנֵיהֶן. אַחַר שֶׁיָּצָא, יָרַד וְטָבַל וְשָׁנָה לְתַלְמִידָיו.
+*Translation:* **Rabbi Yehoshua and his students went** to her. **When he arrived** with his students **at the entrance of her house, he removed his phylacteries at a distance of four cubits** from the door, **and entered, and locked the door before them. After he emerged, he descended and immersed** in a ritual bath, **and taught his students.** Here too, this was conduct that could arouse suspicion that something improper transpired.
+
+**11.**
+*Hebrew/Aramaic:* וְאָמַר לָהֶן: בְּשָׁעָה שֶׁחָלַצְתִּי תְּפִילִּין, בַּמֶּה חֲשַׁדְתּוּנִי? אָמַרְנוּ: כְּסָבוּר רַבִּי, לֹא יִכָּנְסוּ דִּבְרֵי קְדוּשָּׁה בִּמְקוֹם טוּמְאָה.
+*Translation:* **And he said to** his students: **When I removed the phylacteries, of what did you suspect me?** They said to him, **we said: The rabbi must hold** that **sacred items may not enter a place of impurity.** Therefore, it would have been inappropriate to enter the house with phylacteries.
+
+**12.**
+*Hebrew/Aramaic:* בְּשָׁעָה שֶׁנָּעַלְתִּי, בַּמֶּה חֲשַׁדְתּוּנִי? אָמַרְנוּ: שֶׁמָּא דְּבַר מַלְכוּת יֵשׁ בֵּינוֹ לְבֵינָהּ.
+*Translation:* He asked: **When I locked** the door, **of what did you suspect me?** They said to him: **We said: Perhaps there is a** discreet **royal matter** that must be discussed **between him and her** and should not be revealed.
+
+**13.**
+*Hebrew/Aramaic:* בְּשָׁעָה שֶׁיָּרַדְתִּי וְטָבַלְתִּי בַּמֶּה חֲשַׁדְתּוּנִי, אָמַרְנוּ: שֶׁמָּא נִיתְּזָה צִינּוֹרָא מִפִּיהָ עַל בְּגָדָיו שֶׁל רַבִּי. אָמַר לָהֶם: הָעֲבוֹדָה! כָּךְ הָיָה. וְאַתֶּם, כְּשֵׁם שֶׁדַּנְתּוּנִי לִזְכוּת, הַמָּקוֹם יָדִין אֶתְכֶם לִזְכוּת.
+*Translation:* Rabbi Yehoshua asked: **When I descended and immersed, of what did you suspect me?** They said to him, **we said: Perhaps a bit of spittle sprayed from her mouth onto the rabbi’s clothes.** The Sages decreed that the legal status of a gentile is like that of a *zav*; their bodily fluids transmit ritual impurity. Rabbi Yehoshua **said to them:** I swear **by the** Temple **service** that **it was so. And you, just as you judged favorably,** so **may God judge you favorably.**
+
+**14.**
+*Hebrew/Aramaic:* מְפַנִּין תְּרוּמָה טְהוֹרָה וְכוּ׳. פְּשִׁיטָא! לָא צְרִיכָא, דְּמַנְּחָה בְּיַד יִשְׂרָאֵל. מַהוּ דְּתֵימָא: כֵּיוָן דְּלָא חַזְיָא לֵיהּ — אָסוּר, קָא מַשְׁמַע לַן כֵּיוָן דְּחַזְיָא לְכֹהֵן — שַׁפִּיר דָּמֵי.
+*Translation:* We learned in the mishna: **One** may **move ritually pure *teruma*** on Shabbat. The Gemara objects: That is **obvious.** The Gemara answers: **It is necessary** to teach this **only** in a case **in which it is placed in Israelite hands. Lest you say: Since it is not suitable for** the Israelite to eat, he is **prohibited** to move it on Shabbat; therefore, **it teaches us** that **since it is suitable for** a **priest** to eat, one may **well** move it on Shabbat.
+
+**15.**
+*Hebrew/Aramaic:* וּדְמַאי וְכוּ׳. דְּמַאי, הָא לָא חֲזֵי לֵיהּ! כֵּיוָן דְּאִי בָּעֵי מַפְקַר לֵיהּ לְנִכְסֵיהּ וְהָוֵה עָנִי, וַחֲזֵי לֵיהּ, הַשְׁתָּא נָמֵי חֲזֵי לֵיהּ. דִּתְנַן: מַאֲכִילִין אֶת הָעֲנִיִּים דְּמַאי וְאֶת הָאַכְסַנְיָא דְּמַאי. וְאָמַר רַב הוּנָא: תָּנָא, בֵּית שַׁמַּאי אוֹמְרִים: אֵין מַאֲכִילִין אֶת הָעֲנִיִּים דְּמַאי וְאֶת הָאַכְסַנְיָא דְּמַאי. וּבֵית הִלֵּל אוֹמְרִים: מַאֲכִילִין אֶת הָעֲנִיִּים דְּמַאי וְאֶת הָאַכְסַנְיָא דְּמַאי.
+*Translation:* **And** we also learned in the mishna: One may move **doubtfully tithed produce.** The Gemara asks: With regard to **doubtfully tithed produce,** why may one move it? **It is not suitable for him** to eat. The Gemara answers: **Since if he** so **desires,** he may **renounce** all **his property,** declaring it ownerless, **and he** would then **be poor, and** the doubtfully tithed produce would be **suitable for him, now too it is suitable for him.** A pauper may eat doubtfully tithed produce, **as we learned** in a mishna: **One** may **feed the poor doubtfully tithed produce and soldiers [*akhsanya*] doubtfully tithed produce. And Rav Huna said** that **it was taught: Beit Shammai say: One** may **neither feed the poor doubtfully tithed produce nor** feed **soldiers doubtfully tithed produce. And Beit Hillel say: One** may **feed the poor doubtfully tithed produce and** feed **soldiers doubtfully tithed produce.** The *halakha* is in accordance with the opinion of Beit Hillel.
+
+**16.**
+*Hebrew/Aramaic:* וּמַעֲשֵׂר רִאשׁוֹן שֶׁנִּיטְּלָה תְּרוּמָתוֹ וְכוּ׳. פְּשִׁיטָא! לָא צְרִיכָא שֶׁהִקְדִּימוֹ בְּשִׁבּוֹלִים, וְנִטְּלָה הֵימֶנּוּ תְּרוּמַת מַעֲשֵׂר, וְלֹא נִטְּלָה הֵימֶנּוּ תְּרוּמָה גְּדוֹלָה.
+*Translation:* We learned in the mishna: And one may move **first tithe whose** teruma of the tithe **has** already **been taken.** The Gemara poses a question: **It is obvious** that if the *teruma* was already tithed it is non-sacred produce in every sense. The Gemara explains: **It was necessary** to teach this ***halakha* only in** the following case: A Levite **preceded** the priest while the grain was still **on the stalks and brought it to the threshing floor, and before the grain was threshed, the *teruma* of the tithes was taken and the *teruma gedola* was not taken.**
+
+**17.**
+*Hebrew/Aramaic:* וְכִי הָא דְּאָמַר רַבִּי אֲבָהוּ אָמַר רֵישׁ לָקִישׁ: מַעֲשֵׂר רִאשׁוֹן שֶׁהִקְדִּימוֹ בְּשִׁבּוֹלִין — פָּטוּר מִתְּרוּמָה גְּדוֹלָה, שֶׁנֶּאֱמַר: ״וַהֲרֵמוֹתֶם מִמֶּנּוּ תְּרוּמַת ה׳ מַעֲשֵׂר מִן הַמַּעֲשֵׂר״. מַעֲשֵׂר מִן הַמַּעֲשֵׂר אָמַרְתִּי לְךָ, וְלֹא תְּרוּמָה גְּדוֹלָה וּתְרוּמַת מַעֲשֵׂר מִן הַמַּעֲשֵׂר.
+*Translation:* **And** the above mentioned *halakha* is **in accordance with** the opinion of **Rabbi Abbahu, as Rabbi Abbahu said** that **Reish Lakish said:** With regard to **first tithe, in a case in which** the Levite **preceded** the priest while the grain was still **on the stalks, one is exempt from separating *teruma gedola from it*, as it is stated: “And you shall set apart from it a gift for the Lord, even a tenth part of the tithe”** (Numbers 18:26). By inference: **A tenth part of the tithe,** i.e., the *teruma* of the tithe, **I,** God, **said to you** that you must take, **and not both *teruma gedola* and the *teruma* of the tithe.**
+
+**18.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב פָּפָּא לְאַבָּיֵי: אִי הָכִי, אֲפִילּוּ הִקְדִּימוֹ בִּכְרִי נָמֵי לִיפְּטַר! אֲמַר לֵיהּ: עָלֶיךָ אָמַר קְרָא: ״מִכֹּל מַתְּנוֹתֵיכֶם תָּרִימוּ וְגוֹ׳״.
+*Translation:* **Rav Pappa said to Abaye: If so, even if** the Levite **preceded** the priest after the kernels of grain were removed from the stalks and placed **in a pile,** the Levite should **also be exempt** from taking *teruma gedola.* Abaye **said to him: With regard to your** claim, **the verse states: “From all that is given to you, you shall set apart** that which is the Lord’s ***teruma*”** (Numbers 18:29). God’s *teruma,* i.e., *teruma gedola,* must be taken from all the Levites’ gifts.
+
+**19.**
+*Hebrew/Aramaic:* וּמָה רָאִיתָ? הַאי אִידְּגַן, וְהַאי לָא אִידְּגַן.
+*Translation:* The Gemara asks: **What did you see** that led you to require *teruma gedola* from first tithe that was taken from grain in piles, and not from first tithe that was taken from grain on stalks? Abaye answers: **This,** stalks that were threshed and placed into piles, are completely processed and **have become grain, and that,** grains that have remained on the stalk, **have not** yet **become grain.** The verse states the following with regard to *teruma gedola*: “The first of your grain” (Deuteronomy 18:4) is given to the priest. Once it is considered grain, the rights of the priest take effect and the Levite is required to separate *teruma gedola.*
+
+**20.**
+*Hebrew/Aramaic:* וּמַעֲשֵׂר שֵׁנִי וְכוּ׳. פְּשִׁיטָא! לָא צְרִיכָא שֶׁנָּתַן אֶת הַקֶּרֶן וְלֹא נָתַן אֶת הַחוֹמֶשׁ. הָא קָא מַשְׁמַע לַן דְּאֵין חוֹמֶשׁ מְעַכֵּב.
+*Translation:* We learned in the mishna: One may move second tithe that was redeemed. The Gemara asks: This is obvious. The Gemara answers: **It was necessary** to teach this *halakha* **only in** a case where the consecrated property was not completely redeemed, i.e., **where one gave** payment for **the principal,** the value of the tithe, **but he did not give** payment for **the fifth** that he must add when redeeming items that he consecrated. **And** the mishna **teaches us** that failure to add **the fifth does not invalidate** the redemption, and the second tithe assumes non-sacred status from the moment that one pays the principal.
+
+**21.**
+*Hebrew/Aramaic:* וְהַתּוֹרְמוֹס הַיָּבֵשׁ כּוּ׳. דַּוְוקָא יָבֵשׁ, אֲבָל לַח — לָא. מַאי טַעְמָא? כֵּיוָן דְּמָרִיר לָא אָכְלָה.
+*Translation:* **And** we learned in the mishna: One may move even **dry lupine,** which is not fit for consumption by a person, because it is goat food. The Gemara comments: This applies **only** when lupine is **dry. However,** when it is **moist, no** it is prohibited to move it. **What is the reason** for this prohibition? **Since** lupine **is** extremely **bitter** when wet, an animal **will not eat** it.

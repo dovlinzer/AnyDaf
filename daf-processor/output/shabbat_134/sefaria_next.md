@@ -51,3 +51,64 @@
 **13.**
 *Hebrew/Aramaic:* אֲמַר לֵיהּ: נִתְּנָה תּוֹרָה,
 *Translation:* Rabbi Asi **said to him:** There is no proof from here, as when **the Torah was** later **given,**
+
+
+---
+
+### Shabbat 135b
+
+**1.**
+*Hebrew/Aramaic:* וְנִתְחַדְּשָׁה הֲלָכָה.
+*Translation:* ***halakha* was introduced.** No proof can be cited from the observance of mitzvot prior to the revelation at Sinai.
+
+**2.**
+*Hebrew/Aramaic:* אִינִי? וְהָא אִיתְּמַר: יוֹצֵא דּוֹפֶן וּמִי שֶׁיֵּשׁ לוֹ שְׁתֵּי עֲרָלוֹת, רַב הוּנָא וְרַב חִיָּיא בַּר רַב, חַד אָמַר: מְחַלְּלִין עָלָיו אֶת הַשַּׁבָּת. וְחַד אָמַר: אֵין מְחַלְּלִין. עַד כָּאן לָא פְּלִיגִי אֶלָּא לְחַלֵּל עָלָיו אֶת הַשַּׁבָּת, אֲבָל לִשְׁמֹנָה — וַדַּאי מָהֲלִינַן לֵיהּ! הָא בְּהָא תַּלְיָא.
+*Translation:* The Gemara asks: **Is that so? Wasn’t it stated** that there is a dispute with regard to this *halakha*? As it was taught with regard to **a child born by caesarean section and one who has two foreskins, Rav Huna and Rav Ḥiyya bar Rav** disputed their status. **One said: One desecrates Shabbat on his** behalf and performs the circumcision; **and one said: One does not desecrate** Shabbat on his behalf. **They only disagree with regard to** whether or not it is permissible **to desecrate Shabbat on his** behalf; **however, with regard to** circumcising him **at eight** days, in principle, **we certainly circumcise him,** even though the birth of a child by caesarean section does not render his mother ritually impure due to childbirth. The Gemara answers: The two disputes **are interdependent.** The one who holds that one desecrates Shabbat for this child’s circumcision also holds that one must circumcise him on the eighth day. The one who holds that one may not desecrate Shabbat for this child’s circumcision holds that one need not circumcise him on the eighth day.
+
+**3.**
+*Hebrew/Aramaic:* כְּתַנָּאֵי: יֵשׁ יְלִיד בַּיִת שֶׁנִּימּוֹל לְאֶחָד וְיֵשׁ יְלִיד בַּיִת שֶׁנִּימּוֹל לִשְׁמֹנָה, יֵשׁ מִקְנַת כֶּסֶף שֶׁנִּימּוֹל לְאֶחָד וְיֵשׁ מִקְנַת כֶּסֶף שֶׁנִּימּוֹל לִשְׁמֹנָה.
+*Translation:* The Gemara comments: The issue of Rabbi Asi’s statement that the obligation to circumcise after eight days depends upon whether or not his birth renders his mother ritually impure due to childbirth is **parallel to** a **tannaitic** dispute, as we learned: **There is a home-born child** of a Canaanite maidservant born in a Jewish home, who has the legal status of a Canaanite slave and his Jewish owner is obligated to circumcise him, **who is circumcised at** the age of **one** day, i.e., immediately after birth; **and there is a home-born child circumcised at eight** days. **And there is a** slave **purchased** in a **money** transaction **who is circumcised at one** day, **and there is** a slave **purchased** in a **money** transaction **who is circumcised at eight** days.
+
+**4.**
+*Hebrew/Aramaic:* יֵשׁ מִקְנַת כֶּסֶף שֶׁנִּימּוֹל לְאֶחָד וְיֵשׁ מִקְנַת כֶּסֶף שֶׁנִּימּוֹל לִשְׁמוֹנָה, כֵּיצַד? לָקַח שִׁפְחָה מְעוּבֶּרֶת וְאַחַר כָּךְ יָלְדָה — זֶהוּ מִקְנַת כֶּסֶף הַנִּימּוֹל לִשְׁמוֹנָה. לָקַח שִׁפְחָה וּוְלָדָהּ עִמָּהּ — זוֹ הִיא מִקְנַת כֶּסֶף שֶׁנִּימּוֹל לְאֶחָד.
+*Translation:* The *baraita* explains: **There is a home-born child who is circumcised at one; and there is a home-born child circumcised at eight. How so?** If a Jew **purchased a pregnant maidservant and she then gave birth** to a child while in his possession; **that is** a slave **purchased** in a **money** transaction **who is circumcised at eight** days, as the fetus was purchased along with the maidservant. If **he purchased a maidservant** who had already given birth **and** purchased **her child** along **with her,** he is obligated to circumcise the child as soon as the child enters his possession; **this is** a slave **purchased** in a **money** transaction, **who is circumcised at one** day.
+
+**5.**
+*Hebrew/Aramaic:* וְיֵשׁ יְלִיד בַּיִת שֶׁנִּימּוֹל לִשְׁמֹנָה, כֵּיצַד? לָקַח שִׁפְחָה וְנִתְעַבְּרָה אֶצְלוֹ וְיָלְדָה — זֶהוּ יְלִיד בַּיִת הַנִּימּוֹל לִשְׁמֹנָה. רַב חָמָא אוֹמֵר: יָלְדָה וְאַחַר כָּךְ הִטְבִּילָהּ — זֶהוּ יְלִיד בַּיִת שֶׁנִּימּוֹל לְאֶחָד. הִטְבִּילָהּ וְאַחַר כָּךְ יָלְדָה — זֶהוּ יְלִיד בַּיִת הַנִּימּוֹל לִשְׁמֹנָה.
+*Translation:* **And** likewise, **there is a home-born child circumcised at eight** days. **How so?** If he **bought a maidservant and she became pregnant in his possession and gave birth; that is a home-born child circumcised at eight** days. **Rav Ḥama says** there is a distinction: If the maidservant **gave birth and he subsequently** had **her immerse** for the purpose of becoming a maidservant, **that is a home-born child circumcised at one** day. But if **he** had **her immerse and she then gave birth; that is a home-born child circumcised at eight** days.
+
+**6.**
+*Hebrew/Aramaic:* וְתַנָּא קַמָּא לָא שָׁנֵי לֵיהּ בֵּין הִטְבִּילָהּ וְאַחַר כָּךְ יָלְדָה בֵּין יָלְדָה וְאַחַר כָּךְ הִטְבִּילָהּ, דְּאַף עַל גַּב דְּאֵין אִמּוֹ טְמֵאָה לֵידָה, נִימּוֹל לִשְׁמֹנָה.
+*Translation:* **And the first *tanna* does not distinguish between whether he** had **her immerse and she then gave birth, or whether she gave birth and he then** had **her immerse.** Apparently, **even though** the child’s birth does **not** render **his mother ritually impure** due to **childbirth,** as she is not obligated in mitzvot before immersing and she is not susceptible to ritual impurity of childbirth, **he is circumcised at eight** days. The dispute between Rabbi Ḥama and the first *tanna* revolves around the *halakha* stated by Rabbi Asi.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רָבָא: בִּשְׁלָמָא לְרַבִּי חָמָא, מַשְׁכַּחַתְּ לַהּ יְלִיד בַּיִת נִימּוֹל לְאֶחָד, יְלִיד בַּיִת נִימּוֹל לִשְׁמוֹנָה, מִקְנַת כֶּסֶף נִימּוֹל לְאֶחָד וּמִקְנַת כֶּסֶף נִימּוֹל לִשְׁמוֹנָה: יָלְדָה וְאַחַר כָּךְ הִטְבִּילָהּ — זֶהוּ יְלִיד בַּיִת שֶׁנִּימּוֹל לְאֶחָד. הִטְבִּילָהּ וְאַחַר כָּךְ יָלְדָה — זֶהוּ יְלִיד בַּיִת שֶׁנִּימּוֹל לִשְׁמוֹנָה.
+*Translation:* With regard to the dispute between the *tanna’im*, **Rava said: Granted,** according **to** the opinion of **Rabbi Ḥama,** cases **can be found** of **a home-born child circumcised at one** day, a **home-born child circumcised at eight** days, a slave **purchased** in a **money** transaction **circumcised at one** day, **and** a slave **purchased** in a **money** transaction **circumcised at eight** days, in the following manner: If a maidservant **gave birth and he subsequently** had **her immerse, that is** the case of **a home-born child circumcised at one** day. If **he** had **her immerse and she then gave birth, that is** the case of **a home-born child circumcised at eight** days.
+
+**8.**
+*Hebrew/Aramaic:* מִקְנַת כֶּסֶף נִימּוֹל לִשְׁמֹנָה — כְּגוֹן שֶׁלָּקַח שִׁפְחָה מְעוּבֶּרֶת וְהִטְבִּילָהּ וְאַחַר כָּךְ יָלְדָה. מִקְנַת כֶּסֶף נִימּוֹל לְאֶחָד — כְּגוֹן שֶׁלָּקַח זֶה שִׁפְחָה, וְזֶה עוּבָּרָהּ.
+*Translation:* A slave **purchased** in a **money** transaction **is circumcised at eight** days in a case **where** a Jew **purchased a pregnant maidservant** and thereby paid for and purchased the fetus as well, **and** then had **her immerse, and she then gave birth.** A slave **purchased** in a **money** transaction **is circumcised at one** day in a case **where that** person **purchased a maidservant, and that** person, i.e., someone else, bought **her fetus;** since the owner of the fetus has no share in its mother, the child may be circumcised immediately after birth.
+
+**9.**
+*Hebrew/Aramaic:* אֶלָּא לְתַנָּא קַמָּא, בִּשְׁלָמָא כּוּלְּהוּ מַשְׁכַּחַתְּ לְהוּ, אֶלָּא יְלִיד בַּיִת נִימּוֹל לְאֶחָד הֵיכִי מַשְׁכַּחַתְּ לַהּ?
+*Translation:* **However, according to** the opinion of the **first *tanna*, granted** that **all** the cases **can be found; however, how** can the case of **a home-born child circumcised at one** day **be found?**
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִרְמְיָה: בְּלוֹקֵחַ שִׁפְחָה לְעוּבָּרָהּ.
+*Translation:* **Rabbi Yirmeya said:** It can be found **in** the case of **one who purchases a maidservant for** the purpose of purchasing rights to **her fetus** without purchasing the maidservant herself.
+
+**11.**
+*Hebrew/Aramaic:* הָנִיחָא לְמַאן דְּאָמַר קִנְיַן פֵּירוֹת לָאו כְּקִנְיַן הַגּוּף דָּמֵי. אֶלָּא לְמַאן דְּאָמַר קִנְיַן פֵּירוֹת כְּקִנְיַן הַגּוּף דָּמֵי מַאי אִיכָּא לְמֵימַר?
+*Translation:* The Gemara asks: This **works out well according to** the opinion of **the one who said** that **a transaction** to purchase an item for its **product is not a transaction** to purchase **the item itself,** i.e., one who purchased a field for its fruit did not purchase the field itself. **However, according to** the opinion of **the one who said** that **a transaction** to purchase an item for its **product is a transaction** to purchase **the item itself, what can be said,** as he does not distinguish between the purchase of the maidservant herself and the purchase of the children that she bears?
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַב מְשַׁרְשְׁיָא: בְּלוֹקֵחַ שִׁפְחָה עַל מְנָת שֶׁלֹּא לְהַטְבִּילָהּ.
+*Translation:* **Rav Mesharshiya said:** According to this opinion, it must be explained as referring **to** one who **purchases a maidservant on condition that he will not** have **her immerse.** They can stipulate that he will not have her immerse as a maidservant and that she will remain a gentile. In that case, the child is a slave born to a Jew, and the mitzva of circumcision is in effect immediately upon birth.
+
+**13.**
+*Hebrew/Aramaic:* תַּנְיָא: רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: כׇּל שֶׁשָּׁהָה שְׁלֹשִׁים יוֹם, בָּאָדָם — אֵינוֹ נֵפֶל, שֶׁנֶּאֱמַר: ״וּפְדוּיָו מִבֶּן חֹדֶשׁ תִּפְדֶּה״. שְׁמֹנַת יָמִים בַּבְּהֵמָה — אֵינוֹ נֵפֶל, שֶׁנֶּאֱמַר: ״וּמִיּוֹם הַשְּׁמִינִי וָהָלְאָה יֵרָצֶה לְקׇרְבַּן וְגוֹ׳״.
+*Translation:* The Gemara cites a related *baraita* where **it was taught** that **Rabban Shimon ben Gamliel says: With regard to people, any** child **that remains** alive **thirty days** after birth **is no** longer suspected of being a **stillborn,** and is assumed to be a regular child who will go on living. Proof is cited from that which **is stated** with regard to the laws of redemption and valuations: **“And their redemption, from a month old you shall redeem** according to your valuation, five shekels of silver, according to the shekel of the Sanctuary; it is twenty *gera*” (Numbers 18:16), indicating that no value is ascribed to an infant less than a month old, as its viability is uncertain. Likewise, a newborn **animal** that survives for **eight days is no** longer suspected of being a **stillborn,** as **it is stated:** “When a bullock or a sheep or a goat is born, it shall be seven days under its mother; **and from the eighth day and onward it may be accepted for an offering** made by fire to the Lord” (Leviticus 22:27).
+
+**14.**
+*Hebrew/Aramaic:* הָא לֹא שָׁהָה — סְפֵיקָא הָוֵי,
+*Translation:* The Gemara asks: Is that to say by inference: If the child **did not** yet **remain** alive for thirty days, **it is** considered an **uncertainty** whether or not it is a stillborn with regard to several *halakhot*?

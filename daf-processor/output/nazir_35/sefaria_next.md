@@ -19,3 +19,40 @@
 **5.**
 *Hebrew/Aramaic:* מַאי טַעְמֵיהּ?
 *Translation:* Abaye concludes his question: **What is** Rabbi Yoḥanan’s **reason** that one is flogged for eating this mixture?
+
+
+---
+
+### Nazir 36b
+
+**1.**
+*Hebrew/Aramaic:* לָאו מִשּׁוּם דְּהֶיתֵּר מִצְטָרֵף לְאִיסּוּר? אֲמַר לֵיהּ: לָא, מַאי ״כְּזַיִת״ — דְּאִיכָּא כְּזַיִת בִּכְדֵי אֲכִילַת פְּרָס.
+*Translation:* Is it **not due to** the fact **that the permitted** substance **combines with the forbidden** substance? This would mean that this principle applies in other areas of Torah law besides naziriteship. Rav Dimi **said to him: No; what** is the meaning of **an olive-bulk** in this mishna? It means **that there is** enough *teruma* in the mixture so that when one eats from the mixture he will consume **an olive-bulk** of *teruma* in the time it takes **to eat a half-loaf** of bread. In that case one is liable to receive a punishment for eating this olive-bulk, as though he ate the *teruma* alone.
+
+**2.**
+*Hebrew/Aramaic:* וַאֲכִילַת פְּרָס דְּאוֹרָיְיתָא הִיא? אֲמַר לֵיהּ: אִין. אִי הָכִי, אַמַּאי פְּלִיגִי רַבָּנַן עֲלֵיהּ דְּרַבִּי אֶלְעָזָר בְּכוּתָּח הַבַּבְלִי?
+*Translation:* Abaye asked him: **But is** eating an olive-bulk in the time it takes **to eat a half-loaf** of bread prohibited **by Torah law,** and is one flogged for it? Rav Dimi **said to him: Yes.** Abaye asked in response: **If so, why do the Rabbis disagree with Rabbi Eliezer with regard to** eating **Babylonian *kutaḥ*,** a dip that contains bread, on Passover? The Rabbis maintain that one is not punished by Torah law for eating a mixture that contains leaven. Although the Rabbis do not derive from the term “nothing [*kol*],” that leaven in a mixture is forbidden, they should nevertheless hold one liable for eating an olive-bulk of a forbidden substance in the time it takes to eat a half-loaf of bread.
+
+**3.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: הַנַּח לְכוּתָּח הַבַּבְלִי, דְּלֵיכָּא כְּזַיִת בִּכְדֵי אֲכִילַת פְּרָס. אִי דְּקָא שָׂרֵיף לֵיהּ מִישְׂרָף — בָּטְלָה דַּעְתּוֹ אֵצֶל כׇּל אָדָם. אִי מִישְׁטָר קָא שָׁטַר — לָא מַשְׁכַּחַתְּ כְּזַיִת בִּכְדֵי אֲכִילַת פְּרָס.
+*Translation:* Rav Dimi **said to** Abaye: **Leave** aside the case of **Babylonian *kutaḥ*, as there is no** possibility that one will consume an **olive-bulk** of the leaven in the time it takes **to eat a half-loaf** of bread. **If** he eats *kutaḥ* in its pure, unadulterated form, **by swallowing [*shareif*] it** as food, not as a dip, **his intention is** rendered **irrelevant by** the opinions of **all** other **people.** It is unusual for a person to eat a pungent dip by itself, and especially so quickly. One receives no punishment for conduct that anomalous. And **if he dips [*shatar*]** other food into the *kutaḥ* and eats it, he will **not** be **found** to have consumed **an olive-bulk in** the time it takes **to eat a half-loaf** of bread. Due to the pungency of the dip, one typically adds only a small portion of it to his food.
+
+**4.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ: שְׁתֵּי מְדוֹכוֹת, אַחַת שֶׁל תְּרוּמָה וְאַחַת שֶׁל חוּלִּין. וּלְפָנָיו שְׁתֵּי קְדֵירוֹת, אַחַת שֶׁל תְּרוּמָה וְאַחַת שֶׁל חוּלִּין, וְנָפְלוּ אֵלּוּ לְתוֹךְ אֵלּוּ — שְׁתֵּיהֶן מוּתָּרוֹת, שֶׁאֲנִי אוֹמֵר: חוּלִּין לְתוֹךְ חוּלִּין נָפְלוּ, וּתְרוּמָה לְתוֹךְ תְּרוּמָה נָפְלָה.
+*Translation:* Abaye **raised an objection to** Rav Dimi from a *baraita*: With regard to **two** spice **mortars, one** used **for *teruma*** spices **and one** used **for non-sacred** spices, **before which** were **two pots, one of *teruma*** produce **and** the other **one of non-sacred** produce, **and** the contents of **these** mortars **fell into these** pots, but it is unknown which produce fell into which pot, the contents of **both** pots **are permitted;** the pot containing the *teruma* produce is permitted for a priest and the pot containing non-sacred produce is permitted for all. This is **because I say,** with no definitive proof to the contrary, that the **non-sacred** spices **fell into the non-sacred** produce **and** the ***teruma*** spices **fell into the *teruma*.**
+
+**5.**
+*Hebrew/Aramaic:* וְאִי סָלְקָא דַעְתָּךְ כְּזַיִת בִּכְדֵי אֲכִילַת פְּרָס דְּאוֹרָיְיתָא, אַמַּאי אָמְרִינַן ״שֶׁאֲנִי אוֹמֵר״?
+*Translation:* Abaye explains his objection: **And if it would enter your mind** to say that eating **an olive-bulk** of a forbidden substance in the time it takes **to eat a half-loaf** of bread is prohibited **by Torah law, why do we say** this principle: **Because I say** that the non-sacred spices fell into the non-sacred produce? If the *teruma* spices fell into the pot containing non-sacred produce, one who eats from the mixture will consume an olive-bulk of *teruma* within the time it takes to eat a half-loaf of bread, and he will thereby violate a Torah prohibition. One is not lenient in a case of this kind.
+
+**6.**
+*Hebrew/Aramaic:* אֶלָּא מַאי, הֶיתֵּר מִצְטָרֵף לְאִיסּוּר? אַמַּאי אָמְרִינַן ״שֶׁאֲנִי אוֹמֵר״?! אֶלָּא הַנַּח לִתְרוּמַת תַּבְלִין דְּרַבָּנַן הִיא.
+*Translation:* Rav Dimi said to him: **Rather, what** will you say? That the **permitted** substance **combines with the forbidden** substance? But if so, one can still ask **why we say** this principle: **Because I say** that the non-sacred spices fell into the non-sacred produce. After all, it is possible that the second mortar contained slightly less than an olive-bulk of *teruma*, and the permitted substance combined with it to form the amount of an olive-bulk. **Rather, leave** aside the case of ***teruma*** separated **from spices,** which **is** *teruma* **by rabbinic law.** By Torah law one is required to separate *teruma* only from grain, wine, and oil. The Sages are lenient with regard to *teruma* by rabbinic law.
+
+**7.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ: שְׁתֵּי קוּפּוֹת, אַחַת שֶׁל תְּרוּמָה וְאַחַת שֶׁל חוּלִּין. וּלְפָנֵיהֶן שְׁתֵּי סְאִין, אַחַת שֶׁל חוּלִּין וְאַחַת שֶׁל תְּרוּמָה, וְנָפְלוּ אֵלּוּ לְתוֹךְ אֵלּוּ — שְׁנֵיהֶן מוּתָּרִין. שֶׁאֲנִי אוֹמֵר: חוּלִּין לְתוֹךְ חוּלִּין נָפְלוּ, תְּרוּמָה לְתוֹךְ תְּרוּמָה נָפְלָה.
+*Translation:* Abaye **raised an objection to** Rav Dimi from a similar *baraita*: There were **two baskets, one** filled **with *teruma* and one** filled **with non-sacred** produce, **and before them** were **two** containers each containing **a *se’a*** of produce, **one of non-sacred** produce **and** the **one of *teruma*, and these,** the contents of each of the baskets, **fell into those,** each of the containers before them. Although it is prohibited for non-priests to eat a mixture of *teruma* and non-sacred produce, and it is possible that the *teruma* fell into the non-sacred produce, the contents of **both** of the vessels are nevertheless **permitted;** the container of *teruma* produce is permitted for a priest and the container of non-sacred produce is permitted for all. This is **because I say** that **the non-sacred** produce **fell into the non-sacred** produce **and the *teruma* fell into the *teruma*.**
+
+**8.**
+*Hebrew/Aramaic:* וְאִי סָלְקָא דַעְתָּךְ כְּזַיִת בִּכְדֵי אֲכִילַת פְּרָס אָסוּר, אַמַּאי אָמְרִינַן ״שֶׁאֲנִי אוֹמֵר״?
+*Translation:* Abaye explains: **And if it would enter your mind** to say that eating **an olive-bulk** of forbidden food in the time it takes **to eat a half-loaf** of bread is **prohibited** by Torah law, **why do we say** the principle: **Because I say** the non-sacred produce fell into the non-sacred produce? Why are the Sages not concerned that one might eat an olive-bulk of *teruma* in the time it takes to eat a half-loaf of bread, which is prohibited by Torah law?

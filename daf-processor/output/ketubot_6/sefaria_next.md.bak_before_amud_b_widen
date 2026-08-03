@@ -1,0 +1,65 @@
+### Ketubot 7a
+
+**1.**
+*Hebrew/Aramaic:* פָּטוּר. הָתָם, פְּקִיד וַעֲקִיר. הָכָא, פְּקִיד וְלָא עֲקִיר.
+*Translation:* **he is exempt.** In this case, exempt means permitted *ab initio*. Ostensibly, intercourse with a virgin is comparable to creating an opening in an abscess. Why then, would intercourse with a virgin be forbidden on Shabbat? The Gemara rejects the proof: **There,** the pus in the abscess **is pooled** in one place **and** completely **removed** from the vessels in the flesh. In creating the opening, he creates nothing enduring. **Here,** however, in the case of the ruptured hymen, even according to the opinion that the blood **is pooled, it is not** completely **removed** from the blood vessels in the flesh. Through intercourse, the blood is removed from its place, which constitutes an aspect of a prohibited labor.
+
+**2.**
+*Hebrew/Aramaic:* רַבִּי אַמֵּי שְׁרָא לְמִיבְעַל בַּתְּחִלָּה בְּשַׁבָּת. אָמְרִי לֵיהּ רַבָּנַן: וְהָא לָא כְּתִיבָא כְּתוּבָּתָהּ! אֲמַר לְהוּ: אַתְפְּסוּהָ מִטַּלְטְלִין.
+*Translation:* The Gemara relates: **Rav Ami permitted** one **to engage in intercourse** with his virgin wife for the **first** time **on Shabbat. The Sages said to him: But her marriage contract is not** yet **written.** Engaging in conjugal relations with one’s wife without a marriage contract is considered an act of promiscuity. **He said to them: Have her seize** a portion of her husband’s **movable property** equivalent to the value of her marriage contract, and that will serve as a deposit until he writes the marriage contract. He may then engage in sexual relations with her.
+
+**3.**
+*Hebrew/Aramaic:* רַב זְבִיד שְׁרָא לְמִיבְעַל בַּתְּחִלָּה בְּשַׁבָּת. אִיכָּא דְּאָמְרִי: רַב זְבִיד גּוּפֵיהּ בְּעַל בַּתְּחִלָּה בְּשַׁבָּת.
+*Translation:* The Gemara relates: **Rav Zevid permitted** one **to engage in intercourse** with his virgin wife for the **first** time **on Shabbat. There are** those **who say: Rav Zevid himself engaged in intercourse** with his virgin wife for the **first** time **on Shabbat.**
+
+**4.**
+*Hebrew/Aramaic:* רַב יְהוּדָה שְׁרָא לְמִיבְעַל בַּתְּחִלָּה בְּיוֹם טוֹב. אָמַר רַב פַּפִּי מִשְּׁמֵיהּ דְּרָבָא: לָא תֵּימָא בְּיוֹם טוֹב דִּשְׁרֵי, הָא בְּשַׁבָּת אֲסִיר, דְּהוּא הַדִּין דַּאֲפִילּוּ בְּשַׁבָּת נָמֵי שְׁרֵי, וּמַעֲשֶׂה שֶׁהָיָה כָּךְ הָיָה.
+*Translation:* It was further related: **Rav Yehuda permitted** one **to engage in intercourse** with his virgin wife for the **first** time **on a Festival. Rav Pappi said in the name of Rava: Do not** infer and **say:** It is **on a Festival that** it is **permitted,** but **on Shabbat** it is **prohibited,** similar to actions involving food preparation, which are permitted on Festivals and prohibited on Shabbat, **as the same is true that even on Shabbat it is permitted. And** the reason Rav Yehuda issued his ruling with regard to a Festival is due to the fact that **the incident that took place, took place in this way.**
+
+**5.**
+*Hebrew/Aramaic:* רַב פָּפָּא מִשְּׁמֵיהּ דְּרָבָא אָמַר: בְּיוֹם טוֹב שְׁרֵי, בְּשַׁבָּת אֲסִיר. אֲמַר לֵיהּ רַב פַּפִּי לְרַב פָּפָּא: מַאי דַּעְתָּיךְ — מִתּוֹךְ שֶׁהוּתְּרָה חַבּוּרָה לְצוֹרֶךְ, הוּתְּרָה נָמֵי שֶׁלֹּא לְצוֹרֶךְ? אֶלָּא מֵעַתָּה, מוּתָּר לַעֲשׂוֹת מוּגְמָר בְּיוֹם טוֹב, דְּמִתּוֹךְ שֶׁהוּתְּרָה הַבְעָרָה לְצוֹרֶךְ, הוּתְּרָה נָמֵי שֶׁלֹּא לְצוֹרֶךְ!
+*Translation:* **Rav Pappa said in the name of Rava:** According to Rav Yehuda, **on a Festival** it is **permitted, on Shabbat** it is **prohibited. Rav Pappi said to Rav Pappa: What is your thinking?** Is it: **Since** causing **a wound was permitted** on a Festival when performed **for** the **purpose** of food preparation, it **was also permitted** when **not** performed **for** the **purpose** of food preparation? **If that is so,** it would be **permitted to prepare incense [*mugmar*] on a Festival** due to the following reason: **Since kindling** a fire **was permitted** on a Festival when performed **for** the **purpose** of food preparation, it **was also permitted** when **not** performed **for** the **purpose** of food preparation.
+
+**6.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ, עָלֶיךָ אָמַר קְרָא: ״אַךְ אֲשֶׁר יֵאָכֵל לְכׇל נֶפֶשׁ״ — דָּבָר הַשָּׁוֶה לְכׇל נֶפֶשׁ.
+*Translation:* Rav Pappa **said to him:** It is **about your** assertion that **the verse states** with regard to a Festival: **“Save that which every person must eat,** that alone may be done by you” (Exodus 12:16), indicating **a matter that is equal for every person.** Incense is burned only by those who are particularly delicate. It is not equally utilized by everyone, and therefore it is not permitted. Intercourse, on the other hand, is universally practiced.
+
+**7.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: אֶלָּא מֵעַתָּה, נִזְדַּמֵּן לוֹ צְבִי בְּיוֹם טוֹב, הוֹאִיל וְאֵינוֹ שָׁוֶה לְכׇל נֶפֶשׁ, הָכִי נָמֵי דַּאֲסִיר לְמִשְׁחֲטֵיהּ? אֲמַר לֵיהּ: אֲנָא דְּבַר (הַ)צוֹרֶךְ לְכׇל נֶפֶשׁ קָאָמֵינָא, צְבִי צָרִיךְ לְכׇל נֶפֶשׁ הוּא.
+*Translation:* **Rav Aḥa, son of Rava, said to Rav Ashi: If that is so, if a deer happened to** come into **his** possession **on a Festival, since** it is **not** a food that is **equal for every person,** would the ruling **also** be **that** it is **prohibited to slaughter it?** Rav Ashi **said to him: I said a matter that** is **a need for every person,** and **deer** meat **is a matter that** although difficult to acquire, is **a need for every person.** Incense, even when available, is not universally utilized.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יַעֲקֹב בַּר אִידִי, הוֹרָה רַבִּי יוֹחָנָן בְּצַיְידָן: אָסוּר לִבְעוֹל בַּתְּחִלָּה בַּשַּׁבָּת. וּמִי אִיכָּא הוֹרָאָה לְאִיסּוּר?
+*Translation:* **Rabbi Ya’akov bar Idi said: Rabbi Yoḥanan issued a ruling in** the city of **Tzaidan: It is prohibited to engage in intercourse** with one’s virgin wife for the **first** time **on Shabbat.** The Gemara asks: **And is there a ruling issued to prohibit** an action? Typically, that language is utilized in reference to a firmly established ruling. A stringent ruling can be issued even based on uncertainty. In contrast, a lenient ruling can be issued only if the matter is clearly established by means of tradition or the reasoning of the Sage issuing the ruling.
+
+**9.**
+*Hebrew/Aramaic:* אִין, וְהָתְנַן: הוֹרוּהָ בֵּית הִלֵּל שֶׁתְּהֵא נְזִירָה עוֹד שֶׁבַע שָׁנִים אֲחֵרוֹת.
+*Translation:* The Gemara answers: **Yes,** that language is used with regard to a stringent ruling, as **didn’t we learn** the following in a mishna (*Nazir* 19b): When Queen Helene’s son went to war, she took a vow to be a nazirite for seven years, and she fulfilled that vow for the duration of her stay in the Diaspora? When she immigrated to Eretz Yisrael, **Beit Hillel issued a ruling that she shall be a nazirite for seven additional years.** Apparently, rulings are issued to prohibit an action as well.
+
+**10.**
+*Hebrew/Aramaic:* וְאִי נָמֵי, כִּי הָא דְּתַנְיָא: חוּט הַשִּׁדְרָה שֶׁנִּפְסַק בְּרוּבּוֹ, דִּבְרֵי רַבִּי. רַבִּי יַעֲקֹב אוֹמֵר: אֲפִילּוּ נִיקַּב. הוֹרָה רַבִּי כְּרַבִּי יַעֲקֹב. אָמַר רַב הוּנָא: אֵין הֲלָכָה כְּרַבִּי יַעֲקֹב.
+*Translation:* **And alternatively,** this is **similar** to **that which is taught** in a *baraita*: **If a majority of the spinal cord** of an animal **is severed,** the animal is a *tereifa*; **this is the statement of Rabbi** Yehuda HaNasi. **Rabbi Ya’akov says: Even** if the spinal cord is **perforated** but otherwise intact, the animal is a *tereifa*. The *baraita* continues: **Rabbi** Yehuda HaNasi **issued a ruling in accordance with** the opinion of **Rabbi Ya’akov.** Here too, the term: Issue a ruling, is employed with regard to a stringent ruling. **Rav Huna said:** Despite the fact that Rabbi Yehuda HaNasi ruled in accordance with his opinion, **the *halakha* is not in accordance with** the opinion of **Rabbi Ya’akov,** but rather it is in accordance with the opinion of Rabbi Yehuda HaNasi. This is one version of this discussion.
+
+**11.**
+*Hebrew/Aramaic:* רַב נַחְמָן בַּר יִצְחָק מַתְנֵי הָכִי: אָמַר רַבִּי אֲבָהוּ, שָׁאַל רַבִּי יִשְׁמָעֵאל בֶּן יַעֲקֹב דְּמִן צוּר אֶת רַבִּי יוֹחָנָן בְּצַיְידָן, וַאֲנָא שְׁמַעִי: מַהוּ לִבְעוֹל בַּתְּחִלָּה בַּשַּׁבָּת, וַאֲמַר לֵיהּ: אָסוּר. וְהִלְכְתָא: מוּתָּר לִבְעוֹל בַּתְּחִלָּה בַּשַּׁבָּת.
+*Translation:* **Rav Naḥman bar Yitzḥak taught this** alternative version of the ruling of Rabbi Yoḥanan. **Rav Abbahu said: Rabbi Yishmael ben Ya’akov, who is from Tyre, asked Rabbi Yoḥanan in Tzaidan, and I heard** the exchange: **What is** the *halakha* with regard **to engaging in intercourse** with one’s virgin wife for the **first** time **on Shabbat? And he said to** him: It is **prohibited.** The Gemara concludes: **And the *halakha* is** that it is **permitted to engage in intercourse** with one’s virgin wife for the **first** time **on Shabbat,** and one need not be concerned lest he cause a wound, create an opening, or initiate bleeding.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַבִּי חֶלְבּוֹ אָמַר רַב הוּנָא אָמַר רַבִּי אַבָּא בַּר זַבְדָּא אָמַר רַב: אַחַת בְּתוּלָה וְאַחַת אַלְמָנָה טְעוּנָה בְּרָכָה. וּמִי אָמַר רַב הוּנָא הָכִי? וְהָאָמַר רַב הוּנָא: אַלְמָנָה אֵינָהּ טְעוּנָה בְּרָכָה! לָא קַשְׁיָא: כָּאן בְּבָחוּר שֶׁנָּשָׂא אַלְמָנָה, כָּאן בְּאַלְמוֹן שֶׁנָּשָׂא אַלְמָנָה.
+*Translation:* § **Rabbi Ḥelbo said** that **Rav Huna said** that **Rabbi Abba bar Rav Zavda said** that **Rav said: Both a virgin and a widow** who marry **require** that the **benediction** of the grooms be recited. The Gemara asks: **Did Rav Huna say that? But didn’t Rav Huna say: A widow does not require** that **a benediction** be recited? The Gemara answers: This is **not difficult. Here,** where Rav Huna said that a widow requires a benediction, it is **with regard to a bachelor who married a widow. There,** where Rav Huna said she does not require a benediction, it is **with regard to a widower who married a widow.**
+
+**13.**
+*Hebrew/Aramaic:* וְאַלְמוֹן שֶׁנָּשָׂא אַלְמָנָה לָא? וְהָאָמַר רַב נַחְמָן, אָמַר לִי הוּנָא בַּר נָתָן, תָּנָא: מִנַּיִן לְבִרְכַּת חֲתָנִים בַּעֲשָׂרָה — שֶׁנֶּאֱמַר: ״וַיִּקַּח עֲשָׂרָה אֲנָשִׁים מִזִּקְנֵי הָעִיר וַיֹּאמֶר שְׁבוּ פֹה וַיֵּשֵׁבוּ״. וּבוֹעַז אַלְמוֹן שֶׁנָּשָׂא אַלְמָנָה הֲוָה.
+*Translation:* The Gemara asks: **And does a widower who married a widow not** require a benediction to be recited? **But didn’t Rav Naḥman say: Huna bar Natan said to me** that it was **taught: From where** is it derived **that the benediction of the grooms** is recited **in** a quorum of **ten** men? It **is as it is stated** with regard to Boaz, who married Ruth: **“And he took ten men of the Elders of the city and said: Sit you here, and they sat”** (Ruth 4:2). **And** when **Boaz** married Ruth, **he was a widower marrying a widow.** As that is the primary source for the obligation to recite the benediction, apparently the benediction is recited even in that case.
+
+**14.**
+*Hebrew/Aramaic:* מַאי ״אֵינָהּ טְעוּנָה בְּרָכָה״ דְּאָמַר רַב הוּנָא — אֵינָהּ טְעוּנָה בְּרָכָה כׇּל שִׁבְעָה, אֲבָל יוֹם אֶחָד טְעוּנָה בְּרָכָה.
+*Translation:* The Gemara answers: **What is** the meaning of: **Does not require a benediction, that Rav Huna stated?** It means that **she does not require a benediction all seven** days of the wedding celebration, **but** everyone agrees that for **one day, she requires** that **a benediction** be recited.
+
+**15.**
+*Hebrew/Aramaic:* אֶלָּא הָא דְּתַנְיָא: שָׁקְדוּ חֲכָמִים עַל תַּקָּנַת בְּנוֹת יִשְׂרָאֵל שֶׁיְּהֵא שָׂמֵחַ עִמָּהּ שְׁלֹשָׁה יָמִים. בְּמַאי: אִי בְּבָחוּר, הָאָמְרַתְּ שִׁבְעָה! אִי בְּאַלְמוֹן, הָאָמְרַתְּ יוֹם אֶחָד?
+*Translation:* The Gemara asks: **However, that which is taught** in a *baraita*, that **the Sages were assiduous in seeing to the well-being of Jewish women,** ensuring **that** the groom **will rejoice with her three days,** and that is why they established that a widow is married on Thursday, **with regard to what** circumstance is the *baraita* speaking? **If** it is **with regard to a bachelor** who marries a widow, **didn’t you say** he celebrates **seven** days; why then did the Sages see to a mere three-day celebration? **If** it is **with regard to a widower** who marries a widow, **didn’t you say** he celebrates for **one** day? Why then did the Sages see to a three-day celebration?
+
+**16.**
+*Hebrew/Aramaic:* אִיבָּעֵית אֵימָא: בְּאַלְמוֹן — יוֹם אֶחָד לִבְרָכָה, וּשְׁלֹשָׁה לְשִׂמְחָה. וְאִיבָּעֵית אֵימָא: בְּבָחוּר — שִׁבְעָה לִבְרָכָה, וּשְׁלֹשָׁה לְשִׂמְחָה.
+*Translation:* The Gemara answers that this can be resolved in several manners. **If you wish, say: In** the case of **a widower** marrying a widow, there is **one day for benediction and three days for celebration.** The wedding is scheduled on Thursday to facilitate a three-day celebration. **And if you wish, say** instead: **In** the case of **a bachelor** marrying a widow, there are **seven days for benediction and** there are **three days for celebration,** during which he must refrain from going to work.

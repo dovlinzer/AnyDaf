@@ -31,3 +31,36 @@
 **8.**
 *Hebrew/Aramaic:* הָהִיא אִיתְּתָא דְּכׇל יוֹמָא דְּתַשְׁמִישׁ מִיקַדְּמָה מָשְׁיָא יְדֵיהּ לְגַבְרָא. יוֹמָא חַד אַתְיָא לֵיהּ מַיָּא לְמִמְשֵׁא. אֲמַר לַהּ: הָדָא מִילְּתָא לָא הֲוָת הָאִידָּנָא! אֲמַרָה לֵיהּ: אִם כֵּן, חַד מִן נׇכְרִים
 *Translation:* § It is related that there was **a certain woman, who** on **every day of** engaging in **sexual intercourse** with her husband, **would rise early** in the morning **and wash** her **husband’s hands. One day she brought him water to wash** his hands, in response to which **he said to her: This matter,** i.e., sexual intercourse, **did not occur now. She said to him: If so,** it may be that **one of** the **gentile**
+
+
+---
+
+### Nedarim 91b
+
+**1.**
+*Hebrew/Aramaic:* אַהֲלוֹיֵי דַּהֲווֹ הָכָא הָאִידָּנָא, אִי אַנְתְּ לָא — דִּלְמָא מִנְּהוֹן. אָמַר רַב נַחְמָן: עֵינֶיהָ נָתְנָה בְּאַחֵר, וְלֵית בַּהּ מְשָׁשָׁא בְּמִלַּהּ.
+*Translation:* **aloe merchants [*ahaloyei*] who were here** just **now** should be blamed; **if** it was **not you, perhaps** it was one **of them.** The case came before **Rav Naḥman,** who **said:** There is reason to suspect that **she might have cast her eyes upon another** man, **and** therefore **there is no substance to her words.** She lacks credibility and her statement is unreliable, and so she remains permitted to her husband.
+
+**2.**
+*Hebrew/Aramaic:* הָהִיא אִיתְּתָא דְּלָא הֲוָה בְּדִיחָא דַּעְתַּהּ בַּהֲדֵי גַּבְרָא. אֲמַר לַהּ: הָאִידָּנָא מַאי שְׁנָא? אֲמַרָה לֵיהּ: מֵעוֹלָם לָא צַעַרְתַּן בְּדֶרֶךְ אֶרֶץ כִּי הָאִידָּנָא. אֲמַר לַהּ: לָא הֲוָה הָדָא מִילְּתָא הָאִידָּנָא. אֲמַרָה לֵיהּ: אִם כֵּן הָלֵין נׇכְרִים נַפְטוֹיֵי דַּהֲווֹ הָכָא הָאִידָּנָא, אִי אַנְתְּ לָא — דִּלְמָא חַד מִנְּהוֹן. אֲמַר לְהוּ רַב נַחְמָן: לָא תַּשְׁגִּיחוּן בַּהּ, נוֹתֶנֶת עֵינֶיהָ בְּאַחֵר הֲוַאי.
+*Translation:* It is further related that there was **a certain woman who was displeased with** her **man. He said to her: What is different now?** What have I done to make you angry? **She said to him:** I am upset because **you never hurt me** while we were engaged **in proper relations as** you did just **now. He said to her: This matter did not occur now. She said to him: If so,** it may be that **one of** the **gentile oil merchants [*naftoyei*] who were here** just **now** should be blamed; **if** it was **not you, perhaps** it was one **of them. Rav Naḥman said to them: Take no notice of her; she has cast her eyes upon another** man, and her words are therefore unreliable.
+
+**3.**
+*Hebrew/Aramaic:* הָהוּא גַּבְרָא דַּהֲוָה מִהַרְזִיק בְּבֵיתָא הוּא וְאִינְתְּתָא. עָל אֲתָא מָרֵיהּ דְּבֵיתָא, פַּרְטֵיהּ נוֹאֵף לְהוּצָא וַעֲרַק. אָמַר רָבָא: אִיתְּתָא שַׁרְיָא. אִם אִיתָא דַּעֲבַד אִיסּוּרָא — אִרְכוֹסֵי הֲוָה מִירְכַס.
+*Translation:* The Gemara relates another incident about **a certain man who was secluding** himself **[*meharzeik*] in a house, he and a** certain married **woman.** When **the owner of the house entered, the adulterer burst through the wall of palm branches and fled. Rava said: The woman is permitted** to her husband. The assumption is that she did not sin, for **if it is so that** the man **had committed a transgression, he would have hidden** himself in the house instead of revealing his identity by escaping in the open.
+
+**4.**
+*Hebrew/Aramaic:* הָהוּא נוֹאֵף דְּעָל לְגַבֵּי דְּהָהִיא אִנְתְּתָא, אֲתָא גַּבְרָא, סְלֵיק נוֹאֵף אִיתִּיב [בִּכְלָאֵי] בָּבָא. הֲוָה מַחֲתָן תַּחְלֵי תַּמָּן וְטַעְמִינּוּן חִוְיָא. בְּעָא מָרֵי דְבֵיתָא לְמֵיכַל מִן הָנְהוּ תַּחְלֵי בְּלָא דַּעְתָּא דְּאִינְתְּתָא, אֲמַר לֵיהּ הָהוּא נוֹאֵף: לָא תֵּיכוּל מִנְּהוֹן דְּטַעְמִינּוּן חִוְיָא.
+*Translation:* The Gemara concludes with one final incident about **a certain adulterer who entered** the house **of a certain** married **woman.** When **the man,** i.e., her husband, **came** home, the **adulterer went and sat himself behind the door,** so that the husband would not know that he was there. **There was** some **cress [*taḥlei*] lying there** in the house, **and** the adulterer, but not the husband, saw that **a snake** had come and **tasted of it,** perhaps thereby contaminating it with its venom. **The master of the house wanted to eat from that cress, without the woman’s knowledge. The adulterer said to him: Do not eat from** the cress, **as a snake has tasted of it.**
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רָבָא: אִינְתְּתֵיהּ שַׁרְיָא, אִם אִיתֵיהּ דַּעֲבַד אִיסּוּרָא, נִיחָא לֵיהּ דְּלֵיכוֹל וְלֵימוּת, דִּכְתִיב: ״כִּי נִאֵפוּ וְדָם בִּידֵיהֶן״.
+*Translation:* The case was brought before **Rava,** who **said: His wife is permitted** to him, for **were it so that** the adulterer **had committed a transgression, it would have been preferable for him that** the husband should **eat** the cress **and die.** This is because one who commits adultery is also suspected of bloodshed, **as it is written: “For they have committed adultery and blood is on their hands”** (Ezekiel 23:37), indicating that adultery leads to murder.
+
+**6.**
+*Hebrew/Aramaic:* פְּשִׁיטָא! מַהוּ דְּתֵימָא: אִיסּוּרָא עֲבַד, וְהַאי דַּאֲמַר לֵיהּ דְּנִיחָא לֵיהּ דְּלָא לֵימוּת בַּעַל, דְּתֶהְוֵי אִינְתְּתֵיהּ עִלָּוֵיהּ ״מַיִם גְּנוּבִים יִמְתָּקוּ וְלֶחֶם סְתָרִים יִנְעָם״, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara comments: It **is obvious** that this is the case. What then does Rava come to teach us? The Gemara answers: Rava’s ruling is necessary, **lest you say** that the man did in fact **commit a transgression** with the other man’s wife, **and** the reason **that he said to** the husband that he should not eat and saved his life is **because it is preferable for him that the husband should not die.** This is in order **that his wife should be to him** as it says in the verse: **“Stolen waters are sweet, and bread eaten in secret is pleasant”** (Proverbs 9:17). That is to say, a person derives greater pleasure from forbidden fruit. Rava therefore **teaches us** that this is not a concern. Rather, the assumption is that he had not yet actually sinned and therefore acted in the proper manner.
+
+**7.**
+*Hebrew/Aramaic:* הַדְרָן עֲלָךְ וְאֵלּוּ נְדָרִים וּסְלִיקָא לַהּ מַסֶּכֶת נְדָרִים
+*Translation:* 

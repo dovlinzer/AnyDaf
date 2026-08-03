@@ -122,7 +122,7 @@ The Gemara's analysis thus suggests that while the *Mishnah* initially framed th
 
 ---
 
-## Scheming Around Bech (II)
+## Scheming Around Bechor
 
 ### Fetus as Olah
 

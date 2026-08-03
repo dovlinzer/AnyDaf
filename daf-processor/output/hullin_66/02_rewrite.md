@@ -120,7 +120,7 @@ The same principle applies in the reverse direction: *yesh lo achshav ve-atid le
 
 This ruling coheres with the *mishna* in *niddah* (cited by the *gemara* as *tnan hatam* — "we taught over there"), which appears in a section of that tractate that, in the manner of several tractates, collects disparate topics following a common logical pattern. The *mishna* states: *kol she-yesh lo kaskeset yesh lo snapir* — anything that has scales has fins. Conversely, *ve-yesh she-yesh lo snapir ve-ein lo kaskeset* — there are fish that have fins but no scales. The practical import is clear: one need only verify scales; fins will follow automatically. The permissible species — those that have both — are identified by scales alone, since scales guarantee fins but not vice versa. Any fish with scales is therefore kosher *de-oraita*, and verifying scales alone is sufficient.
 
-### Gemara's Question: Why Both Fins Scales
+### Why Both Fins Scales
 
 The *mishna* in *niddah* then states the obvious conclusion: if a fish has *kaskeset* — scales — *ve-yesh lo snapir* — and fins — it is kosher. If it has fins but not scales, it is *tamei*, non-kosher. This is perfectly logical given the relationship just described. But it immediately generates a sharp question: *mikdi, a-kaskeset samchinan* — we rely on the scales; we don't actually need to examine the fin, since having scales guarantees fins. If so, *lichtov Rachmana kaskeset v'lo lichtov snapir* — let the Torah write scales and not mention fins at all. Why did the Torah need to mention both?
 

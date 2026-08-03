@@ -1,0 +1,53 @@
+### Gittin 61a
+
+**1.**
+*Hebrew/Aramaic:* כּוּלֵּי עָלְמָא לָא פְּלִיגִי, כִּי פְּלִיגִי – בְּלֶחִי וְקוּקְרֵי.
+*Translation:* **everyone agrees** that since they are receptacles that hold the fish or animal entering them, by right the trapped animals belong to the owner of the trap. **When they disagree,** it is **with regard to a fishhook or** other **traps [*kokrei*]** that merely catch the fish or animal but are not receptacles that hold it. In such cases, there is reason to say that the owner of the trap does not take possession of the trapped animal, and therefore another person who takes it is guilty only of robbery on account of the ways of peace.
+
+**2.**
+*Hebrew/Aramaic:* מְצִיאַת חֵרֵשׁ, שׁוֹטֶה וְכוּ׳ רַבִּי יוֹסֵי אוֹמֵר: גָּזֵל גָּמוּר: אָמַר רַב חִסְדָּא: גָּזֵל גָּמוּר מִדִּבְרֵיהֶם. לְמַאי נָפְקָא מִינַּהּ? לְהוֹצִיאוֹ בְּדַיָּינִין.
+*Translation:* § The mishna teaches: Taking **a lost item** found by **a deaf-mute, an imbecile,** or a minor is considered robbery on account of the ways of peace. **Rabbi Yosei says:** It is **full-fledged robbery. Rav Ḥisda says:** Rabbi Yosei means that it is **full-fledged robbery by rabbinic law** but not by Torah law. The Gemara asks: **What difference is there** between full-fledged robbery by rabbinic law and robbery on account of the ways of peace? The Gemara answers: If it is full-fledged robbery by rabbinic law, the victim of robbery can **recover** the property from the robber **by** appealing to **judges,** i.e., the court can expropriate it from him by force.
+
+**3.**
+*Hebrew/Aramaic:* עָנִי הַמְנַקֵּף בְּרֹאשׁ הַזַּיִת, מַה שֶּׁתַּחְתָּיו וְכוּ׳: תָּנָא: אִם לִיקֵּט וְנָתַן בַּיָּד – הֲרֵי זֶה גָּזֵל גָּמוּר.
+*Translation:* § The mishna teaches that if **a poor person gleans** olives **at the top of an olive tree** and olives fall to the ground under the tree, then taking those olives **that are beneath it** is considered robbery on account of the ways of peace. According to Rabbi Yosei, it is full-fledged robbery. A Sage **taught: If** the poor person **gathered** the olives **and placed** them **in his hand** before they fell to the ground, **this is full-fledged robbery,** because the poor person had already acquired legal ownership of the olives when they were in his hand.
+
+**4.**
+*Hebrew/Aramaic:* רַב כָּהֲנָא הֲוָה קָאָזֵיל לְהוּצָל, חַזְיֵיהּ לְהָהוּא גַּבְרָא דַּהֲוָה שָׁדֵי אוּפְיֵי וְקָא נָתְרָן תַּמְרֵי, אֲזַל קָא מְנַקֵּיט וְאָכֵיל. אֲמַר לֵיהּ: חֲזִי מָר דְּבִידַאי שְׁדֵיתִינְהוּ. אֲמַר לֵיהּ: מֵאַתְרֵיהּ דְּרַבִּי יֹאשִׁיָּה אַתָּה. קָרֵי עֲלֵיהּ: ״וְצַדִּיק יְסוֹד עוֹלָם״.
+*Translation:* The Gemara relates that **Rav Kahana was** once **walking to** the city of **Huzal** when **he saw a certain man who was throwing sticks** at a palm tree **and dates were falling** to the ground. Rav Kahana **went, gathered** up some of the dates, **and ate** them. That man **said to** Rav Kahana: **See, Master, that I threw them** down **with my hand,** i.e., the dates were already in my hand, and therefore they are legally mine. Rav Kahana **said to him: You are from the place of Rabbi Yoshiya,** who was a great Sage in the city of Huzal. For that reason, you are knowledgeable in *halakha*. Rav Kahana **read** the verse **about** Rabbi Yoshiya: **“And a righteous man is the foundation of the world”** (Proverbs 10:25). Even after his death, Rabbi Yoshiya left a foundation for the world, as his city continued to be a center of Torah study.
+
+**5.**
+*Hebrew/Aramaic:* אֵין מְמַחִין בְּיַד עֲנִיֵּי גוֹיִם בְּלֶקֶט בְּשִׁכְחָה וּבְפֵאָה, מִפְּנֵי דַּרְכֵי שָׁלוֹם: תָּנוּ רַבָּנַן: מְפַרְנְסִים עֲנִיֵּי גוֹיִם עִם עֲנִיֵּי יִשְׂרָאֵל, וּמְבַקְּרִין חוֹלֵי גוֹיִם עִם חוֹלֵי יִשְׂרָאֵל, וְקוֹבְרִין מֵתֵי גוֹיִם עִם מֵתֵי יִשְׂרָאֵל, מִפְּנֵי דַּרְכֵי שָׁלוֹם.
+*Translation:* § The mishna teaches: **One does not protest against poor gentiles** who come to take **gleanings, forgotten** sheaves, **and the produce in the corner of the field, which is given to the poor [*pe’a*],** although they are meant exclusively for the Jewish poor, **on account of the ways of peace.** Similarly, **the Sages taught** in a *baraita* (*Tosefta* 5:4): **One sustains poor gentiles** along **with poor Jews, and one visits sick gentiles** along **with sick Jews, and one buries dead gentiles** along **with dead Jews.** All this is done **on account of the ways of peace,** to foster peaceful relations between Jews and gentiles.
+
+**6.**
+*Hebrew/Aramaic:* מַתְנִי׳ מַשְׁאֶלֶת אִשָּׁה לַחֲבֶירְתָּהּ הַחֲשׁוּדָה עַל הַשְּׁבִיעִית – נָפָה, וּכְבָרָה, וְרֵיחַיִם, וְתַנּוּר. אֲבָל לֹא תָּבוֹר וְלֹא תִּטְחַן עִמָּהּ.
+*Translation:* MISHNA: **A woman may lend** utensils **to her friend who is suspect with regard to** eating produce that grew in **the Sabbatical** Year after the time that such produce must be removed from the house and may no longer be eaten. The utensils that she may lend her include: **A winnow, a sieve, a mill, and an oven.** Lending her such utensils is not considered aiding in the commission of a transgression. **But she may not select** the grain from the chaff **or grind** wheat **with her,** i.e., she may not actively assist her in the performance of a sin.
+
+**7.**
+*Hebrew/Aramaic:* אֵשֶׁת חָבֵר מַשְׁאֶלֶת לְאֵשֶׁת עַם הָאָרֶץ – נָפָה וּכְבָרָה; וּבוֹרֶרֶת, וְטוֹחֶנֶת, וּמְרַקֶּדֶת עִמָּהּ; אֲבָל מִשֶּׁתָּטִיל אֶת הַמַּיִם – לֹא תִּגַּע עִמָּהּ, לְפִי שֶׁאֵין מַחְזִיקִין יְדֵי עוֹבְרֵי עֲבֵירָה. וְכוּלָּן לֹא אָמְרוּ, אֶלָּא מִפְּנֵי דַּרְכֵי שָׁלוֹם.
+*Translation:* **The wife of a *ḥaver*,** one who is devoted to the meticulous observance of mitzvot, especially the *halakhot* of ritual purity, *teruma*, and tithes, **may lend the wife of an *am ha’aretz*,** one who is not scrupulous in these areas, **a winnow and a sieve, and she may** even **select, grind, and sift with her. But once** the wife of the *am ha’aretz* **pours water** into the flour, thereby rendering it susceptible to ritual impurity, the wife of the *ḥaver* **may not touch** anything **with her, because one may not assist those who commit transgressions. And all of** the allowances mentioned in the mishna **were stated only on account of the ways of peace.**
+
+**8.**
+*Hebrew/Aramaic:* וּמַחְזִיקִין יְדֵי גוֹיִם בַּשְּׁבִיעִית – אֲבָל לֹא יְדֵי יִשְׂרָאֵל; וְשׁוֹאֲלִין בִּשְׁלוֹמָן, מִפְּנֵי דַּרְכֵי שָׁלוֹם.
+*Translation:* **And one may assist gentiles** who work the land **during the Sabbatical** Year, **but** one may **not** assist **Jews** who do this. Similarly, **one may extend greetings** to gentiles **on account of the ways of peace.**
+
+**9.**
+*Hebrew/Aramaic:* גְּמָ׳ מַאי שְׁנָא רֵישָׁא, וּמַאי שְׁנָא סֵיפָא? אָמַר אַבָּיֵי: רוֹב עַמֵּי הָאָרֶץ מְעַשְּׂרִין הֵן.
+*Translation:* GEMARA: The Gemara asks with regard to the *halakhot* taught in the mishna: **What is different** in **the first clause** of the mishna that teaches that a woman may not select and grind grain with a woman who is suspected of eating produce of the Sabbatical Year after it is forbidden, **and what is different** in **the latter clause** that teaches that it is permitted for the wife of a *ḥaver* to assist the wife of an *am ha’aretz* in her selecting and grinding? **Abaye said: Most *amei ha’aretz* tithe** their produce, and therefore there is no reason to render it prohibited to assist the wife of an *am ha’aretz* in her work, as she is probably preparing a permitted food. Although there may be concern that the food was not tithed due to the minority of *amei ha’aretz* who do not separate tithes, this concern is ignored on account of the ways of peace.
+
+**10.**
+*Hebrew/Aramaic:* רָבָא אָמַר: הָכָא בְּעַם הָאָרֶץ דְּרַבִּי מֵאִיר, וְטוּמְאָה וְטׇהֳרָה דְּרַבָּנַן – דְּתַנְיָא: אֵיזֶהוּ עַם הָאָרֶץ? כֹּל שֶׁאֵינוֹ אוֹכֵל חוּלָּיו בְּטָהֳרָה, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים: כֹּל שֶׁאֵינוֹ מְעַשֵּׂר פֵּירוֹתָיו.
+*Translation:* **Rava said: Here** the mishna speaks **about the *am ha’aretz*** as defined **by Rabbi Meir and** the issue of **ritual impurity and purity by rabbinic law.** It does not speak about the matter of separating *teruma* and tithes. **As it is taught** in a *baraita* (*Tosefta*, *Avoda Zara* 3:10): **Who is an *am ha’aretz*? Anyone who does not eat his non-sacred produce in** a state of **ritual purity;** this is **the statement of Rabbi Meir. And the Rabbis say:** An *am ha’aretz* is **anyone who does not tithe his produce.** Since the mishna is referring to the type of *am ha’aretz* about whom there is an assumption that he tithes his produce but does not eat his non-sacred produce in a state of ritual purity, and in light of the fact that eating non-sacred produce in a state of ritual purity is stipulated by rabbinic law, on account of the ways of peace, the Sages did not prohibit the wife of a *ḥaver* from assisting the wife of an *am ha’aretz*.
+
+**11.**
+*Hebrew/Aramaic:* וְהָא מִדְּקָתָנֵי סֵיפָא: מִשֶּׁתָּטִיל אֶת הַמַּיִם לֹא תִּגַּע עִמָּהּ; מִכְּלָל דְּרֵישָׁא, לָאו בְּטוּמְאָה וְטׇהֳרָה עָסְקִינַן!
+*Translation:* The Gemara raises an objection: **But from** the fact **that the latter clause** of the mishna **teaches: Once** the wife of the *am ha’aretz* **pours water** into the flour, the wife of the *ḥaver* **may not touch** anything **with her** because the water has rendered the dough susceptible to ritual impurity, **it may be inferred that** in **the first clause** in the mishna **we are not dealing with** concern about the *halakhot* of **impurity and purity.** Rather, the concern pertains to tithes.
+
+**12.**
+*Hebrew/Aramaic:* רֵישָׁא וְסֵיפָא בְּטוּמְאָה וְטׇהֳרָה; וְרֵישָׁא – בְּטוּמְאַת חוּלִּין, וְסֵיפָא – בְּטוּמְאַת חַלָּה.
+*Translation:* The Gemara answers: Both in **the first clause and** in **the latter clause** the concern relates to **impurity and purity.** The difference is that in **the first clause,** even if the grain was already rendered susceptible to impurity, the concern is only **about impurity of non-sacred produce.** Rendering non-sacred produce impure is not prohibited by Torah law; it is a matter about which *ḥaverim* were meticulous. **But** in **the latter clause,** the concern is **the impurity of *ḥalla*,** the portion that must be separated from the dough and given to a priest. It is at the time that water is added to the flour that the obligation to separate *ḥalla* from the dough takes effect. Due to the *ḥalla* that will be separated from the dough, it is prohibited by Torah law for one to render the dough impure.
+
+**13.**
+*Hebrew/Aramaic:* וּרְמִינְהוּ:
+*Translation:* **And** the Gemara **raises a contradiction** from another *baraita* (*Tosefta*, *Demai* 4:29):

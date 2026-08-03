@@ -67,3 +67,20 @@
 **17.**
 *Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: חָנוּק, וְקָנוּ מִיָּדוֹ – מִשְׁתַּעְבֵּד. מִכְּלַל דְּעָרֵב בְּעָלְמָא – לָא בָּעֵי קִנְיָן. וּפְלִיגָא דְּרַב נַחְמָן, דְּאָמַר רַב נַחְמָן:
 *Translation:* **Rav Yehuda says** that **Shmuel says:** If the debtor was being **strangled, and** in addition **an act of acquisition was performed with** the guarantor, the guarantor **becomes obligated** to repay the debt. The Gemara deduces: **By inference** it emerges **that a guarantor generally does not require an act of acquisition** to become obligated to pay. **And** this **disagrees with** a statement of **Rav Naḥman, as Rav Naḥman says:**
+
+
+---
+
+### Bava Batra 176b
+
+**1.**
+*Hebrew/Aramaic:* עָרֵב דְּבֵית דִּין הוּא דְּלָא בָּעֵי קִנְיָן, הָא בְּעָלְמָא בָּעֵי קִנְיָן.
+*Translation:* **It is** only **a guarantor** who undertakes a loan guarantee **in** the presence of **a court who does not require an act of acquisition; this** indicates that **generally,** a guarantor **requires an act of acquisition** in order to be obligated to pay.
+
+**2.**
+*Hebrew/Aramaic:* וְהִלְכְתָא: עָרֵב בִּשְׁעַת מַתַּן מָעוֹת – לֹא בָּעֵי קִנְיָן, אַחַר מַתַּן מָעוֹת – בָּעֵי קִנְיָן. עָרֵב דְּבֵית דִּין – לָא בָּעֵי קִנְיָן; דִּבְהָהִיא הֲנָאָה דִּמְהֵימַן לֵיהּ – גָּמַר וּמְשַׁעְבֵּד לֵיהּ.
+*Translation:* The Gemara concludes: **And the *halakha*** is that **a guarantor** who accepts responsibility for the loan **at the time of the giving of the money does not require an act of acquisition;** but if he accepts responsibility **after the giving of the money,** he **requires an act of acquisition.** Moreover, **a guarantor** who undertakes a loan guarantee **in** the presence of a **court does not require an act of acquisition, as** in return **for that gratification that** he experiences in that the court **trusts him, he resolves to obligate himself.**
+
+**3.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ גֵּט פָּשׁוּט, וּסְלִיקָא לַהּ מַסֶּכֶת בָּבָא בָּתְרָא
+*Translation:* 

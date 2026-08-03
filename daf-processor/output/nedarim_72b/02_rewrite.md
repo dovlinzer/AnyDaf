@@ -68,7 +68,7 @@ The *Gemara* brings another *mishnah* — located two pages later at 75a — as 
 
 If he declares *harei hen kayamim* — I am establishing them — *lo amar klum*, he has accomplished nothing. There is a universal consensus on this: one cannot perform *kiyum*, the act of establishing or affirming a vow, on something that does not yet exist. *Kiyum* is about anchoring and strengthening an existing vow; there is nothing to anchor if the vow has not yet been taken.
 
-### R. Eliezer: Hafarah Befo…
+### R. Eliezer: Hafarah Befo
 
 However, if he says *harei hen mufarim* — I am annulling them — *Rabbi Eliezer omer mufar*: Rabbi Eliezer holds this works. His reasoning: *im hefer nedarim sheba'u l'chlal issur, ra'uy yafer nedarim shelo ba'u l'chlal issur* — if one can annul a vow once it has already taken effect as a prohibition, how much more so should one be able to prevent it from ever taking effect in the first place. *Hafarah* is fundamentally about eliminating a prohibition; a preventive measure, he argues, is at least as valid as a curative one. The vow that does not yet exist is in an even more accessible state for annulment — there is less there to dissolve. This also explains why Rabbi Eliezer distinguishes *hafarah* from *kiyum*: *kiyum* requires something present to strengthen, whereas *hafarah* is about removal or prevention, and prevention is easier than cure.
 
@@ -110,13 +110,13 @@ The *Gemara* adds a clarifying point: even Rabbi Yoshiya, who says the *epitropo
 
 This concession generates a striking problem. If the *shaliach* could in principle annul on the husband's behalf, how would that work given that the *shaliach* heard the vow but the husband did not? If hearing is what empowers the annulment, and the husband has not heard, then the husband is not in a position to annul — and an agent cannot possess authority that the principal himself lacks.
 
-### Ran: Hearing as Circumst…
+### Ran: Hearing as
 
 The Ran resolves this by drawing a precise conceptual distinction. Hearing, he explains, is not itself a legal power — it is the *circumstances* under which the power to annul arises. One cannot transfer circumstances to a *shaliach*. What one can transfer is a legal power, once it has been activated by the relevant circumstances. The hearing itself — a passive, experiential state — is not the kind of act that can be delegated. The *shaliach* hearing is not equivalent to the husband hearing in any legally operative sense.
 
 Once this distinction is drawn, the *Gemara*'s assumption becomes intelligible: if we could transfer the *power* of annulment (absent Rabbi Yoshiya's verse), the *shaliach*'s hearing would serve as the circumstances activating that power, and the husband's prior delegation would constitute the transfer of the now-activated power. But there is no way to delegate the *hearing itself* so as to produce the same result as if the husband personally heard. Hearing is circumstance, not power.
 
-### Tosafot: No Shaliach for…
+### Tosafot: Shaliach Can't
 
 Tosafot's answer, found in manuscript traditions added to this *perek*, states the point more directly: *de'inyan shemi'ah eino na'aseh shaliach* — in the matter of hearing, one cannot make a *shaliach*. The reasoning implicit in this formulation is the same: hearing is not a legal act, and therefore not the kind of thing for which agency can be constituted. You can transfer a legal power; you cannot make another person hear for you in any legally operative sense.
 
@@ -190,7 +190,7 @@ The *Gemara*'s apparent conclusion is that annulment must be performed for each 
 
 The daf concludes with a *mishnah* concerning several cases in which a woman is technically still in the stage of *eirusin* but the time for *nisu'in* has effectively arrived. A *bogeret* — a fully adult woman — who has waited twelve months after *kiddushin*; or an *almanah* — a widow — for whom *chazal* set only a thirty-day waiting period between *kiddushin* and *nisu'in* when that period has elapsed. These are scenarios in which *nisu'in* has not yet occurred but is expected imminently.
 
-### R. Eliezer: Payment = An…
+### R. Eliezer: Payment Annul
 
 Rabbi Eliezer rules: *ho'il uba'alah chayav bimezonoseha* — since the husband is now obligated to provide for her food, this is sufficient to confer upon him the ability to annul her vows even without actual *nisu'in*. His financial obligation establishes his effective relationship to her as that of a husband, and therefore he can annul unilaterally — without the father's participation — even though *de'oraisa* she is technically still in the *eirusin* stage. This is puzzling: if she is not *halachically* a full wife, how can he have the annulment authority of a husband? The question presses especially given that this is a *leniency* — we are granting him a power he would not normally have.
 

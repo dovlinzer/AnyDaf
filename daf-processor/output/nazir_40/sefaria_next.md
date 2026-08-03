@@ -31,3 +31,16 @@
 **8.**
 *Hebrew/Aramaic:* לְמָה לִי לְמִכְתַּב ״רֹאשׁוֹ״ וּלְמָה לִי לְמִכְתַּב ״זְקָנוֹ״? צְרִיכִי, דְּאִי כְּתַב רַחֲמָנָא ״זְקָנוֹ״ וְלָא כְּתַב ״רֹאשׁוֹ״, הֲוָה אָמֵינָא: הַקָּפַת כׇּל הָרֹאשׁ לֹא שְׁמָהּ הַקָּפָה. לְהָכִי כְּתַב רַחֲמָנָא ״רֹאשׁוֹ״.
 *Translation:* The Gemara asks: If so, **why do I** need the Torah **to write: “His head,” and why do I** need it **to write: “His beard”?** One source should suffice to teach that the shaving of a leper overrides any prohibitions that would be violated by that act. The Gemara answers: Both verses **are necessary. As, had the Merciful One written** only: **“His beard,” and not written: “His head,” I would say** that **the rounding of the entire head,** i.e., shaving all the hair off one’s head and not merely the sides, is **not called** a prohibited **rounding.** If that were so, the shaving of a leper’s head would not be prohibited by Torah law. **For this** reason **the Merciful One writes: “His head,”** to teach that the shaving that the leper performs would be considered a prohibited rounding of the head had the Torah not commanded him to shave.
+
+
+---
+
+### Nazir 41b
+
+**1.**
+*Hebrew/Aramaic:* וְאִי כְּתַב ״רֹאשׁוֹ״ וְלָא כְּתַב ״זְקָנוֹ״, הֲוָה אָמֵינָא: מַשְׁמַע תַּרְתֵּי: דְּאָתֵי עֲשֵׂה וְדָחֵי אֶת לֹא תַעֲשֶׂה, וּמַשְׁמַע דְּהַקָּפַת כׇּל הָרֹאשׁ שְׁמָהּ הַקָּפָה. וְאַכַּתִּי בְּתַעַר מְנָלַן? לְהָכִי כְּתַב רַחֲמָנָא ״זְקָנוֹ״.
+*Translation:* **And had** the Torah **written** only: **“His head,” and not written: “His beard,” I would say** that “his head” **teaches two** matters. First, **that a positive** mitzva **comes and overrides a prohibition. And it** also **teaches that rounding the entire head is called rounding. And still, from where do we** derive that a leper must shave **with a razor? For this** reason **the Merciful One** also **wrote: “His beard,”** and we derive from the prohibition that bars priests from destroying their beards that the removal of the beard involves the use of a razor.
+
+**2.**
+*Hebrew/Aramaic:* וְרַבִּי אֱלִיעֶזֶר, דְּאָתֵי עֲשֵׂה וְדָחֵי אֶת לֹא תַעֲשֶׂה מְנָלֵיהּ? יָלֵיף מִ״גְּדִילִים״. דְּתַנְיָא: ״לֹא תִלְבַּשׁ שַׁעַטְנֵז״,
+*Translation:* The Gemara asks: **And Rabbi Eliezer, from where does he** derive the general principle **that a positive** mitzva **will come and override a prohibition?** The Gemara answers: He **derives** it **from** the mitzva of ritual **fringes. As it is taught** in a *baraita*: This verse: **“You shall not wear diverse kinds** of wool and linen” (Deuteronomy 22:11),

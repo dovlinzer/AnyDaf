@@ -75,3 +75,44 @@
 **19.**
 *Hebrew/Aramaic:* חָל יוֹם אֶחָד.
 *Translation:* The mishna continues: **If one day happened.** During the rest of the days of the year, the incoming watch takes six loaves and the outgoing watch takes six loaves. Rabbi Yehuda says: The incoming watch takes seven loaves and the outgoing takes five.
+
+
+---
+
+### Sukkah 56b
+
+**1.**
+*Hebrew/Aramaic:* וְהָנֵי תַּרְתֵּי מַאי עֲבִידְתַּיְיהוּ? אָמַר רַבִּי יִצְחָק: בִּשְׂכַר הַגָּפַת דְּלָתוֹת. וְנֵימָא לֵיהּ דַּל בְּדַל! אָמַר אַבָּיֵי: בּוּצִינָא טָבָא מִקָּרָא.
+*Translation:* The Gemara asks: And **these two** extra loaves received by the incoming watch, **what is their purpose? Rabbi Yitzḥak says:** They are **as compensation** for **locking** the **doors** of the Temple. The Gemara asks: **Let** the outgoing watch **say to** the incoming one: **Remove** your claim to the extra loaves this week and divide the loaves equally and next week’s incoming watch **will remove** its claim next week. **Abaye said:** A ripe **cucumber** now **is better than a gourd** that has yet to ripen. A small, immediate profit is preferable to a large, potential profit.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה: וּבַמּוּסָפִין חוֹלְקִין. מֵיתִיבִי: מִשְׁמָרָה הַיּוֹצֵאת עוֹשָׂה תָּמִיד שֶׁל שַׁחַר וּמוּסָפִין, מִשְׁמָרָה הַנִּכְנֶסֶת עוֹשָׂה תָּמִיד שֶׁל בֵּין הָעַרְבַּיִם וּבָזִיכִין — וְאִילּוּ ״מוּסָפִין חוֹלְקִין״ לָא קָתָנֵי! הַאי תַּנָּא בַּחֲלוּקָּה לָא קָא מַיְירֵי.
+*Translation:* **Rav Yehuda said: And they divide** the hides **of the additional offerings** between them. The Gemara **raises an objection** from a *baraita*: **The outgoing watch performs the** rite of the **daily morning offering and the additional offerings, and the incoming watch performs** the rite of **the daily afternoon offering and** the service of **the vessels** of frankincense for the shewbread. **And** the *baraita* **teaches nothing about dividing** the hides of **the additional offerings.** The Gemara answers: **This *tanna* is not speaking of division** of the hides, but is addressing the division of the Temple service, so sharing the hides is not mentioned.
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רָבָא: וְהָא תָּנָא דְּבֵי שְׁמוּאֵל, דְּמַיְירִי בַּחֲלוּקָּה, וּ״בַמּוּסָפִין חוֹלְקִין״ לָא קָתָנֵי? דְּתָנָא דְּבֵי שְׁמוּאֵל: מִשְׁמָרָה הַיּוֹצֵאת עוֹשָׂה תָּמִיד שֶׁל שַׁחַר וּמוּסָפִין, מִשְׁמָרָה הַנִּכְנֶסֶת עוֹשָׂה תָּמִיד שֶׁל בֵּין הָעַרְבַּיִם וּבָזִיכִין. אַרְבָּעָה כֹּהֲנִים הָיוּ נִכְנָסִין שָׁם. שְׁנַיִם מִמִּשְׁמָרָה זוֹ, וּשְׁנַיִם מִמִּשְׁמָרָה זוֹ, וְחוֹלְקִין לֶחֶם הַפָּנִים. וְאִילּוּ ״בַּמּוּסָפִין חוֹלְקִין״ לָא קָתָנֵי! תְּיוּבְתָּא דְרַב יְהוּדָה! תְּיוּבְתָּא.
+*Translation:* **Rava said: But didn’t the *tanna* of the school of Shmuel, who speaks of division** between the incoming and the outgoing watches, **fail to teach division of the hides of the additional offerings** mentioned by Rabbi Yehuda, **as the school of Shmuel taught: The outgoing watch performs the daily morning offering and the additional offerings; the incoming watch performs the daily afternoon offerings and** the service of **the vessels.** And how was this service performed? **Four priests would enter** the Sanctuary, **two from this** outgoing **watch and two from that** incoming **watch, and they divide the shewbread. But it teaches nothing about dividing** the hides of **the additional offerings.** The Gemara suggests: This is **a conclusive refutation** of the opinion **of Rav Yehuda.** The Gemara concludes: Indeed, it is **a conclusive refutation.**
+
+**4.**
+*Hebrew/Aramaic:* הַנִּכְנָסִין חוֹלְקִין בַּצָּפוֹן. תָּנוּ רַבָּנַן: הַנִּכְנָסִין חוֹלְקִין בַּצָּפוֹן — כְּדֵי שֶׁיֵּרָאוּ שֶׁהֵן נִכְנָסִין, וְהַיּוֹצְאִין חוֹלְקִין בַּדָּרוֹם — כְּדֵי שֶׁיֵּרָאוּ שֶׁהֵן יוֹצְאִין.
+*Translation:* § The mishna continues: Members of **the incoming** watch **divide** the shewbread **in the north** section of the courtyard, and members of the outgoing watch in the south. **The Sages taught** in a *baraita*: Members of **the incoming watch divide** the shewbread **in the north,** which was an area of greater sanctity in the Temple courtyard, **so that it would be seen that they are incoming, and** members of **the outgoing** watch **divide** the shewbread **in the south, so it would be seen that they are outgoing.**
+
+**5.**
+*Hebrew/Aramaic:* בִּילְגָּה לְעוֹלָם חוֹלֶקֶת בַּדָּרוֹם. תָּנוּ רַבָּנַן: מַעֲשֶׂה בְּמִרְיָם בַּת בִּילְגָּה שֶׁהֵמִירָה דָּתָהּ, וְהָלְכָה וְנִשֵּׂאת לְסַרְדְּיוֹט אֶחָד מִמַּלְכֵי יְווֹנִים. כְּשֶׁנִּכְנְסוּ יְווֹנִים לַהֵיכָל, הָיְתָה מְבַעֶטֶת בְּסַנְדָּלָהּ עַל גַּבֵּי הַמִּזְבֵּחַ, וְאָמְרָה: לוֹקוּס לוֹקוּס! עַד מָתַי אַתָּה מְכַלֶּה מָמוֹנָן שֶׁל יִשְׂרָאֵל וְאִי אַתָּה עוֹמֵד עֲלֵיהֶם בִּשְׁעַת הַדְּחָק! וּכְשֶׁשָּׁמְעוּ חֲכָמִים בַּדָּבָר, קָבְעוּ אֶת טַבַּעְתָּהּ וְסָתְמוּ אֶת חַלּוֹנָהּ.
+*Translation:* We learned in the mishna that **Bilga always divides** the shewbread **in the south,** even when it is the incoming watch. The Gemara elaborates: **The Sages taught** in a *baraita*: There was an **incident involving Miriam, the daughter** of a member of the **Bilga** watch, **who apostatized and went and married a soldier [*sardeyot*]** serving in the army **of the Greek kings. When the Greeks entered the Sanctuary,** she entered with them and **was kicking with her sandal on the altar and said: Wolf, wolf [*lokos*], until when will you consume the property of the Jewish people, and** yet **you do not stand with them when** they face **exigent circumstances? And** after the victory of the Hasmoneans over the Greeks, **when the Sages heard about this matter** and how she denigrated the altar, **they fixed the ring** of the Bilga watch in place, rendering it nonfunctional, **and sealed its niche.**
+
+**6.**
+*Hebrew/Aramaic:* וְיֵשׁ אוֹמְרִים: מִשְׁמַרְתּוֹ שׁוֹהָה לָבֹא, וְנִכְנַס יֶשֶׁבָב אָחִיו עִמּוֹ וְשִׁימֵּשׁ תַּחְתָּיו. אַף עַל פִּי שֶׁשְּׁכֵינֵי הָרְשָׁעִים לֹא נִשְׂתַּכְּרוּ, שְׁכֵינֵי בִילְגָּה — נִשְׂתַּכְּרוּ, שֶׁבִּילְגָּה לְעוֹלָם חוֹלֶקֶת בַּדָּרוֹם, וְיֶשֶׁבָב אָחִיו בַּצָּפוֹן.
+*Translation:* **And some say** that the watch was penalized for a different reason. It happened once that some members of the Bilga **watch tarried in arriving** at the Temple. The members of the previous watch, the watch of **Yeshevav, his brother, entered together with** the members of the Bilga watch who had arrived, **and served in** the **place** of the absent members of **his** brother’s watch. The Gemara notes: **Although neighbors of the wicked do not** typically **profit,** according to the principle: Woe unto the wicked, woe unto his neighbor, **Bilga’s neighbors profited, as Bilga always divides** the shewbread **in the south,** even when the watch is incoming, **and his brother Yeshevav** always divides **in the north,** even when the watch is outgoing.
+
+**7.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְמַאן דְּאָמַר מִשְׁמַרְתּוֹ שׁוֹהָה לָבֹא, הַיְינוּ דְּקָנְסִינַן לְכוּלַּהּ מִשְׁמָרָה. אֶלָּא לְמַאן דְּאָמַר מִרְיָם בַּת בִּילְגָּה שֶׁהֵמִירָה דָתָה, מִשּׁוּם בְּרַתֵּיה קָנְסִינַן לֵיהּ לְדִידֵיהּ? אָמַר אַבָּיֵי: אִין, כִּדְאָמְרִי אִינָשֵׁי: שׁוּתָא דְיָנוֹקָא בְּשׁוּקָא, אוֹ דַאֲבוּהַּ אוֹ דְאִימֵּיהּ.
+*Translation:* The Gemara clarifies: **Granted, according to the one who said** that Bilga was penalized because members of **his watch tarried in arriving** at the Temple; **that is why the entire watch is penalized. However, according to the one who said** it is due to **Miriam, daughter of Bilga, who apostatized, do we penalize** the entire watch of Bilga **because of his daughter? Abaye said: Yes, as people say, the speech of a child in the marketplace is** learned **either from that of his father or from that of his mother.** Miriam would never have said such things had she not heard talk of that kind in her parents’ home.
+
+**8.**
+*Hebrew/Aramaic:* וּמִשּׁוּם אֲבוּהּ וְאִימֵּיהּ קָנְסִינַן לְכוּלַּהּ מִשְׁמָרָה? אָמַר אַבָּיֵי: אוֹי לָרָשָׁע אוֹי לִשְׁכֵינוֹ, טוֹב לַצַּדִּיק טוֹב לִשְׁכֵינוֹ [שֶׁנֶּאֱמַר: ״אִמְרוּ צַדִּיק כִּי טוֹב כִּי פְרִי מַעַלְלֵיהֶם יֹאכֵלוּ״].
+*Translation:* The Gemara asks: **And due to** Miriam’s **father and mother, do we penalize an entire watch? Abaye said: Woe unto the wicked, woe unto his neighbor.** To conclude the tractate on a positive note, the Gemara says: **Good for the righteous, good for his neighbor, as it is stated: “Say you of the righteous that it shall be good for him, for they shall eat the fruit of their doings”** (Isaiah 3:10); the neighbors of a righteous man who witness and acknowledge the good that befalls him will benefit from their proximity to him.
+
+**9.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ הֶחָלִיל וּסְלִיקָא לַהּ מַסֶּכֶת סוּכָּה
+*Translation:* We have now completed the chapter “the flute” and all of Masekhet Sukkah.

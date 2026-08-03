@@ -35,3 +35,68 @@
 **9.**
 *Hebrew/Aramaic:* וְאֵין לִי אֶלָּא יְמֵי חִלּוּטוֹ. יְמֵי סְפָרוֹ, מִנַּיִן? וְדִין הוּא:
 *Translation:* **And I have** derived **only his days of confirmed** leprosy. **From where** do I derive that **his days of counting** for purification from leprosy are not considered part of his term either? **And is this** not **logical:**
+
+
+---
+
+### Nazir 56b
+
+**1.**
+*Hebrew/Aramaic:* מָה יְמֵי חִלּוּטוֹ טָעוּן תִּגְלַחַת — אַף יְמֵי סְפָרוֹ. וּמָה יְמֵי חִלּוּטוֹ אֵין עוֹלִין לוֹ מִן הַמִּנְיָן — אַף יְמֵי סְפָרוֹ.
+*Translation:* **Just as the days of his confirmed** leprosy **require shaving, so too, the days of his counting** require shaving; **and just as the days of his confirmed** leprosy **do not count** as part **of his tally** of naziriteship, **so too, the days of his counting** should not count toward his term of naziriteship?
+
+**2.**
+*Hebrew/Aramaic:* יָכוֹל אַף יְמֵי הֶסְגֵּרוֹ כֵּן? וְהַדִּין נוֹתֵן: חָלוּט מְטַמֵּא מִשְׁכָּב וּמוֹשָׁב, וִימֵי הֶסְגֵּרוֹ מְטַמֵּא מִשְׁכָּב וּמוֹשָׁב. אִם לָמַדְתָּ לִימֵי חִלּוּטוֹ שֶׁאֵין עוֹלִין לוֹ מִן הַמִּנְיָן — אַף יְמֵי הֶסְגֵּרוֹ אֵין עוֹלִין לוֹ מִן הַמִּנְיָן.
+*Translation:* One **might** have thought that **even his days of quarantine** as a leper should share the **same** *halakha* and not be counted. **And it is logical** that those days should not count for him either, as the two states are comparable: **A confirmed** leper **renders** items **ritually impure through lying or sitting, and** a leper in **the days of his quarantine** also **renders** items **impure through lying or sitting.** Consequently, **if you learned with regard to the days of confirmed** leprosy **that they do not count** as part **of his tally, so too, the days of quarantine** should **not count** as part **of his tally** either.
+
+**3.**
+*Hebrew/Aramaic:* אָמַרְתָּ: לֹא, אִם אָמַרְתָּ בִּימֵי חִלּוּטוֹ, שֶׁכֵּן חִלּוּטוֹ טָעוּן תִּגְלַחַת וּמֵבִיא קׇרְבָּן, לְפִיכָךְ אֵין עוֹלִין. תֹּאמַר בִּימֵי הֶסְגֵּרוֹ, שֶׁאֵין טָעוּן תִּגְלַחַת, וְאֵינוֹ מֵבִיא קׇרְבָּן, לְפִיכָךְ יַעֲלוּ לַמִּנְיָן.
+*Translation:* The Gemara rejects this argument: **You** can **say** in response: **No, if you said** this *halakha* **with regard to the days of confirmed** leprosy, the reason is **that his confirmed** state of leprosy **requires** him to **shave** after he is healed **and** to **bring an offering** before he can commence his naziriteship. **Therefore,** these days **do not count** toward his naziriteship. However, will **you say** the same **with regard to the days of his quarantine, which do not require shaving and** for which **he does not bring an offering? Therefore,** perhaps they should **count toward** his **tally.**
+
+**4.**
+*Hebrew/Aramaic:* מִכָּאן אָמְרוּ: יְמֵי סְפָרוֹ וִימֵי גְמָרוֹ — אֵין עוֹלִין לוֹ מִן הַמִּנְיָן. אֲבָל יְמֵי הַזָּב וְהַזָּבָה וְהֶסְגֵּרוֹ שֶׁל מְצוֹרָע — הֲרֵי אֵלּוּ עוֹלִין לוֹ.
+*Translation:* **From here they stated: The days of** a leper’s **counting and the days of his confirmed** leprosy, when he is a full-fledged leper, **do not count** as part **of his tally** of his term of naziriteship. **However, the days** of the impurity **of the *zav* and the *zava* and** the days **of a leper’s quarantine do count** as part of **his** tally of his term of naziriteship.
+
+**5.**
+*Hebrew/Aramaic:* קָתָנֵי מִיהַת: לָא, אִם אָמַרְתָּ בִּימֵי טוּמְאָה שֶׁכֵּן מְבַטֵּל בָּהֶן אֶת הַקּוֹדְמִין, תֹּאמַר בִּימֵי חִלּוּטוֹ. בְּמַאי? אִילֵימָא בִּנְזִירוּת מוּעֶטֶת, הָא בָּעִינַן גִּידּוּל שֵׂעָר.
+*Translation:* With regard to the issue at hand, **in any event** the *baraita* **teaches: No, if you say** that this is true **with regard to his days of impurity, which negate the previous** days, **shall you** also **say** that this is the case **with regard to his days of confirmed** leprosy, which do not negate the previous ones? The Gemara analyzes this argument: **To what** does this statement refer? **If we say** it is referring **to a short naziriteship** of thirty days, this cannot be the case, as **we require hair growth** of thirty days after his purification.
+
+**6.**
+*Hebrew/Aramaic:* אֶלָּא לָאו בִּנְזִירוּת מְרוּבָּה, וְקָתָנֵי שֶׁאֵין עוֹלִין לוֹ מִן הַמִּנְיָן. אַלְמָא לָא סָלְקִין לֵיהּ! שְׁמַע מִינַּהּ.
+*Translation:* **Rather, is it not** the case that it is referring **to a lengthy naziriteship, and** nevertheless the *baraita* **teaches that they do not count** as part **of his tally. Apparently,** his days as a full-fledged leper **do not count toward** his term of naziriteship, which contradicts Rav Ḥisda’s ruling. The Gemara concludes: **Learn from this** that Rav Ḥisda’s opinion should be rejected.
+
+**7.**
+*Hebrew/Aramaic:* מַתְנִי׳ אָמַר רַבִּי אֱלִיעֶזֶר מִשּׁוּם רַבִּי יְהוֹשֻׁעַ: כׇּל טוּמְאָה מִן הַמֵּת שֶׁנָּזִיר מְגַלֵּחַ עָלֶיהָ — חַיָּיבִין עָלֶיהָ עַל בִּיאַת מִקְדָּשׁ. וְכׇל טוּמְאָה מִן הַמֵּת שֶׁאֵין הַנָּזִיר מְגַלֵּחַ עָלֶיהָ — אֵין חַיָּיבִין עָלֶיהָ עַל בִּיאַת מִקְדָּשׁ.
+*Translation:* MISHNA: **Rabbi Eliezer said in the name of Rabbi Yehoshua:** With regard to **any ritual impurity from a corpse for which a nazirite must shave, one is liable due to** the prohibition of **entering the Temple** after contracting that impurity. If someone who became impure from one of those sources of impurity enters the Temple, he violates the prohibition against an impure individual entering the sacred space. **And** with regard to **any impurity from a corpse for which a nazirite does not shave, one is** likewise **not liable due to** the prohibition of **entering the Temple** after contracting it.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַבִּי מֵאִיר: לֹא תְּהֵא זוֹ קַלָּה מִן הַשֶּׁרֶץ.
+*Translation:* **Rabbi Meir said: This** impurity from a corpse that does not obligate a nazirite to shave **should not be more lenient than** the impurity of **a creeping animal.** The Torah clearly states that one rendered impure from a creeping animal is prohibited from entering the Temple (see Leviticus 5:2–3).
+
+**9.**
+*Hebrew/Aramaic:* גְּמָ׳ וְרַבִּי אֱלִיעֶזֶר מִשּׁוּם רַבִּי יְהוֹשֻׁעַ גְּמַר לַהּ? וְהָא מִשּׁוּם רַבִּי יְהוֹשֻׁעַ בַּר מֶמֶל גְּמַר לָהּ. דְּתַנְיָא, אָמַר רַבִּי אֱלִיעֶזֶר: כְּשֶׁהָלַכְתִּי לְעַרְדַּסְקִיָּא, מָצָאתִי אֶת רַבִּי יְהוֹשֻׁעַ בֶּן פֵּתֶר רֹאשׁ שֶׁהָיָה יוֹשֵׁב וְדָן לִפְנֵי רַבִּי מֵאִיר בַּהֲלָכָה: כׇּל טוּמְאָה מִן הַמֵּת שֶׁהַנָּזִיר מְגַלֵּחַ עָלֶיהָ — חַיָּיבִין עָלֶיהָ מִשּׁוּם בִּיאַת מִקְדָּשׁ. וְכׇל טוּמְאָה מִן הַמֵּת שֶׁאֵין הַנָּזִיר מְגַלֵּחַ עָלֶיהָ — אֵין חַיָּיבִין עָלֶיהָ מִשּׁוּם בִּיאַת מִקְדָּשׁ. אָמַר לוֹ: אַל תְּהֵא זוֹ קַלָּה מִשֶּׁרֶץ.
+*Translation:* GEMARA: The Gemara asks: **And** did **Rabbi Eliezer learn** this *halakha* **in the name of Rabbi Yehoshua** ben Ḥananya? **But didn’t he learn it in the name of Rabbi Yehoshua bar Memel? As it is taught** in a *baraita* that **Rabbi Eliezer said: When I went to** a place called **Ardaskeya, I found Rabbi Yehoshua ben Petter Rosh sitting and discussing** the following ***halakha* before Rabbi Meir:** With regard to **any ritual impurity from a corpse for which a nazirite must shave, one is liable due to** the prohibition of **entering the Temple** after contracting it. **And** with regard to **any impurity from a corpse for which a nazirite does not shave, one is not liable due to** the prohibition of **entering the Temple** after contracting it. Rabbi Meir **said to him: This** impurity of a corpse that does not obligate a nazirite to shave **should not be more lenient than** the impurity of **a creeping animal.**
+
+**10.**
+*Hebrew/Aramaic:* אָמַרְתִּי לוֹ: כְּלוּם אַתָּה בָּקִי בְּרַבִּי יְהוֹשֻׁעַ בַּר מֶמֶל? אָמַר לִי: הֵן. כָּךְ אָמַר לִי רַבִּי יְהוֹשֻׁעַ בַּר מֶמֶל מִשּׁוּם רַבִּי יְהוֹשֻׁעַ: כׇּל טוּמְאָה מִן הַמֵּת שֶׁהַנָּזִיר מְגַלֵּחַ עָלֶיהָ — חַיָּיב עָלֶיהָ מִשּׁוּם בִּיאַת מִקְדָּשׁ, וְכׇל טוּמְאָה מִן הַמֵּת שֶׁאֵין הַנָּזִיר מְגַלֵּחַ עָלֶיהָ — אֵין חַיָּיבִין עָלֶיהָ מִשּׁוּם בִּיאַת מִקְדָּשׁ. הֱוֵי מִשּׁוּם רַבִּי יְהוֹשֻׁעַ בַּר מֶמֶל גְּמִיר לַהּ!
+*Translation:* Rabbi Eliezer continued: **I said to** Rabbi Meir: **Are you at all familiar with Rabbi Yehoshua bar Memel? He said to me: Yes.** I continued: **Rabbi Yehoshua bar Memel said this to me in the name of Rabbi Yehoshua** ben Ḥananya: With regard to **any ritual impurity from a corpse for which a nazirite must shave, one is liable due to** the prohibition of **entering the Temple** after contracting it. **And** with regard to **any impurity from a corpse for which a nazirite does not shave, one is not liable due to** the prohibition of **entering the Temple** after contracting it. This concludes the *baraita*. The Gemara comments: This **is** proof **that** Rabbi Eliezer **learned** this *halakha* **in the name of Rabbi Yehoshua bar Memel,** not directly from Rabbi Yehoshua ben Ḥananya.
+
+**11.**
+*Hebrew/Aramaic:* אָמְרוּ, שְׁמַע מִינַּהּ: כֹּל שְׁמַעְתְּתָא דְּמִתְאַמְרָה בְּבֵי תְּלָתָא, קַדְמָאֵי וּבָתְרָאֵי — אָמְרִינַן, מְצִיעָאֵי — לָא אָמְרִינַן.
+*Translation:* **They said: Learn from this** case the following principle: With regard to **any** statement of ***halakha* that was stated** as a tradition **of three** scholars, **we say the first and the last** names in the chain but **we do not say the middle** one. Therefore, the mishna mentions the name of Rabbi Eliezer, the last link in the tradition, and Rabbi Yehoshua ben Ḥananya, the first scholar, but it omits that of Rabbi Yehoshua bar Memel, the middle scholar in the chain.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן בַּר יִצְחָק: אַף אֲנַן נָמֵי תְּנֵינָא, אָמַר נַחוּם הַלַּבְלָר: כָּךְ מְקּוּבְּלַנִי מֵרַבִּי מְיָאשָׁא שֶׁקִּיבֵּל מֵאַבָּא, שֶׁקִּבֵּל מִן הַזּוּגוֹת, שֶׁקִּבְּלוּ מִן הַנְּבִיאִים: הֲלָכָה לְמֹשֶׁה מִסִּינַי בְּזוֹרֵעַ שֶׁבֶת וְחַרְדָּל בִּשְׁנַיִם וּשְׁלֹשָׁה מְקוֹמוֹת, שֶׁנּוֹתֵן פֵּאָה מִכׇּל אֶחָד וְאֶחָד.
+*Translation:* **Rav Naḥman bar Yitzḥak said: We, too, learn** in a mishna (*Pe’a* 2:6): **Naḥum the Scribe [*lavlar*] said: This is** the tradition that **I received from Rabbi Meyasha, who received** it **from father, who received** it **from the pairs** of Sages who served during the period of the Second Temple, **who received** it **from the Prophets:** It is **a *halakha*** transmitted **to Moses from Sinai with regard to one who sows** the plants of **dill and mustard in two or three** separate **locations** in a single field, **that he leaves a corner** to the poor **for each and every one** of these plots on its own, rather than one corner for all of them.
+
+**13.**
+*Hebrew/Aramaic:* וְאִילּוּ יְהוֹשֻׁעַ וְכָלֵב לָא קָחָשֵׁיב. שְׁמַע מִינַּהּ.
+*Translation:* The Gemara explains the proof from this source: **And yet** Naḥum the Scribe **does not mention** the names of **Joshua and Caleb,** despite the fact that they were the Elders who passed down this *halakha* from Moses to the Prophets. **Learn from this** that the middle links in a tradition are not necessarily listed.
+
+**14.**
+*Hebrew/Aramaic:* מַתְנִי׳ אָמַר רַבִּי עֲקִיבָא, דַּנְתִּי לִפְנֵי רַבִּי אֱלִיעֶזֶר: מָה אִם עֶצֶם כִּשְׂעוֹרָה, שֶׁאֵינוֹ מְטַמֵּא אָדָם בְּאֹהֶל — הַנָּזִיר מְגַלֵּחַ עַל מַגָּעוֹ וְעַל מַשָּׂאוֹ, רְבִיעִית דָּם, שֶׁהוּא מְטַמֵּא אָדָם בְּאֹהֶל — אֵינוֹ דִּין שֶׁיְּהֵא הַנָּזִיר מְגַלֵּחַ עַל מַגָּעָהּ וְעַל מַשָּׂאָהּ?
+*Translation:* MISHNA: The mishna continues to address the sources of ritual impurity for which a nazirite must shave. **Rabbi Akiva said: I discussed** this matter **before Rabbi Eliezer** and suggested the following *a fortiori* inference: **If,** with regard to **a bone that is a barley-grain**-**bulk, which does not render a person impure in a tent, a nazirite must** nevertheless **shave for touching it or carrying it,** then in the case of **a quarter-***log* **of blood, which is** more stringent in that it **renders a person impure in a tent, is it not logical that a nazirite should shave for touching it or carrying it?**
+
+**15.**
+*Hebrew/Aramaic:* אָמַר לִי: מָה זֶה עֲקִיבָא?! אֵין דָּנִין כָּאן מִקַּל וָחוֹמֶר. וּכְשֶׁבָּאתִי וְהִרְצֵיתִי דְּבָרִים לִפְנֵי רַבִּי יְהוֹשֻׁעַ, אָמַר לִי: יָפֶה אָמַרְתָּ, אֶלָּא כֵּן אָמְרוּ: הֲלָכָה.
+*Translation:* Rabbi Eliezer **said to me: What is this, Akiva? One cannot argue by means of an *a fortiori* inference here,** in this particular case. However, Rabbi Eliezer did not provide a reason for this response. Rabbi Akiva continued: **And when I came and presented** these **matters before Rabbi Yehoshua, he said to me: You spoke well,** i.e., your logic is flawless, **but they indeed said** that this is a ***halakha*** transmitted to Moses from Sinai, which cannot be refuted by means of an *a fortiori* inference.

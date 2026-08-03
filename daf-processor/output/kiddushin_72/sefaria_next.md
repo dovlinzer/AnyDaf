@@ -71,3 +71,68 @@
 **18.**
 *Hebrew/Aramaic:* אָמַר רָבָא בַּר רַב הוּנָא: מְצָאוֹ מָהוּל –
 *Translation:* § **Rava bar Rav Huna says:** If an abandoned boy was **found circumcised,**
+
+
+---
+
+### Kiddushin 73b
+
+**1.**
+*Hebrew/Aramaic:* אֵין בּוֹ מִשּׁוּם אֲסוּפִי. מְשַׁלְּטִי הַדָּמֵיהּ – אֵין בּוֹ מִשּׁוּם אֲסוּפִי. שַׁיִיף מִשְׁחָא, וּמְלֵא כּוּחְלָא, רְמֵי חוּמְרֵי, תְּלֵי פִּיתְקָא, וּתְלֵי קְמִיעָא – אֵין בּוֹ מִשּׁוּם אֲסוּפִי.
+*Translation:* **he is not subject to** the *halakhot* of **a foundling.** If the baby’s lineage were unfit, his parents would not have gone to the trouble of circumcising him. Likewise, if **his limbs are adjusted,** indicating that he was cared for after birth, **he is not subject to** the *halakhot* of **a foundling.** Similarly, if he was **anointed with oil, or** if his eyes **were smeared with** eye **salve,** or if he was **adorned with rings,** or if **a note [*pitka*] was hanging** on him, **or** if **an amulet was hanging** on him, **he is not subject to** the *halakhot* of **a foundling.**
+
+**2.**
+*Hebrew/Aramaic:* תְּלֵי בְּדִיקְלֵי, אִי מָטְיָא לֵיהּ חַיָּה – יֵשׁ בּוֹ מִשּׁוּם אֲסוּפִי, אִם לָאו – אֵין בּוֹ מִשּׁוּם אֲסוּפִי.
+*Translation:* Concerning a child found **hanging from a palm tree, if** he was in such a place that **an animal could reach him, he is subject to** the *halakhot* of **a foundling. If not,** if he was placed on a palm tree in a way that he could not be reached by an animal, **he is not subject to** the *halakhot* of **a foundling,** since he was cared for enough to be placed in a safe location.
+
+**3.**
+*Hebrew/Aramaic:* זַרְדְּתָא סְמִיכָא לְמָתָא – יֵשׁ בּוֹ מִשּׁוּם אֲסוּפִי, וְאִם לָאו – אֵין בּוֹ מִשּׁוּם אֲסוּפִי. בֵּי כְנִישְׁתָּא סְמִיכְתָּא לְמָתָא וּשְׁכִיחִי בֵּיהּ רַבִּים – אֵין בּוֹ מִשּׁוּם אֲסוּפִי, וְאִם לָאו – יֵשׁ בּוֹ מִשּׁוּם אֲסוּפִי.
+*Translation:* Similarly, if the child was placed in **a thicket near a town,** where people are not commonly found, **he is subject to** the *halakhot* of **a foundling. But if not, he is not subject to** the *halakhot* of **a foundling.** If the child was discovered **in a synagogue near a town, and people are commonly found there, he is not subject to** the *halakhot* of **a foundling,** since the parents wanted to give him to others. **But if not,** if the synagogue was not near a town or if it was not frequented by people, **he is subject to** the *halakhot* of **a foundling.**
+
+**4.**
+*Hebrew/Aramaic:* אָמַר אַמֵּימָר: הַאי פֵּירָא דְסוּפְלֵי – יֵשׁ בּוֹ מִשּׁוּם אֲסוּפִי, חֲרִיפְתָּא דְנַהֲרָא – אֵין בּוֹ מִשּׁוּם אֲסוּפִי. פִּשְׁרֵי – יֵשׁ בּוֹ מִשּׁוּם אֲסוּפִי. צִידֵּי רְשׁוּת הָרַבִּים – אֵין בּוֹ מִשּׁוּם אֲסוּפִי. רְשׁוּת הָרַבִּים – יֵשׁ בּוֹ מִשּׁוּם אֲסוּפִי.
+*Translation:* **Ameimar said:** With regard to **this cistern into which date pits are placed [*peira desuflei*]** as animal fodder, if a child is found there, **he is subject to** the *halakhot* of **a foundling.** If he was found **in the middle of** a fast-flowing **river** with boats passing by, **he is not subject to** the *halakhot* of **a foundling.** If he was placed **at the side** of the river, **he is subject to** the *halakhot* of **a foundling.** If he was found at **the sides of a public domain,** which is not frequented by many people, **he is not subject to** the *halakhot* of **a foundling.** But if the child was discovered in **the public domain** itself, where he might easily be trampled, **he is subject to** the *halakhot* of **a foundling.**
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רָבָא: וּבִשְׁנֵי רְעָבוֹן אֵין בּוֹ מִשּׁוּם אֲסוּפִי. הָא דְּרָבָא אַהֵיָיא? אִילֵּימָא אַרְשׁוּת הָרַבִּים – אַיְּידֵי דִּשְׁנֵי רְעָבוֹן קָטְלָא לֵיהּ?! וְאֶלָּא אַצִּידֵּי רְשׁוּת הָרַבִּים – מַאי אִירְיָא שְׁנֵי רְעָבוֹן? אֲפִילּוּ בְּלָא שְׁנֵי רְעָבוֹן!
+*Translation:* **Rava said: And in famine years, he is not subject to** the *halakhot* of **a foundling.** The Gemara asks: With regard to **this** statement **of Rava, to which** specific case is it referring? **If we say** it is referring **to the** case where the child was left in the **public domain because it is a famine year,** would a mother **kill him** by placing him in a place where he is likely to be trampled? **Rather,** if Rava’s statement is referring **to the** case where the child was found at the **sides of a public domain, why specifically** mention **famine years? Even when** it is **not famine years,** the child was placed in a safe location where he was likely to be found.
+
+**6.**
+*Hebrew/Aramaic:* אֶלָּא כִּי אִתְּמַר דְּרָבָא – אַהָא דְּאָמַר רַב יְהוּדָה אָמַר רַבִּי אַבָּא אָמַר רַבִּי יְהוּדָה בַּר זַבְדִּי אָמַר רַב: כׇּל זְמַן שֶׁבַּשּׁוּק – אָבִיו וְאִמּוֹ נֶאֱמָנִים עָלָיו, נֶאֱסַף מִן הַשּׁוּק – אֵין נֶאֱמָנִים עָלָיו.
+*Translation:* **Rather,** it must be that **when Rava’s** *halakha* **was stated,** it was stated **with regard to that which Rav Yehuda says** that **Rabbi Abba says** that **Rabbi Yehuda bar Zavdi says** that **Rav says: As long as** the abandoned child is still **in the marketplace, his father and mother are deemed credible with regard to him** when they later claim the child as theirs. But once the child has been **collected from the marketplace, they are no** longer **deemed credible with regard to him.**
+
+**7.**
+*Hebrew/Aramaic:* מַאי טַעְמָא? אָמַר רָבָא: הוֹאִיל וְיָצָא עָלָיו שֵׁם אֲסוּפִי. וְאָמַר רָבָא: וּבִשְׁנֵי רְעָבוֹן, אַף עַל פִּי שֶׁנֶּאֱסַף מִן הַשּׁוּק אָבִיו וְאִמּוֹ נֶאֱמָנִים עָלָיו.
+*Translation:* The Gemara asks: **What is the reason** for this? **Rava said: Since** the child **has** already **been publicized with the name of** being of flawed lineage as **a foundling,** they cannot change the status of the child. **And** it is with regard to this *halakha* that **Rava says: And in famine years, although** the child **has been collected from the marketplace, his father and mother are deemed credible with regard to him,** as it is common even for parents of unflawed lineage to abandon their children in famine years, and it is likely that they are speaking the truth.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַב חִסְדָּא: שְׁלֹשָׁה נֶאֱמָנִים לְאַלְתַּר, אֵלּוּ הֵן: אֲסוּפִי, חַיָּה, וּפוֹטֶרֶת חַבְרוֹתֶיהָ.
+*Translation:* § **Rav Ḥisda says:** There are **three** cases where people **are deemed credible** if they **immediately** offer testimony with regard to a matter about which they are not ordinarily deemed credible to testify. **These are they: A foundling, a midwife, and one who exempts her friends** from uncertain impurity.
+
+**9.**
+*Hebrew/Aramaic:* אֲסוּפִי – הָא דַּאֲמַרַן.
+*Translation:* How so? The case of **a foundling** is **that which we said,** that his parents can testify with regard to his lineage before he is collected from the marketplace.
+
+**10.**
+*Hebrew/Aramaic:* חַיָּה – דְּתַנְיָא: חַיָּה נֶאֱמֶנֶת לוֹמַר זֶה יָצָא רִאשׁוֹן וְזֶה יָצָא שֵׁנִי. בַּמֶּה דְּבָרִים אֲמוּרִים – שֶׁלֹּא יָצְתָה וְחָזְרָה, אֲבָל יָצְתָה וְחָזְרָה – אֵינָהּ נֶאֱמֶנֶת. רַבִּי אֱלִיעֶזֶר אוֹמֵר: הוּחְזְקָה עַל עוֹמְדָּהּ – נֶאֱמֶנֶת, וְאִם לָאו – אֵינָהּ נֶאֱמֶנֶת. מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ דְּאַהְדַּר אַפַּהּ.
+*Translation:* The case of **a midwife** is **as it is taught** in a *baraita*: **A midwife is deemed credible to say** that **this** child **emerged first** from the womb **and that** child **emerged second** from the womb. Her testimony is relied upon to determine which of them is the firstborn. **In what** case **is this statement said? When she has not left** the birthing room **and returned. But if she left** the birthing room **and returned, she is not deemed credible,** since the babies might have been exchanged in the meantime. **Rabbi Eliezer says:** If **she has stood in her place, she is deemed credible. But if not, she is not deemed credible.** The Gemara asks: **What is** the difference **between them?** The Gemara answers: **The difference between them** is in a case **when** the midwife **turned her head** aside after the birth. According to Rabbi Eliezer she is no longer deemed credible, despite having remained in the room.
+
+**11.**
+*Hebrew/Aramaic:* פּוֹטֶרֶת חַבְרוֹתֶיהָ מַאי הִיא? דִּתְנַן: שָׁלֹשׁ נָשִׁים שֶׁהָיוּ יְשֵׁנוֹת בְּמִטָּה אַחַת וְנִמְצָא דָּם תַּחַת אַחַת מֵהֶן – כּוּלָּן טְמֵאוֹת. בָּדְקָה אַחַת מֵהֶן וְנִמְצֵאת טְמֵאָה – הִיא טְמֵאָה, וְכוּלָּן טְהוֹרוֹת. אָמַר רַב חִסְדָּא: שֶׁבָּדְקָה עַצְמָהּ כְּשִׁיעוּר וֶוסֶת.
+*Translation:* **What is** the case of **one who exempts her friends? As we learned** in a mishna (*Nidda* 60b): If there were **three women who were sleeping in one bed, and blood was found beneath one of them, they are all** deemed **impure** as menstruating women, as it is not known from which of them the blood came. If **one of them examined** herself **and was found** to be **impure,** i.e., she saw that she was menstruating, **she is impure and all** the rest **are pure.** With regard to this, **Rav Ḥisda said:** This applies provided **that she examined herself** within the **period of time** needed for the onset of **menstruation,** i.e., immediately after the discovery of the blood. But if she did so even a short while later, her discovery is not accepted as proof with regard to the source of the blood.
+
+**12.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: נֶאֱמֶנֶת חַיָּה לוֹמַר: זֶה כֹּהֵן וְזֶה לֵוִי, זֶה נָתִין וְזֶה מַמְזֵר. בַּמֶּה דְּבָרִים אֲמוּרִים – שֶׁלֹּא קָרָא עָלֶיהָ שֵׁם עַרְעָר, אֲבָל קָרָא עָלֶיהָ עַרְעָר – אֵינָהּ נֶאֱמֶנֶת.
+*Translation:* **The Sages taught:** If several women gave birth at the same time, the **midwife** is **deemed credible to say: This** baby **is a priest and that** baby **is a Levite; this** baby **is a Gibeonite and that** baby **is a *mamzer*.** In other words, she is deemed credible to say which baby was born to which mother. **In what** case **is this statement said? When no objection was registered about it. But if an objection was registered about it, she is not deemed credible.**
+
+**13.**
+*Hebrew/Aramaic:* עַרְעָר דְּמַאי? אִילֵּימָא עַרְעָר חַד, וְהָאָמַר רַבִּי יוֹחָנָן: אֵין עַרְעָר פָּחוֹת מִשְּׁנַיִם! אֶלָּא עַרְעָר תְּרֵי.
+*Translation:* The Gemara clarifies: **An objection of what** type? **If we say** it is **an objection of one** witness claiming that her testimony is not accurate, **but doesn’t Rabbi Yoḥanan say: There is no objection** with **less than two** witnesses? **Rather,** the *baraita* must refer to the **objection of two** witnesses, but she is deemed credible when contradicted by a single witness.
+
+**14.**
+*Hebrew/Aramaic:* וְאִיבָּעֵית אֵימָא: לְעוֹלָם אֵימָא לָךְ עַרְעָר חַד. וְכִי אָמַר רַבִּי יוֹחָנָן אֵין עַרְעָר פָּחוֹת מִשְּׁנַיִם – הָנֵי מִילֵּי הֵיכָא דְּאִיתָא חֲזָקָה דְכַשְׁרוּת, אֲבָל הֵיכָא דְּלֵיכָּא חֲזָקָה דְכַשְׁרוּת – חַד נָמֵי מְהֵימַן.
+*Translation:* **And if you wish, say: Actually, I** could **say to you** that she is not deemed credible even when contradicted by the **objection of one** witness, **and when Rabbi Yoḥanan said** that **there is no objection** with **less than two** witnesses, **that statement** applies **only** in a case **where there is a presumption of validity,** which can be countered only by the objection of two witnesses. **But** in a case **where there is no presumption** of **validity,** such as in this case, when the baby was just born, **one** witness **is also deemed credible** to object.
+
+**15.**
+*Hebrew/Aramaic:* נֶאֱמָן בַּעַל מִקָּח לוֹמַר: לָזֶה מָכַרְתִּי, וְלָזֶה אֵין מָכַרְתִּי. בַּמֶּה דְּבָרִים אֲמוּרִים – בִּזְמַן שֶׁמִּקָּחוֹ בְּיָדוֹ, אֲבָל אֵין מִקָּחוֹ בְּיָדוֹ – אֵינוֹ נֶאֱמָן.
+*Translation:* Similarly, if the **owner of** an item being **purchased** is confronted by two people, each claiming to have purchased the item, he is **deemed credible to say: I sold to this** one, **and I did not sell to that** one. **In what** case **is this statement said? When the** item being **purchased is** still **in** the seller’s **possession. But if the** item being **purchased is not in his possession, he is not deemed credible** any more than a single witness is.

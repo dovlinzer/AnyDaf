@@ -63,3 +63,56 @@
 **16.**
 *Hebrew/Aramaic:* אָמַר רַב אָשֵׁי: הָכִי הַשְׁתָּא? הָתָם
 *Translation:* **Rav Ashi said** in response: **How can** these cases **be compared** to the case of covering the blood? **There,** with regard to a shofar and *lulav* of idol worship, although the use of such items for a mitzva does not constitute benefit, one cannot fulfill his obligation with them, because
+
+
+---
+
+### Hullin 89b
+
+**1.**
+*Hebrew/Aramaic:* שִׁיעוּרָא בָּעֵינַן, וַעֲבוֹדָה זָרָה כַּתּוֹתֵי מְכַתַּת שִׁיעוּרַאּ. הָכָא, כֹּל מָה דִּמְכַתַּת מְעַלֵּי לְכִסּוּי.
+*Translation:* **we require** a minimum **measure** in order to fulfill these mitzvot. A shofar must be large enough that, when grasped, part of it protrudes from both sides of one’s hand, and a *lulav* must be at least four handbreadths long. **And** since an object of **idol worship** and its effects must be burned, **its size** as required for the mitzva **is seen** by *halakha* **as crushed** into powder. Since a *shofar* or *lulav* of idol worship is destined for burning, it is considered as if it is already burned, and it therefore lacks the requisite measurement for fulfilling the mitzva. By contrast, **here,** with regard to the ashes used to perform the mitzva of covering the blood, no minimum measure is required to fulfill the mitzva; in fact, **the more** the ash **is crushed, the better it is for** the mitzva of **covering** the blood.
+
+**2.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ כִּסּוּי הַדָּם.
+*Translation:* 
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִי׳ גִּיד הַנָּשֶׁה נוֹהֵג בָּאָרֶץ וּבְחוּצָה לָאָרֶץ, בִּפְנֵי הַבַּיִת וְשֶׁלֹּא בִּפְנֵי הַבַּיִת, בַּחוּלִּין וּבַמּוּקְדָּשִׁין, וְנוֹהֵג בִּבְהֵמָה וּבְחַיָּה, בְּיָרֵךְ שֶׁל יָמִין וּבְיָרֵךְ שֶׁל שְׂמֹאל, וְאֵינוֹ נוֹהֵג בָּעוֹף – מִפְּנֵי שֶׁאֵין לוֹ כַּף.
+*Translation:* MISHNA: The prohibition of eating **the sciatic nerve applies** both **in Eretz** Yisrael **and outside of Eretz** Yisrael, **in the presence of,** i.e., the time of, **the Temple and not in the presence of the Temple,** and **with regard to non-sacred** animals **and with regard to sacrificial** animals. **And it applies to domesticated animals and to undomesticated animals, to** the **thigh of the right** leg **and to** the **thigh of the left** leg. **But it does not apply to a bird, due to** the fact **that** the verse makes reference to the sciatic nerve as being “upon the spoon of the thigh” (Genesis 32:33), and a bird **has no spoon** of the thigh.
+
+**4.**
+*Hebrew/Aramaic:* וְנוֹהֵג בַּשְּׁלִיל. רַבִּי יְהוּדָה אוֹמֵר: אֵינוֹ נוֹהֵג בַּשְּׁלִיל, וְחֶלְבּוֹ מוּתָּר.
+*Translation:* And the prohibition **applies to** a late-term animal **fetus [*shalil*]** in the womb. **Rabbi Yehuda says: It does not apply to a fetus; and** similarly, **its fat is permitted.**
+
+**5.**
+*Hebrew/Aramaic:* וְאֵין הַטַּבָּחִין נֶאֱמָנִין עַל גִּיד הַנָּשֶׁה, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים: נֶאֱמָנִין עָלָיו וְעַל הַחֵלֶב.
+*Translation:* **And butchers are not deemed credible** to say that **the sciatic nerve** was removed; this is **the statement of Rabbi Meir. And the Rabbis say: They are deemed credible about** the sciatic nerve **and about the** forbidden **fat.**
+
+**6.**
+*Hebrew/Aramaic:* גְּמָ׳ מוּקְדָּשִׁין – פְּשִׁיטָא! מִשּׁוּם דְּאַקְדְּשֵׁיהּ פְּקַע לֵיהּ אִיסּוּר גִּיד מִינֵּיהּ?
+*Translation:* GEMARA: The mishna teaches that the prohibition of eating the sciatic nerve applies to both non-sacred animals and sacrificial animals. The Gemara asks: Is it not **obvious** that the prohibition applies to **sacrificial** animals? Would it be reasonable to suggest that **because one consecrated it, he has abrogated the prohibition of** eating the sciatic **nerve from it?**
+
+**7.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא יֵשׁ בְּגִידִין בְּנוֹתֵן טַעַם, וְאָתֵי אִיסּוּר מוּקְדָּשִׁין וְחָיֵיל אַאִיסּוּר גִּיד, הַאי ״מוּקְדָּשִׁין נוֹהֵג בְּגִיד״ מִיבְּעֵי לֵיהּ. אֶלָּא קָסָבַר אֵין בְּגִידִין בְּנוֹתֵן טַעַם, וּבְמוּקְדָּשִׁין אִיסּוּר גִּיד אִיכָּא, אִיסּוּר מוּקְדָּשִׁין לֵיכָּא.
+*Translation:* **And if you would say** that sciatic **nerves have** the ability to **impart flavor,** i.e., they possess flavor, **and** the mishna is teaching that **the prohibition of** eating meat of **sacrificial** animals **comes and takes effect upon** the sciatic nerve despite the fact that it is already subject to the **prohibition of** eating the sciatic **nerve,** the mishna **should have** stated: The prohibition of eating meat of **sacrificial** animals **applies to the** sciatic **nerve.** The Gemara suggests: **Rather,** the *tanna* of the mishna **holds** that the sciatic **nerve does not have** the ability to **impart flavor, and** the mishna is teaching that **with regard to sacrificial** animals **there is a prohibition** of eating the sciatic **nerve** but **there is no** additional **prohibition** of eating the meat of **a sacrificial** animal.
+
+**8.**
+*Hebrew/Aramaic:* וְסָבַר תַּנָּא דִּידַן אֵין בְּגִידִין בְּנוֹתֵן טַעַם? וְהָתְנַן: יָרֵךְ שֶׁנִּתְבַּשֵּׁל בָּהּ גִּיד הַנָּשֶׁה, אִם יֵשׁ בָּהּ בְּנוֹתֵן טַעַם – הֲרֵי זוֹ אֲסוּרָה!
+*Translation:* The Gemara challenges this explanation: **And** does **the *tanna* of our** mishna **hold** that the sciatic **nerve does not have** the ability to **impart flavor? But didn’t we learn** in a mishna (96b): In the case of **a thigh that was cooked** with **the sciatic nerve in it, if there is** enough of the sciatic nerve **in** the thigh to **impart** its **flavor** to the meat, the entire thigh **is forbidden?** Consequently, it is clear that the *tanna* of the mishna holds that the sciatic nerve does possess flavor.
+
+**9.**
+*Hebrew/Aramaic:* אֶלָּא, הָכָא בְּוַלְדוֹת קָדָשִׁים עָסְקִינַן, וְקָסָבַר נוֹהֵג בַּשְּׁלִיל, וְקָסָבַר וַלְדוֹת קָדָשִׁים בִּמְעֵי אִמָּן הֵן קְדוֹשִׁים, דְּאִיסּוּר גִּיד וְאִיסּוּר מוּקְדָּשִׁין בַּהֲדֵי הֲדָדֵי קָאָתֵי.
+*Translation:* **Rather,** in the mishna **here we are dealing with offspring of sacrificial** animals. **And** the *tanna* **holds** that the prohibition of eating the sciatic nerve **applies with regard to a fetus, and** he also **holds** that the **offspring of sacrificial** animals **are consecrated** even while they are **in the womb of their mother.** Consequently, the **prohibition of** eating the sciatic **nerve and the prohibition of** eating **sacrificial** animals **come** into effect **at the same time,** and therefore both prohibitions apply and one does not say that a prohibition does not take effect where another prohibition already exists.
+
+**10.**
+*Hebrew/Aramaic:* וּמִי מָצֵית מוֹקְמַתְּ לַהּ בִּשְׁלִיל, וְהָא מִדְּקָתָנֵי סֵיפָא ״נוֹהֵג בַּשְּׁלִיל״, מִכְּלָל דְּרֵישָׁא לָאו בִּשְׁלִיל עָסְקִינַן! הָכִי קָאָמַר: דָּבָר זֶה מַחְלוֹקֶת דְּרַבִּי יְהוּדָה וְרַבָּנַן.
+*Translation:* The Gemara challenges this explanation: **Can you interpret** this clause of the mishna as referring **to a fetus? From** the fact **that the latter clause teaches: It applies to** a late-term **fetus,** and Rabbi Yehuda holds that it does not apply to a late-term fetus, **it may be inferred that** in **the first** clause **we are not dealing with a fetus.** The Gemara explains: **This** is what the *tanna* of the mishna **is saying: This matter** that was taught in the first clause **is** a matter of **dispute** between **Rabbi Yehuda and the Rabbis.**
+
+**11.**
+*Hebrew/Aramaic:* וּמִי מָצֵית אָמְרַתְּ דְּתַרְוַיְיהוּ בַּהֲדֵי הֲדָדֵי קָאָתוּ? וְהָתְנַן: עַל אֵלּוּ טוּמְאוֹת הַנָּזִיר מְגַלֵּחַ, עַל הַמֵּת וְעַל כְּזַיִת מִן הַמֵּת.
+*Translation:* The Gemara again challenges the explanation that the first clause of the mishna is referring to a fetus: **And how can you say that both** prohibitions **come** into effect **at the same time? But didn’t we learn** in a mishna (*Nazir* 49b): **A nazirite shaves for** having become impure from **these** sources of **ritual impurity: For** impurity imparted by **a corpse and for** impurity imparted by **an olive-bulk of a corpse.**
+
+**12.**
+*Hebrew/Aramaic:* וְקַשְׁיָא לַן: עַל כְּזַיִת מִן הַמֵּת מְגַלֵּחַ, עַל כּוּלּוֹ לֹא כׇּל שֶׁכֵּן? וְאָמַר רַבִּי יוֹחָנָן: לֹא נִצְרְכָה אֶלָּא לְנֵפֶל שֶׁלֹּא (נקשרו) [נִתְקַשְּׁרוּ] אֵבָרָיו בְּגִידִין.
+*Translation:* **And** the clause: For impurity imparted by a corpse, is **difficult for us,** as it seems unnecessary; if a nazirite **must shave for** impurity imparted by **an olive-bulk of a corpse,** is it **not all the more so** true that he must shave **for** impurity imparted by **an entire** corpse? **And Rabbi Yoḥanan says:** It is **necessary only for a miscarried** human **fetus whose limbs had not** yet **become joined to** its **sinews.** Since the spine is complete the fetus is considered a full corpse, but as the limbs have not yet joined to the sinews it does not contain an olive-bulk of flesh.

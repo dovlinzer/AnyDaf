@@ -1,0 +1,37 @@
+### Nedarim 23a
+
+**1.**
+*Hebrew/Aramaic:* וַהֲווֹ מִצְטַעֲרִי רַבָּנַן מִשִּׁימְשָׁא לְטוּלָּא וּמִטּוּלָּא לְשִׁימְשָׁא.
+*Translation:* **and the Sages were troubled** by the fact that they could not dissolve the vow. They spent an extended period of time attempting to do so. During this time, they moved **from** a location with light from the **sun to** one with **shade, and** then moved again **from** the **shade** back **to** the **sun.**
+
+**2.**
+*Hebrew/Aramaic:* (לִישָּׁנָא אַחֲרָא: אַדַּעְתָּא דְּהָכִי? אִין. כַּמָּה זִימְנִין, וַהֲווֹ מִצְטַעֲרִי רַבָּנַן מִשִּׁימְשָׁא לְטוּלָּא וּמִטּוּלָּא לְשִׁימְשָׁא.)
+*Translation:* The Gemara cites **another version** of the incident: They asked him: Did you vow **with knowledge of this** particular fact when you vowed? He said to them: **Yes.** This occurred **several times and the Sages were troubled** with this problem for an extended period of time, during which they moved **from** the **sun to** the **shade and from** the **shade to** the **sun,** but they did not find a solution.
+
+**3.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ בָּטְנִית בְּרֵיהּ דְּאַבָּא שָׁאוּל בֶּן בָּטְנִית: מִי נְדַרְתְּ אַדַּעְתָּא דְּמִצְטַעֲרִי רַבָּנַן מִטּוּלָּא לְשִׁימְשָׁא וּמִשִּׁימְשָׁא לְטוּלָּא? אֲמַר: לָא, וְשַׁרְיוּהּ.
+*Translation:* **Botnit, son of Abba Shaul ben Botnit, said to him: Would you have vowed with** the **knowledge that the Sages would be troubled** even to the point of going **from shade to sun and from sun to shade? He said: No, and they dissolved it.**
+
+**4.**
+*Hebrew/Aramaic:* רַבִּי יִשְׁמָעֵאל בַּר רַבִּי יוֹסֵי הֲוָה לֵיהּ נִדְרָא לְמִישְׁרֵא. אֲתָא לְקַמַּיְיהוּ דְּרַבָּנַן, אָמְרוּ לֵיהּ: נְדַרְתְּ אַדַּעְתָּא דְּהָכִי? אֲמַר לְהוּ: אִין. נְדַרְתָּא אַדַּעְתָּא דְּהָכִי? אֲמַר לְהוּ: אִין. כַּמָּה זִימְנִין. כֵּיוָן דַּחֲזָא הָהוּא קַצָּרָא דְּמִצְטַעֲרִי רַבָּנַן, מַחְיֵיהּ בְּאוּכְלָא דְקַצָּרֵי. אֲמַר: אַדַּעְתָּא דְּמָחֵי לִי קַצָּרָא לָא נְדַרִי, וְשַׁרְיֵהּ לְנַפְשֵׁיהּ.
+*Translation:* The Gemara relates another incident: **Rabbi Yishmael bar Rabbi Yosei had a vow to dissolve. He came before the Sages. They said to him: Did you vow with knowledge of this** particular fact? **He said to them: Yes.** They asked again: **Did you vow with knowledge of this** other fact? **He said to them: Yes.** This occurred **several times. When a certain launderer saw that the Sages were troubled** because Rabbi Yishmael caused them difficulty in successfully dissolving his vow, **he hit** Rabbi Yishmael **with a launderer’s tool** that he had in his hand. Rabbi Yishmael **said: Had I known that** the **launderer would hit me** due to my vow **I would not have vowed, and he dissolved it.**
+
+**5.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אַחָא מִדִּיפְתִּי לְרָבִינָא: הַאי נוֹלָד הוּא, דְּלָא מַסֵּיק אַדַּעְתָּא דְּמָחֵי לֵיהּ קַצָּרָא. וּתְנֵינָא: אֵין פּוֹתְחִין לוֹ בַּנּוֹלָד! אֲמַר לֵיהּ: הַאי לָאו נוֹלָד הוּא, דִּשְׁכִיחִי אַפִּיקוֹרֵי דִּמְצַעֲרִי רַבָּנַן.
+*Translation:* **Rav Aḥa of Difti said to Ravina: This is** a case of **a new situation,** which is not included among those matters that he could have considered at the time of the vow, **because it would not enter** his **mind that** the **launderer would hit him. And we** already **learned: We do not broach dissolution with** a person **using a new situation** that did not exist at the time of the vow. Ravina **said to him: This is not a new situation** that he could not have thought of previously, **since it is common** to find **heretics [*appikurei*] who** deny fundamental Torah principles and **who trouble the Sages.** Although he would not have considered the possibility that this launderer would attack him, he may have considered the possibility that some heretic would. Therefore, it was permitted to broach dissolution in this manner.
+
+**6.**
+*Hebrew/Aramaic:* דְּבֵיתְהוּ דְּאַבָּיֵי הֲוָה לַהּ הָהִיא בְּרַתָּא. הוּא אָמַר: לְקָרִיבַאי. הִיא אָמְרָה: לְקָרִיבַהּ. אֲמַר לַהּ: תִּיתְּסַר הֲנָאָתִי עֲלָךְ אִי עָבְרַתְּ אַדַּעְתַּאי וּמַינְסְּבַת לַהּ לְקָרִיבָךְ. אֲזַלַת וַעֲבַרַת עַל דַּעְתֵּיהּ וְאִינַּסְבָא לְקָרִיבַהּ. אֲתָא לְקַמֵּיהּ דְּרַב יוֹסֵף. אֲמַר לֵיהּ: אִילּוּ הֲוָה יָדְעַתְּ דַּעֲבַרַת עַל דַּעְתָּךְ וּמַנְסְבָא לַהּ לְקָרִיבַהּ מִי אַדַּרְתַּהּ? אֲמַר: לָא. וְשַׁרְיֵיהּ רַב יוֹסֵף.
+*Translation:* § **The wife of Abaye had a certain daughter.** Abaye **said:** She should get married **to my relative.** His wife **said** that she should get married **to her relative. He said to** his wife: **Benefit from me should be forbidden to you, if you defy my will and marry her to your relative. She went and defied his will and married her to her relative.** Abaye **came before Rav Yosef.** Rav Yosef **said to him: If you had known that she would** ultimately **defy your will and marry her to her relative, would you have made the vow? He said: No. And Rav Yosef dissolved** the vow **for him** because Abaye did not think that his wife would actually defy him, and he intended the vow only to serve as a threat.
+
+**7.**
+*Hebrew/Aramaic:* וּמִי שְׁרֵי כִּי הַאי גַּוְונָא? אִין, וְהָתַנְיָא: מַעֲשֶׂה בְּאָדָם אֶחָד שֶׁהִדִּיר אֶת אִשְׁתּוֹ מִלַּעֲלוֹת לָרֶגֶל, וְעָבְרָה עַל דַּעְתּוֹ וְעָלְתָה לָרֶגֶל, וּבָא לִפְנֵי רַבִּי יוֹסֵי. אָמַר לוֹ: וְאִילּוּ הָיִיתָ יוֹדֵעַ שֶׁעוֹבֶרֶת עַל דַּעְתְּךָ וְעוֹלָה לָרֶגֶל כְּלוּם הִדַּרְתָּהּ? אָמַר לוֹ: לֹא, וְהִתִּירוֹ רַבִּי יוֹסֵי.
+*Translation:* The Gemara asks: **And is it dissolved in a case like this,** where the vow was dependent on the daughter not marrying the wife’s relative? The Gemara answers: **Yes, and it is taught** in the *Tosefta* (5:1): There was **an incident involving one man who vowed,** prohibiting **his wife** from benefiting from him if she were **to ascend to** Jerusalem for **the pilgrimage Festival, and she defied his will and ascended to** Jerusalem for **the pilgrimage Festival. And** when **he came before Rabbi Yosei** to request dissolution, Rabbi Yosei **said to him: And had you known that she would defy your will and ascend to** Jerusalem **on the pilgrimage Festival, would you have vowed at all? He said to him: No, and Rabbi Yosei dissolved it.** This incident indicates that it is permitted to dissolve a vow with such an opening.
+
+**8.**
+*Hebrew/Aramaic:* מַתְנִי׳ רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר: אַף הָרוֹצֶה לְהַדִּיר אֶת חֲבֵירוֹ שֶׁיֹּאכַל אֶצְלוֹ, יֹאמַר לוֹ: ״כׇּל נֶדֶר שֶׁאֲנִי עָתִיד לִידּוֹר הוּא בָּטֵל״, וּבִלְבַד שֶׁיְּהֵא זָכוּר בִּשְׁעַת הַנֶּדֶר.
+*Translation:* MISHNA: **Rabbi Eliezer ben Ya’akov says: Even one who wants to take a vow** prohibiting **another** from benefiting from him, but only in order **that he should eat with him,** not intending to take an actual vow, **should say to him** at the outset: **Any vow that I take in the future is void. And** this statement is effective, **provided that he remembers at the time of the vow** that his intent at the beginning of the year was to render it void.
+
+**9.**
+*Hebrew/Aramaic:* גְּמָ׳ וְכֵיוָן דְּאָמַר ״כׇּל נֶדֶר שֶׁאֲנִי עָתִיד לִידּוֹר יְהֵא בָּטֵל״, לָא שָׁמַע לֵיהּ וְלָא אָתֵי בַּהֲדֵיהּ?
+*Translation:* GEMARA: With regard to Rabbi Eliezer ben Ya’akov’s proposal, the Gemara asks: **And since he said: Any vow that I take in the future should be void,** the one being invited **will not listen to him and will not come** to eat **with him,** since he already knows that the vow is not valid. That being the case, why would the first individual take a vow at all?

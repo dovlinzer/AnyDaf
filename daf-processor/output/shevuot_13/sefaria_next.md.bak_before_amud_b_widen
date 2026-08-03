@@ -1,0 +1,65 @@
+### Shevuot 14a
+
+**1.**
+*Hebrew/Aramaic:* בְּטוּמְאַת מִקְדָּשׁ וְקָדָשָׁיו. בַּמָּה הֵם מִתְכַּפְּרִין? מוּטָב שֶׁיִּתְכַּפְּרוּ בְּפָרוֹ שֶׁל אַהֲרֹן, שֶׁהֲרֵי הוּתַּר מִכְּלָלוֹ אֵצֶל בֵּיתוֹ; וְאַל יִתְכַּפְּרוּ בְּשָׂעִיר הַנַּעֲשֶׂה בִּפְנִים, שֶׁהֲרֵי לֹא הוּתַּר מִכְּלָלוֹ.
+*Translation:* **for** their **defiling of** the **Temple or its sacrificial** foods. **Through which** means, then, **do they achieve atonement** for this? Is it through the internal goat or the bull of Aaron? It is **better** to say **that they achieve atonement through the bull of Aaron, as** in any event **with regard to his household an exception was made to its rule** that it atones only for Aaron. **And** one should **not** say that **they achieve atonement through the goat whose** blood presentation is **performed inside** the Sanctuary, **as it is not** found that with regard to Aaron’s household **an exception was made to its rule.**
+
+**2.**
+*Hebrew/Aramaic:* וְאִם נַפְשְׁךָ לוֹמַר – הֲרֵי הוּא אוֹמֵר: ״בֵּית אַהֲרֹן בָּרְכוּ אֶת ה׳ וְגוֹ׳״.
+*Translation:* **And if it is your wish to say** that this reasoning can be refuted, one can bring another proof, as **it states: “House of Aaron, bless the Lord,”** which is referring to all priests and not just to Aaron’s immediate household, and so it is reasonable that Aaron’s bull should atone for them.
+
+**3.**
+*Hebrew/Aramaic:* וּמַאי ״אִם נַפְשְׁךָ לוֹמַר״? וְכִי תֵּימָא ״בֵּיתוֹ״ כְּתִיב – כּוּלָּן קְרוּיִין ״בֵּיתוֹ״, שֶׁנֶּאֱמַר: ״בֵּית אַהֲרֹן בָּרְכוּ אֶת ה׳, יִרְאֵי ה׳ בָּרְכוּ אֶת ה׳״.
+*Translation:* The Gemara clarifies the last part of the *baraita*: **And what** possible refutation is the *baraita* referring to when it says: **If it is your wish to say** that this reasoning can be refuted? The Gemara explains: **And if you would say** of the preceding proof that it is incorrect to suggest that all priests achieve atonement from the bull of Aaron, as with regard to it the term: **“His household”** (Leviticus 16:6), **is written,** which suggests that it atones only for his immediate family, then this can be refuted, as **all of** the priests **are** collectively **referred to as his household,** as is evident from **that** which **is stated: “House of Aaron, bless the Lord;** house of Levi, bless the Lord, **those who fear the Lord, bless the Lord.”**
+
+**4.**
+*Hebrew/Aramaic:* וְהַאי ״אֲשֶׁר לָעָם״ לְהָכִי הוּא דַּאֲתָא?! הַאי מִיבְּעֵי לֵיהּ דְּקָאָמַר רַחֲמָנָא: מִדְּעַם לֶיהֱוֵי! הָהוּא מִ״וּמֵאֵת עֲדַת בְּנֵי יִשְׂרָאֵל״ נָפְקָא.
+*Translation:* The Gemara questions some of the expositions of the *baraita*: **And** with regard to **this** phrase: “Goat **of the people”** (Leviticus 16:15), **does it come to** teach **that** which the *baraita* teaches, i.e., that the priests do not achieve atonement through it? But **that** phrase **is necessary** to teach **that the Merciful One states** that the goat **must be** purchased with funds collected **from** the **people.** The Gemara refutes this: **That** requirement **is derived from** the verse: **“And from the assembly of the children of Israel** he shall take two goats” (Leviticus 16:5).
+
+**5.**
+*Hebrew/Aramaic:* וְהַאי ״אֲשֶׁר לוֹ״ – לְהָכִי הוּא דַּאֲתָא?! הַאי מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: מִשֶּׁלּוֹ הוּא מֵבִיא, וְאֵינוֹ מֵבִיא מִשֶּׁל צִבּוּר.
+*Translation:* The Gemara asks further: **And** with regard to **this** phrase: **“His own** bull sin-offering” (Leviticus 16:6), **does it come to** teach **that** which the *baraita* teaches, i.e., that it atones only for Aaron’s transgressions, not for the transgressions of others? But **that** phrase **is necessary for that which is taught** in a *baraita*: The High Priest **brings,** i.e., purchases, the bull **from his own** funds, **but he does not bring it from** funds collected **from the public.**
+
+**6.**
+*Hebrew/Aramaic:* יָכוֹל לֹא יָבִיא מִשֶּׁל צִבּוּר, שֶׁאֵין הַצִּבּוּר מִתְכַּפְּרִין בּוֹ; אֲבָל יָבִיא מִשֶּׁל אֶחָיו הַכֹּהֲנִים, שֶׁאֶחָיו הַכֹּהֲנִים מִתְכַּפְּרִין בּוֹ? תַּלְמוּד לוֹמַר: ״אֲשֶׁר לוֹ״. יָכוֹל לֹא יָבִיא, וְאִם הֵבִיא כָּשֵׁר? תַּלְמוּד לוֹמַר שׁוּב ״אֲשֶׁר לוֹ״ – הַכָּתוּב שָׁנָה עָלָיו לְעַכֵּב.
+*Translation:* One **might** have thought that **he does not bring it from** funds collected **from the public because the public does not achieve atonement through it, but he may bring** it **from** funds belonging to **his brethren the priests because his brethren the priests achieve atonement through it.** To counter this, **the verse states: “His own** bull sin-offering,” to indicate that he must purchase it using only his own funds. One **might** have thought that **he should not bring** it from others’ funds, **but** nevertheless, **if he did** it would still be **valid.** To counter this, **the verse again states “his own.” The verse repeats** the phrase **to render** the requirement **essential.**
+
+**7.**
+*Hebrew/Aramaic:* תַּנָּא הָכִי קָא קַשְׁיָא לֵיהּ: מַאי שְׁנָא בִּדְעַם – דְּלָא מִכַּפְּרִי, דְּלָא קָא חָסְרִי בֵּיהּ מָמוֹנָא, דִּכְתִיב ״אֲשֶׁר לָעָם״; בִּדְאַהֲרֹן נָמֵי לָא קָא חָסְרִי בֵּיהּ מָמוֹנָא! וְקָאָמַר: כּוּלָּן קְרוּיִין ״בֵּיתוֹ״.
+*Translation:* If both mentions of the phrase “his own” are necessary to teach about the ownership of the bull, how can the above *baraita* suggest that the phrase indicates that the bull atones only for the High Priest’s transgressions? The Gemara explains: **This is what** is **difficult for the *tanna*** of the *baraita*: **What is different about** the goat **of the people that** explains why **it does not atone** for the priests? The difference is **that** the priests **did not forfeit** any **money over** the purchase of **it.** Therefore, it does not atone for the priests, but only for the Israelites, **as it is written** with regard to the internal goat: **“Of the people.” With regard to** the bull **of Aaron as well,** the priests **do not forfeit** any **money over** the purchase of **it,** so it follows that they should not achieve atonement through it. **And** therefore, to explain why they do achieve atonement, the *baraita* **states** that **all of** the priests **are** collectively **referred to as: His household.**
+
+**8.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְרַבִּי שִׁמְעוֹן, הַיְינוּ דִּכְתִיב תְּרֵי וִידּוּיִן וְדַם הַפָּר, חַד כְּנֶגֶד שָׂעִיר הַנַּעֲשֶׂה בִּפְנִים, וְחַד כְּנֶגֶד שָׂעִיר הַנַּעֲשֶׂה בַּחוּץ, וְחַד כְּנֶגֶד שָׂעִיר הַמִּשְׁתַּלֵּחַ;
+*Translation:* § The Gemara returns to its discussion of the dispute between Rabbi Yehuda and Rabbi Shimon. The Gemara asks: **Granted, according to Rabbi Shimon,** who holds that the priests do not achieve atonement through the scapegoat, **that is** why **it is written** in the Torah that **two confessions** are to be recited over the bull **and** that the **blood of the bull** is to be presented inside the Sanctuary: Of these three forms of atonement, **one corresponds to** the atonement provided by the **goat whose** blood presentation is **performed inside** the Sanctuary, **one corresponds to** the atonement provided by the **goat whose** blood presentation is **performed outside** the Sanctuary, **and one corresponds to** the atonement provided by **the scapegoat.**
+
+**9.**
+*Hebrew/Aramaic:* אֶלָּא לְרַבִּי יְהוּדָה, תְּרֵי וִידּוּיִן וְדַם הַפָּר לְמָה לִי? בְּחַד וִידּוּי וְדָמוֹ סַגְיָא!
+*Translation:* **But according to Rabbi Yehuda,** who holds that the priests do achieve atonement through the scapegoat, **why do I** need the **two confessions** recited over the bull **and** the **blood of the bull** to be presented inside the Sanctuary? **One confession** over the bull **and its blood** being presented inside the Sanctuary **would be sufficient.**
+
+**10.**
+*Hebrew/Aramaic:* אֶחָד לוֹ, וְאֶחָד לְבֵיתוֹ. כִּדְתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: כָּךְ הִיא מִדַּת הַדִּין נוֹהֶגֶת: מוּטָב יָבוֹא זַכַּאי וִיכַפֵּר עַל הַחַיָּיב, וְאַל יָבוֹא חַיָּיב וִיכַפֵּר עַל הַחַיָּיב.
+*Translation:* The Gemara answers: Two confessions are necessary, **one for** the High Priest **himself, and one for his household,** i.e., the priests, **as the school of Rabbi Yishmael taught:** The High Priest must first confess his own transgressions and only afterward those of the priests, because **that is** how **the attribute of justice functions:** It is **better that the innocent come and atone for the guilty, than** that **the guilty come and atone for the guilty.** When the High Priest confesses the transgressions of those in his house, it is better that he already be considered innocent, having confessed and been absolved of his own transgressions.
+
+**11.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ שְׁבוּעוֹת שְׁתַּיִם
+*Translation:* 
+
+**12.**
+*Hebrew/Aramaic:* מַתְנִי׳ יְדִיעוֹת הַטּוּמְאָה שְׁתַּיִם שֶׁהֵן אַרְבַּע: נִטְמָא וְיָדַע, וְנֶעֶלְמָה מִמֶּנּוּ הַטּוּמְאָה וְזָכוּר אֶת הַקֹּדֶשׁ;
+*Translation:* MISHNA: With regard to cases of **awareness of the defiling** of the Temple by entering it while one is ritually impure, or defiling its sacrificial foods by partaking of them while one is ritually impure, there are **two** types **that are** actually **four.** How so? If **one became ritually impure and he was aware** that he was impure, **but** afterward his **impurity was hidden from him, though he remembered** that he was partaking of **sacrificial** food, which is forbidden to one who is in a state of ritual impurity; this is one of the four types of awareness of impurity.
+
+**13.**
+*Hebrew/Aramaic:* נֶעְלַם מִמֶּנּוּ הַקֹּדֶשׁ וְזָכוּר אֶת הַטּוּמְאָה; נֶעֶלְמוּ מִמֶּנּוּ זֶה וָזֶה; וְאָכַל אֶת הַקֹּדֶשׁ וְלֹא יָדַע, וּמִשֶּׁאָכַל יָדַע – הֲרֵי זֶה בְּעוֹלֶה וְיוֹרֵד.
+*Translation:* If the fact that he was partaking of **sacrificial** food **was hidden from him, though he remembered the ritual impurity** that he had contracted; this is the second of the four types of awareness of impurity. And the same *halakha* applies if both **this and that were hidden from him,** both the fact that he was impure and the fact that he was partaking of sacrificial food. In all these cases, if **he partook of the sacrificial** food **and was unaware** either that he was impure, or that the food was sacrificial food, or both, **and after he partook of** it **he became aware** of that which he had forgotten, **he is** required to bring **a sliding-scale** offering. In this type of offering, the sinner sacrifices an animal, bird, or meal-offering, depending on his financial status.
+
+**14.**
+*Hebrew/Aramaic:* נִטְמָא וְיָדַע, וְנֶעֶלְמָה מִמֶּנּוּ טוּמְאָה וְזָכוּר אֶת הַמִּקְדָּשׁ; נֶעְלַם מִמֶּנּוּ מִקְדָּשׁ וְזָכוּר אֶת הַטּוּמְאָה; נֶעְלַם מִמֶּנּוּ זֶה וָזֶה; וְנִכְנַס לַמִּקְדָּשׁ וְלֹא יָדַע, וּמִשֶּׁיָּצָא יָדַע – הֲרֵי זֶה בְּעוֹלֶה וְיוֹרֵד.
+*Translation:* And similarly with regard to entering the Temple: If **one became ritually impure and he was aware** that he was impure, **but** afterward his **impurity was hidden from him,** though **he remembered** that he was entering **the Temple,** which is prohibited for one who is in a state of ritual impurity; this is the third of the four types of awareness of impurity. If the fact that he was entering **the Temple was hidden from him,** though **he remembered the ritual impurity** that he had contracted; this is the fourth type of awareness of impurity. And the same *halakha* applies if both **this and that were hidden from him,** both the fact that he was impure and the fact that he was entering the Temple. In all these cases, if **he entered the Temple and was unaware** either that he was impure, or that he was entering the Temple, or both, **and after he left he became aware** of what was hidden from him, **he is** required to bring **a sliding-scale** offering.
+
+**15.**
+*Hebrew/Aramaic:* אֶחָד הַנִּכְנָס לָעֲזָרָה וְאֶחָד הַנִּכְנָס לְתוֹסֶפֶת הָעֲזָרָה, שֶׁאֵין מוֹסִיפִין עַל הָעִיר וְעַל הָעֲזָרוֹת אֶלָּא בְּמֶלֶךְ וְנָבִיא וְאוּרִים וְתוּמִּים וְסַנְהֶדְרִין שֶׁל שִׁבְעִים וְאֶחָד, וּבִשְׁתֵּי תּוֹדוֹת וּבְשִׁיר.
+*Translation:* As for the boundaries of the Temple with regard to the *halakhot* of impurity, **the same** *halakha* applies to **one who enters the** area that was part of the original Temple **courtyard and** to **one who enters the** later **addition to the** Temple **courtyard,** because the additional section is sanctified with the full sanctity of the Temple courtyard. The mishna notes: **As, additions can be made to the city** of Jerusalem **or to the** Temple **courtyards only by** a special body comprising the **king, a prophet, the *Urim VeTummim*, and the Sanhedrin of seventy-one** judges, **and with two thanks-offerings and with** a special **song.** Once the addition to the courtyard is made by this body and this process, it is given the full sanctity of the original courtyard area.
+
+**16.**
+*Hebrew/Aramaic:* וּבֵית דִּין מְהַלְּכִין, וּשְׁתֵּי תּוֹדוֹת אַחֲרֵיהֶן, וְכׇל יִשְׂרָאֵל אַחֲרֵיהֶם.
+*Translation:* The mishna provides certain details of the consecration ceremony. **And the court** would **move** forward, **and two thanks-offerings** would be brought **after them, and all of the Jewish people** would follow **behind them.**

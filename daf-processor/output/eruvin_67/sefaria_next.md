@@ -59,3 +59,80 @@
 **15.**
 *Hebrew/Aramaic:* וְאִי לָא סָבַר לַהּ מָר כִּשְׁמוּאֵל
 *Translation:* Ravina then asked Rava: **But if the Master does not hold in accordance with** the opinion of **Shmuel,**
+
+
+---
+
+### Eruvin 68b
+
+**1.**
+*Hebrew/Aramaic:* נִיתֵּיב מָר בְּדוּכְתֵּיהּ, וְנִיבַטֵּיל לְהוּ לְדִידְהוּ, וְנִיהְדְּרוּ אִינְהוּ וְנִיבַטְּלוּ לֵיהּ לְמָר, דְּהָא אָמַר רַב: מְבַטְּלִין, וְחוֹזְרִין וּמְבַטְּלִין.
+*Translation:* **let the Master remain in his place,** i.e., in the men’s chamber, **and renounce** his rights to his courtyard **in favor** of the residents of the baby’s courtyard, so that they may transfer the water from one courtyard to the other. **And then,** after the water has been moved, **let them renounce** their rights **in favor of the Master,** so that he may once again carry in his courtyard. **As Rav said:** If two people who live in the same courtyard forgot to establish an *eiruv*, one person **may renounce** his rights in favor of the other when he needs it, **and** the second person **may then renounce** his rights in favor of the first when he needs it.
+
+**2.**
+*Hebrew/Aramaic:* אֲנָא בְּהָא כִּשְׁמוּאֵל סְבִירָא לִי, דְּאָמַר: אֵין מְבַטְּלִין וְחוֹזְרִין וּמְבַטְּלִין.
+*Translation:* Rava replied: **In this** regard, **I hold in accordance with** the opinion of **Shmuel, who said: One** person may **not renounce** his rights in favor of the other **and then** subsequently have the second person **renounce** his rights in favor of the first.
+
+**3.**
+*Hebrew/Aramaic:* וְלָאו חַד טַעְמָא הוּא? מַאי טַעְמָא אֵין מְבַטְּלִין וְחוֹזְרִין וּמְבַטְּלִין — לָאו מִשּׁוּם דְּכֵיוָן דְּבַטְּלֵיהּ לִרְשׁוּתֵיהּ, אִסְתַּלַּק לֵיהּ מֵהָכָא לִגְמָרֵי, וְהָוֵה לֵיהּ כְּבֶן חָצֵר אַחֶרֶת, וְאֵין בִּיטּוּל רְשׁוּת מֵחָצֵר לְחָצֵר. מָר נָמֵי, לָא נִיבַטֵּיל.
+*Translation:* Ravina raised a difficulty: **Isn’t the reason** for both *halakhot* **one** and the same? **What is the reason** that **one** may **not renounce** his rights in favor of the other **and then** subsequently have the other **renounce** his rights in favor of the first? **Is it not because** it is assumed that **since he renounced his rights** to the courtyard, it is as if he has **completely removed himself from here, and he is** now considered **like the resident of a different courtyard, and** Shmuel holds that **there is no renouncing of rights from one courtyard to another?** If so, **the Master should likewise not renounce** his rights to his courtyard. If you accept Shmuel’s opinion with regard to subsequent renouncing, you should likewise accept his opinion with regard to renunciation of rights from one courtyard to another.
+
+**4.**
+*Hebrew/Aramaic:* הָתָם הַיְינוּ טַעְמָא: כִּי הֵיכִי דְּלָא לֶיהֱוֵי מִלְּתָא דְּרַבָּנַן כְּחוּכָא וְאִטְלוּלָא.
+*Translation:* Rava responded: That is not Shmuel’s reason for prohibiting subsequent renunciations. **There, this is the rationale** for his opinion: **So that the words of the Sages should not be** a subject **of laughter and mockery.** If it is permitted for one person to renounce his rights in favor of another and then for the second person to renounce his rights in favor of the first, the Sages’ enactment will lose all meaning.
+
+**5.**
+*Hebrew/Aramaic:* גּוּפָא, רַב אָמַר: מְבַטְּלִין וְחוֹזְרִין וּמְבַטְּלִין, וּשְׁמוּאֵל אָמַר: אֵין מְבַטְּלִין וְחוֹזְרִין וּמְבַטְּלִין.
+*Translation:* The Gemara proceeds to examine in greater detail the issue raised in the previous discussion. Returning to **the matter itself, Rav said:** If two people who live in the same courtyard forgot to establish an *eiruv*, one **may renounce** his rights in favor of the other, **and then** the second person **may renounce** his rights in favor of the first. **And Shmuel said: One** may **not renounce** his rights in favor of the other **and then** subsequently have the second person **renounce** his rights in favor of the first.
+
+**6.**
+*Hebrew/Aramaic:* לֵימָא רַב וּשְׁמוּאֵל בִּפְלוּגְתָּא דְּרַבָּנַן וְרַבִּי אֱלִיעֶזֶר קָא מִיפַּלְגִי.
+*Translation:* The Gemara suggests: **Let us say** that **Rav and Shmuel disagree about the** same point of **dispute as the Rabbis and Rabbi Eliezer.** Elsewhere it is taught that Rabbi Eliezer and the Rabbis disagree with regard to the *halakha* in a case where one of the residents of a courtyard forgot to join in the *eiruv*, but subsequently renounced his rights to the courtyard on Shabbat. The dispute revolves around the status of this resident’s house. Rabbi Eliezer holds that it is prohibited for him to carry in and out of his house, while the other residents of the courtyard are permitted to do so. However, the Rabbis hold that the other residents are prohibited from carrying in and out of his house as well.
+
+**7.**
+*Hebrew/Aramaic:* דְּרַב דְּאָמַר כְּרַבָּנַן וּשְׁמוּאֵל דְּאָמַר כְּרַבִּי אֱלִיעֶזֶר.
+*Translation:* The suggestion is **that Rav stated** his ruling **in accordance with** the opinion of **the Rabbis,** who hold that even one who renounces his rights to his courtyard does not renounce his rights to his house. As he has not completely removed himself from the courtyard, the other residents may later go back and renounce their rights in his favor. **And Shmuel stated** his ruling **in accordance with** the opinion of **Rabbi Eliezer.** He maintains that this resident has completely removed himself from the courtyard. Therefore, there is no possibility of others subsequently renouncing their rights in his favor, as he is no longer considered a resident of the courtyard.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר לְךָ רַב, אֲנָא דַּאֲמַרִי אֲפִילּוּ לְרַבִּי אֱלִיעֶזֶר: עַד כָּאן לָא קָאָמַר רַבִּי אֱלִיעֶזֶר הָתָם הַמְּבַטֵּל רְשׁוּת חֲצֵירוֹ — רְשׁוּת בֵּיתוֹ בִּיטֵּל, מִשּׁוּם דִּבְבַיִת בְּלָא חָצֵר לָא דָּיְירִי אִינָשֵׁי. אֲבָל לְעִנְיַן אִיסְתַּלּוֹקֵי, מִי אָמַר?
+*Translation:* The Gemara rejects this comparison: **Rav** could have **said to you: What I said is even in accordance with** the opinion of **Rabbi Eliezer. Rabbi Eliezer stated** his opinion **there,** that **one who renounces his rights to his courtyard** also **renounces his rights to his house, only because people do not live in a house without a courtyard,** and therefore it is evident that he has renounced his rights to his house as well. **However, with regard to** whether or not the person himself is considered entirely **removed** from the courtyard to the extent that the others would be unable to then renounce their rights in his favor, **did he state** this? According to this explanation, it is possible that Rav’s opinion concurs with Rabbi Eliezer’s statement.
+
+**9.**
+*Hebrew/Aramaic:* וּשְׁמוּאֵל אָמַר: אֲנָא דַּאֲמַרִי אֲפִילּוּ כְּרַבָּנַן, עַד כָּאן לָא קָאָמְרִי רַבָּנַן הָתָם אֶלָּא מַאי דְּבַטֵּיל בַּטֵּיל, וּדְלָא בַּטֵּיל לָא בַּטֵּיל. אֲבָל מַאי דְּבַטֵּיל — מִיהָא אִיסְתַּלַּק לִגְמָרֵי.
+*Translation:* **And Shmuel** could have **said: What I said is even in accordance with** the opinion of **the Rabbis. The Rabbis stated** their opinion **only there,** where they ruled: **That which he has renounced,** i.e., his rights to his courtyard, **is renounced; and** that which **he has not renounced,** i.e., his rights in his house, **is not renounced. However,** from **that which he has renounced, he has removed himself completely.** Consequently, all agree that one who renounces his rights to his courtyard is no longer considered a resident of that place.
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַב אַחָא בַּר חָנָא אָמַר רַב שֵׁשֶׁת, כְּתַנָּאֵי: מִי שֶׁנָּתַן רְשׁוּתוֹ, וְהוֹצִיא, בֵּין בְּשׁוֹגֵג בֵּין בְּמֵזִיד — אוֹסֵר, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: בְּמֵזִיד — אוֹסֵר, בְּשׁוֹגֵג — אֵינוֹ אוֹסֵר.
+*Translation:* **Rav Aḥa bar Ḥana said** that **Rav Sheshet said:** This dispute between Rav and Shmuel is **like** an earlier dispute between ***tanna’im*.** We learned elsewhere in a mishna: If **one gave** away **his rights** to his share of the courtyard to the other residents of the courtyard by renouncing them after having forgotten to establish an *eiruv* with the other residents on the previous day, **and** then **he carried** something **out** from his house into the courtyard, **whether** he did so **unwittingly,** forgetting that he had renounced his rights, **or intentionally, he** once again **renders** carrying **prohibited** for all the residents of the courtyard, as his action cancels his renunciation. This is **the statement of Rabbi Meir. Rabbi Yehuda says:** If he did so **intentionally, he renders** carrying **prohibited** for the other residents; but if he did it **unwittingly, he does not render** carrying **prohibited** for them.
+
+**11.**
+*Hebrew/Aramaic:* מַאי לָאו, בְּהָא קָמִיפַּלְגִי: דְּמָר סָבַר מְבַטְּלִין וְחוֹזְרִין וּמְבַטְּלִין, וּמַר סָבַר אֵין מְבַטְּלִין וְחוֹזְרִין וּמְבַטְּלִין.
+*Translation:* **What, is it not that they disagree** with regard to **this: One Sage,** Rabbi Meir, **holds** that a person who renounces his rights does not remove himself completely from his domain, and therefore **one** person may **renounce** his rights in favor of another, **and** the second person may **then renounce** his rights in favor of the first. As a result, even an inadvertent act of carrying serves to cancel the renunciation. And **one Sage,** Rabbi Yehuda, **holds** that one who renounces his rights removes himself completely from his domain, and therefore one person **may not renounce** his rights in favor of another **and then** subsequently have the second person **renounce** his rights in favor of the first. In that case, only an intentional act of carrying can cancel the renunciation.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַב אַחָא בַּר תַּחְלִיפָא מִשְּׁמֵיהּ דְּרָבָא: לָא, דְּכוּלֵּי עָלְמָא אֵין מְבַטְּלִין וְחוֹזְרִין וּמְבַטְּלִין, וְהָכָא בְּקָנְסוּ שׁוֹגֵג אַטּוּ מֵזִיד קָא מִיפַּלְגִי. מָר סָבַר: קָנְסוּ שׁוֹגֵג אַטּוּ מֵזִיד, וּמָר סָבַר: לֹא קָנְסוּ שׁוֹגֵג אַטּוּ מֵזִיד.
+*Translation:* **Rav Aḥa bar Taḥalifa said in the name of Rava: No, everyone agrees** that a person who renounces his rights removes himself completely from his domain, and therefore one person **may not renounce** his rights in favor of another **and then** subsequently have the second person **renounce** his rights in favor of the first. **And here, they disagree** with regard to the question: Did the Sages **penalize** an **unwitting** offender **due to** an **intentional** offender? **One Sage,** Rabbi Meir, who states that the resident always renders carrying prohibited for the others, **holds** that **they penalized** an **unwitting** offender **due to** an **intentional** offender. **And one Sage,** Rabbi Yehuda, who states that the resident renders carrying prohibited for the others only if he acted intentionally, **holds** that **they did not penalize** an **unwitting** offender **due to** an **intentional** offender.
+
+**13.**
+*Hebrew/Aramaic:* רַב אָשֵׁי אָמַר: רַב וּשְׁמוּאֵל בִּפְלוּגְתָּא דְּרַבִּי אֱלִיעֶזֶר וְרַבָּנַן קָא מִיפַּלְגִי.
+*Translation:* **Rav Ashi,** disagreeing with the Gemara’s refutation, **said: Rav and Shmuel disagree in the** same **dispute as** do **Rabbi Eliezer and the Rabbis.**
+
+**14.**
+*Hebrew/Aramaic:* אָמַר רַבָּן גַּמְלִיאֵל: מַעֲשֶׂה בְּצַדּוּקִי אֶחָד שֶׁהָיָה דָּר עִמָּנוּ. צַדּוּקִי מַאן דְּכַר שְׁמֵיהּ?
+*Translation:* It was stated in the mishna that **Rabban Gamliel said:** There was **an incident involving a certain Sadducee who lived with us** in the same alleyway in Jerusalem, who renounced his rights in the alleyway before Shabbat. The mishna then continues with a discussion about how and whether the alleyway may be used on Shabbat. The Gemara first poses a question: **A Sadducee; who mentioned his name?** The mishna had thus far spoken only of a gentile, so why does Rabban Gamliel invoke an incident involving a Sadducee?
+
+**15.**
+*Hebrew/Aramaic:* חַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: צַדּוּקִי הֲרֵי הוּא כְּגוֹי, וְרַבָּן גַּמְלִיאֵל אוֹמֵר: צַדּוּקִי אֵינוֹ כְּגוֹי. וְאָמַר רַבָּן גַּמְלִיאֵל: מַעֲשֶׂה בְּצַדּוּקִי אֶחָד שֶׁהָיָה דָּר עִמָּנוּ בְּמָבוֹי בִּירוּשָׁלַיִם, וְאָמַר לָנוּ אַבָּא: מַהֲרוּ וְהוֹצִיאוּ אֶת הַכֵּלִים לַמָּבוֹי, עַד שֶׁלֹּא יוֹצִיא וְיֶאֱסֹר עֲלֵיכֶם.
+*Translation:* The Gemara answers: The mishna **is incomplete.** It is missing an important element, **and this** is what **it is teaching:** The legal status of **a Sadducee is like** that of **a gentile, and Rabban Gamliel says:** The legal status of **a Sadducee is not like** that of **a gentile. And Rabban Gamliel** further **said:** There was **an incident involving a certain Sadducee who lived with us in** the same **alleyway in Jerusalem,** who renounced his rights in the alleyway before Shabbat, **and Father said to us: Hurry and take out** your **utensils to the alleyway** to establish possession of it **before** he changes his mind and **takes out** his utensils, in which case **he would render it prohibited for you** to use the entire alleyway.
+
+**16.**
+*Hebrew/Aramaic:* וְהָתַנְיָא: הַדָּר עִם הַנׇּכְרִי, צַדּוּקִי, וּבַיְתּוֹסִי — הֲרֵי אֵלּוּ אוֹסְרִין עָלָיו. (רַבָּן גַּמְלִיאֵל אוֹמֵר: צַדּוּקִי וּבַיְתּוֹסִי אֵינָן אוֹסְרִין.) וּמַעֲשֶׂה בְּצַדּוּקִי אֶחָד שֶׁהָיָה דָּר עִם רַבָּן גַּמְלִיאֵל בְּמָבוֹי בִּירוּשָׁלַיִם, וְאָמַר לָהֶם רַבָּן גַּמְלִיאֵל לְבָנָיו: בָּנַי, מַהֲרוּ וְהוֹצִיאוּ מַה שֶּׁאַתֶּם מוֹצִיאִין וְהַכְנִיסוּ מַה שֶּׁאַתֶּם מַכְנִיסִין, עַד שֶׁלֹּא יוֹצִיא הַתּוֹעֵב הַזֶּה וְיֶאֱסֹר עֲלֵיכֶם, שֶׁהֲרֵי בִּיטֵּל רְשׁוּתוֹ לָכֶם, דִּבְרֵי רַבִּי מֵאִיר.
+*Translation:* **And** similarly, **wasn’t it taught** in a *baraita* that the status of a Sadducee is a matter of dispute between *tanna’im*: If **one lives with a gentile, a Sadducee, or a Boethusian** in the same alleyway, **they render** carrying **prohibited** for **him. Rabban Gamliel says: A Sadducee or a Boethusian do not prohibit** one from carrying. There was **an incident involving a certain Sadducee who lived with Rabban Gamliel in** the same **alleyway in Jerusalem,** and he renounced his rights to the alleyway before Shabbat. **Rabban Gamliel said to his sons: Hurry and take out** those utensils **that you wish to take out, and bring in** those utensils **that you wish to bring in, before that loathsome** person retracts his renunciation and **takes out** his utensils **and prohibits you** from using the alleyway, **as he renounced his rights in your favor;** this is **the statement of Rabbi Meir.**
+
+**17.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: בְּלָשׁוֹן אַחֶרֶת — מַהֲרוּ וַעֲשׂוּ צוֹרְכֵיכֶם בַּמָּבוֹי, עַד שֶׁלֹּא תֶּחְשַׁךְ וְיֶאֱסֹר עֲלֵיכֶם.
+*Translation:* **Rabbi Yehuda says:** Rabban Gamliel spoke to them **with a different formulation,** saying: **Hurry and do whatever you must do in the alleyway** prior to Shabbat, **before night falls and he prohibits you** from using the alleyway.
+
+**18.**
+*Hebrew/Aramaic:* אָמַר מָר: הוֹצִיאוּ מַה שֶּׁאַתֶּם מוֹצִיאִין, וְהַכְנִיסוּ מַה שֶּׁאַתֶּם מַכְנִיסִין, עַד שֶׁלֹּא יוֹצִיא הַתּוֹעֵב הַזֶּה וְיֶאֱסֹר עֲלֵיכֶם. לְמֵימְרָא דְּכִי מַפְּקִי אִינְהוּ וַהֲדַר מַפֵּיק אִיהוּ לָא אָסַר?!
+*Translation:* The Gemara proceeds to analyze this *baraita*. **The Master said** previously: **Take out** those utensils **that you wish to take out, and bring in** those utensils **that you wish to bring in, before that loathsome** person **takes out** his utensils **and prohibits you** from using the alleyway. The Gemara poses a question: **Is that to say that,** according to Rabbi Meir, **if they took out** their utensils **and then** afterward the gentile or Sadducee **took out his** utensils on Shabbat, **he does not render** carrying **prohibited** for them?

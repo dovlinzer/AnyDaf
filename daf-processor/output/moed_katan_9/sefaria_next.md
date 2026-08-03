@@ -63,3 +63,64 @@
 **16.**
 *Hebrew/Aramaic:* דָּרֵשׁ רַב חָמָא: נוֹקְרִין רֵיחַיִם בַּמּוֹעֵד. מִשּׁוּם רַבִּי מֵאִיר אָמַר: אֲפִילּוּ סוּס שֶׁרוֹכֵב עָלָיו וַחֲמוֹר שֶׁרוֹכֵב עָלָיו — מוּתָּר לִיטּוֹל צִפׇּרְנַיִם בְּחוּלּוֹ שֶׁל מוֹעֵד,
 *Translation:* **Rav Ḥama taught** as follows: **One may cut** grooves into **millstones on** the intermediate days of **a Festival. In the name of Rabbi Meir he said: Even** with regard to **the horse that** one **rides upon and the donkey that he rides upon, he is permitted to trim** their **hooves** on the intermediate days of a Festival so that they do not suffer when they walk.
+
+
+---
+
+### Moed Katan 10b
+
+**1.**
+*Hebrew/Aramaic:* אֲבָל חֲמָרָא דְרִיחְיָא — לָא.
+*Translation:* **However,** with regard to the hooves of **a donkey** that turns the **millstones, no,** they may not be trimmed. This is unnecessary on the intermediate days of a Festival, as one may only grind grain that one needs to use on the Festival itself, and the donkey can perform this task even if its hooves are not trimmed.
+
+**2.**
+*Hebrew/Aramaic:* רַב יְהוּדָה שְׁרֵי לְמִישְׁקַל טוּפְרֵיהּ לַחֲמָרָא דְרִיחְיָא, וּלְאוֹקוֹמֵי רִיחְיָא, וּלְמִיבְנֵי רִיחְיָא, וּלְמִיבְנֵי אַמַּת רִיחְיָא, וּלְמִיבְנֵי אוּרְיָא. רָבָא שְׁרָא לְסָרוֹקֵי סוּסְיָא, וּלְמִיבְנֵי אַקְרָפִיטָא, וּלְמִיבְנֵי אִיצְטְבָא.
+*Translation:* **Rav Yehuda permits** one **to trim the hooves of the donkey** that turns **a mill, to set** the stones of **a mill** in their place, **to build** the base of **a mill, to construct** a water **channel** to carry water that drives **a mill, and to build a stable** for horses on the intermediate days of a Festival. **Rava permitted** one **to groom a horse, to build a trough, and to build a bench** on the intermediate days of a Festival.
+
+**3.**
+*Hebrew/Aramaic:* רָבָא שְׁרָא לְמִישְׁקַל דְּמָא לִבְהֵמָה בְּחוּלָּא דְּמוֹעֲדָא. אֲמַר לֵיהּ אַבָּיֵי, תַּנְיָא דִּמְסַיַּיע לָךְ: מַקִּיזִין דָּם לַבְּהֵמָה, וְאֵין מוֹנְעִין רְפוּאָה לַבְּהֵמָה בְּחוּלּוֹ שֶׁל מוֹעֵד.
+*Translation:* **Rava** also **permitted** one **to let the blood of an animal** for medical purposes **on the intermediate days of a Festival. Abaye said to him:** A *baraita* **is taught that supports you: One may let blood from an animal, and one** does **not withhold** any **medical treatment from an animal on the intermediate days of a Festival.**
+
+**4.**
+*Hebrew/Aramaic:* רָבָא שְׁרָא לְכַסְכּוֹסֵי קִירְמֵי. מַאי טַעְמָא — מַעֲשֵׂה הֶדְיוֹט הוּא. אָמַר רַב יִצְחָק בַּר אַמֵּי אֲמַר רַב חִסְדָּא: קִיטּוּרֵי בֵירֵי — אֲסִיר. מַאי טַעְמָא — מַעֲשֵׂה אוּמָּן הוּא.
+*Translation:* **Rava** further **permitted** one **to scrub garments** as part of the laundry process. **What is the reason? It is the work of a layman** and not the work of a craftsman, which is prohibited on the intermediate days of a Festival. **Rav Yitzḥak bar Ami said that Rav Ḥisda said: Tying sleeves** to create pleats **is prohibited. What is the reason? It is the work of a craftsman** and is consequently prohibited on the intermediate days of a Festival.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רָבָא: מַאן דִּמְתַקֵּיל אַרְעָא אַדַּעְתָּא דְּבֵי דָרֵי — שְׁרֵי, אַדַּעְתָּא דְאַרְעָא — אֲסִיר.
+*Translation:* § **Rava said:** With regard to one **who clears the ground** on the intermediate days of a Festival, the following distinction applies: If **his intention** is to prepare **a threshing floor, it is permitted,** but if **his intention** is to prepare **the ground** for planting, **it is prohibited.**
+
+**6.**
+*Hebrew/Aramaic:* הֵיכִי דָּמֵי? — מוּלְיָא בְּמוּלְיָא וְנַצָּא בְּנַצָּא — אַדַּעְתָּא דְבֵי דָרֵי, שְׁקַל מוּלְיָא וּשְׁדָא בְּנַצָּא — אַדַּעְתָּא דְאַרְעָא.
+*Translation:* The Gemara asks: **What are the circumstances** of each case? The Gemara explains: If he casts earth from one **mound [*mulya*] onto** another **mound, or** from **one furrow into** another **furrow [*natza*],** it is clear that he is doing this **with the intention of** preparing **a threshing floor,** as his sole interest is the level area in the middle and not the ground that surrounds it. However, if **he takes** earth **from a mound and casts it into a furrow,** he is presumably doing this **with the intention of** preparing **the ground** for planting, which is prohibited on the intermediate days of a Festival due to its similarity to the prohibited labor of plowing.
+
+**7.**
+*Hebrew/Aramaic:* וְאָמַר רָבָא: הַאי מַאן דְּזָכֵי זִיכֵי, אַדַּעְתָּא דְצִיבֵי — שְׁרֵי, אַדַּעְתָּא דְאַרְעָא — אֲסִיר. הֵיכִי דָּמֵי? שָׁקֵיל רַבְרְבֵי וְשָׁבֵיק זוּטְרֵי — אַדַּעְתָּא דְצִיבֵי, שְׁקַל רַבְרְבֵי וְזוּטְרֵי — אַדַּעְתָּא דְאַרְעָא.
+*Translation:* **And Rava said:** With regard to **one who clears** his field from **twigs** on the intermediate days of a Festival, the following distinction applies: If **his intention** is to use **the twigs it is permitted,** but if **his intention** is to prepare **the ground** for planting, **it is prohibited.** The Gemara asks: **What are the circumstances** of each case? The Gemara explains: If **he takes the large** twigs **and leaves the small** ones, it is clear that he is doing this **with the intention of** using **the twigs.** But if **he takes** both **the large** twigs **and the small** ones, it appears as though that he is doing so **with the intention of** preparing **the ground,** and it is prohibited.
+
+**8.**
+*Hebrew/Aramaic:* וְאָמַר רָבָא: הַאי מַאן דְּפָתַח מַיָּא לְאַרְעֵיהּ, אַדַּעְתָּא דִכְווֹרֵי — שְׁרֵי, אַדַּעְתָּא דְאַרְעָא — אֲסִיר.
+*Translation:* **And Rava** further **said:** With regard to **one who opens the** gates of **a water** channel running **through his land** on the intermediate days of a Festival, the following distinction applies: If **his intention** is to catch **the fish** that come along with the water, **it is permitted,** but if **his intention** is to water **the ground, it is prohibited.**
+
+**9.**
+*Hebrew/Aramaic:* הֵיכִי דָּמֵי? פָּתַח תְּרֵי בָבֵי, חַד מֵעִילַּאי וְחַד מִתַּתַּאי — אַדַּעְתָּא דִכְווֹרֵי, פְּתַח חַד בָּבָא — אַדַּעְתָּא דְאַרְעָא.
+*Translation:* The Gemara asks: **What are the circumstances** of each case? The Gemara explains: If **he opens two gates** in the water channel, **one above** his field **and one below,** so the water that flows in also flows out, it is clear that he is doing this **with the intention of** catching **fish,** as the water will flow out and only the fish will remain in the indentations in his field. But if **he opens** only **one** gate, he is presumably doing this **with the intention of** watering **the ground,** as it is evident that he wants the channel to fill and the water to overflow into the field.
+
+**10.**
+*Hebrew/Aramaic:* וְאָמַר רָבָא: הַאי מַאן דְּפָשַׁח דִּיקְלָא, אַדַּעְתָּא דְחֵיוָתָא — שְׁרֵי, אַדַּעְתָּא דְּדִיקְלָא — אֲסִיר. הֵיכִי דָּמֵי? שָׁקֵיל כּוּלֵּיהּ מֵחַד גִּיסָא — אַדַּעְתָּא דְחֵיוָתָא, מֵהַאי גִּיסָא וּמֵהַאי גִּיסָא — אַדַּעְתָּא דְּדִיקְלָא וַאֲסִיר.
+*Translation:* **And Rava** also **said:** With regard to **one who cuts** the branches of his **date palm** on the intermediate days of a Festival, the following distinction applies: If he does this **with the intention of** feeding **his animals, it is permitted,** but if he does it **with the intention of** enhancing the growth of his **date palm, it is prohibited.** The Gemara asks: **What are the circumstances** of each case? The Gemara explains: If **he takes all** of the branches **from one side** of the tree, he is doing this **with the intention of** feeding the branches to **his animals,** as it is evident that he is not concerned with the damage to the date palm. However, if he takes the branches **from this side** of the tree **and** also **from the other side,** it appears as though he is doing so **with the intention of** enhancing the growth of **the date palm, and it is prohibited.**
+
+**11.**
+*Hebrew/Aramaic:* וְאָמַר רָבָא: הָנֵי תַּמְרֵי תוּחְלָנִי, מִיגְזְרִינְהוּ — שְׁרֵי, מַיְיצִינְהוּ — אֲסִיר. רַב פָּפָּא אָמַר: כֵּיוָן דְּמַתְלְעִי — כִּפְרַקְמַטְיָא הָאָבֵד דָּמֵי, וְשָׁרֵי.
+*Translation:* **And Rava** further **said: With regard to these unripe dates, cutting them** into pieces in order to render them fit for eating **is permitted** on the intermediate days of a Festival, but **preserving them is prohibited,** as they will not be ready for use until after the Festival. **Rav Pappa said: Since they** are likely to **become infested with worms** if they are not properly attended to, **they are** treated **like merchandise that will be lost, and it is permitted** to preserve them on the intermediate days of a Festival.
+
+**12.**
+*Hebrew/Aramaic:* וְאָמַר רָבָא: פְּרַקְמַטְיָא כָּל שֶׁהוּא, אָסוּר. אָמַר רַבִּי יוֹסֵי בַּר אָבִין: וּבַדָּבָר הָאָבֵד — מוּתָּר. רָבִינָא הֲוָה לֵיהּ הָהוּא עִיסְקָא דַּהֲוָה מִזְדַּבַּן בְּשִׁיתָּא אַלְפֵי, שַׁהֲיֵיהּ לְזַבּוֹנֵיהּ בָּתַר חוּלָּא דְמוֹעֲדָא וְזַבְּנֵיהּ בִּתְרֵיסַר אַלְפֵי.
+*Translation:* § **And Rava** also **said: Any commerce is prohibited** on the intermediate days of a Festival. **Rabbi Yosei bar Avin said: But** with regard to **a matter that,** if left unattended, will result in significant **loss, it is permitted.** The Gemara relates that **Ravina** once **had a** joint **business** venture **that could have been sold for six thousand** dinars, but **he delayed selling it** until **after the intermediate days of a Festival, and he sold it** then **for twelve thousand** dinars.
+
+**13.**
+*Hebrew/Aramaic:* רָבִינָא הֲוָה מַסֵּיק זוּזֵי בִּבְנֵי אַקְרָא דְשַׁנְוָאתָא, אֲתָא לְקַמֵּיהּ דְּרַב אָשֵׁי, אֲמַר לֵיהּ: מַהוּ לְמֵיזַל הָאִידָּנָא עֲלַיְיהוּ? אֲמַר לֵיהּ: כֵּיוָן דְּהָאִידָּנָא הוּא דְּמַשְׁכַּחַתְּ לְהוּ, בְּיוֹמֵי אַחֲרִינֵי לָא מַשְׁכַּחַתְּ לְהוּ — כִּפְרַקְמַטְיָא הָאָבֵד דָּמֵי, וְשָׁרֵי.
+*Translation:* It is further related that **Ravina had lent money to the residents of the fortress of Shanvata. He came before Rav Ashi** and **said to him: What is** the *halakha* with regard **to going to them now,** on the intermediate days of the Festival, to collect my debt? Rav Ashi **said to him: Since it is now that you will find them,** whereas **on other days you will not find them,** as during the year these people would travel from place to place to earn their livelihood, **this is** treated **like merchandise that will be lost, and it is** therefore **permitted.**
+
+**14.**
+*Hebrew/Aramaic:* תַּנְיָא נָמֵי גַּבֵּי עֲבוֹדָה זָרָה כִּי הַאי גַוְונָא: הוֹלְכִין
+*Translation:* The Gemara adds: **So too, it is taught** in a *baraita* **with regard to idol worship like this case: One may go**

@@ -1,0 +1,255 @@
+[
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Tevul Yom Status",
+    "candidates": [
+      "Rabbi Assi: Clear Serum",
+      "Rabbi Yirmiyah: No Karet",
+      "Tannaim: Blood & Tumah",
+      "Corpse Liquids & Blood",
+      "Corpse Exception",
+      "Tevul Yom Status",
+      "Zav vs. Corpse Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text about tevul yom and other impure persons' liquids (rishon status, av hatumah exception) that the prose of heading 5 'Tevul Yom Status' directly explains and discusses in detail.",
+      "chosen_heading": "Tevul Yom Status",
+      "current_heading": "Tevul Yom Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Zav vs. Corpse Logic",
+    "candidates": [
+      "Zav vs. Corpse Logic",
+      "Seven Liquids Rule",
+      "Damo Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the zav vs. corpse distinction \u2014 item 1 clarifies that 'minor/major' sources refer to creeping animal vs. zav, and item 2 gives the rationale for why rabbis decreed on zav but not corpse \u2014 exactly the content described in the 'Zav vs. Corpse Logic' prose.",
+      "chosen_heading": "Zav vs. Corpse Logic",
+      "current_heading": "Zav vs. Corpse Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Damo Debate",
+    "candidates": [
+      "Seven Liquids Rule",
+      "Damo Debate",
+      "Pesak & Practice",
+      "Granular vs. Thick",
+      "RSBG: Growth Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute exactly the three-way dispute (Rabbanan, Rabbi Yehuda, Rabban Shimon ben Gamliel) over 'damo' and the obligation to cover splattered blood and blood on the knife, which is precisely what the 'Damo Debate' prose describes in detail.",
+      "chosen_heading": "Damo Debate",
+      "current_heading": "Damo Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "RSBG: Growth Principle",
+    "candidates": [
+      "Pesak & Practice",
+      "Granular vs. Thick",
+      "RSBG: Growth Principle",
+      "Potter's Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself listing what materials may and may not be used for kissuy hadam, which is precisely what the 'Granular vs. Thick' section's prose introduces and discusses \u2014 it is the source text for that section, not for the RSBG principle section which discusses the subsequent klal.",
+      "chosen_heading": "Granular vs. Thick",
+      "current_heading": "RSBG: Growth Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Potter's Standard",
+    "candidates": [
+      "Potter's Standard",
+      "Klal Tzarich l'Prat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the definition of fine vs. thick sand via the potter's standard and the practical difference between the two formulations, which is precisely what the 'Potter's Standard' prose section discusses in detail.",
+      "chosen_heading": "Potter's Standard",
+      "current_heading": "Potter's Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Klal Tzarich l'Prat",
+    "candidates": [
+      "Klal Tzarich l'Prat",
+      "Rashi & Tosafot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the baraita deriving permissible covering materials, the inclusion/exclusion reasoning, and the klal u'prat challenge \u2014 are explicitly quoted and discussed in the prose under heading 0 ('Klal Tzarich l'Prat'), which walks through each of these Talmudic passages in sequence.",
+      "chosen_heading": "Klal Tzarich l'Prat",
+      "current_heading": "Klal Tzarich l'Prat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rashi & Tosafot",
+    "candidates": [
+      "Rashi & Tosafot",
+      "Ribuy u'Miut Method",
+      "Gold Coin Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Mari's statement about klal hatzarich liprat, which is precisely what the 'Rashi & Tosafot' section's prose discusses and analyzes in detail.",
+      "chosen_heading": "Rashi & Tosafot",
+      "current_heading": "Rashi & Tosafot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Gold Coin Case",
+    "candidates": [
+      "Ribuy u'Miut Method",
+      "Gold Coin Case",
+      "Tallit Ashes",
+      "Ashes & Gold Dust"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern Rav Na\u1e25man bar Rav \u1e24isda's teaching that only sprouting substances may be used and Rava's challenge to it \u2014 this is the derivation of the 'megadel tzma'chim' criterion, which is the subject of the 'Ribuy u'Miut Method' / klal u'prat prose, not the extreme desert/ship cases themselves.",
+      "chosen_heading": "Ribuy u'Miut Method",
+      "current_heading": "Gold Coin Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Ashes & Gold Dust",
+    "candidates": [
+      "Tallit Ashes",
+      "Ashes & Gold Dust",
+      "Core Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about the basis for using ashes and gold dust, and Rabbi Zeira's answer from the verse 'afrot zahav lo,' which is precisely what the 'Ashes & Gold Dust' section's prose discusses.",
+      "chosen_heading": "Ashes & Gold Dust",
+      "current_heading": "Ashes & Gold Dust",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Core Dispute",
+    "candidates": [
+      "Core Dispute",
+      "Added Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Beit Shammai/Beit Hillel baraita about covering blood with earth vs. ashes, which is precisely what the 'Core Dispute' prose discusses in detail.",
+      "chosen_heading": "Core Dispute",
+      "current_heading": "Core Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Added Materials",
+    "candidates": [
+      "Added Materials",
+      "Avraham's Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the added materials (coal dust, stibium, shavings, arsenic) which is exactly what the 'Added Materials' prose section addresses.",
+      "chosen_heading": "Added Materials",
+      "current_heading": "Added Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Avraham's Statement",
+    "candidates": [
+      "Avraham's Statement",
+      "Why Not Kissuy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All three items belong to the continuous aggadic passage about Avraham's reward \u2014 items 1-2 are the challenge and response about kissuy hadam, and item 3 opens another Rava statement \u2014 but candidate 0 ('Avraham's Statement') covers items 1-2 while candidate 1 ('Why Not Kissuy') covers items 1-2's challenge-response, and since the prose of candidate 0 explicitly discusses Rava's statement about afar and eifer (items 1-2) while item 3 begins a new Rava statement, the current placement under candidate 0 is the best fit for all three items as a unified aggadic block.",
+      "chosen_heading": "Avraham's Statement",
+      "current_heading": "Avraham's Statement",
+      "moved": false
+    }
+  }
+]

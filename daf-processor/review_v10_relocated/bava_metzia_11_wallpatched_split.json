@@ -1,0 +1,367 @@
+[
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Tosafot Question",
+    "candidates": [
+      "Arba Amos & Chatzer",
+      "Yad vs. Shliach",
+      "Ein Shaliach Aveirah",
+      "Two Reasons Explained",
+      "Mai Beinaihu",
+      "Kohen & Grusha",
+      "Payos Case",
+      "Extent of Shliach",
+      "Resolving Mai Beinaihu",
+      "Tosafot Question",
+      "Baraita Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All seven items discuss the challenge that chatzer-as-shliach would create agency for transgression (ein shaliach l'dvar aveirah), along with Ravina's and Rav Samma's two resolutions and their practical differences \u2014 precisely the content described in the 'Ein Shaliach Aveirah' section's prose.",
+      "chosen_heading": "Ein Shaliach Aveirah",
+      "current_heading": "Tosafot Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Baraita Get",
+    "candidates": [
+      "Baraita Get",
+      "All Agree: Get",
+      "Get vs. Metziah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about 'yad' being extended to gag/chatzer/karpif via 've'natan mikol makom', which is precisely the textual anchor described in the 'Baraita Get' prose.",
+      "chosen_heading": "Baraita Get",
+      "current_heading": "Baraita Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Get vs. Metziah",
+    "candidates": [
+      "All Agree: Get",
+      "Get vs. Metziah",
+      "Only for Get",
+      "Ketana Works",
+      "Katan Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Gemara answer that (1) states everyone agrees on get/chatzer-as-yad and (2) identifies the metziah dispute as the actual point of disagreement \u2014 this is precisely the content described in the 'All Agree: Get' section's prose, which quotes the exact Aramaic phrase and explains that the get question is undisputed while the debate concerns other domains.",
+      "chosen_heading": "All Agree: Get",
+      "current_heading": "Get vs. Metziah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Katan Question",
+    "candidates": [
+      "Only for Get",
+      "Ketana Works",
+      "Katan Question",
+      "Reconciliation",
+      "Get vs. Kinyan",
+      "Open Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the dispute about whether a minor boy (katan) acquires via chatzer by deriving from a minor girl (ketana), which is precisely what the 'Katan Question' prose describes.",
+      "chosen_heading": "Katan Question",
+      "current_heading": "Katan Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Open Questions",
+    "candidates": [
+      "Reconciliation",
+      "Get vs. Kinyan",
+      "Open Questions",
+      "Three Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's 'and if you wish, say' reconciliation formula (velo pligi \u2014 they do not disagree), which is precisely what the 'Reconciliation' section's prose discusses and quotes directly.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Open Questions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Three Cases",
+    "candidates": [
+      "Three Cases",
+      "Contained Objects",
+      "Rav Yehuda/Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself presenting the three cases (found object, broken-legged deer, non-flying chicks) and the qualification about normal deer/flying chicks, which is exactly what the 'Three Cases' prose describes.",
+      "chosen_heading": "Three Cases",
+      "current_heading": "Three Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Rav Yehuda/Shmuel",
+    "candidates": [
+      "Contained Objects",
+      "Rav Yehuda/Shmuel",
+      "Teshuvah to Question",
+      "Protected vs. Unprotected",
+      "Source Question",
+      "Sheaf Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain \u2014 Shmuel's ruling (item 1), the challenge from Rabbi Yossi bar Chanina (item 2), the resolution distinguishing secured vs. unsecured courtyards (item 3), and the follow-up question about the source for the unsecured rule (item 4) \u2014 which is precisely the content described in the 'Rav Yehuda/Shmuel' section's prose.",
+      "chosen_heading": "Rav Yehuda/Shmuel",
+      "current_heading": "Rav Yehuda/Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Sheaf Case",
+    "candidates": [
+      "Teshuvah to Question",
+      "Protected vs. Unprotected",
+      "Source Question",
+      "Sheaf Case",
+      "Contradiction",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita cited as the source for deriving the rule about unprotected fields, which is exactly what heading 2 ('Source Question') describes \u2014 the Gemara asking where we derive that rule and answering with this baraita about shichcha.",
+      "chosen_heading": "Source Question",
+      "current_heading": "Sheaf Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Contradiction",
+      "Resolution",
+      "Prevents Shichcha",
+      "Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly identifies an internal contradiction in the baraita \u2014 first implying forgetting in town is shichcha, then implying it is not \u2014 which matches precisely the 'Contradiction' section's prose about the internal contradiction between the two clauses.",
+      "chosen_heading": "Contradiction",
+      "current_heading": "Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Critique",
+    "candidates": [
+      "Prevents Shichcha",
+      "Critique",
+      "Ulla & Rabbah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage elaborates exactly the reasoning that candidate 0 describes: the owner being in the field means his chatzer acquires the sheaf for him (preventing shichcha), while being in the town means no such acquisition occurs \u2014 which is precisely what candidate 0's prose discusses, including the key phrase 'dekivan dekai gaba, hevei lei chatzero, vezachata lo.'",
+      "chosen_heading": "Prevents Shichcha",
+      "current_heading": "Critique",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Ulla & Rabbah",
+    "candidates": [
+      "Ulla & Rabbah",
+      "Ma'aser Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Ulla and Rabbah bar bar Chana stating the 'omed betzad sadehu' requirement, which is exactly what the 'Ulla & Rabbah' section prose describes.",
+      "chosen_heading": "Ulla & Rabbah",
+      "current_heading": "Ulla & Rabbah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Ma'aser Story",
+    "candidates": [
+      "Ma'aser Story",
+      "The Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the mishna text from Ma'aser Sheni 5:9 about Rabban Gamliel on the ship \u2014 the exact story that heading 0 ('Ma'aser Story') introduces and discusses in detail, before heading 1 moves on to analyze the challenge derived from it.",
+      "chosen_heading": "Ma'aser Story",
+      "current_heading": "Ma'aser Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "The Challenge",
+    "candidates": [
+      "The Challenge",
+      "Ulla Dismisses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the challenge about Rabbi Yehoshua and Rabbi Akiva not standing next to Rabban Gamliel's field, which is precisely what 'The Challenge' prose discusses and paraphrases.",
+      "chosen_heading": "The Challenge",
+      "current_heading": "The Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Ulla Dismisses",
+    "candidates": [
+      "Ulla Dismisses",
+      "Rav Abba Persists",
+      "Kinyan Agav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Ulla's dismissive statement, which is precisely what the 'Ulla Dismisses' section's prose describes and quotes.",
+      "chosen_heading": "Ulla Dismisses",
+      "current_heading": "Ulla Dismisses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Kinyan Agav",
+    "candidates": [
+      "Rav Abba Persists",
+      "Kinyan Agav",
+      "Agav Explained",
+      "Tovat Hanah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what heading 'Kinyan Agav' covers: Rabbi Abba coming to Sura, presenting the challenge, one Sage offering the kinyan agav resolution (Rabban Gamliel transferred metaltelin via agav), and the split reaction of Rabbi Zeira accepting it while Rabbi Abba did not \u2014 matching the prose of candidate 1 precisely.",
+      "chosen_heading": "Kinyan Agav",
+      "current_heading": "Kinyan Agav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149,
+      150
+    ],
+    "current_heading": "Tovat Hanah",
+    "candidates": [
+      "Agav Explained",
+      "Tovat Hanah",
+      "Why Not Chalifin",
+      "Rav Pappa"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Tovat Hanah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss Rava's objection about tovat hana'ah and the Gemara's rejection involving chalifin vs. nesinah, which is precisely what the 'Tovat Hanah' and 'Why Not Chalifin' prose covers \u2014 but since items 1-2 form one continuous argument that the 'Tovat Hanah' prose introduces and 'Why Not Chalifin' prose extends, and the current placement is 'Tovat Hanah', the better single home for items 1-2 together is candidate 1 ('Tovat Hanah') which introduces Rava's objection, with item 2's chalifin content being the continuation of the same exchange.",
+      "second_heading": "Rav Pappa",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Pappa's independent answer (da'at acheret maknah otan shani), which is precisely what the 'Rav Pappa' section's prose discusses.",
+      "current_heading": "Tovat Hanah",
+      "moved": true
+    }
+  }
+]

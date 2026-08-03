@@ -79,3 +79,88 @@
 **20.**
 *Hebrew/Aramaic:* וּמִי סָבַר לֵיהּ כְּווֹתֵיהּ?
 *Translation:* The Gemara asks: **And does** Rabbi Yehuda **hold in accordance with** the opinion of Rabbi Shimon ben Elazar?
+
+
+---
+
+### Shabbat 142b
+
+**1.**
+*Hebrew/Aramaic:* וְהָא מִיפְלָג פְּלִיג עִילָּוֵיהּ, דְּתַנְיָא, רַבִּי יְהוּדָה אוֹמֵר: מַעֲלִין אֶת הַמְדוּמָּע בְּאֶחָד וּמֵאָה. רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: נוֹתֵן עֵינָיו בְּצַד זֶה וְאוֹכֵל מִצַּד אַחֵר.
+*Translation:* **Doesn’t he disagree with him? As it was taught** in a *baraita* that **Rabbi Yehuda says: One may lift** a measure of *teruma* that was nullified from **a mixture of one hundred** measures of non-sacred produce **and one** measure of *teruma.* **Rabbi Shimon ben Elazar says: One casts his eyes on this side** of the mixture and decides to separate a *se’a* from the produce on that side, **and he eats from a different side** of the mixture.
+
+**2.**
+*Hebrew/Aramaic:* דְּרַבִּי יְהוּדָה עֲדִיפָא מִדְּרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר.
+*Translation:* The Gemara rejects this: Fundamentally, the two *tanna’im* agree, but the opinion of **Rabbi Yehuda is more far-reaching than** the opinion of **Rabbi Shimon ben Elazar.** Rabbi Yehuda says that since thought is sufficient, lifting the *se’a* does not render the produce fit for consumption, and it is preferable if he lifts the *se’a* even on Shabbat.
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִי׳ הָאֶבֶן שֶׁעַל פִּי הֶחָבִית — מַטָּהּ עַל צִדָּהּ, וְהִיא נוֹפֶלֶת. הָיְתָה בֵּין הֶחָבִיּוֹת — מַגְבִּיהָהּ וּמַטָּהּ עַל צִדָּהּ, וְהִיא נוֹפֶלֶת.
+*Translation:* MISHNA: With regard to **a stone,** which is set-aside on Shabbat and may not be moved, that was placed **on the mouth of a barrel, one tilts** the barrel **on its side, and** the stone **falls. If** the barrel **was among** other **barrels,** and the other barrels might break if the stone falls on them, **he lifts** the barrel to distance it from the other barrels, **and** then **tilts it on its side, and** the stone **falls.**
+
+**4.**
+*Hebrew/Aramaic:* מָעוֹת שֶׁעַל הַכַּר — מְנַעֵר אֶת הַכַּר, וְהֵן נוֹפְלוֹת. הָיְתָה עָלָיו לִשְׁלֶשֶׁת — מְקַנְּחָהּ בִּסְמַרְטוּט. הָיְתָה שֶׁל עוֹר — נוֹתְנִין עָלֶיהָ מַיִם עַד שֶׁתִּכְלֶה.
+*Translation:* With regard to **coins that are on a cushion, he shakes the cushion and** the coins **fall. If there was bird dung** (*Arukh*) **on** the cushion, **he wipes it with a rag,** but he may not wash it with water because of the prohibition against laundering. If the cushion **was** made **of leather,** and laundering is not a concern, **he places water on it until** the bird dung **ceases.**
+
+**5.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב הוּנָא אָמַר רַב: לֹא שָׁנוּ אֶלָּא בְּשׁוֹכֵחַ, אֲבָל בְּמַנִּיחַ — נַעֲשָׂה בָּסִיס לְדָבָר הָאָסוּר.
+*Translation:* GEMARA: **Rav Huna said** that **Rav said: They only taught** this *halakha* with regard to a stone in a case **where one forgets** the stone on the barrel. **However, if he places** the stone on the barrel, the barrel **becomes a base for a prohibited object,** which itself may not be moved throughout Shabbat.
+
+**6.**
+*Hebrew/Aramaic:* [הָיְתָה בֵּין הֶחָבִיּוֹת כּוּ׳.] מַאן תַּנָּא דְּכֹל הֵיכָא דְּאִיכָּא אִיסּוּרָא וְהֶיתֵּרָא — בְּהֶיתֵּרָא טָרְחִינַן, בְּאִיסּוּרָא לָא טָרְחִינַן?
+*Translation:* We learned in the mishna: **If** the barrel **was among** other **barrels,** he lifts the barrel and then tilts it on its side, and the stone falls. The Gemara asks: **Who is** the ***tanna*** who holds **that any place that there is a prohibited** item **and a permitted** item, **we** may **exert** ourselves **for the permitted** item, but **we** may **not exert** ourselves **for the prohibited** item? One must exert himself to lift the barrel, and he may not remove the stone, although doing so would minimize his exertion.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל הִיא. דִּתְנַן: הַבּוֹרֵר קִטְנִית בְּיוֹם טוֹב, בֵּית שַׁמַּאי אוֹמְרִים: בּוֹרֵר אוֹכֶל וְאוֹכֵל. וּבֵית הִלֵּל אוֹמְרִים: בּוֹרֵר כְּדַרְכּוֹ, בְּחֵיקוֹ וּבַתַּמְחוּי.
+*Translation:* **Rabba bar bar Ḥana said** that **Rabbi Yoḥanan said: It is Rabban Shimon ben Gamliel. As we learned** in a mishna: With regard to **one who selects legumes on a Festival,** separating edible and inedible, **Beit Shammai say: He selects food and eats** it immediately and leaves the waste. **And Beit Hillel say: He selects in his usual manner,** and may even remove the waste and leave the food, **in his lap or in a large vessel.**
+
+**8.**
+*Hebrew/Aramaic:* וְתַנְיָא, אָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל: בַּמֶּה דְּבָרִים אֲמוּרִים — שֶׁהָאוֹכֶל מְרוּבֶּה עַל הַפְּסוֹלֶת. אֲבָל פְּסוֹלֶת מְרוּבָּה עַל הָאוֹכֶל — דִּבְרֵי הַכֹּל בּוֹרֵר אוֹכֶל.
+*Translation:* **And it was taught** in a *baraita* that **Rabban Shimon ben Gamliel said: In what** case **are these matters,** the dispute between Beit Shammai and Beit Hillel, **stated:** In a case **where the** quantity of the **food is greater than the** quantity of the **waste. However, if** the quantity of the **waste is greater than the** quantity of the **food, everyone agrees** that **one selects** the **food** to avoid the exertion involved in removing the waste, which itself may not be moved. The same is true here. He moves the barrel and not the stone, which is like waste.
+
+**9.**
+*Hebrew/Aramaic:* וְהָא הָכָא, דְּכִי אוֹכֶל מְרוּבֶּה עַל הַפְּסוֹלֶת דָּמֵי!
+*Translation:* The Gemara asks: **And here,** in the case of the barrel, **isn’t it comparable to** a case where **the food** is **greater than the waste,** as the barrel, which is food, is bigger and heavier than the stone. In addition, it is easier to move the stone. Nevertheless, he is not permitted to do so, in accordance with the opinion of Beit Hillel.
+
+**10.**
+*Hebrew/Aramaic:* הָכָא נָמֵי, כֵּיוָן דְּאִי בָּעֵי לְמִישְׁקַל, לָא מִשְׁתְּקִיל לֵיהּ יַיִן עַד דְּשָׁקֵיל לַהּ לְאֶבֶן — כִּפְסוֹלֶת מְרוּבָּה עַל הָאוֹכֶל דָּמֵי.
+*Translation:* The Gemara answers: **Here, too, since if he wants to take** the wine, the **wine cannot be taken until he removes the stone,** the legal status of the stone is **like** that of **waste** which is **greater** in quantity **than the food,** and it cannot be likened to the case of selecting. In this case, he is unable to move the barrel without moving the stone.
+
+**11.**
+*Hebrew/Aramaic:* הָיְתָה בֵּין הֶחָבִיּוֹת — מַגְבִּיהַּ. תַּנְיָא, רַבִּי יוֹסֵי אוֹמֵר: הָיְתָה הֶחָבִית מוּנַּחַת בָּאוֹצָר, אוֹ שֶׁהָיוּ כְּלֵי זְכוּכִית מוּנָּחִין תַּחְתֶּיהָ — מַגְבִּיהָה לְמָקוֹם אַחֵר, וּמַטָּהּ עַל צִדָּהּ, וְהִיא נוֹפֶלֶת, וְנוֹטֵל הֵימֶנָּה מַה שֶּׁצָּרִיךְ לוֹ, וּמַחְזִירָה לִמְקוֹמָהּ.
+*Translation:* We learned in the mishna: **If** the barrel **was among** other **barrels, he lifts** the barrel. **It was taught** in a *baraita***: Rabbi Yosei says:** If **the barrel was placed in a storeroom** amongst other barrels, **or** if **glass vessels were placed beneath it,** preventing him from tilting the barrel and letting the stone fall, **he lifts** the barrel and moves it **to a different place, and he tilts it on its side, and** the stone **falls. And** then **he takes from** the barrel **what he needs, and restores** the barrel **to its place.**
+
+**12.**
+*Hebrew/Aramaic:* מָעוֹת שֶׁעַל הַכַּר. אָמַר רַב חִיָּיא בַּר אָשֵׁי אָמַר רַב: לֹא שָׁנוּ אֶלָּא בְּשׁוֹכֵחַ, אֲבָל בְּמַנִּיחַ — נַעֲשָׂה בָּסִיס לְדָבָר הָאָסוּר.
+*Translation:* We learned in the mishna: With regard to **coins that are on a cushion,** he shakes the cushion and the coins fall. **Rav Hiyya bar Ashi said** that **Rav said: They only taught** this *halakha* with regard to a case **where one forgets** the coins on the cushion; **however, if he places** the coins on the cushion, the cushion **becomes a base for a prohibited object** and may not be moved at all.
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: לֹא שָׁנוּ אֶלָּא לְצוֹרֶךְ גּוּפוֹ, אֲבָל לְצוֹרֶךְ מְקוֹמוֹ — מְטַלְטְלוֹ וְעוֹדָן עָלָיו. וְכֵן תָּנֵי חִיָּיא בַּר רַב מִדִּיפְתִּי: לֹא שָׁנוּ אֶלָּא לְצוֹרֶךְ גּוּפוֹ, אֲבָל לְצוֹרֶךְ מְקוֹמוֹ — מְטַלְטְלוֹ וְעוֹדָן עָלָיו.
+*Translation:* **Rabba bar bar Ḥana said** that **Rabbi Yoḥanan said: They only taught** the *halakha* that one shakes the cushion and the coins fall, when he needs the cushion **for the purpose of** utilizing the cushion **itself; but** if he needs it **for the purpose of** utilizing **its place, he moves** the cushion **with** the coins **still on it. And likewise, Hiyya bar Rav from Difti taught** in a *baraita:* **They only taught** the *halakha* that one shakes the cushion and the coins fall, when he needs the cushion **for the purpose of** utilizing the cushion **itself, but** if he needs it **for the purpose of** utilizing **its place, he moves** the cushion **with** the coins **still on it.**
+
+**14.**
+*Hebrew/Aramaic:* מָעוֹת שֶׁעַל הַכַּר מְנַעֵר וְכוּ׳. אָמַר רַבִּי אוֹשַׁעְיָא: שָׁכַח אַרְנָקִי בֶּחָצֵר — מַנִּיחַ עָלֶיהָ כִּכָּר אוֹ תִּינוֹק וּמְטַלְטְלָהּ. אָמַר רַב יִצְחָק: שָׁכַח לְבֵינָה בֶּחָצֵר — מַנִּיחַ עָלֶיהָ כִּכָּר אוֹ תִּינוֹק, וּמְטַלְטְלָהּ. אָמַר רַבִּי יְהוּדָה בַּר שֵׁילָא אָמַר רַבִּי אַסִּי: פַּעַם אַחַת שָׁכְחוּ דִּסַקַּיָּא מְלֵאָה מָעוֹת בִּסְרַטְיָא, וּבָאוּ וְשָׁאֲלוּ אֶת רַבִּי יוֹחָנָן, וְאָמַר לָהֶן: הַנִּיחוּ עָלֶיהָ כִּכָּר אוֹ תִּינוֹק, וְטַלְטְלוּהָ.
+*Translation:* We learned in the mishna: With regard to **coins that are on a cushion, he shakes** the cushion and the coins fall.  **Rabbi Oshaya said:** If **one forgot a purse** of money **in the courtyard** on Shabbat eve, and he remembers it on Shabbat and wants to bring it into the house, **he places a loaf** of bread **or a baby on it and moves it.** The purse becomes a base for a permitted object and may be moved.  **Rav Yitzhak said:** If **one forgot a brick in the courtyard, he places a loaf** of bread **or a baby on it and moves it.**  **Rabbi Yehuda bar Sheila said** that **Rabbi Asi said: Once, they forgot a saddlebag [*diskaya*] full of coins in a main street, and they came and asked Rabbi Yoḥanan, and he said to them: Place a loaf or a baby on it, and move it.**
+
+**15.**
+*Hebrew/Aramaic:* אָמַר מָר זוּטְרָא: הִלְכְתָא כְּכׇל הָנֵי שְׁמַעְתָּתָא בְּשׁוֹכֵחַ. רַב אָשֵׁי אָמַר: אֲפִילּוּ שֹׁכֵחַ נָמֵי [לָא] — וְלֹא אָמְרוּ כִּכָּר אוֹ תִּינוֹק אֶלָּא לְמֵת בִּלְבַד.
+*Translation:* **Mar Zutra said: The *halakha* is in accordance with all these statements in** the case of one who **forgets.** However, if one intentionally left an object, even a valuable object, on Shabbat eve, he may not employ artifice and move it the following day. **Rav Ashi said:** If **one forgot,** he may **also not** employ artifice, **and they only stated** that movement by means of **a loaf or a baby for** the purposes of moving **a corpse alone.**
+
+**16.**
+*Hebrew/Aramaic:* אַבָּיֵי מַנַּח כַּפָּא אַכִּיפֵי. רָבָא מַנַּח סַכִּינָא אַבַּר יוֹנָה וּמְטַלְטְלָהּ. אָמַר רַב יוֹסֵף: כַּמָּה חַרִּיפָן שְׁמַעְתָּתָא דְּדַרְדַּקֵּי! אֵימַר דַּאֲמוּר רַבָּנַן בְּשׁוֹכֵחַ, לְכַתְּחִילָּה מִי אֲמוּר?!
+*Translation:* The Gemara relates: **Abaye** would **place a spoon on bundles** of produce, so that he would be able to move the bundles because of the spoon. **Rava** would **place a knife on a** slaughtered **young dove and move it. Rav Yosef said** mockingly: **How sharp is the *halakha* of children? Say** that **the Sages stated** this *halakha* only in a case **where one forgets,** but **did they say** that one may do so ***ab initio*?**
+
+**17.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: אִי לָאו דְּאָדָם חָשׁוּב אֲנָא, כַּפָּא אַכִּיפֵי לְמָה לִי? הָא חֲזוּ לְמִיזְגָּא עֲלַיְיהוּ!
+*Translation:* **Abaye** explained his actions and **said: If not** for the fact that **I am an important person, why** would **I** need to place **a spoon on** the **bundles? Aren’t** the bundles themselves **suited to lean upon?** I could have carried the bundles without the spoon.
+
+**18.**
+*Hebrew/Aramaic:* אָמַר רָבָא: אֲנָא, אִי לָאו דְּאָדָם חָשׁוּב אֲנָא — סַכִּינָא אַבַּר יוֹנָה לְמָה לִי? הָא חֲזֵי לִי לְאוּמְצָא.
+*Translation:* Similarly, **Rava said: If not** for the fact that **I am an important person, why** would **I** need to place **a knife on a young dove? Isn’t** the young dove itself **suited** to be eaten as **raw meat?**
+
+**19.**
+*Hebrew/Aramaic:* טַעְמָא דַּחֲזֵי לְאוּמְצָא, הָא לָא חֲזֵי לְאוּמְצָא — לָא. לְמֵימְרָא דְּרָבָא כְּרַבִּי יְהוּדָה סְבִירָא לֵיהּ?
+*Translation:* The Gemara asks: **The reason** that it is permitted to move the slaughtered dove **is** because **it is suited** to be eaten by a person as **raw meat;** but if **it is not suited** to be eaten by a person as **raw meat, no,** it may not be moved. **Is that to say** that **Rava holds in accordance with** the opinion of **Rabbi Yehuda,** that on Shabbat it is prohibited to move food that was originally designated for human consumption and is now only suited for animal consumption?
+
+**20.**
+*Hebrew/Aramaic:* וְהָאָמַר רָבָא לְשַׁמָּעֵיהּ: טְוִוי לִי בַּר אֲווֹזָא, וּשְׁדִי מֵיעֵיהּ לְשׁוּנָּרָא.
+*Translation:* **Didn’t Rava say to his attendant** on a Festival: **Roast a duck for me, and throw its intestines to the cat.** Moving the duck’s intestines was permitted in order to feed the cat. Similarly, moving the dove should have been permitted not because it is raw meat fit for consumption by a person, but because it is suited for consumption by a dog.

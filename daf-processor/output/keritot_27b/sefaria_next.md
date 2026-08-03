@@ -127,3 +127,44 @@
 **32.**
 *Hebrew/Aramaic:* צְווֹחָה שְׁנִיָּה: פִּתְחוּ שְׁעָרִים וְיִכָּנֵס יוֹחָנָן בֶּן נִדְבַּאי תַּלְמִידוֹ שֶׁל פִּינְקַאי וִימַלֵּא כְּרֵסוֹ מִקׇּדְשֵׁי שָׁמַיִם. אָמְרוּ עַל בֶּן נִדְבַּאי שֶׁהָיָה אוֹכֵל אַרְבָּעִים סְאָה גּוֹזָלוֹת
 *Translation:* **The second cry** was: **Open** the **gates, and let Yoḥanan ben Nedavai, the student of Pinkai, enter and fill his belly with** meat of **offerings** consecrated to **Heaven,** as he is worthy to eat offerings. **They said about ben Nedavai that he would eat four *se’a* of doves**
+
+
+---
+
+### Keritot 28b
+
+**1.**
+*Hebrew/Aramaic:* בְּקִינּוּחַ סְעוּדָה. אָמְרוּ, כׇּל יָמָיו לֹא הָיָה נוֹתָר בַּעֲזָרָה.
+*Translation:* **for dessert. They said:** Throughout **all the days** of Yoḥanan ben Nedavai **there was never** sacrificial meat **left over in the** Temple **courtyard,** as he would ensure that it was eaten.
+
+**2.**
+*Hebrew/Aramaic:* צְווֹחָה שְׁלִישִׁית: שְׂאוּ שְׁעָרִים רָאשֵׁיכֶם וְיִכָּנֵס אֱלִישָׁמָע בֶּן פִּיכַאי תַּלְמִידוֹ שֶׁל פִּנְחָס וִישַׁמֵּשׁ בִּכְהוּנָּה גְּדוֹלָה.
+*Translation:* **The third cry** was: **Lift your heads, O gates, and let Elishama ben Pikai, the student of Pineḥas,** son of Elazar, son of Aaron the priest, **enter and serve as High Priest,** as he is worthy.
+
+**3.**
+*Hebrew/Aramaic:* צְווֹחָה רְבִיעִית: פִּתְחוּ שְׁעָרִים וְהוֹצִיאוּ יִשָּׂשכָר אִישׁ כְּפַר בַּרְקַאי, שֶׁמְּכַבֵּד עַצְמוֹ וּמְבַזֶּה קׇדְשֵׁי שָׁמַיִם. מַאי הָוֵי עָבֵיד? הֲוָה כָּרֵיךְ שִׁירָאֵי עַל יְדֵיהּ וְהָוֵה עָבֵיד עֲבוֹדָה.
+*Translation:* **The fourth cry** was: **Open** the **gates and expel Yissakhar from the village of Barkai, as he honors himself and desecrates** items **consecrated** to **Heaven. What would he do** to deserve such a reputation? He would **wrap silk [*shira’ei*] over his hands and perform the** Temple **service,** as he was unwilling to dirty his hands.
+
+**4.**
+*Hebrew/Aramaic:* מַאי סְלִיקָא לֵיהּ? יַנַּאי מַלְכָּא וּמַלְכְּתָא הֲווֹ יָתְבִין. מַלְכָּא אָמַר: גַּדְיָא יָאֵי, וּמַלְכְּתָא אָמְרָה: אִימְּרָא יָאֵי, אֲמַרוּ: נְשַׁיְּילֵיהּ לְיִשָּׂשׂכָר אִישׁ כְּפַר בַּרְקַאי, דְּכֹהֵן גָּדוֹל הוּא וְקִים לֵיהּ קְדֵירָה.
+*Translation:* The Gemara asks: **What** ultimately **happened to** Yissakhar from the village of Barkai? **Yannai the king, and the queen were sitting** and discussing food. **The king said** that **goat** meat **is better** food than lamb meat, **and the queen said lamb** meat is the **better** food. **They said: Let us ask Yissakhar from the village of Barkai, as he is the High Priest and is very familiar with** various **dishes.**
+
+**5.**
+*Hebrew/Aramaic:* שַׁיְילוּהוּ, אֲמַר לְהוּ: אִי גַּדְיָא יָאֵי יִיסַּק לִתְמִידָא. בַּהֲדֵי דְּאָמַר אַחְוִי בִּידֵיהּ, אֲמַר לְהוֹן מַלְכָּא: הוֹאִיל וְאַחְוִי בִּידֵיהּ, קוּצוּ לִידֵיהּ דְּיַמִּינָא. יְהֵיב שׁוּחְדָּא, קַצְיוּהּ לִידֵיהּ שְׂמָאלָא. שְׁמַע מַלְכָּא, אֲמַר: לִיקְצְ[יוּהּ] נָמֵי לִידֵיהּ דְּיַמִּינָא. אָמַר רַב יוֹסֵף: בְּרִיךְ רַחֲמָנָא דְּשַׁקְלֵיהּ (לְ)יִשָּׂשׂכָר אִישׁ כְּפַר בַּרְקַאי לְמַטְרַפְסֵיהּ.
+*Translation:* **They asked him,** and **he said to them: If goat** meat **were better,** it would be **sacrificed as the daily offering.** The fact that the daily offering is lamb proves that its meat is preferable to that of goat. **As he spoke, he signaled** contemptuously **with his hand. The king said to** his attendants: **Since he signaled** contemptuously **with his hand, sever his right hand.** Yissakhar **gave a bribe, and** the official **severed his left hand** instead. **The king heard** that Yissakhar had deceived him, **and said: Let** the official **sever his right hand as well. Rav Yosef said: Blessed is the Merciful One, who took retribution [*lematrapsei*] on Yissakhar of the village of Barkai.** His punishment fit his crime; since he would not dirty his hands with sacrificial blood, both his hands were severed.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַב אָשֵׁי וְלָא הֲוָה תְּנֵי לֵיהּ. דִּתְנַן: כְּבָשִׂים קוֹדְמִין לָעִזִּים בְּכׇל מָקוֹם. יָכוֹל מִפְּנֵי שֶׁמּוּבְחָרִין? תַּלְמוּד לוֹמַר: ״וְאִם כֶּבֶשׂ״, מְלַמֵּד שֶׁשְּׁנֵיהֶן שְׁקוּלִין כְּאַחַת.
+*Translation:* **Rav Ashi said,** with regard to this incident: Yissakhar of the village of Barkai **did not study that which we learned** in the mishna: **Lambs precede goats** almost **everywhere** in the Torah that they are both mentioned. One **might** have thought that it is **due to** the fact **that** sheep **are more select than** goats. Therefore, **the verse states:** “And he shall bring for his offering a goat” (Leviticus 4:28), after which it is written: **“And if** he bring **a lamb** as his offering for a sin offering” (Leviticus 4:32), which **teaches that both of them are equal.**
+
+**7.**
+*Hebrew/Aramaic:* רָבִינָא אָמַר: אֲפִילּוּ מִקְרָא נָמֵי לָא קְרָא, דִּכְתִיב: ״אִם כֶּבֶשׂ״, ״אִם עֵז״.
+*Translation:* **Ravina said:** Yissakhar did **not even read the Torah, as it is written** with regard to the peace offering: **“If** he sacrifices **a lamb”** (Leviticus 3:7), and it further states: **“If a goat** is his offering” (Leviticus 3:12). These verses indicate that one is permitted to bring whichever animal he wishes, and there is no preference.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אֶלְעָזָר אָמַר רַבִּי חֲנִינָא: תַּלְמִידֵי חֲכָמִים מַרְבִּים שָׁלוֹם בָּעוֹלָם, שֶׁנֶּאֱמַר: ״וְכׇל בָּנַיִךְ לִמּוּדֵי ה׳ וְרַב שְׁלוֹם בָּנָיִךְ״ [אַל תִּקְרֵי בָּנֶיךָ אֶלָּא בּוֹנָיִךְ].
+*Translation:* **Rabbi Elazar says** that **Rabbi Ḥanina says: Torah scholars increase peace in the world, as it is stated: “And all your children [*banayikh*] shall be taught of the Lord, and great shall be the peace of your children [*banayikh*]”** (Isaiah 54:13). The Sages interpreted this verse homiletically: Do not read: Your children [*banayikh*], but rather: Your builders [*bonayikh*], referring to the scholars who build the world through their Torah study and performance of mitzvot.
+
+**9.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ הַמֵּבִיא אָשָׁם וּסְלִיקָא לָהּ מַסֶּכֶת כְּרִיתוּת
+*Translation:* 

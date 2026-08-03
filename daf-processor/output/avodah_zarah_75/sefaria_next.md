@@ -71,3 +71,28 @@
 **18.**
 *Hebrew/Aramaic:* יוֹרָה גְּדוֹלָה, מַאי? תָּא שְׁמַע: דְּהָהוּא דּוּדָא דַּהֲוַאי בֵּי רַב עֲקַבְיָה, אַהְדַּר לַהּ.
 *Translation:* The Gemara asks: **What** does one do with **a large kettle?** The Gemara suggests: **Come** and **hear** an answer from an incident **involving a certain cauldron that was** in **the house of Rav Akavya** and required purging. **He surrounded it**
+
+
+---
+
+### Avodah Zarah 76b
+
+**1.**
+*Hebrew/Aramaic:* גְּדָנְפָא דְּלַיְשָׁא אַפּוּמַּאּ, וּמַלְּיַוהּ מַיָּא וְאַרְתְּחַהּ. אָמַר רָבָא: מַאן חַכִּים לְמֶעְבַּד כִּי הָא מִילְּתָא, אִי לָאו רַב עֲקַבְיָה דְּגַבְרָא רַבָּא הוּא? קָסָבַר: כְּבוֹלְעוֹ כָּךְ פּוֹלְטוֹ — מָה בּוֹלְעוֹ בְּנִצוֹצוֹת, אַף פּוֹלְטוֹ בְּנִצוֹצוֹת.
+*Translation:* with **a rim [*gedanfa*] of dough around its rim, and filled it with water and boiled it,** so that the water boiled along its rim. **Rava said: Who** would be **clever** enough **to perform such an action if not Rav Akavya, as he is a great man. He maintains** that **as it absorbs it so it expels it; just as** the rim **absorbs** the forbidden substance **by small drops** of it that reach the rim, **so too it expels** the forbidden substance **by small drops** of boiling water that reach the rim.
+
+**2.**
+*Hebrew/Aramaic:* הַסַּכִּין — שָׁפָהּ וְהִיא טְהוֹרָה. אָמַר רַב עוּקְבָא בַּר חָמָא: וְנוֹעֲצָהּ עֲשָׂרָה פְּעָמִים בַּקַּרְקַע. אֲמַר רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: וּבְקַרְקַע שֶׁאֵינָהּ עֲבוּדָה. אָמַר רַב כָּהֲנָא: וּבְסַכִּין יָפָה שֶׁאֵין בָּהּ גּוּמּוֹת. תַּנְיָא נָמֵי הָכִי: סַכִּין יָפָה שֶׁאֵין בָּהּ גּוּמּוֹת נוֹעֲצָהּ עֲשָׂרָה פְּעָמִים בְּקַרְקַע. אָמַר רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: לֶאֱכוֹל בָּהּ צוֹנֵן.
+*Translation:* § The mishna teaches: With regard to **the knife, one must polish it and it is** rendered **pure. Rav Ukva bar Ḥama says: And one must thrust it ten times into the ground. Rav Huna, son of Rav Yehoshua, says: And** this must be done **in untilled earth,** i.e., hard earth. **Rav Kahana says: And** this applies **to a good knife that does not have notches,** so that the entire surface of the knife is scraped against the ground. **This is also taught** in a *baraita*: With regard to **a good knife that does not have notches, one can thrust it ten times into the ground. Rav Huna, son of Rav Yehoshua, says:** This is sufficient **for** the purpose of **eating cold** food **with it.**
+
+**3.**
+*Hebrew/Aramaic:* כִּי הָא דְּמָר יְהוּדָה וּבָאטִי בַּר טוֹבִי הֲווֹ יָתְבִי קַמֵּיהּ דְּשַׁבּוּר מַלְכָּא, אַיְיתוֹ לְקַמַּיְיהוּ אֶתְרוֹגָא. פְּסַק אֲכַל, פְּסַק וְהַב לֵיהּ לְבָאטִי בַּר טוֹבִי, הֲדַר דָּצַהּ עַשְׂרָה זִימְנֵי בְּאַרְעָא, פְּסַק הַב לֵיהּ לְמָר יְהוּדָה. אֲמַר לֵיהּ בָּאטִי בַּר טוֹבִי: וְהָהוּא גַּבְרָא לָאו בַּר יִשְׂרָאֵל הוּא? אֲמַר לֵיהּ: מָר קִים לִי בְּגַוֵּיהּ, וּמָר לָא קִים לִי בְּגַוֵּיהּ.
+*Translation:* This is **like that** incident **involving Mar Yehuda,** an important personage of the house of the Exilarch, **and Bati bar Tuvi,** a wealthy man, who **were sitting before King Shapur,** the king of Persia. The king’s servants **brought an *etrog* before them.** The king **cut** a slice and **ate** it, and then he **cut** a slice **and gave** it **to Bati bar Tuvi. He then stuck** the knife **ten times in the ground, cut** a slice, and **gave** it **to Mar Yehuda. Bati bar Tuvi said to him: And is that man,** referring to himself, **not Jewish?** King Shapur **said to him: I am certain of** that **master,** Mar Yehuda, that he is meticulous about *halakha*; **but I am not certain of** that **master,** referring to Bati bar Tuvi, that he is meticulous in this regard.
+
+**4.**
+*Hebrew/Aramaic:* אִיכָּא דְאָמְרִי, אֲמַר לֵיהּ: אִידְּכַר מַאי עֲבַדְתְּ בְּאוּרְתָּא.
+*Translation:* **There are** those **who say** that King Shapur **said to him: Remember what you did last night.** The Persian practice was to present a woman to each guest, with whom he would engage in intercourse. Mar Yehuda did not accept the woman who was sent to him, but Bati bar Tuvi did, and therefore he was not assumed to be meticulous with regard to eating kosher food.
+
+**5.**
+*Hebrew/Aramaic:* הָדְרָן עֲלָךְ הַשּׂוֹכֵר אֵת הַפּוֹעֵל, וּסְלִיקָא לַהּ מַסֶּכֶת עֲבוֹדָה זָרָה.
+*Translation:* May we return to you chapter “One who rents a worker” and this is the end of Tractate Avodah Zarah

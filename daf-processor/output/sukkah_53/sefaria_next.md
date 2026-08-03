@@ -43,3 +43,60 @@
 **11.**
 *Hebrew/Aramaic:* שַׁיַּיר עֶרֶב הַפֶּסַח.
 *Translation:* The Gemara answers: **He omitted** the case of **Passover eve.** The Paschal lamb was sacrificed in three shifts. When the Paschal lamb was sacrificed they would recite *hallel*, and the recitation of *hallel* was accompanied by three blasts. Due to the great number of Paschal lambs sacrificed, they would often recite *hallel* three times during each shift. Consequently, there could be as many as twenty-seven additional blasts sounded on that day. Added to the twenty-one blasts sounded each day, the total is forty-eight blasts.
+
+
+---
+
+### Sukkah 54b
+
+**1.**
+*Hebrew/Aramaic:* אִי מִשּׁוּם עֶרֶב הַפֶּסַח — לָאו שִׁיּוּרָא הוּא, דְּהָא מַנִּי רַבִּי יְהוּדָה הִיא, דְּאָמַר: מִימֵיהֶם שֶׁל כַּת שְׁלִישִׁית לֹא הִגִּיעָה לוֹמַר ״אָהַבְתִּי כִּי יִשְׁמַע ה׳״, מִפְּנֵי שֶׁהָיוּ עַמָּהּ מוּעָטִין.
+*Translation:* The Gemara rejects this answer. **If** it is **due to** the case of **Passover eve, that is not an omission,** as **who** is the *tanna* of **this** mishna? **It is Rabbi Yehuda, who said:** Although there were three shifts in the sacrifice of the Paschal lamb, **never in the all the days of the third shift did it reach** the point in *hallel* **to recite: “I love that the Lord hears** my voice” (Psalms 116:1), which is the second paragraph of *hallel*, **because** the **people** participating in the third shift **were few.** Therefore, when they reached that section of *hallel* they had already completed the slaughter of all the offerings, and consequently only one set of blasts was sounded during this shift, for a total of forty-two.
+
+**2.**
+*Hebrew/Aramaic:* (הָא אוֹקֵימְנָא) דְּלָא כְּרַבִּי יְהוּדָה! וְדִלְמָא הַאי תַּנָּא סָבַר לַהּ כְּווֹתֵיהּ בַּחֲדָא, וּפְלִיג עֲלֵיהּ בַּחֲדָא.
+*Translation:* The Gemara wonders: **But didn’t we establish** that the mishna is **not in accordance with** the opinion of **Rabbi Yehuda?** The Gemara answers: **And perhaps this *tanna*** of the mishna **holds in accordance with** his opinion **in one** case, with regard to the third shift on Passover eve, **and disagrees with him in one** case, with regard to tallying the number of blasts.
+
+**3.**
+*Hebrew/Aramaic:* אֶלָּא: מַאי שַׁיַּיר דְּהַאי שַׁיַּיר? שַׁיַּיר עֶרֶב הַפֶּסַח שֶׁחָל לִהְיוֹת בְּעֶרֶב שַׁבָּת, אַפֵּיק שֵׁית וְעַיֵּיל שֵׁית.
+*Translation:* **But** the question remains: **What** other case **did he omit, that he omitted this** case of Rosh HaShana as well? The Gemara answers: **He omitted** the case of **Passover eve that occurs on Shabbat eve,** in which case **you eliminate six** blasts of the third shift **and incorporate six** blasts sounded each Friday. The total is forty-eight blasts.
+
+**4.**
+*Hebrew/Aramaic:* וְאֵין מוֹסִיפִין עַל אַרְבָּעִים וּשְׁמֹנֶה. וְלָא? וְהָא אִיכָּא עֶרֶב הַפֶּסַח שֶׁחָל לִהְיוֹת בְּשַׁבָּת, דְּאִי לְרַבִּי יְהוּדָה — חַמְשִׁין וַחֲדָא, אִי לְרַבָּנַן — חַמְשִׁין וּשְׁבַע!
+*Translation:* § The mishna continues: **And one** sounds **no more than forty-eight** trumpet blasts on any given day. The Gemara wonders: **And** are there **no** more than forty-eight on any day? **But isn’t there Passover eve that occurs on Shabbat, where if** it is according **to Rabbi Yehuda,** there would be **fifty-one** blasts, i.e., twenty-one daily blasts, nine for the additional offering of Shabbat, nine for the *hallel* of each of the first two shifts sacrificing the Paschal lamb, and three for the third shift; and **if** it is according **to the Rabbis,** who hold that nine blasts were sounded for the third shift as well, there would be **fifty-seven blasts?** According to both opinions, there are more than forty-eight.
+
+**5.**
+*Hebrew/Aramaic:* כִּי קָתָנֵי, מִידֵּי דְּאִיתֵיהּ בְּכׇל שָׁנָה. עֶרֶב הַפֶּסַח שֶׁחָל לִהְיוֹת בְּשַׁבָּת, דְּלֵיתֵיהּ בְּכׇל שָׁנָה וְשָׁנָה, לָא קָתָנֵי. אַטּוּ עֶרֶב שַׁבָּת שֶׁבְּתוֹךְ הַחַג מִי אִיתֵיהּ בְּכׇל שָׁנָה? זִימְנִין דְּלָא מַשְׁכַּחַתְּ לֵיהּ. וְהֵיכִי דָּמֵי, כְּגוֹן שֶׁחָל יוֹם טוֹב רִאשׁוֹן בְּעֶרֶב שַׁבָּת.
+*Translation:* The Gemara answers: **When** the *tanna* **teaches** the mishna, he is teaching **matters that** occur **every year;** the case of **Passover eve that occurs on Shabbat,** which is a matter **that does not** occur **each and every year, he does not teach.** The Gemara asks: **Is that to say** that **Shabbat eve during the Festival occurs every year? There are times when you do not find** a Friday during the intermediate days of *Sukkot*. **And what are the circumstances?** It is a case **where the first Festival** day **occurs on Shabbat eve,** and therefore the following Friday is the Eighth Day of Assembly.
+
+**6.**
+*Hebrew/Aramaic:* כִּי מִקְּלַע יוֹם טוֹב רִאשׁוֹן בְּעֶרֶב שַׁבָּת — מִדְחֵי דָּחֵינַן לֵיהּ. מַאי טַעְמָא, כֵּיוָן דְּאִיקְּלַע יוֹם טוֹב הָרִאשׁוֹן שֶׁל חַג לִהְיוֹת בְּעֶרֶב שַׁבָּת, יוֹם הַכִּפּוּרִים אֵימַת הָוֵי — בְּחַד בְּשַׁבָּת, הִלְכָּךְ דָּחֵינַן לֵיהּ.
+*Translation:* The Gemara answers: That cannot be, as **when the first Festival** day **of** *Sukkot* would **happen to occur on Shabbat eve, we postpone it** by adding a day to the month of Elul and observing both Rosh HaShana and the first day of *Sukkot* on Shabbat. **What is the reason** for doing so? The reason is: **Since if the first Festival** day **occurs on Shabbat eve, when is Yom Kippur** that year? It is **on Sunday. Therefore,** in order to avoid two consecutive days, Shabbat and Yom Kippur, when there is a severe prohibition against performing labor, **we postpone** Rosh HaShana. The first Festival day never coincides with Friday.
+
+**7.**
+*Hebrew/Aramaic:* וּמִי דָּחֵינַן לֵיהּ? וְהָא תְּנַן: חֶלְבֵי שַׁבָּת קְרֵיבִין בְּיוֹם הַכִּפּוּרִים,
+*Translation:* The Gemara asks: **And do we postpone it** to prevent Yom Kippur from occurring on Sunday? **But didn’t we learn** in a mishna: **The fats of** the offerings slaughtered and sacrificed on **Shabbat** that were not yet burned on the altar **may be sacrificed on Yom Kippur** that begins at the conclusion of Shabbat?
+
+**8.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי זֵירָא: כִּי הֲוֵינַן בֵּי רַב בְּבָבֶל, הֲוָה אָמְרִי הָא דְּתַנְיָא: יוֹם הַכִּפּוּרִים שֶׁחָל לִהְיוֹת עֶרֶב שַׁבָּת לֹא הָיוּ תּוֹקְעִין, וּבְמוֹצָאֵי שַׁבָּת לֹא הָיוּ מַבְדִּילִין — דִּבְרֵי הַכֹּל הִיא. כִּי סְלֵיקִית לְהָתָם, אַשְׁכַּחְתֵּיהּ לְרַבִּי יְהוּדָה בְּרֵיהּ דְּרַבִּי שִׁמְעוֹן בֶּן פַּזִּי, דְּיָתֵיב וְקָאָמַר: רַבִּי עֲקִיבָא הִיא!
+*Translation:* **And Rabbi Zeira said: When we were** studying **in the school of Rav in Babylonia, they said** with regard to **that which was taught** in the *baraita*: On **Yom Kippur that occurs on Shabbat eve they did not sound** the trumpets to stop the people from their labor and signify the onset of Shabbat, **and** if it occurred **at the conclusion of Shabbat they would not recite *havdala*** after Shabbat, that it is undisputed, as **everyone agrees** to that *halakha*. However, **when I ascended to there,** to Eretz Yisrael, **I found Rabbi Yehuda, son of Rabbi Shimon ben Pazi, who was sitting and saying** that this **is** the opinion of **Rabbi Akiva,** and the other Sages disagree. From both of these sources, it is apparent that Yom Kippur can occur both before and after Shabbat. The question remains: Why did the *tanna* cite a case that does not occur every year?
+
+**9.**
+*Hebrew/Aramaic:* לָא קַשְׁיָא: הָא רַבָּנַן, הָא אֲחֵרִים הִיא.
+*Translation:* The Gemara answers: This is **not difficult. This,** the mishna, from which it is understood that there will always be a Friday during the Festival, is in accordance with the opinion of **the Rabbis,** who maintain that Rosh HaShana is postponed to ensure that Yom Kippur will not occur adjacent to Shabbat. However, **this** mishna, which teaches that the fats of Shabbat may be sacrificed at the conclusion of Shabbat on Yom Kippur, and Rosh HaShana is not postponed, **is** in accordance with the opinion of ***Aḥerim*,** who maintain that there are a fixed number of days in a year and a fixed number of days in a month.
+
+**10.**
+*Hebrew/Aramaic:* דְּתַנְיָא, אֲחֵרִים אוֹמְרִים: אֵין בֵּין עֲצֶרֶת לַעֲצֶרֶת וְאֵין בֵּין רֹאשׁ הַשָּׁנָה לְרֹאשׁ הַשָּׁנָה אֶלָּא אַרְבָּעָה יָמִים בִּלְבַד, וְאִם הָיְתָה שָׁנָה מְעוּבֶּרֶת — חֲמִשָּׁה.
+*Translation:* **As it is taught** in a *baraita*: ***Aḥerim* say: Between** the festival of ***Shavuot*** one year and the festival of ***Shavuot*** the following year, **and** similarly, **between Rosh HaShana** one year and **Rosh HaShana** the following year, **there is** a difference of **only four days** of the week. **And if it was a leap year** there is a difference of **five** days between them. The 354 days in the year are divided among twelve months; six months are thirty days long and six months are twenty-nine days long. Since according to *Aḥerim* the number of days is constant, Rosh HaShana could occur on any day of the week.
+
+**11.**
+*Hebrew/Aramaic:* מֵיתִיבִי: רֹאשׁ חֹדֶשׁ שֶׁחָל לִהְיוֹת בְּשַׁבָּת — שִׁיר שֶׁל רֹאשׁ חֹדֶשׁ דּוֹחֶה שִׁיר שֶׁל שַׁבָּת. וְאִי אִיתָא, לֵימָא דְּשַׁבָּת וְלֵימָא דְּרֹאשׁ חֹדֶשׁ!
+*Translation:* § The Gemara returns to analyze the opinion of Rabbi Aḥa bar Ḥanina, who holds that the trumpet was sounded for each additional offering sacrificed on a given day. The Gemara **raises an objection:** In the case of **the New Moon that occurs on Shabbat, the song of the New Moon supersedes the song of Shabbat. And if it is so,** as Rabbi Aḥa asserts, **let us recite the song of Shabbat and let us recite the song of the New Moon.** Since only one song is recited, apparently only one set of blasts is sounded.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַב סָפְרָא: מַאי דּוֹחֶה — דּוֹחֶה לִקָּדֵם. וְאַמַּאי? תָּדִיר וְשֶׁאֵינוֹ תָּדִיר — תָּדִיר קוֹדֵם!
+*Translation:* **Rav Safra said: What** is the meaning of **supersedes? Supersedes** means **to precede,** and the song for the New Moon would precede the song of Shabbat. The Gemara asks: **And why** does the song of the New Moon precede that of Shabbat? Doesn’t the principle: When a **frequent** practice **and an infrequent** practice clash, the **frequent** practice **takes precedence** over the infrequent practice, dictate that the song of Shabbat should be recited first?
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: לֵידַע שֶׁהוּקְבַּע רֹאשׁ חֹדֶשׁ בִּזְמַנּוֹ. וְהַאי הֶיכֵּירָא עָבְדִינַן? הָא הֶיכֵּירָא אַחֲרִינָא עָבְדִינַן! (דְּתַנְיָא) חֶלְבֵי תָּמִיד שֶׁל שַׁחַר נִיתָּנִין מֵחֲצִי כֶּבֶשׁ וּלְמַטָּה בַּמִּזְרָח, וְשֶׁל מוּסָפִין נִיתָּנִין מֵחֲצִי כֶּבֶשׁ וּלְמַטָּה בַּמַּעֲרָב, וְשֶׁל רֹאשׁ חֹדֶשׁ נִיתָּנִין תַּחַת כַּרְכּוֹב הַמִּזְבֵּחַ וּלְמַטָּה.
+*Translation:* **Rabbi Yoḥanan said,** the New Moon takes precedence here, contrary to the general principle, in order **to inform** the people **that the New Moon was established at its** proper **time** by the court. The Gemara asks: **And is that the indicator that we implement** to indicate that the month was established at its proper time? **Don’t we implement a different indicator, as it is taught** in a mishna: In order to avoid confusion between the fats of earlier offerings and the fats of later offerings, prior to being placed on the altar **the fats of the daily morning offering were placed from the midpoint of the ramp and below on the east side** of the ramp, **and those of the additional offerings were placed from the midpoint of the ramp and below on the west side** of the ramp. **And** the fats of the offerings of **the New Moon** offering **were placed under the surrounding ledge of the altar and** slightly **beneath** it.

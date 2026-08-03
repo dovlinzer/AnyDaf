@@ -59,3 +59,68 @@
 **15.**
 *Hebrew/Aramaic:* מַתְנִי׳ יָשְׁנוּ מִקְצָתָן — יֹאכֵלוּ. כּוּלָּן — לֹא יֹאכֵלוּ.
 *Translation:* MISHNA: **If some of** the participants at the seder **fell asleep,** thereby interrupting their meal, **they** may **eat** from the Paschal lamb when they awake. If the **entire** company fell asleep, **they** may **not eat** any more. If they all fall asleep, this is considered a complete interruption, and if they were to resume their meal it would be akin to eating the offering in two different places.
+
+
+---
+
+### Pesachim 120b
+
+**1.**
+*Hebrew/Aramaic:* רַבִּי יוֹסֵי אוֹמֵר: נִתְנַמְנְמוּ — יֹאכֵלוּ, נִרְדְּמוּ — לֹא יֹאכֵלוּ. הַפֶּסַח אַחַר חֲצוֹת מְטַמֵּא אֶת הַיָּדַיִם. הַפִּגּוּל וְהַנּוֹתָר מְטַמְּאִין אֶת הַיָּדַיִם.
+*Translation:* **Rabbi Yosei says:** If **they dozed they** may **eat** from the Paschal lamb when they awake, but if **they fell** fast **asleep they** may **not eat** from it. The Sages further said: **The Paschal lamb after midnight renders one’s hands ritually impure,** as it becomes *notar*, an offering that remained after the time when they may be eaten has expired; and the Sages ruled that both ***piggul*,** offerings that were invalidated due to inappropriate intent while being sacrificed, **and *notar* render one’s hands ritually impure.**
+
+**2.**
+*Hebrew/Aramaic:* גְּמָ׳ רַבִּי יוֹסֵי אוֹמֵר: נִתְנַמְנְמוּ — יֹאכֵלוּ, נִרְדְּמוּ — לֹא יֹאכֵלוּ. הֵיכִי דָּמֵי נִתְנַמְנֵם? אָמַר רַב אָשֵׁי: נִים וְלָא נִים, תִּיר וְלָא תִּיר. כְּגוֹן דְּקָרֵי לֵיהּ וְעָנֵי, וְלָא יָדַע לְאַהְדּוֹרֵי סְבָרָא, וְכִי מַדְכְּרוּ לֵיהּ — מִדְּכַר.
+*Translation:* GEMARA: We learned in the mishna that **Rabbi Yosei says:** If **they dozed they** may **eat** from the Paschal lamb, but if **they fell asleep they** may **not eat** from it. The Gemara asks: **What are the circumstances** of **dozing? Rav Ashi said:** One is **asleep but not asleep, awake but not awake, when, if they call him, he** will **answer, but he is unable to provide a reasonable** answer. **And when they** later **inform him** of what happened, **he remembers** it.
+
+**3.**
+*Hebrew/Aramaic:* אַבָּיֵי הֲוָה יָתֵיב קַמֵּיהּ דְּרַבָּה. חֲזָא דְּקָא נַמְנֵם, אֲמַר לֵיהּ: מֵינָם קָא נָאֵים מָר. אֲמַר לֵיהּ: מֵינוֹמֵי קָא (מְנַמְנֵם) [מְנַמְנַמְנָא], וּתְנַן: נִתְנַמְנְמוּ — יֹאכֵלוּ, נִרְדְּמוּ — לֹא יֹאכֵלוּ.
+*Translation:* The Gemara cites a related episode: **Abaye was sitting before Rabba,** and **he saw that** Rabba **was dozing** off after he had begun to eat the final obligatory piece of *matza*. **He said to him: Is the Master sleeping?** Rabba **said to him: I am dozing, and we learned** in the mishna: If **they dozed, they** may **eat** from the Paschal lamb, but if **they fell** fast **asleep they** may **not eat** from it.
+
+**4.**
+*Hebrew/Aramaic:* הַפֶּסַח אַחַר חֲצוֹת מְטַמֵּא אֶת הַיָּדַיִם וְכוּ׳. אַלְמָא מֵחֲצוֹת הָוֵה לֵיהּ נוֹתָר. מַאן תַּנָּא?
+*Translation:* We learned in the mishna that **the Paschal lamb after midnight renders one’s hands ritually impure.** The Gemara infers: **Apparently, from midnight** and onward the Paschal lamb **is** classified as ***notar*.** The Gemara asks: **Who** is the ***tanna*** who maintains this opinion?
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב יוֹסֵף: רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה הוּא, דְּתַנְיָא: ״וְאָכְלוּ אֶת הַבָּשָׂר בַּלַּיְלָה הַזֶּה״, רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹמֵר: נֶאֱמַר כָּאן ״בַּלַּיְלָה הַזֶּה״, וְנֶאֱמַר לְהַלָּן ״וְעָבַרְתִּי בְאֶרֶץ מִצְרַיִם בַּלַּיְלָה הַזֶּה״.
+*Translation:* **Rav Yosef said: It is Rabbi Elazar ben Azarya, as it was taught** in a *baraita*: With regard to the verse **“And they shall eat of the meat on that night”** (Exodus 12:8), **Rabbi Elazar ben Azarya says: Here it is stated “on that night,”** from which it cannot be determined when the night ends. **And below it is stated: “And I will pass through the land of Egypt on that night** and I will strike every firstborn in the land of Egypt” (Exodus 12:12). The Torah states with regard to the death of the firstborns: “Thus said the Lord: At about midnight, I will go out into the midst of Egypt and every firstborn in Egypt shall die” (Exodus 11:4–5).
+
+**6.**
+*Hebrew/Aramaic:* מַה לְהַלָּן — עַד חֲצוֹת, אַף כָּאן — עַד חֲצוֹת.
+*Translation:* The *baraita* continues: **Just as** in the verse **below,** the striking of the firstborns took place **until midnight,** as stated explicitly in the verse, **so too,** in the verse **here,** the mitzva to eat the Paschal lamb continues **until midnight** but not beyond. Evidently, the Paschal lamb may not be eaten after midnight.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר לוֹ רַבִּי עֲקִיבָא: וַהֲלֹא נֶאֱמַר ״חִפָּזוֹן״ — עַד שְׁעַת חִפָּזוֹן.
+*Translation:* **Rabbi Akiva said to** Rabbi Elazar ben Azarya: **But wasn’t it** already **stated:** “Thus you shall eat it, with your loins girded, your shoes on your feet, your staffs in your hands, and you will eat it **in haste,** for it is the Paschal offering for the Lord” (Exodus 12:11)? This verse indicates that the Paschal lamb may be eaten **until the time of haste,** i.e., until dawn, as the Jewish people left Egypt the next day.
+
+**8.**
+*Hebrew/Aramaic:* אִם כֵּן, מָה תַּלְמוּד לוֹמַר ״בַּלַּיְלָה״? יָכוֹל יְהֵא נֶאֱכָל כַּקֳּדָשִׁים בַּיּוֹם — תַּלְמוּד לוֹמַר: ״בַּלַּיְלָה״, בַּלַּיְלָה הוּא נֶאֱכָל, וְאֵינוֹ נֶאֱכָל בְּיוֹם.
+*Translation:* Rabbi Akiva continues: **If** that is **so, what is** the meaning when **the verse states: “On** that **night,”** with regard to eating the Paschal lamb? The Gemara explains that this phrase is necessary, as I **might** have thought that the Paschal lamb **is eaten during the day,** like all other **offerings,** which must be slaughtered and eaten during the day. Therefore, the **verse states: “On** that **night,”** to underscore that this particular offering **is eaten at night, and it is not eaten during the day.**
+
+**9.**
+*Hebrew/Aramaic:* וְרַבִּי עֲקִיבָא, הַאי ״הַזֶּה״ מַאי עָבֵיד לֵיהּ? מִיבְּעֵי לֵיהּ לְמַעוֹטֵי לַיְלָה אַחֵר הוּא דַּאֲתָא. סָלְקָא דַּעְתָּךְ אָמֵינָא: הוֹאִיל וּפֶסַח קָדָשִׁים קַלִּים, וּשְׁלָמִים קָדָשִׁים קַלִּים — מָה שְׁלָמִים נֶאֱכָלִים לִשְׁנֵי יָמִים וְלַיְלָה אֶחָד, אַף פֶּסַח;
+*Translation:* The Gemara asks: **And Rabbi Akiva, what does he do with** the word **“that”?** As he doesn’t use it for a verbal analogy, what does Rabbi Akiva learn from this word? The Gemara answers: **He needs it to exclude another night. It could enter your mind to say that since the Paschal lamb** falls into the category of **offerings of lesser sanctity,** and **peace-offerings are** also **offerings of lesser sanctity, just as peace-offerings** may **be eaten for two days and one night,** i.e., the day they are sacrificed through the following day, as stated in the Torah, **so too,** the same *halakha* should apply to **the Paschal lamb.**
+
+**10.**
+*Hebrew/Aramaic:* אוֹקֵים לֵילוֹת בִּמְקוֹם יָמִים, וִיהֵא נֶאֱכָל לִשְׁנֵי לֵילוֹת וְיוֹם אֶחָד, כְּתַב רַחֲמָנָא: ״הַזֶּה״.
+*Translation:* The Gemara explains the previous statement. How could the Paschal lamb be eaten for two days and one night if one starts eating it at night? The Gemara explains: One may say: **I will substitute the nights** that the Paschal lamb may be eaten **instead of the days** that a peace-offering is eaten. **And** accordingly, the Paschal lamb may **be eaten for two nights and one day.** Therefore, **the Torah wrote** the word **“that,”** to teach that the Paschal lamb may be eaten only on that one night.
+
+**11.**
+*Hebrew/Aramaic:* וְרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אָמַר לָךְ: מִ״לֹּא תוֹתִירוּ עַד בֹּקֶר״ נָפְקָא הָא.
+*Translation:* **And Rabbi Elazar ben Azarya,** from where might he derive the *halakha* that the Paschal lamb may not be eaten for two nights? Rabbi Elazar ben Azarya could have **said to you: This** *halakha* is **derived from** the verse: **“You shall let nothing** of it **remain until the morning;** and that of it which remains until the morning you shall burn with fire” (Exodus 12:10). If it is prohibited to leave any part of the Paschal lamb until the morning, it is certainly prohibited to leave any of it until the following night. Therefore, it is unnecessary to cite an additional source to teach that the Paschal lamb may be eaten only on the first night.
+
+**12.**
+*Hebrew/Aramaic:* וְרַבִּי עֲקִיבָא אָמַר לָךְ: אִי לָא כְּתַב רַחֲמָנָא ״הַזֶּה״, הֲוָה אָמֵינָא: מַאי ״בֹּקֶר״ — בֹּקֶר שֵׁנִי. וְרַבִּי אֶלְעָזָר אָמַר לָךְ: כׇּל הֵיכָא דִּכְתַב ״בֹּקֶר״ — בֹּקֶר רִאשׁוֹן הוּא.
+*Translation:* **And Rabbi Akiva** could have **said to you,** in response to this argument: **If the Torah hadn’t written** “on **that** night,” **I would have said: What is** indicated by the word **“morning”** in that verse? It means **the second morning** after the Festival, the day of the sixteenth of Nisan. Therefore, it was necessary for the Torah to write that one may eat the Paschal lamb only on that night and no other. **And Rabbi Elazar** could have **said to you** in response: **Anywhere that** the Torah **writes “morning,”** it is referring to **the first,** i.e., the next **morning.** If that were not the case, no biblical text could have any definitive meaning.
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רָבָא: אָכַל מַצָּה בִּזְמַן הַזֶּה אַחַר חֲצוֹת, לְרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה לֹא יָצָא יְדֵי חוֹבָתוֹ. פְּשִׁיטָא! דְּכֵיוָן דְּאִיתַּקַּשׁ לְפֶסַח — כְּפֶסַח דָּמֵי.
+*Translation:* **Rava said: Nowadays,** if one **ate *matza* after midnight,** according to the opinion of **Rabbi Elazar ben Azarya, he has not fulfilled his obligation.** The Gemara expresses surprise at this statement: It is **obvious** that this is the case, **for since** the verse juxtaposes *matza* to **the Paschal lamb,** it is **considered like the Paschal lamb,** and therefore *matza* may also be eaten only until midnight.
+
+**14.**
+*Hebrew/Aramaic:* מַהוּ דְּתֵימָא: הָא אַפְּקֵיהּ קְרָא מֵהֶיקֵּישָׁא. קָמַשְׁמַע לַן דְּכִי אַהְדְּרֵיהּ קְרָא — לְמִילְּתָא קַמַּיְיתָא אַהְדְּרֵיהּ.
+*Translation:* The Gemara answers: Rava’s statement is necessary, **lest you say** that **the verse has removed** the *halakha* of *matza* **from** this **juxtaposition,** as Rava maintains that eating *matza* is a distinct mitzva that applies even nowadays. One might therefore have thought that the *halakhot* of eating *matza* differ entirely from those of the Paschal lamb. Rava therefore **teaches us that when the verse repeats** the mitzva to eat *matza* on the first night, **it restores** this mitzva **to its original status,** which means that one may eat *matza* only at a time when he may also eat the Paschal lamb.
+
+**15.**
+*Hebrew/Aramaic:* הַפִּיגּוּל וְהַנּוֹתָר מְטַמֵּא אֶת הַיָּדַיִם וְכוּ׳. רַב הוּנָא וְרַב חִסְדָּא, חַד אָמַר: מִשּׁוּם חֲשֵׁדֵי כְהוּנָּה, וְחַד אָמַר: מִשּׁוּם עֲצֵלֵי כְהוּנָּה. חַד אָמַר: כְּזַיִת, וְחַד אָמַר: כְּבֵיצָה.
+*Translation:* The mishna taught that ***piggul* and *notar* render one’s hands ritually impure.** This issue is subject to a dispute between **Rav Huna and Rav Ḥisda. One** of them **said:** The reason for this enactment is **due to suspected priests,** i.e., priests who were suspected of invalidating offerings; **and** the other **one said** the reason is **due to lazy priests.** Rav Huna and Rav Ḥisda also disagree about another matter: **One** of them **said** that the ritual impurity of *notar* and *piggul* applies even to **an olive-bulk** of the meat; **and one** of them **said** it applies only to **an egg-bulk.**

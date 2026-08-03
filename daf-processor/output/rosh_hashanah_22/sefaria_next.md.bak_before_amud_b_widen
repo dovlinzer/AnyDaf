@@ -1,0 +1,57 @@
+### Rosh Hashanah 23a
+
+**1.**
+*Hebrew/Aramaic:* לְמִיטְעֵי, אָמְרִי: הַאי חָסֵר הוּא, וְהַאי דְּלָא עֲבִיד מֵאֶתְמוֹל, מִשּׁוּם דְּלָא אֶפְשָׁר. אוֹ דִלְמָא מָלֵא הוּא, וּבִזְמַנּוֹ עֲבַדוּ.
+*Translation:* **to err.** They will be unsure how to interpret the lighting of the torches, as **they will say:** Perhaps **this** month **is deficient,** i.e., of twenty-nine days, **and** the reason **that** the torch sequence **was not performed yesterday,** on Shabbat eve, **is due to** the fact that **it was impossible** to do so on Shabbat. **Or perhaps it is** a **full,** thirty-day month, **and they are performing** the sequence **at its** proper **time.** Therefore, the Sages instituted that the torches should be lit only after deficient months, and the absence of this signal means that the month was a full one.
+
+**2.**
+*Hebrew/Aramaic:* וְלֶיעְבֵּיד בֵּין אַמָּלֵא בֵּין אַחָסֵר, וְכִי מִקְּלַע רֹאשׁ חֹדֶשׁ בְּעֶרֶב שַׁבָּת לָא לֶיעְבֵּיד כְּלָל. וְכֵיוָן דְּלָא עָבְדִינַן מוֹצָאֵי שַׁבָּת וְעָבְדִינַן אַמָּלֵא — מִידָּע יָדְעִי דְּחָסֵר הוּא!
+*Translation:* The Gemara suggests: **And let them perform** the ceremony **both for a full,** thirty-day month **and for a deficient** one, **and when the New Moon occurs on Shabbat eve,** in which case they would have to light the torches after Shabbat, let them **not perform** it **at all. And since** the torches **are not lit** this month **at the conclusion of Shabbat, and one** normally performs the sequence **for a full month,** people **will know that** the month **is deficient.** In this manner, it should be possible to light the torches for all the months, with this one exception.
+
+**3.**
+*Hebrew/Aramaic:* אֲפִילּוּ הָכִי אָתוּ לְמִיטְעֵי, אָמְרִי: הַאי מָלֵא הוּא, וְהַאי דְּלָא עָבְדִי — אִיתְּנוֹסֵי הוּא דְּאִיתְּנוּסי.
+*Translation:* The Gemara answers: **Even so,** people might **come to err,** as **they will say: This** month **is** indeed **full, and** the reason **that they are not performing** the ceremony **is** that **they were** subject to **circumstances beyond their control.** Therefore, there might still be confusion as to the date of the New Moon that month.
+
+**4.**
+*Hebrew/Aramaic:* וְלֶיעְבֵּיד אַמָּלֵא, וְלָא לֶיעְבֵּיד אַחָסֵר כְּלָל! אָמַר אַבָּיֵי: מִשּׁוּם בִּיטּוּל מְלָאכָה לָעָם שְׁנֵי יָמִים.
+*Translation:* The Gemara asks: **And let them perform** the ceremony of torches only **for a full,** thirty-day month, **and not perform it for a deficient** month **at all,** in which case there will never be room for error. **Abaye said:** This cannot be done, **because** this would lead to **a two-day suspension of work for the people,** as it was customary to refrain from certain types of work on the New Moon. After a full month there will always be a suspension of work for two days, as the people must abstain from work on the thirtieth of the month in case it is declared the New Moon. However, if the torches are lit for a deficient month, then at least in that case people could return to work the following day. Therefore, the Sages instituted that the torches are lit only for a deficient month.
+
+**5.**
+*Hebrew/Aramaic:* כֵּיצַד הָיוּ מַשִּׂיאִין מַשּׂוּאוֹת — מְבִיאִין כְּלוֹנְסוֹת כּוּ׳. אָמַר רַב יְהוּדָה, אַרְבָּעָה מִינֵי אֲרָזִים הֵן: אֶרֶז, קַתְרוֹם, עֵץ שֶׁמֶן, וּבְרוֹשׁ. קַתְרוֹם, אָמַר רַב: אַדְרָא. דְּבֵי רַבִּי שֵׁילָא אָמְרִי: מַבְלִיגָא, וְאָמְרִי לַהּ זוֹ גּוּלְמֵישׁ.
+*Translation:* § The mishna taught: **How would they light** the **torches? They would bring long poles [*kelonsot*]** of cedar and other materials that burn well, tie them all together, and set them on fire. **Rav Yehuda said** that **there are four types of cedar: Cedar, *katrom*, pinewood, and cypress.** With regard to the identification of the tree called ***katrom*, Rav said:** This is the ***addera*** tree. In **the school of Rabbi Sheila, they say:** This is the ***mavliga*** tree. **And some say** it is the ***gulmish*** tree.
+
+**6.**
+*Hebrew/Aramaic:* וּפְלִיגָא דְּרַבָּה בַּר רַב הוּנָא. דְּאָמַר רַבָּה בַּר רַב הוּנָא, אָמְרִי בֵּי רַב: עֲשָׂרָה מִינֵי אֲרָזִים הֵם, שֶׁנֶּאֱמַר: ״אֶתֵּן בַּמִּדְבָּר אֶרֶז שִׁטָּה וַהֲדַס וְעֵץ שָׁמֶן אָשִׂים בָּעֲרָבָה בְּרוֹשׁ תִּדְהָר וּתְאַשּׁוּר יַחְדָּו״. אֶרֶז — אַרְזָא, שִׁטָּה — תּוּרְנִיתָא, הֲדַס — אַסָּא, עֵץ שֶׁמֶן — אֲפַרְסְמָא, בְּרוֹשׁ — בְּרָתָא, תִּדְהָר — שָׁאגָא, תְּאַשּׁוּר — שׁוּרִיבְנָא.
+*Translation:* The Gemara comments: **And** this opinion of Rav Yehuda **disagrees with** that of **Rabba bar Rav Huna. As Rabba bar Rav Huna said** that **they say in the school of Rav: There are ten species of cedar, as it is stated: “I will plant in the wilderness the cedar, the acacia tree and myrtle and the pine tree; I will set in the desert cypress, the plane tree, and the larch together”** (Isaiah 41:19). The seven species mentioned in this verse are all types of cedars. The Gemara proceeds to identify these trees by their Aramaic names: **Cedar is *arza*, acacia is *tornita*, myrtle is *asa*, pine tree is *afarsema*, cypress is *berata*, maple is *shaga*,** and **box tree is *shorivna*.**
+
+**7.**
+*Hebrew/Aramaic:* הָנֵי שִׁבְעָה הָווּ! כִּי אֲתָא רַב דִּימִי, אָמַר: הוֹסִיפוּ עֲלֵיהֶם אַלּוֹנִים, אַלְמוֹנִים, אַלְמוּגִּין. אַלּוֹנִים — בּוּטְמֵי, אַלְמוֹנִים — בָּלוּטֵי, אַלְמוּגִּין — כְּסִיתָא. אִיכָּא דְּאָמְרִי: אַרוּנִּים, עַרְמוֹנִים, אַלְמוּגִּין. אַרוּנִּים — עָרֵי, עַרְמוֹנִים — דּוּלְבֵי, אַלְמוּגִּין — כְּסִיתָא.
+*Translation:* The Gemara asks: Even if we count all the names in the verse, **these are** only **seven,** not ten. **When Rav Dimi came** from Eretz Israel to Babylonia, **he said: They added to them** three more types of cedar: **Terebinth, oak,** and **coral wood.** The Gemara identifies them: **Terebinth** is the tree called ***butmei*, oak is *balutei*,** and **coral wood is *kasita*. There are** those **who say** that the additional three types are: **Bay tree, plane tree,** and **coral wood.** And their Aramaic names are as follows: **Bay tree** is ***arei*, plane** is ***dulvei*,** and **coral wood** is ***kasita*.**
+
+**8.**
+*Hebrew/Aramaic:* ״וְצִי אַדִּיר לֹא יַעַבְרֶנּוּ״ — אָמַר רַב: זוֹ בּוּרְנִי גְּדוֹלָה.
+*Translation:* § Apropos coral, the Gemara cites a relevant verse: **“Neither shall a *tzi adir* be able to cross it”** (Isaiah 33:21), i.e., it will not be able to traverse the river that will issue forth from the Temple in the future. What is this *tzi adir*? **Rav said: This is a great ship [*burnei*]** used to collect coral from the sea.
+
+**9.**
+*Hebrew/Aramaic:* הֵיכִי עָבְדִי? מַיְיתוּ שֵׁית אַלְפֵי גַּבְרֵי בִּתְרֵיסַר יַרְחֵי שַׁתָּא, וְאָמְרִי לַהּ תְּרֵיסַר אַלְפֵי גַּבְרֵי בְּשִׁיתָּא יַרְחֵי שַׁתָּא, וְטָעֲנִי לַהּ חָלָא עַד דְּשָׁכְנָא. וְנָחֵית בַּר אָמוֹרַאי וְקָטַר אֲטוּנֵי דְכִיתָּנָא בִּכְסִיתָא, וְקָטַר לְהוּ בִּסְפִינְתָּא. וְנָטְלִי חָלָא וְשָׁדוּ לְבָרַאי, וְכַמָּה דְּמִדַּלְיָא — עָקְרָא וּמַתְיָא.
+*Translation:* The Gemara explains: **How do they perform** this collection of coral? **They bring six thousand men** to work **for twelve months** of **the year, and some say** they bring **twelve thousand men for six months** of **the year. And they load** the ship **with sand until it sinks** to the bottom of the sea. **A diver descends and ties flax ropes around the coral and ties** the other ends of the ropes **to the boat. And** then **they take the sand and cast it overboard,** and the boat rises once again to the surface. **And as it rises, it uproots and brings** the coral with it.
+
+**10.**
+*Hebrew/Aramaic:* וּמַחְלֵיף עַל חַד תְּרֵין בְּכַסְפָּא. תְּלָת פַּרְווֹתָא הָוְיָין: תַּרְתֵּי בֵּי רוֹמָאֵי וַחֲדָא דְּבֵי פָרְסָאֵי. דְּבֵי רוֹמָאֵי מַסְּקָן כְּסִיתָא, דְּבֵי פָרְסָאֵי מַסְּקָן מַרְגָּנְיָיתָא, וּמִקַּרְיָיא: פַּרְווֹתָא דְמַשְׁמְהִיג.
+*Translation:* The Gemara comments: **And** this coral is so precious that **it is exchanged for twice its weight in silver.** The Gemara further notes: **There are three ports** in those places. **Two** belong **to the Romans [*Armai*], and one** belongs **to the Persians.** In the one belonging **to the Romans, they raise up coral,** whereas in the one belonging **to the Persians, they raise up pearls. And** the Persian ports **are called royal ports.**
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: כׇּל שִׁיטָּה וְשִׁיטָּה שֶׁנָּטְלוּ גּוֹיִם מִירוּשָׁלַיִם, עָתִיד הַקָּדוֹשׁ בָּרוּךְ הוּא לְהַחֲזִירָן לָהּ, שֶׁנֶּאֱמַר: ״אֶתֵּן בַּמִּדְבָּר אֶרֶז שִׁטָּה״, וְאֵין מִדְבָּר אֶלָּא יְרוּשָׁלַיִם, שֶׁנֶּאֱמַר: ״צִיּוֹן מִדְבָּר הָיְתָה וְגוֹ׳״.
+*Translation:* With regard to the aforementioned verse, **Rabbi Yoḥanan said: Each and every acacia tree that the gentiles took from Jerusalem will be returned to** the city **by the Holy One, Blessed be He, as it is stated: “I will plant in the wilderness the cedar, the acacia tree** and myrtle and the oil tree; I will set in the desert cypress, the plane tree and the larch together” (Isaiah 41:19). **And** the term **wilderness** is referring to **nothing other** than **Jerusalem, as it is stated: “Zion is become a wilderness,** Jerusalem a desolation” (Isaiah 64:9).
+
+**12.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי יוֹחָנָן: כׇּל הַלּוֹמֵד תּוֹרָה וְאֵינוֹ מְלַמְּדָהּ, דּוֹמֶה לַהֲדַס בַּמִּדְבָּר. אִיכָּא דְאָמְרִי: כׇּל הַלּוֹמֵד תּוֹרָה וּמְלַמְּדָהּ בִּמְקוֹם שֶׁאֵין תַּלְמִידֵי חֲכָמִים — דּוֹמֶה לַהֲדַס בַּמִּדְבָּר, דְּחַבִּיב.
+*Translation:* **And Rabbi Yoḥanan** also **said: Anyone who studies Torah but does not teach it** to others **is likened to a myrtle in the wilderness.** The myrtle has a pleasant fragrance, but there is nobody to enjoy it in the wilderness. **There are** those **who say** a different version of this statement: **Anyone who studies Torah and teaches it** to others **in a place where there are no** other **Torah scholars is likened to a myrtle in the wilderness, which is** especially **precious** and thoroughly enjoyed by those who find it.
+
+**13.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי יוֹחָנָן: אוֹי לָהֶם לַגּוֹיִם, שֶׁאֵין לָהֶם תַּקָּנָה, שֶׁנֶּאֱמַר: ״תַּחַת הַנְּחֹשֶׁת אָבִיא זָהָב וְתַחַת הַבַּרְזֶל אָבִיא כֶסֶף וְתַחַת הָעֵצִים נְחֹשֶׁת וְתַחַת הָאֲבָנִים בַּרְזֶל״. תַּחַת רַבִּי עֲקִיבָא וַחֲבֵירָיו מַאי מְבִיאִין! וַעֲלֵיהֶם הוּא אוֹמֵר: ״וְנִקֵּיתִי דָּמָם לֹא נִקֵּיתִי״.
+*Translation:* **And Rabbi Yoḥanan** further **said: Woe to the nations** of the world, **as they have no remedy** for the sins they committed against the Jewish people, **as it is stated: “For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron”** (Isaiah 60:17). For all things there is a remedy, as one can always exchange them for an item of equivalent or greater value. However, **for Rabbi Akiva and his colleagues,** whom the nations put to death, **what can one bring** to atone for their sin? **And with regard to them it is stated: And I will hold** them **as innocent, but for their blood I will not hold** them **innocent** (see Joel 4:21).
+
+**14.**
+*Hebrew/Aramaic:* וּמֵאַיִן הָיוּ מַשִּׂיאִין מַשּׂוּאוֹת כּוּ׳ וּמִבֵּית בִּלְתִּין. מַאי בֵּית בִּלְתִּין? אָמַר רַב:
+*Translation:* § The mishna states: **And from** which mountains **would they light** the **torches?** From the Mount of Olives to Sartava, and from Sartava to Gerofina, and from Gerofina to Ḥavran, and from Ḥavran to Beit Baltin. **And from Beit Baltin** they would not light torches in any other pre-established places. The Gemara asks: **What is** this place called **Beit Baltin? Rav said:**

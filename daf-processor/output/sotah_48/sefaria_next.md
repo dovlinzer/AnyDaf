@@ -21,7 +21,7 @@
 *Translation:* **Rabbi Yehuda, son of Rabbi Ḥiyya, says:** With regard to **any Torah scholar who engages in Torah** study **while experiencing the pressure** of poverty, **his prayer is listened to, as it is stated: “For, O people that dwells in Zion at Jerusalem, you shall weep no more; He will surely be gracious to you at the voice of your cry. When He shall hear, He will answer you”** (Isaiah 30:19), **and after it is written: “And the Lord shall give you sparse bread and scant water”** (Isaiah 30:20). This verse indicates that those who sit and study Torah, that is, the people who dwell in Zion, and eat bread sparingly, will have their prayers answered by God.
 
 **6.**
-*Hebrew/Aramaic:* רַבִּי אֲבָהוּ אוֹמֵר: מַשְׁבִּיעִין אוֹתוֹ מִזִּיו שְׁכִינָה, שֶׁנֶּאֱמַר: ״וְהָיוּ עֵינֶיךָ רֹאוֹת אֶת מוֹרֶיךָ״. רַבִּי אַחָא בַּר חֲנִינָא אָמַר: אַף אֵין הַפַּרְגּוֹד נִנְעָל בְּפָנָיו, שֶׁנֶּאֱמַר: ״וְלֹא יִכָּנֵף עוֹד מוֹרֶיךָ״.
+*Hebrew/Aramaic:* רַבִּי אֲבָהוּ אוֹמֵר: מַשְׂבִּיעִין אוֹתוֹ מִזִּיו שְׁכִינָה, שֶׁנֶּאֱמַר: ״וְהָיוּ עֵינֶיךָ רֹאוֹת אֶת מוֹרֶיךָ״. רַבִּי אַחָא בַּר חֲנִינָא אָמַר: אַף אֵין הַפַּרְגּוֹד נִנְעָל בְּפָנָיו, שֶׁנֶּאֱמַר: ״וְלֹא יִכָּנֵף עוֹד מוֹרֶיךָ״.
 *Translation:* **Rabbi Abbahu says:** A Torah scholar who engages in Torah study despite economic pressures **is satiated with the glory of the Divine Presence, as it is stated** in the same verse, above: **“And your eyes shall behold your Teacher.” Rabbi Aḥa, son of Ḥanina, said: Even the** concealing **partition** [***pargod***] before the Divine Presence **is not locked before him, as it is stated: “And your Teacher shall not hide Himself anymore”** (Isaiah 30:20).
 
 **7.**
@@ -75,3 +75,88 @@
 **19.**
 *Hebrew/Aramaic:* רַבִּי אֱלִיעֶזֶר הַגָּדוֹל אוֹמֵר: מִיּוֹם שֶׁחָרַב בֵּית הַמִּקְדָּשׁ שָׁרוֹ חַכִּימַיָּא לְמֶהֱוֵי כְּסָפְרַיָּא, וְסָפְרַיָּא כְּחַזָּנַיָּא, וְחַזָּנַיָּא כְּעַמָּא דְאַרְעָא, וְעַמָּא דְאַרְעָא
 *Translation:* **Rabbi Eliezer the Great says: From the day the** Second **Temple was destroyed,** the generations have deteriorated: **Scholars have begun to become like scribes** that teach children, **and scribes have become like beadles, and beadles have become like ignoramuses, and ignoramuses**
+
+
+---
+
+### Sotah 49b
+
+**1.**
+*Hebrew/Aramaic:* אָזְלָא (וְדַלְדַּלָהּ) [וְנָוְולָה], וְאֵין שׁוֹאֵל וְאֵין מְבַקֵּשׁ. עַל מִי יֵשׁ לְהִשָּׁעֵן — עַל אָבִינוּ שֶׁבַּשָּׁמַיִם.
+*Translation:* **are increasingly diminished, and none ask and none seek. Upon whom is there to rely?** Only **upon our Father in Heaven.**
+
+**2.**
+*Hebrew/Aramaic:* בְּעִקְבוֹת מְשִׁיחָא חוּצְפָּא יִסְגֵּא וְיוֹקֶר יַאֲמִיר. הַגֶּפֶן תִּתֵּן פִּרְיָהּ וְהַיַּיִן בְּיוֹקֶר, וּמַלְכוּת תֵּהָפֵךְ לְמִינוּת וְאֵין תּוֹכַחַת. בֵּית וַועַד יִהְיֶה לִזְנוּת וְהַגָּלִיל יֶחֱרַב, וְהַגַּבְלָן יִשּׁוֹם, וְאַנְשֵׁי הַגְּבוּל יְסוֹבְבוּ מֵעִיר לְעִיר וְלֹא יְחוֹנְנוּ,
+*Translation:* He also said: **In the** times of the **approach of the Messiah, impudence will increase and high costs will pile up.** Although **the vine shall bring forth its fruit, wine will** nevertheless **be expensive. And** the **monarchy shall turn to heresy, and** there will be **no** one to give **reproof** about this. **The meeting place** of the Sages **will become** a place of **promiscuity, and the Galilee shall be destroyed, and the Gavlan will be desolate, and the men of the border shall go round from city to city** to seek charity, **but they will find no mercy.**
+
+**3.**
+*Hebrew/Aramaic:* וְחַכְמוֹת סוֹפְרִים תִּסְרַח, וְיִרְאֵי חֵטְא יִמָּאֵסוּ, וְהָאֱמֶת תְּהֵא נֶעֱדֶרֶת. נְעָרִים פְּנֵי זְקֵנִים יַלְבִּינוּ, זְקֵנִים יַעַמְדוּ מִפְּנֵי קְטַנִּים — בֵּן מְנַוֵּול אָב, בַּת קָמָה בְאִמָּהּ, כַּלָּה בַּחֲמוֹתָהּ, אוֹיְבֵי אִישׁ אַנְשֵׁי בֵיתוֹ, פְּנֵי הַדּוֹר כִּפְנֵי הַכֶּלֶב, הַבֵּן אֵינוֹ מִתְבַּיֵּישׁ מֵאָבִיו, וְעַל מָה יֵשׁ לָנוּ לְהִשָּׁעֵן — עַל אָבִינוּ שֶׁבַּשָּׁמַיִם.
+*Translation:* **And the wisdom of scribes will putrefy, and people who fear sin will be held in disgust, and the truth will be absent. The youth will shame the face of elders, elders will stand before minors.** Normal family relations will be ruined: **A son will disgrace a father; a daughter will rise up against her mother, a daughter-in-law against her mother-in-law. A man’s enemies** will be **the members of his household. The face of the generation** will be **like the face of a dog; a son will no** longer **be ashamed before his father. And upon what is there for us to rely?** Only **upon our Father in heaven.**
+
+**4.**
+*Hebrew/Aramaic:* (גְּמָ׳) אָמַר רַב: לֹא שָׁנוּ אֶלָּא שֶׁל מֶלַח וְגׇפְרִית, אֲבָל שֶׁל הֲדַס וְשֶׁל וֶורֶד — מוּתָּר. וּשְׁמוּאֵל אוֹמֵר: אַף שֶׁל הֲדַס וְשֶׁל וֶורֶד אָסוּר, שֶׁל קָנִים וְשֶׁל חִילָת — מוּתָּר. וְלֵוִי אָמַר: אַף שֶׁל קָנִים וְשֶׁל חִילָת אָסוּר. וְכֵן תָּנֵי לֵוִי בְּמַתְנִיתֵיהּ: אַף שֶׁל קָנִים וְשֶׁל חִילָת אָסוּר.
+*Translation:* § **Rav says** concerning the decree banning the wearing of crowns that **they taught** this *halakha* **only** with regard to crowns **of salt and sulfur, but** those **of myrtle and rose are permitted. And Shmuel says** that **even** crowns **of myrtle and rose are prohibited,** but those made **of reeds and bulrush are permitted. And Levi says: Even** crowns **of reeds and bulrush are prohibited. And likewise Levi teaches in his *baraita*: Even** those **of reeds and bulrush are prohibited.**
+
+**5.**
+*Hebrew/Aramaic:* וְעַל הָאִירוּס. מַאי ״אִירוּס״? אָמַר רַבִּי אֶלְעָזָר: טַבְלָא דְּחַד פּוּמָּא. רַבָּה בַּר רַב הוּנָא עֲבַד לֵיהּ לִבְרֵיהּ טַנְבּוּרָא, אֲתָא אֲבוּהּ תַּבְרֵיהּ, אֲמַר לֵיהּ: מִיחַלַּף בְּטַבְלָא דְּחַד פּוּמָּא, זִיל עֲבֵיד לֵיהּ אַפּוּמָּא דְחַצְבָּא אוֹ אַפּוּמָּא דִקְפִיזָא.
+*Translation:* The mishna taught that the Sages decreed against the wearing of crowns for bridegrooms **and upon the drums.** The Gemara poses a question: **What is** this **drum [*irus*]? Rabbi Elazar says: A drum with one mouth.** The Gemara relates a story involving this instrument: **Rabba bar Rav Huna made a tambourine for his son. His father,** Rav Huna, **came** and **broke it. He said to him:** This instrument will be **confused for a drum with one mouth,** and people will assume that a drum with one mouth is permitted. Instead, **go and make for him** a small drum **on the mouth of an earthen jug [*ḥatzava*], or on the mouth of** a container used for measuring **a *kefiza*,** a small measurement, which did not pose the concern of being confused with a drum with one mouth.
+
+**6.**
+*Hebrew/Aramaic:* בְּפוּלְמוּס שֶׁל טִיטוּס גָּזְרוּ עַל עַטְרוֹת כַּלּוֹת וְכוּ׳. מַאי ״עַטְרוֹת כַּלּוֹת״? אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: עִיר שֶׁל זָהָב. תַּנְיָא נָמֵי הָכִי: אֵיזֶהוּ עַטְרוֹת כַּלּוֹת — עִיר שֶׁל זָהָב, אֲבָל עוֹשֶׂה אוֹתָהּ כִּיפָּה שֶׁל מֵילָת.
+*Translation:* They further taught that **in the war of Titus** the Sages **decreed upon the crowns of brides.** The Gemara clarifies: **What are** the **crowns of brides? Rabba bar bar Ḥana says** that **Rabbi Yoḥanan says: A city of gold,** a gold crown engraved with the design of a city, worn by women as an ornament. **This is also taught** in a *baraita*: **Which are** the **crowns of brides** that were forbidden? The crown of a bride is **a city of gold. However, one may make it as a cap of fine wool [*meilat*].**
+
+**7.**
+*Hebrew/Aramaic:* תָּנָא: אַף עַל חוּפַּת חֲתָנִים גָּזְרוּ. מַאי ״חוּפַּת חֲתָנִים״? זְהוֹרִיֹּת הַמּוּזְהָבוֹת. תַּנְיָא נָמֵי הָכִי: אֵלּוּ הֵן חוּפַּת חֲתָנִים — זְהוֹרִיֹּת הַמּוּזְהָבוֹת, אֲבָל עוֹשֶׂה פַּפִּירִית וְתוֹלֶה בָּהּ כֹּל מַה שֶּׁיִּרְצֶה.
+*Translation:* The Sage **taught:** The Sages **even decreed upon the canopy of grooms.** The Gemara asks: **What is** the type of **canopy of grooms** that was prohibited, as they certainly did not ban the marriage canopy. The Gemara answers: It means **the golden crimson [*zehorit*]** clothes, dyed red and crimson and decorated with gold, which they would hang on a marriage canopy. **This is also taught** in a *baraita*: **These are the canopy of grooms** the Sages banned: **The golden crimson** clothes. **But he may make a papyrus [*papirit*]** construction **and hang upon it whatever he wants,** even ornaments made of gold.
+
+**8.**
+*Hebrew/Aramaic:* וְשֶׁלֹּא יְלַמֵּד אֶת בְּנוֹ יְווֹנִית. תָּנוּ רַבָּנַן: כְּשֶׁצָּרוּ מַלְכֵי בֵּית חַשְׁמוֹנַאי זֶה עַל זֶה, הָיָה הוּרְקָנוֹס מִבַּחוּץ, וְאַרִיסְטוֹבֻּלוּס מִבִּפְנִים. בְּכׇל יוֹם וָיוֹם הָיוּ מְשַׁלְשְׁלִין דִּינָרִים בְּקוּפָּה, וּמַעֲלִין לָהֶן תְּמִידִים.
+*Translation:* § The mishna taught that during the war of Titus the Sages decreed **that a person should not teach his son Greek. The Sages taught** that this decree came about as a result of the following incident: **When the kings of the Hasmonean monarchy besieged each other** in their civil war, **Hyrcanus was outside of** Jerusalem, besieging it, **and Aristoblus was inside. On each and every day they would lower dinars in a box** from inside the city, **and** those on the outside **would send up** animals for them to bring the **daily offerings** in the Temple.
+
+**9.**
+*Hebrew/Aramaic:* הָיָה שָׁם זָקֵן אֶחָד שֶׁהָיָה מַכִּיר בְּחׇכְמַת יְווֹנִית, לָעַז לָהֶם בְּחׇכְמַת יְווֹנִית, אָמַר לָהֶן: כׇּל זְמַן שֶׁעוֹסְקִים בַּעֲבוֹדָה — אֵין נִמְסָרִין בְּיֶדְכֶם. לְמָחָר שִׁלְשְׁלוּ לָהֶם דִּינָרִים בְּקוּפָּה וְהֶעֱלוּ לָהֶם חֲזִיר. כֵּיוָן שֶׁהִגִּיעַ לַחֲצִי חוֹמָה, נָעַץ צִפׇּרְנָיו, נִזְדַּעְזְעָה אֶרֶץ יִשְׂרָאֵל אַרְבַּע מֵאוֹת פַּרְסָה.
+*Translation:* **A certain Elder was there,** in Jerusalem, **who was familiar with Greek wisdom. He communicated to** those on the outside **by** means of **Greek wisdom,** using words understood only by those proficient in Greek wisdom. **He said to them: As long as they are engaged in the** Temple **service, they will not be delivered into your hands.** Upon hearing this, **on the following day,** when **they lowered dinars in a box, they sent up a pig to them. Once** the pig **reached halfway** up the **wall, it inserted its hooves** into the wall and **Eretz Yisrael shuddered four hundred parasangs.**
+
+**10.**
+*Hebrew/Aramaic:* אוֹתָהּ שָׁעָה אָמְרוּ: אָרוּר אָדָם שֶׁיְּגַדֵּל חֲזִירִים, וְאָרוּר אָדָם שֶׁיְּלַמֵּד לִבְנוֹ חׇכְמַת יְווֹנִית. וְעַל אוֹתָהּ שָׁנָה שָׁנִינוּ: מַעֲשֶׂה וּבָא עוֹמֶר מִגַּגּוֹת צְרִיפִים, וּשְׁתֵּי הַלֶּחֶם מִבִּקְעַת עֵין סוֹכֵר.
+*Translation:* When the Sages saw this, **they said** at **that time: Cursed is the person who raises pigs, and cursed is the person who teaches his son Greek wisdom. And with regard to that year** of civil war, in which the land was destroyed, **we learned** (*Menaḥot* 64b): **An incident** occurred **in which the *omer*,** the measure of barley brought as a communal offering on the sixteenth of Nisan, **came from Gaggot Tzerifim, and the two loaves** offered on *Shavuot* came **from the valley of Ein Sokher.**
+
+**11.**
+*Hebrew/Aramaic:* אִינִי? וְהָאָמַר רַבִּי: בְּאֶרֶץ יִשְׂרָאֵל לָשׁוֹן סוּרְסִי לָמָּה? אֶלָּא אִי לְשׁוֹן הַקּוֹדֶשׁ, אִי לְשׁוֹן יְווֹנִית. וְאָמַר רַב יוֹסֵף: בְּבָבֶל לְשׁוֹן אֲרַמִּי לָמָּה? אֶלָּא אוֹ לְשׁוֹן הַקּוֹדֶשׁ, אוֹ לָשׁוֹן פָּרְסִי!
+*Translation:* It is understood from both the mishna and the *baraita* that it is prohibited to learn Greek. The Gemara raises a question: **Is that so? But didn’t Rabbi** Yehuda HaNasi **say: In Eretz Yisrael, why** should people speak **the tongue of Syriac [*Sursi*],** the Aramaic commonly spoken in Eretz Yisrael? **Rather,** they should speak **either** in **the sacred tongue,** Hebrew, **or** in **the** beautiful **tongue of Greek. And Rav Yosef** similarly **said: In Babylonia, why** should they speak in **the** vernacular **tongue of Aramaic? Rather,** they should speak **either** in **the sacred tongue,** Hebrew, **or** in **the tongue of Persian,** used by the authorities.
+
+**12.**
+*Hebrew/Aramaic:* לְשׁוֹן יְווֹנִית לְחוּד, וְחׇכְמַת יְווֹנִית לְחוּד.
+*Translation:* The Gemara answers that there is a difference: The **Greek tongue is discrete and Greek wisdom is discrete,** and the Sages prohibited the latter but not the former.
+
+**13.**
+*Hebrew/Aramaic:* וְחׇכְמַת יְווֹנִית מִי אֲסִירָא? וְהָאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל מִשּׁוּם רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל: מַאי דִּכְתִיב ״עֵינִי עוֹלְלָה לְנַפְשִׁי מִכֹּל בְּנוֹת עִירִי״ — אֶלֶף יְלָדִים הָיוּ בְּבֵית אַבָּא, חֲמֵשׁ מֵאוֹת לָמְדוּ תּוֹרָה, וַחֲמֵשׁ מֵאוֹת לָמְדוּ חׇכְמַת יְווֹנִית, וְלֹא נִשְׁתַּיֵּיר מֵהֶן אֶלָּא אֲנִי כָּאן, וּבֶן אֲחִי אַבָּא בְּעַסְיָא!
+*Translation:* The Gemara poses a question: **And is Greek wisdom prohibited? But didn’t Rav Yehuda say** that **Shmuel said in the name of Rabban Shimon ben Gamliel: What is** the meaning of that **which is written: “My eye affected my soul, due to all the daughters of my city”** (Lamentations 3:51)? **There were a thousand children in** my **father’s house,** the princes’ household. **Five hundred** of them **learned Torah, and** the other **five hundred learned Greek wisdom, and there only remained of them,** after the bar Kokheva revolt, **me, here** in Eretz Yisrael, **and the son of** my **father’s brother,** who lives **in Asia Minor [*Asya*].** The fact that Rabban Gamliel allowed half of his household to study Greek wisdom indicates that it is permitted.
+
+**14.**
+*Hebrew/Aramaic:* שָׁאנֵי שֶׁל בֵּית רַבָּן גַּמְלִיאֵל, דִּקְרוֹבִין לַמַּלְכוּת הֲווֹ. דְּתַנְיָא: מְסַפֵּר קוֹמֵי הֲרֵי זֶה מִדַּרְכֵי הָאֱמוֹרִי. אַבְטוֹלוֹס בֶּן רְאוּבֵן הִתִּירוּ [לוֹ] לְסַפֵּר קוֹמֵי, שֶׁהוּא קָרוֹב לַמַּלְכוּת. שֶׁל בֵּית רַבָּן גַּמְלִיאֵל הִתִּירוּ לָהֶן חׇכְמַת יְווֹנִית, מִפְּנֵי שֶׁקְּרוֹבִין לַמַּלְכוּת.
+*Translation:* The Gemara answers: The members **of the house of Rabban Gamliel are different,** as **they were close to the monarchy,** and therefore had to learn Greek wisdom in order to converse with people of authority. **As it is taught** in a *baraita* (*Tosefta*, *Shabbat* 7:1): One who **cuts** his hair in the ***komi*** style, which was the gentile fashion of cutting and wearing the hair, **is** considered to be acting in the **ways of the Amorites,** and it is prohibited to act in their way. However, **they permitted Avtolos ben Reuven to cut** his hair in the ***komi*** style, **as he is close to the monarchy,** and similarly **they permitted the house of Rabban Gamliel** to study **Greek wisdom, because they are close to the monarchy.**
+
+**15.**
+*Hebrew/Aramaic:* בְּפוּלְמוּס הָאַחֲרוֹן גָּזְרוּ שֶׁלֹּא תֵּצֵא כַּלָּה בְּאַפִּרְיוֹן וְכוּ׳. מַאי טַעְמָא — מִשּׁוּם צְנִיעוּתָא.
+*Translation:* § The mishna taught: **In the last war** the Sages **decreed that a bride may not go out in a palanquin** inside the city, but the later Sages permitted it. The Gemara explains: **What is the reason** they permitted this practice? **Due to modesty,** so that brides should not have to go out into the street and be seen by all.
+
+**16.**
+*Hebrew/Aramaic:* מִשֶּׁמֵּת רַבָּן יוֹחָנָן בָּטְלָה הַחׇכְמָה. תָּנוּ רַבָּנַן: מִשֶּׁמֵּת רַבִּי אֱלִיעֶזֶר נִגְנַז סֵפֶר תּוֹרָה. מִשֶּׁמֵּת רַבִּי יְהוֹשֻׁעַ בָּטְלָה עֵצָה וּמַחְשָׁבָה, מִשֶּׁמֵּת רַבִּי עֲקִיבָא בָּטְלוּ זְרוֹעֵי תוֹרָה וְנִסְתַּתְּמוּ מַעְיְינוֹת הַחׇכְמָה.
+*Translation:* The mishna taught that **from** the time **when Rabban Yoḥanan** ben Zakkai **died, wisdom ceased. The Sages taught: From** the time **when Rabbi Eliezer died,** it was as if **the Torah scroll had been interred,** as he had memorized many secrets of the Torah. **From** the time **when Rabbi Yehoshua died, council and** deliberate **thought ceased,** as he had the sharpest mind in Israel. **From** the time **when Rabbi Akiva died, the** powerful **arm of Torah,** meaning the exposition of all the details of Torah scripture, **ceased, and the fountains of wisdom were sealed.**
+
+**17.**
+*Hebrew/Aramaic:* מִשֶּׁמֵּת רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה בָּטְלוּ עַטְרוֹת חׇכְמָה, שֶׁ״עֲטֶרֶת חֲכָמִים עׇשְׁרָם״. מִשֶּׁמֵּת רַבִּי חֲנִינָא בֶּן דּוֹסָא בָּטְלוּ אַנְשֵׁי מַעֲשֶׂה. מִשֶּׁמֵּת אַבָּא יוֹסֵי בֶּן קְטוֹנְתָּא בָּטְלוּ חֲסִידִים, וְלָמָּה נִקְרָא שְׁמוֹ אַבָּא יוֹסֵי בֶּן קְטוֹנְתָּא — שֶׁהָיָה מִקְּטַנֵּי חֲסִידִים.
+*Translation:* **From** the time **when Rabbi Elazar ben Azarya died, the crowns of wisdom ceased, as “the crown of the wise is their riches”** (Proverbs 14:24), and he was both a great Torah scholar and a very wealthy man. **From** the time **when Rabbi Ḥanina ben Dosa died, the men of** wondrous **deeds ceased. From** the time **when Abba Yosei ben Katonta died, the pious men ceased. And why was he called Abba Yosei ben Katonta? Because he was among the diminished [*miktanei*] of the pious people,** i.e., he lived in an era when the pious had become few.
+
+**18.**
+*Hebrew/Aramaic:* מִשֶּׁמֵּת בֶּן עַזַּאי בָּטְלוּ הַשַּׁקְדָנִין, מִשֶּׁמֵּת בֶּן זוֹמָא בָּטְלוּ הַדַּרְשָׁנִין, מִשֶּׁמֵּת רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל עָלָה גּוֹבַאי וְרַבּוּ צָרוֹת. מִשֶּׁמֵּת רַבִּי הוּכְפְּלוּ צָרוֹת.
+*Translation:* **From** the time **when ben Azzai died, the diligent ceased; from** the time **when ben Zoma died, the exegetists ceased. From** the time **when Rabban Shimon ben Gamliel died, locusts ascended** upon the land **and troubles proliferated. From** the time **when Rabbi** Yehuda HaNasi **died,** the **troubles multiplied.**
+
+**19.**
+*Hebrew/Aramaic:* מִשֶּׁמֵּת רַבִּי בָּטְלָה עֲנָוָה וְיִרְאַת חֵטְא. אֲמַר לֵיהּ רַב יוֹסֵף לְתַנָּא: לָא תִּיתְנֵי עֲנָוָה, דְּאִיכָּא אֲנָא. אֲמַר לֵיהּ רַב נַחְמָן לְתַנָּא: לָא תִּיתְנֵי יִרְאַת חֵטְא, דְּאִיכָּא אֲנָא.
+*Translation:* The final line of the mishna states that **from** the time **when Rabbi** Yehuda HaNasi **died, humility and fear of sin ceased. Rav Yosef said to the *tanna*** who reviewed the mishna: **Do not teach** that **humility** ceased, **for there is** still one who is humble, namely **me. Rav Naḥman** similarly **said to the *tanna*** who reviewed the mishna: **Do not teach** that **fear of sin** ceased, **for there is** still one who fears sin, namely **me.**
+
+**20.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ עֶגְלָה עֲרוּפָה וּסְלִיקָא לַהּ מַסֶּכֶת סוֹטָה
+*Translation:* 

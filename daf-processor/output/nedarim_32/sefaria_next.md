@@ -39,3 +39,36 @@
 **10.**
 *Hebrew/Aramaic:* מַאן תַּנָּא? אָמַר רַב הוֹשַׁעְיָא: זוֹ
 *Translation:* The Gemara asks: **Who** is the *tanna* who **taught** that in performing the actions listed in the mishna one is merely preventing harm? **Rav Hoshaya said: This**
+
+
+---
+
+### Nedarim 33b
+
+**1.**
+*Hebrew/Aramaic:* דִּבְרֵי חָנָן הִיא.
+*Translation:* **is the statement of Ḥanan** in a dispute pertaining to one who pays the debt of another. Ḥanan holds that he cannot demand to be reimbursed for that payment, since he merely prevented potential damage.
+
+**2.**
+*Hebrew/Aramaic:* רָבָא אָמַר: אֲפִילּוּ תֵּימָא דִּבְרֵי הַכֹּל, גַּבֵּי מוּדָּר הֲנָאָה דְּיָהֵיב עַל מְנָת שֶׁלֹּא לִפְרוֹעַ.
+*Translation:* **Rava said: Even if you say** that **everyone agrees** that this is the *halakha*, it was stated **with regard to one prohibited by vow from deriving benefit from another** who borrowed money, and the creditor stipulated **that** it was **on the condition that** if he so chooses **he** does **not** need **to repay** the loan. In that case, by repaying the loan, one who vowed and imposed the prohibition did not actually repay his debt.
+
+**3.**
+*Hebrew/Aramaic:* מַאי חָנָן? דִּתְנַן: מִי שֶׁהָלַךְ לִמְדִינַת הַיָּם, וְעָמַד אֶחָד וּפִירְנֵס אֶת אִשְׁתּוֹ. חָנָן אָמַר: אִיבֵּד אֶת מְעוֹתָיו.
+*Translation:* The Gemara asks: **What** is the opinion of **Ḥanan** to which the Gemara referred? The Gemara answers that it is **as we learned** in a mishna: In the case of a husband **who went to a country overseas, and one** other man **arose and supported his wife** on his own initiative and then demanded to be reimbursed for that support when the husband returned, **Ḥanan said:** The one who took the initiative to support the wife **lost his money,** since the husband neither asked him to do so nor committed to compensate him.
+
+**4.**
+*Hebrew/Aramaic:* נֶחְלְקוּ עָלָיו בְּנֵי כֹּהֲנִים גְּדוֹלִים, וְאָמְרוּ: יִשָּׁבַע כַּמָּה הוֹצִיא, וְיִטּוֹל. אָמַר רַבִּי דּוֹסָא בֶּן הַרְכִּינָס כְּדִבְרֵיהֶם. אָמַר רַבִּי יוֹחָנָן בֶּן זַכַּאי: יָפֶה אָמַר חָנָן, הִנִּיחַ מְעוֹתָיו עַל קֶרֶן הַצְּבִי.
+*Translation:* **The sons of High Priests disagreed with him and said:** The one who took the initiative to support his wife **will take an oath** as to **how much he spent and take** repayment from the husband. **Rabbi Dosa ben Harkinas said in accordance with** the **statement** of the sons of High Priests. **Rabbi Yoḥanan ben Zakkai said: Ḥanan spoke well,** as in any case of this type **he placed his money on the antler of a deer,** i.e., a risky venture with no guaranteed return.
+
+**5.**
+*Hebrew/Aramaic:* רָבָא לָא אָמַר כְּרַב הוֹשַׁעְיָא, דְּקָא מוֹקֵים לָהּ לְמַתְנִיתִין כְּדִבְרֵי הַכֹּל. רַב הוֹשַׁעְיָא לָא אָמַר כְּרָבָא, גְּזֵירָה שֶׁלֹּא לִיפָּרַע מִשּׁוּם לִיפָּרַע.
+*Translation:* The Gemara explains the dispute between Rava and Rav Hoshaya with regard to attribution of the mishna: **Rava did not say** that the mishna is in accordance with the opinion of Ḥanan, **as did Rav Hoshaya,** and he preferred a different explanation, **as he establishes the mishna in accordance with the statements** upon which **everyone** agrees, rather than attributing it to an individual *tanna*. **Rav Hoshaya did not say** that the mishna is in accordance with the opinion of all the *tanna’im* **as did Rava,** as there is basis to issue a rabbinic **decree** prohibiting repayment of a loan for one for whom benefit from another is forbidden by vow **on the condition that he** does **not** need **to repay** the loan, **due to** a standard loan that he is required **to repay.** Therefore, he prefers to establish the mishna in accordance with the opinion of Ḥanan.
+
+**6.**
+*Hebrew/Aramaic:* מַחֲזִיר לוֹ אֶת אֲבֵידָתוֹ. פְּלִיגִי בַּהּ רַבִּי אַמֵּי וְרַבִּי אַסִּי, חַד אָמַר: לֹא שָׁנוּ אֶלָּא בְּשֶׁנִּכְסֵי מַחְזִיר אֲסוּרִין עַל בַּעַל אֲבֵידָה, דְּכִי מַהְדַּר לֵיהּ — מִידַּעַם דְּנַפְשֵׁיהּ קָא מַהְדַּר לֵיהּ. אֲבָל נִכְסֵי בַּעַל אֲבֵידָה אֲסוּרִין עַל מַחְזִיר — לָא קָא מַהְדַּר לֵיהּ, דְּקָא מְהַנֵּי לֵיהּ פְּרוּטָה דְּרַב יוֹסֵף.
+*Translation:* § We learned in the mishna: **He returns his lost item to him. Rabbi Ami and Rabbi Asi disagree about this. One said: They taught** this **only** in a case **where the property of the one returning** the lost item **is forbidden to the owner of the lost item, as when he returns** it **to him he is returning** to him **something of his own** and is not giving him anything new. Consequently, returning a lost item in no way violates the vow. **However,** in a case **where the property of the owner of the lost item is forbidden to the one returning** the lost item, **he may not return** it **to him,** as in that case the owner indirectly **benefits** the one returning the lost item by enabling **him** to acquire the ***peruta* of Rav Yosef.** Rav Yosef said that the legal status of one tending to the return of a lost item is like that of a paid bailee. Since one who is engaged in a mitzva is exempt from performing another mitzva, while he is tending to the lost item he is exempt from giving charity to a pauper. Since the one returning the lost item profits from engaging in the return of the lost item, it is prohibited for him to do so, as he is prohibited by vow from deriving benefit from the owner of the lost item.
+
+**7.**
+*Hebrew/Aramaic:* וְחַד אָמַר: אֲפִילּוּ נִכְסֵי בַּעַל אֲבֵידָה אֲסוּרִין עַל מַחְזִיר מַהְדַּר לֵיהּ, וּמִשּׁוּם פְּרוּטָה דְּרַב יוֹסֵף לָא שְׁכִיחַ.
+*Translation:* **And one said: Even** in a case **where the property of the owner of the lost item is forbidden to the one returning** the lost item, **he returns** it to him. **And** with regard to the concern **due to** the ***peruta* of Rav Yosef,** it is not a concern because it is **uncommon** for a pauper to happen upon a person just when he is tending to the lost item. Therefore, it cannot be said that there is profit in the return of a lost item.

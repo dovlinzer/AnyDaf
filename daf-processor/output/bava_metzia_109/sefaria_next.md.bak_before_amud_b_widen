@@ -1,0 +1,53 @@
+### Bava Metzia 110a
+
+**1.**
+*Hebrew/Aramaic:* יִמָּכְרוּ לְעֵצִים, וְיִלָּקַח בָּהֶן קַרְקַע, וְהוּא אוֹכֵל פֵּירוֹת. אֵימָא: וְהִזְקִינוּ.
+*Translation:* such trees **are sold as wood and land is acquired with them, and** her husband **consumes the produce,** while the land itself belongs to the wife. The Gemara answers that the text should be emended to **say: And they grew old,** meaning that the trees were not old when she inherited them but they aged with the passage of time.
+
+**2.**
+*Hebrew/Aramaic:* וְאִיבָּעֵית אֵימָא: לָאו מִי אוֹקֵימְנָא לְהַהִיא כְּגוֹן שֶׁנָּפְלוּ לָהּ בְּשָׂדֶה אַחֶרֶת, דְּקָא כָלְיָא קַרְנָא.
+*Translation:* **And if you wish, say: Did we not** already **establish that** mishna as referring to a case **where** the vines or olive trees **were bequeathed to her in a different field** that did not belong to her? Since in **that** case she inherited only the trees but not the land itself, they are considered the principal. Consequently, the husband taking all of it **would consume the principal** entirely. Therefore, they must be sold as wood, with the proceeds used for the purchase of land.
+
+**3.**
+*Hebrew/Aramaic:* הָהוּא שְׁטָרָא דַּהֲוָה כְּתִיב בֵּיהּ שְׁנִין סְתָמָא. מַלְוֶה אָמַר: שָׁלֹשׁ. לֹוֶה אָמַר: שְׁתַּיִם. קְדֵים מַלְוֶה וְאַכְלִינְהוּ לְפֵירֵי. מִי נֶאֱמָן? רַב יְהוּדָה אָמַר: קַרְקַע בְּחֶזְקַת בְּעָלֶיהָ קָיְימָא. רַב כָּהֲנָא אָמַר: פֵּירוֹת בְּחֶזְקַת אוֹכְלֵיהֶן קָיְימִי.
+*Translation:* § The Gemara relates: There was **a certain** mortgage **document in which it was written** that the land was granted to the creditor for **an unspecified** number of **years.** The **creditor said** it was for **three** years, whereas **the debtor said** it was for **two** years. While the issue was being adjudicated, the **creditor arose and consumed the produce** of the field in the third year. **Which** of them is **deemed credible** and accepted? **Rav Yehuda said:** The *halakha* is that **land remains in its owner’s possession.** Therefore, the debtor has the presumptive right to the land, while the creditor, who owns the document, must provide proof for his claim. **Rav Kahana said:** The **produce remains in the possession of** the one who **consumed it,** and therefore the creditor’s claim is accepted.
+
+**4.**
+*Hebrew/Aramaic:* וְהִלְכְתָא כְּווֹתֵיהּ דְּרַב כָּהֲנָא, דְּאָמַר: פֵּירוֹת בְּחֶזְקַת אוֹכְלֵיהֶן קָיְימִי. וְהָא קַיְימָא לַן דְּהִלְכְתָא כְּווֹתֵיהּ דְּרַב נַחְמָן, דְּאָמַר: קַרְקַע בְּחֶזְקַת בְּעָלֶיהָ עוֹמֶדֶת!
+*Translation:* The Gemara states: **And the *halakha*** is **in accordance with** the opinion **of Rav Kahana, who said** that the **produce remains in the possession of** the one who **consumed it.** The Gemara asks: **But don’t we maintain that the *halakha*** is **in accordance with** the opinion **of Rav Naḥman, who said** with regard to uncertainty concerning a rental during the extra month of a leap year that **land remains in its owner’s possession,** and he has the rights to that month? These two rulings appear to contradict each other.
+
+**5.**
+*Hebrew/Aramaic:* הָתָם – מִילְּתָא דְּלָא עֲבִידָא לְאִיגַּלּוֹיֵי הִיא. הָכָא – מִילְּתָא דַּעֲבִידָא לְאִיגַּלּוֹיֵי הִיא, וְאַטְרוֹחֵי בֵּי דִינָא תְּרֵי זִמְנֵי לָא מַטְרְחִינַן.
+*Translation:* The Gemara answers: **There it is a matter that will not be revealed** because it is impossible to clarify the uncertainty concerning whether the extra month is included. By contrast, **here it is a matter that will be revealed,** as the witnesses who signed the document may eventually reveal what it stated, **and we do not trouble the court** to convene **twice.** Therefore, the produce should remain in the possession of the one who consumed it until the matter is resolved.
+
+**6.**
+*Hebrew/Aramaic:* מַלְוֶה אוֹמֵר חָמֵשׁ, לֹוֶה אוֹמֵר שָׁלֹשׁ. אָמַר לֵיהּ: אַיְיתִי לִי שְׁטָרָךְ! אָמַר לֵיהּ: שְׁטָרָא אִירְכַס לִי. אָמַר רַב יְהוּדָה: מַלְוֶה נֶאֱמָן, מִגּוֹ דְּאִי בָּעֵי אָמַר לְקוּחָה הִיא בְּיָדִי.
+*Translation:* The Gemara analyzes another case involving mortgaged land. The **creditor says** the mortgage was for **five** years while the **debtor** who owned the land **says** it was for **three.** The debtor **said to** the creditor: **Give me your document** so that we can see what is written there. The creditor **said to him: I lost the document. Rav Yehuda said:** The **creditor is deemed credible** and accepted in this case **since he could have made a more advantageous claim [*miggo*].** As the mortgage document is missing and even according to the claim of the debtor he could be in control of the land for the three years required for presumptive ownership, **if** he **wants** to lie he could **say:** The land was **purchased by me.** Since he did not submit this superior claim, his claim should be accepted.
+
+**7.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב פָּפָּא לְרַב אָשֵׁי: רַב זְבִיד וְרַב עַוִּירָא לָא סְבִירָא לְהוּ הָא דְּרַב יְהוּדָה. מַאי טַעְמָא: הַאי שְׁטָרָא כֵּיוָן דִּלְגוּבְיָינָא קָאֵי – מִיזְהָר זְהִיר בֵּיהּ, וּמִיכְבָּשׁ הוּא דְּכַבְשֵׁיהּ לִשְׁטָרֵיהּ, סָבַר: אוֹכְלַהּ תַּרְתֵּין שְׁנִין יַתִּירְתָּא.
+*Translation:* **Rav Pappa said to Rav Ashi: Rav Zevid and Rav Avira do not hold** of **this** opinion **of Rav Yehuda. What is the reason** for this? **Since this document stands** ready **for collecting** the debt, the creditor would certainly have been **careful with regard to it.** Since he wants to ensure his money is returned it is unlikely he actually lost it. Rather, **he is** merely **hiding his document,** as he **thinks: I will consume** the produce of the field for **two extra years.**
+
+**8.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי: אֶלָּא מֵעַתָּה, הַאי מַשְׁכַּנְתָּא דְסוּרָא דְּכָתְבִי הָכִי: ״בְּמִישְׁלַם שְׁנַיָּא אִלֵּין תִּיפּוֹק אַרְעָא דָּא בְּלָא כְּסַף״. הֵיכָא דְּכַבְשֵׁיהּ לִשְׁטַר מַשְׁכַּנְתָּא וְאָמַר: לְקוּחָה הִיא בְּיָדִי, הָכִי נָמֵי דִּמְהֵימַן? וְכִי מְתַקְּנִי רַבָּנַן מִילְּתָא דְּאָתֵי בַּהּ [לִידֵי] פְּסֵידָא? אֲמַר לֵיהּ: הָתָם תַּקִּינוּ לֵיה רַבָּנַן דְּמָרֵי אַרְעָא יָהֵיב טַסְקָא וְכָרֵי כַּרְיָא.
+*Translation:* The Gemara analyzes Rav Yehuda’s opinion. **Ravina said to Rav Ashi: If that is so,** that Rav Yehuda is correct, then with regard to **this mortgage according to** the custom practiced in **Sura,** a city in Babylonia, in **which they write this: Upon the completion of these years** of the mortgage **this land shall leave** the creditor’s possession and return to its owner **without** the debtor paying any **money** (see 67b), in a case **where** the creditor **hid the mortgage document and said** that the land was **purchased by me, so too** is it possible **that he is deemed credible? Would the Sages institute a matter that** might **cause a loss?** Rav Ashi **said to him: There,** in the mortgage of Sura, **the Sages instituted for** the landowner, i.e., the debtor, **that the landowner,** i.e., the debtor, **pays the** land **taxes and digs the trenches** for the irrigation of the field. In this manner, his ownership is preserved and established.
+
+**9.**
+*Hebrew/Aramaic:* אַרְעָא דְּלֵית לַהּ כַּרְיָא וְלָא יָהֵיב טַסְקָא, מַאי? אֲמַר לֵיהּ: אִיבְּעִי לֵיהּ לְמַחוֹיֵי! לָא (אִימְּחָא) [מַחִי], מַאי? אִיהוּ הוּא דְּאַפְסֵיד אַנַּפְשֵׁיהּ.
+*Translation:* Ravina asks further: With regard to **land that has no** need for **trenches and** for which he **does not pay taxes, what** could he have done? Rav Ashi **said to him: He should have protested** before the three years needed for presumptive status had passed by announcing that the land was his. Ravina again inquires: If he **did not protest, what** is the *halakha*? Rav Ashi replied: In that case, **he caused his own loss** by failing to take the necessary precautions.
+
+**10.**
+*Hebrew/Aramaic:* אָרִיס אוֹמֵר: לְמֶחֱצָה יָרַדְתִּי, וּבַעַל הַבַּיִת אוֹמֵר: לִשְׁלִישׁ הוֹרַדְתִּיו, מִי נֶאֱמָן? רַב יְהוּדָה אָמַר: בַּעַל הַבַּיִת נֶאֱמָן. רַב נַחְמָן אָמַר: הַכֹּל כְּמִנְהַג הַמְּדִינָה.
+*Translation:* § The Gemara discusses another case. If **a sharecropper says: I descended** to the field **for half** the produce, as this was the agreement that we made, **and the homeowner says: I sent him down for** only **one-third** of the produce, **who is deemed credible** and his claim consequently accepted? **Rav Yehuda says: The homeowner is deemed credible** and his claim is consequently accepted, while **Rav Naḥman says: All** matters are **in accordance with the regional custom.** As the terms of their agreement are unknown, this sharecropper should have the same status as other sharecroppers in that location.
+
+**11.**
+*Hebrew/Aramaic:* סְבוּר מִינַּהּ לָא פְּלִיגִי: הָא בְּאַתְרָא דְּשָׁקֵיל אֲרִיסָא פַּלְגָא, הָא בְּאַתְרָא דְּשָׁקֵיל אֲרִיסָא תִּילְתָּא.
+*Translation:* They **understood from** the above discussion that these two Sages **do not disagree,** but were referring to different cases: **This** one, Rav Naḥman, stated his ruling **with regard to a location where the sharecropper takes half,** in which case the sharecropper is believed, while **that** one, Rav Yehuda, stated his ruling **with regard to a location where the sharecropper takes one-third,** in which case the homeowner is believed.
+
+**12.**
+*Hebrew/Aramaic:* אֲמַר לְהוּ רַב מָרִי בְּרַהּ דְּבַת שְׁמוּאֵל: הָכִי אָמַר אַבָּיֵי: אֲפִילּוּ בְּאַתְרָא דְּשָׁקֵיל אֲרִיסָא פַּלְגָא פְּלִיגִי, רַב יְהוּדָה אָמַר: בַּעַל הַבַּיִת נֶאֱמָן, דְּאִי בָּעֵי אָמַר: שְׂכִירִי וּלְקִיטִי הוּא.
+*Translation:* **Rav Mari, son of the daughter of Shmuel, said to them: This** is what **Abaye said:** They **even disagree with regard to a location where the sharecropper** usually **takes half.** In that case, **Rav Yehuda said** that here too **the homeowner is deemed credible** and his claim is consequently accepted, **as if he wants** to lie he could **say:** The other is not a sharecropper at all but merely **my hired worker,** who received a stipulated wage, **or my gleaner,** who performs occasional work for me but has no prearranged share of the crop at all.
+
+**13.**
+*Hebrew/Aramaic:* יְתוֹמִים אוֹמְרִים: אָנוּ הִשְׁבַּחְנוּ, וּבַעַל חוֹב אוֹמֵר: אֲבִיכֶם הִשְׁבִּיחַ, עַל מִי לְהָבִיא רְאָיָה?
+*Translation:* The Gemara addresses another issue: If a field was on lien for a loan and the debtor died, and **the orphans** who inherited the field **say: We enhanced** the land after we inherited it, and therefore the creditor does not have a right to the value of that enhancement, **and the creditor says: Your father enhanced it,** and I am entitled to the land as it is, **upon whom** does the burden **to bring proof** fall?

@@ -87,3 +87,68 @@
 **22.**
 *Hebrew/Aramaic:* מֵיתִיבִי: כׇּל הַמְּנָחוֹת שֶׁרִיבָּה בְּמִדַּת חַלָּתָן, אוֹ שֶׁמִּיעֵט בְּמִדַּת חַלָּתָן – כְּשֵׁרוֹת, חוּץ מִלֶּחֶם הַפָּנִים, וַחֲבִיתֵּי כֹּהֵן גָּדוֹל, וְלַחְמֵי תוֹדָה וּנְזִירוּת! הוּא
 *Translation:* The Gemara **raises an objection** to the opinion of Shmuel from a *baraita*: **All the meal offerings where** one **increased the measure of their loaves or where** one **decreased the measure of their loaves** are nevertheless **fit, except for the** twelve loaves of **shewbread, and the** twelve loaves of the **High Priest’s griddle-cake** offering, **and** the ten **loaves** of each variety for the **thanks offering and** the ten loaves that accompany the guilt offering of **naziriteship.** Evidently, no fewer than forty loaves are fit for the thanks offering, in contradiction to the statement of Shmuel. The Gemara answers: **He**
+
+
+---
+
+### Menachot 76b
+
+**1.**
+*Hebrew/Aramaic:* דְּאָמַר כִּי הַאי תַּנָּא, דְּתַנְיָא: כׇּל הַמְּנָחוֹת שֶׁרִיבָּה בְּמִדַּת חַלָּתָן, אוֹ שֶׁמִּיעֵט בְּמִדַּת חַלָּתָן – כְּשֵׁרוֹת, חוּץ מִלֶּחֶם הַפָּנִים וַחֲבִיתֵּי כֹּהֵן גָּדוֹל, וְיֵשׁ אוֹמְרִים: אַף לַחְמֵי תוֹדָה וּנְזִירוּת.
+*Translation:* **states** his opinion **in accordance with** the opinion of **that *tanna*, as it is taught** in a *baraita*: **All the meal offerings where** one **increased the measure of their loaves or where** one **decreased the measure of their loaves** are nevertheless **fit, except for** the twelve loaves of **the shewbread and** the twelve loaves of **the High Priest’s griddle-cake** offering. **And some say: Even the** ten **loaves** of each variety **of the thanks offering and** the ten loaves that accompany the guilt offering of **naziriteship** are fit only when brought in their prescribed measures. Shmuel agrees with the first *tanna*, according to whom the loaves of the thanks offering and the loaves of naziriteship are fit even when not offered in the proper quantities.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַב הוּנָא: מִנְחַת מַאֲפֶה (שאפה) [שֶׁאֲפָאָהּ] חַלָּה אַחַת – יָצָא. מַאי טַעְמָא? (מַצּוֹת) ״מַצָּת״ כְּתִיב.
+*Translation:* § **Rav Huna says:** With regard to an oven-**baked meal offering that** one **baked** as only **one loaf,** although he did not bring the mandated quantity, he has **fulfilled** his obligation. **What is the reason?** It is that the verse states with regard to the oven-baked meal offering: “And when you bring a meal offering baked in the oven, it shall be unleavened loaves of fine flour” (Leviticus 2:4). The term **“unleavened loaves [*matzot*]” is written** without the letter *vav*, which is generally used with regard to the plural form. Therefore, it may be read in the singular as **unleavened loaf [*matzat*],** which teaches that even one unleavened loaf is fit.
+
+**3.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב פָּפָּא: טַעְמָא דִּכְתִיב ״מַצָּת״, הָא כְּתִיב ״מַצּוֹת״ – לָא? וְהָא גַּבֵּי לַחְמֵי תוֹדָה דִּכְתִיב ״מַצּוֹת״, וְאָמַר רַב טוֹבִי בַּר קִיסְנָא אָמַר שְׁמוּאֵל: לַחְמֵי תוֹדָה שֶׁאֲפָאָן אַרְבַּע חַלּוֹת – יָצָא! הָהִיא פְּלִיגָא.
+*Translation:* **Rav Pappa objects to this** derivation: **The reason** Rav Huna gives is **that it is written** in the singular form of ***matzat*. But** if it were **written: *Matzot*,** would this **not** be the *halakha*? **But** what about the verse **concerning the loaves of the thanks offering, where it is written “*matzot*”** with a *vav*, indicating the plural form, in the verse: “Then he shall offer with the sacrifice of thanksgiving unleavened loaves mixed with oil” (Leviticus 7:12), **and** yet **Rav Tovi bar Kisna said** that **Shmuel said:** In the case of **loaves of the thanks offering that were baked as four loaves,** such that each of the four varieties of loaves is baked as only one loaf, he has **fulfilled** his obligation. The Gemara answers: **That** statement of Shmuel **disagrees** with the opinion of Rav Huna, according to whom four loaves are not fit for the thanks offering.
+
+**4.**
+*Hebrew/Aramaic:* מַתְנִי׳ הָעוֹמֶר הָיָה בָּא עִשָּׂרוֹן מִשָּׁלֹשׁ סְאִין, שְׁתֵּי הַלֶּחֶם שְׁתֵּי עֶשְׂרוֹנִים מִשָּׁלֹשׁ סְאִין, לֶחֶם הַפָּנִים עֶשְׂרִים וְאַרְבַּע עֶשְׂרוֹנִים מֵעֶשְׂרִים וְאַרְבַּע סְאִין.
+*Translation:* MISHNA: **The *omer* offering,** i.e., the measure of barley brought as a communal offering on the sixteenth of Nisan, **would come** from **a tenth** of an ephah of flour sifted **from three *se’a*** of barley. **The two loaves** would come from **two-tenths** of an ephah of flour sifted **from three *se’a*** of wheat. **The shewbread** would come from **twenty-four tenths** of an ephah of flour sifted **from twenty-four *se’a*** of wheat.
+
+**5.**
+*Hebrew/Aramaic:* גְּמָ׳ מַאי טַעְמָא? כֵּיוָן דְּמֵחָדָשׁ אָתֵי, וּמִשְּׂעוֹרִין אָתֵי, עִשָּׂרוֹן מוּבְחָר לָא אָתֵי אֶלָּא מִשָּׁלֹשׁ סְאִין.
+*Translation:* GEMARA: The Gemara asks: **What is the reason** that according to the mishna, the relatively large amount of three *se’a* of barley is necessary to yield a single tenth of an ephah of flour for the *omer* offering? The Gemara answers: **Since** it **comes from** the fresh **new** crop, which contains a large amount of refuse, **and** it **comes from barley,** which is coarser than wheat, **a choice tenth** of an ephah of flour **comes only from** a minimum of **three *se’a*** of barley.
+
+**6.**
+*Hebrew/Aramaic:* שְׁתֵּי הַלֶּחֶם שְׁתֵּי עֶשְׂרוֹנוֹת מִשָּׁלֹשׁ סְאִין – כֵּיוָן דְּמֵחִיטִּין אָתְיָין, אַף עַל גַּב דְּמֵחָדָשׁ אָתְיָין, שְׁתֵּי עֶשְׂרוֹנוֹת אָתוּ מִשָּׁלֹשׁ סְאִין.
+*Translation:* The Gemara asks: Why does the mishna rule that **the two loaves** would come from **two-tenths** of an ephah of flour sifted **from three *se’a*** of wheat, whereas only a tenth of an ephah is used from the same amount of grain for the *omer*? The Gemara answers: **Since** the loaves **come from wheat,** which is of superior quality to barley, **although** they **come from** the **new** crop and require sifting, the grains are clean enough that **two-tenths** of an ephah **come from** the sifting of **three *se’a*** of grain.
+
+**7.**
+*Hebrew/Aramaic:* לֶחֶם הַפָּנִים עֶשְׂרִים וְאַרְבָּעָה עֶשְׂרוֹנוֹת מֵעֶשְׂרִים וְאַרְבָּעָה סְאִין – מַאי טַעְמָא? כֵּיוָן דְּמֵחִיטִּין אָתוּ, וּמִיָּשָׁן אָתוּ, עִשָּׂרוֹן מוּבְחָר אָתֵי מִסְּאָה.
+*Translation:* The mishna stated that **the shewbread** would come from **twenty-four tenths** of an ephah of flour sifted **from twenty-four *se’a*** of wheat. **What is the reason?** The Gemara answers: **Since** they **come from wheat, and** they **come from** the **old** crop, which contains relatively little refuse, the grains are so clean that **a choice tenth** of an ephah of flour **comes from one *se’a*** of grain, and twenty-four tenths of an ephah come from twenty-four *se’a*.
+
+**8.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: כׇּל הַמְּנָחוֹת שֶׁרִיבָּה בְּמִדַּת עֶשְׂרוֹנָן, אוֹ שֶׁמִּיעֵט בְּמִדַּת עִשָּׂרוֹן – פְּסוּלוֹת. רִיבָּה בְּמִדַּת סְאִין שֶׁלָּהֶן, אוֹ שֶׁמִּיעֵט בְּמִדַּת סְאִין שֶׁלָּהֶן – כְּשֵׁרוֹת.
+*Translation:* **The Sages taught** in a *baraita*: **All the meal offerings where** one **increased the measure of their tenth** of an ephah of flour by collecting it with a vessel larger than a tenth of an ephah, **or where** one **decreased the measure of** their **tenth** of an ephah of flour by collecting it with a vessel smaller than a tenth of an ephah, **are disqualified.** If he **increased the measure of their *se’a*** of grain **or decreased the measure of their *se’a*** of grain, e.g., if he used two or four *se’a* instead of three, but sifted until he was left with the correct measure of a tenth of an ephah of flour, they are **fit** offerings. This is because the number of *se’a* mentioned in the mishna is necessary only for the optimal fulfillment of the mitzva, but is not indispensable.
+
+**9.**
+*Hebrew/Aramaic:* מַתְנִי׳ הָעוֹמֶר הָיָה מְנוּפֶּה בִּשְׁלֹשׁ עֶשְׂרֵה נָפָה, שְׁתֵּי הַלֶּחֶם בִּשְׁתֵּים עֶשְׂרֵה, וְלֶחֶם הַפָּנִים בְּאַחַת עֶשְׂרֵה. רַבִּי שִׁמְעוֹן אוֹמֵר: לֹא הָיָה לָהֶן קִצְבָה, אֶלָּא סוֹלֶת מְנוּפָּה כָּל צׇרְכָּהּ הָיָה מֵבִיא, שֶׁנֶּאֱמַר: ״וְלָקַחְתָּ סֹלֶת וְאָפִיתָ אֹתָהּ״, עַד שֶׁתְּהֵא מְנוּפָּה כָּל צׇרְכָּהּ.
+*Translation:* MISHNA: The flour of **the *omer* was sifted with thirteen sifters,** each finer than its predecessor, and the flour that emerged from the final sifter was sacrificed. The flour of **the two loaves** was sifted **with twelve** sifters, **and** the flour of **the shewbread** was sifted **with eleven** sifters. **Rabbi Shimon says: They have no fixed** number of sifters; **rather,** it was **fine flour** that was **completely sifted** that **one would bring** for all of these offerings, **as it is stated: “And you shall take fine flour and bake it”** (Leviticus 24:5), indicating that one does not fulfill his obligation **until** the flour **will be completely sifted.**
+
+**10.**
+*Hebrew/Aramaic:* גְּמָ׳ תָּנוּ רַבָּנַן: בְּדַּקָּה בְּגַסָּה, בְּדַּקָּה בְּגַסָּה. רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: שְׁלֹשׁ עֶשְׂרֵה נָפוֹת הָיוּ בַּמִּקְדָּשׁ, זוֹ לְמַעְלָה מִזּוֹ וְזוֹ לְמַעְלָה מִזּוֹ, עֶלְיוֹנָה קוֹלֶטֶת סוּבִּין, תַּחְתּוֹנָה קוֹלֶטֶת סוֹלֶת.
+*Translation:* GEMARA: When a fine sifter was used, the small, dust-like particles emerged and the fine flour was caught in the sifter, and when a coarse sifter was used, the fine flour emerged and the bran was caught in the sifter. With regard to the sifting of the flour, **the Sages taught** in a *baraita*: The sifting would begin **in** a sifter of **slight** holes, and the flour that remained would then be sifted **in** a sifter of **large** holes. The flour that emerged would again be sifted **in** a sifter with **slight** holes that were not quite as small as the first one with small holes, and again **in** a sifter of **large** holes that were not quite as large as the first one with large holes. All the sifting would proceed in this manner. **Rabbi Shimon ben Elazar says: There were thirteen sifters in the Temple, this** one **above,** i.e., preceding, **that** one, **and this** one **above that** one. The **highest** sifter would **collect bran,** parts of the kernel aside from the actual pure flour, and the **lowest** sifter would **collect fine flour.**
+
+**11.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן אוֹמֵר: לֹא הָיָה לָהֶן קִצְבָה. תָּנוּ רַבָּנַן: ״סֹלֶת וְאָפִיתָ אֹתָהּ״ – מְלַמֵּד שֶׁנִּקַּחַת סוֹלֶת.
+*Translation:* § The mishna teaches that in contrast to the first *tanna*, **Rabbi Shimon says: They have no fixed** number of sifters; but the flour would be sifted as many times as was necessary, based on the verse: “And you shall take fine flour, and bake it.” In addition, **the Sages taught:** When the verse states with regard to the shewbread: “And you shall take **fine flour and bake it,”** this **teaches that fine flour is acquired** after it has been sifted for the baking of the shewbread.
+
+**12.**
+*Hebrew/Aramaic:* וּמִנַּיִן שֶׁאֲפִילּוּ חִיטִּין? תַּלְמוּד לוֹמַר ״וְלָקַחְתָּ״ – מִכׇּל מָקוֹם. יָכוֹל אַף בִּשְׁאָר מְנָחוֹת כֵּן? תַּלְמוּד לוֹמַר ״אֹתָהּ״, מִפְּנֵי הַחִיסָּחוֹן.
+*Translation:* **And from where** is it derived **that even wheat** kernels may be purchased before they are ground and sifted? **The verse states: “And you shall take,”** indicating that the grain should be taken **in any case** and in any state. One **might** have thought that it is **so even for other meal offerings.** Therefore, **the verse states:** “And you shall take fine flour and bake **it,”** indicating that the shewbread alone may be acquired as kernels **because** of **the sparing [*haḥissaḥon*].**
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אֶלְעָזָר: מַאי ״מִפְּנֵי הַחִיסָּחוֹן״? אָמַר רַבִּי אֶלְעָזָר: הַתּוֹרָה חָסָה עַל מָמוֹנָן שֶׁל יִשְׂרָאֵל. הֵיכָא רְמִיזָא? דִּכְתִיב: ״וְהִשְׁקִיתָ אֶת הָעֵדָה וְאֶת בְּעִירָם״.
+*Translation:* **Rabbi Elazar says: What is** the meaning of: **Because** of **the sparing? Rabbi Elazar says: The Torah spared the money of the Jewish people.** Due to the large quantity of grain needed for the shewbread every week, purchasing sifted fine flour would be a substantial expense. The Gemara explains: **Where is the allusion** to this principle? It is found in a verse, **as it is written** that when the Jewish people were thirsty in the wilderness in the aftermath of Miriam’s death, God instructed Moses: “And speak to the rock before their eyes, so that it will give forth its water; and you shall bring forth to them water out of the rock; **so you shall give drink for the congregation and for their cattle”** (Numbers 20:8). Evidently, the miracle of extracting water from the rock was performed even for the purpose of providing water for the livestock.
+
+**14.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ אֵלּוּ מְנָחוֹת נִקְמָצוֹת.
+*Translation:* 
+
+**15.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַתּוֹדָה הָיְתָה בָּאָה חָמֵשׁ סְאִין יְרוּשַׁלְמִיּוֹת, שֶׁהֵן שֵׁשׁ מִדְבָּרִיּוֹת. שְׁתֵּי אֵיפוֹת, הָאֵיפָה שָׁלֹשׁ סְאִין, עֶשְׂרִים עִשָּׂרוֹן – עֲשָׂרָה לֶחָמֵץ וַעֲשָׂרָה לַמַּצָּה.
+*Translation:* MISHNA: The flour for the loaves accompanying **the thanks offering would come** from a measure of **five Jerusalem *se’a* offering, which are** equivalent to **six wilderness** *se’a*. The *se’a* referred to in the Bible when the Jewish people were in the wilderness is smaller than the *se’a* used later in Jerusalem. This is equivalent to **two ephahs,** each **ephah** being **three** wilderness ***se’a*.** These two ephahs are **twenty** measures of **a tenth** of an ephah. **Ten** of these tenths were used **to** make **leavened** loaves **and ten** of these tenths were used **to** make unleavened loaves, i.e., ***matza*.**

@@ -63,3 +63,84 @@
 **16.**
 *Hebrew/Aramaic:* אָמַר רַב יְהוּדָה: הַבּוֹדֵק צָרִיךְ שֶׁיְּבָרֵךְ. מַאי מְבָרֵךְ? רַב פַּפֵּי אָמַר מִשְּׁמֵיהּ דְּרָבָא: (אוֹמֵר) ״לְבַעֵר חָמֵץ״. רַב פָּפָּא אָמַר מִשְּׁמֵיהּ דְּרָבָא: ״עַל בִּיעוּר חָמֵץ״. בִּ״לְבַעֵר״ — כּוּלֵּי עָלְמָא לָא פְּלִיגִי דְּוַדַּאי לְהַבָּא מַשְׁמַע.
 *Translation:* **Rav Yehuda said: One who searches** for leaven **must recite a blessing.** The Gemara asks: **What blessing does he recite,** i.e., what is the correct formula of the blessing? **Rav Pappi said in the name of Rava** that one **recites:** Who has made us holy through His mitzvot and has commanded us **to remove leavened bread. Rav Pappa said in the name of Rava:** One should recite: **Concerning the removal of leavened bread.** The Gemara comments: **With regard to** the formula: **To remove, everyone agrees that** it **certainly refers to the future.** This formulation undoubtedly indicates that the person reciting the blessing is about to begin fulfilling the mitzva of removing leaven, and it is therefore an appropriate blessing.
+
+
+---
+
+### Pesachim 7b
+
+**1.**
+*Hebrew/Aramaic:* כִּי פְּלִיגִי בְּ״עַל בִּיעוּר״. מָר סָבַר: מֵעִיקָּרָא מַשְׁמַע, וּמָר סָבַר: לְהַבָּא מַשְׁמַע.
+*Translation:* **Where they disagree is with regard to** the formula: **Concerning the elimination** of leaven. One **Sage,** Rav Pappi, **maintains** that **it is referring to** an act that was performed **previously.** Since this formula is referring to the removal of leaven as a task already completed, it would be more appropriate for a blessing recited after performance of that mitzva was completed. **And** the other **Sage,** Rav Pappa, **maintains** that this expression **refers to the future.**
+
+**2.**
+*Hebrew/Aramaic:* מֵיתִיבִי: ״בָּרוּךְ ... אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל הַמִּילָה״!
+*Translation:* The Gemara **raises an objection** to Rav Pappi’s opinion from the formula of the blessing recited just prior to circumcision: **Blessed** are You…**Who has made us holy through His mitzvot and has commanded us concerning circumcision.** Apparently this expression indeed is referring to a future act.
+
+**3.**
+*Hebrew/Aramaic:* הָתָם, הֵיכִי נֵימָא? נֵימָא ״לָמוּל״ — לָא סַגִּיא דְּלָאו אִיהוּ מָהֵיל? אֲבִי הַבֵּן מַאי אִיכָּא לְמֵימַר? אִין הָכִי נָמֵי.
+*Translation:* The Gemara rejects this contention: That is no proof, as **what** alternative formula **can we recite there?** If **we say:** He, Who has made us holy through His mitzvot and commanded us **to circumcise, is there no alternative to he** himself, i.e., the boy’s father, **circumcising** his son? The father is commanded to circumcise his son, and he may appoint one who is not commanded to circumcise his son to act in his stead. Therefore, the more general formula of the blessing is recited: About the circumcision. The Gemara raises a difficulty: In a case where **the child’s father** himself circumcises his son, **what can be said?** The Gemara responds: **Yes, it is indeed so.** If the father himself performs the circumcision he in fact recites the blessing: And has commanded us to circumcise.
+
+**4.**
+*Hebrew/Aramaic:* מֵיתִיבִי: ״בָּרוּךְ ... אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל הַשְּׁחִיטָה״! הָתָם נָמֵי, הֵיכִי נֵימָא? נֵימָא ״לִשְׁחוֹט״ — לָא סַגִּיא דְּלָאו אִיהוּ שָׁחֵט?
+*Translation:* The Gemara **raises an objection** to Rav Pappi’s opinion. The blessing recited over ritual slaughter is: **Blessed**…**Who has made us holy through His mitzvot and has commanded us concerning slaughtering.** This blessing likewise indicates that this formula is appropriate prior to an action. The Gemara again rejects this claim: **There too, what** alternative formula **can we recite?** If **we say:** Who has commanded us **to slaughter, is there no alternative to his slaughtering** the animal? There is no mitzva to slaughter an animal. It is merely the necessary preparation before one may eat meat. Therefore, the more general formula of the blessing is recited: Concerning slaughtering.
+
+**5.**
+*Hebrew/Aramaic:* פֶּסַח וְקׇדָשִׁים מַאי אִיכָּא לְמֵימַר? אִין הָכִי נָמֵי.
+*Translation:* The Gemara raises a difficulty: If so, with regard to the slaughter of the **Paschal lamb and** other **consecrated** animals, **what can be said?** One is indeed commanded to slaughter these animals. The Gemara answers: **Yes, it is indeed so.** When slaughtering the Paschal lamb or any other offering, one recites: Who has commanded us to slaughter.
+
+**6.**
+*Hebrew/Aramaic:* מֵיתִיבִי: הָעוֹשֶׂה לוּלָב לְעַצְמוֹ, מְבָרֵךְ: ״שֶׁהֶחֱיָינוּ וְקִיְּמָנוּ וְהִגִּיעָנוּ לַזְּמַן הַזֶּה״. נְטָלוֹ לָצֵאת בּוֹ, אוֹמֵר: ״אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל נְטִילַת לוּלָב״! שָׁאנֵי הָתָם, דִּבְעִידָּנָא דְּאַגְבְּהֵהּ נְפַק בֵּיהּ.
+*Translation:* The Gemara **raises an objection** to Rav Pappi’s opinion from the *Tosefta*: **One who prepares a *lulav* for himself recites the blessing: Who has given us life, sustained us, and brought us to this time.** When **he takes it to fulfill with it** the obligation to take the *lulav*, **he says: Who has made us holy through His mitzvot and has commanded us concerning the taking of the *lulav*.** Although he has yet to perform the mitzva, he does not recite the formula: To take. The Gemara answers: **It is different there, as at the time when he lifts** the *lulav* before he recites the blessing, he already **fulfilled** his obligation by Torah law. Consequently, the formula: Concerning the taking, is indeed more appropriate for an action that he has already performed.
+
+**7.**
+*Hebrew/Aramaic:* אִי הָכִי: ״לָצֵאת בּוֹ״? ״יָצָא בּוֹ״ מִיבְּעֵי לֵיהּ! אִין הָכִי נָמֵי, וּמִשּׁוּם דְּקָא בָּעֵי לְמִיתְנָא סֵיפָא: ״לֵישֵׁב בַּסּוּכָּה״, תְּנָא רֵישָׁא נָמֵי ״לָצֵאת בּוֹ״.
+*Translation:* The Gemara raises an objection: **If so,** the statement that he takes it **to fulfill** his obligation **with it** is imprecise, as the *tanna* **should have** said that he took the *lulav* **with which** he already **fulfilled** his obligation. The Gemara answers: **Yes, it is indeed so;** the *tanna* should have formulated the *halakha* in that manner. **But due to** the fact **that he wants to teach the latter clause** of the *baraita*: One who comes **to sit in the *sukka*, he likewise taught** in **the first clause: To fulfill** his obligation **with it.** This phrase maintains the consistency of the language of the *Tosefta*, even though it is imprecise with regard to the *halakha* of *lulav*.
+
+**8.**
+*Hebrew/Aramaic:* דְּקָתָנֵי סֵיפָא: הָעוֹשֶׂה סוּכָּה לְעַצְמוֹ, אוֹמֵר: ״בָּרוּךְ אַתָּה ה׳ ... שֶׁהֶחֱיָינוּ וְקִיְּמָנוּ וְהִגִּיעָנוּ לַזְּמַן הַזֶּה״. נִכְנַס לֵישֵׁב בָּהּ, אוֹמֵר: ״בָּרוּךְ ... אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לֵישֵׁב בַּסּוּכָּה״. וְהִלְכְתָא: ״עַל בִּיעוּר חָמֵץ״.
+*Translation:* **As it teaches in the latter clause** of this *baraita*: **One who erects a *sukka* for himself recites: Blessed are You, God, Who has given us life, sustained us, and brought us to this time.** When **he enters to sit in** the *sukka* **he says: Blessed**…**Who has made us holy through His mitzvot and has commanded us to sit in the *sukka*.** In summary, no conclusive proof has been found for either side of this debate. The Gemara concludes: **And the *halakha* is** that one should recite: **Concerning the removal of leaven,** as that expression is referring to the future as well.
+
+**9.**
+*Hebrew/Aramaic:* דְּכוּלֵּי עָלְמָא מִיהָא, מֵעִיקָּרָא בָּעִינַן לְבָרוֹכֵי, מְנָלַן? דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: כׇּל הַמִּצְוֹת מְבָרֵךְ עֲלֵיהֶן עוֹבֵר לַעֲשִׂיָּיתָן.
+*Translation:* The Gemara poses a question: **In any event,** it is clear from the previous discussion that **everyone agrees** that **one is required to recite a blessing prior to** performing a mitzva. **From where do we** derive this principle? It is **as Rav Yehuda said** that **Shmuel said:** With regard to **all the mitzvot, one recites a blessing over them prior to [*over*] their performance.**
+
+**10.**
+*Hebrew/Aramaic:* מַאי מַשְׁמַע דְּהַאי ״עוֹבֵר״ לִישָּׁנָא דְּאַקְדּוֹמֵי הוּא? אָמַר רַב נַחְמָן בַּר יִצְחָק, דְּאָמַר קְרָא: ״וַיָּרׇץ אֲחִימַעַץ דֶּרֶךְ הַכִּכָּר וַיַּעֲבֹר אֶת הַכּוּשִׁי״. אַבָּיֵי אָמַר, מֵהָכָא: ״וְהוּא עָבַר לִפְנֵיהֶם״. וְאִיבָּעֵית אֵימָא מֵהָכָא: ״וַיַּעֲבֹר מַלְכָּם לִפְנֵיהֶם וַה׳ בְּרֹאשָׁם״.
+*Translation:* The Gemara asks: **From where may it be inferred that** the word ***over* is the language of priority? Rav Naḥman bar Yitzḥak said that the verse said: “And Ahimaaz ran by the way of the plain, and overran [*vaya’avor*] the Cushite”** (II Samuel 18:23), i.e., Ahimaaz overtook the Cushite. **Abaye said:** It is derived **from here: “And he passed [*avar*] before them”** (Genesis 33:3). **And if you wish, say** instead that the proof is **from here: “And their king passed [*vaya’avor*] before them and God at their head”** (Micah 2:13).
+
+**11.**
+*Hebrew/Aramaic:* בֵּי רַב אָמְרִי: חוּץ מִן הַטְּבִילָה וְשׁוֹפָר. בִּשְׁלָמָא טְבִילָה — דְּאַכַּתִּי גַּבְרָא לָא חֲזֵי. אֶלָּא שׁוֹפָר מַאי טַעְמָא? וְכִי תֵּימָא מִשּׁוּם דִּילְמָא מִיקַּלְקְלָא תְּקִיעָה. אִי הָכִי, אֲפִילּוּ שְׁחִיטָה וּמִילָה נָמֵי!
+*Translation:* **In the school of Rav they say:** One recites a blessing prior to performing all mitzvot, **except for** the ritual **immersion** after a nocturnal emission **and** the blowing of the ***shofar*.** The Gemara elaborates: **Granted** one does not recite a blessing prior to **immersion, as** this **man** who has not yet immersed **is still unfit** to recite a blessing because he is ritually impure. **However,** with regard to **a *shofar*, what is the reason** that one does not recite a blessing before sounding the *shofar*? **And lest you say** the reason is **due to** a concern **lest the sounding** of the *shofar* emerge **flawed,** and the blessing will be in vain, **if so,** one should not recite a blessing **even** prior to ritual **slaughter and circumcision,** as in those cases too one might fail to perform the action in the requisite manner.
+
+**12.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב חִסְדָּא: חוּץ מִן הַטְּבִילָה בִּלְבַד אִיתְּמַר. תַּנְיָא נָמֵי הָכִי: טָבַל וְעָלָה, בַּעֲלִיָּיתוֹ אוֹמֵר: ״בָּרוּךְ ... אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל הַטְּבִילָה״.
+*Translation:* **Rather, Rav Ḥisda said: Except for** prior to **immersion alone was stated,** due to the aforementioned reason. The Gemara adds: **That was also taught** in a *baraita*: With regard to one who **immersed** for ritual purification after a nocturnal emission **and emerged, as he emerges he recites: Blessed**…**Who has made us holy through His mitzvot and commanded us concerning immersion.**
+
+**13.**
+*Hebrew/Aramaic:* לְאוֹר הַנֵּר וְכוּ׳. מְנָא הָנֵי מִילֵּי? אָמַר רַב חִסְדָּא: לָמַדְנוּ מְצִיאָה מִמְּצִיאָה, וּמְצִיאָה מֵחִיפּוּשׂ, וְחִיפּוּשׂ מֵחִיפּוּשׂ, וְחִיפּוּשׂ מִנֵּרוֹת, וְנֵרוֹת מִנֵּר.
+*Translation:* The mishna states that one searches for leaven **by the light of the lamp, etc.** The Gemara asks: **From where are these matters,** i.e., that the search should be conducted by the light of the lamp, derived? **Rav Ḥisda said: We derive** it by the hermeneutic principles of verbal analogy and juxtaposition: The term **finding** in one context is derived **from finding** in another context, **and finding** is derived **from** the word **searching, and** this **searching** is derived **from searching** elsewhere, **and searching** there is derived **from** the word **lamps, and lamps** is derived **from lamp.**
+
+**14.**
+*Hebrew/Aramaic:* מְצִיאָה מִמְּצִיאָה — כְּתִיב הָכָא: ״שִׁבְעַת יָמִים שְׂאֹר לֹא יִמָּצֵא בְּבָתֵּיכֶם״, וּכְתִיב הָתָם: ״וַיְחַפֵּשׂ בַּגָּדוֹל הֵחֵל וּבַקָּטֹן כִּלָּה וַיִּמָּצֵא״. וּמְצִיאָה מֵחִיפּוּשׂ דִּידֵיהּ.
+*Translation:* The Gemara cites the relevant verses included in the above derivation. **Finding** in one context is derived **from finding** in another context by verbal analogy, as **it is written here: “Seven days leaven shall not be found in your houses”** (Exodus 12:19), **and it is written there: “And he searched, starting with the eldest, and ending with the youngest; and** the goblet **was found** in Benjamin’s sack” (Genesis 44:12). **And** the word **finding** in this verse is connected **to searching in that same** verse by juxtaposition, as the verse says: “And he searched... and was found.”
+
+**15.**
+*Hebrew/Aramaic:* וְחִיפּוּשׂ מִנֵּרוֹת, דִּכְתִיב: ״בָּעֵת הַהִיא אֲחַפֵּשׂ אֶת יְרוּשָׁלִַים בַּנֵּרוֹת״, וְנֵרוֹת מִנֵּר, דִּכְתִיב: ״נֵר (אֱלֹהִים) [ה׳] נִשְׁמַת אָדָם חֹפֵשׂ כׇּל חַדְרֵי בָטֶן״.
+*Translation:* **And searching** is derived **from lamps** by means of juxtaposition, **as it is written:** “And it shall come to pass that **at that time I will search Jerusalem with lamps”** (Zephaniah 1:12). **And** finally, the word **lamps** is derived **from lamp** by means of juxtaposition, **as it is written: “The spirit of man is the lamp of God, searching all the inward parts”** (Proverbs 20:27). Together these verses indicate that the search for leaven must be conducted by the light of the lamp.
+
+**16.**
+*Hebrew/Aramaic:* תָּנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: לֵילֵי אַרְבָּעָה עָשָׂר בּוֹדְקִים אֶת הֶחָמֵץ לְאוֹר הַנֵּר. אַף עַל פִּי שֶׁאֵין רְאָיָה לְדָבָר, זֵכֶר לַדָּבָר, שֶׁנֶּאֱמַר: ״שִׁבְעַת יָמִים שְׂאֹר לֹא יִמָּצֵא״, וְאוֹמֵר: ״וַיְחַפֵּשׂ בַּגָּדוֹל הֵחֵל וּבַקָּטֹן כִּלָּה״, וְאוֹמֵר: ״בָּעֵת הַהִיא אֲחַפֵּשׂ אֶת יְרוּשָׁלִַים בַּנֵּרוֹת״, וְאוֹמֵר: ״נֵר (אֱלֹהִים) [ה׳] נִשְׁמַת אָדָם חֹפֵשׂ״.
+*Translation:* Similarly, **the school of Rabbi Yishmael taught:** On **the night of the fourteenth one searches for leavened bread by the light of the lamp. Although there is no** absolute **proof for** this **matter, there is an allusion to** this **matter, as it is stated: “Seven days leaven shall not be found** in your houses,” **and it says: “And he searched, starting with the eldest, and ending with the youngest;** and the goblet was found.” **And it says: “At that time I will search Jerusalem with lamps,” and it says: “The spirit of man is the lamp of God, searching** all the inward parts.”
+
+**17.**
+*Hebrew/Aramaic:* מַאי ״וְאוֹמֵר״?
+*Translation:* With regard to this teaching, the Gemara asks a question: **What is** the reason for the last citation introduced by the final **And** the verse **says?** Why doesn’t the previous verse, “At that time I will search Jerusalem with lamps,” provide sufficient proof that the search must be conducted by the light of the lamp?
+
+**18.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא: הַאי ״בָּעֵת הָהִיא״ — קוּלָּא הוּא דְּקָאָמַר רַחֲמָנָא: לָא בָּדֵיקְנָא לַהּ בִּירוּשָׁלַיִם בִּנְהוֹרָא דַאֲבוּקָה — דִּנְפִישׁ נְהוֹרָא טוּבָא, אֶלָּא בִּנְהוֹרָא דִשְׁרָגָא — דְּזוּטַר נְהוֹרָא טְפֵי, דְּעָוֹן רַבָּה מִשְׁתְּכַח וְעָוֹן זוּטַר לָא מִשְׁתְּכַח, תָּא שְׁמַע: ״נֵר ה׳ נִשְׁמַת אָדָם״.
+*Translation:* **And** the Gemara answers: The last verse is necessary, **lest you say** that **this** verse: **“At that time,** etc.” **is a leniency, as God is saying: I will not search Jerusalem by the light of a torch, whose light is great,** and through which I will expose every sin. **Rather,** I will search **by the light of** a small **lamp, whose light is smaller,** which will ensure **that great sins will be discovered and small sins will not be discovered.** To counter this argument, the *tanna* states: **Come** and **hear, “The spirit of man is the lamp of God,** searching all the inward parts.” This verse indicates that everything will be found by the light of the lamp, which is the most effective manner of searching.
+
+**19.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אֵין בּוֹדְקִין לֹא לְאוֹר הַחַמָּה, וְלֹא לְאוֹר הַלְּבָנָה, וְלֹא לְאוֹר הָאֲבוּקָה, אֶלָּא לְאוֹר הַנֵּר,
+*Translation:* **The Sages taught: One does not search** for leaven, **neither by the light of the sun, nor by the light of the moon, nor by the light of a torch. Rather,** the search should be conducted **by the light of a lamp,**

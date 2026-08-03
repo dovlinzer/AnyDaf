@@ -1,4 +1,4 @@
-### Hullin 5a
+### Chullin 5a
 
 **1.**
 *Hebrew/Aramaic:* לָא הֲוָה מְפַלֵּיג נַפְשֵׁיהּ מִינֵּיהּ, מְנָלַן? אִילֵּימָא מִדִּכְתִיב ״כָּמוֹנִי כָמוֹךָ כְּעַמִּי כְעַמֶּךָ״, אֶלָּא מֵעַתָּה ״כְּסוּסַי כְּסוּסֶיךָ״ הָכִי נָמֵי? אֶלָּא מָה דְּהָוֵי אַסּוּסֶיךָ תֶּהֱוֵי אַסּוּסַי, הָכִי נָמֵי מַאי דְּהָוֵי עֲלָךְ וְעִילָּוֵי עַמָּךְ תֶּיהֱוֵי עֲלַי וְעִילָּוֵי עַמִּי.
@@ -59,3 +59,48 @@
 **15.**
 *Hebrew/Aramaic:* וְהָא מֵהָכָא נָפְקָא? מֵהָתָם נָפְקָא,
 *Translation:* The Gemara asks: **And is this** *halakha* that one does not accept an offering from a transgressor **derived from** the verse cited **here? It is derived from** the verse written **there** with regard to a sin offering:
+
+
+---
+
+### Chullin 5b
+
+**1.**
+*Hebrew/Aramaic:* ״מֵעַם הָאָרֶץ״ – פְּרָט לִמְשׁוּמָּד.
+*Translation:* “And if any one **of the common people** sins unwittingly…and he shall bring his offering” (Leviticus 4:27–28), from which it is inferred in a *baraita*: “Of the common people,” indicating: But not all of the common people. This serves **to exclude a transgressor,** from whom a sin offering is not accepted.
+
+**2.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן בֶּן יוֹסֵי אוֹמֵר מִשּׁוּם רַבִּי שִׁמְעוֹן: ״אֲשֶׁר לֹא תֵּעָשֶׂינָה בִּשְׁגָגָה וְאָשֵׁם״, הַשָּׁב מִידִיעָתוֹ – מֵבִיא קׇרְבָּן עַל שִׁגְגָתוֹ, אֵינוֹ שָׁב מִידִיעָתוֹ – אֵינוֹ מֵבִיא קׇרְבָּן עַל שִׁגְגָתוֹ.
+*Translation:* **Rabbi Shimon ben Yosei says in the name of Rabbi Shimon** that the verse states: “And does **unwittingly** one of the things…**that may not be done, and he becomes guilty,** or if his sin that he sinned became known to him” (Leviticus 4:22–23). From the words “become known to him” it is inferred: **One who repents due to his awareness** that he performed a transgression, as had he known that the action is prohibited he would not have performed it, **brings an offering for his unwitting** transgression in order to achieve atonement. But one who **does not repent due to his awareness** that he sinned, e.g., a transgressor who would have sinned even had he been aware that the act is prohibited, **does not bring an offering for his unwitting** action.
+
+**3.**
+*Hebrew/Aramaic:* וְאָמְרִינַן: מַאי בֵּינַיְיהוּ? וְאָמַר רַב הַמְנוּנָא: מְשׁוּמָּד לֶאֱכוֹל חֵלֶב וְהֵבִיא קׇרְבָּן עַל הַדָּם אִיכָּא בֵּינַיְיהוּ.
+*Translation:* **And we say: What** is the difference **between their** two opinions? **And Rav Hamnuna said:** The difference is in the case of **a transgressor with regard to eating** the forbidden **fat** of a domesticated animal **and he brought an offering for** unwittingly consuming **blood is** the difference **between them.** According to the first *tanna* he may not bring an offering, as he is a transgressor. According to Rabbi Shimon, since he repented for unwittingly consuming blood, due to his awareness that he sinned, he brings a sin offering for that unwitting sin. In any event, this *baraita* apparently contradicts the previously cited *baraita* with regard to the source for the *halakha* that one does not accept an offering from a transgressor.
+
+**4.**
+*Hebrew/Aramaic:* חֲדָא בְּחַטָּאת, וַחֲדָא בְּעוֹלָה, וּצְרִיכִי, דְּאִי אַשְׁמְעִינַן חַטָּאת – מִשּׁוּם דִּלְכַפָּרָה הוּא, אֲבָל עוֹלָה דְּדוֹרוֹן הוּא – אֵימָא לְקַבֵּל מִינֵּיהּ. וְאִי אַשְׁמְעִינַן עוֹלָה – מִשּׁוּם דְּלָאו חִיּוּבָא הוּא, אֲבָל חַטָּאת דְּחִיּוּבָא הוּא – אֵימָא לְקַבֵּל מִינֵּיהּ, צְרִיכָא.
+*Translation:* The Gemara answers: **One** source teaches **with regard to** the **sin offering** of a transgressor that it is not accepted, **and one** source teaches **with regard to** the **burnt offering** of a transgressor that it is not accepted. **And** both sources **are necessary, as, if** the Torah had **taught us** this *halakha* only with regard to **a sin offering,** one might have thought that it is not accepted **due to** the fact **that it is for atonement,** and as a transgressor he is undeserving of atonement, **but** with regard to **a burnt offering, which is** merely **a gift [*dedoron*], say** that one ought **to accept** it **from him. And if** the Torah had **taught us** this *halakha* only with regard to **a burnt offering,** one might have thought that it is not accepted **due to** the fact **that it is not an obligation, but** with regard to **a sin offering, which is an obligation, say** that one ought **to accept** it **from him.** Therefore, both sources are **necessary.**
+
+**5.**
+*Hebrew/Aramaic:* וְכׇל הֵיכָא דִּכְתִיב בְּהֵמָה, גְּרִיעוּתָא הִיא? וְהָכְתִיב ״אָדָם וּבְהֵמָה תוֹשִׁיעַ ה׳״, וְאָמַר רַב יְהוּדָה אָמַר רַב: אֵלּוּ בְּנֵי אָדָם שֶׁהֵן עֲרוּמִין בְּדַעַת, וּמְשִׂימִין עַצְמָן כִּבְהֵמָה! הָתָם כְּתִיב ״אָדָם וּבְהֵמָה״, הָכָא בְּהֵמָה לְחוּדֵּיהּ כְּתִיב.
+*Translation:* § In the previous *baraita* the Sages derived from the phrase “from the animal” that people who are similar to an animal are included among those from whom offerings are accepted. The Gemara seeks to understand the meaning of the phrase: Similar to an animal, and asks: **And everywhere that** the word **animal is written** and interpreted as referring to a person, does it indicate **a deficiency? But isn’t it written: “Man and animal You preserve, Lord”** (Psalms 36:7), **and Rav Yehuda says** that **Rav says: These are people who are clever in** terms of their **intellect,** like people, **and** despite their intelligence they **comport themselves** humbly and self-effacingly, **like an animal.** The Gemara answers: **There it is written “man and animal.” Here,** the word **“animal” alone is written.**
+
+**6.**
+*Hebrew/Aramaic:* וְכׇל הֵיכָא דִּכְתִיב ״אָדָם וּבְהֵמָה״ מְעַלְּיוּתָא הִיא? וְהָא כְּתִיב: ״וְזָרַעְתִּי אֶת בֵּית יִשְׂרָאֵל זֶרַע אָדָם וְזֶרַע בְּהֵמָה״! הָתָם, הָא חַלְּקֵיהּ קְרָא, ״זֶרַע אָדָם״ לְחוֹד וְ״זֶרַע בְּהֵמָה״ לְחוֹד.
+*Translation:* The Gemara asks: **And everywhere that** the terms **“man” and “animal” are written** together, does it indicate **a virtue? But isn’t it written: “And I will sow the house of Israel and the house of Judah with the seed of man and with the seed of animal”** (Jeremiah 31:26), and the Sages interpreted the phrase “seed of animal” as a reference to ignorant, inferior people. The Gemara answers: **There, doesn’t the verse separate** man and animal? **The seed of man** is **discrete and the seed of animal** is **discrete.**
+
+**7.**
+*Hebrew/Aramaic:* (סִימָן: נִקְלָ״ף.)
+*Translation:* § The Gemara revisits the matter of slaughter by a Samaritan and cites **a mnemonic** for the names of the Sages that follow: ***Nun*,** for Ḥanan; ***kuf*,** for Ya’akov; ***lamed*,** for ben Levi; and ***peh*,** for bar Kappara.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַבִּי חָנָן אָמַר רַבִּי יַעֲקֹב בַּר אִידֵּי אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי מִשּׁוּם בַּר קַפָּרָא: רַבָּן גַּמְלִיאֵל וּבֵית דִּינוֹ נִמְנוּ עַל שְׁחִיטַת כּוּתִי וַאֲסָרוּהָ. אֲמַר לֵיהּ רַבִּי זֵירָא לְרַבִּי יַעֲקֹב בַּר אִידִי: שֶׁמָּא לֹא שָׁמַע רַבִּי אֶלָּא בְּשֶׁאֵין יִשְׂרָאֵל עוֹמֵד עַל גַּבָּיו? אֲמַר לֵיהּ: דָּמֵי הַאי מֵרַבָּנַן כִּדְלָא גְּמִירִי אִינָשֵׁי שְׁמַעְתָּא, בְּשֶׁאֵין יִשְׂרָאֵל עוֹמֵד עַל גַּבָּיו לְמֵימְרָא בָּעֵי?
+*Translation:* § **Rabbi Ḥanan says** that **Rabbi Ya’akov bar Idi says** that **Rabbi Yehoshua ben Levi says in the name of bar Kappara:** The opinions of **Rabban Gamliel and his court were counted with regard to** the status of **the slaughter of a Samaritan, and they prohibited it. Rabbi Zeira said to Rabbi Ya’akov bar Idi: Perhaps my teacher heard** that *halakha* **only** in a case **where a Jew is not standing over him.** Rabbi Ya’akov bar Idi **said to** Rabbi Zeira: **This** one **of the Sages seems like** one of **the people who have not studied *halakha*. When a Jew is not standing over** the Samaritan **is it necessary to say** that it is prohibited to eat from what he slaughters?
+
+**9.**
+*Hebrew/Aramaic:* קַבְּלַהּ מִינֵּיהּ אוֹ לָא קַבְּלַהּ מִינֵּיהּ? תָּא שְׁמַע, דְּאָמַר רַב נַחְמָן בַּר יִצְחָק אָמַר רַבִּי אַסִּי: אֲנִי רָאִיתִי אֶת רַבִּי יוֹחָנָן שֶׁאָכַל מִשְּׁחִיטַת כּוּתִי, אַף רַבִּי אַסִּי אָכַל מִשְּׁחִיטַת כּוּתִי. וְתָהֵי בַּהּ רַבִּי זֵירָא: לָא שְׁמִיעָא לְהוּ, דְּאִי הֲוָה שְׁמִיעָא לְהוּ הֲווֹ מְקַבְּלִי לֵהּ, אוֹ דִלְמָא שְׁמִיעַ לְהוּ וְלָא קַבְּלוּהָ?
+*Translation:* The Gemara asks: **Did** Rabbi Zeira **accept** that response **from** Rabbi Ya’akov bar Idi **or did he not accept it from him? Come** and **hear** a proof to resolve that dilemma from that **which Rav Naḥman bar Yitzḥak says** that **Rabbi Asi says: I saw that Rabbi Yoḥanan ate from the slaughter of a Samaritan.** And **Rabbi Asi too ate from the slaughter of a Samaritan. And Rabbi Zeira wondered about it,** whether perhaps **they did not hear** the *halakha* that it is prohibited to eat from the slaughter of a Samaritan **but had they heard** it **they would have accepted it, or perhaps they heard** the *halakha* **but did not accept it.**
+
+**10.**
+*Hebrew/Aramaic:* הֲדַר פָּשֵׁיט לְנַפְשֵׁיהּ: מִסְתַּבְּרָא דִּשְׁמִיעַ לְהוּ וְלָא קַבְּלוּהָ, דְּאִי סָלְקָא דַעְתָּךְ לָא שְׁמִיעַ לְהוּ, וְאִי הֲוָה שְׁמִיעַ לְהוּ הֲווֹ מְקַבְּלִי לֵהּ, הֵיכִי מִסְתַּיְּיעָא מִילְּתָא לְמֵיכַל אִיסּוּרָא? הַשְׁתָּא בְּהֶמְתָּן שֶׁל צַדִּיקִים אֵין הַקָּדוֹשׁ בָּרוּךְ הוּא מֵבִיא תַּקָּלָה עַל יָדָן, צַדִּיקִים עַצְמָן לֹא כׇּל שֶׁכֵּן!
+*Translation:* Rabbi Zeira **then resolved** the matter **for himself. It stands to reason that they heard it and did not accept it. As, if it enters your mind** that **they did not hear it, but** that **had they heard it they would have accepted it, how did the matter eventuate,** leading these Sages **to eat forbidden** food? **Now** consider: If even **through the animals of the righteous, the Holy One, Blessed be He, does not generate mishaps,** then is it **not all the more so** true that **the righteous themselves** would not experience mishaps?

@@ -16,7 +16,7 @@ His point seems to be that in both scenarios the person ultimately needs both pi
 
 Rav Nachman then offers his own formulation. The *korban* is brought *al shgaga* — on account of an error. *Hatam chada shgaga*: when one forgets it is *shabbat*, he has made a single error. *Hacha tuvah shgagot havinan*: when one forgets individual *melachot*, he has made multiple distinct errors — one about cooking, one about planting, and so on.
 
-### Common Ground Between Vi…
+### Common Ground: Nature
 
 On reflection, the two positions are expressing essentially the same point through slightly different language. Both agree that forgetting *shabbat* constitutes one mistake and forgetting individual *melachot* constitutes multiple mistakes. One framing emphasizes what would have caused the person to desist; the other emphasizes the number of distinct errors made. The practical significance of this subtle difference in articulation will become clearer later in the *daf*, where the case of forgetting *both* *shabbat* and the *melachot* simultaneously forces us to confront precisely how we define and count the nature of one's error.
 
@@ -52,7 +52,7 @@ The *gemara* presses Shmuel: why resort to this derivation from *mechaleleha mos
 
 The *braisa* records Rabbi Natan's position: *lo tiva'aru eish bechol moshvoseichem beyom haShabbos* — you shall not kindle fire in any of your dwelling places on *shabbat*. This is the one act of *melacha* that the *Torah* singles out by name in the context of *shabbat* prohibition. The question Rabbi Natan asks is: *mah talmud lomar* — what is the point of specifying fire? We already know fire is one of the thirty-nine *melachot*. Why does the *Torah* need to articulate it separately?
 
-### Eileh Hadvarim - 39 Cate…
+### Eileh Hadvarim: 39 Works
 
 To understand Rabbi Natan's answer, the *gemara* traces the derivation of the thirty-nine categories themselves. The *Torah* prefaces the *shabbat* laws in *Vayakhel* with the phrase *eileh hadvarim* — these are the things. The *gemara* derives thirty-nine from this formulation: *dvarim*, *hadvarim*, *eileh hadvarim* — the word *dvarim* in its plural form combined with the *heh* of *hadvarim* and the *gematria* of *eileh* (36) yields thirty-nine. It is worth noting that Rav Yoel Bin-Nun proposed an alternative reading: rather than relying on *gematria*, he observed that if one counts the distinct items listed in the accounts of the *Mishkan* in *Vayakhel* and *Pikudei*, one arrives at precisely thirty-nine. In his reading, the *Torah* is indicating that the activities involved in building the *Mishkan* define the categories of *melacha*, and the phrase *eileh hadvarim* — these are the things — makes that explicit.
 
@@ -64,7 +64,7 @@ This is where fire enters. The principle invoked here is *davar shehayah baklal 
 
 The logic thus proceeds in stages. First, we establish thirty-nine categories from *eileh hadvarim*. Second, we establish that violating even one of them — not necessarily all thirty-nine — already constitutes a violation of *shabbat*, which we learn from the verse *b'charish uv'katzir tishbot*, where the *Torah* specifically names *charish* (plowing) and *katzir* (harvesting). Third, we now ask: if one violates multiple categories, does that generate multiple *korbanos*, or is it still just one? And for that, we invoke the singling-out of fire — each category is conceptually distinct and independently liable.
 
-### Charish and Katzir Objec…
+### Charish and Katzir
 
 An obvious question arises: if *charish* and *katzir* are also singled out, why couldn't we have derived *chiluk melachot* from them, without needing fire at all?
 
@@ -176,7 +176,7 @@ The *gemara* resolves this elegantly through Rabbi Yochanan's own position — *
 
 This resolution is specific to Rabbi Yochanan's view. Reish Lakish, who holds that *shogeg* liability requires forgetting even the basic *lav* prohibition — *ad d'yishgog b'lav u'vkares* — faces the difficulty more acutely: if one forgot that all thirty-nine things are forbidden, hasn't he simply forgotten *shabbat*?
 
-### Techumin as Shabbat Know…
+### Shabbat Through Techumin
 
 For Reish Lakish's position, the *gemara* employs the same resolution offered two days prior: *d'yadah lei b'tchumin v'aliba d'Rabbi Akiva* — one retains knowledge that it is *shabbat* because he knows, at minimum, that it is biblically prohibited to go beyond the *techum* (city limits), which Rabbi Akiva holds is a biblical prohibition. This residual knowledge of *some* *shabbat* prohibition — even if not *melacha* — suffices to establish that he "knew" it was *shabbat*. He then made thirty-nine independent errors about the individual *melachot*, and thus brings thirty-nine *korbanos*. If no such residual *shabbat* knowledge exists and he forgot even *techum*, then his forgetting of all *melachot* collapses into a forgetting of *shabbat* itself, and only one *korban* is brought.
 

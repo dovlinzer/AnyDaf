@@ -1,0 +1,73 @@
+### Yevamot 66a
+
+**1.**
+*Hebrew/Aramaic:* אַחְווֹתָא.
+*Translation:* were twin **sisters,** and became the matriarchs of families of distinguished Torah scholars.
+
+**2.**
+*Hebrew/Aramaic:* וְלָא מִיפַּקְדִי? וְהָאָמַר רַב אַחָא בַּר רַב קַטִּינָא אָמַר רַבִּי יִצְחָק: מַעֲשֶׂה בְּאִשָּׁה אַחַת שֶׁחֶצְיָהּ שִׁפְחָה וְחֶצְיָהּ בַּת חוֹרִין, וְכָפוּ אֶת רַבָּהּ וַעֲשָׂאָהּ בַּת חוֹרִין! אָמַר רַב נַחְמָן בַּר יִצְחָק: מִנְהַג הֶפְקֵר נָהֲגוּ בָּהּ.
+*Translation:* The Gemara asks: **Are** women **not commanded** to be fruitful and multiply? **Didn’t Rav Aḥa bar Rav Ketina say** that **Rabbi Yitzḥak said:** There was **an incident with a certain woman who** was **half-slave and half-free woman** and therefore could marry neither a Canaanite slave nor a Jew, **and they forced her master and he made her a free** woman. Presumably, the reason the court forced her master to free her was so that she could fulfill the mitzva to be fruitful and multiply. **Rav Naḥman bar Yitzḥak said:** The reason they forced her master to free her was because others **treated her in a loose manner.** Since she knew that she could not marry she engaged in promiscuous activity, and the court forced her master to free her in order to save her and others from sin.
+
+**3.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ הַבָּא עַל יְבִמְתּוֹ
+*Translation:* 
+
+**4.**
+*Hebrew/Aramaic:* אַלְמָנָה לְכֹהֵן גָּדוֹל, גְּרוּשָׁה וַחֲלוּצָה לְכֹהֵן הֶדְיוֹט, הִכְנִיסָה לוֹ עַבְדֵי מְלוֹג וְעַבְדֵי צֹאן בַּרְזֶל, עַבְדֵי מְלוֹג — לֹא יֹאכְלוּ בִּתְרוּמָה, עַבְדֵי צֹאן בַּרְזֶל — יֹאכֵלוּ.
+*Translation:* MISHNA: **A widow** married **to a High Priest,** and **a divorcée or a *yevama* who performed *ḥalitza* [*ḥalutza*]** married **to a common priest** are all unions prohibited by Torah law. If one of these women **brought** with her **into** the marriage **slaves of usufruct [*melog*]** property **or slaves of guaranteed investment,** then the **slaves of usufruct** property **do not partake of *teruma*** but the **slaves of guaranteed investment do partake** of *teruma*.
+
+**5.**
+*Hebrew/Aramaic:* וְאֵלּוּ הֵן עַבְדֵי מְלוֹג: אִם מֵתוּ — מֵתוּ לָהּ, וְאִם הוֹתִירוּ — הוֹתִירוּ לָהּ, אַף עַל פִּי שֶׁהוּא חַיָּיב בִּמְזוֹנוֹתָן הֲרֵי אֵלּוּ לֹא יֹאכְלוּ בִּתְרוּמָה. וְאֵלּוּ הֵן עַבְדֵי צֹאן בַּרְזֶל: אִם מֵתוּ — מֵתוּ לוֹ, וְאִם הוֹתִירוּ — הוֹתִירוּ לוֹ, הוֹאִיל וְהוּא חַיָּיב בְּאַחְרָיוּתָן — הֲרֵי אֵלּוּ יֹאכְלוּ בִּתְרוּמָה.
+*Translation:* **And these are slaves of usufruct** property: They are those with regard to whom the couple stipulated that **if** the slaves **die, their death** is **her** loss, **and if they increase** in value, **their increase** is **her** gain. **Although** the husband **is obligated in their sustenance, they do not partake of *teruma*,** as they belong to her, not to him. He owns only the right of their use while he is married to her. **And these are slaves of guaranteed investment:** They are those with regard to whom the couple stipulated that **if they die, their death** is **his** loss, **and if they increase** in value, **their increase** is **his** gain. **Since he bears** financial **responsibility** for compensating her in the event of **their** loss, **they partake of *teruma*,** as they are considered his property.
+
+**6.**
+*Hebrew/Aramaic:* בַּת יִשְׂרָאֵל שֶׁנִּיסֵּת לְכֹהֵן וְהִכְנִיסָה לוֹ עֲבָדִים, בֵּין עַבְדֵי מְלוֹג, בֵּין עַבְדֵי צֹאן בַּרְזֶל — הֲרֵי אֵלּוּ יֹאכְלוּ בִּתְרוּמָה. וּבַת כֹּהֵן שֶׁנִּיסֵּת לְיִשְׂרָאֵל וְהִכְנִיסָה לוֹ עֲבָדִים, בֵּין עַבְדֵי מְלוֹג, בֵּין עַבְדֵי צֹאן בַּרְזֶל — הֲרֵי אֵלּוּ לֹא יֹאכְלוּ בִּתְרוּמָה.
+*Translation:* In the case of **an Israelite woman who married a priest** in a halakhic marriage **and** who **brought slaves** with her **into** the marriage, **whether** they are **slaves of usufruct** property **or slaves of guaranteed investment, they partake of *teruma*. And** in the case of **the daughter of a priest who married an Israelite and** who **brought slaves** with her **into** the marriage, **whether** they are **slaves of usufruct** property **or slaves of guaranteed investment, they do not partake of *teruma*,** although, as she is the daughter of a priest, it is permitted for her and her slaves to partake of *teruma* beforehand.
+
+**7.**
+*Hebrew/Aramaic:* גְּמָ׳ וְעַבְדֵי מְלוֹג לֹא יֹאכְלוּ בִּתְרוּמָה, אַמַּאי? לֶהֱוֵי כְּקִנְיָנוֹ שֶׁקָּנָה קִנְיָן! דְּתַנְיָא: מִנַּיִן לְכֹהֵן שֶׁנָּשָׂא אִשָּׁה וְקָנָה עֲבָדִים שֶׁיֹּאכְלוּ בִּתְרוּמָה, שֶׁנֶּאֱמַר: ״וְכֹהֵן כִּי יִקְנֶה נֶפֶשׁ קִנְיַן כַּסְפּוֹ הוּא יֹאכַל בּוֹ״.
+*Translation:* GEMARA: The mishna states that if a priest married a woman forbidden to him, his wife’s **slaves of usufruct** property **do not partake of *teruma*.** The Gemara asks: **Why** is this so? **Let** this case **be like** that of **his acquisition who acquired an acquisition, as it is taught** in a *baraita*: **From where** is it derived with regard **to a priest who married a woman and acquired slaves that they partake of *teruma*? As it is stated: “But if a priest buys any soul, the purchase of his money, he may eat of it”** (Leviticus 22:11).
+
+**8.**
+*Hebrew/Aramaic:* וּמִנַּיִן לְאִשָּׁה שֶׁקָּנְתָה עֲבָדִים, וַעֲבָדָיו שֶׁקָּנוּ עֲבָדִים, שֶׁיֹּאכְלוּ בִּתְרוּמָה — שֶׁנֶּאֱמַר: ״וְכֹהֵן כִּי יִקְנֶה נֶפֶשׁ קִנְיַן כַּסְפּוֹ הוּא יֹאכַל בּוֹ״, קִנְיָנוֹ שֶׁקָּנָה קִנְיָן — אוֹכֵל.
+*Translation:* **And from where** is it derived with regard **to** both the **wife** of a priest **who acquired slaves and** a priest’s **slaves who acquired slaves, that** the acquired slaves **may** also **partake of *teruma*? As it is stated: “But if a priest buys any soul, the purchase of his money, he may eat of it,”** which is interpreted to mean: If **his acquisition acquired an acquisition,** the latter **partakes** of *teruma*. Here too, since the **slaves of usufruct** property belong to his wife, it should be permitted for them to partake of *teruma*.
+
+**9.**
+*Hebrew/Aramaic:* כׇּל הָאוֹכֵל — מַאֲכִיל, כֹּל שֶׁאֵין אוֹכֵל — אֵינוֹ מַאֲכִיל.
+*Translation:* The Gemara answers: The principle is that **anyone who** is fit to **partake** of *teruma* can **enable** others **to partake** of *teruma*, and **anyone who does not partake** of *teruma* **cannot enable** others **to partake.** Since the priest’s wife in this case does not partake of *teruma*, as her marriage is forbidden, her slaves do not partake of *teruma* either.
+
+**10.**
+*Hebrew/Aramaic:* וְלָא? וַהֲרֵי עָרֵל, וְכׇל הַטְּמֵאִים שֶׁאֵינָן אוֹכְלִין, וּמַאֲכִילִין! הָתָם, פּוּמַּיְיהוּ כָּאֵיב לְהוּ.
+*Translation:* The Gemara asks: **And** is it so that one who does not partake of *teruma* **cannot enable** others **to partake? But aren’t** there the cases of a priest who is **uncircumcised** because it was considered too dangerous for him **and all impure** priests, **who do not partake** of *teruma*, **and** yet **they enable** their wives and slaves **to partake** of *teruma*? The Gemara answers: The difference is that **there,** in those cases, there is no inherent disqualification rendering them unfit to partake of *teruma*. The hindrance to their partaking of *teruma* is tantamount to a situation where **their mouths hurt,** and that is why they refrain from eating *teruma*. They retain, however, the fundamental right to partake of *teruma*, and therefore they can enable others to partake as well.
+
+**11.**
+*Hebrew/Aramaic:* וַהֲרֵי מַמְזֵר, שֶׁאֵין אוֹכֵל, וּמַאֲכִיל!
+*Translation:* The Gemara asks: **But isn’t** there the case of **a son born from an incestuous or adulterous relationship [*mamzer*]**, **who does not partake** of *teruma* yet **enables** others to partake? If an Israelite woman was married to a priest and was subsequently widowed or divorced, and a child from that union married a *mamzer* and then had a child, in that case, even if the woman’s child is dead, she partakes of *teruma* due to her grandchild, as she has a living descendant from a priest, although that descendant is a *mamzer*. Although this child does not partake of *teruma*, he enables his grandmother to partake of it.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רָבִינָא: קִנְיָן אוֹכֵל קָאָמַר, קִנְיָן אוֹכֵל — מַאֲכִיל, שֶׁאֵינוֹ אוֹכֵל — אֵינוֹ מַאֲכִיל.
+*Translation:* **Ravina said** that the above principle **is referring** to the case of **an acquisition who partakes** of *teruma*. If the **acquisition** of a priest **partakes** of *teruma*, he **enables** others **to partake,** whereas an acquisition **who does not partake,** e.g., his forbidden wife, **cannot enable** others **to partake.**
+
+**13.**
+*Hebrew/Aramaic:* וְרָבָא אָמַר: מִדְּאוֹרָיְיתָא מֵיכָל אָכְלִי, וְרַבָּנַן הוּא דְּגָזְרִי בְּהוּ, כְּדֵי שֶׁתֹּאמַר: אֲנִי אֵינִי אוֹכֶלֶת, עֲבָדַי אֵינָן אוֹכְלִין — זוֹנָה הִיא אֶצְלוֹ?! הִלְכָּךְ אָתֵי לְאַפּוֹקַהּ.
+*Translation:* **And Rava said** a different solution. **By Torah** law, the forbidden wife’s slaves indeed **partake** of *teruma*, as they are included in the category of: His acquisition who acquired an acquisition. **And it was the Sages who issued a decree** prohibiting **them** from partaking of *teruma*, **so that** the woman unlawfully married to a priest **would say: I do not partake** of his *teruma* and **my slaves do not partake** of it either, so that she will realize that she is not a valid wife, but rather **she is** like **a prostitute to him.** Her husband will **therefore come to divorce her,** which is the desired outcome.
+
+**14.**
+*Hebrew/Aramaic:* רַב אָשֵׁי אָמַר: גְּזֵירָה שֶׁמָּא תַּאֲכִיל לְאַחַר מִיתָה.
+*Translation:* **Rav Ashi said** a different reason for the prohibition: It is a rabbinic **decree lest she have** those slaves **partake** of *teruma* even **after** the **death** of her husband the priest. As long as he is alive, they are permitted to partake of *teruma*, as she is considered his acquisition and they belong to her. Once he dies, she is no longer his acquisition.
+
+**15.**
+*Hebrew/Aramaic:* אֶלָּא מֵעַתָּה, בַּת יִשְׂרָאֵל שֶׁנִּשֵּׂאת לְכֹהֵן לֹא תַּאֲכִיל, גְּזֵירָה שֶׁמָּא תַּאֲכִיל לְאַחַר מִיתָה!
+*Translation:* The Gemara asks: **However, if** that is **so,** that the decree is lest she have those slaves partake of *teruma* after her husband’s death, any **Israelite woman who marries a priest should not enable** her slaves of usufruct property **to partake** of *teruma* either, due to the same rabbinic **decree, lest she have them partake** of *teruma* **after** her husband’s **death.**
+
+**16.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב אָשֵׁי: בְּאַלְמָנָה כֹּהֶנֶת, דְּאָתְיָא לְאוֹרוֹיֵי: מֵעִיקָּרָא אֲכַלִי בִּתְרוּמָה דְּבֵי נָשָׁא, אִינְּסֵבִי לֵיהּ לְהַאי — אֲכַלִי בִּתְרוּמָה דְגַבְרַאי, וְהַשְׁתָּא הֲדַרִי לִי לְמִילְּתַאי קַמַּיְיתָא. וְלָא יָדְעָה דְּמֵעִיקָּרָא לָא שַׁוֵּיתַהּ לְנַפְשַׁהּ חֲלָלָה, הַשְׁתָּא שַׁוֵּיתַהּ לְנַפְשַׁהּ חֲלָלָה.
+*Translation:* **Rather, Rav Ashi said** that the decree is dealing **with a widowed priestess,** the daughter of a priest, who then married the High Priest, **as she is likely to rationalize** enabling her slaves to partake of *teruma* after the death of the High Priest as follows: **Initially,** my slaves **partook of the *teruma* of my father’s house. I** then **married this** man, **and they partook of the *teruma* of my husband. And now** that my husband died, **I have returned to the original circumstance,** and therefore they may once again partake of my father’s *teruma*. **And she does not realize that** this is not so, as **initially she did not render herself a woman disqualified from marrying a priest [*ḥalala*],** but **now,** by marrying a High Priest unlawfully, **she rendered herself a *ḥalala*,** and both she and her slaves do not partake of *teruma* even upon returning to her father’s house.
+
+**17.**
+*Hebrew/Aramaic:* תִּינַח אַלְמָנָה כֹּהֶנֶת, אַלְמָנָה בַּת יִשְׂרָאֵל מַאי אִיכָּא לְמֵימַר? בְּאַלְמְנוּתַהּ לָא פְּלִיגִי רַבָּנַן.
+*Translation:* The Gemara asks: This **works out well** as an explanation of the mishna, with regard to **a widowed priestess.** However, if that **widow** who married a High Priest was **an Israelite woman, what can be said?** There is no reason for the decree in that case. The Gemara answers: **With regard to widowhood, the Sages did not distinguish** between one type of widow and another. Once they issued a decree due to one widow, they applied it to all widows.
+
+**18.**
+*Hebrew/Aramaic:* אִיתְּמַר: הַמַּכְנֶסֶת שׁוּם לְבַעְלָהּ, הִיא אוֹמֶרֶת: כֵּלַי אֲנִי נוֹטֶלֶת, וְהוּא אוֹמֵר: דָּמִים אֲנִי נוֹתֵן, הַדִּין עִם מִי? רַב יְהוּדָה אָמַר:
+*Translation:* **It was stated:** With regard to a woman **who brings appraised,** guaranteed **property into her** marital contract with her **husband,** he is obligated to return it at the conclusion of the marriage. Upon collection of her marriage contract, e.g., following divorce, if **she says: I am taking my belongings, and he says: I am** willing to **give you** only their **monetary** value, **the *halakha*** favors **whom? Rav Yehuda said:**

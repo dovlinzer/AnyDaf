@@ -71,3 +71,60 @@
 **18.**
 *Hebrew/Aramaic:* תָּנוּ רַבָּנַן: ״אִישׁ אִישׁ מִבֵּית יִשְׂרָאֵל אֲשֶׁר יִשְׁחַט שׁוֹר אוֹ כֶשֶׂב אוֹ עֵז בַּמַּחֲנֶה אוֹ אֲשֶׁר יִשְׁחַט מִחוּץ לַמַּחֲנֶה. וְאֶל פֶּתַח אֹהֶל מוֹעֵד לֹא הֱבִיאוֹ לְהַקְרִיב קׇרְבָּן לַה׳״.
 *Translation:* **The Sages taught** in a *baraita* based upon the verses: **“Any man of the house of Israel who shall slaughter a bull, or a lamb, or a goat in the camp, or who slaughters it outside the camp, and has not brought it to the entrance to the Tent of Meeting to present it as an offering to the Lord** before the tabernacle of the Lord, blood shall be imputed to that man; he has shed blood; and that man shall be cut off from among his people” (Leviticus 17:3–4).
+
+
+---
+
+### Yoma 63b
+
+**1.**
+*Hebrew/Aramaic:* אִי ״קׇרְבָּן״, שׁוֹמֵעַ אֲנִי אֲפִילּוּ קׇדְשֵׁי בֶּדֶק הַבַּיִת, שֶׁנִּקְרְאוּ קׇרְבָּן, כָּעִנְיָן שֶׁנֶּאֱמַר: ״וַנַּקְרֵב אֶת קׇרְבַּן ה׳״, תַּלְמוּד לוֹמַר: ״וְאֶל פֶּתַח אֹהֶל מוֹעֵד לֹא הֱבִיאוֹ״. כׇּל הָרָאוּי לְפֶתַח אֹהֶל מוֹעֵד — חַיָּיב עָלָיו בַּחוּץ, כֹּל שֶׁאֵינוֹ רָאוּי לְפֶתַח אֹהֶל מוֹעֵד — אֵין חַיָּיבִין עָלָיו בַּחוּץ.
+*Translation:* **If** it would have mentioned just the word **offering, I** would **derive** that one is liable **even** for slaughtering animals **consecrated for Temple maintenance** outside the Temple, **which are** also **called offering, as it is stated: “And we have brought the Lord’s offering,** what every man has found: Articles of gold, armlets, and bracelets, rings, earrings, and pendants” (Numbers 31:50). Therefore, **the verse states: “And has not brought it to the entrance to the Tent of Meeting”** (Leviticus 17:4), to teach that with regard to **any** animal **fit** to be sacrificed within **the entrance to the Tent of Meeting** or the Temple, **one is liable for** slaughtering **it outside** the Temple. Conversely, with regard to **any** animal **that is not fit** to be sacrificed within **the entrance to the Tent of Meeting, one is not liable for** slaughtering **it outside** the Temple.
+
+**2.**
+*Hebrew/Aramaic:* אוֹצִיא אֵלּוּ שֶׁאֵין רְאוּיִן לְפֶתַח אֹהֶל מוֹעֵד, וְלֹא אוֹצִיא פָּרַת חַטָּאת וְשָׂעִיר הַמִּשְׁתַּלֵּחַ שֶׁהוּא רָאוּי לָבוֹא אֶל פֶּתַח אֹהֶל מוֹעֵד, תַּלְמוּד לוֹמַר: ״לַה׳״, מִי שֶׁמְּיוּחָדִין לַה׳, יָצְאוּ אֵלּוּ שֶׁאֵין מְיוּחָדִין לַשֵּׁם.
+*Translation:* Furthermore: **I** might **exclude these** animals consecrated for Temple maintenance, **which are not fit** to be sacrificed within **the entrance to the Tent of Meeting** because they are blemished, **and I will not exclude the heifer of a purification offering and** the **scapegoat, which are fit to come to the entrance to the Tent of Meeting.** Therefore, **the verse states “to the Lord”** to indicate that one is liable only for **those** animals **that are designated exclusively for God** as offerings. **These,** the heifer of a purification offering and the scapegoat, **are excluded, as they are not designated exclusively for God** as sacrificial offerings but are used for some other purpose.
+
+**3.**
+*Hebrew/Aramaic:* וְ״לַה׳״ לְהוֹצִיא הוּא? וּרְמִינְהוּ: ״יֵרָצֶה לְקׇרְבַּן אִשֶּׁה לַה׳״, אֵלּוּ אִישִּׁים,
+*Translation:* The Gemara asks about this halakhic midrash: **Does** the expression **“to the Lord”** come **to exclude?** The Gemara **raises a contradiction** based upon the verse: “When a bull, or a lamb, or a goat, is born it shall be seven days under its mother; but from the eighth day on **it may be accepted as an offering by fire to the Lord”** (Leviticus 22:27). An offering by fire to the Lord: **These are** offerings **by fire,** which are sacrificed on the altar and which may not be sacrificed before their proper time.
+
+**4.**
+*Hebrew/Aramaic:* מִנַּיִן שֶׁלֹּא יַקְדִּישֶׁנּוּ מְחוּסָּר זְמַן — תַּלְמוּד לוֹמַר: ״קׇרְבָּן״, ״לַה׳״ — לְרַבּוֹת שָׂעִיר הַמִּשְׁתַּלֵּחַ!
+*Translation:* **From where** do we derive **that he may not consecrate** an animal when it is **lacking time,** i.e., before the eighth day? **The verse states: An offering,** which indicates that it should not be designated as an offering before the eighth day. The expression: **To the Lord** comes **to include the scapegoat,** which is also brought for the sake of God. In other words, the expression: To the Lord, not only does not exclude the scapegoat from the category of offerings, but specifically includes it in this category.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רָבָא: הָתָם מֵעִנְיָנָא דִקְרָא וְהָכָא מֵעִנְיָנָא דִקְרָא. הָתָם דְּ״אֶל פֶּתַח״ לְרַבּוֹת — ״לַה׳״ לְהוֹצִיא. הָכָא דְּ״אִשֶּׁה״ לְהוֹצִיא — ״לַה׳״ לְרַבּוֹת.
+*Translation:* **Rava said** that this can be resolved as follows: **There** the expression is understood **in the context of the verse and here** it is understood **in the context of the verse. There,** with regard to consecrated animals slaughtered outside the Temple, **where** the phrase: **To the entrance,** in that same verse comes **to include** other offerings, the phrase: **To the Lord** necessarily comes **to exclude.** Conversely, **here,** with regard to consecrating animals before the proper time, **where** the phrase: Offering **by fire** comes **to exclude,** the phrase: **To the Lord** comes **to include.**
+
+**6.**
+*Hebrew/Aramaic:* טַעְמָא דְּרַבִּי רַחֲמָנָא, הָא לָא רַבִּי, הֲוָה אָמֵינָא: שָׂעִיר הַמִּשְׁתַּלֵּחַ קָדוֹשׁ בִּמְחוּסַּר זְמַן. וְהָא אֵין הַגּוֹרָל קוֹבֵעַ אֶלָּא בְּרָאוּי לַשֵּׁם!
+*Translation:* Once the contradiction has been reconciled, the Gemara challenges the reasoning of the argument. **The reason** the scapegoat may not be consecrated before it is eight days old **is because the Merciful One** specifically **included** it among the other offerings. **But had it not included** it **I would have said: The scapegoat** may be **consecrated** even **when** it is **lacking time.** However, this is difficult: **Isn’t** it true that **the lottery establishes** as the goat that is sacrificed to God, **only** one that is **fit** to be sacrificed **to God?** Since it is not known in advance which goat will be designated for this purpose, both goats must be eight days old and thereby fit to be sacrificed to God.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַב יוֹסֵף: הָא מַנִּי, חָנָן הַמִּצְרִי הִיא, דְּתַנְיָא: חָנָן הַמִּצְרִי אוֹמֵר: אֲפִילּוּ דָּם בַּכּוֹס — מֵבִיא חֲבֵירוֹ וּמְזַוֵּוג לוֹ.
+*Translation:* **Rav Yosef said:** In accordance with **whose** opinion **is this** *baraita*? **It is** the opinion of **Ḥanan the Egyptian, as it was taught** in a *baraita* that **Ḥanan the Egyptian says: Even** if the goat sacrificed to God has already been slaughtered and its **blood** has been collected **in the cup,** if the scapegoat dies, **he brings** another goat as **a counterpart and pairs it with** the goat that has already been slaughtered. Since in this case the priest need not draw new lots and the second goat is immediately designated to be sent to Azazel, it was necessary to teach that this goat must not be lacking time.
+
+**8.**
+*Hebrew/Aramaic:* אֵימַר דְּשָׁמְעַתְּ לֵיהּ לְחָנָן הַמִּצְרִי דְּלֵית לֵיהּ דְּחוּיִין, דְּלֵית לֵיהּ הַגְרָלָה מִי שָׁמְעַתְּ לֵיהּ? דִּילְמָא מַיְיתֵי וּמַגְרִיל.
+*Translation:* The Gemara presents a challenge with regard to this answer. **Say that you heard Ḥanan the Egyptian** say **that he does not** hold that if the scapegoat dies, the blood of the other goat is **rejected. Did you** also **hear him** say **that he does not** require a new **lottery** for the second goat? **Perhaps** he meant that one **brings** two new goats **and draws lots,** and whichever is designated to be sent to Azazel is the counterpart to the goat that was already slaughtered.
+
+**9.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב יוֹסֵף: הָא מַנִּי, רַבִּי שִׁמְעוֹן הִיא. דְּתַנְיָא: מֵת אֶחָד מֵהֶן — מֵבִיא חֲבֵירוֹ שֶׁלֹּא בְּהַגְרָלָה, דִּבְרֵי רַבִּי שִׁמְעוֹן.
+*Translation:* The Gemara presents another explanation of why it was necessary for the Torah to indicate that the scapegoat must not be lacking time. **Rather, Rav Yosef said:** In accordance with **whose** opinion **is this? It is** in accordance with the opinion of **Rabbi Shimon, as it was taught** in a *baraita*: **If one of** the goats **dies, he brings another** goat in its place **without a lottery;** this is **the statement of Rabbi Shimon.** Therefore, if the scapegoat would die, another goat would be designated as the scapegoat without a lottery, and it was necessary for the Torah to indicate that this goat had to be eight days old.
+
+**10.**
+*Hebrew/Aramaic:* רָבִינָא אָמַר, כְּגוֹן שֶׁהוּמַם וְחִילְּלוֹ עַל אַחֵר.
+*Translation:* **Ravina said** that it is possible to answer according to all opinions. The derivation was necessary in a case **where** the scapegoat **became blemished** after the lottery **and they redeemed it with another.** In that situation, all agree that the new scapegoat does not need to be designated through a lottery, because the status of the original scapegoat was transferred to its replacement.
+
+**11.**
+*Hebrew/Aramaic:* וּמְנָא תֵּימְרָא דְּפָסֵיל בֵּיהּ מוּמָא! דְּתַנְיָא: ״וְאִשֶּׁה לֹא תִתְּנוּ מֵהֶם״, אֵלּוּ הַחֲלָבִים.
+*Translation:* The Gemara asks: **From where do you say that** the scapegoat **is disqualified** by a **blemish?** A blemish disqualifies only a sacrificial offering, and the scapegoat is not a sacrificial offering. The Gemara answers: **As it was taught** in a *baraita* based upon the verse: “Blind, or broken, or maimed, or having a growth, or scurvy, or scabbed, you shall not offer these to the Lord, **nor make** an offering **by fire of them** upon the altar to the Lord” (Leviticus 22:22). The phrase: Nor make an offering by fire of them; **these are the fats** of blemished animals, which may not be sacrificed on the altar.
+
+**12.**
+*Hebrew/Aramaic:* אֵין לִי אֶלָּא כּוּלָּן, מִקְצָתָן מִנַּיִן? תַּלְמוּד לוֹמַר: ״מֵהֶם״. ״מִזְבֵּחַ״, זוֹ זְרִיקַת דָּמִים. ״לַה׳״, לְרַבּוֹת שָׂעִיר הַמִּשְׁתַּלֵּחַ.
+*Translation:* **I have only** derived that it is prohibited to sacrifice **all** the fats of a blemished animal; **from where** do I derive that it is prohibited to sacrifice **some of them? The verse states “of them,”** which indicates that the prohibition applies even to some of them. **“The altar”; this is** referring to the prohibition against **sprinkling the blood** of blemished animals. The phrase **“to the Lord”** comes **to include the scapegoat,** which is also disqualified by a blemish.
+
+**13.**
+*Hebrew/Aramaic:* וְאִיצְטְרִיךְ לְמִיכְתַּב בַּעַל מוּם, וְאִיצְטְרִיךְ לְמִיכְתַּב מְחוּסַּר זְמַן. דְּאִי כְּתַב רַחֲמָנָא מְחוּסַּר זְמַן — מִשּׁוּם דְּלָא מָטֵי זִמְנֵיהּ, אֲבָל בַּעַל מוּם דְּמָטֵי זִמְנֵיהּ — אֵימָא לָא. וְאִי כְּתַב רַחֲמָנָא בַּעַל מוּם — מִשּׁוּם דִּמְאִיס, אֲבָל מְחוּסַּר זְמַן דְּלָא מְאִיס — אֵימָא לָא, צְרִיכָא.
+*Translation:* The Gemara comments: **And** it is **necessary to write** that **a blemished** scapegoat is disqualified **and** it is **necessary to write** that a scapegoat may not be **lacking time. Since if the Merciful One had written** only that a scapegoat is disqualified if it is **lacking time,** one might have said that this is **because its time has not** yet **come** and therefore it is unable to become consecrated. **However,** with regard to **a blemished** animal **whose time has** already **arrived, say** that it is **not** disqualified. **And** conversely, **if the Merciful One had written** only **that a blemished** scapegoat is disqualified, one might have said that this is **because** it is considered **abhorrent** to sacrifice a blemished animal as an offering. **However,** with regard to a goat that is **lacking time, which is not abhorrent, say** that it is **not** disqualified. It is therefore **necessary** for the Torah to include the scapegoat in both disqualifications.

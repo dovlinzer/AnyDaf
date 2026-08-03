@@ -51,3 +51,76 @@
 **13.**
 *Hebrew/Aramaic:* וּצְרִיכָא, דְּאִי אַשְׁמְעִינַן בְּהָךְ קַמַּיְיתָא — הָתָם הוּא דְּאַקְדְּשֵׁיהּ
 *Translation:* The Gemara adds: **And** both statements of Rabbi Yoḥanan are **necessary,** despite the fact that both affirm that fetuses may be consecrated. **As, if** Rabbi Yoḥanan had **taught us** only **this first** case, of one who consecrates a fetus by itself, I might say that only **there** is the fetus imbued with sanctity, **as he consecrated**
+
+
+---
+
+### Temurah 10b
+
+**1.**
+*Hebrew/Aramaic:* לְעוּבָּרָה גּוּפֵיהּ, אֲבָל הָכָא דְּאַקְדְּשַׁיהּ לְאִימֵּיהּ — הָא בִּכְלַל אִימֵּיהּ לָא קָדוֹשׁ.
+*Translation:* **the fetus itself. But here, where he consecrated its** pregnant **mother,** not the fetus itself, one might think that **this** fetus **is not consecrated along with its mother.**
+
+**2.**
+*Hebrew/Aramaic:* וְאִי אַשְׁמְעִינַן בָּתְרָיְיתָא — הָתָם הוּא דְּאַקְדֵּישׁ לַהּ, וְכֹל דְּאִית בַּהּ, אֲבָל הָכָא דְּאַקְדְּשֵׁיהּ לֵיהּ — כֵּיוָן דְּלֵיתֵיהּ אַבָּרַאי, לָא קָדֵישׁ. צְרִיכָא.
+*Translation:* **And if** Rabbi Yoḥanan had **taught us** only **this last** case, of one who consecrates a pregnant animal, I might have said that **it is** only **there** that its fetus is sacred, **as he consecrated** the animal **and all that is inside it,** including the fetus. **But here, where he consecrated** the fetus **itself, since** the object of the consecration **is not outside** its mother, as it has yet to be born, one might say that it is **not consecrated.** Therefore, it was **necessary** for Rabbi Yoḥanan to state both *halakhot*.
+
+**3.**
+*Hebrew/Aramaic:* לִישָּׁנָא אַחֲרִינָא, מַאי קָא מַשְׁמַע לַן? אִם שִׁיְּירוֹ — מְשׁוּיָּיר, וְעוּבָּר לָאו יֶרֶךְ אִמּוֹ הוּא, וְתַרְתֵּי לְמָה לִי?
+*Translation:* § The Gemara cites **another version** of the discussion: **What is** Rabbi Yoḥanan **teaching us** when he says above that one may atone with either the mother or the offspring? He is evidently saying that **if he** explicitly **excluded** the fetus from his consecration, it is **excluded,** and only the mother is consecrated. **And** the reason is that **a fetus is not** considered **the thigh of its mother** but a separate entity that can possess a different status. **But** if so, **why do I** need **two** *halakhot* to teach me this, both with regard to one who consecrates a pregnant animal and with regard to one who consecrates the fetus alone?
+
+**4.**
+*Hebrew/Aramaic:* צְרִיכָא, דְּאִי אִתְּמַר בְּהָא — מִשּׁוּם דְּאִימֵּיהּ חַזְיָא לְגוּפֵיהּ, מִגּוֹ דְּנָחֲתָא קְדוּשָּׁה לַהּ נָחֲתָא נָמֵי לְוָלָד, אֲבָל אִידַּךְ — לָא. קָא מַשְׁמַע לַן הָדָא.
+*Translation:* The Gemara answers: Both *halakhot* are **necessary, as, if it was stated** only **with regard to that** case of one who consecrates a pregnant animal, I would say that the fetus is consecrated **because its mother is fit to** be consecrated **itself,** and **since sanctity applies to her, it likewise applies to the offspring. But** in **the other** case of one who consecrates a fetus alone, perhaps it is **not** consecrated. Therefore, Rabbi Yoḥanan **teaches us this** case as well.
+
+**5.**
+*Hebrew/Aramaic:* וְאִי אִתְּמַר בְּהָא, מִשּׁוּם דְּקָא מְפָרֵשׁ קְדוּשָּׁה עַל (הָאֵם) הַוָּלָד, אֲבָל הָהִיא לָא צְרִיכָא.
+*Translation:* **And if it was stated** only **with regard to this** case of one who consecrates a fetus, one might say that the fetus is sanctified **because he expressly** states that **sanctity** should apply **to the offspring. But** with regard to **that** case of one who consecrates a pregnant animal, where he does not explicitly mention the fetus, perhaps is it **not** consecrated. Therefore, both statements are **necessary.**
+
+**6.**
+*Hebrew/Aramaic:* יָתֵיב רַבִּי זֵירָא וְקָאָמַר לְהָא שְׁמַעְתָּא, אֵיתִיבֵיהּ רַבִּי יִרְמְיָה לְרַבִּי זֵירָא: כֵּיצַד מַעֲרִימִין עַל הַבְּכוֹר? הַמְבַכֶּרֶת שֶׁהָיְתָה מְעוּבֶּרֶת, אוֹמֵר: ״מָה שֶׁבְּמֵעֶיהָ שֶׁל זוֹ עוֹלָה״, יָלְדָה זָכָר — הֲרֵי זוֹ עוֹלָה, אַלְמָא קָדוֹשׁ עוּבָּר!
+*Translation:* § **Rabbi Zeira sat and stated this *halakha*** of the dispute between bar Padda and Rabbi Yoḥanan with regard to the consecration of fetuses. **Rabbi Yirmeya raised an objection to Rabbi Zeira** from a mishna (24b): **How** may **one employ artifice to** circumvent the obligation to give **the firstborn** to the priest and use the animal instead to fulfill a different obligation? He may approach **an animal** that is going to **give birth to its firstborn** but **which is** still **pregnant,** and **say: That which is in the womb of this** animal, if it is male, is designated as **a burnt offering.** If he did so, and the animal **gave birth to a male, it** will be sacrificed as **a burnt offering,** and it is not consecrated as a firstborn. **Evidently, a fetus** can be **consecrated,** contrary to the opinion of bar Padda.
+
+**7.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: כִּי מִתַּנְיָא הָהִיא בִּקְדוּשַּׁת דָּמִים, מִי אַלִּימָא קְדוּשַּׁת דָּמִים דְּקָא מַפְקְעָא לֵיהּ מִן הַבְּכוֹרָה?
+*Translation:* Rabbi Zeira **said to** Rabbi Yirmeya: Bar Padda can answer that **when that** mishna **is taught,** it is referring **to** one who consecrates the fetus for **sanctity** that inheres in its **value,** i.e., that the offspring should be sold and a burnt offering brought with the proceeds. This form of sanctity does apply to a fetus, but inherent sanctity rendering it obligated to be sacrificed itself does not. Rabbi Yirmeya again asked Rabbi Zeira: **Is sanctity** that inheres in the animal’s **value** so **strong that it removes the firstborn** status **from** an animal?
+
+**8.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: אִין, וְהָתְנַן: כֹּל קָדָשִׁים שֶׁקָּדַם מוּם קָבוּעַ לְהֶקְדֵּישָׁן וְנִפְדּוּ — חַיָּיבִין בַּבְּכוֹרָה וּבַמַּתָּנוֹת. טַעְמָא דִּלְאַחַר שֶׁנִּפְדּוּ דְּחַיָּיבִין, אֲבָל קוֹדֶם שֶׁנִּפְדּוּ — פְּטוּרִין, [אַלְמָא] דְּאַלִּימָא קְדוּשַּׁת דָּמִים דְּמַפְקַע לֵיהּ מִבְּכוֹרָה.
+*Translation:* Rabbi Zeira **said to him: Yes, and** so **we learned** in a mishna in tractate *Bekhorot* (14a): **All sacrificial** animals in **which a permanent blemish preceded their consecration** assume not inherent sanctity but sanctity of value, **and** once **they are redeemed** they **are obligated,** i.e., subject **to,** accounting their offspring **a firstborn, and** one is obligated **to** give the **gifts** of the foreleg, the jaw, and the maw to a priest as for any non-sacred slaughtered animal. One can infer from the mishna that the **reason that** these animals **are obligated** is **that they have already been redeemed. But before they are redeemed,** they are **exempt** from the obligation of the firstborn and the gifts, despite the fact that only their value is sacred. **Evidently, sanctity** that inheres in the animal’s **value is strong** enough **to remove firstborn status from** an animal.
+
+**9.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ: הָאוֹמֵר ״מָה שֶׁבְּמֵעֶיהָ שֶׁל זוֹ עוֹלָה״ — מוּתֶּרֶת בְּגִיזָּה וַאֲסוּרָה בַּעֲבוֹדָה, מִשּׁוּם כִּחוּשׁ עוּבָּר שֶׁבָּהּ! אֲמַר לֵיהּ: הָא נָמֵי קְדוּשַּׁת דָּמִים.
+*Translation:* Rabbi Yirmeya **raised** another **objection to** bar Padda’s opinion from a *baraita*: If **one says: That which is in the womb of this** animal is **a burnt offering,** it is **permitted** for the mother **to be shorn but** it **is prohibited** to use it **for labor, due to** the inevitable **weakening** and consequent reduction in value **of** the **fetus that is inside it.** This indicates that fetuses are imbued with sanctity, contrary to the opinion of bar Padda. Rabbi Zeira **said to** Rabbi Yirmeya: **This** *baraita* is **also** referring to one who consecrates the fetus for **sanctity** that inheres in its **value,** and bar Padda concedes that this sanctity applies to the fetus.
+
+**10.**
+*Hebrew/Aramaic:* וּמִי אַלִּימָא קְדוּשַּׁת דָּמִים, דְּאָסְירָא לֵיהּ בַּעֲבוֹדָה? אֲמַר לֵיהּ: אִין, וְהָתְנַן: יוֹצְאִין לְחוּלִּין, לִיגָּזֵז וְלֵיעָבֵד. טַעְמָא מִשּׁוּם דְּנִפְדּוּ, הָא קוֹדֶם שֶׁנִּפְדּוּ אֲסוּרִין בָּעֲבוֹדָה, אַלְמָא קְדוּשַּׁת דָּמִים אָסְורִין לֵיהּ בַּעֲבוֹדָה.
+*Translation:* Rabbi Yirmeya objected: **But is sanctity** that inheres in the animal’s **value** so **strong that it renders** the mother **prohibited for labor?** Rabbi Zeira **said to** Rabbi Yirmeya: **Yes, and** so **we learned** in the mishna cited previously, that blemished animals that were consecrated for their value and redeemed **emerge** from their sacred status and assume complete **non-sacred** status and may **be shorn and used for labor.** Apparently, the **reason** they may be used for labor is **that they were redeemed.** One may infer that **before they are redeemed, they are prohibited for labor. Evidently, sanctity** that inheres in the animal’s **value renders** the mother of the fetus **prohibited for labor.**
+
+**11.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ: אֵין מְמִירִין לֹא אֵבָרִין בְּעוּבָּרִין, וְלֹא עוּבָּרִין בְּאֵבָרִין. אֵימוּרֵי הוּא דְּלָא מֵימַר, הָא מִיקְדָּשׁ — קָדְשִׁי!
+*Translation:* Rabbi Yirmeya **raised** another **objection to** bar Padda’s opinion from the mishna: **One does not substitute** non-sacred **limbs for** consecrated **fetuses, and** likewise one does **not** substitute non-sacred **fetuses for** consecrated **limbs,** or non-sacred limbs or fetuses for whole consecrated animals, or non-sacred whole animals for consecrated limbs or fetuses. One may infer from the mishna that **it is a substitution** of fetuses **that one cannot effect,** as the Torah states with regard to substitution: “And if he substitutes an animal for an animal” (Leviticus 27:10), and a fetus is not classified as an animal. But if one **consecrates** fetuses directly, not in the manner of substitution, they are **consecrated,** contrary to the opinion of bar Padda.
+
+**12.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: בְּוַלְדֵי קָדָשִׁים הוּא דְּקַדִּישִׁי וְקָיְימִי.
+*Translation:* Rabbi Zeira **said to** him: The mishna **is** referring **to the offspring of sacrificial** animals that became pregnant after they were consecrated. That case is different, **as they are already consecrated** through their mothers. It does not indicate that one can consecrate a fetus directly.
+
+**13.**
+*Hebrew/Aramaic:* אִי וְלַד קָדָשִׁים, בִּמְעֵי אִמָּן הוּא דְּלָא עָבְדִין, הָא אַבָּרַאי — עָבְדִין, וְהָא תַּנְיָא: אֵין הַוָּלָד עוֹשֶׂה תְּמוּרָה!
+*Translation:* Rabbi Yirmeya objected: **If** the mishna is referring to **the offspring of sacrificial** animals, and it is teaching that one does not substitute them because fetuses are not considered animals, one can infer that **it is** only when they are **in their mother’s womb that one cannot effect** substitution with them. But once they are **outside** their mother’s womb, i.e., once they are born, one can **effect** substitution with them. **But** this is not the case, as **isn’t it taught** in the next mishna (12a) that **the offspring** born of a consecrated animal that was not itself consecrated **does not render** a non-sacred animal exchanged for it **a substitute?**
+
+**14.**
+*Hebrew/Aramaic:* הָא מַנִּי? רַבִּי יְהוּדָה הִיא, דְּאָמַר: הַוָּלָד עוֹשֶׂה תְּמוּרָה.
+*Translation:* Rabbi Zeira answered: In accordance with **whose** opinion **is this** first mishna? **It is** in accordance with the opinion of **Rabbi Yehuda, who** disagreed with that ruling in the next mishna and **said** that **the offspring renders** a non-sacred animal exchanged for it **a substitute.**
+
+**15.**
+*Hebrew/Aramaic:* אִי רַבִּי יְהוּדָה, תְּמוּרָה הוּא דְּלָא עָבְדִי, הָא מִקְדָּשׁ — קָדְשִׁי, הָאָמַר רַבִּי יְהוּדָה: אֵבָרִין לָא קָדְשִׁי! אֲמַר [לֵיהּ]: הָכָא בְּמַאי עָסְקִינַן — בְּאֵיבָר שֶׁהַנְּשָׁמָה תְּלוּיָה בּוֹ.
+*Translation:* Rabbi Yirmeya objected: **If** this mishna is in accordance with the opinion of **Rabbi Yehuda,** one encounters another difficulty. The mishna indicates that **it is substitution that one cannot perform** with consecrated limbs, as the sanctity of substitution does not extend to the entire animal. Consequently, if one **consecrates** limbs directly, they are **consecrated** and the sanctity extends to the whole animal. But **doesn’t Rabbi Yehuda say** that **limbs are not consecrated** in this manner, that the sanctity extends to the whole animal? Rabbi Zeira **said** him: **What are we dealing with here? With a limb upon which** the animal’s **life depends.** Rabbi Yehuda’s ruling that limbs cannot be consecrated applies only to non-vital organs, e.g., legs. He concedes that vital organs are consecrated and the consecration extends to the entire animal.
+
+**16.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ: מַקְדִּישִׁין אֵבָרִין וְעוּבָּרִין, אֲבָל לֹא מְמִירִין! הָכָא נָמֵי בְּוַלְדֵי קָדָשִׁים.
+*Translation:* Rabbi Yirmeya **raised** another **objection to** bar Padda’s opinion: A later mishna (16b) lists stringencies that apply to sacrificial animals but not to substitutes: **One consecrates** an animal’s **limbs and fetuses** in utero, **but one does not substitute** non-sacred animals for them. This contradicts bar Padda’s opinion that one cannot consecrate fetuses. Rabbi Zeira answered: **Here too,** the mishna is referring **to the offspring of sacrificial** animals that became pregnant after they were consecrated.
+
+**17.**
+*Hebrew/Aramaic:* אִי בְּוַלְדֵי קָדָשִׁים, מַאי ״מַקְדִּישִׁין״? הָא קַדִּישִׁי וְקָיְימִי!
+*Translation:* Rabbi Yirmeya objected: **If** the mishna is referring **to the offspring of sacrificial** animals, **what** is the meaning of the term: **One consecrates?** After all, these offspring **are already consecrated** through their mothers.

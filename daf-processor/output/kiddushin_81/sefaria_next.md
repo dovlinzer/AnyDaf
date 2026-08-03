@@ -51,3 +51,32 @@
 **13.**
 *Hebrew/Aramaic:* דָּרַשׁ בַּר קַפָּרָא: לְעוֹלָם יְלַמֵּד אָדָם אֶת בְּנוֹ אוּמָּנוּת נְקִיָּה וְקַלָּה. מַאי הִיא? אָמַר רַב יְהוּדָה:
 *Translation:* **Bar Kappara taught: A person should always teach his son a clean and easy trade.** The Gemara asks: **What is** such a profession? **Rav Yehuda said:**
+
+
+---
+
+### Kiddushin 82b
+
+**1.**
+*Hebrew/Aramaic:* מַחְטָא דְתַלְמִיּוּתָא.
+*Translation:* **Needlework for embroidery** is a clean and easy trade.
+
+**2.**
+*Hebrew/Aramaic:* תַּנְיָא, רַבִּי אוֹמֵר: אֵין לְךָ אוּמָּנוּת שֶׁעוֹבֶרֶת מִן הָעוֹלָם. אַשְׁרֵי מִי שֶׁרוֹאֶה אֶת הוֹרָיו בְּאוּמָּנוּת מְעוּלָּה, אוֹי לוֹ לְמִי שֶׁרוֹאֶה אֶת הוֹרָיו בְּאוּמָּנוּת פְּגוּמָה. אִי אֶפְשָׁר לָעוֹלָם בְּלֹא בַּסָּם וּבְלֹא בּוּרְסְקִי. אַשְׁרֵי מִי שֶׁאוּמָּנוּתוֹ בַּסָּם, וְאוֹי לוֹ [לְ]מִי שֶׁאוּמָּנוּתוֹ בּוּרְסְקִי. אִי אֶפְשָׁר לְעוֹלָם בְּלֹא זְכָרִים וּבְלֹא נְקֵבוֹת, אַשְׁרֵי מִי שֶׁבָּנָיו זְכָרִים וְאוֹי לוֹ לְמִי שֶׁבָּנָיו נְקֵיבוֹת.
+*Translation:* **It is taught** in the *Tosefta* (5:12): **Rabbi** Yehuda HaNasi **says: There is no trade that disappears from the world,** since all occupations are needed, but **fortunate is he who sees his parents in an elevated trade; woe is he who sees his parents in a lowly trade** and follows them into their trade. Similarly, **it is impossible for the world** to continue **without a perfumer and without a tanner. Fortunate is he whose trade is** as **a perfumer, and woe is he whose trade is** as **a tanner,** who works with materials that have a foul smell. Likewise, **it is impossible for the world** to exist **without males and without females,** yet **fortunate is he whose children are males, and woe is he whose children are females.**
+
+**3.**
+*Hebrew/Aramaic:* רַבִּי מֵאִיר אוֹמֵר: לְעוֹלָם יְלַמֵּד אָדָם לִבְנוֹ אוּמָּנוּת נְקִיָּה וְקַלָּה, וִיבַקֵּשׁ רַחֲמִים לְמִי שֶׁהָעוֹשֶׁר וְהַנְּכָסִים שֶׁלּוֹ, שֶׁאֵין עֲנִיּוּת מִן הָאוּמָּנוּת וְאֵין עֲשִׁירוּת מִן הָאוּמָּנוּת, אֶלָּא – לְמִי שֶׁהָעוֹשֶׁר שֶׁלּוֹ, שֶׁנֶּאֱמַר: ״לִי הַכֶּסֶף וְלִי הַזָּהָב נְאֻם ה׳ צְבָאוֹת״.
+*Translation:* **Rabbi Meir says: A person should always teach his son a clean and easy trade, and he should request compassion from the One to Whom wealth and property belong, as poverty** does **not** come **from a trade, nor** does **wealth** come **from a trade; rather,** they come **from the One to Whom wealth belongs, as it is stated: “Mine is the silver, and Mine the gold, says the Lord of hosts”** (Haggai 2:8).
+
+**4.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: אִם רָאִיתָ מִיָּמֶיךָ. תַּנְיָא, רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: מִיָּמַי לֹא רָאִיתִי צְבִי קַיָּיץ, וַאֲרִי סַבָּל, וְשׁוּעָל חֶנְוָנִי, וְהֵם מִתְפַּרְנְסִים שֶׁלֹּא בְּצַעַר. וְהֵם לֹא נִבְרְאוּ אֶלָּא לְשַׁמְּשֵׁנִי, וַאֲנִי נִבְרֵאתִי לְשַׁמֵּשׁ אֶת קוֹנִי. מָה אֵלּוּ שֶׁלֹּא נִבְרְאוּ אֶלָּא לְשַׁמְּשֵׁנִי מִתְפַּרְנְסִים שֶׁלֹּא בְּצַעַר, וַאֲנִי שֶׁנִּבְרֵאתִי לְשַׁמֵּשׁ אֶת קוֹנִי – אֵינוֹ דִּין שֶׁאֶתְפַּרְנֵס שֶׁלֹּא בְּצַעַר? אֶלָּא שֶׁהֲרֵעוֹתִי אֶת מַעֲשַׂי וְקִיפַּחְתִּי אֶת פַּרְנָסָתִי, שֶׁנֶּאֱמַר: ״עֲוֹנוֹתֵיכֶם הִטּוּ״.
+*Translation:* The mishna taught that **Rabbi Shimon ben Elazar says: Have you ever seen** a beast or a bird that has a trade? **It is taught** in the *Tosefta* (5:13): **Rabbi Shimon ben Elazar says: I never saw a deer** work as one who **dries figs, nor a lion** work as **a porter, nor a fox** work as **a storekeeper. And** yet **they earn their livelihood without anguish. But** all these **were created only to serve me, and I,** a human being, **was created to serve** the One Who **formed me. If these, who were created only to serve me, earn their livelihood without anguish,** then **is it not right that I, who was created to serve** the One Who **formed me, should earn my livelihood without anguish? But I,** i.e., humanity, **have** committed **evil actions and have lost my livelihood, as it is stated: “Your iniquities have turned away** these things, and your sins have held back good from you” (Jeremiah 5:25).
+
+**5.**
+*Hebrew/Aramaic:* רַבִּי נְהוֹרַאי אוֹמֵר: מַנִּיחַ אֲנִי כׇּל אוּמָּנוּת וְכוּ׳. תַּנְיָא: רַבִּי נְהוֹרַאי אוֹמֵר: מַנִּיחַ אֲנִי כׇּל אוּמָּנוּת שֶׁבָּעוֹלָם וְאֵינִי מְלַמֵּד אֶת בְּנִי אֶלָּא תּוֹרָה, שֶׁכׇּל אוּמָּנוּת שֶׁבָּעוֹלָם אֵין עוֹמֶדֶת לוֹ אֶלָּא בִּימֵי יַלְדוּתוֹ, אֲבָל בִּימֵי זִקְנוּתוֹ הֲרֵי הוּא מוּטָּל בָּרָעָב. אֲבָל תּוֹרָה אֵינָהּ כֵּן – עוֹמֶדֶת לוֹ לָאָדָם בְּעֵת יַלְדוּתוֹ, וְנוֹתֶנֶת לוֹ אַחֲרִית וְתִקְוָה בְּעֵת זִקְנוּתוֹ. בְּעֵת יַלְדוּתוֹ מַהוּ אוֹמֵר? ״וְקוֹיֵ ה׳ יַחֲלִיפוּ כֹחַ יַעֲלוּ אֵבֶר כַּנְּשָׁרִים״ בְּזִקְנוּתוֹ מַהוּ אוֹמֵר? ״עוֹד יְנוּבוּן בְּשֵׂיבָה דְּשֵׁנִים וְרַעֲנַנִּים יִהְיוּ״.
+*Translation:* The mishna taught that **Rabbi Nehorai says: I set aside all the trades** and I teach my son only Torah. It **is taught** in the *Tosefta* (5:14): **Rabbi Nehorai says: I set aside all the trades in the world, and I teach my son only Torah, as all other trades serve one only in the days of his youth,** when he has enough strength to work, **but in the days of his old age, behold, he** is left to **lie in hunger. But Torah is not like this: It serves a person in the time of his youth and provides him with a future and hope in the time of his old age. With regard to the time of his youth, what does it say** about a Torah scholar? **“But they that wait for the Lord shall renew their strength”** (Isaiah 40:31). **With regard to** the time of **his old age, what does it say? “They shall still bring forth fruit in old age, they shall be full of sap and richness”** (Psalms 92:15).
+
+**6.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ עֲשָׂרָה יוּחֲסִין וּסְלִיקָא לַהּ מַסֶּכֶת קִידּוּשִׁין
+*Translation:* 

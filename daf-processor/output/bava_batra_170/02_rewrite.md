@@ -2,7 +2,7 @@
 
 ## Otiyot Niknas Bimesira
 
-### Rabban Shimon on Doc Ret…
+### Rabban Shimon: Doc Return
 
 The sugya opens by revisiting a dispute from the preceding amud (169b) concerning whether the return of a sale document to the original seller reverses the transaction. Rabban Shimon ben Gamliel holds that it does, while the Rabbis disagree. The *gemara* now locates the source of that disagreement in a broader, foundational principle.
 

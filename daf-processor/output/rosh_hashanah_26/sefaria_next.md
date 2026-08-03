@@ -71,3 +71,76 @@
 **18.**
 *Hebrew/Aramaic:* מַתְנִי׳ שׁוֹפָר שֶׁנִּסְדַּק וְדִבְּקוֹ — פָּסוּל. דִּיבֵּק שִׁבְרֵי שׁוֹפָרוֹת — פָּסוּל.
 *Translation:* MISHNA: **A *shofar* that was cracked and** then **glued together,** even though it appears to be whole, is **unfit.** Similarly, if **one glued together broken fragments of *shofarot*** to form a complete *shofar*, the *shofar* is **unfit.**
+
+
+---
+
+### Rosh Hashanah 27b
+
+**1.**
+*Hebrew/Aramaic:* נִיקַּב וּסְתָמוֹ, אִם מְעַכֵּב אֶת הַתְּקִיעָה — פָּסוּל, וְאִם לָאו — כָּשֵׁר. הַתּוֹקֵעַ לְתוֹךְ הַבּוֹר אוֹ לְתוֹךְ הַדּוּת אוֹ לְתוֹךְ הַפִּיטָס, אִם קוֹל שׁוֹפָר שָׁמַע — יָצָא, וְאִם קוֹל הֲבָרָה שָׁמַע — לָא יָצָא.
+*Translation:* If the *shofar* **was punctured and** the puncture **was sealed, if it impedes the blowing,** the *shofar* is **unfit, but if not,** it is **fit.** If **one sounds** a *shofar* **into a pit, or into a cistern, or into** a large **jug, if he** clearly **heard the sound of the *shofar*, he has fulfilled** his obligation; **but if he heard the sound of an echo, he has not fulfilled** his obligation.
+
+**2.**
+*Hebrew/Aramaic:* וְכֵן מִי שֶׁהָיָה עוֹבֵר אֲחוֹרֵי בֵּית הַכְּנֶסֶת, אוֹ שֶׁהָיָה בֵּיתוֹ סָמוּךְ לְבֵית הַכְּנֶסֶת, וְשָׁמַע קוֹל שׁוֹפָר אוֹ קוֹל מְגִילָּה, אִם כִּוֵּון לִבּוֹ — יָצָא, וְאִם לָאו — לֹא יָצָא. אַף עַל פִּי שֶׁזֶּה שָׁמַע וְזֶה שָׁמַע, זֶה כִּוֵּון לִבּוֹ, וְזֶה לֹא כִּוֵּון לִבּוֹ.
+*Translation:* **And similarly,** if **one was passing behind a synagogue, or his house was adjacent to the synagogue, and he heard the sound of the *shofar* or the sound of the Scroll** of Esther being read, **if he focused his heart,** i.e. his intent, to fulfill his obligation, **he has fulfilled** his obligation; **but if not, he has not fulfilled** his obligation. It is therefore possible for two people to hear the *shofar* blasts, but only one of them fulfills his obligation. **Even though this one heard and** also **the other one heard,** nevertheless, **this one focused his heart** to fulfill his obligation and has therefore indeed fulfilled it, **but the other one did not focus his heart,** and so he has not fulfilled his obligation.
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ תָּנוּ רַבָּנַן: אָרוֹךְ וְקִצְּרוֹ — כָּשֵׁר. גֵּרְדוֹ וְהֶעֱמִידוֹ עַל גִּלְדּוֹ — כָּשֵׁר. צִיפָּהוּ זָהָב בִּמְקוֹם הַנָּחַת פֶּה — פָּסוּל. שֶׁלֹּא בִּמְקוֹם הַנָּחַת פֶּה — כָּשֵׁר. צִיפָּהוּ זָהָב מִבִּפְנִים — פָּסוּל. מִבַּחוּץ, אִם נִשְׁתַּנָּה קוֹלוֹ מִכְּמוֹת שֶׁהָיָה — פָּסוּל, וְאִם לָאו — כָּשֵׁר.
+*Translation:* GEMARA: **The Sages taught** in a *baraita*: If a *shofar* was **long and it was shortened,** it **is** still **fit.** If it **was scraped** out, **so that** only **its outer layer remains,** it **is** also **fit.** If the *shofar* **was plated with gold at the place where one puts his mouth,** it is **unfit; if** it was plated **not at the place where he puts his mouth,** it is **fit.** If it **was plated with gold on the inside,** it is **unfit,** as one does not hear the sound of a *shofar* but the sound of a golden instrument. If, however, it was plated with gold **on the outside,** the following distinction applies: **If its sound changed from what it was** before the plating, it is **unfit, but if not,** the gold plating is mere ornamentation and **it is** therefore **fit.**
+
+**4.**
+*Hebrew/Aramaic:* נִיקַּב וּסְתָמוֹ, אִם מְעַכֵּב אֶת הַתְּקִיעָה — פָּסוּל, וְאִם לָאו — כָּשֵׁר. נָתַן שׁוֹפָר בְּתוֹךְ שׁוֹפָר, אִם קוֹל פְּנִימִי שָׁמַע — יָצָא, וְאִם קוֹל חִיצוֹן שָׁמַע — לֹא יָצָא.
+*Translation:* The *baraita* continues: If the *shofar* **was punctured and** the puncture was **sealed, if it impedes the blowing,** the *shofar* is **unfit, but if not,** it is **fit.** If **one placed** one ***shofar* inside** another ***shofar*** and blew, **if he heard the sound of the inner** *shofar*, **he has fulfilled** his obligation, because it is considered one *shofar*, **but if he heard the sound of the outer** *shofar* **he has not fulfilled** it, as the sound issues from two *shofarot* at once.
+
+**5.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: גֵּרְדוֹ, בֵּין מִבִּפְנִים בֵּין מִבַּחוּץ — כָּשֵׁר. גֵּרְדוֹ וְהֶעֱמִידוֹ עַל גִּלְדּוֹ — כָּשֵׁר. הִנִּיחַ שׁוֹפָר בְּתוֹךְ שׁוֹפָר, אִם קוֹל פְּנִימִי שָׁמַע — יָצָא, וְאִם קוֹל חִיצוֹן שָׁמַע — לֹא יָצָא. הֲפָכוֹ וְתָקַע בּוֹ — לֹא יָצָא.
+*Translation:* **The Sages taught** in a different *baraita*: If a *shofar* **was scraped** down, **whether on the inside or on the outside,** it is **fit.** Even if it **was scraped** out to the point **that** only **its outer layer remains,** it **is** still **fit.** If **one placed** one ***shofar* inside** another ***shofar*** and blew, **if he heard the sound of the inner** *shofar*, **he has fulfilled** his obligation, **but if he heard the sound of the outer** *shofar*, **he has not fulfilled** his obligation. If **he inverted** the *shofar* **and blew it, he has not fulfilled** his obligation.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַב פָּפָּא: לָא תֵּימָא דְּהַפְכֵיהּ כְּכִתּוּנָא, אֶלָּא שֶׁהִרְחִיב אֶת הַקָּצָר וְקִיצֵּר אֶת הָרָחָב. מַאי טַעְמָא — כִּדְרַב מַתְנָה. דְּאָמַר רַב מַתְנָה: ״וְהַעֲבַרְתָּ״ — דֶּרֶךְ הַעֲבָרָתוֹ בָּעֵינַן.
+*Translation:* **Rav Pappa said: Do not say that** this means that **he** softened the *shofar* and **turned it inside out like a tunic. Rather,** the meaning is **that he widened the narrow** end of the *shofar* **and narrowed** its **wide** end. **What is the reason** that this is unfit? It is **according** to the opinion **of Rav Mattana, as Rav Mattana said** that the verse states: **“You shall proclaim** [*veha’avarta*] with the *shofar*” (Leviticus 25:9), where the word *veha’avarta* literally means carry, thereby teaching that **we need** the *shofar* to be sounded **the** same **way that it was carried** on the head of the animal, and if a change was made, it is unfit.
+
+**7.**
+*Hebrew/Aramaic:* דִּיבֵּק שִׁבְרֵי שׁוֹפָרוֹת — פָּסוּל. תָּנוּ רַבָּנַן: הוֹסִיף עָלָיו כׇּל שֶׁהוּא, בֵּין בְּמִינוֹ בֵּין שֶׁלֹּא בְּמִינוֹ — פָּסוּל. נִיקַּב וּסְתָמוֹ, בֵּין בְּמִינוֹ בֵּין שֶׁלֹּא בְּמִינוֹ — פָּסוּל. רַבִּי נָתָן אוֹמֵר: בְּמִינוֹ — כָּשֵׁר, שֶׁלֹּא בְּמִינוֹ — פָּסוּל.
+*Translation:* § It was taught in the mishna: If **one glued together broken fragments of *shofarot*** to form a complete *shofar*, the *shofar* is **unfit. The Sages taught** in a *baraita*: If **anything was added** to a *shofar*, **whether** of **the same substance,** i.e., horn, **or of a foreign substance,** the *shofar* is **unfit.** If the *shofar* **was punctured and sealed, whether with the same substance or with a foreign substance,** it is **unfit. Rabbi Natan says:** If it was sealed **with the same substance,** it is **fit; with a foreign substance,** it is **unfit.**
+
+**8.**
+*Hebrew/Aramaic:* בְּמִינוֹ כָּשֵׁר — אָמַר רַבִּי יוֹחָנָן: וְהוּא שֶׁנִּשְׁתַּיֵּיר רוּבּוֹ. מִכְּלָל דְּשֶׁלֹּא בְּמִינוֹ, אַף עַל פִּי שֶׁנִּשְׁתַּיֵּיר רוּבּוֹ — פָּסוּל.
+*Translation:* The *baraita* stated: If it was sealed **with the same substance,** it is **fit.** Concerning this **Rabbi Yoḥanan said: This applies** only **where most of** the original *shofar* **is intact** and only a small patch was added. The Gemara concludes: **By inference,** if it was sealed **with a foreign substance,** then **even if most of** the original *shofar* **is intact,** it is **unfit.**
+
+**9.**
+*Hebrew/Aramaic:* אִיכָּא דְּמַתְנֵי לַהּ אַסֵּיפָא: שֶׁלֹּא בְּמִינוֹ — פָּסוּל, אָמַר רַבִּי יוֹחָנָן: וְהוּא שֶׁנִּפְחַת רוּבּוֹ. מִכְּלָל דִּבְמִינוֹ, אַף עַל פִּי שֶׁנִּפְחַת רוּבּוֹ — כָּשֵׁר.
+*Translation:* **Some teach this** ruling **with regard to the last clause** of the *baraita*, in which it was taught: If it was sealed **with a foreign substance,** it is **unfit.** Concerning this **Rabbi Yoḥanan said: This is** only **where most of** the original *shofar* **was missing,** so that the patch constitutes the majority. The Gemara concludes: **By inference,** if it was sealed **with the same substance,** then **even if most of** the original *shofar* **was missing, it is** still **fit.**
+
+**10.**
+*Hebrew/Aramaic:* צִיפָּהוּ זָהָב, מִבִּפְנִים — פָּסוּל. מִבַּחוּץ, אִם נִשְׁתַּנָּה קוֹלוֹ מִכְּמוֹת שֶׁהָיָה — פָּסוּל, וְאִם לָאו — כָּשֵׁר. נִסְדַּק לְאוֹרְכּוֹ — פָּסוּל. לְרוֹחְבּוֹ, אִם נִשְׁתַּיֵּיר בּוֹ שִׁיעוּר תְּקִיעָה — כָּשֵׁר, וְאִם לָאו — פָּסוּל.
+*Translation:* The *baraita* continues: If the *shofar* **was plated with gold on the inside,** it is **unfit.** If, however, it was plated **on the outside,** and **if its sound changed from what it was** before the plating, it is **unfit, but if not,** it is **fit.** If the *shofar* **was cracked lengthwise,** it is **unfit.** But if it was cracked **along its width,** the following distinction applies: **If,** of the portion above the crack **there remains a measure** sufficient **to** sound **a blast,** it is **fit, but if not,** it is **unfit.**
+
+**11.**
+*Hebrew/Aramaic:* וְכַמָּה שִׁיעוּר תְּקִיעָה? פֵּירֵשׁ רַבִּי שִׁמְעוֹן בֶּן גַּמְלִיאֵל: כְּדֵי שֶׁיֹּאחֲזֶנּוּ בְּיָדוֹ וְיֵרָאֶה לְכָאן וּלְכָאן. הָיָה קוֹלוֹ דַּק אוֹ עָבֶה אוֹ צָרוּר — כָּשֵׁר, שֶׁכׇּל הַקּוֹלוֹת כְּשֵׁירִין [בְּשׁוֹפָר].
+*Translation:* **And how much is a measure** sufficient **to** sound **a blast? Rabban Shimon ben Gamliel explained: Enough that when he holds it in his hand, it can be seen** protruding **on one side** of his hand **and on the other side.** If the **sound** of the *shofar* **is high or deep or dry,** it is **fit** for blowing, **as** the Torah does not require a particular sound, and **all sounds** coming **from a *shofar* are fit.**
+
+**12.**
+*Hebrew/Aramaic:* שְׁלַחוּ לֵיהּ לַאֲבוּהּ דִּשְׁמוּאֵל: קְדָחוֹ וְתָקַע בּוֹ — יָצָא. פְּשִׁיטָא, כּוּלְּהוּ נָמֵי מִיקְדָּח קָדְחוּ לְהוּ?
+*Translation:* It is related that the following ruling **was sent** from Eretz Yisrael **to Shmuel’s father:** If **one drilled** out the inside of a horn **and blew it, he has fulfilled** his obligation. The Gemara asks: It is **obvious, for all** *shofarot* **are drilled,** since after the horn is removed from the animal, the bone that fills the horn and connects it to the animal’s head must be removed. What, then, does this ruling teach us?
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַב אָשֵׁי: שֶׁקְּדָחוֹ בְּזַכְרוּתוֹ. מַהוּ דְּתֵימָא: מִין בְּמִינוֹ — חוֹצֵץ, קָא מַשְׁמַע לַן.
+*Translation:* **Rav Ashi said:** Here we are discussing a case **where he drilled the bone** that fills the horn instead of removing it in the usual manner. **Lest you say** that even something made **of the same substance interposes,** and the sound that is produced is emitted from the bone and not from the *shofar*, the ruling therefore **teaches us** that since the bone and the horn are considered to be of the same substance, the *shofar* is fit and he has fulfilled his obligation.
+
+**14.**
+*Hebrew/Aramaic:* הַתּוֹקֵעַ לְתוֹךְ הַבּוֹר אוֹ לְתוֹךְ הַדּוּת כּוּ׳. אָמַר רַב הוּנָא: לֹא שָׁנוּ אֶלָּא לְאוֹתָן הָעוֹמְדִים עַל שְׂפַת הַבּוֹר, אֲבָל אוֹתָן הָעוֹמְדִין בַּבּוֹר — יָצְאוּ.
+*Translation:* § It was taught in the mishna: If **one sounds** a shofar **into a pit or into a cistern,** he has not fulfilled his obligation. **Rav Huna said: They taught** this **only with respect to those standing at the edge of the pit,** i.e., on the outside, as they can hear only the echo coming from the pit. **But those standing in the pit** itself **have fulfilled their obligation,** since they initially hear the sound of the *shofar*.
+
+**15.**
+*Hebrew/Aramaic:* תַּנְיָא נָמֵי הָכִי: הַתּוֹקֵעַ לְתוֹךְ הַבּוֹר אוֹ לְתוֹךְ הַדּוּת — יָצָא. וְהָתְנַן: לֹא יָצָא! אֶלָּא לָאו, שְׁמַע מִינַּהּ כִּדְרַב הוּנָא, שְׁמַע מִינַּהּ.
+*Translation:* **This is also taught** in a *baraita*: If **one sounds** a *shofar* **into a pit or into a cistern, he has fulfilled** his obligation. **But didn’t we learn** in the mishna that in that case **he has not fulfilled** his obligation? **Rather, isn’t it** correct to **conclude from here** that the contradiction must be reconciled **in accordance with Rav Huna?** The Gemara concludes: Indeed, **learn from here** that this is so.
+
+**16.**
+*Hebrew/Aramaic:* אִיכָּא דְּרָמֵי לְהוּ מִירְמֵא. תְּנַן: הַתּוֹקֵעַ לְתוֹךְ הַבּוֹר אוֹ לְתוֹךְ הַדּוּת — לֹא יָצָא. וְהָתַנְיָא: יָצָא! אָמַר רַב הוּנָא: לָא קַשְׁיָא, כָּאן — לְאוֹתָן הָעוֹמְדִין עַל שְׂפַת הַבּוֹר, כָּאן — לְאוֹתָן הָעוֹמְדִין בַּבּוֹר.
+*Translation:* Some had a different version of the previous passage. **There are** those **who raise the** following source **as a contradiction: We learned** in the mishna that if **one sounds** a *shofar* **into a pit or into a cistern, he has not fulfilled** his obligation. **But isn’t it taught** in a *baraita* that in that case **he has fulfilled** his obligation? **Rav Huna said: This** is **not difficult; here,** in the mishna, we are dealing **with those standing at the edge of the pit,** whereas **there,** in the *baraita* we are dealing **with those standing in the pit.**
+
+**17.**
+*Hebrew/Aramaic:* אָמַר רַבָּה:
+*Translation:* **Rabba said:**

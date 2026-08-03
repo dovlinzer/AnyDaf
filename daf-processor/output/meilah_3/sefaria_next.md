@@ -39,3 +39,64 @@
 **10.**
 *Hebrew/Aramaic:* אֶלָּא: לְעוֹלָם דְּזָרֵיק, וְכִי תַּנְיָא הָהִיא, בְּעוֹלָה. אִי בְּעוֹלָה, פְּשִׁיטָא, דְּגָבוֹהַּ הִיא כּוּלַּהּ.
 *Translation:* The Gemara suggest an alternative reason for rejecting the suggestion: **Rather,** the *baraita* is **actually** referring to a case **where** the blood was **sprinkled. But** nevertheless, it does not support Rav Giddel’s opinion, as **when that** *baraita* **is taught,** it is referring **to a burnt offering.** A burnt offering is always subject to the *halakhot* of misuse even after its blood is sprinkled, as it is never permitted to the priests in consumption. The Gemara raises a difficulty: **If** the ruling of the *baraita* is stated **with regard to a burnt offering,** then it is **obvious** that it is still subject to the *halakhot* of misuse, **as it entirely** belongs **to the Most High,** i.e., the entire offering is burned on the altar and none of it is consumed by the owners or priests.
+
+
+---
+
+### Meilah 4b
+
+**1.**
+*Hebrew/Aramaic:* וְעוֹד, דְּקָתָנֵי סֵיפָא: לָן דָּמָהּ, אַף עַל פִּי שֶׁחָזַר וּזְרָקוֹ – מוֹעֲלִין בּוֹ.
+*Translation:* **And furthermore,** one may cite proof for the opinion of Rav Giddel from that *baraita*, **as the latter clause** of the *baraita* **teaches:** If **its blood was left overnight** instead of being sprinkled on the altar on the day it was slaughtered, **even though** the priest **later sprinkled it** on the following day, nevertheless, one who derives benefit **from it** is liable for **misuse** of consecrated property.
+
+**2.**
+*Hebrew/Aramaic:* אִי אָמְרַתְּ בִּשְׁלָמָא בְּחַטָּאת – שַׁפִּיר.
+*Translation:* The Gemara analyzes this statement of the *baraita*: **Granted, if you say** that the *baraita* is referring **to a sin offering,** then it is **well.** Since the blood was disqualified for sprinkling by being left overnight, it does not become permitted to the priests even after the blood is sprinkled, and is therefore subject to the *halakhot* of misuse. But if the blood had not been left overnight, the offering would not be subject to the *halakhot* of misuse, as the sprinkling would have removed the sin offering from that category due to the fact that it became permitted for the priests.
+
+**3.**
+*Hebrew/Aramaic:* אֶלָּא אִי אָמְרַתְּ בְּעוֹלָה – צְרִיכָא לְמֵימַר?
+*Translation:* **But if you say** that the *baraita* is referring **to a burnt offering,** does it **need to be said** that it is still subject to the *halakhot* of misuse? A burnt offering remains subject to the *halakhot* of misuse even if the blood had not been left overnight and the sprinkling was performed properly, as it never becomes permitted to the priests.
+
+**4.**
+*Hebrew/Aramaic:* סֵיפָא וַדַּאי מְסַיַּיע לֵיהּ. רֵישָׁא, מַאי? הוֹאִיל וּמְסַיַּיע לֵיהּ סֵיפָא, מְסַיַּיע לֵיהּ נָמֵי רֵישָׁא?
+*Translation:* The Gemara comments: **The latter clause** of the *baraita* **certainly supports** the opinion of Rav Giddel, as it clearly shows that an unfit sprinkling does not remove an offering from being subject to the *halakhot* of misuse. But with regard to **the first clause** of the *baraita*, **what** does it teach concerning the opinion of Rav Giddel? Is it reasonable to say that **since the latter clause** of the *baraita* **supports** the opinion of Rav Giddel, **the earlier clause,** which states that *piggul* is always subject to the *halakhot* of misuse, **also supports his** opinion?
+
+**5.**
+*Hebrew/Aramaic:* סֵיפָא לָאו וַדַּאי מְסַיַּיע לֵיהּ: מַאי שְׁנָא הֲלָנָה – דְּקָעָבֵיד בְּיָדַיִם, לָא מַהְנֵי זְרִיקָה לְאַפּוֹקֵי מִידֵי מְעִילָה.
+*Translation:* The Gemara rejects this suggestion: It is **not** even **certain** that **the latter clause supports** Rav Giddel, as it is possible that although the sprinkling of blood that was left overnight does not remove an offering from being subject to the *halakhot* of misuse, nevertheless, sprinkling after *piggul* does achieve this. The Gemara clarifies: **What is the difference** between the two cases? The difference is with regard to **leaving** the blood **overnight, where it is performed in** relation to **an action,** i.e., the priest failed to act in the proper manner, **sprinkling** the blood **is not effective to remove** the offering from the status of being subject to the *halakhot* of **misuse.**
+
+**6.**
+*Hebrew/Aramaic:* מַחְשָׁבָה – לָא קָא עָבֵיד בְּיָדַיִם, מַהְנֵי לֵיהּ זְרִיקָה לְאַפּוֹקֵי מִידֵי מְעִילָה.
+*Translation:* By contrast, in the case of sprinkling after *piggul*, where the disqualification is merely a function of **intent,** which **is not performed in** relation to **an action,** perhaps **sprinkling** the blood **is effective to remove** the offering from the status of being subject to the *halakhot* of **misuse.**
+
+**7.**
+*Hebrew/Aramaic:* לֵימָא הָא מְסַיַּיע לֵיהּ: הַפִּיגּוּל בְּקׇדְשֵׁי קָדָשִׁים – מוֹעֲלִין בּוֹ. לָאו אַף עַל גַּב דְּזָרַק וּמְסַיַּיע לֵיהּ! לָא, דְּלֹא זָרַק.
+*Translation:* The Gemara suggests: **Let** us **say** that **this** *baraita* **supports** the opinion of Rav Giddel: With regard to **an offering of the most sacred order that** is ***piggul*,** one who derives benefit **from it** is liable for **misuse** of consecrated property.Does this **not** mean that it is subject to the *halakhot* of misuse **even though** the priest **sprinkled** its blood, **and** if so this *baraita* **supports** Rav Giddel’s opinion? The Gemara rejects this suggestion: **No,** one cannot cite a proof from this *baraita*, as it is possible that it is referring to a case **where** the priest did **not** yet **sprinkle the blood.**
+
+**8.**
+*Hebrew/Aramaic:* אֲבָל זָרַק, מַאי? הָכִי נָמֵי דְּאֵין מוֹעֲלִין בּוֹ? אַמַּאי קָתָנֵי סֵיפָא: בְּקָדָשִׁים קַלִּים – אֵין מוֹעֲלִין בּוֹ?
+*Translation:* The Gemara asks: **But** if that is so, **what,** then, is the *halakha* if the priest did **sprinkle** the blood? Is the *halakha* **indeed that** one is **not** liable for **misusing it?** If so, **why is it taught** in **the latter clause** of the *baraita*: Unlike an offering of the most sacred order, **in** the case of **an offering of lesser sanctity,** one who derives benefit **from it** is **not** liable for **misuse** of consecrated property?
+
+**9.**
+*Hebrew/Aramaic:* לִיפְלוֹג בְּרֵישָׁא, וְלִיתְנֵי: לִפְנֵי זְרִיקָה – מוֹעֲלִין בּוֹ, לְאַחַר זְרִיקָה – אֵין מוֹעֲלִין בּוֹ! הָהוּא וַדַּאי מְסַיַּיע לֵיהּ.
+*Translation:* The Gemara explains the difficulty: If there is a difference between whether or not the priest sprinkled the blood, **let** the *baraita* **distinguish and teach** the distinction **in the first clause,** with regard to the case of offerings of the most sacred order itself, as follows: **Before** the **sprinkling** of the blood one is liable for **misusing** the offering, but **after** the **sprinkling** of the blood one is **not** liable for **misusing it.** It is not necessary to mention offerings of lesser sanctity at all. The Gemara concludes: **That** statement in the latter clause of the *baraita* **certainly supports** Rav Giddel’s opinion.
+
+**10.**
+*Hebrew/Aramaic:* לֵימָא הוֹאִיל וּמְסַיַּיע לֵיהּ סֵיפָא מְסַיַּיע לֵיהּ נָמֵי רֵישָׁא? קָדָשִׁים קַלִּים – פְּסִיקָא לֵיהּ, הָכָא – לָא פְּסִיקָא לֵיהּ.
+*Translation:* The Gemara suggests: **Shall** we **say** that **since the latter clause supports** the opinion of Rav Giddel, **the first clause also supports** his opinion? The Gemara again answers that even the latter clause does not necessarily support the opinion of Rav Giddel, as one can explain that the reason the *baraita* distinguishes between offerings of the most sacred order and offerings of lesser sanctity, rather than providing a distinction within the category of offerings of the most sacred order itself, is that the case of **offerings of lesser sanctity is clear-cut,** i.e., all cases of offerings of lesser sanctity that are *piggul* are not subject to the *halakhot* of misuse. By contrast, **here** in the case of offerings of the most sacred order, it **is not clear-cut,** as there is a difference depending on the sprinkling of the blood.
+
+**11.**
+*Hebrew/Aramaic:* כְּלָל אָמַר רַבִּי יְהוֹשֻׁעַ: כֹּל שֶׁהָיְתָה לָהּ שְׁעַת הֶיתֵּר לַכֹּהֲנִים – אֵין מוֹעֲלִין בָּהּ, וְכֹל שֶׁלֹּא הָיְתָה לָהּ שְׁעַת הֶיתֵּר לַכֹּהֲנִים – מוֹעֲלִין בָּהּ.
+*Translation:* § The mishna teaches that **Rabbi Yehoshua said a principle** with regard to misuse of disqualified sacrificial animals: With regard to **any** sacrificial animal **that had a period of fitness to the priests** before it was disqualified, one is **not** liable for **misusing it.** Misuse fundamentally applies to items consecrated to God, which are not permitted for human consumption at all. Once the offering was permitted for consumption by the priests, it is no longer in that category. **And** with regard to **any** sacrificial animal **that did not have a period of fitness for the priests** before it was disqualified, one is liable for **misusing it,** as it remained consecrated to God throughout.
+
+**12.**
+*Hebrew/Aramaic:* אֵיזוֹהִי שֶׁהָיְתָה לָהּ שְׁעַת הֶיתֵּר לַכֹּהֲנִים? שֶׁלָּנָה, וְשֶׁנִּטְמֵאת, וְשֶׁיָּצָאת.
+*Translation:* The mishna clarifies: **Which is** the sacrificial animal **that had a period of fitness for the priests?** This category includes a sacrificial animal **whose** meat **remained overnight** after it was properly sacrificed, and was therefore disqualified as *notar*, **and** one **that** was disqualified when it **became ritually impure** after it was properly sacrificed, **and** one **that left** the Temple courtyard after it was properly sacrificed and was thereby disqualified. All of these disqualifications transpired after consumption of the sacrificial meat was permitted, and therefore one who derives benefit from these offerings is not liable for misuse.
+
+**13.**
+*Hebrew/Aramaic:* וְאֵיזוֹהִי שֶׁלֹּא הָיְתָה לָהּ שְׁעַת הֶיתֵּר לַכֹּהֲנִים? שֶׁנִּשְׁחֲטָה חוּץ לִזְמַנָּהּ, וְחוּץ לִמְקוֹמָהּ, וְשֶׁקִּבְּלוּ פְּסוּלִין וְזָרְקוּ אֶת דָּמָהּ.
+*Translation:* **And which is** the sacrificial animal **that did not have a period of fitness for the priests?** It is a sacrificial animal **that was slaughtered** with the intent to partake of it or sprinkle its blood or sacrifice its sacrificial portions **beyond its** designated **time, or outside its** designated **area, or** one **that** those **unfit** for Temple service **collected and sprinkled its blood.** All of these disqualifications occurred before consumption of the sacrificial meat was permitted by means of the sprinkling of the blood. Therefore, these offerings remain consecrated to God and one is liable for misuse if one derives benefit from them.
+
+**14.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ בַּר קַפָּרָא לְבַר פְּדָת: בֶּן אֲחוֹתִי, רְאֵה מָה אַתָּה שׁוֹאֲלֵנִי לְמָחָר בְּבֵית הַמִּדְרָשׁ: הֶיתֵּר שְׁחִיטָה שָׁנִינוּ,
+*Translation:* With regard to this matter, the Gemara relates that **bar Kappara said to bar Pedat: My sister’s son, look** into the topic of the question **that you will ask me tomorrow in the study hall.** The question involved the interpretation of Rabbi Yehoshua’s statement: Any sacrificial animal that had a period of fitness to the priests. Was it **fitness** of **slaughtering** that **we learned,** i.e., provided that it was slaughtered properly, even if the offering was later disqualified, it is no longer subject to the *halakhot* of misuse.

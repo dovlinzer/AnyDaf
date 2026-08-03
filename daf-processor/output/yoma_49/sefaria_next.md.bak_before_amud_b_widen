@@ -1,0 +1,65 @@
+### Yoma 50a
+
+**1.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רַבִּי יִצְחָק נַפָּחָא לְרַבִּי אַמֵּי: ״וְהוֹצִיא אֶת כׇּל הַפָּר״! שֶׁיּוֹצִיא אֶת כּוּלּוֹ.
+*Translation:* § **Rabbi Yitzḥak Nappaḥa raised an objection to Rabbi Ami: “And he shall remove the entire bull** outside the camp” (Leviticus 4:12). This verse speaks of a bull that has been slaughtered and its fats and sacrificial parts have been burned, which proves that even after it has been slaughtered, it is still called a bull. Rabbi Ami replied: The animal itself is not called a bull at this stage; rather, it means **that he should remove the entire** carcass, all that remains of the bull.
+
+**2.**
+*Hebrew/Aramaic:* ״וְאֵת פַּר הַחַטָּאת וְאֵת שְׂעִיר הַחַטָּאת״, אָמַר רַב פָּפָּא: בְּעוֹר וּבָשָׂר וָפֶרֶשׁ דְּכוּלֵּי עָלְמָא לָא פְּלִיגִי. כִּי פְּלִיגִי בְּדָם. מָר סָבַר: דָּם אִיקְּרִי פַּר, וּמָר סָבַר: דָּם לָא אִיקְּרִי פַּר.
+*Translation:* The Gemara raises another difficulty by citing a verse: **“And the bull of the sin-offering and the goat of the sin-offering,** whose blood was brought in to make atonement in the Sanctuary, shall be taken outside the camp” (Leviticus 16:27). Once again, the verse proves that even after it has been slaughtered and its blood is brought into the Holy of Holies, the animal is still called a bull. **Rav Pappa said: Everyone agrees that** when it is intact, **with its hide, its flesh, and its excrement,** it is called a bull. **When they disagree** is with regard **to** the **blood. One Sage holds** that its **blood is called a bull, and one Sage holds** that **blood** alone **is not called a bull.**
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רַב אָשֵׁי: מִסְתַּבְּרָא כְּמַאן דְּאָמַר דָּם אִיקְּרִי פַּר, דִּכְתִיב: ״בְּזֹאת יָבֹא אַהֲרֹן אֶל הַקֹּדֶשׁ בְּפַר בֶּן בָּקָר״, אַטּוּ בְּקַרְנֵיהּ מְעַיֵּיל לֵיהּ?! אֶלָּא בְּדָמוֹ, וְקָרֵי לֵיהּ ״פַּר״.
+*Translation:* **Rav Ashi said: It is reasonable** to say **in accordance with the one who said** that **blood is called** part of the **bull, as it is written: “With this Aaron shall come into the sacred place, with a bull”** (Leviticus 16:3). **Is that to say** that **he brings** it **in,** to the Holy of Holies, **with its horns? Rather,** he enters **with its blood, and** yet the Torah **calls that “a bull.”** This proves that the blood itself is called a bull.
+
+**4.**
+*Hebrew/Aramaic:* וְאִידַּךְ? בַּמָּה הוּכְשַׁר אַהֲרֹן לָבֹא אֶל הַקֹּדֶשׁ — בְּפַר בֶּן בָּקָר לְחַטָּאת.
+*Translation:* The Gemara asks: **And the other one,** who maintains that blood is not called a bull, how does he interpret this verse? The Gemara answers that he can explain the verse as follows: **With what did Aaron become qualified to enter the sacred place? With** his bringing of **a young bull for a sin-offering.** However, the blood itself, which he brings inside, is not called a bull.
+
+**5.**
+*Hebrew/Aramaic:* וְתִיפּוֹק לֵיהּ דְּחַטָּאת שֶׁמֵּתוּ בְּעָלֶיהָ הִיא, וְחַטָּאת שֶׁמֵּתוּ בְּעָלֶיהָ לְמִיתָה אָזְלָא! אֲמַר לֵיהּ רָבִין בַּר רַב אַדָּא לְרָבָא: אָמְרִי תַּלְמִידָיךָ, אָמַר רַב עַמְרָם: חַטַּאת צִבּוּר הִיא, וְלָא לְמִיתָה אָזְלָא.
+*Translation:* § The Gemara returns to the issue of a replacement High Priest entering with the blood of the first bull: **And let him derive** the answer to this problem from the fact **that it is a sin-offering whose owners have died.** After all, the bull of the first High Priest is a sin-offering and its owner has died. Since there is a principle that **a sin-offering whose owners have died is left to die,** this should resolve the dilemma. **Ravin bar Rav Adda said to Rava: Your students say** that **Rav Amram said** that the sin-offering bull of the High Priest **is a communal sin-offering,** as the High Priest brings it both on his own behalf and for his fellow priests, and a communal sin-offering **is not left to die.**
+
+**6.**
+*Hebrew/Aramaic:* דִּתְנַן, אָמַר לוֹ רַבִּי מֵאִיר: וַהֲלֹא פַּר יוֹם הַכִּפּוּרִים, וַחֲבִיתֵּי כֹּהֵן גָּדוֹל, וּפֶסַח — דְּקָרְבַּן יָחִיד הוּא, וְדוֹחֶה אֶת הַשַּׁבָּת וְאֶת הַטּוּמְאָה. לָאו מִכְּלָל דְּאִיכָּא לְמַאן דְּאָמַר דְּצִבּוּר?
+*Translation:* **As we learned** in a mishna in tractate *Temura* that *tanna’im* debate which offerings override Shabbat and ritual impurity. **Rabbi Meir said to him: But** consider **the Yom Kippur bull, and the meal-offering resembling a wafer** brought specially by the **High Priest, and** the **Paschal offering,** each of which **is an individual offering and overrides Shabbat and ritual impurity.** Since Rabbi Meir says that these are individual offerings, is it **not** correct to say **by inference that there is one who says that** these offerings are **communal?**
+
+**7.**
+*Hebrew/Aramaic:* וּלְטַעְמָיךְ, דְּקָתָנֵי: אָמַר לוֹ רַבִּי יַעֲקֹב: וַהֲלֹא פַּר הֶעְלֵם דָּבָר שֶׁל צִבּוּר, וּשְׂעִירֵי עֲבוֹדָה זָרָה, וַחֲגִיגָה — דְּקָרְבַּן צִבּוּר, וְאֵין דּוֹחִין לֹא אֶת הַשַּׁבָּת וְלֹא אֶת הַטּוּמְאָה! מִכְּלָל דְּאִיכָּא לְמַאן דְּאָמַר דְּיָחִיד!
+*Translation:* The Gemara rejects this proof. **And according to your reasoning,** consider **that** which was **taught** there: **Rabbi Ya’akov said to him: But** there are the cases of the **bull for an unwitting communal sin, and the goats for** a sin of **idolatry,** and the **Festival peace-offering, which** are all **communal offerings and override neither Shabbat nor ritual impurity.** According to the above reasoning, it can be claimed **by inference that there is one who says that** these are **individual** offerings, which is incorrect.
+
+**8.**
+*Hebrew/Aramaic:* אֶלָּא: לְתַנָּא קַמָּא קָא מַהְדַּר לֵיהּ, דְּשַׁמְעֵיהּ דְּקָאָמַר: קׇרְבַּן צִבּוּר דּוֹחֶה אֶת הַשַּׁבָּת וְאֶת הַטּוּמְאָה, וְקָרְבַּן יָחִיד אֵינוֹ דּוֹחֶה לֹא אֶת הַשַּׁבָּת וְלֹא אֶת הַטּוּמְאָה. אָמַר לוֹ רַבִּי מֵאִיר: קׇרְבַּן יָחִיד כְּלָלָא הוּא? וַהֲלֹא פַּר יוֹם הַכִּפּוּרִים, וַחֲבִיתֵּי כֹּהֵן גָּדוֹל, וּפֶסַח — דְּקָרְבַּן יָחִיד הוּא, וְדוֹחִין אֶת הַשַּׁבָּת וְאֶת הַטּוּמְאָה!
+*Translation:* **Rather,** Rabbi Meir **responded to the first *tanna*, as he heard him say** in the form of a general principle: **Communal sacrifices override Shabbat and ritual impurity, but individual sacrifices override neither Shabbat nor ritual impurity.** In response to this claim, **Rabbi Meir said to him:** Is this statement with regard to **an individual offering** a general **principle? But** consider **the Yom Kippur bull, and the meal-offering resembling a wafer** of the **High Priest, and** the **Paschal offering,** each of which **is an individual offering and overrides Shabbat and ritual impurity.**
+
+**9.**
+*Hebrew/Aramaic:* וְאָמַר לוֹ רַבִּי יַעֲקֹב: קׇרְבַּן צִבּוּר כְּלָלָא הוּא? וַהֲלֹא פַּר הֶעְלֵם דָּבָר שֶׁל צִבּוּר, וּשְׂעִירֵי עֲבוֹדָה זָרָה, וַחֲגִיגָה — דְּקָרְבַּן צִבּוּר הוּא, וְאֵין דּוֹחִין לֹא אֶת הַשַּׁבָּת וְלֹא אֶת הַטּוּמְאָה!
+*Translation:* **And Rabbi Ya’akov responded to** the first *tanna* from a different perspective: Is this statement with regard to **a communal offering** a general **principle,** which overrides ritual impurity? **But** there are the cases of the **bull for an unwitting communal sin, and the goats for** a sin of **idolatry,** and the **Festival peace-offering, which** are all **communal offerings and override neither Shabbat nor ritual impurity.**
+
+**10.**
+*Hebrew/Aramaic:* אֶלָּא, נְקוֹט הַאי כְּלָלָא בִּידָךְ: כֹּל שֶׁזְּמַנּוֹ קָבוּעַ — דּוֹחֶה אֶת הַשַּׁבָּת וְאֶת הַטּוּמְאָה אֲפִילּוּ בְּיָחִיד, וְכֹל שֶׁאֵין זְמַנּוֹ קָבוּעַ — אֵינוֹ דּוֹחֶה לֹא אֶת הַשַּׁבָּת וְלֹא אֶת הַטּוּמְאָה וַאֲפִילּוּ בְּצִבּוּר.
+*Translation:* **Rather, grasp this principle: Any** offering **that** has **a fixed time** for its sacrifice **overrides Shabbat and ritual impurity even if** it is an **individual** offering; **and any** offering **of no fixed time overrides neither Shabbat nor ritual impurity, and** this is the case **even** if it **is a communal** offering. With regard to the issue at hand, as the emphasis of both Rabbi Meir’s and Rabbi Ya’akov’s statements is whether the offerings they referred to override Shabbat and ritual impurity, not their classification as individual or communal offerings, nothing can be inferred from their comments in this regard. Consequently, it remains possible that the bull of the High Priest is an individual offering.
+
+**11.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ אַבָּיֵי: פַּר וְשָׂעִיר שֶׁל יוֹם הַכִּפּוּרִים שֶׁאָבְדוּ, וְהִפְרִישׁ אֲחֵרִים תַּחְתֵּיהֶן — כּוּלָּם יָמוּתוּ. וְכֵן שְׂעִירֵי עֲבוֹדָה זָרָה שֶׁאָבְדוּ, וְהִפְרִישׁ אֲחֵרִים תַּחְתֵּיהֶן — כּוּלָּם יָמוּתוּ, דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי (אֱלִיעֶזֶר) וְרַבִּי שִׁמְעוֹן אוֹמְרִים: יִרְעוּ עַד שֶׁיִּסְתָּאֲבוּ וְיִמָּכְרוּ וְיִפְּלוּ דְּמֵיהֶן לִנְדָבָה, שֶׁאֵין חַטַּאת צִבּוּר מֵתָה.
+*Translation:* § **Abaye raised an objection to** Rava: Is the bull of the High Priest an individual offering? But we learned in a *baraita*: With regard to the **bull and** the **goat of Yom Kippur that were lost, and he separated others in their stead,** and the first animals were subsequently found, **all** of the second set **shall** be left to **die. And likewise, goats for** a sin of **idolatry that were lost and he separated others in their stead, all of them shall** be left to **die.** This is **the statement of Rabbi Yehuda. Rabbi Elazar and Rabbi Shimon say: They shall** be left to **graze until they become unfit,** whereupon **they are sold and their proceeds go** for a **free-will offering, as a communal sin-offering is not** left to **die.** This proves that the Yom Kippur bull is called a communal sin-offering.
+
+**12.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: מַאי פַּר — פַּר הֶעְלֵם דָּבָר שֶׁל צִבּוּר. וְהָא ״שֶׁל יוֹם הַכִּפּוּרִים״ קָתָנֵי! כִּי קָתָנֵי — אַדְּשָׂעִיר.
+*Translation:* Rava **said to** Abaye: **What bull** is referred to here? A **bull for an unwitting communal sin.** Abaye retorted: **But** the *baraita* **taught: Of Yom Kippur,** which clearly indicates that it is referring to the bull of Yom Kippur. Rava answered: **When** the *tanna* of this *baraita* **taught:** Of Yom Kippur, he was referring only **to the goat.** That is, the *baraita* should be read as follows: The communal bull and the goat of Yom Kippur, which is also a communal offering.
+
+**13.**
+*Hebrew/Aramaic:* וְהָתַנְיָא: פַּר שֶׁל יוֹם הַכִּפּוּרִים וְשָׂעִיר שֶׁל יוֹם הַכִּפּוּרִים שֶׁאָבְדוּ וְהִפְרִישׁ אֲחֵרִים תַּחְתֵּיהֶן — כּוּלָּם יָמוּתוּ, דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי (אֱלִיעֶזֶר) וְרַבִּי שִׁמְעוֹן אוֹמְרִים: יִרְעוּ עַד שֶׁיִּסְתָּאֲבוּ וְיִמָּכְרוּ וְיִפְּלוּ דְּמֵיהֶן לִנְדָבָה, שֶׁאֵין חַטַּאת צִבּוּר מֵתָה.
+*Translation:* Abaye further asks: **But wasn’t it taught** in a *baraita*: With regard to **the bull of Yom Kippur and the goat of Yom Kippur that were lost and he separated others in their stead,** and the first animals were subsequently found, **all** of the second set **shall** be left to **die.** This is **the statement of Rabbi Yehuda. Rabbi Elazar and Rabbi Shimon say: They shall** be left to **graze until they become unfit,** whereupon **they are sold and their proceeds go** for a **free-will offering, as a communal sin-offering is not** left to **die.** This *baraita* explicitly states that the bull of Yom Kippur is considered a communal offering.
+
+**14.**
+*Hebrew/Aramaic:* לָא תֵּימָא: ״שֶׁאֵין חַטַּאת צִבּוּר מֵתָה״, אֶלָּא אֵימָא: ״שֶׁאֵין חַטַּאת הַשּׁוּתָּפִין מֵתָה״. וּמַאי נָפְקָא מִינַּהּ?
+*Translation:* Rava answered him: **Do not say: As a communal sin-offering is not** left to **die. Rather, say: As a sin-offering of partners is not** left to **die.** Since some of the partners are still alive, the sin-offering is not left to die. The bull of the High Priest on Yom Kippur is considered a sin-offering of partners because it atones not only for the High Priest, but for his fellow priests, as well. The Gemara asks: **And** if ultimately the bull is not left to die, **what is** the **practical difference** whether the bull of the High Priest is considered a communal sin-offering or a sin-offering of partners? Why did Rava insist on calling it a sin-offering of partners?
+
+**15.**
+*Hebrew/Aramaic:* דְּלָא מַיְיתוּ כֹּהֲנִים פַּר בְּהוֹרָאָה.
+*Translation:* The Gemara answers **that** there is a difference between these two categories with regard to a court that issues an incorrect ruling to an entire community, e.g., a tribe of Israel, and the people act in accordance with that ruling. The *halakha* in this case is that the court must bring a bull for an unwitting communal sin. Rava insisted on referring to the bull that atones for all of the priests on Yom Kippur as a sin-offering of partners, not a communal sin-offering, for the following reason: If a court composed of priests issued a mistaken ruling, and the priests acted in accordance with that teaching, the **priests do not bring a bull for** this **ruling,** as they are not considered a community but a large partnership.
+
+**16.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, דְּבָעֵי רַבִּי (אֱלִיעֶזֶר):
+*Translation:* The Gemara offers another solution to the question. **Come** and **hear, as Rabbi Elazar raised** the following **dilemma:**

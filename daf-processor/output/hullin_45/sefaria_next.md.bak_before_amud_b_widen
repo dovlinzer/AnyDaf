@@ -1,0 +1,61 @@
+### Hullin 45a
+
+**1.**
+*Hebrew/Aramaic:* אִתְיַיקּוֹרֵי הוּא דְּמִתְיַיקְּרוּ בִּי.
+*Translation:* **It is an honor for them to honor me.** My attendance is not for my benefit but for theirs.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר רַב: נִיקְּבָה כְּנָפָה – מִצְטָרְפִים לְרוּבָּא.
+*Translation:* § With regard to the *halakha* that a cut windpipe renders the animal a *tereifa*, **Rav Yehuda says** that **Rav says:** If the windpipe **was perforated** with a series of small holes around its circumference **like a sieve,** the small holes **join together to** constitute **a majority** of the circumference. Therefore, if their collective size is a majority of the circumference, the windpipe is considered cut.
+
+**3.**
+*Hebrew/Aramaic:* מֵתִיב רַב יִרְמְיָה: וּבְגוּלְגּוֹלֶת שֶׁיֵּשׁ בָּהּ נֶקֶב אֶחָד אָרוֹךְ, אֲפִילּוּ יֵשׁ בָּהּ נְקָבִים הַרְבֵּה – מִצְטָרְפִים לִמְלֹא מַקְדֵּחַ. אַלְמָא, כֵּיוָן דְּשִׁיעוּרַהּ מְלֹא מַקְדֵּחַ – לִמְלֹא מַקְדֵּחַ מִצְטָרְפִין. הָכָא נָמֵי, כֵּיוָן דְּשִׁיעוּרֵיהּ כְּאִיסָּר – לִכְאִיסָּר מִצְטָרְפִין.
+*Translation:* **Rav Yirmeya raises an objection:** The mishna teaches (*Oholot* 2:3) that if a skull of a corpse has a round hole at least the size of a drill bit used for surgery, then the skull does not impart ritual impurity in a tent. With regard to this, a *baraita* states: **And in a skull that contains one long hole,** or **even** if **it has many** small **holes,** the areas of the holes **join together to** constitute the **size of a drill hole. Evidently, since the** requisite **measure is** the **size of a drill hole,** the small holes **join together to** constitute the **size of a drill hole,** and not another measure. If so, **here, too,** in the case of the windpipe, **since the** requisite **measure** of a hole to render the animal a *tereifa* is the size of **an *issar*** (see 54a), the small holes should **join together to** constitute the size of **an *issar*.** Why must they constitute the majority of the circumference?
+
+**4.**
+*Hebrew/Aramaic:* אִישְׁתְּמִיטְתֵּיהּ הָא דְּאָמַר רַבִּי חֶלְבּוֹ אָמַר רַב חָמָא בַּר גּוּרְיָא אָמַר רַב: נְקָבִים שֶׁיֵּשׁ בָּהֶן חֶסְרוֹן מִצְטָרְפִין לִכְאִיסָּר, וְשֶׁאֵין בָּהֶן חֶסְרוֹן מִצְטָרְפִין לְרוּבָּא.
+*Translation:* The Gemara notes: **It escaped him,** i.e., Rav Yirmeya, **that which Rabbi Ḥelbo says** that **Rav Ḥama bar Gurya says** that **Rav says: Perforations that are a deficiency,** i.e., holes of significant area, **join together to** constitute the size of **an *issar*, and** perforations **that are not a deficiency,** but are as small as the holes of a sieve, must **join together to** constitute **a majority** of the circumference, which is the measure of a cut windpipe. Since the holes are not substantial in area, the windpipe cannot be said to be missing a piece, but it may be considered cut.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: נִיטְּלָה הֵימֶנָּה רְצוּעָה – מִצְטָרֶפֶת לִכְאִיסָּר. בְּעָא מִינֵּיהּ רַבִּי יִצְחָק בַּר נַחְמָנִי מֵרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: נִיקְּבָה כְּנָפָה מַהוּ? אֲמַר לֵיהּ: הֲרֵי אָמְרוּ: נְקָבִים שֶׁיֵּשׁ בָּהֶן חִסָּרוֹן – מִצְטָרְפִין לִכְאִיסָּר, וְשֶׁאֵין בָּהֶן חִסָּרוֹן – מִצְטָרְפִין לְרוּבָּא.
+*Translation:* **Rabba bar bar Ḥana says** that **Rabbi Yehoshua ben Levi says:** If **a strip** of the windpipe **was removed from it,** its area **joins to** constitute the size of **an *issar*,** even if the strip itself is narrower than an *issar*. **Rabbi Yitzḥak bar Naḥmani asked Rabbi Yehoshua ben Levi:** If the windpipe **was perforated like a sieve, what is** the *halakha*? Rabbi Yehoshua ben Levi **said to him:** The Sages **said** with regard to this case: **Perforations that are a deficiency join together to** constitute the size of **an *issar*, and** perforations **that are not a deficiency join together to** constitute **a majority** of the circumference.
+
+**6.**
+*Hebrew/Aramaic:* בְּעוֹפָא מַאי?
+*Translation:* The Gemara raises a question: The measure of an *issar* for missing flesh in the windpipe applies only to animals. In birds, this cannot be the measure, as the entire width of the windpipe is less than the diameter of an *issar*. **What,** then, is the measure **with regard to a bird?**
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִצְחָק בַּר נַחְמָנִי: לְדִידִי מִפָּרְשָׁא לִי מִינֵּיהּ דְּרַבִּי אֶלְעָזָר: מְקַפְּלוֹ וּמַנִּיחוֹ עַל פִּי הַקָּנֶה, אִם חוֹפֶה אֶת רוֹב הַקָּנֶה – טְרֵפָה, וְאִם לָאו – כְּשֵׁרָה. אָמַר רַב פָּפָּא: וְסִימָנָיךְ – נָפְיָא.
+*Translation:* **Rabbi Yitzḥak bar Naḥmani said: It was explained to me** personally **by Rabbi Elazar:** One severs the perforated tissue, **folds and lays it over the opening of the windpipe. If** it **covers the majority of the windpipe,** the animal is **a *tereifa*; and if not,** the animal is **kosher. Rav Pappa said: And your mnemonic** for this *halakha* should be **a sieve.** If the tissue is perforated like a sieve, one must place it over the opening of the windpipe as if it were a sieve.
+
+**8.**
+*Hebrew/Aramaic:* נִפְחֲתָה כְּדֶלֶת, אָמַר רַב נַחְמָן: כְּדֵי שֶׁיִּכָּנֵס אִיסָּר לְרׇחְבּוֹ. נִסְדְּקָה, אָמַר רַב: אֲפִילּוּ לֹא נִשְׁתַּיֵּיר בָּהּ אֶלָּא חוּלְיָא אַחַת לְמַעְלָה וְחוּלְיָא אַחַת לְמַטָּה – כְּשֵׁרָה.
+*Translation:* The Gemara continues: If the windpipe **was missing** a piece so that its appearance was **like a door,** where the missing flesh was partially attached as though on a hinge, **Rav Naḥman said:** If the missing piece is **so** large **that an *issar* can enter** the hole **widthwise,** i.e., it is wider and taller than an *issar*, the animal is a *tereifa*. If the windpipe **was cracked** along its length, **Rav said: Even** if **only one** undamaged **segment remains in** the windpipe **above** the crack **and one segment below** it, the animal is **kosher.**
+
+**9.**
+*Hebrew/Aramaic:* אַמְרוּהָ קַמֵּיהּ דְּרַבִּי יוֹחָנָן, אָמַר: מָה חוּלְיָא וּמָה חוּלְיָא דְּקָאָמַר רַב? אֶלָּא אֵימָא: אֲפִילּוּ לֹא נִשְׁתַּיֵּיר בָּהּ אֶלָּא מַשֶּׁהוּ לְמַעְלָה וּמַשֶּׁהוּ לְמַטָּה – כְּשֵׁרָה.
+*Translation:* The Sages **said** this statement **before Rabbi Yoḥanan,** who **said: What** is this **segment and what** is that **segment that Rav says?** Segments are immaterial to the matter. **Rather, say: Even if any amount remained** intact **in** the windpipe **above** the crack, **and any amount below,** the animal is **kosher.**
+
+**10.**
+*Hebrew/Aramaic:* אַמְרוּהָ קַמֵּיהּ דְּרַבִּי יוֹחָנָן מִשְּׁמֵיהּ דְּרַבִּי יוֹנָתָן הָכִי, אֲמַר לְהוּ: יָדְעִין חַבְרִין בַּבְלָאֵי לְפָרוֹשֵׁי כִּי הַאי טַעְמָא?
+*Translation:* The Sages **said this** statement in Eretz Yisrael **before Rabbi Yoḥanan in the name of Rabbi Yonatan** the Babylonian, i.e., that any amount of undamaged tissue above and below the crack renders the animal kosher. Rabbi Yoḥanan **said to them,** excitedly: Do **our Babylonian friends know how to interpret in accordance with this explanation?** He was happy that Rabbi Yonatan interpreted it the same way he did.
+
+**11.**
+*Hebrew/Aramaic:* תָּנֵא רַבִּי חִיָּיא בַּר יוֹסֵף קַמֵּיהּ דְּרַבִּי יוֹחָנָן: כׇּל הַצַּוָּאר כּוּלּוֹ כָּשֵׁר לִשְׁחִיטָה, מִטַּבַּעַת הַגְּדוֹלָה עַד כַּנְפֵי רֵיאָה הַתַּחְתּוֹנָה. אָמַר רָבָא: תַּחְתּוֹנָה שֶׁהִיא עֶלְיוֹנָה, שֶׁאֲנִי אוֹמֵר כֹּל שֶׁפּוֹשֶׁטֶת צַוָּארָהּ וְרוֹעָה, וּבִלְבַד שֶׁלֹּא תֵּאָנֵס.
+*Translation:* § **Rabbi Ḥiyya bar Yosef taught before Rabbi Yoḥanan: The entire neck is fit for slaughter, from the large** uppermost **ring** of the windpipe downward **until the lower edges of the lung. Rava says** that the phrase: **Lower** edges of the lung, is referring to an animal hung by the feet; **that is,** it actually denotes the **upper** edges nearest the head. **As I say** that the area fit for slaughter is **all** the length of **the neck that** an animal **extends** in order to **graze, provided that it is not forced** to extend its neck further than it wishes. Consequently, the very bottom of the neck is not a location fit for slaughter.
+
+**12.**
+*Hebrew/Aramaic:* בָּעֵי רַב חֲנִינָא, וְאִיתֵּימָא רַב חֲנַנְיָה: אָנְסָה עַצְמָהּ מַהוּ? תֵּיקוּ. יָתֵיב רַבִּי יוֹחָנָן וְרַבִּי שִׁמְעוֹן בֶּן לָקִישׁ, נְפַק מִילְּתָא מִבֵּינַיְיהוּ: אָנַס בַּסִּימָנִים וְשָׁחַט – פְּסוּלָה. נִיקַּב הַקָּנֶה לְמַטָּה מִן הֶחָזֶה – נִידּוֹן כְּרֵיאָה.
+*Translation:* **Rav Ḥanina, and some say Rav Ḥananya, raises a dilemma:** If the animal **forced itself** and extended its neck, **what is** the *halakha* with regard to the additional area? The Gemara responds: The question **shall stand** unresolved. The Gemara relates that **Rabbi Yoḥanan and Rabbi Shimon ben Lakish sat** together, and **a matter emerged from between them:** If the slaughterer **forced** the animal to extend **the *simanim*** by stretching the neck **and slaughtered** the animal at the lower end of the neck, the slaughter is **not valid.** And if **the windpipe was perforated below the breast, it is considered** to be **like** a perforated **lung,** which renders the animal a *tereifa* no matter the size of the perforation. A perforation in the upper windpipe must be the size of an *issar* to render the animal a *tereifa* (see 54a).
+
+**13.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אֵיזֶהוּ חָזֶה? זֶה הָרוֹאֶה אֶת הַקַּרְקַע, לְמַטָּה – עַד הַצַּוָּאר, לְמַעְלָה – עַד הַכָּרֵס. חוֹתֵךְ שְׁתֵּי צְלָעוֹת מִשְּׁתֵּי דְפָנוֹת אֵילָךְ וְאֵילָךְ, וְזֶהוּ חָזֶה הַנִּיתָּן לַכֹּהֲנִים.
+*Translation:* The Gemara elaborates: **The Sages taught** in a *baraita*: **Which is the breast** that must be given to the priests as a gift from every peace offering (see Leviticus 7:31)? **This** is the section **that faces the ground,** not the ribbed area on the sides. And lengthwise it extends **below,** when the animal is hung from the legs, **until the neck,** and **above until the rumen.** One **cuts the two ribs** nearest the head **from the two sides** of the animal **from both directions, and this is the breast that is given to the priests.**
+
+**14.**
+*Hebrew/Aramaic:* נִיקַּב קְרוּם שֶׁל מוֹחַ. רַב וּשְׁמוּאֵל דְּאָמְרִי תַּרְוַיְיהוּ: קְרָמָא עִילָּאָה, אַף עַל גַּב דְּלָא אִינְּקִיב תַּתָּאָה. וְאָמְרִי לַהּ: עַד דְּאִינְּקִיב תַּתָּאָה. אָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָנִי: וְסִימָנָיךְ חַיְיתָא דְּמִתְּנַח בֵּיהּ מוֹחָא.
+*Translation:* § The mishna states: If **the membrane of the brain was perforated,** the animal is a *tereifa*. The Gemara cites **Rav and Shmuel, who both say:** The brain is covered by two membranes, a thick outer membrane adjacent to the skull and a thin inner membrane adjacent to the brain. The animal is a *tereifa* if **the outer membrane** was perforated, **even if the inner** membrane **was not perforated. And some say** that the animal is not a *tereifa* **unless the inner** membrane **was perforated** as well. **Rabbi Shmuel bar Naḥmani says: And** this is **your mnemonic** to remember the *halakha*: The **bag in which the brain rests,** i.e., the inner membrane.
+
+**15.**
+*Hebrew/Aramaic:* אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: כְּנֶגְדּוֹ בַּבֵּיצִים נִיכָּר. אָמַר רַבִּי שִׁמְעוֹן בֶּן פַּזִּי אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי מִשּׁוּם בַּר קַפָּרָא: מוֹחַ – כׇּל מַה שֶּׁבַּקְּדֵירָה נִדּוֹן כְּמוֹחַ, הִתְחִיל לִימָּשֵׁךְ נִדּוֹן כְּחוּט הַשִּׁדְרָה. וּמֵהֵיכָן מַתְחִיל לִימָּשֵׁךְ? אָמַר רַבִּי יִצְחָק בַּר נַחְמָנִי: לְדִידִי מִיפָּרְשָׁא לִי מִינֵּיהּ דְּרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי – כְּמִין שְׁנֵי
+*Translation:* **Rabba bar bar Ḥana says** that **Rabbi Yehoshua ben Levi says:** Even though the inner membrane of the brain is very thin and not easily visible, **its equivalent in the testicles,** which are also enclosed in a thin membrane, **is conspicuous,** as it has an appearance different from the testicles themselves. **Rabbi Shimon ben Pazi says** that **Rabbi Yehoshua ben Levi says in the name of bar Kappara:** With regard to the **brain, everything inside the skull is considered** part of **the brain.** From the point where it **begins to extend** like a cord out of the base of the skull, it **is considered the spinal cord. And from where does it begin to be extended? Rabbi Yitzḥak bar Naḥmani said: It was explained to me** personally **by Rabbi Yehoshua ben Levi** himself: Protrusions **similar** to **two**

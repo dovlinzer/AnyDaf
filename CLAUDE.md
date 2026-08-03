@@ -427,6 +427,42 @@ Truncated headings in `02_rewrite.md`: **739 → 31**. Of the remaining 31, 30 a
 `sukkah_54` is the lone aligned holdout, carrying `Yom Tov & Shabbat… (II)` in the
 segmentation itself — the relabel job appears to skip rank-suffixed duplicates.
 
+### `title_string_pass.py` — the title-string pass for the 108-daf mismatched set (built and run, 2026-08-02)
+
+Found live: `wall_of_text2.py` silently reported **zero prose for every section** on
+Berakhot 31b — its essay headings are independently-written full sentences, never derived
+from `display_title` at all (`h2 10/10  h3 32/33` per `title_pass_mismatched.txt` — one
+segmentation micro-topic evidently got folded into a neighbor's heading with no separate
+label). Neither existing header tool fit: `apply_display_titles.py` is positional (unsafe
+here by definition — the count differs); `sync_md_headers.py` only handles a stale
+`"(II)"`-suffix rename via exact-string search, not a fully reworded heading with nothing
+to search for.
+
+`title_string_pass.py` aligns the two ordered label sequences (segmentation
+`display_title`s, essay `##`/`###` headings, per level) by content-word overlap — exact,
+`phonetic_key`-folded, and shared-prefix (≥4 chars) tiers, reusing
+`check_pass2_coverage.py`'s `normalize`/`content_words`/`phonetic_key` — via a monotonic DP
+allowing skips on either side (a segmentation topic with no separate heading; a stray
+essay heading with no segmentation counterpart), same structural shape as
+`align_constrained()` in `prototype_text_first_v10.py` one level up (labels instead of
+text). Dry-run by default; matches scoring below `MIN_CONFIDENCE=2` are flagged and never
+auto-applied, since a wrong rewrite here is exactly the silent-mislabeling failure mode
+`apply_display_titles.py`'s own positional-matching gotcha warns about. Backs up to
+`.bak_before_title_string_pass` before writing.
+
+**Run across the full 108-daf mismatched set 2026-08-02 — a genuine but partial fix, not a
+full resolution.** The set is not homogeneous like Berakhot: many entries are a single
+already-short-label heading that's simply orphaned (segmentation was renamed/regenerated
+after the essay was written, so the heading's own words no longer overlap with *any*
+current `display_title` — no content-matching approach can safely reconnect these; correctly
+left as `[unmatched]`, not guessed at). Across all 108: **134 headings had no scoring
+candidate at all** (left untouched), **92 had a candidate** (39 confident enough to apply,
+53 flagged low-confidence and left untouched). Berakhot 31b itself: 19 of 32 fixed. The
+residual — both the 134 unmatched and the 53 low-confidence — will keep silently misreporting
+`prose=0` in `wall_of_text2.py` for those specific sections (not the whole daf) until
+resolved some other way (manual correction, or a stronger matching signal). Reusable:
+`python title_string_pass.py --mismatched-file title_pass_mismatched.txt --apply`.
+
 ### Corpus text cleanups applied 2026-07-29 (local, no reprocessing)
 
 All reversible via the noted backup files; all operate on `02_rewrite.md`, which is the
@@ -542,6 +578,62 @@ The end-to-end procedure for bringing a daf (or batch of dafs) up to current qua
 **271 dafs flagged in an earlier corpus-wide scan** (before pass 2.5 existed) as legitimate Claude-quality issues on otherwise-correct source material — 102 with dropped/merged headers, 24 with silently reordered topics, 161 with mislabeled "(II)"-style part numbers. These are a real reprocessing target, though likely substantially explained/fixed by the "everyone needs pass 2.5" finding above rather than needing separate handling. The exact list of 271 daf names was not preserved in current notes — rerun the corpus-wide `check_anchor_section_mismatch.py` scan before the full rerun to get a fresh, current list rather than relying on this stale count.
 
 **Everything else in the ~2,362-daf corpus** (roughly 2,362 − 28 − 12 − 19 ≈ 2,303 dafs) has not been touched by any of this session's fixes and, per the finding above, most likely lacks `025_cleanup.md` entirely.
+
+### Corpus-wide push checklist (live tracker, started 2026-08-02 — update this, don't let it go stale)
+
+Planned corpus-wide order (confirmed 2026-08-02, extends the "Corpus-wide run order when B goes live" checklist above): **header fix → wall-of-text flag/fix → v10 assembly → relocate**. Header fix must come first — v10 copies heading text verbatim into the final output.
+
+**v10 assembly has NOT been run corpus-wide yet — confirmed still outstanding, 2026-08-03.** The `sefaria_next.md` widening fix (`widen_sefaria_next.py --all`, see "Amud-b relabeling" section below and the original fix earlier in this file) only updated the *cached Sefaria text files* on disk. Verified on `yevamot_33` — the daf that originally motivated the widening fix — that its `03_text_first_prototype_v10.md` (and `_wallpatched` variant) both predate the corpus-wide widening run (v10 output last written 2026-07-30/08-02 10:57, widening completed 2026-08-02 14:08) and, as expected, still have no Sefaria blockquote at all for the Rava/Rav Nachman/Er v'Onan passage that spills into 34b — the essay prose discusses it (pass 2 doesn't depend on `sefaria_next.md`), but the sourced quote was never inserted, because v10 hasn't re-read the now-wider pool. **The widening fix doesn't take effect anywhere until v10 is actually rerun** — this applies to all ~1,481 widened dafim, not just Yevamot 33. Needs a corpus-wide (or at least widened-subset) v10 rerun before this step of the checklist can be marked done.
+
+**Header fix**
+- [x] 2,251 aligned dafim — `apply_display_titles.py`, applied 2026-07-29.
+- [x] 108 mismatched dafim — `title_string_pass.py`, run 2026-08-02. Partial by nature, not a full resolution: 58 of ~226 problem headings fixed (19 on Berakhot 31b + 39 across the rest); 134 had no scoring candidate at all, 53 scored too low to trust — both left untouched (they'll keep silently misreporting `prose=0` for those specific sections in `wall_of_text2.py` until fixed some other way). See the script's own section above for the full breakdown.
+- [x] 4 dafim with unreadable segmentation JSON (`arakhin_3`, `bava_batra_128`, `bekhorot_25`, `zevachim_36`) — fixed 2026-08-02, same leftover-markdown-code-fence pattern already documented for `hullin_101` above (stripped the fence, verified the JSON parses). Header-synced 2026-08-02: `arakhin_3`, `bava_batra_128`, `zevachim_36` were already count-aligned and already had correct headings (nothing to change); `bekhorot_25` has a micro-count mismatch (105 vs 104) and one residual low-confidence case after `title_string_pass.py` (`"Why Chiya Wouldn't Adopt Rav Assi's Position" -> "Chiya's Counterpoint"`, score 1.00 — plausibly correct on inspection, left unapplied per the confidence gate; a manual call if wanted). None of the 4 are on `title_pass_aligned.txt`/`title_pass_mismatched.txt` yet — regenerate those snapshots before the corpus-wide push so these 4 aren't silently skipped.
+
+**SRT corruption — needs pass 1 + pass 2 rerun (API calls, needs authorization) before v10**
+- [x] Bava Batra 153 — SRT fixed by user, 2026-08-02. **Still pending:** pass 1 + pass 2 rerun, then redo wall-of-text fix + v10 + relocate — this session's work on BB153 (wall-of-text patch, v10 assembly, relocation) was done against the *old*, corrupted-SRT-derived content and needs to be regenerated from the fixed SRT, not kept.
+- [x] Bava Batra 174 — same status as BB153.
+- [ ] Menachot 79 — SRT still pending re-transcription (0% Hebrew, see "Menachot 79" section above). Held out of the corpus batch until fixed, same as BB153/174 were.
+
+**Data-identity issues — user investigating/fixing directly, not a processing-pipeline task**
+- [ ] 19 "severe" mislabeled-audio dafim (see list above) — user reviewing.
+- [ ] `pesachim_19` (segmentation content is actually Gittin 18b) — user fixing.
+- [ ] `eiruvin_33`/`eruvin_33`, `eiruvin_82`/`eruvin_82` duplicate directories — user fixing.
+
+**12 "mechanical-fix-only" dafim** (`avodah_zarah_2/58/67/70`, `bava_batra_111`, `bava_kamma_76`, `ketubot_18/29/55`, `nedarim_53`, `sukkah_13/36`) — **no separate action planned.** Since Approach B/v10 fully replaces pass 2.5+3, these get properly reprocessed by the same corpus-wide v10 push as every other daf — the original "needs a real pass-3 rerun" framing is obsolete now that pass 3 itself is being retired. Just confirm none of these 12 ends up on an exclusion/held-out list (like BB153/174/Menachot 79) when the batch actually runs.
+
+**Dropped**
+- ~~271-daf stale flagged list from the old `check_anchor_section_mismatch.py` scan~~ — dropped by user request, 2026-08-02. (Also likely moot on its own merits: that checker targets fabrication/dropped-content defects specific to the old LLM-reproduction pass 3; v10 asserts completeness invariants and structurally can't fabricate or drop content, so this whole defect class may not transfer to v10 output — unverified, but not worth chasing now that it's dropped.)
+
+### Amud-b relabeling — analyzed and applied, 2026-08-03
+
+**Conclusion: the existing directory-suffix-driven `.5` numbering system (see `parse_dir_name()`/`daf_to_float()` in `upload_to_supabase.py`) was already correct for the large majority of the corpus.** Only a small number of "Xb" directories turned out to be mislabeled full dapim.
+
+**Method — `analyze_amud_b_promotion.py`** (dry-run, no writes; report at `review_v10_relocated/amud_b_promotion_analysis.csv`): for every "Xb" directory, matches each individual Sefaria item of (a) its own amud b and (b) the next daf's amud a against `03_final.md` (same anchor-matching approach as `find_amud_b.py`'s own prev-daf check), giving a content-weighted coverage percentage for both sides of the boundary — not a text-position heuristic, and not dependent on `shiur_start_amud`/`amud_b_segment_index` (both were considered and rejected as the primary signal — too fragile to a one-line boundary-detection miss; see git history of this file's own discussion for the reasoning). `room_for_promotion` (no existing plain `X+1` directory to collide with) is computed separately from coverage, since the two questions are independent.
+
+**Decision rule** (user-set, 2026-08-03): promote "Xb" → plain "X+1" only when there is room AND next-daf-amud-a coverage is ≥70% with high combined total-daf coverage. Otherwise leave as "Xb".
+
+**Applied — 7 directories renamed** (physical `mv`, `output/` only — Supabase not yet touched, see below):
+- `hullin_29b` → `hullin_30`
+- `nazir_26b` → `nazir_27`
+- `hullin_44b` → `hullin_45`
+- `niddah_72b` → `niddah_73`
+- `bekhorot_36b` → `bekhorot_37`
+- `bekhorot_45b` → `bekhorot_46`
+- `bekhorot_40b` → `bekhorot_41`
+
+**Stale metadata from this rename — fixed, 2026-08-03.** Each renamed directory's `01_segmentation.json` still had the OLD `daf` number and `amud: "b"` internally right after the `mv`. Corrected for all 7: `daf` incremented to match the new directory (e.g. `hullin_30`'s `daf` field is now `30`, not `29`), `amud` set to `"a"` (coverage data shows these substantially cover the new daf's amud a, not its amud b — see the coverage table above). Also cleared the now-invalid derived fields that `find_amud_b.py`/`find_sefaria_indices.py` had computed relative to the *old* identity (`shiur_start_daf`, `shiur_start_amud`, `amud_b_segment_index`, `amud_b_timestamp`, `amud_b_micro_title`, `amud_b_sefaria_index`) rather than leave stale/misleading values sitting in the file — they'll be regenerated correctly the next time those scripts run on these directories (which needs to happen anyway once v10 is rerun on them, since their content also needs re-assembling around the new daf identity — see the v10-not-yet-rerun-corpus-wide note above). Original JSONs backed up as `01_segmentation.json.bak_before_promotion_fix` in each of the 7 directories.
+
+**Left as "Xb" (no room for promotion) — needs separate investigation, not yet resolved:**
+- `menachot_35b` (90.0% total coverage, blocked by existing `menachot_36`)
+- `menachot_36b` (89.2%, blocked by `menachot_37`)
+- `menachot_50b` (89.0%, blocked by `menachot_51`)
+- `menachot_59b` (79.2%, blocked by `menachot_60`)
+- `menachot_64b` (87.5%, blocked by `menachot_65`)
+
+These 5 look like they should also be full dapim by the same coverage rule, but a plain `X+1` directory already exists for each, so promoting would collide. **Punch-list item: investigate what's actually in `menachot_36`/`37`/`51`/`60`/`65` — is that pre-existing content legitimate and distinct, or is there a data-identity problem here (duplicate/overlapping/mislabeled audio, same class of issue as the "19 severe" list above) — and figure out how to make room before these 5 can be promoted.** (Three other Menachot "Xb" dafim — 28b/29b/49b — were also blocked but scored lower, 51.9%/63.9%/71.7% total coverage; left as-is, not part of this follow-up.)
+
+**Punch-list item, after the Menachot investigation above is resolved:** rerun `upload_to_supabase.py` for the affected tractates (Hullin, Nazir, Niddah, Bekhorot, and Menachot once fixed) so Supabase's `shiur_content` rows pick up the corrected `.0`/`.5` daf numbers from the new directory names — not done automatically by the rename itself.
 
 ### upload_to_supabase.py
 

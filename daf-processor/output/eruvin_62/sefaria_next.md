@@ -103,3 +103,68 @@
 **26.**
 *Hebrew/Aramaic:* אָמַר רַבִּי לֵוִי: כׇּל דְּמוֹתֵיב מִלָּה קַמֵּיהּ רַבֵּיהּ — אָזֵיל לִשְׁאוֹל בְּלֹא וָלָד, שֶׁנֶּאֱמַר: ״וַיַּעַן יְהוֹשֻׁעַ בִּן נוּן מְשָׁרֵת מֹשֶׁה מִבְּחוּרָיו וַיֹּאמַר אֲדוֹנִי מֹשֶׁה כְּלָאֵם״.
 *Translation:* With regard to this same issue, **Rabbi Levi said: Whoever answers a word in the presence of his teacher will go down to the netherworld childless, as it is stated: “And Joshua bin Nun, the minister of Moses from his youth, answered and said: My lord Moses, shut them in”** (Numbers 11:28). Since he spoke to his teacher out of turn, he was punished by remaining childless.
+
+
+---
+
+### Eruvin 63b
+
+**1.**
+*Hebrew/Aramaic:* וּכְתִיב: ״נוֹן בְּנוֹ יְהוֹשֻׁעַ בְּנוֹ״.
+*Translation:* **And it is written** at the end of the list of the descendants of Ephraim: **“Non his son, Joshua his son”** (i Chronicles 7:27), which implies that Joshua himself had no children.
+
+**2.**
+*Hebrew/Aramaic:* וּפְלִיגָא דְּרַבִּי אַבָּא בַּר פָּפָּא, דְּאָמַר רַבִּי אַבָּא בַּר פָּפָּא: לֹא נֶעֱנַשׁ יְהוֹשֻׁעַ אֶלָּא בִּשְׁבִיל שֶׁבִּיטֵּל אֶת יִשְׂרָאֵל לַיְלָה אַחַת מִפְּרִיָּה וּרְבִיָּה.
+*Translation:* **And this** tradition **differs from** the following statement of **Rabbi Abba bar Pappa, for Rabbi Abba bar Pappa said: Joshua was punished** to remain childless **only because he had prevented the Jewish people from** fulfilling the commandment of **being fruitful and multiplying for one night.** Therefore, he was punished measure-for-measure by not having children himself.
+
+**3.**
+*Hebrew/Aramaic:* שֶׁנֶּאֱמַר: ״וַיְהִי בִּהְיוֹת יְהוֹשֻׁעַ בִּירִיחוֹ וַיִּשָּׂא עֵינָיו וַיַּרְא וְגוֹ׳״, וּכְתִיב: ״וַיֹּאמֶר (לוֹ) כִּי אֲנִי שַׂר צְבָא ה׳ עַתָּה בָאתִי וְגוֹ׳״.
+*Translation:* **As it is stated: “And it came to pass when Joshua was by Jericho that he lifted up his eyes and looked,** and, behold, a man stood over against him with his sword drawn in his hand” (Joshua 5:13), **and it is written** further: **“And he said: No, but I am captain of the host of the Lord, I am now come”** (Joshua 5:14). The man, an angel, came to demand something of Joshua and to rebuke him.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר לוֹ: אֶמֶשׁ בִּיטַּלְתֶּם תָּמִיד שֶׁל בֵּין הָעַרְבַּיִם, וְעַכְשָׁיו בִּיטַּלְתֶּם תַּלְמוּד תּוֹרָה. עַל אֵיזֶה מֵהֶן בָּאתָ? אָמַר לוֹ: ״עַתָּה בָּאתִי״.
+*Translation:* The angel **said to him: Last night,** due to your preparations for war, **you neglected the daily evening offering, and now,** tonight, **you are neglecting Torah study.** Joshua asked him: **For which of** these sins **have you come** specially to reprove me? He **said to him: “I am now come,”** i.e., the fact that I did not come last night, but waited until now, shows that the sin of neglecting Torah study is the more severe one.
+
+**5.**
+*Hebrew/Aramaic:* מִיָּד: ״וַיֵּלֶךְ יְהוֹשֻׁעַ בַּלַּיְלָה הַהוּא בְּתוֹךְ הָעֵמֶק״, וְאָמַר רַבִּי יוֹחָנָן: מְלַמֵּד שֶׁהָלַךְ בְּעוֹמְקָהּ שֶׁל הֲלָכָה.
+*Translation:* Joshua **immediately** acted to rectify the matter by deciding that he must devote more time to learning Torah, as it is stated: **“And Joshua walked that night in the midst of the valley [*ha’emek*]”** (Joshua 8:13). **And Rabbi Yoḥanan said:** This **teaches that he walked** all night **in the depth [*be’omeka*] of *halakha*,** thereby atoning for his previous neglect of Torah study.
+
+**6.**
+*Hebrew/Aramaic:* וּגְמִירִי דְּכׇל זְמַן שֶׁאָרוֹן וּשְׁכִינָה שְׁרוּיִין שֶׁלֹּא בִּמְקוֹמָן אֲסוּרִין בְּתַשְׁמִישׁ הַמִּטָּה.
+*Translation:* **And they learned** as a tradition that **any time that the Ark and the Divine Presence are not resting in their** proper **places,** the entire Jewish people **are prohibited** from engaging **in marital relations.** Owing to the nation’s preoccupation with war, the Ark was not restored to its rightful place in the Tabernacle. Since Joshua did not attend to this state of affairs, he was responsible for the people’s neglect of the commandment to be fruitful and multiply, for which he was punished by remaining childless.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַבִּי שְׁמוּאֵל בַּר אִינְיָא מִשְּׁמֵיהּ דְּרַב: גָּדוֹל תַּלְמוּד תּוֹרָה יוֹתֵר מֵהַקְרָבַת תְּמִידִין, דַּאֲמַר לֵיהּ: ״עַתָּה בָּאתִי״.
+*Translation:* The Gemara now cites a further teaching in this regard: **Rabbi Shmuel bar Inya said in the name of Rav: Torah study is greater than the offering of daily** sacrifices, as the angel **said to** Joshua: **“I am now come,”** i.e., on account of the second sin, demonstrating that neglect of Torah study is a more serious offense than neglect of the daily offerings.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַב בְּרוֹנָא אָמַר רַב: כׇּל הַיָּשֵׁן בְּקִילְעָא שֶׁאִישׁ וְאִשְׁתּוֹ שְׁרוּיִין בָּהּ, — עָלָיו הַכָּתוּב אוֹמֵר: ״נְשֵׁי עַמִּי תְּגָרְשׁוּן מִבֵּית תַּעֲנוּגֶיהָ״.
+*Translation:* With regard to the neglect of the commandment of procreation, **Rav Beruna said** that **Rav said: Whoever sleeps in a chamber in which a husband and wife are resting,** thus thwarting their intimacy, **the verse says about him: “The women of my people you cast out from their pleasant houses”** (Micah 2:9), and his punishment is detailed in that chapter.
+
+**9.**
+*Hebrew/Aramaic:* וְאָמַר רַב יוֹסֵף: אֲפִילּוּ בְּאִשְׁתּוֹ נִדָּה.
+*Translation:* **And Rav Yosef said:** This applies not only to a woman who is ritually pure and permitted to her husband, but **even in** the case of a man **whose wife is menstruating,** for even then, although she is prohibited to him, they are more comfortable being alone together.
+
+**10.**
+*Hebrew/Aramaic:* רָבָא אָמַר: אִם אִשְׁתּוֹ נִדָּה הִיא — תָּבֹא עָלָיו בְּרָכָה. וְלָא הִיא, דְּעַד הָאִידָּנָא מַאן נַטְרֵיהּ?
+*Translation:* **Rava said: If his wife is menstruating, may a blessing come upon** the person sleeping in the room, for he protects the couple from the possibility of sin. The Gemara rejects this: **But that is not so,** i.e., this argument is invalid, **for who protected** the husband **until now?** In other words, there is no need for concern in this case, and hence one must refrain from behavior that causes distress to the couple.
+
+**11.**
+*Hebrew/Aramaic:* הָהוּא מְבוֹאָה דַּהֲוָה דָּיַיר בָּהּ לַחְמָן בַּר רִיסְתַּק. אֲמַרוּ לֵיהּ: אוֹגַר לַן רְשׁוּתָךְ, לָא אוֹגַר לְהוּ.
+*Translation:* The Gemara returns to the issue of renting out domains for the purpose of an *eiruv*. The Gemara relates that **there was a certain alleyway in which** the gentile, **Laḥman bar Ristak, lived.** His Jewish neighbors **said to him: Rent us your domain,** i.e., your right to use the alleyway, so that it will not render it prohibited for us to carry. **He would not rent** it **to them,** and therefore they could not carry in the alleyway on Shabbat.
+
+**12.**
+*Hebrew/Aramaic:* אֲתוֹ אֲמַרוּ לֵיהּ לְאַבָּיֵי. אֲמַר לְהוּ: זִילוּ בַּטִּילוּ רְשׁוּתַיְיכוּ לְגַבֵּי חַד, הָוֵה לֵיהּ יָחִיד בִּמְקוֹם גּוֹי, וְיָחִיד בִּמְקוֹם גּוֹי לָא אָסַר.
+*Translation:* The Jewish neighbors **came** and **spoke to Abaye,** asking him how they might proceed. He **said to them: Go,** all of you, and **renounce your domains,** i.e., your rights to use the alleyway, **in favor of one** person, who will be permitted to carry in it. In this manner **it is** a case of **one individual** living **in the** same **place as a gentile. And** the *halakha* has already been established that in the case of **one individual** living **in the** same **place as a gentile,** the gentile **does not render it prohibited** for him to carry. Consequently, one person at least will be able to make use of the alleyway.
+
+**13.**
+*Hebrew/Aramaic:* אֲמַרוּ לֵיהּ: מִידֵּי הוּא טַעְמָא אֶלָּא דְּלָא שְׁכִיחַ דְּדָיְירִי, וְהָכָא הָא קָדָיְירִי!
+*Translation:* **They said to him: But isn’t the reason** that no restrictions are imposed when one person lives together with a gentile in the same courtyard **only that it is not common for** people **to live** with a gentile in that fashion? **But here,** many people **are** in fact **living** in the same alleyway as the gentile. In this more common situation, the Sages did impose restrictions.
+
+**14.**
+*Hebrew/Aramaic:* אֲמַר לְהוּ: כׇּל בַּטּוֹלֵי רְשׁוּתַיְיהוּ גַּבֵּי חַד, מִילְּתָא דְלָא שְׁכִיחָא הִיא, וּמִילְּתָא דְלָא שְׁכִיחָא, לָא גְּזַרוּ בַּהּ רַבָּנַן.
+*Translation:* Abaye **said to them: Any renunciation of the domains** of many people **in favor of a** single **individual is an uncommon occurrence.** The principle is that in the case of **an uncommon occurrence, the Sages did not issue a decree** as a preventive measure. In pressing circumstances such as these, one may rely on this allowance.
+
+**15.**
+*Hebrew/Aramaic:* אֲזַל רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ אַמְרַהּ לִשְׁמַעְתָּא קַמֵּיהּ דְּרָבָא, אֲמַר לֵיהּ:
+*Translation:* **Rav Huna, son of Rav Yehoshua, went** and **reported this *halakha* before Rava,** who **said to him:**

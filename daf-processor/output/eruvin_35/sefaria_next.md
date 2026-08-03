@@ -71,3 +71,60 @@
 **18.**
 *Hebrew/Aramaic:* וְאִם אָמַר: עָירְבוּ לִי בָּזֶה — לֹא אָמַר כְּלוּם. אָמַר רָבָא זֹאת אוֹמֶרֶת: סוֹף הַיּוֹם קוֹנֶה עֵירוּב,
 *Translation:* The mishna continues: **And if he said: Establish an *eiruv* for me with** the contents of **this** flask, **he has not said anything,** as the contents of the flask are still *tevel*. **Rava said: That is to say** that **the end of the day** is when **the *eiruv* acquires** one’s Shabbat residence. The critical time with respect to an *eiruv* is the last moment of Shabbat eve, rather than the first moment of Shabbat.
+
+
+---
+
+### Eruvin 36b
+
+**1.**
+*Hebrew/Aramaic:* דְּאִי סָלְקָא דַעְתָּךְ תְּחִילַּת הַיּוֹם קוֹנֶה עֵירוּב, אִי אָמַר עָירְבוּ לִי בָּזֶה, אַמַּאי לֹא אָמַר כְּלוּם?
+*Translation:* **As, if it should enter your mind** that **an *eiruv* acquires** one’s Shabbat residence at **the beginning of the day** of Shabbat, then **if he said: Establish an *eiruv* for me with** the produce in **this** flask, **why hasn’t he said anything?** After nightfall, when Shabbat begins, the flask is already pure, and therefore the *teruma* of the tithe inside it is also pure and is suitable for an *eiruv*.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַב פָּפָּא: אֲפִילּוּ תֵּימָא תְּחִילַּת הַיּוֹם קוֹנֶה עֵירוּב, בָּעִינַן סְעוּדָה הָרְאוּיָה מִבְּעוֹד יוֹם, וְלֵיכָּא.
+*Translation:* **Rav Pappa said:** This is no proof; **even if you say** that **an *eiruv* acquires** one’s Shabbat residence at **the beginning of the day** of Shabbat, nonetheless, **we require a meal that is fit** to be eaten **while it is still day,** prior to the onset of Shabbat, in order for the *eiruv* to be valid, **and there is none** in this case. While it was still day, it was certainly prohibited to consume the contents of the flask, which were still *tevel*, and therefore it could not be used as an *eiruv*.
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִי׳ מַתְנֶה אָדָם עַל עֵירוּבוֹ, וְאוֹמֵר: אִם בָּאוּ גּוֹיִם מִן הַמִּזְרָח — עֵירוּבִי לַמַּעֲרָב. מִן הַמַּעֲרָב — עֵירוּבִי לַמִּזְרָח. אִם בָּאוּ לְכָאן וּלְכָאן — לִמְקוֹם שֶׁאֶרְצֶה אֵלֵךְ. לֹא בָּאוּ לֹא לְכָאן וְלֹא לְכָאן — הֲרֵינִי כִּבְנֵי עִירִי.
+*Translation:* MISHNA: **A person may make a condition with regard to his *eiruv*** of Shabbat borders. In other words, he need not decide in advance in which direction his *eiruv* should take effect. For example, he may deposit an *eiruv* on each of two opposite sides of his town, **and say: If gentiles come from the east, my *eiruv* is in the west,** so that I can escape in that direction; and if they come **from the west, my *eiruv* is in the east. If they come from here and from there,** i.e., from both directions, **I will go wherever I wish,** and my *eiruv* will retroactively take effect in that direction; and **if they do not come** at all, **neither from here nor from there, I will be like** the rest of **the inhabitants of my town** and give up both *eiruvin* that I deposited, leaving me with two thousand cubits in all directions from the town.
+
+**4.**
+*Hebrew/Aramaic:* אִם בָּא חָכָם מִן הַמִּזְרָח — עֵירוּבִי לַמִּזְרָח. מִן הַמַּעֲרָב — עֵירוּבִי לַמַּעֲרָב. בָּא לְכָאן וּלְכָאן — לִמְקוֹם שֶׁאֶרְצֶה אֵלֵךְ. לֹא לְכָאן וְלֹא לְכָאן — הֲרֵינִי כִּבְנֵי עִירִי. רַבִּי יְהוּדָה אוֹמֵר: אִם הָיָה אֶחָד מֵהֶן רַבּוֹ — הוֹלֵךְ אֵצֶל רַבּוֹ, וְאִם הָיוּ שְׁנֵיהֶן רַבּוֹתָיו — לִמְקוֹם שֶׁיִּרְצֶה יֵלֵךְ.
+*Translation:* Similarly, one may say: **If a Sage comes from the east** and he is spending Shabbat beyond the boundaries of my town, **my *eiruv* is in the east,** so that I may go out to greet him there; and if he comes **from the west, my *eiruv* is in the west.** If one Sage **comes from here, and** another Sage comes **from there, I will go wherever I wish; and** if no Sage comes, **neither from here nor from there, I will be like** the rest of **the inhabitants of my town. Rabbi Yehuda says: If one of** the Sages coming from opposite directions **was his teacher, he may go** only **to his teacher,** as it is assumed that was his original intention. **And if they were both his teachers,** so that there is no reason to suppose that he preferred one over the other, **he may go wherever he wishes.**
+
+**5.**
+*Hebrew/Aramaic:* גְּמָ׳ כִּי אֲתָא רַבִּי יִצְחָק תָּנֵי אִיפְּכָא כּוּלָּהּ מַתְנִיתִין. קַשְׁיָא גּוֹיִם אַגּוֹיִם, קַשְׁיָא חָכָם אַחָכָם!
+*Translation:* GEMARA: The Gemara relates that **when Rabbi Yitzḥak came** from Eretz Yisrael to Babylonia, **he taught all** of the laws in **the mishna in the opposite** manner. That is to say, according to him, if the gentiles came from the east, his *eiruv* would be to the east, and, conversely, if the Sage came from the east, his *eiruv* would be to the west. This is **difficult** because if this is correct, there is a contradiction **between** the ruling concerning **gentiles** in the mishna and the ruling concerning **gentiles** in the *baraita*, **and** similarly there is a contradiction **between** the ruling concerning **a Sage** in the mishna **and** the ruling concerning **a Sage** in the *baraita*.
+
+**6.**
+*Hebrew/Aramaic:* גּוֹיִם אַגּוֹיִם לָא קַשְׁיָא: הָא — בְּפַרְהַגְבָּנָא, הָא — בְּמָרֵי דְמָתָא.
+*Translation:* The Gemara answers: The apparent contradiction **between** the ruling concerning **gentiles** in the mishna **and** the ruling concerning **gentiles** in the *baraita* is **not difficult: This** case in the mishna is referring to **a tax collector [*parhagabena*],** from whom one wishes to flee; whereas **that** case in the *baraita* is referring to **the lord of the town,** with whom he wishes to speak. Therefore, there are times that one wants to go out toward the gentile, while at other times one wants to flee from him.
+
+**7.**
+*Hebrew/Aramaic:* חָכָם אַחָכָם לָא קַשְׁיָא: הָא — בְּמוֹתֵיב פִּירְקֵי, הָא — בְּמַקְרֵי שְׁמַע.
+*Translation:* Similarly, the apparent contradiction **between** the ruling concerning **a Sage** in the mishna **and** the ruling concerning **a Sage** in the *baraita* is **not difficult: This** case in the mishna is referring to a scholar **who sits** and delivers public Torah **lectures,** and one wishes to come and learn Torah from him; whereas **that** case in the *baraita* is referring to one **who teaches** children how to **recite** the ***Shema*,** i.e., one who teaches young children how to pray, of whom he has no need. The *baraita* teaches that if a scholar came from one direction to deliver a public lecture and the school teacher came from the opposite direction, his *eiruv* is in the direction of the scholar.
+
+**8.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר אִם הָיָה אֶחָד מֵהֶן וְכוּ׳. וְרַבָּנַן — זִימְנִין דְּנִיחָא לֵיהּ בְּחַבְרֵיהּ טְפֵי מֵרַבֵּיהּ.
+*Translation:* We learned in the mishna that **Rabbi Yehuda says: If one of** the Sages **was** his teacher, he may go only to his teacher, as we can assume that this was his original intention. The Gemara asks: **And** what is the reason that **the Rabbis** do not accept this straightforward argument? The Gemara answers: The Rabbis maintain that **sometimes** one **prefers** to meet the Sage who is **his colleague rather than** the Sage who is **his teacher,** as sometimes one learns more from his peers than from his teachers.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רַב: לֵיתָא לְמַתְנִיתִין מִדְּתָנֵי אַיּוֹ. דְּתָנֵי אַיּוֹ: רַבִּי יְהוּדָה אוֹמֵר אֵין אָדָם מַתְנֶה עַל שְׁנֵי דְבָרִים כְּאֶחָד, אֶלָּא: אִם (כֵּן) בָּא חָכָם לַמִּזְרָח — עֵירוּבוֹ לַמִּזְרָח, וְאִם בָּא חָכָם לַמַּעֲרָב — עֵירוּבוֹ לַמַּעֲרָב, אֲבָל לְכָאן וּלְכָאן — לָא.
+*Translation:* **Rav said:** This version of **the mishna** should **not** be accepted **because of what** the Sage **Ayo taught** to the opposite effect, **as Ayo taught** the following *baraita*: **Rabbi Yehuda says: A person cannot make conditions about two things at once,** i.e., he cannot say that if one Sage comes from one direction and another Sage comes from the other direction, he will go wherever he wishes. **Rather,** he may say that **if a Sage came from the east, his *eiruv* is in the east, and if a Sage came from the west, his *eiruv* is in the west. But** he may **not** say that if one Sage came **from here, and** another Sage came **from there,** he will go wherever he wishes.
+
+**10.**
+*Hebrew/Aramaic:* מַאי שְׁנָא לְכָאן וּלְכָאן דְּלָא — דְּאֵין בְּרֵירָה, לַמִּזְרָח לַמַּעֲרָב — נָמֵי אֵין בְּרֵירָה.
+*Translation:* The Gemara asks: **What is different** about a case in which one stipulated that if Sages came **from here and from there** he may go to whichever side he chooses, such **that** his *eiruv* **is not** effective? Apparently, this is due to the principle that **there is no retroactive designation,** meaning that a doubtful state of affairs cannot be clarified retroactively. However, according to this principle, when one established an *eiruv* **to the east** and **to the west** in order to be able to travel in the direction of one Sage who comes toward the town in a case where one does not know in advance from which direction he will come, we should **also** invoke the principle that **there is no retroactive designation.** Therefore, even if one deposited an *eiruv* at both ends of his town for the sake of one Sage who might come from either side, he should not be able to rely on what becomes clarified afterward and decide retroactively which *eiruv* he is interested in.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: וּכְבָר בָּא חָכָם.
+*Translation:* **Rabbi Yoḥanan said:** This is not a true case of retroactive designation, as **the Sage had already come** by twilight but the person who established the *eiruv* did not yet know which side of the town the Sage had come toward. Therefore, at the time the *eiruv* establishes his Shabbat residence it is clear which *eiruv* the person wants, even though he himself will only become aware of that later.
+
+**12.**
+*Hebrew/Aramaic:* אַדְּרַבָּה, לֵיתָא לִדְאַיּוֹ מִמַּתְנִיתִין.
+*Translation:* The Gemara poses a question with regard to Rav’s statement cited above: Why should we reject the mishna because of the *baraita*? **On the contrary,** let us say that the ruling of **Ayo** should **not** be accepted **because of the mishna.**
+
+**13.**
+*Hebrew/Aramaic:* לָא סָלְקָא דַּעְתָּךְ, דְּהָא שָׁמְעִינַן לֵיהּ לְרַבִּי יְהוּדָה דְּלֵית לֵיהּ בְּרֵירָה. דִּתְנַן: הַלּוֹקֵחַ יַיִן מִבֵּין הַכּוּתִים,
+*Translation:* The Gemara answers: **It should not enter your mind** to uphold the mishna’s ruling because it contradicts other sources, **as we have** already **heard that Rabbi Yehuda does not** accept the principle of **retroactive designation. As it was taught** in the *Tosefta*: **One who buys wine from among the Samaritans [*Kutim*],** who do not tithe their produce properly,

@@ -71,3 +71,48 @@
 **18.**
 *Hebrew/Aramaic:* וְרַבִּי יְהוּדָה מְטַמֵּא, מִפְּנֵי שֶׁהֵם גֵּרִים וְטוֹעִים. מִבֵּין הַגּוֹיִם — טְהוֹרִים. וְהָוֵינַן בַּהּ:
 *Translation:* **And Rabbi Yehuda deems** it **ritually impure because those** residents of that place **are converts and are in error.** In other words, some of the inhabitants of Rekem assimilated and no longer observe the *halakhot* of the Torah, and therefore one must be wary lest the stains are in fact from a Jewish menstruating woman. Stains that came **from among the gentiles,** however, **are ritually pure. And we discussed** the following problem:
+
+
+---
+
+### Yevamot 16b
+
+**1.**
+*Hebrew/Aramaic:* קָפָסֵיק וְתָנֵי: מִבֵּין הַגּוֹיִם, וַאֲפִילּוּ מִן תַּרְמוֹד. וְאָמַר רַבִּי יוֹחָנָן: זֹאת אוֹמֶרֶת מְקַבְּלִין גֵּרִים מִתַּרְמוֹד.
+*Translation:* The *tanna* **concluded and taught:** All stains from **among the gentiles** are pure, from which it may be inferred: **And even from Tarmod.** This indicates that in all places inhabited by gentiles there is no need to be concerned about stains. **And Rabbi Yoḥanan said: That is to say, one accepts converts from Tarmod** without concern that they might be Jewish, albeit *mamzerim*. This contradicts the previous opinion attributed to Rabbi Yoḥanan that converts from the Tarmodim are not accepted.
+
+**2.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא ״זֹאת״, וְלָא סְבִירָא לֵיהּ — וְהָא אָמַר רַבִּי יוֹחָנָן: הֲלָכָה כִּסְתַם מִשְׁנָה! אָמוֹרָאֵי נִינְהוּ, וְאַלִּיבָּא דְּרַבִּי יוֹחָנָן.
+*Translation:* **And if you would say** that Rabbi Yoḥanan specifically emphasized: **That** is to say, i.e., he meant that this conclusion may be logically inferred from the mishna, **and** yet **he** himself **does not hold** by **this** opinion, **but didn’t Rabbi Yoḥanan state** a principle that the ***halakha* is in accordance with** the ruling of **an unattributed mishna,** as is the case here? The Gemara answers: **They are *amora’im*, and** they disagree **in accordance with** the opinion of **Rabbi Yoḥanan.** Some Sages said in Rabbi Yoḥanan’s name that the Tarmodim are unfit, while others maintain that they are fit.
+
+**3.**
+*Hebrew/Aramaic:* מִתַּרְמוֹד מַאי טַעְמָא לָא? פְּלִיגִי בַּהּ רַבִּי יוֹחָנָן וְסָבַיָּא, חַד אָמַר: מִשּׁוּם עַבְדֵי שְׁלֹמֹה, וְחַד אָמַר: מִשּׁוּם בְּנוֹת יְרוּשָׁלַיִם.
+*Translation:* § The Gemara asks: **And what is the reason** that the Sages do **not** accept converts **from Tarmod? Rabbi Yoḥanan and the Elders disagree** about **this** matter. Although they concur that converts from Tarmod are not accepted, they disagree with regard to the reason. **One** of them **said** that it is **due to the servants of** King **Solomon.** Solomon built a city in Tarmod (see I Kings 9:18), and his gentile servants, taking advantage of their status and power, married Jewish women unlawfully. Therefore, it is possible that the inhabitants of Tarmod and their descendants are *mamzerim*. **And** the other **one said** that it is **due to the daughters of Jerusalem,** who were taken captive and raped and gave birth to children among the gentiles.
+
+**4.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְמַאן דְּאָמַר מִשּׁוּם עַבְדֵי שְׁלֹמֹה, קָסָבַר: גּוֹי וְעֶבֶד הַבָּא עַל בַּת יִשְׂרָאֵל — הַוָּלָד מַמְזֵר. אֶלָּא לְמַאן דְּאָמַר מִשּׁוּם בְּנוֹת יְרוּשָׁלַיִם, מַאי הִיא? פְּלִיגִי בַּהּ רַב יוֹסֵף וְרַבָּנַן, וְתַרְוַיְיהוּ מִשְּׁמֵיהּ דְּרַבָּה בַּר בַּר חָנָה.
+*Translation:* The Gemara comments: **Granted, according to the one who said** that it is **due to the servants of Solomon,** this is logical, as **he holds** that in the case of **a gentile or a slave who had intercourse with a Jewish woman, the offspring is a *mamzer*.** Accordingly, as the servants of Solomon were slaves and they engaged in intercourse with Jewish women, their children are considered *mamzerim*. **However, according to the one who said** that it is **due to the daughters of Jerusalem, what is** the reason that the concern applied specifically to Tarmod and no other cities? **Rav Yosef and the Rabbis disagree** with regard to **this** question, **and both** stated their opinions **in the name of Rabba bar bar Ḥana.**
+
+**5.**
+*Hebrew/Aramaic:* חַד אָמַר: תְּרֵיסַר אַלְפֵי גַּבְרֵי וְשִׁיתָּא אַלְפֵי קַשְׁתּוֹיֵי, וְחַד אָמַר: תְּרֵיסַר אַלְפֵי גַּבְרֵי, וּמִנַּיְיהוּ שִׁיתָּא אַלְפֵי קַשְׁתּוֹיֵי, בְּשָׁעָה שֶׁנִּכְנְסוּ גּוֹיִם לַהֵיכָל, הַכֹּל נִפְנוּ עַל כֶּסֶף וְזָהָב, וְהֵם נִפְנוּ עַל בְּנוֹת יְרוּשָׁלַיִם, שֶׁנֶּאֱמַר: ״נָשִׁים בְּצִיּוֹן עִנּוּ בְּתוּלוֹת בְּעָרֵי יְהוּדָה״.
+*Translation:* The Gemara elaborates: **One** of them **said** that **twelve thousand men and six thousand archers** came from Tarmod, **and** the other **one said** that there were **twelve thousand men, of whom six thousand** were **archers. When the gentiles entered the Sanctuary** during the conquest of Jerusalem, they **all turned to** plunder the **silver and the gold** they saw there, **but** the warriors of Tarmod **turned to the daughters of Jerusalem, as it is stated: “They have ravished the women in Zion, the maidens in the cities of Judah”** (Lamentations 5:11). According to the opinion that children born of relations between gentiles and Jewish women are *mamzerim*, all the children born to these women are *mamzerim*.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָנִי אָמַר רַבִּי יוֹנָתָן, פָּסוּק זֶה שַׂר הָעוֹלָם אֲמָרוֹ: ״נַעַר הָיִיתִי גַּם זָקַנְתִּי״. מַאן אַמְרֵיהּ? אִילֵּימָא קוּדְשָׁא בְּרִיךְ הוּא — מִי אִיכָּא זִקְנָה קַמֵּיהּ? וְאֶלָּא דָּוִד אַמְרֵיהּ — מִי קַשִּׁישׁ כּוּלֵּי הַאי? אֶלָּא שְׁמַע מִינַּהּ שַׂר הָעוֹלָם אֲמָרוֹ.
+*Translation:* § In relation to a verse cited earlier, **Rabbi Shmuel bar Naḥmani said** that **Rabbi Yonatan said: This verse was stated by the ministering angel** appointed over **the world: “I have been young, and now am old;** yet I have not seen the righteous forsaken, nor his seed begging bread” (Psalms 37:25). **Who said this? If we say** that it was **the Holy One, Blessed be He, is there old age before Him?** Could God possibly say: “I have been young, and now am old”? **And rather,** one could say that **David** himself **said it,** from his own experience; but **was he indeed so old?** After all, David died at the age of seventy. **Rather, conclude from this** that **the ministering angel** appointed over **the world said it,** as he can speak both of youth and old age, and it is he who reported his observations from around the world.
+
+**7.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָנִי אָמַר רַבִּי יוֹנָתָן, מַאי דִּכְתִיב: ״יָדוֹ פָּרַשׂ צָר עַל כׇּל מַחֲמַדֶּיהָ״ — זֶה עַמּוֹן וּמוֹאָב. בְּשָׁעָה שֶׁנִּכְנְסוּ גּוֹיִם לַהֵיכָל, הַכֹּל נִפְנוּ עַל כֶּסֶף וְזָהָב, וְהֵם נִפְנוּ עַל סִפְרֵי תוֹרָה, אָמְרוּ: זֶה שֶׁכָּתוּב בּוֹ ״לֹא יָבֹא עַמּוֹנִי וּמוֹאָבִי בִּקְהַל ה׳״ — יִשָּׂרֵף בָּאֵשׁ!
+*Translation:* **And Rabbi Shmuel bar Naḥmani** further **said** that **Rabbi Yonatan said: What is** the meaning of that **which is written: “The adversary has spread out his hand upon all her treasures;** for she has seen that the heathens have entered into her Temple, concerning which You commanded that they should not enter into Your congregation” (Lamentations 1:10)? **This** is referring to **Ammon and Moab.** How so? **When the gentiles entered the Sanctuary, all turned to** plunder **the silver and the gold, and** the soldiers from Ammon and Moab **turned to the scrolls of Torah** to destroy them. **They said:** Is **this** the scroll **in which it is written: “An Ammonite and a Moabite shall not enter into the assembly of the Lord”** (Deuteronomy 23:4)? **Let it be burnt by fire.**
+
+**8.**
+*Hebrew/Aramaic:* ״צִוָּה ה׳ לְיַעֲקֹב סְבִיבָיו צָרָיו״, אָמַר רַב: כְּגוֹן הוּמַנְיָא לְפוּם נַהֲרָא.
+*Translation:* With regard to the Ammonites, the Gemara cites another verse: **“The Lord has commanded against Jacob that they who are round about him should be his adversaries”** (Lamentations 1:17). **Rav said: For an example** of this, there is the city **Homanya** in relation **to** the city **Pum Nahara,** as the descendants of the Ammonites live in Homanya, and they harass the Jews of Pum Nahara.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר רַב אַסִּי: גּוֹי שֶׁקִּידֵּשׁ בִּזְמַן הַזֶּה — חוֹשְׁשִׁין לְקִדּוּשִׁין, שֶׁמָּא מֵעֲשֶׂרֶת הַשְּׁבָטִים הוּא. וְהָא כֹּל דְּפָרֵישׁ — מֵרוּבָּא פָּרֵישׁ!
+*Translation:* § **Rav Yehuda said** that **Rav Asi said:** With regard to **a gentile who betrothed** a Jewish woman **nowadays, we are concerned that the betrothal** might be valid, despite the fact that a betrothal of a gentile is meaningless, **lest he be from the ten tribes** of Israel who intermingled with the gentiles. The Gemara raises an objection: **But** there is an important principle in *halakha* that **any** item **separated,** i.e., not fixed in its place, is presumed to have been **separated from the majority.** In this case, it can be assumed that any individual singled out from the gentiles belongs to the majority of gentiles and has no Jewish roots at all.
+
+**10.**
+*Hebrew/Aramaic:* בְּדוּכְתָּא דִּקְבִיעִי. דְּאָמַר רַבִּי אַבָּא בַּר כָּהֲנָא: ״וַיַּנְחֵם בַּחְלַח וּבְחָבוֹר נְהַר גּוֹזָן וְעָרֵי מָדָי״, חֲלַח — זֶה חִלָּזוֹן, וְחָבוֹר —
+*Translation:* The Gemara responds: Rav Yehuda means that there is a concern only with regard to those who came from **the permanent** dwelling **places** of the ten tribes. **As Rabbi Abba bar Kahana said** that the verse states about those exiled from Samaria: **“And he put them in Halah, and in Habor, on the river of Gozan, and in the cities of the Medes”** (II Kings 18:11). Rabbi Abba bar Kahana proceeded to identify these places. **Halah; this is** the place called **Ḥalzon. And Habor;**

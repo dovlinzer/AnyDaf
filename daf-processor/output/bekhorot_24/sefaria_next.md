@@ -67,3 +67,80 @@
 **17.**
 *Hebrew/Aramaic:* מַתְנִי׳ שְׂעַר בְּכוֹר בַּעַל מוּם שֶׁנָּשַׁר, וְהִנִּיחוֹ בַּחַלּוֹן, וְאַחַר כָּךְ שְׁחָטוֹ — עֲקַבְיָא בֶּן מַהֲלַלְאֵל מַתִּיר,
 *Translation:* MISHNA: With regard to **the hair of a blemished firstborn** animal **that shed** from the animal, **and which one placed in a compartment** for safekeeping, **and thereafter he slaughtered** the animal; given that after the animal dies he is permitted to derive benefit from the hair the animal had on its body when it died, what is the halakhic status of hair that shed from the animal while it was alive? **Akavya ben Mahalalel deems** its use **permitted,**
+
+
+---
+
+### Bekhorot 25b
+
+**1.**
+*Hebrew/Aramaic:* וַחֲכָמִים אוֹסְרִין, דִּבְרֵי רַבִּי יְהוּדָה. אָמַר לוֹ רַבִּי יוֹסֵי: לֹא בָּזֶה הִתִּיר עֲקַבְיָא בֶּן מַהֲלַלְאֵל, אֶלָּא שְׂעַר בַּעַל מוּם שֶׁנָּשַׁר וְהִנִּיחוֹ בַּחַלּוֹן וְאַחַר כָּךְ מֵת — בָּזֶה עֲקַבְיָא בֶּן מַהֲלַלְאֵל מַתִּיר וַחֲכָמִים אוֹסְרִין.
+*Translation:* **and the Rabbis deem** its use **prohibited;** this is **the statement of Rabbi Yehuda. Rabbi Yosei said to him:** It was **not with regard to that** case **that Akavya ben Mahalalel deemed** use of the wool permitted. **Rather,** it was in the case of **the hair of a blemished** firstborn animal **that shed** from the animal **which one placed in a compartment and thereafter** the animal **died.** It was **in that** case that **Akavya ben Mahalalel deems** use of the wool **permitted, and the Rabbis deem** its use **prohibited** even after its death.
+
+**2.**
+*Hebrew/Aramaic:* צֶמֶר הַמְדוּלְדָּל בַּבְּכוֹר, אֶת שֶׁנִּרְאֶה עִם הַגִּיזָּה — מוּתָּר, וְאֶת שֶׁאֵינוֹ נִרְאֶה עִם הַגִּיזָּה — אָסוּר.
+*Translation:* With regard to **wool that is dangling from a firstborn** animal, i.e., which was not completely shed, **that which appears** to be part **of the fleece** is **permitted** when the animal is shorn after its death, **and that which does not appear** to be part **of the fleece** is **prohibited.**
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ מִכְּלָל דְּאָסַר, הַשְׁתָּא בְּמֵת — שָׁרֵי, שְׁחָטוֹ מִיבַּעְיָא?
+*Translation:* GEMARA: Rabbi Yosei’s statement, that it was not with regard to the case where the animal was slaughtered that Akavya ben Mahalalel deemed use of the wool permitted, apparently indicates **by inference that** Akavya ben Mahalalel **deemed** use of the wool **prohibited** if the animal was slaughtered. This is difficult: **Now** that it has been taught that use of the detached wool of **a dead** firstborn **is permitted,** despite the fact that the attached hair must be buried, **is it necessary** to teach that detached wool is permitted in a case where **one slaughtered** the animal, where the use of the attached hair is permitted?
+
+**4.**
+*Hebrew/Aramaic:* אֶלָּא, לֹא בָּזֶה הִתִּיר עֲקַבְיָא וַחֲכָמִים אוֹסְרִין, שְׁחָטוֹ — דִּבְרֵי הַכֹּל שְׁרֵי, כִּי פְּלִיגִי בְּמֵת.
+*Translation:* **Rather,** Rabbi Yosei means that it was **not in that** case that **Akavya deemed** use of the detached wool **permitted** while **the Rabbis deem** it **prohibited,** since if **he slaughtered** the animal, **everyone agrees** that use of the wool is **permitted. They disagree** in a case **where** the detached wool came from **a dead** animal that was not slaughtered.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אַסִּי אָמַר רֵישׁ לָקִישׁ: מַחְלוֹקֶת בְּשֶׁהִתִּירוֹ מוּמְחֶה, דְּמָר סָבַר: גָּזְרִינַן דִּלְמָא אָתֵי לְשַׁהוֹיֵיהּ, וּמָר סָבַר: לָא גָּזְרִינַן, אֲבָל לֹא הִתִּירוֹ מוּמְחֶה — דִּבְרֵי הַכֹּל אָסוּר.
+*Translation:* **Rabbi Asi says** that **Reish Lakish says:** The **dispute** applies in a case **where an expert deemed** the animal **permitted** for slaughter due to a blemish before the wool was shed, **as** one **Sage,** the Rabbis, **holds** that **we decree** that use of the wool the animal sheds is prohibited, **lest one come to postpone** its slaughter in order to collect the wool that it sheds. The Rabbis wanted a blemished firstborn to be slaughtered as soon as possible, lest one shear it or use it for labor, both of which are prohibited by Torah law. **And** one **Sage,** Akavya ben Mahalalel, **holds** that **we do not** issue such **a decree. But** in a case where **an expert did not deem** the animal **permitted** for slaughter before its wool was shed, **all agree** that use of the wool is **prohibited,** even after the animal died or was slaughtered.
+
+**6.**
+*Hebrew/Aramaic:* מֵתִיב רַב שֵׁשֶׁת: בַּעֲלֵי מוּמִין אוֹסְרִין בְּכׇל שֶׁהוּא, וְרַבִּי יוֹסֵי אוֹמֵר: יְבַקֵּר.
+*Translation:* **Rav Sheshet raises an objection** from a *baraita*: **Blemished** animals that become intermingled with unblemished animals **render** the entire group of animals **prohibited in any** ratio, even if there was only one blemished animal. Since blemished animals may not be sacrificed, and it is impossible to distinguish them from the unblemished animals, none may be sacrificed on the altar. **And Rabbi Yosei says: Let** the matter **be investigated.**
+
+**7.**
+*Hebrew/Aramaic:* וְהָוֵינַן בַּהּ: מַאי ״יְבַקֵּר״? אִלֵּימָא דְּבַעַל מוּם הוּא, וְלִישְׁקְלֵיהּ — מִכְּלָל דְּתַנָּא קַמָּא אָמַר לָאו?
+*Translation:* Rav Sheshet continues: **And we discussed it,** and inquired: **What** did Rabbi Yosei mean when he said: **Let** the matter **be investigated? Shall we say** he meant **that** one should search for **the blemished animal and remove it** from the group, so that the other animals may be slaughtered on the altar? This is difficult, as in that case, **by inference, the first *tanna* said** that in such a case the remaining unblemished animals are still **not** permitted. This cannot be so, as there is no reason to deem the remaining animals prohibited once the blemished animal has been removed.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: הָכָא בְּגִיזַּת בְּכוֹר בַּעַל מוּם עָסְקִינַן, שֶׁנִּתְעָרְבוּ בְּגִיזֵּי חוּלִּין. וּמַאן תַּנָּא קַמָּא? רַבִּי יְהוּדָה הִיא, דְּאָמַר: נִשְׁחֲטוּ — אָסְרִי רַבָּנַן. וְרַבִּי יוֹסֵי לְטַעְמֵיהּ, דְּאָמַר: נִשְׁחֲטוּ — שָׁרוּ רַבָּנַן.
+*Translation:* And **Rav Naḥman says** that **Rabba bar Avuh says: Here we are dealing with** a case **of** the **shearings of a blemished firstborn, whose** detached wool **became intermingled with non-sacred wool. And who is the first *tanna*,** who holds that all the wool is prohibited? **It is Rabbi Yehuda, who says** in the mishna here that if the firstborn **were slaughtered, the Rabbis deem** use of their wool **prohibited. And Rabbi Yosei** conforms **to his** line of **reasoning, as he says:** If the firstborn **were slaughtered, the Rabbis deem** use of their wool **permitted.**
+
+**9.**
+*Hebrew/Aramaic:* וְקָתָנֵי: ״יְבוּקַּר״, מַאי ״יְבוּקַּר״? לָאו אִי ״מוּם קָבוּעַ״ אִי ״מוּם עוֹבֵר״ הוּא, אַף עַל גַּב שֶׁלֹּא הִתִּירוֹ מוּמְחֶה.
+*Translation:* Rav Sheshet explains his objection to the interpretation of Reish Lakish: **And it is taught** that Rabbi Yosei says: **Let** the matter **be investigated. What** does he mean when he says: Let the matter **be investigated?** Does this **not** mean that an expert examines the animal to determine **whether** it is **a permanent blemish,** in which case the intermingled wool is permitted, or **whether it is a temporary blemish** and the use of the wool is prohibited? If so, Rabbi Yosei holds that wool shed from a firstborn is permitted **even though** it was shed before the **expert deemed** the blemish to be permanent and the animal **permitted** for slaughter. This contradicts the interpretation of Reish Lakish.
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רָבָא: לֹא; יְבוּקַּר, אִי הִתִּירוֹ מוּמְחֶה — אִין, וְאִי לָא — לָא.
+*Translation:* **Rava said** in response: **No,** Rabbi Yosei meant that the matter **should be investigated** to determine **if an expert had deemed** the firstborn **permitted** for slaughter before its wool was shed. If he did, then **yes,** the wool is permitted; **and if not,** it is **not** permitted.
+
+**11.**
+*Hebrew/Aramaic:* כִּי סְלֵיק רָבִין, אַמְרַהּ לִשְׁמַעְתָּא קַמֵּיהּ דְּרַבִּי יִרְמְיָה. אֲמַר: בַּבְלָאֵי טַפְשָׁאֵי, מִשּׁוּם דְּיָתְבִי בְּאַרְעָא דַּחֲשׁוֹכָא אָמְרִי שְׁמַעְתָּא דִּמְחַשְּׁכָן! לָא שְׁמִיעַ לְהוּ הָא דְּאָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: מַחְלוֹקֶת בְּשֶׁבָּדַק וְלֹא מָצָא.
+*Translation:* The Gemara relates: **When Ravin ascended** from Babylonia to Eretz Yisrael, **he stated this *halakha*,** including Rav Naḥman’s interpretation of the *baraita*, **in the presence of Rabbi Yirmeya.** Rabbi Yirmeya **said: Foolish Babylonians! Because they dwell in a dark land, they state *halakhot* that are dim. Did they not hear that which Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says:** That mishna is dealing with the animals themselves, not their wool, and the **dispute** between the first *tanna* and Rabbi Yosei is **with regard to** a case **where one examined** the flock **and did not find** the blemished animal?
+
+**12.**
+*Hebrew/Aramaic:* וְקָמִיפַּלְגִי בִּפְלוּגְתָּא דְּרַבִּי מֵאִיר וְרַבָּנַן, דִּתְנַן, שֶׁהָיָה רַבִּי מֵאִיר אוֹמֵר: כׇּל דָּבָר שֶׁהָיָה בְּחֶזְקַת טוּמְאָה — לְעוֹלָם הוּא בְּטוּמְאָתוֹ, עַד שֶׁתִּיוָּודַע הַטּוּמְאָה.
+*Translation:* **And they disagree with regard to** the issue that is the subject of **the dispute** between **Rabbi Meir and the Rabbis. As we learned** in a mishna (*Pesaḥim* 10a) **that Rabbi Meir would say: Any object that was** held **in the presumptive status of ritual impurity,** e.g., it is certain that there was a grave in a particular field, that place **forever** remains **in its ritual impurity,** even if it was excavated and the source of impurity was not found, **until it becomes known to you** the location of **the ritual impurity,** and then the rest of the field is permitted. The assumption is that the impurity was not found because the search was not conducted properly.
+
+**13.**
+*Hebrew/Aramaic:* וַחֲכָמִים אוֹמְרִים: חוֹפֵר עַד שֶׁמַּגִּיעַ לְסֶלַע אוֹ לִבְתוּלָה.
+*Translation:* **And the Rabbis say:** He continues **digging until he reaches bedrock or virgin** soil, under which there is certainly no ritual impurity. If he searched this extensively and failed to discover any impurity, it is evidently no longer there. Similarly, in the case of the *baraita*, the dispute is whether or not failure to locate the blemished animal constitutes sufficient reason to conclude that it is no longer intermingled with the rest of the flock. Accordingly, the first *tanna* holds in accordance with the opinion of Rabbi Meir while Rabbi Yosei holds in accordance with the opinion of the Rabbis.
+
+**14.**
+*Hebrew/Aramaic:* רַבִּי אַסִּי אָמַר רַבִּי יוֹחָנָן: מַחְלוֹקֶת כְּשֶׁבָּדַק וּמָצָא, וְקָמִיפַּלְגִי בִּפְלוּגְתָּא דְּרַבִּי וְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל.
+*Translation:* The Gemara cites another version of Rabbi Yoḥanan’s interpretation of the *baraita*: **Rabbi Asi says** that **Rabbi Yoḥanan** says: The **dispute** is with regard to a case **where he examined** the flock **and found** the blemished animal, **and they disagree with regard to** the issue that is the subject of **the dispute** between **Rabbi** Yehuda HaNasi **and Rabban Shimon ben Gamliel.**
+
+**15.**
+*Hebrew/Aramaic:* דְּתַנְיָא: שָׂדֶה שֶׁאָבַד בָּהּ קֶבֶר, נִכְנָס בְּתוֹכָהּ — טָמֵא. נִמְצָא בְּתוֹכָהּ קֶבֶר, נִכְנָס לְתוֹכָהּ — טָהוֹר, שֶׁאֲנִי אוֹמֵר: הוּא קֶבֶר שֶׁאָבַד הוּא קֶבֶר שֶׁנִּמְצָא, דִּבְרֵי רַבִּי. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: תִּיבָּדֵק כׇּל הַשָּׂדֶה כּוּלָּהּ.
+*Translation:* This is **as it is taught** in a *baraita*: With regard to **a field in which a grave was lost, one who enters it** becomes **impure** due to the possibility that he passed over the grave and thereby contracted ritual impurity. **If a grave was** subsequently **found in it, one who enters** the field not in the place of the found grave remains **pure, as I say: The grave that was lost is the grave that was found.** This is **the statement of Rabbi** Yehuda HaNasi. **Rabban Shimon ben Gamliel says: Let the entire field be examined** before ruling that one who enters it remains pure. Similarly, in the *baraita* concerning the intermingled blemished and unblemished animals, the first *tanna* holds in accordance with the opinion of Rabban Shimon ben Gamliel, while Rabbi Yosei holds in accordance with the opinion of Rabbi Yehuda HaNasi.
+
+**16.**
+*Hebrew/Aramaic:* וְרַבִּי אַסִּי, מַאי טַעְמָא לָא אָמַר כְּרַבִּי חִיָּיא בַּר אַבָּא? אָמַר לָךְ: בִּשְׁלָמָא גַּבֵּי טוּמְאָה, אֵימַר בָּא עוֹרֵב וּנְטָלָהּ, בָּא עַכְבָּר וּנְטָלָהּ, אֶלָּא הָכָא — בַּעַל מוּם לְהֵיכָא אָזֵיל? וְאִידַּךְ? אֵימַר מוּם עוֹבֵר הֲוָה וְאִיתַּסִּי.
+*Translation:* The Gemara asks: **And Rabbi Asi, what is the reason he did not state** the explanation **of Rabbi Ḥiyya bar Abba?** Rabbi Asi could have **said to you: Granted, with regard to impurity** one can say the impure object might no longer be there, as perhaps **a raven came and took it** or **a mouse came and took it. But here,** with regard to a blemished animal that became intermingled with unblemished animals, **where** could the **blemished** animal have **gone?** The Gemara asks: **And** how would **the other** *amora*, Rabbi Ḥiyya bar Abba, respond to this claim? He would **say** the blemish **was a temporary blemish and it was healed,** which is why there is no longer a blemished animal among the flock.
+
+**17.**
+*Hebrew/Aramaic:* וְרַבִּי חִיָּיא בַּר אַבָּא מַאי טַעְמָא לָא אָמַר כְּרַבִּי אַסִּי? אָמַר לָךְ: בִּשְׁלָמָא שָׂדֶה, דִּרְכַּהּ לְמִיקְבַּר בַּהּ, כִּי הֵיכִי דִּקְבַר בָּהּ הַאי — קְבַר אִינָשׁ אַחֲרִינָא. אֶלָּא קָדָשִׁים, כֵּיוָן דִּבְדִקִי לַן וְקָיְימִי, דִּרְכַּיְיהוּ לְמִיפַּל בְּהוּ מוּמָא? וְאִידַּךְ — אַגַּב דִּמְנַגְּחִי אַהֲדָדֵי, שְׁכִיחַ בְּהוּ מוּמָא.
+*Translation:* **And** as for **Rabbi Ḥiyya bar Abba, what is the reason he did not state** the explanation **of Rabbi Asi?** Rabbi Ḥiyya bar Abba could have **said to you: Granted,** in the case of **a field it is normal** for people to **be buried in it,** and therefore Rabban Shimon ben Gamliel claims that **just as this** person **was buried in it,** so too, **another person** might have been **buried** there. Therefore, there is no reason to assume the grave that was found is the grave that was lost. **But** with regard to **sacrificial** animals, **once they were examined and they are** found to be whole, is it **normal for them to** suddenly **develop a blemish?** In such a case even the first *tanna* would not deem the animals prohibited, as it can be assumed they found the only blemished one. **And** what would **the other** *amora*, Rabbi Asi, say in response? **Since they gore each other,** the development of **a blemish is** in fact **common among them.**
+
+**18.**
+*Hebrew/Aramaic:* מֵיתִיבִי: הַתּוֹלֵשׁ צֶמֶר מִבְּכוֹר תָּם, אַף עַל פִּי שֶׁנּוֹלַד בּוֹ מוּם וּשְׁחָטוֹ — אָסוּר. טַעְמָא דְּתָם,
+*Translation:* Rabbi Asi earlier said in the name of Reish Lakish that both Akavya ben Mahalalel and the Rabbis agree that if an expert did not deem the firstborn permitted for slaughter before its wool was shed, use of the wool is prohibited. The Gemara **raises an objection** from a *baraita*: With regard to **one who plucks the wool from an unblemished firstborn, even though it** later **developed a blemish and** the owner then **slaughtered it,** use of the wool is **prohibited.** The Gemara infers: The **reason** this is the *halakha* is **that** the animal was **unblemished.**

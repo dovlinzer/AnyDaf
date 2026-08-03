@@ -51,3 +51,80 @@
 **13.**
 *Hebrew/Aramaic:* אֲבָל הֵיאַךְ נִשְׂרֹף הַתְּלוּיָה עִם הַטְּמֵאָה? שֶׁמָּא יָבֹא אֵלִיָּהוּ וִיטַהֲרֶנָּה!
 *Translation:* **However, how will we burn** *teruma* **in abeyance,** whose impurity status is uncertain, together **with ritually impure** *teruma*? **Perhaps Elijah** the Prophet **will come** and establish prophetically that the *teruma* is not ritually impure, **and he will render it ritually pure.** The legal status of *teruma* in abeyance is uncertain. How can one actively render it impure when it might ultimately be determined that it is pure?
+
+
+---
+
+### Pesachim 15b
+
+**1.**
+*Hebrew/Aramaic:* הַפִּיגּוּל וְהַנּוֹתָר וְהַטָּמֵא — בֵּית שַׁמַּאי אוֹמְרִים: אֵין נִשְׂרָפִין כְּאַחַת. וּבֵית הִלֵּל אוֹמְרִים: נִשְׂרָפִין כְּאַחַת.
+*Translation:* The *Tosefta* continues: ***Piggul*** is an offering disqualified by the improper intention during the performance of the four sacrificial rites to sacrifice it or eat it after its appropriate time; **and *notar*** is the flesh of a sacrifice that is left over beyond its allotted time. The Sages decreed ritual impurity on both, and both, as well as sacrificial meat deemed **ritually impure** by Torah law, may not be eaten and must be burned. **Beit Shammai say: They** may **not be burned together,** as in doing so the *piggul* and *notar*, which are impure by rabbinic law, will come into contact with meat impure by Torah law, adding impurity to their impurity. **And Beit Hillel say: They** may **be burned together.**
+
+**2.**
+*Hebrew/Aramaic:* וְאִי סָלְקָא דַעְתָּךְ רַבִּי מֵאִיר מִדִּבְרֵי רַבִּי יְהוֹשֻׁעַ קָאָמַר, אַמַּאי מַהְדַּר לֵיהּ רַבִּי יוֹסֵי מִדְּרַבִּי חֲנִינָא סְגַן הַכֹּהֲנִים? אֲמַר לֵיהּ רַב נַחְמָן: רַבִּי יוֹסֵי לָאו אַדַּעְתֵּיהּ, דְּהוּא סָבַר רַבִּי מֵאִיר מִדְּרַבִּי חֲנִינָא סְגַן הַכֹּהֲנִים קָאָמַר לֵיהּ, וַאֲמַר לֵיהּ: אֲנָא מִדְּרַבִּי יְהוֹשֻׁעַ קָאָמֵינָא,
+*Translation:* The Gemara returns to the issue under discussion: **And if it enters your mind** that **Rabbi Meir is saying** that he derives his opinion **from the statement of Rabbi Yehoshua, why does Rabbi Yosei respond to him from the statement of Rabbi Ḥanina the deputy High Priest? Rav Naḥman said to him: Rabbi Yosei** did **not** have Rabbi Meir’s reasoning **in mind,** as he did not understand Rabbi Meir’s reasoning. **As** Rabbi Yosei **maintains** that **Rabbi Meir is saying to him** proof **from** the statement of **Rabbi Ḥanina the deputy High Priest, and** Rabbi Meir **said to him: I am stating** my proof **from** the statement of **Rabbi Yehoshua.**
+
+**3.**
+*Hebrew/Aramaic:* וַאֲמַר לֵיהּ: וַאֲפִילּוּ לְרַבִּי יְהוֹשֻׁעַ נָמֵי אֵינָהּ הִיא הַמִּדָּה, דְּהָא מוֹדֶה רַבִּי אֱלִיעֶזֶר וְרַבִּי יְהוֹשֻׁעַ שֶׁשּׂוֹרֵף זוֹ בִּפְנֵי עַצְמָהּ וְזוֹ בִּפְנֵי עַצְמָהּ.
+*Translation:* **And** Rabbi Yosei **said to** Rabbi Meir in response: **And even according to Rabbi Yehoshua, that is not the inference** from which the *halakha* of burning pure and impure leavened *teruma* together can be learned, **as Rabbi Eliezer and Rabbi Yehoshua concede that one** should **burn this** meat **by itself and that** meat **by itself,** as stated in the mishna. From an analysis of the mishna and the *Tosefta*, it is possible to reconstruct the original dispute.
+
+**4.**
+*Hebrew/Aramaic:* וְאַמַּאי אֵינָהּ הִיא הַמִּדָּה? מִדָּה וּמִדָּה הִיא!
+*Translation:* The Gemara raises a difficulty with regard to the above statement: **But why** does Rabbi Yosei say: **That is not the inference** from which it can be learned? On the contrary, it **is** a perfectly **legitimate inference.** In both cases the dispute is the same: Is one permitted to actively render an object impure preemptively if it will ultimately be destroyed regardless?
+
+**5.**
+*Hebrew/Aramaic:* שָׁאנֵי הָתָם, דְּאִיכָּא הֶפְסֵד חוּלִּין.
+*Translation:* The Gemara rejects this contention: The case **there,** of the broken barrel in the upper press, where according to Rabbi Yehoshua it is permitted to actively render the *teruma* impure, **is different, as** in that case **there is** the potential **loss of non-sacred** produce. If one does not render the *teruma* in the upper press impure by receiving it in impure vessels, it will flow down and render the impure, non-sacred wine in the lower press impure *teruma*. However, in the case of leaven, no loss will be incurred. Why, then, shouldn’t each *teruma* be burned independently?
+
+**6.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב יִרְמְיָה: מַתְנִיתִין נָמֵי אִיכָּא הֶפְסֵד דְּעֵצִים! אֲמַר לֵיהּ הָהוּא סָבָא: לְהֶפְסֵד מְרוּבֶּה — חָשְׁשׁוּ, לְהֶפְסֵד מוּעָט — לֹא חָשְׁשׁוּ.
+*Translation:* **Rav Yirmeya strongly objects to this** claim: In **the mishna, too, there is** the **loss of wood,** as one requires additional wood to kindle a second fire and burn the impure *teruma* separately. **A certain Elder said to him:** With regard to this and similar issues, the Sages **were concerned about a great loss;** however, **they were not concerned about** the **minimal loss** of several pieces of wood.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אַסִּי אָמַר רַבִּי יוֹחָנָן: מַחֲלוֹקֶת בְּשֵׁשׁ, אֲבָל בְּשֶׁבַע — דִּבְרֵי הַכֹּל שׂוֹרְפִין.
+*Translation:* **Rabbi Asi said** that **Rabbi Yoḥanan said:** This **dispute** between Rabbi Meir and Rabbi Yosei refers **to** the **sixth** hour, when leaven is prohibited by rabbinic decree. **However, in** the **seventh** hour, when leaven is prohibited by Torah law, **everyone agrees** that **one** may **burn** ritually pure leavened *teruma* together with impure leavened *teruma*.
+
+**8.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַבִּי זֵירָא לְרַבִּי אַסִּי: נֵימָא קָסָבַר רַבִּי יוֹחָנָן מַתְנִיתִין בְּאַב הַטּוּמְאָה דְּאוֹרָיְיתָא וְולַד הַטּוּמְאָה דְּרַבָּנַן, וּמַאי ״מִדִּבְרֵיהֶם״ — מִדִּבְרֵי רַבִּי חֲנִינָא סְגַן הַכֹּהֲנִים.
+*Translation:* **Rabbi Zeira said to Rabbi Asi: Let us say** that **Rabbi Yoḥanan maintains** that **the mishna** is referring **to** an object that is **a primary source of impurity by Torah law and** an object that is **a secondary source of impurity by rabbinic law. And what** is the meaning of Rabbi Meir’s statement: **From their statements?** He meant **from the statement of Rabbi Ḥanina the deputy High Priest,** as explained above. The dispute refers to a rabbinic prohibition, e.g., a secondary source of impurity or the obligation to burn leaven during the sixth hour. In a case where the leaven is not yet prohibited by rabbinic law, e.g., in the fourth or fifth hour, even Rabbi Meir agrees that one may not burn ritually pure and impure *teruma* together.
+
+**9.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: אִין. אִיתְּמַר נָמֵי, אָמַר רַבִּי יוֹחָנָן: מַתְנִיתִין בְּאַב הַטּוּמְאָה דְּאוֹרָיְיתָא וְולַד הַטּוּמְאָה דְּרַבָּנַן, וּמַאי ״מִדִּבְרֵיהֶם״ — מִדִּבְרֵי רַבִּי חֲנִינָא סְגַן הַכֹּהֲנִים. וּמַחְלוֹקֶת בְּשֵׁשׁ, אֲבָל בְּשֶׁבַע — דִּבְרֵי הַכֹּל שׂוֹרְפִין.
+*Translation:* Rabbi Asi **said to him: Yes,** Rabbi Yoḥanan indeed interprets the mishna in this manner. **It was also stated** explicitly that this is the case, as **Rabbi Yoḥanan said: The mishna** is referring **to** an object that is **a primary source of impurity by Torah law and** an object that is **a secondary source of impurity by rabbinic law. And what** is the meaning of: **From their statements?** It means **from the statement of Rabbi Ḥanina the deputy High Priest. And the dispute** between Rabbi Meir and Rabbi Yosei is with regard **to** the **sixth** hour, when leaven is prohibited by rabbinic law. **However, everyone agrees** that **in** the **seventh** hour **one** may **burn** them together, as both pieces of leavened *teruma* are prohibited by Torah law.
+
+**10.**
+*Hebrew/Aramaic:* לֵימָא מְסַיַּיע לֵיהּ: הַפִּיגּוּל וְהַנּוֹתָר וְהַטָּמֵא, בֵּית שַׁמַּאי אוֹמְרִים: אֵין נִשְׂרָפִין כְּאַחַת, וּבֵית הִלֵּל אוֹמְרִים: נִשְׂרָפִין כְּאַחַת.
+*Translation:* The Gemara suggests: **Let us say** that the end of the *baraita* **supports** Rabbi Yoḥanan’s assertion that even Rabbi Yosei agrees that it is permitted to burn together two objects prohibited by Torah law. As the *baraita* states with regard to ***piggul*, *notar*, and ritually impure** sacrificial meat that **Beit Shammai say: They** may **not be burned together, and Beit Hillel say: They** may **be burned together.** All of these items are prohibited by Torah law, and Rabbi Yosei would agree that the *halakha* is in accordance with the opinion of Beit Hillel.
+
+**11.**
+*Hebrew/Aramaic:* שָׁאנֵי הָתָם: דְּאִית לְהוּ טוּמְאָה מִדְּרַבָּנַן. דִּתְנַן: הַפִּיגּוּל וְהַנּוֹתָר מְטַמְּאִין אֶת הַיָּדַיִם.
+*Translation:* The Gemara rejects this contention: **It is different there,** as *piggul* and *notar* **are ritually impure by rabbinic law,** and therefore Rabbi Yosei would agree that they may be burned together in that case. That is not true in the case of leaven in the seventh hour, which is not impure even by rabbinic law, although it is prohibited by Torah law. **As we learned** in a mishna: ***Piggul* and *notar*,** leftover sacrificial flesh, **render** one’s **hands impure** by rabbinic decree.
+
+**12.**
+*Hebrew/Aramaic:* לֵימָא מְסַיַּיע לֵיהּ: הַפַּת שֶׁעִיפְּשָׁה וְנִפְסְלָה מִלֶּאֱכוֹל לְאָדָם, וְהַכֶּלֶב יָכוֹל לְאׇכְלָהּ — מְטַמְּאָה טוּמְאַת אוֹכָלִין בִּכְבֵיצָה, וְנִשְׂרֶפֶת עִם הַטְּמֵאָה בַּפֶּסַח.
+*Translation:* The Gemara suggests: **Let us say** that the following *baraita* **supports** Rabbi Yoḥanan’s opinion: With regard to **bread that became moldy and is no longer fit for a person to eat, but a dog can** still **eat it,** this bread can **become impure** with **the ritual impurity of food** if it is the size **of an egg-bulk,** as it is still classified as food. If it is pure leavened *teruma*, **it is burned with impure** *teruma* **on Passover** eve. Since the moldy bread is no longer edible, it is not necessary to refrain from burning it together with impure items. Apparently, this is Rabbi Yosei’s opinion, as Rabbi Meir maintains that pure and impure *teruma* are burned together even if neither is moldy. Since Rabbi Yosei concedes in the case of moldy bread, the same should apply to leavened *teruma* after the seventh hour, which is prohibited by Torah law.
+
+**13.**
+*Hebrew/Aramaic:* שָׁאנֵי הָתָם, דְּעַפְרָא בְּעָלְמָא הוּא.
+*Translation:* The Gemara rejects this contention: **It is different there,** in the case of moldy bread, **as it is** for all intents and purposes **mere dust,** and its legal status is no longer that of food.
+
+**14.**
+*Hebrew/Aramaic:* אִי הָכִי מַאי מוֹדֶה? הָכִי קָאָמַר לֵיהּ רַבִּי יוֹסֵי לְרַבִּי מֵאִיר: אֲפִילּוּ לְרַבִּי יְהוֹשֻׁעַ דְּמֵיקֵל, כִּי מֵיקֵל — בִּתְלוּיָה וּטְמֵאָה, אֲבָל בִּטְהוֹרָה וּטְמֵאָה — לָא.
+*Translation:* The Gemara asks: **If so,** that Rabbi Meir’s proof is based on the statement of Rabbi Ḥanina the deputy High Priest, **why** does the mishna mention that Rabbi Eliezer **concedes** to Rabbi Yehoshua? The Gemara explains that **this is** what **Rabbi Yosei is saying to Rabbi Meir: Even according to Rabbi Yehoshua,** who **rules leniently** in this case, **when he rules leniently** it is **with regard to** burning *teruma* **in abeyance** together **with impure** *teruma*; **however,** with regard **to** burning **pure** *teruma* **and impure** *teruma* together, **no,** he does not permit doing so.
+
+**15.**
+*Hebrew/Aramaic:* אִי הָכִי, אַמַּאי אֵינָהּ הִיא הַמִּדָּה? מִדָּה וּמִדָּה הִיא!
+*Translation:* The Gemara raises a difficulty: **If so,** that Rabbi Meir’s proof is based on the statement of Rabbi Ḥanina the deputy High Priest, **why** did Rabbi Yosei say: **That is not the inference** from which it can be learned? On the contrary, it **is** a perfectly **legitimate inference.** According to Rabbi Meir, pure *teruma* is prohibited during the sixth hour by rabbinic law. Just as Rabbi Ḥanina holds that one may actively transmit impurity to an object that is impure by rabbinic law by burning it together with an object that is impure by Torah law, so too, according to Rabbi Meir one may transmit impurity to an item prohibited by rabbinic law by burning it together with an item that is impure by Torah law.
+
+**16.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִרְמְיָה: הָכָא בְּבָשָׂר שֶׁנִּטְמָא בְּמַשְׁקִין שֶׁנִּטְמְאוּ מֵחֲמַת שֶׁרֶץ, וְאַזְדָּא רַבִּי מֵאִיר לְטַעְמֵיהּ וְרַבִּי יוֹסֵי לְטַעְמֵיהּ.
+*Translation:* **Rabbi Yirmeya said: Here,** the mishna is referring **to meat that became ritually impure** through contact with a secondary source of impurity **by means of liquids that became impure due to** contact with **a creeping animal** and thereby assumed second-degree ritual impurity. **And Rabbi Meir conforms to his** standard line of **reasoning, and Rabbi Yosei** conforms **to his** standard line of **reasoning.**
+
+**17.**
+*Hebrew/Aramaic:* רַבִּי מֵאִיר לְטַעְמֵיהּ, דְּאָמַר: טוּמְאַת מַשְׁקִין לְטַמֵּא אֲחֵרִים דְּרַבָּנַן.
+*Translation:* **Rabbi Meir** conforms **to his** standard line of **reasoning** with regard to this issue, **as he said: The ritual impurity of liquids** with regard **to transmitting impurity to other** objects is **by rabbinic law.** The meat that became impure through contact with a secondary source of impurity is in fact entirely pure by Torah law. Therefore, he learns from the mishna that it is permitted to burn pure and impure items together.
+
+**18.**
+*Hebrew/Aramaic:* וְרַבִּי יוֹסֵי לְטַעְמֵיהּ, דְּאָמַר: טוּמְאַת מַשְׁקִין לְטַמֵּא אֲחֵרִים דְּאוֹרָיְיתָא. דְּתַנְיָא:
+*Translation:* **And Rabbi Yosei** conforms **to his** standard line of **reasoning, as he said: The ritual impurity of liquids** with regard **to transmitting impurity to other** objects is **by Torah law.** Accordingly, the meat that Rabbi Ḥanina the deputy High Priest referred to in the mishna was impure by Torah law. Therefore, this case cannot serve as a precedent for the claim that it is permitted to burn pure and impure *teruma* together on Passover eve. **As it was taught** in a *baraita*:

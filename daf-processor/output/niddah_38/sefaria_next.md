@@ -67,3 +67,56 @@
 **17.**
 *Hebrew/Aramaic:* אִישְׁתִּיק וְלָא אֲמַר לֵיהּ וְלָא מִידֵי. אָמַר רַב פָּפָּא: ״נֶחְזֵי אֲנַן״, הָיְתָה לְמוּדָה לִהְיוֹת רוֹאָה לְיוֹם חֲמִשָּׁה עָשָׂר וְשִׁינְּתָה לְיוֹם עֶשְׂרִים — זֶה וָזֶה אֲסוּרִין.
 *Translation:* Rav Yehuda of Diskarta **was silent and did not say anything to** Rav Pappa. Therefore, **Rav Pappa said: Let us see** and try to resolve this **ourselves.** The mishna cited above states: If the woman **was accustomed to see** an emission of blood **on the fifteenth day, and she deviated** from her cycle **to** see an emission on the **twentieth day,** then on both **this** day **and that** day it is **prohibited** for her to engage in sexual intercourse.
+
+
+---
+
+### Niddah 39b
+
+**1.**
+*Hebrew/Aramaic:* וְאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: לָא שְׁנָא אֶלָּא חֲמִשָּׁה עָשָׂר לִטְבִילָתָהּ, שֶׁהֵן עֶשְׂרִים וּשְׁנַיִם לִרְאִיָּיתָהּ,
+*Translation:* **And** with regard to this mishna, **Rav Yehuda said** that **Shmuel said: They taught** this *halakha* **only** with regard to a woman who normally experiences bleeding **fifteen** days **from her immersion, which are twenty-two** days **from her sighting** of menstrual blood, which means that there, she stands in her days of menstruation.
+
+**2.**
+*Hebrew/Aramaic:* וְשִׁינְּתָה לְיוֹם עֶשְׂרִים וְשִׁבְעָה; דְּכִי הָדְרִי וְאָתוּ עֶשְׂרִין וְתַרְתֵּי — קָיְימָא לַהּ בְּתוֹךְ יְמֵי זִיבָתָהּ, וְקָתָנֵי: זֶה וָזֶה אֲסוּרִין — אַלְמָא דְּחָיְישִׁינַן לַהּ.
+*Translation:* **And** when the mishna states that **she deviated** from her cycle and experienced bleeding on the twentieth day, it means she experienced bleeding twenty days from her immersion, i.e., **twenty-seven days from** her previous sighting, not twenty-two. This means **that when twenty-two days again elapse** from when she usually experiences bleeding, **she stands within** what is now the eleven **days of her *ziva*. And** the mishna **teaches** that both **this,** the twenty-second day, **and that,** the twenty-seventh day, **are prohibited,** despite the fact that the twenty-second day now stands during her days of *ziva*. **Evidently, we are concerned** for an emission of blood during the days of *ziva* if she is accustomed to experiencing bleeding on that day.
+
+**3.**
+*Hebrew/Aramaic:* וְקָסָבַר רַב פָּפָּא: עֶשְׂרִין וְתַרְתֵּין — מֵעֶשְׂרִין וְתַרְתֵּין מָנֵינַן, נִדָּה וּפִתְחָהּ — מֵעֶשְׂרִין וְשִׁבְעָה מָנֵינַן.
+*Translation:* The Gemara elaborates: **And Rav Pappa holds** that **we count twenty-two** days of her menstrual cycle **from twenty-two** days, i.e., from when she usually begins to menstruate, whereas **we count the beginning** of the days of **menstruation from** day **twenty-seven,** when she actually experiences bleeding. Consequently, the twenty-second day of her normal menstrual cycle falls during the days of *ziva*, according to the actual day of menstruation.
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ לְרַב פָּפָּא: מִמַּאי? דִּלְמָא עֶשְׂרִין וְתַרְתֵּין נָמֵי מֵעֶשְׂרִין וְשִׁבְעָה מָנֵינַן, דְּכִי הָדְרִי וְאָתוּ עֶשְׂרִין וְתַרְתֵּין — קָיְימָא לַהּ בְּתוֹךְ יְמֵי נִדּוּתָהּ.
+*Translation:* **Rav Huna, son of Rav Yehoshua, said to Rav Pappa: From where** do you know this is the correct reckoning of her days? **Perhaps one also counts** those **twenty-two** days **from** day **twenty-seven,** such **that when twenty-two days again arrive** from day twenty-seven, **she stands within her days of menstruation.** Accordingly, there is no proof from the mishna with regard to a sighting during the days of *ziva*.
+
+**5.**
+*Hebrew/Aramaic:* וְהָכִי נָמֵי מִסְתַּבְּרָא; דְּאִי לָא תֵּימָא הָכִי, הַאי תַּרְנְגוֹלְתָּא דְּרָמְיָא יוֹמָא וְכָבְשָׁה יוֹמָא, וְרָמְיָא יוֹמָא וְכָבְשָׁה יוֹמָא, וְכָבְשָׁה תְּרֵי יוֹמֵי וְרָמְיָא חַד יוֹמָא,
+*Translation:* Rav Huna, son of Rav Yehoshua, adds: **And so too, it is reasonable** that the twenty-two days are counted from when she actually experiences bleeding. **As if you do not say so,** then consider the case of **this chicken that** normally **lays** an egg on one **day and withholds** an egg the next **day, and lays** an egg on the third **day and withholds** an egg on the fourth **day. And** the chicken deviated from its routine, so that after laying eggs on the first day and third day, it **withheld** an egg for **two days and** then **laid** an egg on **one day,** i.e., on the sixth day.
+
+**6.**
+*Hebrew/Aramaic:* כִּי הָדְרָה נָקְטָה — כְּדִלְקַמֵּיהּ נָקְטָה, אוֹ כִּדְמֵעִיקָּרָא נָקְטָה? עַל כׇּרְחָךְ כְּדִלְקַמֵּיהּ נָקְטָה.
+*Translation:* When this chicken **again takes hold** of its previous routine and starts laying an egg on one day and withholding an egg on the next, does **it take hold of** the order of the routine **ahead of it,** i.e., will it withhold an egg on the next day, **or** does **it take hold** of its routine **as it** was **from the outset,** so that it will lay an egg on the seventh day, as if there had been no deviation? **Perforce it takes hold of** the order of the routine **ahead of it.** Likewise, a woman who deviated from her normal menstrual cycle counts the days of her cycle according to the order of the cycle ahead of her, i.e., from the time that she experiences bleeding.
+
+**7.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב פָּפָּא: אֶלָּא הָא דְּאָמַר רֵישׁ לָקִישׁ: אִשָּׁה קוֹבַעַת לָהּ וֶסֶת בְּתוֹךְ יְמֵי זִיבָתָהּ, וְאֵין אִשָּׁה קוֹבַעַת לָהּ וֶסֶת בְּתוֹךְ יְמֵי נִדּוּתָהּ. וְרַבִּי יוֹחָנָן אָמַר: אִשָּׁה קוֹבַעַת לָהּ וֶסֶת בְּתוֹךְ יְמֵי נִדּוּתָהּ — הֵיכִי דָּמֵי?
+*Translation:* **Rav Pappa said to** Rav Huna, son of Rav Yehoshua: **But** if so, a question arises with regard to **that which Reish Lakish said: A woman fixes** a menstrual **cycle for herself during the days of her *ziva*, but a woman does not fix** a menstrual **cycle for herself during the days of her menstruation,** i.e., when she is already a menstruating woman. **And Rabbi Yoḥanan says: A woman fixes** a menstrual **cycle for herself during the days of her menstruation.** One could ask: **What are the circumstances** of this dispute? Rabbi Yoḥanan cannot be referring to a case where all her sightings occurred while she was a menstruating woman, as everyone agrees that a woman’s menstrual cycle is not fixed in such a situation (see 11a).
+
+**8.**
+*Hebrew/Aramaic:* לָאו כְּגוֹן דַּחֲזַאי רֵישׁ יַרְחָא, וְחַמְשָׁא בְּיַרְחָא, וְרֵישׁ יַרְחָא, וְחַמְשָׁא בְּיַרְחָא, וְהַשְׁתָּא חֲזַאי בְּחַמְשָׁא בְּיַרְחָא, וּבְרֵישׁ יַרְחָא לָא חֲזַאי,
+*Translation:* Rather, **is it not** referring to a case **where she saw** blood on the **first of the month; and** then again on **the fifth of** that same **month,** when she was a menstruating woman; **and** subsequently she saw blood on the **first of the** next **month and** then again on **the fifth of** that **month; and now** in the third month she **saw** blood **on the fifth of the month but on the first of the month she did not see** blood? In such a situation, the woman experienced an emission of blood on the fifth of the month for three consecutive months.
+
+**9.**
+*Hebrew/Aramaic:* וְקָאָמַר: אִשָּׁה קוֹבַעַת לָהּ וֶסֶת בְּתוֹךְ יְמֵי נִדּוּתָהּ, אַלְמָא מֵרֵישׁ יַרְחָא מָנֵינָא!
+*Translation:* Rav Pappa concludes: **And** it is with regard to this case that Rabbi Yoḥanan **says: A woman fixes** a menstrual **cycle for herself during the days of her menstruation.** Although she was not actually a menstruating woman before she experienced bleeding on the fifth day of the third month, this is nevertheless considered a sighting during her days of menstruation. **Evidently, one counts** her menstrual cycle **from the first of the month,** despite the fact that she did not actually experience bleeding. Likewise, with regard to the case involving twenty-two days, one counts from when she generally experiences bleeding, not from the day she emitted blood in practice.
+
+**10.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: לָא, הָכִי אָמַר רַבִּי יוֹחָנָן: כְּגוֹן דַּחֲזַאי רֵישׁ יַרְחָא, וְרֵישׁ יַרְחָא, וְעֶשְׂרִין וְחַמְשָׁה בְּיַרְחָא, וְרֵישׁ יַרְחָא, דְּאָמְרִינַן דָּמֵי יַתִּירִי הוּא דְּאִתּוֹסַפוּ בַּהּ.
+*Translation:* Rav Huna, son of Rav Yehoshua, **said to** Rav Pappa: These are **not** the circumstances of the dispute. Rather, **this** is what **Rabbi Yoḥanan said:** The dispute is referring to a case **where she saw** blood on the **first of the month; and** then again on the **first of the** next **month, and** then again on **the twenty-fifth** day **of** that **month; and** again on the **first of the** next **month,** which occurs during her days of menstruation. Rabbi Yoḥanan maintains that although she is in her days of menstruation, this sighting on the first of the third month serves to fix her menstrual cycle, **as we say** with regard to the sighting on the twenty-fifth day of the previous month that **it is extra blood that gathered inside her.** Therefore, it does not negate her regular cycle.
+
+**11.**
+*Hebrew/Aramaic:* וְכֵן כִּי אֲתָא רָבִין וְכֹל נָחוֹתֵי יַמָּא, אַמְרוּהָ כְּרַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ.
+*Translation:* The Gemara notes: **And likewise, when Ravin and all** the **sea-farers came** from Eretz Yisrael to Babylonia and transmitted statements of Rabbi Yoḥanan, **they said** this statement of Rabbi Yoḥanan **in accordance with** the explanation of **Rav Huna, son of Rav Yehoshua.** .
+
+**12.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ בְּנוֹת כּוּתִים.
+*Translation:* 

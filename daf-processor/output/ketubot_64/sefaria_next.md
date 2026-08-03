@@ -63,3 +63,76 @@
 **16.**
 *Hebrew/Aramaic:* וְנוֹתֵן לָהּ כִּפָּה. אֲמַר לֵיהּ רַב פָּפָּא לְאַבָּיֵי:
 *Translation:* § The mishna further taught: **And he** must **give her a cap,** and shoes every Festival, and clothes once a year. **Rav Pappa said to Abaye:**
+
+
+---
+
+### Ketubot 65b
+
+**1.**
+*Hebrew/Aramaic:* הַאי תַּנָּא שְׁלִיחַ עַרְטִלַאי וּרְמֵי מְסָאנֵי! אֲמַר לֵיהּ: תַּנָּא בִּמְקוֹם הָרִים קָאֵי, דְּלָא סַגִּיא בְּלָא תְּלָתָא זוּגֵי מְסָאנֵי. וְאַגַּב אוֹרְחֵיהּ קָא מַשְׁמַע לַן דְּנִיתְּבִינְהוּ נִיהֲלַהּ בַּמּוֹעֵד, כִּי הֵיכִי דְּנֶיהְוֵי לַהּ שִׂמְחָה בְּגַוַּיְיהוּ.
+*Translation:* **This *tanna*** creates a bizarre situation in which the woman is **left naked but wearing shoes,** as the husband must give his wife shoes three times a year but new clothing only once a year. Abaye **said to him: The *tanna* is standing,** i.e., speaking of, **a mountainous region, in which she cannot do without three pairs of shoes,** as shoes wear out quickly in hilly areas. **And in passing,** the *tanna* **teaches us that he should give them to her on a Festival, so that she will rejoice in them** during the Festival.
+
+**2.**
+*Hebrew/Aramaic:* וְכֵלִים שֶׁל חֲמִשִּׁים זוּז. אָמַר אַבָּיֵי: חֲמִשִּׁים זוּזֵי פְּשִׁיטֵי. מִמַּאי? מִדְּקָתָנֵי: בַּמֶּה דְּבָרִים אֲמוּרִים — בְּעָנִי שֶׁבְּיִשְׂרָאֵל, אֲבָל בִּמְכוּבָּד — הַכֹּל לְפִי כְּבוֹדוֹ. וְאִי סָלְקָא דַעְתָּךְ חֲמִשִּׁים זוּז מַמָּשׁ, עָנִי, חֲמִשִּׁים זוּז מְנָא לֵיהּ? אֶלָּא שְׁמַע מִינַּהּ חֲמִשִּׁים זוּזֵי פְּשִׁיטֵי.
+*Translation:* § The mishna teaches: **And he** must **give her clothes** with a value **of fifty dinars. Abaye said:** This is referring to **fifty simple [*peshitei*] dinars,** used as the money of the state, which are worth only one-eighth of Tyrian dinars. **From where** did Abaye derive this? **From** the fact **that it teaches: In what** case **is this statement said?** It is **with** regard to **the poorest of Jews. However,** in the case **of a prominent man, all** the amounts are increased **in accordance with his prominence. And if it enters your mind** that the mishna means **literally fifty dinars, from where** would such **a poor man** get **fifty dinars?** How could a pauper afford to give such a large sum to his wife for her clothing? **Rather, learn from this** that the mishna is referring to **fifty simple dinars.**
+
+**3.**
+*Hebrew/Aramaic:* וְאֵין נוֹתְנִין לָהּ לֹא חֲדָשִׁים וְכוּ׳. תָּנוּ רַבָּנַן: מוֹתַר מְזוֹנוֹת לַבַּעַל, מוֹתַר בְּלָאוֹת לָאִשָּׁה. מוֹתַר בְּלָאוֹת לָאִשָּׁה, לְמָה לַהּ? אָמַר רַחֲבָה: שֶׁמִּתְכַּסָּה בָּהֶן בִּימֵי נִדָּתָהּ, כְּדֵי שֶׁלֹּא תִּתְגַּנֶּה עַל בַּעְלָהּ.
+*Translation:* § The mishna further states: **And he may not give her new** clothes in the summer, nor worn garments in the rainy season, and the leftover, worn clothes belong to her. **The Sages taught: Leftover sustenance** belongs **to the husband,** whereas **leftover, worn clothes** belong **to the wife.** The Gemara asks: With regard to the statement that **worn clothes** belong **to the wife, why** does **she** need these old clothes? **Raḥava said:** She requires them, **as she covers herself with them during her days of menstruation, so that she does not become repulsive to her husband.** If she wears her normal clothes when she is menstruating, he will later be disgusted by her.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: נָקְטִינַן, מוֹתַר בְּלָאוֹת אַלְמָנָה לְיוֹרְשָׁיו. הָתָם הוּא דְּלָא תִּתְגַּנֵּי בְּאַפֵּיהּ, הָכָא — תִּתְגַּנֵּי וְתִתְגַּנֵּי.
+*Translation:* **Abaye said: We have a tradition** that the **leftover, worn clothes** of **a widow** belong **to** the husband’s **heirs.** The reason is that **it is** only in that case **there,** concerning a woman whose husband is alive, that the reasoning **so that she does not become repulsive to her husband** can be applied. Whereas **here,** when he is dead, **let her become repulsive.** There is no need to ensure that she find favor in the eyes of his heirs.
+
+**5.**
+*Hebrew/Aramaic:* נוֹתֵן לָהּ מָעָה כֶּסֶף וְכוּ׳. מַאי ״אוֹכֶלֶת״? רַב נַחְמָן אָמַר: אוֹכֶלֶת מַמָּשׁ. רַב אָשֵׁי אָמַר: תַּשְׁמִישׁ.
+*Translation:* § The mishna teaches that **he gives her a silver *ma’a*,** and she eats with him from one Shabbat evening to the next. The Gemara asks: **What is** the meaning of the phrase: **She eats,** in this context? **Rav Naḥman said:** It means **literally** that **she eats** with him once a week. **Rav Ashi said:** This is referring to **sexual relations.**
+
+**6.**
+*Hebrew/Aramaic:* תְּנַן: אוֹכֶלֶת עִמּוֹ לֵילֵי שַׁבָּת. בִּשְׁלָמָא לְמַאן דְּאָמַר אֲכִילָה — הַיְינוּ דְּקָתָנֵי ״אוֹכֶלֶת״, אֶלָּא לְמַאן דְּאָמַר תַּשְׁמִישׁ, מַאי ״אוֹכֶלֶת״? לִישָּׁנָא מְעַלְּיָא, כְּדִכְתִיב: ״אָכְלָה וּמָחֲתָה פִיהָ וְאָמְרָה לֹא פָעַלְתִּי אָוֶן״.
+*Translation:* **The mishna states: And she eats with him** from **Shabbat evening** to Shabbat evening. **Granted, according to the one who says** that it means actual **eating, this** explanation **is** consistent with **that which is taught: She eats. However, according to the one who says** that it is referring to **sexual relations, what is** the meaning of: **She eats?** The Gemara explains: It is **a euphemism, as it is written:** “So is the way of an adulterous woman; **she eats, and wipes her mouth, and says: I have done no wickedness”** (Proverbs 30:20).
+
+**7.**
+*Hebrew/Aramaic:* מֵיתִיבִי, רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אוֹכֶלֶת בְּלֵילֵי שַׁבָּת וְשַׁבָּת. בִּשְׁלָמָא לְמַאן דְּאָמַר אֲכִילָה — הַיְינוּ דְּקָתָנֵי ״וְשַׁבָּת״. אֶלָּא לְמַאן דְּאָמַר תַּשְׁמִישׁ — תַּשְׁמִישׁ בְּשַׁבָּת מִי אִיכָּא? וְהָאָמַר רַב הוּנָא: יִשְׂרָאֵל קְדוֹשִׁים הֵן, וְאֵין מְשַׁמְּשִׁין מִטּוֹתֵיהֶן בַּיּוֹם! הָאָמַר רָבָא: בְּבַיִת אָפֵל מוּתָּר.
+*Translation:* The Gemara **raises an objection: Rabban Shimon ben Gamliel says,** disagreeing with the *tanna* of the mishna: **She eats on Shabbat evening and** on **Shabbat. Granted, according to the one who says** that it means actual **eating, this** explanation **is** consistent with **that which is taught: And Shabbat,** i.e., she dines with him also on the day of Shabbat. **However, according to the one who says** that it is referring to **sexual relations, are there sexual relations on** the day of **Shabbat? But didn’t Rav Huna say: The Jewish people are holy and** therefore **do not engage in sexual relations during the day?** The Gemara answers that **Rava said:** If they are **in a dark house, it is permitted** to engage in relations even during the day.
+
+**8.**
+*Hebrew/Aramaic:* וְאִם הָיְתָה מְנִיקָה. דָּרֵשׁ רַבִּי עוּלָּא רַבָּה אַפִּיתְחָא דְּבֵי נְשִׂיאָה: אַף עַל פִּי שֶׁאָמְרוּ אֵין אָדָם זָן אֶת בָּנָיו וּבְנוֹתָיו כְּשֶׁהֵן קְטַנִּים, אֲבָל זָן קְטַנֵּי קְטַנִּים.
+*Translation:* § The mishna teaches: **And if she is nursing,** the required amount is reduced from her earnings and is added to the sum she receives for her sustenance. **Rabbi Ulla the Great taught at the entrance to the house of the *Nasi*: Although** the Sages **said** that **a person is not** obligated **to sustain his sons and daughters when they are young, still, he** must **sustain the very young ones.**
+
+**9.**
+*Hebrew/Aramaic:* עַד כַּמָּה — עַד בֶּן שֵׁשׁ, כִּדְרַב אַסִּי. דְּאָמַר רַב אַסִּי: קָטָן בֶּן שֵׁשׁ יוֹצֵא בְּעֵירוּב אִמּוֹ.
+*Translation:* The Gemara asks: **Until when** are they considered very young? **Until the age of six, in accordance with** the opinion of **Rav Asi, as Rav Asi said: A six-year-old minor may go out by** means of **his mother’s *eiruv*,** if she prepared an *eiruv* on one side of the city. He is included in his mother’s *eiruv* rather than that of his father, as he is considered subordinate to his mother.
+
+**10.**
+*Hebrew/Aramaic:* מִמַּאי? מִדְּקָתָנֵי: הָיְתָה מְנִיקָה — פּוֹחֲתִין לָהּ מִמַּעֲשֵׂה יָדֶיהָ, וּמוֹסִיפִין לָהּ עַל מְזוֹנוֹתֶיהָ. מַאי טַעְמָא? לָאו מִשּׁוּם דְּבָעֵי לְמֵיכַל בַּהֲדַהּ? וְדִלְמָא מִשּׁוּם דְּחוֹלָה הִיא.
+*Translation:* The Gemara asks: **From where** is this *halakha* that Rabbi Ulla taught derived? The Gemara explains that it is derived **from** the fact **that it teaches: If she is nursing,** the required amount **is reduced from her earnings and is added** to the sum she receives **for her sustenance. What is the reason** for this? Is it **not because** the baby **needs to eat** together **with her?** This shows that a father is responsible to provide for his young child. The Gemara rejects this proof: **But perhaps** he increases her sustenance not due to the baby but **because she is** considered **ill** due to her weakness while nursing, in which case the obligation stems from his obligation to his wife, not to his child.
+
+**11.**
+*Hebrew/Aramaic:* אִם כֵּן, לִיתְנֵי ״אִם הָיְתָה חוֹלָה״, מַאי אִם הָיְתָה מְנִיקָה? וְדִלְמָא הָא קָא מַשְׁמַע לַן דִּסְתַם מְנִיקוֹת חוֹלוֹת נִינְהוּ. אִיתְּמַר, אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: מוֹסִיפִין לָהּ יַיִן, שֶׁהַיַּיִן יָפֶה לְחָלָב.
+*Translation:* The Gemara retorts: **If so, let** the mishna **teach: If she was ill. What** is the reason that it specifies: **If she was nursing?** The reason for this *halakha* must certainly be due to the child. The Gemara again rejects this answer: **But perhaps** the mishna **teaches us this,** that in an **ordinary** situation, **nursing women are** considered **ill,** and that a husband must increase the sustenance all the more so if his wife is actually ill. Consequently, this does not prove that a father is obligated to sustain his very young child. **It was stated** that **Rabbi Yehoshua ben Levi said: Wine is added for** a nursing woman, **as wine is good for milk.**
+
+**12.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ אַף עַל פִּי
+*Translation:* May we return to you chapter “Even though.”
+
+**13.**
+*Hebrew/Aramaic:* מְצִיאַת הָאִשָּׁה וּמַעֲשֵׂה יָדֶיהָ לְבַעְלָהּ. וִירוּשָּׁתָהּ — הוּא אוֹכֵל פֵּירוֹת בְּחַיֶּיהָ. בּוֹשְׁתָּהּ, וּפְגָמָהּ — שֶׁלָּהּ.
+*Translation:* MISHNA: A lost **object found by a wife and** the wife’s **earnings** belong **to her husband. And** with regard to **her inheritance,** the husband **enjoys the profits** of this property **in her lifetime.** If she is humiliated or injured, the perpetrator is liable to pay compensation for **her humiliation and her degradation,** as relevant. This payment belongs **to her.**
+
+**14.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה בֶּן בְּתֵירָא אוֹמֵר: בִּזְמַן שֶׁבַּסֵּתֶר — לָהּ שְׁנֵי חֲלָקִים, וְלוֹ אֶחָד. וּבִזְמַן שֶׁבַּגָּלוּי לוֹ שְׁנֵי חֲלָקִים, וְלָהּ אֶחָד. שֶׁלּוֹ יִנָּתֵן מִיָּד, וְשֶׁלָּהּ יִלְקַח בָּהֶן קַרְקַע, וְהוּא אוֹכֵל פֵּירוֹת.
+*Translation:* **Rabbi Yehuda ben Beteira says: When** it is an injury **that** is **in a concealed** part of the woman’s body, **she** receives **two parts,** i.e., two-thirds, of the payment for humiliation and degradation, **and** the husband receives **one** part, i.e., one-third, as the injury affects him as well. **And when** it is an injury **that** is **in an exposed** part of her body, **he** receives **two parts,** as he suffers public humiliation due to her condition, **and she** receives **one** part. **His** payment **should be given** to him **immediately. And** with **her** portion, **land should be purchased with it, and he enjoys the profits** of that property.
+
+**15.**
+*Hebrew/Aramaic:* גְּמָ׳ מַאי קָא מַשְׁמַע לַן? תְּנֵינָא הָאָב זַכַּאי בְּבִתּוֹ בְּקִידּוּשֶׁיהָ, בְּכֶסֶף, בִּשְׁטָר וּבְבִיאָה. זַכַּאי בִּמְצִיאָתָהּ וּבְמַעֲשֵׂה יָדֶיהָ וּבַהֲפָרַת נְדָרֶיהָ. מְקַבֵּל אֶת גִּיטָּהּ, וְאֵינוֹ אוֹכֵל פֵּירוֹת בְּחַיֶּיהָ. נִישֵּׂאת — יָתֵר עָלָיו הַבַּעַל, שֶׁהוּא אוֹכֵל פֵּירוֹת בְּחַיֶּיהָ.
+*Translation:* GEMARA: The Gemara asks: **What is** the mishna **teaching us? We** already **learned** in a mishna (46b) that **the father is entitled, in** the case of **his daughter, to** authority over **her betrothal,** whether it is effected **with money, with a document, or through sexual intercourse.** Furthermore, as long as she is single, her father **is entitled to** any lost **object** that **she finds, and to her earnings, and to** effect **nullification of her vows** (see Numbers, chapter 30). Her father also **receives her bill of divorce** on her behalf, **but he does not enjoy the profits** of her property **in her lifetime.** If **she is married, the** rights of the **husband are greater than his, as** the husband **enjoys the profits** of her property **in her lifetime.** What, then, is the mishna teaching beyond that which was taught elsewhere?
+
+**16.**
+*Hebrew/Aramaic:* בּוֹשְׁתָּהּ וּפְגָמָהּ אִיצְטְרִיכָא לֵיהּ, פְּלוּגְתָּא דְּרַבִּי יְהוּדָה בֶּן בְּתֵירָא וְרַבָּנַן.
+*Translation:* The Gemara answers: It **was necessary for** the *tanna* to mention the *halakhot* concerning compensation for **her humiliation and her degradation,** as ownership of these payments is subject to **a dispute between Rabbi Yehuda ben Beteira and the Rabbis.**
+
+**17.**
+*Hebrew/Aramaic:* תָּנֵי תַּנָּא קַמֵּיהּ דְּרָבָא: מְצִיאַת הָאִשָּׁה לְעַצְמָהּ. רַבִּי עֲקִיבָא אוֹמֵר: לְבַעְלָהּ. אֲמַר לֵיהּ: הַשְׁתָּא וּמָה הַעֲדָפָה,
+*Translation:* § **A *tanna* teaches** a *baraita* **before Rava:** A lost **object found by a wife** belongs **to her; Rabbi Akiva says** it belongs **to her husband.** Rava **said to** that *tanna*: This *baraita* is puzzling. **Now, if,** with regard to the **surplus** of the wife’s earnings beyond the minimum sum stipulated by the Sages,

@@ -59,3 +59,76 @@
 **15.**
 *Hebrew/Aramaic:* וּפְלִיגָא דְּרַפְרָם בַּר פָּפָּא אָמַר רַב חִסְדָּא. דְּאָמַר רַפְרָם בַּר פָּפָּא אָמַר רַב חִסְדָּא: מִיּוֹם שֶׁחָרַב בֵּית הַמִּקְדָּשׁ לֹא נִרְאֵית רָקִיעַ בְּטׇהֳרָתָהּ, שֶׁנֶּאֱמַר: ״אַלְבִּישׁ שָׁמַיִם קַדְרוּת וְשַׂק אָשִׂים כְּסוּתָם״.
 *Translation:* The Gemara notes: **And** in this they **disagree with Rafram bar Pappa** who said that **Rav Ḥisda said, as Rafram bar Pappa said** that **Rav Ḥisda said: Since the day the Temple was destroyed the firmament has not been seen in its purity, as it is said: “I clothe the heavens with blackness and I make sackcloth their covering”** (Isaiah 50:3).
+
+
+---
+
+### Berakhot 59b
+
+**1.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: הָרוֹאֶה חַמָּה בִּתְקוּפָתָהּ, לְבָנָה בִּגְבוּרָתָהּ, וְכוֹכָבִים בִּמְסִילּוֹתָם, וּמַזָּלוֹת כְּסִדְרָן, אוֹמֵר: ״בָּרוּךְ … עוֹשֵׂה בְרֵאשִׁית״. וְאֵימַת הָוֵי? אָמַר אַבָּיֵי: כׇּל עֶשְׂרִין וּתְמָנְיָא שְׁנִין, וְהָדַר מַחְזוֹר וְנָפְלָה תְּקוּפַת נִיסָן, בְּשַׁבְּתַאי בְּאוּרְתָּא דִּתְלָת נַגְהֵי אַרְבַּע.
+*Translation:* **The Sages taught: One who sees the sun in** the beginning of **its cycle, the moon in its might, the planets in their orbit, or the signs of the zodiac** aligned **in their order recites: Blessed…Author of creation.** The Gemara asks: **And when is it** that the sun is at the beginning of its cycle? **Abaye said: Every twenty-eight years** when the **cycle** is complete and **returns** to its genesis, **and the Nisan,** vernal, **equinox,** when the spring days and nights are of equal length, **falls within** the constellation of **Saturn on the night of the third and eve of the fourth** day of the week, as then their arrangement returns to be as it was when the constellations were first placed in the heavens.
+
+**2.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר הָרוֹאֶה הַיָּם וְכוּ׳ לִפְרָקִים. עַד כַּמָּה? אָמַר רָמֵי בַּר אַבָּא אָמַר רַב יִצְחָק: עַד שְׁלֹשִׁים יוֹם.
+*Translation:* We learned in the mishna that **Rabbi Yehuda said: One who sees the great sea** intermittently **recites:** Blessed…Who has made the great sea. The Gemara asks: **How much** is **intermittently? Rami bar Abba said** that **Rav Yitzḥak said: Thirty days.**
+
+**3.**
+*Hebrew/Aramaic:* וְאָמַר רָמֵי בַּר אַבָּא אָמַר רַב יִצְחָק: הָרוֹאֶה פְּרָת אַגִּשְׁרָא דְבָבֶל, אוֹמֵר: ״בָּרוּךְ … עוֹשֵׂה בְרֵאשִׁית״. וְהָאִידָּנָא דְּשַׁנְיוּהּ פָּרְסָאֵי — מִבֵּי שַׁבּוּר וּלְעֵיל. רַב יוֹסֵף אָמַר: מֵאִיהִי דְקִירָא וּלְעֵיל. וְאָמַר רָמֵי בַּר אַבָּא: הָרוֹאֶה דִּגְלַת אַגִּשְׁרָא דְּשָׁבִיסְתְּנָא, אוֹמֵר: ״בָּרוּךְ … עוֹשֵׂה בְּרֵאשִׁית״.
+*Translation:* **And Rami bar Abba said** that **Rav Yitzḥak said: One who sees the Euphrates River near the bridge of Babylonia recites: Blessed…Author of creation.** The Gemara adds: **And now that the Persians have rerouted** the course of the river, one only recites the blessing **from Beit Shavor upriver.** Downriver, it no longer flows as it did at creation, so there one does not recite the blessing: Author of creation. **Rav Yosef said:** One only recites the blessing **from Ihi Dekira upriver. And Rami bar Abba said: One who sees the Tigris on the bridge of Shabistana recites: Blessed…Author of creation.**
+
+**4.**
+*Hebrew/Aramaic:* מַאי ״חִדֶּקֶל״ — אָמַר רַב אָשֵׁי: שֶׁמֵּימָיו חַדִּין וְקַלִּין. מַאי ״פְּרָת״? — שֶׁמֵּימָיו פָּרִין וְרָבִין.
+*Translation:* The Gemara proceeds to explain the names of these rivers. **What is** the source of the name ***Ḥidekel* [**Tigris]? **Rav Ashi said:** Its name is an acronym derived from the fact that **its waters are sharp [*ḥadin*] and light [*kalin*]** and therefore good for drinking. **What is** the source of the name ***Perat*** [Euphrates]? It is so named **because its waters are fruitful [*parin*] and multiply [*ravin*];** there are many fish in it.
+
+**5.**
+*Hebrew/Aramaic:* וְאָמַר רָבָא: הַאי דַּחֲרִיפֵי בְּנֵי מָחוֹזָא — מִשּׁוּם דְּשָׁתוּ מַיָּא דְּדִגְלַת. הַאי דְּגִיחוֹרֵי — מִשּׁוּם דִּמְשַׁמְּשִׁי בִּימָמָא. וְהַאי דְּנָיְידִי עֵינַיְיהוּ — מִשּׁוּם דְּדָיְירוּ בְּבַיִת אָפֵל.
+*Translation:* As for the Tigris River, **Rava said: The inhabitants** of the city **Meḥoza are sharp because they drink the water of the Tigris; they are red because they engage in** conjugal **relations in the daytime; and their eyes move** constantly **because they live in dark houses.**
+
+**6.**
+*Hebrew/Aramaic:* עַל הַגְּשָׁמִים כּוּ׳. וְעַל הַגְּשָׁמִים ״הַטּוֹב וְהַמֵּטִיב״ מְבָרֵךְ? וְהָאָמַר רַבִּי אֲבָהוּ, וְאָמְרִי לַהּ בְּמַתְנִיתָא תָּנָא: מֵאֵימָתַי מְבָרְכִין עַל הַגְּשָׁמִים — מִשֶּׁיֵּצֵא חָתָן לִקְרַאת כַּלָּה.
+*Translation:* We learned in our mishna that **over rain** one recites the blessing: Blessed…Who is good and does good. The Gemara asks: **And over rain** does **one** really **recite the blessing: Who is good and does good? Didn’t Rabbi Abbahu say, and some say it was taught in a *baraita*: From when does one recite the blessing on rain? From when the groom went out to meet the bride.** In other words, there are puddles of water on the ground. The groom, meaning the raindrops from above, cause the bride, meaning the water below, to splash.
+
+**7.**
+*Hebrew/Aramaic:* מַאי מְבָרְכִין? אָמַר רַב יְהוּדָה: ״מוֹדִים אֲנַחְנוּ לָךְ עַל כׇּל טִפָּה וְטִפָּה שֶׁהוֹרַדְתָּ לָנוּ״. וְרַבִּי יוֹחָנָן מְסַיֵּים בַּהּ הָכִי: ״אִילּוּ פִינוּ מָלֵא שִׁירָה כַּיָּם וְכוּ׳ אֵין אֲנַחְנוּ מַסְפִּיקִין לְהוֹדוֹת לְךָ ה׳ אֱלֹהֵינוּ״, עַד ״תִּשְׁתַּחֲוֶה״. ״בָּרוּךְ אַתָּה ה׳ רוֹב הַהוֹדָאוֹת״.
+*Translation:* The Gemara asks: **What blessing does one recite? Rav Yehuda said:** The formula of the blessing is: **We thank You for each and every drop that You have made fall for us. And Rav Yoḥanan concludes** the blessing **as follows: If our mouths were as full of song as the sea…we could not sufficiently praise You O Lord our God,** and he continues with the formula of *nishmat* that is recited on Shabbat morning, **until: Shall bow** before You. **Blessed are You, O Lord,** to Whom **abundant thanksgivings** are offered.
+
+**8.**
+*Hebrew/Aramaic:* ״רוֹב הַהוֹדָאוֹת״ וְלָא כׇּל הַהוֹדָאוֹת? אָמַר רָבָא: אֵימָא — ״הָאֵל הַהוֹדָאוֹת״. אָמַר רַב פָּפָּא: הִלְכָּךְ נֵימְרִינְהוּ לְתַרְוַיְיהוּ, ״רוֹב הַהוֹדָאוֹת״ וְ״הָאֵל הַהוֹדָאוֹת״.
+*Translation:* The Gemara asks: Does the blessing say: **Abundant thanksgivings, and not: All thanksgivings?** Certainly all thanksgivings are due to God. **Rava said:** Emend the formula of the blessing and **say: The God of thanksgivings. Rav Pappa said: Therefore, we will recite them both: Abundant thanksgivings, and: The God of thanksgivings.**
+
+**9.**
+*Hebrew/Aramaic:* וְאֶלָּא קַשְׁיָא! — לָא קַשְׁיָא, הָא דִּשְׁמַע מִשְׁמָע, הָא דַּחֲזָא מִחְזֵי.
+*Translation:* **However, it is** still **difficult,** as apparently the blessing for rain is not: Who is good and does good, as it appears in our mishna. The Gemara responds: This is **not difficult. This,** which we learned in our mishna, that one recites: Who is good and does good, refers to a case **where one heard** that rain fell. **This,** where we learned that one recites: We thank You, etc., refers to a case **where one saw** the rain fall.
+
+**10.**
+*Hebrew/Aramaic:* דִּשְׁמַע מִשְׁמָע הַיְינוּ בְּשׂוֹרוֹת טוֹבוֹת, וּתְנַן: עַל בְּשׂוֹרוֹת טוֹבוֹת אוֹמֵר ״בָּרוּךְ הַטּוֹב וְהַמֵּטִיב״!
+*Translation:* The Gemara asks: **One heard** that the rain fell; **that is** a case of **good tidings. And we learned** in the mishna **that upon** hearing **good tidings one recites: Who is good and does good.** Therefore, there is no reason for the mishna to mention rain separately.
+
+**11.**
+*Hebrew/Aramaic:* אֶלָּא: אִידֵּי וְאִידֵּי דַּחֲזָא מִחְזֵי, וְלָא קַשְׁיָא: הָא דַּאֲתָא פּוּרְתָּא, הָא דַּאֲתָא טוּבָא. וְאִיבָּעֵית אֵימָא: הָא וְהָא דַּאֲתָא טוּבָא, וְלָא קַשְׁיָא — הָא דְּאִית לֵיהּ אַרְעָא, הָא דְּלֵית לֵיהּ אַרְעָא.
+*Translation:* **Rather,** the difficulty can be otherwise resolved: **This,** Rabbi Abbahu’s statement, **and that,** the mishna, both refer to a case where one saw the rain fall, **and** this is **not difficult. This,** Rabbi Abbahu’s statement that one recites We thank You, etc., **refers to** a case **where a little** rain **fell,** while **that,** the mishna which says that one recites: Who is good and does good, refers to a case **where a lot** of rain **fell. And if you wish, say** instead that **this and that** refer to cases **where a lot** of rain **fell, and** this is **not difficult. This,** the mishna, **refers to** a case **where one owns land,** while **that,** Rabbi Abbahu’s statement that one recites: We thank You, etc., **refers to** a case **where one does not own land,** so the rain does not benefit him directly.
+
+**12.**
+*Hebrew/Aramaic:* אִית לֵיהּ אַרְעָא ״הַטּוֹב וְהַמֵּטִיב״ מְבָרֵךְ?! וְהָא תְּנַן: בָּנָה בַּיִת חָדָשׁ, וְקָנָה כֵּלִים חֲדָשִׁים, אוֹמֵר: ״בָּרוּךְ … שֶׁהֶחֱיָינוּ וְהִגִּיעָנוּ לַזְּמַן הַזֶּה״. שֶׁלּוֹ וְשֶׁל אֲחֵרִים — אוֹמֵר: ״הַטּוֹב וְהַמֵּטִיב״?
+*Translation:* The Gemara asks: **One who owns land recites: Who is good and does good? Didn’t we learn** in the mishna: **One who built a new house or purchased new vessels recites: Blessed…Who has given us life…and brought us to this time.** However, if the land belonged **to him and others** in partnership, **he recites: Who is good and does good?** For rain falling onto land that one owns exclusively, he recites: Who has given us life and not: Who is good and does good.
+
+**13.**
+*Hebrew/Aramaic:* לָא קַשְׁיָא: הָא דְּאִית לֵיהּ שׁוּתָּפוּת, הָא דְּלֵית לֵיהּ שׁוּתָּפוּת. וְהָתַנְיָא: קׇצְרוֹ שֶׁל דָּבָר, עַל שֶׁלּוֹ הוּא אוֹמֵר: ״בָּרוּךְ … שֶׁהֶחֱיָינוּ וְקִיְּימָנוּ״, עַל שֶׁלּוֹ וְעַל שֶׁל חֲבֵירוֹ — אוֹמֵר: ״בָּרוּךְ … הַטּוֹב וְהַמֵּטִיב״.
+*Translation:* The Gemara answers: This is **not difficult. This,** the mishna where we learned that one recites: Who is good and does good, **refers to** a case **where one** owns his land **in partnership** with another; **that,** Rabbi Abbahu’s statement that one recites: Who has given us life, **refers to** a case **where one** owns the land exclusively and **does not have a partnership. And** indeed, this *halakha* **was taught** in a *baraita*: **The gist of the matter is, for** that which **is** exclusively **his, he recites: Blessed…Who has given us life and sustained us; for** that which **belongs to him and to another** in partnership, **he recites: Who is good and does good.**
+
+**14.**
+*Hebrew/Aramaic:* וְכׇל הֵיכָא דְּלֵית לְאַחֲרִינָא בַּהֲדֵיהּ לָא מְבָרֵךְ ״הַטּוֹב וְהַמֵּטִיב״? וְהָתַנְיָא: אָמְרוּ לֵיהּ יָלְדָה אִשְׁתּוֹ זָכָר, אוֹמֵר ״בָּרוּךְ … הַטּוֹב וְהַמֵּטִיב״! הָתָם נָמֵי, דְּאִיכָּא אִשְׁתּוֹ בַּהֲדֵיהּ דְּנִיחָא לַהּ בְּזָכָר.
+*Translation:* The Gemara challenges this principle: **And in every case where others are not with him, one does not recite: Who is good and does good? Wasn’t it taught** in a *baraita*: **If they told him that his wife gave birth to a male, he recites: Who is good and does good?** The Gemara responds: **There too, his wife is with him, as she is also happy that a male** child was born.
+
+**15.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: מֵת אָבִיו וְהוּא יוֹרְשׁוֹ, בַּתְּחִלָּה אוֹמֵר: ״בָּרוּךְ … דַּיַּין הָאֱמֶת״, וּלְבַסּוֹף הוּא אוֹמֵר: ״בָּרוּךְ … הַטּוֹב וְהַמֵּטִיב״. הָתָם נָמֵי דְּאִיכָּא אֲחֵי דְּקָא יָרְתִי בַּהֲדֵיהּ.
+*Translation:* The Gemara challenges further: **Come and hear** a contradiction from what was taught in a *baraita*: One whose **father died and he is his heir, initially recites: Blessed…the true Judge,** upon hearing of his father’s death, **and ultimately,** upon receiving his inheritance, **he recites: Blessed…Who is good and does good.** Despite the fact that the son alone benefits, he nevertheless recites: Who is good and does good. The Gemara responds: **There, too,** it refers to a case **where he has brothers who inherit along with him.**
+
+**16.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: שִׁינּוּי יַיִן אֵינוֹ צָרִיךְ לְבָרֵךְ, שִׁינּוּי מָקוֹם צָרִיךְ לְבָרֵךְ. וְאָמַר רַבִּי יוֹסֵף בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן אַף עַל פִּי שֶׁאָמְרוּ שִׁינּוּי יַיִן אֵינוֹ צָרִיךְ לְבָרֵךְ, אֲבָל אוֹמֵר: ״בָּרוּךְ … הַטּוֹב וְהַמֵּטִיב״! הָתָם נָמֵי, דְּאִיכָּא בְּנֵי חֲבוּרָה דְּשָׁתוּ בַּהֲדֵיהּ.
+*Translation:* The Gemara cites an additional challenge: **Come and hear** a contradiction based on what was taught in a *baraita*: In the case of **a change in** the type of **wine** during a meal, **one need not recite the blessing:** Who creates fruit of the vine, a second time. However, in the case of **a change in place, one must recite a** second **blessing** over the wine. **And Rabbi Yosef bar Abba said** that **Rabbi Yoḥanan said: Although** the Sages **said that** in the case of **a change in** the type of **wine one need not recite a** second **blessing** over the wine, **he does recite: Blessed…Who is good and does good.** The Gemara responds: **There, too,** it refers to a case where he is not alone, but where **members of the group are drinking with him.**
+
+**17.**
+*Hebrew/Aramaic:* בָּנָה בַּיִת חָדָשׁ וְקָנָה כֵּלִים חֲדָשִׁים וְכוּ׳. אָמַר רַב הוּנָא: לֹא שָׁנוּ אֶלָּא שֶׁאֵין לוֹ כַּיּוֹצֵא בָּהֶן, אֲבָל יֵשׁ לוֹ כַּיּוֹצֵא בָּהֶן — אֵינוֹ צָרִיךְ לְבָרֵךְ. וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ יֵשׁ לוֹ כַּיּוֹצֵא בָּהֶן, צָרִיךְ לְבָרֵךְ.
+*Translation:* We learned in the mishna: One who **built a new house or purchased new vessels** recites: Blessed…Who has given us life, sustained us and brought us to this time. With regard to this blessing, **Rav Huna said: They only taught** that one recites: Who has given us life, upon purchasing a new vessel when **he does not** already **have something similar,** i.e., something he inherited. **However, if he** already **has something similar he need not recite a blessing,** as it is not new to him. **Rabbi Yoḥanan said: Even** if **one** already **has something similar** that he inherited, **he must recite a blessing** because he never before purchased a vessel of that kind.

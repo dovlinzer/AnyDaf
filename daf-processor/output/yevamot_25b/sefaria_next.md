@@ -95,3 +95,44 @@
 **24.**
 *Hebrew/Aramaic:* אִי הָכִי —
 *Translation:* The Gemara asks: **If so,** i.e., if we are concerned over the possibility that the remaining brother might die,
+
+
+---
+
+### Yevamot 26b
+
+**1.**
+*Hebrew/Aramaic:* חַמְשָׁה נָמֵי! לְמִיתָה דִּתְרֵי לָא חָיְישִׁינַן.
+*Translation:* then this should **also** be true in a case of **five** brothers, two of whom were married to two sisters and died, and their wives happened before the three remaining brothers for levirate marriage. The Gemara answers: **We are not concerned over** the possibility of **the death of two** brothers in such a short period of time.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רָבָא בַּר רַב הוּנָא אָמַר רַב: שָׁלֹשׁ אֲחָיוֹת יְבָמוֹת שֶׁנָּפְלוּ לִפְנֵי שְׁנֵי אַחִין יְבָמִין — זֶה חוֹלֵץ לְאַחַת וְזֶה חוֹלֵץ לְאַחַת, וְאֶמְצָעִית צְרִיכָה חֲלִיצָה מִשְּׁנֵיהֶם.
+*Translation:* § **Rava bar Rav Huna said** that **Rav said:** In a case where **three sisters** who were married to three brothers became ***yevamot*** and **happened before two** remaining **brothers** who were their ***yevamin*** for levirate marriage, then **this** one brother **performs *ḥalitza* with one** of the women, **and that** brother **performs *ḥalitza* with** another **one** of the women. **And the middle,** i.e., third, sister **requires *ḥalitza* with both of** the brothers.
+
+**3.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַבָּה: מִדְּקָאָמְרַתְּ אֶמְצָעִית צְרִיכָה חֲלִיצָה מִשְּׁנֵיהֶם, קָסָבְרַתְּ יֵשׁ זִיקָה, וְהָוְיָא לַהּ חֲלִיצָה פְּסוּלָה — וַחֲלִיצָה פְּסוּלָה צָרִיךְ לַחֲזוֹר עַל כׇּל הָאַחִין,
+*Translation:* **Rabba said to them: From** the fact **that you say** that **the middle one requires *ḥalitza* with both of** the brothers, it can be deduced that **you hold** that **the levirate bond is substantial** and creates a familial relationship, **and** similarly **this** *ḥalitza* performed by each of the brothers with the third sister **is invalid *ḥalitza*.** Since the third woman is the sister of a woman with whom he performed *ḥalitza*, it is not possible to consummate the levirate marriage with her. Therefore, the *ḥalitza* performed with her is not entirely valid and does not release her from the levirate bond between her and the two brothers. **And** there is a principle that **invalid *ḥalitza* must be repeated by all of the brothers;** each of them must perform an act of *ḥalitza* with this woman.
+
+**4.**
+*Hebrew/Aramaic:* אִי הָכִי, קַמַּיְיתָא נָמֵי!
+*Translation:* The Gemara asks: **If that is so, the first** two women should **also** require *ḥalitza* from each of the brothers because each act of *ḥalitza* was invalid, as each woman has the status of the sister of a woman with whom the man has a levirate bond, and it is therefore prohibited for the men to consummate the levirate marriage with them.
+
+**5.**
+*Hebrew/Aramaic:* אִי דִּנְפוּל בְּבַת אַחַת — הָכִי נָמֵי. לָא צְרִיכָא: דִּנְפוּל בְּזוֹ אַחַר זוֹ.
+*Translation:* The Gemara responds: **If** the case is **that they,** i.e., the sisters, **happened** before the brothers **simultaneously, it is indeed so** that the two brothers would each be obligated to perform *ḥalitza* with each of the three sisters. This *halakha* is **necessary only** in the case **where they happened** before the brothers, **one after the other.**
+
+**6.**
+*Hebrew/Aramaic:* נְפַלָה חֲדָא — חָלֵץ לַהּ רְאוּבֵן, נְפַלָה אִידַּךְ — חָלֵץ לַהּ שִׁמְעוֹן,
+*Translation:* How so? **One** sister **happened** before the brothers for levirate marriage and then **Reuven,** one of the brothers, **performed** valid ***ḥalitza* with her. Another** sister **happened** before the brothers for levirate marriage, and the brother **Shimon performed *ḥalitza* with her.** In this case, Shimon was allowed to consummate the levirate marriage with her if he so desired, as she had no family relationship to him at all. When Reuven performed *ḥalitza* with the first sister, he removed the levirate bond between her and the other brothers, such that Shimon has no relationship with the first sister at all and is free to marry the second sister. Therefore, when he performed *ḥalitza*, the act was valid.
+
+**7.**
+*Hebrew/Aramaic:* נְפַלָה אִידַּךְ, חָלֵץ לַהּ הַאי — מַפְקַע זִיקָתוֹ, חָלֵץ לַהּ הַאי — מַפְקַע זִיקָתוֹ.
+*Translation:* **Another** third sister then **happened** before the brothers for levirate marriage. When **this** first brother **performs *ḥalitza* with her, he terminates his levirate bond, and** when **this** second brother **performs *ḥalitza* with her, he terminates his levirate bond.** However, neither brother can, by performing *ḥalitza*, terminate the other brother’s levirate bond because each brother’s *ḥalitza* is invalid, as each brother is unable to consummate the levirate marriage in this case. This is due to the woman’s status as the sister of a woman with whom he performed *ḥalitza*.
+
+**8.**
+*Hebrew/Aramaic:* וְהָאָמַר רַב: אֵין זִיקָה! לְדִבְרֵי הָאוֹמֵר יֵשׁ זִיקָה קָאָמַר.
+*Translation:* The Gemara asks: How can this statement be cited in the name of Rav? **But didn’t Rav say: The levirate bond is not substantial.** This *halakha*, however, was explained based on the assumption that the levirate bond is substantial. The Gemara answers: Indeed, according to Rav himself it is unnecessary to perform *ḥalitza* with multiple brothers. He, however, **states** this *halakha* **in accordance with the statement of the one who says that the levirate bond is substantial,** despite the fact that he does not hold this himself.
+
+**9.**
+*Hebrew/Aramaic:* וּשְׁמוּאֵל אָמַר: אֶחָד חוֹלֵץ לְכוּלָּן. מִכְּדִי שָׁמְעִינַן לֵיהּ לִשְׁמוּאֵל דְּאָמַר: חֲלִיצָה מְעַלְּיָא בְּעֵינַן, דְּאָמַר שְׁמוּאֵל:
+*Translation:* **And** with regard to the above case **Shmuel said** a different halakhic ruling: It is sufficient if **one** brother **performs *ḥalitza* with each** of the sisters. The Gemara raises a difficulty: **But since we have heard that Shmuel said: We require a full-fledged *ḥalitza*,** and invalid *ḥalitza* does not result in complete exemption, this ruling is difficult. It is not clear why the invalid *ḥalitza* in this case would be sufficient, **as Shmuel said:**

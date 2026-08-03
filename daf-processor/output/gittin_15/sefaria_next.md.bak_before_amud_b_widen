@@ -1,0 +1,33 @@
+### Gittin 16a
+
+**1.**
+*Hebrew/Aramaic:* הַנִּצּוֹק, וְהַקָּטַפְרֵס, וּמַשְׁקֶה טוֹפֵחַ – אֵינוֹ חִיבּוּר לֹא לְטוּמְאָה וְלֹא לְטׇהֳרָה!
+*Translation:* **A stream** of water, **and** water descending **an incline [*katafres*], and liquid** that rendered an item **moist** do **not connect, neither for ritual impurity nor for purity.** These liquids do not connect for impurity, e.g., if impure water is in one place and becomes attached to another source of water pouring from above it, the water above is not considered attached to the impure water and is not rendered impure. They also do not connect for purity, e.g., if two collections of water are attached via the pouring of a stream, they do not join together to form the amount of water necessary to form a valid ritual bath, through which people and items can become ritually pure. If so, liquid that rendered a hand moist should not serve to attach the two halves of one’s hand when they are washed.
+
+**2.**
+*Hebrew/Aramaic:* לָא צְרִיכָא, דְּאִיכָּא טוֹפֵחַ לְהַטְפִּיחַ. הָא נָמֵי תְּנֵינָא: טוֹפֵחַ לְהַטְפִּיחַ – חִיבּוּר!
+*Translation:* The Gemara answers: **No,** this dilemma is **necessary** in a case **where there is** liquid that rendered an item **moist** enough **to render** another item **moist.** In other words, the half of the hand that was washed is not merely slightly moist, it is moist enough to render something else moist. The Gemara asks: **We** already **learned this as well:** With regard to liquid that rendered an item **moist** enough **to render** another item **moist,** it **connects** with other liquid. What, then, is Ilfa’s dilemma?
+
+**3.**
+*Hebrew/Aramaic:* דִּלְמָא לְעִנְיַן מִקְוָאוֹת, וְרַבִּי יְהוּדָה הִיא. דִּתְנַן: מִקְוֶה שֶׁיֵּשׁ בּוֹ אַרְבָּעִים סְאָה מְכוּוָּנוֹת, וְיָרְדוּ שְׁנַיִם וְטָבְלוּ (שְׁנֵיהֶם בְּבַת אַחַת – טְהוֹרִים),
+*Translation:* The Gemara suggests: **Perhaps** the *halakha* that liquid rendered an item moist enough to render another item moist joins with other liquid is stated only **with regard to the issue of ritual baths, and** this **is** in accordance with the opinion of **Rabbi Yehuda. As we learned** in a mishna (*Mikvaot* 7:6): In the case of **a ritual bath that contains precisely forty *se’a*** of water, **and two** people **descended and immersed** in it, if **both of them** immersed **at the same time they are ritually pure.**
+
+**4.**
+*Hebrew/Aramaic:* בְּזֶה אַחַר זֶה – רִאשׁוֹן טָהוֹר, וְהַשֵּׁנִי טָמֵא.
+*Translation:* If they immersed **sequentially,** then the **first** person is **ritually pure,** as he immersed in a ritual bath that contains the requisite amount of water, **but the second** person is **impure,** because some of the water must certainly have clung to the first individual as he left the ritual bath. Consequently, after the first person’s immersion the ritual bath contained slightly less than the requisite forty *se’a* of water.
+
+**5.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: אִם הָיוּ רַגְלָיו שֶׁל רִאשׁוֹן נוֹגְעוֹת בַּמַּיִם – אַף הַשֵּׁנִי טָהוֹר.
+*Translation:* **Rabbi Yehuda says: If** the **first** person’s **feet were** still **touching the water** in the ritual bath when the second person immersed, then **the second** person is **also ritually pure.** According to the opinion of Rabbi Yehuda, the water left on the body of the person who has immersed connects with the water in the ritual bath to constitute the requisite amount of water. Clearly, in Rabbi Yehuda’s opinion, liquid that rendered an item moist enough to render another item moist joins together with other liquid. However, this *halakha* was stated only with regard to a ritual bath. It remains unclear whether liquid that rendered an item moist enough to render another item moist joins with the water used to wash the second half of one’s hand. Perhaps this is the dilemma raised by Ilfa.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִרְמְיָה, הֲרֵי אָמְרוּ: הַבָּא רֹאשׁוֹ וְרוּבּוֹ בְּמַיִם שְׁאוּבִין, וְטָהוֹר שֶׁנָּפְלוּ עַל רֹאשׁוֹ וְעַל רוּבּוֹ שְׁלֹשָׁה לוּגִּין מַיִם שְׁאוּבִין – טָמֵא; בָּעֵי רַבִּי יִרְמְיָה: חֶצְיוֹ בְּבִיאָה וְחֶצְיוֹ בִּנְפִילָה, מַאי? תֵּיקוּ.
+*Translation:* The Gemara cites another question with regard to this issue. **Rabbi Yirmeya says: They said** in a mishna (*Zavim* 5:12): In the case of **one whose head and most of his** body **enter** into **drawn water** after he immersed himself in a ritual bath to purify himself, **and a ritually pure person** concerning **whom three *log*** of **drawn water fell on his head and most of his** body, both of these people are **ritually impure.** With regard to this mishna, **Rabbi Yirmeya raises a dilemma:** If **half of** a person became purified **by entering** into drawn water **and half of him** became purified **by** having water **fall** on him, **what** is the *halakha*? Do these acts join together to render him ritually impure or not? No answer is found, and therefore the Gemara says that the dilemma **shall stand** unresolved.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַב פָּפָּא, הֲרֵי אָמְרוּ: בַּעַל קֶרִי חוֹלֶה, שֶׁנָּתְנוּ עָלָיו תִּשְׁעָה קַבִּין מַיִם – טָהוֹר; בָּעֵי רַב פָּפָּא: חֶצְיוֹ בִּטְבִילָה וְחֶצְיוֹ בִּנְתִינָה, מַאי? תֵּיקוּ.
+*Translation:* Similarly, **Rav Pappa says: They said** in a mishna (*Mikvaot* 3:4): In the case of **a sick** person **who experienced a seminal emission, who had nine *kav* of** drawn **water poured over him,** this is sufficient to render him **ritually pure.** He need not immerse himself in a ritual bath. **Rav Pappa raises a dilemma:** If **half of him** is purified **by immersion and half of him through** this act of **pouring, what** is the *halakha*? No answer is found for this dilemma either, and the Gemara says that it **shall stand** unresolved.
+
+**8.**
+*Hebrew/Aramaic:* אֶחָד אוֹמֵר ״בְּפָנַי נִכְתַּב״ וְאֶחָד אוֹמֵר כּוּ׳: אָמַר רַב שְׁמוּאֵל בַּר יְהוּדָה אָמַר רַבִּי יוֹחָנָן: לֹא שָׁנוּ אֶלָּא שֶׁאֵין הַגֵּט יוֹצֵא מִתַּחַת יְדֵי שְׁנֵיהֶם, אֲבָל גֵּט יוֹצֵא מִתַּחַת יְדֵי שְׁנֵיהֶם –
+*Translation:* § The mishna taught that if **one says: It was written in my presence, and one says:** It was signed in my presence, the bill of divorce is invalid. **Rav Shmuel bar Yehuda says** that **Rabbi Yoḥanan says: They taught** that the document is invalid **only if the bill of divorce** was **not produced by both of them** in court. In other words, this *halakha* applies only if they were not both agents for bringing this bill of divorce. Rather, one of them alone fulfilled this role and he did not say: It was written in my presence and it was signed in my presence, in accordance with the rabbinic decree. **However,** if the **bill of divorce** was **produced by both of them,**

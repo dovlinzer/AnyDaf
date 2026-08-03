@@ -1,0 +1,25 @@
+### Sukkah 50a
+
+**1.**
+*Hebrew/Aramaic:* וְאִי מַיְיתֵי בִּמְקוּדֶּשֶׁת, אִיפְּסִילוּ לְהוּ בְּלִינָה. חִזְקִיָּה אָמַר: כְּלֵי שָׁרֵת אֵין מְקַדְּשִׁין אֶלָּא מִדַּעַת, וּגְזֵירָה שֶׁמָּא יֹאמְרוּ לְדַעַת נִתְקַדְּשׁוּ.
+*Translation:* **And if he brings** the water **in a consecrated** barrel, the water **will become disqualified** for use in the libation **by remaining overnight,** just as all consecrated items, e.g., offerings, are rendered unfit after remaining overnight. **Ḥizkiya said: Temple vessels consecrate only with** specific **intent.** Therefore, in theory, one could bring water to the Temple in a consecrated vessel, provided he has no intent to consecrate it. **And** the reason one may not do so is due to **a** rabbinic **decree lest** people **say,** upon seeing the water poured in the morning, that the water **was intentionally consecrated.** In that case, they might draw the mistaken conclusion that remaining overnight does not disqualify liquids for use in libations.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יַנַּאי אָמַר רַבִּי זֵירָא: אֲפִילּוּ תֵּימָא יֵשׁ שִׁיעוּר לַמַּיִם, וּכְלֵי שָׁרֵת אֵין מְקַדְּשִׁין אֶלָּא מִדַּעַת, וּגְזֵירָה שֶׁמָּא יֹאמְרוּ לְקִידּוּשׁ יָדַיִם וְרַגְלַיִם מִלְּאָן.
+*Translation:* **Rabbi Yannai said** that **Rabbi Zeira said: Even** if **you say that there is a** requisite **measure for the water** to be poured for libation and no more than three *log* can be consecrated, **and** that **Temple vessels consecrate only with intent,** here there is a rabbinic **decree lest they say** the barrel **was filled** with water **for sanctifying the hands and the feet** of the priest, for which there is no measure. Then, when they see the water poured in the morning, they will draw the mistaken conclusion that remaining overnight does not disqualify liquids for use in libations.
+
+**3.**
+*Hebrew/Aramaic:* נִשְׁפְּכָה אוֹ נִתְגַּלְּתָה כּוּ׳. וְאַמַּאי? לִיעַבַּיר בִּמְסַנֶּנֶת. לֵימָא מַתְנִיתִין דְּלָא כְּרַבִּי נְחֶמְיָה, דְּתַנְיָא: מְסַנֶּנֶת יֵשׁ בָּהּ מִשּׁוּם גִּילּוּי. אָמַר רַבִּי נְחֶמְיָה: אֵימָתַי — בִּזְמַן שֶׁהַתַּחְתּוֹנָה מְגוּלָּה, אֲבָל בִּזְמַן שֶׁהַתַּחְתּוֹנָה מְכוּסָּה, אַף עַל פִּי שֶׁהָעֶלְיוֹנָה מְגוּלָּה — אֵין בָּהּ מִשּׁוּם גִּילּוּי. מִפְּנֵי שֶׁאֶרֶס נָחָשׁ דּוֹמֶה לִסְפוֹג צָף וְעוֹמֵד בִּמְקוֹמוֹ.
+*Translation:* § The mishna continues: **If** the water in the barrel **spilled or was exposed** overnight, the water is disqualified. The Gemara asks: **Why** is the water disqualified? **Let him pass it through a strainer,** eliminating the poison. **Let us say that the mishna is not in accordance with** the opinion of **Rabbi Neḥemya, as it was taught** in a *baraita*: A vessel covered **with a strainer is subject to** the *halakha* of **exposure** if the vessel is left unsupervised. **Rabbi Neḥemya said: When** is this so? It is **when the lower vessel,** in which the liquid collects after passing through the strainer, **is exposed. However, if the lower vessel is covered, even if the upper vessel is exposed,** it **is not subject to** the *halakha* of **exposure, because the poison of a snake is like a sponge** in that **it floats and stays in place.**
+
+**4.**
+*Hebrew/Aramaic:* אֲפִילּוּ תֵּימָא רַבִּי נְחֶמְיָה, אֵימַר דְּאָמַר רַבִּי נְחֶמְיָה לְהֶדְיוֹט, אֲבָל לְגָבוֹהַּ מִי אָמַר? וְלֵית לֵיהּ לְרַבִּי נְחֶמְיָה: ״הַקְרִיבֵהוּ נָא לְפֶחָתֶךָ הֲיִרְצְךָ אוֹ הֲיִשָּׂא פָנֶיךָ אָמַר ה׳ צְבָאוֹת״?!
+*Translation:* The Gemara answers: **Even** if **you say** it is in accordance with the opinion of **Rabbi Neḥemya, say that Rabbi Neḥemya said** his opinion permitting strained water **for a common** person. **However, did he** actually **say** that strained water is permitted even to be sacrificed **to God?** Even if it is possible to render this water potable, it is certainly not of the select quality that would render it eligible for use in the Temple service. **Isn’t Rabbi Neḥemya of** the opinion that it is inappropriate to sacrifice on the altar any item that one would not give to someone of prominent stature? As it is stated: “And when you offer the blind for sacrifice, it is no evil; and when you offer the lame and sick, it is no evil. **Present it now unto your governor; will he be pleased with you or will he accept your person, says the Lord of hosts”** (Malachi 1:8).
+
+**5.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ לוּלָב וַעֲרָבָה
+*Translation:* May we return to you Chapter: Lulav and Aravah
+
+**6.**
+*Hebrew/Aramaic:* הֶחָלִיל — חֲמִשָּׁה וְשִׁשָּׁה. זֶהוּ הֶחָלִיל שֶׁל בֵּית הַשּׁוֹאֵבָה, שֶׁאֵינוֹ דּוֹחֶה לֹא אֶת הַשַּׁבָּת וְלֹא אֶת יוֹם טוֹב.
+*Translation:* MISHNA: **The flute** is played on the festival of *Sukkot* for **five** or **six** days. **This is the flute of the Place of the Drawing** of the Water, **whose** playing **overrides neither Shabbat nor** the **Festival.** Therefore, if the first Festival day occurred on Shabbat, they would play the flute for six days that year. However, if Shabbat coincided with one of the intermediate days of the Festival, they would play the flute for only five days.

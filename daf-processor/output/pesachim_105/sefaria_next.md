@@ -51,3 +51,24 @@
 **13.**
 *Hebrew/Aramaic:* אָמַר רַב בְּרוֹנָא אָמַר רַב:
 *Translation:* **Rav Beruna said** that **Rav said:**
+
+
+---
+
+### Pesachim 106b
+
+**1.**
+*Hebrew/Aramaic:* הַנּוֹטֵל יָדָיו לֹא יְקַדֵּשׁ. אֲמַר לְהוּ רַב יִצְחָק בַּר שְׁמוּאֵל בַּר מָרְתָא: אַכַּתִּי לָא נָח נַפְשֵׁיהּ דְּרַב שְׁכַחְנִינְהוּ לִשְׁמַעְתְּתֵיהּ. זִמְנִין סַגִּיאִין הֲוָה קָאֵימְנָא קַמֵּיהּ דְּרַב, זִימְנִין דַּחֲבִיבָא עֲלֵיהּ רִיפְתָּא — מְקַדֵּשׁ אַרִיפְתָּא. זִימְנִין דַּחֲבִיבָא לֵיהּ חַמְרָא — מְקַדֵּשׁ אַחַמְרָא.
+*Translation:* **One who washes his hands** should **not recite *kiddush*** after washing, as this would constitute an interruption between washing and eating, and he will have to wash again. Instead, he should hear *kiddush* from someone else. **Rav Yitzḥak bar Shmuel bar Marta said to them: Not** a lot of time has **yet** passed since **Rav died,** and **we have** already **forgotten his** halakhic **rulings. Many times I stood before Rav** and saw that **sometimes he preferred bread,** and **he would recite *kiddush* over bread.** On those occasions Rav would wash his hands, recite *kiddush* over the bread, and eat it. **At** other **times he preferred wine** and **would recite *kiddush* over wine.** This shows that *kiddush* is not considered an interruption between washing one’s hands and eating bread.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַב הוּנָא אָמַר רַב: טָעַם אֵינוֹ מְקַדֵּשׁ. בְּעָא מִינֵּיהּ רַב חָנָא בַּר חִינָּנָא מֵרַב הוּנָא: טָעַם מַהוּ שֶׁיַּבְדִּיל? אֲמַר לֵיהּ, אֲנִי אוֹמֵר: טָעַם — מַבְדִּיל, וְרַב אַסִּי אָמַר: טָעַם — אֵינוֹ מַבְדִּיל.
+*Translation:* **Rav Huna said** that **Rav said:** One who has **tasted** any food on Shabbat night may **not recite *kiddush*** anymore that night, as one must recite *kiddush* before he eats. Instead, he recites *kiddush* during the day before the meal. **Rav Ḥana bar Ḥinnana raised a dilemma before Rav Huna:** If one **tasted** food at the conclusion of Shabbat before reciting *havdala*, **what is** the *halakha* with regard **to** whether **he** may **recite *havdala*? He said to him: I say** that one who has **tasted** food may still **recite *havdala*. And Rav Asi said:** One who has **tasted** food may **not recite *havdala*.**
+
+**3.**
+*Hebrew/Aramaic:* רַב יִרְמְיָה בַּר אַבָּא אִיקְּלַע לְבֵי רַב אַסִּי, אִישְׁתְּלִי וְטָעִים מִידֵּי, הַבוּ לֵיהּ כָּסָא וְאַבְדֵּיל. אֲמַרָה לֵיהּ דְּבֵיתְהוּ: וְהָא מָר לָא עָבֵיד הָכִי! אֲמַר לַהּ: שִׁבְקֵיהּ, כְּרַבֵּיהּ סְבִירָא לֵיהּ.
+*Translation:* The Gemara relates that **Rav Yirmeya bar Abba happened to** come to **the house of Rav Asi. He forgot and tasted some** food after Shabbat before *havdala*. **They gave him a cup and he recited *havdala*.** Later, Rav Asi’s **wife said to** her husband: **But** my **Master does not act this way.** In your opinion, one who eats before *havdala* does not recite *havdala*. **He said to her: Leave** Rav Yirmeya bar Abba. **He maintains in accordance with** the opinion of **his rabbi.** Rav Yirmeya bar Abba was a student of Rav, who ruled that even one who has eaten may recite *havdala*.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַב יוֹסֵף אָמַר שְׁמוּאֵל: טָעַם — אֵינוֹ מְקַדֵּשׁ, טָעַם — אֵינוֹ מַבְדִּיל. וְרַבָּה אָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: טָעַם — מְקַדֵּשׁ, וְטָעַם — מַבְדִּיל.
+*Translation:* **Rav Yosef said** that **Shmuel said:** One who has **tasted** food before *kiddush* may **not recite *kiddush*,** and **one who has tasted** food before *havdala* may **not recite *havdala*. And Rabba said** that **Rav Naḥman said** that **Shmuel said:** One who has **tasted** may nevertheless **recite *kiddush*, and one who has tasted** may likewise **recite *havdala*.**

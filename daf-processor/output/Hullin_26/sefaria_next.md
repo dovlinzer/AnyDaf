@@ -1,4 +1,4 @@
-### Hullin 27a
+### Chullin 27a
 
 **1.**
 *Hebrew/Aramaic:* מַתְנִי׳ הַשּׁוֹחֵט אֶחָד בָּעוֹף וּשְׁנַיִם בַּבְּהֵמָה – שְׁחִיטָתוֹ כְּשֵׁרָה, וְרוּבּוֹ שֶׁל אֶחָד כָּמוֹהוּ. רַבִּי יְהוּדָה אוֹמֵר: עַד שֶׁיִּשְׁחוֹט אֶת הַוְּורִידִין. חֲצִי אֶחָד בְּעוֹף וְאֶחָד וָחֵצִי בִּבְהֵמָה – שְׁחִיטָתוֹ פְּסוּלָה. רוֹב אֶחָד בָּעוֹף וְרוֹב שְׁנַיִם בַּבְּהֵמָה – שְׁחִיטָתוֹ כְּשֵׁרָה.
@@ -70,4 +70,85 @@
 
 **18.**
 *Hebrew/Aramaic:* וְ״רֹאשׁוֹ וּפִדְרוֹ״ לְמָה לִי? מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: מִנַּיִן לְרֹאשׁ וּפֶדֶר שֶׁקּוֹדְמִין לְכׇל הַנְּתָחִים? תַּלְמוּד לוֹמַר: ״אֶת רֹאשׁוֹ וְאֶת פִּדְרוֹ וְעָרַךְ״.
-*Translation:* The Gemara asks: **And** if so, **why do I** need the verse cited at the end of the *baraita*: **“Its head and its fat”?** The Gemara answers: The verse **is necessary for that which is taught** in a *baraita*: **From where** is it derived **that the head and the fat precede all the** other **pieces**when the sacrificial portions are sacrificed on the altar? **The verse states: “With its head and its fat, and** the priest **shall arrange** them” (Leviticus 1:12).
+*Translation:* The Gemara asks: **And** if so, **why do I** need the verse cited at the end of the *baraita*: **“Its head and its fat”?** The Gemara answers: The verse **is necessary for that which is taught** in a *baraita*: **From where** is it derived **that the head and the fat precede all the** other **pieces** when the sacrificial portions are sacrificed on the altar? **The verse states: “With its head and its fat, and** the priest **shall arrange** them” (Leviticus 1:12).
+
+
+---
+
+### Chullin 27b
+
+**1.**
+*Hebrew/Aramaic:* וּפֶדֶר קַמָּא דִּכְתַב רַחֲמָנָא לְמָה לִי? מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: כֵּיצַד הוּא עוֹשֶׂה? חוֹפֶה אֶת הַפֶּדֶר עַל בֵּית הַשְּׁחִיטָה וּמַעֲלֵהוּ, וְזֶהוּ דֶּרֶךְ כָּבוֹד שֶׁל מַעְלָה.
+*Translation:* The Gemara asks: **And why do I** need **the first** mention of **fat that the Merciful One writes:** “The pieces, the head, and the fat” (Leviticus 1:8)? Wasn’t the derivation from that verse restricted to the head? The Gemara answers that it is **necessary for that which is taught** in a *baraita*: **How does** the priest who elevates the sacrificial portions of the animal to the altar **perform** that task? **He** uses **the fat** to **cover the place of slaughter,** i.e., to conceal the bloody neck, **and elevates** the head to the top of the altar, **and that is a deferential manner** toward **the Most High.**
+
+**2.**
+*Hebrew/Aramaic:* וְהַאי תַּנָּא מַיְיתֵי לַהּ מֵהָכָא, דְּתַנְיָא: ״זֹאת תּוֹרַת הַבְּהֵמָה וְהָעוֹף״, וְכִי בְּאֵיזוֹ תּוֹרָה שָׁוְותָה בְּהֵמָה לָעוֹף וְעוֹף לִבְהֵמָה? בְּהֵמָה מְטַמְּאָה בְּמַגָּע וּבְמַשָּׂא, עוֹף אֵינוֹ מְטַמֵּא בְּמַגָּע וּבְמַשָּׂא! עוֹף מְטַמֵּא בְּגָדִים אַבֵּית הַבְּלִיעָה, בְּהֵמָה אֵינָהּ מְטַמְּאָה בְּגָדִים אַבֵּית הַבְּלִיעָה!
+*Translation:* **And this *tanna* cites** proof that slaughter is from the neck **from here: As it is taught** in a *baraita* that the Torah writes with regard to the impurity of carcasses: **“This is the law of the animal, and of the bird”** (Leviticus 11:46), indicating that the two are somehow equated. **But with regard to what law is an animal equal to a bird and a bird to an animal?** The *halakhot* of ritual impurity governing animals and birds are not comparable; **an animal imparts impurity by contact and by carrying,** whereas **a bird does not impart impurity by contact or by carrying.** Furthermore, **a bird renders** the **garments** of one who swallows it **ritually impure** when it is **in the throat; an animal does not render** one’s **garments impure** when it is **in the throat.**
+
+**3.**
+*Hebrew/Aramaic:* בְּאֵיזוֹ תּוֹרָה שָׁוְותָה בְּהֵמָה לְעוֹף וְעוֹף לִבְהֵמָה? לוֹמַר לָךְ: מָה בְּהֵמָה בִּשְׁחִיטָה – אַף עוֹף בִּשְׁחִיטָה. אִי מָה לְהַלָּן בְּרוֹב שְׁנַיִם – אַף כָּאן בְּרוֹב שְׁנַיִם? תַּלְמוּד לוֹמַר: ״זֹאת״.
+*Translation:* The *baraita* continues: **With regard to what law is an animal equal to a bird and a bird to an animal?** The verse comes **to say to you: Just as an animal** avoids the impurity of being an unslaughtered carcass **through slaughter, so too, a bird** avoids the impurity of being an unslaughtered carcass **through slaughter.** The Gemara objects: **If** so, say, based on the same juxtaposition: **Just as there,** in the case of an animal, it avoids the impurity **through** the cutting of **the majority of two** *simanim*, i.e., the windpipe and the gullet, **so too here,** in the case of a bird, it avoids the impurity **through** the cutting of **the majority of two** *simanim*. The Gemara explains that **the verse states: “This** is the law,” to restrict the scope of the juxtaposition in the sense that not all of the *halakhot* of birds and animals are equal.
+
+**4.**
+*Hebrew/Aramaic:* רַבִּי אֱלִיעֶזֶר אוֹמֵר: בְּאֵיזוֹ תּוֹרָה שָׁוְותָה בְּהֵמָה לְעוֹף וְעוֹף לִבְהֵמָה? לוֹמַר לָךְ: מָה עוֹף הֶכְשֵׁרוֹ מִן הַצַּוָּאר, אַף בְּהֵמָה הֶכְשֵׁרָהּ מִן הַצַּוָּאר.
+*Translation:* The *baraita* continues. **Rabbi Eliezer says: With regard to what law is an animal equal to a bird and a bird to an animal?** The verse comes **to say to you: Just as** in the case of **a bird, its fitness** for sacrifice and for consumption is accomplished through pinching and slaughter **from the neck,** as the Torah states with regard to bird offerings that one pinches off its head from the neck, **so too,** in the case of **an animal, its fitness** for sacrifice and for consumption is accomplished through slaughter **from the neck.**
+
+**5.**
+*Hebrew/Aramaic:* אִי מָה לְהַלָּן ״מִמּוּל עוֹרֶף״, אַף כָּאן ״מִמּוּל עוֹרֶף״? תַּלְמוּד לוֹמַר: ״וּמָלַק אֶת רֹאשׁוֹ מִמּוּל עׇרְפּוֹ וְלֹא יַבְדִּיל״ – רֹאשׁוֹ שֶׁל זֶה מִמּוּל עוֹרֶף, וְאֵין רֹאשׁוֹ שֶׁל אַחַר מִמּוּל עוֹרֶף.
+*Translation:* The Gemara objects: **If** so, say, based on the same juxtaposition: **Just as there,** in the case of a bird, the pinching is performed **adjacent to** the **nape** of the neck, **so too here,** with regard to an animal, the slaughter is performed **adjacent to** the **nape** of the neck and not from the throat. The Gemara explains that therefore, **the verse states** with regard to a bird: **“And pinch off its head adjacent to its nape, but shall not divide it asunder”** (Leviticus 5:8), from which it is derived: **Its head,** i.e., the bird’s head, is pinched **adjacent** to the **nape, but the head of another,** the animal, **is not** cut **adjacent** to the **nape.**
+
+**6.**
+*Hebrew/Aramaic:* וְרַבִּי אֱלִיעֶזֶר, הַאי ״זֹאת״ מַאי עָבֵיד לֵיהּ? אִי לָאו ״זֹאת״ הֲוָה אָמֵינָא: מָה עוֹף בְּסִימָן אֶחָד, אַף בְּהֵמָה בְּסִימָן אֶחָד, כְּתַב רַחֲמָנָא ״זֹאת״.
+*Translation:* The Gemara asks: **And** according to **Rabbi Eliezer, what does he do with this** term: **“This** is the law,” from which the first *tanna* restricted the scope of the juxtaposition between animals and birds? The Gemara answers: **If not** for the derivation from the term **“This** is the law,” **I would say: Just as** the fitness of **a bird** is accomplished **by** cutting **one of the *simanim* that must be severed in ritual slaughter,** i.e., either the windpipe or the gullet, **so too,** the fitness of **an animal** is accomplished **by** cutting **one *siman*.** Therefore, **the Merciful One writes: “This** is the law,” to restrict the juxtaposition.
+
+**7.**
+*Hebrew/Aramaic:* תָּנֵי בַּר קַפָּרָא: ״זֹאת תּוֹרַת הַבְּהֵמָה וְהָעוֹף״ – הֵטִיל הַכָּתוּב לְעוֹף בֵּין בְּהֵמָה לְדָגִים, לְחַיְּיבוֹ בִּשְׁנֵי סִימָנִין אִי אֶפְשָׁר – שֶׁכְּבָר הוּקַּשׁ לְדָגִים, לְפוֹטְרוֹ בְּלֹא כְּלוּם אִי אֶפְשָׁר – שֶׁכְּבָר הוּקַּשׁ לִבְהֵמָה. הָא כֵּיצַד הֶכְשֵׁרוֹ? בְּסִימָן אֶחָד.
+*Translation:* § The Gemara proceeds to discuss the source for the slaughter of non-sacred birds. **Bar Kappara teaches** that the verse states: **“This is the law of the animal, and of the bird,** and of every living creature that moves in the waters, and of every creature that swarms upon the earth” (Leviticus 11:46). **The verse situated the bird between** the **animal and** the **fish. To require** the cutting of the **two *simanim*** that must be severed in ritual slaughter, i.e., the windpipe and the gullet, for the slaughter of a bird, **is impossible, as it was already juxtaposed to fish,** which do not require slaughter at all. **To exempt it with nothing,** i.e., to exempt the bird from slaughter altogether, **is impossible, as it was already juxtaposed to** the **animal. How,** then, **is fitness** of a bird for consumption accomplished? It is rendered fit **with** the cutting of **one *siman*.**
+
+**8.**
+*Hebrew/Aramaic:* דָּגִים דְּלָאו בְּנֵי שְׁחִיטָה נִינְהוּ, מְנָלַן? אִילֵּימָא מִשּׁוּם דִּכְתִיב: ״הֲצֹאן וּבָקָר יִשָּׁחֵט לָהֶם אִם אֶת כׇּל דְּגֵי הַיָּם יֵאָסֵף לָהֶם״, בַּאֲסִיפָה בְּעָלְמָא סַגִּי לְהוּ.
+*Translation:* The Gemara asks: **From where do we** derive that **fish are not subject to slaughter? If we say** that it is **because it is written: “If flocks and herds be slaughtered for them…or if all the fish of the sea be gathered together for them,** will they suffice them” (Numbers 11:22), which indicates that **mere gathering suffices for them,** that is not a proof.
+
+**9.**
+*Hebrew/Aramaic:* אֶלָּא מֵעַתָּה, גַּבֵּי שְׂלָיו דִּכְתִיב: ״וַיַּאַסְפוּ אֶת הַשְּׂלָיו״, הָכִי נָמֵי דְּלָאו בִּשְׁחִיטָה? וְהָא אָמְרַתְּ: לְפוֹטְרוֹ בִּוְלֹא כְּלוּם אִי אֶפְשָׁר, שֶׁכְּבָר הוּקַּשׁ לִבְהֵמָה! הָתָם לָא כְּתִיבָא אֲסִיפָה בִּמְקוֹם שְׁחִיטָה דְּאַחֲרִינֵי, הָכָא כְּתִיבָא אֲסִיפָה בִּמְקוֹם שְׁחִיטָה דְּאַחֲרִינֵי.
+*Translation:* The Gemara clarifies: **But if that is so, with regard to quail** as well, concerning **which it is written:** “And the people rose up…**and gathered the quail”** (Numbers 11:32), **so too,** would one say with regard to birds **that,** like fish, their fitness is **not** accomplished **with slaughter?** The Gemara responds with a question. **But didn’t you say: To exempt** birds from slaughter altogether **with nothing is impossible, as it was already juxtaposed to** the **animal?** The Gemara answers: **There, gathering** of quail **is not written in** the **context** of the **slaughter of others;** therefore, gathering is not to be understood as an alternative to slaughtering the birds. **Here, gathering** of fish **is written in** the **context** of the **slaughter of others,** i.e., the flocks and herds, which indicates that gathering is an alternative to slaughter.
+
+**10.**
+*Hebrew/Aramaic:* דָּרַשׁ עוֹבֵר גָּלִילָאָה: בְּהֵמָה שֶׁנִּבְרֵאת מִן הַיַּבָּשָׁה – הֶכְשֵׁרָהּ בִּשְׁנֵי סִימָנִים, דָּגִים שֶׁנִּבְרְאוּ מִן הַמַּיִם – הֶכְשֵׁירָן בִּוְלֹא כְּלוּם, עוֹף שֶׁנִּבְרָא מִן הָרְקָק – הֶכְשֵׁרוֹ בְּסִימָן אֶחָד. אָמַר רַב שְׁמוּאֵל קַפּוֹטְקָאָה: תֵּדַע, שֶׁהֲרֵי עוֹפוֹת יֵשׁ לָהֶן קַשְׂקֶשֶׂת בְּרַגְלֵיהֶם כַּדָּגִים.
+*Translation:* The Gemara relates that **a passerby from the Galilee taught: Fitness** for consumption of **animals, which were created from the** dry **land,** is accomplished **through** cutting **two *simanim*,** the gullet and the windpipe. **Fitness** for consumption of **fish, which were created from the water,** is accomplished **with nothing,** as no slaughter is required. **Fitness** for consumption of **birds, which were created from mud [*harekak*],** a combination of dry land and water, is accomplished **through** cutting **one *siman*. Rav Shmuel of Cappadocia says: Know** that **birds** were created from a combination of dry land and water, **as they have scales on their feet like fish.**
+
+**11.**
+*Hebrew/Aramaic:* וְעוֹד שְׁאֵלוֹ, כָּתוּב אֶחָד אוֹמֵר: ״וַיֹּאמֶר אֱלֹהִים יִשְׁרְצוּ הַמַּיִם שֶׁרֶץ נֶפֶשׁ חַיָּה וְעוֹף יְעוֹפֵף״, אַלְמָא מִמַּיָּא אִיבְּרוֹ, וּכְתִיב: ״וַיִּצֶר ה׳ אֱלֹהִים מִן הָאֲדָמָה כׇּל חַיַּת הַשָּׂדֶה וְאֵת כׇּל עוֹף הַשָּׁמַיִם״, אַלְמָא מֵאַרְעָא אִיבְּרוֹ!
+*Translation:* The Gemara relates an excerpt of an exchange between a Roman government official and Rabban Yoḥanan ben Zakkai. **And furthermore,** the official **asked** Rabban Yoḥanan ben Zakkai: **One verse states: “And God said: Let the waters swarm with swarms of living creeping animals, and birds will fly”** (Genesis 1:20); **apparently** birds **were created from the water. And it is written: “And from the ground the Lord God formed every beast of the field, and every bird of the air** and brought them unto the man to see what he would call them” (Genesis 2:19); **apparently** birds **were created from the land.**
+
+**12.**
+*Hebrew/Aramaic:* אָמַר לוֹ: מִן הָרְקָק נִבְרְאוּ. רָאָה תַּלְמִידָיו מִסְתַּכְּלִים זֶה בָּזֶה, אָמַר לָהֶם: קָשֶׁה בְּעֵינֵיכֶם שֶׁדָּחִיתִי אֶת אוֹיְבִי בְּקַשׁ? מִן הַמַּיִם נִבְרְאוּ, וְלָמָּה הֱבִיאָן אֶל הָאָדָם? לִקְרוֹת לָהֶן שֵׁם.
+*Translation:* Rabban Yoḥanan ben Zakkai **said to him: They were created from the mud. He saw his students looking at each other,** wondering. **He said to them: Does it trouble you that I dismissed my enemy with a flimsy** pretext? Actually, it is **from water** that birds **were created. And why** does the verse state that they were formed from the ground and that God **brought them to Adam?** In other words, why are they mentioned in the second verse? It is not because they were actually formed from the ground, but only because they were brought to Adam so that **he would call them names.**
+
+**13.**
+*Hebrew/Aramaic:* וְיֵשׁ אוֹמְרִים: בְּלָשׁוֹן אַחֵר אָמַר לְאוֹתוֹ הֶגְמוֹן, וּבַלָּשׁוֹן הָרִאשׁוֹן אָמַר לָהֶן לְתַלְמִידָיו, מִשּׁוּם דִּכְתִיב עַל ״וַיִּצֶר״.
+*Translation:* **And some say** that Rabban Yoḥanan ben Zakkai spoke **to that officer with a different formulation,** i.e., he said to him that the birds were created from the water. **And he stated the first formulation,** that the birds were created from the mud, **to his students, because it is written: “And** from the ground the Lord God **formed** every beast of the field, and every bird of the air” (Genesis 2:19). According to this explanation, the birds are mentioned there not only because Adam called them names, but also because they too were created from the ground.
+
+**14.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה מִשּׁוּם רַבִּי יִצְחָק בֶּן פִּנְחָס: אֵין שְׁחִיטָה לָעוֹף מִן הַתּוֹרָה, שֶׁנֶּאֱמַר: ״וְשָׁפַךְ״ – בִּשְׁפִיכָה בְּעָלְמָא סַגִּי.
+*Translation:* On the matter of slaughtering birds, **Rav Yehuda says in the name of Rabbi Yitzḥak ben Pineḥas: Slaughter of a bird is not** obligatory **by Torah law, as it is stated:** “And whatever man there be of the children of Israel…who traps any undomesticated animal or bird that may be eaten, **he shall spill its blood,** and cover it in earth” (Leviticus 17:13). This indicates that **mere spilling** of its blood **is sufficient.**
+
+**15.**
+*Hebrew/Aramaic:* אִי הָכִי, חַיָּה נָמֵי! אִיתַּקַּשׁ לִפְסוּלֵי הַמּוּקְדָּשִׁין. עוֹף נָמֵי! אִיתַּקַּשׁ לִבְהֵמָה, דִּכְתִיב: ״זֹאת תּוֹרַת הַבְּהֵמָה וְהָעוֹף״. הָא כְּתִיב: ״וְשָׁפַךְ אֶת דָּמוֹ״.
+*Translation:* The Gemara objects: **If so,** with regard to **an undomesticated animal,** which is mentioned in the same verse, spilling should be sufficient **also.** The Gemara explains: An undomesticated animal **is juxtaposed to disqualified consecrated** animals, for which slaughter is required, as explained later in the Gemara (28a). The Gemara asks: **Birds too are juxtaposed to animals,** and therefore slaughter should be required, **as it is written: “This is the law of the animal, and of the bird”** (Leviticus 11:46). The Gemara answers: **But isn’t it written: “He shall spill its blood,”** indicating that slaughter is not required?
+
+**16.**
+*Hebrew/Aramaic:* וּמַאי חָזֵית דְּשָׁדֵית לֵיהּ עַל עוֹף? שַׁדְיֵיהּ אַחַיָּה! מִסְתַּבְּרָא, מִשּׁוּם דְּסָלֵיק מִינֵּיהּ.
+*Translation:* The Gemara asks: **And** concerning the derivation that slaughter is not required, based on the phrase in the verse “He shall spill,” **what did you see that** led you to **cast it upon,** i.e., apply it to, the case of **a bird?** Why not **cast it upon** the case of **an undomesticated animal?** The Gemara answers: **It stands to reason** to cast the derivation upon the case of a bird **due to** the fact **that** the verse **concluded with** the bird, i.e., the bird is mentioned just prior to the directive to spill and cover the blood, as it is written: “Who traps any undomesticated animal or bird that may be eaten, he shall spill its blood.”
+
+**17.**
+*Hebrew/Aramaic:* (סִימָן: נִתְנַבֵּל, דָּם, בִּמְלִיקָה.)
+*Translation:* The Gemara provides **a mnemonic** for the proofs cited in the Gemara with regard to the slaughter of birds: **Became a carcass, blood, through pinching.**
+
+**18.**
+*Hebrew/Aramaic:* מֵיתִיבִי: הַשּׁוֹחֵט וְנִתְנַבְּלָה בְּיָדוֹ, הַנּוֹחֵר וְהַמְעַקֵּר – פָּטוּר מִלְּכַסּוֹת. וְאִי אָמְרַתְּ אֵין שְׁחִיטָה לָעוֹף מִן הַתּוֹרָה, נְחִירָתוֹ זוֹ הִיא שְׁחִיטָתוֹ, לִיבְעֵי כִּסּוּי! מִי סָבְרַתְּ בְּעוֹף? לָא, בְּחַיָּה.
+*Translation:* The Gemara **raises an objection** to the statement of Rabbi Yitzḥak ben Pineḥas from a mishna (85a): **One who slaughters** an undomesticated animal **and it became** an unslaughtered **carcass by his hand** because the slaughter was not valid, or **one who stabbed** the animal by slicing the length of the *simanim*, **or one who ripped** the gullet or windpipe of the animal, rendering the slaughter not valid, **is exempt from covering** the blood because his slaughter was ineffective in permitting consumption of the animal, and it is written that the requirement of covering the blood applies only to “any undomesticated animal or bird that may be eaten.” **And if you say** that **slaughter of a bird is not** obligatory **by Torah law,** the halakhic status of **its stabbing is** like that of **its slaughter; let** its blood **require covering.** The Gemara answers: **Do you maintain** that this mishna is referring **to a bird? No,** it is referring exclusively **to an undomesticated animal.**
+
+**19.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: הַשּׁוֹחֵט וְצָרִיךְ לַדָּם – חַיָּיב לְכַסּוֹת. כֵּיצַד הוּא עוֹשֶׂה? אוֹ נוֹחֲרוֹ אוֹ עוֹקְרוֹ.
+*Translation:* The Gemara cites another challenge: **Come** and **hear** that which is taught in a *baraita*: **One who slaughters** an undomesticated animal or a bird **and requires the blood** and not the animal **is obligated to cover** the blood. Rather, **how does he act** if he seeks to make use of the blood rather than cover it? He **either stabs** the animal **or rips** the *simanim*, and then he is exempt from covering the blood.

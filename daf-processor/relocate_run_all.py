@@ -8,6 +8,7 @@ import sys
 import json
 import os
 import time
+import argparse
 from relocate_parse import parse_blocks, build_windows
 from relocate_check import check_window
 
@@ -18,12 +19,19 @@ DAFIM = ["bava_batra_103","bava_batra_153","bava_batra_174","bava_batra_84",
 OUT_DIR = os.path.join(os.path.dirname(__file__), "review_v10_relocated")
 os.makedirs(OUT_DIR, exist_ok=True)
 
-for d in DAFIM:
-    outpath = f"{OUT_DIR}/{d}.json"
+ap = argparse.ArgumentParser()
+ap.add_argument("--dafim", nargs="*", default=DAFIM, help="Daf dir names to process")
+ap.add_argument("--v10-file", default="03_text_first_prototype_v10.md",
+                 help="v10-assembled filename to read from each daf dir")
+ap.add_argument("--suffix", default="", help="Suffix for the output JSON filename, e.g. '_wallpatched'")
+args = ap.parse_args()
+
+for d in args.dafim:
+    outpath = f"{OUT_DIR}/{d}{args.suffix}.json"
     if os.path.exists(outpath):
         print(f"{d}: already done, skipping")
         continue
-    path = os.path.join(os.path.dirname(__file__), "output", d, "03_text_first_prototype_v10.md")
+    path = os.path.join(os.path.dirname(__file__), "output", d, args.v10_file)
     text = open(path, encoding="utf-8", errors="replace").read()
     blocks = parse_blocks(text)
     windows = build_windows(blocks)

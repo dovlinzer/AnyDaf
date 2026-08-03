@@ -47,3 +47,64 @@
 **12.**
 *Hebrew/Aramaic:* וְסָבַר רַב אֶפְשָׁר לְסוֹחֳטוֹ אָסוּר? וְהָאִיתְּמַר: כְּזַיִת בָּשָׂר שֶׁנָּפַל לְתוֹךְ יוֹרָה שֶׁל חָלָב, אָמַר רַב: בָּשָׂר אָסוּר וְחָלָב מוּתָּר, וְאִי סָלְקָא דַּעְתָּךְ אֶפְשָׁר לְסוֹחֳטוֹ אָסוּר,
 *Translation:* The Gemara asks: **And does Rav** really **maintain** that an item **that can be wrung** to remove the forbidden substance is **forbidden? But wasn’t it stated:** If **an olive-bulk of meat fell into a pot of milk** so large that the meat did not impart flavor to it, **Rav says:** The **meat is forbidden,** as it absorbed the taste of the milk, **but** the **milk is permitted,** since it did not absorb the taste of the meat. **But if it enters your mind** that according to Rav an item **that can be wrung is forbidden,**
+
+
+---
+
+### Hullin 108b
+
+**1.**
+*Hebrew/Aramaic:* חָלָב אַמַּאי מוּתָּר? חָלָב נְבֵלָה הוּא!
+*Translation:* **why is** the **milk permitted?** All the milk that the meat absorbed **is** rendered **non-kosher milk** in and of itself. When it seeps back out of the meat, it cannot be nullified by the rest of the milk, which is the same substance, as Rav holds in accordance with Rabbi Yehuda that a type of food mixed with food of its own type is not nullified. Therefore, the whole pot of milk should be prohibited.
+
+**2.**
+*Hebrew/Aramaic:* לְעוֹלָם קָסָבַר רַב אֶפְשָׁר לְסוֹחֳטוֹ אָסוּר, וְשָׁאנֵי הָתָם דְּאָמַר קְרָא ״לֹא תְבַשֵּׁל גְּדִי בַּחֲלֵב אִמּוֹ״ – גְּדִי אָסְרָה תּוֹרָה, וְלֹא חָלָב.
+*Translation:* The Gemara answers: **Rav actually maintains** that an item **that can be wrung** to remove the forbidden substance is **prohibited, and there,** the pot of milk mentioned above **is different, as the verse states: “You shall not cook a kid in its mother’s milk”** (Deuteronomy 14:21). The verse teaches that **the Torah prohibits** only the **kid,** i.e., the meat, that was cooked in milk, **but not** the **milk** that was cooked in meat. The milk is not itself rendered non-kosher.
+
+**3.**
+*Hebrew/Aramaic:* וְסָבַר רַב גְּדִי אָסְרָה תּוֹרָה וְלֹא חָלָב? וְהָא אִיתְּמַר: חֲצִי זַיִת בָּשָׂר וַחֲצִי זַיִת חָלָב שֶׁבִּשְּׁלָן זֶה עִם זֶה, אָמַר רַב: לוֹקֶה עַל אֲכִילָתוֹ, וְאֵינוֹ לוֹקֶה עַל בִּשּׁוּלוֹ. וְאִי סָלְקָא דַעְתָּךְ גְּדִי אָסְרָה תּוֹרָה וְלֹא חָלָב, אַאֲכִילָה אַמַּאי לוֹקֶה? חֲצִי שִׁיעוּר הוּא!
+*Translation:* The Gemara challenges: **And does Rav** really **maintain** that **the Torah prohibits** only the **kid but not** the **milk** cooked with it? **But isn’t it stated:** If **half an olive-bulk of meat and half an olive-bulk of milk were cooked together, Rav says:** One **is flogged for consuming** the combined olive-bulk, as he has eaten a whole olive-bulk of forbidden food. **But he is not flogged for cooking** the two half olive-bulks, as he did not cook items of the minimum size. **And if** it should **enter your mind** that Rav holds that **the Torah prohibits** only the **kid but not** the **milk, why is** this individual **flogged for consuming** only half an olive-bulk of meat? **It is** only **half** the prohibited **measure.**
+
+**4.**
+*Hebrew/Aramaic:* אֶלָּא, לְעוֹלָם קָסָבַר רַב חָלָב נָמֵי אָסוּר, וְהָכָא בְּמַאי עָסְקִינַן? כְּגוֹן שֶׁנָּפַל לְתוֹךְ יוֹרָה רוֹתַחַת, דְּמִבְלָע בָּלַע, מִפְלָט לָא פָּלֵט.
+*Translation:* **Rather, Rav actually maintains** that **milk** cooked in meat **is also prohibited, and** the reason Rav permits the pot of milk mentioned above is that **here we are dealing with** a case **where** the olive-bulk of meat **fell into a boiling pot** of milk. In such a case the meat **absorbs** milk, but **it does not expel** it, and therefore the prohibited milk does not mix with the rest.
+
+**5.**
+*Hebrew/Aramaic:* סוֹף סוֹף כִּי נָיַיח, הֲדַר פָּלֵיט! כְּשֶׁקָּדַם וְסִילְּקוֹ.
+*Translation:* The Gemara challenges: **Ultimately, when** the pot **cools** from boiling, the meat **then expels** the prohibited milk. The Gemara answers: It is referring to a case **where he first removed** the meat before the pot cooled.
+
+**6.**
+*Hebrew/Aramaic:* גּוּפָא: חֲצִי זַיִת בָּשָׂר וַחֲצִי זַיִת חָלָב שֶׁבִּשְּׁלָן זֶה עִם זֶה, אָמַר רַב: לוֹקֶה עַל אֲכִילָתוֹ, וְאֵינוֹ לוֹקֶה עַל בִּשּׁוּלוֹ. מָה נַפְשָׁךְ? אִי מִצְטָרְפִין – אַבִּשּׁוּל נָמֵי לִילְקֵי, אִי לֹא מִצְטָרְפִין – אַאֲכִילָה נָמֵי לָא לִילְקֵי.
+*Translation:* The Gemara turns to **the** matter **itself** mentioned above: If **half an olive-bulk of meat and half an olive-bulk of milk were cooked together, Rav says:** One **is flogged for consuming** the mixture, **but he is not flogged for cooking it.** The Gemara objects: **Whichever way you** look at it, this ruling is problematic. **If** these two halves of olive-bulks **combine** to form the requisite measure, then **let him be flogged for cooking** them **as well.** And **if they do not combine,** then **let him not be flogged for** their **consumption either.**
+
+**7.**
+*Hebrew/Aramaic:* לְעוֹלָם לָא מִצְטָרְפִי, וּבְבָא מִיּוֹרָה גְּדוֹלָה.
+*Translation:* The Gemara answers: **Actually,** half an olive-bulk of meat and half an olive-bulk of milk **do not combine** to form the requisite measure, **and** when Rav says that one is flogged for consuming them, he is referring **to** a case where they **come from a large pot,** in which a sizable amount of meat and cheese had been cooked. The mixture is now considered a single prohibited entity, such that half an olive-bulk of the cheese and the meat can combine to constitute the requisite measure to be held liable for consumption.
+
+**8.**
+*Hebrew/Aramaic:* וְלֵוִי אָמַר: אַף לוֹקֶה עַל בִּשּׁוּלוֹ, וְכֵן תָּנֵי לֵוִי בְּמַתְנִיתִין: כְּשֵׁם שֶׁלּוֹקֶה עַל אֲכִילָתוֹ כָּךְ לוֹקֶה עַל בִּשּׁוּלוֹ, וּבְאֵי זֶה בִּשּׁוּל אָמְרוּ? בְּבִשּׁוּל שֶׁאֲחֵרִים אוֹכְלִין אוֹתוֹ מֵחֲמַת בִּשּׁוּלוֹ.
+*Translation:* **And Levi** disagrees with Rav on this matter, and **says:** Half an olive-bulk of meat and half an olive-bulk of milk can combine to form the requisite measure, and therefore one **is also flogged for cooking** the mixture. **And so Levi teaches in** his collection of ***baraitot*: Just as one is flogged for consuming it, so too he is flogged for cooking it. And for what** degree of **cooking did they say** that one is liable to be flogged? It is **for** a degree of **cooking** that produces food **that others,** gentiles, would **eat due to its cooking,** i.e., cooking that renders it fit for consumption.
+
+**9.**
+*Hebrew/Aramaic:* וְאֶפְשָׁר לְסוֹחֳטוֹ עַצְמוֹ – תַּנָּאֵי הִיא, דְּתַנְיָא: טִפַּת חָלָב שֶׁנָּפְלָה עַל הַחֲתִיכָה, כֵּיוָן שֶׁנָּתְנָה טַעַם בַּחֲתִיכָה – הַחֲתִיכָה עַצְמָהּ נַעֲשֵׂת נְבֵלָה, וְאוֹסֶרֶת כׇּל הַחֲתִיכוֹת כּוּלָּן מִפְּנֵי שֶׁהֵן מִינָהּ, דִּבְרֵי רַבִּי יְהוּדָה.
+*Translation:* § The Gemara returns to the issue previously discussed: **And** the case of an item **that can be wrung** to remove an absorbed prohibited substance **is itself** the subject of a dispute between ***tanna’im*, as it is taught** in a *baraita*: If **a drop of milk fell onto a piece** of meat, **once it imparts flavor to the piece, the piece itself is rendered non-kosher** in its own right. **And** it therefore **renders all the** other **pieces** of meat in the pot **prohibited,** even if they combine to more than sixty times its size; this is **because they are** of **the same type,** and a type of food mixed with food of its own type is not nullified. This is **the statement of Rabbi Yehuda.**
+
+**10.**
+*Hebrew/Aramaic:* וַחֲכָמִים אוֹמְרִים: עַד שֶׁתִּתֵּן טַעַם בָּרוֹטֶב וּבַקֵּיפֶה וּבַחֲתִיכוֹת.
+*Translation:* **And the Rabbis say** that even the original piece of meat is not prohibited **unless** there is enough milk to **impart flavor** even **to the gravy and to the spices and to the** other **pieces** of meat in the pot, since the milk is assumed to diffuse from the first piece until it is evenly distributed throughout the pot.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַבִּי: נִרְאִין דִּבְרֵי רַבִּי יְהוּדָה בְּשֶׁלֹּא נִיעֵר וְשֶׁלֹּא כִּסָּה, וְדִבְרֵי חֲכָמִים בְּשֶׁנִּיעֵר וְכִסָּה.
+*Translation:* With regard to this dispute, **Rabbi** Yehuda HaNasi **said: The statement of Rabbi Yehuda appears** to be correct in a case **where one did not stir** the contents of the pot **and where he did not cover** it, both of which would promote the diffusion of the milk throughout the pot. **And the statement of the Rabbis** appears to be correct in a case **where one stirred** the contents of the pot **and covered** it.
+
+**12.**
+*Hebrew/Aramaic:* מַאי ״לֹא נִיעֵר וְלֹא כִּסָּה״? אִילֵּימָא לֹא נִיעֵר כְּלָל, וְלֹא כִּסָּה כְּלָל – מִבְלָע בָּלַע, מִפְלָט לָא פָּלֵט.
+*Translation:* The Gemara asks: **What** is the meaning of the clause: Where **one did not stir** the pot **and did not cover** it? **If we say** that he **did not stir** the contents of the pot **at all and did not cover** it **at all,** in this case the piece of meat onto which the milk fell **absorbs** the drop of milk but **does not expel** it. Therefore, even according to the opinion of Rabbi Yehuda there is no reason to prohibit the other pieces of meat.
+
+**13.**
+*Hebrew/Aramaic:* וְאֶלָּא, לֹא נִיעֵר בַּתְּחִלָּה אֶלָּא בַּסּוֹף, וְלֹא כִּסָּה בַּתְּחִלָּה אֶלָּא בַּסּוֹף, אַמַּאי? הָא בָּלַע וְהָא פָּלֵט!
+*Translation:* **And** if you say **rather** that **he did not not stir** the contents of the pot **at the beginning,** immediately after the milk fell in, **but** stirred **at the end,** afterward, **and** likewise **he did not cover** the pot **at the beginning but at the end,** one must ask: **Why** are all the pieces in the pot prohibited? The same milk that the piece **absorbs** it subsequently **expels,** and once the milk diffuses throughout the pot it should be nullified.
+
+**14.**
+*Hebrew/Aramaic:* קָסָבַר אֶפְשָׁר לְסוֹחֳטוֹ אָסוּר.
+*Translation:* The Gemara responds: Evidently, Rabbi Yehuda HaNasi **maintains** that an item **that can be wrung** remains **prohibited.** Once the first piece of meat absorbs the milk, it is considered non-kosher in its own right, and even after the milk itself is nullified, the flavor of the forbidden meat renders the rest of the pieces prohibited. The flavor of the meat cannot be nullified by the other meat in the pot, since a substance in contact with the same type of substance is not nullified, according to the opinion of Rabbi Yehuda.

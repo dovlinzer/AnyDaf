@@ -142,7 +142,7 @@ Then a third child, a son: *kera shemo Lo Ami* — call his name *Lo Ami*, for *
 
 After these two sons and a daughter were born, God said to *Hoshea*: *lo hayah lecha lilmod mi-Moshe rabecha* — should you not have learned from your teacher Moses? *She-keivan she-dibarti imo peirash min ha-ishah* — from the moment I spoke with him, he separated himself from his wife. *Af ata bdal atzmecha mimenah* — you too should now separate yourself from this woman. Divorce her.
 
-### Israel Eternal Acquisiti…
+### Israel Eternal Kinyan
 
 *Hoshea* replied: *Ribbono shel olam, yesh li banim mimenah, ve-eini yachol lehotzi'ah ve-lo le-garshah* — I have children from her; I cannot expel her, nor can I divorce her. Note that expulsion and formal divorce are treated as two separate acts.
 

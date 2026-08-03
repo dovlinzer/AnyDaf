@@ -99,3 +99,64 @@
 **25.**
 *Hebrew/Aramaic:* וּפָחוֹת מִשָּׁוֶה פְּרוּטָה,
 *Translation:* **And** another practical difference between them is with regard to whether an *eiruv* may be established with food that is **less than the value of a *peruta*.** According to Shmuel’s opinion, this would not be a valid *eiruv*, as there is no acquisition with something less than the value of a *peruta*; whereas according to Rabba’s opinion, since an *eiruv* is effective by establishing a person’s residence, this can be done even with an amount of food worth less than a *peruta*.
+
+
+---
+
+### Eruvin 49b
+
+**1.**
+*Hebrew/Aramaic:* וְקָטָן.
+*Translation:* **And** there is another practical difference between them with regard to the question whether **a minor** may collect the *eiruv* from the residents of the courtyard and deposit it in one of the houses. According to Shmuel’s opinion, this would not be a valid *eiruv*, for a minor cannot serve as an agent to effect acquisition, whereas according to Rabba’s opinion, the *eiruv* is valid, as the food itself establishes the common residence for all the residents.
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ אַבָּיֵי לְרַבָּה: לְדִידָךְ קַשְׁיָא וְלִשְׁמוּאֵל קַשְׁיָא. הָא תַּנְיָא: חֲמִשָּׁה שֶׁגָּבוּ אֶת עֵירוּבָן, כְּשֶׁהֵם מוֹלִיכִין אֶת עֵירוּבָן לְמָקוֹם אַחֵר — אֶחָד מוֹלִיךְ לְכוּלָּן. הוּא נִיהוּ דְּקָא קָנֵי, וְתוּ לָא. הוּא נִיהוּ דְּקָא דָּיַיר, וְתוּ לָא!
+*Translation:* **Abaye said to Rabba: It is difficult according to your** opinion that an *eiruv* is effective based on the principle of residence, **and it is difficult according to** the opinion **of Shmuel** that it is effective based on the principle of acquisition. **As it was taught** in a *baraita*: With regard to **five** people **who collected their *eiruv*, when they take their *eiruv* elsewhere,** in order to establish an *eiruv* together with another courtyard, **one** person may **take it** there **for all of them.** This indicates that **it is** only **that person who acquires** rights, **and nobody else,** and **it is** only **that person who gains residence, and nobody else.** In that case, how can the others rely on this *eiruv*?
+
+**3.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: לָא לְדִידִי קַשְׁיָא, וְלָא לִשְׁמוּאֵל קַשְׁיָא, שְׁלִיחוּת דְּכוּלְּהוּ קָא עָבֵיד.
+*Translation:* Rabba said **to him:** It is **neither difficult according to my** opinion, **nor** is it **difficult according to** the opinion of **Shmuel,** as, the person who takes the *eiruv* **acts as an agent,** effecting acquisition or determining residence **on behalf of all of them.**
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַבָּה אָמַר רַב חָמָא בַּר גּוּרְיָא אָמַר רַב: הֲלָכָה כְּרַבִּי שִׁמְעוֹן.
+*Translation:* With regard to the case of the three courtyards addressed above, **Rabba said** that **Rav Ḥama bar Gurya said** that **Rav said:** The ***halakha* is in accordance with** the opinion of **Rabbi Shimon** that it is permitted to carry from the middle courtyard into either of the two outer ones; and vice versa, however, it is prohibited to carry from one outer courtyard to the other.
+
+**5.**
+*Hebrew/Aramaic:* מַתְנִי׳ מִי שֶׁבָּא בְּדֶרֶךְ וְחָשְׁכָה לוֹ, וְהָיָה מַכִּיר אִילָן אוֹ גָדֵר, וְאָמַר: ״שְׁבִיתָתִי תַּחְתָּיו״ — לֹא אָמַר כְּלוּם.
+*Translation:* MISHNA: With regard to **one who was coming along the way** on Shabbat eve, **and it grew dark** while **he** was traveling, **and he was familiar** with **a tree or a fence** located two thousand cubits from his current location, and two thousand cubits from his house, **and he said: My residence is beneath** that tree, rather than in his present location, **he has not said anything,** as he did not establish a fixed location as his residence.
+
+**6.**
+*Hebrew/Aramaic:* ״שְׁבִיתָתִי בְּעִיקָּרוֹ״ — מְהַלֵּךְ מִמְּקוֹם רַגְלָיו וְעַד עִיקָּרוֹ אַלְפַּיִם אַמָּה, וּמֵעִיקָּרוֹ וְעַד בֵּיתוֹ אַלְפַּיִם אַמָּה. נִמְצָא מְהַלֵּךְ מִשֶּׁחָשֵׁיכָה אַרְבַּעַת אֲלָפִים אַמָּה.
+*Translation:* If, however, he said: **My residence is at** the tree’s **trunk,** he acquired residence there, and he **may** therefore **walk from the place he is standing to the trunk** of the tree **two thousand cubits** away, **and from the trunk** of the tree **to his house,** an additional **two thousand cubits. Consequently, he walks after nightfall** a total of **four thousand cubits.**
+
+**7.**
+*Hebrew/Aramaic:* אִם אֵינוֹ מַכִּיר, אוֹ שֶׁאֵינוֹ בָּקִי בַּהֲלָכָה, וְאָמַר ״שְׁבִיתָתִי בִּמְקוֹמִי״ — זָכָה לוֹ מְקוֹמוֹ אַלְפַּיִם אַמָּה לְכׇל רוּחַ.
+*Translation:* **If one is not familiar** with a tree or any other noticeable landmark, **or if he is not an expert in the *halakha*,** unaware that residence can be established from a distance, **and he said: My residence is at my** current **location,** then his presence at **his** current **location acquires for him** the right to walk **two thousand cubits in each direction.**
+
+**8.**
+*Hebrew/Aramaic:* עֲגוּלּוֹת, דִּבְרֵי רַבִּי חֲנִינָא בֶּן אַנְטִיגְנוֹס, וַחֲכָמִים אוֹמְרִים: מְרוּבָּעוֹת, כְּטַבְלָא מְרוּבַּעַת, כְּדֵי שֶׁיִּהְיֶה נִשְׂכָּר לַזָּוִיּוֹת.
+*Translation:* The manner in which the two thousand cubits are measured is the subject of a tannaitic dispute. These cubits are measured **circularly,** i.e., as a circle with a radius of two thousand cubits; this is **the statement of Rabbi Ḥanina ben Antigenos. And the Rabbis say:** These are measured **squarely,** i.e., **as a square tablet,** with each side measuring four thousand cubits, **so that he gains the corners.** He is permitted to walk from the middle to the corners of the square as well, a distance of approximately 2,800 cubits.
+
+**9.**
+*Hebrew/Aramaic:* וְזוֹ הִיא שֶׁאָמְרוּ: הֶעָנִי מְעָרֵב בְּרַגְלָיו. אָמַר רַבִּי מֵאִיר: אָנוּ אֵין לָנוּ אֶלָּא עָנִי. רַבִּי יְהוּדָה אוֹמֵר: אֶחָד עָנִי וְאֶחָד עָשִׁיר, לֹא אָמְרוּ מְעָרְבִין בְּפַת אֶלָּא לְהָקֵל עַל הֶעָשִׁיר, שֶׁלֹּא יֵצֵא וִיעָרֵב בְּרַגְלָיו.
+*Translation:* **And this is** the meaning of that **which** the Sages **said: The pauper establishes an *eiruv* with his feet,** i.e., one who does not have the bread required to establish an *eiruv* may walk anywhere within his Shabbat limit and declare: This is my residence, and his Shabbat limit is measured from that location. **Rabbi Meir said: We have** this leniency in effect **only** for **a pauper,** who does not have food for two meals. However, one who has bread may only establish residence with bread. **Rabbi Yehuda says:** This leniency is in effect for **both a pauper and a wealthy person.** The Sages **said** that **one establishes an *eiruv* with bread only** in order **to be lenient with the wealthy** person, **so that he** need **not** exert himself and **go out and establish an *eiruv* with his feet.** Instead, he can appoint an agent to place bread for him in that location. This, however, does not negate the option of personally going to that location in order to establish residence without bread.
+
+**10.**
+*Hebrew/Aramaic:* גְּמָ׳ מַאי ״לֹא אָמַר כְּלוּם״?
+*Translation:* GEMARA: We learned in the mishna that one who declares his intention to establish residence beneath a tree, without specifying the precise location, has not said anything. The Gemara asks: **What is** the precise meaning of **he has not said anything?**
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַב: לֹא אָמַר כְּלוּם כׇּל עִיקָּר, דַּאֲפִילּוּ לְתַחְתָּיו שֶׁל אִילָן לָא מָצֵי אָזֵיל.
+*Translation:* **Rav said: He has not said anything at all,** and has failed to establish residence anywhere, and **he may not even go to** the place **beneath** that **tree.** His failure to specify a particular location prevents him from establishing residence beneath the tree. The fact that he sought to establish residence someplace other than his present location prevents him from establishing residence at his present location. Accordingly, he may walk no more than four cubits from the place that he is standing.
+
+**12.**
+*Hebrew/Aramaic:* וּשְׁמוּאֵל אָמַר: לֹא אָמַר כְּלוּם לְבֵיתוֹ, אֲבָל לְתַחְתָּיו שֶׁל אִילָן מָצֵי אָזֵיל.
+*Translation:* **And Shmuel said: He has not said anything** with regard to going **to his home,** if it is two thousand cubits past the tree; **however,** with regard to the area **beneath the tree,** if its bough is entirely within two thousand cubits of his present location **he may** indeed **go** there.
+
+**13.**
+*Hebrew/Aramaic:* וְנַעֲשֶׂה תַּחְתָּיו שֶׁל אִילָן חַמָּר גַּמָּל.
+*Translation:* **And** when we learned in the mishna that he did not establish residence, it means that the legal status of the area **beneath the tree becomes** comparable to both **a donkey driver,** who walks behind the animal and prods it, **and a camel driver,** who walks before the animal and leads it in the sense that the tree is pulling him in both directions. Since he did not specify a particular location as his residence, any part of the area beneath the tree could be the place where he established residence.
+
+**14.**
+*Hebrew/Aramaic:* בָּא לִמְדּוֹד מִן הַצָּפוֹן — מוֹדְדִין לוֹ מִן הַדָּרוֹם, בָּא לִמְדּוֹד מִן הַדָּרוֹם — מוֹדְדִין לוֹ מִן הַצָּפוֹן.
+*Translation:* Therefore, if **he comes to measure** two thousand cubits **from the north** of the tree in order to ascertain whether or not he may go to his home, because of the uncertainty with regard to the precise location where he established residence, **one measures** the distance **for him** stringently **from the south.** And likewise, if **he comes to measure** the distance to his home **from the south, one measures** the distance **for him from the north.**

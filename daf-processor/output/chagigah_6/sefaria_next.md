@@ -67,3 +67,48 @@
 **17.**
 *Hebrew/Aramaic:* וְאֵין נִרְאִין חֲצָאִין כּוּ׳. סָבַר רַב יוֹסֵף לְמֵימַר: מַאן דְּאִית לֵיהּ עֲשָׂרָה בָּנִים, לָא לִיסְּקוּ הָאִידָּנָא חַמְשָׁה וּלְמָחָר חַמְשָׁה.
 *Translation:* § Earlier the *baraita* taught: The people **may not appear partially,** as the verse states: “All your males” (Exodus 23:17). **Rav Yosef thought to say: One who has ten sons** should **not let five ascend now and** the other **five tomorrow.** Rather, they must all ascend to the Temple together.
+
+
+---
+
+### Chagigah 7b
+
+**1.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ אַבָּיֵי: פְּשִׁיטָא, הֵי מִינַּיְיהוּ מְשַׁוֵּית לְהוּ פּוֹשְׁעִים, וְהֵי מִינַּיְיהוּ מְשַׁוֵּית לְהוּ זְרִיזִין!
+*Translation:* **Abaye said to him:** This **is obvious; which of** his sons would **he render sinners,** who are too lazy to ascend, **and which of them** would **he render vigilant,** eager to perform the mitzva at the first opportunity?
+
+**2.**
+*Hebrew/Aramaic:* אֶלָּא קְרָא לְמַאי אֲתָא? לִכְדַאֲחֵרִים. דְּתַנְיָא, אֲחֵרִים אוֹמְרִים: הַמְקַמֵּץ, וְהַמְצָרֵף נְחֹשֶׁת, וְהַבּוּרְסִי — פְּטוּרִין מִן הָרְאִיָּיה, שֶׁנֶּאֱמַר: ״כׇּל זְכוּרְךָ״, מִי שֶׁיָּכוֹל לַעֲלוֹת עִם כׇּל זְכוּרְךָ. יָצְאוּ אֵלּוּ, שֶׁאֵין יְכוֹלִין לַעֲלוֹת עִם כׇּל זְכוּרְךָ.
+*Translation:* **Rather, for what** purpose **does** the **verse:** “All your males,” **come?** It comes to teach **that which *Aḥerim*** taught. **As it is taught** in a *baraita*: ***Aḥerim* say** that **a scrimper,** one who gathers dog feces to give them to tanners for the purpose of tanning hides; **a melder of copper,** who purifies copper from dross; **and a tanner** of hides **are** all **exempt from** the mitzva of **appearance,** as their occupation inflicts upon them an unpleasant odor. **As it is stated: “All your males,”** which indicates that only **one who is able to ascend with all your males** is obligated, **excluding these. As** people avoid their company, **they cannot ascend with all your males.**
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִי׳ עוֹלוֹת בַּמּוֹעֵד בָּאוֹת מִן הַחוּלִּין, וְהַשְּׁלָמִים מִן הַמַּעֲשֵׂר. יוֹם טוֹב הָרִאשׁוֹן שֶׁל פֶּסַח, בֵּית שַׁמַּאי אוֹמְרִים: מִן הַחוּלִּין, וּבֵית הִלֵּל אוֹמְרִים: מִן הַמַּעֲשֵׂר.
+*Translation:* MISHNA: **Burnt**-offerings that one sacrifices **on** the intermediate days of **the Festival** must **come from non-sacred** property, not from sacred property such as second-tithe money. **But the peace-**offerings may be brought **from the** second **tithe,** i.e., from money with which one redeemed second tithe, which is subsequently used to purchase food in Jerusalem. With regard to the Festival peace-offering sacrificed on **the first day of the festival of Passover, Beit Shammai say:** It must come **from non-sacred** property, **and Beit Hillel say:** It may be brought even **from the** second **tithe.**
+
+**4.**
+*Hebrew/Aramaic:* יִשְׂרָאֵל יוֹצְאִין יְדֵי חוֹבָתָן בִּנְדָרִים וּנְדָבוֹת וּבְמַעְשַׂר בְּהֵמָה. וְהַכֹּהֲנִים בְּחַטָּאוֹת וַאֲשָׁמוֹת וּבִבְכוֹר, וּבְחָזֶה וָשׁוֹק. אֲבָל לֹא בְּעוֹפוֹת, וְלֹא בִּמְנָחוֹת.
+*Translation:* In general, **Israelites fulfill their obligation** to eat peace-offerings of rejoicing **with** their voluntary **vows and gift** offerings donated during the year and sacrificed on the Festival; **and** likewise **with animal tithes. And the priests** fulfill their obligation of rejoicing **with** the meat of **sin**-offerings **and guilt**-offerings **and with firstborn** offerings, as the priests receive a portion of these, **and with the breast and thigh** of peace-offerings, to which they are also entitled. **However,** they do **not** fulfill their obligation **with birds,** e.g., a bird sacrificed as a sin-offering, **nor with meal**-offerings, as only the eating of meat constitutes rejoicing.
+
+**5.**
+*Hebrew/Aramaic:* גְּמָ׳ אֶלָּא: עוֹלוֹת — בַּמּוֹעֵד הוּא דְּבָאוֹת מִן הַחוּלִּין, הָא בְּיוֹם טוֹב — מִן הַמַּעֲשֵׂר? אַמַּאי, דָּבָר שֶׁבְּחוֹבָה, הִיא! וְכׇל דָּבָר שֶׁבְּחוֹבָה, אֵינוֹ בָּא אֶלָּא מִן הַחוּלִּין.
+*Translation:* GEMARA: When the mishna states that **burnt-**offerings sacrificed **during the** intermediate days of **the Festival may come from non-sacred** property, this leads to the surprising conclusion that **on the Festival** they may even come **from the** second **tithe.** The Gemara asks: **Why** should this be the case? The burnt-offering **is an obligatory matter, and** there is a principle that **any obligatory matter** with regard to offerings **may come only from non-sacred** property that was consecrated expressly for this purpose alone, not from property that was previously consecrated for another purpose.
+
+**6.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא: הָא קָא מַשְׁמַע לַן דְּעוֹלוֹת בַּמּוֹעֵד בָּאוֹת, בְּיוֹם טוֹב אֵינָן בָּאוֹת, כְּמַאן — כְּבֵית שַׁמַּאי?!
+*Translation:* **And if you would say** that **this teaches us that burnt-**offerings **may come,** i.e., be sacrificed, **on** the intermediate days of **the Festival,** whereas **on the Festival they may not come** at all, **in accordance with whose** opinion is this mishna? It is **in accordance with** the opinion of **Beit Shammai.**
+
+**7.**
+*Hebrew/Aramaic:* דִּתְנַן, בֵּית שַׁמַּאי אוֹמְרִים: מְבִיאִין שְׁלָמִים וְאֵין סוֹמְכִין עֲלֵיהֶן, אֲבָל לֹא עוֹלוֹת. וּבֵית הִלֵּל אוֹמְרִים: מְבִיאִין שְׁלָמִים וְעוֹלוֹת, וְסוֹמְכִין עֲלֵיהֶן.
+*Translation:* **As we learned** in a mishna (*Beitza* 19a) that **Beit Shammai say: One brings peace-**offerings on a Festival, **but one does not place** his hands **on them,** as placing one’s hands on an animal on a Festival is prohibited by rabbinic law. **However,** one may **not** sacrifice **burnt-**offerings at all, as they are not eaten, and slaughtering is permitted on a Festival only for human needs. **And Beit Hillel say: One brings** both **peace-**offerings **and burnt-**offerings, **and one does place** his hands **on them.** It is unlikely that an anonymous mishna would follow the opinion of Beit Shammai, whose rulings are not accepted as *halakha*.
+
+**8.**
+*Hebrew/Aramaic:* חַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: עוֹלוֹת נְדָרִים וּנְדָבוֹת — בַּמּוֹעֵד בָּאוֹת, בְּיוֹם טוֹב — אֵינָן בָּאוֹת. וְעוֹלַת רְאִיָּיה בָּאָה אֲפִילּוּ בְּיוֹם טוֹב, וּכְשֶׁהִיא בָּאָה — אֵינָהּ בָּאָה אֶלָּא מִן הַחוּלִּין. וְשַׁלְמֵי שִׂמְחָה בָּאִין אַף מִן הַמַּעֲשֵׂר. וַחֲגִיגַת יוֹם טוֹב הָרִאשׁוֹן שֶׁל פֶּסַח, בֵּית שַׁמַּאי אוֹמְרִים: מִן הַחוּלִּין, וּבֵית הִלֵּל אוֹמְרִים: מִן הַמַּעֲשֵׂר.
+*Translation:* The Gemara answers: This mishna **is incomplete, and this** is what **it is teaching: Burnt-**offerings brought as a fulfillment of one’s **vow or as gift** offerings **may come on** the intermediate days of **the Festival.** However, **on the Festival** itself **they may not come. And the burnt-**offering **of appearance comes even on the Festival, but when it comes, it may come only from non-sacred** property, as it is obligatory. **And peace-**offerings **of rejoicing may come even from the** second **tithe. And** with regard to **the Festival peace-**offering brought on **the first day of Passover, Beit Shammai say:** It may come only **from non-sacred** property, **and Beit Hillel say:** It may come even **from the** second **tithe.**
+
+**9.**
+*Hebrew/Aramaic:* תַּנְיָא נָמֵי הָכִי: עוֹלוֹת, נְדָרִים וּנְדָבוֹת — בַּמּוֹעֵד בָּאוֹת, בְּיוֹם טוֹב — אֵינָן בָּאוֹת. וְעוֹלַת רְאִיָּיה בָּאָה אֲפִילּוּ בְּיוֹם טוֹב. וּכְשֶׁהִיא בָּאָה — אֵינָהּ בָּאָה אֶלָּא מִן הַחוּלִּין. וְשַׁלְמֵי שִׂמְחָה בָּאִין אַף מִן הַמַּעֲשֵׂר. וַחֲגִיגַת יוֹם טוֹב הָרִאשׁוֹן שֶׁל פֶּסַח, בֵּית שַׁמַּאי אוֹמְרִים: מִן הַחוּלִּין, וּבֵית הִלֵּל אוֹמְרִים: מִן הַמַּעֲשֵׂר.
+*Translation:* **That** opinion **is also taught** in a *baraita*: **Burnt-**offerings brought as a fulfillment of one’s **vow or** as **gift** offerings **may come on** the intermediate days of **the Festival.** However, **on** the Festival **itself they may not come. And the burnt**-offering **of appearance comes even on the Festival, but when it comes it may come only from non-sacred** property. **And peace-**offerings **of rejoicing may come even from the** second **tithe. And** with regard to **the Festival peace-**offering brought on **the first day of the festival of Passover, Beit Shammai say:** It may come only **from non-sacred** property, **and Beit Hillel say:** It may come even **from the** second **tithe.**
+
+**10.**
+*Hebrew/Aramaic:* מַאי שְׁנָא חֲגִיגַת יוֹם טוֹב הָרִאשׁוֹן שֶׁל פֶּסַח? אָמַר רַב אָשֵׁי: הָא קָא מַשְׁמַע לַן, חֲגִיגַת חֲמִשָּׁה עָשָׂר — אִין, חֲגִיגַת אַרְבָּעָה עָשָׂר — לָא.
+*Translation:* The Gemara asks: **What is different** about **the Festival peace-**offering brought on **the first day of the festival of Passover? Rav Ashi said: This** emphasis on the specific date **teaches us** that for **the Festival peace-**offering **of the fifteenth,** i.e., the pilgrimage Festival offerings brought on the first day of Passover, **yes,** this restriction applies; however, for **the Festival peace-**offering **of the fourteenth, no,** this limitation is not in force. If the Paschal lamb was too small for a group, they would bring an additional peace-offering so that the Paschal lamb could be eaten when one was full. This offering was called the Festival peace-offering of the fourteenth of Nisan. Since this offering is not obligatory, everyone agrees that it may be purchased with second-tithe money.

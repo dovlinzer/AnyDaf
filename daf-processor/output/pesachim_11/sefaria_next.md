@@ -47,3 +47,80 @@
 **12.**
 *Hebrew/Aramaic:* וּלְרַבִּי יְהוּדָה — יָהֲבִינַן לְהוּ מִתְּחִילַּת שָׁעָה רִאשׁוֹנָה וְעַד סוֹף שִׁשִּׁית. וּבְדִין הוּא דְּנִיתֵּיב לְהוּ מֵעִיקָּרָא טְפֵי,
 *Translation:* **And according to Rabbi Yehuda, we give** the witnesses a margin of error **from the beginning of the first hour until the end of the sixth** hour. **And by right we should give them even more** leeway **at the beginning,** as according to his opinion one errs by three hours less a bit, and therefore the margin for error should be greater.
+
+
+---
+
+### Pesachim 12b
+
+**1.**
+*Hebrew/Aramaic:* אֶלָּא בֵּין יְמָמָא לְלֵילְיָא לָא טָעוּ אִינָשֵׁי. וּבְדִין הוּא דְּנִיתֵּיב לְקַמֵּיהּ טְפֵי, אֶלָּא שֶׁבְּחָמֵשׁ חַמָּה בַּמִּזְרָח, וּבְשֶׁבַע חַמָּה בַּמַּעֲרָב.
+*Translation:* **However, between day and night people do not err,** and therefore there is no concern that they might have erred in this regard. **And** similarly, **by right we should give them even more** leeway **at the end** of the period. **However,** this too is not a reasonable discrepancy, **as at five** hours of the day **the sun** is **in the east and at seven** hours **the sun** is **in the west.** No one confuses the morning with the afternoon.
+
+**2.**
+*Hebrew/Aramaic:* תְּנַן רַבִּי מֵאִיר אוֹמֵר: אוֹכְלִין כׇּל חָמֵשׁ, וְשׂוֹרְפִין בִּתְחִילַּת שֵׁשׁ. רַבִּי יְהוּדָה אוֹמֵר: אוֹכְלִין כׇּל אַרְבַּע, וְתוֹלִין כׇּל חָמֵשׁ, וְשׂוֹרְפִין בִּתְחִילַּת שֵׁשׁ.
+*Translation:* In light of the above conclusions, the Gemara returns to address the issue of leaven. **We learned** in the mishna that **Rabbi Meir says: One** may **eat** leaven **the entire fifth** hour of the fourteenth of Nisan, **and one** must **burn** it immediately afterward **at the beginning of the sixth** hour. **Rabbi Yehuda says: One** may **eat the entire fourth** hour, **and** one **places it in abeyance** for **the entire fifth** hour, **and one burns** it **at the beginning of the sixth** hour.
+
+**3.**
+*Hebrew/Aramaic:* לְאַבָּיֵי אַלִּיבָּא דְּרַבִּי מֵאִיר, דְּאָמַר: אֵין אָדָם טוֹעֶה וְלֹא כְּלוּם — נֵיכוֹל כּוּלַּהּ שֵׁית. וּלְהַךְ לִישָּׁנָא נָמֵי דְּאָמַר: אָדָם טוֹעֶה מַשֶּׁהוּ — נֵיכוֹל עַד סוֹף שֵׁית.
+*Translation:* The Gemara raises a difficulty: **According to Abaye’s** explanation **in accordance with** the opinion **of Rabbi Meir, that he said a person does not err** about the time **at all, let him eat** leaven for **the entire sixth** hour, as by Torah law it is permitted to eat until the end of the sixth hour, i.e., midday. The Sages issued a decree prohibiting the consumption of leaven from the beginning of the sixth hour, lest one unwittingly come to eat after midday. However, according to Rabbi Meir, people do not err in this regard at all and that concern is unfounded. **And according to that version** of Rabbi Meir’s opinion, **that** he **said a person errs a bit, let** him **eat** leaven **until** just before **the end of the sixth** hour.
+
+**4.**
+*Hebrew/Aramaic:* וְאַבָּיֵי אַלִּיבָּא דְּרַבִּי יְהוּדָה, דְּאָמַר: אָדָם טוֹעֶה חֲצִי שָׁעָה — נֵיכוֹל עַד פַּלְגָא דְשֵׁית. וּלְהָךְ לִישָּׁנָא נָמֵי דְּאָמְרַתְּ: אָדָם טוֹעֶה שָׁעָה וּמַשֶּׁהוּ — נֵיכוֹל עַד סוֹף חָמֵשׁ.
+*Translation:* **And** according to **Abaye’s** explanation **in accordance with** the opinion **of Rabbi Yehuda, that he said: A person errs** by **half an hour; let** him **eat** leaven **until the midpoint of the sixth** hour. **And even according to the version** of Rabbi Yehuda’s opinion, **that** he **said: A person errs** by **an hour plus a bit; let him eat** leaven **until** just before **the end of the fifth** hour. From the fact that this is not the ruling of these Sages, apparently Abaye’s assessment of the amount of time that a person errs is incorrect.
+
+**5.**
+*Hebrew/Aramaic:* (אֶלָּא) אָמַר אַבָּיֵי: עֵדוּת מְסוּרָה לִזְרִיזִים, חָמֵץ לַכֹּל מָסוּר.
+*Translation:* **Rather, Abaye said:** There is a difference between the issues of testimony and leaven, as **testimony is entrusted to the vigilant.** One comes to testify only if he thoroughly scrutinized the subject of his testimony. Therefore, he will not err significantly with regard to the time in question. However, the prohibition against eating **leavened bread is** a *halakha* **entrusted to all,** and not everyone is able to correctly determine the time. Consequently, Rabbi Meir and Rabbi Yehuda both extend the margin for error, so that people will not unwittingly eat leaven after the time that it is prohibited to do so.
+
+**6.**
+*Hebrew/Aramaic:* וְרָבָא אַלִּיבָּא דְּרַבִּי מֵאִיר, דְּאָמַר: אָדָם טוֹעֶה שְׁתֵּי שָׁעוֹת חָסֵר מַשֶּׁהוּ — מִתְּחִילַּת חָמֵשׁ לָא נֵיכוֹל! חָמֵשׁ חַמָּה בַּמִּזְרָח, וְשֶׁבַע חַמָּה בַּמַּעֲרָב.
+*Translation:* The Gemara raises another difficulty: **And** according to **Rava’s** explanation **in accordance with** the opinion **of Rabbi Meir, that he said: A person errs** by **two hours less a bit; from the beginning of the fifth** hour **let one no** longer **eat** leaven. After all, one could confuse the fifth hour with the seventh hour, when it is prohibited to eat leaven by Torah law. The Gemara answers: Since at **five** hours **the sun** is **in the east and** at **seven** hours **the sun** is **in the west,** no one confuses morning with afternoon.
+
+**7.**
+*Hebrew/Aramaic:* אִי הָכִי, בְּשֵׁית נָמֵי נֵיכוֹל?! אָמַר רַב אַדָּא בַּר אַהֲבָה: שֵׁית, יוֹמָא בְּקַרְנָתָא קָאֵי.
+*Translation:* The Gemara raises a difficulty: **If so, during the sixth** hour **let him eat** leaven **as well,** as one distinguishes between the sixth hour and the seventh hour since the sun tends westward only during the seventh hour. **Rav Adda bar Ahava said:** In the **sixth** hour, **the day,** i.e., the sun, **stands at the meridian,** equidistant between east and west, and it is unclear toward which direction it tends. Therefore, confusion between the sixth and seventh hours is possible.
+
+**8.**
+*Hebrew/Aramaic:* וְרָבָא אַלִּיבָּא דְּרַבִּי יְהוּדָה, דְּאָמַר: אָדָם טוֹעֶה שָׁלֹשׁ שָׁעוֹת חָסֵר מַשֶּׁהוּ — מִתְּחִילַּת אַרְבַּע לָא נֵיכוֹל! חָמֵשׁ חַמָּה בַּמִּזְרָח, וְשֶׁבַע חַמָּה בַּמַּעֲרָב. וְכׇל שֶׁכֵּן אַרְבַּע. אִי הָכִי, בְּחָמֵשׁ נָמֵי נֵיכוֹל!
+*Translation:* The Gemara asks: **And** according to **Rava’s** explanation **in accordance with** the opinion **of Rabbi Yehuda, that he said: A person errs** by **three hours less a bit; from the beginning of the fourth** hour **let one no** longer **eat** leaven. The Gemara answers: If, since at **five** hours **the sun** is **in the east and at seven** hours **the sun** is **in the west,** one does not confuse the morning with the evening, **and all the more so** one will not confuse seven hours of the day with **four** hours of the day, when the sun is further east. The Gemara raises a difficulty: **If so,** i.e., there is no concern lest one confuse morning and afternoon, **during the fifth** hour **let him eat** leaven **as well.**
+
+**9.**
+*Hebrew/Aramaic:* תַּרְגְּמַהּ אַבָּיֵי אַלִּיבָּא דְּרָבָא: עֵדוּת מְסוּרָה לִזְרִיזִים, חָמֵץ לַכֹּל מָסוּר.
+*Translation:* **Abaye interpreted it in accordance with** the opinion **of Rava: Testimony is entrusted to the vigilant,** and therefore a witness is less likely to err, whereas the prohibition against eating **leavened bread is entrusted to all.** Since a common person is more likely to err, the Sages were more stringent with regard to leaven than with regard to testimony.
+
+**10.**
+*Hebrew/Aramaic:* וְרָבָא אָמַר: לָאו הַיְינוּ טַעְמָא דְּרַבִּי יְהוּדָה. אֶלָּא רַבִּי יְהוּדָה לְטַעְמֵיהּ, דְּאָמַר: אֵין בִּיעוּר חָמֵץ אֶלָּא שְׂרֵיפָה, וִיהַבוּ לֵיהּ רַבָּנַן שָׁעָה אַחַת לִלְקוֹט בָּהּ עֵצִים.
+*Translation:* **And Rava said: That is not the reason** for the added hour in the opinion **of Rabbi Yehuda,** as he is not concerned lest people err. **Rather, Rabbi Yehuda** conforms **to his** standard line of **reasoning, as he said: The removal of leaven** can be performed **only** by **burning** it, **and** therefore by prohibiting the consumption of leaven, **the Sages provided him** with **one hour during which to gather wood** to burn the leaven.
+
+**11.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רָבִינָא לְרָבָא: אָמַר רַבִּי יְהוּדָה: אֵימָתַי — שֶׁלֹּא בִּשְׁעַת בִּיעוּרוֹ. אֲבָל בִּשְׁעַת בִּיעוּרוֹ — הַשְׁבָּתָתוֹ בְּכׇל דָּבָר!
+*Translation:* **Ravina raised an objection to** the opinion of **Rava** from a *baraita*. **Rabbi Yehuda said: When** is it that the elimination of leaven can be performed only by burning it? It is only when one removes the leaven **not at the time** designated **for its removal.** Then, one should seek out the preferred method of removal and implement it in the ideal manner. **However,** when one removes the leaven **at the time** designated **for its removal,** at the end of the sixth hour when he must remove the leaven immediately, **the removal of** leaven may be performed **in any manner,** and one need not seek wood for burning. Why, then, was it necessary for the Sages to provide him with an hour to gather wood?
+
+**12.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רָבָא: גְּזֵירָה מִשּׁוּם יוֹם הַמְעוּנָּן. אִי הָכִי, אֲפִילּוּ בְּאַרְבַּע שָׁעוֹת נָמֵי לָא נֵיכוֹל! אָמַר רַב פָּפָּא: אַרְבַּע זְמַן סְעוּדָה לַכֹּל הִיא.
+*Translation:* **Rather, Rava** reconsidered the previous explanation and **said: It is a** rabbinic **decree due to a cloudy day,** when one is unable to observe the precise position of the sun, increasing the likelihood of confusion. The Gemara raises a difficulty: **If so,** then **even at fourth** hour **let one no** longer **eat** leaven, as according to Rabbi Yehuda a person errs by three hours less a bit. **Rav Pappa said:** The **fourth** hour **is mealtime for everyone,** and therefore everyone is aware of that hour and will not confuse it with another.
+
+**13.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: שָׁעָה רִאשׁוֹנָה — מַאֲכַל לוּדִים. שְׁנִיָּה — מַאֲכַל לִיסְטִין. שְׁלִישִׁית — מַאֲכַל יוֹרְשִׁין. רְבִיעִית — מַאֲכַל פּוֹעֲלִין. חֲמִישִׁית — מַאֲכַל תַּלְמִידֵי חֲכָמִים. שִׁשִּׁית — מַאֲכַל כׇּל אָדָם.
+*Translation:* In light of Rav Pappa’s statement, the Gemara discusses the topic of mealtimes. **The Sages taught** in a *baraita*: Eating in **the first hour** of the morning is the time of **eating for *Ludim*,** who are members of a nation of cannibals, and they are ravenous and in a hurry to eat. **The second** hour is the time of **eating for robbers [*listin*].** Since they spend the night stealing, they eat early in the morning. **The third** hour is the time of **eating for heirs,** i.e., people who inherited a lot of money and do not work for their sustenance. Their only preoccupation in the early hours of the morning is eating. **The fourth** hour is the time of **eating for workers. The fifth** hour is the time of **eating for Torah scholars. The sixth** hour is the time of **eating for all people.**
+
+**14.**
+*Hebrew/Aramaic:* וְהָאָמַר רַב פָּפָּא: רְבִיעִית — זְמַן סְעוּדָה לְכׇל הִיא! אֶלָּא אֵיפוֹךְ: רְבִיעִית — מַאֲכַל כׇּל אָדָם, חֲמִישִׁית — מַאֲכַל פּוֹעֲלִים, שִׁשִּׁית — מַאֲכַל תַּלְמִידֵי חֲכָמִים.
+*Translation:* The Gemara raises a difficulty: But **didn’t Rav Pappa say** that the **fourth** hour **is** the **time of eating for all? Rather, reverse** the fourth, fifth, and sixth hours: The **fourth** hour is **mealtime for all people,** the **fifth** hour is the time of **eating for workers,** and **the sixth** hour is the time of **eating for Torah scholars.**
+
+**15.**
+*Hebrew/Aramaic:* מִכָּאן וְאֵילָךְ, כְּזוֹרֵק אֶבֶן לַחֵמֶת. אָמַר אַבָּיֵי: לָא אֲמַרַן אֶלָּא דְּלָא טָעֵים מִידֵּי בְּצַפְרָא. אֲבָל טָעֵים מִידֵּי בְּצַפְרָא — לֵית לַן בַּהּ.
+*Translation:* One who eats **from** this point **forward** does not benefit from eating, as he is **like one who throws a stone into a** leather **bottle,** i.e., it does not contribute to his health. **Abaye said: We only said that** eating from the sixth hour onward is not beneficial, **when he did not taste anything in the morning; however, if he tasted something in the morning we have no** problem **with it.**
+
+**16.**
+*Hebrew/Aramaic:* אָמַר רַב אָשֵׁי: כְּמַחְלוֹקֶת בְּעֵדוּת, כָּךְ מַחְלוֹקֶת בְּחָמֵץ. פְּשִׁיטָא, הַיְינוּ הָךְ דְּאָמְרִינַן! הָא קָא מַשְׁמַע לַן: שִׁינּוּיֵי דְּשַׁנִּינַן — שִׁינּוּיָא הוּא, וְלָא תֵּימָא תַּנָּאֵי הִיא.
+*Translation:* **Rav Ashi said: Like** the **dispute** between Rabbi Meir and Rabbi Yehuda **with regard to testimony, so too** is their **dispute with regard to leavened bread.** The Gemara comments: This is **obvious,** as **this is** precisely **that which we said.** The Gemara explains: Rav Ashi comes to **teach us** that **the answers that we answered,** distinguishing between the cases of testimony and leaven, **are** legitimate **answers. And do not say** that the different rulings in the two cases reflect a dispute between ***tanna’im*** with regard to the opinions of Rabbi Meir and Rabbi Yehuda and the answers are merely forced attempts to resolve the contradiction but not legitimate answers.
+
+**17.**
+*Hebrew/Aramaic:* אָמַר רַב שִׁימִי בַּר אָשֵׁי: לֹא שָׁנוּ אֶלָּא בְּשָׁעוֹת, אֲבָל אֶחָד אוֹמֵר קוֹדֶם הָנֵץ הַחַמָּה וְאֶחָד אוֹמֵר אַחַר הָנֵץ הַחַמָּה — עֵדוּתָן בְּטֵילָה. פְּשִׁיטָא!
+*Translation:* **Rav Shimi bar Ashi said: They taught** that the court does not reject testimony due to a discrepancy over time **only with regard to** testimony ascribed to different **hours** of the day. **However,** if **one** witness **says** that the incident occurred **before sunrise and** the other **one says** it occurred **after sunrise, their testimony is void.** The Gemara asks: It is **obvious** that this is the case, as a blatant contradiction of this kind could not possibly be the result of miscalculation.
+
+**18.**
+*Hebrew/Aramaic:* אֶלָּא: אֶחָד אוֹמֵר קוֹדֶם הָנֵץ הַחַמָּה וְאֶחָד אוֹמֵר בְּתוֹךְ הָנֵץ הַחַמָּה — עֵדוּתָן בְּטֵילָה. הָא נָמֵי פְּשִׁיטָא! מַהוּ דְּתֵימָא: תַּרְוַיְיהוּ חֲדָא מִילְּתָא קָאָמְרִי, וְהָא דְּקָאָמַר
+*Translation:* **Rather,** emend the previous statement: If **one** witness **says** the incident occurred **before sunrise and one says** it occurred **during sunrise, their testimony is void.** The Gemara asks: **That too is obvious,** as the difference between those times is similarly conspicuous. The Gemara answers: It is necessary to teach this *halakha*, **lest you say** that **both of** the witnesses **are saying one matter, and** the fact **that** one witness **says**

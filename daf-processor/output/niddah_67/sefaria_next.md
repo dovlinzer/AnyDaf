@@ -59,3 +59,96 @@
 **15.**
 *Hebrew/Aramaic:* רַב אָמַר: זָבָה וַדַּאי, כֵּיוָן דְּמֵעִיקָּרָא נִמְצֵאת טְמֵאָה, וְעַכְשָׁיו נִמְצֵאת טְמֵאָה — טְמֵאָה וַדַּאי. וְלֵוִי אָמַר: סְפֵק זָבָה, אֵימַר פְּסַקָה בֵּינֵי וּבֵינֵי.
 *Translation:* The Gemara explains their opinions. **Rav says:** This woman is **a definite** greater ***zava*, since from the outset she found** herself to be **ritually impure, and now she found** herself to also be **ritually impure.** Consequently, she is **definitely impure. And Levi says:** This woman is **an uncertain** greater ***zava*,** as one can **say** that perhaps **she stopped** experiencing bleeding **in between** the morning of her seventh day of menstruation when she first found herself to be impure and several days later, on the second occasion that she found herself to be impure.
+
+
+---
+
+### Niddah 68b
+
+**1.**
+*Hebrew/Aramaic:* וְכֵן תָּנֵי לֵוִי בְּמַתְנִיתָא: אַחַר הַיָּמִים, בֵּין בָּדְקָה וּמָצְאָה טְהוֹרָה בֵּין בָּדְקָה וּמָצְאָה טְמֵאָה — הֲרֵי זוֹ סְפֵק זָבָה.
+*Translation:* **And Levi taught similarly in a *baraita*:** If a woman examined herself on the seventh day of menstruation and found herself to be impure, and she did not perform the examination to confirm her transition from ritual impurity to ritual purity, and **after** several **days** she examined herself, **whether she examined** herself **and found** herself to be **ritually pure** or **whether she examined** herself **and found** herself to be **ritually impure, she is an uncertain** greater ***zava*.**
+
+**2.**
+*Hebrew/Aramaic:* וּמְטַמְּאָה מֵעֵת לְעֵת. לֵימָא תִּהְוֵי תְּיוּבְתָּא דְּרָבָא! דְּאָמַר רָבָא: לוֹמַר שֶׁאֵין הָאִשָּׁה מְטַמְּאָה מֵעֵת לְעֵת בְּתוֹךְ יְמֵי זִיבָתָהּ!
+*Translation:* § The mishna teaches: **But she transmits ritual impurity** to the ritually pure items that she handled before the examination in which she found blood **for** a twenty-four-hour **period.** The Gemara suggests: **Let us say that it is a conclusive refutation** of the opinion **of Rava, as Rava said,** with regard to the statement in the mishna on 38b that a woman has a presumptive status of ritual purity during the eleven days of potential *ziva*: This serves **to say that a woman does not transmit ritual impurity for** a twenty-four-hour **period** before experiencing bleeding **during her days of *ziva*.**
+
+**3.**
+*Hebrew/Aramaic:* וְלָאו אוֹתְבִינֵּיהּ לְרָבָא חֲדָא זִימְנָא! הָכִי קָאָמְרִינַן: לֵימָא תִּהְוֵי תְּיוּבְתָּא דְּרָבָא נָמֵי מֵהָא!
+*Translation:* The Gemara asks: **But didn’t** the Gemara already cite **a conclusive refutation** of the opinion **of Rava one time,** on 39a? The Gemara explains that **this is** what **we are saying: Let us say that** there **is a conclusive refutation** of the opinion **of Rava from this** mishna **as well.**
+
+**4.**
+*Hebrew/Aramaic:* אָמַר לָךְ רָבָא: כִּי קָתָנֵי ״מְטַמְּאָה מֵעֵת לְעֵת״ — אַרֵישׁ פִּרְקִין קָאֵי, אַרָאֲתָה וְעוֹדָהּ בְּבֵית אָבִיהָ.
+*Translation:* The Gemara responds that **Rava** could have **said to you** that **when** the mishna **teaches: She transmits ritual impurity for** a twenty-four-hour **period,** it is **referring to the beginning of our chapter.** Specifically, it is speaking **of** the mishna on 64b, which discusses the case of a young woman who **saw** menstrual blood before marriage while **she was still in her father’s house.** According to Beit Hillel she may engage in intercourse only the first night, during which the blood is considered the blood from the torn hymen rather than the blood of menstruation. This mishna is teaching that from that point onward, when she experiences bleeding she renders items impure retroactively for a twenty-four-hour period, like other women.
+
+**5.**
+*Hebrew/Aramaic:* סָלְקָא דַעְתָּךְ אָמֵינָא, כֵּיוָן דְּמַפְסְקִי לְהוּ יָמִים טְהוֹרִין, כִּתְחִלַּת נִדָּתָהּ דָּמְיָא, וְלֹא תְּטַמֵּא מֵעֵת לְעֵת, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara explains that this ruling is necessary, as it might **enter your mind to say** that **since** her cycle of menstruation and *ziva* is **interrupted** by **days** when any blood she discharges is considered to be **ritually pure,** she now reverts back as though it is **considered like the beginning of her** days of **menstruation, and she does not transmit ritual impurity** retroactively **for** a twenty-four-hour **period.** Therefore, this mishna **teaches us** that she does transmit impurity retroactively.
+
+**6.**
+*Hebrew/Aramaic:* אִם יֵשׁ לָהּ וֶסֶת. נֵימָא תִּהְוֵי תְּיוּבְתָּא דְּרַב הוּנָא בַּר חִיָּיא אָמַר שְׁמוּאֵל, דְּאָמַר רַב הוּנָא בַּר חִיָּיא אָמַר שְׁמוּאֵל, לוֹמַר שֶׁאֵין הָאִשָּׁה קוֹבַעַת לָהּ וֶסֶת בִּימֵי זִיבָתָהּ.
+*Translation:* § The mishna teaches: And **if she has a fixed** menstrual **cycle** on the day that she examined herself and found blood, her time is sufficient and she does not transmit impurity retroactively. The Gemara asks: **Shall we say** that this **is a conclusive refutation** of the opinion **of Rav Huna bar Ḥiyya,** with regard to the ruling he says that **Shmuel says? As Rav Huna bar Ḥiyya says** that **Shmuel says,** with regard to the mishna on 38b that teaches that a woman has a presumptive status of ritual purity during the eleven days of potential *ziva*: This serves **to say that a woman does not establish a fixed** menstrual **cycle during her days of *ziva*.**
+
+**7.**
+*Hebrew/Aramaic:* אָמַר לְךָ רַב הוּנָא בַּר חִיָּיא: כִּי אָמְרִינַן אֵין אִשָּׁה קוֹבַעַת לָהּ וֶסֶת בִּימֵי זִיבָתָהּ, דְּלָא בָּעֲיָא תְּלָתָא זִימְנֵי לְמִיעְקַר, דְּאָמְרִינַן דָּמֶיהָ מְסוּלָּקִין, וְכֵיוָן דְּדָמֶיהָ מְסוּלָּקִין — דַּיָּהּ שְׁעָתָהּ.
+*Translation:* The Gemara answers that **Rav Huna bar Ḥiyya** could have **said to you: When we say** that **a woman does not establish** a fixed menstrual **cycle during her days of *ziva*,** we meant this only as a leniency, **that** she does **not require three times to uproot** any such cycle. Rather, she uproots it after one time when she does not experience bleeding in accordance with that cycle. **As we say** that **her** menstrual **blood is removed** during her days of *ziva*, and she is unlikely to discharge menstrual blood during that time. **And since her blood is removed,** if she established a fixed menstrual cycle it **is sufficient for her** to be deemed impure from the **hour** that she saw the menstrual flow. There is no decree of retroactive impurity on items that she previously touched due to the concern that the blood flow might have started earlier.
+
+**8.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר. תַּנְיָא, אָמְרוּ לוֹ לְרַבִּי יְהוּדָה: אִלְמָלֵי יָדֶיהָ מוּנָּחוֹת בְּעֵינֶיהָ כׇּל בֵּין הַשְּׁמָשׁוֹת — יָפֶה אַתָּה אוֹמֵר.
+*Translation:* § The mishna teaches that **Rabbi Yehuda says:** With regard to any woman who did not perform the examination indicating her transition from ritual impurity to ritual purity on the seventh day from *minḥa* time onward, even if she performed an examination and found no blood that morning, the presumptive status of that woman is one of ritual impurity. It **is taught** in a *baraita* that the Rabbis **said to Rabbi Yehuda:** If the *halakha* **had** been that a woman who will immerse must keep her **hands placed in her eyes,** a euphemism for her vagina, for **the entire twilight** period, what **you say is fine.** It would be reasonable to assume that since she did not examine herself at the end of the day she has a presumptive status of ritual impurity.
+
+**9.**
+*Hebrew/Aramaic:* עַכְשָׁיו אֵימַר: עִם סִלּוּק יָדֶיהָ רָאֲתָה? מָה לִי הִפְרִישָׁה בְּטָהֳרָה בַּשְּׁבִיעִי מִן הַמִּנְחָה וּלְמַעְלָה, מָה לִי הִפְרִישָׁה בְּטָהֳרָה בָּרִאשׁוֹן.
+*Translation:* But **now** that you say that it is insufficient to examine herself in the morning, what is your reasoning? Evidently, you **say** that **when she removed her hand** from examining herself perhaps **she saw** blood and is impure. If so, **what** difference is it **to me** if she performed the examination indicating her **transition** from ritual impurity **to ritual purity on the seventh** day **from *minḥa*** time **onward,** and **what** difference is it **to me** if she performed the examination indicating her **transition** from ritual impurity **to ritual purity on the first** day of her counting?
+
+**10.**
+*Hebrew/Aramaic:* בָּרִאשׁוֹן — מִי אִיכָּא לְמַאן דְּאָמַר?
+*Translation:* The Gemara asks: Why do the Rabbis mention an examination **on the first** day of her counting? **Is there one who said** that if a woman examines herself only on the first day that is sufficient?
+
+**11.**
+*Hebrew/Aramaic:* אִין, וְהָתַנְיָא: אָמַר רַבִּי: שָׁאַלְתִּי אֶת רַבִּי יוֹסֵי וְרַבִּי שִׁמְעוֹן כְּשֶׁהָיוּ מְהַלְּכִים בַּדֶּרֶךְ: נִדָּה שֶׁבָּדְקָה עַצְמָהּ יוֹם שְׁבִיעִי שַׁחֲרִית וּמָצְאָה טְהוֹרָה, וּבֵין הַשְּׁמָשׁוֹת לֹא הִפְרִישָׁה, וּלְאַחַר הַיָּמִים בָּדְקָה וּמָצְאָה טְמֵאָה — מַהוּ?
+*Translation:* The Gemara answers: **Yes,** there is such an opinion, **as it is taught** in a *baraita* that **Rabbi** Yehuda HaNasi **says: I asked Rabbi Yosei and Rabbi Shimon** the following question **when they were walking on the road:** With regard to **a menstruating woman who examined herself** on the **seventh day** in **the morning and found** herself to be **ritually pure, but at twilight** she did **not** perform the examination indicating her **transition** from ritual impurity to ritual purity, **and after** several **days she examined** herself **and found** herself to be **ritually impure, what is** the *halakha*?
+
+**12.**
+*Hebrew/Aramaic:* אָמְרוּ לִו: הֲרֵי זוֹ בְּחֶזְקַת טׇהֳרָה. שִׁשִּׁי, חֲמִישִׁי, רְבִיעִי, שְׁלִישִׁי, שֵׁנִי — מַאי? אָמְרוּ לִו: לָא שְׁנָא.
+*Translation:* Rabbi Yosei and Rabbi Shimon **said to him: She has a presumptive status of ritual purity** up until the moment that she discovered that she was impure. Rabbi Yehuda HaNasi asked them additional questions: If she examined herself on the **sixth** day, or the **fifth** day, or the **fourth** day, or the **third** day, or even the **second** day, **what** is the *halakha*? Rabbi Yosei and Rabbi Shimon **said to him:** The *halakha* **is no different.** In all of these cases she has a presumptive status of ritual purity until she discovers that she is impure.
+
+**13.**
+*Hebrew/Aramaic:* בָּרִאשׁוֹן לֹא שָׁאַלְתִּי, וְטָעִיתִי שֶׁלֹּא שָׁאַלְתִּי, אַטּוּ כּוּלְּהוּ לָאו בְּחֶזְקַת טוּמְאָה קָיְימִי? וְכֵיוָן דִּפְסַק — פְּסַק, רִאשׁוֹן נָמֵי כֵּיוָן דִּפְסַק — פְּסַק.
+*Translation:* Rabbi Yehuda HaNasi comments: **I did not ask** about a woman who examined herself **on the first** day, **and I erred** in **that I did not ask** them. If I would have asked them they would have told me that even if she examined herself only on the first day, she still has a presumptive status of ritual purity. Rabbi Yehuda HaNasi explains his reasoning: **Is that to say** that on **all** of these other days **she was not standing with a presumptive** status **of ritual impurity? And** nevertheless, **once** she performed the examination and her blood is found to have **stopped,** it is considered to have **stopped,** and she now has the presumptive status of a woman whose bleeding has stopped. If so, on the **first** day **too, once** she performed the examination and her blood is found to have **stopped,** it is considered to have **stopped,** and she now has a presumptive status of a woman whose bleeding has stopped.
+
+**14.**
+*Hebrew/Aramaic:* וּמֵעִיקָּרָא, מַאי סָבַר? הוֹאִיל וְהוּחְזַק מַעְיָן פָּתוּחַ.
+*Translation:* The Gemara asks: **And initially, what** did Rabbi Yehuda HaNasi **hold?** Why didn’t he ask them about a woman who examined herself only on the first day? The Gemara answers that he held that **since she has a presumptive status** that her **spring,** i.e., her uterus, **is open,** as she had just begun experiencing bleeding, an examination conducted on that day is ineffective. In any event, this *baraita* teaches that there is an opinion that even if a woman examined herself only on the first day, she has a presumptive status of ritual purity.
+
+**15.**
+*Hebrew/Aramaic:* מַתְנִי' הַזָּב וְהַזָּבָה, שֶׁבָּדְקוּ עַצְמָן בְּיוֹם רִאשׁוֹן וּמָצְאוּ טָהוֹר, וּבַיּוֹם הַשְּׁבִיעִי וּמָצְאוּ טָהוֹר, וּשְׁאָר יָמִים שֶׁבֵּינְתַיִים לֹא בָּדְקוּ — רַבִּי אֱלִיעֶזֶר אוֹמֵר: הֲרֵי הֵן בְּחֶזְקַת טׇהֳרָה. רַבִּי יְהוֹשֻׁעַ אוֹמֵר: אֵין לָהֶם אֶלָּא יוֹם רִאשׁוֹן וְיוֹם שְׁבִיעִי בִּלְבָד. רַבִּי עֲקִיבָא אוֹמֵר: אֵין לָהֶם אֶלָּא יוֹם שְׁבִיעִי בִּלְבָד.
+*Translation:* MISHNA: With regard to **a *zav* and a *zava*,** who are required to count and examine themselves on each of seven clean days before purification in a ritual bath, **who examined themselves on** the **first day and found** themselves **ritually pure,** i.e., with no blood, **and** they examined themselves **on the seventh day and found** themselves **ritually pure, and on the rest of the intervening days they did not examine** themselves, **Rabbi Eliezer says: The presumptive status of** the *zav* and the *zava* is one of **ritual purity. Rabbi Yehoshua says:** In that case, the *zav* and the *zava* **have** counted **only the first day and the seventh day,** two of the seven clean days, and they must count another five days to complete the tally. **Rabbi Akiva says:** The *zav* and the *zava* **have** counted **only** the **seventh day,** and they must count another six days to complete the tally.
+
+**16.**
+*Hebrew/Aramaic:* גְּמָ' תַּנְיָא: אָמַר לוֹ רַבִּי אֱלִיעֶזֶר לְרַבִּי יְהוֹשֻׁעַ: לִדְבָרֶיךָ, אַתָּה מוֹנֶה בְּסֵירוּגִין, וְהַתּוֹרָה אָמְרָה ״אַחַר תִּטְהָר״, אַחַר אַחַר לְכוּלָּן, שֶׁלֹּא תְּהֵא טוּמְאָה מַפְסֶקֶת בֵּינֵיהֶן!
+*Translation:* GEMARA: It **is taught** in a *baraita* that **Rabbi Eliezer said to Rabbi Yehoshua: According to your statement,** that the first day is included in her count of seven, **you are counting at intervals,** i.e., with days in-between that do not count, **and the Torah states:** “But if she be purified of her *ziva*, then she shall count to herself seven days, **and after that she shall be pure”** (Leviticus 15:28). This teaches that the purification of a *zava* must be **after** the seven days, i.e., **after all of the** days, which must be consecutive so **that there are no days of impurity separating between** the seven clean days.
+
+**17.**
+*Hebrew/Aramaic:* אָמַר לוֹ רַבִּי יְהוֹשֻׁעַ: וְאַתָּה אִי אַתָּה מוֹדֶה בְּזָב שֶׁרָאָה קֶרִי, וּבְנָזִיר שֶׁהִילֵּךְ סְכָכוֹת וּפְרָעוֹת, שֶׁמּוֹנֶה בְּסֵירוּגִין? וְהַתּוֹרָה אָמְרָה: ״וְהַיָּמִים הָרִאשׁוֹנִים יִפְּלוּ״.
+*Translation:* **Rabbi Yehoshua says: And you** too, **do you not concede with regard to a *zav* who experienced a seminal emission** during his count of seven clean days, **and with regard to a nazirite who walked** under **overhanging boughs and protrusions** that have items whose status of impurity is uncertain beneath them, **that** they **count at intervals,** as both are impure for one day before resuming their counting? **And** yet **the Torah states** with regard to a nazirite who definitely contracted ritual impurity from a corpse: **“But the former days shall be void,** because his consecration was defiled” (Numbers 6:12). This indicates that even in cases where the Torah says that one must count consecutively, it is permitted to count with intervals in between countings.
+
+**18.**
+*Hebrew/Aramaic:* וְרַבִּי אֱלִיעֶזֶר, בִּשְׁלָמָא הָתָם, ״לְטׇמְאָה בָהּ״ אָמַר רַחֲמָנָא — שֶׁאֵינָהּ סוֹתֶרֶת אֶלָּא יוֹמָהּ, וְאִי מִשּׁוּם אִיחַלּוֹפֵי זָב בְּבַעַל קֶרִי — לָא מִיחַלַּף.
+*Translation:* **And** how would **Rabbi Eliezer** respond to Rabbi Yehoshua’s claim? He would say: **Granted, there** in the cases of the *zav* and the nazirite, **the Merciful One states:** “This is the law of him that has an issue, and of him from whom an emission of semen goes out, **so that he is thereby impure”** (Leviticus 15:32). This teaches **that** when a *zav* experiences a seminal emission it **overturns** the counting of **only that** one **day. And if** one would claim that the Sages should issue a decree **due to** the concern that one might **confuse** the *halakha* of one who had an emission of *ziva* during the seven clean days with a *zav* who had a seminal emission during the seven clean days, that is not a concern. The reason is that an emission of a ***ziva*** will **not be confused with** the case of **one who experienced a seminal emission.**
+
+**19.**
+*Hebrew/Aramaic:* נָזִיר שֶׁהִילֵּךְ עַל גַּבֵּי סְכָכוֹת וּפְרָעוֹת נָמֵי, מִדְּאוֹרָיְיתָא אֹהֶל מְעַלְּיָא בָּעֵינַן, וְרַבָּנַן הוּא דִּגְזוּר, וְרַבָּנַן בִּדְאוֹרָיְיתָא לָא מִיחַלַּף.
+*Translation:* Similarly, Rabbi Eliezer would say that in the case of **a nazirite who walked under overhanging boughs and protrusions** that have items whose status of impurity is uncertain beneath them, there is **also** no need to overturn all the previous days of counting, as **by Torah law we require a full-fledged tent** over a corpse, **and** it was **the Sages who decreed** that one who walks under overhanging boughs and protrusions is ritually impure. **And** a *halakha* that applies **by rabbinic law will not be confused** with a *halakha* that is mandated **by Torah law.**
+
+**20.**
+*Hebrew/Aramaic:* אֲבָל הָכָא — אִי חָיְישִׁינַן דִּלְמָא חֲזַאי, בְּסָפֵק אָתֵי לְאִיחַלּוֹפֵי בְּוַדַּאי.
+*Translation:* **But here,** in the case of a *zava* who counts only the first and seventh day, **if we are concerned** that as she did not count the five intermediate days **perhaps she saw** blood during those days, and since what occurred on those days is **uncertain,** only the first day counts for her, then one might **come to confuse** this situation **with** a case where she is **certain** that she saw blood during the intermediate days. One might mistakenly think that even if she definitely experiences bleeding during the intermediate days she can still count the first day as one of her seven clean days before immersing.
+
+**21.**
+*Hebrew/Aramaic:* תָּנֵי רַבִּי יוֹסֵי וְרַבִּי שִׁמְעוֹן אָמְרִי: נִרְאִין דִּבְרֵי רַבִּי אֱלִיעֶזֶר מִדִּבְרֵי רַבִּי יְהוֹשֻׁעַ, וְדִבְרֵי רַבִּי עֲקִיבָא מִדִּבְרֵי כּוּלָּן, אֲבָל הֲלָכָה כְּרַבִּי אֱלִיעֶזֶר.
+*Translation:* It **is taught** in a *baraita* that **Rabbi Yosei and Rabbi Shimon say: The statement of Rabbi Eliezer appears** more correct **than the statement of Rabbi Yehoshua, and the statement of Rabbi Akiva** appears more correct **than the statement of all of them. But** nevertheless, the ***halakha*** is **in accordance with** the opinion of **Rabbi Eliezer.**
+
+**22.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: הַזָּב וְהַזָּבָה שֶׁבָּדְקוּ עַצְמָן יוֹם רִאשׁוֹן וְיוֹם שְׁמִינִי וּמָצְאוּ טָהוֹר, וּשְׁאָר הַיָּמִים לֹא בָּדְקוּ,
+*Translation:* § **A dilemma was raised before** the Sages: With regard to **a *zav* and a *zava* who examined themselves** on the **first day** of their seven clean days and found themselves to be pure, **and** they examined themselves again on the **eighth day and found** themselves to be **pure, but** they did **not examine** themselves on **the remainder of the days,**

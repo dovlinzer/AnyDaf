@@ -71,3 +71,60 @@
 **18.**
 *Hebrew/Aramaic:* פְּשִׁיטָא! מַהוּ דְּתֵימָא:
 *Translation:* The Gemara challenges: **It is obvious** that this is the case; it need not be taught. The Gemara answers: The justification for teaching it is **lest you say** that
+
+
+---
+
+### Beitzah 16b
+
+**1.**
+*Hebrew/Aramaic:* הַרְסָנָא עִיקָּר, קָא מַשְׁמַע לַן קִמְחָא עִיקָּר.
+*Translation:* the **fish fat,** which one is permitted to eat even if cooked by gentiles, is the **essential element.** Therefore, he **teaches us** that **the flour** is the **essential element,** and the gentile has created a new and significant dish, which is consequently prohibited.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אַבָּא: עֵרוּבֵי תַבְשִׁילִין צְרִיכִין כְּזַיִת. אִיבַּעְיָא לְהוּ: כְּזַיִת אֶחָד לְכֻלָּן, אוֹ דִלְמָא כְּזַיִת לְכׇל אֶחָד וְאֶחָד? תָּא שְׁמַע, דְּאָמַר רַבִּי אַבָּא אָמַר רַב: עֵרוּבֵי תַבְשִׁילִין צְרִיכִין כְּזַיִת בֵּין לְאֶחָד, בֵּין לְמֵאָה.
+*Translation:* **Rabbi Abba said: A joining of cooked foods requires an olive-bulk** of food. **A dilemma was raised before** the Sages: Is it enough to have **one olive-bulk for all of** the household members who are relying on this *eiruv*, **or perhaps** must there be a separate **olive-bulk for each and every one** in the household? **Come** and **hear** that **which Rabbi Abba said** that **Rav said: A joining of cooked foods requires an olive-bulk, whether** it is cooked **for a single** person **or for one hundred** people.
+
+**3.**
+*Hebrew/Aramaic:* תְּנַן: אֲכָלוֹ אוֹ שֶׁאָבַד — לֹא יְבַשֵּׁל עָלָיו בַּתְּחִלָּה, שִׁיֵּיר מִמֶּנּוּ כׇּל שֶׁהוּא — סוֹמֵךְ עָלָיו לְשַׁבָּת. מַאי כׇּל שֶׁהוּא? לָאו אַף עַל גַּב דְּלֵיכָּא כְּזַיִת? לָא, דְּאִית בֵּיהּ כְּזַיִת.
+*Translation:* The Gemara comments: **We learned** in the mishna: If **one ate** the joining of cooked foods that he prepared, **or if it was lost, he may not** rely **on it** and **cook with the initial** intent to cook for Shabbat; but if **he left any part of** the *eiruv*, he may **rely on it** to cook **for Shabbat.** The Gemara asks: **What is** the meaning of: **Any part of it? Doesn’t it** mean **that** it is valid **although there is not an olive-bulk?** The Gemara answers: **No,** the phrase: Any part of it, means **that there is** at least **an olive-bulk** left.
+
+**4.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: תַּבְשִׁיל — זֶה צָלִי, וַאֲפִילּוּ כָּבוּשׁ שָׁלוּק וּמְבוּשָּׁל, וְקוֹלְיָיס הָאִסְפְּנִין שֶׁנָּתַן עָלָיו חַמִּין מֵעֶרֶב יוֹם טוֹב — תְּחִלָּתוֹ וְסוֹפוֹ אֵין לוֹ שִׁיעוּר. מַאי לָאו, אֵין לוֹ שִׁיעוּר כְּלָל? לָא, אֵין לוֹ שִׁיעוּר לְמַעְלָה, אֲבָל יֵשׁ לוֹ שִׁיעוּר לְמַטָּה.
+*Translation:* The Gemara attempts to bring another proof. **Come** and **hear:** The **cooked dish** that is required for a joining of cooked foods may **be roasted, or even pickled,** or **well-boiled, or boiled** in the regular manner, **or** may even be **Spanish soft sea fish [*koleyas ha’ispenin*] upon which one poured hot** water **on the eve of the Festival,** rendering it cooked. With regard to **its beginning and end,** meaning its required size *ab initio* and after it has been reduced by being partially lost or partially eaten, the *eiruv* **has no** required **measure. What, is it not** that **it has no** required **measure at all,** not even a minimum one? The Gemara rejects this: **No,** it means **it does not have a maximum measure, but it does have a minimum measure,** namely an olive-bulk.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב הוּנָא אָמַר רַב: עֵרוּבֵי תַבְשִׁילִין צְרִיכִין דַּעַת. פְּשִׁיטָא, דַּעַת מַנִּיחַ בָּעֵינַן; דַּעַת מִי שֶׁהִנִּיחוּ לוֹ בָּעֵינַן, אוֹ לָא בָּעֵינַן?
+*Translation:* **Rav Huna said** that **Rav said: A joining of cooked foods requires knowledge,** meaning that one must be aware of the *eiruv* for it to be effective. The Gemara comments: It is **obvious** that **we require** the **knowledge of the one who prepares** the *eiruv*; the question is: Do **we** also **require** the **knowledge of the one for whom** the *eiruv* **is prepared, or do we not require** it?
+
+**6.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: דַּאֲבוּהּ דִּשְׁמוּאֵל מְעָרֵב אַכּוּלַּהּ נְהַרְדְּעָא, רַבִּי אַמֵּי וְרַבִּי אַסִּי מְעָרְבִי אַכּוּלַּהּ טְבֶרְיָא. מַכְרִיז רַבִּי יַעֲקֹב בַּר אִידִי: מִי שֶׁלֹּא הִנִּיחַ עֵרוּבֵי תַבְשִׁילִין, יָבֹא וְיִסְמוֹךְ עַל שֶׁלִּי. וְעַד כַּמָּה? אָמַר רַב נְחוּמִי בַּר זְכַרְיָה מִשְּׁמֵיהּ דְּאַבָּיֵי: עַד תְּחוּם שַׁבָּת.
+*Translation:* The Gemara suggests: **Come** and **hear** a proof from the following testimonies: **Shmuel’s father** would **prepare an *eiruv* for** the **entire** city of **Neharde’a,** and **Rabbi Ami and Rabbi Asi** would **prepare an *eiruv* for** the **entire** city of **Tiberias.** Similarly, **Rabbi Ya’akov bar Idi** would **announce:** Anyone **who did not prepare a joining of cooked foods** for himself should **come and rely on mine.** The Gemara asks: **And up to how much** may one rely on it, i.e., how far may one be from such an *eiruv* and still rely upon it? **Rav Neḥumi bar Zekharya said in the name of Abaye:** One may be **as far** away **as the Shabbat limit.**
+
+**7.**
+*Hebrew/Aramaic:* הָהוּא סַמְיָא דַּהֲוָה מְסַדַּר מַתְנְיָתָא קַמֵּיהּ דְּמָר שְׁמוּאֵל, חַזְיֵיהּ דַּהֲוָה עֲצִיב, אֲמַר לֵיהּ: אַמַּאי עֲצִיבַתְּ? אֲמַר לֵיהּ: דְּלָא אוֹתִיבִי עֵרוּבֵי תַבְשִׁילִין. אָמַר לֵיהּ: סְמוֹךְ אַדִּידִי. לְשָׁנָה חַזְיֵיהּ דַּהֲוָה עֲצִיב, אֲמַר לֵיהּ: אַמַּאי עֲצִיבַתְּ? אֲמַר לֵיהּ: דְּלָא אוֹתִיבִי עֵרוּבֵי תַּבְשִׁילִין. אֲמַר לֵיהּ: פּוֹשֵׁעַ אַתְּ. לְכוּלֵּי עָלְמָא שְׁרֵי, לְדִידָךְ אֲסִיר.
+*Translation:* The Gemara relates: With regard to **the blind person who would present *mishnayot* before Mar Shmuel,** the latter **observed that he was sad.** Mar Shmuel **said to him: Why are you sad? He said to him:** Because **I did not prepare a joining of cooked foods** before the Festival. Mar Shmuel **said to him:** Then **rely on mine. In the** following **year, he** once again **observed that he was sad. He said to him: Why are you sad? He said to him:** Because **I did not prepare a joining of cooked foods.** Mar Shmuel **said to him:** If so, **you are** consistently **negligent** in this regard. Therefore, **for the entire world,** i.e., anyone else but you, it is **permitted** to rely on my *eiruv* if they forgot to prepare one, but **for you** it is **prohibited** to do so, as I did not intend to include such negligent people as yourself in my *eiruv*.
+
+**8.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: יוֹם טוֹב שֶׁחָל לִהְיוֹת בְּעֶרֶב שַׁבָּת — אֵין מְעָרְבִין לֹא עֵרוּבֵי תְחוּמִין וְלֹא עֵרוּבֵי חֲצֵרוֹת.
+*Translation:* **The Sages taught:** If **a Festival occurs on Shabbat eve, one may not prepare an *eiruv*** on that day, **neither a joining of** Shabbat **boundaries [*eiruv teḥumin*] nor a joining of courtyards [*eiruv ḥatzerot*],** for Shabbat. If one did not prepare these before the Festival, he may not do so on the Festival itself.
+
+**9.**
+*Hebrew/Aramaic:* רַבִּי אוֹמֵר: מְעָרְבִין עֵרוּבֵי חֲצֵרוֹת, אֲבָל לֹא עֵרוּבֵי תְחוּמִין. מִפְּנֵי שֶׁאַתָּה אוֹסְרוֹ בְּדָבָר הָאָסוּר לוֹ, וְאִי אַתָּה אוֹסְרוֹ בְּדָבָר הַמּוּתָּר לוֹ.
+*Translation:* **Rabbi** Yehuda HaNasi **says:** On a Festival that occurs on a Friday, **one may prepare an *eiruv*** for **a joining of courtyards, but not** for **a joining of** Shabbat **boundaries.** His reasoning is as follows: There is a distinction between the two types of *eiruv* **because you may prohibit him from a matter that is prohibited to him,** e.g., venturing beyond the Shabbat limit, which is prohibited on a Festival as well as Shabbat, **but you may not prohibit him from a matter that is permitted to him,** e.g., carrying from one domain to another, which is permitted on a Festival. Therefore, on a Festival, one may not prepare a joining of Shabbat boundaries in order to render it permitted to venture beyond the boundary on the Shabbat following the Festival. However, one may prepare a joining of courtyards on the Festival in order to render it permitted to carry from one domain to another on the Shabbat following the Festival.
+
+**10.**
+*Hebrew/Aramaic:* אִתְּמַר, רַב אָמַר: הֲלָכָה כְּתַנָּא קַמָּא. וּשְׁמוּאֵל אָמַר: הֲלָכָה כְּרַבִּי.
+*Translation:* **It was stated** that the *amora’im* disagreed as to the conclusive ruling. **Rav said:** The ***halakha* is in accordance with** the opinion of **the first *tanna*,** who said that it is prohibited to prepare both types of *eiruvin*, **and Shmuel said:** The ***halakha* is in accordance with** the opinion of **Rabbi** Yehuda HaNasi, and it is permitted to prepare a joining of courtyards on a Festival.
+
+**11.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: הֲלָכָה כְּרַבִּי לְקוּלָּא אוֹ לְחוּמְרָא? פְּשִׁיטָא דִּלְקוּלָּא קָאָמַר! מִשּׁוּם דְּשָׁלַח רַבִּי אֶלְעָזָר לַגּוֹלָה: לֹא כְּשֶׁאַתֶּם שׁוֹנִין בְּבָבֶל רַבִּי מַתִּיר וַחֲכָמִים אוֹסְרִין, אֶלָּא רַבִּי אוֹסֵר וַחֲכָמִים מַתִּירִין. מַאי?
+*Translation:* **A dilemma was raised before** the Sages: Is stating that the ***halakha* is in accordance with** the opinion of **Rabbi** Yehuda HaNasi **a leniency or a stringency?** The Gemara wonders at this query: It is **obvious that he stated it as a leniency.** The Gemara explains: The question was asked **because Rabbi Elazar sent** a message from Eretz Yisrael **to the Diaspora:** This *baraita* is **not as you teach** it **in Babylonia,** that **Rabbi** Yehuda HaNasi **permits** one to prepare a joining of courtyards on a Festival **and the Rabbis prohibit** it. **Rather,** the opinions should be reversed, so that **Rabbi** Yehuda HaNasi **prohibits** it **and the Rabbis permit** it. Therefore, the question arose: **What** is the conclusive ruling for this *halakha*? Is it lenient or stringent?
+
+**12.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, דְּרַב תַּחְלִיפָא בַּר אַבְדִּימִי עֲבַד עוֹבָדָא כְּוָתֵיהּ דִּשְׁמוּאֵל, וְאָמַר רַב: תְּחִלַּת הוֹרָאָה דְּהַאי צוּרְבָּא מֵרַבָּנַן — לְקִלְקוּלָא. אִי אָמְרַתְּ בִּשְׁלָמָא לְקוּלָּא קָאָמַר — הַיְינוּ קִלְקוּלָא. אֶלָּא אִי אָמְרַתְּ לְחוּמְרָא — מַאי קִלְקוּלָא אִיכָּא?
+*Translation:* The Gemara attempts to cite a proof: **Come** and **hear that Rav Taḥlifa bar Avdimi performed an action in accordance with the opinion of Shmuel,** who ruled that the *halakha* is in accordance with the opinion of Rabbi Yehuda HaNasi, **and Rav said** in anger about this: **The first** public **ruling of this young Torah scholar is** bringing about **corruption** of the *halakha*. The Gemara analyzes this statement: **Granted, if you say** that Rabbi Yehuda HaNasi **said it as a leniency, this** explains **the corruption** of the *halakha* involved, as Rav was angered by a young scholar who relied on his own judgment to issue a lenient ruling on a disputed issue. **However, if you say** that Rabbi Yehuda HaNasi meant it **as a stringency, what corruption** of the *halakha* **is there** in the young scholar’s ruling?
+
+**13.**
+*Hebrew/Aramaic:* כֵּיוָן דְּמִקַּלְקְלִי בַּהּ רַבִּים,
+*Translation:* The Gemara answers: **Since it corrupts** the behavior of **the masses,** as, if they refrain from preparing a joining of courtyards on the Festival although it is permitted to do so, they might mistakenly carry from one domain to another on Shabbat,

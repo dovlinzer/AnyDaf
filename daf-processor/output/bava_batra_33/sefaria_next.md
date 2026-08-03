@@ -15,3 +15,20 @@
 **4.**
 *Hebrew/Aramaic:* אֶלָּא אִי דָּמְיָא הָא דְּרַבִּי אַבָּא – לְחַד סָהֲדָא וּלְתַרְתֵּי שְׁנֵי – וּלְפֵירֵי.
 *Translation:* **Rather, if this** case **of Rabbi Abba is comparable** to a case such as this, it is comparable **to** a case where there is **one witness and** he testifies **to** someone’s profiting from land for **two years, and** the comparison is in terms of payment **for** the **produce** that he consumed. In terms of the consumption of the produce, two witnesses would have rendered the possessor liable to pay, as consumption of the produce for only two years does not establish the presumption of ownership. Therefore, one witness renders him liable to take an oath. Since he himself claimed that he profited from the land as the witness testified, he cannot take an oath to contest the testimony. Therefore, he would have to pay for the produce.
+
+
+---
+
+### Bava Batra 34b
+
+**1.**
+*Hebrew/Aramaic:* הָהוּא אַרְבָּא דַּהֲווֹ מִינְּצוּ עֲלַהּ בֵּי תְרֵי, הַאי אָמַר: ״דִּידִי הִיא״, וְהַאי אָמַר: ״דִּידִי הִיא״. אֲתָא חַד מִינַּיְיהוּ לְבֵי דִינָא, וְאָמַר: תִּיפְסוּהָ אַדְּמַיְיתֵינָא סָהֲדֵי דְּדִידִי הִיא. תָּפְסִינַן, אוֹ לָא תָּפְסִינַן? רַב הוּנָא אָמַר: תָּפְסִינַן. רַב יְהוּדָה אָמַר: לָא תָּפְסִינַן.
+*Translation:* § The Gemara relates: There was **a certain boat that two** people **were quarreling** about with regard to **its** ownership. **This** one **said: It is mine, and that** one also **said: It is mine. One of them came to court and said: Seize it until I** am able to **bring witnesses that it is mine.** The Gemara asks: In such a case, do **we seize** it **or** do **we not seize** it? **Rav Huna said: We seize** it. **Rav Yehuda said: We** do **not seize** it, as there is no cause for the court to intervene.
+
+**2.**
+*Hebrew/Aramaic:* אֲזַל, וְלָא אַשְׁכַּח סָהֲדֵי. אֲמַר לְהוּ: אַפְּקוּהָ, וְכֹל דְּאַלִּים גָּבַר. מַפְּקִינַן, אוֹ לָא מַפְּקִינַן? רַב יְהוּדָה אָמַר: לָא מַפְּקִינַן. רַב פָּפָּא אָמַר: מַפְּקִינַן. וְהִלְכְתָא: לָא תָּפְסִינַן, וְהֵיכָא דִּתְפַס – לָא מַפְּקִינַן.
+*Translation:* The court seized the boat. The one who requested of the court to seize it **went** to seek witnesses, **but did not find witnesses.** He then **said to** the court: **Release** the boat, **and whoever is stronger prevails,** as this is the ruling in a case where there is neither evidence nor presumptive ownership for either litigant. The Gemara asks: In such a case, do **we release** it **or** do **we not release** it? **Rav Yehuda said: We** do **not release** it. **Rav Pappa said: We release** it. The Gemara concludes: **And the *halakha*** is that **we** do **not seize** property in a case where ownership is uncertain, **and where** it was **seized, we** do **not release** it.
+
+**3.**
+*Hebrew/Aramaic:* זֶה אוֹמֵר: ״שֶׁל אֲבוֹתַי״, וְזֶה אוֹמֵר: ״שֶׁל אֲבוֹתַי״ – אָמַר רַב נַחְמָן: כֹּל דְּאַלִּים גָּבַר. וּמַאי שְׁנָא מִשְּׁנֵי שְׁטָרוֹת הַיּוֹצְאִין בְּיוֹם אֶחָד –
+*Translation:* There was an incident where two people dispute the ownership of property. **This** one **says:** It **belonged to my ancestors** and I inherited it from them, **and that** one **says:** It **belonged to my ancestors** and I inherited it from them. There was neither evidence nor presumptive ownership for either litigant. **Rav Naḥman said: Whoever is stronger prevails.** The Gemara asks: **And** in **what** way **is** this case **different from** the case where two people produce **two deeds** of sale or gift for the same field **that are issued on one day,**

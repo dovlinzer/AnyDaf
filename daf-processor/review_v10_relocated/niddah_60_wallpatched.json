@@ -1,0 +1,460 @@
+[
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Nechemia: Stone Seats",
+    "candidates": [
+      "Opening & Context",
+      "Tliyah Basics",
+      "Mishnah: Lending & Niddot",
+      "Who Loses Analysis",
+      "Mishnah Setup",
+      "Equal Parties Rule",
+      "Two Roads Analogy",
+      "Nechemia: Stone Seats",
+      "Stain Principle",
+      "Tosafos Analysis",
+      "Modern Applications",
+      "Relevance Today",
+      "Rav's Position"
+    ],
+    "result": {
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Mishnah scenario of women sitting on a stone bench or bathhouse bench and Rabbi Nechemia's ruling of purity, which is exactly what the 'Nechemia: Stone Seats' section's prose introduces and describes.",
+      "chosen_heading": "Nechemia: Stone Seats",
+      "current_heading": "Nechemia: Stone Seats",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Stain Principle",
+      "Tosafos Analysis",
+      "Modern Applications",
+      "Relevance Today",
+      "Rav's Position",
+      "Rav Sheshet Critique"
+    ],
+    "result": {
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav's statement limiting the Mishnah's leniency to a gentile woman who has already seen menstrual blood, with the dumya deniddah analogy \u2014 precisely what the 'Rav's Position' prose section describes.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Rav Sheshet Critique",
+    "candidates": [
+      "Rav Sheshet Critique",
+      "Rabbi Meir Debate",
+      "Rav Papa Resolution"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Sheshet's critique of Rav (calling his ruling a sleeping error) and the baraita about the gentile woman including Rabbi Meir's position, which is precisely what candidate 0's prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Rav Sheshet Critique",
+      "current_heading": "Rav Sheshet Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Rav Papa Resolution",
+    "candidates": [
+      "Rabbi Meir Debate",
+      "Rav Papa Resolution",
+      "Case Setup"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's clarification that Rabbi Meir is lenient (not strict), which matches the 'Rabbi Meir Debate' prose discussing who is strict and who is lenient \u2014 whereas the current placement attributes this argument to 'Rav Papa' which is incorrect (the Gemara attributes it to Rava).",
+      "chosen_heading": "Rabbi Meir Debate",
+      "current_heading": "Rav Papa Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Case Setup",
+      "Rabban Shimon View",
+      "Rabbi's Position",
+      "Agreement Cases"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about attributing a stain to a shomeret yom k'neged yom on her second day, which is precisely the case setup described in candidate 0's prose, which explicitly quotes 'toleh b'shomeret yom k'neged yom b'sheni shelah' and sets up the asymmetric loss scenario before the dispute between Rabban Shimon ben Gamliel and Rebi.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Agreement Cases",
+    "candidates": [
+      "Rabban Shimon View",
+      "Rabbi's Position",
+      "Agreement Cases",
+      "Case Introduction"
+    ],
+    "result": {
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the agreement cases (shomeret yom, dam tohor, betula), the 'lefikach' of Rabban Shimon ben Gamliel, and the 'lefikach' of Rabbi \u2014 all of which are explicitly discussed in the 'Agreement Cases' prose, making the current placement correct.",
+      "chosen_heading": "Agreement Cases",
+      "current_heading": "Agreement Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Case Introduction",
+    "candidates": [
+      "Case Introduction",
+      "Rav Adda Challenge",
+      "Interpretation Debate",
+      "Talui Case",
+      "No Additional Loss",
+      "Ketem B'Ketem Query",
+      "Yochanan Query",
+      "Rabbi's Answer"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rav \u1e24isda's statement, Rav Adda's objection, Rav \u1e24isda's response, and Rabbi Yosei b'Rabbi \u1e24anina's ruling \u2014 all of which are introduced and explained in the 'Case Introduction' prose, which explicitly summarizes all these elements including Rav Chisda's position, the Tosafot clarifications, and the structure of the debate, making it the correct home for this combined passage.",
+      "chosen_heading": "Case Introduction",
+      "current_heading": "Case Introduction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Rabbi's Answer",
+    "candidates": [
+      "Rav Adda Challenge",
+      "Interpretation Debate",
+      "Talui Case",
+      "No Additional Loss",
+      "Ketem B'Ketem Query",
+      "Yochanan Query",
+      "Rabbi's Answer",
+      "Braita Conflict",
+      "Resolutions",
+      "Retroactive Discovery"
+    ],
+    "result": {
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the actual text of Rabbi Yo\u1e25anan posing the ketem b'ketem question to Rabbi Yehuda bar Livai and receiving the answer 'ein toleh,' which corresponds precisely to candidate 5 ('Yochanan Query') whose prose describes exactly this: 'Ba'ei mineih Rebbi Yochanan meRebbi Yehudah bar Livai: Rebbi Yochanan formally posed the question to Rebbi Yehudah bar Livai \u2014 may one attribute a stain to a woman who found a stain on another garment of hers?'",
+      "chosen_heading": "Yochanan Query",
+      "current_heading": "Rabbi's Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Retroactive Discovery",
+    "candidates": [
+      "Braita Conflict",
+      "Resolutions",
+      "Retroactive Discovery",
+      "Abaye Reframes"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full arc from the baraita's initial contradiction (ein tolin ketem b'ketem vs. the permissive clause), through all the resolutions (Rabbi vs. Rabban Shimon ben Gamliel, rishon/sheni, Rav Ashi's lemapre'a/lehaba, and Ravina's reinterpretation), meaning it belongs under the heading that introduces the baraita conflict itself, not under 'Retroactive Discovery' which only covers Rav Ashi's portion, nor under 'Resolutions' which omits the baraita's introduction and Ravina's conclusion.",
+      "chosen_heading": "Braita Conflict",
+      "current_heading": "Retroactive Discovery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Abaye Reframes",
+    "candidates": [
+      "Abaye Reframes",
+      "Principle Maintained",
+      "Scriptural Basis"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's reinterpretation of the baraita's phrase 'or to a woman observing a stain' as actually meaning 'a woman observing the blood of purity,' which directly continues the discussion in 'Abaye Reframes' about resolving the baraita's permissive clause through reinterpretation of its text.",
+      "chosen_heading": "Abaye Reframes",
+      "current_heading": "Abaye Reframes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Scriptural Basis",
+    "candidates": [
+      "Principle Maintained",
+      "Scriptural Basis",
+      "Pottery Example"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Mattana's scriptural derivation of Rabbi Nechemia's principle from Isaiah 3:26, which is precisely what the 'Scriptural Basis' section's prose discusses \u2014 *amar Rav Matna mai ta'ama deRebbi Nechemia* and the verse *v'niketa la'aretz teshev*.",
+      "chosen_heading": "Scriptural Basis",
+      "current_heading": "Scriptural Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Pottery Example",
+    "candidates": [
+      "Pottery Example",
+      "Rag Size"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about Rabbi Ne\u1e25emya's ruling on the exterior of an earthenware vessel and the rabbinic decree question (ligzor gabo atu tocho), which is precisely what the 'Pottery Example' prose discusses in detail.",
+      "chosen_heading": "Pottery Example",
+      "current_heading": "Pottery Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Rag Size",
+    "candidates": [
+      "Rag Size",
+      "Nachman Objection"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content about Abaye's statement regarding Rabbi Ne\u1e25emya's ruling on small rags (less than three by three fingerbreadths) being unsuitable for poor or wealthy is directly and precisely discussed in the 'Rag Size' section's prose, which explicitly addresses this exact ruling and its implications.",
+      "chosen_heading": "Rag Size",
+      "current_heading": "Rag Size",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Nachman Objection",
+    "candidates": [
+      "Nachman Objection",
+      "Grinding Case"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the prose in candidate 0 summarizes: Rav \u1e24iyya bar Rav Mattana ruling in Rav's name that the halakha follows Rabbi Ne\u1e25emya, and Rav Na\u1e25man challenging this by citing a baraita where the Sages ruled impure in practice \u2014 matching the current placement perfectly.",
+      "chosen_heading": "Nachman Objection",
+      "current_heading": "Nachman Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Grinding Case",
+    "candidates": [
+      "Grinding Case",
+      "Olive Leaf Case"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the two-women-grinding scenario with inner/outer positions and blood found beneath each, which matches precisely the 'Grinding Case' prose discussion of pnimit, chitzonah, and the three scenarios of blood location.",
+      "chosen_heading": "Grinding Case",
+      "current_heading": "Grinding Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Olive Leaf Case",
+    "candidates": [
+      "Olive Leaf Case",
+      "Resolution",
+      "Three Leniencies",
+      "Tzara'at Parallel",
+      "Formal vs. Practical",
+      "Mishnah Setup (II)",
+      "All Become Tmeia",
+      "Individual Check",
+      "Attribution Between",
+      "Equal Unsuitability",
+      "Instantaneous Check",
+      "Chatat Principle",
+      "Bar Pada Framework"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact incidents (bathtub rim and olive leaf during oven-heating) and the Sages' ruling of impurity that the 'Olive Leaf Case' prose directly discusses, making the current placement correct.",
+      "chosen_heading": "Olive Leaf Case",
+      "current_heading": "Olive Leaf Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181
+    ],
+    "current_heading": "Bar Pada Framework",
+    "candidates": [
+      "Resolution",
+      "Three Leniencies",
+      "Tzara'at Parallel",
+      "Formal vs. Practical",
+      "Mishnah Setup (II)",
+      "All Become Tmeia",
+      "Individual Check",
+      "Attribution Between",
+      "Equal Unsuitability",
+      "Instantaneous Check",
+      "Chatat Principle",
+      "Bar Pada Framework",
+      "Yoshia Principle",
+      "Child & Elder Mashal"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with the baraita resolving the tanna'im dispute ('tanna'ei hi') \u2014 Rabbi Yaakov vs. Rabbi Nechemia with chachamim ruling like Rabbi Nechemia \u2014 which is precisely what heading 0 ('Resolution') describes, before transitioning to the next Mishnah and Gemara material that belongs under later headings.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Bar Pada Framework",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      190
+    ],
+    "current_heading": "Child & Elder Mashal",
+    "candidates": [
+      "Yoshia Principle",
+      "Child & Elder Mashal",
+      "Eye & Tears Mashal",
+      "Distinction from Others",
+      "Pregnant Case"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yirmia's child-and-elder mashal AND Abaye's eye-and-tears mashal together, and the current placement under 'Child & Elder Mashal' is correct since that section's prose explicitly discusses Rabbi Yirmia's analogy, while Abaye's mashal has its own adjacent section \u2014 but the Talmudic text quotes both together as a unit, and the current heading is the natural home for where this combined passage begins.",
+      "chosen_heading": "Child & Elder Mashal",
+      "current_heading": "Child & Elder Mashal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      198,
+      199
+    ],
+    "current_heading": "Pregnant Case",
+    "candidates": [
+      "Eye & Tears Mashal",
+      "Distinction from Others",
+      "Pregnant Case",
+      "Nursing Case",
+      "Age Case",
+      "Menarche Case",
+      "Equal Status Rule"
+    ],
+    "result": {
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage contains the full baraita covering all four cases (pregnant, nursing, old, virgin), and the current placement under 'Pregnant Case' captures the opening of that baraita including the introductory question 'how do they attribute,' which matches the prose of candidate 2 most directly, even though the content spans candidates 2\u20135.",
+      "chosen_heading": "Pregnant Case",
+      "current_heading": "Pregnant Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      208
+    ],
+    "current_heading": "Equal Status Rule",
+    "candidates": [
+      "Nursing Case",
+      "Age Case",
+      "Menarche Case",
+      "Equal Status Rule"
+    ],
+    "result": {
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the case where both women share the same status (both pregnant, both nursing, both old, both virgins) and concludes with the ruling from the Mishnah about women not fit to see menstrual blood \u2014 exactly matching the 'Equal Status Rule' prose description.",
+      "chosen_heading": "Equal Status Rule",
+      "current_heading": "Equal Status Rule",
+      "moved": false
+    }
+  }
+]

@@ -19,3 +19,20 @@
 **5.**
 *Hebrew/Aramaic:* תָּא שְׁמַע: אֵימָתַי אָמְרוּ מֵת הַבַּעַל נִתְרוֹקְנָה רְשׁוּת לָאָב — בִּזְמַן שֶׁלֹּא שָׁמַע הַבַּעַל קוֹדֶם שֶׁיָּמוּת, אוֹ שֶׁשָּׁמַע וְשָׁתַק, אוֹ שֶׁשָּׁמַע וְהֵפֵר וּמֵת בּוֹ בַּיּוֹם. זוֹ הִיא שֶׁשָּׁנִינוּ: מֵת הַבַּעַל נִתְרוֹקְנָה רְשׁוּת לָאָב.
 *Translation:* The Gemara now cites a lengthy *baraita*, ultimately stating a proof to answer the previous question. **Come** and **hear** a *baraita* that will resolve the dilemma: **When did they say** that if **the husband** of a betrothed young woman **dies,** the **authority** to nullify her vows **reverts to the father,** who can then nullify her vows on his own? This occurs in a case **when the husband had not heard** her vow **before he died; or** in a case **where he heard and was silent; or where he heard and nullified** it **and died on the same day. This is what we learned** in the mishna, concerning a case of this kind (70a): If **the husband dies,** the **authority** to nullify vows **reverts to the father.**
+
+
+---
+
+### Nedarim 68b
+
+**1.**
+*Hebrew/Aramaic:* אֲבָל אִם שָׁמַע וְקִיֵּים, אוֹ שֶׁשָּׁמַע וְשָׁתַק וּמֵת בַּיּוֹם שֶׁלְּאַחֲרָיו — אֵין יָכוֹל לְהָפֵר.
+*Translation:* **But if** it is a case where the husband of a betrothed young woman **heard and ratified** the vow, **or where he heard, and was silent, and died on the following day,** in which case his silence is considered ratification of the vow, then the father **cannot nullify** the vow.
+
+**2.**
+*Hebrew/Aramaic:* שָׁמַע אָבִיהָ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק בַּעַל לִשְׁמוֹעַ עַד שֶׁמֵּת הָאָב — זוֹ הִיא שֶׁשָּׁנִינוּ: מֵת הָאָב, לֹא נִתְרוֹקְנָה רְשׁוּת לַבַּעַל. שָׁמַע בַּעְלָהּ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק הָאָב לִשְׁמוֹעַ עַד שֶׁמֵּת הַבַּעַל — זוֹ הִיא שֶׁשָּׁנִינוּ: מֵת הַבַּעַל, נִתְרוֹקְנָה רְשׁוּת לָאָב.
+*Translation:* If **her father heard** or was made aware of the vow **and nullified** it **for her but the husband did not manage to hear** of the vow **before the father died, this is what we learned** in the same mishna (70a): If **the father dies, the authority** over her vows **does not revert to the husband,** i.e., a young woman’s betrothed cannot nullify her vows alone, without the father. If **her husband heard** the vow **and nullified** it **for her, and the father did not manage to hear** of the vow **before the husband died, this is what we learned** in the mishna: **If the husband dies, the authority reverts to the father.**
+
+**3.**
+*Hebrew/Aramaic:* שָׁמַע בַּעְלָהּ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק הָאָב לִשְׁמוֹעַ עַד שֶׁמֵּת — אֵין הַבַּעַל יָכוֹל לְהָפֵר, שֶׁאֵין הַבַּעַל מֵיפֵר אֶלָּא בְּשׁוּתָּפוּת.
+*Translation:* If **her husband heard and nullified** the vow **for her, and the father did not manage to hear** of the vow **before he died, the husband cannot nullify** it, although she no longer has a father, **as the husband can nullify** vows **only in partnership** with the father.

@@ -310,10 +310,10 @@ This is a striking principle. It is not about ascertaining physical facts — if
 
 This re-reading preserves the principle *ein tolin ketem b'ketem* intact. The *braita*'s permissive clause, properly understood, does not actually permit attributing a stain to a woman whose only relevant status is having found a stain. In both permitted cases, there is an additional feature — non-Jewish status or *dam tohor* period — that independently justifies attribution. The formal principle that stain-to-stain attribution is impermissible remains undisturbed.
 
----
-
 > **Hebrew/Aramaic:** וְהָא ״אוֹ לְיוֹשֶׁבֶת עַל הַכֶּתֶם״ קָתָנֵי! הָכִי קָאָמַר: אוֹ לְיוֹשֶׁבֶת עַל דַּם טוֹהַר — בַּעֲלַת כֶּתֶם תּוֹלָה בָּהּ.
 > **Translation:** The Gemara raises an objection: **But** the *tanna* of the *baraita* **teaches: Or to** a woman who was **observing** days of impurity **due to** having seen a blood **stain,** i.e., it mentions another woman who was already impure due to having seen a blood stain. Ravina explains that **this** is what the *tanna* **is saying:** If she loaned the garment to a gentile woman **or to** a woman after childbirth **who is observing** the period **of** the **blood of purity,** then with regard to defining the lender as **a woman who saw** a blood **stain, she may attribute** the stain to the gentile or to the woman observing the days of ritually pure blood, and the lender remains pure.
+
+---
 
 ## Nechemia Extended
 

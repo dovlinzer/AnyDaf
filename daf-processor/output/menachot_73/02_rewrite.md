@@ -6,7 +6,7 @@
 
 The new perek opens with a classification of which menachos require kmitzah, identifying those whose remainder is eaten by the kohanim: *ve-elu menachos nikmatzos u-shiyureihen la-kohanim*. The list includes minchas hasoles, the machavas, the marcheshes, the chalos, and the rekikhin — the five standard menachos enumerated at the beginning of Vayikra, representing flour, frying pan, saucepan, loaves, and wafers (the two variations of ma'afeh tanur). The mishna adds minchas ovdei kokhavim (brought by non-Jews), minchas nashim (brought by women — not a separate halakhic category in the Torah, yet grouped here for completeness), minchas ha-omer, minchas chotei, and minchas kena'os. The final three are all brought from barley: the omer offering, the korban of the oleh ve-yored at the end of Parshas Vayikra, and the minchas kena'os of the sotah. Notably, the last two lack oil and levonah.
 
-### Rabbi Shimon: Minchat Ko…
+### Rabbi Shimon: Minchat
 
 Rabbi Shimon introduces a position regarding a category conspicuously absent from the list: the minchas kohen. Since a minchas kohen is burned entirely, one might assume that no kmitzah is performed — the kmitzah's function is to designate what goes on the fire while the remainder is eaten, and if everything is burned, the distinction collapses. According to the Chachamim, the entire minchas kohen is treated as the korban, analogous to a single undifferentiated offering to God.
 
@@ -22,7 +22,7 @@ The mishna further states *ve-shiyureihen la-kohanim* — the remainder of all t
 
 ---
 
-## Remainder Eaten by Kohan…
+## Remainder Eaten by Priest
 
 ### Sources for Eating
 
@@ -36,13 +36,13 @@ One might respond: the very fact that kmitzah is performed on the barley menacho
 
 The Gemara rejects this inference: *aliba d'Rabbanan lo kamibaya lan* — according to the Chachamim, this argument is indeed valid, since they hold that wherever kmitzah is performed the remainder is always eaten. Their position entails a strict equivalence between kmitzah and subsequent consumption. But *ki kamibaya lan aliba d'Rabbi Shimon* — the question is acute according to Rabbi Shimon, *d'amar ika minchah d'mikamtza v'lo misachla* — who holds that there can be a mincha where kmitzah is performed yet the remainder is not eaten, namely the minchas kohanim. According to Rabbi Shimon, then, the performance of kmitzah on the barley menachos does not by itself prove that their remainder is eaten. A separate source is required.
 
-### Rabbi Shimon: Kemitzah A…
+### Rabbi Shimon: Kemitzah
 
 Chizkiyah supplies the derivation from a pasuk in Tzav: *ve-chol mincha belulah vashamen va-charevah le-chol benei Aharon tihyeh ish ke-achiv* — any mincha mixed with oil or that is dry shall belong to all of the sons of Aaron, each equally as his brother. This pasuk mentions two types: one mixed with oil (belulah) and one dry (charevah). Since the cases of belulah she-shel chitim (wheat mixed with oil) and charevah she-shel chitim (dry wheat mincha) are already established elsewhere, the pasuk cannot be coming to teach them. The principle of im eino inyan therefore redirects: *tenahu inyan li-velulah shel se'orim* — the reference to belulah teaches that the minchas ha-omer (a barley mincha mixed with oil) is eaten by the kohanim; *tenahu inyan le-charevah shel se'orim* — the reference to charevah teaches the same for the minchas sotah (a dry barley mincha). The remainder of both barley menachos is thus established as eaten by benei Aharon.
 
 ---
 
-## Equal Division Among Koh…
+## Kohanim: Equal Division
 
 ### Chizkiyah's Derivation
 
@@ -66,7 +66,7 @@ The Gemara now asks: given all this, how can Chizkiyah's derivation stand? If th
 
 ---
 
-## Non-Jews Bringing Sacrif…
+## Non-Jews Sacrifice Debate
 
 ### Rav Shizbi's Challenge
 
@@ -84,7 +84,7 @@ The pasuk concludes *asher yashivu* — that which they return. This is interpre
 
 ---
 
-## Non-Jews Sending Offerin…
+## Non-Jews: Offerings
 
 ### Rabbi Shimon's Ordinance
 

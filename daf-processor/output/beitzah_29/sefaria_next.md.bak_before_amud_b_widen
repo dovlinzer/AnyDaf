@@ -1,0 +1,57 @@
+### Beitzah 30a
+
+**1.**
+*Hebrew/Aramaic:* בַּעֲרֵמַת הַתֶּבֶן, אֲבָל לֹא בָּעֵצִים שֶׁבַּמּוּקְצֶה.
+*Translation:* **from the pile of straw,** although he did not designate the pile for this purpose the day before; **but one may not** begin to take from **the wood in the** wood **storage,** a small yard behind the house where people store various items that they do not intend to use in the near future.
+
+**2.**
+*Hebrew/Aramaic:* גְּמָ׳ תָּנָא: אִם אִי אֶפְשָׁר לְשַׁנּוֹת — מוּתָּר.
+*Translation:* GEMARA: A *tanna* **taught** in a *baraita*: **If it is impossible to modify** the manner in which one carries a vessel, whether due to the vessel or due to time constraints, **it is permitted** to act in the typical weekday manner.
+
+**3.**
+*Hebrew/Aramaic:* אַתְקִין רָבָא בְּמָחוֹזָא: דְּדָרוּ בְּדוּחְקָא — לִדְרוֹ בְּרִגְלָא. דְּדָרוּ בְּרִגְלָא — לִדְרוֹ בְּאַגְרָא. דְּדָרוּ בְּאַגְרָא — לִדְרוֹ בְּאַכְפָּא. דְּדָרוּ בְּאַכְפָּא — נִפְרוֹס סוּדָרָא עִלָּוֵיהּ, וְאִם לָא אֶפְשָׁר — שְׁרֵי. דְּאָמַר מָר: אִם אִי אֶפְשָׁר לְשַׁנּוֹת — מוּתָּר.
+*Translation:* The Gemara relates that **Rava instituted** the following **in** his city, **Meḥoza:** One **who** usually **carries** his burden **with difficulty** on a weekday **should** modify his habit on a Festival and **carry it on a pitchfork.** One **who** usually **carries it on a pitchfork should carry it on a carrying pole** held by two people on their shoulders. One **who carries it on a carrying pole** held by two people on their shoulders **should carry it** on a carrying pole **in his hands,** although he is not thereby making it easier for himself. One **who carries** burdens on a carrying pole **in his hands should spread a scarf [*sudara*] over it. And if it is not possible** to make these modifications due to time constraints, **it is permitted** to proceed in the usual manner, as **the Master said above: If it is impossible to modify, it is permitted.**
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב חָנָן בַּר רָבָא לְרַב אָשֵׁי: אֲמוּר רַבָּנַן כַּמָּה דְּאֶפְשָׁר לְשַׁנּוֹיֵי מְשַׁנֵּינַן בְּיוֹמָא טָבָא. וְהָא הָנֵי נְשֵׁי דְּקָא מָלְיָין חַצְבַיְיהוּ מַיָּא בְּיוֹמָא טָבָא, וְלָא קָא מְשַׁנְּיָין, וְלָא אָמְרִינַן לְהוּ וְלָא מִידֵּי!
+*Translation:* **Rav Ḥanan bar Rava said to Rav Ashi: The Sages said: As much as it is possible to modify** the weekday manner, **one should modify on a Festival.** A question was asked of Rav Ashi: **But don’t those women fill their jugs with water on a Festival without modifying, and we say nothing to them** by way of protest; why do we not instruct them to alter their usual manner?
+
+**5.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: מִשּׁוּם דְּלָא אֶפְשָׁר. הֵיכָא לֶיעְבַּד? דְּמָלְיָא בְּחַצְבָּא רַבָּה תִּמְלֵי בְּחַצְבָּא זוּטָא — קָא מַפְּשָׁא בְּהִלּוּכָא.
+*Translation:* **He said to him:** It is **because it is not possible** for them to fill their jugs any other way. **How should they act?** She **who** is accustomed to **filling a large jug, should** she instead **fill a small jug?** Won’t this mean that **she increases** her **walking,** since she has to make more than one trip to bring home more than one jug, and she will thereby perform unnecessary labor on the Festival?
+
+**6.**
+*Hebrew/Aramaic:* דְּמָלְיָא בְּחַצְבָּא זוּטָא תִּמְלֵי בְּחַצְבָּא רַבָּה — קָא מַפְּשָׁא בְּמַשּׂוֹי. תְּכַסְּיֵיהּ בְּנִכְתְּמָא — זִמְנִין דְּנָפֵיל וְאָתֵי לְאֵתוֹיֵי. תִּקְטְרֵיהּ — זִמְנִין דְּמִפְּסִיק וְאָתֵי לְמִקְטְרֵיהּ. תִּפְרוֹס סוּדָרָא עִלָּוֵיהּ — זִמְנִין דְּמִטְּמִישׁ בְּמַיָּא וְאָתֵי לִידֵי סְחִיטָה. הִלְכָּךְ לָא אֶפְשָׁר.
+*Translation:* If one were to suggest the opposite, **that one who fills a small jug should fill a large jug,** won’t this mean that **she increases** her **load?** Furthermore, if one were to suggest that **she should cover** the jug **with** a wooden **cover, sometimes** it **falls and she might come to bring it** by hand, in the manner of a burden. **Should she tie** the cover to the jug, the rope might **occasionally break, and she might come to tie it,** a prohibited labor. Finally, **should she spread a scarf over it,** it **occasionally** falls off and **becomes soaked in water, and she might come to** transgress the prohibition against **squeezing. Therefore, it is not possible** to make a modification, and those women may act in the regular manner.
+
+**7.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא בַּר רַב חָנִין לְאַבָּיֵי, תְּנַן: אֵין מְטַפְּחִין וְאֵין מְסַפְּקִין וְאֵין מְרַקְּדִין, וְהָאִידָּנָא דְּקָא חָזֵינַן דְּעָבְדָן הָכִי, וְלָא אָמְרִינַן לְהוּ וְלָא מִידֵּי?
+*Translation:* **Rava bar Rav Ḥanin said to Abaye: We learned** in a mishna: The Rabbis decreed that **one may not clap, nor strike** a hand on his thigh, **nor dance** on a Festival, lest he come to repair musical instruments. **But nowadays we see that** women **do so, and** yet **we do not say anything to them.**
+
+**8.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: וּלְטַעְמָךְ הָא דְּאָמַר (רָבָא): לָא לֵיתֵיב אִינִישׁ אַפּוּמָּא דְלִחְיָא, דִּלְמָא מִגַּנְדַּר לֵיהּ חֵפֶץ וְאָתֵי לְאֵתוֹיֵי (אַרְבַּע אַמּוֹת בִּרְשׁוּת הָרַבִּים), וְהָא הָנֵי נְשֵׁי דְּשָׁקְלָן חַצְבַיְיהוּ, וְאָזְלָן וְיָתְבָן אַפּוּמָּא דִמְבוֹאָה, וְלָא אָמְרִינַן לְהוּ וְלָא מִידֵּי!
+*Translation:* **He said to him: And according to your reasoning,** how do you explain **that** which **Rava said: A person should not sit at the entrance** to an alleyway, next to **the side post** that has been placed at the edge of an alleyway in order for it to be considered a private domain, as **perhaps an object** will **roll** away **from him and he will come to carry it four cubits in the public domain,** thereby transgressing a biblical prohibition? **But don’t these women take their jugs, and go, and sit at the entrance to an alleyway, and we do not say anything to them?**
+
+**9.**
+*Hebrew/Aramaic:* אֶלָּא: הַנַּח לָהֶם לְיִשְׂרָאֵל, מוּטָב שֶׁיִּהְיוּ שׁוֹגְגִין וְאַל יִהְיוּ מְזִידִין. הָכָא נָמֵי: הַנַּח לָהֶם לְיִשְׂרָאֵל, מוּטָב שֶׁיִּהְיוּ שׁוֹגְגִין וְאַל יִהְיוּ מְזִידִין.
+*Translation:* **Rather,** the accepted principle is: **Leave** the **Jews** alone; **it is better that they be unwitting sinners and not be intentional sinners.** If people engage in a certain behavior that cannot be corrected, it is better not to reprove them, as they are likely to continue regardless of the reproof, and then they will be sinning intentionally. It is therefore preferable for them to be unaware that they are violating a prohibition and remain merely unwitting sinners. **Here, too,** with regard to clapping and dancing, **leave** the **Jews** alone; **it is better that they be unwitting sinners and not be intentional sinners.**
+
+**10.**
+*Hebrew/Aramaic:* וְהָנֵי מִילֵּי בִּדְרַבָּנַן, אֲבָל בִּדְאוֹרָיְיתָא — לָא. וְלָא הִיא, לָא שְׁנָא בִּדְאוֹרָיְיתָא וְלָא שְׁנָא בִּדְרַבָּנַן, לָא אָמְרִינַן לְהוּ וְלָא מִידֵּי, דְּהָא תּוֹסֶפֶת יוֹם הַכִּפּוּרִים דְּאוֹרָיְיתָא הוּא, וְאָכְלִי וְשָׁתוּ עַד שֶׁחָשְׁכָה, וְלָא אָמְרִינַן לְהוּ וְלָא מִידֵּי.
+*Translation:* The Gemara comments: There were those who understood that **this** principle **applies only to rabbinic** prohibitions **but** not to **Torah** prohibitions, with regard to which the transgressors must be reprimanded. **However, this is not so;** it is **no different** whether the prohibition is **by Torah** law **or** whether it is **by rabbinic** law, **we do not say anything to them.** For example, on the eve of Yom Kippur, there is an obligation **that** one begin the fast while it is still day, before sunset, as **the extension of Yom Kippur.** During this time, one must observe all the *halakhot*. This mitzva of extending Yom Kippur **is by Torah** law, **and** yet people **eat and drink until darkness** falls **but we do not say anything to them,** as we know they will pay no attention.
+
+**11.**
+*Hebrew/Aramaic:* וּמַתְחִילִין בַּעֲרֵמַת הַתֶּבֶן. אָמַר רַב כָּהֲנָא: זֹאת אוֹמֶרֶת, מַתְחִילִין בָּאוֹצָר תְּחִלָּה. מַנִּי — רַבִּי שִׁמְעוֹן הִיא, דְּלֵית לֵיהּ מוּקְצֶה.
+*Translation:* It is taught in the mishna: **And one may begin** taking straw **from the pile of straw. Rav Kahana said: That is to say** that **one may begin** removing items **from a storeroom** on a Festival ***ab initio*.** Although the items in this storeroom are designated for other purposes, it is not assumed that one put them out of his mind. If so, in accordance with **whose** opinion is this mishna? **It is** in accordance with the opinion of **Rabbi Shimon, who is not** of the opinion that there is a prohibition of **set-aside [*muktze*].** According to him, on Shabbat and Festivals it is not prohibited to handle items that one has removed from his mind.
+
+**12.**
+*Hebrew/Aramaic:* אֵימָא סֵיפָא: אֲבָל לֹא בָּעֵצִים שֶׁבַּמּוּקְצֶה. אֲתָאן לְרַבִּי יְהוּדָה, דְּאִית לֵיהּ מוּקְצֶה! הָכָא בְּאַרְזֵי וְאַשּׁוּחֵי עָסְקִינַן, דְּמוּקְצֶה מֵחֲמַת חֶסְרוֹן כִּיס, וַאֲפִילּוּ רַבִּי שִׁמְעוֹן מוֹדֶה.
+*Translation:* The Gemara challenges: **Say the latter clause** of the same mishna as follows: **But not wood in the** wood **storage.** If so, **we have come to** the opinion of **Rabbi Yehuda, who is** of the opinion that there is a prohibition of ***muktze*.** The Gemara answers: **Here, we are dealing with** wood of **cedars and firs,** which are expensive and used only in the construction of important buildings, not for kindling; the wood storage is therefore considered ***muktze* due to** potential **monetary loss.** With regard to an item that one removes from his mind due to the financial loss he might suffer were he to use it, but not due to any prohibition involved, **even Rabbi Shimon concedes** that it may not be handled due to the prohibition of *muktze*.
+
+**13.**
+*Hebrew/Aramaic:* אִיכָּא דְּמַתְנֵי לַהּ אַסֵּיפָא: אֲבָל לֹא בָּעֵצִים שֶׁבַּמּוּקְצֶה. אָמַר רַב כָּהֲנָא: זֹאת אוֹמֶרֶת, אֵין מַתְחִילִין בָּאוֹצָר תְּחִלָּה. מַנִּי — רַבִּי יְהוּדָה הִיא, דְּאִית לֵיהּ מוּקְצֶה. אֵימָא רֵישָׁא: מַתְחִילִין בַּעֲרֵמַת הַתֶּבֶן, אֲתָאן לְרַבִּי שִׁמְעוֹן דְּלֵית לֵיהּ מוּקְצֶה! הָתָם בְּתִבְנָא סַרְיָא.
+*Translation:* **There are** those **who taught** the statement of Rav Kahana as referring **to the latter clause** of the mishna, as follows: **But not wood from the** wood **storage** area. **Rav Kahana said: That is to say** that **one may not begin** removing items **from a storeroom *ab initio*.** If so, in accordance with **whose** opinion is the mishna? **It is** in accordance with the opinion of **Rabbi Yehuda, who ** maintains that there is a prohibition of ***muktze*.** The Gemara challenges: **Say the first clause** of the mishna, which states that **one may begin** taking **from the pile of straw.** If so, **we have come to** the opinion of **Rabbi Shimon, who is not** of the opinion that there is a prohibition of ***muktze*.** The Gemara answers: **There,** in the first clause of the mishna, it is dealing **with straw** that has rotted **and become rancid.** Since it is no longer fit as animal fodder, even Rabbi Yehuda concedes that it will be used for kindling and is not *muktze*.
+
+**14.**
+*Hebrew/Aramaic:* תִּבְנָא סַרְיָא, הָא חֲזֵי לְטִינָא! דְּאִית בֵּיהּ קוֹצִים.
+*Translation:* The Gemara asks: **Isn’t rancid straw fit for clay** in the making of bricks; why can one assume that it will be used as fuel? The Gemara answers: The mishna is referring to straw **that has thorns,** which cannot be kneaded into clay. It will certainly be used only for kindling.

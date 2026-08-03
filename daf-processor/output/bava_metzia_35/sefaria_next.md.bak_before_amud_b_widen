@@ -1,0 +1,69 @@
+### Bava Metzia 36a
+
+**1.**
+*Hebrew/Aramaic:* פְּעָמִים שֶׁשְּׁנֵיהֶם בְּאָשָׁם. פְּעָמִים שֶׁהַשּׂוֹכֵר בְּחַטָּאת וְהַשּׁוֹאֵל בְּאָשָׁם, פְּעָמִים שֶׁהַשּׂוֹכֵר בְּאָשָׁם וְהַשּׁוֹאֵל בְּחַטָּאת.
+*Translation:* there are **times that both** are liable **to** bring **a guilt-offering;** there are **times that the renter** is liable **to** bring **a sin-offering and the borrower** is liable **to** bring **a guilt-offering;** there are **times that the renter** is liable **to** bring **a guilt-offering and the borrower** is liable **to** bring **a sin-offering.**
+
+**2.**
+*Hebrew/Aramaic:* הָא כֵּיצַד? כְּפִירַת מָמוֹן – אָשָׁם. בִּיטּוּי שְׂפָתַיִם – חַטָּאת.
+*Translation:* The Gemara elaborates: **How so?** One who takes a false oath that involves the **denial of a monetary matter** is liable to bring **a guilt-offering.** One who takes a false oath on **an utterance of the lips** that involves no denial of a monetary debt is liable to bring **a sin-offering.**
+
+**3.**
+*Hebrew/Aramaic:* פְּעָמִים שֶׁשְּׁנֵיהֶם בְּחַטָּאת – כְּגוֹן שֶׁמֵּתָה כְּדַרְכָּהּ, וְאָמְרוּ נֶאֶנְסָה. שׂוֹכֵר דְּבֵין כָּךְ וּבֵין כָּךְ מִיפְּטַר פָּטוּר בְּחַטָּאת, שׁוֹאֵל דְּבֵין כָּךְ וּבֵין כָּךְ חַיּוֹבֵי מִיחַיַּיב בְּחַטָּאת.
+*Translation:* The Gemara elaborates: There are **times that both** are liable **to** bring **a sin-offering.** This is in a case **where** the cow **died in its** typical **manner and** the renter and the borrower both **said** that it died **due** to circumstances **beyond his control. A renter,** who **in any case is exempt** from paying whether it died of natural causes or due to circumstances beyond his control, is liable **to** bring **a sin-offering** if he took a false oath. **A borrower,** who **in any case is liable** to pay regardless of the circumstances of its death, is liable **to** bring **a sin-offering** if he took a false oath. In both cases, the oath involved no denial of monetary debt.
+
+**4.**
+*Hebrew/Aramaic:* פְּעָמִים שֶׁשְּׁנֵיהֶם בְּאָשָׁם – כְּגוֹן שֶׁנִּגְנְבָה, וְאָמְרוּ מֵתָה מֵחֲמַת מְלָאכָה, דְּתַרְוַיְיהוּ קָא כָפְרִי מָמוֹנָא, דְּהָא מִיחַיְּיבִי, וְקָא פָטְרִי נַפְשַׁיְיהוּ.
+*Translation:* There are **times that both** are liable **to** bring **a guilt-offering.** This is in a case **where** the cow **was stolen** from a borrower, **and** the renter and the borrower both **said** that **it died due to** ordinary **labor.** That is a case **where both denied a monetary matter, as they are** both **liable** to pay in a case of theft, **and** both take an oath on a claim with which they seek to **exempt themselves.**
+
+**5.**
+*Hebrew/Aramaic:* שׂוֹכֵר בְּחַטָּאת וְשׁוֹאֵל בְּאָשָׁם – כְּגוֹן שֶׁמֵּתָה כְּדַרְכָּהּ, וְאָמְרוּ מֵתָה מֵחֲמַת מְלָאכָה. שׂוֹכֵר דְּבֵין כָּךְ וּבֵין כָּךְ מִיפְּטַר פָּטוּר – חַיָּיב בְּחַטָּאת. שׁוֹאֵל דְּמִיחַיַּיב בְּמֵתָה כְּדַרְכָּהּ, וְקָא פָטַר נַפְשֵׁיהּ בְּמֵתָה מֵחֲמַת מְלָאכָה – בְּאָשָׁם.
+*Translation:* There are times when **a renter** is liable **to** bring **a sin-offering and a borrower** is liable **to** bring **a guilt-offering.** This is in a case **where** the cow **died in its** typical **manner and** the renter and the borrower both **said** that **it died due to** ordinary **labor. A renter, who in any case is exempt,** as he is exempt from paying in cases where the ox was damaged or died due to circumstances beyond his control, is **liable to** bring **a sin-offering,** as the false oath involved no denial of monetary debt. **A borrower, who is liable** to pay when the cow **died in its** typical **manner and** attempted **to exempt himself** with the claim that **it died due to** ordinary **labor,** is liable **to** bring **a guilt-offering.**
+
+**6.**
+*Hebrew/Aramaic:* שׂוֹכֵר בְּאָשָׁם וְשׁוֹאֵל בְּחַטָּאת – כְּגוֹן שֶׁנִּגְנְבָה וְאָמְרוּ מֵתָה כְּדַרְכָּהּ. שׂוֹכֵר הוּא דְּמִיחַיַּיב בִּגְנֵיבָה וַאֲבֵידָה, וְקָא פָטַר נַפְשֵׁיהּ בְּמֵתָה כְּדַרְכָּהּ – בְּאָשָׁם. שׁוֹאֵל דְּבֵין כָּךְ וּבֵין כָּךְ חַיּוֹבֵי מִיחַיַּיב – בְּחַטָּאת.
+*Translation:* There are times when **a renter** is liable **to** bring **a guilt-offering and a borrower** is liable **to** bring **a sin-offering.** This is in a case **where** the cow **was stolen** from the borrower, **and** the renter and the borrower both **said** that it **died in its** typical **manner. The renter, who is liable** to pay in cases of **theft and loss and** attempted **to exempt himself** with the claim that it **died in its** typical **manner,** is liable **to** bring **a guilt-offering. A borrower, who in any case is liable** to pay, is liable **to** bring **a sin-offering.**
+
+**7.**
+*Hebrew/Aramaic:* מַאי קָא מַשְׁמַע לַן? לְאַפּוֹקֵי מִדְּרַבִּי אַמֵּי, דְּאָמַר: כׇּל שְׁבוּעָה שֶׁהַדַּיָּינִים מַשְׁבִּיעִים אוֹתָהּ – אֵין חַיָּיבִין עָלֶיהָ מִשּׁוּם שְׁבוּעַת בִּיטּוּי, שֶׁנֶּאֱמַר: ״אוֹ נֶפֶשׁ כִּי תִשָּׁבַע לְבַטֵּא בִשְׂפָתַיִם״ ״כִּי תִשָּׁבַע״ מֵעַצְמָהּ. קָא מַשְׁמַע לַן דְּלָא כְּרַבִּי אַמֵּי.
+*Translation:* The Gemara asks: **What is** Rabbi Yirmeya **teaching us** with this systematic presentation of these cases? They are merely details based on established halakhic principles. The Gemara answers: His statement serves **to exclude** the opinion of **Rabbi Ami, who says:** With regard to **any oath that the judges administer, one is not liable** to bring a sin-offering for taking a false **oath** on **an utterance, as it is stated** in the passage concerning the obligation to bring an offering for taking a false oath: **“Or if a soul takes an oath clearly to utter with lips”** (Leviticus 5:4). The Gemara infers: The liability to bring an offering for taking a false oath applies only to one **who takes an oath on his own** initiative, but not when the oath is administered by others. Rabbi Yirmeya **teaches us that** the *halakha* is **not in accordance with** the opinion of **Rabbi Ami,** as one is liable to bring a sin-offering for taking a false oath on an utterance even if it was administered by another.
+
+**8.**
+*Hebrew/Aramaic:* אִתְּמַר: שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר, רַב אָמַר: פָּטוּר, וְרַבִּי יוֹחָנָן אָמַר: חַיָּיב.
+*Translation:* **It was stated** that there is an amoraic dispute with regard to **a bailee who conveyed to** another **bailee** the deposit with which he was entrusted. **Rav says:** He is **exempt** from payment in the same cases in which he is exempt when the deposit is in his possession. **And Rabbi Yoḥanan said:** He is **liable** to pay even in cases of damage due to circumstances beyond his control.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי, לְטַעְמֵיהּ דְּרַב, לָא מִבַּעְיָא שׁוֹמֵר חִנָּם שֶׁמָּסַר לְשׁוֹמֵר שָׂכָר דְּעַלּוֹיֵי עַלְּיַיהּ לִשְׁמִירָתוֹ, אֶלָּא אֲפִילּוּ שׁוֹמֵר שָׂכָר שֶׁמָּסַר לְשׁוֹמֵר חִנָּם, דְּגָרוֹעֵי גָּרְעַהּ לִשְׁמִירָתוֹ – פָּטוּר. מַאי טַעְמָא? דְּהָא מְסָרָהּ לְבֶן דַּעַת.
+*Translation:* **Abaye says:** According **to Rav’s** line of **reasoning, it is not necessary** to state his ruling in a case where he was initially **an unpaid bailee who conveyed** the deposit for safeguarding **to a paid bailee, as** in that case the unpaid bailee **enhanced** the level of **his safeguarding,** since a paid bailee is liable to pay in instances where an unpaid bailee is exempt. **But even** in the case of **a paid bailee who conveyed** the deposit for safeguarding **to an unpaid bailee, where** the paid bailee **diminished** the level of **his safeguarding,** he is **exempt. What is the reason?** He is exempt **because he conveyed** the deposit **to a mentally competent person,** thereby effectively safeguarded the deposit.
+
+**10.**
+*Hebrew/Aramaic:* וּלְטַעְמֵיהּ דְּרַבִּי יוֹחָנָן, לָא מִיבַּעְיָא שׁוֹמֵר שָׂכָר שֶׁמָּסַר לְשׁוֹמֵר חִנָּם דְּגָרוֹעֵי גָּרְעַהּ לִשְׁמִירָתוֹ, אֶלָּא אֲפִילּוּ שׁוֹמֵר חִנָּם שֶׁמָּסַר לְשׁוֹמֵר שָׂכָר, דְּעַלּוֹיֵי עַלְּיַיהּ לִשְׁמִירָתוֹ – חַיָּיב. דְּאָמַר לֵיהּ: ״אֵין רְצוֹנִי שֶׁיְּהֵא פִּקְדוֹנִי בְּיַד אַחֵר״.
+*Translation:* According **to Rabbi Yoḥanan’s** line of **reasoning, it is not necessary** to state his ruling in a case where he was initially **a paid bailee who conveyed** the deposit for safeguarding **to an unpaid bailee, as** the paid bailee **diminished** the level of **his safeguarding,** since an unpaid bailee is exempt in instances where a paid bailee is liable to pay. **But even** in the case of **an unpaid bailee who conveyed** the deposit for safeguarding **to a paid bailee, where** the unpaid bailee **enhanced** the level of **his safeguarding,** he is **liable** to pay. What is the reason? He is liable **because** the owner of the deposit **said to him: It is not my desire that my deposit be in the possession of another** bailee.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַב חִסְדָּא: הָא דְּרַב לָאו בְּפֵירוּשׁ אִתְּמַר, אֶלָּא מִכְּלָלָא. דְּהָנְהוּ גִּינָּאֵי, דְּכֹל יוֹמָא הֲווֹ מַפְקְדִי מָרַיְיהוּ גַּבַּהּ דְּהַהִיא סָבְתָּא. יוֹמָא חַד אַפְקְדֻינְהוּ לְגַבֵּי חַד מִינַּיְיהוּ, שְׁמַע קָלָא בֵּי הִלּוּלָא נְפַק אֲזַל. אַפְקְדִינְהוּ לְגַבַּהּ דְּהַהִיא סָבְתָּא, אַדַּאֲזַל וַאֲתָא אִגְּנוּב מָרַיְיהוּ.
+*Translation:* **Rav Ḥisda said: This** statement **that** is attributed to **Rav was not stated explicitly. Rather,** it was **inferred** from another statement of his, **as** it is related: There were **these gardeners who each day would deposit their spades with a certain old woman. One day they deposited** their spades **with one of** gardeners. He **heard noise** from **a wedding hall** and set **out** and went there. **He deposited** the spades **with that old woman. In** the time **that he went and came** back from the wedding, **their spades were stolen.**
+
+**12.**
+*Hebrew/Aramaic:* אֲתָא לְקַמֵּיהּ דְּרַב וּפַטְרֵיהּ, מַאן דַּחֲזָא סָבַר מִשּׁוּם שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר פָּטוּר. וְלָא הִיא, שָׁאנֵי הָתָם דְּכֹל יוֹמָא נָמֵי אִינְהוּ גּוּפַיְיהוּ גַּבַּהּ דְּהַהִיא סָבְתָּא הֲווֹ מַפְקְדִי לְהוּ.
+*Translation:* The case **came before Rav, and** Rav **exempted** the gardener who deposited the spades with the old woman. **One who observed** Rav’s ruling **thought** that Rav issued that ruling **due to** the fact that **a bailee who conveyed** a deposit **to** another **bailee is exempt. But** that **is not so. There,** in the case of the spades, it **is different, as** the gardeners **themselves would deposit** their spades **with that old woman.** Since the gardeners cannot claim that it is not their desire for their deposit to be in the possession of this old woman, the gardener who did so is exempt.
+
+**13.**
+*Hebrew/Aramaic:* יָתֵיב רַבִּי אַמֵּי וְקָאָמַר לַהּ לְהָא שְׁמַעְתָּא. אֵיתִיבֵיהּ רַבִּי אַבָּא בַּר מֶמֶל לְרַבִּי אַמֵּי: הַשּׂוֹכֵר פָּרָה מֵחֲבֵירוֹ וְהִשְׁאִילָהּ לְאַחֵר וּמֵתָה כְּדַרְכָּהּ – יִשָּׁבַע הַשּׂוֹכֵר שֶׁמֵּתָה כְּדַרְכָּהּ וְהַשּׁוֹאֵל מְשַׁלֵּם לַשּׂוֹכֵר. וְאִם אִיתָא, לֵימָא לֵיהּ: אֵין רְצוֹנִי שֶׁיְּהֵא פִּקְדוֹנִי בְּיַד אַחֵר! אֲמַר לֵיהּ: הָכָא בְּמַאי עָסְקִינַן? בְּשֶׁנָּתְנוּ לוֹ רְשׁוּת הַבְּעָלִים לְהַשְׁאִיל.
+*Translation:* The Gemara relates: **Rabbi Ami sat and stated this *halakha*. Rabbi Abba bar Memel raised an objection to Rabbi Ami** from the mishna: In the case of **one who rents a cow from another, and** this renter **lends it to another** person, **and** the cow **dies in its** typical **manner** in the possession of the borrower, the *halakha* is that **the renter takes an oath** to the owner of the cow **that** the cow **died in its** typical **manner, and the borrower pays the renter** for the cow that he borrowed. **And if** the statement of Rabbi Yoḥanan **is so, let** the owner **say** to the renter: **It is not my desire that my deposit be in the possession of another** bailee, and the renter should be liable to pay because he violated the owner’s wishes. Rabbi Ami **said to him: With what are we dealing here?** It is a case **where the owner gave** the renter **permission to lend** the deposit to another.
+
+**14.**
+*Hebrew/Aramaic:* אִי הָכִי לִבְעָלִים בָּעֵי לְשַׁלּוֹמֵי! דַּאֲמַרוּ לֵיהּ: לְדַעְתָּךְ.
+*Translation:* The Gemara asks: **If so,** the borrower **should be required to pay the owner,** as the owner sanctioned the borrowing. Rabbi Abba bar Memel answers: The case in the mishna is one **where** the owner **said to** the renter: Lend this deposit to another **at your discretion.** Therefore, it is not considered as if the owner lent it to the borrower.
+
+**15.**
+*Hebrew/Aramaic:* מֵתִיב רָמֵי בַּר חָמָא: הַמַּפְקִיד מָעוֹת אֵצֶל חֲבֵירוֹ צְרָרָן וְהִפְשִׁילָן לַאֲחוֹרָיו, מְסָרָן לִבְנוֹ וּבִתּוֹ הַקְּטַנִּים, וְנָעַל בִּפְנֵיהֶם שֶׁלֹּא כָּרָאוּי – חַיָּיב, שֶׁלֹּא שָׁמַר כְּדֶרֶךְ הַשּׁוֹמְרִים.
+*Translation:* **Rami bar Ḥama raises an objection** from a mishna (42a): In the case of **one who deposited coins with another,** and that bailee **bound it** in a cloth **and slung it behind him,** or **conveyed them to his minor son or daughter** for safeguarding, **or locked** the door **before** the coins **in an inappropriate,** i.e., insufficient, manner to secure them, the bailee is **liable** to pay for the coins, **as he did not safeguard** the coins **in the manner** typical **of bailees.**
+
+**16.**
+*Hebrew/Aramaic:* טַעְמָא דִּקְטַנִּים, הָא גְּדוֹלִים – פָּטוּר. אַמַּאי? נֵימָא לֵיהּ: אֵין רְצוֹנִי שֶׁיְּהֵא פִּקְדוֹנִי בְּיַד אַחֵר!
+*Translation:* The Gemara infers: **The reason** he is liable to pay is **that** he conveyed the coins to his **minor** children, **but** if he conveyed them to his **adult** son or daughter he is **exempt. Why? Let the** owner **say to him** as Rabbi Yoḥanan said: **It is not my desire that my deposit be in the possession of another** bailee, and therefore even if the children are adults the bailee should be liable to pay.
+
+**17.**
+*Hebrew/Aramaic:* אָמַר רָבָא: כׇּל הַמַּפְקִיד
+*Translation:* **Rava said:** No proof can be cited, as it is clear that in the case of **anyone who deposits** an item with another,

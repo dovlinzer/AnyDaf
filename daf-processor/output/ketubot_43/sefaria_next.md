@@ -51,3 +51,56 @@
 **13.**
 *Hebrew/Aramaic:* יֵשׁ לָהּ אָב וְאֵין לָהּ פֶּתַח בֵּית הָאָב, יֵשׁ לָהּ פֶּתַח בֵּית הָאָב וְאֵין לָהּ אָב — הֲרֵי זוֹ בִּסְקִילָה. לֹא נֶאֱמַר פֶּתַח בֵּית אָב אֶלָּא לְמִצְוָה.
 *Translation:* If a young woman who is betrothed commits adultery and **she has a father but does not have an entrance to** her **father’s house,** i.e., if her father does not possess a house of his own, or if **she has an entrance to** her **father’s house but does not have a father,** as he has passed away, **she is** nevertheless executed **via stoning, as** the requirement that she is to be executed at the **entrance to her father’s house is stated only for a mitzva** but it is not an indispensable requirement.
+
+
+---
+
+### Ketubot 44b
+
+**1.**
+*Hebrew/Aramaic:* גְּמָ׳ מְנָא הָנֵי מִילֵּי? אָמַר רֵישׁ לָקִישׁ, דְּאָמַר קְרָא ״וָמֵתָה״, לְרַבּוֹת הוֹרָתָהּ שֶׁלֹּא בִּקְדוּשָּׁה וְלֵידָתָהּ בִּקְדוּשָּׁה.
+*Translation:* GEMARA: Since the rulings of the mishna are based on the principle that the special *halakhot* of a betrothed young woman who committed adultery apply only to a woman who was born Jewish, the Gemara questions the *halakha* that a woman who was conceived when her mother was a gentile but born when her mother was Jewish is executed via stoning: **From where are these matters** derived? **Reish Lakish said: As the verse states:** “And the men of her city shall stone her with stones **that she die”** (Deuteronomy 22:21). The phrase “that she die” is superfluous and comes **to include** one **whose conception** occurred when her mother **was not** yet **in** a state of **sanctity but her birth** took place when her mother was **in** a state of **sanctity.**
+
+**2.**
+*Hebrew/Aramaic:* אִי הָכִי מִילְקָא נָמֵי נִילְקֵי, וּמֵאָה סֶלַע נָמֵי לְשַׁלֵּם! אָמַר קְרָא ״וָמֵתָה״ — לְמִיתָה נִתְרַבְּתָה וְלֹא לִקְנָס. וְאֵימָא לְרַבּוֹת הוֹרָתָהּ וְלֵידָתָהּ בִּקְדוּשָּׁה? הָהִיא יִשְׂרְאֵלִית מְעַלַּיְיתָא הִיא.
+*Translation:* The Gemara asks: **If so,** if the verse equates her to a regular Jewish woman, **let** her husband **also be flogged** if he defames her, **and let him also pay** the **one hundred *sela*.** The Gemara answers that **the verse states: “That she die”** (Deuteronomy 22:21), which indicates that **she was included with regard to** the **death** penalty **but not with regard to** the **fine.** The Gemara asks another question: **Say** that this verse comes **to include** only a girl **whose conception and birth** both occurred when her mother was **in** a state of **sanctity.** The Gemara responds: **That** girl **is a full-fledged Jewish woman,** and there is no difference between her and any other Jewish woman.
+
+**3.**
+*Hebrew/Aramaic:* וְאֵימָא לְרַבּוֹת הוֹרָתָהּ וְלֵידָתָהּ שֶׁלֹּא בִּקְדוּשָּׁה! אִם כֵּן, ״בְּיִשְׂרָאֵל״ מַאי אַהֲנִי לֵיהּ.
+*Translation:* The Gemara asks a question from the opposite perspective: **And say** that the verse comes **to include** even one **whose conception and birth** both occurred when her mother was **not in** a state of **sanctity.** The Gemara answers: **If so,** the phrase **“in Israel”** (Deuteronomy 22:21), **what purpose does it** serve? This expression indicates that this *halakha* applies only to a woman who was born Jewish.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹסֵי בַּר חֲנִינָא: הַמּוֹצִיא שֵׁם רַע עַל הַיְּתוֹמָה פָּטוּר, שֶׁנֶּאֱמַר: ״וְנָתְנוּ לַאֲבִי הַנַּעֲרָה״ — פְּרָט לְזוֹ שֶׁאֵין לָהּ אָב.
+*Translation:* § **Rabbi Yosei bar Ḥanina said: The defamer of an orphan** girl **is exempt, as it is stated:** “And they shall fine him a hundred shekels of silver, **and give them to the father of the young woman”** (Deuteronomy 22:19), which **excludes this one who does not have a father.**
+
+**5.**
+*Hebrew/Aramaic:* מֵתִיב רַבִּי יוֹסֵי בַּר אָבִין, וְאִיתֵּימָא רַבִּי יוֹסֵי בַּר זְבִידָא: ״וְאִם מָאֵן יְמָאֵן אָבִיהָ״ — לְרַבּוֹת יְתוֹמָה לִקְנָס, דִּבְרֵי רַבִּי יוֹסֵי הַגְּלִילִי.
+*Translation:* **Rabbi Yosei bar Avin, and some say** it was **Rabbi Yosei bar Zevida, raised an objection to this** from the following *baraita*: The verse states with regard to a seduced young woman: **“If her father utterly refuse [*ma’en yima’en*]** to give her to him, he shall pay money according to the dowry of virgins” (Exodus 22:16). The double phrase “utterly refuse [*ma’en yima’en*]” comes **to include an orphan for** the **fine,** i.e., if she does not have a father and she herself refuses to marry her seducer, he must pay her the fine. This is **the statement of Rabbi Yosei HaGelili.** This proves that the fact that the girl does not have a father does not exempt her seducer from paying the fine.
+
+**6.**
+*Hebrew/Aramaic:* הוּא מוֹתֵיב לַהּ וְהוּא מְפָרֵק לַהּ: בָּבָא עָלֶיהָ וְאַחַר כָּךְ נִתְיַתְּמָה.
+*Translation:* The Gemara states that Rabbi Yosei bar Avin **raised the objection and he resolved it:** Rabbi Yosei HaGelili refers to **one who had intercourse with her and afterward was orphaned.** Since she had a father when the incident occurred, he is obligated to pay her the fine.
+
+**7.**
+*Hebrew/Aramaic:* רָבָא אָמַר: חַיָּיב. מִמַּאי — מִדְּתָנֵי אַמֵּי: בְּתוּלַת יִשְׂרָאֵל, וְלֹא בְּתוּלַת גֵּרִים.
+*Translation:* **Rava said,** in contrast to Rabbi Yosei bar Ḥanina, that one who defames an orphan is **obligated** to pay the fine. **From where** does he learn this? He learns this **from** the fact that **Ami taught** that the fine applies to one who defamed **“a virgin of Israel”** (Deuteronomy 22:19) **and** does **not** apply to one who defamed **a virgin** who is **a convert.**
+
+**8.**
+*Hebrew/Aramaic:* אִי אָמְרַתְּ בִּשְׁלָמָא כִּי הַאי גַוְונָא בְּיִשְׂרָאֵל מִיחַיַּיב, הַיְינוּ דְּאִיצְטְרִיךְ קְרָא לְמַעוֹטֵי גֵּרִים. אֶלָּא אִי אָמְרַתְּ בְּיִשְׂרָאֵל כְּהַאי גַוְונָא פָּטוּר, הַשְׁתָּא בְּיִשְׂרָאֵל פָּטוּר, בְּגֵרִים מִיבַּעְיָא?!
+*Translation:* Rava elaborates: **Granted, if you say** that **in a case like this,** where a woman has no father, **with regard to** a woman who was born as **a Jew, he is obligated** to pay, **that is** why **it was necessary** for **the verse to exclude converts.** Every convert is considered like an orphan, as the familial connection with her parents is severed upon her conversion, and therefore it is as though she did not have a father. **However, if you say that in a case like this involving** a woman born as **a Jew he is exempt, now** if in a case **involving** a woman born as **a Jew** he is **exempt, is** it **necessary** to derive from a verse **that converts** are not entitled to the fine? The fact that there is such a derivation in the case of converts indicates that in the case of a Jewish-born orphan, the defamer must pay a fine.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רֵישׁ לָקִישׁ: הַמּוֹצִיא שֵׁם רַע עַל הַקְּטַנָּה — פָּטוּר, שֶׁנֶּאֱמַר: ״וְנָתְנוּ לַאֲבִי הַנַּעֲרָה״, ״נַעֲרָה״ מָלֵא דִּבֵּר הַכָּתוּב.
+*Translation:* § **Reish Lakish said: The defamer** of **a minor** girl **is exempt, as it is stated: “And give them to the father of the young woman [*na’ara*]”** (Deuteronomy 22:19). The word *na’ara* is written in full, with the letter *heh* at the end, whereas elsewhere in the Torah it is written without the *heh*. This indicates that **the verse was speaking** of a female who has **fully** attained the status of **a young woman,** rather than a minor who has not yet reached the state of being a young woman.
+
+**10.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב אַחָא בַּר אַבָּא: טַעְמָא דִּכְתִיב בַּהּ ״הַנַּעֲרָה״, הָא לָאו הָכִי הֲוָה אָמֵינָא אֲפִילּוּ קְטַנָּה?! הָא כְּתִיב: ״וְאִם אֱמֶת הָיָה הַדָּבָר הַזֶּה לֹא נִמְצְאוּ בְתוּלִים לַנַּעֲרָה. וְהוֹצִיאוּ אֶת הַנַּעֲרָה אֶל פֶּתַח בֵּית אָבִיהָ וּסְקָלוּהָ״, וּקְטַנָּה לָאו בַּת עוֹנָשִׁין הִיא!
+*Translation:* **Rav Aḥa bar Abba** strongly **objects to this:** Is it correct that **the reason is that it is written** with regard to **her “*na’ara*”** in full, **but if that were not so, I would say** that **even a minor** is included in this *halakha*? **Isn’t it written: “But if this matter is true, that the tokens of virginity were not found in this young woman, then they shall bring out the young woman to the entrance to her father’s house and** the men of her city shall **stone her”** (Deuteronomy 22:20–21)? **And** since **a minor is not eligible for punishment,** this verse evidently is referring to a young woman, not a minor, and therefore there is no need for the aforementioned exposition.
+
+**11.**
+*Hebrew/Aramaic:* אֶלָּא: כָּאן ״נַעֲרָה״, הָא כׇּל מָקוֹם שֶׁנֶּאֱמַר ״נַעֲרָ״ — אֲפִילּוּ קְטַנָּה בַּמַּשְׁמָע.
+*Translation:* **Rather,** the verse should be understood as follows: **Here,** where it is evident that the Torah is referring to a young woman, it writes ***na’ara*** with a *heh*, from which it may be inferred that **wherever it is stated *na’ara*** without a *heh* at the end, **it indicates** that the verse is referring **even** to **a minor** girl. The term *na’ara* without a *heh* is referring to both a minor and a young woman and excludes only an adult woman.
+
+**12.**
+*Hebrew/Aramaic:* תָּנֵי שֵׁילָא: שָׁלֹשׁ מִדּוֹת בַּנַּעֲרָה: בָּאוּ לָהּ עֵדִים בְּבֵית חָמִיהָ שֶׁזִּינְּתָה בְּבֵית אָבִיהָ —
+*Translation:* **Sheila taught** in a *baraita*: There are **three** different **circumstances with regard to a young woman** who has been defamed. If **witnesses came** to testify about **her** when she was **in her father-in-law’s house,** i.e., after she was married, and stated **that she committed adultery in her father’s house,** when she was betrothed,

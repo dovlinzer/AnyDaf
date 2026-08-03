@@ -63,3 +63,76 @@
 **16.**
 *Hebrew/Aramaic:* רַבִּי עֲקִיבָא אוֹמֵר: אֲפִילּוּ אֵין בָּהּ אֶחָד מִכׇּל אֵלּוּ מְטַלְטְלִין בְּתוֹכָהּ.
 *Translation:* We learned in the mishna: **Rabbi Akiva said: Even** if the courtyard **has none of these** elements that indicate dwelling stipulated by the other Rabbis, **one may carry inside it,** provided that it measures no more than seventy cubits and a remainder by seventy cubits and a remainder.
+
+
+---
+
+### Eruvin 23b
+
+**1.**
+*Hebrew/Aramaic:* רַבִּי עֲקִיבָא הַיְינוּ תַּנָּא קַמָּא!
+*Translation:* The Gemara asks: But the view of **Rabbi Akiva is** the same as that of **the first *tanna*,** i.e., Rabbi Yehuda ben Bava, who maintains that in the case of a garden that was not enclosed for the purpose of residence, one is only permitted to carry if the area of the enclosed area is no more than two *beit se’a*. Rabbi Akiva disagrees only about whether we require a watchman’s booth or a dwelling place as well, but the two agree with regard to the size of the garden. Therefore, Rabbi Akiva’s stipulation: Provided that it measures not more than seventy cubits and a remainder by seventy cubits and a remainder, is superfluous.
+
+**2.**
+*Hebrew/Aramaic:* אִיכָּא בֵּינַיְיהוּ דָּבָר מוּעָט. דְּתַנְיָא, רַבִּי יְהוּדָה אוֹמֵר: דָּבָר מוּעָט יֵשׁ עַל שִׁבְעִים אַמָּה וְשִׁירַיִם, וְלֹא נָתְנוּ חֲכָמִים בּוֹ שִׁיעוּר.
+*Translation:* The Gemara answers: **There is** a practical difference **between them** with regard to **a tiny amount.** And what is this tiny amount? It is **as it was taught** in a *baraita*: **Rabbi Yehuda says:** It is by **a tiny amount** that one of the sides of a square measuring two *beit se’a* **exceeds seventy cubits and a remainder, but the Sages did not give its** exact **measurement,** owing to its small size and because it is impossible to be absolutely precise about the matter.
+
+**3.**
+*Hebrew/Aramaic:* וְכַמָּה שִׁיעוּר סָאתַיִם? כַּחֲצַר הַמִּשְׁכָּן.
+*Translation:* **And what is** the **measure** of the area of **two *beit se’a*?** It is as large **as the courtyard of the Tabernacle,** which was fifty cubits by one hundred cubits. The first *tanna* and Rabbi Akiva dispute this issue: The first *tanna* maintains that the garden may have an area as large as two *beit se’a*, whereas Rabbi Akiva says that it must not exceed seventy and two-thirds cubits squared.
+
+**4.**
+*Hebrew/Aramaic:* מְנָא הָנֵי מִילֵּי?
+*Translation:* The Gemara asks: **From where are these matters derived?** The matters referred to are that we must square the courtyard of the Tabernacle in order to reach the size of garden or similar enclosure in which one is permitted to carry on Shabbat.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה, דְּאָמַר קְרָא: ״אֹרֶךְ הֶחָצֵר מֵאָה בָאַמָּה וְרֹחַב חֲמִשִּׁים בַּחֲמִשִּׁים״. אָמְרָה תּוֹרָה: טוֹל חֲמִשִּׁים, וְסַבֵּב חֲמִשִּׁים.
+*Translation:* The Gemara answers: **Rav Yehuda said:** This is learned from **the verse** that **stated: “The length of the courtyard shall be a hundred cubits, and the breadth fifty by fifty,** and the height, five cubits of fine twined linen, and their sockets of brass” (Exodus 27:18). **The Torah said: Take** a square of **fifty** cubits by fifty cubits, **and surround** it with the remaining **fifty** cubits until they form a square, each side of which measures seventy cubits and a remainder.
+
+**6.**
+*Hebrew/Aramaic:* פְּשָׁטֵיהּ דִּקְרָא בְּמַאי כְּתִיב?! אָמַר אַבָּיֵי: הַעֲמֵד מִשְׁכָּן עַל שְׂפַת חֲמִשִּׁים, כְּדֵי שֶׁיְּהֵא חֲמִשִּׁים אַמָּה לְפָנָיו וְעֶשְׂרִים אַמָּה לְכׇל רוּחַ וָרוּחַ.
+*Translation:* The Gemara asks: But **to what does the plain meaning of the verse refer?** The plain sense of the text cannot be coming to teach us the laws of carrying. **Abaye said** that it means as follows: The Tabernacle was thirty cubits long and ten cubits wide. The courtyard was a hundred cubits long and fifty cubits wide. **Position the Tabernacle** in the middle of the courtyard **at the edge of fifty** cubits, **so that there is** a space of **fifty cubits in front of it, and** a space of **twenty cubits in every direction,** on each of the two sides and behind it.
+
+**7.**
+*Hebrew/Aramaic:* רַבִּי אֱלִיעֶזֶר אוֹמֵר: אִם הָיְתָה אׇרְכָּהּ כּוּ׳. וְהָתַנְיָא, רַבִּי אֱלִיעֶזֶר אוֹמֵר: אִם הָיְתָה אׇרְכָּהּ יָתֵר עַל פִּי שְׁנַיִם בְּרׇחְבָּהּ אֲפִילּוּ אַמָּה אַחַת — אֵין מְטַלְטְלִין בְּתוֹכָהּ!
+*Translation:* We learned in the mishna that **Rabbi Eliezer says: If its length is** greater than its breadth, even by one cubit, one may not carry inside it. The Gemara asks: **Wasn’t it taught** in a *baraita* that **Rabbi Eliezer says: If its length is more than double its breadth, even by one cubit, one may not carry inside it?**
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַב בִּיבִי בַּר אַבָּיֵי: כִּי תְּנַן נָמֵי מַתְנִיתִין — [יָתֵר עַל] פִּי שְׁנַיִם בְּרׇחְבָּהּ תְּנַן. אִי הָכִי, הַיְינוּ רַבִּי יוֹסֵי?!
+*Translation:* **Rav Beivai bar Abaye said: When we learned** this **in the mishna,** we **also** learned that it refers to a case where the length of the enclosure is **more than double its breadth.** The Gemara raises a difficulty: **If so, this is** the same as the opinion of **Rabbi Yosei,** who stated that one is permitted to carry in the garden or *karpef* even if its length is double its width.
+
+**9.**
+*Hebrew/Aramaic:* אִיכָּא בֵּינַיְיהוּ רִיבּוּעָא דְּרִיבְּעוּהָ רַבָּנַן.
+*Translation:* The Gemara answers: **There is** a difference **between them** with regard to **the square that the Sages squared it,** because the Sages calculated squares with the diagonal. According to the opinion of Rabbi Eliezer, if the diagonal is more than double the breadth, even though the length may not be more than double the breadth, it is prohibited to carry within the enclosure. According to Rabbi Yosei, however, it is permitted (Rabbeinu Ḥananel).
+
+**10.**
+*Hebrew/Aramaic:* רַבִּי יוֹסֵי אוֹמֵר כּוּ׳. אִיתְּמַר, אָמַר רַב יוֹסֵף אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הֲלָכָה כְּרַבִּי יוֹסֵי. וְרַב בִּיבִי אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הֲלָכָה כְּרַבִּי עֲקִיבָא.
+*Translation:* We learned in the mishna that **Rabbi Yosei says:** Even if its length is double its breadth, one may carry inside it. **It was stated** that the *amora’im* disagreed on the following matter: **Rav Yosef said** that **Rav Yehuda said** that **Shmuel said:** The ***halakha* is in accordance with** the opinion of **Rabbi Yosei. And Rav Beivai said** that **Rav Yehuda said** that **Shmuel said:** The ***halakha* is in accordance with** the opinion of **Rabbi Akiva.**
+
+**11.**
+*Hebrew/Aramaic:* וְתַרְוַיְיהוּ לְקוּלָּא. וּצְרִיכָא, דְּאִי אַשְׁמְעִינַן הֲלָכָה כְּרַבִּי יוֹסֵי, הֲוָה אָמֵינָא עַד דְּאִיכָּא שׁוֹמֵירָה אוֹ בֵּית דִּירָה. קָא מַשְׁמַע לַן הֲלָכָה כְּרַבִּי עֲקִיבָא.
+*Translation:* The Gemara explains that **both** rulings **are** stated **leniently, and** that both were **necessary. As had** the Gemara **taught** only that the ***halakha* is in accordance with** the opinion of **Rabbi Yosei, I would have said** that one is not permitted to carry **unless** the place **contains a watchman’s booth or a dwelling place,** for Rabbi Yosei did not specify that these are not required. Therefore, the Gemara **teaches us** that the ***halakha* is in accordance with Rabbi Akiva,** who is particular only about the courtyard’s size, but not that it be enclosed for the purpose of residence.
+
+**12.**
+*Hebrew/Aramaic:* וְאִי אַשְׁמְעִינַן הֲלָכָה כְּרַבִּי עֲקִיבָא, הֲוָה אָמֵינָא דַּאֲרִיךְ וְקַטִּין — לָא. קָא מַשְׁמַע לַן הֲלָכָה כְּרַבִּי יוֹסֵי.
+*Translation:* **And,** on the other hand, **had** the Gemara **taught** only that the ***halakha* is in accordance with** the opinion of **Rabbi Akiva, I would have said** that if the courtyard is **long and narrow,** one is **not** permitted to carry. Therefore, the Gemara **teaches** that the ***halakha* is in accordance with** the opinion of **Rabbi Yosei,** who clearly states that the courtyard need not be square.
+
+**13.**
+*Hebrew/Aramaic:* קַרְפֵּף שֶׁהוּא יוֹתֵר מִבֵּית סָאתַיִם שֶׁהוּקַּף לְדִירָה, נִזְרַע רוּבּוֹ הֲרֵי הוּא כְּגִינָּה, וְאָסוּר.
+*Translation:* The Sages taught: Within **a *karpef* that is greater than two *beit se’a*,** but **which was enclosed** from the outset **for the purpose of residence,** carrying is permitted regardless of its size; however, if subsequently **the greater part of it was sown** with seed crops, **it is** considered **like a garden,** which is not a place of dwelling, **and it is prohibited** to carry anything within it.
+
+**14.**
+*Hebrew/Aramaic:* נָטַע רוּבּוֹ הֲרֵי הוּא כְּחָצֵר, וּמוּתָּר.
+*Translation:* However, if **the greater part of it was planted** with trees, **it is** considered **like a courtyard,** which is a place of dwelling, **and** one **is permitted** to carry. The reason for this distinction is that the presence of trees does not nullify the status of the *karpef* as a place of residence, because people normally plant trees even in their courtyards. However, people ordinarily plant seed crops only in gardens at some distance from their houses, in places they do not use for dwelling; therefore, the presence of seed crops does nullify the residential status of the *karpef*.
+
+**15.**
+*Hebrew/Aramaic:* נִזְרַע רוּבּוֹ, אָמַר רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: לָא אֲמַרַן אֶלָּא יוֹתֵר מִבֵּית סָאתַיִם. אֲבָל בֵּית סָאתַיִם — מוּתָּר.
+*Translation:* It was stated above that if **the greater part of** the *karpef* **was sown** with seed crops, it is prohibited to carry in it. **Rav Huna, son of Rav Yehoshua, said: We only said** this in a case where the sown section is **greater than two *beit se’a*, but** if it is no more than **two *beit se’a*,** it is **permitted.**
+
+**16.**
+*Hebrew/Aramaic:* כְּמַאן? כְּרַבִּי שִׁמְעוֹן. דִּתְנַן, רַבִּי שִׁמְעוֹן אוֹמֵר: אֶחָד גַּגּוֹת וְאֶחָד חֲצֵירוֹת וְאֶחָד קַרְפֵּיפוֹת רְשׁוּת אַחַת הֵן לְכֵלִים שֶׁשָּׁבְתוּ בְּתוֹכָן, וְלֹא לְכֵלִים שֶׁשָּׁבְתוּ בְּתוֹךְ הַבַּיִת.
+*Translation:* The Gemara comments: **In accordance with whose** opinion was this stated? It was stated **in accordance with** the opinion of **Rabbi Shimon, as we learned** in a mishna: **Rabbi Shimon says: Roofs, courtyards, and *karpeifot* are all one domain with regard to utensils that began Shabbat in them,** even if the utensils belong to different people. Since these are not proper dwelling places, setting an *eiruv* is unnecessary, and objects may be carried from place to place within them. But they are **not** one domain **with regard to utensils that began Shabbat in the house** and that were later taken outside. This shows that the unsown part of a *karpef* and the sown part, which has the status of a garden, are considered a single domain, in which one is permitted to carry, as the garden section does not prohibit the *karpef* section.
+
+**17.**
+*Hebrew/Aramaic:* לְרַבִּי שִׁמְעוֹן נָמֵי, כֵּיוָן דְּנִזְרַע רוּבּוֹ — הָוֵי הָהוּא מִעוּטָא
+*Translation:* The Gemara rejects this argument: **Even according to** the opinion of **Rabbi Shimon, since the greater part of** the *karpef* **is sown, the minor** part

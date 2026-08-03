@@ -56,7 +56,7 @@ Having established twelve for the lechem hapanim and, through the gezeirah shava
 
 The source that lachmei Toda themselves came in ten is derived from the Torah's language. The Torah describes four types of bread accompanying the Todah — three types of matzah and one type of chametz — and says that one of each type is to be given to the Kohen as a *terumah*, a gift. The term *terumah* appears elsewhere in the context of *terumas ma'aser*, where the Levites give a tenth of their tithe to the Kohen, and there the Torah explicitly calls that tenth a *terumah*. From this, Chazal understood that the *terumah* separated from the Todah breads likewise represents one-tenth — meaning each type must have comprised ten loaves in order for one of them to constitute a *terumah*. Once the lachmei Toda are established as coming in ten, that number serves as the paradigm for all other menachot.
 
-### Mincha & Lechem Comparis…
+### Mincha & Lechem Panim
 
 The Gemara raises an obvious question: we have two available models — the lachmei Toda at ten and the lechem hapanim at twelve. Why does Rabbi Yehuda choose the lachmei Toda as the paradigm and treat twelve as the exception, rather than making the lechem hapanim the rule and treating ten as the exception? *mah le'halan shteim esrei af kan shteim esrei* — why not derive that everything comes in twelve?
 

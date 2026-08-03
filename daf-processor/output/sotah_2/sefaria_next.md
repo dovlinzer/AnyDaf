@@ -95,3 +95,100 @@
 **24.**
 *Hebrew/Aramaic:* וְרַבִּי יִשְׁמָעֵאל: לָהּ מִיטַּמֵּא, וְאֵין מִיטַּמֵּא לְאֵיבָרֶיהָ.
 *Translation:* The Gemara asks: **And** how does **Rabbi Yishmael** explain the repetition? The Gemara answers: He explains that the verse teaches that **he may become impure for her, but he may not become impure to** bury only one of **her limbs.** This additional verse teaches that a priest may become ritually impure to bury a relative only in the case of burying a complete body.
+
+
+---
+
+### Sotah 3b
+
+**1.**
+*Hebrew/Aramaic:* וְרַבִּי עֲקִיבָא — אִם כֵּן, לִיכְתּוֹב רַחֲמָנָא ״לָהּ״ וְלִישְׁתּוֹק, ״יִטַּמָּא״ לְמָה לִי? שְׁמַע מִינַּהּ.
+*Translation:* **And** what does **Rabbi Akiva** respond to this claim? The Gemara answers: **If so,** that the verse serves to render it prohibited for a priest to become impure to bury a limb, then **let the Merciful One write:** “And for his sister a virgin, that is near to him, that has had no husband, **for her,” and** then **be silent. Why do I** need the verse to write: **“May he become impure”? Learn from** the additional phrase that making himself impure is mandatory.
+
+**2.**
+*Hebrew/Aramaic:* וְרַבִּי יִשְׁמָעֵאל, אַיְּידֵי דִּכְתַב ״לָהּ״, כְּתַב נָמֵי ״יִטַּמָּא״. לְכִדְתָנֵי דְּבֵי רַבִּי יִשְׁמָעֵאל. דְּתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: כָּל פָּרָשָׁה שֶׁנֶּאֶמְרָה וְנִישְׁנֵית, לֹא נִישְׁנֵית אֶלָּא בִּשְׁבִיל דָּבָר שֶׁנִּתְחַדֵּשׁ בָּהּ.
+*Translation:* **And** how does **Rabbi Yishmael** explain the additional phrase? **Since** the verse **wrote: “For her,”** it **also wrote: “May he become impure,” for** the same reason **as was taught by the school of Rabbi Yishmael. As the school of Rabbi Yishmael taught: Every passage** in the Torah **that was stated and repeated, was repeated only for the novel element introduced therein.** Therefore, it is possible that the verse serves to teach the *halakha* that a priest may not become impure in order to bury a limb, and that would account for the repetition of the phrase “may he become impure” as well.
+
+**3.**
+*Hebrew/Aramaic:* ״לְעֹלָם בָּהֶם תַּעֲבֹדוּ״ — רְשׁוּת, דִּבְרֵי רַבִּי יִשְׁמָעֵאל. רַבִּי עֲקִיבָא אוֹמֵר: חוֹבָה.
+*Translation:* The Gemara discusses the third dispute between Rabbi Yishmael and Rabbi Akiva. The verse states: **“Of them may you take your bondmen forever”** (Leviticus 25:46), i.e., the *halakha* that one keeps his Canaanite slave forever, is **optional;** this is **the statement of Rabbi Yishmael.** One is not enjoined against emancipating a Canaanite slave, but one is permitted to keep a Canaanite slave forever. **Rabbi Akiva says:** It is **mandatory,** and one is prohibited from freeing his Canaanite slave.
+
+**4.**
+*Hebrew/Aramaic:* מַאי טַעְמָא דְּרַבִּי יִשְׁמָעֵאל — אַיְּידֵי דִּכְתִיב ״לֹא תְחַיֶּה כׇּל נְשָׁמָה״, אִיצְטְרִיךְ נָמֵי לְמִיכְתַּב ״לְעֹלָם בָּהֶם תַּעֲבֹדוּ״, לְמִישְׁרֵי אֶחָד מִכׇּל הָאוּמּוֹת שֶׁבָּא עַל הַכְּנַעֲנִית וְהוֹלִיד מִמֶּנָּה בֵּן, שֶׁאַתָּה רַשַּׁאי לִקְנוֹתוֹ.
+*Translation:* **What is the reason of Rabbi Yishmael? Since it is written** with regard to Canaanites: **“You shall save alive nothing that breathes”** (Deuteronomy 20:16), **it was necessary to write: “Of them may you take your bondmen forever”** (Leviticus 25:46), **as well,** in order **to permit one from any of the** other, non-Canaanite **nations who engaged in sexual intercourse with a Canaanite woman and she bore him a child.** This verse teaches **that you are permitted to purchase** the child as a slave, as he is not included in the mitzva “You shall save alive nothing that breathes” that was stated with regard to full-fledged Canaanites. Therefore, this verse cannot be teaching that it is mandatory.
+
+**5.**
+*Hebrew/Aramaic:* דְּתַנְיָא: מִנַּיִן לְאֶחָד מִן הָאוּמּוֹת שֶׁבָּא עַל הַכְּנַעֲנִית וְהוֹלִיד מִמֶּנָּה בֵּן, שֶׁאַתָּה רַשַּׁאי לִקְנוֹתוֹ בְּעֶבֶד, תַּלְמוּד לוֹמַר: ״וְגַם מִבְּנֵי הַתּוֹשָׁבִים הַגָּרִים עִמָּכֶם מֵהֶם תִּקְנוּ״.
+*Translation:* This is **as it is taught** in a *baraita*: **From where** is it derived **that** in the case of **one from** any of **the** other, non-Canaanite **nations who engaged in sexual intercourse with a Canaanite woman, and she bore him a child, that you are permitted to purchase** the child **as a slave? The verse states: “Moreover, of the children of the strangers that do sojourn among you, of them may you buy”** (Leviticus 25:45). This verse permits the purchase of slaves from among those individuals who are not members of the Canaanite nations, even if they settle in Eretz Yisrael.
+
+**6.**
+*Hebrew/Aramaic:* יָכוֹל אַף הַכְּנַעֲנִי שֶׁבָּא עַל אַחַת מִן הָאוּמּוֹת וְהוֹלִיד מִמֶּנָּה בֵּן, שֶׁאַתָּה רַשַּׁאי לִקְנוֹתוֹ בְּעֶבֶד, תַּלְמוּד לוֹמַר: ״אֲשֶׁר הוֹלִידוּ בְּאַרְצְכֶם״, מִן הַנּוֹלָדִים בְּאַרְצְכֶם, וְלֹא מִן הַגָּרִים בְּאַרְצְכֶם.
+*Translation:* The *baraita* continues: One **might** have thought that **even** in the case of **a Canaanite** man **who engaged in sexual intercourse with a woman from** one of **the** other **nations and she bore him a child, that you are permitted to purchase** the child **as a slave,** despite the fact that his father is a Canaanite. Therefore, **the** same **verse states: “Which they have given birth to in your land,”** teaching that one is permitted to purchase slaves only **from the** ones who are **born in your land** but whose paternal origins are from other lands, **but not from the** ones who already **reside in your land,** i.e., ones who have a Canaanite father.
+
+**7.**
+*Hebrew/Aramaic:* וְרַבִּי עֲקִיבָא מִ״מֵּהֶם תִּקְנוּ״ נָפְקָא, ״לְעֹלָם בָּהֶם תַּעֲבֹדוּ״ לְמָה לִי — לְחוֹבָה.
+*Translation:* The Gemara asks: **And** how does **Rabbi Akiva** derive this *halakha*? The Gemara answers: He **derives** it **from** the words in the same verse: **“Of them may you buy.”** Once the *halakha* is already taught that one may purchase as a slave the child of a Canaanite woman and a man from another nation, **why do I** need the verse to state: **“Of them may you take your bondmen forever”** (Leviticus 25:46)? It is stated **to** teach that it is **mandatory** to enslave a Canaanite slave forever.
+
+**8.**
+*Hebrew/Aramaic:* וְרַבִּי יִשְׁמָעֵאל: ״בָּהֶם״ — וְלֹא בְּאַחֵיכֶם.
+*Translation:* The Gemara asks: **And** what does **Rabbi Yishmael** derive from this verse? The Gemara answers: “Of them may you take your bondmen forever,” teaches that you can enslave **“of them,” but not of your brethren,** i.e., it is prohibited to enslave a fellow Jew, even a slave, forever.
+
+**9.**
+*Hebrew/Aramaic:* וְרַבִּי עֲקִיבָא: בְּאַחֵיכֶם — מִסֵּיפָא דִּקְרָא נָפְקָא: ״וּבְאַחֵיכֶם בְּנֵי יִשְׂרָאֵל אִישׁ בְּאָחִיו לֹא תִרְדֶּה בוֹ בְּפָרֶךְ״.
+*Translation:* The Gemara asks: **And** how does **Rabbi Akiva** derive this *halakha*? The Gemara answers: The prohibition against enslaving **your brethren is derived from the latter** phrase **of the verse,** where it is explicitly stated: **“But over your brethren the children of Israel you shall not rule, one over another, with rigor”** (Leviticus 25:46).
+
+**10.**
+*Hebrew/Aramaic:* וְרַבִּי יִשְׁמָעֵאל: אַיְּידֵי דִּכְתִיב ״וּבְאַחֵיכֶם״, כְּתִיב נָמֵי ״בָּהֶם״. לְכִדְתָנֵי דְּבֵי רַבִּי יִשְׁמָעֵאל. דְּתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: כָּל פָּרָשָׁה שֶׁנֶּאֶמְרָה וְנִישְׁנֵית, לֹא נִישְׁנֵית אֶלָּא בִּשְׁבִיל דָּבָר שֶׁנִּתְחַדֵּשׁ בָּהּ.
+*Translation:* The Gemara asks: **And** what does **Rabbi Yishmael** derive from this verse? The Gemara answers: He holds that **since it is written: “But over your brethren,”** which explicitly states that it is prohibited to subjugate a Jew forever, **it also writes** with regard to Canaanites **“of them,”** but that phrase does not teach any novel *halakha*, **because of** the reason **that was taught by the school of Rabbi Yishmael. As the school of Rabbi Yishmael taught: Every passage** in the Torah **that was stated and repeated, was repeated only for the novel element introduced therein.** Therefore, it is possible that the verse serves to teach the *halakha* that one may enslave a Canaanite forever, and that would account for the ostensibly superfluous phrase “of them.”
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַב חִסְדָּא: זְנוּתָא בְּבֵיתָא כִּי קַרְיָא לְשׁוּמְשְׁמָא. וְאָמַר רַב חִסְדָּא: תּוּקְפָּא בְּבֵיתָא כִּי קַרְיָא לְשׁוּמְשְׁמָא. אִידֵּי וְאִידֵּי בְּאִיתְּתָא, אֲבָל בְּגַבְרָא לֵית לַן בַּהּ.
+*Translation:* § The Gemara discusses matters related to sin and sexual impropriety. **Rav Ḥisda says: Licentious** behavior **in a home** causes damage **like a worm [*karya*]** causes damage **to sesame [*shumeshema*]. And Rav Ḥisda says: Anger in a home** causes damage **like a worm** causes damage **to sesame.** The Gemara comments: Both **this and that,** i.e., that licentious behavior and anger destroy a home, were said **with regard to the woman** of the house, **but with regard to the man,** although these behaviors are improper, **we do not have** the same extreme consequences **with regard to it,** as the woman’s role in the home is more significant, resulting in a more detrimental result if she acts improperly.
+
+**12.**
+*Hebrew/Aramaic:* וְאָמַר רַב חִסְדָּא: בַּתְּחִילָּה, קוֹדֶם שֶׁחָטְאוּ יִשְׂרָאֵל, הָיְתָה שְׁכִינָה שׁוֹרָה עִם כׇּל אֶחָד וְאֶחָד, שֶׁנֶּאֱמַר: ״כִּי ה׳ אֱלֹהֶיךָ מִתְהַלֵּךְ בְּקֶרֶב מַחֲנֶךָ״. כֵּיוָן שֶׁחָטְאוּ נִסְתַּלְּקָה שְׁכִינָה מֵהֶם, שֶׁנֶּאֱמַר: ״וְלֹא יִרְאֶה בְךָ עֶרְוַת דָּבָר וְשָׁב מֵאַחֲרֶיךָ״.
+*Translation:* **And Rav Ḥisda says: Initially, before the Jewish people sinned, the Divine Presence resided with each and every one** of them, **as it is stated: “For the Lord your God walks in the midst of your camp”** (Deuteronomy 23:15). **Once they sinned, the Divine Presence withdrew from them, as it is stated** in that same verse: **“That He see no unseemly matter in you, and turn away from you”** (Deuteronomy 23:15), teaching that when there is an “unseemly matter” among the Jewish people, the Divine Presence no longer resides among them.
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָנִי אָמַר רַבִּי יוֹנָתָן: כׇּל הָעוֹשֶׂה מִצְוָה אַחַת בָּעוֹלָם הַזֶּה — מְקַדַּמְתּוֹ וְהוֹלֶכֶת לְפָנָיו לָעוֹלָם הַבָּא, שֶׁנֶּאֱמַר: ״וְהָלַךְ לְפָנֶיךָ צִדְקֶךָ״. וְכׇל הָעוֹבֵר עֲבֵירָה אַחַת בָּעוֹלָם הַזֶּה — מְלַפַּפְתּוֹ וְהוֹלֶכֶת לְפָנָיו לְיוֹם הַדִּין, שֶׁנֶּאֱמַר: ״יִלָּפְתוּ אׇרְחוֹת דַּרְכָּם יַעֲלוּ בַתֹּהוּ וְיֹאבֵדוּ״.
+*Translation:* **Rabbi Shmuel bar Naḥmani says** that **Rabbi Yonatan says: Anyone who fulfills one mitzva in this world,** that mitzva **precedes him and goes before him to the World-to-Come, as it is stated: “And your righteousness shall go before you,** the glory of the Lord shall be your reward” (Isaiah 58:8). **And anyone who commits one transgression in this world, it shrouds him and goes before him to the Day of Judgment, as it is stated: “The paths of their way do wind, they go up into the waste, and are lost”** (Job 6:18).
+
+**14.**
+*Hebrew/Aramaic:* רַבִּי אֶלְעָזָר אוֹמֵר: קְשׁוּרָה בּוֹ כְּכֶלֶב, שֶׁנֶּאֱמַר: ״וְלֹא שָׁמַע אֵלֶיהָ לִשְׁכַּב אֶצְלָהּ לִהְיוֹת עִמָּהּ״. ״לִשְׁכַּב אֶצְלָהּ״ — בָּעוֹלָם הַזֶּה, ״לִהְיוֹת עִמָּהּ״ — לָעוֹלָם הַבָּא.
+*Translation:* **Rabbi Elazar says:** The transgression **is chained to him** and accompanies him **like a dog, as it is stated** concerning Joseph’s refusal to commit adultery with the wife of Potiphar: **“That he listened not to her, to lie by her, or to be with her”** (Genesis 39:10), which is understood to mean: If he would agree **“to lie by her” in this world,** the result would be that he would have **“to be with her”** forever, as the transgression would accompany him **to the World-to-Come.**
+
+**15.**
+*Hebrew/Aramaic:* תְּנַן הָתָם, שֶׁהָיָה בַּדִּין:
+*Translation:* § The Gemara returns to its discussion of the number of witnesses necessary for different elements of the process of a woman becoming a *sota*. **We learned** in a mishna **elsewhere** (31a) with regard to the credibility of one witness who testifies concerning a woman’s infidelity: The *halakha* that one witness is deemed credible concerning defilement needs to be stated, **as, by right,** it **should** not **have been** deemed credible based on the following *a fortiori* inference:
+
+**16.**
+*Hebrew/Aramaic:* וּמָה עֵדוּת הָרִאשׁוֹנָה, שֶׁאֵין אוֹסַרְתָּהּ אִיסּוּר עוֹלָם — אֵינָהּ מִתְקַיֶּימֶת בְּפָחוֹת מִשְּׁנַיִם, עֵדוּת הָאַחֲרוֹנָה, שֶׁאוֹסַרְתָּהּ אִיסּוּר עוֹלָם — אֵינוֹ דִּין שֶׁלֹּא תִּתְקַיֵּים בְּפָחוֹת מִשְּׁנַיִם?
+*Translation:* **And just as** with regard to **the first testimony** concerning seclusion, **which does not forbid her** to her husband with **an irrevocable prohibition,** as the woman can be found innocent, permitting her again to her husband by drinking the bitter water, it **is not established with fewer than two** witnesses, as that mishna is written in accordance with the opinion of Rabbi Yehoshua, who stated (2a) that testimony of two witnesses must be provided by two witnesses, then with regard to **the final testimony** concerning defilement, **which forbids her** with **an irrevocable prohibition, is it not logical that it not be established with fewer than two** witnesses?
+
+**17.**
+*Hebrew/Aramaic:* תַּלְמוּד לוֹמַר: ״וְעֵד אֵין בָּהּ״, כֹּל שֶׁיֵּשׁ בָּהּ.
+*Translation:* Therefore, to counter this derivation, **the verse states: “And there is no witness against her”** (Numbers 5:13), teaching that **any** testimony **that there is against her** with regard to her defilement is sufficient, and two witnesses are not required.
+
+**18.**
+*Hebrew/Aramaic:* וְקַל וָחוֹמֶר לְעֵדוּת הָרִאשׁוֹנָה מֵעַתָּה: וּמָה עֵדוּת הָאַחֲרוֹנָה, שֶׁאוֹסַרְתָּהּ אִיסּוּר עוֹלָם — מִתְקַיֶּימֶת בְּעֵד אֶחָד, עֵדוּת הָרִאשׁוֹנָה, שֶׁאֵין אוֹסַרְתָּהּ אִיסּוּר עוֹלָם — אֵינוֹ דִּין שֶׁתִּתְקַיֵּים בְּעֵד אֶחָד?
+*Translation:* The mishna asks: **And now** that it is established that one witness suffices to testify with regard to defilement, **an *a fortiori*** inference can be made **with regard to the first testimony** of seclusion: **And just as** with regard to **the final testimony** concerning defilement, **which forbids her** with **an irrevocable prohibition,** yet it **is established with one witness,** then with regard to **the first testimony, which does not forbid her** with **an irrevocable prohibition, is it not logical that it should be established with** only **one witness?**
+
+**19.**
+*Hebrew/Aramaic:* תַּלְמוּד לוֹמַר: ״כִּי מָצָא בָהּ עֶרְוַת דָּבָר״, וּלְהַלָּן הוּא אוֹמֵר ״עַל פִּי שְׁנֵי עֵדִים אוֹ עַל פִּי שְׁלֹשָׁה עֵדִים יָקוּם דָּבָר״. מָה ״דָּבָר״ הָאָמוּר לְהַלָּן — עַל פִּי שְׁנַיִם עֵדִים, אַף כָּאן — עַל פִּי שְׁנַיִם.
+*Translation:* Therefore, to counter this derivation, **the verse states:** “If a man marries a woman and lives with her and it will be that she not find favor in his eyes, **because he has found some unseemly matter [*davar*] about her”** (Deuteronomy 24:1), **and there,** in the verses concerning the *halakhot* of monetary matters, **it states: “By the mouth of two witnesses or by the mouth of three witnesses shall a matter [*davar*] be established”** (Deuteronomy 19:15). This teaches that **just as** the **“matter” stated there** is established **by the mouth of two witnesses, so too here,** the “matter” of her seclusion must be established **by the mouth of two** witnesses.
+
+**20.**
+*Hebrew/Aramaic:* הַאי מִ״כִּי מָצָא בָהּ עֶרְוַת דָּבָר״ נָפְקָא? מִ״בָּהּ״ נָפְקָא: בָּהּ — וְלֹא בְּקִינּוּי, בָּהּ — וְלֹא בִּסְתִירָה מִיבְּעֵי לֵיהּ!
+*Translation:* The Gemara asks: Is **this** need for two witnesses **derived from: “Because he has found some unseemly matter about her”** (Deuteronomy 24:1)? **It is derived from:** “And there is no witness [*ed*] **against her [*bah*]”** (Numbers 5:13), which was explained to mean there were not two witnesses, but only one, who testified concerning her defilement (2a). The Gemara above (2b) derives from the term “*bah*,” which could also be understood as: **With regard to it,** that in this matter of defilement one witness suffices, **but not with regard to** the **warning.** And one also derives: **With regard to it, but not with regard to** the **seclusion.** Therefore, there must be two witnesses to testify about both the warning and the seclusion. The mishna **should have** given this inference as the source for requiring two witnesses for seclusion, and not the juxtaposition of “matter” and “matter.”
+
+**21.**
+*Hebrew/Aramaic:* הָכִי נָמֵי קָאָמַר: תַּלְמוּד לוֹמַר ״בָּהּ״: בָּהּ — וְלֹא בְּקִינּוּי, בָּהּ — וְלֹא בִּסְתִירָה.
+*Translation:* The Gemara answers: **That is also what he is saying.** The mishna should read: **The verse states:** “And there is no witness **against her [*bah*],”** teaching that: **With regard to it [*bah*], but not with regard to** the **warning.** And one also derives: **With regard to it, but not with regard to** the **seclusion.**
+
+**22.**
+*Hebrew/Aramaic:* וְטוּמְאָה בְּעָלְמָא בְּלֹא קִינּוּי וּבְלֹא סְתִירָה, דְּלָא מְהֵימַן עֵד אֶחָד, מְנָלַן? נֶאֱמַר כָּאן: ״כִּי מָצָא בָהּ עֶרְוַת דָּבָר״, וְנֶאֱמַר לְהַלָּן: ״עַל פִּי שְׁנֵי עֵדִים אוֹ עַל פִּי שְׁלֹשָׁה עֵדִים יָקוּם דָּבָר״. מָה ״דָּבָר״ הָאָמוּר לְהַלָּן — עֵדִים שְׁנַיִם, אַף כָּאן — עֵדִים שְׁנַיִם.
+*Translation:* The Gemara comments: **And** with regard to **defilement in general, without** a prior **warning and without** witnesses to **seclusion, from where do we** derive **that one witness is not deemed credible? Here it is stated: “Because he has found some unseemly matter about her”** (Deuteronomy 24:1), **and there it is stated: “By the mouth of two witnesses or by the mouth of three witnesses shall a matter be established”** (Deuteronomy 19:15), teaching that **just as** the **“matter” stated there** is established by **two witnesses, so too here,** with regard to defilement it is established by **two witnesses.**
+
+**23.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אֵי זוֹ הִיא עֵדוּת הָרִאשׁוֹנָה — זוֹ עֵדוּת סְתִירָה, עֵדוּת אַחֲרוֹנָה — זוֹ עֵדוּת טוּמְאָה.
+*Translation:* **The Sages taught** (*Tosefta* 1:1): In the mishna quoted above, **which is the first testimony? This** is referring to the **testimony of seclusion.** Which is **the final testimony? This** is referring to the **testimony of defilement.**

@@ -27,3 +27,40 @@
 **7.**
 *Hebrew/Aramaic:* אֶלָּא לְדִידָךְ: בִּשְׁלָמָא רֵישָׁא מוֹקֵים לֵהּ דְּאָמַר ״לְכוּלְּכֶם״.
 *Translation:* **But according to you,** Rava, who holds that if he said: I would have said that so-and-so and so-and-so are prohibited to partake and father is permitted to do so, all concede that everyone is permitted to partake, and that the dispute pertains to when one says: I would have said that all of you are prohibited to partake except for father, **granted, he establishes the first clause** of Rabbi Akiva’s statement as a case **where he** retracts and **says:** The property **of all of you** is *konam* for me except for that of father, and benefit from all is permitted, in accordance with the opinion of Beit Hillel.
+
+
+---
+
+### Nedarim 26b
+
+**1.**
+*Hebrew/Aramaic:* אֶלָּא סֵיפָא, דְּאָמַר ״לָזֶה וְלָזֶה״, רַבִּי עֲקִיבָא הִיא, אַמַּאי פְּלִיגִי רַבָּנַן עֲלֵיהּ? וְהָאָמְרַתְּ דִּבְרֵי הַכֹּל מוּתָּר!
+*Translation:* **But** as **the latter clause** of that mishna, in the case **where he said:** I intended to prohibit eating figs **to this one and to that one,** and they are all permitted to do so, **is** the opinion of **Rabbi Akiva,** which is evident from the fact that this *halakha* is cited in his name, then according to your opinion **why do the Rabbis disagree with him? But haven’t you said** that **all agree** that they are all **permitted** to partake when the one who took the vow explains that he meant: To this one and to that one?
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא: וּלְרַבָּה לְרַבִּי עֲקִיבָא מִי נִיחָא סֵיפָא? בְּמַאי מוֹקֵים לֵהּ — דְּאָמַר ״לְכוּלְּכֶם״, הֵי דֵין הוּא רִאשׁוֹן וְהֵי דֵין הוּא אַחֲרוֹן?
+*Translation:* **Rava said to** Rav Pappa: **And according to Rabba,** whose opinion you are supporting with this objection, **does the latter clause work out well according to Rabbi Akiva? In what** case **does he establish it?** In a case **where one** retracted and **said: From all of you, which of them is the first one and which of them is the last one?** The mishna stated that if benefit from the last one was permitted, benefit from the last one alone is permitted and benefit from all the others is forbidden. If he is now saying: From all of you, who is the first and who is the last?
+
+**3.**
+*Hebrew/Aramaic:* אֶלָּא: רֵישָׁא דְּאָמַר ״לְכוּלְּכֶם״, וְסֵיפָא, כְּגוֹן שֶׁתְּלָאָן זֶה בָּזֶה, וְאָמַר: ״פְּלוֹנִי כִּפְלוֹנִי, וּפְלוֹנִי כִּפְלוֹנִי״.
+*Translation:* **Rather,** Rava explains as follows: **The first clause** is referring to **where he said: From all of you,** and this follows the opinion of Beit Hillel, who say, according to Rava, that the entire vow is dissolved. **And** in **the latter clause,** i.e., the last two cases, it is referring to where he did not specify: From this one and from that one, but where, **for example, he linked them to one another and said: So-and-so** should be prohibited to partake **like so-and-so, and so-and-so like so-and-so,** but there is no general prohibition on all of them. Rather, each prohibition is linked to another one. Therefore, if the prohibition pertaining to the first individual is dissolved, then all those prohibitions linked to that one are dissolved as well.
+
+**4.**
+*Hebrew/Aramaic:* דַּיְקָא נָמֵי, דְּתַנְיָא: הוּתַּר הָאֶמְצָעִי — הֵימֶנּוּ וּלְמַטָּה מוּתָּרִין, וּלְמַעְלָה — אֲסוּרִין.
+*Translation:* The Gemara comments: The language **is also precise, as it is taught** in a *baraita* concerning this mishna: If **the middle one** in this chain of people prohibited by the vow from partaking **was permitted** to do so, then **from him and below,** i.e., those who were mentioned after him, **are permitted** to partake, **and** from him and **above,** i.e., those who were mentioned before him, **are prohibited** from partaking. This indicates that the mishna speaks about a case where the prohibitions are linked together. Therefore, the prohibition is dissolved for those who were mentioned after that individual whose prohibition is dissolved.
+
+**5.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רַב אַדָּא בַּר אַהֲבָה לְרָבָא: ״קֻוֽנָּם בָּצָל שֶׁאֲנִי טוֹעֵם, שֶׁהַבָּצָל רַע לַלֵּב״. אָמְרוּ לוֹ: וַהֲלֹא הַכּוּפְרִי יָפֶה לַלֵּב! הוּתַּר בַּכּוּפְרִי. וְלֹא בַּכּוּפְרִי בִּלְבַד הוּתַּר, אֶלָּא בְּכׇל הַבְּצָלִים. מַעֲשֶׂה הָיָה, וְהִתִּירוֹ רַבִּי מֵאִיר בְּכׇל הַבְּצָלִים.
+*Translation:* **Rav Adda bar Ahava raised an objection to Rava:** The mishna (66a) states that if one says: **Onions are *konam*** for me, and for **that** reason **I** will not **taste them, because onions are bad for the heart,** and others **said to him: But isn’t the *kuferi*** onion **good for the heart,** the vow **is dissolved with regard to *kuferi*** onions, **and not only with regard to *kuferi*** onions is it dissolved, **but with regard to all** types of **onions.** The mishna relates that **an incident** of this kind **occurred, and Rabbi Meir dissolved** the vow **with regard to all** types of **onions.**
+
+**6.**
+*Hebrew/Aramaic:* מַאי לָאו, דְּאָמַר: אִילּוּ הָיִיתִי יוֹדֵעַ שֶׁהַכּוּפְרִי יָפֶה לַלֵּב, הָיִיתִי אוֹמֵר ״כׇּל הַבְּצָלִים אֲסוּרִין וְכוּפְרִי מוּתָּר״?
+*Translation:* **What, is it not** speaking here of a case **where** that person **said: Had I known that the *kuferi*** onion **is good for the heart I would have said: All onions are forbidden and** the ***kuferi*** onion **is permitted?** This would be difficult for Rabba, who argues in similar cases that all opinions maintain that the other onions are forbidden, as well as for Rava, who would hold that only Beit Shammai, who follow the opinion of Rabbi Meir, maintain that all onions are forbidden in this type of case, and yet here Rabbi Meir himself permits all types of onions.
+
+**7.**
+*Hebrew/Aramaic:* לֹא, בְּאוֹמֵר: אִילּוּ הָיִיתִי יוֹדֵעַ שֶׁהַכּוּפְרִי יָפֶה לַלֵּב, הָיִיתִי אוֹמֵר: ״בָּצָל פְּלוֹנִי וּפְלוֹנִי אֲסוּרִין וְכוּפְרִי מוּתָּר״. וְרַבִּי מֵאִיר אַלִּיבָּא דְּרַבִּי עֲקִיבָא וְאַלִּיבָּא דְרַבָּנַן.
+*Translation:* The Gemara responds: **No,** this should be explained as a case **where one says: If I had known that the *kuferi*** onion **is good for the heart, I would have said: Such an onion and such** an onion **are forbidden** to me **and** the ***kuferi*** onion **is permitted, and** the opinion of **Rabbi Meir** is **in accordance with** the opinion **of Rabbi Akiva and** also **in accordance with** the opinion **of the Rabbis.** This is because, according to Rava, when one says: This one and that one, all agree that everything is permitted.
+
+**8.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רָבִינָא לְרָבָא: רַבִּי נָתָן אוֹמֵר: יֵשׁ נֶדֶר שֶׁמִּקְצָתוֹ מוּתָּר וּמִקְצָתוֹ אָסוּר. כֵּיצַד? נָדַר מִן הַכַּלְכַּלָּה,
+*Translation:* **Ravina raised an objection to Rava: Rabbi Natan says there is a vow that is partially dissolved and partially binding. How** so? One who **took a vow** that benefit **from** all the items in **a basket** be forbidden to him,

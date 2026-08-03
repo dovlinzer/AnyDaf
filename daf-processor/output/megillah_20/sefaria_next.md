@@ -71,3 +71,80 @@
 **18.**
 *Hebrew/Aramaic:* קְרָאָהּ אֶחָד, קְרָאוּהָ שְׁנַיִם יָצְאוּ וְכוּ׳.
 *Translation:* We learned in the mishna: If **one** person **reads** the Megilla or **two** people **read it** together, **they have fulfilled** their obligation.
+
+
+---
+
+### Megillah 21b
+
+**1.**
+*Hebrew/Aramaic:* תָּנָא: מַה שֶּׁאֵין כֵּן בַּתּוֹרָה. תָּנוּ רַבָּנַן: בַּתּוֹרָה — אֶחָד קוֹרֵא וְאֶחָד מְתַרְגֵּם, וּבִלְבַד שֶׁלֹּא יְהֵא אֶחָד קוֹרֵא וּשְׁנַיִם מְתַרְגְּמִין. וּבַנָּבִיא — אֶחָד קוֹרֵא וּשְׁנַיִם מְתַרְגְּמִין, וּבִלְבַד שֶׁלֹּא יְהוּ שְׁנַיִם קוֹרִין וּשְׁנַיִם מְתַרְגְּמִין. וּבַהַלֵּל וּבַמְּגִילָּה — אֲפִילּוּ עֲשָׂרָה קוֹרִין וַעֲשָׂרָה מְתַרְגְּמִין.
+*Translation:* **It was taught:** This **is not the case with regard to** reading **the Torah,** which may be read only by a single person. **The Sages taught** (*Tosefta*, *Megilla* 3:20): When reading from **the Torah, one** person **reads and one may translate** the reading into Aramaic for the congregation, **provided that there are not one** person **reading and two** people **translating,** because two voices cannot be heard simultaneously. **And** when reading from **the Prophets, one** person **reads and two may translate,** as there is less of a need to ensure that everyone hears the precise translation, as the Prophets do not teach *halakha*. This is the case **provided that there are not two** people **reading and two translating. And** when reciting ***hallel* and** reading **the Megilla, even ten** people **may read and ten may translate.**
+
+**2.**
+*Hebrew/Aramaic:* מַאי טַעְמָא? כֵּיוָן דַּחֲבִיבָה — יָהֲבִי דַּעְתַּיְיהוּ וְשָׁמְעִי.
+*Translation:* The Gemara asks: **What is the reason** that the Megilla may be read by several people at once? **Since** the Megilla **is cherished** by the congregation, **they will pay** close **attention and hear it,** and they will not become distracted by the different voices.
+
+**3.**
+*Hebrew/Aramaic:* מָקוֹם שֶׁנָּהֲגוּ לְבָרֵךְ — יְבָרֵךְ. אָמַר אַבָּיֵי: לֹא שָׁנוּ אֶלָּא לְאַחֲרֶיהָ, אֲבָל לְפָנֶיהָ — מִצְוָה לְבָרֵךְ. דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: כׇּל הַמִּצְוֹת כּוּלָּן מְבָרֵךְ עֲלֵיהֶן עוֹבֵר לַעֲשִׂיָּיתָן.
+*Translation:* § We learned in the mishna: In **a place where** the people **are accustomed to recite a blessing** over the reading, **one should recite a blessing. Abaye said: They taught** that the matter depends upon local custom **only** with regard to the blessing that is recited **after** the reading of the Megilla. **But** as for the blessing that is recited **before** the reading, it is **a mitzva to recite the blessing** according to all opinions, as **Rav Yehuda said that Shmuel said: With regard to all the mitzvot, one recites a blessing over them prior to [*over*] their performance.**
+
+**4.**
+*Hebrew/Aramaic:* מַאי מַשְׁמַע דְּהַאי ״עוֹבֵר״ לִישָּׁנָא דְּאַקְדּוֹמֵי הוּא? אָמַר רַב נַחְמָן בַּר יִצְחָק, אָמַר קְרָא: ״וַיָּרׇץ אֲחִימַעַץ דֶּרֶךְ הַכִּכָּר וַיַּעֲבֹר אֶת הַכּוּשִׁי״. אַבָּיֵי אָמַר מֵהָכָא: ״וְהוּא עָבַר לִפְנֵיהֶם״. וְאִיבָּעֵית אֵימָא, מֵהָכָא: ״וַיַּעֲבֹר מַלְכָּם לִפְנֵיהֶם וַה׳ בְּרֹאשָׁם״.
+*Translation:* The Gemara asks: **From where** may it **be inferred that** the word ***over* is the language of precedence? Rav Naḥman bar Yitzḥak said that the verse states: “And Ahimaaz ran by the way of the plain, and overran [*vaya’avor*] the Cushite”** (II Samuel 18:23), i.e., Ahimaaz overtook the Cushite. **Abaye said:** It is derived **from here: “And he passed [*avar*] before them”** (Genesis 33:3). **And if you wish, say** instead that the proof is **from here: “And their king passed [*vaya’avor*] before them and the Lord at their head”** (Micah 2:13).
+
+**5.**
+*Hebrew/Aramaic:* לְפָנֶיהָ מַאי מְבָרֵךְ? רַב שֵׁשֶׁת מִקַּטְרַזְיָא אִיקְּלַע לְקַמֵּיהּ דְּרַב אָשֵׁי וּבָרֵיךְ מנ״‎ח.
+*Translation:* The Gemara asks: **What blessing is recited before** the reading of the Megilla? The Gemara relates that **Rav Sheshet from Katrazya** once **happened** to come **before Rav Ashi, and he recited** three **blessings,** alluded to by the letters ***mem*, *nun*, *ḥet*:** Concerning the reading [*mikra*] of the Megilla; Who has performed miracles [*nissim*] for our fathers; and Who has given us life [*sheheḥeyanu*].
+
+**6.**
+*Hebrew/Aramaic:* לְאַחֲרֶיהָ מַאי מְבָרֵךְ? בָּרוּךְ אַתָּה ה׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם (הָאֵל) הָרָב אֶת רִיבֵנוּ וְהַדָּן אֶת דִּינֵנוּ וְהַנּוֹקֵם אֶת נִקְמָתֵנוּ וְהַנִּפְרָע לָנוּ מִצָּרֵינוּ וְהַמְשַׁלֵּם גְּמוּל לְכׇל אוֹיְבֵי נַפְשֵׁנוּ, בָּרוּךְ אַתָּה ה׳ הַנִּפְרָע לְיִשְׂרָאֵל מִכׇּל צָרֵיהֶם. רָבָא אָמַר: הָאֵל הַמּוֹשִׁיעַ. אָמַר רַב פָּפָּא: הִלְכָּךְ — נֵימְרִינְהוּ לְתַרְוַיְיהוּ: בָּרוּךְ אַתָּה ה׳ הַנִּפְרָע לְיִשְׂרָאֵל מִכׇּל צָרֵיהֶם הָאֵל הַמּוֹשִׁיעַ.
+*Translation:* The Gemara asks: **What blessing is recited after** the reading of the Megilla in places where it is customary to recite such a blessing? The Gemara answers that the following blessing is recited: **Blessed are You, Lord our God, King of the universe, the God Who pleads our cause, and Who judges our claim, and Who avenges our vengeance, and Who punishes our foes, and Who brings retribution to our enemies. Blessed are You, Lord, Who, on behalf of Israel, exacts punishment from all of their foes. Rava said:** The conclusion of the blessing is as follows: Blessed are you, Lord, **the God who brings salvation. Rav Pappa said: Therefore,** since there are two opinions on the matter, **we should say both of them: Blessed are you, Lord, Who, on behalf of Israel, exacts punishment from all their foes; the God Who brings salvation.**
+
+**7.**
+*Hebrew/Aramaic:* בְּשֵׁנִי וּבַחֲמִישִׁי בַּשַּׁבָּת בַּמִּנְחָה קוֹרִין שְׁלֹשָׁה וְכוּ׳. הָנֵי שְׁלֹשָׁה, כְּנֶגֶד מִי? אָמַר רַב אַסִּי: כְּנֶגֶד תּוֹרָה נְבִיאִים וּכְתוּבִים. רָבָא אָמַר: כְּנֶגֶד כֹּהֲנִים לְוִיִּם וְיִשְׂרְאֵלִים.
+*Translation:* We learned in the mishna: **On Mondays and** on **Thursdays** during the morning service **and on Shabbat during the afternoon service, three** people **read** from the Torah. The Gemara asks: **Corresponding to what were these three** readers instituted? **Rav Asi said: They correspond** to the three sections of the Bible: **Pentateuch, Prophets, and Writings. Rava said: They correspond to** the three components of the Jewish people: **Priests, Levites, and Israelites.**
+
+**8.**
+*Hebrew/Aramaic:* אֶלָּא הָא דְּתָנֵי רַב שִׁימִי: אֵין פּוֹחֲתִין מֵעֲשָׂרָה פְּסוּקִין בְּבֵית הַכְּנֶסֶת, ״וַיְדַבֵּר״ עוֹלֶה מִן הַמִּנְיָן. הָנֵי עֲשָׂרָה כְּנֶגֶד מִי?
+*Translation:* The Gemara raises a question: **But** with regard to **this** *baraita* **that Rav Shimi taught: One may not decrease** to fewer than **ten** the number of **verses** read during a public Torah reading **in the synagogue,** and a generic verse, e.g., **“And** God **spoke** to Moses saying,” **is included in the count, to what do these ten** verses **correspond?** Why specifically the number ten?
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: כְּנֶגֶד עֲשָׂרָה בַּטְלָנִין שֶׁבְּבֵית הַכְּנֶסֶת. רַב יוֹסֵף: אָמַר כְּנֶגֶד עֲשֶׂרֶת הַדִּבְּרוֹת שֶׁנֶּאֶמְרוּ לְמֹשֶׁה בְּסִינַי. (רַבִּי לֵוִי אָמַר: כְּנֶגֶד עֲשָׂרָה הִילּוּלִין שֶׁאָמַר דָּוִד בְּסֵפֶר תְּהִלִּים.) וְרַבִּי יוֹחָנָן אָמַר: כְּנֶגֶד עֲשָׂרָה מַאֲמָרוֹת שֶׁבָּהֶן נִבְרָא הָעוֹלָם.
+*Translation:* **Rabbi Yehoshua ben Levi said:** They **correspond to the ten idlers that are in the synagogue,** i.e., ten men who have the leisure not to work, and instead sit in the synagogue and are available to attend to communal needs. **Rav Yosef said:** They **correspond to the Ten Commandments that were spoken to Moses at Sinai. Rabbi Levi said:** They **correspond to the ten** psalms of **praise** that **David said in the book of Psalms. And Rabbi Yoḥanan said: They correspond to the ten utterances with which the world was created.**
+
+**10.**
+*Hebrew/Aramaic:* הֵי נִינְהוּ? ״וַיֹּאמֶר״ דִּבְרֵאשִׁית. הָנֵי תִּשְׁעָה הָווּ! ״בְּרֵאשִׁית״ נָמֵי מַאֲמָר הוּא, דִּכְתִיב: ״בִּדְבַר ה׳ שָׁמַיִם נַעֲשׂוּ וּבְרוּחַ פִּיו כׇּל צְבָאָם״.
+*Translation:* The Gemara asks: **What are these** ten utterances? Presumably, they are the utterances introduced by the words **“and** God **said”** in the story of Creation in the first chapter of **Genesis.** However, **there are** only **nine of these** utterances and not ten. The Gemara answers: The expression: **“In the beginning”** (Genesis 1:1) **is also** considered **an utterance, as it is written: “By the word of the Lord were the heavens made; and all the host of them by the breath of His mouth”** (Psalms 33:6), which indicates that the first utterance of Creation was the general creation of the entire universe.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רָבָא, רִאשׁוֹן שֶׁקָּרָא אַרְבָּעָה — מְשׁוּבָּח, שֵׁנִי שֶׁקָּרָא אַרְבָּעָה — מְשׁוּבָּח, שְׁלִישִׁי שֶׁקָּרָא אַרְבָּעָה — מְשׁוּבָּח.
+*Translation:* **Rava said:** Since ten verses must be read, if **the first** of the three readers called to the Torah **read four** verses, **he is praiseworthy;** if **the second one read four** verses, **he is praiseworthy;** and if **the third one read four** verses, **he is praiseworthy.**
+
+**12.**
+*Hebrew/Aramaic:* רִאשׁוֹן שֶׁקָּרָא אַרְבָּעָה מְשׁוּבָּח — דִּתְנַן: בְּשָׁלֹשׁ קוּפּוֹת שֶׁל שָׁלֹשׁ סְאִין שֶׁבָּהֶן תּוֹרְמִין אֶת הַלִּשְׁכָּה, וְהָיָה כָּתוּב עֲלֵיהֶן אב״‎ג, לֵידַע אֵיזוֹ מֵהֶן נִתְרְמָה רִאשׁוֹן, לְהַקְרִיב מִמֶּנָּה רִאשׁוֹן — שֶׁמִּצְוָה בָּרִאשׁוֹן.
+*Translation:* Rava explains: **If the first** of the three readers called to the Torah **read four** verses, **he is praiseworthy** because the first in a series is privileged, **as we learned** in a mishna (*Shekalim* 8a): One **removes** the funds **from the** Temple treasury **chamber,** in order to use them for purchasing communal offerings and attending to other needs of the Temple, **with three** large **baskets,** each measuring **three *se’a*. On** the baskets **is written,** respectively, ***alef*, *beit*, *gimmel*,** in order **to know which of them was removed first,** in order **to sacrifice** offerings purchased with money **from** that basket **first, as it is a mitzva** to use the money collected with **the first** basket before the money collected with the others.
+
+**13.**
+*Hebrew/Aramaic:* אֶמְצָעִי שֶׁקָּרָא אַרְבָּעָה מְשׁוּבָּח — דְּתַנְיָא: ״אֶל מוּל פְּנֵי הַמְּנוֹרָה יָאִירוּ״, מְלַמֵּד שֶׁמְּצַדֵּד פְּנֵיהֶם כְּלַפֵּי נֵר מַעֲרָבִי, וְנֵר מַעֲרָבִי כְּלַפֵּי שְׁכִינָה. וְאָמַר רַבִּי יוֹחָנָן: מִכָּאן שֶׁאֶמְצָעִי מְשׁוּבָּח.
+*Translation:* If **the middle one read four** verses, **he is** also **praiseworthy,** as the middle position is also dignified, **as it is taught** in a *baraita*: “The seven lamps **shall give light in front of the candelabrum”** (Numbers 8:2); **this teaches that** the priest **turns the front** of each lamp **toward** the **western lamp** of the candelabrum, i.e., the middle lamp, **and** the **western lamp** faces **toward the Divine Presence. And Rabbi Yoḥanan said:** It is derived **from here that the middle one is** especially **praiseworthy.**
+
+**14.**
+*Hebrew/Aramaic:* וְאַחֲרוֹן שֶׁקָּרָא אַרְבָּעָה מְשׁוּבָּח — מִשּׁוּם מַעֲלִין בַּקֹּדֶשׁ וְלֹא מוֹרִידִין. רַב פָּפָּא אִיקְּלַע לְבֵי כְּנִישְׁתָּא דַּאֲבִי גוֹבָר וְקָרָא רִאשׁוֹן אַרְבָּעָה, וְשַׁבְּחֵיהּ רַב פָּפָּא.
+*Translation:* **And if the last one** called to the Torah **read four** verses, **he** too **is praiseworthy, due to** the principle that **one elevates** to a higher level of **sanctity and does not downgrade.** If the last reader reads more verses than did the first two, this is an elevation in sanctity. The Gemara relates that **Rav Pappa happened** to come **to the synagogue of** the place called **Avi Gover, and the first person** called to the Torah **read four** verses, **and Rav Pappa praised him.**
+
+**15.**
+*Hebrew/Aramaic:* אֵין פּוֹחֲתִין מֵהֶן וְאֵין מוֹסִיפִין. תָּנָא: הַפּוֹתֵחַ — מְבָרֵךְ לְפָנֶיהָ, וְהַחוֹתֵם — מְבָרֵךְ לְאַחֲרֶיהָ.
+*Translation:* We learned in the mishna that **one may neither decrease** the number of readers **nor add to them.** The one who begins the reading and the one who concludes the reading from the Torah each recite a blessing. **It is taught** in a *baraita*: **The one who begins** the reading **recites a blessing before** reading from the Torah, **and the one who concludes** the reading **recites a blessing after** the reading.
+
+**16.**
+*Hebrew/Aramaic:* וְהָאִידָּנָא, דְּכוּלְּהוּ מְבָרְכִי לְפָנֶיהָ וּלְאַחֲרֶיהָ — הַיְינוּ טַעְמָא דְּתַקִּינוּ רַבָּנַן: גְּזֵירָה מִשּׁוּם הַנִּכְנָסִין וּמִשּׁוּם הַיּוֹצְאִין.
+*Translation:* The Gemara comments: **And now that all** who read from the Torah **recite blessings** both **before and after** reading from the Torah, **this is the reason that the Sages instituted** this policy: It is **a decree due to** both **those who enter** the synagogue in middle of the reading and do not hear the first reader’s initial blessing **and due to those who leave** the synagogue early and do not hear the final reader’s concluding blessing, lest they come to the erroneous conclusion that one blessing suffices.
+
+**17.**
+*Hebrew/Aramaic:* בְּרָאשֵׁי חֳדָשִׁים וּבְחוּלּוֹ שֶׁל מוֹעֵד קוֹרִין אַרְבָּעָה וְכוּ׳. בְּעָא מִינֵּיהּ עוּלָּא בַּר רַב מֵרָבָא: פָּרָשַׁת רֹאשׁ חוֹדֶשׁ, כֵּיצַד קוֹרִין אוֹתָהּ? ״צַו אֶת בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵיהֶם אֶת קׇרְבָּנִי לַחְמִי״, דְּהָוְיָין תְּמָנְיָא פְּסוּקֵי, הֵיכִי נֶעְבֵּיד?
+*Translation:* We learned in the mishna: **On** the days of the **New Moon and on the intermediate days of a Festival, four** people **read** from the Torah. **Ulla bar Rav raised a dilemma before Rava: The** Torah **portion** read **on the New Moon** consists of three short consecutive paragraphs (Numbers 28:1–8, 9–10, 11–15). **How does one read it** in order to divide it among four readers? With regard to the first paragraph, which includes the verse: **“Command the children of Israel and say to them, My offering, the provision** of My sacrifices made by fire” (Numbers 28:2), and **which is eight verses, what shall we do?**
+
+**18.**
+*Hebrew/Aramaic:* נִיקְרֵי תְּרֵי תְּלָתָא תְּלָתָא פְּסוּקִין — פָּשׁוּ לְהוּ תְּרֵי, וְאֵין מְשַׁיְּירִין בַּפָּרָשָׁה פָּחוֹת מִשְּׁלֹשָׁה פְּסוּקִין. נִיקְרֵי אַרְבָּעָה אַרְבְּעָה — פָּשׁוּ לְהוּ שִׁבְעָה, ״וּבְיוֹם הַשַּׁבָּת״ הָוַיִין תְּרֵי, ״וּבְרָאשֵׁי חׇדְשֵׁיכֶם״ הָוַיִין חֲמִשָּׁה, הֵיכִי נַעֲבֵיד? נִיקְרֵי תְּרֵי מֵהָא וְחַד מֵהָנָךְ —
+*Translation:* If you say that **the** first **two** readers **should read three verses each, there will remain** only **two** more **verses** until the end of the paragraph, and **one may not leave fewer than three verses** before the end of **a paragraph** at the conclusion of a reading. If you say that the first two readers **should read four** verses **each** and complete the first paragraph, then **seven** verses **will be left** until the end of entire portion; the second paragraph of **“And on Shabbat day”** (Numbers 28:9) **is two** verses, and the third paragraph of **“And on the beginnings of your months”** (Numbers 28:11) **is five** verses. **What shall we do** with them? If the third reader **reads** the **two** verses **from this** paragraph **and one of those** verses in the following paragraph, this is improper due to the principle that

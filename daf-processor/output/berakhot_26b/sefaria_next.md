@@ -67,3 +67,96 @@
 **17.**
 *Hebrew/Aramaic:* וְרַבִּי יִרְמְיָה הֵיכִי עָבֵיד הָכִי?! וְהָא אָמַר רַב יְהוּדָה אָמַר רַב: לְעוֹלָם אַל יִתְפַּלֵּל אָדָם
 *Translation:* One particular detail was surprising: **How did Rabbi Yirmeya act that way** and pray behind Rav? **Didn’t Rav Yehuda say** that **Rav said: A person should never pray**
+
+
+---
+
+### Berakhot 27b
+
+**1.**
+*Hebrew/Aramaic:* לֹא כְּנֶגֶד רַבּוֹ, וְלֹא אֲחוֹרֵי רַבּוֹ.
+*Translation:* directly **next to his rabbi,** presumptuously indicating that he is his rabbi’s equal, **and behind his rabbi** as it creates the impression that he is bowing to him (*Tosafot*)?
+
+**2.**
+*Hebrew/Aramaic:* וְתַנְיָא, רַבִּי אֱלִיעֶזֶר אוֹמֵר: הַמִּתְפַּלֵּל אֲחוֹרֵי רַבּוֹ, וְהַנּוֹתֵן שָׁלוֹם לְרַבּוֹ, וְהַמַּחֲזִיר שָׁלוֹם לְרַבּוֹ, וְהַחוֹלֵק עַל יְשִׁיבָתוֹ שֶׁל רַבּוֹ, וְהָאוֹמֵר דָּבָר שֶׁלֹּא שָׁמַע מִפִּי רַבּוֹ — גּוֹרֵם לַשְּׁכִינָה שֶׁתִּסְתַּלֵּק מִיִּשְׂרָאֵל!
+*Translation:* **And it was taught** in a *baraita*, in a more extreme manner, as **Rabbi Eliezer says: One who prays behind his rabbi and one who greets his rabbi** without waiting for his rabbi to greet him first, **one who returns his rabbi’s greeting** without saying: Greetings to you, rabbi, **one who rivals his rabbi’s yeshiva,** i.e., establishes a yeshiva of his own and teaches during his rabbi’s lifetime without his consent (Rambam), **and one who says something** in the name of his rabbi **which he did not hear directly from his rabbi, causes the Divine Presence to withdraw from Israel.**
+
+**3.**
+*Hebrew/Aramaic:* שָׁאנֵי רַבִּי יִרְמְיָה בַּר אַבָּא דְּתַלְמִיד חָבֵר הֲוָה. וְהַיְינוּ דְּקָאָמַר לֵיהּ רַבִּי יִרְמְיָה בַּר אַבָּא לְרַב: מִי בְּדַלְתְּ? אָמַר לֵיהּ: אִין, בְּדֵילְנָא, וְלָא אֲמַר ״מִי בְּדֵיל מָר״?
+*Translation:* With regard to Rabbi Yirmeya’s conduct, the Gemara explains that **Rabbi Yirmeya bar Abba is different,** as he was not a mere student of Rav. Rather, he **was a disciple-colleague** and was, therefore, permitted to act that way. **And that is why** on one occasion, when Rav prayed the Shabbat prayer early, **Rabbi Yirmeya bar Abba asked him: Did you distance yourself** from labor and accept the sanctity of Shabbat? **Rav said to him: Yes, I distanced myself. And** Rabbi Yirmeya **did not say to him: Did the Master distance himself,** as would have been appropriate had he merely been Rav’s student.
+
+**4.**
+*Hebrew/Aramaic:* וּמִי בְּדֵיל? וְהָאָמַר רַבִּי אָבִין: פַּעַם אַחַת הִתְפַּלֵּל רַבִּי שֶׁל שַׁבָּת בְּעֶרֶב שַׁבָּת, וְנִכְנַס לַמֶּרְחָץ, וְיָצָא וְשָׁנָה לַן פִּרְקִין, וַעֲדַיִין לֹא חָשְׁכָה! אָמַר רָבָא: הָהוּא דְּנִכְנַס לְהַזִּיעַ, וְקוֹדֶם גְּזֵירָה הֲוָה.
+*Translation:* Although Rav replied that he distanced himself from labor, **did he** indeed need to **distance himself** from labor? **Didn’t Rabbi Avin say: Once Rabbi** Yehuda HaNasi **prayed** the **Shabbat** prayer **on the eve of Shabbat** before nightfall. **He** then **entered the bathhouse and emerged and taught us our chapters** that we had learned, **and it was not yet dark. Rava said: That** is a case where he had **entered** the bathhouse **to perspire, and it was before the** Sages issued a **decree** prohibiting perspiring in a bathhouse on Shabbat.
+
+**5.**
+*Hebrew/Aramaic:* אִינִי, וְהָא אַבָּיֵי שְׁרָא לֵיהּ לְרַב דִּימִי בַּר לֵיוַאי לְכַבְרוֹיֵי סַלֵּי!
+*Translation:* The Gemara asks: **Is that so,** that he was required to refrain from labor? **Didn’t Abaye permit Rav Dimi bar Liva’ei to fumigate baskets with sulfur** even though he had already recited the Shabbat prayer, indicating that it is permitted to perform labor even after the Shabbat prayer?
+
+**6.**
+*Hebrew/Aramaic:* הַהוּא טָעוּתָא הֲוַאי.
+*Translation:* The Gemara responds: **That was an error,** as Rav Dimi did not intend to begin Shabbat early. It was a cloudy day and he mistakenly thought that the sun had set and that was why he prayed. Consequently, even though he prayed, the Shabbat prayer did not obligate him to conduct himself in accordance with the sanctity of Shabbat and he was allowed to perform labor even after his prayer.
+
+**7.**
+*Hebrew/Aramaic:* וְטָעוּתָא מִי הָדְרָא? וְהָא אָמַר אֲבִידָן: פַּעַם אַחַת נִתְקַשְּׁרוּ שָׁמַיִם בֶּעָבִים, כִּסְבוּרִים הָעָם לוֹמַר חֲשֵׁכָה הוּא, נִכְנְסוּ לְבֵית הַכְּנֶסֶת וְהִתְפַּלְּלוּ שֶׁל מוֹצָאֵי שַׁבָּת בְּשַׁבָּת. וְנִתְפַּזְּרוּ הֶעָבִים וְזָרְחָה הַחַמָּה,
+*Translation:* The Gemara goes on to ask: **Can a mistake be reversed,** enabling one to conduct himself as if he had not prayed? **Didn’t Avidan,** a student of Rabbi Yehuda HaNasi, **say: Once the sky became overcast,** leading **the people to think that it was** the **dark** of night; **they entered the synagogue and recited the** evening **prayer of the conclusion of Shabbat on Shabbat. And** later, **the clouds cleared and the sun shone,** indicating that it was still day.
+
+**8.**
+*Hebrew/Aramaic:* וּבָאוּ וְשָׁאֲלוּ אֶת רַבִּי. וְאָמַר: הוֹאִיל וְהִתְפַּלְּלוּ — הִתְפַּלְּלוּ! שָׁאנֵי צִבּוּר, דְּלָא מַטְרְחִינַן לְהוּ.
+*Translation:* **And they came and asked Rabbi** Yehuda HaNasi what they should do, **and he said: Since they have prayed, they have prayed,** and they need not pray again. Although they prayed erroneously, their mistake is not reversible and what was done remains. The Gemara responds: **A community is different** in **that we do not burden them** to pray again.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רַבִּי חִיָּיא בַּר אָבִין: רַב צַלִּי שֶׁל שַׁבָּת בְּעֶרֶב שַׁבָּת, רַבִּי יֹאשִׁיָּה מְצַלֵּי שֶׁל מוֹצָאֵי שַׁבָּת בְּשַׁבָּת. רַב צַלִּי שֶׁל שַׁבָּת בְּעֶרֶב שַׁבָּת: אוֹמֵר קְדוּשָּׁה עַל הַכּוֹס, אוֹ אֵינוֹ אוֹמֵר קְדוּשָּׁה עַל הַכּוֹס? תָּא שְׁמַע דְּאָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: מִתְפַּלֵּל אָדָם שֶׁל שַׁבָּת בְּעֶרֶב שַׁבָּת וְאוֹמֵר קְדוּשָּׁה עַל הַכּוֹס. וְהִלְכְתָא כְּווֹתֵיהּ.
+*Translation:* The Gemara continues to discuss the possibility of reciting the evening prayer early, even on Shabbat. **Rabbi Ḥiyya bar Avin said: Rav prayed** the **Shabbat** prayer **on the eve of Shabbat** before nightfall. **Rabbi Yoshiya would pray the** evening **prayer of the conclusion of Shabbat on Shabbat.** With regard to the fact that **Rav prayed** the **Shabbat** prayer **on the eve of Shabbat** before nightfall, the dilemma is raised: In those cases, did **he recite *kiddush* over the cup** of wine, **or did he not recite *kiddush* over the cup** of wine before the stars emerged? **Come and hear** a resolution to this, as **Rav Naḥman said** that **Shmuel said: One prays** the **Shabbat** prayer **on the eve of Shabbat** before nightfall **and recites *kiddush* over the cup** of wine. **And the *halakha* is in accordance with his** ruling.
+
+**10.**
+*Hebrew/Aramaic:* רַבִּי יֹאשִׁיָּה מְצַלֵּי שֶׁל מוֹצָאֵי שַׁבָּת בְּשַׁבָּת: אוֹמֵר הַבְדָּלָה עַל הַכּוֹס אוֹ אֵינוֹ אוֹמֵר הַבְדָּלָה עַל הַכּוֹס? תָּא שְׁמַע דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: מִתְפַּלֵּל אָדָם שֶׁל מוֹצָאֵי שַׁבָּת בְּשַׁבָּת וְאוֹמֵר הַבְדָּלָה עַל הַכּוֹס.
+*Translation:* A similar dilemma was raised concerning the fact that **Rabbi Yoshiya would pray the** evening **prayer of the conclusion of Shabbat on Shabbat:** After praying, while it is still Shabbat, **does he recite *havdala* over the cup** of wine **or does one not recite *havdala* over the cup** of wine? **Come and hear** a resolution to this, as **Rav Yehuda said** that **Shmuel said: One prays the** evening **prayer of the conclusion of Shabbat on Shabbat and recites *havdala* over the cup** of wine.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַבִּי זֵירָא אָמַר רַבִּי אַסִּי אָמַר רַבִּי אֶלְעָזָר אָמַר רַבִּי חֲנִינָא אָמַר רַב: בְּצַד עַמּוּד זֶה הִתְפַּלֵּל רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי שֶׁל שַׁבָּת בְּעֶרֶב שַׁבָּת
+*Translation:* **Rabbi Zeira said** that **Rabbi Asi said** that **Rabbi Elazar said** that **Rabbi Ḥanina said** that **Rav said: Alongside this** specific **pillar** before me, **Rabbi Yishmael, son of Rabbi Yosei, prayed** the **Shabbat** prayer **on the eve of Shabbat** before nightfall.
+
+**12.**
+*Hebrew/Aramaic:* כִּי אֲתָא עוּלָּא אָמַר: בְּצַד תְּמָרָה הֲוָה, וְלֹא בְּצַד עַמּוּד הֲוָה. וְלֹא רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי הֲוָה, אֶלָּא רַבִּי אֶלְעָזָר בְּרַבִּי יוֹסֵי הֲוָה, וְלֹא שֶׁל שַׁבָּת בְּעֶרֶב שַׁבָּת הֲוָה, אֶלָּא שֶׁל מוֹצָאֵי שַׁבָּת בְּשַׁבָּת הֲוָה.
+*Translation:* **But when Ulla came** from the Eretz Yisrael to Babylonia, he related a different version of this story. **He said** that he had heard: This transpired **beside a palm tree, not beside a pillar, and it was not Rabbi Yishmael, son of Rabbi Yosei, but** it was **Rabbi Elazar, son of Rabbi Yosei, and it was not** the **Shabbat** prayer **on Shabbat eve** before nightfall, **rather** it was the **prayer of the conclusion of Shabbat on Shabbat.**
+
+**13.**
+*Hebrew/Aramaic:* תְּפִלַּת הָעֶרֶב אֵין לָהּ קֶבַע. מַאי אֵין לָהּ קֶבַע? אִילֵּימָא דְּאִי בָּעֵי מְצַלֵּי כּוּלֵּיהּ לֵילְיָא, לִיתְנֵי ״תְּפִלַּת הָעֶרֶב כׇּל הַלַּיְלָה״! אֶלָּא מַאי אֵין לָהּ קֶבַע —
+*Translation:* We learned in the mishna: **The evening prayer** may be recited throughout the night and **is not fixed** to a specific hour. The Gemara asks: **What is the meaning of is not fixed? If you say that if** one **wishes, he may pray throughout the night,** then **let** the mishna **teach: The evening prayer** may be recited **throughout the night. Rather, what is** the meaning of **not fixed?**
+
+**14.**
+*Hebrew/Aramaic:* כְּמַאן דְּאָמַר, תְּפִלַּת עַרְבִית רְשׁוּת. דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: תְּפִלַּת עַרְבִית: רַבָּן גַּמְלִיאֵל אוֹמֵר חוֹבָה, רַבִּי יְהוֹשֻׁעַ אוֹמֵר רְשׁוּת. אָמַר אַבָּיֵי: הֲלָכָה כְּדִבְרֵי הָאוֹמֵר חוֹבָה. וְרָבָא אָמַר: הֲלָכָה כְּדִבְרֵי הָאוֹמֵר רְשׁוּת.
+*Translation:* It is **in accordance with** the opinion of **the one who said: The evening prayer is optional.** As **Rav Yehuda said** that **Shmuel said** with regard to **the evening prayer. Rabban Gamliel says:** It is **obligatory. Rabbi Yehoshua says:** It is **optional. Abaye said: The *halakha* is in accordance with the statement of the one who said:** The evening prayer is **obligatory. Rava said: The *halakha* is in accordance with the statement of the one who said:** The evening prayer is **optional.**
+
+**15.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: מַעֲשֶׂה בְּתַלְמִיד אֶחָד שֶׁבָּא לִפְנֵי רַבִּי יְהוֹשֻׁעַ. אָמַר לוֹ: תְּפִלַּת עַרְבִית רְשׁוּת אוֹ חוֹבָה? אָמַר לֵיהּ: רְשׁוּת.
+*Translation:* **The Sages taught:** There was **an incident involving a student, who came before Rabbi Yehoshua.** The student **said to him: Is the evening prayer optional or obligatory?** Rabbi Yehoshua **said to him: Optional.**
+
+**16.**
+*Hebrew/Aramaic:* בָּא לִפְנֵי רַבָּן גַּמְלִיאֵל, אָמַר לוֹ: תְּפִלַּת עַרְבִית רְשׁוּת אוֹ חוֹבָה? אָמַר לוֹ: חוֹבָה. אָמַר לוֹ: וַהֲלֹא רַבִּי יְהוֹשֻׁעַ אָמַר לִי רְשׁוּת?! אָמַר לוֹ: הַמְתֵּן עַד שֶׁיִּכָּנְסוּ בַּעֲלֵי תְּרִיסִין לְבֵית הַמִּדְרָשׁ.
+*Translation:* The same student **came before Rabban Gamliel and said to him: Is the evening prayer optional or obligatory?** Rabban Gamliel **said to him: Obligatory.** The student **said to** Rabban Gamliel: **But didn’t Rabbi Yehoshua tell me** that the evening prayer is **optional?** Rabban Gamliel **said to** the student: **Wait until the “masters of the shields,”** a reference to the Torah scholars who battle in the war of Torah, **enter the study hall,** at which point we will discuss this issue.
+
+**17.**
+*Hebrew/Aramaic:* כְּשֶׁנִּכְנְסוּ בַּעֲלֵי תְּרִיסִין, עָמַד הַשּׁוֹאֵל וְשָׁאַל: תְּפִלַּת עַרְבִית רְשׁוּת אוֹ חוֹבָה? אָמַר לוֹ רַבָּן גַּמְלִיאֵל: חוֹבָה. אָמַר לָהֶם רַבָּן גַּמְלִיאֵל לַחֲכָמִים: כְּלוּם יֵשׁ אָדָם שֶׁחוֹלֵק בְּדָבָר זֶה? אָמַר לֵיהּ רַבִּי יְהוֹשֻׁעַ: לָאו. אָמַר לוֹ: וַהֲלֹא מִשִּׁמְךָ אָמְרוּ לִי רְשׁוּת!
+*Translation:* **When the masters of the shields entered, the questioner stood** before everyone present **and asked: Is the evening prayer optional or obligatory? Rabban Gamliel said to him: Obligatory.** In order to ascertain whether or not Rabbi Yehoshua still maintained his opinion, **Rabban Gamliel said to** the Sages: **Is there any person who disputes this matter? Rabbi Yehoshua said to him: No,** no one disagrees. In deference to the *Nasi*, he did not wish to argue with him publicly (*Tziyyun LeNefesh Ḥayya*). Rabban Gamliel **said to** Rabbi Yehoshua: **But was it not in your name that they told me** that the evening prayer is **optional?**
+
+**18.**
+*Hebrew/Aramaic:* אָמַר לֵיהּ: יְהוֹשֻׁעַ, עֲמוֹד עַל רַגְלֶיךָ וְיָעִידוּ בְּךָ. עָמַד רַבִּי יְהוֹשֻׁעַ עַל רַגְלָיו וְאָמַר אִלְמָלֵא אֲנִי חַי וְהוּא מֵת — יָכוֹל הַחַי לְהַכְחִישׁ אֶת הַמֵּת. וְעַכְשָׁיו שֶׁאֲנִי חַי וְהוּא חַי — הֵיאַךְ יָכוֹל הַחַי לְהַכְחִישׁ אֶת הַחַי?
+*Translation:* Rabban Gamliel **said to** Rabbi Yehoshua: **Yehoshua, stand on your feet and they will testify against you. Rabbi Yehoshua stood on his feet and said: If I were alive and** the student **were dead, the living can contradict the dead,** and I could deny issuing that ruling. **Now that I am alive and he is alive, how can the living contradict the living?** I have no choice but to admit that I said it.
+
+**19.**
+*Hebrew/Aramaic:* הָיָה רַבָּן גַּמְלִיאֵל יוֹשֵׁב וְדוֹרֵשׁ וְרַבִּי יְהוֹשֻׁעַ עוֹמֵד עַל רַגְלָיו, עַד שֶׁרִנְּנוּ כׇּל הָעָם וְאָמְרוּ לְחוּצְפִּית הַתּוּרְגְּמָן: עֲמוֹד! וְעָמַד.
+*Translation:* In the meantime, **Rabban Gamliel,** as the *Nasi*, **was sitting and lecturing, and Rabbi Yehoshua** all the while **was standing on his feet,** because Rabban Gamliel did not instruct him to sit. He remained standing in deference to the *Nasi*. This continued for some time, **until** it aroused great resentment against Rabban Gamliel, and **all of the people** assembled began **murmuring and said to Ḥutzpit the disseminator: Stop** conveying Rabban Gamliel’s lecture. **And he stopped.**
+
+**20.**
+*Hebrew/Aramaic:* אָמְרִי: עַד כַּמָּה נְצַעֲרֵיהּ וְנֵיזִיל, בְּרֹאשׁ הַשָּׁנָה אֶשְׁתָּקַד צַעֲרֵיהּ. בִּבְכוֹרוֹת בְּמַעֲשֵׂה דְרַבִּי צָדוֹק צַעֲרֵיהּ. הָכָא נָמֵי צַעֲרֵיהּ, תָּא וְנַעְבְּרֵיהּ!
+*Translation:* The Gemara relates that in their murmuring **they said: How long will** Rabban Gamliel **continue afflicting him? Last year on Rosh HaShana, he afflicted him;** Rabban Gamliel ordered Rabbi Yehoshua to come to him carrying his staff and bag, on the day on which Yom Kippur occurred, according to Rabbi Yehoshua’s calculations. **Regarding the firstborn, in the incident** involving the question **of Rabbi Tzadok, he afflicted him** just as he did now, and forced him to remain standing as punishment for his failure to defend his differing opinion. **Here too, he is afflicting him. Let us remove him** from his position as *Nasi*.
+
+**21.**
+*Hebrew/Aramaic:* מַאן נוֹקֵים לֵיהּ? נוֹקְמֵיהּ לְרַבִּי יְהוֹשֻׁעַ — בַּעַל מַעֲשֶׂה הוּא. נוֹקְמֵיהּ לְרַבִּי עֲקִיבָא — דִּילְמָא עָנֵישׁ לֵיהּ, דְּלֵית לֵיהּ זְכוּת אָבוֹת.
+*Translation:* It was so agreed, but the question arose: **Whom shall we establish** in his place? Shall we **establish Rabbi Yehoshua** in his place? The Sages rejected that option because Rabbi Yehoshua **was party to the incident** for which Rabban Gamliel was deposed. Appointing him would be extremely upsetting for Rabban Gamliel. Shall we **establish Rabbi Akiva** in his place? The Sages rejected that option because Rabbi Akiva, who descended from a family of converts, would be vulnerable. **Perhaps** due to Rabban Gamliel’s resentment he **would** cause **him** to be divinely **punished as he lacks the merit of his ancestors** to protect him.
+
+**22.**
+*Hebrew/Aramaic:* אֶלָּא נוֹקְמֵיהּ לְרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה, דְּהוּא חָכָם, וְהוּא עָשִׁיר, וְהוּא עֲשִׂירִי לְעֶזְרָא. הוּא חָכָם — דְּאִי מַקְשֵׁי לֵיהּ, מְפָרֵק לֵיהּ. וְהוּא עָשִׁיר — דְּאִי אִית לֵיהּ לְפַלּוֹחֵי לְבֵי קֵיסָר, אַף הוּא אָזֵל וּפָלַח. וְהוּא עֲשִׂירִי לְעֶזְרָא — דְּאִית לֵיהּ זְכוּת אָבוֹת, וְלָא מָצֵי עָנֵישׁ לֵיהּ. אֲתוֹ וַאֲמַרוּ לֵיהּ: נִיחָא לֵיהּ לְמָר דְּלֶיהְוֵי רֵישׁ מְתִיבְתָּא? אֲמַר לְהוּ: אֵיזִיל וְאִימְּלִיךְ בְּאִינָשֵׁי בֵּיתִי. אֲזַל וְאִמְּלִיךְ בִּדְבֵיתְהוּ. אֲמַרָה לֵיהּ:
+*Translation:* **Rather,** suggested the Sages, **let us establish Rabbi Elazar ben Azarya** in his place, his outstanding characteristics set him apart from the other candidates. **He is wise, rich, and a tenth** generation descendant **of Ezra.** The Gemara explains: **He is wise, so if** Rabban Gamliel raises a **challenge** in matters of Torah, **he will answer it** and not be embarrassed. **And he is rich, so if the need** arises **to pay homage to the Caesar’s court** and serve as a representative of Israel to lobby and negotiate, he has sufficient wealth to cover the costs of the long journeys, taxes, and gifts, so **he too is able to go and pay homage. And he is** a **tenth** generation descendant **of Ezra, so he has the merit of his ancestors, and** Rabban Gamliel **will be unable to** cause **him** to be **punished. They came and said to him: Would the Master consent to being the Head of the Yeshiva? He said to them: I will go and consult with my household. He went and consulted with his wife. She said to him:**

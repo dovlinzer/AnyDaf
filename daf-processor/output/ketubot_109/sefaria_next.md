@@ -83,3 +83,108 @@
 **21.**
 *Hebrew/Aramaic:* מַתְנִי׳ שָׁלֹשׁ אֲרָצוֹת לְנִשּׂוּאִין: יְהוּדָה וְעֵבֶר הַיַּרְדֵּן וְהַגָּלִיל — אֵין מוֹצִיאִין מֵעִיר לָעִיר וּמִכְּרַךְ לִכְרַךְ. אֲבָל בְּאוֹתָהּ הָאָרֶץ — מוֹצִיאִין מֵעִיר לְעִיר וּמִכְּרַךְ לִכְרַךְ.
 *Translation:* MISHNA: Eretz Yisrael is divided into **three** separate **lands** with regard **to marriage: Judea, Transjordan, and the Galilee.** If a man marries a woman in one of these lands he may **not remove** her **from** one **town to** another **town** in another of these lands or **from** one **city to** another **city,** i.e., he cannot compel her to move to another land. **However, in the same land one may remove her from** one **town to** another **town** or **from** one **city to** another **city.**
+
+
+---
+
+### Ketubot 110b
+
+**1.**
+*Hebrew/Aramaic:* אֲבָל לֹא מֵעִיר לִכְרַךְ, וְלֹא מִכְּרַךְ לְעִיר.
+*Translation:* **However,** even within the same land one may **not** force his wife to move **from a town to a city, nor from a city to a town.**
+
+**2.**
+*Hebrew/Aramaic:* מוֹצִיאִין מִנָּוֶה הָרַע(ה) לְנָוֶה הַיָּפֶה, אֲבָל לֹא מִנָּוֶה הַיָּפֶה לְנָוֶה הָרַע(ה). רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אַף לֹא מִנָּוֶה רַע(ה) לְנָוֶה יָפֶה, מִפְּנֵי שֶׁהַנָּוֶה הַיָּפֶה בּוֹדֵק.
+*Translation:* The mishna adds: **One may remove** his wife **from a noxious residence to a pleasant residence,** even if it is in another land. **However,** one may **not** compel his wife to move **from a pleasant residence to a noxious residence. Rabban Shimon ben Gamliel says:** One may **also not** remove her **from a noxious residence to a pleasant residence, because a pleasant residence tests** the individual, i.e., one accustomed to certain environments can suffer even in more comfortable living quarters.
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ בִּשְׁלָמָא מִכְּרַךְ לָעִיר — דְּבִכְרַךְ שְׁכִיחִי כֹּל מִילֵּי, בְּעִיר לָא שְׁכִיחִי כֹּל מִילֵּי. אֶלָּא מֵעִיר לִכְרַךְ מַאי טַעְמָא?
+*Translation:* GEMARA: With regard to the statement in the mishna that one may not force one’s spouse to move from a city to a town or from a town to a city, the Gemara asks: **Granted,** one may not remove her **from a city to a town, as all items are** readily **available in a city,** whereas **in a town all items are not** as **available,** and therefore the wife can argue that living in a town is inconvenient for her. **However, what is the reason** that the husband cannot compel her to move **from a town to the city?**
+
+**4.**
+*Hebrew/Aramaic:* מְסַיַּיע לֵיהּ לְרַבִּי יוֹסֵי בַּר חֲנִינָא. דְּאָמַר רַבִּי יוֹסֵי בַּר חֲנִינָא: מִנַּיִן שֶׁיְּשִׁיבַת כְּרַכִּים קָשָׁה, שֶׁנֶּאֱמַר: ״וַיְבָרְכוּ הָעָם לְכֹל הָאֲנָשִׁים הַמִּתְנַדְּבִים לָשֶׁבֶת בִּירוּשָׁלִָים״.
+*Translation:* The Gemara answers: **This supports** the opinion of **Rabbi Yosei bar Ḥanina, as Rabbi Yosei bar Ḥanina said: From where** is it derived **that dwelling in cities is difficult? As it is stated: “And the people blessed all the men who willingly offered themselves to dwell in Jerusalem”** (Nehemiah 11:2). This shows that living in a city is difficult, due to the noise and the general hubbub of an urban area.
+
+**5.**
+*Hebrew/Aramaic:* רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר כּוּ׳. מַאי ״בּוֹדֵק״? כְּדִשְׁמוּאֵל. דְּאָמַר שְׁמוּאֵל: שִׁינּוּי וֶסֶת תְּחִלַּת חוֹלִי מֵעַיִם. כָּתוּב בְּסֵפֶר בֶּן סִירָא: ״כׇּל יְמֵי עָנִי רָעִים״. וְהָאִיכָּא שַׁבָּתוֹת וְיָמִים טוֹבִים? כְּדִשְׁמוּאֵל. דְּאָמַר שְׁמוּאֵל: שִׁינּוּי וֶסֶת תְּחִלַּת חוֹלִי מֵעַיִם.
+*Translation:* § The mishna taught: **Rabban Shimon ben Gamliel says** that a pleasant residence tests the individual. The Gemara asks: **What** is the meaning of the term **tests** in this context? The Gemara explains: **This is in accordance with** the opinion of **Shmuel, as Shmuel said: A change in** one’s eating **habits [*veset*]** or in one’s place of residence is **the start of intestinal disease.** Similarly, **it is written in *Sefer Ben Sira*: All the days of the poor are terrible. And** yet **there are *Shabbatot* and Festivals,** when even the poor eat well. Once again, the Gemara answers: **This is in accordance with** the opinion of **Shmuel, as Shmuel said: A change in** one’s eating **habits** or in one’s place of residence is **the start of intestinal disease,** and as a result the poor suffer even from a change for the better.
+
+**6.**
+*Hebrew/Aramaic:* בֶּן סִירָא אוֹמֵר: ״אַף לֵילוֹת, בִּשְׁפַל גַּגִּים גַּגּוֹ, וּבִמְרוֹם הָרִים כַּרְמוֹ, מִמְּטַר גַּגִּים לְגַגּוֹ, וּמֵעֲפַר כַּרְמוֹ לִכְרָמִים״.
+*Translation:* Since the Gemara quoted from *Sefer Ben Sira*, it cites the rest of the passage concerning the terrible days of the poor. **Ben Sira says: Even the nights** of the poor are bad. **His roof is at the low point of the roofs,** i.e., his residence is at the lowest point in the city, **and his vineyard is at the mountain peaks,** at the highest point of the slope, which means that **the rain of roofs** washes down **to his roof, and the soil of his vineyard to** other **vineyards,** i.e., the rain washes away the soil in his vineyard and carries it away to the vineyards below.
+
+**7.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַכֹּל מַעֲלִין לְאֶרֶץ יִשְׂרָאֵל, וְאֵין הַכֹּל מוֹצִיאִין. הַכֹּל מַעֲלִין לִירוּשָׁלַיִם, וְאֵין הַכֹּל מוֹצִיאִין. אֶחָד הָאֲנָשִׁים וְאֶחָד הַנָּשִׁים.
+*Translation:* MISHNA: **All** may force their family **to ascend to Eretz Yisrael,** i.e., one may compel his family and household to immigrate to Eretz Yisrael, **but all may not remove** others from Eretz Yisrael, as one may not coerce one’s family to leave. Likewise, **all** may force their family **to ascend to Jerusalem, and all may not,** i.e., no one may, **remove** them from Jerusalem. **Both men and women** may force the other spouse to immigrate to Eretz Yisrael or to move to Jerusalem.
+
+**8.**
+*Hebrew/Aramaic:* נָשָׂא אִשָּׁה בְּאֶרֶץ יִשְׂרָאֵל וְגֵרְשָׁהּ בְּאֶרֶץ יִשְׂרָאֵל — נוֹתֵן לָהּ מִמְּעוֹת אֶרֶץ יִשְׂרָאֵל. נָשָׂא אִשָּׁה בְּאֶרֶץ יִשְׂרָאֵל וְגֵרְשָׁהּ בְּקַפּוֹטְקְיָא — נוֹתֵן לָהּ מִמְּעוֹת אֶרֶץ יִשְׂרָאֵל. נָשָׂא אִשָּׁה בְּקַפּוֹטְקְיָא וְגֵרְשָׁהּ בְּאֶרֶץ יִשְׂרָאֵל — נוֹתֵן לָהּ מִמְּעוֹת אֶרֶץ יִשְׂרָאֵל. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: נוֹתֵן לָהּ מִמְּעוֹת קַפּוֹטְקְיָא. נָשָׂא אִשָּׁה בְּקַפּוֹטְקְיָא וְגֵרְשָׁהּ בְּקַפּוֹטְקְיָא — נוֹתֵן לָהּ מִמְּעוֹת קַפּוֹטְקְיָא.
+*Translation:* The mishna lists other halakhic distinctions between various geographic locations: If one **married a woman in Eretz Yisrael and divorced her in Eretz Yisrael,** and the currency of the sum in the marriage contract was not specified, **he gives her** the sum of her marriage contract **in the currency of Eretz Yisrael.** If one **married a woman in Eretz Yisrael and divorced her in Cappadocia,** where the currency holds greater value, **he gives her the currency of Eretz Yisrael.** If one **married a woman in Cappadocia and divorced her in Eretz Yisrael, he** likewise **gives her the currency of Eretz Yisrael. Rabban Shimon ben Gamliel says: He gives her the currency of Cappadocia.** Everyone agrees that if one **married a woman in Cappadocia and divorced her in Cappadocia, he gives her the currency of Cappadocia.**
+
+**9.**
+*Hebrew/Aramaic:* גְּמָ׳ ״הַכֹּל מַעֲלִין״ לְאֵתוֹיֵי מַאי? לְאֵתוֹיֵי עֲבָדִים.
+*Translation:* GEMARA: The mishna stated: **All** can force the members of their family **to ascend.** The Gemara asks: This inclusive phrase serves **to include what** case? The Gemara answers: It comes **to include slaves,** i.e., Hebrew slaves as well may be coerced to immigrate to Eretz Yisrael with their master’s family against their will.
+
+**10.**
+*Hebrew/Aramaic:* וּלְמַאן דְּתָנֵי עֲבָדִים בְּהֶדְיָא, לְאֵתוֹיֵי מַאי? לְאֵתוֹיֵי מִנָּוֶה הַיָּפֶה לְנָוֶה הָרַע(ה).
+*Translation:* The Gemara asks: **And according to the one** whose text of the mishna **expressly teaches** the case of **slaves,** this phrase comes **to include what** case? As stated later in the Gemara, there are some editions of the mishna that state that this *halakha* applies equally to men, women, and slaves. The Gemara answers: It comes **to include** one who moves **from a pleasant residence to a noxious residence,** i.e., one may coerce his family to ascend to Eretz Yisrael even from a good residence abroad to an inferior one in Eretz Yisrael.
+
+**11.**
+*Hebrew/Aramaic:* ״וְאֵין הַכֹּל מוֹצִיאִין״ לְאֵתוֹיֵי מַאי? לְאֵתוֹיֵי עֶבֶד שֶׁבָּרַח מֵחוּצָה לָאָרֶץ לָאָרֶץ, דְּאָמְרִינַן לֵיהּ: זַבְּנֵיהּ הָכָא וְזִיל, מִשּׁוּם יְשִׁיבַת אֶרֶץ יִשְׂרָאֵל.
+*Translation:* § The mishna further taught: **But all may not remove** others. Once again the Gemara asks: This phrase comes **to include what** case? The Gemara answers: It comes **to include a** Canaanite **slave who ran away** from his master and came **from outside Eretz** Yisrael **to Eretz** Yisrael, **as we say to** the master: **Sell** your slave **here,** in Eretz Yisrael, **and** then you may **go** and return abroad, but you may not take the slave abroad with you, **due to** the mitzva of **settling Eretz Yisrael.**
+
+**12.**
+*Hebrew/Aramaic:* ״הַכֹּל מַעֲלִין לִירוּשָׁלַיִם״ לְאֵתוֹיֵי מַאי? לְאֵתוֹיֵי מִנָּוֶה הַיָּפֶה לְנָוֶה הָרַע(ה).
+*Translation:* § The mishna taught: **All** may force others **to ascend to Jerusalem.** The Gemara asks once again: This phrase comes **to include what** case? The Gemara answers: It comes **to include** a move **from a pleasant residence** elsewhere in Eretz Yisrael **to a noxious residence** in Jerusalem.
+
+**13.**
+*Hebrew/Aramaic:* ״וְאֵין הַכֹּל מוֹצִיאִין״ לְאֵתוֹיֵי מַאי? לְאֵתוֹיֵי אֲפִילּוּ מִנָּוֶה הָרַע(ה) לְנָוֶה הַיָּפֶה. וְאַיְּידֵי דִּתְנָא רֵישָׁא ״אֵין מוֹצִיאִין״, תְּנָא סֵיפָא נָמֵי ״אֵין מוֹצִיאִין״.
+*Translation:* § The mishna taught: **And all may not remove** them from Jerusalem. The Gemara asks: This phrase comes **to include what** case? The Gemara answers: It comes **to include even** a move **from a noxious residence to a pleasant residence.** The Gemara adds: **And since** the *tanna* of the mishna **taught: But one may not remove, in the first clause, he also taught: But one may not remove, in the latter clause,** despite the fact that this *halakha* could have been inferred from the first clause.
+
+**14.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: הוּא אוֹמֵר לַעֲלוֹת, וְהִיא אוֹמֶרֶת שֶׁלֹּא לַעֲלוֹת — כּוֹפִין אוֹתָהּ לַעֲלוֹת, וְאִם לָאו — תֵּצֵא בְּלֹא כְּתוּבָּה. הִיא אוֹמֶרֶת לַעֲלוֹת, וְהוּא אוֹמֵר שֶׁלֹּא לַעֲלוֹת — כּוֹפִין אוֹתוֹ לַעֲלוֹת, וְאִם לָאו — יוֹצִיא וְיִתֵּן כְּתוּבָּה.
+*Translation:* § **The Sages taught:** If the husband **says** that he wishes **to ascend,** i.e., to immigrate to Eretz Yisrael, **and** his wife **says that** she does **not** wish **to ascend, one forces her to ascend. And if** she will **not** do so, as she resists all attempts to force her to make the move, **she is divorced without** receiving her **marriage contract,** i.e., she forfeits her rights to the benefits outlined in the marriage contract. If **she says** that she wishes **to ascend** to Eretz Yisrael **and he says that** he does **not** wish **to ascend, one forces him to ascend. And if** he does **not** wish to immigrate, **he must divorce** her **and give** her **the marriage contract.**
+
+**15.**
+*Hebrew/Aramaic:* הִיא אוֹמֶרֶת לָצֵאת, וְהוּא אוֹמֵר שֶׁלֹּא לָצֵאת — כּוֹפִין אוֹתָהּ שֶׁלֹּא לָצֵאת, וְאִם לָאו — תֵּצֵא בְּלֹא כְּתוּבָּה. הוּא אוֹמֵר לָצֵאת, וְהִיא אוֹמֶרֶת שֶׁלֹּא לָצֵאת — כּוֹפִין אוֹתוֹ שֶׁלֹּא לָצֵאת, וְאִם לָאו — יוֹצִיא וְיִתֵּן כְּתוּבָּה.
+*Translation:* If **she says** that she wishes **to leave** Eretz Yisrael, **and he says that** he does **not** wish **to leave, one forces her not to leave. And if** she does **not** wish to stay in Eretz Yisrael and resists all attempts to force her to stay, **she is divorced without** receiving her **marriage contract.** If **he says** that he wishes **to leave** Eretz Yisrael **and she says that** she does **not** wish **to leave, one forces him not to leave. And if** he does **not** wish to stay in Eretz Yisrael, **he must divorce** her **and give** her **the marriage contract.**
+
+**16.**
+*Hebrew/Aramaic:* נָשָׂא אִשָּׁה כּוּ׳. הָא גּוּפַהּ קַשְׁיָא:
+*Translation:* § The mishna taught that if **one married a woman** in Eretz Yisrael and divorced her in Cappadocia, he must pay her the marriage contract in the currency of Eretz Yisrael. The same is true if he married her in Cappadocia and divorced her in Eretz Yisrael. The Gemara asks: **This matter itself is difficult,** i.e., there is an internal contradiction in the rulings provided by the mishna.
+
+**17.**
+*Hebrew/Aramaic:* קָתָנֵי: נָשָׂא אִשָּׁה בְּאֶרֶץ יִשְׂרָאֵל וְגֵרְשָׁהּ בְּקַפּוֹטְקְיָא, נוֹתֵן לָהּ מִמְּעוֹת אֶרֶץ יִשְׂרָאֵל — אַלְמָא בָּתַר שִׁיעְבּוּדָא אָזְלִינַן. אֵימָא סֵיפָא: נָשָׂא אִשָּׁה בְּקַפּוֹטְקְיָא וְגֵרְשָׁהּ בְּאֶרֶץ יִשְׂרָאֵל, נוֹתֵן לָהּ מִמְּעוֹת אֶרֶץ יִשְׂרָאֵל — אַלְמָא בָּתַר גּוּבְיָינָא אָזְלִינַן!
+*Translation:* The Gemara elaborates: The mishna first **teaches** that if one **married a woman in Eretz Yisrael and divorced her in Cappadocia, he gives her the currency of Eretz Yisrael. Apparently, one follows** the customs of the place of the **lien,** i.e., he pays with the currency of the location of the wedding, where the obligation came into force. Now, **say the latter clause** of the mishna: If one **married a woman in Cappadocia and divorced her in Eretz Yisrael, he** likewise **gives her currency of Eretz Yisrael. Apparently, one follows** the place of **the collection** of the money.
+
+**18.**
+*Hebrew/Aramaic:* אָמַר רַבָּה: מִקּוּלֵּי כְתוּבָּה שָׁנוּ כָּאן. קָסָבַר כְּתוּבָּה דְּרַבָּנַן.
+*Translation:* **Rabba said:** The Sages **taught here** one **of the leniencies** that apply to **a marriage contract.** The leniency is that the husband pays with the less valuable currency of Eretz Yisrael in both cases, whether the wedding or the divorce occurred there. This is because the *tanna* of this mishna **holds** that **a marriage contract** applies **by rabbinic** law.
+
+**19.**
+*Hebrew/Aramaic:* רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: נוֹתֵן לָהּ מִמְּעוֹת קַפּוֹטְקְיָא. קָסָבַר כְּתוּבָּה דְּאוֹרָיְיתָא.
+*Translation:* § The mishna taught that **Rabban Shimon ben Gamliel says** that if one married a woman in Cappadocia and divorced her in Eretz Yisrael, **he** pays her the marriage contract **in the currency of Cappadocia.** The Gemara explains that Rabban Shimon ben Gamliel **holds** that **a marriage contract** applies **by Torah** law, which means that its debt must be paid according to its highest possible value. Consequently, one follows the place in which the obligation was formed, which is the *halakha* for all deeds and contracts, and there is no room for leniency in this matter.
+
+**20.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: הַמּוֹצִיא שְׁטַר חוֹב עַל חֲבֵירוֹ, כָּתוּב בּוֹ בָּבֶל — מַגְבֵּהוּ מִמְּעוֹת בָּבֶל, כָּתוּב בּוֹ אֶרֶץ יִשְׂרָאֵל — מַגְבֵּהוּ מִמְּעוֹת אֶרֶץ יִשְׂרָאֵל. כָּתוּב בּוֹ סְתָם, הוֹצִיאוֹ בְּבָבֶל — מַגְבֵּהוּ מִמְּעוֹת בָּבֶל, הוֹצִיאוֹ בְּאֶרֶץ יִשְׂרָאֵל — מַגְבֵּהוּ מִמְּעוֹת אֶרֶץ יִשְׂרָאֵל. כָּתוּב בּוֹ כֶּסֶף סְתָם — מַה שֶּׁיִּרְצֶה לֹוֶה מַגְבֵּהוּ. מַה שֶּׁאֵין כֵּן בִּכְתוּבָּה.
+*Translation:* § **The Sages taught:** With regard to **one who produces a promissory note against another,** if **Babylonia is written in it, he pays it with the currency of Babylonia;** if **Eretz Yisrael is written in it, he pays it with currency of Eretz Yisrael.** In a case where it is **written without specification** as to where the document was written, if **he produced it in Babylonia he pays it with the currency of Babylonia** and if **he produced it in Eretz Yisrael he pays it with currency of Eretz Yisrael.** If the note **mentions money without specification** of what type of coins are to be used, **the borrower may pay it with any** type of coin **he likes,** even the smallest denomination available. However, **this is not** the case with regard **to a marriage contract.**
+
+**21.**
+*Hebrew/Aramaic:* אַהֵיָיא? אָמַר רַב מְשַׁרְשְׁיָא: אַרֵישָׁא, לְאַפּוֹקֵי מִדְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, דְּאָמַר כְּתוּבָּה דְּאוֹרָיְיתָא.
+*Translation:* The Gemara asks: With regard to this last statement, that this is not the case with regard to a marriage contract: **To which** part of the *baraita* is this referring? **Rav Mesharshiyya said:** It is referring back to **the first clause,** that if the promissory note mentions Babylonia one pays with Babylonian currency. This indicates that one invariably pays based on the place where the document was written. The *tanna* adds that this principle does not apply to a marriage contract, as one pays based on the place where a marriage contract was written only if this would lead to a leniency, as explained above (Rid). This ruling comes **to exclude** the opinion **of Rabban Shimon ben Gamliel, who said** that that **a marriage contract** applies **by Torah** law and must always be paid in the currency of the place in which the obligation was first formed.
+
+**22.**
+*Hebrew/Aramaic:* כָּתוּב בּוֹ כֶּסֶף סְתָם — מַה שֶּׁיִּרְצֶה לֹוֶה מַגְבֵּהוּ. וְאֵימָא נְסָכָא? אָמַר רַבִּי אֶלְעָזָר: דִּכְתִיב בֵּיהּ מַטְבֵּעַ. וְאֵימָא פְּרִיטֵי? אָמַר רַב פָּפָּא: פְּרִיטֵי דְכַסְפָּא לָא עָבְדִי אִינָשֵׁי.
+*Translation:* § The Gemara continues to analyze the *baraita*, which teaches: If the note **mentions money [*kesef* ] without specification, the borrower may pay it with any** type of coin **he likes.** The Gemara asks: **But** can’t one **say** that perhaps the document was not speaking of coins but of silver [*kesef* ] **strips? Rabbi Elazar said:** The *baraita* is referring to a case in **which it is written in** the document: **Coins,** although it does not specify which ones. The Gemara further asks: **And** can’t one **say** that one may pay off the debt with ***perutot*,** a small denomination? **Rav Pappa said: People do not** ordinarily **mint *perutot* of silver,** as they reserve silver for larger denominations.
+
+**23.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: לְעוֹלָם יָדוּר אָדָם בְּאֶרֶץ יִשְׂרָאֵל אֲפִילּוּ בְּעִיר שֶׁרוּבָּהּ גּוֹיִם, וְאַל יָדוּר בְּחוּצָה לָאָרֶץ וַאֲפִילּוּ בְּעִיר שֶׁרוּבָּהּ יִשְׂרָאֵל, שֶׁכׇּל הַדָּר בְּאֶרֶץ יִשְׂרָאֵל דּוֹמֶה כְּמִי שֶׁיֵּשׁ לוֹ אֱלוֹהַּ, וְכׇל הַדָּר בְּחוּצָה לָאָרֶץ דּוֹמֶה כְּמִי שֶׁאֵין לוֹ אֱלוֹהַּ. שֶׁנֶּאֱמַר: ״לָתֵת לָכֶם אֶת אֶרֶץ כְּנַעַן לִהְיוֹת לָכֶם לֵאלֹהִים״.
+*Translation:* § In relation to the basic point raised by the mishna concerning living in Eretz Yisrael, **the Sages taught: A person should always reside in Eretz Yisrael, even in a city that is mostly** populated by **gentiles, and he should not reside outside** of **Eretz** Yisrael, **even in a city that is mostly** populated by **Jews.** The reason is **that anyone who resides in Eretz Yisrael is considered as one who has a God, and anyone who resides outside** of **Eretz** Yisrael **is considered as one who does not have a God. As it is stated: “To give to you the land of Canaan, to be your God”** (Leviticus 25:38).
+
+**24.**
+*Hebrew/Aramaic:* וְכֹל שֶׁאֵינוֹ דָּר בָּאָרֶץ אֵין לוֹ אֱלוֹהַּ? אֶלָּא לוֹמַר לָךְ: כׇּל הַדָּר בְּחוּצָה לָאָרֶץ כְּאִילּוּ עוֹבֵד עֲבוֹדָה זָרָה. וְכֵן בְּדָוִד הוּא אוֹמֵר: ״כִּי גֵרְשׁוּנִי הַיּוֹם מֵהִסְתַּפֵּחַ בְּנַחֲלַת ה׳ לֵאמֹר לֵךְ עֲבוֹד אֱלֹהִים אֲחֵרִים״, וְכִי מִי אָמַר לוֹ לְדָוִד לֵךְ עֲבוֹד אֱלֹהִים אֲחֵרִים? אֶלָּא לוֹמַר לָךְ: כׇּל הַדָּר בְּחוּצָה לָאָרֶץ — כְּאִילּוּ עוֹבֵד עֲבוֹדָה זָרָה.
+*Translation:* The Gemara expresses surprise: **And** can it really be said that **anyone who resides outside** of **Eretz** Yisrael **has no God? Rather,** this comes **to tell you that anyone who resides outside** of **Eretz** Yisrael **is** considered **as though he is engaged in idol worship. And so it says with regard to David: “For they have driven me out this day that I should not cleave to the inheritance of the Lord, saying: Go, serve other gods”** (I Samuel 26:19). **But who said to David: Go, serve other gods? Rather,** this comes **to tell you that anyone who resides outside** of **Eretz** Yisrael **is** considered **as though he is engaged in idol worship.**
+
+**25.**
+*Hebrew/Aramaic:* רַבִּי זֵירָא הֲוָה קָמִשְׁתְּמִיט מִינֵּיהּ דְּרַב יְהוּדָה דִּבְעָא לְמִיסַּק לְאֶרֶץ יִשְׂרָאֵל, דְּאָמַר רַב יְהוּדָה: כׇּל הָעוֹלֶה מִבָּבֶל לְאֶרֶץ יִשְׂרָאֵל עוֹבֵר בַּעֲשֵׂה, שֶׁנֶּאֱמַר:
+*Translation:* § The Gemara relates: **Rabbi Zeira was avoiding** being seen **by** his teacher, **Rav Yehuda,** as Rabbi Zeira **sought to ascend to Eretz Yisrael** and his teacher disapproved. **As Rav Yehuda said: Anyone who ascends from Babylonia to Eretz Yisrael transgresses a positive mitzva, as it is stated:**

@@ -31,3 +31,44 @@
 **8.**
 *Hebrew/Aramaic:* ״עַד הַפֶּסַח״ — אָסוּר כּוּ׳. לְמֵימְרָא דְּרַבִּי מֵאִיר סָבַר: לָא מְעַיֵּיל אִינִישׁ נַפְשֵׁיהּ
 *Translation:* § It was taught in the mishna that if one vows that wine is forbidden to him **until Passover,** he is **prohibited** from drinking wine until the Festival arrives. However, if one vows that wine is forbidden to him until before Passover, there is a dispute as to whether the vow remains in effect until the beginning or the end of the Festival. The Gemara asks: **Is this to say that Rabbi Meir,** who holds that it is prohibited only until the beginning of Passover, **maintains** that **a person does not place himself**
+
+
+---
+
+### Nedarim 61b
+
+**1.**
+*Hebrew/Aramaic:* לִסְפֵיקָא, וְרַבִּי יוֹסֵי סָבַר: מְעַיֵּיל אִינִישׁ נַפְשֵׁיהּ לִסְפֵיקָא.
+*Translation:* **in** a position of **uncertainty, and Rabbi Yosei holds** that **a person does place himself in** a position of **uncertainty?**
+
+**2.**
+*Hebrew/Aramaic:* וּרְמִינְהִי: מִי שֶׁיֵּשׁ לוֹ שְׁתֵּי כִּיתֵּי בָנוֹת מִשְׁתֵּי נָשִׁים, וְאָמַר: קִדַּשְׁתִּי אֶת בִּתִּי הַגְּדוֹלָה, וְאֵינִי יוֹדֵעַ אִם גְּדוֹלָה שֶׁבַּגְּדוֹלוֹת, אִם גְּדוֹלָה שֶׁבַּקְּטַנּוֹת, וְאִם קְטַנָּה שֶׁבַּגְּדוֹלוֹת שֶׁהִיא גְּדוֹלָה מִן הַגְּדוֹלָה שֶׁבַּקְּטַנּוֹת — כּוּלָּן אֲסוּרוֹת, דִּבְרֵי רַבִּי מֵאִיר. חוּץ מִן הַקְּטַנָּה שֶׁבַּקְּטַנּוֹת.
+*Translation:* The Gemara **raises a contradiction** from the following mishna (*Kiddushin* 64b): In the case of **one who has two groups** of two **daughters** born to him **from two women,** e.g., he has two daughters from his first wife, and after his first wife died he remarried and had two daughters with his second wife, **and he said: I betrothed my older daughter** to someone, **but I do not know if** I meant the **older of the older** group of daughters; or **if** I meant **the older** daughter **of the younger** group; **or if** I meant the **younger** daughter **of the older** group, **who is** nevertheless **older than the older** daughter **of the younger** group, then **all** three of those daughters **are prohibited** to marry another man due to the uncertainty, as he failed to clarify which daughter was betrothed. This applies to all the daughters **apart from the younger** daughter **of the younger** group, who is certainly not betrothed. This is **the statement of Rabbi Meir.**
+
+**3.**
+*Hebrew/Aramaic:* רַבִּי יוֹסֵי אוֹמֵר: כּוּלָּן מוּתָּרוֹת, חוּץ מִן הַגְּדוֹלָה שֶׁבַּגְּדוֹלוֹת.
+*Translation:* **Rabbi Yosei says: They are all permitted** to marry, **apart from the older** daughter **of the older** group. This demonstrates that according to Rabbi Meir, one must take into account any of the possible meanings of the imprecise expression: My older daughter, whereas Rabbi Yosei maintains that only the narrowest possible meaning of the phrase is taken into account. This contradicts the mishna here.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַבִּי חֲנִינָא בַּר אַבְדִּימִי אָמַר רַב: מוּחְלֶפֶת הַשִּׁיטָה. וְהָתַנְיָא, זֶה הַכְּלָל: כֹּל שֶׁזְּמַנּוֹ קָבוּעַ וְאָמַר ״עַד לִפְנֵי״ — רַבִּי מֵאִיר אוֹמֵר: עַד שֶׁיֵּצֵא, וְרַבִּי יוֹסֵי אוֹמֵר: עַד שֶׁיַּגִּיעַ.
+*Translation:* In response to this question, **Rabbi Ḥanina bar Avdimi said** that **Rav said: The** attribution of the **opinions is reversed,** i.e., the views stated in the mishna here must be reversed in order to reconcile them with the mishna in *Kiddushin*. **And it is** indeed **taught** in a *baraita* that **this is the principle:** With regard to **any** vow which specifies **a fixed time,** i.e., an event that occurs on a particular date, and one **said** that the vow applies **until before** that event, **Rabbi Meir says** the vow applies **until** the event **ends, and Rabbi Yosei says** that the vow is in effect only **until** the event **arrives.** This is another proof that the opinions in the mishna here must be reversed.
+
+**5.**
+*Hebrew/Aramaic:* מַתְנִי׳ ״עַד הַקָּצִיר״, ״עַד הַבָּצִיר״, ״עַד הַמָּסִיק״ — אֵינוֹ אָסוּר אֶלָּא עַד שֶׁיַּגִּיעַ. זֶה הַכְּלָל: כֹּל שֶׁזְּמַנּוֹ קָבוּעַ, וְאָמַר: ״עַד שֶׁיַּגִּיעַ״ — אָסוּר עַד שֶׁיַּגִּיעַ. אָמַר: ״עַד שֶׁיְּהֵא״ — אָסוּר עַד שֶׁיֵּצֵא. וְכֹל שֶׁאֵין זְמַנּוֹ קָבוּעַ, בֵּין אָמַר ״עַד שֶׁיְּהֵא״, בֵּין אָמַר ״עַד שֶׁיַּגִּיעַ״ — אֵינוֹ אָסוּר אֶלָּא עַד שֶׁיַּגִּיעַ.
+*Translation:* MISHNA: If one takes a vow that something is forbidden to him **until the grain harvest,** or **until the grape harvest,** or **until the olive harvest, it is forbidden** to him **only until the arrival** of that season. **This is the principle:** With regard to **any** occasion **whose time is fixed, and one said: Until it arrives,** it is **forbidden** to him **until** the specified occasion **arrives.** If he **said: Until it will be,** it is **forbidden** to him **until** the specified occasion **ends. And** with regard to **any** occasion **whose time is not fixed,** i.e., it does not fall on a precise date, **whether he said: Until it will be,** or: **Until it arrives,** it is **forbidden** to him **only until** the specified occasion **arrives.**
+
+**6.**
+*Hebrew/Aramaic:* ״עַד הַקַּיִץ״, ״עַד שֶׁיְּהֵא הַקַּיִץ״ — עַד שֶׁיַּתְחִילוּ הָעָם לְהַכְנִיס בְּכַלְכַּלּוֹת. ״עֵד שֶׁיַּעֲבוֹר הַקַּיִץ״ — עַד שֶׁיַּקְפִּילוּ הַמִּקְצוֹעוֹת.
+*Translation:* If he said: **Until the summer [*kayitz*],** or: **Until it will be summer,** the vow remains in effect **until the people begin to bring** fruit **into** their houses **in baskets.** If he said: **Until the summer has passed,** the vow remains in effect **until** the people **set aside [*yakpilu*] the knives** [***hamaktzuot***] with which the figs are cut after being harvested, and return them to their place of storage.
+
+**7.**
+*Hebrew/Aramaic:* גְּמָ׳ תָּנָא: ״כַּלְכַּלָּה״ שֶׁאָמְרוּ — כַּלְכַּלָּה שֶׁל תְּאֵנִים, וְלֹא כַּלְכַּלָּה שֶׁל עֲנָבִים. תַּנְיָא: הַנּוֹדֵר מִפֵּירוֹת הַקַּיִץ — אֵין אָסוּר אֶלָּא בִּתְאֵנִים. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: עֲנָבִים בִּכְלַל תְּאֵנִים.
+*Translation:* GEMARA: The Sage **taught:** The **basket** about which **they spoke** in the mishna is **a basket of figs, and not a basket of grapes,** which are gathered later than figs. It **is taught** in a *baraita*: **One who vows** that **summer [*kayitz*] produce** is forbidden **to** him **is prohibited** from partaking **only** of **figs,** as the fig harvest is called *kayitz*. **Rabban Shimon ben Gamliel says: Grapes are included** in the category of the summer produce, along **with figs.**
+
+**8.**
+*Hebrew/Aramaic:* מַאי טַעְמָא דְּתַנָּא קַמָּא? קָסָבַר: תְּאֵנִים מִיקַּצְצָן בִּידָא, עֲנָבִים לָא מִיקַּצְצָן בִּידָא. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל סָבַר: עֲנָבִים נָמֵי, כִּי מִירַדְּדָן — מִיקַּצְצָן בִּידָא.
+*Translation:* The Gemara asks: **What is the reason of the first *tanna*?** The Gemara answers: He **holds** that since **figs are plucked [*mikkatzetzan*] by hand,** while **grapes are plucked not by hand** but with tools, it is only figs that are considered summer [*kayitz*] produce. Conversely, **Rabban Shimon ben Gamliel holds** that **grapes, too, when they are** sufficiently **ripe, are plucked by hand.** Therefore, they can be considered summer produce as well.
+
+**9.**
+*Hebrew/Aramaic:* ״עַד שֶׁיַּעֲבוֹר הַקַּיִץ״, עַד שֶׁיִּכָּפְלוּ הַמַּקְצוּעוֹת. תָּנָא: עַד שֶׁיַּכְפִּילוּ רוֹב הַמַּקְצוּעוֹת.
+*Translation:* § The mishna states that if one said: **Until the summer has passed,** then the vow remains in effect **until** the people **set aside the knives** used to cut the figs. It was **taught:** This means **until most** people **set aside** their **knives,** even if there are still some individuals who have yet to do so.

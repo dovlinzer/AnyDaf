@@ -288,9 +288,10 @@ def extend_head_to_confident_neighbor(
     return [(span_start - 1, nb_time, nb_score)] + kept
 
 
-def process(daf_dir: Path, threshold: float, diagnose: bool) -> dict | None:
+def process(daf_dir: Path, threshold: float, diagnose: bool,
+            essay_file: str = "02_rewrite.md", out_file: str = "03_text_first_prototype_v10.md") -> dict | None:
     if not all((daf_dir / f).exists() for f in
-               ("01_segmentation.json", "02_rewrite.md", "sefaria.md")):
+               ("01_segmentation.json", essay_file, "sefaria.md")):
         return None
     try:
         seg = json.loads((daf_dir / "01_segmentation.json").read_text(errors="replace"))
@@ -319,7 +320,7 @@ def process(daf_dir: Path, threshold: float, diagnose: bool) -> dict | None:
     span_start = min(boundaries) if boundaries else 0
     span_end = max(boundaries) if boundaries else len(pool) - 1
 
-    essay = (daf_dir / "02_rewrite.md").read_text(encoding="utf-8", errors="replace")
+    essay = (daf_dir / essay_file).read_text(encoding="utf-8", errors="replace")
     sections = parse_essay_sections(essay)
     ts = section_timestamps(sections, daf_dir)
     align_constrained(sections, pool, span_start, span_end, boundaries, ts)
@@ -342,7 +343,7 @@ def process(daf_dir: Path, threshold: float, diagnose: bool) -> dict | None:
         expected = span_end - span_start + 1
         assert n_sec == len(sections), f"section loss {n_sec}/{len(sections)}"
         assert n_items == expected, f"sefaria loss {n_items}/{expected}"
-        out = daf_dir / "03_text_first_prototype_v10.md"
+        out = daf_dir / out_file
         out.write_text(doc, encoding="utf-8")
         stats.update(wrote=str(out), emitted_sections=n_sec, emitted_items=n_items)
     return stats
@@ -354,6 +355,10 @@ def main():
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--diagnose", action="store_true")
     ap.add_argument("--threshold", type=float, default=DEFAULT_THRESHOLD)
+    ap.add_argument("--essay-file", default="02_rewrite.md",
+                     help="Essay filename to read from each daf dir (default: 02_rewrite.md)")
+    ap.add_argument("--out-file", default="03_text_first_prototype_v10.md",
+                     help="Output filename to write within each daf dir")
     args = ap.parse_args()
 
     dirs = ([d for d in sorted(OUTPUT_ROOT.iterdir()) if d.name not in MISLABELED]
@@ -363,7 +368,7 @@ def main():
         if not d.is_dir():
             continue
         try:
-            s = process(d, args.threshold, args.diagnose)
+            s = process(d, args.threshold, args.diagnose, args.essay_file, args.out_file)
         except AssertionError as e:
             print(f"{d.name}: COMPLETENESS ASSERTION FAILED — {e}")
             continue

@@ -27,3 +27,32 @@
 **7.**
 *Hebrew/Aramaic:* אָמַר רַב: הַכֹּל מוֹדִים בְּמוֹנֶה. אֲמַר לֵיהּ רַב חָמָא לְרַב חִסְדָּא: מַאי קָאָמַר? אִילֵּימָא: אֶחָד אוֹמֵר חָמֵשׁ וְלֹא שְׁתַּיִם, וְאֶחָד אוֹמֵר שְׁתַּיִם וְלֹא חָמֵשׁ — הָא קָא מַכְחֲשִׁי אַהֲדָדֵי! אֶלָּא: אֶחָד אוֹמֵר אַחַת וּשְׁתַּיִם, וְאֶחָד אוֹמֵר שָׁלֹשׁ אַרְבַּע חָמֵשׁ.
 *Translation:* In relation to the explanation that the dispute is with regard to a single pair of witnesses, **Rav said: All concede in** a case of **counting** that the testimonies contradict each other. **Rav Ḥama said to Rav Ḥisda: What is he saying;** what did Rav mean by this? **If we say that** he was referring to a case where **one** witness **says:** He vowed **five** terms **and not two** terms, **and one says:** He vowed **two** terms **and not five** terms, in such a situation **they** clearly **contradict one another,** and neither of the testimonies is reliable. **Rather,** Rav is speaking of **one** witness who **says** that he heard the person in question count out only **one and two** terms when he took a vow of naziriteship, **and one says** that he heard the person in question count out only **three, four,** and **five** terms when he took a vow of naziriteship.
+
+
+---
+
+### Nazir 20b
+
+**1.**
+*Hebrew/Aramaic:* הָא לְמָה לִי? הַשְׁתָּא יֵשׁ לוֹמַר: חֲמִירְתָּא אָמַר רַב, קִילְּתָא לָא אָמַר?! אָמְרִי בְּמַעְרְבָא: אֵין הַכְחָשָׁה בְּמוֹנֶה.
+*Translation:* The Gemara asks: **Why do I** need for Rav to state **this** at all? **Now that it is** already **said** with regard to **a stringent** case, where there were two sets of witnesses who generally have full credibility yet **Rav said** that the testimony is considered divided, with regard to **a lenient** case, involving a conflict within one pair of witnesses, who cannot each obligate him in naziriteship, would he **not say** that a conflict in their testimony causes it to be disregarded? Of course the testimonies are disregarded if the conflict is within the same set of witnesses. **They say in the West,** Eretz Yisrael: **There is no conflicting** testimony **in** a case of **counting,** as since one of them counted a smaller number and the second counted a larger number, they do not conflict at all, as the smaller number is included in the larger one.
+
+**2.**
+*Hebrew/Aramaic:* הַדְרָן עֲלָךְ מִי שֶׁאָמַר
+*Translation:* 
+
+**3.**
+*Hebrew/Aramaic:* מִי שֶׁאָמַר ״הֲרֵינִי נָזִיר״ וְשָׁמַע חֲבֵירוֹ וְאָמַר ״וַאֲנִי״, ״וַאֲנִי״ — כּוּלָּם נְזִירִים. הוּתַּר הָרִאשׁוֹן — הוּתְּרוּ כּוּלָּן. הוּתַּר הָאַחֲרוֹן — הָאַחֲרוֹן מוּתָּר וְכוּלָּם אֲסוּרִין. אָמַר ״הֲרֵינִי נָזִיר״, וְשָׁמַע חֲבֵירוֹ וְאָמַר ״פִּי כְּפִיו וּשְׂעָרִי כִּשְׂעָרוֹ״ — הֲרֵי זֶה נָזִיר.
+*Translation:* MISHNA: With regard to **one who said: I am hereby a nazirite, and another heard** this vow **and said: And I,** and a third person added: **And I, they are all nazirites.** If the vow of **the first was dissolved** by a halakhic authority, **they are all dissolved.** However, if the vow of **the last** individual **was dissolved** by a halakhic authority, the vow of **the last** individual alone **is dissolved, and all** the others remain **bound** by their nazirite vows. If someone **said: I am hereby a nazirite, and another heard and said: My mouth is like his mouth and my hair is like his hair, he is a nazirite.**
+
+**4.**
+*Hebrew/Aramaic:* ״הֲרֵינִי נָזִיר״, וְשָׁמְעָה אִשְׁתּוֹ וְאָמְרָה ״וַאֲנִי״ — מֵיפֵר אֶת שֶׁלָּהּ, וְשֶׁלּוֹ קַיָּים. ״הֲרֵינִי נְזִירָה״, וְשָׁמַע בַּעֲלָהּ וְאָמַר ״וַאֲנִי״ — אֵינוֹ יָכוֹל לְהָפֵר. ״הֲרֵינִי נָזִיר וְאַתְּ״, וְאָמְרָה ״אָמֵן״ — מֵיפֵר אֶת שֶׁלָּהּ, וְשֶׁלּוֹ קַיָּים. ״הֲרֵינִי נְזִירָה וְאַתָּה״, וְאָמַר ״אָמֵן״ — אֵינוֹ יָכוֹל לְהָפֵר.
+*Translation:* If one said: **I am hereby a nazirite, and his wife heard** him **and said: And I,** he can **nullify her** vow of naziriteship if he so chooses (see Numbers 30:7–16). **But his** vow remains **intact,** as his naziriteship is not dependent on hers. However, if the wife said: **I am hereby a nazirite, and her husband heard and said: And I, he cannot nullify** her vow of naziriteship, as he would thereby be nullifying his own vow, which he made dependent on hers, and he does not have the ability to nullify his own vow. If he said to his wife: **I am hereby a nazirite, and you,** i.e., you shall be a nazirite as well, **and she said: Amen,** in acceptance of this vow, **he can nullify her** vow, **and his** vow remains **intact.** However, if the wife said: **I am hereby a nazirite, and you, and he said: Amen, he cannot nullify** her vow.
+
+**5.**
+*Hebrew/Aramaic:* גְּמָ׳ יָתֵיב רֵישׁ לָקִישׁ קַמֵּיהּ דְּרַבִּי יְהוּדָה נְשִׂיאָה וְיָתֵיב וְקָאָמַר: וְהוּא שֶׁהִתְפִּיסוּ כּוּלָּן בְּתוֹךְ כְּדֵי דִיבּוּר. וְכַמָּה תּוֹךְ כְּדֵי דִיבּוּר — כְּדֵי שְׁאֵלַת שָׁלוֹם, וְכַמָּה כְּדֵי שְׁאֵלַת שָׁלוֹם — כְּדֵי שֶׁאוֹמֵר שָׁלוֹם תַּלְמִיד לָרַב.
+*Translation:* GEMARA: **Reish Lakish sat before Rabbi Yehuda Nesia, and he sat and said** in explanation of the mishna: **And this** *halakha*, that they are all nazirites, applies only **when they all** took a vow by **associating** themselves with the previous vow **within the time required for speaking** a short phrase. The Gemara asks: **And how much** time is included in the measure of: **Within the time required for speaking** a short phrase? The Gemara answers: It is the time necessary **for greeting** someone. The Gemara asks: **And how much is** the time necessary **for greeting** someone? The Gemara answers that it is the time necessary **for a student to say: Peace** upon you, my teacher, **to** his **rabbi.**
+
+**6.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: תּוּב לָא שָׁבְקַתְּ רַוְוחָא לְתַלְמִידָא!
+*Translation:* Rabbi Yehuda Nesia **said to** Reish Lakish: **Once again you have provided no advantage to a student** who wishes to associate himself with the naziriteship of another. If the student’s rabbi was passing by at the precise moment that his colleague was vowing to be a nazirite, he would have to greet his rabbi first, and therefore he would not be able to respond to his colleague’s vow in time.

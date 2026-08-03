@@ -71,3 +71,56 @@
 **18.**
 *Hebrew/Aramaic:* הֲרֵי פֵּירוֹת דְּרַבָּנַן, וְלָא עֲבַדוּ לְהוּ רַבָּנַן חִיזּוּק! דִּתְנַן, רַבִּי יְהוּדָה אוֹמֵר: לְעוֹלָם הוּא אוֹכֵל פֵּירֵי פֵירוֹת — עַד שֶׁיִּכְתּוֹב לָהּ: ״דִּין וּדְבָרִים אֵין לִי בִּנְכָסַיִךְ, וּבְפֵירוֹתֵיהֶן, וּבְפֵירוֹת פֵּירוֹתֵיהֶן עַד עוֹלָם״.
 *Translation:* The Gemara challenges this answer: The husband’s entitlement to the **produce** of his wife’s property **is a rabbinic** decree, **and** nevertheless **the Sages did not reinforce** his rights to **them, as we learned** in a mishna (83a): **Rabbi Yehuda says:** Even if the husband wrote that he waived his rights to the produce of his wife’s property, **he may actually consume the produce of the produce** of her property, meaning that he could invest the produce in additional property, which would also belong to his wife, but he would consume its produce. This applies **unless he** explicitly **writes** to **her: I do not have any claim to your property, its produce, or the produce of its produce, forever.**
+
+
+---
+
+### Ketubot 56b
+
+**1.**
+*Hebrew/Aramaic:* וְקַיְימָא לַן: מַאי ״כּוֹתֵב״ — אוֹמֵר!
+*Translation:* **And we maintain** on this issue: **What is** the meaning of: **Writes?** It means: **Says.** In order to relinquish one’s claim to produce of the produce of his wife’s property, he does not necessarily need to write this in a document; it is sufficient to say it verbally in front of witnesses. It seems, therefore, that Rabbi Yehuda holds that a verbal stipulation is sufficient for a monetary matter of rabbinic law.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: לַכֹּל יֵשׁ כְּתוּבָּה, וְלֹא לַכֹּל יֵשׁ פֵּירוֹת. מִילְּתָא דִּשְׁכִיחָא — עֲבַדוּ בַּהּ רַבָּנַן חִיזּוּק, מִילְּתָא דְלָא שְׁכִיחָא — לָא עֲבַדוּ בַּהּ רַבָּנַן חִיזּוּק.
+*Translation:* **Abaye said:** There is a distinction between the two cases. **Every** married woman **has a marriage contract, but not all** husbands **have** the right to **produce,** as not every woman brings property with her into the marriage. Therefore, in relation to **a common matter,** such as a marriage contract, **the Sages reinforced** their pronouncements **about it** by insisting that any stipulations to change the terms must be in writing. However, with regard to **an uncommon matter,** such as the produce of property, **the Sages did not reinforce** their pronouncements **about it,** and a verbal declaration is sufficient.
+
+**3.**
+*Hebrew/Aramaic:* הֲרֵי חַמָּרִים, דִּשְׁכִיחִי, וְלָא עֲבַדוּ לַהּ רַבָּנַן חִיזּוּק!
+*Translation:* The Gemara challenges this answer: But with regard to the *halakha* of **donkey drivers, which is a common** matter, Rabbi Yehuda does **not** hold that **the Sages reinforced** their pronouncements **about it.**
+
+**4.**
+*Hebrew/Aramaic:* דִּתְנַן: הַחַמָּרִין שֶׁנִּכְנְסוּ לָעִיר, וְאָמַר אֶחָד מֵהֶן: שֶׁלִּי חָדָשׁ, וְשֶׁל חֲבֵרִי יָשָׁן. שֶׁלִּי אֵינוֹ מְתוּקָּן, וְשֶׁל חֲבֵרִי מְתוּקָּן אֵין נֶאֱמָנִים. רַבִּי יְהוּדָה אוֹמֵר: נֶאֱמָנִים.
+*Translation:* This is **as we learned** in a mishna (*Demai* 4:7): In the case of **donkey drivers who entered a city** to sell their wares, **and one of them said: My** produce **is** from the **new** crop and is still moist and not as good, **but my associate’s** produce **is** from the **old** crop, or he said: **Mine is not fit** for use, i.e., tithes have not been separated, **but my associate’s** produce **is fit** for use, the drivers **are not afforded credibility.** There is a suspicion that they may be lying. They may have an arrangement between them where one will make this statement in one city and in the next city they will alternate, in order to appear credible, so that one will always be able to sell his wares. **Rabbi Yehuda says: They are deemed credible.** This indicates that Rabbi Yehuda holds that a verbal stipulation is sufficient even for a common monetary matter of rabbinic law.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: וַדַּאי דְּדִבְרֵיהֶם — עֲבַדוּ רַבָּנַן חִיזּוּק. סָפֵק דְּדִבְרֵיהֶם, לָא עֲבַדוּ רַבָּנַן חִיזּוּק. רָבָא אָמַר: בִּדְמַאי הֵקֵילּוּ.
+*Translation:* **Abaye said:** There is a distinction between the cases. With regard to **a certain** matter **involving a rabbinic** decree, such as the main sum of the marriage contract, **the Sages reinforced** their pronouncements, but with regard to **an uncertain** matter **involving a rabbinic** decree, such as the case of the donkey drivers, the **Sages did not reinforce** their pronouncements. **Rava said: The Sages** did not reinforce their pronouncements in the case of the donkey drivers because, in general, **they were lenient about** questions concerning the prohibition of **doubtfully tithed produce [*demai*],** since the *halakha* of *demai* is itself a stringency, as most *amei ha’aretz* separate tithes from their produce.
+
+**6.**
+*Hebrew/Aramaic:* רַבִּי מֵאִיר אוֹמֵר: כׇּל הַפּוֹחֵת וְכוּ׳. כׇּל הַפּוֹחֵת אֲפִילּוּ בִּתְנָאָה — אַלְמָא קָסָבַר תְּנָאוֹ בָּטֵל, וְאִית לַהּ. וְכֵיוָן דְּאָמַר לַהּ ״לֵית לִיךְ אֶלָּא מָנֶה״ — לָא סָמְכָא דַּעְתַּהּ, וְהָוְיָא לַהּ בְּעִילָתוֹ בְּעִילַת זְנוּת.
+*Translation:* § The mishna says: **Rabbi Meir says:** In the case of **anyone who reduces** the amount of the marriage contract to less than two hundred dinars for a virgin or one hundred dinars for a widow, this marriage amounts to licentious sexual intercourse. The Gemara makes an inference from the language of the mishna: The phrase: **Anyone who reduces** the amount of the marriage contract, means **even if** he made **a stipulation** and she agreed. **Apparently,** Rabbi Meir **held** that **his stipulation** in this case **is void and she has** the ability to collect the entire amount set by the Sages, **but** nevertheless **since he said to her: You have only one hundred** dinars, **she does not rely** on the marriage contract and does not see it as a true marriage, **and** therefore the intercourse **becomes licentious sexual intercourse.**
+
+**7.**
+*Hebrew/Aramaic:* וְהָא שָׁמְעִינַן לֵיהּ לְרַבִּי מֵאִיר דְּאָמַר: כׇּל הַמַּתְנֶה עַל מַה שֶּׁכָּתוּב בַּתּוֹרָה — תְּנָאוֹ בָּטֵל. הָא בִּדְרַבָּנַן — תְּנָאוֹ קַיָּים?! קָסָבַר רַבִּי מֵאִיר כְּתוּבָּה דְּאוֹרָיְיתָא.
+*Translation:* **But we** have **heard** that **Rabbi Meir said** that **anyone who stipulates counter to that which is written in the Torah, his stipulation is void.** This implies that if someone makes a stipulation **on a rabbinic** law **his stipulation** does **stand,** and therefore there is still a question as to why the stipulation about the marriage contract is void, as a marriage contract is a rabbinic ordinance. The Gemara responds: **Rabbi Meir holds** that **a marriage contract is** a requirement of **Torah** law. Consequently, if one made a stipulation to reduce the amount of the marriage contract, this is a stipulation counter to that which is written in the Torah, and it is void.
+
+**8.**
+*Hebrew/Aramaic:* תַּנְיָא, רַבִּי מֵאִיר אוֹמֵר: כׇּל הַפּוֹחֵת לִבְתוּלָה מִמָּאתַיִם וּלְאַלְמָנָה מִמָּנֶה — הֲרֵי זוֹ בְּעִילַת זְנוּת. רַבִּי יוֹסֵי אוֹמֵר: רַשַּׁאי. רַבִּי יְהוּדָה אוֹמֵר: רָצָה, כּוֹתֵב לִבְתוּלָה שְׁטָר שֶׁל מָאתַיִם, וְהִיא כּוֹתֶבֶת לוֹ: ״הִתְקַבַּלְתִּי מִמְּךָ מָנֶה״, וּלְאַלְמָנָה מָנֶה, וְהִיא כּוֹתֶבֶת לוֹ: ״הִתְקַבַּלְתִּי מִמְּךָ חֲמִשִּׁים זוּז״.
+*Translation:* It **is taught** in a *baraita*: **Rabbi Meir says:** In the case of **anyone who reduces** the amount of the marriage contract to lower **than two hundred** dinars **for a virgin or one hundred** dinars **for a widow, this** marriage amounts to **licentious sexual intercourse. Rabbi Yosei says: One is permitted** to reduce the amount by making a verbal stipulation, provided the wife agrees. **Rabbi Yehuda says: If one wishes, he may write for a virgin a document for two hundred** dinars, **and she may write him** a receipt stating: **I received one hundred** dinars **from you. And** similarly, **for a widow** one may write **one hundred** dinars **and she may write** for **him: I received fifty dinars from you.**
+
+**9.**
+*Hebrew/Aramaic:* וְסָבַר רַבִּי יוֹסֵי רַשַּׁאי? וּרְמִינְהִי: אֵין עוֹשִׂין כְּתוּבַּת אִשָּׁה מִטַּלְטְלִין, מִפְּנֵי תִּיקּוּן הָעוֹלָם. אָמַר רַבִּי יוֹסֵי: וְכִי מָה תִּיקּוּן הָעוֹלָם יֵשׁ בְּזוֹ? וַהֲלֹא אֵין קְצוּבִין וּפוֹחֲתִין!
+*Translation:* The Gemara asks: **And** does **Rabbi Yosei** actually **hold** that **he is permitted** to reduce the amount? The Gemara **raises a contradiction** based on a *baraita*: Collection of **a woman’s marriage contract may not be made** dependent upon **movable property.** This is a rabbinic decree enacted **for the betterment of the world. Rabbi Yosei said: What betterment of the world is** accomplished **by this** decree? The price of the movable property **is not fixed,** and therefore it might **become devalued.**
+
+**10.**
+*Hebrew/Aramaic:* תַּנָּא קַמָּא נָמֵי ״אֵין עוֹשִׂין״ קָאָמַר! אֶלָּא לָאו הָכִי קָאָמַר: בַּמֶּה דְּבָרִים אֲמוּרִים — בְּשֶׁלֹּא קִבֵּל עָלָיו אַחְרָיוּת, אֲבָל קִבֵּל עָלָיו אַחְרָיוּת — עוֹשִׂין. וַאֲתָא רַבִּי יוֹסֵי לְמֵימַר כִּי קִיבֵּל עָלָיו אַחְרָיוּת אַמַּאי עוֹשִׂין? וַהֲלֹא אֵין קְצוּבִין וּפוֹחֲתִין!
+*Translation:* The Gemara analyzes the text of the *baraita*: **The first *tanna* also said:** A marriage contract may **not be made** dependent on movable property. What is Rabbi Yosei’s disagreement with him? **Rather, is it not** that **this is what** the first *tanna* **said: In what** case **is this statement said?** In a case where **one did not provide a guarantee** for the movable property. **But** if **one did provide a guarantee,** the marriage contract **may be made** dependent on it. **And Rabbi Yosei comes to say:** Even **if one provided a guarantee, why can** the marriage contract **be made** dependent on it? The price **is not fixed, and** it may **become devalued.**
+
+**11.**
+*Hebrew/Aramaic:* הַשְׁתָּא, וּמָה הָתָם דְּדִלְמָא פָּחֲתִי — חָיֵישׁ רַבִּי יוֹסֵי, הָכָא, דְּוַדַּאי קָא פָּחֲתָה — לֹא כׇּל שֶׁכֵּן?! הָכִי הַשְׁתָּא?! הָתָם לָא יָדְעָה דְּתַחֵיל, הָכָא יָדְעָה וְקָא מָחֲלָה.
+*Translation:* **Now** that the meaning of the *baraita* has been clarified, the Gemara asks: **Just as there,** in the case of movable property, where **perhaps it** will **be devalued, Rabbi Yosei is concerned** that the wife might not receive the full value of her marriage contract, **here,** where it **will definitely be devalued,** is it **not all the more so** clear that he would be concerned? The Gemara responds: **How can** these cases **be compared? There, she does not know** if her marriage contract will be devalued, and there is no reason to suppose **that she will waive** his obligation to her. But **here, she knows and she waived** it.
+
+**12.**
+*Hebrew/Aramaic:* אֲחָתֵיהּ דְּרָמֵי בַּר חָמָא הֲוָת נְסִיבָא לְרַב אַוְיָא.
+*Translation:* The Gemara relates: **The sister of Rami bar Ḥama was married to Rav Avya.**

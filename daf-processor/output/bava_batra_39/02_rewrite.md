@@ -126,7 +126,7 @@ The *gemara* proposes two ways of understanding the dispute between two and thre
 
 The second possibility is that everyone agrees *mechah shelo befanav* works, and the debate is about what mechanism makes it effective. The one who says two holds *sahadusa ba'inan* — we need testimony, formal witnesses to the act of protest. The one who says three holds *gillui milta ba'inan* — we need the matter to become public. This is a conceptually richer distinction that warrants further exploration.
 
-### Tosafot's View
+### Tosafot's View (II)
 
 Tosafot reads the *sahadusa* position differently. Of course, Tosafot says, the message ultimately has to reach the occupant — that is the whole purpose of *mechah*. And in principle, rumors spread even from a single person: *ve'i lav mishum sahadusa hava sagi bechad dechad vechad ve'islei* — if not for the need for testimony, even one person would be enough, since word travels from person to person. But two are required for testimony to the fact that the *mechah* was made. The rumor itself will spread from those two, even without them being formally obligated to carry it. So what, then, is the difference between two and three if the rumor spreads from either number?
 
@@ -194,7 +194,7 @@ The *gemara* now presents the case of Gidol bar Minyumi, who needed to issue a *
 
 Rav's ruling, as transmitted here, is: *keivan she'micha shanah rishonah shuv eino tzarich limchos* — once he made the *mechah* in the first year, he need never make it again. A single *mechah*, properly executed, is sufficient for the entire duration.
 
-### Reish Lakish: Every 3 Ye…
+### Reish Lakish: Mechah 3Yrs
 
 Reish Lakish, citing Bar Kappara, disagrees: *v'tzarich limchos b'sof kol gimmel v'gimmel* — one is obligated to renew the *mechah* at the end of every three-year period. The reasoning is that after a *mechah*, the *machzik* is put on notice; he understands that his claim is contested and he must be careful with his *shtar*. But after three years of renewed silence — three years during which no further protest has been lodged — he may reasonably conclude that the earlier protest has been abandoned, and once again let down his guard. Therefore, the owner must renew the *mechah* within every three-year cycle.
 

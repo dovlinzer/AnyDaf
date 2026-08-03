@@ -1,0 +1,33 @@
+### Bekhorot 19a
+
+**1.**
+*Hebrew/Aramaic:* דְּהָךְ דְּלָא בִּיכְּרָה שְׁבִיחַ טְפֵי צְרִיכָא.
+*Translation:* **that this** offspring born to the ewe **that had not** previously **given birth is superior.** The Gemara concludes: Consequently, it was **necessary** to teach each case.
+
+**2.**
+*Hebrew/Aramaic:* מַתְנִי׳ יוֹצֵא דּוֹפֶן וְהַבָּא אַחֲרָיו, רַבִּי טַרְפוֹן אוֹמֵר: שְׁנֵיהֶם יִרְעוּ עַד שֶׁיִּסְתָּאֲבוּ, וְיֵאָכְלוּ בְּמוּמָן לַבְּעָלִים. רַבִּי עֲקִיבָא אוֹמֵר: שְׁנֵיהֶן אֵינָן בְּכוֹר, הָרִאשׁוֹן — מִפְּנֵי שֶׁאֵינוֹ ״פֶּטֶר רֶחֶם״, וְהַשֵּׁנִי — מִפְּנֵי שֶׁקְּדָמוֹ אַחֵר.
+*Translation:* MISHNA: With regard to an animal **born by caesarean section and** the offspring **that follows it,** since there is uncertainty whether each is a firstborn, neither is given to the priest. **Rabbi Tarfon says: Both of them must graze until they become unfit, and they may be eaten in their blemished** state **by their owner. Rabbi Akiva says: Neither of them is firstborn; the first because it is not** the one **that opens the womb** (see Exodus 13:12), as this animal did not itself open the womb, **and the second because** the **other** one **preceded it.**
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ בְּמַאי קָמִיפַּלְגִי? רַבִּי טַרְפוֹן מְסַפְּקָא לֵיהּ: בְּכוֹר לְדָבָר אֶחָד, אִי הָוֵי בְּכוֹר אִי לָא הָוֵי בְּכוֹר, וְרַבִּי עֲקִיבָא פְּשִׁיטָא לֵיהּ: בְּכוֹר לְדָבָר אֶחָד לָא הָוֵי בְּכוֹר.
+*Translation:* GEMARA: The Gemara asks: **With regard to what do** Rabbi Akiva and Rabbi Tarfon **disagree? Rabbi Tarfon is uncertain** with regard to an animal that is **a firstborn in one aspect,** e.g., first to be born or first to open the womb, **whether it is** considered a **firstborn or whether it is not** considered **a firstborn. And** conversely, it is **obvious to Rabbi Akiva** that an animal which is **a firstborn in** only **one aspect is not** considered **a firstborn.**
+
+**4.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: מִכְּלָל הַצָּרִיךְ לִפְרָט וּמִפְּרָט הַצָּרִיךְ לִכְלָל, כֵּיצַד? ״קַדֶּשׁ לִי כׇל בְּכוֹר״, יָכוֹל אֲפִילּוּ נְקֵבָה בַּמַּשְׁמָע? תַּלְמוּד לוֹמַר ״זָכָר״.
+*Translation:* With regard to the definition of a firstborn, **the Sages taught** in a *baraita*: This *halakha* can be derived by means of the form of exegesis known as: **From a generalization that requires a detail, and from a detail that requires a generalization. How so?** The verse states: “Sanctify to Me all the firstborn, that which opens any womb among the children of Israel, both of man and of animal, it is Mine” (Exodus 13:2). Had the verse written only the generalization: **“Sanctify to Me all the firstborn,”** one **might** have thought that **even a female** animal **is included** in the category of a firstborn. Therefore, **the verse states** the detail: “Every firstborn **male**…you shall sanctify to the Lord” (Deuteronomy 15:19).
+
+**5.**
+*Hebrew/Aramaic:* אִי ״זָכָר״, יָכוֹל אֲפִילּוּ יָצְתָה נְקֵבָה לְפָנָיו? תַּלְמוּד לוֹמַר: ״פֶּטֶר רֶחֶם״. אִי ״פֶּטֶר רֶחֶם״, יָכוֹל אֲפִילּוּ יָצָא אַחַר יוֹצֵא דּוֹפֶן? תַּלְמוּד לוֹמַר: ״בְּכוֹר״.
+*Translation:* And **had** the verse stated only: “Every firstborn **male,”** one **might** have thought that the first male offspring of an animal has firstborn status, **even** in a case where **a female emerged** from the womb **before it.** Therefore, **the verse states: “That which opens** any **womb,”** to teach that only an animal that itself opens its mother’s womb can be a firstborn. And **had** the verse stated only: **“That which opens** any **womb,”** one **might** have thought that **even** an animal that **emerged** from the womb **after** its older sibling was **born by caesarean section** is considered firstborn. Therefore, **the verse states:** “All the **firstborn,”** to teach that only the first offspring can be considered a firstborn.
+
+**6.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב שֵׁרֵבְיָא לְאַבָּיֵי: רֵישָׁא לָא קָנָסֵיב לַהּ תַּלְמוּדָא ״בְּכוֹר״, אַלְמָא בְּכוֹר לְדָבָר אֶחָד הָוֵי בְּכוֹר. סֵיפָא קָנָסֵיב לַהּ תַּלְמוּדָא ״בְּכוֹר״, אַלְמָא בְּכוֹר לְדָבָר אֶחָד לָא הָוֵי בְּכוֹר!
+*Translation:* The Gemara analyzes the *baraita*. **Rav Sherevya said to Abaye:** In **the first clause, the *baraita* does not cite** proof from the word **“firstborn”** that a male born after a female is not considered a firstborn. **Apparently,** an animal that is **a firstborn in one aspect is** called **a firstborn,** otherwise the *baraita* would not have had to derive the exclusion of a male born after a female from the phrase “that which opens any womb”; it could have cited the word “firstborn.” And in **the last clause, the *baraita* does cite** proof from the word **“firstborn”** that an animal whose older sibling was born by caesarean section is not considered a firstborn, despite the fact that it is a firstborn in one aspect. **Apparently, a firstborn in one aspect is not** called **a firstborn.** If so, the *baraita* is self-contradictory.
+
+**7.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: לְעוֹלָם בְּכוֹר לְדָבָר אֶחָד לָא הָוֵי בְּכוֹר, וְרֵישָׁא הָכִי קָאָמַר: אִי זָכָר, יָכוֹל אֲפִילּוּ יוֹצֵא דּוֹפֶן? תַּלְמוּד לוֹמַר ״פֶּטֶר רֶחֶם״.
+*Translation:* Abaye **said to** Rav Sherevya: **Actually, a firstborn in one aspect is not** called **a firstborn, and this** is what **the first clause is saying: Had** the verse stated only: “Every firstborn **male,”** one **might** have thought that **even** an animal **born by caesarean section** is itself considered a firstborn. Therefore, **the verse states: “That which opens** any **womb,”** to teach that an animal must itself open the womb to be considered a firstborn. The word “firstborn” cannot be cited as proof that an animal born by caesarean section is not a firstborn, as such an animal was in fact born first. Therefore, the *tanna* cites the phrase “that which opens any womb.” Once this phrase is cited, then a male born after a female is excluded as well, despite the fact that this *halakha* could have been derived from the word “firstborn.”
+
+**8.**
+*Hebrew/Aramaic:* רָבִינָא אָמַר: לְעוֹלָם בְּכוֹר לְדָבָר אֶחָד הָוֵי בְּכוֹר, וְסֵיפָא הָכִי קָאָמַר: אִי סָלְקָא דַעְתָּךְ יָצָא אַחֵר יוֹצֵא דּוֹפֶן קָדוֹשׁ, ״בְּכוֹר״ דִּכְתַב רַחֲמָנָא לְמָה לִי?
+*Translation:* **Ravina said** that there is a different explanation: **Actually, a firstborn in one aspect is** called **a firstborn,** and the *halakha* is not derived from the meaning of the word “firstborn” itself, but from the fact that it is superfluous. **And this** is what **the last clause is saying: If it enters your mind** that an animal which **emerged** from the womb **after** its older sibling was **born by caesarean section is sanctified, why do I** need the word **“firstborn” that the Merciful One wrote?**

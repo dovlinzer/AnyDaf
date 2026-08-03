@@ -111,8 +111,6 @@ This leads to the *Gemara*'s explanation: *amar Rav Yehuda amar Shmuel, lo amar 
 
 Rav Nachman offered an additional critique from a different angle. The *Gemara* records: *amar Rav Nachman mai avid lei Rabbi Yehoshua ledakei dlo yisru* — what should Rabbi Yehoshua do that his fat should not go off? The precise meaning of this remark is not entirely clear. *Tosafos* notes that the phrase is unexplained (*lo uparash*) and attempts an interpretation not based on a figurative expression. Both *Tosafos* and the *Rosh* understand the remark as referring to the fats of the *korbanos* themselves: because the two *nezirим* are sharing *korbanos* and must perform *tenufah* together, there will be an unavoidable delay in burning the fats and other parts of the offerings, leading to practical problems with those sacrificial portions. Whatever benefit Rabbi Yehoshua's method achieves by keeping each *korban tahara* undivided is offset by the problems that arise from the delays the shared arrangement necessarily introduces. In any case, the *Gemara*'s overall assessment appears to be that Rabbi Yehoshua's elaborate partnership mechanism is unnecessary and that Ben Zoma's straightforward approach is both simpler and equally valid.
 
----
-
 > **Hebrew/Aramaic:** אָמַר רַב נַחְמָן: מַאי לֶיעְבֵּיד לֵיהּ רַבִּי יְהוֹשֻׁעַ לְדַקַּיָּה דְּלָא לֵיסְרוּ.
 > **Translation:** **Rav Naḥman said,** in a light-hearted vein: **What will Rabbi Yehoshua do with the intestines** of **his** animals so **that they will not spoil?** If he insists that the offerings of purity must all be brought at the same time, the only way to do so is to wait thirty days after slaughtering the burnt-offering before burning its intestines, which is certainly impractical.
 
@@ -136,6 +134,8 @@ Rav Nachman offered an additional critique from a different angle. The *Gemara* 
 
 > **Hebrew/Aramaic:** וְחַטַּאת הָעוֹף, וְעוֹלַת בְּהֵמָה. שְׁנִיָּה — מֵבִיא חַטַּאת הָעוֹף וְעוֹלַת בְּהֵמָה, שְׁלִישִׁית — מֵבִיא חַטַּאת הָעוֹף וְעוֹלַת בְּהֵמָה, רְבִיעִית — מֵבִיא קׇרְבַּן טׇהֳרָה.
 > **Translation:** **And** he also brings **a bird sin-offering** for his shaving of impure naziriteship, as he may have contracted impurity from a corpse, **and an animal burnt-offering** for his shaving of purity, as he may not have contracted impurity from a corpse. For his **second** shaving he **brings a bird sin-offering and an animal burnt-offering.** For his **third** shaving he again **brings a bird sin-offering and an animal burnt-offering.** And for the **fourth** shaving he **brings an offering of purity.**
+
+---
 
 ## Safek Tamei & Metzora
 

@@ -55,3 +55,92 @@
 **14.**
 *Hebrew/Aramaic:* תְּנַן הָתָם: אֵין מְבִיאִין בִּיכּוּרִים חוּץ מִשִּׁבְעַת הַמִּינִין, וְלֹא
 *Translation:* § **We learned** in a mishna **elsewhere** (*Bikkurim* 1:3): **One may bring first fruits only from the seven species** with which Eretz Yisrael is praised in the verse: “A land of wheat and barley, vines, figs and pomegranates, a land of olive oil and honey” (Deuteronomy 8:8). **But** one may **not**
+
+
+---
+
+### Menachot 84b
+
+**1.**
+*Hebrew/Aramaic:* מִתְּמָרִים שֶׁבֶּהָרִים וְלֹא מִפֵּירוֹת שֶׁבָּעֲמָקִים. אָמַר עוּלָּא: אִם הֵבִיא לֹא קִידֵּשׁ.
+*Translation:* bring them **from dates that** grow **in the mountains, and** one may **not** bring them **from produce that** grows **in the valleys.** Such produce is of inferior quality and may not be used. **Ulla says:** Even **if one did bring** such produce, **he does not** thereby **consecrate** it, i.e., it does not attain the consecrated status of first fruits.
+
+**2.**
+*Hebrew/Aramaic:* יָתֵיב רַבָּה וְקָא אָמַר לַהּ לְהָא שְׁמַעְתָּא, אֵיתִיבֵיהּ רַבִּי אַחָא בַּר אַבָּא לְרַבָּה: ״קׇרְבַּן רֵאשִׁית״ – שֶׁתְּהֵא רֵאשִׁית לְכׇל הַמְּנָחוֹת, וְכֵן הוּא אוֹמֵר: ״בְּהַקְרִיבְכֶם מִנְחָה חֲדָשָׁה לַה׳ בְּשָׁבֻעֹתֵיכֶם״.
+*Translation:* **Rabba sat** in the study hall **and stated this *halakha*. Rabbi Aḥa bar Abba raised an objection to Rabba** from a *baraita*: The Torah refers to the two loaves offering as: **“A first offering** to the Lord” (Leviticus 2:11), which indicates **that it is to be the first of all the meal offerings** that come from the new crop. **And similarly** the verse **states** with regard to the festival of *Shavuot*: “On the day of the first fruits, **when you bring a new meal offering to the Lord”** (Numbers 28:26). By designating the two loaves as “new,” the verse indicates that they should be brought from the first of the new crop.
+
+**3.**
+*Hebrew/Aramaic:* אֵין לִי אֶלָּא חֲדָשָׁה שֶׁל חִטִּים, חֲדָשָׁה שֶׁל שְׂעוֹרִים מִנַּיִן? תַּלְמוּד לוֹמַר ״חֲדָשָׁה״, ״חֲדָשָׁה״. אִם אֵינוֹ עִנְיָן לַחֲדָשָׁה שֶׁל חִיטִּין – תְּנֵהוּ עִנְיָן לַחֲדָשָׁה שֶׁל שְׂעוֹרִים.
+*Translation:* **I have** derived **only** that it must be **new,** i.e., the first, **of** all **wheat** meal offerings. **From where** do I derive that it must also be **new,** i.e., the first, **of** all **barley** meal offerings, e.g., the meal offering of a *sota*? With regard to the two loaves, **the verse states** the word **“new,”** and again states the word **“new,”** once in Numbers 28:26 and again in Leviticus 23:16. **If** the second mention **is not** needed to teach the **matter of** being the **new** meal offering **of wheat, apply it to the matter of** being the **new** meal offering **of barley.**
+
+**4.**
+*Hebrew/Aramaic:* וּמִנַּיִן שֶׁתְּהֵא קוֹדֶמֶת לְבִיכּוּרִים? תַּלְמוּד לוֹמַר: ״וְחַג שָׁבֻעֹת תַּעֲשֶׂה לְךָ בִּכּוּרֵי קְצִיר חִטִּים״, וְאֵין לִי אֶלָּא בִּכּוּרֵי קְצִיר חִטִּים, קְצִיר שְׂעוֹרִים מִנַּיִן? תַּלְמוּד לוֹמַר: ״וְחַג הַקָּצִיר בִּכּוּרֵי מַעֲשֶׂיךָ אֲשֶׁר תִּזְרַע בַּשָּׂדֶה״.
+*Translation:* The *baraita* continues: **And from where** is it derived **that** the two loaves **precede** the bringing of the **first fruits** as well? **The verse states: “And you shall make for yourself a festival of *Shavuot*, the first fruits of the wheat harvest”** (Exodus 34:22). The order of the verse teaches that the offering of the Festival, which is the two loaves offering, precedes the bringing of the first fruits of the wheat harvest. **I have** derived **only** that the two loaves precede the **first fruits of the wheat harvest. From where** do I derive that they also precede the bringing of the first fruits of **the barley harvest? The verse states** with regard to the festival of *Shavuot*: **“And the festival of the harvest, the first fruits of your labors, which you will sow in the field”** (Exodus 23:16). The order of the verse teaches that the offering of the Festival, which is the two loaves offering, precedes all forms of first fruits that are sown in the field, which includes barley.
+
+**5.**
+*Hebrew/Aramaic:* וְאֵין לִי אֶלָּא שֶׁתִּזְרַע, עָלוּ מֵאֲלֵיהֶן מִנַּיִן? תַּלְמוּד לוֹמַר ״בַּשָּׂדֶה״.
+*Translation:* From this verse, **I have** derived **only** that the two loaves precede the bringing of the first fruits **that** sprouted from seeds **you sowed,** as the verse states: “Which you will sow.” **From where** do I derive that they precede even the bringing of first fruits **that sprouted by themselves? The** continuation of that **verse states: “In the field”** (Exodus 23:16). The term is superfluous and serves to include even produce that sprouted by itself.
+
+**6.**
+*Hebrew/Aramaic:* וְאֵין לִי אֶלָּא בַּשָּׂדֶה, מִנַּיִן לְרַבּוֹת שֶׁבְּגַג, וְשֶׁבְּחוּרְבָּה, וְשֶׁבְּעָצִיץ, וְשֶׁבִּסְפִינָה? תַּלְמוּד לוֹמַר ״בִּכּוּרֵי כׇּל אֲשֶׁר בְּאַרְצָם״.
+*Translation:* The *baraita* continues: From this verse, **I have** derived **only** that the two loaves precede the bringing of produce that grew **in a field. From where** do I derive **to include** even produce **that** grew **on a roof, or that** grew **in a ruin, or that** grew **in a flowerpot, or that** grew **on a ship? The verse states** with regard to the priestly gifts: **“The first fruit of all that grows in their land,** which they shall bring to the Lord, shall be yours” (Numbers 18:13). The term “first fruits” in this verse is referring to all types of first fruits. This teaches that when the two loaves are referred to as the first fruits (see Exodus 34:22), the intention is that they should be brought first before all other types of produce.
+
+**7.**
+*Hebrew/Aramaic:* מִנַּיִן שֶׁתְּהֵא קוֹדֶמֶת לִנְסָכִים וּפֵירוֹת הָאִילָן? נֶאֱמַר כָּאן ״בִּכּוּרֵי מַעֲשֶׂיךָ״, וְנֶאֱמַר לְהַלָּן ״בְּאׇסְפְּךָ אֶת מַעֲשֶׂיךָ מִן הַשָּׂדֶה״ – מָה לְהַלָּן נְסָכִים וּפֵירוֹת אִילָן, אַף כָּאן נְסָכִים וּפֵירוֹת אִילָן.
+*Translation:* The *baraita* concludes: **From where** is it derived **that** the offering of the two loaves **is to precede** both **the** bringing of **libations** from grapes of the new crop **and** the bringing of the first **fruits of the tree? It is stated here,** with regard to the two loaves: **“The first fruits of your labors”** (Exodus 23:16), **and it is stated there** at the end of that verse: **“When you gather in the products of your labors from the field.” Just as there,** the term “your labors” is referring both to fruits used for **the libations and the fruit of the tree, so too, here,** the term is referring to both fruits used for **the libations and the fruit of the tree.**
+
+**8.**
+*Hebrew/Aramaic:* קָתָנֵי מִיהָא: שֶׁבְּגַג, שֶׁבְּחוּרְבָּה, שֶׁבְּעָצִיץ, וְשֶׁבִּסְפִינָה. סֵיפָא אֲתָאן לִמְנָחוֹת.
+*Translation:* Rabbi Aḥa bar Abba explains how the *baraita* poses a challenge to Ulla’s ruling: **In any event, it was taught** in this *baraita* that bringing the two loaves must precede even the bringing of produce **that** grew **on a roof, that** grew **in a ruin, that** grew **in a flowerpot, or that** grew **on a ship.** This indicates that all these types of produce are valid to be brought as first fruits, despite the fact that they are of inferior quality. This would appear to contradict Ulla’s ruling that dates that grow in the mountains and produce grown in the valleys are not fit to be brought as first fruits. Rabba explains: Whereas in the first clause, the *baraita* discusses which types of produce can be used for the first fruits, in **the latter clause we come to** discuss which grains can be used for **meal offerings.** Produce that grew in these atypical locations is valid to be brought as meal offerings, but not as first fruits.
+
+**9.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב אַדָּא בַּר אַהֲבָה: אִי הָכִי, הַיְינוּ דִּכְתִיב ״כׇּל טָהוֹר בְּבֵיתְךָ יֹאכַל אֹתוֹ״, וְאִי מְנָחוֹת, לְזִכְרֵי כְהוּנָּה הוּא דְּמִיתְאַכְלָן!
+*Translation:* The later clause of the *baraita* explained that the verse: “The first fruit of all that grows in their land” (Numbers 18:13), is referring to produce that grows in atypical locations. Rabba defended Ulla’s opinion by explaining that the verse concerns meal offerings only. **Rav Adda bar Ahava objects to this: If so, that which is written** in the latter part of the verse: **“Any pure member of your household may eat of it,”** is difficult, as the phrase “your household” includes a priest’s wife and daughters and teaches that they may also partake of the priestly gifts referred to in the verse; **but if** the verse is referring to **meal offerings,** that is problematic **as they are** permitted **to be eaten** only **by male priests.**
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַב מְשַׁרְשְׁיָא: תְּרֵי קְרָאֵי כְּתִיבִי, ״לְךָ יִהְיֶה״, וּכְתִיב ״כׇּל טָהוֹר בְּבֵיתְךָ יֹאכַל אֹתוֹ״. הָא כֵּיצַד? כָּאן – בְּבִיכּוּרִים, כָּאן – בִּמְנָחוֹת.
+*Translation:* In resolution of this difficulty, **Rav Mesharshiyya said:** Perforce this verse should be read as if **two verses are written,** as otherwise it contains an inherent contradiction: The first clause states: “The first fruit…**shall be yours”** (Numbers 18:13), indicating that only a priest himself may partake of the priestly gifts. **And it is written** in the continuation of the verse: **“Any pure member of your household may eat of it,”** indicating that even female family members may partake of it. **How** can **these** texts be reconciled? **Here,** the latter part of the verse, **concerns the first fruits,** which even female family members may eat, and **there,** the first part of the verse, **concerns meal offerings,** which may be eaten only by male priests.
+
+**11.**
+*Hebrew/Aramaic:* רַב אָשֵׁי אָמַר: כּוּלֵּיהּ בִּמְנָחוֹת, וְסֵיפָא דִּקְרָא אֲתָאן לְלַחְמֵי תוֹדָה.
+*Translation:* **Rav Ashi said** that there is an alternative resolution: The verse in **its entirety concerns meal offerings, but** with **the latter clause of the verse we come to** the specific case of the **loaves of a thanks offering,** which even female family members of the priest may eat.
+
+**12.**
+*Hebrew/Aramaic:* בִּפְלוּגְתָּא: רַבִּי יוֹחָנָן אָמַר – אִם הֵבִיא לֹא קִדֵּשׁ, רֵישׁ לָקִישׁ אָמַר – אִם הֵבִיא קִדֵּשׁ, נַעֲשָׂה כְּכָחוּשׁ בְּקָדָשִׁים.
+*Translation:* § The Gemara notes: Ulla and Rav Aḥa bar Abba disagree **with regard to** the issue that is the subject of **the dispute** of earlier *amora’im*: **Rabbi Yoḥanan says:** Even **if one did bring** mountain dates or valley produce as first fruits, **he does not** thereby **consecrate** them, i.e., they do not attain the sanctified status of first fruits. **Reish Lakish says: If one did bring** them, **he has consecrated** them; **they are regarded just like a gaunt** animal **with regard to sacrificial** animals. Although it is improper to consecrate such animals or such produce as an offering, if one does, the consecration certainly takes effect.
+
+**13.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא רֵישׁ לָקִישׁ, כִּדְאָמַר טַעְמָא. אֶלָּא רַבִּי יוֹחָנָן, מַאי טַעְמָא? אָמַר רַבִּי אֶלְעָזָר: רַבִּי יוֹחָנָן חֲזַאי בַּחֲלוֹם, מִילְּתָא מְעַלַּיְיתָא אָמֵינָא. אָמַר קְרָא: ״מֵרֵאשִׁית״ – וְלֹא כׇּל רֵאשִׁית, ״מֵאַרְצְךָ״ – וְלֹא כׇּל אַרְצְךָ.
+*Translation:* The Gemara discusses the dispute: **Granted,** the opinion of **Reish Lakish** is well founded, **as he stated the reason** for his ruling. **But** as for **Rabbi Yoḥanan, what is the reason** for his ruling? **Rabbi Elazar said:** I have an explanation of Rabbi Yoḥanan’s ruling and since **I** was privileged to **see Rabbi Yoḥanan in a dream,** I know that **I am saying a proper matter. The verse states** with regard to first fruits: “And you shall take **from the first** of all the fruit” (Deuteronomy 26:2). The addition of the word “from” indicates that one should take from some of the first fruits, **but not** from **all the first** fruits. This teaches that one should use only the seven species for the mitzva. The verse continues: “That you shall bring **from your land.”** The addition of the word “from” indicates that one should take first fruits from some areas of the land, **but not** from **all** areas in **your land.** This teaches that one should not take dates from the mountains or produce from the valleys.
+
+**14.**
+*Hebrew/Aramaic:* וְרֵישׁ לָקִישׁ, הַאי ״אַרְצְךָ״ מַאי עָבֵיד לֵיהּ? מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: רַבָּן גַּמְלִיאֵל בַּר רַבִּי אוֹמֵר, נֶאֱמַר כָּאן ״אֶרֶץ״, וְנֶאֱמַר לְהַלָּן ״אֶרֶץ״, מָה לְהַלָּן שֶׁבַח אֶרֶץ, אַף כָּאן שֶׁבַח אֶרֶץ.
+*Translation:* The Gemara asks: **And** as for **Reish Lakish,** for **what** *halakha* **does he use this** term **“your land”?** He holds that the term **is necessary for that which is taught** in a *baraita*: **Rabban Gamliel, son of Rabbi** Yehuda HaNasi, **says:** “From your **land” is stated here** (Deuteronomy 26:2), with regard to the first fruits, **and “land” is stated there** with regard to the praise of Eretz Yisrael: “A land of wheat and barley, vines, figs, and pomegranates, a land of olive oil and honey” (Deuteronomy 8:8), which are the seven species. This serves as the basis for a verbal analogy and teaches that **just as there,** the verse is referring only to the produce that is the **praise of Eretz** Yisrael, **so too, here,** with regard to the mitzva to bring the first fruits, the verse is referring only to the produce that is the **praise of Eretz** Yisrael, i.e., the seven species.
+
+**15.**
+*Hebrew/Aramaic:* וְאִידַּךְ, ״אֶרֶץ״ ״מֵאֶרֶץ״.
+*Translation:* The Gemara asks: **And the other** one, Rabbi Yoḥanan, since he has already expounded the term “from your land” to teach that one may not use mountain dates or valley produce, from where does he derive that only the seven species may be used? Rabbi Yoḥanan holds that since the Torah could have just written “your **land”** but instead writes **“from** your **land,”** the word “land” can be used to form the verbal analogy while the word “from” can teach that one may not use mountain dates or valley produce.
+
+**16.**
+*Hebrew/Aramaic:* וְאִידַּךְ, ״אֶרֶץ״ ״מֵאָרֶץ״ לָא מַשְׁמַע לֵיהּ.
+*Translation:* **And the other one,** Reish Lakish, what does he derive from the fact that the Torah adds the word “from”? **He does not learn** anything from the fact the Torah could have just written “your **land”** but instead writes **“from** your **land.”** In Hebrew, the term: From your land, is expressed by a single word: *Me’artzekha*. Reish Lakish holds that the verbal analogy uses the entire word.
+
+**17.**
+*Hebrew/Aramaic:* תָּנֵי חֲדָא: שֶׁבְּגַג, וְשֶׁבְּחוּרְבָּה, שֶׁבְּעָצִיץ, וְשֶׁבִּסְפִינָה – מֵבִיא וְקוֹרֵא. וְתַנְיָא אִידַּךְ: מֵבִיא וְאֵינוֹ קוֹרֵא.
+*Translation:* § **It is taught** in **one** *baraita*: With regard to produce **that** grew **on a roof, or that** grew **in a ruin, or that** grew **in a flowerpot, or that** grew **on a ship,** the owner **brings** it to the Temple **and recites** the accompanying passage of thanks to God (see Deuteronomy 26:1–11). And **it is taught** in **another** *baraita* with regard to such fruits: The owner **brings** them **but does not recite** the accompanying passage.
+
+**18.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא רֵישׁ לָקִישׁ, גַּג אַגַּג לָא קַשְׁיָא: הָא – בְּגַג דִּמְעָרָה, הָא – בְּגַג דְּבַיִת.
+*Translation:* The Gemara attempts to reconcile the *baraitot*: **Granted** according to **Reish Lakish,** both *baraitot* accord with his opinion that even inferior produce can be brought as first fruits, and they contradict each other only with regard to whether or not one should recite the accompanying passage. And even with regard to that, the fact that the ruling of one *baraita* about produce that grew on **a roof** is contradicted **by** the ruling of the other *baraita* about produce that grew on **a roof** is **not difficult.** One can explain that **this** *baraita*, which states that the passage is recited, **is referring to a roof of a cave,** which is considered part of the ground, whereas **that** *baraita*, which states that the passage is not recited, **is referring to a roof of a house.**
+
+**19.**
+*Hebrew/Aramaic:* חוּרְבָּה אַחוּרְבָּה – לָא קַשְׁיָא: כָּאן בְּחוּרְבָּה עֲבוּדָה, כָּאן בְּחוּרְבָּה שֶׁאֵינָהּ עֲבוּדָה.
+*Translation:* Similarly, the fact that the ruling of one *baraita* about produce that grew in **a ruin** is contradicted **by** the ruling of the other *baraita* about produce that grew in **a ruin** is **not difficult.** One can explain that **here,** the *baraita* that states that the passage is recited, **is referring to a cultivated ruin,** whereas **there,** the *baraita* that states that the passage is not recited, **is referring to an uncultivated ruin.**
+
+**20.**
+*Hebrew/Aramaic:* עָצִיץ אַעָצִיץ – לָא קַשְׁיָא: כָּאן בְּנָקוּב, כָּאן בְּשֶׁאֵינוֹ נָקוּב.
+*Translation:* And the fact that the ruling of one *baraita* about produce that grew in **a flowerpot** is contradicted **by** the ruling of the other *baraita* about produce that grew in **a flowerpot** is **not difficult.** One can explain that **here,** the *baraita* that states that the passage is recited, **is referring to a perforated** flowerpot, where the produce is able to draw nourishment from the soil beneath it, whereas **there,** the *baraita* that states that the passage is not recited, **is referring to an unperforated** flowerpot.
+
+**21.**
+*Hebrew/Aramaic:* סְפִינָה אַסְּפִינָה – לָא קַשְׁיָא, כָּאן בִּסְפִינָה שֶׁל עֵץ, כָּאן בִּסְפִינָה שֶׁל חֶרֶס.
+*Translation:* And the fact that the ruling of one *baraita* about fruit that grew on **a ship** is contradicted **by** the ruling of the other *baraita* about fruit that grew on **a ship** is **not difficult.** One can explain that **here,** the *baraita* that states that the passage is recited **is referring to a ship** made **of wood,** where the fruit was able to draw nourishment through the wood from the ground, whereas, **there,** the *baraita* that states that the passage is not recited **is referring to a ship** made **of earthenware.**

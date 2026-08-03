@@ -36,7 +36,7 @@ Tosafot adds a further point: one might ask why Rav Assi is concerned about this
 
 The *gemara* now turns to a variation: the *kiddushin* was *leda'as aviha* — her father knew of and approved the *kiddushin* — but the *nisuin* took place *shelo leda'as aviha*, and the father is present, *v'aviha kan*. Presumably the father found out after the fact and said nothing. What is the legal status of his silence?
 
-### Silence: Approval or Obj…
+### Silence: Approval/Object
 
 Rav Huna says: *eina ocheles* — she may not eat *terumah*. Even accepting Rav's position that when the father is in a distant country we presume he would approve, *hasam hu d'lo isei l'av* — that is only because the father is not present, and in his absence we may assume he will be satisfied when he learns of it. But here, *d'isei l'av* — the father is present. He heard about the *nisuin* and said nothing. *Hai de'ishtik mirtzach ratach* — his silence reflects smoldering anger; a man too upset to speak should not be understood as having acquiesced.
 

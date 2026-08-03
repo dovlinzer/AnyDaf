@@ -55,3 +55,68 @@
 **14.**
 *Hebrew/Aramaic:* אָמַר רַב יִצְחָק בַּר שְׁמוּאֵל בַּר מָרְתָא מִשְּׁמֵיהּ דְּרַב תִּדַּע דְּ״הַטּוֹב וְהַמֵּטִיב״ לָאו דְּאוֹרָיְיתָא שֶׁהֲרֵי פּוֹתֵחַ בָּהּ בְּ״בָרוּךְ״ וְאֵין חוֹתֵם בָּהּ בְּ״בָרוּךְ״, כִּדְתַנְיָא: כׇּל הַבְּרָכוֹת כּוּלָּן פּוֹתֵחַ בָּהֶן בְּ״בָרוּךְ״ וְחוֹתֵם בָּהֶן בְּ״בָרוּךְ״, חוּץ מִבִּרְכַּת הַפֵּירוֹת וּבִרְכַּת הַמִּצְווֹת, וּבְרָכָה הַסְּמוּכָה לַחֲבֶרְתָּהּ, וּבְרָכָה אַחֲרוֹנָה שֶׁבִּקְרִיאַת שְׁמַע, יֵשׁ מֵהֶן שֶׁפּוֹתֵחַ בָּהֶן בְּ״בָרוּךְ״ וְאֵין חוֹתֵם בְּ״בָרוּךְ״,
 *Translation:* **Rav Yitzḥak bar Shmuel bar Marta said** another proof **in the name of Rav: Know** that the blessing: **Who is good and does good, is not** required **by Torah law,** as one who recites it **begins** to recite it **with: Blessed, but does not conclude reciting it with: Blessed.** This is the formula in all comparable blessings, **as it was taught** in a *baraita*: **All blessings,** one **begins** to recite **them with: Blessed, and concludes** reciting **them with: Blessed, except for blessings over fruit, blessings over mitzvot, a blessing that is juxtaposed to another** blessing, **and the final blessing after *Shema*. There are among these** blessings **those that** one who recites it **begins** to recite it **with: Blessed, but does not conclude reciting it with: Blessed;**
+
+
+---
+
+### Berakhot 46b
+
+**1.**
+*Hebrew/Aramaic:* וְיֵשׁ מֵהֶן שֶׁחוֹתֵם בָּהֶן בְּ״בָרוּךְ״ וְאֵין פּוֹתֵחַ בְּ״בָרוּךְ״. וְ״הַטּוֹב וְהַמֵּטִיב״ פּוֹתֵחַ בְּ״בָרוּךְ״ וְאֵין חוֹתֵם בְּ״בָרוּךְ״. מִכְּלָל דִּבְרָכָה בִּפְנֵי עַצְמָהּ הִיא.
+*Translation:* **and there are among these** blessings **that** one who recites it **concludes** reciting it **with: Blessed, but does not begin** reciting it **with: Blessed.** The blessing: **Who is good and does good,** one who recites it **begins** to recite it **with: Blessed, but does not conclude** reciting it **with: Blessed.** This proves **by inference that it is an independent blessing.**
+
+**2.**
+*Hebrew/Aramaic:* וְאָמַר רַב נַחְמָן בַּר יִצְחָק: תִּדַּע דְּ״הַטּוֹב וְהַמֵּטִיב״ לָאו דְּאוֹרָיְיתָא — שֶׁהֲרֵי עוֹקְרִין אוֹתָהּ בְּבֵית הָאֵבֶל. כִּדְתַנְיָא: מָה הֵם אוֹמְרִים בְּבֵית הָאֵבֶל? — ״בָּרוּךְ הַטּוֹב וְהַמֵּטִיב״. רַבִּי עֲקִיבָא אוֹמֵר: ״בָּרוּךְ דַּיַּין הָאֱמֶת״.
+*Translation:* **And Rav Naḥman bar Yitzḥak said: Know** that the blessing: **Who is good and does good, is not** required **by Torah law, as it is eliminated in the house of the mourner, as it was taught** in a *baraita* according to the opinion of Rabbi Akiva: **What do they say in the house of the mourner? Blessed…Who is good and does good. Rabbi Akiva says: Blessed…the true Judge.**
+
+**3.**
+*Hebrew/Aramaic:* ״הַטּוֹב וְהַמֵּטִיב״ — אִין, ״דַּיַּין אֱמֶת״ — לָא?! אֶלָּא אֵימָא אַף ״הַטּוֹב וְהַמֵּטִיב״.
+*Translation:* The first opinion in the *baraita* is challenged: **Who is good and does good, yes,** it is recited in the house of the mourner, **the true Judge, no,** it is not recited? **Rather, say: Who is good and does good,** is recited **as well.**
+
+**4.**
+*Hebrew/Aramaic:* מָר זוּטְרָא אִיקְּלַע לְבֵי רַב אָשֵׁי, אִיתְּרַע בֵּיהּ מִלְּתָא, פְּתַח וּבָרֵיךְ: ״הַטּוֹב וְהַמֵּטִיב, אֵל אֱמֶת, דַּיַּין אֱמֶת, שׁוֹפֵט בְּצֶדֶק, לוֹקֵחַ בַּמִּשְׁפָּט, וְשַׁלִּיט בְּעוֹלָמוֹ לַעֲשׂוֹת בּוֹ כִּרְצוֹנוֹ, כִּי כׇל דְּרָכָיו מִשְׁפָּט, שֶׁהַכֹּל שֶׁלּוֹ וַאֲנַחְנוּ עַמּוֹ וַעֲבָדָיו, וּבַכֹּל אֲנַחְנוּ חַיָּיבִים לְהוֹדוֹת לוֹ וּלְבָרְכוֹ, גּוֹדֵר פְּרָצוֹת בְּיִשְׂרָאֵל הוּא יִגְדּוֹר אֶת הַפִּרְצָה הַזֹּאת בְּיִשְׂרָאֵל לְחַיִּים״.
+*Translation:* The Gemara recounts: **Mar Zutra happened** to come **to Rav Ashi’s home** when an **incident of** mourning **befell** Rav Ashi. Mar Zutra **began** a combined blessing **and recited:** **Who is good and does good,**  **God of truth, the true Judge,** **Who judges with righteousness, takes away with justice,** **and is the ruler of His world to do in it as He wills,** **as all His ways are just,** **that all is His and we are His people and His servants,** **and in everything we are obligated to thank Him and bless Him,** **Who repairs the breaches in Israel,** **He will repair this breach in Israel for life.** Mar Zutra included both: Who is good and does good, as well as mourning and acceptance of divine justice.
+
+**5.**
+*Hebrew/Aramaic:* לְהֵיכָן הוּא חוֹזֵר? רַב זְבִיד מִשְּׁמֵיהּ דְּאַבָּיֵי אָמַר: חוֹזֵר לָרֹאשׁ, וְרַבָּנַן אָמְרִי לַמָּקוֹם שֶׁפָּסַק, וְהִלְכְתָא לַמָּקוֹם שֶׁפָּסַק.
+*Translation:* Returning to the original topic, it was mentioned above that one interrupts his meal to form a *zimmun* with two others who finished eating. The question is raised: **To where does he return** when he finishes his own meal and must begin to recite his own Grace after Meals? **Rav Zevid in the name of Abaye said: He returns to the beginning** and recites the entire Grace after Meals. **And the Rabbis say: He returns to the place that he stopped. And the *halakha* is: He returns to the place that he stopped,** i.e., to the beginning of the second blessing.
+
+**6.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רֵישׁ גָּלוּתָא לְרַב שֵׁשֶׁת: אַף עַל גַּב דְּרַבָּנַן קַשִּׁישֵׁי אַתּוּן, פָּרְסָאֵי בְּצׇרְכֵי סְעוּדָה בְּקִיאִי מִינַּיְיכוּ. בִּזְמַן שֶׁהֵן שְׁתֵּי מִטּוֹת, גָּדוֹל — מֵסֵב בָּרֹאשׁ, וְשֵׁנִי לוֹ — לְמַעְלָה הֵימֶנּוּ. וּבִזְמַן שֶׁהֵם שָׁלֹשׁ, גָּדוֹל — מֵסֵב בָּאֶמְצַע, שֵׁנִי לוֹ — לְמַעְלָה הֵימֶנּוּ, שְׁלִישִׁי לוֹ — לְמַטָּה הֵימֶנּוּ.
+*Translation:* On the topic of meals, the Gemara relates the following: **The Exilarch said to Rav Sheshet: Although you are elderly Sages, the Persians are more expert than you with regard to the required** etiquette at **meals.** The Persian custom is that **when there are two divans** on which they would recline, **the greater** of the two people **reclines first and the** person **second to him** in importance reclines on the divan **above him,** alongside his head. **When there are three** divans, **the greatest** of the three **reclines** on the middle divan, **the one second to him** in importance reclines on the divan **above him, and the one third to him** in importance reclines on the divan **below** the greatest of the three.
+
+**7.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ, וְכִי בָּעֵי אִישְׁתַּעוֹיֵי בַּהֲדֵיהּ, מְתָרֵיץ תָּרוֹצֵי וְיָתֵיב וּמִשְׁתַּעֵי בַּהֲדֵיהּ?! אֲמַר לֵיהּ: שָׁאנֵי פָּרְסָאֵי, דְּמַחְוֵי לֵיהּ בְּמָחוֹג.
+*Translation:* Rav Sheshet **said to** the Exilarch that the custom is flawed. **If** the greater **wishes to speak with** the one second to him in importance who is reclining above his head, **he must straighten up and sit and** only then will he be able to **speak to him.** The Exilarch **answered: The Persians are different, as they signal** and communicate **with** hand **gestures,** especially during mealtimes, so there is no need to sit up.
+
+**8.**
+*Hebrew/Aramaic:* מַיִם רִאשׁוֹנִים מֵהֵיכָן מַתְחִילִין? אֲמַר לֵיהּ: מִן הַגָּדוֹל.
+*Translation:* Rav Sheshet asked the Exilarch about the Persian practice with regard to **the first waters.** When washing hands before the meal, **from where do they begin?** The Exilarch **said to him: They begin from the greatest.**
+
+**9.**
+*Hebrew/Aramaic:* יֵשֵׁב גָּדוֹל וְיִשְׁמוֹר יָדָיו עַד שֶׁנּוֹטְלִין כּוּלָּן? אֲמַר לֵיהּ: לְאַלְתַּר מַיְיתוּ תַּכָּא קַמֵּיהּ.
+*Translation:* Rav Sheshet asked: If that is so, **should the greatest** person present **sit and keep his hands clean** and wait until **everyone has washed** so that they may all be served? The Exilarch **said to him: They bring him his table [*takka*] immediately,** as the custom was that each person ate at his own private table, and they brought the table before the greatest person present immediately after he washed so that he need not wait for the others.
+
+**10.**
+*Hebrew/Aramaic:* מַיִם אַחֲרוֹנִים מֵהֵיכָן מַתְחִילִין? אֲמַר לֵיהּ: מִן הַקָּטָן.
+*Translation:* Rav Sheshet asked the Exilarch about the Persian practice with regard to **the final waters.** When washing hands after the meal, **from where do they begin?** The Exilarch **said to him: They begin with the least significant** of the attendees.
+
+**11.**
+*Hebrew/Aramaic:* וְגָדוֹל יָתֵיב וְיָדָיו מְזוֹהָמוֹת עַד שֶׁנּוֹטְלִין כּוּלָּן? אֲמַר לֵיהּ: לָא מְסַלְּקִי תַּכָּא מִקַּמֵּיהּ עַד דְּנִימְטֵי מַיָּא לְגַבֵּיהּ.
+*Translation:* Rav Sheshet said: If so, **should the greatest** person present **sit with dirty hands until everyone washes** his hands? The Exilarch **said to him: They do not remove the table from before him until the water reaches him;** he can continue eating while the others are washing.
+
+**12.**
+*Hebrew/Aramaic:* אֲמַר רַב שֵׁשֶׁת: אֲנָא מַתְנִיתָא יָדַעְנָא, דְּתַנְיָא: כֵּיצַד סֵדֶר הֲסִבָּה? — בִּזְמַן שֶׁהֵן שְׁתֵּי מִטּוֹת — גָּדוֹל מֵסֵב בָּרֹאשׁ, וְשֵׁנִי לוֹ לְמַטָּה הֵימֶנּוּ. בִּזְמַן שֶׁהֵן שָׁלֹשׁ מִטּוֹת — גָּדוֹל מֵסֵב בָּרֹאשׁ, שֵׁנִי לוֹ לְמַעְלָה הֵימֶנּוּ, שְׁלִישִׁי לוֹ לְמַטָּה הֵימֶנּוּ. מַיִם הָרִאשׁוֹנִים מַתְחִילִין מִן הַגָּדוֹל. מַיִם אַחֲרוֹנִים, בִּזְמַן שֶׁהֵם חֲמִשָּׁה — מַתְחִילִין מִן הַגָּדוֹל, וּבִזְמַן שֶׁהֵם מֵאָה — מַתְחִילִין מִן הַקָּטָן עַד שֶׁמַּגִּיעִים אֵצֶל חֲמִישִׁי, וְחוֹזְרִין וּמַתְחִילִין מִן הַגָּדוֹל. וְלִמְקוֹם שֶׁמַּיִם אַחֲרוֹנִים חוֹזְרִין — לְשָׁם בְּרָכָה חוֹזֶרֶת.
+*Translation:* **Rav Sheshet said:** In terms of conduct at a meal, **I know a *baraita*, as it was taught: What is the order of reclining? When there are two divans** on which they would recline, **the greater** of the two people **reclines first, and the** person **second to him** in importance reclines on the divan **below him. When there are three divans, the greatest** of the three **reclines first,** on the middle divan, **the one second to him** in importance reclines on the divan **above him, and the one third to him** in importance reclines on the divan **below** the greatest of the three. **The first waters** before the meal, **they begin with the greatest** person present. **The final waters; when they are five** people, **they begin with the greatest** person present. **When they are** more than that, even **one hundred, they begin** the final waters **with the least significant** of the attendees **until they reach the five greatest** present, at which point **they return and begin with the greatest** present. **And to the place that the final waters return the blessing also reverts,** and the greatest present, the first among the final five to wash his hands, recites Grace after Meals.
+
+**13.**
+*Hebrew/Aramaic:* מְסַיַּיע לֵיהּ לְרַב, דְּאָמַר רַבִּי חִיָּיא בַּר אָשֵׁי אָמַר רַב: כׇּל הַנּוֹטֵל יָדָיו בָּאַחֲרוֹנָה תְּחִלָּה — הוּא מְזוּמָּן לִבְרָכָה.
+*Translation:* **This** *baraita* **supports** the opinion of **Rav, as Rabbi Ḥiyya bar Ashi said** that **Rav said: Whoever washes his hands first at the end** of the meal **is designated to** recite **the blessing** of Grace after Meals.
+
+**14.**
+*Hebrew/Aramaic:* רַב וְרַבִּי חִיָּיא הֲווֹ יָתְבִי בִּסְעוֹדְתָּא קַמֵּיהּ דְּרַבִּי, אֲמַר לֵיהּ רַבִּי לְרַב: קוּם, מְשִׁי יְדָךְ. חַזְיֵיהּ דְּקָא מְרַתֵּת. אֲמַר לֵיהּ: בַּר פַּחֲתֵי, ״עַיֵּין בְּבִרְכַּת מְזוֹנָא״ קָאָמַר לָךְ.
+*Translation:* Similarly, the Gemara relates: **Rav and Rabbi Ḥiyya were seated at a meal before Rabbi** Yehuda HaNasi. **Rabbi** Yehuda HaNasi **said to Rav: Stand, wash your hands.** Rabbi Ḥiyya **saw that** Rav **was trembling** in fear that perhaps he had conducted himself improperly during the meal and therefore had to wash his hands. Rabbi Ḥiyya **said to him: Son of noblemen, he is saying to you to review Grace after Meals,** as the first to wash his hands after the meal is honored with leading the blessing.
+
+**15.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אֵין מְכַבְּדִין לֹא בִּדְרָכִים וְלֹא בִּגְשָׁרִים,
+*Translation:* The Gemara continues to discuss the topic of washing after a meal. **The Sages taught:** Although it is customary to defer to greater people, nevertheless, **one shows deference neither on roads nor on bridges,**

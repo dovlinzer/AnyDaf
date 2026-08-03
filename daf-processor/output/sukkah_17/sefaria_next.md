@@ -63,3 +63,24 @@
 **16.**
 *Hebrew/Aramaic:* אִתְּמַר: סִיכֵּךְ עַל גַּבֵּי אַכְסַדְרָה שֶׁיֵּשׁ לָהּ פַּצִּימִין — כְּשֵׁרָה. שֶׁאֵין לָהּ פַּצִּימִין, אַבָּיֵי אָמַר: כְּשֵׁרָה, וְרָבָא אָמַר: פְּסוּלָה. אַבָּיֵי אָמַר כְּשֵׁרָה —
 *Translation:* § **It was stated** that the *amora’im* disagree: **If one roofed a portico that has posts** on its open side, the *sukka* is **fit.** If one roofed a portico **that does not have posts** on its open side, **Abaye said:** The *sukka* is **fit,** and **Rava said:** The *sukka* is **unfit.** The Gemara elaborates: **Abaye said:** The *sukka* is **fit,**
+
+
+---
+
+### Sukkah 18b
+
+**1.**
+*Hebrew/Aramaic:* אָמְרִינַן פִּי תִקְרָה יוֹרֵד וְסוֹתֵם. רָבָא אָמַר פְּסוּלָה — לָא אָמְרִינַן פִּי תִקְרָה יוֹרֵד וְסוֹתֵם.
+*Translation:* as **we say** that **the edge of the roof descends and seals** the opening. The edge of the roof itself is considered as though it were a small partition that extends downward and forms a wall. **Rava said:** This *sukka* is **unfit,** as **we do not say** that **the edge of the roof descends and seals.**
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא: אַבָּיֵי, לְדִידָךְ דְּאָמְרַתְּ פִּי תִקְרָה יוֹרֵד וְסוֹתֵם, אֲפִילּוּ הִפְחִית דּוֹפֶן אֶמְצָעִי! אֲמַר לֵיהּ: מוֹדֵינָא לָךְ בְּהָהִיא, דְּהָוֵה לֵיהּ כְּמָבוֹי הַמְפוּלָּשׁ.
+*Translation:* **Rava said to Abaye: According to you, who said: The edge of the roof descends and seals** the opening like a wall, then in a case where the roofing of the *sukka* consists of straight beams, **even if one removed the middle wall,** leaving the *sukka* with only two parallel walls, the *sukka* would nevertheless be fit. Since the edge of the roof descends and seals, the legal status of that *sukka* is the same as one that has walls on all sides. Abaye **said to him: I concede to you** that **in that** particular case the principle: The edge of the roof descends and seals, does not apply, **as it is** considered **like an open alleyway,** through which the multitudes pass on two opposite sides. In other cases, the principle applies.
+
+**3.**
+*Hebrew/Aramaic:* לֵימָא אַבָּיֵי וְרָבָא בִּפְלוּגְתָּא דְּרַב וּשְׁמוּאֵל קָמִיפַּלְגִי. דְּאִתְּמַר: אַכְסַדְרָה בְּבִקְעָה, רַב אָמַר: מוּתָּר לְטַלְטֵל בְּכוּלּוֹ, דְּאָמְרִינַן פִּי תִּקְרָה יוֹרֵד וְסוֹתֵם. וּשְׁמוּאֵל אָמַר: אֵין מְטַלְטְלִין בָּהּ אֶלָּא בְּאַרְבַּע אַמּוֹת, דְּלָא אָמְרִינַן פִּי תִקְרָה יוֹרֵד וְסוֹתֵם.
+*Translation:* **The Gemara suggests: Let us say** that **Abaye and Rava disagree with regard to** the same issue that was the subject **in the dispute of Rav and Shmuel;** they are merely elaborating on a fundamental dispute between other *amora’im*. **As it was stated:** *Amora’im* disagree with regard to **a portico,** which has a roof and no walls or incomplete walls, located **in a field,** which is a *karmelit*. **Rav said: It is permitted to move** an object **throughout the entire** portico, **as we say** that **the edge of the roof descends and seals** the opening, rendering the portico a private domain, as it is effectively surrounded by partitions. **And Shmuel said: One may move** an object **in** the portico **only within four** cubits, **as we do not say** that **the edge of the roof descends and seals** the opening. Therefore, the portico’s legal status is that of the surrounding field. Ostensibly, the basis of the dispute between Abaye and Rava is identical to the basis of the dispute between Rav and Shmuel.
+
+**4.**
+*Hebrew/Aramaic:* אַלִּיבָּא דִּשְׁמוּאֵל, כּוּלֵּי עָלְמָא לָא פְּלִיגִי.
+*Translation:* The Gemara rejects this comparison and says: **According to** the opinion **of Shmuel, everyone,** even Abaye, **agrees** that one does not apply the principle: The edge of the roof descends and seals, to the case of a *sukka*.

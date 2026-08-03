@@ -79,3 +79,44 @@
 **20.**
 *Hebrew/Aramaic:* תָּא שְׁמַע:
 *Translation:* The Gemara further suggests: **Come** and **hear** a resolution to this dilemma from a *baraita*:
+
+
+---
+
+### Yoma 49b
+
+**1.**
+*Hebrew/Aramaic:* כֵּיצַד הוּא עוֹשֶׂה? אוֹחֵז אֶת הַבָּזֵךְ בְּרֹאשׁ אֶצְבְּעוֹתָיו, וְיֵשׁ אוֹמְרִים בְּשִׁינָּיו, וּמַעֲלֶה בְּגוּדָלוֹ עַד שֶׁמַּגַּעַת לְבֵין אַצִּילֵי יָדָיו, וְחוֹזֵר וּמַחְזִירָהּ לְתוֹךְ חׇפְנָיו, וְצוֹבְרָהּ, כְּדֵי שֶׁיְּהֵא עֲשָׁנָהּ שׁוֹהֶה לָבוֹא. וְיֵשׁ אוֹמְרִים: מְפַזְּרָהּ, כְּדֵי שֶׁיְּהֵא עֲשָׁנָהּ מְמַהֶרֶת לָבוֹא.
+*Translation:* **How should** the High Priest **act** in the Holy of Holies, when he needs to place the incense on the coals by taking a handful from the spoon and placing it in his hands? After he places the coal pan on the ground, **he holds the** front of **the ladle,** i.e., the spoon of incense, **with his fingertips, and some say** he holds it **with his teeth.** At this stage the handle of the spoon rests between his arms. **And** he pushes it and **raises** it **up** slowly **with his thumb** toward his body **until it reaches between his elbows,** which he then uses to turn it over. **He then returns** the incense **into his palms,** after which he pours it from his hands into the coal pan. **And he heaps** the incense into a pile on the coals **so that its smoke rises slowly. And some say** he does the opposite, that **he scatters it so that its smoke rises quickly.**
+
+**2.**
+*Hebrew/Aramaic:* וְזוֹ הִיא עֲבוֹדָה קָשָׁה שֶׁבַּמִּקְדָּשׁ. זוֹ הִיא וְתוּ לָא? וְהָא אִיכָּא מְלִיקָה! וְהָא אִיכָּא קְמִיצָה! אֶלָּא: זוֹ הִיא עֲבוֹדָה קָשָׁה מֵעֲבוֹדוֹת קָשׁוֹת שֶׁבַּמִּקְדָּשׁ. שְׁמַע מִינַּהּ: חוֹפֵן וְחוֹזֵר וְחוֹפֵן. שְׁמַע מִינַּהּ.
+*Translation:* **And this** taking of a handful of incense **is** the most **difficult** sacrificial **rite in the Temple.** The Gemara asks: **This one** is the hardest rite, **and no other? But there is pinching,** which is also considered extremely difficult; **and there is taking a handful** of a meal-offering, another complex rite. **Rather, this** taking of a handful of incense **is** one **of** the most **difficult rites in the Temple,** rather than the single most difficult one. In any event, you can **learn from this** that the High Priest **scoops** a handful **and again scoops.** The Gemara concludes: Indeed, **learn from this** that it is so.
+
+**3.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: שָׁחַט וָמֵת, מַה הוּא שֶׁיִּכָּנֵס אַחֵר בְּדָמוֹ? מִי אָמְרִינַן: ״בְּפַר״ — וַאֲפִילּוּ בְּדָמוֹ שֶׁל פַּר, אוֹ דִילְמָא: ״בְּפַר״ — וְלֹא בְּדָמוֹ שֶׁל פַּר.
+*Translation:* § **A dilemma was raised before** the Sages: If a High Priest **slaughtered** the bull **and died, what is** the *halakha* with regard to whether **another** High Priest may **enter** the Holy of Holies **with the blood** of the bull that his predecessor slaughtered? **Do we say** that the verse: “With this Aaron shall come into the sacred place, **with a bull”** (Leviticus 16:3) teaches that the priest must enter with the blood of a bull, but it need not necessarily be the blood of the bull he himself slaughtered, **and** in that case he may enter **even with the blood of a bull** slaughtered by someone else? **Or perhaps** the verse should be interpreted precisely: **“With a bull,” and not with the blood of a bull** slaughtered by another?
+
+**4.**
+*Hebrew/Aramaic:* רַבִּי חֲנִינָא אוֹמֵר: ״בְּפַר״ — וְלֹא בְּדָמוֹ שֶׁל פַּר, וְרֵישׁ לָקִישׁ אָמַר: ״בְּפַר״ — וַאֲפִילּוּ בְּדָמוֹ שֶׁל פַּר. רַבִּי אַמֵּי אָמַר: ״בְּפַר״ — וְלֹא בְּדָמוֹ שֶׁל פַּר, רַבִּי יִצְחָק אָמַר: ״בְּפַר״ — וַאֲפִילּוּ בְּדָמוֹ שֶׁל פַּר.
+*Translation:* The Sages disputed this matter. **Rabbi Ḥanina says: “With a bull,” and not with the blood of a bull,** which means that the newly appointed High Priest must slaughter another bull, as he can enter only with the blood of a bull he himself slaughtered. **And Reish Lakish said: “With a bull,” and even with the blood of a bull.** Likewise, **Rabbi Ami said: “With a bull” and not with the blood of a bull; Rabbi Yitzḥak said: “With a bull,” and even with the blood of a bull.**
+
+**5.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רַבִּי אַמֵּי לְרַבִּי יִצְחָק נַפָּחָא: נִמְנִין וּמוֹשְׁכִין יְדֵיהֶן מִמֶּנּוּ עַד שֶׁיִּשָּׁחֵט, וְאִם אִיתָא — ״עַד שֶׁיִּזְרוֹק״ מִיבְּעֵי לֵיהּ!
+*Translation:* **Rabbi Ami raised an objection to Rabbi Yitzḥak Nappaḥa,** the smith: To join a group of people who arranged to partake together of a single Paschal offering, individuals may **register** as part of a group **and they** may **withdraw from it** and join another group **until** the offering **is slaughtered. And if it is so,** that the blood of an animal is considered part of the offering, this *tanna* who authored this statement **should have said** that they may withdraw **until** the blood **is sprinkled.** If, as you maintain, the blood of an offering is part of the offering itself, why can’t a person register to or withdraw from a group of a Paschal offering until its blood is sprinkled?
+
+**6.**
+*Hebrew/Aramaic:* שָׁנֵי הָתָם, דִּכְתִיב: ״מִהְיוֹת מִשֶּׂה״ — מֵחַיּוּתֵהּ דְּשֶׂה.
+*Translation:* He answered him: **It is different there, as it is written:** “And if the household is too small **for a lamb [*mehiyot miseh*],** he and his neighbor who is next to his house” (Exodus 12:4). The phrase “*mehiyot miseh*” is read as ***meiḥiyutei deseh*,** from the life of a lamb. In other words, one can withdraw from a group only as long as the lamb is alive. If so, its blood is not considered part of the Paschal lamb by a special decree of the Torah, which does not apply to Yom Kippur.
+
+**7.**
+*Hebrew/Aramaic:* מֵתִיב מָר זוּטְרָא: וְאֵין פּוֹדִין — לֹא בָּעֵגֶל וְלֹא בְּחַיָּה וְלֹא בִּשְׁחוּטָה וְלֹא בִּטְרֵיפָה וְלֹא בְּכִלְאַיִם וְלֹא בְּכוֹי, אֶלָּא בְּשֶׂה. שָׁאנֵי הָתָם, דְּיָלֵיף ״שֶׂה״ ״שֶׂה״ מִפֶּסַח.
+*Translation:* **Mar Zutra raised an objection: And one may not redeem** a male firstborn donkey **with a calf, nor with an undomesticated animal, nor with a slaughtered** lamb, **nor with an animal with a condition that will cause it to die within twelve months [*tereifa*], nor with** the product of the prohibited **crossbreeding** of a lamb and a goat, **nor with a *koy*,** a kosher animal with characteristics of both a domesticated animal and a non-domesticated animal, **but with a lamb.** This proves that a slaughtered animal is not considered a lamb. The Gemara rejects this claim: **It is different there, as** that *tanna* **derives** a verbal analogy of **“lamb”** (Exodus 13:13) and **“lamb”** (Exodus 12:4) **from the Paschal offering:** Just as a slaughtered lamb cannot be used for a Paschal offering, the same applies to the case of a firstborn donkey.
+
+**8.**
+*Hebrew/Aramaic:* אִי מָה לְהַלָּן זָכָר תָּם וּבֶן שָׁנָה, אַף כָּאן זָכָר תָּם וּבֶן שָׁנָה? תַּלְמוּד לוֹמַר: ״תִּפְדֶּה״ ״תִּפְדֶּה״ רִיבָּה.
+*Translation:* The Gemara asks: **If** so, **just as there,** the Paschal offering must be **male, unblemished, and a year old, so too here,** for the redemption of a firstborn donkey, one should be obligated to use **a male** that is **unblemished and a year old.** Therefore **the verse states:** “And every firstborn of a donkey you shall redeem with a lamb; and if you shall not redeem it, then you shall break its neck” (Exodus 13:13). The repetition of: **“You shall redeem,” “you shall** not **redeem,”** serves to **amplify** the definition of the offering and include other animals as acceptable for this redemption, not merely those fit for the Paschal offering.
+
+**9.**
+*Hebrew/Aramaic:* אִי ״תִּפְדֶּה״ ״תִּפְדֶּה״ רִיבָּה, אֲפִילּוּ כּוּלְּהוּ נָמֵי! אִם כֵּן, ״שֶׂה״ מַאי אַהֲנִי לֵיהּ?
+*Translation:* The Gemara asks: **If** the phrases **“You shall redeem” “you shall redeem”** serve to **amplify, even all** animals should **also** be fit for the redemption of a firstborn donkey, including a calf, undomesticated beast, a slaughtered animal, and the other exceptions listed above. The Gemara answers: **If so, what purpose does** the verbal analogy of **“lamb” serve?** Rather, it is evident that certain animals are included while others are excluded. In any case, it is clear that the *halakha* of the blood of the bull on Yom Kippur cannot be derived from here.

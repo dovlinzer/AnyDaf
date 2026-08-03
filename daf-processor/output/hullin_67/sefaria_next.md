@@ -67,3 +67,92 @@
 **17.**
 *Hebrew/Aramaic:* שָׁחַט אֶת אִמּוֹ וְאַחַר כָּךְ חֲתָכוֹ –
 *Translation:* If **one slaughtered its mother and** only **afterward cut off** the foreleg that had been extended outside,
+
+
+---
+
+### Hullin 68b
+
+**1.**
+*Hebrew/Aramaic:* הַבָּשָׂר מַגַּע נְבֵלָה, דִּבְרֵי רַבִּי מֵאִיר.
+*Translation:* then **the flesh** of both the mother animal and the fetus, excluding the foreleg, is impure due to **contact with a carcass.** Since the foreleg of the now dead fetus was not permitted through an act of slaughtering, it is regarded as a carcass. It therefore imparts impurity to the rest of the flesh, which was in contact with it. This is **the statement of Rabbi Meir.**
+
+**2.**
+*Hebrew/Aramaic:* וַחֲכָמִים אוֹמְרִים: מַגַּע טְרֵפָה שְׁחוּטָה.
+*Translation:* **And the Rabbis say:** Although the slaughter of the mother animal does not permit the consumption of the foreleg, it does serve to prevent the foreleg from imparting the ritual impurity of a carcass. Accordingly, the flesh has the status of having been in **contact with a slaughtered *tereifa*.** By Torah law, consumption of the animal is prohibited but it does not impart ritual impurity. The Sages decreed it to be impure in that it disqualifies sacrificial flesh with which it comes in contact.
+
+**3.**
+*Hebrew/Aramaic:* קָתָנֵי מִיהָא רֵישָׁא: הוֹצִיא עוּבָּר אֶת יָדוֹ וְהֶחְזִירָהּ, וְאַחַר כָּךְ שָׁחַט אֶת אִמּוֹ – מוּתָּר בַּאֲכִילָה; מַאי לָאו אַאֵבֶר? לָא, אַעוּבָּר.
+*Translation:* The Gemara explains the challenge to Rav’s ruling: **In any event, the first clause** of the *baraita* **teaches:** If **the fetus extended its foreleg** outside the mother animal’s body **and then brought it back** inside **and** then **afterward one slaughtered its mother,** its **consumption** is **permitted. What, is it not** referring **to the limb,** i.e., the foreleg, and the *baraita* rules that it is permitted, in contradiction to Rav’s ruling? The Gemara responds: **No,** it **is referring to** the rest of **the fetus.**
+
+**4.**
+*Hebrew/Aramaic:* אִי אַעוּבָּר, אֵימָא סֵיפָא: שָׁחַט אֶת אִמּוֹ וְאַחַר כָּךְ הֶחְזִירוֹ – אָסוּר בַּאֲכִילָה; וְאִי עוּבָּר, אַמַּאי אָסוּר?
+*Translation:* The Gemara questions this: **If** the *baraita* **is referring to** the **fetus, say the latter clause:** If **one** first **slaughtered its mother, and** only **afterward** the fetus **returned its** foreleg inside, its **consumption** is **prohibited.** The Gemara explains the question: **And if** it is referring to the **fetus, why** should it be **prohibited** in this case?
+
+**5.**
+*Hebrew/Aramaic:* כִּדְאָמַר רַב נַחְמָן בַּר יִצְחָק: לֹא נִצְרְכָה אֶלָּא לִמְקוֹם חֲתָךְ, הָכָא נָמֵי לֹא נִצְרְכָה אֶלָּא לִמְקוֹם חֲתָךְ.
+*Translation:* The Gemara answers: The *baraita* is referring to the fetus, and should be explained in a manner **similar to that which Rav Naḥman bar Yitzḥak said,** in explanation of a ruling in a *baraita* cited below, that it is **necessary only with regard to the location of the cut** limb on the fetus’s body. If the foreleg was severed at precisely the point that lay on the boundary between the inside and outside when it was extended outside the womb, the location of the cut on the fetus’s body is also prohibited. **Here too,** one can explain that this ruling is **necessary only with regard to the location of the cut,** and it teaches that if the fetus did not return its foreleg, then not only is the foreleg prohibited but the location of the cut is prohibited as well. The foreleg itself, though, is prohibited even if it was brought back inside before the slaughter.
+
+**6.**
+*Hebrew/Aramaic:* אִינִי? וְהָא כִּי אֲתָא אֲבִימִי מִבֵּי חוֹזָאֵי, אֲתָא וְאַיְיתִי מַתְנִיתָא בִּידֵיהּ: פַּרְסָה הֶחְזִיר – אֱכוֹל, פְּרָסוֹת הֶחְזִיר – אֱכוֹל. מַאי לָאו הֶחְזִיר פַּרְסָה – אֲכוּל פַּרְסָה?
+*Translation:* The Gemara asks: **Is that so? But when Avimi came from Bei Ḥozai he came and brought a *baraita* with him:** One of the sources (see 69a) that the slaughter of a pregnant animal also serves to permit the consumption of the fetus is the verse: “And every animal that has a split hoof and is cloven into two hooves, chews the cud, of the animals, it you may eat” (Deuteronomy 14:6). The verse mentions both “hoof” in the singular and “hooves” in the plural to teach that sometimes one may eat two hooves and sometimes only one, as follows: If the fetus extended two of its hooves outside the womb, if it **returned** one **hoof one may eat,** if it brought back both **hooves one may eat. What, is it not** that the *baraita* means that if it **brought back** one **hoof one may eat** that **hoof,** and likewise if it brought back both **hooves one may eat** both of them, in contradiction to Rav’s ruling?
+
+**7.**
+*Hebrew/Aramaic:* לֹא, הֶחֱזִיר פַּרְסָה – אֱכוֹל עוּבָּר. אִי עוּבָּר, מַאי אִירְיָא הֶחְזִיר? אֲפִילּוּ לֹא הֶחֱזִיר נָמֵי! אָמַר רַב נַחְמָן בַּר יִצְחָק: לֹא נִצְרְכָה אֶלָּא לִמְקוֹם חֲתָךְ.
+*Translation:* The Gemara responds: **No,** it means that if it **brought back** one **hoof** or even both, **one may eat** the rest of the **fetus** but not the hooves. The Gemara objects: **If** it is referring to the permitted status of the **fetus, why does it specifically** state that it **brought back** the hoof? **Even** if it did **not bring** it **back** the fetus would be permitted. **Rav Naḥman bar Yitzḥak said** the ruling of the *baraita* is **necessary only with regard to the location of the cut** limb on the body of the fetus. If the limb were to be severed at precisely the point that lay on the boundary between the inside and the outside when it was extended outside the womb, then the location of the cut on the fetus’s body would also be prohibited, but only if the fetus had not brought back that limb before the mother animal was slaughtered.
+
+**8.**
+*Hebrew/Aramaic:* וְהָא תְּרֵי קְרָאֵי קָא נָסֵיב לַהּ! מַאי לָאו חַד לְאֵבֶר, וְחַד לִמְקוֹם חֲתָךְ? לָא, חַד לִמְקוֹם חֲתָךְ, וְחַד לְקָלוּט בִּמְעֵי פָרָה.
+*Translation:* The Gemara persists: **But** even given Rav Naḥman bar Yitzḥak’s claim the *baraita* **adduces two verses,** i.e., the mention of hoof and hooves. **What, is it not** that **one** serves **to** permit the **limb,** in contradiction to Rav’s ruling, **and** the other **one** serves **to** permit the **location of the cut,** in accordance with Rav Naḥman bar Yitzḥak’s ruling? The Gemara responds: **No; one** mention does serve **to** permit the **location of the cut, but** the other **one** serves **to** permit a fetus with **non-cloven hooves [*kalut*]** found **inside the womb of a cow** that was slaughtered. Although the fetus does not bear the distinguishing characteristics of a kosher species, it is nevertheless permitted by virtue of the slaughter of its mother.
+
+**9.**
+*Hebrew/Aramaic:* וְאַלִּיבָּא דְּרַבִּי שִׁמְעוֹן, דְּאָמַר רַבִּי שִׁמְעוֹן: קָלוּט בֶּן פָּרָה אָסוּר. הָנֵי מִילֵּי הֵיכָא דְּיָצָא לַאֲוִיר הָעוֹלָם, אֲבָל בִּמְעֵי אִמּוֹ – שְׁרֵי.
+*Translation:* **And** it is necessary to have a specific source to permit this **according to** the opinion **of Rabbi Shimon, as Rabbi Shimon says:** A calf with **non-cloven hooves born from a** kosher **cow** is **forbidden,** as the calf does not bear the distinguishing characteristics of a kosher species. The verse teaches that **this matter** applies only **where** the fetus **emerged into the airspace of the world,** i.e., it was born before the mother animal was slaughtered. **But** if it was still **inside its mother’s womb** when the mother was slaughtered, it is permitted.
+
+**10.**
+*Hebrew/Aramaic:* עוּלָּא אָמַר רַבִּי יוֹחָנָן: וְאֵבֶר עַצְמוֹ מוּתָּר.
+*Translation:* § The Gemara attempted to challenge Rav’s ruling that once a limb of a fetus is extended outside the mother animal’s body it becomes prohibited even if it was then brought back, but did not find a conclusive refutation. It now presents a dissenting opinion: **Ulla** says that **Rabbi Yoḥanan says: And** even the **limb itself is permitted** by virtue of the slaughter of the mother animal.
+
+**11.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב יְהוּדָה לְעוּלָּא: וְהָא רַב וּשְׁמוּאֵל דְּאָמְרִי תַּרְוַיְיהוּ אֵבֶר עַצְמוֹ אָסוּר! אֲמַר לֵיהּ: מַאן יָהֵיב לַן מֵעַפְרָא דְּרַב וּשְׁמוּאֵל וּמָלֵינַן עַיְינִין, אֶלָּא הָכִי אָמַר רַבִּי יוֹחָנָן: הַכֹּל הָיוּ בִּכְלַל ״בָּשָׂר בַּשָּׂדֶה טְרֵפָה לֹא תֹאכֵלוּ״,
+*Translation:* **Rav Yehuda said to Ulla: But Rav and Shmuel both say** the **limb itself is prohibited;** how can you say otherwise? Ulla **said to him: Who will give us** some **of the dust of** the graves of **Rav and Shmuel and we will fill our eyes** with it; such is the greatness of those Sages. **But** I follow the opinion of Rabbi Yoḥanan, and **this** is what **Rabbi Yoḥanan says:** Initially one would assume **all** flesh that is permitted due to being within a certain boundary, e.g., a fetus inside its mother’s womb, the flesh of offerings of the most sacred order within the Temple courtyard, and the flesh of offerings of lesser sanctity within Jerusalem, **was included** in the verse: **“And flesh, in the field, a *tereifa*, you shall not eat”** (Exodus 22:30). The verse is interpreted to teach that if such flesh leaves its boundaries it is rendered forbidden, even should it subsequently return.
+
+**12.**
+*Hebrew/Aramaic:* כְּשֶׁפָּרַט לְךָ הַכָּתוּב גַּבֵּי חַטָּאת שֶׁיָּצְתָה חוּץ לִמְחִיצָתָהּ וְחָזְרָה – אָסוּר, חַטָּאת הוּא דִּפְרַט רַחֲמָנָא בָּהּ, אֲבָל כֹּל מִילֵּי – כֵּיוָן דַּהֲדוּר – שְׁרֵי.
+*Translation:* **Once** another **verse applies** the concept **for you specifically with regard to a sin offering,** teaching **that** if it **went outside of its boundary and returned** it is **prohibited** (see Leviticus 10:18), then it is apparent **that the Merciful One specifically applied** the concept **to a sin offering. But** with regard to **all** other **items** that left their boundary, **once** they are **brought back** they are **permitted,** including the limb of a fetus that was extended outside the womb and then was brought back.
+
+**13.**
+*Hebrew/Aramaic:* מֵיתִיבִי: ״בָּשָׂר בַּשָּׂדֶה טְרֵפָה לֹא תֹאכֵלוּ״, מָה תַּלְמוּד לוֹמַר? לְפִי שֶׁמָּצִינוּ בְּמַעֲשֵׂר שֵׁנִי וּבִכּוּרִים, שֶׁאַף עַל פִּי שֶׁיָּצְאוּ חוּץ לִמְחִיצָתָן וְחָזְרוּ – מוּתָּרִין, יָכוֹל אַף זֶה כֵּן? תַּלְמוּד לוֹמַר ״טְרֵפָה״.
+*Translation:* The Gemara **raises an objection** to the opinion of Ulla and Rabbi Yoḥanan from a *baraita*: It is derived from the verse: **“And flesh, in the field, a *tereifa*, you shall not eat,”** that flesh that leaves the boundary in which it is permitted is thereby rendered forbidden like a *tereifa*. **Why** must **the verse state** that it is like a *tereifa*? The *baraita* explains: **Since we find with regard to second tithe and first fruits that even though they went outside of their boundary,** which is the city of Jerusalem and the only place where it is permitted to eat them, nevertheless if they **are brought back** to there **they are** once again **permitted,** one **might** have thought **that also** with regard to **this** prohibition, that of flesh that leaves its boundary, **it is so,** i.e., if it is brought back it once again becomes permitted for consumption. Therefore, **the verse states: “A *tereifa*.”**
+
+**14.**
+*Hebrew/Aramaic:* מַאי תַּלְמוּדָא? אָמַר רַבָּה: כִּטְרֵפָה, מָה טְרֵפָה – כֵּיוָן שֶׁנִּטְרְפָה שׁוּב אֵין לָהּ הֶיתֵּר, אַף בָּשָׂר – כֵּיוָן שֶׁיָּצָא חוּץ לִמְחִיצָתוֹ שׁוּב אֵין לוֹ הֶיתֵּר! תְּיוּבְתָּא דְעוּלָּא, תְּיוּבְתָּא.
+*Translation:* The Gemara clarifies: **What is the** biblical **derivation** from the term “a *tereifa*”? **Rabba said:** The verse indicates that the prohibition of flesh that left its boundary is **like** the prohibition of **a *tereifa*. Just as** with regard to **a *tereifa*, once** an animal **is mortally wounded,** rendering it a *tereifa*, **it can no longer regain a permitted status, so too** with regard to **flesh** referred to in the verse: **Once it has gone outside of its boundary it can no longer regain permitted** status. Accordingly, if the limb of a fetus was extended outside the womb it would thereby become permanently prohibited, contradicting the opinion of Ulla and Rabbi Yoḥanan. The Gemara concludes: **The refutation of** the statement of **Ulla** is indeed **a conclusive refutation.**
+
+**15.**
+*Hebrew/Aramaic:* אָמַר מָר: לְפִי שֶׁמָּצִינוּ בְּמַעֲשֵׂר שֵׁנִי וּבִכּוּרִים. הֵיכָן מָצִינוּ?
+*Translation:* The Gemara analyzes the *baraita*, which states: **The Master said: Since we find with regard to second tithe and first fruits** that although they left their boundary, if they are brought back there they are again permitted. The Gemara asks: **Where did we find** this, i.e., what is the source for this *halakha*?
+
+**16.**
+*Hebrew/Aramaic:* דִּכְתִיב: ״לֹא תוּכַל לֶאֱכֹל בִּשְׁעָרֶיךָ מַעְשַׂר דְּגָנֶךָ וְגוֹ׳״, בִּשְׁעָרֶיךָ הוּא דְּלָא תֵּיכוּל, אֲבָל יָצְאוּ חוּץ לִמְחִיצָתָן וְחָזְרוּ – מוּתָּרִין.
+*Translation:* The Gemara explains **that it is written: “You may not eat within your gates the tithe of your grain,** or of your wine, or of your oil, or the firstborn of your herd or of your flock, nor any of your vows that you have vowed, nor your voluntary offerings, nor the offering of your hand. But you shall eat them before the Lord your God” (Deuteronomy 12:17–18). The phrase “the tithe of your grain, or of your wine, or of your oil” is referring to second tithe, and the phrase “the offering of your hand” is referring to first fruits. The verse states that all the items listed may be eaten only “before the Lord your God,” i.e., within the city of Jerusalem. The prohibition stated in the verse is that **within your gates,** i.e., outside of Jerusalem, **you may not eat** these items. **But** by inference, if these items **went outside of their boundary,** i.e., outside of Jerusalem, **and** then **were brought back, they are permitted.**
+
+**17.**
+*Hebrew/Aramaic:* בְּמַעְרְבָא מַתְנוּ הָכִי, רַב אָמַר: יֵשׁ לֵידָה לְאֵבָרִים, וְרַבִּי יוֹחָנָן אָמַר: אֵין לֵידָה לְאֵבָרִים.
+*Translation:* § The Gemara explained the dispute between Rav and Rabbi Yoḥanan in the way in which it was taught in Babylonia. The Gemara notes that **in the West,** Eretz Yisrael, **they taught** the dispute **like this: Rav says there is** a concept of **birth with regard to limbs.** When a limb is extended outside the womb, it is considered born and is independent of the mother animal. Consequently, it can never be permitted by virtue of the slaughter of the mother animal. **And Rabbi Yoḥanan says** that **there is no** concept of **birth with regard to limbs.** Since the limb is never considered to have been born, as long as it is inside the mother animal when the mother animal is slaughtered it will be permitted by virtue of that slaughter.
+
+**18.**
+*Hebrew/Aramaic:* מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ לְמֵיסַר מִיעוּט אֵבֶר שֶׁבִּפְנִים.
+*Translation:* The Gemara asks: **What is** the difference **between** these two versions which explain why Rav deemed the limb forbidden? The Gemara answers: The practical difference **between** them is in a case in which only the majority of a limb was extended outside the womb. In that case, the issue is whether or not **to prohibit the minority of** the **limb that** remained **inside.** If the limb is forbidden because it is considered to have been born, the entire limb would be forbidden and not just the part that was extended. If the limb is forbidden because it left its boundary, then only the part that extended outside the womb would be forbidden.
+
+**19.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: לְדִבְרֵי הָאוֹמֵר אֵין לֵידָה לְאֵבָרִים, הוֹצִיא הָעוּבָּר אֶת יָדוֹ וְהֶחְזִירָהּ, וְחָזַר וְהוֹצִיא אֶת יָדוֹ וְהֶחְזִירָהּ, עַד שֶׁהִשְׁלִימוֹ לְרוּבּוֹ, מַהוּ? מִי אָמְרִינַן הָא נְפַק לֵיהּ רוּבָּא, אוֹ דִלְמָא כֵּיוָן דַּהֲדַר הָדַר?
+*Translation:* **A dilemma was raised before** the Sages: **According to the statement of the one who says there is no** concept of **birth with regard to limbs,** if **the fetus extended its foreleg** outside the womb **and brought it back, and again it extended its** other **foreleg** outside **and brought it back,** and continued to extend parts of its body outside **until** the total amount that had been outside the womb **constituted the majority of** the fetus, **what is** the *halakha*? **Do we say** that ultimately the **majority** of the fetus **has left** the womb and the entire fetus should be regarded as having been born, and consequently the slaughter of its mother can no longer permit its being consumed? **Or perhaps, since it brought** each limb **back,** the limbs are considered to have been **brought back;** therefore, the majority of the fetus is not considered to have left the womb and it is not regarded as having been born. In that case, the slaughter of its mother would still permit its being consumed.
+
+**20.**
+*Hebrew/Aramaic:* אִם תִּמְצֵי לוֹמַר, כֵּיוָן דַּהֲדַר הָדַר, הוֹצִיא עוּבָּר אֶת יָדוֹ וַחֲתָכָהּ, וְחָזַר וְהוֹצִיא אֶת יָדוֹ וַחֲתָכָהּ, עַד שֶׁהִשְׁלִימוֹ לְרוּבּוֹ, מַהוּ? מִי אָמְרִינַן הָא נָפֵיק לֵיהּ רוּבָּא, אוֹ דִלְמָא רוּבָּא בְּבַת אַחַת בָּעֵינַן?
+*Translation:* The Gemara asks: **If you want to say** that **since it brought back** each limb, they are considered to have been **brought back** and the majority of the fetus is not considered to have left the womb, the following dilemma still arises: If the **fetus extended its foreleg** outside **and** someone **severed it, and again it extended its** other **foreleg** outside **and** someone **severed it,** and this continued with its other limbs **until** the total amount outside the womb **constituted the majority of** the fetus, **what is** the *halakha*? **Do we say** that since the **majority** of the fetus **has left** the womb, the entire fetus should be regarded as having been born and therefore the slaughter of its mother can no longer permit it? **Or perhaps,** in order for the fetus to be regarded as having been born **we require a majority** of the fetus to leave **simultaneously,** which does not exist in this case.
+
+**21.**
+*Hebrew/Aramaic:* תָּא שְׁמַע:
+*Translation:* The Gemara suggests: **Come** and **hear** a proof from the mishna:

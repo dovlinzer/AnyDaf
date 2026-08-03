@@ -95,3 +95,92 @@
 **24.**
 *Hebrew/Aramaic:* לָא קַשְׁיָא: כָּאן בְּמִצְוָה שֶׁאֶפְשָׁר לַעֲשׂוֹתָהּ עַל יְדֵי אֲחֵרִים,
 *Translation:* They explained that it is **not difficult: Here,** in the first verse cited above, it is discussing **a mitzva that can be done by others,** and therefore one must consider what is most worthwhile for him to perform himself and what he will leave to others.
+
+
+---
+
+### Moed Katan 9b
+
+**1.**
+*Hebrew/Aramaic:* כָּאן בְּמִצְוָה שֶׁאִי אֶפְשָׁר לַעֲשׂוֹתָהּ עַל יְדֵי אֲחֵרִים.
+*Translation:* **There,** in the other verse, it is referring to **a mitzva that cannot be done by others,** and therefore, one must not consider its relative importance, but rather do it immediately.
+
+**2.**
+*Hebrew/Aramaic:* הֲדַר יָתְבִי וְקָא מִבְּעֵי לְהוּ, כְּתִיב: ״יְקָרָה הִיא מִפְּנִינִים וְכׇל חֲפָצֶיךָ לֹא יִשְׁווּ בָהּ״ — הָא חֶפְצֵי שָׁמַיִם יִשְׁווּ בָהּ, וּכְתִיב: ״כׇּל חֲפָצִים לֹא יִשְׁווּ בָהּ״ — דַּאֲפִילּוּ חֶפְצֵי שָׁמַיִם לֹא יִשְׁווּ בָהּ!
+*Translation:* The two scholars, Rabbi Yonatan ben Asmai and Rabbi Yehuda, son of converts, **once again sat and raised the** following **dilemma:** In one place **it is written** in praise of the Torah: **“She is more precious than rubies; and all of your desires are not to be compared to her”** (Proverbs 3:15). One can infer from here that all human desires cannot be compared to the Torah, **but the desires of Heaven,** i.e., mitzvot, **can** indeed **be compared to her. And** elsewhere **it is written:** “For wisdom is better than rubies; **and all the things that may be desired are not to be compared to it”** (Proverbs 8:11), which indicates that even mitzvot cannot be compared to the Torah.
+
+**3.**
+*Hebrew/Aramaic:* כָּאן בְּמִצְוָה שֶׁאֶפְשָׁר לַעֲשׂוֹתָהּ עַל יְדֵי אֲחֵרִים, כָּאן בְּמִצְוָה שֶׁאִי אֶפְשָׁר לַעֲשׂוֹתָהּ עַל יְדֵי אֲחֵרִים.
+*Translation:* They resolved this contradiction by stating that **here,** in the second verse, it is discussing **a mitzva that can be done by others.** In that case, even mitzvot cannot be compared to the Torah, and accordingly, one who is engaged in Torah study should not interrupt his studies in order to perform another mitzva. However, **there,** in the first verse, it is discussing **a mitzva that cannot be done by others.** In that case Torah study is not more important than the mitzva, and one should interrupt his studies in order to perform the mitzva.
+
+**4.**
+*Hebrew/Aramaic:* אֲמַרוּ לֵיהּ: מַאי בָּעֵית הָכָא? אֲמַר לְהוּ, דַּאֲמַר לִי אַבָּא: זִיל גַּבַּיְיהוּ דְּלִיבָרְכוּךְ. אֲמַרוּ לֵיהּ: יְהֵא רַעֲוָא דְּתִזְרַע וְלָא תֶּחְצַד, תְּעַיֵּיל וְלָא תַּיפֵּוק, תַּיפֵּוק וְלָא תְּעַיֵּיל, לִיחְרוֹב בֵּיתָךְ וְלִיתּוֹב אוּשְׁפִּיזָךְ, לִבַּלְבַּל פָּתוּרָךְ, וְלָא תִּחְזֵי שַׁתָּא חַדְתָּא.
+*Translation:* When Rabbi Yonatan ben Asmai and Rabbi Yehuda, son of converts, noticed Rabbi Shimon ben Yoḥai’s son, **they said to him: What do you want here? He said to them: Father told me: Go to them so that they should bless you. They said to him** as follows: **May it be** God’s **will that you should sow and not reap, that you should bring in and not take out, that you should take out and not bring in, that your house should be destroyed and your lodging place should be inhabited, that your table should become confused, and that you should not see a new year.**
+
+**5.**
+*Hebrew/Aramaic:* כִּי אֲתָא לְגַבֵּי אֲבוּהּ, אֲמַר לֵיהּ: לָא מִבַּעְיָא דְּבָרוֹכֵי לָא בָּירְכֻן אֲבָל צַעוֹרֵי צַעֲורֻן. אֲמַר לֵיהּ: מַאי אֲמַרוּ לָךְ? הָכִי וְהָכִי אֲמַרוּ לִי. אֲמַר לֵיהּ: הָנָךְ כּוּלְּהוּ בִּרְכָתָא נִינְהוּ. תִּזְרַע וְלָא תֶּחְצַד: תּוֹלִיד בָּנִים וְלָא יְמוּתוּ. תְּעַיֵּיל וְלָא תַּיפֵּוק: תְּעַיֵּיל כַּלְּתָא וְלָא לֵימוּתוּ בְּנָךְ דְּלִיפְּקוּן. תַּיפֵּוק וְלָא תְּעַיֵּיל: תּוֹלִיד בְּנָתָא וְלָא יְמוּתוּ גּוּבְרַיְיהוּ וְלִיהְדְּרוּ לְוָתָיךְ.
+*Translation:* **When he came** back **to his father, he said to him: Not only did they not bless me, but they** even **caused me pain** with their negative words. His father **said to him: What** exactly **did they say to you?** He answered: **They said to me such and such.** Rabbi Shimon ben Yoḥai **said to** his son: **These are all blessings,** uttered in a cryptic manner, and this is what they meant: When they said that **you should sow and not reap** they meant that **you should bear sons and they should not die.** Their statement that **you should bring in and not take out** means that **you should bring in brides** for your sons **and your sons should not die, which** would cause their wives **to leave.** When they said **you should take out and not bring in** they meant that **you should have daughters and their husbands should not die,** which would cause your daughters to **return to you.**
+
+**6.**
+*Hebrew/Aramaic:* לִיחְרוֹב בֵּיתָךְ וְלִיתּוֹב אוּשְׁפִּיזָךְ — דְּהַאי עָלְמָא אוּשְׁפִּיזָךְ, וְהָהֻיא עָלְמָא בֵּיתָא, דִּכְתִיב: ״קִרְבָּם בָּתֵּימוֹ לְעוֹלָם״. אַל תִּקְרֵי ״קִרְבָּם״, אֶלָּא ״קִבְרָם״.
+*Translation:* When they said that **your house should be destroyed and your lodging place should be inhabited,** this should be interpreted allegorically. **As this world is** compared to **your lodging place, and the World-to-Come is** compared to **your house, as it is written: “Their inward thought [*kirbam*], is that their houses shall continue forever”** (Psalms 49:12), and the Sages said: **Do not read** it as **“their inward thought [*kirbam*]”; rather** read it as **their graves [*kivram*].** According to this reading, one’s grave is considered his permanent house. The Sages gave Rabbi Shimon ben Yoḥai’s son a blessing that he should dwell in his temporary home rather than his permanent home, i.e., he should live a long life.
+
+**7.**
+*Hebrew/Aramaic:* לִבַּלְבַּל פָּתוּרָךְ: בִּבְנֵי וּבְנָתָא. וְלָא תִּיחְזֵי שַׁתָּא חַדְתָּא: דְּלָא תְּמוּת אִתְּתָךְ וְלָא תִּנְסַב אִינְתְּתָא אַחֲרִיתִי.
+*Translation:* When they said that **your table should become confused,** they meant that you should be blessed **with** many **sons and daughters,** so that there will be noise and confusion at your table. When they said that **you should not see a new year,** they meant **your wife should not die and** as a result **you should not** have to **marry another woman,** about which it says: “When a man has taken a new wife, he shall not go out to war, neither shall he be charged with any business; he shall be free at home for one year” (Deuteronomy 24:5).
+
+**8.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן בֶּן חֲלַפְתָּא אִפְּטַר מִינֵּיהּ דְּרַב, אֲמַר לֵיהּ אֲבוּהּ: זִיל לְגַבֵּיהּ דְּלִיבָרְכָךְ. אֲמַר לֵיהּ: יְהֵא רַעֲוָא דְּלָא תְּבַיֵּישׁ וְלָא תִּתְבַּיַּישׁ. אֲתָא גַּבֵּי אֲבוּהּ. אָמַר לֵיהּ: מַאי אֲמַר לָךְ? אֲמַר לֵיהּ: מִילִּין בְּעָלְמָא הוּא דְּאָמַר לִי.
+*Translation:* Apropos a blessing with an obscure meaning, the Gemara relates: **Rabbi Shimon ben Ḥalafta took leave of Rav. His father said to him: Go to him so that he should bless you.** When **Rabbi Shimon ben Ḥalafta** returned to him for a blessing, Rav said to him: **May it be** God’s **will that you should not shame** others **and that you should not feel ashamed. He came** home **to his father,** who **said to him: What did he say to you? He said to him: Mere words he said to me,** i.e., he did not say anything of significance.
+
+**9.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: בָּרְכָךְ בִּרְכְּתָא דְּבֵרְכָן קוּדְשָׁא בְּרִיךְ הוּא לְיִשְׂרָאֵל וּתְנָא בַּהּ, דִּכְתִיב: ״וַאֲכַלְתֶּם אָכוֹל וְשָׂבוֹעַ וְהִלַּלְתֶּם וְגוֹ׳ וְלֹא יֵבוֹשׁוּ עַמִּי לְעוֹלָם. וִידַעְתֶּם כִּי בְקֶרֶב יִשְׂרָאֵל אֲנִי וְגוֹ׳ וְלֹא יֵבוֹשׁוּ עַמִּי לְעוֹלָם״.
+*Translation:* After Rabbi Shimon ben Ḥalafta repeated what Rav had said, his father **said to him: He blessed you with the blessing with which the Holy One, Blessed be He, blessed Israel and** then **repeated** the blessing, indicating that is a very great blessing, **as it is written: “And you shall eat in plenty, and be satisfied, and praise** the Name of the Lord your God, who has dealt wondrously with you; **and My people shall never be ashamed. And you shall know that I am in the midst of Israel,** and that I am the Lord your God, and there is none else; **and My people shall never be ashamed”** (Joel 2:26–27).
+
+**10.**
+*Hebrew/Aramaic:* וְעוֹשָׂה אִשָּׁה תַּכְשִׁיטֶיהָ. תָּנוּ רַבָּנַן, אֵלּוּ הֵן תַּכְשִׁיטֵי נָשִׁים: כּוֹחֶלֶת וּפוֹקֶסֶת וּמַעֲבִירָה סְרָק עַל פָּנֶיהָ. וְאִיכָּא דְּאָמְרִי מַעֲבֶרֶת סְרָק עַל פָּנֶיהָ שֶׁל מַטָּה.
+*Translation:* § It was taught in the mishna: **And a woman may engage in** all of **her** usual **cosmetic treatments** on the intermediate days of a Festival. **The Sages taught** in a *baraita*: **These are the cosmetic treatments of women** that are permitted: **She may paint her eyelids, she may remove** unwanted **hair [*pokeset*], and she may put rouge on her face. And some say: She may pass a comb over her lower face,** i.e., she may remove the hair from her pubic area.
+
+**11.**
+*Hebrew/Aramaic:* דְּבֵיתְהוּ דְּרַב חִסְדָּא מִקַּשְּׁטָא בְּאַנְפֵּי כַּלְּתַהּ. יָתֵיב רַב הוּנָא בַּר חִינָּנָא קַמֵּיהּ דְּרַב חִסְדָּא וְיָתֵיב וְקָאָמַר: לֹא שָׁנוּ אֶלָּא יַלְדָּה, אֲבָל זְקֵנָה — לֹא.
+*Translation:* The Gemara relates that **Rav Ḥisda’s wife would adorn herself** on the intermediate days of a Festival **in the presence of her daughter-in-law,** i.e., when she already had a married son. **Rav Huna bar Ḥinnana sat before Rav Ḥisda, and he sat and said: They taught only** that a woman is permitted to engage in cosmetic treatments on the intermediate days of a Festival **only** with regard to **a young woman,** as such treatments bring her joy, **but** in the case of **an old woman, no,** the treatments are not permitted, as she does not need them.
+
+**12.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: הָאֱלֹהִים! אֲפִילּוּ אִמָּךָ וַאֲפִילּוּ אִימָּא דְאִימָּךְ, וַאֲפִילּוּ עוֹמֶדֶת עַל קִבְרָהּ. דְּאָמְרִי אִינָשֵׁי: בַּת שִׁיתִּין כְּבַת שֵׁית, לְקָל טַבְלָא רָהֲטָא.
+*Translation:* Rav Ḥisda **said to him: By God! Even your mother, and even your mother’s mother, and even a woman** so old **that** she **is standing at** the edge of **her grave** are all permitted to adorn themselves. **As people say** in the popular adage: **A woman of sixty years, like one of six, runs at the sound of the timbrel [*tavla*],** implying that women of all ages are young in spirit; since they all take pleasure in their adornments, they are allowed to adorn themselves, regardless of age.
+
+**13.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: לֹא תָּסוּד. תַּנְיָא, רַבִּי יְהוּדָה אוֹמֵר: אִשָּׁה לֹא תָּסוּד מִפְּנֵי שֶׁנִּיוּוּל הוּא לָהּ. וּמוֹדֶה רַבִּי יְהוּדָה בְּסִיד שֶׁיְּכוֹלָה לְקַפְּלוֹ בַּמּוֹעֵד, שֶׁטּוֹפַלְתּוֹ בַּמּוֹעֵד. שֶׁאַף עַל פִּי שֶׁמְּצֵירָה הִיא עַכְשָׁיו — שְׂמֵחָה הִיא לְאַחַר זְמַן.
+*Translation:* § It was taught in the mishna that **Rabbi Yehuda says: She may not apply lime** to her skin **because it renders her** temporarily **unattractive** and she will be distressed during the Festival. **It is taught** in a *baraita*: **Rabbi Yehuda says: A woman may not apply lime** to her skin on the intermediate days of a Festival **because it** is temporarily **a disgrace to her,** as she appears unattractive until it is peeled off. **But Rabbi Yehuda concedes that with regard to lime that she can peel off during the Festival, she may apply it on** the intermediate days of **the Festival, as even though she is distressed now,** as the lime renders her appearance unattractive, **she will be happy afterward,** when the lime is removed and she sees the results.
+
+**14.**
+*Hebrew/Aramaic:* וּמִי אִית לֵיהּ לְרַבִּי יְהוּדָה הַאי סְבָרָא? וְהָתְנַן:
+*Translation:* The Gemara asks: **But does Rabbi Yehuda accept this reasoning** that it is permitted, despite the fact that it causes distress, because it will cause joy later? **Didn’t we learn** elsewhere in a mishna (*Avoda Zara* 2a): On the three days before the holidays of idolaters, it is prohibited to do business with them, so as not to cause them to thank their idols for their success. Similarly, it is prohibited on these days to lend to them, to borrow from them, to repay a debt to them, or even to collect a debt from them.
+
+**15.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: נִפְרָעִין מֵהֶן מִפְּנֵי שֶׁמֵּצֵר. אָמְרוּ לוֹ: אַף עַל פִּי שֶׁמֵּצֵר עַכְשָׁיו — שָׂמֵחַ הוּא לְאַחַר זְמַן!
+*Translation:* **Rabbi Yehuda says: One may collect** a debt **from them** during this period, **due to** the fact **that** the gentile **is distressed** when he makes the payment. The Rabbis **said to him: Even though he is distressed now, he will be happy afterward,** as he is relieved of the debt, and therefore, it is prohibited to collect a debt from him during the three days before his holiday. In this mishna, Rabbi Yehuda considers only the immediate distress and does not consider the joy that will be experienced after some time.
+
+**16.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן בַּר יִצְחָק: הַנַּח לְהִלְכוֹת מוֹעֵד, דְּכוּלְּהוּ מֵצֵר עַכְשָׁיו וְשָׂמֵחַ לְאַחַר זְמַן נִינְהוּ.
+*Translation:* **Rav Naḥman bar Yitzḥak said: Leave** aside **the *halakhot* governing a Festival,** which cannot be compared to other areas, as **all** of the labors that are permitted on a Festival are permitted because even though **one is distressed** by them **now, he will be happy** about them **afterward.** For example, cooking and baking are permitted even though preparing food involves effort and trouble, because eating the food after it is prepared provides pleasure and enjoyment.
+
+**17.**
+*Hebrew/Aramaic:* רָבִינָא אָמַר: גּוֹי לְעִנְיַן פֵּרָעוֹן לְעוֹלָם מֵצֵר.
+*Translation:* **Ravina said** a different explanation: According to Rabbi Yehuda, **with regard to repaying** a debt, **a gentile is always distressed,** even after he repays a debt. However, in general, even Rabbi Yehuda accepts the principle of taking into account the joy that will be experienced at a later time.
+
+**18.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה: בְּנוֹת יִשְׂרָאֵל שֶׁהִגִּיעוּ לְפִירְקָן וְלֹא הִגִּיעוּ לְשָׁנִים, עֲנִיּוֹת טוֹפְלוֹת אוֹתָן בְּסִיד, עֲשִׁירוֹת טוֹפְלוֹת אוֹתָן בְּסוֹלֶת, בְּנוֹת מְלָכִים בְּשֶׁמֶן הַמּוֹר, שֶׁנֶּאֱמַר: ״שִׁשָּׁה חֳדָשִׁים בְּשֶׁמֶן הַמּוֹר״.
+*Translation:* With regard to applying lime to one’s body, **Rav Yehuda said: The daughters of Israel who reached** physical **maturity, but had not** yet **reached the age** of majority, i.e., girls that were less than twelve years of age, and therefore embarrassed by their precocious physical development, would seek to remove the excess hair from their bodies. **The poor** among them would **smear their** skin **with lime** in order to remove the hair. **The wealthy ones** would **smear themselves with fine flour** for this purpose, **and the daughters of kings would smear themselves with *shemen hamor*. As it is stated** with regard to the women who were brought to King Ahasuerus: **“Six months with *shemen hamor*”** (Esther 2:12).
+
+**19.**
+*Hebrew/Aramaic:* מַאי ״שֶׁמֶן הַמּוֹר״? רַב הוּנָא בַּר חִיָּיא אָמַר: סְטָכַת, רַב יִרְמְיָה בַּר אַמֵּי אָמַר: שֶׁמֶן זַיִת שֶׁלֹּא הֵבִיא שְׁלִישׁ.
+*Translation:* The Gemara asks: **What is *shemen hamor*? Rav Huna bar Ḥiyya said:** This is the perfume called ***setaket*. Rav Yirmeya bar Ami said:** It is **olive oil** extracted **from** an olive **that** has **not** yet **reached one-third** of its growth; the acidic oil is effective as a depilatory.
+
+**20.**
+*Hebrew/Aramaic:* תַּנְיָא, רַבִּי יְהוּדָה אוֹמֵר: אַנְפִּיקִינוּן — שֶׁמֶן זַיִת שֶׁלֹּא הֵבִיא שְׁלִישׁ. וְלָמָּה סָכִין אוֹתוֹ? שֶׁמַּשִּׁיר אֶת הַשֵּׂעָר וּמְעַדֵּן אֶת הַבָּשָׂר.
+*Translation:* **It is taught** in a *baraita* that **Rabbi Yehuda says:** Wherever the Mishna mentions ***anpikinon*,** it is referring to **olive oil** from an olive **that has not yet reached one-third** of its growth. **And why do** women **spread it** on the body? It is due to the fact **that it removes the hair and pampers the skin.**
+
+**21.**
+*Hebrew/Aramaic:* רַב בִּיבִי הֲוָה לֵיהּ בְּרַתָּא, טַפְלַהּ אֵבֶר אֵבֶר. שְׁקַל בַּהּ אַרְבַּע מֵאָה זוּזֵי. הֲוָה הָהוּא גּוֹי בְּשִׁבָבוּתֵיהּ דַּהֲוָה לֵיהּ בְּרַתָּא. טַפְלַהּ בְּחַד זִמְנָא וּמִתָה, אֲמַר: קַטְלַהּ בִּיבִי לִבְרַתִּי. אָמַר רַב נַחְמָן: רַב בִּיבִי דְּשָׁתֵי שִׁיכְרָא — בָּעֲיָין בְּנָתֵיהּ טִפְלָא, אֲנַן דְּלָא שָׁתֵינַן שִׁיכְרָא — לָא בָּעֲיָין בְּנָתִין טִפְלָא.
+*Translation:* It was related that **Rav Beivai had a daughter,** and **he spread** lime **on her limb** by **limb,** which caused her hair to fall out and her skin to whiten. She became so beautiful that when marrying her off, **he took four hundred dinars for her. There was a certain gentile in his neighborhood who** also **had a daughter** and wanted to do this as well. **He spread her** entire body with lime all **at once, and she died.** That gentile **said: Beivai killed my daughter. Rav Naḥman said: Rav Beivai, who** regularly **drinks beer, his daughters require** that they be **smeared** with lime, as beer causes hair growth, **but we who do not drink beer, our daughters do not require** that they be **smeared** with lime, as they have little hair even without this treatment.

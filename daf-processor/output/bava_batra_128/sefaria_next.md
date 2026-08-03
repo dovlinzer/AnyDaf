@@ -51,3 +51,52 @@
 **13.**
 *Hebrew/Aramaic:* אָמַר רַב שֵׁשֶׁת: מְנָא אָמֵינָא לַהּ? דְּתַנְיָא, הָאוֹמֵר: ״תְּנוּ שֶׁקֶל לְבָנַי בְּשַׁבָּת״, וּרְאוּיִן לִיתֵּן סֶלַע – נוֹתֵן לָהֶן סֶלַע. וְאִם אָמַר: ״אַל תִּתְּנוּ לָהֶן אֶלָּא שֶׁקֶל״ – אֵין נוֹתְנִין לָהֶן אֶלָּא שֶׁקֶל. וְאִם אָמַר: ״אִם מֵתוּ,
 *Translation:* **Rav Sheshet said: From where do I say this? As it is taught** in a *baraita* (*Tosefta*, *Ketubot* 6:10): If a person on his deathbed, or **one who** is going overseas, **says** to his children’s steward: **Give a shekel to my children** every **week** for their needs, **and** this is a situation where, based on their needs, **they are fit** for the steward **to give them a *sela*,** i.e., double the amount, **he gives them a *sela*.** When the father mentioned a shekel, he presumably meant that the children should be given a sum in accordance with their actual requirements, not that specific amount. **But if he said: Give them only a shekel,** the steward **gives them only a shekel,** and no more. **And if he said: If** my children **die,**
+
+
+---
+
+### Bava Batra 129b
+
+**1.**
+*Hebrew/Aramaic:* יִירְשׁוּ אֲחֵרִים תַּחְתֵּיהֶם״ – בֵּין שֶׁאָמַר ״תְּנוּ״ בֵּין שֶׁאָמַר ״אַל תִּתְּנוּ״ – אֵין נוֹתְנִין לָהֶן אֶלָּא שֶׁקֶל.
+*Translation:* **others will inherit** their portion **in their stead,** then regardless of **whether he said: Give them** a shekel, or **whether he said: Do not give** them more than a shekel, the court **gives** his children **only a shekel** per week, so as not to reduce the share of the others, as their father clearly stated that he wishes to give his children only a specific stipend, and that he intends to leave the bulk of his property to others.
+
+**2.**
+*Hebrew/Aramaic:* וְהָא הָכָא, דְּכִשְׁתֵּי שָׂדוֹת וְכִשְׁנֵי בְנֵי אָדָם דָּמֵי, וְקָתָנֵי דְּקָנֵי!
+*Translation:* Rav Sheshet concludes: **And isn’t** the case **here like** a case of **two fields and two people,** as the father gave part of his property to his sons as a gift, and the rest to others as an inheritance? **But it is taught that** the others **acquire** the property, although he employed only the terminology of inheritance concerning them.
+
+**3.**
+*Hebrew/Aramaic:* הוּא מוֹתֵיב לַהּ וְהוּא מְפָרֵק לַהּ – בְּרָאוּי לְיוֹרְשׁוֹ, וְרַבִּי יוֹחָנָן בֶּן בְּרוֹקָה הִיא.
+*Translation:* Rav Sheshet **raised the objection and he resolved it:** The term others is referring **to** those who are **fit to inherit** from **him; and** the ruling of the *baraita* **is** in accordance with the opinion of **Rabbi Yoḥanan ben Beroka,** who holds that one can bequeath his property to anyone who is fit to inherit from him. Therefore it is unnecessary for the bequest to be phrased as a gift.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַב אָשֵׁי, תָּא שְׁמַע: ״נְכָסַי לְךָ, וְאַחֲרֶיךָ יִירַשׁ פְּלוֹנִי, וְאַחֲרֵי אַחֲרֶיךָ יִירַשׁ פְּלוֹנִי״ – מֵת רִאשׁוֹן, קָנָה שֵׁנִי; מֵת שֵׁנִי, קָנָה שְׁלִישִׁי. וְאִם מֵת שֵׁנִי בְּחַיֵּי רִאשׁוֹן – יַחְזְרוּ נְכָסִים לְיוֹרְשֵׁי רִאשׁוֹן.
+*Translation:* **Rav Ashi said: Come** and **hear** a proof for the opinion of Rav Sheshet from a *baraita* (*Tosefta* 8:4): If one states: **My property** will go **to you** after my death for your use during your lifetime, **and after you** die, **so-and-so will inherit** the property, **and after** the one who inherits **after you** dies, **so-and-so will inherit** the property, then in this case, when **the first** recipient **dies, the second acquires** it, and when **the second dies, the third acquires** it. **And if the second dies during the lifetime of the first, the property returns** after his death **to the heirs of the first,** and does not go to the third designated recipient, as his right was to inherit it from the second one, who never received it.
+
+**5.**
+*Hebrew/Aramaic:* וְהָא הָכָא, דְּכִשְׁתֵּי שָׂדוֹת וּשְׁנֵי בְּנֵי אָדָם דָּמֵי, וְקָתָנֵי דְּקָנָה!
+*Translation:* Rav Ashi states his proof: **And here it is** a case **like** that of **two fields and two people,** as the bequest to the first recipient was phrased as a gift, and to the second one it was phrased as inheritance; **and** yet the *baraita* **teaches that** the second recipient **acquires** the property after the death of the first.
+
+**6.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא: הָכָא נָמֵי בְּרָאוּי לְיוֹרְשׁוֹ, וְרַבִּי יוֹחָנָן בֶּן בְּרוֹקָה הִיא; אִי הָכִי, מֵת שֵׁנִי קָנָה שְׁלִישִׁי?!
+*Translation:* **And if you would say** that **here, too,** the *baraita* is referring **to** a case where the recipient is **fit to inherit** from **him, and** it **is** in accordance with the opinion of **Rabbi Yoḥanan ben Beroka, if so,** why does it state that when **the second dies, the third acquires** it?
+
+**7.**
+*Hebrew/Aramaic:* הָא שְׁלַח רַב אַחָא בְּרֵיהּ דְּרַב עַוְיָא: לְדִבְרֵי רַבִּי יוֹחָנָן בֶּן בְּרוֹקָה, ״נְכָסַי לְךָ, וְאַחֲרֶיךָ לִפְלוֹנִי״, וְרִאשׁוֹן רָאוּי לְיוֹרְשׁוֹ – אֵין לַשֵּׁנִי בִּמְקוֹם רִאשׁוֹן כְּלוּם, שֶׁאֵין זֶה לְשׁוֹן מַתָּנָה אֶלָּא לְשׁוֹן יְרוּשָּׁה, וִירוּשָּׁה אֵין לָהּ הֶפְסֵק!
+*Translation:* Rav Ashi explains his previous comment: **Didn’t Rav Aḥa, son of Rav Avya, send** the following ruling **in accordance with the statement of Rabbi Yoḥanan ben Beroka?** If a person on his deathbed said: **My property** is given **to you, and after you to so-and-so, and** the **first** recipient **was fit to inherit** from **him, the second gets nothing in place of the first,** i.e., he does not receive the property after the first one dies, **as this formulation** employed by the owner was **not** one **of a gift; rather,** it was **a formulation of inheritance, and inheritance has no end,** i.e., it cannot be stopped. Therefore, since the first recipient acquired it as inheritance, his heirs inherit it from him, and it cannot be taken by the second one. Therefore, the *baraita* is irreconcilable with the opinion of Rabbi Yoḥanan ben Beroka.
+
+**8.**
+*Hebrew/Aramaic:* תְּיוּבְתָּא דְכוּלְּהוּ! תְּיוּבְתָּא.
+*Translation:* The Gemara affirms: **The refutation of** the opinions **of all** the Sages who disagree with the opinion of Rav Sheshet that even if one uses the two terms with regard to two fields and two people his gift to both people is effective, is **a conclusive refutation.**
+
+**9.**
+*Hebrew/Aramaic:* לֵימָא נָמֵי תֶּיהְוֵי תְּיוּבְתֵּיהּ דְּרֵישׁ לָקִישׁ? וְתִסְבְּרָא?! וְהָא אָמַר רָבָא: הִלְכְתָא כְּוָתֵיהּ דְּרֵישׁ לָקִישׁ בְּהָנֵי תְּלָת!
+*Translation:* The Gemara suggests: **Let us say that it is also a conclusive refutation** of the opinion **of Reish Lakish,** who maintains that giving must be mentioned with regard to both recipients and both fields. The Gemara asks: **And** how can **you understand** this? **But didn’t Rava say** that **the *halakha*** is **in accordance with** the opinion **of Reish Lakish with regard to these three** issues: Acquisition of land for the rights to its produce, *ḥalitza* of a pregnant woman, and the matter of bequeathal phrased both as a gift and as inheritance?
+
+**10.**
+*Hebrew/Aramaic:* לָא קַשְׁיָא; כָּאן בְּתוֹךְ כְּדֵי דִבּוּר, כָּאן לְאַחַר כְּדֵי דִבּוּר.
+*Translation:* The Gemara answers: This is **not difficult. Here,** in the case where giving can be mentioned concerning one of the recipients and inheritance with regard to the other, it is a case where the two bequests were stated **within** the time **required for speaking** a short phrase, i.e., the time it takes to greet one’s teacher. According to the *halakha*, within this time a speaker can retract his statement. Therefore both bequests are considered to be part of one statement. **There,** in the case where Reish Lakish maintains that giving must be mentioned with regard to both people for it to take effect, it is a case where the final part of the statement, where he said: And they will inherit it, was **after** the time required **for speaking** a short phrase.
+
+**11.**
+*Hebrew/Aramaic:* וְהִלְכְתָא: כׇּל תּוֹךְ כְּדֵי דִבּוּר כְּדִבּוּר דָּמֵי, לְבַר מֵעֲבוֹדָה זָרָה
+*Translation:* **And the *halakha*** is that the legal status of **any** statement interrupted or retracted **within** the time **required for speaking** a short phrase **is like** that of continuous **speech.** This is the *halakha* in all cases, **apart from idol worship,** as one who accepts an idol as his god is liable to receive court-imposed capital punishment even if he retracts his statement within the time required for speaking a short phrase,

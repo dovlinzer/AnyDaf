@@ -2,13 +2,13 @@
 
 ## The Model of Hannah's Prayer: Intent, Articulation, and Sobriety
 
-### Hannah speaking from her heart: The requirement of kavana in prayer
+### Kavana from Heart
 
 The *Gemara* resumes four lines from the bottom of 31a. *Amar Rav Hamnuna* — Rav Hamnuna said: *kama hilchata givarvata ika le-mishma me-hanei karai de-Hannah* — how many powerful *halachot* can be inferred from the verses concerning Hannah. The *Gemara* had just presented, in the preceding passage, the model of Rabbi Akiva — how he would sway in prayer with intense *kavana* when praying privately, yet restrain himself in communal prayer, partly out of concern for others and partly because communal prayer and individual prayer represent two distinct modes. Communal prayer corresponds more directly to the model of sacrificial service, while individual prayer places greater emphasis on *kavana*. Now the *Gemara* hones in on that question of *kavana* through the model of Hannah.
 
 *Ve-Hannah hi medaberet al libah* — Hannah was speaking from her heart. *Mikan le-mitpallel tzarich she-yekhaven libo* — from here we derive that one who prays must direct his heart. The prayer is not merely the recitation of words; it requires genuine *kavana*, feeling, and authentic connection to what one is saying.
 
-### Moving lips without audible voice: The balance between articulation and silence
+### Lips Moving Silently
 
 *Rak sefateha na'ot* — only her lips were moving. *Mikan le-mitpallel she-yachtoch bi-sfatav* — from here we derive that one who prays must articulate with his lips, literally cutting with the lips, giving form to the words. Yet this articulation does not extend to being audible. *Ve-kolah lo yishama* — her voice could not be heard. *Mikan she-asur le-hagbi'ah kolo bi-tfilato* — from here we derive that it is forbidden to raise one's voice in prayer.
 
@@ -18,7 +18,7 @@ This presents a fascinating balance. Ordinarily, *halacha* requires that speech 
 
 The *Gemara* derives three principles in sequence from Hannah's posture of prayer: the requirement of directing one's heart, the obligation to move one's lips, and the prohibition against raising one's voice. Together they define the silent prayer that remains the normative mode — not silent in the sense of pure thought, but silent in the sense of being inaudible to others.
 
-### The intoxicated person cannot pray: Hannah misidentified as drunk
+### Drunk Cannot Pray
 
 *Vayachsheveha Eli le-shikora* — Eli thought she was drunk. *Mikan she-shikor asur le-hitpallel* — from here we derive that a drunk person may not pray. Even if one might have minimal *kavana* sufficient to discharge the obligation, the fundamental problem is one of standing before God, and therefore it is forbidden. *Vayomer eleiha Eli: ad matai tistakarin* — and Eli said to her: until when will you be drunk? Dispose of your wine.
 
@@ -40,7 +40,7 @@ There is a remarkable gloss worth noting here. One might ask: how could Eli make
 
 *Amar Rabbi Eleazar: mikan le-shikor she-mitpalel ke-ilu oved avodah zarah* — from here Rabbi Eleazar derives that one who prays while drunk is as though he engages in idolatrous worship. The textual link is drawn through a gezera shava: *ktiv hacha lifnei bat beliyaal* — it is written here "daughter of *beliyaal*," *u-ktiv hatam yatzu anashim bnei beliyaal mikirbechem* — and it is written elsewhere that people of *beliyaal* went out from your midst and led the entire city into idolatry. The conceptual connection runs deeper as well: certain forms of idolatrous worship involved becoming intoxicated and achieving a kind of heightened religious frenzy through artificial stimulants. Approaching God in a state of intoxication therefore resembles those forms of pagan worship — it is a fundamental distortion of what standing before God means.
 
-### The obligation to appease the wrongly accused: Eli must make peace with Hannah
+### Appease Wrongly Accused
 
 *Vayaan Eli vayomar: lechi leshalom* — and Eli said to her: go in peace. *Amar Rabbi Elazar: mikan le-choshed et chavero be-davar she-ein bo she-tzarich le-fayeso* — Rabbi Eleazar derives: if one has suspected another of something that turns out to be false, one must appease that person and make peace with them. Eli suspected, Hannah corrected him, he was proven wrong — and the obligation falls upon him to seek reconciliation.
 
@@ -52,7 +52,7 @@ It is worth pausing to note how striking this passage is as a whole. The *Gemara
 
 ## Hannah's Bold Prayer: Divine Names, the Body's Purpose, and the Obligation of God
 
-### Hannah's invocation of God as Master of Hosts: The first use of this divine name
+### Tzevaot Divine Name
 
 *Vatisdor neder vatomar: Hashem Tzevaot* — and she made a vow and said: Lord of Hosts.
 
@@ -62,19 +62,19 @@ It is worth pausing to note how striking this passage is as a whole. The *Gemara
 
 ## Hannah's Aggressive Prayer: Challenging God and Demanding Accountability
 
-### The parable of the poor man and the king: Hannah forces her way to demand from God
+### Poor Man Parable
 
 *Mashal lema hadavar domeh: le-melech basar va-dam she-asa seudah le-avadav* — to what is this comparable? To a human king who made a feast for his servants. *Uva ani echad ve-amad al ha-petach* — one poor person came and stood at the doorway. *Amar lahem: tenu li prusah achat* — he said: please give me one little scrap of bread. *Ve-lo hishgichu alav* — and they paid him no attention. *Dachak ve-nichnas etzel ha-melech* — so he forced his way past the servants into the king's own presence. *Amar lo: Adoni ha-Melech, kol seudah she-asita, kashe be-einecha liten li prusah achat?* — he said: my master the king, this entire lavish feast you have prepared — is it so difficult to give me one small scrap of bread?
 
 The force of the parable lies in the act of forcing one's way in — the servants would not help, so the poor man pressed past them to reach the king directly. This images Hannah's own boldness in approaching God with her demand. So too Hannah says: with all that You have created in Your world, how difficult is it to give me a son?
 
-### Hannah's conditional threat: If you see, good; if not, I will manipulate the Sotah process
+### Conditional Threat
 
 *Im ra'oh tireh* — if you shall see... *Amar Rabbi Eleazar: amrah Chanah lifnei ha-Kadosh Baruch Hu: Ribbono Shel Olam, im ra'oh* — if You see, *mutav* — good; You should see my affliction and answer me. *Ve-im lav tireh* — but if You do not attend to my suffering, then *estater bifnei Elkanah ba'ali* — I will go and seclude myself with another man in the presence of my husband Elkanah. *Ve-keivan de-mistatarna, mashkei li mei sotah* — and once I have been in private seclusion with another man, they will make me drink the *sotah* waters. *Ve-i atah oseh Toratcha palaster* — and You will not be able to make Your Torah a forgery and a falsehood.
 
 *Palaster* is a Greek-derived word meaning false or forged — from the Greek *plastos*, meaning a molder or modeler, used metaphorically in this context to mean counterfeit. She is saying: I will force Your hand. *Shene'emar: ve-niktah ve-nizre'ah zara* — as it says: she will be cleansed and she will give forth seed, meaning a woman who is wrongly suspected and has not sinned will become pregnant.
 
-### The debate over the Sotah waters: Does the barren woman become pregnant or does the woman with pain in childbirth ease?
+### Sotah Waters Debate
 
 At this point the *Gemara* raises an objection. Hannah's threat presupposes that the *sotah* waters will cause a barren woman to become pregnant — but this is itself the subject of a *machloket*.
 
@@ -86,7 +86,7 @@ The *Gemara* now asks: *ma im ra'ot tireh* — given Rabbi Akiva's position, how
 
 ## Hannah's Bold Prayer: Divine Names, the Body's Purpose, and the Obligation of God (continued)
 
-### The three women's commandments: Niddah, Challah, and lighting the candle as obligations connected to life
+### Three Women's Mitzvot
 
 The *Gemara* then turns to the three repetitions of the word *amatecha* — "your maidservant" — in Hannah's prayer: *ve-natata la-amatecha zera anashim* — and You shall give to Your maidservant a seed of people.
 
@@ -108,7 +108,7 @@ It is worth noting that those who gave the interpretation of "average" rather th
 
 ## Hannah's Bearing a Child and the Sin of Paskening Before One's Teacher
 
-### Hannah's return and claim to recognition: The law against sitting within four cubits of prayer
+### Four Cubits Law
 
 *Ani ha'isha ha-nitzevet imcha ba-zeh* — I was the woman who stood here with you. The following year, having given birth to Samuel, Hannah returned to Eli and said these words, identifying herself as the one who had prayed in his presence.
 
@@ -156,7 +156,7 @@ Following this passage, a related ruling of Rabbi Eleazar in the name of Rabbi Y
 
 ## God's Responsibility in Human Sin: The Three Verses That Sustain Israel
 
-### Hannah and Elijah as models of aggressive prayer: Throwing words toward God
+### Aggressive Prayer Models
 
 *Ve-amar Rabbi Elazar: Chana hiticha devarim klapei ma'ala* — Rabbi Eleazar teaches: Hannah cast her words upward toward God. *Shene'emar: va-titpalel al Hashem* — as it says: and she prayed *al* Hashem — not *el* Hashem, to God, but *al* Hashem, against God or upon God. *Melamed she-hiticha devarim klapei ma'ala* — this teaches that she struck her words, threw them, almost slapped them, toward Heaven.
 
@@ -164,7 +164,7 @@ Following this passage, a related ruling of Rabbi Eleazar in the name of Rabbi Y
 
 *Amar Rabbi Shmuel bar Yitzchak: minayin she-chazar Hakadosh Baruch Hu ve-hoda le-Eliyahu?* — from where do we know that God went back and conceded to Elijah, admitting some degree of responsibility? *De-chtiv: va-asher hareiosi* — as it is written: and that I have caused them to do evil. God takes responsibility, to some degree, for having created within human beings the *yetzer hara*, the evil inclination.
 
-### The three verses that save Israel: God's admission of creating the evil inclination
+### Three Saving Verses
 
 *Amar Rabbi Chama bi-Rabbi Chanina: ilmala shalosh mikra'ot elalu, nismotitu ragleihem shel sonei Yisrael* — Rabbi Chama the son of Rabbi Chanina said: were it not for these three verses, the legs of Israel — using the euphemistic expression "the enemies of Israel" to refer to the Jewish people themselves — would have collapsed. We would have fallen.
 
@@ -176,7 +176,7 @@ The third: *ve-chad de-chtiv: va-hasiroti et lev ha-even mi-vsarkhem ve-natati l
 
 *Rav Papa amar me-i-hacha: ve-et ruchi etein be-kirbekhem ve-asisi et asher be-chukotai teileiku* — Rav Papa adds a fourth verse: I will place My spirit within you and cause you to walk in My statutes. This too implies that it is God who enables obedience — and if God has not yet done so, a measure of the failure belongs to the divine side of the equation.
 
-### The problem of excess: When the lion is satisfied, he roars; prosperity leads to rebellion
+### Prosperity & Rebellion
 
 *Ve-amar Rabbi Elazar: Moshe hitia devarim klapei ma'ala* — returning to the main theme of aggressive prayer, Rabbi Eleazar teaches: Moses also threw his words toward God. *Shene'emar: va-yitpalel Moshe el Hashem* — it is written: Moses prayed *el* Hashem. *Al tikrei el Hashem ela al Hashem* — do not read "to God" but "against God."
 
@@ -188,7 +188,7 @@ This represents a deepening of the theme. Earlier arguments held that God create
 
 *Amrei debei Rabbi Yannai: ein ari no'hem mi-toch kupah shel teven ela mi-toch kupah shel basar* — the lion does not roar from a trough of straw, only after devouring a trough of flesh. When you feel too good, too satisfied, too powerful — then you go looking for trouble. Austerity keeps one on the straight and narrow.
 
-### The parable of the spoiled son: When you give too much, sin is inevitable
+### Spoiled Son Parable
 
 *Amar Rabbi Oshaya: mashal le-adam she-hayesa lo parah chushash u-va'alat eivarim* — Rabbi Oshaya offers a parable: a man had a thin, bony cow, with its limbs visibly protruding. *He'echilah karshinin* — he fed it a rich grain normally reserved for humans. *Ve-hayesa meva'etet bo* — and it began to kick and rebel against him. *Amru lo: mi garam lach she-tihei meva'etet bi, ela karshinin she-he'echaltich* — they said to it: what caused you to kick against your master? It was the fine grain he fed you.
 
@@ -214,7 +214,7 @@ This is a striking *midrash*. The plain reading of the verses presents God as st
 
 *Miyad tashash kocho shel Moshe, ve-lo haya lo koach le-daber* — immediately Moses's strength was weakened, and he could not respond. He was, in a sense, dismissed. Having been told that he had no standing apart from the people, he could not find the words to speak in their defense. *Ve-keivan she-amar: heref mimeni ve-ashmidem* — but then when God said: leave Me alone and I will destroy them. *Amar Moshe: davar zeh talui bi* — Moses thought: ah, I see this matter depends upon me. If God needs me to let go, then if I do not let go, I can hold Him. *Miyad amad ve-nitchazek bi-tefillah, bikesh rachamim* — immediately he stood and strengthened himself in prayer, and sought compassion on Israel's behalf.
 
-### The parable of the king and the favored counselor: God's hidden message that Moses should intervene
+### King & Counselor
 
 *Mashal le-melech she-ka'as al beno, ve-haya makehu makah gedolah, ve-haya ohavo yoshev lefanav u-mitsta'er lomar lo davar* — like a king who grew angry at his son and was striking him vigorously, while the king's favored counselor sat right before him, in anguish but afraid to say anything. The king was punishing his son — who was the counselor to speak? *Amar ha-melech: ilmalei ohavi ze she-yoshev lefanai, hargaticha* — and then the king said: were it not that my friend is sitting right here before me, I would have killed you.
 
@@ -222,7 +222,7 @@ The counselor understood: the king was sending him a message that was not at all
 
 So too with Moses: *heref mimeni* — let go of Me — was God's signal that Moses's hold could make a difference. Moses had initially been weakened, thinking he had no standing. But once he understood that God was inviting his intervention — indeed, that God *wanted* to be held — he found his strength.
 
-### Moses grabbing God by the collar: The power of prayer to compel divine mercy
+### Grab Divine Collar
 
 *Amar Rabbi Abahu: ilmale mikra katuv i efshar le-omro* — Rabbi Abahu said: were this not written in a verse, one could not say such a thing. *Melamed she-tafas Moshe le-Hakadosh Baruch Hu ke-adam she-tofes et chaveiro bi-vigdo, ve-amar lefanav: Ribbono shel Olam, ein ani manichacha ad she-timchol ve-tislach lahem* — this teaches that Moses grabbed hold of God like a person who grabs his friend by his cloak and said: Master of the Universe, I will not let You go until You forgive and pardon them.
 
@@ -238,7 +238,7 @@ Moses refuses the exchange utterly. His stature is for the people, not for himse
 
 ## Moses's Extended Argument Before God: Legalistic Prayer and Divine Concession
 
-### Moses makes God ill with prayer: The interpretation of vayechal as importuning God
+### Prayer Makes Ill
 
 *Va-yechal Moshe et penei Hashem Elokav* — and Moses importuned the face of the Lord his God. *Amar Rabbi Eleazar: melamed she-amad Moshe bi-tfillah lifnei Hakadosh Baruch Hu ad she-hechelohu* — Rabbi Eleazar explains: this teaches that Moses stood in prayer before God until he *hechelohu*. Rashi interprets *hechelohu* as *hiftsir bo* — until he overwhelmed God, importuned Him relentlessly with prayer. The Steinsaltz commentary, however, understands *hechelohu* in its more literal sense as "made Him ill," from the root *choleh* — as if Moses prayed so insistently that God was, as it were, made ill by the importuning.
 
@@ -252,7 +252,7 @@ Multiple interpretations of the word *va-yechal* are then presented. *Rav Sheshe
 
 The mechanism Rava identifies deserves attention. When God declared that He would destroy Israel, that declaration constituted a binding oath. An individual cannot annul his own oath, but a *beit din* of three can release him. Moses therefore convened such a court and utilized this formal legal mechanism to annul God's vow. This is not merely a rhetorical flourish; it is presented as a real *halachic* device applied to the divine speech itself. Prayer here takes the form of a legal proceeding — Moses is not simply pleading but operating within the structure of Jewish law to neutralize God's threatened decree.
 
-### Moses invokes the oath to the patriarchs: God cannot nullify a promise sworn in His own eternal name
+### Patriarchs' Oath
 
 *Zechor le-Avraham le-Yitzchak u-le-Yisrael avadecha, asher nishbata lahem bach* — remember Abraham, Isaac, and Israel Your servants, to whom You swore by Yourself. *Mai bach?* — what does it mean "by Yourself"? *Amar Rabbi Eleazar: amar Moshe lifnei Hakadosh Baruch Hu, Ribbono Shel Olam: ilmale nishbata lahem be-shamayim u-va-aretz, hayiti omer: keshem she-shamayim va-aretz beteilim kach shevuatecha beteila* — Rabbi Eleazar explains: Moses said to God: Master of the Universe, if You had sworn to them by heaven and by earth, I would have said — just as heaven and earth are ultimately finite and will one day cease, so too Your oath can be annulled. *Ve-achshav she-nishbata lahem be-shimcha ha-gadol* — but now that You swore to them by Your own great name, *mah shimcha ha-gadol chai ve-kayam le-olam u-le-olmei olamim, kach shevuatecha kayama le-olam u-le-olmei olamim* — just as Your name lives and endures forever, so Your oath must stand forever. You cannot back out.
 
@@ -286,7 +286,7 @@ This is a legal argument of considerable sophistication. The force of an oath de
 
 *Rav Simai: le-olam yesader adam shivcho shel Hakadosh Baruch Hu ve-achar kach yitpalel* — Rav Simai rules: one should always first arrange the praise of God and only afterward pray — meaning, only afterward make one's requests. Here the word *yitpalel* is used in the sense of *bakasha*, petition, in contrast to its earlier use in the sense of praising. This reflects the structure of the *Shemoneh Esrei*: the first three blessings are praise, and only then does one move into the middle section of petitions.
 
-### The source from Moses: The example of Deuteronomy where Moses praises before requesting entry to the land
+### Moses Example
 
 *Me-nalan mi-Moshe* — how do we know this from Moses? *De-chtiv: va-etchanan el Hashem* — as it is written: and I importuned the Lord. How did Moses pray? First: *Hashem Elokim, ata hachilota leharot et avdecha et godlecha ve-et yadcha ha-chazakah, asher mi El ba-shamayim u-va-aretz asher ya'aseh ke-ma'asecha u-che-gevurotecha* — Lord God, You have begun to show Your servant Your greatness and Your mighty hand; who is there in all the heavens and the earth who can do as Your deeds and Your mighty acts? This is pure praise. Only after this praise does Moses move to his petition: *ve-chtiv batreih: ebrah na ve-ereh et ha-aretz ha-tovah* — and it is written afterward: let me cross over and see this beautiful land.
 

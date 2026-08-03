@@ -63,3 +63,60 @@
 **16.**
 *Hebrew/Aramaic:* בְּמַאי קָא מִיפַּלְגִי? בִּדְרַב מַתְנָא, דְּאָמַר רַב מַתְנָא: הַאי בּוּקָא דְּאַטְמָא דְּשָׁף מִדּוּכְתֵּיהּ – טְרֵפָה. רַבִּי יוֹחָנָן אָמַר: ״אֵלּוּ טְרֵפוֹת״ דַּוְקָא, תְּנָא טְרֵפוֹת, וּתְנָא ״זֶה הַכְּלָל״,
 *Translation:* The Gemara explains: **With regard to what** case **do they disagree?** They disagree **with regard to** the statement **of Rav Mattana, as Rav Mattana says: This head of the femur that was** completely **dislocated** renders the animal **a *tereifa*.** According to **Rabbi Yoḥanan,** who **says** that the phrase: **These are *tereifot*,** is meant **specifically,** the *tanna* **taught** the list of ***tereifot* and taught** afterward: **This is the principle,** to add cases that were not stated explicitly;
+
+
+---
+
+### Hullin 54b
+
+**1.**
+*Hebrew/Aramaic:* וְחַזְיַיהּ לִדְרַב מַתְנָא דְּאָתְיָא בְּזֶה הַכְּלָל, מַאי טַעְמָא? דְּדָמְיָא לִנְטוּלֵי. תְּנָא ״אֵלּוּ טְרֵפוֹת״ – הָנֵי הוּא דִּטְרֵפָה, הָא דְּרַב מַתְנָא כְּשֵׁרָה.
+*Translation:* **and** the *tanna* then **saw** that the case **of Rav Mattana,** where the end of the thigh is dislocated, ostensibly **comes** under the heading of: **This is the principle,** and one might assume that it renders the animal a *tereifa* as well. **What is the reason** for this? It is **because** a dislocated thigh is **similar to** the cases of **removed** organs that render the animal a *tereifa*. Therefore, **he taught** the phrase: **These are *tereifot*,** at the beginning of the mishna, to emphasize that **it is** only **these that** render an animal **a *tereifa*, but** in the case **of Rav Mattana,** the animal is **kosher.**
+
+**2.**
+*Hebrew/Aramaic:* וְרַבִּי שִׁמְעוֹן בֶּן לָקִישׁ אָמַר: אֵלּוּ כְּשֵׁרוֹת דַּוְקָא, תְּנָא טְרֵפוֹת, וּתְנָא ״זֶה הַכְּלָל״, וְחַזְיַיהּ לִדְרַב מַתְנָא דְּלָא אָתְיָא בְּ״זֶה הַכְּלָל״, מַאי טַעְמָא? לָאו לִנְקוּבֵי דָּמְיָא, וְלָא לִפְסוּקֵי דָּמְיָא, וְלִנְטוּלֵי נָמֵי לָא דָּמְיָא, תְּנָא ״אֵלּוּ כְּשֵׁרוֹת״ – הָנֵי הוּא דִּכְשֵׁרוֹת, הָא דְּרַב מַתְנָא טְרֵפָה.
+*Translation:* **And** according to **Rabbi Shimon ben Lakish,** who **says** that the phrase: **These are kosher,** is meant **specifically,** the *tanna* **taught** the list of ***tereifot*, and taught** afterward that **this is the principle. And** the *tanna* then **saw** that the case **of Rav Mattana** ostensibly **does not come** under the heading of: **This is the principle,** and one might assume that it does not render the animal a *tereifa*. **What is the reason** for this? It is because a dislocated thigh **is not similar to** cases of **perforated** organs, **and it is not similar to** cases of **cut** organs, such as the windpipe, **and** it **is not similar to** cases of **removed** organs. Therefore, **he taught** the phrase: **These are kosher,** to emphasize that **it is** only **these that are kosher, but** in the case **of Rav Mattana,** the animal **is a *tereifa*.**
+
+**3.**
+*Hebrew/Aramaic:* גּוּפָא, אָמַר רַב מַתְנָא: הַאי בּוּקָא דְּאַטְמָא דְּשָׁף מִדּוּכְתֵּיהּ – טְרֵפָה, וְרָבָא אָמַר: כְּשֵׁרָה, וְאִי אִיפְּסִיק נִיבֵיהּ – טְרֵפָה. וְהִלְכְתָא: אִיפְּסִיק נָמֵי כְּשֵׁרָה, עַד דְּמִתְעַכְלָא אִתְעֲכוֹלֵי.
+*Translation:* The Gemara addresses **the** matter **itself: Rav Mattana says: This head of the femur that was** completely **dislocated** renders the animal **a *tereifa*. And Rava said:** The animal is **kosher, but if its sinew** holding the bone in place **is cut,** it is **a *tereifa*.** The Gemara concludes: **And the *halakha*** is: Even if the sinew is **cut,** the animal is **still kosher, unless** the sinew **decomposed,** in which case the animal is a *tereifa*.
+
+**4.**
+*Hebrew/Aramaic:* עַד כַּמָּה תֶּחְסַר? אָמַר זְעֵירִי: אַתּוּן דְּלָא מִיתְחֲמֵי לְכוֹן שִׁיעוּרָא, שִׁיעוּרֵיהּ בְּדִינָרָא קוּרְדִּינָאָה, וְהָוֵי כִּפְשִׁיטָא זוּטַרְתִּי, וּמִשְׁתַּכְחָא בֵּינֵי פְּשִׁיטֵי דְּפוּמְבְּדִיתָא.
+*Translation:* § The mishna states: **How much can** the windpipe **be missing** and still be kosher? Rabban Shimon ben Gamliel says: Until the perforation is the same size as an Italian *issar*. **Ze’eiri,** who came from Eretz Yisrael, **said** with regard to this: **You, who are not familiar with the measure** of an Italian *issar*, because it is not used in Babylonia, should estimate **its measure as a Kurdish dinar. And it is like a small *peruta*** coin **and can be found among the *perutot* of Pumbedita.**
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַבִּי חָנָא פָּתוּרָאָה: עִילָּא מִינַּאי הֲוָה קָאֵי בַּר נַפָּחָא, וּבְעָא מִינַּי דִּינָרָא קוּרְדִּינָאָה לְשַׁעוֹרֵי בֵּיהּ טְרֵיפְתָא, וּבְעַי לְמֵיקָם מִקַּמֵּיהּ וְלָא שְׁבַקְנִי. אָמַר לִי: שֵׁב בְּנִי שֵׁב, אֵין בַּעֲלֵי אוּמָּנִיּוֹת רַשָּׁאִין לַעֲמוֹד מִפְּנֵי תַּלְמִידֵי חֲכָמִים בְּשָׁעָה שֶׁעֲסוּקִין בִּמְלַאכְתָּם.
+*Translation:* **Rabbi Ḥana the money changer said: Bar Nappaḥa,** i.e., Rabbi Yoḥanan, **was standing over me, and he requested of me a Kurdish dinar with** which **to measure *tereifot*,** in accordance with the statement of Ze’eiri. **And I wanted to rise before him** out of respect, **but he did not let me.** Rabbi Yoḥanan **said to me: Sit, my son, sit. Tradesmen are not permitted to stand before Torah scholars when they are engaged in their work.**
+
+**6.**
+*Hebrew/Aramaic:* וְלָא? וְהָתְנַן: כׇּל בַּעֲלֵי אוּמָּנִיּוֹת עוֹמְדִים מִפְּנֵיהֶם, וְשׁוֹאֲלִין בִּשְׁלוֹמָן, וְאוֹמְרִין לָהֶם: אַחֵינוּ אַנְשֵׁי מְקוֹם פְּלוֹנִי בּוֹאֲכֶם בְּשָׁלוֹם!
+*Translation:* The Gemara asks: **And** are tradesmen **not** permitted to stand before Torah scholars? **But didn’t we learn** in a mishna (*Bikkurim* 3:3): When the pilgrims bring their first fruits to Jerusalem, **all the tradesmen stand before them, and greet them, and say to them: Our brothers from such and such place, welcome?**
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: מִפְּנֵיהֶם עוֹמְדִין, מִפְּנֵי תַּלְמִידֵי חֲכָמִים אֵין עוֹמְדִין. אָמַר רַבִּי יוֹסֵי בַּר אָבִין: בֹּא וּרְאֵה כַּמָּה חֲבִיבָה מִצְוָה בִּשְׁעָתָהּ, שֶׁהֲרֵי מִפְּנֵיהֶם עוֹמְדִין, מִפְּנֵי תַּלְמִידֵי חֲכָמִים אֵין עוֹמְדִין.
+*Translation:* **Rabbi Yoḥanan said:** Yes, **they stand before** those bringing first fruits, but **they do not stand before Torah scholars. Rabbi Yosei bar Avin says: Come and see how beloved is a mitzva** performed **in its** proper **time, as** the tradesmen **stand before those** who brought first fruits, while **they do not stand before Torah scholars.**
+
+**8.**
+*Hebrew/Aramaic:* מִמַּאי? דִּילְמָא כְּדֵי שֶׁלֹּא תְּהֵא נִמְצָא מַכְשִׁילָן לֶעָתִיד לָבֹא.
+*Translation:* The Gemara rejects the statement of Rabbi Yosei bar Avin: **From where** does one know that they rise out of respect? **Perhaps** the tradesmen stand only **in order not to cause** those bringing first fruits to **fail** and sin **in the future.** That is, if the tradesmen do not treat those bringing the first fruits with great respect, they may not make the effort to travel to Jerusalem in a subsequent year.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן: כְּסֶלַע – כְּיָתֵר מִכְּסֶלַע, כְּאִיסָּר – כְּיָתֵר מִכְּאִיסָּר.
+*Translation:* § The mishna states: How much can the windpipe be missing and still be kosher? Rabban Shimon ben Gamliel says: Until the perforation is the same size as an Italian *issar*. With regard to this, **Rav Naḥman says:** Whenever the Sages specify the measure **as** that of **a *sela*,** e.g., with regard to a damaged skull for purposes of *tereifot*, they mean that even an area exactly the size of a *sela* is treated **as more than a *sela*.** Likewise, when they specify the measure **as** that of **an *issar*,** they mean that an area exactly the size of an *issar* is treated **as** though it were **more than an *issar*.**
+
+**10.**
+*Hebrew/Aramaic:* אַלְמָא קָסָבַר רַב נַחְמָן: ״עַד״, וְלֹא עַד בַּכְּלָל.
+*Translation:* Since Rav Naḥman holds that a perforation exactly the size of an *issar* is treated as though it were larger than an *issar*, he must hold that such a perforation in the windpipe renders the animal a *tereifa*. The Gemara therefore infers: **Apparently, Rav Naḥman holds** that whenever the Sages use the word: Until, it means **until and not including the measure,** as the mishna states that an animal with a perforated windpipe is kosher until the perforation reaches the size of an *issar*.
+
+**11.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רָבָא לְרַב נַחְמָן: חֶבֶל הַיּוֹצֵא מִן הַמִּטָּה עַד חֲמִשָּׁה טְפָחִים – טָהוֹר. מַאי לָאו חֲמִשָּׁה כִּלְמַטָּה? לֹא, חֲמִשָּׁה כִּלְמַעְלָה.
+*Translation:* **Rava raised an objection to** the opinion of **Rav Naḥman** from a mishna (*Kelim* 19:2): The end of **a rope that extends from** a rope **bed is not susceptible to ritual impurity until** it is **five handbreadths** long. If the bed becomes impure, the rope remains pure, because it has no use and is therefore not considered part of the bed. **What, is it not** teaching that a rope exactly **five** handbreadths long is treated **as** though its length were **below** that amount? If so, the word: Until, means until and including the exact measure. The Gemara responds: **No,** a rope exactly **five** handbreadths long is **like** a rope whose length is **above** that amount.
+
+**12.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: מֵחֲמִשָּׁה וְעַד עֲשָׂרָה – טָמֵא. מַאי לָאו עֲשָׂרָה כִּלְמַטָּה? לָא, עֲשָׂרָה כִּלְמַעְלָה.
+*Translation:* The Gemara suggests: **Come** and **hear** a proof from the continuation of the mishna: If the end of the rope was of any length **from five** handbreadths **until ten, it is susceptible to impurity. What, is it not** teaching that a rope exactly **ten** handbreadths long is treated **as** though its length were **below** that? The Gemara responds: **No,** a rope exactly **ten** handbreadths long is treated **like** a rope whose length is **above** that, and it is not susceptible to impurity.
+
+**13.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: הַדַּקִּין שֶׁבִּכְלִי חֶרֶס, הֵן וְקַרְקְרוֹתֵיהֶן וְדוֹפְנוֹתֵיהֶם, יוֹשְׁבִין שֶׁלֹּא מְסוּמָּכִין –
+*Translation:* The Gemara suggests: **Come** and **hear** proof from another mishna (*Kelim* 2:2): With regard to **the smallest of earthenware vessels,** if **they, or** even **their** broken-off **bases or sides,** can **sit,** i.e., remain upright, **without being supported,**

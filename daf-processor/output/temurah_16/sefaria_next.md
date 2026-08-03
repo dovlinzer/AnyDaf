@@ -87,3 +87,92 @@
 **22.**
 *Hebrew/Aramaic:* וְתַנְיָא, אָמַר רַבִּי מֵאִיר: וְכִי מֵאַחַר שֶׁאֵין קְדוֹשִׁין, מֵהֵיכָן מַקְדִּישִׁין? אֶלָּא אִי אַתָּה מוֹצֵא אֶלָּא בְּמַקְדִּישׁ בְּהֵמָה וְאַחַר כָּךְ נִטְרְפָה, הָא הָיְתָה טְרֵפָה מֵעִיקָּרָא — לָא נָחֲתָא לֵיהּ קְדוּשַּׁת הַגּוּף.
 *Translation:* **And it is taught** in a *baraita* that **Rabbi Meir said: But since they do not become sanctified, how can they sanctify** another non-sacred animal? **Rather, you find** the ruling of Rabbi Elazar applies **only when** one **sanctifies an animal and afterward it becomes a *tereifa*.** The Gemara explains the difficulty: **This** indicates that if it **was a *tereifa* from the outset,** then **inherent sanctity does not rest upon it;** this ruling contradicts the opinion of Shmuel, who says that such an animal must be buried when it dies.
+
+
+---
+
+### Temurah 17b
+
+**1.**
+*Hebrew/Aramaic:* אָמַר לְךָ שְׁמוּאֵל: דִּלְמָא הָךְ תַּנָּא נָמֵי סָבַר כֹּל הֵיכָא דְּלָא חַזְיָא לְגוּפַהּ — לָא נָחֲתָא לַהּ קְדוּשַּׁת הַגּוּף.
+*Translation:* The Gemara explains that **Shmuel** could have **said to you: Perhaps this** *tanna* **also holds** that **anywhere that** an animal **is not fit itself** for sacrificing, **inherent sanctity does not rest upon it.** Shmuel himself holds in accordance with those who disagree with this opinion.
+
+**2.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ יֵשׁ בְּקׇרְבְּנוֹת.
+*Translation:* 
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִי׳ אֵלּוּ קָדָשִׁים שֶׁוַּולְדוֹתֵיהֶן וּתְמוּרוֹתֵיהֶן כַּיּוֹצֵא בָּהֶן, וְלַד שְׁלָמִים וּתְמוּרָתָן, וְלָדָן וּוְלַד וְלָדָן עַד סוֹף כׇּל הָעוֹלָם — הֲרֵי הֵן שְׁלָמִים, וּטְעוּנִין סְמִיכָה וּנְסָכִים וּתְנוּפַת חָזֶה וָשׁוֹק.
+*Translation:* MISHNA: **These are the sacrificial** animals for which the halakhic status of **their offspring and substitutes** is **like their own** halakhic status: **The offspring of peace offerings, and their substitute** animals, and even **the offspring** of their offspring or their substitute animals, **and** even **the offspring of their offspring, until the end of all time [*ad sof kol ha’olam*]. They are** all endowed with the sanctity and halakhic status of **peace offerings, and** therefore **they require placing hands** on the head of the animal, **and libations, and the waving of the breast and the thigh** in order to give them to the priest.
+
+**4.**
+*Hebrew/Aramaic:* גְּמָ׳ כֵּיוָן דִּתְנָא ״וְלָדָן וּוְלַד וְלָדָן״, ״עַד סוֹף כׇּל הָעוֹלָם״ לְמָה לִי? תַּנָּא דִידַן שַׁמְעֵיהּ לְרַבִּי אֶלְעָזָר דְּאָמַר ״וְלַד שְׁלָמִים לֹא יִקְרַב שְׁלָמִים״, וַאֲמַר לֵיהּ תַּנָּא דִידַן: לָא מִיבַּעְיָא בִּוְולָדָן דְּלָא מוֹדֵינָא, אֶלָּא אֲפִילּוּ עַד סוֹף הָעוֹלָם לָא מוֹדֵינָא לָךְ.
+*Translation:* GEMARA: The Gemara asks: **Since** the *tanna* already **taught: The offspring** of the offspring or the substitute **and the offspring of their offspring, why do I** need him to state: **Until the end of all time?** The Gemara answers: **The *tanna* of our** mishna **heard that Rabbi Elazar said** in the next mishna that **the offspring of a peace offering is not sacrificed as a peace offering,** but rather it is sequestered and left to die, **and the *tanna* of our** mishna **said to him: It is not necessary** to state **with regard to their offspring that I do not concede** to you, as I maintain that it is sacrificed upon the altar as a peace offering, **but even** with regard to all of the offsprings **until the end of time I do not concede to you,** as I rule that they are all sacrificed as peace offerings.
+
+**5.**
+*Hebrew/Aramaic:* מְנָא הָנֵי מִילֵּי? דְּתָנוּ רַבָּנַן: ״זָכָר״ — לְרַבּוֹת אֶת הַוָּלָד.
+*Translation:* § With regard to the mishna’s statement that the halakhic status of the offspring of peace offerings and their substitutes are like that of the peace offering itself, the Gemara asks: **From where are these matters** derived? The Gemara answers: **As the Sages taught** in a *baraita*: “And if his offering be a sacrifice of peace offerings: If he offer of the herd, if male if female, he shall offer it without blemish before the Lord” (Leviticus 3:1). Since the verse already states: “If he offer of the herd,” the words “if male if female” are unnecessary. Rather, the word **“male”** serves **to include the offspring** of a peace offering as having the the same halakhic status as a peace offering.
+
+**6.**
+*Hebrew/Aramaic:* וַהֲלֹא דִין הוּא: וּמָה תְּמוּרָה, שֶׁאֵין גִּידּוּלֵי הֶקְדֵּשׁ — קְרֵיבָה, וָלָד, שֶׁגִּידּוּלֵי הֶקְדֵּשׁ — אֵינוֹ דִּין שֶׁיִּקְרַב?
+*Translation:* The *baraita* objects: **But** could this **not** be derived through an *a fortiori* **inference: If a substitute** of a peace offering, **which** is lenient in that it **is not grown from consecrated** property, i.e., it is not the offspring of a sacrifical animal, **is sacrificed** as a peace offering, then with regard to **the offspring** of a peace offering, **which is** more stringent since it is **grown from consecrated** property, **is it not logical that it be sacrificed** as a peace offering?
+
+**7.**
+*Hebrew/Aramaic:* מָה לִתְמוּרָה, שֶׁכֵּן נוֹהֶגֶת בְּכׇל הַקֳּדָשִׁים, תֹּאמַר בְּוָלָד, שֶׁאֵינוֹ נוֹהֵג בְּכׇל הַקֳּדָשִׁים? אֵינוֹ קָרֵב הוֹאִיל וְאֵינוֹ נוֹהֵג בְּכׇל הַקֳּדָשִׁים. תַּלְמוּד לוֹמַר ״זָכָר״ — לְרַבּוֹת אֶת הַוָּלָד, ״נְקֵבָה״ — לְרַבּוֹת הַתְּמוּרָה.
+*Translation:* The *baraita* responds that this *a fortiori* inference may be refuted: **What** is unique **about** the halakhic status of **a substitute?** It is unique in **that** the *halakha* of substitution **applies to all sacrificial** animals that belong to an individual, and therefore the substitute of a peace offering is offered as a peace offering. **Shall you say** the same **with regard to the offspring, which** is more lenient in that it **does not apply to all sacrificial** animals, as some are male and do not give birth, and therefore there is reason to say that it **is not sacrificed** as a peace offering, **since** the *halakha* with regard to the sanctity of the offspring **does not apply to all sacrificial** animals? Therefore, **the verse states** the word **“male” to include the offspring,** and it states the word **“female” to include the substitute** of a peace offering, indicating that both have the status of a peace offering.
+
+**8.**
+*Hebrew/Aramaic:* אֵין לִי אֶלָּא תְּמוּרַת תְּמִימִין, וּוְלַד תְּמִימִין, וְלַד בַּעֲלֵי מוּמִין וּתְמוּרַת בַּעֲלֵי מוּמִין מִנַּיִן? תַּלְמוּד לוֹמַר ״אִם זָכָר״ לְרַבּוֹת וְלַד בַּעֲלֵי מוּמִין, ״אִם נְקֵבָה״ לְרַבּוֹת תְּמוּרַת בַּעֲלֵי מוּמִין.
+*Translation:* **I have** derived **only** that **the substitute of an unblemished** peace offering **and the offspring of an unblemished** peace offering have the status of a peace offering. **From where** do I derive that **the offspring of blemished** animals **and the substitute of blemished** animals which are themselves unblemished have the status of peace offerings? **The verse states** in a more expanded form: **“If male,” to include the offspring of blemished** animals, and **“if female,” to include the substitute of blemished** animals.
+
+**9.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב סָפְרָא לְאַבָּיֵי: וְאֵיפוֹךְ אֲנָא! מִסְתַּבְּרָא, מִמָּקוֹם שֶׁנִּתְרַבְּתָה תְּמוּרַת תְּמִימִין נִתְרַבְּתָה תְּמוּרַת בַּעֲלֵי מוּמִין.
+*Translation:* The Gemara analyzes the *baraita*: **Rav Safra said to Abaye: But** why should **I** not **reverse** the interpretations and say that the words “if male” serve to include the substitute of blemished animals, and the words “if female” serve to include the offspring of blemished animals? Abaye responds: It **stands to reason** that **from the** same **place that the substitute of unblemished** animals **is included,** i.e., from the word “female,” **the substitute of blemished** animals is also **included,** i.e., from the expanded form “if female.” Likewise, since the word “male” teaches that the offspring of an unblemished peace offering is included, the offspring of a blemished peace offering is included from the phrase “if male.”
+
+**10.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: מִי קָאָמֵינָא לָךְ לֵיפוֹךְ ״אִם זָכָר״ ״אִם נְקֵבָה״? אֲנָא כּוּלֵּיהּ קְרָא קָאָמֵינָא! אֵימָא: ״זָכָר״ לְרַבּוֹת אֶת הַתְּמוּרָה, ״נְקֵבָה״ לְרַבּוֹת אֶת הַוָּלָד. אֲמַר לֵיהּ: ״וָלָד״ לְשׁוֹן זָכָר מַשְׁמַע, ״תְּמוּרָה״ לְשׁוֹן נְקֵבָה מַשְׁמַע.
+*Translation:* Rav Safra **said to** Abaye in explanation of his question: **Did I say to you to reverse** the interpretations of the phrases **“if male”** and **“if female”? I** actually **said** that the interpretation of **the entire verse** should be reversed as follows: **Say** that the word **“male”** serves **to include the substitute** of both a blemished and an unblemished offering, and the word **“female”** serves **to include the offspring** of both a blemished and an unblemished offering. Abaye **said to him** in response: It is logical to interpret the verse as the *baraita* does, as the word **offspring [*valad*] indicates a masculine form,** while the word **substitute [*temura*] indicates a feminine form.**
+
+**11.**
+*Hebrew/Aramaic:* לְמַאי הִלְכְתָא? אָמַר שְׁמוּאֵל: לִיקְרַב, וְאַלִּיבָּא דְּרַבִּי אֶלְעָזָר.
+*Translation:* § The *baraita* stated that the offspring of a blemished peace offering has the status of a peace offering. The Gemara asks: **For what** matter is that ***halakha*** relevant? **Shmuel said:** It is relevant with regard **to sacrificing** it on the altar as a peace offering, even though its mother is blemished and disqualified for the altar. **And** the *baraita* is **in accordance with** the opinion **of Rabbi Elazar,** who rules that if one sets aside a female animal for a burnt offering, and that animal gave birth to a male, the offspring is offered as a burnt offering, even though its mother may not be offered as a burnt offering (see 18b).
+
+**12.**
+*Hebrew/Aramaic:* דְּמַהוּ דְּתֵימָא: כִּי קָאָמַר רַבִּי אֶלְעָזָר עוֹלָה, דְּאִיכָּא שֵׁם עוֹלָה עַל אִמּוֹ, אֲבָל הָנֵי וְלָדוֹת לָא קָרְבִי — קָמַשְׁמַע לַן.
+*Translation:* The *baraita* therefore teaches that the same is true with regard to the offspring of a blemished peace offering. And although Rabbi Elazar already stated this principle, it was necessary for the *baraita* to repeat it in this case, **lest you say** that **when Rabbi Elazar says** his opinion, it is only with regard to **a burnt offering,** due to the fact **that** there the discrepancy between mother and offspring is their sex, and **there is burnt offering status** for females, i.e., the case of a bird that is the same sex **as its mother,** as one may sacrifice a female bird burnt offering. **But** perhaps **these offspring** of a blemished peace offering **are not sacrificed,** as there is no case of a blemished animal that may be offered as a peace offering. Therefore, it **teaches us** that even these offspring may be sacrificed.
+
+**13.**
+*Hebrew/Aramaic:* בַּר פְּדָא אָמַר: לִרְעִיָּה, וְאַלִּיבָּא דְּדִבְרֵי הַכֹּל. דְּאִתְּמַר: רָבָא אָמַר: לִיקְרַב, וְאַלִּיבָּא דְּרַבִּי אֶלְעָזָר. רַב פָּפָּא אָמַר: לִרְעִיָּה, וְאַלִּיבָּא דְּדִבְרֵי הַכֹּל.
+*Translation:* **Bar Padda said:** The statement of the *baraita* that the offspring of a blemished peace offering has the status of a peace offering is relevant only with regard **to grazing** the animal until it develops a blemish, after which it may be redeemed and the money used to bring a burnt offering. But the animal itself may not be sacrificed on the altar. And the *baraita* is in accordance with all opinions. **As it was stated** that the following *amora’im* disagreed about the same point as did Shmuel and bar Padda: **Rava said** that the offspring of a blemished offering is consecrated with regard **to sacrificing** it upon the altar, **and** this is **in accordance with** the opinion of **Rabbi Elazar,** whereas **Rav Pappa said** that this *halakha* applies only with regard **to grazing, and** this is **in accordance with all** opinions.
+
+**14.**
+*Hebrew/Aramaic:* וְהַאי תַּנָּא מַיְיתֵי לַהּ מֵהָכָא.
+*Translation:* § In the *baraita*, the *halakha* governing the substitute and offspring of a peace offering is derived from the superfluous words “male” and “female.” The Gemara notes: **But this *tanna* cites** the source of this *halakha* **from here:** “Only the holy things you have, and your vows, you shall take and go to the place which the Lord shall choose; and you shall offer your burnt offerings, the flesh and the blood, upon the altar of the Lord your God; and the blood of your sacrifices shall be poured out against the altar of the Lord your God, and you shall eat the flesh” (Deuteronomy 12:26–27).
+
+**15.**
+*Hebrew/Aramaic:* ״רָק קֳדָשֶׁיךָ״ — אֵלּוּ תְּמוּרוֹת, ״אֲשֶׁר יִהְיוּ לָךְ״ — אֵלּוּ הַוְּולָדוֹת, ״תִּשָּׂא וּבָאת״.
+*Translation:* With regard to the words: **“Only your holy things,” these are the substitutes; “that you have,” these are the offspring.** And with regard to these, it states: **“You shall take and go** to the place which the Lord shall choose,” i.e., they must be brought to the Temple as offerings.
+
+**16.**
+*Hebrew/Aramaic:* יָכוֹל יַכְנִיסֶנּוּ לְבֵית הַבְּחִירָה, וְיִמְנַע מֵהֶם מַיִם וּמָזוֹן כְּדֵי שֶׁיָּמוּתוּ? תַּלְמוּד לוֹמַר: ״וְעָשִׂיתָ עוֹלוֹתֶיךָ הַבָּשָׂר וְהַדָּם״, כְּדֶרֶךְ שֶׁאַתָּה נוֹהֵג בְּעוֹלָה — אַתָּה נוֹהֵג בִּתְמוּרָה, כְּדֶרֶךְ שֶׁאַתָּה נוֹהֵג בִּשְׁלָמִים — אַתָּה נוֹהֵג בְּוַולְדֵי שְׁלָמִים וּבִתְמוּרָה.
+*Translation:* One **might** have thought that **one should bring them into the Temple but withhold water and food from them so that they die.** Therefore, **the verse states: “And you shall offer your burnt offerings, the flesh and the blood,** upon the altar of the Lord your God.” This indicates that **in the manner that you treat a burnt offering, you should treat the substitute** of a burnt offering, and **in the manner that you treat a peace offering, you should treat the offspring of a peace offering and the substitute** of a peace offering.
+
+**17.**
+*Hebrew/Aramaic:* יָכוֹל כׇּל קָדָשִׁים כֵּן? תַּלְמוּד לוֹמַר ״רַק״ — דִּבְרֵי רַבִּי יִשְׁמָעֵאל. רַבִּי עֲקִיבָא אוֹמֵר: אֵינוֹ צָרִיךְ, הֲרֵי הוּא אוֹמֵר ״אָשָׁם הוּא אָשֹׁם אָשַׁם לַה׳״ — הוּא קָרֵב, וְאֵין תְּמוּרָתוֹ קְרֵיבָה.
+*Translation:* One **might** have thought that **this** is the *halakha* with regard to **all sacrificial** animals, i.e., that their substitutes and offspring are sacrificed upon the altar. Therefore, **the verse states: “Only** your holy things,” which, as the Gemara will explain shortly, excludes certain offspring from this principle. This is **the statement of Rabbi Yishmael. Rabbi Akiva says:** The word “only” **is unnecessary,** as **it states** with regard to a guilt offering: **“It is a guilt offering; he is certainly guilty before the Lord”** (Leviticus 5:19). The term “It is [*hu*],” indicates that only **it,** the guilt offering itself, **is sacrificed** upon the altar, **but its substitute is not sacrificed.**
+
+**18.**
+*Hebrew/Aramaic:* אָמַר מָר: ״תִּשָּׂא וּבָאת״, יָכוֹל יַכְנִיסֶנּוּ לְבֵית הַבְּחִירָה?
+*Translation:* § **The Master said** above: Due to the phrase in the verse **“You shall take and go,”** one **might** have thought that **one should bring** the substitute and offspring **into the Temple** but withhold water and food from them so that they die. Therefore, the verse states: “And you shall offer your burnt offerings, the flesh and the blood, upon the altar of the Lord your God.”
+
+**19.**
+*Hebrew/Aramaic:* מְנָא תֵּיתֵי הָא? כֵּיוָן דְּגָמְרִי חָמֵשׁ חַטָּאוֹת, הָנָךְ מִקְרָב קָרְבִי!
+*Translation:* The Gemara asks: **From where** would **this** be **derived,** that these animals should be brought into the Temple and then left to die? **Since** the *halakha* that **five sin offering** are left to die **is learned** through a tradition transmitted to Moses from Sinai, and the offspring of a sin offering and the substitute of a sin offering are included among those five, it would have been reasonable to conclude that only those sin offerings are left to die, but **these** animals, the offspring of a peace offering and the substitute of a peace offering, **are sacrificed** upon the altar.
+
+**20.**
+*Hebrew/Aramaic:* מַהוּ דְּתֵימָא: חָמֵשׁ חַטָּאוֹת מֵתוֹת בְּכׇל מָקוֹם, וְהָנָךְ יָמוּתוּ בְּבֵית הַבְּחִירָה — קָמַשְׁמַע לַן.
+*Translation:* The Gemara answers: The verse is necessary, **lest you say** that these **five sin offerings** may be left to **die in any location, but these,** the offspring and substitute of a peace offering, must be left to **die** specifically **in the Temple.** Therefore, the verse **teaches us** that this is not so, as the offspring and substitute of a peace offering may be offered upon the altar.
+
+**21.**
+*Hebrew/Aramaic:* אָמַר מָר: יָכוֹל אַף כָּל הַקֳּדָשִׁים כֵּן? תַּלְמוּד לוֹמַר ״רַק קָדָשֶׁיךָ״. וָלָד דְּמַאן? אִי דְּעוֹלָה — זָכָר הוּא, וְלָאו בַּר אוֹלוֹדֵי הוּא! וְאִי דְּחַטָּאת — גְּמִירִי לַהּ דִּלְמִיתָה קָיְימִי!
+*Translation:* § **The master said** above: One **might** have thought that **this** is the *halakha* **even** with regard to **all sacrificial** animals that their substitutes and offspring may be sacrificed upon the altar just as the sacrificial animals themselves are. Therefore, **the verse states: “Only your holy things,”** indicating that this principle does not apply equally in all cases. The Gemara asks: **The offspring of which** offering is referred to here? **If** it is referring to the offspring **of a burnt offering,** a burnt offering **is male, and is** therefore **not capable of giving birth. And if** it is referring to the offspring or substitute **of a sin offering,** it **is learned** as a tradition **that** such an animal is **left to die.**

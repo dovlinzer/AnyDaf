@@ -18,7 +18,7 @@ These seals, as the parable makes vivid, were worn by animals or slaves to indic
 
 ## Hundred Blessings
 
-### Hundred Blessings Obliga…
+### Hundred Blessings Daily
 
 The Gemara continues with another *tanya hayah Rabbi Meir omer*, a second teaching of Rabbi Meir in a series: *chayav adam l'varech me'ah berachos bechol yom* — a person is obligated to recite one hundred *berachos* every day.
 

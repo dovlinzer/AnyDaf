@@ -59,3 +59,68 @@
 **15.**
 *Hebrew/Aramaic:* רָבָא אָמַר: סֵיפָא אֲתָאן לְשַׁעֲרֵי גִינָּה, וְהָכִי קָאָמַר: וְכֵן לֹא יַעֲמוֹד בִּרְשׁוּת הַיָּחִיד וְיִפְתַּח בְּכַרְמְלִית, בְּכַרְמְלִית וְיִפְתַּח בִּרְשׁוּת הַיָּחִיד,
 *Translation:* **Rava said: In the latter clause** of the mishna **we came to** a different issue, i.e., the final section of the mishna is not designed to counter Rabbi Meir’s statement with regard to the public domain. Rather, it refers **to** the **gates of a garden** with an area greater than two *beit se’a* in size, whose legal status is that of a *karmelit*. Consequently, the mishna **is saying as follows: And likewise,** one may **not stand in the private domain and open** a door **in a *karmelit*;** neither may one stand **in a *karmelit* and open** a door **in the private domain,**
+
+
+---
+
+### Eruvin 101b
+
+**1.**
+*Hebrew/Aramaic:* אֶלָּא אִם כֵּן עָשָׂה מְחִיצָה גְּבוֹהָה עֲשָׂרָה טְפָחִים, דִּבְרֵי רַבִּי מֵאִיר. אָמְרוּ לוֹ: מַעֲשֶׂה בְּשׁוּק שֶׁל פַּטָּמִים שֶׁהָיָה בִּירוּשָׁלַיִם, שֶׁהָיוּ נוֹעֲלִין וּמַנִּיחִין אֶת הַמַּפְתֵּחַ בַּחַלּוֹן שֶׁעַל גַּבֵּי הַפֶּתַח. רַבִּי יוֹסֵי אוֹמֵר: שׁוּק שֶׁל צַמָּרִים הָיָה.
+*Translation:* **unless he erected a partition ten handbreadths high** around the door and stands inside it; this is **the statement of Rabbi Meir.** The Rabbis **said to him: An incident** occurred **at the poultry dealers’ market in Jerusalem, as they would lock** the doors to their shops **and place the key in a window that was over the door,** which was higher than ten handbreadths. **Rabbi Yosei says:** That place **was a market of wool dealers.**
+
+**2.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: פִּתְחֵי שַׁעֲרֵי גִינָּה, בִּזְמַן שֶׁיֵּשׁ לָהֶן בֵּית שַׁעַר מִבִּפְנִים — פּוֹתֵחַ וְנוֹעֵל מִבִּפְנִים, מִבַּחוּץ — פּוֹתֵחַ וְנוֹעֵל מִבַּחוּץ, מִכָּאן וּמִכָּאן — פּוֹתֵחַ וְנוֹעֵל כָּאן וְכָאן. אֵין לָהֶן לֹא לְכָאן וְלֹא לְכָאן — אֲסוּרִין כָּאן וְכָאן.
+*Translation:* **The Sages taught** a *baraita*: With regard to **the entrances of garden gates** that open into a public domain, **when they have a gatehouse on the inside,** which is a private domain, **one** may **open and close** them **from within.** This is because the lock, which is four handbreadths wide and ten handbreadths high, also constitutes a private domain. Consequently, the key may be passed from the gatehouse to the lock. However, they may not be opened or closed from without, as the key may not be passed from the public domain to the private domain of the lock. If the gatehouse is **on the outside, one** may **open and close** the doors **from without,** as once again both the lock and the gatehouse are private domains. They may not, however, be opened from within, as the key may not be passed from the garden, which is a *karmelit*, to the lock. If they have a gatehouse **from here,** from within, **and there,** from without, **one** may **open and close** the doors **here and there.** If **they do not have** a gatehouse; **neither here nor there, it is prohibited** to open or close the doors **here and there,** as one may not carry the key either in the public domain or in the garden.
+
+**3.**
+*Hebrew/Aramaic:* וְכֵן חֲנוּיוֹת הַפְּתוּחוֹת לִרְשׁוּת הָרַבִּים, בִּזְמַן שֶׁהַמַּנְעוּל לְמַטָּה מֵעֲשָׂרָה — מֵבִיא מַפְתֵּחַ מֵעֶרֶב שַׁבָּת וּמַנִּיחוֹ בָּאִיסְקוּפָּה, לְמָחָר פּוֹתֵחַ וְנוֹעֵל וּמַחְזִירוֹ לָאִיסְקוּפָּה.
+*Translation:* **And likewise,** this is the *halakha* with regard to **stores that open into the public domain: When the lock is below ten** handbreadths off the ground, it is in the public domain. In that case, **one** may **bring a key on Shabbat eve and place it on the threshold,** whose legal status is that of a *karmelit*, and **the following day he** may **open and close** the door **and return** the key **to the threshold.**
+
+**4.**
+*Hebrew/Aramaic:* וּבִזְמַן שֶׁהַמַּנְעוּל לְמַעְלָה מֵעֲשָׂרָה — מֵבִיא מַפְתֵּחַ מֵעֶרֶב שַׁבָּת וּמַנִּיחוֹ בַּמַּנְעוּל, לְמָחָר פּוֹתֵחַ וְנוֹעֵל וּמַחְזִירוֹ לִמְקוֹמוֹ, דִּבְרֵי רַבִּי מֵאִיר.
+*Translation:* **And when the lock is above ten** handbreadths off the ground, one may **bring a key on Shabbat eve and place it in the lock.** And **the following day he** may **open and close** the door **and return** the key **to its place** on top of the lock. This is **the statement of Rabbi Meir.**
+
+**5.**
+*Hebrew/Aramaic:* וַחֲכָמִים אוֹמְרִים: אַף בִּזְמַן שֶׁהַמַּנְעוּל לְמַעְלָה מֵעֲשָׂרָה טְפָחִים — מֵבִיא מַפְתֵּחַ מֵעֶרֶב שַׁבָּת, וּמַנִּיחוֹ בָּאִיסְקוּפָּה, לְמָחָר פּוֹתֵחַ וְנוֹעֵל וּמַחְזִירוֹ לִמְקוֹמוֹ, אוֹ בַּחַלּוֹן שֶׁעַל גַּבֵּי הַפֶּתַח.
+*Translation:* **And the Rabbis say: Even when the lock is above ten handbreadths** off the ground, **one** may **bring a key on Shabbat eve and place it on the threshold,** and **the following day he** may **open and close** the door **and return** the key **to its place** on the threshold **or in the window that is above the door.**
+
+**6.**
+*Hebrew/Aramaic:* אִם יֵשׁ בַּחַלּוֹן אַרְבָּעָה עַל אַרְבָּעָה — אָסוּר, מִפְּנֵי שֶׁהוּא כְּמוֹצִיא מֵרְשׁוּת לִרְשׁוּת.
+*Translation:* However, **if the window is four by four** handbreadths and ten handbreadths above the ground, its status is that of a private domain, **and it is** therefore **prohibited** to place the key in the window, **because** it would be **as though one is transferring** the key **from** one **domain,** a *karmelit*, **to** another private **domain.**
+
+**7.**
+*Hebrew/Aramaic:* מִדְּקָאָמַר: ״וְכֵן חֲנוּיוֹת״, מִכְּלָל דִּבְאִיסְקוּפַּת כַּרְמְלִית עָסְקִינַן. הַאי מַנְעוּל הֵיכִי דָּמֵי? אִי דְּלֵית בֵּיהּ אַרְבָּעָה, מְקוֹם פְּטוּר הוּא.
+*Translation:* The Gemara infers: **From** the fact that **it is stated** in the *baraita*: **And similarly, stores,** this proves **by inference that we are dealing with a threshold** that is **a *karmelit*,** as it would otherwise be prohibited to transfer the key from the threshold to the lock. If so, with regard to **this lock, what are the circumstances? If there is not** an area of **four** by four handbreadths **in it,** it does not have the status of a prohibited domain at all, and **it is an exempt domain.**
+
+**8.**
+*Hebrew/Aramaic:* וְאִי אִית בֵּיהּ אַרְבָּעָה, בְּהָא לֵימָא רַבָּנַן: אַף בִּזְמַן שֶׁהַמַּנְעוּל לְמַעְלָה מֵעֲשָׂרָה מֵבִיא מַפְתֵּחַ מֵעֶרֶב שַׁבָּת וּמַנִּיחוֹ בָּאִיסְקוּפָּה, לְמָחָר פּוֹתֵחַ וְנוֹעֵל בּוֹ וּמַחְזִירוֹ לָאִיסְקוּפָּה אוֹ לַחַלּוֹן שֶׁעַל גַּבֵּי הַפֶּתַח? וְהָא קָא מְטַלְטֵל מִכַּרְמְלִית לִרְשׁוּת הַיָּחִיד!
+*Translation:* **And if it is four** by four handbreadths, and therefore a private domain, **would the Rabbis say in that** case: **Even when the lock is above ten handbreadths** off the ground, **he** may **bring a key on Shabbat eve and place it in the threshold,** and **the following day he** may **open and close** the door **and return** the key **to the threshold or to a window above the door? Isn’t he moving** an object **from a *karmelit* to the private domain?**
+
+**9.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: לְעוֹלָם דְּאֵין בּוֹ אַרְבָּעָה, וְיֵשׁ בּוֹ לָחוֹק וּלְהַשְׁלִימוֹ לְאַרְבָּעָה.
+*Translation:* **Abaye said: Actually,** the lock **is not four** by four handbreadths, **but there is** enough space in the door surrounding it **to carve out** a hole that would **complete** its area to the requisite **four** handbreadths.
+
+**10.**
+*Hebrew/Aramaic:* וּבְהָא פְּלִיגִי: דְּרַבִּי מֵאִיר סָבַר חוֹקְקִין לְהַשְׁלִים. וְרַבָּנַן סָבְרִי: אֵין חוֹקְקִין לְהַשְׁלִים.
+*Translation:* **And this is** their **dispute: Rabbi Meir,** who conforms to his standard line of reasoning, **maintains** that **one carves out** the space **to complete** it to four handbreadths. In other words, if a small opening is located in a place large enough for it to be widened, the place is viewed as though it had already been carved out, providing the opening with the larger dimensions. **And the Rabbis** conform to their standard line of reasoning, as they **maintain** that **one does not carve out** the space **to complete** it to four handbreadths. Consequently, the lock in its present condition is not large enough to constitute a place of significance, and it is therefore regarded as an exempt place.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַב בִּיבִי בַּר אַבָּיֵי, שְׁמַע מִינַּהּ מֵהָא מַתְנִיתָא תְּלָת: שְׁמַע מִינַּהּ חוֹקְקִין לְהַשְׁלִים. וּשְׁמַע מִינַּהּ הֲדַר בֵּיהּ רַבִּי מֵאִיר מִשַּׁעֲרֵי גִינָּה.
+*Translation:* **Rav Beivai bar Abaye said: Learn from this *baraita* three** *halakhot*: **Learn from it** that according to Rabbi Meir, **we carve out to complete** the necessary dimensions. **And** further **learn from it** that **Rabbi Meir retracted** his ruling with regard to **garden gates.** According to Rava, Rabbi Meir prohibited a man standing in a *karmelit* from opening a door in a private domain, and yet here he permits a similar case.
+
+**12.**
+*Hebrew/Aramaic:* וְשָׁמְעַתְּ מִינַּהּ מִדְּרַבָּנַן אִיתָא לִדְרַב דִּימִי, דְּכִי אֲתָא רַב דִּימִי אָמַר רַבִּי יוֹחָנָן: מָקוֹם שֶׁאֵין בּוֹ אַרְבָּעָה עַל אַרְבָּעָה — מוּתָּר לִבְנֵי רְשׁוּת הָרַבִּים וְלִבְנֵי רְשׁוּת הַיָּחִיד לְכַתֵּף עָלָיו, וּבִלְבַד שֶׁלֹּא יַחֲלִיפוּ.
+*Translation:* **And learn from** the statement of **the Rabbis** that the ruling of **Rav Dimi is accepted. As when Rav Dimi came** to Babylonia from Eretz Israel, he said that **Rabbi Yoḥanan said: A place** with an area **that is less than four by four** handbreadths and that is set apart from the surrounding area is an exempt domain with regard to carrying on Shabbat. Consequently, if the domain is located between a public domain and a private domain, **it is permitted for** both **the people in the public domain and for the people in the private domain to adjust** the burden **onto their shoulders, provided that they do not exchange** objects with one another. This ruling, that it is prohibited to exchange articles, is supported by the position of the Rabbis that it is prohibited to transfer the key from the threshold, which is a *karmelit*, via the lock, an exempt domain, to the private domain of the window, as one may not transfer an object from one prohibited domain to another, even via an exempt domain.
+
+**13.**
+*Hebrew/Aramaic:* מַתְנִי׳ נֶגֶר שֶׁיֵּשׁ בְּרֹאשׁוֹ גְּלוֹסְטְרָא, רַבִּי אֱלִיעֶזֶר אוֹסֵר וְרַבִּי יוֹסֵי מַתִּיר.
+*Translation:* MISHNA: With regard to **a bolt** that secures a door in place and **that has** a thick **knob [*gelustera*] at its end,** a useful implement for a variety of purposes, the *tanna’im* disagree whether the bolt has the status of a vessel, and one may therefore close the door with it, or whether it is considered a cross beam, which would mean that doing so is classified as building. **Rabbi Eliezer prohibits** its use, **and Rabbi Yosei permits** it.
+
+**14.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אֱלִיעֶזֶר: מַעֲשֶׂה בִּכְנֶסֶת שֶׁבִּטְבֶרְיָא שֶׁהָיוּ נוֹהֲגִין בּוֹ הֶיתֵּר, עַד שֶׁבָּא רַבָּן גַּמְלִיאֵל וְהַזְּקֵנִים וְאָסְרוּ לָהֶן. רַבִּי יוֹסֵי אוֹמֵר: אִיסּוּר נָהֲגוּ בּוֹ, וּבָא רַבָּן גַּמְלִיאֵל וְהַזְּקֵנִים וְהִתִּירוּ לָהֶן.
+*Translation:* **Rabbi Eliezer said: An incident** occurred **in a synagogue in Tiberias, where they were accustomed** to treat use of this bolt as **permitted, until Rabban Gamliel and the Elders came and prohibited** it to **them. Rabbi Yosei says** that the opposite was the case: At first **they were accustomed** to treat use of this bolt as **prohibited, and Rabban Gamliel and the Elders came and permitted** it to **them.**
+
+**15.**
+*Hebrew/Aramaic:* גְּמָ׳ בְּנִיטָּל בְּאִגְדּוֹ — כּוּלֵּי עָלְמָא לָא פְּלִיגִי. כִּי פְּלִיגִי
+*Translation:* GEMARA: The Gemara narrows the dispute: **If** the bolt **can be moved by the rope** with which it is attached to the door, **everyone agrees** that it is considered part of the door, and one may secure the door with it. **When** Rabbi Yosei and Rabbi Eliezer **disagree,**

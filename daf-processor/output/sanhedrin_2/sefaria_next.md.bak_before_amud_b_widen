@@ -1,0 +1,45 @@
+### Sanhedrin 3a
+
+**1.**
+*Hebrew/Aramaic:* שֶׁנֶּאֱמַר: ״מִשְׁפַּט אֶחָד יִהְיֶה לָכֶם״. וּמָה טַעַם אָמְרוּ דִּינֵי מָמוֹנוֹת לָא בָּעֵינַן דְּרִישָׁה וַחֲקִירָה? כְּדֵי שֶׁלֹּא תִּנְעוֹל דֶּלֶת בִּפְנֵי לוֹוִין.
+*Translation:* The source for this is **as it is stated: “You shall have one manner of law”** (Leviticus 24:22), from which it is derived that all judges must judge in the same manner. And since with regard to cases of capital law it is stated: “And you shall inquire and investigate, and ask diligently” (Deuteronomy 13:15), the same should apply to cases of monetary law. **And what is the reason** that the Sages **said** that in cases of **monetary law we do not require inquiry and interrogation** of witnesses? The Gemara answers: The Sages established this exemption **so as not to lock the door in the face of** potential **borrowers.** If inquiry and interrogation of the witnesses would be required in order to have the court rule that the lender can collect payment of a loan, lenders would be deterred by the difficulty of proving the matter and might cease to lend money to the poor. For the same reason, the Sages also waived the need for expert judges in these cases.
+
+**2.**
+*Hebrew/Aramaic:* אֶלָּא מֵעַתָּה, טָעוּ – לֹא יְשַׁלְּמוּ?! כׇּל שֶׁכֵּן אַתָּה נוֹעֵל דֶּלֶת בִּפְנֵי לוֹוִין!
+*Translation:* The Gemara asks: **If that is so,** then if these laymen **err they should not** be liable to **pay** compensation to the party unfairly wronged by their judgment, just as expert judges are not liable. The Gemara responds: If this is the *halakha*, **you are all the more so locking the door in the face of** potential **borrowers;** wealthy people will not want to lend money, as they will fear that a court of laymen will judge the case incorrectly.
+
+**3.**
+*Hebrew/Aramaic:* אִי הָכִי, תַּרְתֵּי קָתָנֵי: דִּינֵי מָמוֹנוֹת בִּשְׁלֹשָׁה הֶדְיוֹטוֹת, גְּזֵילוֹת וַחֲבָלוֹת בִּשְׁלֹשָׁה מוּמְחִין.
+*Translation:* With regard to Rabbi Abbahu’s method of explaining the mishna, the Gemara asks: **If that is so,** then instead of explaining the mishna employing the style: What are these, Rabbi Abbahu could more easily say that **two** matters **are taught** in the mishna, and explain it as follows: Cases of **monetary law,** meaning cases of admissions and loans, are adjudicated **by three** judges who could be non-ordained **laymen [*hedyotot*],** and cases of **robbery and** personal **injury** are adjudicated **by three** ordained, **expert** judges.
+
+**4.**
+*Hebrew/Aramaic:* וְעוֹד, שְׁלֹשָׁה שְׁלֹשָׁה לְמָה לִי?
+*Translation:* **And furthermore,** according to Rabbi Abbahu’s explanation that the term: Cases of robbery and personal injury, simply clarifies the meaning of the term: Cases of monetary law, **why do I** need the repetitive statement that cases of monetary law are adjudicated by **three** judges and cases of robbery and injury are adjudicated by **three** judges? The repetition seems to indicate that these are two separate matters.
+
+**5.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רָבָא: תַּרְתֵּי קָתָנֵי, מִשּׁוּם דְּרַבִּי חֲנִינָא. רַב אַחָא בְּרֵיהּ דְּרַב אִיקָא אָמַר: מִדְּאוֹרָיְיתָא חַד נָמֵי כָּשֵׁר, שֶׁנֶּאֱמַר ״בְּצֶדֶק תִּשְׁפֹּט עֲמִיתֶךָ״. אֶלָּא מִשּׁוּם יוֹשְׁבֵי קְרָנוֹת.
+*Translation:* **Rather, Rava said: Two** matters **are** in fact **taught** in the mishna, **because** of the statement **of Rabbi Ḥanina** that the Sages instituted leniencies with regard to cases of monetary law so as not to lock the door in the face of potential borrowers. **Rav Aḥa, son of Rav Ika, said: By Torah law,** the adjudication of **one** judge is **also valid** in cases of admissions and loans, **as it is stated: “In righteousness shall you judge your neighbor”** (Leviticus 19:15), in the singular. **But** by rabbinic law, three judges are required, **due to** the concern that a single judge may be one of **those who sit** idly on street **corners,** i.e., unlearned people who are not involved in business and are unlikely to judge the case correctly.
+
+**6.**
+*Hebrew/Aramaic:* אַטּוּ בִּתְלָתָא מִי לָא הָווּ יוֹשְׁבֵי קְרָנוֹת? אִי אֶפְשָׁר דְּלֵית בְּהוּ חַד דִּגְמִיר. אֶלָּא מֵעַתָּה, טָעוּ – לֹא יְשַׁלְּמוּ?! כׇּל שֶׁכֵּן דִּנְפִישִׁי יוֹשְׁבֵי קְרָנוֹת!
+*Translation:* The Gemara asks: **Is that to say** that **with three** judges **they** will **not be** among **those who sit** idly on street **corners?** How is this concern addressed by increasing the number of judges? The Gemara answers: When there are three judges **it is impossible,** i.e., highly unlikely, **that there is not among them one who is learned.** The Gemara asks: **If that is so,** then if **they err they should not** be liable to **pay** compensation, since rabbinic law authorizes laymen to judge cases of this nature. The Gemara answers: If the judges will be exempt from paying compensation in the event that they err in their judgment, this lack of accountability will lead **all the more so** to having **many** of **those who sit** idly on street **corners** assume the role of judges.
+
+**7.**
+*Hebrew/Aramaic:* מַאי אִיכָּא בֵּין רָבָא לְרַב אַחָא בְּרֵיהּ דְּרַב אִיקָא? אִיכָּא בֵּינַיְיהוּ – דְּאָמַר שְׁמוּאֵל: שְׁנַיִם שֶׁדָּנוּ, דִּינֵיהֶן דִּין, אֶלָּא שֶׁנִּקְרְאוּ בֵּית דִּין חָצוּף. לְרָבָא לֵית לֵיהּ דִּשְׁמוּאֵל, לְרַב אַחָא בְּרֵיהּ דְּרַב אִיקָא אִית לֵיהּ דִּשְׁמוּאֵל.
+*Translation:* The Gemara asks: **What are** the implications of the difference **between** the opinion of **Rava,** who says that cases of monetary law may be adjudicated by three laymen due to the statement of Rabbi Ḥanina, **and** the opinion of **Rav Aḥa, son of Rav Ika,** who holds that according to the Torah one judge is sufficient? The Gemara answers: The difference **between** them is with regard to **that** which **Shmuel says:** If **two** people **adjudicated** a case, **their judgment** is a valid **judgment, but they are called an impudent court. Rava is of** the opinion that the *halakha* is **not** in accordance with the opinion **of Shmuel,** as he holds that three judges are required by Torah law. **Rav Aḥa, son of Rav Ika, is of** the opinion that the *halakha* is in accordance with the opinion **of Shmuel,** as he holds that fundamentally, even one judge may judge a case of monetary law.
+
+**8.**
+*Hebrew/Aramaic:* נֶזֶק וַחֲצִי נֶזֶק וְכוּ׳. נֶזֶק הַיְינוּ חֲבָלוֹת? מִשּׁוּם דְּקָא בָּעֵי לְמִיתְנֵא חֲצִי נֶזֶק, תָּנֵי נָמֵי נֶזֶק שָׁלֵם.
+*Translation:* § The mishna teaches that cases involving payment for **damage and** payment for **half the damage** are adjudicated by three judges. The Gemara challenges: **Damage is** the same as **injury,** since the term: Injury, includes various damages one causes another directly or by his property. The Gemara explains: **Since he needed to teach** the *halakha* with regard to payment of **half** the cost of **the damage, he also taught** the *halakha* with regard to payment of the **full** cost of the **damage.**
+
+**9.**
+*Hebrew/Aramaic:* חֲצִי נֶזֶק נָמֵי – הַיְינוּ חֲבָלוֹת! תְּנָא מָמוֹנָא, וְקָתָנֵי קְנָסָא.
+*Translation:* The Gemara challenges: Payment of **half the damage is also** the same as personal **injury,** so it did not need to be stated separately. The Gemara explains: There is a difference. The *tanna* **taught** the *halakha* with regard to a case of **monetary matters, and** he also **taught** the *halakha* with regard to a case of **a fine,** such as payment of half the damage in a case where an innocuous ox gored another animal. Consequently, payment of half the cost of the damage needed to be stated separately from payment for injury, and once he needed to teach the *halakha* with regard to payment for half the cost of the damage, he first mentioned general payments for damages.
+
+**10.**
+*Hebrew/Aramaic:* הָנִיחָא לְמַאן דְּאָמַר: ״פַּלְגָא נִיזְקָא קְנָסָא״, אֶלָּא לְמַאן דְּאָמַר: ״פַּלְגָא נִיזְקָא מָמוֹנָא״, מַאי אִיכָּא לְמֵימַר?
+*Translation:* The Gemara asks: **This works out well according to the one who says** that **the** payment for **half** the cost of **the damage** is considered **a fine,** meaning that according to the standard *halakhot* of damages the owner of the goring ox should be exempt, and the Torah instituted a payment of half the cost of the damage as a penalty for not being exceedingly careful. **But according to the one who says** that **the** payment for **half** the cost of **the damage** is an actual **monetary** payment, meaning that according to the standard *halakhot* of damages the owner of the goring ox should be fully liable but the Torah exempted him from part of his liability due to the unusual nature of the damage, **what can be said?** Therefore, this explanation must be rejected.
+
+**11.**
+*Hebrew/Aramaic:* אֶלָּא, אַיְּידֵי דְּקָא בָּעֵי לְמִיתְנֵא תַּשְׁלוּמֵי כֶּפֶל וְתַשְׁלוּמֵי אַרְבָּעָה וַחֲמִשָּׁה, דְּמָמוֹן
+*Translation:* **Rather, since** the *tanna* **needed to teach** the *halakha* with regard to cases involving **payment of double** the principal **and payment of four or five** times the principal, **which** are cases of **money**

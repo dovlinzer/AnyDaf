@@ -59,3 +59,92 @@
 **15.**
 *Hebrew/Aramaic:* הֲדַרַן עֲלָךְ בֵּיצָה
 *Translation:* 
+
+
+---
+
+### Beitzah 15b
+
+**1.**
+*Hebrew/Aramaic:* יוֹם טוֹב שֶׁחָל לִהְיוֹת עֶרֶב שַׁבָּת — לֹא יְבַשֵּׁל בַּתְּחִלָּה מִיּוֹם טוֹב לְשַׁבָּת. אֲבָל מְבַשֵּׁל הוּא לְיוֹם טוֹב, וְאִם הוֹתִיר — הוֹתִיר לַשַּׁבָּת. וְעוֹשֶׂה תַּבְשִׁיל מֵעֶרֶב יוֹם טוֹב, וְסוֹמֵךְ עָלָיו לַשַּׁבָּת.
+*Translation:* MISHNA: With regard to **a Festival that occurs** on **Shabbat eve, one may not cook on the Festival with the initial** intent to cook **for Shabbat. However, he may cook** on that day **for the Festival** itself, **and if he left over** any food, **he left** it **over for Shabbat.** The early Sages also instituted an ordinance: The joining of cooked foods [*eiruv tavshilin*], which the mishna explains. **One may prepare a cooked dish** designated for Shabbat **on a Festival eve and rely on it** to cook on the Festival **for Shabbat.**
+
+**2.**
+*Hebrew/Aramaic:* בֵּית שַׁמַּאי אוֹמְרִים: שְׁנֵי תַבְשִׁילִין, ובֵית הִלֵּל אוֹמְרִים: תַּבְשִׁיל אֶחָד. וְשָׁוִין בְּדָג וּבֵיצָה שֶׁעָלָיו, שֶׁהֵן שְׁנֵי תַבְשִׁילִין.
+*Translation:* The *tanna’im* disagreed with regard to the details of this ordinance: **Beit Shammai say:** For the purpose of the joining of cooked foods one must prepare **two cooked dishes, and Beit Hillel say: One dish** is sufficient. **And they** both **agree with regard to a fish and** the **egg that is** fried **on it that these are** considered **two dishes** for this purpose.
+
+**3.**
+*Hebrew/Aramaic:* אֲכָלוֹ אוֹ שֶׁאָבַד — לֹא יְבַשֵּׁל עָלָיו בַּתְּחִלָּה. וְאִם שִׁיֵּיר מִמֶּנּוּ כׇּל שֶׁהוּא, — סוֹמֵךְ עָלָיו לַשַּׁבָּת.
+*Translation:* If **one ate** the food prepared before the Festival as an *eiruv* and none of it remained for Shabbat, **or if it was lost, he may not** rely **on it** and **cook with the initial** intent to cook for Shabbat. **If he left any part of** the *eiruv*, he may **rely on it** to cook **for Shabbat.**
+
+**4.**
+*Hebrew/Aramaic:* גְּמָ׳ מְנָא הָנֵי מִילֵּי? אָמַר שְׁמוּאֵל, דְּאָמַר קְרָא: ״זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ״, זׇכְרֵהוּ — מֵאַחֵר שֶׁבָּא לְהַשְׁכִּיחוֹ.
+*Translation:* GEMARA: The Gemara asks: **From where are these matters** derived? What is the source of the *halakha* of the joining of cooked foods and of the *halakha* that one who failed to prepare such an *eiruv* may not cook on a Festival for Shabbat? **Shmuel said** that the source is **as the verse states: “Remember the Shabbat day, to keep it holy”** (Exodus 20:8); from which he infers: **Remember it** and safeguard it **from another** day **that comes to make it forgotten.** When a Festival occurs on Friday, preoccupation with the Festival and the preparation and enjoyment of its meals could lead one to overlook Shabbat. Therefore, the Sages instituted an ordinance to ensure that Shabbat will be remembered even then.
+
+**5.**
+*Hebrew/Aramaic:* מַאי טַעְמָא? אָמַר רָבָא: כְּדַי שֶׁיִּבְרוֹר מָנָה יָפָה לַשַּׁבָּת וּמָנָה יָפָה לְיוֹם טוֹב.
+*Translation:* The Gemara asks: **What is the reason** that the Sages instituted this ordinance in particular to ensure that Shabbat would not be overlooked? **Rava said:** The Sages did so in deference to Shabbat, and they instituted an *eiruv* **so that one will select a choice portion for Shabbat and a choice portion for the Festival.** If one fails to prepare a dish specifically for Shabbat before the Festival, it could lead to failure to show the appropriate deference to Shabbat.
+
+**6.**
+*Hebrew/Aramaic:* רַב אָשֵׁי אָמַר: כְּדֵי שֶׁיֹּאמְרוּ אֵין אוֹפִין מִיּוֹם טוֹב לַשַּׁבָּת, קַל וָחוֹמֶר מִיּוֹם טוֹב לְחוֹל.
+*Translation:* **Rav Ashi stated** a different reason: The Sages did so in deference to the Festival, **so that** people **will say: One may not bake on a Festival for Shabbat** unless he began to bake the day before; **all the more so,** one may not bake **on a Festival for a weekday.**
+
+**7.**
+*Hebrew/Aramaic:* תְּנַן: עוֹשֶׂה תַּבְשִׁיל מֵעֶרֶב יוֹם טוֹב וְסוֹמֵךְ עָלָיו לַשַּׁבָּת. בִּשְׁלָמָא לְרַב אָשֵׁי דְּאָמַר כְּדֵי שֶׁיֹּאמְרוּ אֵין אוֹפִין מִיּוֹם טוֹב לַשַּׁבָּת, הַיְינוּ דְּמֵעֶרֶב יוֹם טוֹב — אִין, בְּיוֹם טוֹב — לָא. אֶלָּא לְרָבָא, מַאי אִירְיָא מֵעֶרֶב יוֹם טוֹב? אֲפִילּוּ בְּיוֹם טוֹב נָמֵי!
+*Translation:* **We learned** in the mishna: **One may prepare a cooked dish on a Festival eve and rely on it** to cook **for Shabbat. Granted, according to Rav Ashi, who said** that the reason for an *eiruv* is **so that** people **will say: One may not bake on a Festival for Shabbat; that is** why **on a Festival eve, yes,** one may prepare the *eiruv*, but **on the Festival** itself, **no,** one may not do so, as it is a reminder that in principle one may not cook on a Festival for Shabbat. **However, according to Rava,** who stated that the reason for the *eiruv* is to ensure that one selects choice portions for both the Festival and Shabbat, **why** does the mishna discuss **specifically** preparation **on a Festival eve? Even** were one to prepare a dish for Shabbat **on the Festival as well,** it would guarantee that he accord the appropriate deference to Shabbat.
+
+**8.**
+*Hebrew/Aramaic:* אִין הָכִי נָמֵי, אֶלָּא גְּזֵרָה שֶׁמָּא יִפְשַׁע.
+*Translation:* The Gemara answers: **Yes, it is indeed so;** that objective could have been achieved even on the Festival. **However,** the Sages issued **a decree** that the *eiruv* must be prepared on the Festival eve **lest one be negligent** and fail to prepare one entirely.
+
+**9.**
+*Hebrew/Aramaic:* וְתַנָּא מַיְיתֵי לַהּ מֵהָכָא: ״אֵת אֲשֶׁר תֹּאפוּ אֵפוּ וְאֵת אֲשֶׁר תְּבַשְּׁלוּ בַּשֵּׁלוּ״, מִכָּאן אָמַר רַבִּי אֱלִיעֶזֶר: אֵין אוֹפִין אֶלָּא עַל הָאָפוּי, וְאֵין מְבַשְּׁלִין אֶלָּא עַל הַמְבוּשָּׁל. מִכָּאן סָמְכוּ חֲכָמִים לְעֵרוּבֵי תַבְשִׁילִין מִן הַתּוֹרָה.
+*Translation:* The Gemara comments: **And a *tanna* cites** the proof for *eiruv tavshilin* **from here,** the following verse: “Tomorrow is a day of rest, a holy Shabbat to the Lord. **Bake that which you will bake and cook that which you will cook,** and all that remains put aside to be kept for you until the morning” (Exodus 16:23). **From here Rabbi Eliezer said: One may bake** on a Festival for Shabbat **only** by relying **on that which was** already **baked** for Shabbat the day before, and adding to it; **and one may cook only** by relying **on that which was** already **cooked. From this** verse **the Sages established** an allusion **to** the **joining of cooked foods from the Torah.**
+
+**10.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: מַעֲשֶׂה בְּרַבִּי אֱלִיעֶזֶר שֶׁהָיָה יוֹשֵׁב וְדוֹרֵשׁ כׇּל הַיּוֹם כּוּלּוֹ בְּהִלְכוֹת יוֹם טוֹב. יָצְתָה כַּת רִאשׁוֹנָה, אָמַר: הַלָּלוּ בַּעֲלֵי פִטָּסִין. כַּת שְׁנִיָּה, אָמַר: הַלָּלוּ בַּעֲלֵי חָבִיּוֹת. כַּת שְׁלִישִׁית, אָמַר: הַלָּלוּ בַּעֲלֵי כַדִּין.
+*Translation:* § **The Sages taught** in a *baraita*: **There was an incident involving Rabbi Eliezer, who was sitting and lecturing about the *halakhot* of the Festival throughout the entire** Festival **day.** When **the first group left** in the middle of his lecture, **he said: These** must be **owners of extremely large jugs [*pittasin*],** who apparently have huge containers of wine awaiting them as well as a comparable amount of food, and they have left the house of study out of a craving for their food. After a while **a second group** departed. **He said: These are owners of barrels,** which are smaller than *pittasin*. Later **a third group** took its leave, and **he said: These are owners of jugs,** even smaller than barrels.
+
+**11.**
+*Hebrew/Aramaic:* כַּת רְבִיעִית, אָמַר: הַלָּלוּ בַּעֲלֵי לְגִינִין. כַּת חֲמִישִׁית, אָמַר: הַלָּלוּ בַּעֲלֵי כוֹסוֹת. הִתְחִילוּ כַּת שִׁשִּׁית לָצֵאת, אָמַר: הַלָּלוּ בַּעֲלֵי מְאֵרָה.
+*Translation:* **A fourth group** left, and **he said: These are owners of jars [*laginin*],** which are smaller than jugs. Upon the departure of **a fifth group, he said: These are owners of cups,** which are smaller still. When **a sixth group began to leave, he** became upset that the house of study was being left almost completely empty and **said: These are owners of a curse;** i.e., they obviously do not have anything at home, so why are they leaving?
+
+**12.**
+*Hebrew/Aramaic:* נָתַן עֵינָיו בַּתַּלְמִידִים, הִתְחִילוּ פְּנֵיהֶם מִשְׁתַּנִּין. אָמַר לָהֶם: בָּנַי, לֹא לָכֶם אֲנִי אוֹמֵר, אֶלָּא לְהַלָּלוּ שֶׁיָּצְאוּ, שֶׁמַּנִּיחִים חַיֵּי עוֹלָם וְעוֹסְקִים בְּחַיֵּי שָׁעָה.
+*Translation:* **He cast his eyes upon the students** remaining in the house of study. Immediately, **their faces began to change** color out of shame, as they feared he was referring to them and that perhaps they should have departed along with the others instead of staying. **He said to them: My sons, I did not say** that **about you but about those who left, because they abandon** the **eternal life** of Torah **and engage in** the **temporary life** of eating.
+
+**13.**
+*Hebrew/Aramaic:* בִּשְׁעַת פְּטִירָתָן, אָמַר לָהֶם: ״לְכוּ אִכְלוּ מַשְׁמַנִּים וּשְׁתוּ מַמְתַקִּים וְשִׁלְחוּ מָנוֹת לְאֵין נָכוֹן לוֹ כִּי קָדוֹשׁ הַיּוֹם לַאֲדֹנֵינוּ וְאַל תֵּעָצֵבוּ כִּי חֶדְוַת ה׳ הִיא מָעֻזְּכֶם״.
+*Translation:* **At the time of** the remaining students’ **departure** at the conclusion of Rabbi Eliezer’s lecture, **he said to them** the verse: **“Go your way, eat the fat and drink the sweet, and send portions to him for whom nothing is prepared, for this day is holy to our Lord; and do not be grieved, for the joy of the Lord is your strength”** (Nehemiah 8:10).
+
+**14.**
+*Hebrew/Aramaic:* אָמַר מָר: שֶׁמַּנִּיחִין חַיֵּי עוֹלָם וְעוֹסְקִין בְּחַיֵּי שָׁעָה — וְהָא שִׂמְחַת יוֹם טוֹב מִצְוָה הִיא! רַבִּי אֱלִיעֶזֶר לְטַעְמֵיהּ, דְּאָמַר: שִׂמְחַת יוֹם טוֹב רְשׁוּת.
+*Translation:* The Gemara clarifies this *baraita*. **The Master said** above: **Because they abandon eternal life and engage in temporary life.** The Gemara wonders at this: **But isn’t the joy of the Festival** itself **a mitzva** and therefore part of eternal life? The Gemara answers: **Rabbi Eliezer** conforms **to his** standard line of **reasoning,** as **he said:** Physical **joy on a Festival is** merely **optional.**
+
+**15.**
+*Hebrew/Aramaic:* דְּתַנְיָא, רַבִּי אֱלִיעֶזֶר אוֹמֵר: אֵין לוֹ לָאָדָם בְּיוֹם טוֹב, אֶלָּא אוֹ אוֹכֵל וְשׁוֹתֶה, אוֹ יוֹשֵׁב וְשׁוֹנֶה. רַבִּי יְהוֹשֻׁעַ אוֹמֵר, חַלְּקֵהוּ: חֶצְיוֹ לַה׳, וְחֶצְיוֹ לָכֶם.
+*Translation:* **As it is taught** in a *baraita* that **Rabbi Eliezer says: A person has no** way of fulfilling the mitzva of **a Festival** correctly **apart from either eating and drinking,** thereby fulfilling the mitzva of joy in a completely physical manner, **or sitting and studying** Torah, thereby emphasizing only the spiritual; and those who did not engage in Torah study to the fullest extent acted inappropriately. **Rabbi Yehoshua says:** There is no need for such a dichotomy; rather, simply **divide it: Half to God,** Torah study, **and half to yourselves,** engaging in eating, drinking, and other pleasurable activities.
+
+**16.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: וּשְׁנֵיהֶם מִקְרָא אֶחָד דָּרְשׁוּ. כָּתוּב אֶחָד אוֹמֵר: ״עֲצֶרֶת לַה׳ אֱלֹהֶיךָ״, וְכָתוּב אֶחָד אוֹמֵר: ״עֲצֶרֶת תִּהְיֶה לָכֶם״. הָא כֵּיצַד? רַבִּי אֱלִיעֶזֶר סָבַר: אוֹ כּוּלּוֹ לַה׳, אוֹ כּוּלּוֹ לָכֶם. וְרַבִּי יְהוֹשֻׁעַ סָבַר: חַלְּקֵהוּ, חֶצְיוֹ לַה׳ וְחֶצְיוֹ לָכֶם.
+*Translation:* **Rabbi Yoḥanan said: And both of them derived** their opinions **from one verse,** i.e., the two of them addressed the same apparent contradiction between two verses, resolving it in different ways. **One verse states:** “It shall be **a solemn assembly for the Lord, your God”** (Deuteronomy 16:8), indicating a Festival dedicated to the service of God, **and one verse states: “It shall be a solemn assembly for you”** (Numbers 29:35), indicating a celebratory assembly for the Jewish people. **How is this** to be reconciled? **Rabbi Eliezer holds** that the two verses should be understood as offering a choice: The day is to be **either entirely for God,** in accordance with the one verse, **or entirely for you,** as per the other verse; **and Rabbi Yehoshua holds** that it is possible to fulfill both verses: **Split** the day into two, **half of it for God and half of it for you.**
+
+**17.**
+*Hebrew/Aramaic:* מַאי ״לְאֵין נָכוֹן לוֹ״? אָמַר רַב חִסְדָּא: לְמִי שֶׁלֹּא הִנִּיחַ עֵירוּבֵי תַבְשִׁילִין. אִיכָּא דְּאָמְרִי: מִי שֶׁלֹּא הָיָה לוֹ לְהַנִּיחַ עֵירוּבֵי תַבְשִׁילִין, אֲבָל מִי שֶׁהָיָה לוֹ לְהַנִּיחַ עֵירוּבֵי תַבְשִׁילִין וְלֹא הִנִּיחַ — פּוֹשֵׁעַ הוּא.
+*Translation:* § Since the *baraita* mentions the verse from Nehemiah, the Gemara poses the following question: **What is** the meaning of: “Send portions **to him for whom nothing is prepared”** (Nehemiah 8:10)? **Rav Ḥisda said:** Send to one who does not have food of his own prepared for Shabbat that follows the Festival because **he did not prepare a joining of cooked foods** and must therefore rely on others. **Some say** that he said the following: It is necessary to provide food for **one who did not have** an opportunity **to prepare a joining of cooked foods** on the eve of the Festival; **but one who had** an opportunity **to prepare a joining of cooked foods and did not prepare** one **is negligent,** and there is no obligation to care for him.
+
+**18.**
+*Hebrew/Aramaic:* מַאי ״כִּי חֶדְוַת ה׳ הִיא מָעֻזְּכֶם״? אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי אֱלִיעֶזֶר בְּרַבִּי שִׁמְעוֹן: אָמַר לָהֶם הַקָּדוֹשׁ בָּרוּךְ הוּא לְיִשְׂרָאֵל: בָּנַי, לְווּ עָלַי, וְקַדְּשׁוּ קְדוּשַּׁת הַיּוֹם, וְהַאֲמִינוּ בִּי וַאֲנִי פּוֹרֵעַ.
+*Translation:* The Gemara poses another question with regard to the same verse: **What is** the meaning of: **“For the joy of the Lord is your strength”? Rabbi Yoḥanan said in the name of Rabbi Eliezer, son of Rabbi Shimon: The Holy One, Blessed be He, said to the Jewish people: My children, borrow on My** account, **and sanctify the sanctity of the day** of Shabbat and the Festivals with wine, **and trust in Me, and I will repay** this debt.
+
+**19.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי אֱלִיעֶזֶר בְּרַבִּי שִׁמְעוֹן: הָרוֹצֶה שֶׁיִּתְקַיְּימוּ נְכָסָיו — יִטַּע בָּהֶן אֶדֶר, שֶׁנֶּאֱמַר: ״אַדִּיר בַּמָּרוֹם ה׳״.
+*Translation:* Apropos the statement attributed to Rabbi Yoḥanan in the name of Rabbi Eliezer, son of Rabbi Shimon, the Gemara cites another statement that **Rabbi Yoḥanan said in the name of Rabbi Eliezer, son of Rabbi Shimon: One who wants his properties to be preserved** and protected from ruin should **plant an *eder*** tree **among them, as it is stated: “The Lord on high is mighty [*adir*]”** (Psalms 93:4). Due to the similarity of the words *eder* and *adir*, this is understood to mean that the *eder* tree bestows permanence.
+
+**20.**
+*Hebrew/Aramaic:* אִי נָמֵי אַדְרָא כִּשְׁמֵיהּ, כִּדְאָמְרִי אִינָשֵׁי: מַאי אַדְרָא — דְּקָיְימָא לְדָרֵי דָּרֵי. תַּנְיָא נָמֵי הָכִי: שָׂדֶה שֶׁיֵּשׁ בָּהּ אֶדֶר אֵינָהּ נִגְזֶלֶת וְאֵינָהּ נֶחְמֶסֶת, וּפֵירוֹתֶיהָ מִשְׁתַּמְּרִין.
+*Translation:* **Alternatively: The *eder*** tree will preserve one’s property, **as** implied by **its name, as people say: What is** alluded to in the name of **the *eder*?** Its name hints **that** it **endures for many generations [*darei*]. This is also taught** in a *baraita*: **A field that contains an *eder*** tree **will be neither stolen nor forcibly removed** from one’s possession, as the *eder* serves as a clear indication of its owner, **and its fruit is preserved,** as the unique odor of the *eder* sap wards off insects.
+
+**21.**
+*Hebrew/Aramaic:* תָּנֵי רַב תַּחְלִיפָא אֲחוּהּ דְּרַבְנַאי חוֹזָאָה:
+*Translation:* § The Gemara returns to the previous issue: **Rav Taḥlifa, brother** of **Ravnai Ḥoza’a, taught:**

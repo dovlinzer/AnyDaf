@@ -35,3 +35,36 @@
 **9.**
 *Hebrew/Aramaic:* אִי הָכִי, מַאי אִירְיָא דִּטְמֵאָה? אֲפִילּוּ דִּטְהוֹרָה נָמֵי! דְּתַנְיָא: ״כׇּל הַשֶּׁרֶץ הַשֹּׁרֵץ עַל הָאָרֶץ״ –
 *Translation:* The Gemara asks: **If so, why specifically** mention the egg **of a non-kosher** creeping animal? The same would apply **even** for one who eats the embryo **of a kosher** bird **as well.** In either case, one is flogged, **as it is taught** in a *baraita* that the verse: **“Every swarming thing that swarms upon the earth,”**
+
+
+---
+
+### Hullin 64b
+
+**1.**
+*Hebrew/Aramaic:* לְרַבּוֹת אֶפְרוֹחִים שֶׁלֹּא נִפְתְּחוּ עֵינֵיהֶם! מִדְּרַבָּנַן, וּקְרָא אַסְמַכְתָּא בְּעָלְמָא.
+*Translation:* serves **to include chicks** of pigeons **whose eyes have not** yet **opened** in the prohibition against consuming swarming things. The Gemara responds: This prohibition is **by rabbinic** law, **and the verse** cited is **a mere support** for it. One who eats the embryo of a kosher bird is not liable to receive lashes.
+
+**2.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: גִּיעוּלֵי בֵּיצִים מוּתָּרוֹת, בֵּיצִים מוּזָרוֹת – נֶפֶשׁ יָפָה תֹּאכְלֵם, נִמְצָא עָלֶיהָ קוֹרֶט דָּם – זוֹרֵק אֶת הַדָּם וְאוֹכֵל אֶת הַשְּׁאָר.
+*Translation:* § **The Sages taught** in a *baraita*: Kosher **eggs** that have been **boiled** with non-kosher eggs are **permitted. Unfertilized eggs** are permitted, and one of **strong constitution may eat them,** even if the hen has sat on them for a long period of time. If **a drop [*koret*] of blood is found on it,** one **discards the blood,** which is the first stage of an embryo’s development, **and eats the rest.**
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִרְמְיָה: וְהוּא שֶׁנִּמְצָא עַל קֶשֶׁר שֶׁלָּהּ. תָּנֵי דּוֹסְתַּאי אֲבוּהּ דְּרַבִּי אַפְטוֹרִיקִי: לֹא שָׁנוּ אֶלָּא שֶׁנִּמְצָא עַל חֶלְבּוֹן שֶׁלָּהּ, אֲבָל נִמְצָא עַל חֶלְמוֹן שֶׁלָּהּ – אֲפִילּוּ בֵּיצָה אֲסוּרָה. מַאי טַעְמָא? דִּשְׁדָא תִּכְלָא בְּכוּלַּהּ. אֲמַר לֵיהּ רַב גְּבִיהָה מִבֵּי כְתִיל לְרַב אָשֵׁי: אִיפְּכָא תָּנֵי תַּנָּא קַמֵּיהּ דְּאַבָּיֵי, וְאַבָּיֵי הוּא דְּתָרְצַהּ נִיהֲלֵיהּ הָכִי.
+*Translation:* **Rabbi Yirmeya said: And this** applies **when** the blood **is found on its knot,** i.e., the place in the albumen where the embryo begins to develop, since this proves that tissue has not developed elsewhere in the egg. And so **taught Dostai, father of Rabbi Aptoriki:** The Sages **taught** that one may eat the rest of the egg **only when** the blood **is found on its albumen,** i.e., the knot; **but** if **it is found on its yolk, even** the rest of **the egg is forbidden. What is the reason** for this? It is **that the decay has spread through all of it. Rav Geviha from Bei Ketil said to Rav Ashi: A *tanna* taught the opposite before Abaye,** that one may eat the rest of the egg only when the blood is found on its yolk, **and it is Abaye that corrected it** in **this** manner.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר חִזְקִיָּה: מִנַּיִן לְבֵיצַת טְמֵאָה שֶׁהִיא אֲסוּרָה מִן הַתּוֹרָה? שֶׁנֶּאֱמַר: ״וְאֶת בַּת הַיַּעֲנָה״, וְכִי בַּת יֵשׁ לָהּ לַיַּעֲנָה? אֶלָּא אֵיזוֹ – זוֹ בֵּיצָה טְמֵאָה. וְדִלְמָא הַיְינוּ שְׁמַיְיהוּ? לָא סָלְקָא דַּעְתָּךְ, דִּכְתִיב: ״בַּת עַמִּי לְאַכְזָר כַּיְעֵנִים בַּמִּדְבָּר״.
+*Translation:* § **Ḥizkiyya says: From where** is it derived **that the egg of a non-kosher** bird **is prohibited by Torah** law? **As it is stated: “And the daughter [*bat*] of the *ya’ana*”** (Leviticus 11:16). **But does the *ya’ana* have a daughter** whose forbidden status would be different from that of its mother? Both daughter and mother should be included in the same prohibition. **Rather, which** is this? **This is a non-kosher egg.** The Gemara challenges: **But perhaps this is their name,** i.e., the bird is called *bat ya’ana*. The Gemara responds: This **should not enter your mind, as it is written: “The daughter of my people has become cruel, like the *ye’enim* in the wilderness”** (Lamentations 4:3).
+
+**5.**
+*Hebrew/Aramaic:* וְלָא? וְהָא כְּתִיב: ״אֶעֱשֶׂה מִסְפֵּד כַּתַּנִּים וְאֵבֶל כִּבְנוֹת יַעֲנָה״? כְּיַעֲנָה זוֹ שֶׁמִּתְאַבֶּלֶת עַל בָּנֶיהָ. וְהָא כְּתִיב: ״וְשָׁכְנוּ שָׁם בְּנוֹת יַעֲנָה״? כְּיַעֲנָה זוֹ שֶׁשּׁוֹכֶנֶת עִם בָּנֶיהָ.
+*Translation:* The Gemara persists: **And** is *bat ya’ana* **not** its name? **But isn’t it written: “I will make a wailing like the jackals, and a mourning like the daughters [*benot*] of the *ya’ana*”** (Micah 1:8)? The Gemara responds: The verse means: I will make mourning **like this *ya’ana* that mourns for its children.** The Gemara asks: **But isn’t it written: “And *benot ya’ana* shall dwell there”** (Isaiah 13:21)? The Gemara responds: Here too, the verse means: And they shall dwell there **like this *ya’ana* that dwells with its children.**
+
+**6.**
+*Hebrew/Aramaic:* וְהָכְתִיב: ״תְּכַבְּדֵנִי חַיַּת הַשָּׂדֶה תַּנִּים וּבְנוֹת יַעֲנָה״, וְאִי סָלְקָא דַעְתָּךְ בֵּיצָה, בֵּיצָה בַּת מֵימַר שִׁירָה הִיא? אֶלָּא, כְּתִיב ״הַיַּעֲנָה״, וּכְתִיב ״בַּת הַיַּעֲנָה״.
+*Translation:* The Gemara asks: **But isn’t it written: “The animals of the field shall honor Me, the jackals and the *benot ya’ana*”** (Isaiah 43:20)? **And if it enters your mind** that the term *bat ya’ana* is referring to **an egg, can an egg sing a song** of praise to God? **Rather,** one must say: **The *ya’ana* is written, and the *bat ya’ana* is** also **written,** and both are acceptable names for this bird.
+
+**7.**
+*Hebrew/Aramaic:* וְשָׁאנֵי הָכָא, דְּפָסֵק סָפְרָא לִשְׁתֵּי תֵּיבוֹת, וּמִדְּפָסֵיק לְהוּ סָפְרָא
+*Translation:* **And** still, the name **here is different** from those of other animals, in **that the scribe splits** it **into two words:** *Bat ya’ana*, even though it is one species. **And from** the fact **that the scribe splits it**

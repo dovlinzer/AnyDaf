@@ -47,3 +47,52 @@
 **12.**
 *Hebrew/Aramaic:* קָא תָמַהּ רַבִּי יוֹחָנָן, מִכְּדִי כְּתִיב: ״וְנָתַן ה׳ לְךָ שָׁם לֵב רַגָּז״ בְּבָבֶל כְּתִיב? אֲמַר לֵיהּ: הָהוּא שַׁעְתָּא
 *Translation:* With regard to the narrative itself, **Rabbi Yoḥanan wondered: Now, it is written** in the passage of curses: **“But the Lord shall give you there a trembling heart”** (Deuteronomy 28:65) and this **is written with regard to Babylonia,** because in the exile an individual possesses a trembling and angry heart. How is it possible that in Eretz Yisrael a person can get so angry as to murder another? Ulla **said to him: At that moment** when the incident occurred
+
+
+---
+
+### Nedarim 22b
+
+**1.**
+*Hebrew/Aramaic:* לָא עָבְרִינַן יַרְדְּנָא.
+*Translation:* **we had not** yet **crossed the Jordan River,** and we were still outside of Eretz Yisrael. Therefore, the curse of a heart of anger was relevant.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַבָּה בַּר רַב הוּנָא: כׇּל הַכּוֹעֵס, אֲפִילּוּ שְׁכִינָה אֵינָהּ חֲשׁוּבָה כְּנֶגְדּוֹ, שֶׁנֶּאֱמַר: ״רָשָׁע כְּגֹבַהּ אַפּוֹ בַּל יִדְרֹשׁ אֵין אֱלֹהִים כׇּל מְזִמּוֹתָיו״. רַבִּי יִרְמְיָה מִדִּיפְתִּי אָמַר: מְשַׁכֵּחַ תַּלְמוּדוֹ וּמוֹסִיף טִיפְּשׁוּת, שֶׁנֶּאֱמַר: ״כִּי כַעַס בְּחֵיק כְּסִילִים יָנוּחַ״, וּכְתִיב: ״וּכְסִיל יִפְרֹשׂ אִוֶּלֶת״. רַב נַחְמָן בַּר יִצְחָק אָמַר: בְּיָדוּעַ שֶׁעֲוֹנוֹתָיו מְרוּבִּין מִזְּכִיּוֹתָיו, שֶׁנֶּאֱמַר: ״וּבַעַל חֵמָה רַב פָּשַׁע״.
+*Translation:* **Rabba bar Rav Huna said: Anyone who gets angry,** at that moment **even the Divine Presence is not important to him, as it is stated: “The wicked, in the height of his anger says: He will not require; all his thoughts are: There is no God”** (Psalms 10:4). **Rabbi Yirmeya of Difti said:** Anyone who gets angry **forgets his learning and increases foolishness, as it is stated: “For anger rests in the bosom of fools”** (Ecclesiastes 7:9), **and it is written: “But a fool unfolds folly”** (Proverbs 13:16). **Rav Naḥman bar Yitzḥak said:** With regard to one who gets angry, **it is acknowledged that his sins are more numerous than his merits, as it is stated: “And a wrathful man abounds in transgression”** (Proverbs 29:22).
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רַב אַדָּא בְּרַבִּי חֲנִינָא: אִלְמָלֵא (לֹא) חָטְאוּ יִשְׂרָאֵל לֹא נִיתַּן לָהֶם אֶלָּא חֲמִשָּׁה חוּמְשֵׁי תוֹרָה וְסֵפֶר יְהוֹשֻׁעַ בִּלְבַד, שֶׁעֶרְכָּהּ שֶׁל אֶרֶץ יִשְׂרָאֵל הוּא. מַאי טַעְמָא: ״כִּי בְּרֹב חׇכְמָה רׇב כָּעַס״.
+*Translation:* **Rav Adda, son of Rabbi Ḥanina, said: Had Israel not sinned** in earlier times **they would have been given the five books of the Torah and the book of Joshua alone.** They needed the book of Joshua **because it** includes **the arrangement of Eretz Yisrael.** Since it contains the division of Eretz Yisrael among the tribes, it was required for all generations, but the other books of the prophets primarily detail the history of how Israel angered God and He sent prophets to admonish them. **What is the reason,** i.e., what is the allusion to this idea? It is stated: **“For in much wisdom is much vexation”** (Ecclesiastes 1:18). All the wisdom that the Jews possess from the books of the Bible is the result of their angering God.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אַסִּי: אֵין נִזְקָקִין לֶ״אֱלֹהֵי יִשְׂרָאֵל״, חוּץ מִ״קּוּנָּם אִשְׁתִּי נֶהֱנֵית לִי שֶׁגָּנְבָה אֶת כִּיסִי וְשֶׁהִכְּתָה אֶת בְּנִי״, וְנוֹדַע שֶׁלֹּא גָּנְבָה וְשֶׁלֹּא הִכַּתּוּ.
+*Translation:* § **Rabbi Asi said: One does not attend to** a request to dissolve a vow in which the name of **the God of Israel** is invoked because such a declaration is especially stringent, **except for** a case where one swears by the God of Israel and adds: **Benefiting from me is *konam* for my wife because she stole my purse or she hit my son, and** then **it became known that she did not steal or did not hit** his son. In such a case, the vow can be dissolved because the vow was made in error, but in other cases such a vow is not dissolved.
+
+**5.**
+*Hebrew/Aramaic:* הָהִיא דַּאֲתַאי לְקַמֵּיהּ דְּרַב אַסִּי, אָמַר לַהּ: בְּמַאי נְדַרְתְּ? בֵּ״אלֹהֵי יִשְׂרָאֵל״. אֲמַר לַהּ: אִי נְדַרְתְּ בְּ״מוֹהִי״ שֶׁהִיא כִּינּוּי בְּעָלְמָא — מִזְדְּקִיקְנָא לִךְ, הַשְׁתָּא דְּלָא נְדַרְתְּ בְּ״מוֹהִי אֶלָּא בֵּ״אלֹהֵי יִשְׂרָאֵל״, לָא מִזְדְּקִיקְנָא לִךְ.
+*Translation:* The Gemara relates: There was **a certain** woman **who came before Rav Asi. He said to her: With what** language **did you vow?** She said to him: **By the God of Israel. He said to her: If you would have vowed** and said: **By *mohi*, which is merely a substitute name, I would have attended to your** request and dissolved the vow, but **now that you did not vow by *mohi* but rather, by the God of Israel, I will not attend to your** request and dissolve the vow.
+
+**6.**
+*Hebrew/Aramaic:* רַב כָּהֲנָא אִיקְּלַע לְבֵי רַב יוֹסֵף, אֲמַר לֵיהּ: לִטְעוֹם מָר מִידֵּי. אֲמַר לֵיהּ: לָא מָרֵי כּוֹלָּא, לָא טָעֵימְנָא לֵיהּ. אֲמַר לֵיהּ: לָא מָרֵי כּוֹלָּא, לָא טָעֲימַתְּ לֵיהּ. הָנִיחָא לְרַב כָּהֲנָא, דְּאָמַר: ״לָא מָרֵי כּוֹלָּא״. אֶלָּא לְרַב יוֹסֵף, אַמַּאי אֲמַר ״לָא מָרֵי כּוֹלָּא״? הָכִי הוּא דְּקָאָמַר לֵיהּ: ״לָא מָרֵי כּוֹלָּא״ הוּא דְּקָאָמְרַתְּ, הִלְכָּךְ לָא טָעֲימַתְּ לֵיהּ.
+*Translation:* The Gemara relates another incident: **Rav Kahana happened** to come **to the home of Rav Yosef.** Rav Yosef **said to him: Let the Master eat something. He said to him: No,** by **the Master of all I will not eat it.** Rav Yosef **said to him: No,** by **the Master of all you will not eat it.** The Gemara comments: **Rav Kahana’s** statement: **No,** by **the Master of all** I will not eat it, is **well** understood. **But for Rav Yosef, why did he say: No,** by **the Master of all** you will not eat it? What was the purpose of his vow? The Gemara answers: **This is what he said to him: No,** by **the Master of all** you will not eat it **is what you said; therefore, you may not eat it,** since a vow taken in such solemn fashion may not be dissolved.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רָבָא אָמַר רַב נַחְמָן: הִלְכְתָא, פּוֹתְחִין בַּחֲרָטָה, וְנִזְקָקִין לֵ״אלֹהֵי יִשְׂרָאֵל״.
+*Translation:* **Rava said** that **Rav Naḥman said:** The ***halakha*** is that it is permitted for a halakhic authority to **broach** dissolution based on **regret, and** that **one** also **attends to** a request to dissolve a vow in which the name of **the God of Israel** is invoked.
+
+**8.**
+*Hebrew/Aramaic:* מִשְׁתַּבַּח לֵיהּ רָבָא לְרַב נַחְמָן בְּרַב סְחוֹרָה דְּאָדָם גָּדוֹל הוּא. אָמַר לוֹ: כְּשֶׁיָּבֹא לְיָדְךָ, הֲבִיאֵהוּ לְיָדִי. הֲוָה לֵיהּ נִדְרָא לְמִישְׁרֵא. אֲתָא לְקַמֵּיהּ דְּרַב נַחְמָן.
+*Translation:* § **Rava praised** his student **Rav Seḥora to Rav Naḥman** by saying **that he is a great man.** Rav Naḥman **said to him: When** Rav Seḥora **comes to you, bring him to me.** Rav Seḥora **had a vow** that he wanted **to dissolve,** so Rava sent Rav Seḥora to Rav Naḥman. **He came before Rav Naḥman.**
+
+**9.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: נְדַרְתְּ אַדַּעְתָּא דְּהָכִי? אֲמַר לֵיהּ: אִין. אַדַּעְתָּא דְּהָכִי? אִין. כַּמָּה זִימְנִין. אִיקְּפַד רַב נַחְמָן. אֲמַר לֵיהּ: זִיל לְקִילְעָךְ.
+*Translation:* Rav Naḥman, who wanted to dissolve the vow, **said to him: Did you vow with such** a matter **in mind? He said to him: Yes,** so Rav Naḥman did not dissolve the vow. He then asked again: Did you vow **with such a matter in mind,** and suggested another possibility. He said to him: **Yes.** This happened **several times,** and every time Rav Naḥman attempted to broach an opening, Rav Seḥora replied that he had that in mind when he made the vow. **Rav Naḥman became upset** with him because it appeared that Rav Seḥora was making it unnecessarily difficult for him to dissolve the vow. Rav Naḥman **said to him: Go to your tent [*kilakh*]** because I do not want to talk to you.
+
+**10.**
+*Hebrew/Aramaic:* נְפַק רַב סְחוֹרָה וּפְתַח פִּיתְחָא לְנַפְשֵׁיהּ. רַבִּי אוֹמֵר: אֵיזֶה הִיא דֶּרֶךְ יְשָׁרָה שֶׁיָּבוֹר לוֹ הָאָדָם. כֹּל שֶׁהִיא תִּפְאֶרֶת לְעוֹשֶׂיהָ וְתִפְאֶרֶת לוֹ מִן הָאָדָם. וְהַשְׁתָּא דְּאִיקְּפַד רַב נַחְמָן — אַדַּעְתָּא דְּהָכִי לָא נְדַרִי. וּשְׁרָא לְנַפְשֵׁיהּ.
+*Translation:* **Rav Seḥora went out and made** the following **opening for himself** that would enable the dissolution of his vow, based on a mishna in tractate *Avot* (2:1): **Rabbi** Yehuda HaNasi **says: What is the proper path that a person should choose?** He should choose **any** path **that** is considered **a glory to the one who does it and a glory from his fellow men.** Rav Seḥora then reasoned that **now that Rav Naḥman became upset** at him, **he would not have made the vow with knowledge of this** fact, since he would not receive glory from his fellow men, **and** based on this **he dissolved** the vow **for himself.**
+
+**11.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן בְּרַבִּי הֲוָה לֵיהּ נִדְרָא לְמִישְׁרֵא. אֲתָא לְקַמַּיְיהוּ דְּרַבָּנַן, אָמְרִי לֵיהּ: נְדַרְתְּ אַדַּעְתָּא דְּהָכִי? אָמַר: אִין. אַדַּעְתָּא דְּהָכִי? אִין. כַּמָּה זִימְנִין,
+*Translation:* The Gemara relates a similar incident: **Rabbi Shimon, son of Rabbi** Yehuda HaNasi, **had a vow to dissolve. He came before the Sages** for dissolution. **They said to him: Did you vow with the knowledge of this** particular fact? **He said: Yes.** They proposed another possibility: Did you vow **with the knowledge of this** other particular fact? He said to them: **Yes.** This happened **several times,**

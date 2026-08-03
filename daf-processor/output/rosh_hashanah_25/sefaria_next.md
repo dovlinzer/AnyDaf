@@ -83,3 +83,56 @@
 **21.**
 *Hebrew/Aramaic:* לֵוִי אִיקְּלַע לְהָהוּא אַתְרָא. אֲתָא גַּבְרָא לְקַמֵּיהּ, אֲמַר לֵיהּ:
 *Translation:* Incidental to the discussion of the meanings of certain words in foreign countries, it was related that **Levi** once **happened** to come **to a certain place,** where **a man came before him** to complain about what had been done to him. This man **said to him:**
+
+
+---
+
+### Rosh Hashanah 26b
+
+**1.**
+*Hebrew/Aramaic:* קַבְעַן פְּלָנְיָא. לָא הֲוָה יָדַע מַאי קָאָמַר לֵיהּ. אֲתָא שְׁאֵיל בֵּי מִדְרְשָׁא, אֲמַר לֵיהּ: גַּזְלַן אֲמַר לָךְ, דִּכְתִיב: ״הֲיִקְבַּע אָדָם אֱלֹהִים וְגוֹ׳״. אֲמַר לֵיהּ רָבָא מִבַּרְנִישׁ לְרַב אָשֵׁי: אִי הֲוַאי הָתָם, הֲוָה אָמֵינָא לֵיהּ: הֵיכִי קַבְעָךְ? בְּמַאי קַבְעָךְ? וְאַמַּאי קַבְעָךְ? וּמִמֵּילָא הֲוָה יָדְעִינָא. וְאִיהוּ סָבַר: מִילְּתָא דְאִיסּוּרָא קָאָמַר לֵיהּ.
+*Translation:* **So-and-so *keva’a* from me.** Levi **did not understand what** that man **was saying to him,** as he did not know the meaning of the word *kava*. So **he went** and **asked in the study hall. They said to him:** That man **said to you: He robbed me, as it is written: “Will a man rob [*hayikba*] God?”** (Malachi 3:8). **Rava from** a place called **Barnish said to Rav Ashi: Had I been there** in Levi’s place I would have tried to uncover the meaning of the word in a different way, for **I would have said to him: How did he *keva’a* you? With what did he *keva’a* you? And why did he *keva’a* you? And** from his answers **I would have understood on my own** what was being said. The Gemara comments: **And** Levi, who did not do this, **thought** that the man **was talking about a matter of prohibition** and not a monetary matter, and so asking the man these questions would not have helped, as they are relevant only to monetary matters.
+
+**2.**
+*Hebrew/Aramaic:* לָא הֲווֹ יָדְעִי רַבָּנַן מַאי ״סֵירוּגִין״. שַׁמְעוּהָ לְאַמְּתָא דְבֵי רַבִּי דַּחֲזָתִנְהוּ רַבָּנַן דַּהֲווֹ עָיְילִי פִּסְקֵי פִּסְקֵי, אֲמַרָה לְהוּ: עַד מָתַי אַתֶּם נִכְנָסִין סֵירוּגִין סֵירוּגִין.
+*Translation:* The Gemara continues its discussion of unusual words: **The Sages did not know the meaning of** the word ***seirugin*,** which is found in a mishna. One day **they heard the maidservant in Rabbi** Yehuda HaNasi’s **house say to the Sages whom she saw entering** the house not all at once, but **intermittently: How long shall you enter *seirugin seirugin*?** and from this they understood that the word *seirugin* means: At intervals.
+
+**3.**
+*Hebrew/Aramaic:* לָא הֲווֹ יָדְעִי רַבָּנַן מַאי ״חֲלוֹגְלוֹגוֹת״. יוֹמָא חַד שַׁמְעוּהָ לְאַמְּתָא דְבֵי רַבִּי דַּחֲזָית לְהָהוּא גַּבְרָא דְּקָא מְבַדַּר פַּרְפְּחִינֵיהּ, אֲמַרָה לֵיהּ: עַד מָתַי אַתָּה מְפַזֵּר חֲלוֹגְלוֹגְךָ.
+*Translation:* It is similarly recounted that **the Sages did not know the meaning** of the word ***ḥaloglogot*,** which is mentioned in various *mishnayot* and *baraitot*. **One day they heard the maidservant in Rabbi** Yehuda HaNasi’s **house say to a certain man whom she saw scattering his purslane** plants: **How long shall you scatter your *ḥaloglogot*?** So they understood that *ḥaloglogot* means purslane.
+
+**4.**
+*Hebrew/Aramaic:* לָא הֲווֹ יָדְעִי רַבָּנַן מַאי: ״סַלְסְלֶהָ וּתְרוֹמְמֶךָּ״. יוֹמָא חַד שַׁמְעוּהָ לְאַמְּתָא דְבֵי רַבִּי דַּהֲווֹת אָמְרָה לְהָהוּא גַּבְרָא דַּהֲוָה קָא מְהַפֵּךְ בְּשַׂעְרֵיהּ, אָמְרָה לֵיהּ: עַד מָתַי אַתָּה מְסַלְסֵל בִּשְׂעָרְךָ.
+*Translation:* **The Sages also did not know the meaning** of the word *salseleha* in the verse: **“*Salseleha* and it will exalt you”** (Proverbs 4:8). **One day they heard the maidservant in Rabbi** Yehuda HaNasi’s **house say to a certain man who was curling his hair: How long shall you *mesalsel* your hair?** And from this they understood that the verse means: Turn wisdom about, and it will exalt you.
+
+**5.**
+*Hebrew/Aramaic:* לָא הֲווֹ יָדְעִי רַבָּנַן מַאי ״וְטֵאטֵאתִיהָ בְּמַטְאֲטֵא הַשְׁמֵד״. יוֹמָא חַד שַׁמְעוּהָ לְאַמְּתָא דְבֵי רַבִּי דַּהֲווֹת אָמְרָה לַחֲבֶירְתַּהּ: שְׁקוּלִי טָאטִיתָא וְטַאטִי בֵּיתָא.
+*Translation:* It is further related that **the Sages did not know the meaning** of the words in the verse: **“And sweep it [*vetetetiha*] with the broom [*matatei*] of destruction”** (Isaiah 14:23). **One day they heard the maidservant in Rabbi** Yehuda HaNasi’s **house saying to her workmate: Take a broom [*tateita*] and sweep** [***ta’ati***] **the house,”** and they understood the meaning of these words.
+
+**6.**
+*Hebrew/Aramaic:* לָא הֲווֹ יָדְעִי רַבָּנַן מַאי ״הַשְׁלֵךְ עַל ה׳ יְהָבְךָ וְהוּא יְכַלְכְּלֶךָ״. אָמַר רַבָּה בַּר בַּר חָנָה: יוֹמָא חַד הֲוָה אָזְלִינָא בַּהֲדֵי הָהוּא טַיָּיעָא, הֲוָה דָּרֵינָא טוּנָא וַאֲמַר לִי: שְׁקוֹל יַהְבָּיךְ וּשְׁדִי אַגַּמְלַאי.
+*Translation:* **The Sages** also **did not know the meaning** of the word *yehavkha* in the verse: **“Cast your load [*yehavkha*] upon the Lord and He will sustain you”** (Psalms 55:23). **Rabba bar bar Ḥana said: One day I was traveling with a certain Arab [*Tayya’a*],** and **I was carrying a load, and he said to me: Take your *yehav* and cast it on my camel,** and from this I understood that *yehav* means a load.
+
+**7.**
+*Hebrew/Aramaic:* מַתְנִי׳ שׁוֹפָר שֶׁל רֹאשׁ הַשָּׁנָה שֶׁל יָעֵל פָּשׁוּט וּפִיו מְצוּפֶּה זָהָב, וּשְׁתֵּי חֲצוֹצְרוֹת מִן הַצְּדָדִין. שׁוֹפָר מַאֲרִיךְ וַחֲצוֹצְרוֹת מְקַצְּרוֹת, שֶׁמִּצְוַת הַיּוֹם בְּשׁוֹפָר.
+*Translation:* MISHNA: **The *shofar*** that was used **on Rosh HaShana** in the Temple was made from the **straight** horn **of an ibex, and its mouth,** the mouthpiece into which one blows, **was plated with gold. And** there were **two trumpets,** one **on** each of **the** two **sides** of the person sounding the *shofar*. **The *shofar* would sound a long** blast, **whereas the trumpets would sound a short** blast, **because the mitzva of the day is with the *shofar*.**
+
+**8.**
+*Hebrew/Aramaic:* וּבְתַעֲנִיּוֹת בְּשֶׁל זְכָרִים כְּפוּפִין, וּפִיהֶן מְצוּפֶּה כֶּסֶף, וּשְׁתֵּי חֲצוֹצְרוֹת בָּאֶמְצַע. שׁוֹפָר מְקַצֵּר וַחֲצוֹצְרוֹת מַאֲרִיכוֹת, שֶׁמִּצְוַת הַיּוֹם בַּחֲצוֹצְרוֹת.
+*Translation:* **And** in contrast, the *shofarot* used **on** public **fast days** were made from **the curved** horns **of rams, and their mouths were plated with silver.** There were **two trumpets in the middle** between the *shofarot*, and **the *shofar* would sound a short blast, whereas the trumpets would sound a long** blast, **for the mitzva of the day is with the trumpets.**
+
+**9.**
+*Hebrew/Aramaic:* שָׁוֶה הַיּוֹבֵל לְרֹאשׁ הַשָּׁנָה לַתְּקִיעָה וְלַבְּרָכוֹת. רַבִּי יְהוּדָה אוֹמֵר: בְּרֹאשׁ הַשָּׁנָה תּוֹקְעִין בְּשֶׁל זְכָרִים וּבַיּוֹבְלוֹת בְּשֶׁל יְעֵלִים.
+*Translation:* Yom Kippur of **the Jubilee Year is the same as Rosh HaShana with regard to** both **the** *shofar* **blasts** that are sounded **and the** additional **blessings** that are recited in the *Amida* prayer. **Rabbi Yehuda** disagrees and **says:** There is a difference between the two days: **On Rosh HaShana one blows with** horns **of rams, whereas in Jubilee Years** one blows **with** horns **of ibexes.**
+
+**10.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַבִּי לֵוִי: מִצְוָה שֶׁל רֹאשׁ הַשָּׁנָה וְשֶׁל יוֹם הַכִּפּוּרִים בִּכְפוּפִין, וְשֶׁל כׇּל הַשָּׁנָה בִּפְשׁוּטִין. וְהָתְנַן: שׁוֹפָר שֶׁל רֹאשׁ הַשָּׁנָה שֶׁל יָעֵל פָּשׁוּט! הוּא דְּאָמַר כִּי הַאי תַּנָּא דְּתַנְיָא, רַבִּי יְהוּדָה אוֹמֵר: בְּרֹאשׁ הַשָּׁנָה הָיוּ תּוֹקְעִין בְּשֶׁל זְכָרִים כְּפוּפִין, וּבַיּוֹבְלוֹת בְּשֶׁל יְעֵלִים.
+*Translation:* GEMARA: **Rabbi Levi said: The mitzva of Rosh HaShana and of Yom Kippur** of the Jubilee Year is to blow **with curved** *shofarot*, **and** that **of the rest of the year,** on fast days, is to blow **with straight** *shofarot*. The Gemara raises a difficulty: **But didn’t we learn** differently in the mishna: **The *shofar*** that was used **on Rosh HaShana** was made from the **straight** horn **of an ibex?** The Gemara answers: Rabbi Levi **said** his statement **in accordance with** the opinion of **that *tanna*,** Rabbi Yehuda, **as it was taught** in a *baraita*: **Rabbi Yehuda says: On Rosh HaShana they would blow with the curved** horns **of rams, and on** the Days of Atonement of **the Jubilee Years with** the horns **of ibexes.**
+
+**11.**
+*Hebrew/Aramaic:* וְלֵימָא הִלְכְתָא כְּרַבִּי יְהוּדָה! אִי אָמְרַתְּ הִלְכְתָא כְּרַבִּי יְהוּדָה, הֲוָה אָמֵינָא: אֲפִילּוּ שֶׁל יוֹבֵל נָמֵי כְּרַבִּי יְהוּדָה סְבִירָא לֵיהּ, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara asks: If so, **let** it simply **say** that **the *halakha* is in accordance with** the opinion of **Rabbi Yehuda.** Why was it necessary to quote the *baraita* in full, as if it provided new information? The Gemara explains: **If you had said** that **the *halakha* is in accordance with** the opinion of **Rabbi Yehuda, I would have said** that **he,** Rabbi Levi, **holds in accordance with** the opinion of **Rabbi Yehuda even with regard to** the *shofar* used **in the Jubilee Year,** i.e., that one must blow with the horn of ibexes at that time. Therefore, the Gemara **teaches us** that he agrees with Rabbi Yehuda only with regard to Rosh HaShana, and not with regard to any other matter.
+
+**12.**
+*Hebrew/Aramaic:* בְּמַאי קָמִיפַּלְגִי? מָר סָבַר: בְּרֹאשׁ הַשָּׁנָה — כַּמָּה דְּכָיֵיף אִינִישׁ דַּעְתֵּיהּ, טְפֵי מְעַלֵּי; וּבְיוֹם הַכִּפּוּרִים — כַּמָּה דְּפָשֵׁיט אִינִישׁ דַּעְתֵּיהּ, טְפֵי מְעַלֵּי. וּמָר סָבַר: בְּרֹאשׁ הַשָּׁנָה — כַּמָּה דְּפָשֵׁיט אִינִישׁ דַּעְתֵּיהּ, טְפֵי מְעַלֵּי; וּבְתַעֲנִיּוֹת — כַּמָּה דְּכָיֵיף אִינִישׁ דַּעְתֵּיהּ, טְפֵי מְעַלֵּי.
+*Translation:* The Gemara asks: **With regard to what** principle do these *tanna’im* **disagree? One Sage,** Rabbi Yehuda, **holds** that **on Rosh HaShana the more a person bends his mind** and humbles himself by bending in prayer, **the better.** Therefore, a curved *shofar* is sounded as an allusion to our bent minds and bodies. **But on Yom Kippur, the more a person straightens his mind** and prays with simplicity, **the better.** Therefore, a straight *shofar* is sounded. **The other Sage,** the anonymous *tanna* of the mishna, **maintains** the opposite: **On Rosh HaShana, the more a person straightens his mind** and avoids any crookedness, **the better. On fasts,** on the other hand, **the more a person bends his mind** and humbles himself, **the better.**

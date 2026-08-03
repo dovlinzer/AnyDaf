@@ -67,3 +67,72 @@
 **17.**
 *Hebrew/Aramaic:* חַסּוֹרֵי מִיחַסְּרָא, וְהָכִי קָתָנֵי: בַּמֶּה דְּבָרִים אֲמוּרִים — בְּכוֹתֶל מְשׁוּפָּע, אֲבָל
 *Translation:* The Gemara answers: The mishna **is incomplete and is teaching the following: In what** case **is this statement said?** It is said **in** the case of **an inclined wall. However,**
+
+
+---
+
+### Eruvin 98b
+
+**1.**
+*Hebrew/Aramaic:* בְּכוֹתֶל שֶׁאֵינוֹ מְשׁוּפָּע, לְמַעְלָה מִשְּׁלֹשָׁה — גּוֹלְלוֹ אֶצְלוֹ, לְמַטָּה מִשְּׁלֹשָׁה — הוֹפְכוֹ עַל הַכְּתָב.
+*Translation:* **with regard to a wall that is not inclined,** the following distinction applies: If the end of the scroll is **three** handbreadths **above** the ground, **he** may **roll it** back **to himself;** but if it is **below three** handbreadths from the ground, it is considered as though the scroll is on the ground, and **he must** therefore **turn it** facedown **onto the writing.**
+
+**2.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר אֲפִילּוּ אֵינוֹ מְסוּלָּק מִן הָאָרֶץ וְכוּ׳. דְּבָעֵינַן הַנָּחָה עַל גַּבֵּי מַשֶּׁהוּ.
+*Translation:* It was stated in the mishna that **Rabbi Yehuda says: Even** if the scroll **is removed only** a needle breadth **from the ground,** one rolls it back to himself. The Gemara explains: Rabbi Yehuda maintains **that** in order for an object to be deemed at rest, **we require** that it **rest atop something.** Consequently, a scroll that is not actually touching the ground is not considered resting and may be rolled back.
+
+**3.**
+*Hebrew/Aramaic:* וְאֶלָּא הָא דְּאָמַר רָבָא: תּוֹךְ שְׁלֹשָׁה לְרַבָּנַן צָרִיךְ הַנָּחָה, לֵימָא כְּתַנָּאֵי אַמְרַהּ לִשְׁמַעְתֵּיהּ?!
+*Translation:* The Gemara asks: **But** consider **that** which **Rava said** with regard to an object located **within three** handbreadths of the ground. Rava said that according **to** the opinion of **the Rabbis,** who disagree with Rabbi Akiva and claim that something in the air is not considered to be at rest, nevertheless, for one to incur liability **it is necessary** for the object to **rest** on a surface. **Let us say** that **he stated his *halakha* in accordance with** only one of **the *tanna’im*,** but not in accordance with all of them. This is an unacceptable conclusion.
+
+**4.**
+*Hebrew/Aramaic:* אֶלָּא: כּוּלַּהּ רַבִּי יְהוּדָה הִיא, וְחַסּוֹרֵי מִיחַסְּרָא, וְהָכִי קָתָנֵי: בַּמֶּה דְּבָרִים אֲמוּרִים — בְּכוֹתֶל מְשׁוּפָּע, אֲבָל בְּכוֹתֶל שֶׁאֵינוֹ מְשׁוּפָּע — אֲפִילּוּ פָּחוֹת מִשְּׁלֹשָׁה טְפָחִים גּוֹלְלוֹ אֶצְלוֹ. שֶׁרַבִּי יְהוּדָה אוֹמֵר: אֲפִילּוּ אֵינוֹ מְסוּלָּק מִן הָאָרֶץ אֶלָּא מְלֹא הַחוּט — גּוֹלְלוֹ אֶצְלוֹ.
+*Translation:* **Rather,** the Gemara rejects the previous explanation in favor of the following one: The mishna **is all** in accordance with **Rabbi Yehuda, and it is incomplete and is teaching** the following: **In what** case **is this statement** that once the end of the scroll is within ten handbreadths of the ground it may not be rolled back **said?** It was said in the case of **an inclined wall. But with regard to a wall that is not inclined, even** if the end of the scroll is **less than three handbreadths** from the ground, **one** may **roll it** back **to himself, as Rabbi Yehuda says: Even** if the scroll **is removed only a needle breadth from the ground, he rolls it** back **to himself.**
+
+**5.**
+*Hebrew/Aramaic:* מַאי טַעְמָא? דְּבָעֵינַן הַנָּחָה עַל גַּבֵּי מַשֶּׁהוּ.
+*Translation:* **What is the reason** for this ruling? The reasoning is that for an object to be considered at rest, **we require** that it **rest atop some** surface. Consequently, if the scroll is not actually touching the ground, it is not considered at rest, even if it is less than three handbreadths from the ground.
+
+**6.**
+*Hebrew/Aramaic:* מַתְנִי׳ זִיז שֶׁלִּפְנֵי חַלּוֹן — נוֹתְנִין עָלָיו וְנוֹטְלִין מִמֶּנּוּ בְּשַׁבָּת.
+*Translation:* MISHNA: With regard to **a ledge in front of a window,** that is ten handbreadths high and four handbreadths wide, **one** may **place** objects **upon it or remove** them **from it on Shabbat** via the window.
+
+**7.**
+*Hebrew/Aramaic:* גְּמָ׳ הַאי זִיז דְּמַפֵּיק לְהֵיכָא? אִילֵּימָא דְּמַפֵּיק לִרְשׁוּת הָרַבִּים — לֵיחוּשׁ דִּילְמָא נָפֵיל, וְאָתֵי לְאֵיתוֹיֵי. אֶלָּא דְּמַפֵּיק לִרְשׁוּת הַיָּחִיד, פְּשִׁיטָא!
+*Translation:* GEMARA: The Gemara clarifies: **This ledge, to where does it protrude? If you say** that the ledge **protrudes into a public domain,** one should be prohibited to place an object on it, as **we should be concerned lest** the object **fall and he** will forget and **come to bring it in** from the public domain to a private domain. **Rather,** it must be **that** the ledge **protrudes into a private domain;** but if so, it is **obvious** that it is permitted to place objects on it and to remove them.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: לְעוֹלָם דְּמַפֵּיק לִרְשׁוּת הָרַבִּים, וּמַאי ״נוֹתְנִין עָלָיו״ דְּקָתָנֵי, כֵּלִים הַנִּשְׁבָּרִים.
+*Translation:* **Abaye said: Actually,** the mishna is dealing with a case **where it protrudes into a public domain, and what** is the meaning of **that** which **it teaches: One** may **place** objects **upon it?** This refers to **fragile utensils,** which would break instantly if they fell. Consequently, there is no concern that one might then bring them in from the public domain to the private domain.
+
+**9.**
+*Hebrew/Aramaic:* תַּנְיָא נָמֵי הָכִי: זִיז שֶׁלִּפְנֵי הַחַלּוֹן הַיּוֹצֵא לִרְשׁוּת הָרַבִּים — נוֹתְנִין עָלָיו קְעָרוֹת וְכוֹסוֹת, קִיתוֹנִיּוֹת וּצְלוֹחִיּוֹת.
+*Translation:* The Gemara comments: **That was also taught** in a *baraita*: With regard to **a ledge in front of a window that protrudes into a public domain, one** may **place on it bowls, cups, small cups [*kitoniyot*], and saucers.** All of these utensils are made of fragile glass or earthenware, which supports Abaye’s opinion.
+
+**10.**
+*Hebrew/Aramaic:* וּמִשְׁתַּמֵּשׁ בְּכׇל הַכּוֹתֶל עַד עֲשָׂרָה הַתַּחְתּוֹנִים. וְאִם יֵשׁ זִיז אֶחָד לְמַטָּה מִמֶּנּוּ — מִשְׁתַּמֵּשׁ בּוֹ, וּבָעֶלְיוֹן אֵין מִשְׁתַּמֵּשׁ בּוֹ אֶלָּא כְּנֶגֶד חַלּוֹנוֹ.
+*Translation:* The *baraita* continues: **And one** may **use** this ledge along the **entire** length of **the wall,** if the ledge spans its length, whether in close proximity to the window or removed from it, **until the lower ten** handbreadths of the wall, but not if the ledge is lower than that. **And if there is one** other **ledge below it** but still ten handbreadths above the ground, **one** may **use** the lower ledge along the entire length of the wall; **but with regard to the upper** ledge, **one** may **use it only opposite his window.**
+
+**11.**
+*Hebrew/Aramaic:* הַאי זִיז הֵיכִי דָּמֵי? אִי דְּלֵית בֵּיהּ אַרְבָּעָה — מְקוֹם פְּטוּר הוּא, וַאֲפִילּוּ כְּנֶגֶד חַלּוֹנוֹ נָמֵי לָא יִשְׁתַּמֵּשׁ. וְאִי אִית בֵּיהּ אַרְבָּעָה — בְּכוּלֵּי הַכּוֹתֶל לִישְׁתַּמֵּשׁ.
+*Translation:* The Gemara asks: **This** upper **ledge, what are its circumstances? If it is not four** handbreadths deep, although **it is an exempt domain** with regard to the *halakhot* of Shabbat, which means it does not pose a problem in itself, **one should** nonetheless **not** be permitted to **use** it **even opposite his window,** as anything placed on this narrow ledge is likely to fall. Consequently, it is as though he has thrown the object directly to the ground. **And if it is four** handbreadths deep, **let him use** the ledge along the **entire** length of the ledge along **the wall.**
+
+**12.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: תַּחְתּוֹן דְּאִית בֵּיהּ אַרְבָּעָה, וְעֶלְיוֹן לֵית בֵּיהּ אַרְבָּעָה וְחַלּוֹן מַשְׁלִימָתוֹ לְאַרְבָּעָה. כְּנֶגֶד חַלּוֹן — מִשְׁתַּמֵּשׁ, דְּחוֹרֵי חַלּוֹן הוּא. דְּהַאי גִּיסָא וּדְהַאי גִּיסָא — אָסוּר.
+*Translation:* **Abaye said:** We are dealing with a case where **the lower** ledge **is four** handbreadths deep **and the upper** ledge **is not four** handbreadths deep, but the **windowsill** on the inside **completes it to** form a surface **four** handbreadths deep. Accordingly, **one** may **use** the part of the upper ledge **opposite the window, as it is** considered **an extension of the window,** but the parts **to this side or to that side** of the window are **prohibited,** as they are less than four handbreadths deep.
+
+**13.**
+*Hebrew/Aramaic:* מַתְנִי׳ עוֹמֵד אָדָם בִּרְשׁוּת הַיָּחִיד וּמְטַלְטֵל בִּרְשׁוּת הָרַבִּים. בִּרְשׁוּת הָרַבִּים וּמְטַלְטֵל בִּרְשׁוּת הַיָּחִיד, וּבִלְבַד שֶׁלֹּא יוֹצִיא חוּץ מֵאַרְבַּע אַמּוֹת.
+*Translation:* MISHNA: **A person** may **stand in a private domain and move** objects that are **in a public domain,** as there is no concern that he might mistakenly bring them into the private domain. Similarly, one may stand **in a public domain and move** objects **in a private domain, provided that he does not carry** them **beyond four cubits** in the public domain, which is prohibited on Shabbat.
+
+**14.**
+*Hebrew/Aramaic:* לֹא יַעֲמוֹד אָדָם בִּרְשׁוּת הַיָּחִיד וְיַשְׁתִּין בִּרְשׁוּת הָרַבִּים, בִּרְשׁוּת הָרַבִּים וְיַשְׁתִּין בִּרְשׁוּת הַיָּחִיד, וְכֵן לֹא יָרוֹק.
+*Translation:* However, **a person** may **not stand in a private domain and urinate into a public domain,** nor may one stand **in a public domain and urinate into a private domain. And likewise, one** may **not spit** in such a manner that the spittle passes from a private domain to a public domain or vice versa.
+
+**15.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: אַף מִשֶּׁנִּתְלַשׁ רוּקּוֹ בְּפִיו, לֹא יְהַלֵּךְ אַרְבַּע אַמּוֹת עַד שֶׁיָּרוֹק.
+*Translation:* **Rabbi Yehuda says: Even once** a person’s **spittle is gathered in his mouth, he** may **not walk four cubits** in the public domain **until he spits** it out, for he would be carrying the accumulated spittle in his mouth, which is akin to carrying any other object.
+
+**16.**
+*Hebrew/Aramaic:* גְּמָ׳ מַתְנֵי לֵיהּ רַב חִינָּנָא בַּר שֶׁלֶמְיָא לְחִיָּיא בַּר רַב קַמֵּיהּ דְּרַב: לֹא יַעֲמוֹד אָדָם בִּרְשׁוּת הַיָּחִיד וּמְטַלְטֵל בִּרְשׁוּת הָרַבִּים. אֲמַר לֵיהּ: שָׁבְקַתְּ רַבָּנַן וְעָבְדַתְּ כְּרַבִּי מֵאִיר?!
+*Translation:* GEMARA: **Rav Ḥinnana bar Shelamiya would teach** this mishna **to Ḥiyya bar Rav before Rav** as follows: **A person** may **not stand in a private domain and move** objects that are **in a public domain.** Rav **said to him:** Have **you abandoned** the majority opinion of **the Rabbis and followed** the solitary dissenting opinion of **Rabbi Meir,** who is stringent in this regard?

@@ -1,0 +1,243 @@
+[
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Tevul Yom Status",
+    "candidates": [
+      "Rabbi Assi: Clear Serum",
+      "Rabbi Yirmiyah: No Karet",
+      "Tannaim: Blood & Tumah",
+      "Corpse Liquids & Blood",
+      "Corpse Exception",
+      "Tevul Yom Status",
+      "Zav vs. Corpse Logic"
+    ],
+    "result": {
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the exact Mishnah text about tevul yom and other impure persons' liquids (eilu v'eilu ein metamin, u'sh'ar kol hatemei'im, etc.) that the prose of section 5 'Tevul Yom Status' explicitly quotes, paraphrases, and explains in detail.",
+      "chosen_heading": "Tevul Yom Status",
+      "current_heading": "Tevul Yom Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Zav vs. Corpse Logic",
+    "candidates": [
+      "Zav vs. Corpse Logic",
+      "Seven Liquids Rule",
+      "Damo Debate"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the zav vs. corpse distinction and the rabbinic decree logic, which is precisely what the 'Zav vs. Corpse Logic' section's prose discusses in detail, including the exact Aramaic phrases quoted in the passage.",
+      "chosen_heading": "Zav vs. Corpse Logic",
+      "current_heading": "Zav vs. Corpse Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Damo Debate",
+    "candidates": [
+      "Seven Liquids Rule",
+      "Damo Debate",
+      "Pesak & Practice",
+      "Granular vs. Thick",
+      "RSBG: Growth Principle"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the three-way dispute between the Rabbis, Rabbi Yehuda, and Rabban Shimon ben Gamliel over covering splattered blood and blood on the knife, which is precisely what the 'Damo Debate' section's prose describes in detail, including the same baraitot, the same disputants, and the same resolution about damo/kol damo/miktzas damo/hameyuchad.",
+      "chosen_heading": "Damo Debate",
+      "current_heading": "Damo Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "RSBG: Growth Principle",
+    "candidates": [
+      "Pesak & Practice",
+      "Granular vs. Thick",
+      "RSBG: Growth Principle",
+      "Potter's Standard"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah listing what materials may and may not be used for covering blood, which is precisely what the 'Granular vs. Thick' section's prose introduces and discusses \u2014 it even quotes the Mishnah's exact content ('bameh mechassin uvameh ein mechassin') as the text it is presenting, whereas the current placement under 'RSBG: Growth Principle' discusses only Rabban Shimon ben Gamliel's concluding principle, not the Mishnah as a whole.",
+      "chosen_heading": "Granular vs. Thick",
+      "current_heading": "RSBG: Growth Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Potter's Standard",
+    "candidates": [
+      "Potter's Standard",
+      "Klal Tzarich l'Prat"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the prose in candidate 0 covers: the definition of fine vs. thick sand via the potter's standard, the two versions of Rabba bar bar \u1e24ana's statement, and the practical difference (mai beinayhu) regarding sand that crumbles by hand \u2014 all of which are explicitly and thoroughly addressed in candidate 0's prose.",
+      "chosen_heading": "Potter's Standard",
+      "current_heading": "Potter's Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Klal Tzarich l'Prat",
+    "candidates": [
+      "Klal Tzarich l'Prat",
+      "Rashi & Tosafot"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the baraita deriving permissible covering materials, the expansion/contraction logic, and ending with the klal u'prat challenge \u2014 is precisely what the prose under heading 0 ('Klal Tzarich l'Prat') walks through in detail, matching the Hebrew phrases and interpretive moves line by line.",
+      "chosen_heading": "Klal Tzarich l'Prat",
+      "current_heading": "Klal Tzarich l'Prat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rashi & Tosafot",
+    "candidates": [
+      "Rashi & Tosafot",
+      "Ribuy u'Miut Method",
+      "Gold Coin Case"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Mari's statement about 'klal hatzarich liprat,' which is precisely what the 'Rashi & Tosafot' section's prose is built around \u2014 explaining this very Talmudic answer and then unpacking how Rashi and Tosafot understand it.",
+      "chosen_heading": "Rashi & Tosafot",
+      "current_heading": "Rashi & Tosafot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Gold Coin Case",
+    "candidates": [
+      "Ribuy u'Miut Method",
+      "Gold Coin Case",
+      "Tallit Ashes",
+      "Ashes & Gold Dust"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rav Na\u1e25man bar Rav \u1e24isda's teaching that only substances in which seeds sprout may be used for covering blood, and the baraita about desert sand and gold dinar/tallit ashes is cited specifically to establish the 'megadel tzamchim' (plant-growing) criterion \u2014 this debate about the derivation of the sprouting requirement fits squarely under the 'Ribuy u'Miut Method' section, which discusses the operative criterion of 'anything similar to afar' including the qualities of dust and capacity to nurture plant life, rather than under the later sections that simply describe the extreme cases as illustrations.",
+      "chosen_heading": "Ribuy u'Miut Method",
+      "current_heading": "Gold Coin Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Ashes & Gold Dust",
+    "candidates": [
+      "Tallit Ashes",
+      "Ashes & Gold Dust",
+      "Core Dispute"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's challenge about the basis for using gold dust and ashes, which is precisely what the 'Ashes & Gold Dust' section's prose discusses, including the specific derivation from 've'afrot zahav lo' cited by Rabbi Zeira.",
+      "chosen_heading": "Ashes & Gold Dust",
+      "current_heading": "Ashes & Gold Dust",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Core Dispute",
+    "candidates": [
+      "Core Dispute",
+      "Added Materials"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Beit Shammai/Beit Hillel dispute over whether only earth or also ashes qualify for covering blood, which is precisely what the 'Core Dispute' prose analyzes in detail, including the same baraita, the same verse about the red heifer, and the same linguistic argument about 'afar sereifah ikrai vs. afar stama.'",
+      "chosen_heading": "Core Dispute",
+      "current_heading": "Core Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Added Materials",
+    "candidates": [
+      "Added Materials",
+      "Avraham's Statement"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the added substances (coal dust, stibium, shavings, arsenic) which is precisely what the 'Added Materials' section prose elaborates on in detail.",
+      "chosen_heading": "Added Materials",
+      "current_heading": "Added Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Avraham's Statement",
+    "candidates": [
+      "Avraham's Statement",
+      "Why Not Kissuy"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with Rava's statement about Abraham saying 'dust and ashes' and the two mitzvot rewarded, which is precisely what heading 0 ('Avraham's Statement') discusses, and the passage only partially overlaps with heading 1 since the challenge about kissuy hadam appears mid-passage, making heading 0 the correct home for this combined excerpt.",
+      "chosen_heading": "Avraham's Statement",
+      "current_heading": "Avraham's Statement",
+      "moved": false
+    }
+  }
+]

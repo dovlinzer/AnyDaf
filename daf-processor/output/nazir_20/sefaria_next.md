@@ -47,3 +47,56 @@
 **12.**
 *Hebrew/Aramaic:* ״הֲרֵינִי נָזִיר״, וְשָׁמַע חֲבֵירוֹ וְאָמַר ״פִּי כְּפִיו וּשְׂעָרִי כִּשְׂעָרוֹ וְכוּ׳״. מִשּׁוּם דְּאָמַר ״פִּי כְּפִיו וּשְׂעָרִי כִּשְׂעָרוֹ״ הֲרֵי נָזִיר?
 *Translation:* § The mishna taught that one stated: **I am hereby a nazirite, and** if **another heard and said, my mouth is like his mouth, and my hair is like his hair,** he is a nazirite. The Gemara asks: Just **because he said: My mouth is like his mouth and my hair is like his hair,** is **he a nazirite?**
+
+
+---
+
+### Nazir 21b
+
+**1.**
+*Hebrew/Aramaic:* וּרְמִינְהוּ: ״יָדִי נְזִירָה״ וְ״רַגְלִי נְזִירָה״ — לֹא אָמַר כְּלוּם, ״רֹאשִׁי נְזִירָה״, ״כְּבֵדִי נְזִירָה״ — הֲרֵי זֶה נָזִיר. זֶה הַכְּלָל: דָּבָר שֶׁהַנְּשָׁמָה תְּלוּיָה בּוֹ — הֲרֵי זֶה נָזִיר.
+*Translation:* **And** the Gemara **raises a contradiction** against this. If one said: **My hand is a nazirite, and** similarly, if he said: **My foot is a nazirite, he has not said anything** of consequence. However, if he said: **My head is a nazirite,** or: **My liver is a nazirite, he is a nazirite. This is the principle:** If one accepted naziriteship by means of **an entity upon which life depends,** i.e., a limb or a body part that he cannot survive without, **he is a nazirite.** Conversely, if he mentioned part of the body that is not essential for life, he is not a nazirite. In this case, as he referred to his hair, which is certainly not a vital part of him, he should not be a nazirite.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה, דְּאָמַר הָכִי: יֵעָשֶׂה פִּי כְּפִיו מִיַּיִן, וּשְׂעָרִי כִּשְׂעָרוֹ מִלָּגוֹז.
+*Translation:* **Rav Yehuda said** that it means **that he said like this;** this is what he intended: **Let my mouth be like his mouth** with regard to abstention **from wine, and my hair** be **like his hair** with regard to abstention **from cutting** it.
+
+**3.**
+*Hebrew/Aramaic:* ״הֲרֵינִי נְזִירָה״, וְשָׁמַע בַּעְלָהּ וַאֲמַר ״וַאֲנִי״ אֵינוֹ יָכוֹל לְהָפֵר. אִיבַּעְיָא לְהוּ: בַּעַל מִיעְקָר עָקַר, אוֹ דִּלְמָא מִיגָּז גָּיֵיז? לְמַאי נָפְקָא מִינַּהּ —
+*Translation:* § The mishna taught that if a woman said: **I am hereby a nazirite, and her husband heard and said: And I, he cannot nullify** her vow. **A dilemma was raised before** the Sages: When **a husband** nullifies the vow of his wife, does he **uproot** his wife’s vow, making it as though she never vowed, **or perhaps** he merely **severs** her vow from that point onward, but her vow was still in effect until he nullified it? The Gemara asks: **What difference is there** resulting from this dilemma?
+
+**4.**
+*Hebrew/Aramaic:* לְאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר, וְשָׁמְעָה חֲבֶרְתָּהּ וְאָמְרָה ״וַאֲנִי״, וְשָׁמַע בַּעְלָהּ שֶׁל רִאשׁוֹנָה וְהֵפֵר לָהּ. אִי אָמְרַתְּ מִיעְקָר עָקַר — הַהִיא נָמֵי אִישְׁתְּרַאי. וְאִי אָמְרַתְּ מִיגָּז גָּיֵיז — אִיהִי אִישְׁתְּרַאי, חֲבֶרְתַּהּ אֲסִירָא. מַאי?
+*Translation:* The Gemara explains that the difference is **with regard to a woman who vowed to be a nazirite, and another** woman **heard and said: And I, and the husband of the first** woman **heard and nullified her** vow. **If you say** that the husband **uproots** the vow entirely, the vow of **that** second woman should **also be dissolved,** as she associated herself with a non-existent vow. **And if you say** he **severs** it from this point, the vow of his wife **is dissolved,** but the **other** woman remains **bound** by her vow, as the first vow was intact when she associated herself with it. **What,** then, is the answer to this dilemma?
+
+**5.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: ״הֲרֵינִי נְזִירָה״ וְשָׁמַע בַּעְלָהּ וְאָמַר ״וַאֲנִי״ — אֵינוֹ יָכוֹל לְהָפֵר. וְאִי סָלְקָא דַּעְתָּךְ בַּעַל מִיגָּז גָּיֵיז — לֵיפַר לְאִישְׁתּוֹ וְהוּא לִיתְּסַר. אֶלָּא לָאו שְׁמַע מִינַּהּ, בַּעַל מִיעְקָר עָקַר.
+*Translation:* The Gemara suggests: **Come** and **hear** the statement of the mishna: If she said: **I am hereby a nazirite, and her husband heard and said: And I, he cannot nullify** her vow. **And if it should enter your mind** that the **husband severs** the vow from that moment onward, **let him nullify** the vow **for his wife and he will** remain **bound** by his vow, since if the vow is not nullified retroactively, her vow was intact when he associated himself with it. **Rather,** must one **not conclude from** the mishna that **the husband uproots** the vow entirely, which means he would also uproot his own vow by nullifying hers, and that is why he is unable do so?
+
+**6.**
+*Hebrew/Aramaic:* לָא, לְעוֹלָם מִיגָּז גָּיֵיז. וּבְדִין הוּא דְּלֵיפַר לַהּ. וְהַיְינוּ טַעְמָא דְּלָא מָצֵי מֵיפַר, כֵּיוָן דְּאָמַר לַהּ ״וַאֲנִי״, כְּמַאן דְּאָמַר ״קַיָּים לִיכִי״ דָּמֵי. אִי מִתְּשִׁיל אַהֲקָמָתוֹ, — מָצֵי מֵיפַר, וְאִי לָא — לָא מָצֵי מֵיפַר.
+*Translation:* The Gemara refutes this argument: **No; actually,** one can say that the husband **severs** the vow from that point onward. **And** if there were no other points to consider, **by right** the mishna should have taught **that he can nullify** her vow **for her; and this is the reason why he cannot nullify** it: **Since he said to her: And I,** he is **considered like one who said: It is upheld for you,** and once a husband has upheld his wife’s vow he can no longer nullify it. Consequently, **if he requested** to have **his upholding** dissolved by a Sage, **he can nullify** her vow, **and if not, he cannot nullify** it. Consequently, the ruling of the mishna does not resolve the dilemma.
+
+**7.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר, וְהִפְרִישָׁה אֶת בְּהֶמְתָּהּ, וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ, אִם שֶׁלּוֹ הָיְתָה הַבְּהֵמָה — תֵּצֵא וְתִרְעֶה בָּעֵדֶר. וְאִם שֶׁלָּהּ הָיְתָה הַבְּהֵמָה — הַחַטָּאת תָּמוּת.
+*Translation:* The Gemara cites another mishna (24a): **Come** and **hear:** With regard to **a woman who vowed to be a nazirite and separated her animal** for this purpose (see Numbers 6:13–14), **and afterward her husband nullified her** vow, which means that she is no longer obligated to bring an offering, **if the animal was his,** which he had given to her, it is as though it were never consecrated at all, and **it shall go out and graze among** the **flock** like a regular, non-consecrated animal, until it becomes blemished. **And if the animal was hers,** and it was designated for **a sin-offering, it must** be placed in isolation for it to **die,** in accordance with the general *halakha* that a sin-offering that may not be sacrificed must be left to die.
+
+**8.**
+*Hebrew/Aramaic:* וְאִי סָלְקָא דַעְתָּךְ בַּעַל מִיעְקָר עָקַר — תִּיפּוֹק לְחוּלִּין! אֶלָּא לָאו שְׁמַע מִינַּהּ, בַּעַל מִיגָּז גָּיֵיז!
+*Translation:* The Gemara explains the difficulty from this mishna: **And if it should enter your mind** that **the husband uproots** the vow, the sin-offering should **be released as a non-sacred** animal, in accordance with the *halakha* of a sin-offering of a nazirite whose vow was nullified (31a). **Rather,** must one **not conclude from** the mishna that **the husband** merely **severs** the vow, which means that she was a nazirite when she separated the animal, and therefore it is consecrated?
+
+**9.**
+*Hebrew/Aramaic:* לְעוֹלָם אֵימָא לָךְ בַּעַל מִיעְקָר עָקַר, וְהַיְינוּ טַעְמָא: כֵּיוָן דְּלֹא צְרִיכָה כַּפָּרָה, הֲוָת כְּחַטָּאת שֶׁמֵּתוּ בְּעָלֶיהָ, וּגְמִירִי דְּחַטָּאת שֶׁמֵּתוּ בְּעָלֶיהָ — תָּמוּת.
+*Translation:* The Gemara rejects this proof: **Actually, I** could **say to you** that the **husband uproots** the vow, **and this is the reason** for the above ruling: **Since she requires no atonement,** as the vow is no longer in effect, this animal **is** treated **as a sin-offering whose owners have died, and** it **is learned** as a tradition **that a sin-offering whose owners have died must** be left to **die.**
+
+**10.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר, וְהָיְתָה שׁוֹתָה יַיִן וּמִטַּמְּאָה לְמֵתִים — הֲרֵי זוֹ סוֹפֶגֶת אֶת הָאַרְבָּעִים. הֵיכִי דָמֵי? אִילֵּימָא דְּלָא הֵיפַר לַהּ בַּעַל — צְרִיכָא לְמֵימַר?
+*Translation:* The Gemara continues to cite relevant sources. **Come** and **hear** the following mishna (23a): With regard to **a woman who vowed to be a nazirite and** nevertheless **was drinking wine and rendering herself ritually impure** by contact **with the dead, she incurs the forty** lashes for violating a Torah prohibition. The Gemara analyzes this mishna: **What are the circumstances** of this case? **If we say that** her **husband did not nullify her** vow, **need this be said** that she is liable to receive lashes? After all, every nazirite who transgresses their vow incurs lashes.
+
+**11.**
+*Hebrew/Aramaic:* אֶלָּא פְּשִׁיטָא דְּהֵיפַר לַהּ בַּעַל. וְאִי סָלְקָא דַעְתָּךְ בַּעַל מִיעְקָר עָקַר — אַמַּאי סוֹפֶגֶת אַרְבָּעִים? אֶלָּא לָאו שְׁמַע מִינַּהּ, בַּעַל מִיגָּז גָּיֵיז?
+*Translation:* **Rather,** it **is obvious** that the **husband nullified her** vow. **And if it should enter your mind** that the **husband uproots** his wife’s vow, **why** does **she incur the forty** lashes? It is as though she never vowed at all. **Rather,** must one **not conclude from** the mishna that the **husband severs** the vow, and therefore she is liable for her earlier transgression?
+
+**12.**
+*Hebrew/Aramaic:* לְעוֹלָם אֵימָא לָךְ בַּעַל מִיעְקָר עָקַר, וּמִשּׁוּם דְּקָתָנֵי סֵיפָא: הֵיפֵר לָהּ בַּעְלָהּ וְהִיא לֹא יָדְעָה, וְהָיְתָה שׁוֹתָה יַיִן וּמִטַּמְּאָה לְמֵתִים — אֵינָהּ סוֹפֶגֶת אֶת הָאַרְבָּעִים,
+*Translation:* The Gemara refutes this argument: **Actually, I** could **say to you** that the **husband uproots** the vow, **and** the reason that the mishna teaches in this manner is **due to** the fact **that** the *tanna* **teaches** in **the latter clause** of the mishna: If the **husband nullified her** vow **and she did not know, and she was drinking wine and rendering herself ritually impure** by contact **with the dead, she does not incur the forty** lashes, despite her intention to sin, as she did not commit a transgression in practice.

@@ -83,3 +83,64 @@
 **21.**
 *Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: אֵלּוּ שְׁלֹשִׁים צַדִּיקֵי אוּמּוֹת הָעוֹלָם, שֶׁאוּמּוֹת הָעוֹלָם מִתְקַיְּימִים עֲלֵיהֶם. עוּלָּא אָמַר: אֵלּוּ שְׁלֹשִׁים מִצְוֹת שֶׁקִּבְּלוּ עֲלֵיהֶם בְּנֵי נֹחַ, וְאֵין מְקַיְּימִין אֶלָּא שְׁלֹשָׁה. אַחַת
 *Translation:* **Rabbi Yehuda says: These are the thirty righteous** individuals among the **nations of the world, in whose** merit **the nations of the world** continue to **exist. Ulla says: These are the thirty mitzvot that the descendants of Noah** initially **accepted upon themselves; but they fulfill only three** of them. **One** of these three mitzvot is
+
+
+---
+
+### Hullin 92b
+
+**1.**
+*Hebrew/Aramaic:* שֶׁאֵין כּוֹתְבִין כְּתוּבָּה לִזְכָרִים, וְאַחַת שֶׁאֵין שׁוֹקְלִין בְּשַׂר הַמֵּת בְּמָקוֹלִין, וְאַחַת שֶׁמְּכַבְּדִין אֶת הַתּוֹרָה.
+*Translation:* **that they do not write a marriage contract for** a wedding between two **males;** although they violate the prohibition against engaging in homosexuality, they are not so brazen as to write a marriage contract as for a regular marriage. **And one** of the three mitzvot is **that** although they are suspected of eating human beings, **they do not weigh the flesh of the dead in butcher shops** [***bemakkulin***] and sell it publicly; **and one** is **that they honor the Torah.**
+
+**2.**
+*Hebrew/Aramaic:* וְאֵינוֹ נוֹהֵג בָּעוֹף. וְהָא קָא חָזֵינַן דְּאִית לֵיהּ? אִית לֵיהּ, וְלָא עֲגִיל.
+*Translation:* § The mishna teaches (89b) that the prohibition of eating the sciatic nerve **does not apply to a bird** due to the fact that the verse is referring to the sciatic nerve as being “upon the spoon of the thigh” (Genesis 32:33), and a bird has no spoon of the thigh. The Gemara challenges: **But we see that it does have** a protrusion of flesh on its thigh. The Gemara answers: **It has** a protrusion, **but** that protrusion is **not rounded.**
+
+**3.**
+*Hebrew/Aramaic:* בָּעֵי רַבִּי יִרְמְיָה: אִית לֵיהּ לְעוֹף וַעֲגִיל, אִית לֵיהּ לִבְהֵמָה וְלָא עֲגִיל, מַאי? בָּתַר דִּידֵיהּ אָזְלִינַן, אוֹ בָּתַר מִינֵיהּ אָזְלִינַן? תֵּיקוּ.
+*Translation:* **Rabbi Yirmeya raises a dilemma:** If **a bird has** a protrusion on its thigh bone **and it is rounded,** or **an animal has** a protrusion on its thigh bone **but it is not rounded, what** is the *halakha*? **Do we follow it,** i.e., does the status of the sciatic nerve depend upon the physical properties of each particular animal, **or do we follow its species,** so that the sciatic nerve of an animal is always forbidden and that of a bird is always permitted? The Gemara responds: The question **shall stand** unresolved.
+
+**4.**
+*Hebrew/Aramaic:* וְנוֹהֵג בַּשְּׁלִיל. אָמַר שְׁמוּאֵל: וְחֶלְבּוֹ מוּתָּר לְדִבְרֵי הַכֹּל.
+*Translation:* § The mishna states that the prohibition of the sciatic nerve **applies to** a late-term animal **fetus** in the womb. Rabbi Yehuda says: It does not apply to a fetus; and its fat is permitted. **Shmuel says:** When the mishna states: **And its fat is permitted,** that is **according to everyone.**
+
+**5.**
+*Hebrew/Aramaic:* חֶלְבּוֹ דְּמַאי? אִילֵימָא דִּשְׁלִיל – וְהָא מִיפְלָג פְּלִיגִי בֵּיהּ, דְּתַנְיָא: נוֹהֵג בַּשְּׁלִיל, וְחֶלְבּוֹ אָסוּר, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: אֵינוֹ נוֹהֵג בַּשְּׁלִיל, וְחֶלְבּוֹ מוּתָּר.
+*Translation:* The Gemara asks: **The fat of what? If we say** that it is referring to the fat **of a fetus, don’t** the *tanna’im* **disagree about it, as it is taught** in a *baraita*: The prohibition of the **sciatic nerve applies to** a late-term **fetus, and its fat is prohibited;** this is **the statement of Rabbi Meir. Rabbi Yehuda says** that the prohibition of the **sciatic nerve does not apply to** a late-term **fetus, and its fat is permitted.**
+
+**6.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי אֶלְעָזָר, אָמַר רַבִּי אוֹשַׁעְיָא: מַחְלוֹקֶת בְּבֶן תִּשְׁעָה חַי, וְהָלַךְ רַבִּי מֵאִיר לְשִׁיטָתוֹ, וְרַבִּי יְהוּדָה לְשִׁיטָתוֹ.
+*Translation:* **And Rabbi Elazar says** that **Rabbi Oshaya says** in explanation of the *baraita*: This **dispute** applies **to a nine-month-old,** i.e., a full-term, fetus that remains **alive** after its mother has been slaughtered. **And Rabbi Meir followed his** general **opinion** in this regard (see 74a), that this fetus is considered a live animal independent of its mother. Consequently, it must undergo ritual slaughter in order for its meat to be permitted for consumption, and its fats and sciatic nerve are forbidden like those of any other animal. **And Rabbi Yehuda** followed **his** general **opinion** that such a fetus is not considered a live animal but rather part of its mother. Consequently, it does not require ritual slaughter, and its fats and sciatic nerve are permitted.
+
+**7.**
+*Hebrew/Aramaic:* וְאֶלָּא חֶלְבּוֹ דְּגִיד? הָא מִיפְלָג פְּלִיגִי בָּהּ, דְּתַנְיָא: גִּיד הַנָּשֶׁה מְחַטֵּט אַחֲרָיו בְּכׇל מָקוֹם שֶׁהוּא, וְחוֹתֵךְ שׇׁמְנוֹ מֵעִיקָּרוֹ – דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: גּוֹמְמוֹ עִם הַשּׁוֹפִי.
+*Translation:* **But rather,** perhaps Shmuel’s statement was said with regard to **the fat of the** sciatic **nerve. But** the *tanna’im* **disagree** about this case as well, **as it is taught** in a *baraita*: With regard to **the sciatic nerve, one scrapes around it** to remove it entirely **in any place that it is** found in the thigh, **and one cuts out its fat from its source,** i.e., even the fat that is embedded in the flesh; this is **the statement of Rabbi Meir. Rabbi Yehuda says: One cuts out** the nerve and fat so that they are level **with the flesh** [***hashufi***] of the thigh, but there is no need to scrape out the parts embedded in the flesh. Consequently, there is a dispute about the fat surrounding the sciatic nerve as well.
+
+**8.**
+*Hebrew/Aramaic:* לְעוֹלָם חֶלְבּוֹ דְּגִיד, מוֹדֶה שְׁמוּאֵל דִּלְרַבִּי מֵאִיר מִדְּרַבָּנַן אָסוּר, דְּתַנְיָא: וְשׇׁמְנוֹ מוּתָּר, וְיִשְׂרָאֵל קְדוֹשִׁים נָהֲגוּ בּוֹ אִיסּוּר. מַאי לָאו רַבִּי מֵאִיר הִיא, דְּאָמַר: מוּתָּר מִן הַתּוֹרָה וְאָסוּר מִדְּרַבָּנַן?
+*Translation:* The Gemara answers: **Actually,** Shmuel was referring to the **fat of the** sciatic **nerve,** and **Shmuel concedes that** according to the opinion of **Rabbi Meir** the fat surrounding the sciatic nerve is **forbidden by rabbinic law** but permitted by Torah law. **As it is taught** in a *baraita*: **Its fat is permitted** by Torah law, **but the Jewish people are holy** and **treated it as forbidden.** The Gemara infers: **What, is it not** that this *baraita* **is** in accordance with the opinion of **Rabbi Meir, who said** that the fat is **permitted by Torah law but forbidden by rabbinic law?**
+
+**9.**
+*Hebrew/Aramaic:* מִמַּאי דִּילְמָא רַבִּי יְהוּדָה הִיא, אֲבָל לְרַבִּי מֵאִיר מִדְּאוֹרָיְיתָא נָמֵי אֲסִיר!
+*Translation:* The Gemara challenges this: **From where** can it be proven that this *baraita* is in accordance with the opinion of Rabbi Meir? **Perhaps it is** in accordance with the opinion of **Rabbi Yehuda, but according to** the opinion of **Rabbi Meir it is even forbidden by Torah law.**
+
+**10.**
+*Hebrew/Aramaic:* לָא סָלְקָא דַּעְתָּךְ, דְּתַנְיָא: גִּיד הַנָּשֶׁה מְחַטֵּט אַחֲרָיו בְּכׇל מָקוֹם שֶׁהוּא, וְשׇׁמְנוֹ מוּתָּר. מַאן שָׁמְעַתְּ לֵיהּ דְּאִית לֵיהּ חֲטִיטָה? רַבִּי מֵאִיר, וְקָאָמַר: שׇׁמְנוֹ מוּתָּר.
+*Translation:* The Gemara rejects this challenge: It would **not enter your mind** that this *baraita* is in accordance with the opinion of Rabbi Yehuda, **as it is taught** in a *baraita*: With regard to **the sciatic nerve, one scrapes around it** to remove it entirely from **any place that it** is found in the thigh, **and its fat is permitted.** The Gemara explains: **Whom have you heard who holds** that **scraping** is required? It is **Rabbi Meir. And** the *baraita* **states** that **its fat is permitted.** Consequently, Rabbi Meir must hold that the fat surrounding the sciatic nerve is permitted by Torah law and forbidden by rabbinic law.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַב יִצְחָק בַּר שְׁמוּאֵל בַּר מָרְתָּא, אָמַר רַב: לֹא אָסְרָה תּוֹרָה אֶלָּא קְנוֹקָנוֹת שֶׁבּוֹ. עוּלָּא אָמַר: עֵץ הוּא, וְהַתּוֹרָה חִיְּיבָה עָלָיו.
+*Translation:* § With regard to the sciatic nerve **Rav Yitzḥak bar Shmuel bar Marta says** that **Rav says: The Torah prohibited only its** thin, **tendril**-like nerve fibers **[*kenokanot*]** that branch off and run alongside the sciatic nerve, under the flesh. By contrast, the sciatic nerve itself, which is inedible and has no flavor, is therefore considered like wood rather than food, and is not forbidden. Conversely, **Ulla says:** The sciatic nerve **is** inedible and has no flavor, like **wood, but** nevertheless **the Torah rendered** one **liable for** eating **it.**
+
+**12.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: כְּוָותֵיהּ דְּעוּלָּא מִסְתַּבְּרָא, דְּאָמַר רַב שֵׁשֶׁת אָמַר רַב אַסִּי: חוּטִין שֶׁבַּחֵלֶב אֲסוּרִין, וְאֵין חַיָּיבִין עֲלֵיהֶן, אַלְמָא ״חֵלֶב״ אָמַר רַחֲמָנָא וְלֹא חוּטִין, הָכָא נָמֵי ״גִּיד״ אָמַר רַחֲמָנָא וְלֹא קְנוֹקָנוֹת.
+*Translation:* **Abaye said: It stands to reason** that the *halakha* **is in accordance with** the opinion **of Ulla, because Rav Sheshet said** that **Rav Asi said: The strands** of veins **that are in the** forbidden **fat are forbidden, but one is not liable for** eating **them. Apparently,** when **the Merciful One states** in the Torah that it is prohibited to eat **fat,** the prohibition applies only to the fat itself **but not** to **the strands** of veins. **Here also, the Merciful One states** in the Torah that it is prohibited to eat the sciatic **nerve, but** that does **not** include **the tendril**-like nerve fibers.
+
+**13.**
+*Hebrew/Aramaic:* גּוּפָא: אָמַר רַב שֵׁשֶׁת אָמַר רַב אַסִּי: חוּטִין שֶׁבַּחֵלֶב אֲסוּרִין, וְאֵין חַיָּיבִין עֲלֵיהֶן. שֶׁבַּכּוּלְיָא אֲסוּרִין, וְאֵין חַיָּיבִין עֲלֵיהֶן. לוֹבֶן כּוּלְיָא – רַבִּי וְרַבִּי חִיָּיא: חַד אָסַר, וְחַד שָׁרֵי.
+*Translation:* § The Gemara now returns to **the** matter **itself** cited in the discussion above: **Rav Sheshet said** that **Rav Asi said: The strands** of veins **that are in the** forbidden **fat are forbidden, but one is not liable for** eating **them.** The strands of veins **that are in the kidney are forbidden, but one is not liable for** eating **them.** With regard to the **white** fat of the **kidney,** there is a dispute between **Rabbi** Yehuda HaNasi **and Rabbi Ḥiyya: One** of them **prohibits** its consumption, because it is similar to the fats that are prohibited by the Torah; **and one** of them **permits** eating it.
+
+**14.**
+*Hebrew/Aramaic:* רַבָּה מְמַרְטֵט לֵיהּ, רַבִּי יוֹחָנָן מְמַרְטֵט לֵיהּ, רַבִּי אַסִּי גָּאֵים לֵיהּ. אָמַר אַבָּיֵי: כְּוָותֵיהּ דְּרַבִּי אַסִּי מִסְתַּבְּרָא, דְּאָמַר רַבִּי אַבָּא אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל:
+*Translation:* The Gemara relates that **Rabba** would **scrape** every remnant of white fat away from the kidney. Similarly, **Rabbi Yoḥanan** would **scrape it** away from the kidney. By contrast, **Rabbi Asi** would **cut it** from the surface of the kidney but would not scrape out the rest of it. **Abaye said: It stands to reason** that the *halakha* **is in accordance with** the opinion **of Rabbi Asi, because Rabbi Abba said** that **Rav Yehuda said** that **Shmuel said:**

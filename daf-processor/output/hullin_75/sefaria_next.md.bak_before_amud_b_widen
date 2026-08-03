@@ -1,0 +1,65 @@
+### Hullin 76a
+
+**1.**
+*Hebrew/Aramaic:* מַתְנִי׳ בְּהֵמָה שֶׁנֶּחְתְּכוּ רַגְלֶיהָ מִן הָאַרְכּוּבָּה וּלְמַטָּה – כְּשֵׁרָה, מִן הָאַרְכּוּבָּה וּלְמַעְלָה – פְּסוּלָה, וְכֵן שֶׁנִּיטַּל צוֹמֶת הַגִּידִין.
+*Translation:* MISHNA: With regard to **an animal whose hind legs were severed,** if they were severed **from the leg joint and below,** the animal is **kosher; from the leg joint and above,** the animal is thereby rendered a *tereifa* and is **not kosher. And likewise,** an animal **whose convergence of sinews** in the thigh **was removed** is a *tereifa* and is not kosher.
+
+**2.**
+*Hebrew/Aramaic:* נִשְׁבַּר הָעֶצֶם, אִם רוֹב הַבָּשָׂר קַיָּים – שְׁחִיטָתוֹ מְטַהַרְתּוֹ, וְאִם לָאו – אֵין שְׁחִיטָתוֹ מְטַהַרְתּוֹ.
+*Translation:* If **the bone** of a limb **was broken** but the limb was not completely severed, and the animal was then slaughtered, **if the majority of the flesh** surrounding the bone **is intact, the slaughter of** the animal **renders it permitted; but if not, its slaughter does not render it permitted.**
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב יְהוּדָה אָמַר רַב אָמַר רַבִּי חִיָּיא: לְמַטָּה – לְמַטָּה מִן הָאַרְכּוּבָּה, לְמַעְלָה – לְמַעְלָה מִן הָאַרְכּוּבָּה. בְּאֵיזוֹ אַרְכּוּבָּה אָמְרוּ? בְּאַרְכּוּבָּה הַנִּמְכֶּרֶת עִם הָרֹאשׁ.
+*Translation:* GEMARA: **Rav Yehuda says** that **Rav says** that **Rabbi Ḥiyya says:** When the mishna makes reference to the leg being severed from the leg joint and **below,** it means that the cut was **below the leg joint,** and when it says that if it was severed from the leg joint and **above** it is a *tereifa*, **it means** that the cut was **above the leg joint.** And **with regard to which leg joint did they say** this? **With regard to** the **leg joint that is sold together with the head** of the animal. This is the lower leg joint that connects the lower bone, or metatarsus, and middle bone, or tibia. Accordingly, the animal is a *tereifa* only if the leg was severed in the middle bone or upper bone.
+
+**4.**
+*Hebrew/Aramaic:* עוּלָּא אָמַר רַבִּי אוֹשַׁעְיָא: כְּנֶגְדּוֹ בְּגָמָל נִיכָּר.
+*Translation:* **Ulla says** that **Rabbi Oshaya** says: The mishna is referring to the leg joint that in most animals cannot be seen from the outside, but **the corresponding** joint **in** the leg of **a camel** is prominent and **conspicuous.** This is referring to the joint between the upper bone, or femur, and middle bone, or tibia. Accordingly, the animal is a *tereifa* only if it was severed in the upper bone.
+
+**5.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ עוּלָּא לְרַב יְהוּדָה: בִּשְׁלָמָא לְדִידִי דְּאָמֵינָא כְּנֶגְדּוֹ בְּגָמָל נִיכָּר, הַיְינוּ דְּקָתָנֵי: וְכֵן שֶׁנִּיטַּל צוֹמֶת הַגִּידִין, אֶלָּא לְדִידָךְ, מַאי וְכֵן שֶׁנִּיטַּל צוֹמֶת הַגִּידִין?
+*Translation:* **Ulla said to Rav Yehuda: Granted, according to my** opinion, **as I say** it means the joint whose **corresponding** joint **in** the leg of a camel is **conspicuous,** i.e., the upper joint, **this** explanation is consistent with **that which** the mishna **teaches: And likewise,** an animal **whose convergence of sinews** in the thigh **was removed** is not kosher. The convergence of sinews lies on the lower part of the middle bone. Since I hold that if the middle bone is severed, this does not render the animal a *tereifa*, it is necessary for the mishna to teach that nevertheless, if that bone was severed at the point of the convergence of sinews, this would render it a *tereifa*. **But according to your** opinion that the mishna is referring to the lower joint, and if the middle bone is severed, this renders the animal a *tereifa*, **what** is the purpose of teaching: **And likewise,** an animal **whose convergence of sinews** in the thigh **was removed** is not kosher?
+
+**6.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: רְכוּבָּה בְּלֹא צוֹמֶת הַגִּידִים, וְצוֹמֶת הַגִּידִים בְּלֹא רְכוּבָּה. וְהָא ״נֶחְתְּכוּ״ קָתָנֵי! אִישְׁתִּיק.
+*Translation:* Rav Yehuda **said to** Ulla: According to my opinion, the mishna is referring to two cases: The first is where the leg was severed above the lower **leg joint,** in the middle bone, **without** the removal of **the convergence of sinews** in the thigh, **and** the second is where **the convergence of sinews** in the thigh was removed **without** the leg above the **leg joint** being severed. Ulla then asked Rav Yehuda: **But** the mishna **teaches: Were severed,** indicating that the leg was entirely severed, which perforce includes the convergence of sinews. Rav Yehuda **was silent,** as he did not have a resolution.
+
+**7.**
+*Hebrew/Aramaic:* לְבָתַר דִּנְפַק אֲמַר: מַאי טַעְמָא לָא אֲמַרִי לֵיהּ, ״לְמַטָּה״ – לְמַטָּה מִן הָאַרְכּוּבָּה, ״לְמַעְלָה״ – לְמַעְלָה מִצּוֹמֶת הַגִּידִין?
+*Translation:* **After** Ulla **left,** Rav Yehuda **said** to himself: **What is the reason** that **I did not say to him** the following resolution: When the mishna states that if the leg was severed **below** the leg joint the animal is kosher, it means **below the** lower **leg joint,** and when it says that if it was severed **above** it is a *tereifa*, **it means** in the middle bone above **the convergence of sinews** in the thigh. Accordingly, it would still be necessary to teach that if the convergence of sinews in the thigh was removed, this would render it a *tereifa*.
+
+**8.**
+*Hebrew/Aramaic:* הֲדַר אָמַר: וְלָא אֲמַרִי לֵיהּ, וַאֲמַר לִי: ״נֶחְתְּכוּ״ קָתָנֵי? הָכָא נָמֵי, ״מִן הָאַרְכּוּבָּה וּלְמַעְלָה״ קָתָנֵי.
+*Translation:* Rav Yehuda **then said** to himself: It is good that I did not suggest this resolution, as **did I not** initially **say** a resolution **to him, and he said to me** that it was refuted by the fact that the mishna **teaches: Were severed,** which clearly indicates that it was severed completely? **Here too,** he could have said: You cannot explain the mishna as referring only to severing the leg above the convergence of sinews, as the mishna **teaches: From the** lower **leg joint and above,** which clearly includes the entire middle bone, including the area of the convergence of sinews.
+
+**9.**
+*Hebrew/Aramaic:* רַב פָּפָּא מַתְנֵי הָכִי: אָמַר רַב יְהוּדָה אָמַר רַב אָמַר רַבִּי חִיָּיא: ״לְמַטָּה״ – לְמַטָּה מִן הָאַרְכּוּבָּה וּמִצּוֹמֶת הַגִּידִין, ״לְמַעְלָה״ – לְמַעְלָה מִן הָאַרְכּוּבָּה וּמִצּוֹמֶת הַגִּידִין, וְכֵן שֶׁנִּיטַּל צוֹמֶת הַגִּידִין. וְאַרְכּוּבָּה גּוּפַהּ כִּדְעוּלָּא אָמַר רַבִּי אוֹשַׁעְיָא.
+*Translation:* **Rav Pappa teaches** the previous discussion **like this: Rav Yehuda says** that **Rav says** that **Rabbi Ḥiyya says:** When the mishna refers to severing the leg **below,** it means severing **below** both **the leg joint and the convergence of sinews** in the thigh, i.e., the lower bone was severed, and when it refers to severing the leg **above,** it means severing **above** both **the leg joint and the convergence of sinews** in the thigh, i.e., the upper bone was severed. **And** then the mishna adds that with regard to the middle bone, it is only a *tereifa* **when** the **convergence of sinews was removed.** And this explanation assumes that **the leg joint itself** is referring to the upper leg joint, **in accordance with** that which **Ulla said** that **Rabbi Oshaya** said, i.e., that it means the joint whose corresponding joint in the leg of a camel is conspicuous.
+
+**10.**
+*Hebrew/Aramaic:* וּמִי אִיכָּא מִידֵּי, דְּאִילּוּ מִדְּלֵי פָּסֵיק לֵיהּ וַחֲיָה, מְתַתֵּי פָּסֵיק לֵיהּ וּמֵתָה?
+*Translation:* The Gemara questions Rav Pappa’s explanation of the opinions of Ulla and Rav Yehuda: **But is there any** possibility **that if one went higher up** the leg and **severed** the middle bone above the convergence of sinews, **it would live,** i.e., the animal would not be a *tereifa*, but if **one went down** the leg and **severed it** on the convergence of sinews, it would be a *tereifa* **and would die** within twelve months? It is illogical that severing more of the leg is less life-threatening for the animal.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַב אָשֵׁי: טְרֵפוֹת קָא מְדַמֵּית לַהֲדָדֵי? אֵין אוֹמְרִין בִּטְרֵפוֹת זוֹ דּוֹמָה לָזוֹ, שֶׁהֲרֵי חוֹתְכָהּ מִכָּאן וָמֵתָה, חוֹתְכָהּ מִכָּאן וְחַיָּה.
+*Translation:* **Rav Ashi said: Are you comparing** different types of ***tereifot* to one another? One cannot say with regard to *tereifot*** that **this is similar to that, as** different areas of an animal’s body react differently: One **cuts it from here,** at a low point on the animal’s body, **and it** could **die;** and one **cuts it from there,** at a higher point, **and it** could **live.**
+
+**12.**
+*Hebrew/Aramaic:* וְאֵלּוּ הֵן צוֹמֶת הַגִּידִין? רַבָּה אָמַר רַב אָשֵׁי: דְּאַגַּרְמָא וּלְבַר, רַבָּה בַּר רַב הוּנָא אָמַר רַב אָשֵׁי: דְּאַגַּרְמָא וּלְגָיו, רָבָא בְּרֵיהּ דְּרַבָּה בַּר רַב הוּנָא אָמַר רַב אַסִּי: דְּעִילָּוֵי עַרְקוּמָא.
+*Translation:* § The Gemara asks: **And which** parts are included in **the convergence of sinews** in the thigh, such that if they are removed it renders the animal a *tereifa*? The sinews at the bottom of the bone cleave to it, as there is no flesh on that part of the bone. A short distance above that they separate from the bone and then they diverge from each other as they enter the flesh. **Rabba says** that **Rav Ashi** says: Those **which are off the bone,** before they diverge. **Rabba bar Rav Huna says** that **Rav Ashi** says: Those **which are adjacent to the bone. Rava, son of Rabba bar Rav Huna, says** that **Rav Asi** says: The convergence of sinews begins even lower and includes those **which are above the *arkum*** bone, a small bone that lies between the lower bone and the middle bone of the leg.
+
+**13.**
+*Hebrew/Aramaic:* יָתֵיב הָהוּא מֵרַבָּנַן קַמֵּיהּ דְּרַבִּי אַבָּא, וְיָתֵיב וְקָאָמַר: דְּעַרְקוּמָא גּוּפַהּ. אֲמַר לֵיהּ רַבִּי אַבָּא: לָא תְּצִיתוּ לֵיהּ, הָכִי אָמַר רַב יְהוּדָה: הֵיכָא דְּפָרְעִי טַבָּחֵי. וְהַיְינוּ רָבָא בְּרֵיהּ דְּרַבָּה בַּר רַב הוּנָא אָמַר רַב אַסִּי.
+*Translation:* The Gemara relates: **One of the Sages sat before Rabbi Abba, and he sat and said:** The convergence of sinews includes the sinews **of the *arkum*** bone **itself. Rabbi Abba said to** his students: **Do not listen to** that Sage, as his ruling is too stringent. **This** is what **Rav Yehuda said:** It is in the place **where butchers split open** the animal’s leg. The Gemara comments: **And this is** the same as that which **Rava, son of Rabba bar Rav Huna,** says that **Rav Asi says,** i.e., that it includes the sinews above the *arkum*.
+
+**14.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: צוֹמֶת הַגִּידִים שֶׁאָמְרוּ – מְקוֹם שֶׁהַגִּידִין צוֹמְתִין, וְעַד כַּמָּה? אֲמַר לֵיהּ הָהוּא מִדְּרַבָּנַן, וְרַב יַעֲקֹב שְׁמֵיהּ: כִּי הֲוֵינַן בֵּי רַב יְהוּדָה אֲמַר לַן: שְׁמַעוּ מַנִּי מִלְּתָא דְּמִגַּבְרָא רַבָּה שְׁמִיעַ לִי, וּמַנּוּ? שְׁמוּאֵל: צוֹמֶת הַגִּידִין שֶׁאָמְרוּ – מְקוֹם שֶׁהַגִּידִין צוֹמְתִין בּוֹ, וּמִמְּקוֹם שֶׁצּוֹמְתִין עַד מְקוֹם שֶׁמִּתְפַּשְּׁטִין.
+*Translation:* **Rav Yehuda says** that **Shmuel says: The convergence of sinews** in the thigh **that they spoke** of in the mishna is the **place where the sinews converge** and appear as though they are a single entity. The Gemara asks: **And until how far** does it extend? **One of the Sages, and his name is Rav Ya’akov, said to them: When we were** studying **in the school of Rav Yehuda, he said to us: Hear from me a matter that I heard from a great man, and who is he? Shmuel. The convergence of sinews that they spoke** of is the **place where the sinews converge, and** it extends **from** the **place where they converge until** the **place where they diverge** and are subsumed within the flesh.
+
+**15.**
+*Hebrew/Aramaic:* וְכַמָּה? אָמַר אַבָּיֵי: אַרְבָּעָה בַּטְדֵי בְּתוֹרָא. בְּדַקָּה מַאי? אָמַר אַבָּיֵי: בְּלִיטִי – הָווּ צוֹמֶת הַגִּידִים, בְּלִיעִי – לָא הָווּ צוֹמֶת הַגִּידִים.
+*Translation:* The Gemara asks: **And how far** is this? **Abaye said: Four handbreadths in an ox.** The Gemara asks: **What** is the measure **in a small domesticated animal? Abaye said:** There is no set measure; rather, as long as the sinews are **prominent** and are not subsumed within the flesh, **they are** part of **the convergence of sinews** in the thigh, but once they are **subsumed they are not** considered part of **the convergence of sinews** in the thigh.
+
+**16.**
+*Hebrew/Aramaic:* אַשּׁוּנֵי – הָווּ צוֹמֶת הַגִּידִים, רַכִּיכֵי – לָא הָווּ צוֹמֶת הַגִּידִים, אַלִּימֵי – הָווּ צוֹמֶת הַגִּידִים, קַטִּינֵי – לָא הָווּ צוֹמֶת הַגִּידִים, חִוָּורֵי – הָווּ צוֹמֶת הַגִּידִים, לָא חִוָּורֵי – לָא הָווּ צוֹמֶת הַגִּידִים.
+*Translation:* Abaye adds: The sinews that are **hard are** part of **the convergence of sinews** in the thigh; those that are **soft are not** part of **the convergence of sinews.** Those that are **thick are** part of **the convergence of sinews;** those that are **thin are not** part of **the convergence of sinews.** Those that are **white are** part of **the convergence of sinews;** those that are **not white are not** part of **the convergence of sinews.**

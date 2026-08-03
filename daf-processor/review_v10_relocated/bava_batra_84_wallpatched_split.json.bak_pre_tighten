@@ -1,0 +1,247 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Overcharging Case",
+    "candidates": [
+      "Four Types Ta\u02bfut",
+      "Ta\u02bfut vs Ona'ah",
+      "Overcharging Case",
+      "Wronged Party Right"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rav \u1e24isda's rulings and the supporting mishna proofs about which wronged party holds the right of reversal \u2014 exactly what candidate 3 ('Wronged Party Right') discusses in detail, including the buyer case, the seller case, and the mishna confirmations.",
+      "chosen_heading": "Wronged Party Right",
+      "current_heading": "Overcharging Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Wronged Party Right",
+    "candidates": [
+      "Wronged Party Right",
+      "Undercharging Case",
+      "Apparent Circularity",
+      "Ona'ah vs Ta\u02bfut",
+      "Overclaiming Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the gemara's question of what Rav Chisda adds beyond the mishna (mai kamashma lan masnisin hi) and begin to answer it, which is precisely what the 'Apparent Circularity' section's prose describes.",
+      "chosen_heading": "Apparent Circularity",
+      "current_heading": "Wronged Party Right",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Overclaiming Logic",
+    "candidates": [
+      "Undercharging Case",
+      "Apparent Circularity",
+      "Ona'ah vs Ta\u02bfut",
+      "Overclaiming Logic",
+      "Sun Is Red",
+      "Sun Color Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Pappa's inference that the sun is red based on the mishna's use of 'she\u1e25amtit' versus 'white,' which matches exactly the prose of heading 4 ('Sun Is Red'), not heading 3 ('Overclaiming Logic').",
+      "chosen_heading": "Sun Is Red",
+      "current_heading": "Overclaiming Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Sun Color Explanation",
+    "candidates": [
+      "Sun Is Red",
+      "Sun Color Explanation",
+      "Reflection Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the objection from tzara'at and the gemara's nuanced answer about 'like the sun but not like the sun,' which is exactly what the prose under 'Sun Color Explanation' describes in its final sentences.",
+      "chosen_heading": "Sun Color Explanation",
+      "current_heading": "Sun Color Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Reflection Theory",
+    "candidates": [
+      "Reflection Theory",
+      "Wine Vinegar Different",
+      "Rabbi vs Rabbanan",
+      "Consumer Preference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is explicitly about the redness of the sun at dawn and dusk being explained by the sun passing over the Garden of Eden's roses and the entrance of Gehenna, which is precisely what the 'Reflection Theory' prose discusses in detail.",
+      "chosen_heading": "Reflection Theory",
+      "current_heading": "Reflection Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Consumer Preference",
+    "candidates": [
+      "Wine Vinegar Different",
+      "Rabbi vs Rabbanan",
+      "Consumer Preference",
+      "Meshicha Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items together form the complete gemara discussion raised under 'Rabbi vs Rabbanan' \u2014 the mishna's compatibility with Rabbanan's position, the baraita dispute, Rabbi Ilai's derivation, and the conclusion about commercial law \u2014 all of which the prose of candidate 1 describes, while candidate 2's prose already summarizes this entire passage's content as the gemara's rejection/resolution, meaning the passage itself belongs under the heading that poses the question (candidate 1), not the one that summarizes the answer.",
+      "chosen_heading": "Rabbi vs Rabbanan",
+      "current_heading": "Consumer Preference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Meshicha Rule",
+    "candidates": [
+      "Meshicha Rule",
+      "Flax Hagbaha",
+      "Attached Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna's content \u2014 selling produce, meshicha without measuring acquires, measuring without meshicha does not acquire, and the pikeach renting the place \u2014 is precisely what the 'Meshicha Rule' prose discusses, including the Rashbam's caveat about agreed price and the rules of mashach/madad.",
+      "chosen_heading": "Meshicha Rule",
+      "current_heading": "Meshicha Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Attached Items",
+    "candidates": [
+      "Flax Hagbaha",
+      "Attached Items",
+      "Rav Assi Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses flax acquisition requiring hagbahah (lifting/carrying from place to place) rather than meshicha, which directly matches the 'Flax Hagbaha' prose, while the attached-to-ground clause is secondary content within the same mishna passage that the 'Flax Hagbaha' prose already anticipates.",
+      "chosen_heading": "Flax Hagbaha",
+      "current_heading": "Attached Items",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rav Assi Position",
+    "candidates": [
+      "Rav Assi Position",
+      "Rav Zeira Challenge",
+      "Rav Assi Rebuttal",
+      "Rav Assi Version",
+      "Rav Yaakov Version",
+      "Resolution Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara introducing Rabbi Asi's teaching in Rabbi Yochanan's name about measuring and placing produce in a simta, which is exactly what the 'Rav Assi Position' section's prose describes.",
+      "chosen_heading": "Rav Assi Position",
+      "current_heading": "Rav Assi Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Resolution Vessels",
+    "candidates": [
+      "Rav Zeira Challenge",
+      "Rav Assi Rebuttal",
+      "Rav Assi Version",
+      "Rav Yaakov Version",
+      "Resolution Vessels",
+      "Meshicha Domain Transfer",
+      "Rental in Private Domain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items together form the complete discussion that candidate 4 ('Resolution Vessels') describes: the Zeira-Asi exchange, the Rav Yannai proof attempt, the Rav Yaakov contradiction and its resolution (shema minah), followed by the mishnah challenge and the Abaye-Rava teaching about domains \u2014 exactly the sequence narrated in candidate 4's prose.",
+      "chosen_heading": "Resolution Vessels",
+      "current_heading": "Resolution Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Rental in Private Domain",
+    "candidates": [
+      "Meshicha Domain Transfer",
+      "Rental in Private Domain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question about who can be rented from in the public domain and the reinterpretation that the rental clause refers to goods in a privately-owned domain, which is precisely what the 'Rental in Private Domain' prose describes.",
+      "chosen_heading": "Rental in Private Domain",
+      "current_heading": "Rental in Private Domain",
+      "moved": false
+    }
+  }
+]

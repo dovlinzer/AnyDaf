@@ -1,0 +1,101 @@
+### Niddah 29a
+
+**1.**
+*Hebrew/Aramaic:* לְחַלֵּק בֵּין עֵרֶךְ אִישׁ לְעֵרֶךְ אִשָּׁה.
+*Translation:* in order **to differentiate between the valuation of a man and the valuation of a woman.** Therefore, it could not have been derived from that verse that a *tumtum* and a hermaphrodite are excluded from the *halakha* of valuations, were it not for the superfluous words “the” and “if.”
+
+**2.**
+*Hebrew/Aramaic:* יָצָא מְחוּתָּךְ אוֹ מְסוֹרָס וְכוּ׳. אָמַר רַבִּי אֶלְעָזָר: אֲפִילּוּ הָרֹאשׁ עִמָּהֶן.
+*Translation:* § The mishna teaches that if the fetus **emerged in pieces, or** if it emerged **reversed,** i.e., feetfirst rather than headfirst; when most of its limbs emerge, its status is like that of a child born, with regard to the impurity of a woman after childbirth. **Rabbi Elazar says: Even** if **the head is among** the limbs that emerged, provided that the majority of the limbs did not yet emerge, the fetus is not considered born.
+
+**3.**
+*Hebrew/Aramaic:* וְרַבִּי יוֹחָנָן אָמַר: לֹא שָׁנוּ אֶלָּא שֶׁאֵין הָרֹאשׁ עִמָּהֶן, אֲבָל הָרֹאשׁ עִמָּהֶן — הָרֹאשׁ פּוֹטֵר.
+*Translation:* **And Rabbi Yoḥanan says: They taught** in the mishna that the woman is not impure unless most of the fetus’s limbs emerged **only** in a case **where the head is not among** the limbs that emerged; **but** if **the head is among them, the head exempts** the woman’s future offspring from the obligation of primogeniture, as the fetus is considered born.
+
+**4.**
+*Hebrew/Aramaic:* לֵימָא בְּדִשְׁמוּאֵל קָמִיפַּלְגִי, דְּאָמַר שְׁמוּאֵל: אֵין הָרֹאשׁ פּוֹטֵר בִּנְפָלִים.
+*Translation:* The Gemara asks: **Shall we say** that these Sages **disagree with regard to** the opinion **of Shmuel? As Shmuel said** that if a woman is pregnant with twins, and **the head** of one of the fetuses emerges and then disappears back into the womb, this **does not exempt** the other fetus from the obligation of primogeniture should it be born first. Shmuel says this specifically **in** a case of **non-viable newborns,** i.e., where the fetus whose head emerged was a non-viable newborn and the one that was eventually born first is a viable offspring. But if both are viable offspring, the emergence of the head is considered birth. The suggestion is that Rabbi Elazar agrees with the opinion of Shmuel, whereas Rabbi Yoḥanan disagrees with the opinion of Shmuel and maintains that the emergence of the head is considered birth even in the case of a non-viable newborn.
+
+**5.**
+*Hebrew/Aramaic:* בְּשָׁלֵם — דְּכוּלֵּי עָלְמָא לָא פְּלִיגִי, כִּי פְּלִיגִי בִּמְחוּתָּךְ, דְּמָר סָבַר: בְּשָׁלֵם הוּא דְּקָחָשֵׁיב, בִּמְחוּתָּךְ לָא קָחָשֵׁיב, וּמָר סָבַר: בַּמְחוּתָּךְ נָמֵי חָשֵׁיב.
+*Translation:* The Gemara rejects this suggestion, as it is possible that **in** the case of **a whole** non-viable newborn, **everyone,** i.e., Rabbi Elazar and Rabbi Yoḥanan, **agrees** that the emergence of the head is considered a birth, contrary to the opinion of Shmuel. **When they disagree,** it is **in** the case of a fetus that emerged **in pieces. As** one **Sage,** Rabbi Elazar, **holds** that **it is** specifically **in** the case of **a whole** non-viable newborn **that** the emergence of the head **is considered** birth, whereas **with regard to** a fetus that emerged **in pieces** it **is not considered** birth; **and** one **Sage,** Rabbi Yoḥanan, **holds** that **in** the case of a fetus that emerged **in pieces as well,** the emergence of the head **is considered** birth.
+
+**6.**
+*Hebrew/Aramaic:* לִישָּׁנָא אַחֲרִינָא: טַעְמָא דְּיָצָא מְחוּתָּךְ אוֹ מְסוֹרָס, הָא כְּתִקְנוֹ — הָרֹאשׁ פּוֹטֵר. תַּרְוַיְיהוּ לֵית לְהוּ דִּשְׁמוּאֵל, דְּאָמַר שְׁמוּאֵל: אֵין הָרֹאשׁ פּוֹטֵר בִּנְפָלִים.
+*Translation:* The Gemara cites **another version** of this discussion. **The reason** it is necessary for most of the limbs of the fetus to emerge for it to be considered born is **that it emerged in pieces, or** that it emerged **reversed,** i.e., feet first. It may be inferred from here that if it emerged **in its proper manner,** headfirst and whole, it is considered born, even according to Rabbi Elazar. Therefore, if the woman is pregnant with twins, the emergence of **the head exempts** the other twin from the obligations of primogeniture. Evidently, **both** Rabbi Yoḥanan and Rabbi Elazar **do not hold** in accordance with the opinion **of Shmuel, as Shmuel said** that the emergence of **the head** of one of the twins **does not exempt** the other **in** a case of **non-viable newborns.**
+
+**7.**
+*Hebrew/Aramaic:* אִיכָּא דְמַתְנֵי לַהּ לְהָא שְׁמַעְתְּתָא בְּאַפֵּי נַפְשַׁהּ, אָמַר רַבִּי אֶלְעָזָר: אֵין הָרֹאשׁ כְּרוֹב אֵבָרִים, וְרַבִּי יוֹחָנָן אָמַר: הָרֹאשׁ כְּרוֹב אֵבָרִים, וְקָמִיפַּלְגִי בְּדִשְׁמוּאֵל.
+*Translation:* **There are those who teach this *halakha* by itself,** i.e., not in reference to the mishna: **Rabbi Elazar says:** The emergence of **the head** of a non-viable newborn **is not** considered **like** the emergence of **most of the limbs; and Rabbi Yoḥanan says:** The emergence of **the head** of a non-viable newborn **is** considered **like** the emergence of **most of the limbs. And they disagree with regard to** the opinion **of Shmuel;** Rabbi Elazar holds in accordance with Shmuel’s opinion, whereas Rabbi Yoḥanan does not accept the opinion of Shmuel.
+
+**8.**
+*Hebrew/Aramaic:* תְּנַן: יָצָא מְחוּתָּךְ אוֹ מְסוֹרָס, מִשֶּׁיֵּצֵא רוּבּוֹ — הֲרֵי הוּא כְּיָלוּד. מִדְּקָאָמַר ״מְסוֹרָס״, מִכְּלָל דִּמְחוּתָּךְ כְּתִקְנוֹ, וְקָאָמַר מִשֶּׁיֵּצֵא רוּבּוֹ הֲרֵי זֶה כְּיָלוּד — קַשְׁיָא לְרַבִּי יוֹחָנָן!
+*Translation:* The Gemara raises a difficulty: **We learned** in the mishna that if the fetus **emerged in pieces or** if it emerged **reversed, when most of its** limbs **emerge,** its status **is like** that of a child **born.** The Gemara infers: **From the fact that** the mishna **states: Or reversed, by inference** in the case of a fetus **that** emerged **in pieces** it emerged **in its proper manner,** i.e., the head first and then the body, **and** nevertheless the mishna **states** that it is only **when most of its** limbs **emerge** that its status **is like** that of a child **born.** This is **difficult for** the opinion of **Rabbi Yoḥanan,** as he maintains that once the head emerges, the fetus is considered born.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר לָךְ רַבִּי יוֹחָנָן, אֵימָא: יָצָא מְחוּתָּךְ וּמְסוֹרָס.
+*Translation:* The Gemara explains that **Rabbi Yoḥanan** could have **said to you: Say** that the mishna is referring to a case where the fetus **emerged in pieces and reversed,** whereas if it emerged with its head first, it is considered born even if most of its limbs did not emerge yet.
+
+**10.**
+*Hebrew/Aramaic:* וְהָא ״אוֹ״ קָתָנֵי! הָכִי קָאָמַר: יָצָא מְחוּתָּךְ אוֹ שָׁלֵם, וְזֶה וָזֶה מְסוֹרָס — מִשֶּׁיֵּצֵא רוּבּוֹ הֲרֵי זֶה כְּיָלוּד.
+*Translation:* The Gemara asks: **But doesn’t** the mishna **teach** that the fetus emerged in pieces **or** reversed? If so, it cannot be explained as referring to a case where the fetus emerged both in pieces and reversed. The Gemara answers that **this** is what the mishna **is saying:** If the fetus **emerged in pieces or whole, and** in both **this** case **and that** case it emerged **reversed,** then **when most of its** limbs **emerge,** its status **is like** that of a child **born.**
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַב פָּפָּא: כְּתַנָּאֵי, יָצָא מְחוּתָּךְ אוֹ מְסוֹרָס — מִשֶּׁיֵּצֵא רוּבּוֹ הֲרֵי הוּא כְּיָלוּד. רַבִּי יוֹסֵי אוֹמֵר: מִשֶּׁיֵּצֵא כְּתִקְנוֹ. מַאי קָאָמַר?
+*Translation:* **Rav Pappa says:** This dispute between Rabbi Elazar and Rabbi Yoḥanan is **parallel to** a dispute between ***tanna’im*,** as it is stated in a *baraita*: If the fetus **emerged in pieces or reversed, when most of its** limbs **emerge** its status **is like** that of a child **born. Rabbi Yosei says:** Its status is like that of a child born **when it emerges in its proper manner.** The Gemara asks: **What is** Rabbi Yosei **saying?** His statement apparently indicates that if a fetus emerges with its feet first, then even after most of its limbs emerge it is not considered born.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַב פָּפָּא, הָכִי קָאָמַר: יָצָא מְחוּתָּךְ וּמְסוֹרָס — מִשֶּׁיֵּצֵא רוּבּוֹ הֲרֵי הוּא כְּיָלוּד, הָא כְּתִקְנוֹ — הָרֹאשׁ פּוֹטֵר. רַבִּי יוֹסֵי אוֹמֵר: מִשֶּׁיֵּצֵא רוּבּוֹ כְּתִקְנוֹ.
+*Translation:* **Rav Pappa says** that **this** is what the *baraita* **is saying:** If the fetus **emerged in pieces or reversed, when most of its** limbs **emerge** its status **is like** that of a child **born; but** by inference, if the fetus emerged **in its proper manner,** then the emergence of **the head exempts** its twin, should it eventually be born first, from the obligations of primogeniture. And **Rabbi Yosei says:** The status of a fetus that emerged in pieces is like that of a child born **when most of its** limbs **emerge,** provided that it emerged **in its proper manner,** i.e., both requirements are necessary. The suggestion is that the opinion of Rabbi Yoḥanan is in accordance with the ruling of the first *tanna*, that even if a fetus emerges in pieces, once its head emerges it is considered born; whereas the opinion of Rabbi Elazar follows the ruling of Rabbi Yosei that even if such a fetus emerges headfirst, it is not considered born.
+
+**13.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב זְבִיד: מִכְּלָל דְּבִמְסוֹרָס, רוּבּוֹ נָמֵי לֹא פּוֹטֵר? הָא קַיְימָא לַן דְּרוּבּוֹ כְּכוּלּוֹ!
+*Translation:* **Rav Zevid objects to** Rav Pappa’s interpretation of the *baraita*: Since Rabbi Yosei issued his statement that both requirements are necessary, i.e., a majority of limbs and emergence in the proper manner, with regard to the two cases mentioned by the first *tanna*, **by inference in** the other case, **where** the fetus emerged **reversed, even** when **most of its** limbs emerge **it does not exempt** its twin from the obligations of primogeniture. But this is difficult, as **we maintain that the majority of** an item is considered **like all** of it. Accordingly, when most of the fetus’s limbs emerge it should be considered born even if it came out feetfirst.
+
+**14.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב זְבִיד, הָכִי קָאָמַר: יָצָא מְחוּתָּךְ וּמְסוֹרָס — מִשֶּׁיֵּצֵא רוּבּוֹ הֲרֵי זֶה כְּיָלוּד, הָא כְּתִקְנוֹ — הָרֹאשׁ פּוֹטֵר. רַבִּי יוֹסֵי אוֹמֵר: מִשֶּׁיֵּצֵא כְּתִקְנוֹ לְחַיִּים.
+*Translation:* **Rather, Rav Zevid says** that **this** is what the *baraita* **is saying:** If the fetus **emerged in pieces and reversed, when most of its** limbs **emerge** its status **is like** that of a child **born; but** by inference, if the fetus emerged **in its proper manner** then the emergence of **the head exempts** its twin from the obligations of primogeniture, even if it was born in pieces. **Rabbi Yosei says:** The fetus is considered born once its head emerges only in a case **when it emerges in its proper manner alive;** if it emerges in pieces, the fetus is considered born only when most of its limbs emerge.
+
+**15.**
+*Hebrew/Aramaic:* תַּנְיָא נָמֵי הָכִי: יָצָא מְחוּתָּךְ (אוֹ) מְסוֹרָס — מִשֶּׁיֵּצֵא רוּבּוֹ הֲרֵי זֶה כְּיָלוּד, הָא כְּתִקְנוֹ — הָרֹאשׁ פּוֹטֵר. רַבִּי יוֹסֵי אוֹמֵר: מִשֶּׁיֵּצֵא כְּתִקְנוֹ לְחַיִּים.
+*Translation:* **This** explanation **is also taught** explicitly in another *baraita*: If the fetus **emerged in pieces** and **reversed,** then **when most of its** limbs **emerge** its status **is like** that of a child **born; but** if the fetus emerged **in its proper manner,** the emergence of **the head exempts** its twin. **Rabbi Yosei says:** The fetus is considered born once its head emerges only in a case **where it emerges in its proper manner alive.**
+
+**16.**
+*Hebrew/Aramaic:* וְאֵיזֶהוּ כְּתִקְנוֹ לְחַיִּים? מִשֶּׁיֵּצֵא רוֹב רֹאשׁוֹ. וְאֵיזֶהוּ רוֹב רֹאשׁוֹ? רַבִּי יוֹסֵי אוֹמֵר: מִשֶּׁיֵּצְאוּ צְדָעָיו. אַבָּא חָנָן מִשּׁוּם רַבִּי יְהוֹשֻׁעַ אוֹמֵר: (מִשֶּׁיֵּצֵא) [מִשֶּׁתֵּצֵא] פַּדַּחְתּוֹ. וְיֵשׁ אוֹמְרִים: מִשֶּׁיֵּרָאוּ קַרְנֵי רֹאשׁוֹ.
+*Translation:* **And what is** the exact stage when a fetus that emerged **in its proper manner alive** is considered born? **When most of its head emerges. And what is** the stage when **most of its head** emerges? **Rabbi Yosei says: When its temples emerge. Abba Ḥanan says in the name of Rabbi Yehoshua: When its forehead emerges. And some say: When the corners of its head,** i.e., the projection of the head above the neck, **are visible.**
+
+**17.**
+*Hebrew/Aramaic:* מַתְנִי' הַמַּפֶּלֶת וְאֵין יָדוּעַ מַהוּ — תֵּשֵׁב לְזָכָר וְלִנְקֵבָה. אֵין יָדוּעַ אִם וָלָד הָיָה אִם לָאו — תֵּשֵׁב לְזָכָר וְלִנְקֵבָה וּלְנִדָּה.
+*Translation:* MISHNA: In the case of a woman **who discharges and it is not known what is** the fetus’s sex, she **shall observe** the strictures of a woman who gave birth both **to a male and to a female.** She is impure for fourteen days, like a woman who gave birth to a female, and any blood the woman sees only until forty days after birth, not eighty days thereafter, is pure, like a woman who gave birth to a male. If **it is unknown whether it was** a male or female **offspring** or **whether** it was **not** an offspring at all, **she shall observe** the period of impurity **for** a woman who gave birth to **a male and for** a woman who gave birth to **a female; and for** any blood that she sees, she observes the *halakhot* of **a menstruating woman.** Since it is possible that what she discharged was not an offspring at all, any blood she sees might be due to menstruation, not childbirth.
+
+**18.**
+*Hebrew/Aramaic:* גְּמָ' אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: עָבְרָה נָהָר וְהִפִּילָה — מְבִיאָה קׇרְבָּן וְנֶאֱכָל, הַלֵּךְ אַחַר רוֹב נָשִׁים, וְרוֹב נָשִׁים וָלָד מְעַלְּיָא יָלְדָן.
+*Translation:* GEMARA: **Rabbi Yehoshua ben Levi says:** With regard to a pregnant woman who **passed across a river and she discharged** her fetus into the river, and she does not know whether the fetus was fully formed, **she brings** the **offering** of a woman after childbirth, which is a burnt offering and a sin offering. **And** the sin offering, which is a bird, **is eaten** after the nape of its neck has been pinched, in the manner of a regular bird sin offering. This is the *halakha* despite the uncertainty that this fetus might not have been fully formed, in which case the woman would not be obligated to bring this offering, and a bird that is not an offering may not be eaten if its nape was pinched. Rabbi Yehoshua ben Levi explains the reasoning behind this ruling: One must **follow the majority of** pregnant **women, and most** pregnant **women give birth to full-fledged offspring.**
+
+**19.**
+*Hebrew/Aramaic:* תְּנַן: אֵין יָדוּעַ אִם וָלָד הָיָה, תֵּשֵׁב לְזָכָר וְלִנְקֵבָה וּלְנִדָּה. אַמַּאי תֵּשֵׁב לְנִדָּה? לֵימָא: הַלֵּךְ אַחַר רוֹב נָשִׁים, וְרוֹב נָשִׁים וָלָד מְעַלְּיָא יָלְדָן.
+*Translation:* The Gemara analyzes this claim. **We learned** in the mishna: If **it is unknown whether** what the woman discharged **was** a male or female **offspring** or whether it was not an offspring at all, **she shall observe** the period of impurity **for** a woman who gave birth to **a male and for** a woman who gave birth to **a female; and for** any blood that she sees, she observes the *halakhot* of **a menstruating woman.** The Gemara asks: According to the statement of Rabbi Yehoshua ben Levi, **why must** the woman **observe** the *halakhot* of **a menstruating woman? Let us say** that one must **follow the majority of women, and the majority of women give birth to full-fledged offspring.** If so, she should observe a period of purity, during which any blood she sees is pure, after her period of impurity, like all women after childbirth.
+
+**20.**
+*Hebrew/Aramaic:* מַתְנִיתִין בְּשֶׁלֹּא הוּחְזְקָה עוּבָּרָה, וְכִי קָאָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי — כְּשֶׁהוּחְזְקָה עוּבָּרָה.
+*Translation:* The Gemara answers: The *halakha* in **the mishna** is referring **to** a case **where** the woman **had not been presumed** to be **pregnant** prior to her miscarriage; **and when Rabbi Yehoshua ben Levi says** that a woman who discharges is presumed to have discharged an offspring, he was speaking of a case **where** the woman **had been presumed** to be **pregnant** prior to her miscarriage.
+
+**21.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: בְּהֵמָה שֶׁיָּצְאָה מְלֵאָה, וּבָאָה רֵיקָנִית — הַבָּא אַחֲרָיו בְּכוֹר מִסָּפֵק.
+*Translation:* The Gemara suggests: **Come** and **hear** a difficulty with regard to the opinion of Rabbi Yehoshua ben Levi from a *baraita*: There is the case of a kosher **animal** that had not yet given birth, **which went** to the pasture **full,** i.e., pregnant, **and came** back the same day **empty,** i.e., with no live offspring.It clearly discharged, but it is unknown whether or not it discharged an offspring, which would exempt the animal’s subsequent offspring from the status of a firstborn. In this case, the offspring **that comes after it** is **a firstborn** of **uncertain** status.
+
+**22.**
+*Hebrew/Aramaic:* וְאַמַּאי? הַלֵּךְ אַחַר רוֹב בְּהֵמוֹת, וְרוֹב בְּהֵמוֹת וָלָד מְעַלְּיָא יָלְדָן, וְהַאי פָּשׁוּט הוּא!
+*Translation:* The Gemara asks: **But why** is this the *halakha*? According to Rabbi Yehoshua ben Levi, one should **follow** the reality among **the majority of animals, and the majority of animals give birth to full-fledged offspring. And** if so, **this** subsequent offspring of the animal **is a regular** offspring, i.e., it is definitely not a firstborn.
+
+**23.**
+*Hebrew/Aramaic:* אָמַר רָבִינָא, מִשּׁוּם דְּאִיכָּא לְמֵימַר: רוֹב בְּהֵמוֹת יוֹלְדוֹת דָּבָר הַפּוֹטֵר מִבְּכוֹרָה, וּמִעוּטָן יוֹלְדוֹת דָּבָר שֶׁאֵינוֹ פּוֹטֵר מִבְּכוֹרָה, וְכׇל הַיּוֹלְדוֹת מְטַנְּפוֹת, וְזוֹ הוֹאִיל וְלֹא טִנְּפָה — אִתְּרַע לֵהּ רוּבָּא.
+*Translation:* **Ravina says** in response: In this case, the *halakha* does not follow the majority of animals, **because it can be said** that **the majority of animals give birth to an item that exempts** the animal’s subsequent offspring **from firstborn** status, **but a minority of** animals **give birth to an item that does not exempt** the animal’s subsequent offspring **from firstborn** status, i.e., an item that is not a full-fledged offspring. **And** an additional factor is that **all** animals **that give birth** to full-fledged offspring **discharge turbid liquids** one day before giving birth, **and since this** animal **did not discharge turbid liquids** before going to the pasture, **the** effect of the **majority is undermined.** Consequently, the status of the animal’s birth is uncertain, and for this reason its subsequent offspring is considered a firstborn of uncertain status.
+
+**24.**
+*Hebrew/Aramaic:* אִי כׇּל הַיּוֹלְדוֹת מְטַנְּפוֹת, הָא מִדְּלָא מְטַנְּפָה בְּכוֹר מְעַלְּיָא הוּא! אֶלָּא אֵימָא: רוֹב יוֹלְדוֹת מְטַנְּפוֹת, וְזוֹ הוֹאִיל וְלֹא טִנְּפָה — אִתְּרַע לֵהּ רוּבָּא.
+*Translation:* The Gemara raises a difficulty: **If all** animals **that give birth** to full-fledged offspring **discharge turbid liquids** before giving birth, then it should be concluded **from** the fact **that this** animal **did not discharge turbid liquids** that it did not discharge a full-fledged offspring, and therefore the animal’s subsequent offspring **is a proper firstborn,** not a firstborn of uncertain status. **Rather,** one should **say** that Ravina meant the following: **The majority of** animals that **give birth discharge turbid liquids** beforehand, **and** therefore, **since this** animal **did not discharge turbid liquids, the** effect of the **majority is undermined.**
+
+**25.**
+*Hebrew/Aramaic:* כִּי אֲתָא רַבִּין אָמַר: מֵתִיב רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא טוֹעָה, וְלָא יָדַעְנָא מַאי תְּיוּבְתָּא. מַאי הִיא? דְּתַנְיָא:
+*Translation:* § **When Ravin came** from Eretz Yisrael to Babylonia, **he said: Rabbi Yosei, son of Rabbi Ḥanina, raises an objection** to the opinion of Rabbi Yehoshua ben Levi from the *halakha* of **a forgetful woman; but I do not know what the objection is.** The Gemara asks: This *halakha* of a forgetful woman, which forms the basis of the objection, **what is it?** The Gemara explains: **As it is taught** in a *baraita*:

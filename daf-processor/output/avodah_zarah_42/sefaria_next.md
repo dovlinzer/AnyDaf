@@ -71,3 +71,88 @@
 **18.**
 *Hebrew/Aramaic:* אָמַר אַבָּיֵי:
 *Translation:* **Abaye said:**
+
+
+---
+
+### Avodah Zarah 43b
+
+**1.**
+*Hebrew/Aramaic:* לֹא אָסְרָה תּוֹרָה אֶלָּא בִּדְמוּת אַרְבָּעָה פָּנִים בַּהֲדֵי הֲדָדֵי.
+*Translation:* This does not include the sun and the moon, as **the Torah prohibits** the fashioning **only** of **a figure of** all **four faces** of the creatures of the Divine Chariot **together** (see Ezekiel 1:10). All other figures, which are not in the likeness of the ministering angels, are permitted.
+
+**2.**
+*Hebrew/Aramaic:* אֶלָּא מֵעַתָּה, פַּרְצוּף אָדָם לְחוֹדֵיהּ תִּשְׁתְּרֵי! אַלְּמָה תַּנְיָא: כׇּל הַפַּרְצוּפוֹת מוּתָּרִין, חוּץ מִפַּרְצוּף אָדָם?
+*Translation:* The Gemara raises a difficulty: **If that is so, let** the fashioning of a figure of **a human face alone be permitted. Why** then **is it taught** in a *baraita*: Figures of **all faces are permitted, except for the human face?**
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: מִפִּרְקֵיהּ דְּרַבִּי יְהוֹשֻׁעַ שְׁמִיעַ לִי, ״לֹא תַעֲשׂוּן אִתִּי״ — לֹא תַעֲשׂוּן אוֹתִי, אֲבָל שְׁאָר שַׁמָּשִׁין שְׁרֵי.
+*Translation:* **Rav Yehuda, son of Rav Yehoshua, said: I heard in a lecture of Rabbi Yehoshua** that there is a different reason why one may not fashion a figure of a human face; the verse states: **“You shall not make with Me [*iti*]”** (Exodus 20:20). This can be read as: **You shall not make Me [*oti*].** Since the human being was created in the image of God (see Genesis 1:27), it is prohibited to fashion an image of a human being. **But** fashioning figures of **other attendants** of God is **permitted.**
+
+**4.**
+*Hebrew/Aramaic:* וּשְׁאָר שַׁמָּשִׁין מִי שְׁרֵי? וְהָתַנְיָא: ״לֹא תַעֲשׂוּן אִתִּי״ — לֹא תַעֲשׂוּן כִּדְמוּת שַׁמָּשַׁי הַמְשַׁמְּשִׁין לְפָנַי בְּמָרוֹם, כְּגוֹן אוֹפַנִּים וּשְׂרָפִים וְחַיּוֹת הַקֹּדֶשׁ וּמַלְאֲכֵי הַשָּׁרֵת!
+*Translation:* The Gemara asks: **And is it permitted** to fashion figures of **other attendants** of God? **But isn’t it taught** in another *baraita* that the verse: **“You shall not make with Me** gods of silver” (Exodus 20:20), is interpreted to mean that **you shall not make figures of My attendants who serve before Me on high, for example, *ofanim*, and seraphim, and the sacred *ḥayyot*, and the ministering angels?**
+
+**5.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: לֹא אָסְרָה תּוֹרָה אֶלָּא שַׁמָּשִׁין שֶׁבַּמָּדוֹר הָעֶלְיוֹן.
+*Translation:* **Abaye said: The Torah prohibits** fashioning figures of **only** those **attendants that are in the upper heaven,** i.e., the supreme angels in the highest firmament, but it does not prohibit fashioning the celestial bodies, e.g., the sun and the moon, despite the fact that they too are located in heaven.
+
+**6.**
+*Hebrew/Aramaic:* וְשֶׁבְּמָדוֹר הַתַּחְתּוֹן מִי שְׁרֵי? וְהָתַנְיָא: ״אֲשֶׁר בַּשָּׁמַיִם״ — לְרַבּוֹת חַמָּה וּלְבָנָה כּוֹכָבִים וּמַזָּלוֹת, ״מִמַּעַל״ — לְרַבּוֹת מַלְאֲכֵי הַשָּׁרֵת!
+*Translation:* The Gemara asks: **And is it permitted** to fashion figures of those bodies **that are in the lower heaven? But isn’t it taught** in a *baraita* with regard to the verse: “You shall not make for yourself any graven image, nor any manner of likeness, of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth” (Exodus 20:4): The phrase **“that is in heaven”** serves **to include** the **sun, and** the **moon,** the **stars, and** the **constellations.** The term **“above”** serves **to include the ministering angels.** Apparently, it is prohibited to fashion a figure even of the celestial bodies that are in the lower heaven.
+
+**7.**
+*Hebrew/Aramaic:* כִּי תַּנְיָא הָהִיא, לְעוֹבְדָם.
+*Translation:* The Gemara answers: **When that** *baraita* **is taught,** it is in reference **to** the prohibition against **worshipping them.** There is no prohibition against forming a figure in their likeness.
+
+**8.**
+*Hebrew/Aramaic:* אִי לְעוֹבְדָם, אֲפִילּוּ שִׁילְשׁוּל קָטָן נָמֵי! אִין הָכִי נָמֵי, וּמִסֵּיפֵיהּ דִּקְרָא נָפְקָא, דְּתַנְיָא: ״אֲשֶׁר בָּאָרֶץ״ — לְרַבּוֹת יַמִּים וּנְהָרוֹת הָרִים וּגְבָעוֹת, ״מִתַּחַת״ — לְרַבּוֹת שִׁילְשׁוּל קָטָן.
+*Translation:* The Gemara asks: **If** that *baraita* is referring **to** the prohibition against **worshipping them,** then why does it mention only celestial bodies? It is prohibited to worship **even a tiny worm.** The Gemara answers: **Yes, it is indeed so; and** this prohibition **is derived from the latter clause of that verse, as it is taught** in a *baraita*: **“That is in the earth”** serves **to include seas, and rivers, mountains, and hills.** The word **“beneath”** serves **to include a tiny worm.**
+
+**9.**
+*Hebrew/Aramaic:* וַעֲשִׂיָּיה גְּרֵידְתָּא מִי שְׁרֵי? וְהָתַנְיָא: ״לֹא תַעֲשׂוּן אִתִּי״ — לֹא תַעֲשׂוּן כִּדְמוּת שַׁמָּשַׁי הַמְשַׁמְּשִׁין לְפָנַי בַּמָּרוֹם, כְּגוֹן: חַמָּה וּלְבָנָה, כּוֹכָבִים וּמַזָּלוֹת.
+*Translation:* The Gemara asks: **And is the mere fashioning** of figures of the celestial bodies **permitted? But isn’t it taught** in another *baraita* that the verse: **“You shall not make with Me** gods of silver” (Exodus 20:20), is interpreted to mean that **you shall not make figures of My attendants who serve before Me on high, for example:** The **sun, and** the **moon,** the **stars, and** the **constellations.** This is proof that it is prohibited to fashion figures of the sun and the moon. Consequently, the solution proposed by Abaye is rejected, leaving the difficulty of Rabban Gamliel’s diagram unresolved.
+
+**10.**
+*Hebrew/Aramaic:* שָׁאנֵי רַבָּן גַּמְלִיאֵל, דַּאֲחֵרִים עָשׂוּ לוֹ.
+*Translation:* The Gemara proposes an alternative resolution: The case of **Rabban Gamliel is different, as others,** i.e., gentiles, **fashioned** those figures **for him,** and it is prohibited for a Jew only to fashion such figures; there is no prohibition against having them in one’s possession.
+
+**11.**
+*Hebrew/Aramaic:* וְהָא רַב יְהוּדָה, דַּאֲחֵרִים עָשׂוּ לוֹ, וַאֲמַר לֵיהּ שְׁמוּאֵל לְרַב יְהוּדָה: שִׁינָּנָא, סַמִּי עֵינֵיהּ דְּדֵין!
+*Translation:* The Gemara asks: **But** there is the case of **Rav Yehuda, where others fashioned for him** a seal with a figure of a person on it, **and Shmuel said to Rav Yehuda,** who was his student: **Sharp-witted one [*shinnana*], destroy this one’s eyes,** i.e., disfigure it, as it is prohibited even to have a figure of a human being in one’s possession.
+
+**12.**
+*Hebrew/Aramaic:* הָתָם בְּחוֹתָמוֹ בּוֹלֵט, וּמִשּׁוּם חֲשָׁדָא, דְּתַנְיָא: טַבַּעַת שֶׁחוֹתָמָהּ בּוֹלֵט — אָסוּר לְהַנִּיחָהּ, וּמוּתָּר לַחְתּוֹם בָּהּ. חוֹתָמָהּ שׁוֹקֵעַ — מוּתָּר לְהַנִּיחָהּ, וְאָסוּר לַחְתּוֹם בָּהּ.
+*Translation:* The Gemara answers: **There, in** the case of Rav Yehuda, **his was a protruding seal,** i.e., the figure projected from the ring, **and** Shmuel prohibited it **due to** the potential **suspicion** that he had an object of idol worship in his possession. **As it is taught** in a *baraita*: In the case of **a ring whose seal protrudes,** it is **prohibited to place it** on one’s finger due to suspicion of idol worship, **but** it is **permitted to seal** objects **with it.** In this case, the act of sealing forms a figure that is sunken below the surface of the object upon which the seal was impressed, which is not prohibited. If **its seal is sunken,** it is **permitted to place it** on one’s finger, **but** it is **prohibited to seal** objects **with it,** as that forms a protruding figure.
+
+**13.**
+*Hebrew/Aramaic:* וּמִי חָיְישִׁינַן לַחֲשָׁדָא? וְהָא בֵּי כְנִישְׁתָּא דְּשַׁף וִיתֵיב בִּנְהַרְדְּעָא, (דְּאוֹקְמִי) [דְּאוֹקִימוּ] בֵּיהּ אִנְדְּרָטָא, וַהֲווֹ עָיְילִי בֵּיהּ אֲבוּהּ דִּשְׁמוּאֵל וְלֵוִי וּמְצַלּוּ בְּגַוֵּיהּ, וְלָא חָיְישִׁי לַחֲשָׁדָא! רַבִּים שָׁאנֵי.
+*Translation:* The Gemara asks: **And are we concerned about** arousing **suspicion** due to the use of a human figure? **But** what about that **synagogue that had been destroyed** in Eretz Yisrael **and was reestablished in Neharde’a,** and **they erected a statue** of the king **in it? And** nevertheless, **Shmuel’s father and Levi would enter and pray in it, and they were not concerned about** arousing **suspicion.** The Gemara answers: **A public** institution **is different;** the public is not suspected of having idolatrous intentions. Rather, it is assumed that the statue is there exclusively for ornamental purposes.
+
+**14.**
+*Hebrew/Aramaic:* וְהָא רַבָּן גַּמְלִיאֵל דְּיָחִיד הֲוָה? כֵּיוָן דְּנָשִׂיא הוּא, שְׁכִיחִי רַבִּים גַּבֵּיהּ. וְאִיבָּעֵית אֵימָא: דִּפְרָקִים הֲוַאי.
+*Translation:* The Gemara asks: **But wasn’t Rabban Gamliel an individual?** According to this reasoning, his figures of the moon should have been forbidden as they would have aroused suspicion. The Gemara answers: **Since he was the *Nasi*,** the head of the Sanhedrin, members of **the public** would often **be found with him,** and therefore there was no room for suspicion. **And if you wish, say** there is an alternative answer, namely, **that** these figures were not whole; rather, they **were** formed from **pieces** of figures that had to be assembled. Only complete figures are forbidden.
+
+**15.**
+*Hebrew/Aramaic:* וְאִיבָּעֵית אֵימָא, לְהִתְלַמֵּד שָׁאנֵי, דְּתַנְיָא: ״לֹא תִלְמַד לַעֲשׂוֹת״, אֲבָל אַתָּה לָמֵד לְהָבִין וּלְהוֹרוֹת.
+*Translation:* **And if you wish, say** there is yet another answer: Fashioning figures in order **to teach oneself is different, as it is taught** in a *baraita* with regard to the verse: **“You shall not learn to do** like the abominations of those nations” (Deuteronomy 18:9): **But you may learn** in order **to understand** the matter yourself **and teach** it to others. In other words, it is permitted to perform certain acts for the sake of Torah study that would otherwise be prohibited.
+
+**16.**
+*Hebrew/Aramaic:* רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר וְכוּ׳. אֵיזוֹ הֵן מְכוּבָּדִין, וְאֵיזוֹ הֵן מְבוּזִּין?
+*Translation:* § The mishna (42b) teaches that **Rabban Shimon ben Gamliel says:** Those figures that are upon respectable vessels are forbidden. Those that are upon disgraceful vessels are permitted. The Gemara asks: **Which** vessels **are** considered **respectable and which are** considered **disgraceful?**
+
+**17.**
+*Hebrew/Aramaic:* אָמַר רַב: מְכוּבָּדִין — לְמַעְלָה מִן הַמַּיִם, מְבוּזִּין — לְמַטָּה מִן הַמַּיִם. וּשְׁמוּאֵל אָמַר: אֵלּוּ וָאֵלּוּ מְבוּזִּין הֵן, אֶלָּא אֵלּוּ הֵן מְכוּבָּדִין — שֶׁעַל הַשֵּׁירִין וְעַל הַנְּזָמִים וְעַל הַטַּבָּעוֹת.
+*Translation:* **Rav says:** These terms do not represent different types of vessels, but rather the location of the figure upon the vessel. **A respectable** location for an idolatrous figure is on the side of the vessel **above** the level of **the water** or food contents; **a disgraceful** location is **below the water** level. **And Shmuel says:** Both **these and those** locations on eating utensils **are disgraceful. Rather, these are respectable** locations: **Upon bracelets, or upon nose rings, or upon rings.**
+
+**18.**
+*Hebrew/Aramaic:* תַּנְיָא כְּוָותֵיהּ דִּשְׁמוּאֵל: מְכוּבָּדִין — שֶׁעַל הַשֵּׁירִין, וְעַל הַנְּזָמִים, וְעַל הַטַּבָּעוֹת; מְבוּזִּין — שֶׁעַל הַיּוֹרוֹת, וְעַל הַקּוּמְקְמֹסִין, וְעַל מְחַמֵּי חַמִּים, וְשֶׁעַל הַסְּדִינִין, וְעַל הַמִּטְפָּחוֹת.
+*Translation:* The Gemara comments: **It is taught** in a *baraita* **in accordance with** the opinion **of Shmuel** (*Tosefta* 5:1): **Respectable** locations for idolatrous figures are **upon bracelets, or upon nose rings, or upon rings. Disgraceful** locations are **upon** large **pots, or upon** small **kettles [*hakumkemasin*], or upon samovars, or upon sheets, or upon towels.**
+
+**19.**
+*Hebrew/Aramaic:* מַתְנִי׳ רַבִּי יוֹסֵי אוֹמֵר: שׁוֹחֵק וְזוֹרֶה לָרוּחַ, אוֹ מֵטִיל לַיָּם. אָמְרוּ לוֹ: אַף הוּא נַעֲשֶׂה זֶבֶל, שֶׁנֶּאֱמַר: ״לֹא יִדְבַּק בְּיָדְךָ מְאוּמָה מִן הַחֵרֶם״.
+*Translation:* MISHNA: **Rabbi Yosei says:** When one encounters an idol, he should **grind** the idol **and throw** the dust **to the wind or cast** it **into the sea.** The Rabbis **said to him:** What is the good of that? **That also** gives a Jew benefit from the idol, as it **becomes fertilizer** for his crops, **and** deriving any kind of benefit is prohibited, as **it is stated:** “And **nothing of the proscribed items shall cleave to your hand”** (Deuteronomy 13:18).
+
+**20.**
+*Hebrew/Aramaic:* גְּמָ׳ תַּנְיָא, אָמַר לָהֶם רַבִּי יוֹסֵי, וַהֲלֹא כְּבָר נֶאֱמַר: ״וְאֶת חַטַּאתְכֶם
+*Translation:* GEMARA: **It is taught** in a *baraita* (*Tosefta* 3:16): **Rabbi Yosei said to them: But isn’t it already stated: “And your sin,**

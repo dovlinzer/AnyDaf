@@ -111,3 +111,96 @@
 **28.**
 *Hebrew/Aramaic:* אָמַר רַבִּי יִצְחָק בַּר יוֹסֵף אָמַר רַבִּי יוֹחָנָן: אֶרֶץ יִשְׂרָאֵל אֵין חַיָּיבִין עָלֶיהָ מִשּׁוּם רְשׁוּת הָרַבִּים. יָתֵיב רַב דִּימִי וְקָאֲמַר לֵיהּ לְהָא שְׁמַעְתָּא. אֲמַר לֵיהּ אַבָּיֵי לְרַב דִּימִי: מַאי טַעְמָא?
 *Translation:* **Rabbi Yitzḥak bar Yosef said** that **Rabbi Yoḥanan said:** In **Eretz Yisrael one is not liable for** carrying in **the public domain. Rav Dimi sat and recited this *halakha*. Abaye said to Rav Dimi: What is the reason** underlying this ruling?
+
+
+---
+
+### Eruvin 22b
+
+**1.**
+*Hebrew/Aramaic:* אִילֵּימָא מִשּׁוּם דְּמַקֵּיף לַהּ סוּלְּמָא דְצוֹר מֵהָךְ גִּיסָא וּמַחְתָנָא דְגָדֵר מֵהָךְ גִּיסָא — בָּבֶל נָמֵי, מַקִּיף לֵהּ פְּרָת מֵהָךְ גִּיסָא וְדִיגְלַת מֵהַאי גִּיסָא! דְּכוּלָּא עָלְמָא נָמֵי מַקִּיף אוֹקְיָינוֹס! דִּילְמָא מַעֲלוֹת וּמוֹרָדוֹת קָאָמְרַתְּ?
+*Translation:* **If you say** this law **because** Eretz Yisrael **is surrounded by the Ladder of Tyre on one side and the slope of Gader on the other side,** each formation being over ten handbreadths high and constituting a valid partition, then **Babylonia,** which **is also surrounded by** the **Euphrates** River **on one side and** the **Tigris** River **on the other side,** should not be considered a public domain either. Moreover, **the entire world is also surrounded by the ocean,** and therefore there should be no public domain anywhere in the world. Rather, **perhaps you spoke of the ascents and descents** of Eretz Yisrael, which are not easy to traverse and hence should not have the status of a public domain?
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: קַרְקַפְנָא, חֲזִיתֵיהּ לְרֵישָׁךְ בֵּי עַמּוּדֵי כִּי אֲמַר רַבִּי יוֹחָנָן לְהָא שְׁמַעְתָּא.
+*Translation:* Rav Dimi **said to him:** Man of great **skull,** i.e., man of distinction, **I saw your head between the pillars** of the study hall **when Rabbi Yoḥanan taught this *halakha*,** meaning you grasped the meaning as though you actually were present in the study hall and heard the statement from Rabbi Yoḥanan himself.
+
+**3.**
+*Hebrew/Aramaic:* אִיתְּמַר נָמֵי, כִּי אֲתָא רָבִין אָמַר רַבִּי יוֹחָנָן, וְאָמְרִי לַהּ, אָמַר רַבִּי אֲבָהוּ אָמַר רַבִּי יוֹחָנָן: מַעֲלוֹת וּמוֹרָדוֹת שֶׁבְּאֶרֶץ יִשְׂרָאֵל אֵין חַיָּיבִין עֲלֵיהֶן מִשּׁוּם רְשׁוּת הָרַבִּים לְפִי שֶׁאֵינָן כְּדִגְלֵי מִדְבָּר.
+*Translation:* **It was also stated** that **when Ravin came** from Eretz Yisrael he **said** that **Rabbi Yoḥanan said, and some say** it was **Rabbi Abbahu** who **said** that **Rabbi Yoḥanan said:** In the case of **the ascents and descents of Eretz Yisrael, one is not liable for** carrying in **the public domain, because they are not like the banners in the desert.** To be regarded as a public domain, a place must be similar to the area in which the banners of the tribes of Israel passed in the desert, i.e., it must be level and suitable for the passage of large numbers of people.
+
+**4.**
+*Hebrew/Aramaic:* בְּעָא מִינֵּיהּ רַחֲבָה מֵרָבָא: תֵּל הַמִּתְלַקֵּט עֲשָׂרָה מִתּוֹךְ אַרְבַּע, וְרַבִּים בּוֹקְעִין בּוֹ, חַיָּיבִין עָלָיו מִשּׁוּם רְשׁוּת הָרַבִּים אוֹ אֵין חַיָּיבִין עָלָיו?
+*Translation:* **Raḥava raised a dilemma before Rava:** In the case of **a mound that rises to** a height of **ten** handbreadths **within four** cubits, thereby fulfilling the conditions that create a private domain, **but many people traverse it, is one liable for** carrying in **the public domain or is one not liable?**
+
+**5.**
+*Hebrew/Aramaic:* אַלִּיבָּא דְרַבָּנַן לָא תִּיבְּעֵי לָךְ: הַשְׁתָּא, וּמָה הָתָם דְּנִיחָא תַּשְׁמִישְׁתֵּיהּ — אָמְרִי רַבָּנַן לָא אָתוּ רַבִּים וּמְבַטְּלִי לַהּ מְחִיצְתָּא, הָכָא, דְּלָא נִיחָא תַּשְׁמִישְׁתֵּיהּ — לֹא כׇּל שֶׁכֵּן!
+*Translation:* The Gemara explains: **According to** the opinion of **the Rabbis,** this **should not be a dilemma for you. Just as there,** with regard to the upright boards surrounding a well, **where the use** of the public domain **is convenient, the Rabbis say** that **the public does not come and invalidate the partition; here, where its use is inconvenient** due to the slope, **all the more so** should the mound be considered partitioned off as a private domain, and the passage of the public should not invalidate it.
+
+**6.**
+*Hebrew/Aramaic:* כִּי תִּיבְּעֵי לָךְ אַלִּיבָּא דְּרַבִּי יְהוּדָה. מַאי, הָתָם הוּא דְּנִיחָא תַּשְׁמִישְׁתֵּיהּ, הָכָא הוּא דְּלָא נִיחָא תַּשְׁמִישְׁתֵּיהּ — לָא אָתוּ רַבִּים וּמְבַטְּלִי מְחִיצְתָּא? אוֹ דִילְמָא לָא שְׁנָא? אֲמַר לֵיהּ: חַיָּיבִין.
+*Translation:* **Where there should be a dilemma for you** is **according to** the opinion of **Rabbi Yehuda. What is** the *halakha*? Does he maintain his position only **there, because the use** of the public domain **is convenient,** whereas **here, where its use is inconvenient,** he too would agree that **the public does not come and invalidate the partition? Or perhaps there is no difference?** Rava **said to** Raḥava: In such a case, **one is liable** for carrying in a public domain.
+
+**7.**
+*Hebrew/Aramaic:* וַאֲפִילּוּ עוֹלִין לוֹ בְּחֶבֶל? אֲמַר לֵיהּ: אִין. וַאֲפִילּוּ בְּמַעֲלוֹת בֵּית מָרוֹן?! אֲמַר לֵיהּ: אִין.
+*Translation:* Raḥava asked him: **And** do you issue this ruling **even** in the case of a slope that is so steep that in order to climb it **one must ascend it by means of a rope? He said to him: Yes.** He asked him further: **And even in** the case of **the ascents of Beit Meron,** which are exceedingly steep? **He said to him: Yes.**
+
+**8.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ: חָצֵר שֶׁהָרַבִּים נִכְנָסִין לָהּ בָּזוֹ וְיוֹצְאִין בָּזוֹ — רְשׁוּת הָרַבִּים לַטּוּמְאָה, וּרְשׁוּת הַיָּחִיד לַשַּׁבָּת.
+*Translation:* Raḥava **raised an objection** to Rava’s opinion from the *Tosefta*: **A courtyard** that was properly surrounded by partitions, **into which many people enter on this** side **and exit on that** other side, is treated like **the public domain** with regard to **ritual impurity,** so that in cases of doubt, the person is considered ritually pure, as uncertainty concerning ritual impurity only renders a person impure in an area defined as a private domain; however, it is still treated like **the private domain** with regard to **Shabbat.**
+
+**9.**
+*Hebrew/Aramaic:* מַנִּי? אִילֵּימָא רַבָּנַן, הַשְׁתָּא וּמָה הָתָם — דְּנִיחָא תַּשְׁמִישְׁתֵּיהּ, אָמְרִי רַבָּנַן: לָא אָתוּ רַבִּים וּמְבַטְּלִי מְחִיצְתָּא, הָכָא — דְּלָא נִיחָא תַּשְׁמִישְׁתֵּיהּ, לֹא כׇּל שֶׁכֵּן!
+*Translation:* He proceeds to clarify the *Tosefta*: **Who** is the author of this statement? **If you say** it was **the Rabbis,** there is a difficulty: **Just as there,** with regard to the upright boards surrounding a well, **where the use** of the public domain **is convenient, the Rabbis say that the public does not come and invalidate the partition; here,** in the case of the courtyard, **where its use** as a path for a public domain **is inconvenient, all the more so** should they say that the passage of many people does not invalidate the partition and therefore there would be no need to discuss this case.
+
+**10.**
+*Hebrew/Aramaic:* אֶלָּא לָאו, רַבִּי יְהוּדָה הִיא?
+*Translation:* **Rather, is it not** in accordance with the opinion of **Rabbi Yehuda?** This indicates that even Rabbi Yehuda differentiates between different paths in the public domain.
+
+**11.**
+*Hebrew/Aramaic:* לָא, לְעוֹלָם רַבָּנַן, וּרְשׁוּת הָרַבִּים לַטּוּמְאָה אִיצְטְרִיכָא לֵיהּ.
+*Translation:* Rava replied: **No; actually,** you can explain that this *Tosefta* was taught in accordance with the opinion of **the Rabbis.** As to the question raised with regard to the novelty of this case according to their approach, **it was necessary for them** to teach us that such a courtyard is treated like **the public domain** with regard **to ritual impurity,** even though it is considered a private domain with respect to Shabbat.
+
+**12.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: מְבוֹאוֹת הַמְפוּלָּשׁוֹת בְּבוֹרוֹת, בְּשִׁיחִין וּבִמְעָרוֹת — רְשׁוּת הַיָּחִיד לְשַׁבָּת וּרְשׁוּת הָרַבִּים לַטּוּמְאָה.
+*Translation:* Raḥava attempts to cite a proof again, this time from a mishna: **Come** and **hear** the following teaching: **Alleyways that open in cisterns, ditches or caves** constitute **the private domain** with regard **to Shabbat and the public domain** with regard **to ritual impurity.**
+
+**13.**
+*Hebrew/Aramaic:* ״בְּבוֹרוֹת״ סָלְקָא דַּעְתָּךְ? אֶלָּא: לְבוֹרוֹת — רְשׁוּת הַיָּחִיד לְשַׁבָּת וּרְשׁוּת הָרַבִּים לַטּוּמְאָה.
+*Translation:* The Gemara first clarifies the wording of the mishna: **Should it enter your mind** to say that the correct reading is **in cisterns [*baborot*];** is it possible to speak of alleyways that open inside cisterns? **Rather,** it should be corrected as follows: Alleyways that open out **into cisterns [*laborot*]** constitute **the private domain** with regard **to Shabbat and the public domain** with regard **to ritual impurity.**
+
+**14.**
+*Hebrew/Aramaic:* מַנִּי? אִילֵּימָא רַבָּנַן, הַשְׁתָּא וּמָה הָתָם — דְּנִיחָא תַּשְׁמִישְׁתֵּיהּ, אָמְרִי: לָא אָתוּ רַבִּים וּמְבַטְּלִי לַהּ, הָכָא — דְּלָא נִיחָא תַּשְׁמִישְׁתֵּיהּ, לֹא כׇּל שֶׁכֵּן! אֶלָּא לָאו רַבִּי יְהוּדָה הִיא?
+*Translation:* Raḥava proceeds to clarify the matter: **Who** is the author of this mishna? **Now, if you say** it is **the Rabbis,** there is a difficulty: **Just as there,** with regard to the upright boards surrounding a well, **where the use** of the public thoroughfare **is convenient,** the Rabbis **say** that **the public does not come and invalidate** the partition; **here,** in the case of an alleyway, **where its use** as a public thoroughfare **is inconvenient, all the more so** should they say that the passage of many people does not invalidate the partition, and so there was no need to discuss this case. **Rather, isn’t it** in accordance with the opinion of **Rabbi Yehuda?**
+
+**15.**
+*Hebrew/Aramaic:* לָא, לְעוֹלָם רַבָּנַן, וּרְשׁוּת הָרַבִּים לַטּוּמְאָה אִיצְטְרִיכָא לֵיהּ.
+*Translation:* Rava refutes this argument: **No; actually,** you can explain that this mishna was taught in accordance with the opinion of **the Rabbis.** It does present a novel teaching, as **it was necessary for them** to teach us that such an alleyway has the status of **the public domain** with regard **to ritual impurity.** Although it is not a convenient place to cross, it is considered a public domain with respect to impurity, since many people are found there.
+
+**16.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: שְׁבִילֵי בֵּית גִּילְגּוּל וְכַיּוֹצֵא בָּהֶן — רְשׁוּת הַיָּחִיד לַשַּׁבָּת וּרְשׁוּת הָרַבִּים לַטּוּמְאָה.
+*Translation:* Once again Raḥava attempts to cite a proof from a mishna: **Come** and **hear** the following teaching: **The paths of Beit Gilgul,** which are difficult to traverse, **and similar ones** have the status of **the private domain** with regard **to Shabbat, and** that of **the public domain** with regard **to ritual impurity.**
+
+**17.**
+*Hebrew/Aramaic:* וְאֵיזֶהוּ שְׁבִילֵי בֵּית גִּילְגּוּל? אָמְרִי דְּבֵי רַבִּי יַנַּאי: כֹּל שֶׁאֵין הָעֶבֶד יָכוֹל לִיטּוֹל סְאָה שֶׁל חִיטִּין וְיָרוּץ לִפְנֵי סַרְדְּיוֹט.
+*Translation:* The Gemara asks: **And what** paths **are** like **the paths of Beit Gilgul? The school of Rabbi Yannai say:** This is **any** path in which **a slave [*eved*] is unable to take up a *se’a* of wheat** by hand **and run before an officer [*sardeyot*],** despite his fear of him.
+
+**18.**
+*Hebrew/Aramaic:* מַנִּי? אִילֵּימָא רַבָּנַן, הַשְׁתָּא וּמָה הָתָם — דְּנִיחָא תַּשְׁמִישְׁתָּא, אָמְרִי רַבָּנַן: לָא אָתוּ רַבִּים וּמְבַטְּלִי לַהּ מְחִיצְתָּא. הָכָא — דְּלָא נִיחָא תַּשְׁמִישְׁתָּא, לֹא כׇּל שֶׁכֵּן! אֶלָּא לָאו, רַבִּי יְהוּדָה הִיא?
+*Translation:* Raḥava proceeds to clarify the issue: **Who** is the author of this mishna? **Now, if you say** it is **the Rabbis,** there is a difficulty: **Just as there,** with regard to the upright boards surrounding a well, **where the use** of the public thoroughfare **is convenient, the Rabbis say** that **the public does not come and invalidate the partition; here,** in the case of the paths of Beit Gilgul, **where their use** as a public pathway **is inconvenient, all the more so** should they say that the passage of many people does not invalidate the partitions. **Rather, is it not** in accordance with the opinion of **Rabbi Yehuda?**
+
+**19.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: שְׁבִילֵי בֵּית גִּילְגּוּל קָאָמְרַתְּ? יְהוֹשֻׁעַ אוֹהֵב יִשְׂרָאֵל הָיָה, עָמַד וְתִיקֵּן לָהֶם דְּרָכִים וּסְרַטְיָא, כֹּל הֵיכָא דְּנִיחָא תַּשְׁמִישְׁתָּא — מְסָרָהּ לָרַבִּים, כֹּל הֵיכָא דְּלָא נִיחָא תַּשְׁמִישְׁתָּא — מְסָרָהּ לַיָּחִיד.
+*Translation:* Rava **said to him: Did you say the paths of Beit Gilgul? Joshua,** who conquered the land and divided it among the tribes, **was a lover of Israel. He rose up and established roads and highways for them; any place that was convenient to use he handed over to the public,** and **any place that was inconvenient to use he handed over to an individual.** Therefore, the roads of Eretz Yisrael, which like the paths of Beit Gilgul are not easy to use, have the status of a private domain. However, there is no general rule in other places that roads that are difficult to traverse do not have the status of a public domain.
+
+**20.**
+*Hebrew/Aramaic:* מַתְנִי׳ אֶחָד בּוֹר הָרַבִּים וּבְאֵר הָרַבִּים וּבְאֵר הַיָּחִיד — עוֹשִׂין לָהֶן פַּסִּין.
+*Translation:* MISHNA: In the case of **a public cistern** containing collected water, **as well as a public well** containing spring water, **and** even **a private well, one may arrange** upright **boards around them** in order to allow one to carry in the enclosed area, as delineated above.
+
+**21.**
+*Hebrew/Aramaic:* אֲבָל לְבוֹר הַיָּחִיד — עוֹשִׂין לוֹ מְחִיצָה גָּבוֹהַּ עֲשָׂרָה טְפָחִים, דִּבְרֵי רַבִּי עֲקִיבָא.
+*Translation:* **But** in the case of **a private cistern,** there are two deficiencies: It belongs to an individual, and it does not contain spring water. Consequently, it is impossible to permit drawing from it on Shabbat by means of boards set up in the corners; rather, **one must construct for it a** proper **partition ten handbreadths high;** this is **the statement of Rabbi Akiva.**
+
+**22.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה בֶּן בָּבָא אוֹמֵר: אֵין עוֹשִׂין פַּסִּין אֶלָּא לִבְאֵר הָרַבִּים בִּלְבַד, וְלַשְּׁאָר — עוֹשִׂין חֲגוֹרָה גָּבוֹהַּ עֲשָׂרָה טְפָחִים.
+*Translation:* **Rabbi Yehuda ben Bava says: One may arrange** upright **boards only for a public well. But for the others,** that is, a public cistern or a private well, **one must set up a belt,** i.e., a partition consisting of ropes, **ten handbreadths high.** Such an arrangement creates a proper partition based on the principle of *lavud*, namely, that solid surfaces with gaps between them smaller than three handbreadths are considered joined.

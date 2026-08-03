@@ -59,3 +59,48 @@
 **15.**
 *Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן שֵׁזוּרִי אוֹמֵר: ״וְגִלַּח הַנָּזִיר פֶּתַח אֹהֶל מוֹעֵד״, וְלֹא נְזִירָה,
 *Translation:* **Rabbi Shimon Shezuri says:** The phrase **“And the nazirite shall shave** his consecrated head **at the entrance to the Tent of Meeting”** does not refer to the place of his shaving. Rather, the masculine form of the word nazirite serves to emphasize that this applies to a male nazirite **and not a female nazirite.** A woman does not shave her head in the Sanctuary,
+
+
+---
+
+### Nazir 45b
+
+**1.**
+*Hebrew/Aramaic:* שֶׁמָּא יִתְגָּרוּ בָּהּ פִּרְחֵי כְהוּנָּה. אָמַר לוֹ: לִדְבָרֶיךָ סוֹטָה תּוֹכִיחַ, דִּכְתִיב בָּהּ ״וְהֶעֱמִידָהּ לִפְנֵי ה׳״, וְלָא חָיְישִׁינַן שֶׁמָּא יִתְגָּרוּ בָּהּ פִּרְחֵי כְהוּנָּה!
+*Translation:* **lest** the **young priests [*pirḥei khehuna*]** present **will become aroused by her** when she uncovers her hair in their presence. One of the other Sages **said to** Rabbi Shimon Shezuri: **According to your statement,** the case of **a *sota* will prove** that this is not a concern, **as it is written with regard to her: “And he shall set her before the Lord”** (Numbers 5:16), **and** yet **we are not concerned** that **perhaps** the **young priests will become aroused by her** when her hair is uncovered.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר לָהֶן: זוֹ כּוֹחֶלֶת וּפוֹקֶסֶת, זוֹ אֵינָהּ כּוֹחֶלֶת וּפוֹקֶסֶת.
+*Translation:* Rabbi Shimon Shezuri **said to them:** There is a difference between a female nazirite and a *sota*. **This** one, the nazirite, **paints** her eyes **blue [*koḥelet*] and applies blush [*fokeset*]** to her face, and therefore there is a concern that young priests might be aroused by her appearance. By contrast, **that** one, the *sota*, **does not apply blue** eye shadow **and** does not **apply blush.** Since a *sota* is not beautified, but is made to appear wretched and looks disheveled, there is no concern that she might arouse the men.
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִי׳ הָיָה נוֹטֵל שְׂעַר רֹאשׁ נִזְרוֹ וּמְשַׁלֵּחַ תַּחַת הַדּוּד. וְאִם גִּילַּח בַּמְּדִינָה — לֹא הָיָה מְשַׁלֵּחַ תַּחַת הַדּוּד. בַּמֶּה דְּבָרִים אֲמוּרִים? בְּתִגְלַחַת הַטׇּהֳרָה, אֲבָל בְּתִגְלַחַת הַטּוּמְאָה — לֹא הָיָה מְשַׁלֵּחַ תַּחַת הַדּוּד.
+*Translation:* MISHNA: After the nazirite shaved off his hair, **he would take the hair of his consecrated head and throw** it **under the pot** in which the peace-offering was cooked, where it would burn. **And if** the nazirite **shaved in** the rest of **the country,** i.e., outside the Temple, **he would not throw** the hair **under the pot. In what** case **is this statement said?** It is said **with regard to the shaving of purity. However, with regard to the shaving of impurity,** i.e., shaving that accompanied his guilt-offering and sin-offering of birds after his term of naziriteship was interrupted by impurity, **he would not throw** his hair **under the pot** in which his offerings were cooked, as the Torah stated this requirement only for a pure nazirite.
+
+**4.**
+*Hebrew/Aramaic:* רַבִּי מֵאִיר אוֹמֵר: הַכֹּל מְשַׁלְּחִין תַּחַת הַדּוּד, חוּץ מִן הַטָּמֵא שֶׁבַּמְּדִינָה בִּלְבַד.
+*Translation:* **Rabbi Meir says: Everyone throws** his hair **under the pot,** including a pure nazirite who shaved outside the Temple and an impure nazirite, **except for an impure** nazirite **who shaved in the** rest of **the country.** In that case **alone** he refrains from throwing his hair to be burned beneath his offering.
+
+**5.**
+*Hebrew/Aramaic:* גְּמָ׳ נוֹטֵל שְׂעַר רֹאשׁ נִזְרוֹ. תָּנוּ רַבָּנַן: וְאַחַר כָּךְ נוֹטֵל אֶת הָרוֹטֶב וְנוֹתֵן עַל שְׂעַר רֹאשׁ נִזְרוֹ, וּמְשַׁלֵּחַ תַּחַת הַדּוּד שֶׁל שְׁלָמִים. וְאִם שִׁילַּח תַּחַת הַדּוּד שֶׁל חַטָּאת וְאָשָׁם — יָצָא. אָשָׁם בְּנָזִיר [טָהוֹר] מִי אִיכָּא? אָמַר רָבָא, הָכִי קָאָמַר: וְאִם נָזִיר טָמֵא מְשַׁלֵּחַ תַּחַת הַדּוּד שֶׁל אָשָׁם — יָצָא.
+*Translation:* GEMARA: The mishna states that he would **take the hair of his consecrated head. The Sages taught: And afterward,** after cooking the peace-offering, he **takes the gravy [*rotev*]** in which the offering had been cooked, **places** it **on the** shaven **hair of his consecrated head, and throws** the hair **under the pot of** his **peace-offering. And if he threw** his hair **under the pot of** the **sin-offering or** the **guilt-offering, he has fulfilled** his obligation after the fact. The Gemara expresses surprise at this statement: **Is there a guilt-offering** brought **by a pure nazirite?** Only an impure nazirite brings a guilt-offering. **Rava said** that **this is what** the *tanna* **said,** i.e., meant: **And if an impure nazirite threw** his hair **under the pot of** the **guilt-offering, he has fulfilled** his obligation.
+
+**6.**
+*Hebrew/Aramaic:* מְנָא הָנֵי מִילֵּי? אָמַר רָבָא, אָמַר קְרָא: ״אֲשֶׁר תַּחַת זֶבַח הַשְּׁלָמִים״, מִזִּבְחוֹ יְהֵא תַּחְתָּיו.
+*Translation:* The Gemara asks: **From where are these matters** derived, that he must pour gravy from the offering over his hair? **Rava said** that as **the verse states:** “And he shall take the hair of his consecrated head and put it on the fire **which is under the sacrifice of the peace-offering”** (Numbers 6:18), this indicates that part **of his sacrifice must be under** the hair.
+
+**7.**
+*Hebrew/Aramaic:* וְאִם שִׁילַּח תַּחַת הַדּוּד שֶׁל חַטָּאת — יָצָא. מַאי טַעְמָא? אָמַר קְרָא: ״זֶבַח״, לְרַבּוֹת אֶת הַחַטָּאת וְאָשָׁם. וְהָא אַפֵּיקְתֵּיהּ לְהַאי ״זֶבַח״ מֵרוֹטֶב! אִם כֵּן לֵימָא קְרָא ״מֵרוֹטֶב הַשְּׁלָמִים״, מַאי ״זֶבַח״ — שְׁמַע מִינַּהּ לְרַבּוֹת חַטָּאת וְאָשָׁם.
+*Translation:* With regard to the statement of the *baraita*: **And if he threw** his hair **under the pot of** the **sin-offering he has fulfilled** his obligation, the Gemara asks: **What is the reason** for this? The Gemara answers that **the verse states:** “The **sacrifice** of the peace-offering,” when it could simply have stated: The peace-offering. This serves **to include the sin-offering and** the **guilt-offering,** which are also sacrifices. The Gemara asks: **But you have** already **derived** from **this** term **“sacrifice”** that he must pour part **of the gravy** of the peace-offering over his hair. The Gemara answers: **If so, let the verse say** explicitly: **From the gravy of the peace-offering. Why** does it state: **“Sacrifice”? Learn from here** that it serves **to include the sin-offering and** the **guilt-offering.**
+
+**8.**
+*Hebrew/Aramaic:* וְאֵימָא כּוּלָּהּ לְחַטָּאת וְאָשָׁם הוּא דַּאֲתָא! אִם כֵּן, לֵימָא ״שְׁלָמִים וְזֶבַח״, מַאי ״זֶבַח הַשְּׁלָמִים״ — שְׁמַע מִינַּהּ תַּרְתֵּי.
+*Translation:* The Gemara questions this statement from a different perspective: **And** one can **say** that this verse **comes entirely** to teach **about the sin-offering and guilt-offering,** and it does not refer to the gravy at all. The Gemara answers: **If so, let it state: Peace-offering and a sacrifice;** for **what** reason does it write: **“The sacrifice of the peace-offering”? Conclude two** conclusions **from** the verse.
+
+**9.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: הַכֹּל הָיוּ מְשַׁלְּחִין תַּחַת הַדּוּד, חוּץ מִטָּמֵא שֶׁגִּילַּח בִּמְדִינָה, מִפְּנֵי שֶׁשְּׂעָרוֹ נִקְבָּר, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: טְהוֹרִים כָּאן וְכָאן — הָיוּ מְשַׁלְּחִין. טְמֵאִים כָּאן וְכָאן — לֹא הָיוּ מְשַׁלְּחִין. וַחֲכָמִים אוֹמְרִים: הַכֹּל לֹא הָיוּ מְשַׁלְּחִין תַּחַת הַדּוּד, חוּץ מִן טָהוֹר שֶׁבַּמִּקְדָּשׁ, מִפְּנֵי שֶׁנַּעֲשָׂה כְּמִצְוָתוֹ.
+*Translation:* § **The Sages taught** (*Tosefta* 4:6): **All** nazirites **would throw** their hair **under the pot, except for an impure** nazirite **who shaved in** the rest of **the country, because** that one’s **hair is buried.** This is **the statement of Rabbi Meir. Rabbi Yehuda says: Pure** nazirites, whether they are **here or there,** inside or outside the Temple, **would throw** their hair under the pot; **impure** nazirites, whether **here or there, would not throw** it. **And the Rabbis say: None would throw** their hair **under the pot, except for a pure** nazirite **in the Temple, because** only in that case **is** the mitzva **performed properly,** as commanded by the Torah.
+
+**10.**
+*Hebrew/Aramaic:* מַתְנִי׳ הָיָה מְבַשֵּׁל אֶת הַשְּׁלָמִים אוֹ שׁוֹלְקָן. הַכֹּהֵן נוֹטֵל אֶת הַזְּרוֹעַ בְּשֵׁלָה מִן הָאַיִל, וְחַלָּה מַצָּה אַחַת מִן הַסַּל, וּרְקִיק מַצָּה אַחַת, וְנוֹתֵן עַל כַּפֵּי הַנָּזִיר, וּמְנִיפָן, וְאַחַר כָּךְ הוּתַּר הַנָּזִיר לִשְׁתּוֹת יַיִן וּלְהִטַּמֵּא לַמֵּתִים.
+*Translation:* MISHNA: The nazirite **would cook the peace-offering or overcook it,** i.e., cook it thoroughly. **The priest takes the cooked foreleg from the ram, and one unleavened loaf from the basket, and one unleavened wafer, and places** them **on the palms of the nazirite and waves them,** as described in the Torah (Numbers 6:19–20). **And afterward the nazirite is permitted to drink wine and to contract ritual impurity** imparted **by a corpse.**

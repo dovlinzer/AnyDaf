@@ -87,3 +87,80 @@
 **22.**
 *Hebrew/Aramaic:* רָבִינָא וְרַבָּה תּוֹסְפָאָה הֲווֹ קָא אָזְלִי בְּאוֹרְחָא. חֲזוֹ לְהָהוּא גַּבְרָא דַּהֲוָה דָּלֵי דַּוְולָא בְּחוּלָּא דְּמוֹעֲדָא, אֲמַר לֵיהּ רַבָּה תּוֹסְפָאָה לְרָבִינָא: לֵיתֵי מָר לְשַׁמְּתֵיהּ. אֲמַר לֵיהּ: וְהָתַנְיָא: מַדְלִין לִירָקוֹת כְּדֵי לְאוֹכְלָן. אֲמַר לֵיהּ: מִי סָבְרַתְּ מַאי ״מַדְלִין״ — מַדְלִין מַיָּא? מַאי
 *Translation:* The Gemara relates that **Ravina and Rabba Tosefa’a were** once **walking along the road** when **they saw a certain man that was drawing** water **with a bucket on the intermediate days of a Festival. Rabba Tosefa’a said to Ravina: Let the Master come and excommunicate him** for transgressing the words of the Sages. Ravina **said to him: But isn’t it taught** in a *baraita*: **One may draw for vegetables in order to eat them,** and so he has not committed a transgression. Rabba Tosefa’a **said to him: Do you maintain** that **what is** meant by **one may draw** [***madlin***] **is** that **one may draw water** in order to irrigate the vegetables? This is not so. Rather, **what is** meant by
+
+
+---
+
+### Moed Katan 4b
+
+**1.**
+*Hebrew/Aramaic:* ״מַדְלִין״ — שַׁלּוֹפֵי. כְּדִתְנַן: הַמֵּידֵל בַּגְּפָנִים, כְּשֵׁם שֶׁהוּא מֵידֵל בְּשֶׁלּוֹ — כָּךְ הוּא מֵידֵל בְּשֶׁל עֲנִיִּים, דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי מֵאִיר אוֹמֵר: בְּשֶׁלּוֹ רַשַּׁאי, וְאֵינוֹ רַשַּׁאי בְּשֶׁל עֲנִיִּים.
+*Translation:* **one may draw** is that **one may pull out** some of the vegetables that are growing densely together. The *baraita* comes to teach that one is permitted to thin out a garden bed on the intermediate days of a Festival in order to eat on the Festival those that he removes, but he is prohibited to do so in order to enhance the appearance of those that remain. **As we learned** in a mishna (*Pe’a* 7:5): **One who thins out [*meidel*] the vines** in his vineyard, **just as he may thin out his own** vines, **so too, he may thin out** the vines set aside for **the poor.** Since he is doing it for the sake of the vines, he may also thin out what he leaves for the poor; this is **the statemen**t **of Rabbi Yehuda. Rabbi Meir** disagrees and **says: His own** vines **he is permitted** to thin out, **but he is not permitted** to thin out the vines set aside **for the poor.** This mishna indicates that the term *meidel* can be used to mean thinning out and does not refer only to drawing water.
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ, וְהָתַנְיָא: מַדְלִין מַיִם לִירָקוֹת כְּדֵי לְאוֹכְלָן! אֲמַר לֵיהּ: אִי תַּנְיָא — תַּנְיָא.
+*Translation:* Ravina **said to** Rabba Tosefa’a: **But wasn’t it** explicitly **taught** in a *baraita*: **One may draw water** to irrigate **vegetables in order to eat them?** Rabba Tosefa’a **said to him: If it is taught** explicitly in a *baraita*, the *halakha* is as **it is taught,** and I retract my statement.
+
+**3.**
+*Hebrew/Aramaic:* וְאֵין עוֹשִׂין עוּגִיּוֹת לַגְּפָנִים. מַאי עוּגִיּוֹת? אָמַר רַב יְהוּדָה: בַּנְכֵּי. תַּנְיָא נָמֵי הָכִי: אֵלּוּ הֵן עוּגִיּוֹת — בְּדִידִין שֶׁבְּעִיקָּרֵי זֵיתִים וְשֶׁבְּעִיקָּרֵי גְפָנִים.
+*Translation:* § It was taught in the mishna: **And one may not construct circular ditches [*ugiyyot*]** around the bases of **grapevines** on the intermediate days of a Festival. The Gemara asks: **What are *ugiyyot*? Rav Yehuda said:** They are what are called in Aramaic ***binkei*,** circular ditches around vines. The Gemara notes that **this is also taught** in a *baraita*: **These are *ugiyyot*: *Bedidin*,** circular ditches **around the bases of olive trees and around the bases of grapevines.**
+
+**4.**
+*Hebrew/Aramaic:* אִינִי? וְהָא רַב יְהוּדָה שְׁרָא לִבְנֵי בַּר צֵיתַאי לְמֶעְבַּד בַּנְכֵּי לְכַרְמֵיהוֹן! לָא קַשְׁיָא הָא בְּחַדְתֵי, הָא בְּעַתִּיקֵי.
+*Translation:* The Gemara asks: **Is that so?** Is it prohibited to dig circular ditches on the intermediate days of the Festival? **Didn’t Rav Yehuda permit the family of bar Tzitai to construct circular ditches for their vineyards** on the intermediate days of a Festival? The Gemara answers: This is **not difficult. This** source, i.e., the mishna that renders the practice prohibited, is referring to digging **new** ditches. **That** other source, i.e., Rav Yehuda’s ruling that permits the digging of such ditches, is referring to **old** ones, which merely need to be cleared.
+
+**5.**
+*Hebrew/Aramaic:* רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹמֵר: אֵין עוֹשִׂין אֶת הָאַמָּה. בִּשְׁלָמָא מוֹעֵד — מִשּׁוּם דְּקָא טָרַח, אֶלָּא שְׁבִיעִית מַאי טַעְמָא?
+*Translation:* § It was taught in the next clause of the mishna that **Rabbi Elazar ben Azarya says: One may not construct a new** water **channel** during the intermediate days of a Festival or during the Sabbatical Year. The Gemara asks: **Granted,** it is prohibited for him to do so on the intermediate days of **a Festival, because** in so doing **he** excessively **exerts himself** on the Festival. **But what is the reason** that this is prohibited during **the Sabbatical Year,** when only labors that enhance the growth of plants are prohibited?
+
+**6.**
+*Hebrew/Aramaic:* פְּלִיגוּ בַּהּ רַבִּי זֵירָא וְרַבִּי אַבָּא בַּר מֶמֶל. חַד אָמַר: מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר. וְחַד אָמַר: מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה.
+*Translation:* The Gemara answers: **Rabbi Zeira and Rabbi Abba bar Memel disagreed with regard to this** issue. **One** of them **said:** It is prohibited **because it appears** to others **as if he were hoeing** his field. As onlookers do not know that he is merely digging a water channel, they suspect him of working his land during the Sabbatical Year. **And** the other **one said:** It is prohibited **because he** thereby **prepares** the channel’s **banks for planting,** for when he digs out the channel, he piles the fresh soil that is fit for planting on its two banks.
+
+**7.**
+*Hebrew/Aramaic:* מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ דְּקָא אָתוּ מַיָּא בָּתְרֵיהּ. מַאן דְּאָמַר מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה — אִיכָּא, וּמַאן דְּאָמַר מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר — לֵיכָּא.
+*Translation:* The Gemara asks: **What is** the practical halakhic difference **between them?** The Gemara answers: **There is** a practical halakhic difference **between them** in a case where **water comes** into the channel immediately **after he** digs it out. According to **the one who said** that digging a water channel is prohibited **because he** thereby **prepares its banks for planting, there is** still a prohibition, as here too, he piles the fresh soil on the channel’s banks. **But** according to **the one who said** it is prohibited **because it appears as if he were hoeing, there is no** prohibition here, as the immediate entry of water makes it obvious that he is digging a water channel.
+
+**8.**
+*Hebrew/Aramaic:* וּלְמַאן דְּאָמַר מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר, לֵיחוּשׁ מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה? אֶלָּא, אִיכָּא בֵּינַיְיהוּ דְּקָא שָׁקֵיל מִינֵּיהּ וְשָׁדֵי לְבָרַאי. לְמַאן דְּאָמַר מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה — לֵיכָּא. לְמַאן דְּאָמַר מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר — אִיכָּא.
+*Translation:* The Gemara asks: **But according to the one who said** that digging a water channel is prohibited **because it appears as if he were hoeing, let him be concerned that** the digger thereby **prepares** the channel’s **banks for planting** and render digging prohibited in this case as well. **Rather,** the matter must be explained differently, such that **there is** a practical difference **between them** in a case **where he takes** the earth that he excavates **from** the channel **and throws** it a considerable distance **outside. According to the one who said** that it is prohibited **because he** thereby **prepares** the channel’s **banks for planting, there is no** prohibition here, as he does not prepare them for planting. But **according to the one who said** it is prohibited **because it appears as if he were hoeing, there is** a prohibition here, as here too, it appears as if he were hoeing.
+
+**9.**
+*Hebrew/Aramaic:* וּלְמַאן דְּאָמַר מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה, לֵיחוּשׁ מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר! עוֹדֵר נָמֵי, כִּי קָא שָׁקֵיל, בְּדוּכְתֵּיהּ מַנַּח לֵיהּ.
+*Translation:* The Gemara asks: **But according to the one who said** that digging a water channel is prohibited **because he** thereby **prepares its banks for planting, let him be concerned that** the digger **appears as if he were hoeing.** The Gemara answers that this is not a concern, because it is **also** true of **one who hoes** that **when he takes** up a clump of earth, he **puts it down** again **in its place.** Consequently, since one throws the dug-up earth far away, it is immediately apparent that he is not engaged in hoeing but is rather digging a water channel.
+
+**10.**
+*Hebrew/Aramaic:* אַמֵּימָר מַתְנֵי לַהּ מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר, וְקַשְׁיָא לֵיהּ דְּרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אַדְּרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה: וּמִי אָמַר רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה כׇּל שֶׁנִּרְאֶה כְּעוֹדֵר אָסוּר?
+*Translation:* **Ameimar would teach** this mishna as stating explicitly that Rabbi Elazar ben Azarya says that one may not dig a new water channel during the Sabbatical Year **because it appears as if he were hoeing** his field, **and he** therefore found **a difficulty between** this statement of **Rabbi Elazar ben Azarya and** another statement of **Rabbi Elazar ben Azarya.** The difficulty is as follows: **Did Rabbi Elazar ben Azarya** actually **say** that **any** action **that** causes him to **appear as if he were hoeing is prohibited?**
+
+**11.**
+*Hebrew/Aramaic:* וּרְמִינְהִי: עוֹשֶׂה אָדָם אֶת זִבְלוֹ אוֹצָר. רַבִּי מֵאִיר אוֹסֵר, עַד שֶׁיַּעֲמִיק שְׁלֹשָׁה טְפָחִים, אוֹ עַד שֶׁיַּגְבִּיהַּ שְׁלֹשָׁה טְפָחִים. הָיָה לוֹ דָּבָר מוּעָט — מוֹסִיף עָלָיו וְהוֹלֵךְ.
+*Translation:* One may **raise a contradiction** to this assertion from a mishna (*Shevi’it* 3:3) that states: **A person** may pile **his manure** in his field during the Sabbatical Year so that it **becomes a storage** heap, and there is no cause for concern that it may appear as if he were fertilizing his field. **Rabbi Meir prohibits** this **unless he deepens** the storage area for the manure **three handbreadths** below the ground **or raises** it **three handbreadths** above the surface of the ground, so that it does not appear as if he were fertilizing his field. If **he** already **had a small amount** of manure in that heap from before the Sabbatical Year, **he may continue to add to it,** and there is no need for concern.
+
+**12.**
+*Hebrew/Aramaic:* רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹסֵר עַד שֶׁיַּעְמִיק שְׁלֹשָׁה אוֹ עַד שֶׁיַּגְבִּיהַּ שְׁלֹשָׁה, אוֹ עַד שֶׁיִּתֵּן עַל הַסֶּלַע!
+*Translation:* **Rabbi Elazar ben Azarya prohibits** piling his manure in his field **unless he deepens** the storage area for the manure **three** handbreadths below the surface of the ground, **or he raises** it **three** handbreadths **above** the surface, **or he places** it **on a rock.** In any event, it seems that according to Rabbi Elazar ben Azarya, it is permitted for him to dig a hole in the ground in order to deposit his manure there, even though he might appear to be hoeing the ground.
+
+**13.**
+*Hebrew/Aramaic:* רַבִּי זֵירָא וְרַבִּי אַבָּא בַּר מֶמֶל, חַד אָמַר: כְּגוֹן שֶׁהֶעֱמִיק, וְחַד אָמַר: זִיבְלוֹ מוֹכִיחַ עָלָיו.
+*Translation:* **Rabbi Zeira and Rabbi Abba bar Memel** both offered resolutions to this difficulty: **One** of them **said:** The case in this second mishna is one **where he** had already **deepened** the three-handbreadth pit during the sixth year. **And** the other **one said: His** pile of **manure is proof** that he intends merely to bury the manure and not to hoe the field.
+
+**14.**
+*Hebrew/Aramaic:* וּמְתַקְּנִין אֶת הַמְקוּלְקֶלֶת בַּמּוֹעֵד. מַאי מְקוּלְקֶלֶת? אָמַר רַבִּי אַבָּא: שֶׁאִם הָיְתָה עֲמוּקָּה טֶפַח — מַעֲמִידָהּ עַל שִׁשָּׁה טְפָחִים.
+*Translation:* § It was taught in the mishna that the Rabbis say: **One may repair a damaged** water channel **during** the intermediate days of **a Festival. What is** meant by **a damaged** water channel? **Rabbi Abba said that if it was** now **a handbreadth deep** because it had become filled with sediment, he may dredge it out until **he sets it at** its original depth of **six handbreadths.**
+
+**15.**
+*Hebrew/Aramaic:* פְּשִׁיטָא, חֲצִי טֶפַח עַל שְׁלֹשָׁה טְפָחִים, כֵּיוָן דְּלָא עָבַר מַיָּא — לָא כְּלוּם הוּא. טִפְחַיִים עַל שְׁנֵים עָשָׂר, דְּקָא טָרַח טִירְחָא יַתִּירָא — לָא.
+*Translation:* Based on this ruling, the Gemara clarifies several practical issues: It is **obvious** that if the channel is **half a handbreadth** deep and he wants to restore it to a depth **of three handbreadths, since water does not flow** through a three-handbreadth-deep channel in sufficient quantity, **it is nothing** at all and it is certainly prohibited to exert oneself with work that provides insignificant benefit. So too, if the channel is **two handbreadths** deep and he wants to deepen it **to twelve handbreadths,** even though he preserves the same ratio as in Rabbi Abba’s case, **since it involves excessive exertion, no,** this is also not permitted.
+
+**16.**
+*Hebrew/Aramaic:* טִפְחַיִים עַל שִׁבְעָה מַהוּ? הָכָא חֲמִשָּׁה קָא מַעֲמֵיק, וְהָכָא חֲמִשָּׁה קָא מַעֲמֵיק, אוֹ דִלְמָא: כֵּיוָן דְּאִיכָּא טֶפַח יַתִּירָא — אִיכָּא טִירְחָא טְפֵי? תֵּיקוּ.
+*Translation:* However, in a case where the channel is **two handbreadths** deep and he wants to deepen it **to seven** handbreadths, **what is** the *halakha*? The Gemara explains the two sides of the question of whether this can be compared to the case in the mishna: **Here,** in the case of dredging a one-handbreadth-deep channel to restore its depth of six handbreadths, **he deepens** the channel by **five** handbreadths, **and** similarly **here,** in the case of deepening the channel from two to seven handbreadths, **he** likewise wants to **deepen** it by **five** handbreadths, and therefore it should be permitted. **Or perhaps, since there is an extra handbreadth** of depth, then bending over to dig that additional handbreadth **involves greater effort,** which is unnecessary, and so possibly it should be prohibited. The Gemara states that the dilemma **shall stand** unresolved.
+
+**17.**
+*Hebrew/Aramaic:* אַבָּיֵי שְׁרָא לִבְנֵי בַּר הַמְדָּךְ לְשַׁחוֹפֵי נַהֲרָא. רַבִּי יִרְמְיָה שְׁרָא לְהוּ לִבְנֵי סָכוּתָא לְמִיכְרֵא נַהֲרָא טְמִימָא. רַב אָשֵׁי שְׁרָא לְהוּ לִבְנֵי מָתָא מַחְסֵיָא לְאַקְדּוֹחֵי נְהַר בּוּרְנִיץ. אֲמַר: כֵּיוָן דְּשָׁתוּ מִינֵּיהּ רַבִּים — כְּרַבִּים דָּמֵי, וּתְנַן: עוֹשִׂין כׇּל צוֹרְכֵי רַבִּים.
+*Translation:* It was related that **Abaye permitted the people of Bar Hamdakh to remove** the branches of the trees from **the river** on the intermediate days of a Festival. **Rabbi Yirmeya permitted the people of Sekhavta to dredge out a river that had become blocked. Rav Ashi permitted** his townsmen, **the people of Mata Meḥasya, to clean out the** nearby **Burnitz River. He said: Since the public drinks from it, it is considered like a public** need, **and we learned** in the mishna that **one may tend to all** other **public needs** on the intermediate days of a Festival.
+
+**18.**
+*Hebrew/Aramaic:* וּמְתַקְּנִין אֶת
+*Translation:* § It was taught in the mishna: During the intermediate days of a Festival **one may repair**

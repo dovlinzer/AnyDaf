@@ -67,3 +67,24 @@
 **17.**
 *Hebrew/Aramaic:* וּמִי אִית לֵיהּ לְרַבִּי מוּקְצֶה? וְהָא בְּעָא מִינֵּיהּ רַבִּי שִׁמְעוֹן בַּר רַבִּי מֵרַבִּי: פַּצְעִילֵי תְמָרָה — לְרַבִּי שִׁמְעוֹן מַהוּ? אֲמַר לֵיהּ: אֵין מוּקְצֶה לְרַבִּי שִׁמְעוֹן
 *Translation:* The Gemara asks concerning Rabbi Yehuda HaNasi’s opinion: **And does Rabbi** Yehuda HaNasi in general **accept** the concept of ***muktze*? But didn’t Rabbi Shimon, son** of **Rabbi** Yehuda HaNasi, **inquire of Rabbi** Yehuda HaNasi: **Unripe dates** that are placed in a basket **to ripen** until they are edible, **what is** the *halakha* **according to Rabbi Shimon** ben Yoḥai? Are they considered *muktze* or not? **He said to him** in response: **There is no** recognition of the *halakha* of ***muktze* according to Rabbi Shimon,**
+
+
+---
+
+### Beitzah 40b
+
+**1.**
+*Hebrew/Aramaic:* אֶלָּא גְּרוֹגְרוֹת וְצִמּוּקִין בִּלְבַד!
+*Translation:* **except for** the case of **dried figs and raisins** in the midst of the drying process **alone. These** are fruits that are fit to be eaten fresh and were deliberately removed from use to allow them to undergo a drying process, during which time they are inedible; they have therefore been actively removed from one’s mind for the interim. Unripe dates, however, are unfit to be eaten fresh and become fit for eating only when they are ripe. Therefore, if one places unripe dates in a basket to ripen, they are never completely removed from his mind, not having been changed from an edible state to an inedible state, and are permitted. If so, desert animals, which are similarly never completely removed from one’s mind, should also not be considered *muktze*. Why, then, does Rabbi Yehuda HaNasi indicate that they have the status of *muktze*?
+
+**2.**
+*Hebrew/Aramaic:* אִיבָּעֵית אֵימָא: הָנֵי נָמֵי כִּגְרוֹגְרוֹת וְצִמּוּקִין דָּמֵי, וְאִיבָּעֵית אֵימָא: לִדְבָרָיו דְּרַבִּי שִׁמְעוֹן קָאָמַר, וְלֵיהּ לָא סְבִירָא לֵיהּ.
+*Translation:* The Gemara suggests several resolutions: **If you wish, say** that **these** desert animals **are also considered similar to dried figs and raisins,** as by sending them outside the town the owner has actively removed them from use. **And if you wish, say** instead that the fact that Rabbi Yehuda HaNasi told his son that Rabbi Shimon does not accept the *halakha* of *muktze* except for the case of dried figs and raisins does not prove anything about his own opinion; **he stated** this only **in accordance with the statement of Rabbi Shimon,** but **he himself does not hold accordingly.**
+
+**3.**
+*Hebrew/Aramaic:* וְאִיבָּעֵית אֵימָא: לְדִבְרֵיהֶם דְּרַבָּנַן קָאָמַר לְהוּ. לְדִידִי אֵין מוּקְצֶה, אֶלָּא לְדִידְכוּ: אוֹדוֹ לִי מִיהַת הֵיכָא דְּיוֹצְאוֹת וְרוֹעוֹת בַּפֶּסַח וְנִכְנָסוֹת בִּרְבִיעָה רִאשׁוֹנָה דְּבַיָּיתוֹת הֵן. וַאֲמַרוּ לֵיהּ רַבָּנַן: לָא, מִדְבָּרִיּוֹת הֵן.
+*Translation:* **And if you wish, say** a different answer: He himself, like Rabbi Shimon, did not accept the concept of *muktze*, and when he spoke in the *baraita* **he was speaking,** for the sake of argument, **in accordance with the words** of **the Rabbis** who had spoken before him, saying to them, in effect: **According to my** opinion, **there is no** *halakha* of ***muktze*** at all, in accordance with the opinion of Rabbi Shimon, and all animals may be slaughtered on the Festival. **But** even **according to your approach,** that there is a *halakha* of *muktze*, **agree with me, in any event,** that with regard to a case **where they go out and graze on Passover and enter again at the first rainfall, they are** considered **domestic animals** and should be permitted. **But the Rabbis said to him: No,** even those **are desert animals.**
+
+**4.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ מַשִּׁילִין פֵּירוֹת וּסְלִיקָא מַסֶּכֶת בֵּיצָה
+*Translation:* 

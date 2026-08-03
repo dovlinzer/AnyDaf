@@ -142,7 +142,7 @@ The most problematic scenario is when the *kohen* performs one above and one bel
 
 The Gemara immediately raises a sharp question against this ruling. According to Rabbi Yehoshua's principle, when an *olah* is performed below in the manner of a *chatat*, it becomes redesignated as a *chatat*. If so, in the case where one bird was done above and one below, and we are concerned that the *olah* was the one done below — why not simply say that the *olah* done below has now become a *chatat*, and that woman should receive credit for her *chatat*? The ruling of total invalidity appears to contradict Rabbi Yehoshua's own principle.
 
-### Person-Specific Limitati…
+### Person-Specific Limit
 
 The Gemara offers a potential limitation: perhaps Rabbi Yehoshua's redesignation principle only applies when the woman bringing the *olah* is herself also obligated in a *chatat*. In that case, her own *olah*, done below, could be redesignated to fulfill her own *chatat* obligation. In the current scenario, however, the woman whose *olah* was done below is not the one who owes a *chatat* — it is the *other* woman who owes the *chatat*. An *olah* redesignated as a *chatat* cannot satisfy a third party's obligation. This could explain why the redesignation provides no benefit here.
 

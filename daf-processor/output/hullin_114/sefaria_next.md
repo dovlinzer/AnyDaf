@@ -43,3 +43,92 @@
 **11.**
 *Hebrew/Aramaic:* אָמַר לוֹ רַבִּי יוֹחָנָן:
 *Translation:* **Rabbi Yoḥanan said to** Reish Lakish:
+
+
+---
+
+### Hullin 115b
+
+**1.**
+*Hebrew/Aramaic:* כְּעוּרָה זוֹ שֶׁשָּׁנָה רַבִּי? ״לֹא תֹּאכְלֶנּוּ״ – בְּבָשָׂר בְּחָלָב הַכָּתוּב מְדַבֵּר.
+*Translation:* **Is that** derivation **that Rabbi** Yehuda HaNasi **taught ugly,** that you derive a new one? The verse states with regard to an animal’s blood: “You shall not eat it; you shall pour it upon the earth as water” (Deuteronomy 12:24), and the next verse adds: **“You shall not eat it;** that it may go well with you, and with your children after you.” Rabbi Yehuda HaNasi teaches that the redundant second verse is not referring to the prohibition of blood. Rather, **the verse is speaking of** the prohibition of **meat** cooked **in milk,** teaching that it is prohibited for consumption.
+
+**2.**
+*Hebrew/Aramaic:* אַתָּה אוֹמֵר בְּבָשָׂר בְּחָלָב הַכָּתוּב מְדַבֵּר, אוֹ אֵינוֹ אֶלָּא בְּאֶחָד מִכׇּל הָאִיסּוּרִין שֶׁבַּתּוֹרָה? אָמַרְתָּ: צֵא וּלְמַד מִשְּׁלֹשׁ עֶשְׂרֵה מִדּוֹת שֶׁהַתּוֹרָה נִדְרֶשֶׁת בָּהֶן, דָּבָר הַלָּמֵד מֵעִנְיָנוֹ. בַּמֶּה הַכָּתוּב מְדַבֵּר? בִּשְׁנֵי מִינִין, אַף כָּאן בִּשְׁנֵי מִינִין.
+*Translation:* **Do you say** that **the verse is speaking of** the prohibition of **meat** cooked **in milk? Or** perhaps **it is only** referring **to one of the** other **prohibitions in the Torah? You say: Go out and learn from the thirteen hermeneutical principles,** one of which is: **A matter that is derived from its context. To what are the** adjacent **verses referring?** They are referring **to** consecrated animals that were redeemed, which are a combination of **two types:** They are non-sacred in that they may be eaten, but they are prohibited for shearing and work, like consecrated animals. **Here too,** one may conclude that the verse is referring **to** a prohibition that involves **two types** of food, i.e., the prohibition of meat cooked in milk.
+
+**3.**
+*Hebrew/Aramaic:* אִי מֵהַהִיא – הֲוָה אָמֵינָא: הָנֵי מִילֵּי בַּאֲכִילָה, אֲבָל בַּהֲנָאָה – לָא; קָמַשְׁמַע לַן.
+*Translation:* Reish Lakish replied to Rabbi Yoḥanan: My exposition is still necessary, since **if** the source for the prohibition of eating meat cooked in milk were **from that** verse cited by Rabbi Yehuda HaNasi alone, **I would say** that **this statement** applies only **to** the prohibition of **eating** meat cooked in milk, **but not to** that of deriving **benefit** from it. The verse cited with regard to the Paschal offering **teaches us** that even deriving benefit is prohibited, just as it is prohibited to derive benefit from a disqualified Paschal offering.
+
+**4.**
+*Hebrew/Aramaic:* וְרַבִּי, בַּהֲנָאָה מְנָא לֵיהּ? נָפְקָא לֵיהּ מֵהָכָא: נֶאֱמַר כָּאן ״כִּי עַם קָדוֹשׁ אַתָּה לַה׳״, וְנֶאֱמַר לְהַלָּן ״וְלֹא יִהְיֶה קָדֵשׁ בִּבְנֵי יִשְׂרָאֵל״, מָה לְהַלָּן בַּהֲנָאָה, אַף כָּאן בַּהֲנָאָה.
+*Translation:* The Gemara asks: **And Rabbi** Yehuda HaNasi, **from where** does he derive that meat cooked in milk is prohibited **for benefit?** The Gemara responds: **He derives it from here,** as **it is stated here: “For you are a sacred [*kadosh*] people unto the Lord** your God. You shall not cook a kid in its mother’s milk” (Deuteronomy 14:21). **And it is stated below: “Neither shall there be a sodomite [*kadesh*] of the sons of Israel”** (Deuteronomy 23:18). The similar expressions teach that **just as below,** the prohibition of sodomy is a prohibition that involves enjoyment, i.e., deriving **benefit,** not eating, **so too here,** meat cooked in milk is prohibited **with regard to** deriving **benefit.**
+
+**5.**
+*Hebrew/Aramaic:* דְּבֵי רַבִּי אֱלִיעֶזֶר תָּנָא: ״לֹא תֹאכְלוּ כׇל נְבֵלָה [וְגוֹ׳]״, אָמְרָה תּוֹרָה: כְּשֶׁתִּמְכְּרֶנָּה – לֹא תְּבַשְּׁלֶנָּה וְתִמְכְּרֶנָּה.
+*Translation:* **The school of Rabbi Eliezer taught:** The verse states: **“You shall not eat of any animal carcass;** you may give it to the stranger who is within your gates, that he may eat it; or you may sell it to a foreigner; for you are a sacred people to the Lord your God; you shall not cook a kid in its mother’s milk” (Deuteronomy 14:21). **The Torah stated** the prohibition of meat cooked in milk after the *halakha* of an animal carcass to teach that **when you sell** a carcass to a gentile, **you shall not cook it** in milk **and** then **sell it,** i.e., meat cooked in milk is prohibited for benefit and may not be sold.
+
+**6.**
+*Hebrew/Aramaic:* דְּבֵי רַבִּי יִשְׁמָעֵאל תָּנָא: ״לֹא תְבַשֵּׁל גְּדִי בַּחֲלֵב אִמּוֹ״ שָׁלֹשׁ פְּעָמִים, אֶחָד לְאִיסּוּר אֲכִילָה, וְאֶחָד לְאִיסּוּר הֲנָאָה, וְאֶחָד לְאִיסּוּר בִּשּׁוּל.
+*Translation:* **The school of Rabbi Yishmael taught:** The Torah states **three times: “You shall not cook a kid in its mother’s milk”** (Exodus 23:19, 34:26; Deuteronomy 14:21). **One** verse serves **to** teach **the prohibition** against **eating** meat cooked in milk, **and one** serves **to** teach **the prohibition** against deriving **benefit** from it, **and one** serves **to** teach **the prohibition** against **cooking** meat in milk.
+
+**7.**
+*Hebrew/Aramaic:* תַּנְיָא, אִיסִי בֶּן יְהוּדָה אוֹמֵר: מִנַּיִן לְבָשָׂר בְּחָלָב שֶׁאָסוּר? נֶאֱמַר כָּאן ״כִּי עַם קָדוֹשׁ אַתָּה״, וְנֶאֱמַר לְהַלָּן ״וְאַנְשֵׁי קֹדֶשׁ תִּהְיוּן לִי וּבָשָׂר בַּשָּׂדֶה טְרֵפָה לֹא תֹאכֵלוּ״, מָה לְהַלָּן אָסוּר, אַף כָּאן אָסוּר.
+*Translation:* **It is taught** in a *baraita*: **Isi ben Yehuda says: From where** is it derived **that it is prohibited** to eat **meat** cooked **in milk? It is stated here: “For you are a sacred people** unto the Lord your God. You shall not cook a kid in its mother’s milk” (Deuteronomy 14:21). **And it is stated below: “And you shall be sacred men unto Me; therefore you shall not eat any flesh that is torn of animals in the field [*tereifa*];** you shall cast it to the dogs” (Exodus 22:30). **Just as below it is prohibited** to eat a *tereifa*, **so too here it is prohibited** to eat meat cooked in milk.
+
+**8.**
+*Hebrew/Aramaic:* וְאֵין לִי אֶלָּא בַּאֲכִילָה, בַּהֲנָאָה מִנַּיִן? אָמַרְתָּ קַל וְחוֹמֶר: וּמָה עׇרְלָה שֶׁלֹּא נֶעֶבְדָה בָּהּ עֲבֵירָה – אֲסוּרָה בַּהֲנָאָה, בָּשָׂר בְּחָלָב שֶׁנֶּעֶבְדָה בּוֹ עֲבֵירָה – אֵינוֹ דִּין שֶׁאָסוּר בַּהֲנָאָה!
+*Translation:* **And** from this **I have** derived **only** that it is prohibited **for consumption. From where** do I derive that it is prohibited **for benefit** as well? **You** can **say** it can be derived by **an *a fortiori*** inference: **Just as** with regard to the prohibition against eating **the fruit of a tree during the first three years after its planting [*orla*],** which is treated less stringently **as no sin has been committed in** the planting of the tree and its production of fruit, **it is prohibited for benefit, is it not right that meat** cooked **in milk, with regard to which a sin has been committed, should be prohibited for benefit?**
+
+**9.**
+*Hebrew/Aramaic:* מָה לְעׇרְלָה, שֶׁכֵּן לֹא הָיְתָה לָהּ שְׁעַת הַכּוֹשֶׁר.
+*Translation:* The Gemara rejects this, as *orla* exhibits a unique stringency: **What** is unique **about *orla*?** It is unique **in that it never had a time when it was fit.** The same cannot be said about meat and milk, which were each permitted on their own before being cooked together.
+
+**10.**
+*Hebrew/Aramaic:* חָמֵץ בַּפֶּסַח יוֹכִיחַ, שֶׁהָיְתָה לוֹ שְׁעַת הַכּוֹשֶׁר, וְאָסוּר בַּהֲנָאָה. מָה לְחָמֵץ בַּפֶּסַח, שֶׁכֵּן עָנוּשׁ כָּרֵת.
+*Translation:* The Gemara suggests: **Let leavened bread on Passover prove** the point, **as it had a time when it was fit,** before Passover, **and** yet **it is prohibited for benefit.** The Gemara rejects this inference as well: **What** is unique **about** consumption of **leavened bread on Passover?** It is unique **in that it is punishable by *karet*,** unlike the prohibition of meat cooked in milk.
+
+**11.**
+*Hebrew/Aramaic:* כִּלְאֵי הַכֶּרֶם יוֹכִיחוּ, שֶׁאֵין עָנוּשׁ כָּרֵת, וְאָסוּר בַּהֲנָאָה.
+*Translation:* The Gemara comments: **Let** the prohibition of **diverse kinds in a vineyard prove** the point, **as** it **is not punishable by *karet*, and** yet **it is prohibited to** derive **benefit** from the product.
+
+**12.**
+*Hebrew/Aramaic:* לְמָה לִי גְּזֵירָה שָׁוָה? לַיְיתֵי כּוּלַּהּ בְּקַל וָחוֹמֶר מֵעׇרְלָה: וּמָה עׇרְלָה, שֶׁלֹּא נֶעֶבְדָה בָּהּ עֲבֵירָה, אֲסוּרָה בֵּין בַּאֲכִילָה בֵּין בַּהֲנָאָה; בָּשָׂר בְּחָלָב, שֶׁנֶּעֶבְדָה בּוֹ עֲבֵירָה, אֵינוֹ דִּין שֶׁאָסוּר בֵּין בַּאֲכִילָה בֵּין בַּהֲנָאָה!
+*Translation:* The Gemara asks: **Why do I** need both Isi ben Yehuda’s **verbal analogy** to teach the prohibition of consumption and the *a fortiori* inference to teach the prohibition of benefit? **Let all of it,** both the prohibition of consumption and the prohibition against deriving benefit, **be derived** by an ***a fortiori*** inference **from *orla*: Just as *orla*,** which is treated less stringently, **as no sin has been committed in** the tree’s planting, is nevertheless **prohibited both for consumption and for benefit; is it not right that meat** cooked **in milk, with regard to which a sin has been committed,** should be **prohibited both for consumption and for benefit?**
+
+**13.**
+*Hebrew/Aramaic:* מִשּׁוּם דְּאִיכָּא לְמֵימַר: חוֹרֵשׁ בְּשׁוֹר וּבַחֲמוֹר, וְחוֹסֵם פִּי פָרָה וְדָשׁ בָּהּ יוֹכִיחַ, שֶׁנֶּעֶבְדָה בָּהֶם עֲבֵירָה וּשְׁרוּ.
+*Translation:* The Gemara responds: That inference would be invalid **because one could say:** The cases of one **who plows with an ox and with a donkey, and** one **who muzzles the mouth of a cow and threshes with it prove** it invalid. **As** in those cases, **a sin has been committed through them, and** yet benefit from the products of these actions is **permitted.** One cannot refute a verbal analogy with logical reasoning.
+
+**14.**
+*Hebrew/Aramaic:* לְמָה לִי לְמֵימַר ״כִּלְאֵי הַכֶּרֶם יוֹכִיחוּ״, לֵימָא ״עׇרְלָה תּוֹכִיחַ״, וְלִיהְדַּר דִּינָא וְלֵיתֵי בְּמָה הַצַּד.
+*Translation:* The Gemara asks further: **Why do I** need **to say,** as was stated above, that the case of **diverse kinds in a vineyard proves** that benefit from meat and milk is prohibited? At that point, two other cases, *orla* and leavened bread on Passover, had already been offered as proof. Although they were rejected because they both possess a unique stringency, each lacks the stringency possessed by the other. Therefore, **let us say** that the case of ***orla* proves** that the stringency for consumption of leavened bread on Passover, i.e., the penalty of *karet*, is irrelevant, and vice versa. **And let the inference revert** to its starting point, **and let** the *halakha* with regard to meat cooked in milk **be derived by** analogy from **the common element** of the two sources, i.e., the prohibition against both consumption and benefit.
+
+**15.**
+*Hebrew/Aramaic:* אָמַר רַב אָשֵׁי: מִשּׁוּם דְּאִיכָּא לְמֵימַר, נְבֵלָה תּוֹכִיחַ, שֶׁאֲסוּרָה בַּאֲכִילָה וּמוּתֶּרֶת בַּהֲנָאָה.
+*Translation:* **Rav Ashi said:** Such a derivation cannot be suggested, **because one can say** that the case of an unslaughtered **animal carcass proves** it invalid, **as** an animal carcass **is prohibited for consumption and** yet **it is permitted for benefit.**
+
+**16.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב מָרְדֳּכַי לְרַב אָשֵׁי: הָכִי אָמְרִינַן מִשְּׁמֵיהּ דְּרֵישׁ לָקִישׁ: כֹּל ״מָה הַצַּד״ – מִגּוּפוֹ פָּרְכִינַן, מֵעָלְמָא לָא פָּרְכִינַן.
+*Translation:* **Rav Mordekhai said to Rav Ashi: We say in the name of Reish Lakish as follows:** For **any** analogy derived from **the common element** of two sources, **one can refute** the analogy only **by** invoking conflicting details of the two sources **themselves,** e.g., here, some stringency shared by *orla* and leavened bread, but not by meat cooked in milk. **One cannot refute** the analogy **from an external** case, as you do.
+
+**17.**
+*Hebrew/Aramaic:* אִי הָכִי, תֵּיתֵי בְּמָה הַצַּד? מִשּׁוּם דְּאִיכָּא לְמִיפְרַךְ: מָה לְהַצַּד הַשָּׁוֶה שֶׁבָּהֶן – שֶׁכֵּן גִּדּוּלֵי קַרְקַע.
+*Translation:* The Gemara asks: **If so,** then the question remains: Why not **let** the *halakha* **be derived by** analogy from **the common element** of *orla* and leavened bread on Passover? The Gemara responds: **Because** the analogy **can be refuted** as follows: **What** is unique **about the common element of** *orla* and leavened bread? It is unique **in that** they both involve produce **that grows from the ground,** whereas meat and milk do not grow from the ground.
+
+**18.**
+*Hebrew/Aramaic:* אִי הָכִי, הַשְׁתָּא נָמֵי אִיכָּא לְמִיפְרַךְ: מָה לְכִלְאֵי הַכֶּרֶם, שֶׁכֵּן גִּדּוּלֵי קַרְקַע?
+*Translation:* The Gemara counters: **If so,** then **even now** that the Gemara has invoked diverse kinds in a vineyard to prove the point, the derivation **can be refuted** in the same manner: **What** is unique **about** the prohibition of **diverse kinds in a vineyard?** It is unique **in that** it involves produce **that grows from the ground.**
+
+**19.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב מָרְדֳּכַי לְרַב אָשֵׁי: הָכִי אָמְרִינַן מִשְּׁמֵיהּ דְּרֵישׁ לָקִישׁ: כֹּל מָה הַצַּד פָּרְכִינַן כֹּל דְּהוּ, לֹא אִם אָמַרְתָּ חֲדָא מֵחֲדָא – קַל וָחוֹמֶר פָּרְכִינַן, כֹּל דְּהוּ – לָא פָּרְכִינַן.
+*Translation:* **Rav Mordekhai said to Rav Ashi: We say in the name of Reish Lakish as follows:** For **any** analogy derived from **the common element** of two sources, **one can refute** the analogy by invoking **any** factor shared by the two source cases but not by the target case. But this is insufficient to refute an analogy to **a single** source **from a single** source using the standard formulation: **No, if you say** the *halakha* applies to the source case, which possesses a unique factor X, must you say the same of the target case, which does not? **One can refute** such analogies using this formulation only by way of **an *a fortiori*** inference, i.e., if the unique factor X is a stringency. But **one cannot refute** it by simply mentioning **any** unique factor, e.g., that diverse kinds in a vineyard grow from the ground.
+
+**20.**
+*Hebrew/Aramaic:* וְלִיפְרוֹךְ לְכוּלְּהוּ, מָה לְכוּלְּהוּ שֶׁכֵּן גִּדּוּלֵי קַרְקַע!
+*Translation:* The Gemara counters: **But** one need not invoke the case of diverse kinds in a vineyard by itself, since it is invoked in addition to the cases of *orla* and leavened bread. Consequently, this is effectively a derivation from the common element of all three sources, not from one single case to another. If so, **let us refute** the derivation from **all of them: What** is unique **about all of** the cases? They are unique **in that** they involve produce **that grows from the ground.**
+
+**21.**
+*Hebrew/Aramaic:* אֶלָּא, אֲמַר לֵיהּ רַב מָרְדֳּכַי לְרַב אָשֵׁי, הָכִי אָמְרִינַן מִשְּׁמֵיהּ דְּרֵישׁ לָקִישׁ:
+*Translation:* **Rather, Rav Mordekhai said to Rav Ashi: We say in the name of Reish Lakish as follows:**

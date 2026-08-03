@@ -58,7 +58,7 @@
 
 **15.**
 *Hebrew/Aramaic:* גְּמָ׳ אָמַר רַבִּי זֵירָא: מַאי קְרָאָה? ״מְתוּקָה שְׁנַת הָעֹבֵד אִם מְעַט וְאִם הַרְבֵּה יֹאכֵל״.
-*Translation:* GEMARA: **Rabbi Zeira said: What is the verse** from which this principle is derived? **“Sweet is the sleep of a laboring man, whether he consumes little or much”**(Ecclesiastes 5:11).The verse is interpreted as referring to one who brings an offering, and teaches that one who brings a substantial offering and one who brings a meager offering can be equally assured that their offering will be accepted.
+*Translation:* GEMARA: **Rabbi Zeira said: What is the verse** from which this principle is derived? **“Sweet is the sleep of a laboring man, whether he consumes little or much”**(Ecclesiastes 5:11). The verse is interpreted as referring to one who brings an offering, and teaches that one who brings a substantial offering and one who brings a meager offering can be equally assured that their offering will be accepted.
 
 **16.**
 *Hebrew/Aramaic:* רַב אַדָּא בַּר אַהֲבָה אָמַר, מֵהָכָא: ״בִּרְבוֹת הַטּוֹבָה רַבּוּ אוֹכְלֶיהָ וּמַה כִּשְׁרוֹן לִבְעָלָיו״.
@@ -94,4 +94,4 @@
 
 **24.**
 *Hebrew/Aramaic:* הֲדַרַן עֲלָךְ הֲרֵי עָלַי עִשָּׂרוֹן, וּסְלִיקָא לַהּ מַסֶּכֶת מְנָחוֹת.
-*Translation:* ...Y
+*Translation:* 

@@ -39,3 +39,40 @@
 **10.**
 *Hebrew/Aramaic:* אֲמַר לֵיהּ: תִּינַח בֵּי רֵישׁ גָּלוּתָא דְּהָכִי עָבֵיד, דְּסָפֵק מַיְיתֵי לַן סָפֵק לָא מַיְיתֵי לַן. הָכָא, הָא מַנַּח כָּסָא קַמַּן וְדַעְתַּן עִילָּוֵיהּ? אֲמַר לֵיהּ: אֲנָא עֲבַדִי כְּתַלְמִידֵי דְרַב, דְּרַב בְּרוֹנָא וְרַב חֲנַנְאֵל תַּלְמִידֵי דְרַב הֲווֹ יָתְבִי בִּסְעוֹדְתָּא
 *Translation:* **He said to him:** It works out **well to act this way** in **the house of the Exilarch, as there is uncertainty** as to whether **he will bring us** another cup of wine to drink, **or whether he will not bring us** another cup. Since we are dependent upon the host and cannot anticipate in advance whether we will drink more wine, each cup requires its own blessing. **Here,** however, **the cup is resting before us and our attention is on it,** i.e., we intend to drink this wine after Grace after Meals. What need is there to recite another blessing? **He said to him: I acted in accordance with the** opinion of the **students of Rav, as Rav Beruna and Rav Ḥananel, the students of Rav, were sitting** together **at a meal,**
+
+
+---
+
+### Pesachim 103b
+
+**1.**
+*Hebrew/Aramaic:* קָאֵי עֲלַיְיהוּ רַב יֵיבָא סָבָא. אֲמַרוּ לֵיהּ: הַב לַן וְנִיבָרֵיךְ. לְסוֹף אֲמַרוּ לֵיהּ: הַב לַן וְנִישְׁתֵּי, אֲמַר לְהוּ: הָכִי אָמַר רַב, כֵּיוָן דְּאָמְרִיתוּ הַב לַן וְנִיבָרֵיךְ, אִיתַּסְרָא לְכוּ לְמִישְׁתֵּי. מַאי טַעְמָא, דְּאַסְחִיתוּ דַּעְתַּיְיכוּ.
+*Translation:* and **Rav Yeiva the Elder stood over them** to serve them. **They said to him: Give us** a cup of wine **and we will recite the blessings** of Grace after Meals. **Ultimately, they** changed their mind and **said to him: Give us** a cup of wine **and we will drink** it. **He said to them** that **Rav said as follows: Since you** have **said: Give us** a cup **and we will recite the blessings** of Grace after Meals, **it is prohibited for you to drink** any more. **What is the reason** for this? The reason is **that you have diverted your attention** from drinking. Therefore, if you want to drink any more, you must recite the blessing over wine again.
+
+**2.**
+*Hebrew/Aramaic:* אַמֵּימָר וּמָר זוּטְרָא וְרַב אָשֵׁי הֲווֹ יָתְבִי בִּסְעוּדָה, וְקָאֵי עֲלַיְיהוּ רַב אַחָא בְּרֵיהּ דְּרָבָא. אַמֵּימָר בָּרֵיךְ עַל כׇּל כָּסָא וְכָסָא, וּמָר זוּטְרָא בָּרֵיךְ אַכָּסָא קַמָּא וְאַכָּסָא בָּתְרָא, רַב אָשֵׁי בָּרֵיךְ אַכָּסָא קַמָּא, וְתוּ לָא בָּרֵיךְ.
+*Translation:* The Gemara relates that **Ameimar, Mar Zutra, and Rav Ashi were sitting at a meal, and Rav Aḥa, son of Rava, stood over them** to serve them. **Ameimar recited a blessing over each and every cup** of wine he drank. **And Mar Zutra recited a blessing over the first cup** he drank during the meal **and over the last cup** he drank, upon concluding Grace after Meals. **Rav Ashi recited a blessing over the first cup and** did **not recite any further blessings** over the subsequent cups he drank.
+
+**3.**
+*Hebrew/Aramaic:* אֲמַר לְהוּ רַב אַחָא בַּר רָבָא: אֲנַן כְּמַאן נַעֲבֵיד? אַמֵּימָר אָמַר: נִמְלָךְ אֲנָא. מָר זוּטְרָא אָמַר: אֲנָא דַּעֲבַדִי כְּתַלְמִידֵי דְרַב.
+*Translation:* **Rav Aḥa bar Rava said to them: In accordance with whose** opinion should **we act** in this matter? We have witnessed three different courses of action. **Ameimar said: I** repeatedly **changed my mind.** In other words, the reason Ameimar recited a blessing over each cup was not because he maintains that it is always necessary to do so. Rather, he drank each cup with the intention that it should be his last. Consequently, he diverted his attention from drinking each time, and therefore he was required to recite a new blessing before he could drink again. **Mar Zutra said: I acted in accordance with the** opinion of the **students of Rav.** They maintain that one who prepares to recite Grace after Meals has completely diverted his attention from drinking, and therefore the blessing on wine that one recites during the meal does not include the wine he drinks after Grace after Meals.
+
+**4.**
+*Hebrew/Aramaic:* וְרַב אָשֵׁי אָמַר: לֵית הִילְכְתָא כְּתַלְמִידֵי דְרַב, דְּהָא יוֹם טוֹב שֶׁחָל לִהְיוֹת אַחַר הַשַּׁבָּת, וְאָמַר רַב: יַקְנֶ״ה.
+*Translation:* **And Rav Ashi said:** The ***halakha*** is **not in accordance with** the opinion of **the students of Rav.** This can be proven from a ruling of Rav himself, **as** with regard to **a Festival that occurs after Shabbat, Rav said** that the order of blessings is ***yod*, *kuf*, *nun*, *heh*:** Wine [*yayin*], *kiddush*, candle [*ner*], and *havdala*. This shows that although one recites *kiddush* between the blessing over wine and *havdala*, it is unnecessary to recite the blessing over wine again before *havdala*. The same should hold true in our case: Just as *kiddush* is not considered an interruption between the blessing over wine and its consumption, Grace after Meals should not be considered an interruption either.
+
+**5.**
+*Hebrew/Aramaic:* וְלָא הִיא, הָתָם — עָקַר דַּעְתֵּיהּ מִמִּשְׁתְּיָא, הָכָא — לָא עָקַר דַּעְתֵּיהּ מִמִּשְׁתְּיָא.
+*Translation:* The Gemara rejects this reasoning: **And that is not so. There,** when one is preparing himself to recite Grace after Meals, he has already **uprooted his mind from drinking. Here,** with regard to *kiddush* and *havdala*, **he has not uprooted his mind from drinking.**
+
+**6.**
+*Hebrew/Aramaic:* כִּי מְטָא לְאַבְדּוֹלֵי, קָם שַׁמָּעֵיהּ וְאַדְלֵיק אֲבוּקָה מִשְּׁרָגָא. אֲמַר לֵיהּ: לְמָה לָךְ כּוּלֵּי הַאי, הָא מַנְחָא שְׁרָגָא! אֲמַר לֵיהּ: שַׁמָּעָא מִדַּעְתֵּיהּ דְּנַפְשֵׁיהּ קָא עָבֵיד. אֲמַר לֵיהּ: אִי לָא שְׁמִיעַ לֵיהּ מִינֵּיהּ דְּמָר, לָא הֲוָה עָבֵיד! אֲמַר לֵיהּ: לָא סָבַר לֵיהּ מָר אֲבוּקָה לְהַבְדָּלָה מִצְוָה מִן הַמּוּבְחָר.
+*Translation:* After discussing the opinion of the students of Rav, the Gemara returns to the story of Rav Ya’akov bar Abba’s visit to Rava. **When** the time **came to recite *havdala*,** Rava’s **attendant got up and lit a torch from a candle.** Rav Ya’akov bar Abba **said to him: Why do you** need **all this? The candle was present,** and you could have recited the blessing over the light of the candle itself. Rava **said to him: The attendant did** this **on his own** accord, without consulting me. Rav Ya’akov bar Abba **said to him: If he had not heard it from the Master he would not have done it** on his own; he must have been following your opinion on this matter. Rava **said to him: Does the Master not maintain** that using **a torch for *havdala* is the optimal manner** in which **to fulfill the mitzva?** It is for this reason that the attendant lit a torch for *havdala*.
+
+**7.**
+*Hebrew/Aramaic:* פָּתַח וְאָמַר: ״הַמַּבְדִּיל בֵּין קוֹדֶשׁ לְחוֹל בֵּין אוֹר לְחֹשֶׁךְ בֵּין יִשְׂרָאֵל לָעַמִּים בֵּין יוֹם הַשְּׁבִיעִי לְשֵׁשֶׁת יְמֵי הַמַּעֲשֶׂה״ אֲמַר לֵיהּ: לְמָה לָךְ כּוּלֵּי הַאי? וְהָאָמַר רַב יְהוּדָה אָמַר רַב: ״הַמַּבְדִּיל בֵּין קוֹדֶשׁ לְחוֹל״ זוֹ הִיא הַבְדָּלָתוֹ שֶׁל רַבִּי יְהוּדָה הַנָּשִׂיא?
+*Translation:* Rava **began** his recitation of *havdala* **and said: Who distinguishes between sacred and profane, between light and darkness, between Israel and the nations, between the seventh day and the six days of work.** Rav Ya’akov bar Abba **said to him: Why do you** need **all this? Didn’t Rav Yehuda say** that **Rav said** with regard to the statement: **Who distinguishes between sacred and profane,** that **this** alone **is the *havdala* of Rabbi Yehuda HaNasi?** Why is this plain statement not enough for you?
+
+**8.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: אֲנָא כְּהָא סְבִירָא לִי, דְּאָמַר רַבִּי אֶלְעָזָר אָמַר רַבִּי אוֹשַׁעְיָא: הַפּוֹחֵת לֹא יִפְחוֹת מִשָּׁלֹשׁ, וְהַמּוֹסִיף לֹא יוֹסִיף עַל שֶׁבַע. אֲמַר לֵיהּ:
+*Translation:* **He said to him: I maintain in accordance with this** statement **that Rabbi Elazar said** that **Rabbi Oshaya said: One who decreases** the number of distinctions in the text of the *havdala* should **not decrease** them to **less than three, and one who increases** the number of distinctions should **not increase** them to **more than seven.** Rav Ya’akov bar Abba **said to him:**

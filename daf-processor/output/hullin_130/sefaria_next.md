@@ -67,3 +67,96 @@
 **17.**
 *Hebrew/Aramaic:* שְׁלֹשָׁה שֶׁבַּתְּבוּאָה: הַלֶּקֶט,
 *Translation:* The Gemara continues: The *baraita* teaches that **three** gifts are left to the poor **from grain: The gleanings,**
+
+
+---
+
+### Hullin 131b
+
+**1.**
+*Hebrew/Aramaic:* הַשִּׁכְחָה, וְהַפֵּאָה, דִּכְתִיב: ״וּבְקֻצְרְכֶם אֶת קְצִיר אַרְצְכֶם לֹא תְכַלֶּה פְּאַת שָׂדְךָ בְּקֻצְרֶךָ וְלֶקֶט קְצִירְךָ וְגוֹ׳״, ״כִּי תִקְצֹר קְצִירְךָ בְשָׂדֶךָ וְשָׁכַחְתָּ עֹמֶר בַּשָּׂדֶה״.
+*Translation:* **and the forgotten** sheaves, **and the *pe’a*. As it is written: “And when you reap the harvest of your land, you shall not wholly reap the corner of [*pe’at*] your field,** neither shall you gather **the gleaning of your harvest;** you shall leave them for the poor, and for the stranger” (Leviticus 23:22). And it is also written: **“When you reap your harvest in your field and have forgotten a sheaf in the field,** you shall not go back to fetch it; it shall be for the stranger, for the fatherless, and for the widow” (Deuteronomy 24:19).
+
+**2.**
+*Hebrew/Aramaic:* שְׁנַיִם שֶׁבָּאִילָן: הַשִּׁכְחָה וְהַפֵּאָה, דִּכְתִיב ״כִּי תַחְבֹּט זֵיתְךָ לֹא תְפָאֵר אַחֲרֶיךָ״, וְתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: שֶׁלֹּא תִּטּוֹל תִּפְאַרְתּוֹ מִמֶּנּוּ, ״אַחֲרֶיךָ״ – זוֹ שִׁכְחָה.
+*Translation:* The *baraita* taught that **two** gifts are left to the poor **from** the produce **of a tree: The forgotten** fruits **and the *pe’a*, as it is written: “When you beat your olive tree, you shall not go over the boughs [*tefa’er*] after you;** it shall be for the stranger, for the fatherless, and for the widow” (Deuteronomy 24:20), **and the school of Rabbi Yishmael taught** that the phrase: “You shall not go over the boughs,” means **that you should not take** all of **its splendor [*tiferet*] from it;** rather, you should leave a portion of the olives for the poor as *pe’a*. Additionally, when the verse states: **“After you,” this** is a reference to **forgotten** fruits.
+
+**3.**
+*Hebrew/Aramaic:* וְכוּלָּן אֵין בָּהֶן טוֹבַת הֲנָאָה לִבְעָלִים, מַאי טַעְמָא? ״עֲזִיבָה״ כְּתִיבָא בְּהוּ.
+*Translation:* The Gemara continues its analysis of the *baraita*. **And** with regard to **all of** the gifts left to the poor, **the owner** of the produce **does not have the benefit of discretion,** i.e., the right to distribute the gifts to poor people of his choosing. Instead, any poor person who takes possession of these gifts becomes their rightful owner. **What is the reason** for this *halakha*? It is because the requirement of **leaving is written with regard to them,** e.g., in the verse that states: “You shall leave them” (Leviticus 23:22).
+
+**4.**
+*Hebrew/Aramaic:* וַאֲפִילּוּ עָנִי שֶׁבְּיִשְׂרָאֵל, מוֹצִיאִין אוֹתוֹ מִיָּדוֹ, דִּכְתִיב: ״וְלֶקֶט קְצִירְךָ לֹא תְלַקֵּט לֶעָנִי וְלַגֵּר תַּעֲזֹב אֹתָם״, לְהַזְהִיר עָנִי עַל שֶׁלּוֹ.
+*Translation:* The *baraita* also stated: **And even a poor person of Israel** who owns a vineyard, field, or tree must leave these gifts for all poor people, and if he does not, **the court removes** them **from his possession.** This is derived from a verse, **as it is written: “Neither the gleaning of your harvest shall you gather; for the poor you shall leave them, and for the stranger”** (Leviticus 23:22). Since the verse juxtaposes the words “the poor” to the mitzva in the previous clause, this serves **to warn a poor person** that he must also separate these gifts from **his own** produce.
+
+**5.**
+*Hebrew/Aramaic:* וּמַעְשַׂר עָנִי הַמִּתְחַלֵּק בְּתוֹךְ הַבַּיִת יֵשׁ בּוֹ טוֹבַת הֲנָאָה לַבְּעָלִים, מַאי טַעְמָא? ״נְתִינָה״ כְּתִיבָא בֵּיהּ.
+*Translation:* **And** the *baraita* teaches with regard to the **poor man’s tithe that is distributed** from **within his house** that **the owner has the benefit of discretion.** The Gemara asks: **What is the reason** for this *halakha*? It is because the requirement of **giving is written with regard to it,** as the verse states: “When you have made an end of tithing all the tithe of your increase in the third year, which is the year of tithing, and you shall give it to the Levite, to the stranger, to the fatherless, and to the widow, that they may eat within your gates, and be satisfied” (Deuteronomy 26:12). Consequently, in this case it is not left for the poor but is actively given to them.
+
+**6.**
+*Hebrew/Aramaic:* וַאֲפִילּוּ עָנִי שֶׁבְּיִשְׂרָאֵל מוֹצִיאִין אוֹתוֹ מִיָּדוֹ, דְּאָמַר רַבִּי אִילְעָא: גָּמַר ״לַגֵּר״ ״לַגֵּר״ מֵהָתָם, מָה לְהַלָּן מוּזְהָר עָנִי עַל שֶׁלּוֹ, אַף כָּאן מוּזְהָר עָנִי עַל שֶׁלּוֹ.
+*Translation:* The *baraita* states: **And even** in the case of **a poor person in Israel,** if he fails to separate the poor man’s tithe from his produce, **the court removes it from his possession.** The Gemara explains that this is **as Rabbi Ile’a said:** This is **derived** from a verbal analogy between the term **“to the stranger”** stated with regard to the poor man’s tithe in the verse cited previously, and the term **“to the stranger” from there,** the mitzva to leave gleanings for the poor. **Just as there,** with regard to the mitzva to leave gleanings, **a poor person is warned that** he must leave gleanings from the produce of **his own** fields, **so too here,** with regard to the mitzva to separate the poor man’s tithe, **a poor person is warned to** separate it from **his own** fields.
+
+**7.**
+*Hebrew/Aramaic:* וּשְׁאָר מַתְּנוֹת כְּהוּנָּה, כְּגוֹן הַזְּרוֹעַ וְהַלְּחָיַיִם וְהַקֵּבָה, אֵין מוֹצִיאִין אוֹתָן לֹא מִכֹּהֵן לְכֹהֵן וְלֹא מִלֵּוִי לְלֵוִי. הָא מִלֵּוִי לְכֹהֵן מוֹצִיאִין, אַלְמָא אִיקְּרוּ ״עַם״.
+*Translation:* The *baraita* taught: **And** with regard to **other gifts of the priesthood, such as the foreleg, and the jaw, and the maw,** the court **does not remove them, neither from a priest** to give **to** another **priest nor from a Levite** to give **to** another **Levite.** Rav Idi bar Avin now explains his objection: It may be inferred that the court does **remove** the gifts **from a Levite** to give **to a priest. Evidently,** Levites **are called** part of the **“people.”** Accordingly, since the verse states: “And this shall be the priests’ due from the people” (Deuteronomy 18:3), the gifts of the priesthood may be removed from the possession of Levites. Why, then, was Rav uncertain with regard to their status?
+
+**8.**
+*Hebrew/Aramaic:* כְּגוֹן הַזְּרוֹעַ וְלֹא זְרוֹעַ, וּמַאי נִיהוּ – מַעֲשֵׂר רִאשׁוֹן.
+*Translation:* The Gemara responds: The *baraita* is not referring to the actual gifts of the foreleg, the jaw, and the maw themselves. Rather, it is referring to a gift that is **like the foreleg,** the jaw, and the maw, **but not** the **foreleg,** the jaw, and the maw themselves. **And what is this?** It is the **first tithe.**
+
+**9.**
+*Hebrew/Aramaic:* מַעֲשֵׂר רִאשׁוֹן דְּלֵוִי הוּא? כְּרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה, דְּתַנְיָא: תְּרוּמָה לַכֹּהֵן, מַעֲשֵׂר רִאשׁוֹן לַלֵּוִי, דִּבְרֵי רַבִּי עֲקִיבָא. רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹמֵר: אַף לַכֹּהֵן.
+*Translation:* The Gemara asks: But the **first tithe is** given **to** the **Levite.** Why would it be removed from his possession? The Gemara responds: The *baraita* is **in accordance with** the opinion of **Rabbi Elazar ben Azarya, as it is taught** in another *baraita*: ***Teruma*** is given **to the priest,** whereas the **first tithe** is given **to the Levite;** this is **the statement of Rabbi Akiva. Rabbi Elazar ben Azarya says:** The first tithe is given **to the priest as well,** despite the fact that the Torah states that it is given to the Levite, as priests are often called Levites in the Torah.
+
+**10.**
+*Hebrew/Aramaic:* אֵימַר דְּאָמַר רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אַף לַכֹּהֵן, לַכֹּהֵן וְלֹא לַלֵּוִי מִי אָמַר? אִין, לְבָתַר דְּקַנְסִינְהוּ עֶזְרָא.
+*Translation:* The Gemara asks: **Say that Rabbi Elazar ben Azarya said** that the first tithe is given **to the priest as well;** but **did he say** that it is given exclusively **to the priest and not to the Levite?** The Gemara responds: **Yes;** although generally the first tithe is not removed from the possession of a Levite and given to a priest, the *baraita* is referring **to** first tithe in the period **after Ezra penalized** the Levites for their unwillingness to return to Eretz Yisrael from Babylonia, as he decreed that they should no longer be given the first tithe.
+
+**11.**
+*Hebrew/Aramaic:* אֵימַר דְּקַנְסִינְהוּ עֶזְרָא – דְּלָא יָהֲבִינַן לְהוּ מִשְׁקַל מִינַּיְיהוּ מִי אָמַר?! אֶלָּא, כְּגוֹן זְרוֹעַ וְלֹא זְרוֹעַ, וּמַאי נִיהוּ – רֵאשִׁית הַגֵּז.
+*Translation:* The Gemara persists: One can **say that Ezra penalized them** and decreed **that we should not give them** first tithe, but **did he say** that first tithe should even be **taken from them** and given to the priests? **Rather,** explain instead that the *baraita* is referring to a gift that is **like** the **foreleg,** the jaw, and the maw, **but** is **not** actually the **foreleg,** the jaw, or the maw. **And what is this?** It is **the first sheared** wool, with regard to which the verse states: “And the first of the fleece of your sheep, you shall give him” (Deuteronomy 18:4). Since the verse does not state that the first fleece is taken from the “people,” even Levites are obligated to give their first shearing to the priest, and it may be removed from their possession to that end.
+
+**12.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, זֶה הַכְּלָל: כׇּל דָּבָר שֶׁהוּא בִּקְדוּשָּׁה, כְּגוֹן תְּרוּמָה וּתְרוּמַת מַעֲשֵׂר וְחַלָּה – מוֹצִיאִין אוֹתָן מִיָּדָם, וְכׇל דָּבָר שֶׁאֵינוֹ בִּקְדוּשָּׁה, כְּגוֹן הַזְּרוֹעַ וְהַלְּחָיַיִם וְהַקֵּבָה – אֵין מוֹצִיאִין אוֹתוֹ מִיָּדָם.
+*Translation:* The Gemara suggests: **Come** and **hear** a proof with regard to the uncertainty of Rav from a *baraita*. **This is the principle:** With regard to **any item that is of sanctity,** i.e., that may not be consumed by a non-priest, **such as *teruma*, and *teruma* of the tithe, and *ḥalla*,** the court **removes it from the possession** of a Levite in order to give it to the priests. **And** with regard to **any item that is not of sanctity, such as the foreleg, and the jaw, and the maw,** which are given from a non-sacred animal, the court **does not remove it from the possession** of the Levites to give to the priests. Evidently, Levites are not called part of the “people,” and therefore they are exempt from giving the foreleg, the jaw, and the maw.
+
+**13.**
+*Hebrew/Aramaic:* כְּגוֹן זְרוֹעַ וְלֹא זְרוֹעַ, וּמַאי נִיהוּ – מַעֲשֵׂר רִאשׁוֹן, וּלְבָתַר דְּקַנְסִינְהוּ עֶזְרָא.
+*Translation:* The Gemara rejects this proof: The *baraita* is referring to a gift that is **like** the **foreleg,** the jaw, and the maw, **but** is **not** actually the **foreleg,** the jaw, and the maw themselves. **And what is this?** It is **first tithe, and** the *baraita* is dealing with first tithe in the period **after Ezra penalized** the Levites and decreed that the first tithe should be given to the priests rather than the Levites. Nevertheless, if a Levite received the first tithe it may not be removed from his possession, since this penalty was not included in Ezra’s decree.
+
+**14.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: הַשּׁוֹחֵט לְכֹהֵן וּלְגוֹי – פָּטוּר מִן הַמַּתָּנוֹת, הָא לְלֵוִי וּלְיִשְׂרָאֵל – חַיָּיב? לָא תֵּימָא הָא לְלֵוִי וּלְיִשְׂרָאֵל חַיָּיב, אֶלָּא אֵימָא: הָא לְיִשְׂרָאֵל – חַיָּיב.
+*Translation:* The Gemara further suggests: **Come** and **hear** a proof from a *baraita*: An Israelite **who slaughters** an animal **for a priest or for a gentile** is **exempt from** giving **the gifts,** as priests and gentiles are exempt from this obligation. The Gemara infers: This indicates that if an Israelite slaughtered an animal **for a Levite or for an Israelite,** he is **obligated** to give the gifts, and they may be removed from his possession to that end. Evidently, Levites are called part of the “people,” and Rav should not have been uncertain with regard to their status. The Gemara rejects this proof: **Do not say** that one should infer that if an Israelite slaughtered an animal **for a Levite or for an Israelite** he is **obligated** to give the gifts. **Rather, say** merely that if an Israelite slaughtered an animal **for** another **Israelite,** he is **obligated** to give the gifts.
+
+**15.**
+*Hebrew/Aramaic:* אֲבָל לְלֵוִי מַאי פָּטוּר? אִי הָכִי, לִיתְנֵי ״הַשּׁוֹחֵט לַלֵּוִי וְלַגּוֹי פָּטוּר מִן הַמַּתָּנוֹת״. וְעוֹד, הָא תַּנְיָא: הַשּׁוֹחֵט לַכֹּהֵן וְלַגּוֹי – פָּטוּר מִן הַמַּתָּנוֹת, לַלֵּוִי וּלְיִשְׂרָאֵל – חַיָּיב! תְּיוּבְתָּא דְּרַב.
+*Translation:* The Gemara asks: **But** if so, when one slaughters an animal **for a Levite, what** is the *halakha*? Is one **exempt? If so, let** the *baraita* **teach: One who slaughters** an animal **for a Levite or for a gentile** is **exempt from** giving **the gifts,** and it would be obvious that this is also the *halakha* when one slaughters for a priest. **And furthermore, isn’t it taught** explicitly in a *baraita* that **one who slaughters for a priest or for a gentile** is **exempt from** giving **the gifts,** whereas one who slaughters **for a Levite or for an Israelite** is **obligated** to give the gifts? This *baraita* apparently constitutes **a conclusive refutation** of the uncertainty **of Rav.**
+
+**16.**
+*Hebrew/Aramaic:* אָמַר לְךָ רַב: תַּנָּאֵי הִיא, דְּתַנְיָא: ״וְכִפֶּר אֶת מִקְדַּשׁ הַקֹּדֶשׁ״ – זֶה לִפְנַי וְלִפְנִים.
+*Translation:* The Gemara responds: **Rav** could **say to you** that although this *baraita* is in fact contrary to his opinion, the question of whether or not Levites are called part of the “people” **is** a dispute between ***tanna’im*. As it is taught** in a *baraita* that the verse states with regard to the Yom Kippur Temple service: “And he shall make atonement for the most holy place, and he shall make atonement for the Tent of Meeting and for the altar; and he shall make atonement for the priests and for all the people of the assembly” (Leviticus 16:33). The *baraita* explains: **“And he shall make atonement for the most holy place”; this** is referring to **the innermost sanctum,** i.e., the bull and goat offerings brought on Yom Kippur atone for ritual impurity occurring inside the Holy of Holies.
+
+**17.**
+*Hebrew/Aramaic:* ״אֹהֶל מוֹעֵד״ – זֶה הֵיכָל, ״מִזְבֵּחַ״ – כְּמַשְׁמָעוֹ, ״יְכַפֵּר״ – אֵלּוּ עֲזָרוֹת, ״כֹּהֲנִים״ – כְּמַשְׁמָעוֹ, ״עַם הַקָּהָל״ – אֵלּוּ יִשְׂרָאֵל, ״יְכַפֵּר״ – אֵלּוּ הַלְוִיִּם.
+*Translation:* The *baraita* continues: **“Tent of Meeting”; this** is referring to the **Sanctuary,** i.e., the offerings atone for impurity occurring inside the Sanctuary. **“Altar”;** this is understood **in accordance with its plain meaning,** i.e., the offerings atone for one who performs sacrificial rites on the altar in a state of ritual impurity. **“He shall make atonement”; this** is referring to the Temple **courtyards,** i.e., the offerings atone for impurity occurring there. “For **the priests”;** this is understood **in accordance with its plain meaning,** indicating that the offerings atone for a priest who unwittingly enters the courtyard while impure. “And for all the **people of the assembly”; these are the Israelites. “He shall make atonement”; this** is referring to **the Levites.**
+
+**18.**
+*Hebrew/Aramaic:* וְתַנְיָא אִידַּךְ: ״יְכַפֵּר״ – אֵלּוּ עֲבָדִים. מַאי לָאו בְּהָא קָמִיפַּלְגִי, דְּמָר סָבַר אִיקְּרוֹ ״עַם״, וּמָר סָבַר לָא אִיקְּרוֹ ״עַם״.
+*Translation:* **And it is taught** in **another** *baraita*: **“He shall make atonement”; this** is referring to Canaanite **slaves** in the possession of Jews. These slaves are obligated in certain mitzvot and are therefore in need of atonement. The Gemara analyzes these sources: Why doesn’t the *tanna* of this *baraita* interpret the term “He shall make atonement” as a reference to Levites? **What, is it not** that **they disagree about this, as** one **Sage,** the *tanna* of the second *baraita*, **holds** that Levites are **called** part of the **“people”** and are therefore included in the clause “the people of the assembly,” and consequently, the term “he shall make atonement” is not required to include the Levites but instead serves to include Canaanite slaves. **And** by contrast, one **Sage,** the *tanna* of the first *baraita*, **holds** that **they are not called** part of the **“people,”** which means that the term “He shall make atonement” is required to include Levites.
+
+**19.**
+*Hebrew/Aramaic:* וְרַב, אִי סְבִירָא לֵיהּ כְּהַאי תַּנָּא – לֵימָא, וְאִי סְבִירָא לֵיהּ כְּהַאי תַּנָּא – לֵימָא! מְסַפְּקָא לֵיהּ אִי כְּהַאי תַּנָּא אִי כְּהַאי תַּנָּא.
+*Translation:* The Gemara asks: **But** if this is a dispute between *tanna’im*, why is **Rav** uncertain with regard to the status of Levites? **If he holds in accordance with this *tanna*, let him say** that the *halakha* is in accordance with him, **and if he holds in accordance with that *tanna*, let him say** that the *halakha* is in accordance with him. The Gemara responds: Rav **is uncertain whether** the *halakha* is **in accordance with this *tanna* or in accordance with that *tanna*.**
+
+**20.**
+*Hebrew/Aramaic:* דְּרַשׁ מָרִימָר: הִלְכְתָא כְּוָותֵיהּ דְּרַב, וְהִלְכְתָא כְּוָותֵיהּ דְּרַב חִסְדָּא.
+*Translation:* **Mareimar taught: The *halakha* is in accordance with** the opinion of **Rav** that it is uncertain whether or not Levites are called part of the “people.” Consequently, the court may not compel Levites to give the foreleg, the jaw, and the maw to the priests. **And the *halakha* is in accordance with** the opinion **of Rav Ḥisda,** who said that one who damages or consumes gifts of the priesthood is exempt from payment.
+
+**21.**
+*Hebrew/Aramaic:* עוּלָּא הֲוָה יָהֵיב מַתְּנָתָא לְכָהַנְתָּא, אֵיתִיבֵיהּ רָבָא לְעוּלָּא: מִנְחַת כֹּהֶנֶת – נֶאֱכֶלֶת, מִנְחַת כֹּהֵן – אֵינָהּ נֶאֱכֶלֶת.
+*Translation:* § With regard to the gifts of the priesthood, the Gemara relates that **Ulla would give gifts** of the priesthood **to a female priest,** i.e., the daughter of a priest, even if she was married to an Israelite. **Rava raised an objection to** the practice of **Ulla** from a *baraita*: The remainder of **a meal offering of a female priest is consumed,** just like the remainder of the meal offering of an Israelite. But the remainder of **a meal offering of a priest is not consumed,** as the verse states: “And every meal offering of the priest shall be wholly made to smoke; it shall not be eaten” (Leviticus 6:16).
+
+**22.**
+*Hebrew/Aramaic:* וְאִי אָמְרַתְּ ״כֹּהֵן״ וַאֲפִילּוּ כֹּהֶנֶת, וְהָכְתִיב: ״וְכׇל מִנְחַת כֹּהֵן כָּלִיל תִּהְיֶה לֹא תֵאָכֵל״! אֲמַר לֵיהּ: רַבִּי,
+*Translation:* Rava explains his objection: **And if you say** that one may give gifts of **a priest even** to **a female priest,** because when the verse mentions a priest it is referring even to the daughter of a priest, **but isn’t it written: “And every meal offering of the priest shall be wholly made to smoke; it shall not be eaten”?** Why, then, is the remainder of a meal offering of the daughter of a priest consumed? Ulla **said to him** in response: **My teacher,**

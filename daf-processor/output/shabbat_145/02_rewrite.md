@@ -20,7 +20,7 @@ The Gemara asks: what is the operative dispute between these *tanna'im*? It prop
 
 A student raises a sharp question: how can olives still attached to the tree become *huchshar*, since produce must be detached to be susceptible to impurity in the first place? The answer, noted as an excellent point, is that one must have plucked an olive to test it, or that the oil still rests on the olive at the time of harvesting. At any rate, the point of the *baraita* is the operative principle regarding *le'ibud*.
 
-### Rav Huna: Le'ibud vs. Le…
+### Huna: Le'ibud vs Zehutz
 
 *Amar Rav Huna brei de'Rav Yehoshua*: Rav Huna son of Rav Yehoshua clarifies that the tannaitic dispute about squeezing olives to test their ripeness is specifically a debate about *mashkeh omad le'ibud* — liquid that one wants but that is going to waste. The debate about smearing grape juice on bread, however, is a separate matter: *be'mashkeh omad letzahtzecho kamipligi* — that is a dispute about liquid intended to give a shine or polish to the surface of the bread. It is not strictly going *le'ibud*, since it is being applied to something, yet it is also not quite the normal case of liquid being added to food for flavor. The precise line between these categories is admittedly difficult to draw cleanly, but the Gemara's point is that these are two distinct debates rather than a single one.
 

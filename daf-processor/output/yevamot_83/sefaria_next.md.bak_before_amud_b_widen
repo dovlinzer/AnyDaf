@@ -1,0 +1,69 @@
+### Yevamot 84a
+
+**1.**
+*Hebrew/Aramaic:* הַכִּלְאַיִם וּטְרֵפָה וְיוֹצֵא דּוֹפֶן, טוּמְטוּם וְאַנְדְּרוֹגִינוֹס — לֹא קְדוֹשִׁין וְלֹא מַקְדִּישִׁין.
+*Translation:* **Forbidden crossbred livestock, an animal with a condition that will cause it to die within twelve months** [***tereifa***], an animal **delivered through the abdominal wall,** and an animal that is **a *tumtum* or a hermaphrodite do not become sacred and do not render** another animal **sacred** in their place.
+
+**2.**
+*Hebrew/Aramaic:* וְאָמַר שְׁמוּאֵל: לֹא קְדוֹשִׁין — בִּתְמוּרָה. וְלֹא מַקְדִּישִׁין — בְּעוֹשֶׂה תְּמוּרָה. שְׁמַע מִינַּהּ.
+*Translation:* **And Shmuel said: They do not become sacred by way of substitution,** i.e., if one had an animal that had been designated as an offering, and he wished to substitute one of these animals for it, the substituted animal does not become sacred. **And they** themselves **do not render** another animal **sacred when it is made a substitute** for them. If one designated one of these animals as an offering and he wished to substitute another animal for it, it does not become sacred. The Gemara concludes: **Learn from this** that Rabbi Eliezer does not consider a hermaphrodite to be a proper male.
+
+**3.**
+*Hebrew/Aramaic:* רַבִּי אֱלִיעֶזֶר אוֹמֵר: חַיָּיבִין עָלָיו סְקִילָה כַּזָּכָר. תַּנְיָא, אָמַר רַבִּי: כְּשֶׁהָלַכְתִּי לִלְמוֹד תּוֹרָה אֵצֶל רַבִּי אֶלְעָזָר בֶּן שַׁמּוּעַ, חָבְרוּ עָלַי תַּלְמִידָיו כְּתַרְנְגוֹלִים שֶׁל בֵּית בּוּקְיָא, וְלֹא הִנִּיחוּנִי לִלְמוֹד אֶלָּא דָּבָר אֶחָד בְּמִשְׁנָתֵינוּ — רַבִּי אֱלִיעֶזֶר אוֹמֵר: אַנְדְּרוֹגִינוֹס חַיָּיבִין עָלָיו סְקִילָה כַּזָּכָר.
+*Translation:* It is taught in the mishna that **Rabbi Eliezer says:** If one had intercourse with **a hermaphrodite,** one **is liable to** be punished with **stoning on his account as if** one had relations with **a male. It is taught** on this matter in a *baraita* that **Rabbi** Yehuda HaNasi **says: When I went to learn Torah from Rabbi Elazar ben Shamua, his students joined** together **against me like the roosters of Beit Bukya,** highly aggressive animals that do not allow other creatures to remain among them, **and they did not let me learn** there. Therefore, I managed to learn **only one thing in our mishna,** which is that **Rabbi Eliezer says:** If one had intercourse with **a hermaphrodite,** one **is liable to** be punished with **stoning on his account as if** one had relations with **a male.**
+
+**4.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ הֶעָרֵל
+*Translation:* 
+
+**5.**
+*Hebrew/Aramaic:* יֵשׁ מוּתָּרוֹת לְבַעְלֵיהֶן וַאֲסוּרוֹת לְיִבְמֵיהֶן, מוּתָּרוֹת לְיִבְמֵיהֶן וַאֲסוּרוֹת לְבַעְלֵיהֶן. מוּתָּרוֹת לָאֵלּוּ וְלָאֵלּוּ, וַאֲסוּרוֹת לָאֵלּוּ וְלָאֵלּוּ.
+*Translation:* MISHNA: **There are** women **who are permitted to their husbands and forbidden to their *yevamin*,** while others **are permitted to their *yevamin* and forbidden to their husbands.** Certain women **are permitted** both **to these and to those, and** others **are forbidden to** both **these and to those.**
+
+**6.**
+*Hebrew/Aramaic:* וְאֵלּוּ מוּתָּרוֹת לְבַעְלֵיהֶן וַאֲסוּרוֹת לְיִבְמֵיהֶן: כֹּהֵן הֶדְיוֹט שֶׁנָּשָׂא אֶת הָאַלְמָנָה, וְיֵשׁ לוֹ אָח כֹּהֵן גָּדוֹל; חָלָל שֶׁנָּשָׂא כְּשֵׁרָה, וְיֵשׁ לוֹ אָח כָּשֵׁר;
+*Translation:* The mishna elaborates: **And these are** cases of women who are **permitted to their husbands and forbidden to their *yevamin*:** In the case of **a common priest who married a widow, and he has a brother** who **is** the **High Priest,** the widow, who was permitted to her husband, is forbidden to her *yavam*, as it is prohibited for the High Priest to marry a widow. The same is true in the case of **a priest disqualified due to flawed lineage** [***ḥalal***], e.g., the son of a priest and a divorcée, **who married** a woman **fit** to marry a priest, **and he has a brother** who **is** a priest **fit** for service. That woman was permitted to marry the *ḥalal* but is forbidden to his brother. Having engaged in intercourse with the *ḥalal*, she is rendered a *ḥalala*, a woman disqualified from marrying a priest.
+
+**7.**
+*Hebrew/Aramaic:* יִשְׂרָאֵל שֶׁנָּשָׂא בַּת יִשְׂרָאֵל, וְיֵשׁ לוֹ אָח מַמְזֵר; מַמְזֵר שֶׁנָּשָׂא מַמְזֶרֶת, וְיֵשׁ לוֹ אָח יִשְׂרָאֵל — מוּתָּרוֹת לְבַעְלֵיהֶן וַאֲסוּרוֹת לְיִבְמֵיהֶן.
+*Translation:* Another example is the case of **an Israelite** of unflawed lineage **who married an Israelite woman** of similar lineage, **and he has a brother** who is **a son born from an incestuous or adulterous relationship [*mamzer*];** or **a *mamzer* who married a daughter born from an incestuous or adulterous relationship [*mamzeret*], and he has a brother** who **is an Israelite** of unflawed lineage. A *mamzer* is permitted to marry a *mamzeret*, but neither is permitted to a Jew of unflawed lineage. In each of these cases, these women **are permitted to their husbands and forbidden to their *yevamin*.**
+
+**8.**
+*Hebrew/Aramaic:* וְאֵלּוּ מוּתָּרוֹת לְיִבְמֵיהֶן וַאֲסוּרוֹת לְבַעְלֵיהֶן: כֹּהֵן גָּדוֹל שֶׁקִּידֵּשׁ אֶת הָאַלְמָנָה, וְיֵשׁ לוֹ אָח כֹּהֵן הֶדְיוֹט; כָּשֵׁר שֶׁנָּשָׂא חֲלָלָה, וְיֵשׁ לוֹ אָח חָלָל; יִשְׂרָאֵל שֶׁנָּשָׂא מַמְזֶרֶת, וְיֵשׁ לוֹ אָח מַמְזֵר; מַמְזֵר שֶׁנָּשָׂא בַּת יִשְׂרָאֵל, וְיֵשׁ לוֹ אָח יִשְׂרָאֵל — מוּתָּרוֹת לְיִבְמֵיהֶן וַאֲסוּרוֹת לְבַעְלֵיהֶן.
+*Translation:* **And these** are cases of women who **are permitted to their *yevamin* and forbidden to their husbands:** For example, there is the case of **a High Priest who betrothed a widow, and he has a brother** who **is a common priest,** whom she is permitted to marry. This is true only if the High Priest merely betrothed her. However, if he consummated the marriage, he rendered her a *ḥalala* forbidden to all priests, including her *yavam*. The additional cases are a priest **fit** for service **who married a *ḥalala* and he has a brother** who **is a *ḥalal*; an Israelite** of unflawed lineage **who married a *mamzeret*, and he has a brother** who **is a *mamzer*;** and **a *mamzer* who married an Israelite woman** of unflawed lineage, **and he has a brother** who **is,** similarly, **an Israelite** of unflawed lineage. All of these women **are permitted to their *yevamin* and forbidden to their husbands.**
+
+**9.**
+*Hebrew/Aramaic:* וְאֵלּוּ אֲסוּרוֹת לָאֵלּוּ וְלָאֵלּוּ: כֹּהֵן גָּדוֹל שֶׁנָּשָׂא אֶת הָאַלְמָנָה, וְיֵשׁ לוֹ אָח כֹּהֵן גָּדוֹל; אוֹ כֹּהֵן הֶדְיוֹט כָּשֵׁר שֶׁנָּשָׂא חֲלָלָה, וְיֵשׁ לוֹ אָח כָּשֵׁר; יִשְׂרָאֵל שֶׁנָּשָׂא מַמְזֶרֶת, וְיֵשׁ לוֹ אָח יִשְׂרָאֵל; מַמְזֵר שֶׁנָּשָׂא בַּת יִשְׂרָאֵל, וְיֵשׁ לוֹ אָח מַמְזֵר — אֲסוּרוֹת לָאֵלּוּ וְלָאֵלּוּ, וּשְׁאָר כׇּל הַנָּשִׁים מוּתָּרוֹת לְבַעְלֵיהֶן וּלְיִבְמֵיהֶן.
+*Translation:* **And these** are cases where women **are forbidden** both **to these and to those: A High Priest who married a widow, and he has a brother** who **is a High Priest or a common priest;** a priest **fit** for service **who married a *ḥalala*, and he has a brother** who **is** a priest **fit** for service; **an Israelite** of unflawed lineage **who married a *mamzeret*, and he has a brother** who **is** similarly an ordinary **Israelite,** or **a *mamzer* who married an Israelite woman** of unflawed lineage, **and he has a brother** who **is a *mamzer*.** All of these women **are forbidden** both **to these and to those. And all other women are permitted to their husbands and to their *yevamin*.**
+
+**10.**
+*Hebrew/Aramaic:* שְׁנִיּוֹת מִדִּבְרֵי סוֹפְרִים, שְׁנִיָּיה לַבַּעַל וְלֹא שְׁנִיָּיה לַיָּבָם — אֲסוּרָה לַבַּעַל, וּמוּתֶּרֶת לַיָּבָם. שְׁנִיָּיה לַיָּבָם וְלֹא שְׁנִיָּיה לַבַּעַל — אֲסוּרָה לַיָּבָם וּמוּתֶּרֶת לַבַּעַל, שְׁנִיָּיה לָזֶה וְלָזֶה — אֲסוּרָה לָזֶה וְלָזֶה.
+*Translation:* With regard to **secondary relatives,** who are forbidden **by rabbinic law,** if the woman is **a secondary relative to the husband but not a secondary relative to the *yavam*,** she **is forbidden to the husband and permitted to the *yavam*.** Conversely, if she is **a secondary relative to the *yavam* but not a secondary relative to the husband,** she **is forbidden to the *yavam* and permitted to the husband.** If she is **a secondary relative** both **to this** man **and to that** man, she **is forbidden to this** one **and to that** one.
+
+**11.**
+*Hebrew/Aramaic:* אֵין לָהּ לֹא כְּתוּבָה וְלֹא פֵּירוֹת וְלֹא מְזוֹנוֹת וְלֹא בְּלָאוֹת. וְהַוָּלָד כָּשֵׁר, וְכוֹפִין אוֹתוֹ לְהוֹצִיא.
+*Translation:* Furthermore, if a man marries a woman forbidden to him as a secondary relative, **she does not have** the right to receive payment for her **marriage contract** if divorced or widowed, **nor** is she entitled to payment from her husband for the **produce** of her property that he used, **nor** is she entitled to provisions for her **sustenance** from his estate, **nor** does she get back her **worn clothes** or other objects she brought with her to her marriage. **And** the lineage of **the offspring is unflawed, and** the court **forces him to divorce** her.
+
+**12.**
+*Hebrew/Aramaic:* אַלְמָנָה לְכֹהֵן גָּדוֹל, גְּרוּשָׁה וַחֲלוּצָה לְכֹהֵן הֶדְיוֹט, מַמְזֶרֶת וּנְתִינָה לְיִשְׂרָאֵל, בַּת יִשְׂרָאֵל לְנָתִין וּלְמַמְזֵר — יֵשׁ לָהֶן כְּתוּבָּה.
+*Translation:* In contrast, **a widow** married **to a High Priest, a divorcée or a *yevama* who performed *ḥalitza* [*ḥalutza*]** married **to a common priest, a *mamzeret* or a Gibeonite woman** married **to an Israelite** of unflawed lineage, and **an Israelite woman** of unflawed lineage married **to a Gibeonite or to a *mamzer*** all **have** the right to receive payment for their **marriage contract,** although it was prohibited for them to marry.
+
+**13.**
+*Hebrew/Aramaic:* גְּמָ׳ מַאי אִירְיָא דְּתָנֵי ״נָשָׂא״? לִיתְנֵי ״קִידֵּשׁ״!
+*Translation:* GEMARA: As an example of a woman who is permitted to her husband and forbidden to her *yavam*, the mishna cites the case of a widow married to a common priest whose brother was a High Priest. The Gemara asks: **Why does** the *tanna* **specifically teach** a case where the priest **married** the widow? **Let him teach** that he **betrothed** her, as even if she is widowed after betrothal she requires levirate marriage or *ḥalitza*.
+
+**14.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא: טַעְמָא דְּנָשָׂא — דְּהָוֵה לֵיהּ עֲשֵׂה וְלֹא תַעֲשֶׂה, אֲבָל קִידֵּשׁ — אָתֵי עֲשֵׂה וְדוֹחֶה לֹא תַעֲשֶׂה, וְהָא כּוּלֵּהּ פִּירְקִין עֲשֵׂה וְלֹא תַעֲשֶׂה הוּא, וְלָא אָתֵי עֲשֵׂה וְדָחֵי לֹא תַעֲשֶׂה!
+*Translation:* **And if you would say:** The **reason** that the *tanna* cited the case where they **were married** is that in this case **there is a positive mitzva** that the High Priest marry a virgin **and** also **a prohibition** to marry a widow, and therefore she is forbidden to him. **However,** if **he betrothed** her, the **positive mitzva** of levirate marriage **comes and overrides** the **prohibition** against marrying a widow. To counter this argument, the *tanna* states: **But** that cannot be the case, as **the entire chapter** discusses cases involving the **positive mitzva** of levirate marriage **and prohibitions,** and in all those cases, the **positive mitzva does not come and override the prohibition,** even in the absence of an additional positive mitzva.
+
+**15.**
+*Hebrew/Aramaic:* מִשּׁוּם דְּקָבָעֵי לְמִיתְנֵי סֵיפָא ״כֹּהֵן גָּדוֹל שֶׁנָּשָׂא אֶת הָאַלְמָנָה״, דַּוְקָא נָשָׂא — דְּשַׁוְּיַיהּ חֲלָלָהּ, אֲבָל קִידֵּשׁ — שַׁרְיָא לֵיהּ, תַּנָּא נָמֵי רֵישָׁא ״נָשָׂא״!
+*Translation:* The Gemara answers: The mishna could have cited a case where the priest betrothed the widow. Instead, the mishna cites a case where the priest married a widow, **due to** the fact **that** the *tanna* **wants to teach** in **the latter clause** of the mishna the case of **a High Priest who married a widow** who has a brother who is a common priest. That case is **specifically** if he **married** her, **because he** thereby **rendered her a *ḥalala*. However,** if he only **betrothed** her, **she is permitted** to his brother who is a common priest, as it is permitted for him to marry a widow. Therefore, the *tanna* **also taught** in the **first clause** the case where the priest **married** her.
+
+**16.**
+*Hebrew/Aramaic:* וְאַדְּתָנֵי מִשּׁוּם סֵיפָא, לִיתְנֵי מִשּׁוּם מְצִיעֲתָא: כֹּהֵן גָּדוֹל שֶׁקִּידֵּשׁ אֶת הָאַלְמָנָה וְיֵשׁ לוֹ אָח כֹּהֵן הֶדְיוֹט! אֶלָּא מִשּׁוּם בַּת בּוּקְתָּא, דְּקָבָעֵי לְמִיתְנֵי ״חָלָל שֶׁנָּשָׂא כְּשֵׁרָה״, טַעְמָא דְּנָשָׂא — דְּשַׁוְּיַיהּ חֲלָלָה, אֲבָל קִידֵּשׁ — שַׁרְיָא לֵיהּ, מִשּׁוּם הָכִי קָתָנֵי ״נָשָׂא״.
+*Translation:* The Gemara asks: **But rather than teaching** a case where she was married in the first clause **due to the latter clause** of the mishna, **let him teach** a case where she was betrothed in the first clause **due to the middle clause,** which speaks of **a High Priest who betrothed a widow, and he has a brother** who is **a common priest.** The Gemara concludes: **Rather,** the reason the *tanna* taught the case where the priest married the widow is **due to** the *halakha* that is its **neighbor [*bat bukta*],** i.e., due to the fact **that** in the adjacent case **he wants to teach** the case of **a *ḥalal* who married** a woman **fit** to marry a priest. There, the **reason** that the woman is forbidden to his brother is specifically that the *ḥalal* **married** her, **as he rendered her a *ḥalala*** by consummating the marriage. **However,** if the *ḥalal* merely **betrothed her, she is permitted to him. Due to that** reason, the *tanna* **teaches** the case where the priest **married** the widow.
+
+**17.**
+*Hebrew/Aramaic:* וּמַאי אִירְיָא דְּקָתָנֵי אַלְמָנָה? לִיתְנֵי בְּתוּלָה!
+*Translation:* The Gemara asks: **And why does** the *tanna* **specifically teach** the case of a common priest who married **a widow? Let him teach** that the priest married **a virgin.** Since in any case she becomes a widow upon his death, what difference is there whether she was previously a widow?

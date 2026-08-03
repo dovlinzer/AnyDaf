@@ -35,3 +35,84 @@
 **9.**
 *Hebrew/Aramaic:* מַתְנִי׳ אֵין שׁוֹחֲטִין לֹא לְתוֹךְ יַמִּים, וְלֹא לְתוֹךְ נְהָרוֹת, וְלֹא לְתוֹךְ כֵּלִים, אֲבָל שׁוֹחֵט הוּא לְתוֹךְ עוּגָה שֶׁל מַיִם. וּבִסְפִינָה, עַל גַּבֵּי כֵלִים. אֵין שׁוֹחֲטִין לַגּוּמָּא כׇּל עִיקָּר, אֲבָל עוֹשֶׂה גּוּמָּא בְּתוֹךְ בֵּיתוֹ בִּשְׁבִיל שֶׁיִּכָּנֵס הַדָּם לְתוֹכָהּ. וּבַשּׁוּק לֹא יַעֲשֶׂה כֵּן, שֶׁלֹּא
 *Translation:* MISHNA: **One may not slaughter** an animal and have its blood flow, **neither into seas, nor into rivers, nor into vessels,** as in all those cases it appears that he is slaughtering the animal in the manner of idolaters. **But one may slaughter** an animal and have its blood flow **into a round excavation** containing **water. And on a ship,** one may slaughter an animal **onto vessels** as it is clear that his objective is to avoid sullying the ship. **One may not slaughter** an animal and have its blood flow **into a small hole** in the ground **at all, but one may fashion a small hole inside his house so that the blood will enter into it. And in the marketplace one may not do so,** so **that** he will **not**
+
+
+---
+
+### Hullin 41b
+
+**1.**
+*Hebrew/Aramaic:* יְחַקֶּה אֶת הַמִּינִין.
+*Translation:* appear to **emulate [*yeḥakkeh*] the heretics.**
+
+**2.**
+*Hebrew/Aramaic:* גְּמָ׳ אֵין שׁוֹחֲטִין לֹא לְתוֹךְ וְכוּ׳. מַאי שְׁנָא לְתוֹךְ יַמִּים דְּלָא? דְּאָמְרִי: לְשָׂרָא דְּיַמָּא קָא שָׁחֵיט. לְתוֹךְ עוּגָה שֶׁל מַיִם נָמֵי אָמְרִי: לְבָבוּאָה קָא שָׁחֵיט. אָמַר רָבָא: בַּעֲכוּרִים שָׁנוּ.
+*Translation:* GEMARA: The mishna teaches: **One may not slaughter** an animal and have its blood flow, **neither into** seas, nor into rivers, nor into vessels, but one may slaughter an animal and have its blood flow into a round excavation containing water. The Gemara asks: **What is different** about slaughter **into seas?** Is it **that** one may **not** perform it, **as** onlookers will **say: He is slaughtering to the angel of the sea?** If so, slaughter **into a round excavation** containing **water** should **also** be prohibited, as onlookers will **say: He is slaughtering to** his **reflection [*bavua*],** which is also similar to idolatry. **Rava said:** The *tanna’im* **taught** that *halakha* **in** the case of **murky** water, in which no reflection can be seen.
+
+**3.**
+*Hebrew/Aramaic:* אֵין שׁוֹחֲטִין לַגּוּמָּא וְכוּ׳. וְהָא אָמְרַתְּ: אֵין שׁוֹחֲטִין לַגּוּמָּא כְּלָל? אָמַר אַבָּיֵי: רֵישָׁא בְּגוּמָּא שֶׁבַּשּׁוּק.
+*Translation:* § The mishna states: **One** may **not slaughter** an animal and have its blood flow **into a small hole** in the ground at all, but one may fashion a small hole inside his house so that the blood will enter into it. The Gemara asks: How is it permitted to slaughter and have the blood flow into a hole inside his house? **But didn’t you** initially **say** that **one may not slaughter** an animal and have its blood flow **into a small hole** in the ground **at all? Abaye said: The first clause** of the mishna, where there is a blanket prohibition against having the blood flow into a small hole, is referring **to a small hole that is in the marketplace.**
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא: וְהָא מִדְּקָתָנֵי סֵיפָא ״וּבַשּׁוּק לֹא יַעֲשֶׂה כֵּן״, מִכְּלָל דְּרֵישָׁא לָאו בְּשׁוּק עָסְקִינַן!
+*Translation:* **Rava said to him: But** isn’t it so that **from** the fact **that the latter clause teaches: And in the marketplace one may not do so, it may be inferred that** in **the first clause we are not dealing with the marketplace?**
+
+**5.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רָבָא, הָכִי קָאָמַר: אֵין שׁוֹחֲטִין לַגּוּמָּא כׇּל עִיקָּר, וְהָרוֹצֶה לְנַקֵּר חֲצֵרוֹ, כֵּיצַד הוּא עוֹשֶׂה? עוֹשֶׂה מָקוֹם חוּץ לַגּוּמָּא וְשׁוֹחֵט, וְדָם שׁוֹתֵת וְיוֹרֵד לַגּוּמָּא, וּבַשּׁוּק לֹא יַעֲשֶׂה כֵּן, שֶׁלֹּא יְחַקֶּה אֶת הַמִּינִין.
+*Translation:* **Rather, Rava said** that **this** is what the mishna **is saying: One may not slaughter** an animal and have its blood flow **into a small hole** in the ground **at all. And one who wishes to clean his courtyard** and ensure that it will not be sullied in blood, **how does he do** so? **He fashions a place** with an incline or a furrow **outside the small hole, and slaughters** the animal there, **and the blood flows and descends into the hole. And in the marketplace one may not do so,** so **that** he will **not** appear to **emulate the heretics.**
+
+**6.**
+*Hebrew/Aramaic:* תַּנְיָא כְּוָותֵיהּ דְּרָבָא: הָיָה מְהַלֵּךְ בִּסְפִינָה וְאֵין לוֹ מָקוֹם בַּסְּפִינָה לִשְׁחוֹט – מוֹצִיא יָדוֹ חוּץ לַסְּפִינָה וְשׁוֹחֵט, וְדָם שׁוֹתֵת וְיוֹרֵד עַל דּוֹפְנֵי הַסְּפִינָה, וְאֵין שׁוֹחֵט לַגּוּמָּא כׇּל עִיקָּר.
+*Translation:* **It is taught** in a *baraita* **in accordance with** the opinion **of Rava:** If one **was traveling on a ship and he has no place on the ship to slaughter** an animal, **he extends his hand** with a knife, holds the head of the animal **outside** the walls of **the ship, and slaughters** the animal there; **and the blood flows and descends** down **the sides of the ship.** He may not slaughter an animal and have its blood flow directly into the sea. **And one may not slaughter** an animal and have its blood flow **into a small hole** in the ground **at all.**
+
+**7.**
+*Hebrew/Aramaic:* וְהָרוֹצֶה לְנַקֵּר חֲצֵרוֹ, כֵּיצַד הוּא עוֹשֶׂה? עוֹשֶׂה מָקוֹם חוּץ לַגּוּמָּא וְשׁוֹחֵט, וְדָם שׁוֹתֵת וְיוֹרֵד לַגּוּמָּא. וּבַשּׁוּק לֹא יַעֲשֶׂה כֵּן, מִשּׁוּם שֶׁנֶּאֱמַר: ״וּבְחֻקֹּתֵיהֶם לֹא תֵלֵכוּ״, וְאִם עָשָׂה כֵּן – צָרִיךְ בְּדִיקָה אַחֲרָיו.
+*Translation:* **And one who wishes to clean his courtyard** and ensure that it will not be sullied with blood, **how does he do** so? **He fashions a place** with an incline or a furrow **outside the small hole, and slaughters** the animal there, **and the blood flows and descends into the hole. And in the marketplace, one may not do so, as it is stated: “Neither shall you follow their statutes”** (Leviticus 18:3). **And if he did so, he requires examination after his** actions to ascertain whether he is a heretic.
+
+**8.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַשּׁוֹחֵט לְשֵׁם עוֹלָה, לְשֵׁם זְבָחִים, לְשֵׁם אָשָׁם תָּלוּי, לְשֵׁם פֶּסַח, לְשֵׁם תּוֹדָה – שְׁחִיטָתוֹ פְּסוּלָה, וְרַבִּי שִׁמְעוֹן מַכְשִׁיר.
+*Translation:* MISHNA: In the case of **one who slaughters** an animal and asserts that he is slaughtering it **for the sake of a burnt offering, for the sake of a peace offering, for the sake of a provisional guilt offering, for the sake of a Paschal offering,** or **for the sake of a thanks offering, his slaughter is not valid,** as it appears that he is consecrating animals and slaughtering sacrificial animals outside the Temple. **And Rabbi Shimon deems** his slaughter **valid.**
+
+**9.**
+*Hebrew/Aramaic:* שְׁנַיִם אוֹחֲזִין בְּסַכִּין וְשׁוֹחֲטִין, אֶחָד לְשׁוּם אֶחָד מִכׇּל אֵלּוּ, וְאֶחָד לְשׁוּם דָּבָר כָּשֵׁר – שְׁחִיטָתוֹ פְּסוּלָה. הַשּׁוֹחֵט לְשֵׁם חַטָּאת, לְשֵׁם אָשָׁם וַדַּאי, לְשֵׁם בְּכוֹר, לְשֵׁם מַעֲשֵׂר, לְשֵׁם תְּמוּרָה – שְׁחִיטָתוֹ כְּשֵׁרָה.
+*Translation:* If there were **two** people **grasping a knife** together **and slaughtering** an animal, **one** slaughtering **for the sake of one of all those** enumerated in the first clause of the mishna **and one** slaughtering **for the sake of a legitimate matter,** their **slaughter is not valid.** With regard to **one who slaughters** an animal **for the sake of a sin offering, for the sake of a guilt offering** for **a definite** transgression, **for the sake of** the offering of **a firstborn, for the sake of** the offering of animal **tithe,** or **for the sake of a substitute** for a sacrificial animal, **his slaughter is valid.** All of these offerings may be brought only as obligations and not as gifts. Therefore, there is no concern that he consecrated the animals.
+
+**10.**
+*Hebrew/Aramaic:* זֶה הַכְּלָל: כׇּל דָּבָר שֶׁנִּידָּר וְנִידָּב – הַשּׁוֹחֵט לִשְׁמוֹ אָסוּר, וְשֶׁאֵינוֹ נִידָּר וְנִידָּב – הַשּׁוֹחֵט לִשְׁמוֹ כָּשֵׁר.
+*Translation:* **This is the principle:** For **any item,** i.e., offering, **which** is consecrated as a voluntary **vow or gift,** in the case of **one who slaughters for its sake** the animal is **forbidden. And** for any offering **that is not** consecrated as a voluntary **vow or gift** but is an obligation that is incumbent upon him, in the case of **one who slaughters for its sake** the animal is **permitted.**
+
+**11.**
+*Hebrew/Aramaic:* גְּמָ׳ הַשּׁוֹחֵט לְשֵׁם עוֹלָה. אָשָׁם תָּלוּי בַּר נִידָּר וְנִידָּב הוּא? אָמַר רַבִּי יוֹחָנָן: הָא מַנִּי? רַבִּי אֶלְעָזָר הִיא, דְּאָמַר: מִתְנַדֵּב אָדָם אָשָׁם תָּלוּי בְּכׇל יוֹם.
+*Translation:* GEMARA: The mishna teaches: In the case of **one who slaughters** an animal and asserts that he is slaughtering it **for the sake of a burnt offering,** for the sake of a peace offering, for the sake of a provisional guilt offering, for the sake of a Paschal offering, or for the sake of a thanks offering, the slaughter is not valid. This is because one who slaughters for the sake of any type of offering that is consecrated as a vow or as a gift renders the animal forbidden. The Gemara asks: **Is a provisional guilt offering fit** to be consecrated as **a vow or** as **a gift?** A provisional guilt offering is brought only when one is obligated to do so due to uncertainty whether or not he is liable to bring a sin offering. **Rabbi Yoḥanan said:** In accordance with **whose** opinion **is this** *halakha* in the mishna? **It is** in accordance with the opinion of **Rabbi Elazar, who says** in a mishna (*Karetot* 25a): **A person donates a provisional guilt offering every day** if he chooses, due to concern that perhaps he violated a prohibition.
+
+**12.**
+*Hebrew/Aramaic:* פֶּסַח בַּר נִידָּב וְנִידָּר הוּא? זִמְנָא קְבִיעָא לֵיהּ! אָמַר רַבִּי אוֹשַׁעְיָא: שָׁאנֵי פֶּסַח, הוֹאִיל וְהַפְרָשָׁתוֹ כׇּל הַשָּׁנָה כּוּלָּהּ.
+*Translation:* The Gemara asks: **Is a Paschal offering fit** to be consecrated as **a vow or** as **a gift? The time is fixed for its** offering on Passover eve, when bringing it is an obligation, and it may not be brought on any other day. **Rabbi Oshaya said: The Paschal offering is different, since** although the date for bringing and slaughtering it is the fourteenth of Nisan, **its designation** can be performed **throughout the entire year.**
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יַנַּאי: לֹא שָׁנוּ אֶלָּא תְּמִימִים, אֲבָל בַּעֲלֵי מוּמִין – מִידָּע יְדִיעַ. וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ בַּעֲלֵי מוּמִין נָמֵי, זִימְנִין דִּרְמֵי לֵיהּ מִידֵּי אַמּוּמָא וְלָא יְדִיעַ.
+*Translation:* **Rabbi Yannai says:** The Sages **taught** that slaughter of an animal for the sake of an offering is not valid **only** if the animals were **unblemished. But** with regard to animals with **blemishes,** the slaughterer **knows** that they are blemished and disqualified from sacrifice. Therefore, despite his declaration, there is no concern that his actual intent was to slaughter the animal for that purpose. **And Rabbi Yoḥanan says:** Slaughter of an animal for the sake of an offering is not valid **even** if the animals were **blemished as well,** as there are **times that an item is cast over the blemish** and covers it, **and he does not know** that the animal is blemished.
+
+**14.**
+*Hebrew/Aramaic:* הַשּׁוֹחֵט לְשֵׁם חַטָּאת, אָמַר רַבִּי יוֹחָנָן: לֹא שָׁנוּ אֶלָּא שֶׁאֵינוֹ מְחוּיָּיב חַטָּאת, אֲבָל מְחוּיָּיב חַטָּאת – אֵימָא לְשׁוּם חַטָּאתוֹ הוּא עוֹשֶׂה. וְהָא לָא קָאָמַר ״לְשֵׁם חַטָּאתִי״? אָמַר רַבִּי אֲבָהוּ: בְּאוֹמֵר ״לְשֵׁם חַטָּאתִי״.
+*Translation:* The mishna teaches: With regard to **one who slaughters** an animal **for the sake of a sin offering,** his slaughter is valid, as, since one cannot voluntarily contribute a sin offering, there is no concern that the onlookers will draw the wrong conclusion. **Rabbi Yoḥanan says:** The Sages **taught** that slaughter of an animal for the sake of a sin offering is valid **only** with regard to a slaughterer **who is not liable** to bring **a sin offering. But** a slaughterer who knows that he is **liable** to bring **a sin offering,** his slaughter is not valid. **Say** that **he is performing** consecration and slaughter **for the sake of his sin offering.** The Gemara asks: **But** didn’t he say before the slaughter: For the sake of a sin offering, and **he did not say: For the sake of my sin offering?** Why, then, is that a concern? **Rabbi Abbahu said:** Indeed, the reference is to a case **where he says:** I am slaughtering this animal **for the sake of my sin offering.**
+
+**15.**
+*Hebrew/Aramaic:* לְשֵׁם תְּמוּרָה, אָמַר רַבִּי אֶלְעָזָר: לֹא שָׁנוּ אֶלָּא שֶׁאֵין לוֹ זֶבַח בְּתוֹךְ בֵּיתוֹ, אֲבָל יֵשׁ לוֹ זֶבַח בְּתוֹךְ בֵּיתוֹ – אֵימָא אֲמוֹרֵי אֲמַיר בֵּיהּ. וְהָא לָא קָאָמַר ״לְשֵׁם תְּמוּרַת זִבְחִי״? אָמַר רַבִּי אֲבָהוּ: בְּאוֹמֵר ״לְשֵׁם תְּמוּרַת זִבְחִי״.
+*Translation:* The mishna teaches: With regard to one who slaughters **for the sake of a substitute** for a sacrificial animal, his slaughter is valid. **Rabbi Elazar says:** The Sages **taught** that the slaughter is valid **only** in a case **where he does not have** an animal consecrated as **an offering inside his house** for which it can be the substitute, **but** if **he has** an animal consecrated as **an offering in his house, say** that he is **substituting** this animal **for it,** and the slaughter is not valid. The Gemara asks: **But** didn’t he say before the slaughter: For the sake of a substitute for a sacrificial animal, and **he did not say: For the sake of a substitute for my** animal consecrated as an **offering?** Why, then, is that a concern? **Rabbi Abbahu said:** Indeed, the reference is to a case **where he says:** I am slaughtering this animal **for the sake of a substitute for my** animal consecrated as an **offering.**
+
+**16.**
+*Hebrew/Aramaic:* ״זֶה הַכְּלָל״ לְאֵתוֹיֵי מַאי? לְאֵתוֹיֵי עוֹלַת נָזִיר, דְּמַהוּ דְּתֵימָא: הָא לָא נְדַר, אֵימַר נֶדֶר בְּצִינְעָא.
+*Translation:* The mishna states that **this is the principle:** For any offering that is consecrated as a voluntary vow or gift, in the case of one who slaughters for its sake, the animal is forbidden. The Gemara asks: **What** case does this clause **add?** The list in the mishna appears to be comprehensive. The Gemara answers: The clause serves **to add** the **burnt offering of a nazirite. As, lest you say** there is no concern in that case, **as that** person did **not vow** to become a nazirite and could not possibly be obligated to bring that offering, therefore, the *tanna* teaches that there is a concern if he said he was slaughtering for the sake of the burnt offering of a nazirite. **Say** that perhaps **he vowed** to become a nazirite **in private,** and no one else was aware of it.
+
+**17.**
+*Hebrew/Aramaic:* וְשֶׁאֵינוֹ נִידָּר וְנִידָּב, לְאֵתוֹיֵי עוֹלַת יוֹלֶדֶת.
+*Translation:* The Gemara asks: What is added by the second half of the principle: **And** for any offering **that is not consecrated** as a voluntary **vow or** as **a gift,** in the case of one who slaughters for its sake the animal is permitted? The Gemara answers: It serves **to add the burnt offering of a woman after childbirth.** If one slaughters an animal for the sake of a burnt offering of a woman after childbirth, the slaughter is valid, as it is an obligation.
+
+**18.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אֶלְעָזָר: לֹא שָׁנוּ אֶלָּא שֶׁאֵין לוֹ אִשָּׁה, אֲבָל יֵשׁ לוֹ אִשָּׁה – אֵימַר לִשְׁמָהּ הוּא עוֹשֶׂה. וְהָא לָא קָאָמַר ״לְשֵׁם עוֹלַת אִשְׁתִּי״? אָמַר רַבִּי אֲבָהוּ: בְּאוֹמֵר ״לְשֵׁם עוֹלַת אִשְׁתִּי״.
+*Translation:* **Rabbi Elazar says:** The Sages **taught** that the slaughter is valid **only** in a case **where he does not have a wife. But** if **he has a wife, say that he performs** consecration and slaughter of the animal **for her sake** and therefore the slaughter is not valid. The Gemara asks: **But** didn’t he say before the slaughter: For the sake of the burnt offering of a woman after childbirth, and **he did not say: For the sake of the burnt offering of my wife** after childbirth? Why, then, is that a concern? **Rabbi Abbahu said:** Indeed, the reference is to a case **where he says:** I am slaughtering this animal **for the sake of the burnt offering of my wife** after childbirth.
+
+**19.**
+*Hebrew/Aramaic:* פְּשִׁיטָא?
+*Translation:* The Gemara objects: This is **obvious.** Clearly, if he explicitly declared that the slaughter is for the sake of the burnt offering of his wife after childbirth the slaughter is not valid.

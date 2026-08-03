@@ -55,3 +55,56 @@
 **14.**
 *Hebrew/Aramaic:* שְׁבִיעִית מַאן דְּכַר שְׁמֵיהּ?
 *Translation:* The Gemara raises a question about this *baraita*: **Who mentioned anything about the Sabbatical Year?** The subject of the discussion was tithes.
+
+
+---
+
+### Rosh Hashanah 15b
+
+**1.**
+*Hebrew/Aramaic:* חַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: אֶתְרוֹג — אַחַר לְקִיטָתוֹ לְמַעֲשֵׂר וְאַחַר חֲנָטָה לִשְׁבִיעִית. וְרַבּוֹתֵינוּ נִמְנוּ בְּאוּשָׁא: אַחַר לְקִיטָתוֹ, בֵּין לְמַעֲשֵׂר בֵּין לִשְׁבִיעִית.
+*Translation:* The Gemara answers: The *baraita* **is incomplete and is teaching the following:** Avtolemos testified in the name of five Elders: **An *etrog* follows** the time of **its picking in** the matter of **tithes and** it follows the time of **the formation** of its fruit **in** the matter of **the Sabbatical Year. But our Sages voted in Usha** and decided that an *etrog* **follows** the time of **its picking, both** in the matter of **tithes and in** the matter of **the Sabbatical Year.**
+
+**2.**
+*Hebrew/Aramaic:* אִיתְּמַר, רַבִּי יוֹחָנָן וְרֵישׁ לָקִישׁ אָמְרִי תַּרְוַיְיהוּ: אֶתְרוֹג בַּת שִׁשִּׁית שֶׁנִּכְנְסָה לִשְׁבִיעִית — לְעוֹלָם שִׁשִּׁית. כִּי אֲתָא רָבִין אָמַר רַבִּי יוֹחָנָן: אֶתְרוֹג בַּת שִׁשִּׁית שֶׁנִּכְנְסָה לִשְׁבִיעִית, אֲפִילּוּ כְּזַיִת וְנַעֲשֵׂית כִּכָּר — חַיָּיבִין עָלֶיהָ מִשּׁוּם טֶבֶל.
+*Translation:* **It was stated** that the *amora’im* of Eretz Yisrael discussed this issue: **Rabbi Yoḥanan and Reish Lakish both say: An *etrog* from the sixth** year of the Sabbatical cycle **that entered into,** and was picked in, **the Sabbatical Year is always** and for all purposes considered as **sixth-year** produce. **When Ravin came** from Eretz Yisrael to Babylonia, he said that **Rabbi Yoḥanan said: A sixth-year *etrog* that entered into,** and was picked in, **the Sabbatical Year,** although at the beginning of the Sabbatical Year it was only the size of **an olive-bulk and** during the Sabbatical Year **it grew to the size of a loaf** of bread, is considered sixth-year produce that is subject to tithing, and if one eats it without tithing, **he is liable for** eating **untithed produce.**
+
+**3.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אִילָן שֶׁחָנְטוּ פֵּירוֹתָיו קוֹדֶם חֲמִשָּׁה עָשָׂר בִּשְׁבָט — מִתְעַשֵּׂר לְשָׁנָה שֶׁעָבְרָה, אַחַר חֲמִשָּׁה עָשָׂר בִּשְׁבָט — מִתְעַשֵּׂר לְשָׁנָה הַבָּאָה. אָמַר רַבִּי נְחֶמְיָה: בַּמֶּה דְּבָרִים אֲמוּרִים — בְּאִילָן שֶׁעוֹשֶׂה שְׁתֵּי בְרִיכוֹת בַּשָּׁנָה.
+*Translation:* **The Sages taught** in a *baraita*: **A tree whose fruits were formed before the fifteenth of Shevat is tithed in accordance with the previous year,** and if the fruits were formed **after the fifteenth of Shevat** it **is tithed in accordance with the coming year. Rabbi Neḥemya said: In what** case **is this statement said?** It is said **with regard to a tree that produces two broods,** two crops, **in a** single **year.**
+
+**4.**
+*Hebrew/Aramaic:* שְׁתֵּי בְרִיכוֹת סָלְקָא דַּעְתָּךְ? אֶלָּא אֵימָא: כְּעֵין שְׁתֵּי בְרִיכוֹת.
+*Translation:* The Gemara interrupts with a question about the wording of this *baraita*: **Does it enter your mind** to say **two broods?** Animals produce broods, but trees do not. **Rather, say: Like two broods,** i.e., two seasons’ worth of crops.
+
+**5.**
+*Hebrew/Aramaic:* אֲבָל אִילָן הָעוֹשֶׂה בְּרִיכָה אַחַת, כְּגוֹן דְּקָלִים וְזֵיתִים וְחָרוּבִין, אַף עַל פִּי שֶׁחָנְטוּ פֵּירוֹתֵיהֶן קוֹדֶם חֲמִשָּׁה עָשָׂר בִּשְׁבָט — מִתְעַשְּׂרִין לְשָׁנָה הַבָּאָה.
+*Translation:* The *baraita* continues: **But** in the case of **trees that produce** only **one brood** of fruit, **for example, palm** trees, **and olive** trees, **and carob** trees, which yield fruit only once a year, **although their fruit took form before the fifteenth of Shevat, they are tithed in accordance with the coming year,** since they follow the time of their fruit’s picking. According to Rabbi Neḥemya, most fruit will be tithed according to the time that the fruit is picked, since only a minority of fruit trees produce two crops a year.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: נָהֲגוּ הָעָם בֶּחָרוּבִין כְּרַבִּי נְחֶמְיָה.
+*Translation:* **Rabbi Yoḥanan said: The people were accustomed** to act **with regard to carobs in accordance with** the opinion of **Rabbi Neḥemya,** that their tithe year follows the time of the fruit’s picking.
+
+**7.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רֵישׁ לָקִישׁ לְרַבִּי יוֹחָנָן: בְּנוֹת שׁוּחַ — שְׁבִיעִית שֶׁלָּהֶן שְׁנִיָּה, מִפְּנֵי שֶׁעוֹשׂוֹת לִשְׁלֹשׁ הַשָּׁנִים!
+*Translation:* **Reish Lakish raised an objection to** the opinion of **Rabbi Yoḥanan** from a mishna that teaches: In the case of **white fig** trees, the **Sabbatical Year for them** with regard to the *halakhot* of eating and elimination is in the **second** year of the Sabbatical cycle, **due to** the fact that their fruit **grows for three years,** and so the fruit that ripens in the second year of the Sabbatical cycle had already taken form in the previous Sabbatical Year. This indicates that the tithe follows the time of the formation of the fruit and not the time of picking.
+
+**8.**
+*Hebrew/Aramaic:* אִישְׁתִּיק. אֲמַר לֵיהּ רַבִּי אַבָּא הַכֹּהֵן לְרַבִּי יוֹסֵי הַכֹּהֵן: אַמַּאי אִישְׁתִּיק? לֵימָא לֵיהּ: אָמֵינָא לָךְ אֲנָא רַבִּי נְחֶמְיָה, וְאַתְּ אָמְרַתְּ לִי רַבָּנַן?!
+*Translation:* Rabbi Yoḥanan **was silent** and did not respond, as though he had no answer. **Rabbi Abba the priest said to Rabbi Yosei the priest: Why was** Rabbi Yoḥanan **silent? He should have said to** Reish Lakish as follows: **I am speaking to you of** the opinion of **Rabbi Neḥemya, and you say to me** the opinion of **the Rabbis?**
+
+**9.**
+*Hebrew/Aramaic:* מִשּׁוּם דַּאֲמַר לֵיהּ: שָׁבְקַתְּ רַבָּנַן וְעָבְדַתְּ כְּרַבִּי נְחֶמְיָה?!
+*Translation:* Rabbi Yosei the priest answered: He could not have made this argument, **because** Reish Lakish **would** then **have said to him: Do you abandon** the opinion of **the Rabbis,** who constitute the majority, **and act in accordance with** the opinion of **Rabbi Neḥemya,** who expresses a sole dissenting opinion?
+
+**10.**
+*Hebrew/Aramaic:* וְלֵימָא לֵיהּ: קָאָמֵינָא לָךְ ״נָהֲגוּ״, וְאַתְּ אָמְרַתְּ לִי אִיסּוּרָא?! דַּאֲמַר לֵיהּ: בִּמְקוֹם אִיסּוּרָא, כִּי נָהֲגוּ שָׁבְקִינַן לְהוּ?!
+*Translation:* Rabbi Abba the priest asked further: Rabbi Yoḥanan **should have said to him: I am speaking to you** only about how the people **practice** and that their custom follows the opinion of Rabbi Neḥemya, **and you say to me** that it is a **prohibition?** Rabbi Yosei the priest answered: He could not have said this, **because** Reish Lakish **would** then **have said to him: Where there is a prohibition,** even **if they were accustomed to act** in a particular manner, **would we leave them** to continue?
+
+**11.**
+*Hebrew/Aramaic:* וְלֵימָא לֵיהּ: כִּי אָמֵינָא לָךְ אֲנָא — מַעֲשֵׂר חָרוּבִין דְּרַבָּנַן, וְאַתְּ אָמְרַתְּ לִי שְׁבִיעִית דְּאוֹרָיְיתָא?!
+*Translation:* Rabbi Abba the priest asked further: Rabbi Yoḥanan **should have said to** Reish Lakish as follows: **I am speaking to you about the tithe of carobs, which is** only by **rabbinic** decree, as by Torah law all fruits apart from grapes and olives are exempt from tithing, **and you speak to me** about **the Sabbatical Year,** which is **by Torah law?** This being an irrefutable argument, the Gemara once again clarifies this matter.
+
+**12.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַבִּי אַבָּא הַכֹּהֵן: תְּמֵיהַנִי אִם הֱשִׁיבָהּ רֵישׁ לָקִישׁ לִתְשׁוּבָה זוֹ. אִם הֱשִׁיבָהּ? הָא אוֹתְבַהּ! אֶלָּא אֵימָא: אִם קִיבְּלָהּ רַבִּי יוֹחָנָן, אִם לָא קִיבְּלָהּ.
+*Translation:* **Rather, Rabbi Abba the priest said: I wonder whether Reish Lakish** actually **raised this original objection** to the opinion of Rabbi Yoḥanan, since it has such a clear refutation. The Gemara asks: **Whether he asked it? But he did ask it,** as is reported in the story. **Rather, say:** I wonder **if Rabbi Yoḥanan accepted** this question and was silent because he had nothing to answer, **or he did not accept it** but nevertheless remained silent because he thought the question was not worthy of an answer.

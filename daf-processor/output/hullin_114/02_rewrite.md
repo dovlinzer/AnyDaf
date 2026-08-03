@@ -6,7 +6,7 @@
 
 The daf begins at the bottom of 113b, several lines above where the text widens, at the line beginning with the word *behemah*. The preceding discussion had established that Shmuel derived various parameters of *basar be-chalav* from the words *gedi* and *imo* in the verse *lo tevashel gedi be-chalav imo*. Among the rulings Shmuel produced from this derivation is the rule that one is liable even when the meat was never properly slaughtered — that is, even *neveilah* — and even when the meat in question is *chelev*, forbidden fat. Although *chelev* already carries its own *issur*, Shmuel held that the prohibition of *basar be-chalav* takes effect upon it nonetheless, because the verse teaches that one *issur* can take effect on top of another.
 
-### Issur Chal al Issur Deba…
+### Issur Chal al Issur
 
 This ruling immediately prompts the Gemara's challenge: *ve-savar Shmuel issur chal al issur?* Does Shmuel truly maintain that one prohibition takes hold upon another? For Shmuel himself is reported to have said in the name of Rabbi Eliezer: how do we know that a *kohen tamei* who ate *terumah tme'ah* — impure *terumah* — is not liable to the more severe punishment of death at the hand of Heaven? The verse states *u-metu vo ki yechaleluhu*, "they shall die thereby if they desecrate it," which the Gemara understands as excluding the case where the *terumah* was already pre-desecrated — *she-mechulelet ve-omedet*. The logic, as the Gemara reads it at this stage, is that the new *issur* of the *kohen tamei* eating *terumah* does not take effect upon an object already rendered forbidden by its prior state of impurity. If Shmuel endorsed this position, how can he simultaneously maintain that *issur chal al issur* applies in the case of *basar be-chalav*?
 

@@ -47,3 +47,40 @@
 **12.**
 *Hebrew/Aramaic:* אָמַר רָבָא: שְׁרֵי לֵיהּ לְצוּרְבָּא מֵרַבָּנַן לְמֵימַר ״צוּרְבָּא מֵרַבָּנַן אֲנָא, שְׁרוֹ לִי תִּיגְרַאי בְּרֵישָׁא״, דִּכְתִיב: ״וּבְנֵי דָוִד כֹּהֲנִים הָיוּ״ — מָה כֹּהֵן נוֹטֵל בָּרֹאשׁ, אַף תַּלְמִיד חָכָם נוֹטֵל בָּרֹאשׁ. וְכֹהֵן מְנָא לַן? דִּכְתִיב: ״וְקִדַּשְׁתּוֹ כִּי אֶת לֶחֶם (ה׳) אֱלֹהֶיךָ הוּא מַקְרִיב״, וְתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: ״וְקִדַּשְׁתּוֹ״ — לְכׇל דָּבָר שֶׁבִּקְדוּשָּׁה,
 *Translation:* **Rava said** further: **It is permitted for a Torah scholar to say: I am a Torah scholar,** so **resolve my case first, as it is written: “And the sons of David were priests”** (II Samuel 8:18). The sons of David could not have been actual priests, as David was not a priest. Rather, the verse indicates that **just as a priest takes** his portion **first, so too, a Torah scholar takes** his portion **first. And a priest, from where do we** derive that he takes his portion first? **As it is written: “And you shall sanctify him, for he offers the bread of your God”** (Leviticus 21:8). **And the school of Rabbi Yishmael taught:** The phrase **“and you shall sanctify him”** applies with regard **to every matter of sanctity:**
+
+
+---
+
+### Nedarim 62b
+
+**1.**
+*Hebrew/Aramaic:* לִפְתּוֹחַ רִאשׁוֹן, וּלְבָרֵךְ רִאשׁוֹן, וְלִיטּוֹל מָנָה יָפָה רִאשׁוֹן.
+*Translation:* **To open** the Torah reading **first, to recite a blessing first, and to take a fine portion first.** When portions are distributed equally, a priest can choose his share first. The verse with regard to the sons of David proves that the same *halakha* applies to Torah scholars.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רָבָא: שְׁרֵי לֵיהּ לְצוּרְבָּא מֵרַבָּנַן לְמֵימַר: לָא יָהֵיבְנָא אַכְּרָגָא, דִּכְתִיב ״מִנְדָּה בְלוֹ וַהֲלָךְ לָא שַׁלִּיט לְמִירְמֵא עֲלֵיהוֹן״. וְאָמַר רַבִּי יְהוּדָה: ״מִנְדָּה״ — זוֹ מְנָת הַמֶּלֶךְ, ״בְּלוֹ״ — זוֹ כֶּסֶף גֻּולְגָּלְתָּא, ״וַהֲלָךְ״ — זוֹ אַרְנוֹנָא.
+*Translation:* Furthermore, **Rava said: It is permitted for a Torah scholar to say: I will not pay the head tax [*karga*], as it is written** that the king of Persia wrote to Ezra, with regard to the priests, the Levites, and others who worked in the Temple: **“It shall not be lawful to impose *minda*, *belo*, and *halakh* upon them”** (Ezra 7:24). **And Rabbi Yehuda said: *Minda*; this is the king’s portion. *Belo*; this is the money** of the **head** tax. **And *halakh*; this is *arnona*,** a levy on people and their animals to perform physical labor in the service of the ruling authority. Since a Torah scholar is considered equivalent to a priest, as he is also dedicated to a sacred task, this exemption applies to him as well.
+
+**3.**
+*Hebrew/Aramaic:* וְאָמַר רָבָא: שְׁרֵי לֵיהּ לְצוּרְבָּא מֵרַבָּנַן לְמֵימַר: ״עַבְדָּא דְנוּרָא אֲנָא לָא יָהֵיבְנָא אַכְּרָגָא״. מַאי טַעְמָא — לְאַבְרוֹחֵי אַרְיָא מִינֵּיהּ קָאָמַר.
+*Translation:* **And Rava said** further: **It is permitted for a Torah scholar to say: I am a servant** of the priests **of fire** worship and therefore **I will not pay the head tax.** Rava maintains that a scholar may issue a statement of this kind in a place where the priests of fire-worshippers are exempt from the head tax, because he actually is declaring himself a servant of God, who is referred to as “a devouring fire” (Deuteronomy 4:24). **What is the reason** that he is allowed to make this statement? He **is saying** it merely in order **to chase a lion** away **from him,** i.e., to avoid suffering a loss.
+
+**4.**
+*Hebrew/Aramaic:* רַב אָשֵׁי הֲוָה לֵיהּ הָהוּא אִבָּא, זַבְּנֵיהּ לְבֵי נוּרָא. אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי: הָאִיכָּא ״לִפְנֵי עִוֵּר לֹא תִתֵּן מִכְשׁוֹל״! אֲמַר לֵיהּ: רוֹב עֵצִים לְהַסָּקָה נִיתְּנוּ.
+*Translation:* The Gemara relates that **Rav Ashi had a particular forest,** and **he sold it** for its wood **to the temple of fire** worship. **Ravina said to Rav Ashi: Isn’t there** the prohibition: **“You shall not put a stumbling block before the blind”** (Leviticus 19:14), which prohibits assisting others in committing transgressions? And yet you are providing assistance to an idolatrous cult. **He said to him: Most** of the **wood** they use **is for kindling,** not for their ritual service. Consequently, I need not be concerned that the particular wood that I have sold them will be used for idolatry.
+
+**5.**
+*Hebrew/Aramaic:* מַתְנִי׳ ״עַד הַקָּצִיר״ — עַד שֶׁיַּתְחִיל הֶעָם לִקְצוֹר קְצִיר חִטִּין, אֲבָל לֹא קְצִיר שְׂעוֹרִין, הַכֹּל לְפִי מְקוֹם נִדְרוֹ. אִם הָיָה בָּהָר — בָּהָר, וְאִם הָיָה בַּבִּקְעָה — בַּבִּקְעָה.
+*Translation:* MISHNA: If one takes a vow **until the harvest,** the vow remains in effect **until people begin to harvest.** This is referring to **the wheat harvest but not the barley harvest.** As for the exact date of this event, **all** is determined **according to the place** where he took **his vow. If he was on a mountain,** it is assumed that he referred to the time of the harvest on **the mountain, and if he was in a valley,** it is assumed that he meant the time of the harvest **in the valley.**
+
+**6.**
+*Hebrew/Aramaic:* ״עַד הַגְּשָׁמִים״, ״עַד שֶׁיְּהוּ הַגְּשָׁמִים״ — עַד שֶׁתֵּרֵד רְבִיעָה שְׁנִיָּה. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: עַד שֶׁיַּגִּיעַ זְמַנָּהּ שֶׁל רְבִיעָה. ״עַד שֶׁיִּפְסְקוּ גְּשָׁמִים״ — עַד שֶׁיֵּצֵא נִיסָן כּוּלּוֹ, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: עַד שֶׁיַּעֲבוֹר הַפֶּסַח.
+*Translation:* If one takes a vow **until the rains,** or **until there are rains,** the vow remains in effect **until the second rain** of the rainy season **falls. Rabban Shimon ben Gamliel says: Until the time of the** second **rainfall arrives,** even if rain does not fall. If one takes a vow **until** the **rains end,** the vow remains in effect **until the entire** month of **Nisan has ended;** this is **the statement of Rabbi Meir. Rabbi Yehuda says: Until Passover has passed.**
+
+**7.**
+*Hebrew/Aramaic:* גְּמָ׳ תַּנְיָא: הַנּוֹדֵר ״עַד הַקַּיִץ״ בַּגָּלִיל, וְיָרַד לָעֲמָקִים, אַף עַל פִּי שֶׁהִגִּיעַ הַקַּיִץ בָּעֲמָקִים — אָסוּר עַד שֶׁיַּגִּיעַ הַקַּיִץ בַּגָּלִיל.
+*Translation:* GEMARA: **It is taught** in a *baraita*: With regard to **one who vows until the summer in the Galilee and** subsequently **descends to the valleys, even if the summer** season **has** already **arrived in the valleys,** the subject of his vow remains **forbidden** to him **until summer arrives in the Galilee,** in accordance with the mishna’s ruling that the duration of a vow is in accordance with the place where it was made.
+
+**8.**
+*Hebrew/Aramaic:* ״עַד הַגְּשָׁמִים״, ״עַד שֶׁיְּהוּ גְּשָׁמִים״ — עַד שֶׁתֵּרֵד רְבִיעָה שְׁנִיָּה, רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר וְכוּ׳. אָמַר רַבִּי זֵירָא: מַחֲלוֹקֶת דְּאָמַר ״עַד הַגְּשָׁמִים״, אֲבָל אָמַר ״עַד הַגֶּשֶׁם״ — עַד זְמַן גְּשָׁמִים קָאָמַר.
+*Translation:* The mishna states that if one takes a vow **until the rains,** or **until there are rains,** he means **until the second rain** of the rainy season. **Rabban Shimon ben Gamliel says:** Until the time of the second rainfall arrives. The Gemara comments: **Rabbi Zeira said:** The **dispute** is in a case **where** one **said: Until the rains. However,** if **he says: Until the rain,** everyone agrees that **he is saying** that the vow should remain in effect **until the time of the rains,** but not necessarily until the rain actually falls.

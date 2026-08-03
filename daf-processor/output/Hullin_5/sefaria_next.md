@@ -1,4 +1,4 @@
-### Hullin 6a
+### Chullin 6a
 
 **1.**
 *Hebrew/Aramaic:* וְאִי סָלְקָא דַּעְתָּיךְ לָא קַבְּלַהּ מִינֵּיהּ, לִישַׁנֵּי לֵיהּ: כָּאן כְּשֶׁיִּשְׂרָאֵל עוֹמֵד עַל גַּבָּיו, כָּאן כְּשֶׁאֵין יִשְׂרָאֵל עוֹמֵד עַל גַּבָּיו? אֶלָּא לָאו שְׁמַע מִינַּהּ קַבְּלַהּ מִינֵּיהּ, שְׁמַע מִינַּהּ.
@@ -75,3 +75,36 @@
 **19.**
 *Hebrew/Aramaic:* וּלְחַלּוֹפֵי לָא חָיְישִׁינַן? וְהָתְנַן: הַנּוֹתֵן לַחֲמוֹתוֹ – מְעַשֵּׂר אֵת שֶׁהוּא נוֹתֵן לָהּ וְאֵת שֶׁהוּא נוֹטֵל מִמֶּנָּה, מִפְּנֵי שֶׁחֲשׁוּדָהּ מַחְלֶפֶת הַמִּתְקַלְקֵל! הָתָם כִּדְתַנְיָא טַעְמָא, אָמַר רַבִּי יְהוּדָה: רוֹצֶה הִיא בְּתַקָּנַת בִּתָּהּ וּבוֹשָׁה מֵחֲתָנָהּ.
 *Translation:* The Gemara asks: **And are we not concerned about replacement** of the ingredients that he gave his neighbor with her own? **But didn’t we learn** in a mishna (*Demai* 3:6): **One who gives** dough **to his mother-in-law,** who is suspect with regard to tithing, so that she will prepare it for him, must **tithe** everything **that he gives her and** everything **that he takes** back **from her.** This is **because she is suspected** of **replacing** an ingredient **that spoils.** The Gemara answers: **There, the reason** is **like it is taught** explicitly in that mishna, that **Rabbi Yehuda said:** The mother-in-law **desires her daughter’s well-being** and wants to ensure that she eats quality food, **and is reticent** to tell **her son-in-law** that she replaced the ingredients that spoiled.
+
+
+---
+
+### Chullin 6b
+
+**1.**
+*Hebrew/Aramaic:* וּלְעָלְמָא לָא חָיְישִׁינַן? וְהָתְנַן: הַנּוֹתֵן לַפּוּנְדָּקִית שֶׁלּוֹ – מְעַשֵּׂר אֵת שֶׁהוּא נוֹתֵן לָהּ וְאֵת שֶׁהוּא נוֹטֵל הֵימֶנָּה, מִפְּנֵי שֶׁחֲשׁוּדָהּ מַחְלֶפֶת! הָתָם נָמֵי מוֹרְיָא וְאָמְרָה: בַּר בֵּי רַב לֵיכוֹל חַמִּימָא, וַאֲנָא אֵיכוֹל קָרִירָא.
+*Translation:* The Gemara asks: **And in general,** in a case not involving one’s mother-in-law, **are we not concerned** about the possibility of replacement? **But didn’t we learn** in a mishna (*Demai* 3:5): **One who gives** dough or a pot of food **to his innkeeper [*pundakit*]** who is an *am ha’aretz* to bake or cook, **tithes what he gives her and** tithes **what he takes** back **from her, due to** the fact **that she is suspected** of **replacing** the ingredients? The Gemara answers: **There too,** her intentions are good, as the innkeeper **rationalizes** her deception **and says:** Let the **student** of Torah **eat** my **hot** food **and I will eat** his **cold** food.
+
+**2.**
+*Hebrew/Aramaic:* וּלְחַלּוֹפֵי לָא חָיְישִׁינַן? וְהָתַנְיָא: אֵשֶׁת חָבֵר טוֹחֶנֶת עִם אֵשֶׁת עַם הָאָרֶץ בִּזְמַן שֶׁהִיא טְמֵאָה, אֲבָל לֹא בִּזְמַן שֶׁהִיא טְהוֹרָה.
+*Translation:* The Gemara asks: **And are we not concerned about replacement** of the ingredients? **But isn’t it taught** in a *baraita*: **The wife of a *ḥaver*,** one devoted to the meticulous observance of mitzvot, especially the *halakhot* of ritual purity, *teruma*, and tithes, **grinds** grain **with the wife of an *am ha’aretz* when** the wife of the *ḥaver* **is ritually impure** with the impurity of a menstruating woman. In that case, there is no concern that she will eat her counterpart’s untithed produce, as, since she is impure she will refrain from touching the grain so that she will not render it impure. **But** she may **not** do so **when she is ritually pure,** due to the concern that she will eat the untithed produce.
+
+**3.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: אַף בִּזְמַן שֶׁהִיא טְמֵאָה לֹא תִּטְחוֹן, מִפְּנֵי שֶׁחֲבֶירְתָּהּ נוֹתֶנֶת לָהּ וְאוֹכֶלֶת.
+*Translation:* **Rabbi Shimon ben Elazar says: Even when she is impure,** the wife of the *ḥaver* **may not grind** grain together with the wife of the *am ha’aretz*, **due to** the fact **that her counterpart gives her** grain **and she eats** it without touching the rest of the grain.
+
+**4.**
+*Hebrew/Aramaic:* הַשְׁתָּא מִיגְזָל גָּזְלָה, חַלּוֹפֵי מִיבַּעְיָא? אָמַר רַב יוֹסֵף: הָתָם נָמֵי מוֹרְיָא וְאָמְרָה ״תּוֹרָא מִדְּיָשֵׁיהּ קָאָכֵיל״.
+*Translation:* The Gemara infers: **Now** that there is suspicion that the wife of the *am ha’aretz* **steals** from her husband’s grain and gives it to her counterparts, **is** it **necessary** to say that she is suspect with regard to **replacing** ingredients? **Rav Yosef said: There too** there are special circumstances, as the wife of the *am ha’aretz* **rationalizes** her behavior **and says** metaphorically: **The ox eats from its threshing,** and believes that the wife of the *ḥaver* is entitled to some of the grain that she is grinding.
+
+**5.**
+*Hebrew/Aramaic:* הֵעִיד רַבִּי יְהוֹשֻׁעַ בֶּן זֵרוּז, בֶּן חָמִיו שֶׁל רַבִּי מֵאִיר, לִפְנֵי רַבִּי עַל רַבִּי מֵאִיר שֶׁאָכַל עָלֶה שֶׁל יָרָק בְּבֵית שְׁאָן, וְהִתִּיר רַבִּי אֶת בֵּית שְׁאָן כּוּלָּהּ עַל יָדוֹ.
+*Translation:* § The Gemara resumes its discussion of the statement that the righteous would not experience mishaps. **Rabbi Yehoshua ben Zeruz, son of the father-in-law of Rabbi Meir, testified before Rabbi** Yehuda HaNasi **about Rabbi Meir that he ate the leaf of a vegetable in Beit She’an** without tithing or separating *teruma*, as he holds that Beit She’an is not part of Eretz Yisrael and therefore is not sacred with its sanctity. **And Rabbi** Yehuda HaNasi **permitted all** the produce of **Beit She’an on** the basis of **his** testimony.
+
+**6.**
+*Hebrew/Aramaic:* חָבְרוּ עָלָיו אֶחָיו וּבֵית אָבִיו, אָמְרוּ לוֹ: מָקוֹם שֶׁאֲבוֹתֶיךָ וַאֲבוֹת אֲבוֹתֶיךָ נָהֲגוּ בּוֹ אִיסּוּר, אַתָּה תִּנְהוֹג בּוֹ הֶיתֵּר?
+*Translation:* **His brothers and his father’s household united against him** and **said to him:** In **a place where your fathers and the fathers of your fathers treated** untithed produce as **forbidden, will you treat** it as **permitted?**
+
+**7.**
+*Hebrew/Aramaic:* דְּרַשׁ לָהֶן מִקְרָא זֶה: ״וְכִתַּת נְחַשׁ הַנְּחֹשֶׁת אֲשֶׁר עָשָׂה מֹשֶׁה כִּי עַד הַיָּמִים הָהֵמָּה הָיוּ בְנֵי יִשְׂרָאֵל מְקַטְּרִים לוֹ וַיִּקְרָא לוֹ נְחֻשְׁתָּן״. אֶפְשָׁר בָּא אָסָא וְלֹא בִּיעֲרוֹ, בָּא יְהוֹשָׁפָט וְלֹא בִּיעֲרוֹ? וַהֲלֹא כׇּל עֲבוֹדָה זָרָה שֶׁבָּעוֹלָם אָסָא וִיהוֹשָׁפָט בִּיעֲרוּם!
+*Translation:* Rabbi Yehuda HaNasi **interpreted this verse to them: “And he broke in pieces the copper serpent that Moses had made; for until those days the children of Israel burned incense to it; and it was called Nehushtan”** (II Kings 18:4). Is it **possible** that they burned incense to it and **Asa,** a righteous king, **came and did not eradicate it,** and **Jehoshaphat,** a righteous king, **came and did not eradicate it,** and it remained until the time of Hezekiah? **But didn’t Asa and Jehoshaphat eradicate all** objects of **idol worship in the world?**

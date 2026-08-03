@@ -6,9 +6,20 @@ compare against, not a silent in-place edit)."""
 import sys, json, os
 from relocate_parse import parse_blocks, quote_runs, heading_of
 
-def h3_insert_points(blocks):
+def h3_insert_points(blocks, lines):
     """For each h3 block, the raw line index just before the next h2/h3 — where
-    relocated content gets appended (end of that section's existing content)."""
+    relocated content gets appended (end of that section's existing content).
+
+    parse_blocks() deliberately excludes bare '---' divider lines from the block
+    list (they carry no heading/quote/prose meaning), so a naive "next h2/h3
+    block" boundary walks straight past one. Corpus convention puts '---' right
+    before each '## ' macro heading — when the target h3 is the last one under
+    its macro, that means the boundary found above sits on the FAR side of the
+    divider, and content spliced there reads as introducing the next macro
+    section instead of concluding this one (confirmed live on Bava Metzia 11's
+    "Reconciliation" and Bava Batra 153's "Ruling & Clarification", both moved
+    to the correct heading by relocate_check.py but landing after the '---').
+    Stop at the divider instead, if one falls inside this section's own span."""
     h3_idx = [i for i, b in enumerate(blocks) if b.kind == "h3"]
     points = {}
     for k, bi in enumerate(h3_idx):
@@ -19,34 +30,55 @@ def h3_insert_points(blocks):
                 break
         if end is None:
             end = blocks[-1].end
+        for li in range(blocks[bi].end, end):
+            if lines[li].strip() == "---":
+                end = li
+                break
         points[blocks[bi].text] = end
     return points
 
 def apply(path, moves_by_run_key):
-    """moves_by_run_key: dict mapping tuple(quote_indices) -> target_heading_text,
-    using the SAME block indices build_windows()/relocate_check.py produced."""
+    """moves_by_run_key: dict mapping tuple(quote_indices) -> a move spec, using the SAME
+    block indices build_windows()/relocate_check.py produced. A move spec is either:
+      {"type": "single", "target": <heading text>}
+      {"type": "split", "split_after": <int>, "first_target": <heading>, "second_target": <heading>}
+    For a split, run[:split_after] and run[split_after:] are relocated independently —
+    each half may move to a different heading (or stay, if its target equals the run's
+    current heading)."""
     lines = open(path, encoding="utf-8", errors="replace").read().split("\n")
     blocks = parse_blocks("\n".join(lines))
     runs = quote_runs(blocks)
-    insert_points = h3_insert_points(blocks)
+    insert_points = h3_insert_points(blocks, lines)
 
     removals = []
     insertions = {}
     applied = 0
-    for run in runs:
-        key = tuple(run)
-        target = moves_by_run_key.get(key)
-        if not target:
-            continue
-        current_h = heading_of(blocks, run[0])
-        if target == current_h or target not in insert_points:
-            continue
-        line_start = blocks[run[0]].start
-        line_end = blocks[run[-1]].end
+
+    def move_subrun(sub_run, target, current_h):
+        nonlocal applied
+        if not sub_run or target == current_h or target not in insert_points:
+            return
+        line_start = blocks[sub_run[0]].start
+        line_end = blocks[sub_run[-1]].end
         raw = "\n".join(lines[line_start:line_end])
         removals.append((line_start, line_end))
         insertions.setdefault(target, []).append(raw)
         applied += 1
+
+    for run in runs:
+        key = tuple(run)
+        move = moves_by_run_key.get(key)
+        if not move:
+            continue
+        current_h = heading_of(blocks, run[0])
+        if move["type"] == "single":
+            move_subrun(run, move["target"], current_h)
+        elif move["type"] == "split":
+            k = move["split_after"]
+            if move.get("first_confidence", "high") == "high":
+                move_subrun(run[:k], move["first_target"], current_h)
+            if move.get("second_confidence", "high") == "high":
+                move_subrun(run[k:], move["second_target"], current_h)
 
     keep = [True] * len(lines)
     for s, e in removals:
@@ -71,18 +103,34 @@ def apply(path, moves_by_run_key):
 
 if __name__ == "__main__":
     daf = sys.argv[1]
+    suffix = sys.argv[2] if len(sys.argv) > 2 else ""
     here = os.path.dirname(__file__)
-    src = os.path.join(here, "output", daf, "03_text_first_prototype_v10.md")
-    results = json.load(open(os.path.join(here, "review_v10_relocated", f"{daf}.json")))
+    v10_file = f"03_text_first_prototype_v10{suffix}.md"
+    src = os.path.join(here, "output", daf, v10_file)
+    results = json.load(open(os.path.join(here, "review_v10_relocated", f"{daf}{suffix}.json")))
     moves = {}
     for r in results:
         res = r["result"]
-        if res and res.get("moved") and res.get("confidence") == "high":
-            moves[tuple(r["quote_indices"])] = res["chosen_heading"]
+        if not res:
+            continue
+        if res.get("action") == "split":
+            # Each half is gated on its own confidence (apply() below only moves a half
+            # if it's high) -- a low-confidence half just means that half stays put,
+            # it doesn't block the other half's fix.
+            moves[tuple(r["quote_indices"])] = {
+                "type": "split",
+                "split_after": res["split_after"],
+                "first_target": res["first_heading"],
+                "first_confidence": res.get("first_confidence"),
+                "second_target": res["second_heading"],
+                "second_confidence": res.get("second_confidence"),
+            }
+        elif res.get("moved") and res.get("confidence") == "high":
+            moves[tuple(r["quote_indices"])] = {"type": "single", "target": res["chosen_heading"]}
     patched, applied = apply(src, moves)
     outdir = os.path.join(here, "review_v10_relocated")
     os.makedirs(outdir, exist_ok=True)
-    outpath = os.path.join(outdir, f"{daf}_relocated.md")
+    outpath = os.path.join(outdir, f"{daf}{suffix}_relocated.md")
     with open(outpath, "w", encoding="utf-8") as f:
         f.write(patched)
     print(f"{daf}: {applied}/{len(moves)} moves actually applied -> {outpath}")

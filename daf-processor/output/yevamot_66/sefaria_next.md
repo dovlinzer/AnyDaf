@@ -63,3 +63,68 @@
 **16.**
 *Hebrew/Aramaic:* זְכָרִים יֹאכֵלוּ: וְהָאִיכָּא עוּבָּר! קָסָבַר:
 *Translation:* The Gemara asks with regard to the first clause of Rabbi Shimon’s statement, that if among the priest’s children there are **males,** the slaves **may partake** of *teruma*: **But** even though sons inherit from their father, **isn’t there a fetus** to be accounted for, as perhaps he too is a male, and therefore has a share in the inheritance? The Gemara answers: Rabbi Shimon **holds**
+
+
+---
+
+### Yevamot 67b
+
+**1.**
+*Hebrew/Aramaic:* אֵין חוֹשְׁשִׁין לְמִיעוּטָא. וְאִיבָּעֵית אֵימָא: לְעוֹלָם קָסָבַר חוֹשְׁשִׁין לְמִיעוּטָא, דְּעָבְדִינַן לֵיהּ תַּקַּנְתָּא כְּרַב נַחְמָן אָמַר שְׁמוּאֵל.
+*Translation:* that **we are not concerned about the minority** of cases. Only a minority of fetuses are male inheritors, as roughly half are female, and some are stillborn. Therefore, the majority of fetuses will not become male children. **And if you wish, say** that **actually he holds** that **we are concerned about the minority.** However, **we make an arrangement for** the slaves, **in accordance with** what **Rav Naḥman** said that **Shmuel said.**
+
+**2.**
+*Hebrew/Aramaic:* דְּאָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: יְתוֹמִים שֶׁבָּאוּ לַחֲלוֹק בְּנִכְסֵי אֲבִיהֶם, בֵּית דִּין מַעֲמִידִין לָהֶם אַפּוֹטְרוֹפּוֹס, וּבוֹרֵר לָהֶם חֵלֶק יָפֶה. הִגְדִּילוּ — יְכוֹלִין לְמַחוֹת. וְרַב נַחְמָן דִּידֵיהּ אָמַר: הִגְדִּילוּ — אֵין יְכוֹלִין לְמַחוֹת, דְּאִם כֵּן מָה כֹּחַ בֵּית דִּין יָפֶה.
+*Translation:* This is **as Rav Naḥman said** that **Shmuel said:** With regard to minor **orphans who came to** court to **divide up their father’s property,** the **court appoints for** each of **them a steward [*apotropos*], and he selects for them a fine share.** When the orphans **have grown up, they may object** to the manner in which the property was divided and redistribute it. **And Rav Naḥman himself said** that when **they have grown up they may not object, as, if** they may object, **what good is the power of the court?** Here too, an appointed steward selects a share of the inheritance on behalf of the fetus, and this share does not include any of the slaves. Therefore, the slaves may partake of *teruma*. However, if all of the children are females, this arrangement is impossible because if the fetus is a son all the property belongs to him.
+
+**3.**
+*Hebrew/Aramaic:* לֵימָא דְּרַב נַחְמָן תַּנָּאֵי הִיא? לָא, דְּכוּלֵּי עָלְמָא אִית לְהוּ דְּרַב נַחְמָן. וְהָכָא בְּחוֹשְׁשִׁין לְמִיעוּטָא קָמִיפַּלְגִי.
+*Translation:* Based on the use of Rav Naḥman’s ruling to explain Rabbi Shimon’s opinion, the Gemara suggests: **Let us say** that **Rav Naḥman’s** opinion **is** corresponding to one side of a dispute between ***tanna’im*,** as the Rabbis disagree with Rabbi Shimon. The Gemara rejects this suggestion: **No;** it is possible **that everyone** in the dispute **accepts Rav Naḥman’s** ruling, **and here they disagree** only **with regard to** whether **we are concerned about the minority,** as previously suggested, in a case where the arrangement was not made.
+
+**4.**
+*Hebrew/Aramaic:* רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי אוֹמֵר מִשּׁוּם אָבִיו: הַבַּת מַאֲכֶלֶת, הַבֵּן אֵינוֹ מַאֲכִיל. מַאי שְׁנָא בֵּן דְּלֹא מַאֲכִיל — מִשּׁוּם חֶלְקוֹ שֶׁל עוּבָּר? בַּת נָמֵי לֹא תַּאֲכִיל — מִפְּנֵי חֶלְקוֹ שֶׁל עוּבָּר!
+*Translation:* It was taught in the previous clause of the *baraita* that **Rabbi Yishmael, son of Rabbi Yosei, says in the name of his father:** If the priest left behind **a daughter,** she **enables** the slaves **to partake** of *teruma*; however, **a son does not enable** them **to partake** of it. The Gemara asks: **What is different** about **a son, who does not enable** them **to partake, due to the fetus’s share,** as it owns a share of the property if it is a male? **A daughter should not enable** them **to partake either, due to** the **fetus’s share.**
+
+**5.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: הָכָא בִּנְכָסִים מוּעָטִים עָסְקִינַן. וּכְגוֹן דְּאִיכָּא בֵּן בַּהֲדֵי בַּת,
+*Translation:* **Abaye said: Here we are dealing with** a case of an inheritance of **insufficient property** that is enough only to sustain the daughters until they come of age. With regard to this case, the Sages instituted that the daughters receive their sustenance while the sons get nothing. This is **also** a case **where there is** a surviving **son together with** the **daughter.**
+
+**6.**
+*Hebrew/Aramaic:* מָה נַפְשָׁךְ: אִי הַאי דִּמְעַבְּרָא בֵּן הוּא — לָא עֲדִיף מֵהַאי דְּקָאֵי. אִי בַּת הִיא, אַמַּאי אָכְלָה — בְּתַקַּנְתָּא דְרַבָּנַן, כַּמָּה דְּלָא נְפַק לַאֲוִיר הָעוֹלָם לָא תַּקִּינוּ רַבָּנַן.
+*Translation:* Therefore, **no matter what,** the slaves do not partake of *teruma*. **If this** fetus, **with which she is pregnant, is a son, it is no better than this** son **who** already **exists.** Just as the existing son does not inherit the insufficient property, the same applies to the male fetus. **If it is a daughter,** it does not yet receive a share of the inheritance. This can be explained: **Why does** the daughter **partake** of the inheritance? It is **by** virtue of **a rabbinic ordinance.** Therefore, **as long as** the fetus **has not emerged into the atmosphere of the world, the Sages did not establish** that it should receive the inheritance. Consequently, the slaves partake of *teruma* by virtue of the existing daughter, as only she inherits them.
+
+**7.**
+*Hebrew/Aramaic:* בְּמַאי אוֹקֵימְתַּאּ — בִּנְכָסִים מוּעָטִים, אֵימָא סֵיפָא: שֶׁמָּא יִמָּצֵא הָעוּבָּר זָכַר, וְאֵין לַבָּנוֹת בִּמְקוֹם בֵּן כְּלוּם. אַדְּרַבָּה, נְכָסִים מוּעָטִים דְּבָנוֹת נִינְהוּ! סֵיפָא אֲתָאן לִנְכָסִים מְרוּבִּין.
+*Translation:* The Gemara asks: **In what** manner **did you establish** the *baraita*? You established it as referring **to insufficient property.** However, **say the latter clause** of the *baraita*: **Lest the fetus be found** to be **a male, and daughters do not** receive **any** of the inheritance **where** there is **a son.** Yet according to Abaye’s explanation, **on the contrary,** the **insufficient property is the daughters’,** whether or not there are any sons. The Gemara answers: In **the latter clause we have come to** a different case, in which there is **sufficient property.**
+
+**8.**
+*Hebrew/Aramaic:* וּנְכָסִים מוּעָטִים דְּבָנוֹת נִינְהוּ? וְהָאָמַר רַבִּי אַסִּי אָמַר רַבִּי יוֹחָנָן: יְתוֹמִין שֶׁקָּדְמוּ וּמָכְרוּ בִּנְכָסִים מוּעָטִים — מַה שֶּׁמָּכְרוּ מָכְרוּ?!
+*Translation:* The Gemara raises another objection to Abaye’s explanation: Does an inheritance of **insufficient property** belong **to the daughters? Didn’t Rabbi Asi say** that **Rabbi Yoḥanan said:** If the male **orphans proceeded to sell** the **insufficient property,** although by rabbinic ordinance it is designated for the daughters’ sustenance, **what they sold was sold.** Apparently, the Sages did not expropriate the properties from the male inheritors, but merely designated them for the daughters’ sustenance. How, then, can the sons’ ownership be disregarded with regard to the slaves’ partaking of *teruma*?
+
+**9.**
+*Hebrew/Aramaic:* וְאֶלָּא, מַאי ״בַּת״ דְּקָתָנֵי — אֵם. אִי הָכִי, הַיְינוּ רַבִּי יוֹסֵי? כּוּלָּהּ רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי קָתָנֵי לַהּ.
+*Translation:* **Rather, what is** the meaning of the word **daughter** in the context of the ruling **that is taught** by Rabbi Yishmael? It means female and is referring to the **mother** of the fetus. She enables her slaves of usufruct property to partake of *teruma*, as her husband’s heirs have no share in them, whereas the son does not enable the slaves of guaranteed investment to partake, due to the fetus’s share. The Gemara asks: **If so, this is** the same as **Rabbi Yosei’s** statement in the first clause. What was added by Rabbi Yishmael? The Gemara answers: Indeed, the **entire** *baraita* **is taught by Rabbi Yishmael, son of Rabbi Yosei.** There are not conflicting versions of Rabbi Yosei’s opinion. Rather, Rabbi Yishmael is clarifying that he is the author of that *baraita*.
+
+**10.**
+*Hebrew/Aramaic:* מַתְנִי׳ הָעוּבָּר, וְהַיָּבָם, וְהָאֵירוּסִין, וְהַחֵרֵשׁ, וּבֶן תֵּשַׁע שָׁנִים וְיוֹם אֶחָד — פּוֹסְלִין, וְלֹא מַאֲכִילִין.
+*Translation:* MISHNA: With regard to **the fetus** of a divorcée or a widow whose husband left her pregnant; **and a man whose married brother died childless [*yavam*]; and betrothal; and** a married **deaf-mute; and a nine-year-and-one-day-old** boy who engaged in intercourse with a woman; if any of these men are Israelites and the woman is the daughter of a priest, they **disqualify** her from partaking of *teruma*. **But** if she is an Israelite and they are priests, they **do not enable** her **to partake** of *teruma*.
+
+**11.**
+*Hebrew/Aramaic:* סָפֵק שֶׁהוּא בֶּן תֵּשַׁע שָׁנִים וְיוֹם אֶחָד סָפֵק שֶׁאֵינוֹ, סָפֵק הֵבִיא שְׁתֵּי שְׂעָרוֹת וְסָפֵק שֶׁלֹּא הֵבִיא,
+*Translation:* Likewise, in the case of a boy with regard to whom there is **uncertainty** as to **whether he is nine years and one day old** and **uncertainty** whether **he is not,** who engaged in intercourse with a woman; and in the case of a boy who betrothed a woman, with regard to whom there is **uncertainty** as to **whether he has grown two** pubic **hairs** and is considered an adult **and uncertainty whether he has not grown,** they too can disqualify the woman from partaking of *teruma* and cannot enable her to partake, as in the previous cases.
+
+**12.**
+*Hebrew/Aramaic:* נָפַל הַבַּיִת עָלָיו וְעַל בַּת אָחִיו, וְאֵין יָדוּעַ אֵי זֶה מֵת רִאשׁוֹן — צָרָתָהּ חוֹלֶצֶת וְלֹא מִתְיַיבֶּמֶת.
+*Translation:* If **the house fell upon** a man **and upon his brother’s daughter,** to whom he was married, **and it is unknown which** of them **died first, her rival wife performs *ḥalitza* and does not enter into levirate marriage.** Entering into levirate marriage is not possible, as, if the wife died after her husband, the surviving wife would be rendered the rival wife of a forbidden relative, since the *yavam* is the father of the wife who died. This status prevents the creation of a levirate bond between him and the surviving wife as well. On the other hand, *ḥalitza* is necessary in case the wife died before her husband, thereby allowing the creation of a levirate bond between her rival wife and her father, the *yavam*.
+
+**13.**
+*Hebrew/Aramaic:* גְּמָ׳ הָעוּבָּר. אִי בַּת כֹּהֵן לְיִשְׂרָאֵל הִיא — פָּסֵיל לָהּ. ״כִּנְעוּרֶיהָ״ — פְּרָט לִמְעוּבֶּרֶת. אִי בַּת יִשְׂרָאֵל לְכֹהֵן הִיא — לֹא מַאֲכִיל לָהּ, יָלוּד — מַאֲכִיל, שֶׁאֵינוֹ יָלוּד — אֵינוֹ מַאֲכִיל.
+*Translation:* GEMARA: It is taught in the mishna that **the fetus** disqualifies its mother from partaking of *teruma* and does not enable her to do so. The Gemara explains: **If she is the daughter of a priest** married **to an Israelite,** and her husband died and left her pregnant, the fetus **disqualifies her** from partaking of *teruma*, as it is stated: “But if a priest’s daughter be a widow, or divorced, and have no child, and is returned to her father’s house, as in her youth, she may eat of her father’s bread” (Leviticus 22:13). The phrase **“as in her youth” excludes a pregnant woman,** whose body has changed from her youth. **If** she **is an Israelite woman** married **to a priest,** the fetus **does not enable her to partake,** as **one who was born enables** others **to partake** of *teruma*, whereas **one who is not** yet **born does not enable** others **to partake.**
+
+**14.**
+*Hebrew/Aramaic:* הַיָּבָם. אִי בַּת כֹּהֵן לְיִשְׂרָאֵל הִיא — פָּסֵיל לָהּ. ״וְשָׁבָה אֶל בֵּית אָבִיהָ״ — פְּרָט לְשׁוֹמֶרֶת יָבָם. אִי בַּת יִשְׂרָאֵל לְכֹהֵן הִיא — לָא מַאֲכֵיל לָהּ, ״קִנְיַן כַּסְפּוֹ״ אָמַר רַחֲמָנָא, וְהָא קִנְיָן דְּאָחִיו הוּא.
+*Translation:* It is taught in the mishna that the same principle applies to **a *yavam*.** The Gemara explains: **If she is the daughter of a priest** who has a levirate bond **to an Israelite, he disqualifies her,** as it is stated in the verse cited above: **“And is returned to her father’s house,”** which **excludes a widow waiting for her *yavam*,** who has not returned to her father’s house, as a levirate bond was created with her *yavam*. **If she is an Israelite woman** with a levirate bond **to a priest, he does not enable her to partake** of *teruma*, as **the Merciful One states** in the Torah: **“The purchase of his money,** he may eat of it” (Leviticus 22:11), **and this** woman **is his brother’s acquisition.** The bond with her *yavam* ensued from his late brother’s marriage to her, not through any action of his own.
+
+**15.**
+*Hebrew/Aramaic:* וְהָאֵירוּסִין. אִי בַּת כֹּהֵן לְיִשְׂרָאֵל הִיא — פָּסֵיל לָהּ,
+*Translation:* The mishna teaches that the same principle **also** applies to **betrothal.** The Gemara explains: **If she is the daughter of a priest** betrothed **to an Israelite, he disqualifies her,**

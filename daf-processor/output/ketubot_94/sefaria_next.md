@@ -71,3 +71,76 @@
 **18.**
 *Hebrew/Aramaic:* אֲמַר לֵיהּ רַב יֵימַר לְרַב אָשֵׁי:
 *Translation:* **Rav Yeimar said to Rav Ashi:**
+
+
+---
+
+### Ketubot 95b
+
+**1.**
+*Hebrew/Aramaic:* וְהָא מַעֲשִׂים בְּכׇל יוֹם, דְּהָהוּא גַּבְרָא דְּמַישְׁכֵּן לֵיהּ פַּרְדֵּיסָא לְחַבְרֵיהּ לַעֲשַׂר שְׁנִין, וְקַשׁ לַחֲמֵשׁ שְׁנִין, וַאֲתָא לְקַמַּיְיהוּ דְּרַבָּנַן וּכְתַבוּ לֵיהּ טִירְפָא!
+*Translation:* **But it is a daily occurrence** that courts permit creditors to collect from liened property in cases where the unsold property became ruined, **as** in the case of **a certain man who mortgaged his orchard [*pardeisa*] to another** person **for ten years,** thereby allowing the latter to consume the produce as payment of the loan that the owner of the orchard owed him. After **five years** the orchard **grew old** and no longer produced as it once did. The creditor **came before the Sages** to argue his claim, **and they wrote him** a document of **authorization to repossess** liened property from those who purchased land from the debtor after the giving of the loan. This proves that if unsold property becomes unproductive, a creditor may collect his debt from liened property.
+
+**2.**
+*Hebrew/Aramaic:* הָתָם נָמֵי, אִינְהוּ הוּא דְּאַפְסִידוּ אַנַּפְשַׁיְיהוּ, כֵּיוָן דַּהֲווֹ יָדְעִי דְּפַרְדֵּיסָא עָבֵיד דְּקִישׁ, לָא אִיבְּעִי לְהוּ לְמִיזְבַּן.
+*Translation:* The Gemara answers: **There too, it was they,** the purchasers, **who brought this loss upon themselves since they know that an orchard tends to age.** Therefore, **they should not have purchased** the land from the debtor because they should have realized that there was a chance that he would be unable to pay off his debt with the fruits of the orchard, and the creditor would repossess the land they were purchasing.
+
+**3.**
+*Hebrew/Aramaic:* וְהִלְכְתָא: אִישְׁתְּדוּף בְּנֵי חָרֵי — טָרְפָא מִמְּשַׁעְבְּדִי.
+*Translation:* The Gemara concludes: **And the *halakha*** is that if **unsold** property **became blighted,** the creditor **may repossess liened** property that has been sold to a third party.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: ״נְכָסַי לִיךְ וְאַחֲרַיִךְ לִפְלוֹנִי״, וְעָמְדָה וְנִיסֵּת — בַּעַל לוֹקֵחַ הָוֵי, וְאֵין לְ״אַחֲרַיִךְ״ בִּמְקוֹם בַּעַל כְּלוּם.
+*Translation:* **Abaye said:** If a man said to an unmarried woman: **My property** is hereby bequeathed **to you, and after you** die it will pass **to so-and-so, and** the woman **went and married** someone and then died, **her husband** takes possession of the property and **is** considered **a purchaser,** i.e., it is as if the woman sold him the property. **And** the individual that the man had designated to receive the property **after you,** i.e., after the woman, receives **nothing** in a case **where there is a husband.** This is because during the time that the property belongs to the woman it is hers completely, and all transactions she performs are considered valid. Consequently, her husband, who is considered a purchaser, may keep the property after her death.
+
+**5.**
+*Hebrew/Aramaic:* כְּמַאן — כִּי הַאי תַּנָּא, דְּתַנְיָא: ״נְכָסַי לִיךְ וְאַחֲרַיִךְ לִפְלוֹנִי״, יָרַד הָרִאשׁוֹן וּמָכַר — הַשֵּׁנִי מוֹצִיא מִיַּד הַלָּקוֹחוֹת, דִּבְרֵי רַבִּי. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֵין לַשֵּׁנִי אֶלָּא מַה שֶּׁשִּׁיֵּיר רִאשׁוֹן.
+*Translation:* The Gemara asks: **In accordance with whose** opinion did Abaye rule? The Gemara answers: **In accordance with** the opinion of **this *tanna*, as it is taught** in a *baraita* that if one says: **My property** is hereby bequeathed **to you, and after you** die it will pass **to so-and-so,** and **the first** beneficiary **entered,** i.e., took possession of the field, **and sold** it, **the second** beneficiary has the right to **repossess** that property **from the purchasers** upon the death of the first beneficiary. This is **the statement of Rabbi** Yehuda HaNasi, who holds that the first beneficiary had the right to use the property, but not to permanently transfer it to someone else. **Rabban Shimon ben Gamliel says: The second** beneficiary **has** a claim **only** to **that which the first** beneficiary **left** in his possession and did not transfer to anyone else. Abaye ruled in accordance with the opinion of Rabban Shimon ben Gamliel.
+
+**6.**
+*Hebrew/Aramaic:* וּמִי אָמַר אַבָּיֵי הָכִי? וְהָאָמַר אַבָּיֵי: אֵיזֶהוּ רָשָׁע עָרוּם — זֶה הַמַּשִּׂיא עֵצָה לִמְכּוֹר בִּנְכָסִים כְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל!
+*Translation:* The Gemara asks: **And did Abaye** actually **say so? Didn’t Abaye** himself **say: Who is a wily, wicked person? One who gives** his fellow **advice to sell** his **property in accordance with** the ruling of **Rabban Shimon ben Gamliel** in order to prevent the second beneficiary from taking possession of the property.
+
+**7.**
+*Hebrew/Aramaic:* מִי קָאָמַר תִּינָּשֵׂא? ״נִשֵּׂאת״ קָאָמַר.
+*Translation:* The Gemara answers: **Did he say** that the woman **should** be advised to **marry** in order to deprive the second beneficiary? **He said** his ruling with regard to a case where the woman **married** because it is the way of the world that a woman gets married. She did not do this in order to deprive the second heir of his property; it is merely a consequence of the fact that she did get married that her properties ended up in her husband’s possession.
+
+**8.**
+*Hebrew/Aramaic:* וְאָמַר אַבָּיֵי: ״נְכָסַי לִיךְ וְאַחֲרַיִךְ לִפְלוֹנִי״ וּמָכְרָה וָמֵתָה — הַבַּעַל מוֹצִיא מִיַּד הַלָּקוֹחוֹת, וְ״אַחֲרַיִךְ״ מִיַּד בַּעַל, וְלוֹקֵחַ מִיַּד ״אַחֲרַיִךְ״. וּמוֹקְמִינַן לְכוּלְּהוּ בִּידָא דְלוֹקֵחַ.
+*Translation:* The Gemara presents another statement of Abaye with regard to this subject: **And Abaye said:** If one says to a married woman: **My property** is hereby bequeathed **to you, and after you** die it will pass **to so-and-so, and she sold** the property **and** subsequently **died, the husband** can **repossess** the property **from the purchasers.** Because he himself is considered a purchaser, he is the first purchaser in line, and is therefore entitled to repossess property from other purchasers. **And** the individual originally designated to receive the property **after you,** i.e., after the woman, can repossess the property **from the possession** of **the husband** since he had the right to receive the property after the woman. **And** then **the purchaser may repossess** it **from the possession of** the individual designated to receive it **after you,** since he purchased it from the first beneficiary, i.e., the woman. Finally, **the property is established in the possession of the purchaser.**
+
+**9.**
+*Hebrew/Aramaic:* מַאי שְׁנָא מֵהָא דִּתְנַן: וְחוֹזְרוֹת חֲלִילָה עַד שֶׁיַּעֲשׂוּ פְּשָׁרָה בֵּינֵיהֶן? הָתָם אִית לְהוּ פְּסֵידָא לְכוּלְּהוּ, הָכָא לוֹקֵחַ הוּא דְּאִית לֵיהּ פְּסֵידָא.
+*Translation:* The Gemara asks: In **what** way **is** this case **different from that which we learned** in **the mishna:** They **continue** to do so according to this **cycle until they** agree on a **compromise between them?** The Gemara answers: **There,** in the case of the mishna, **they all** stand to **incur a loss,** as the purchasers paid money for their property and the woman has a monetary claim to collect her marriage settlement. **Here, it is** only the **purchaser who** stands to **incur a loss,** as he paid for the property, while the others received it as a gift.
+
+**10.**
+*Hebrew/Aramaic:* אֲזַל רַפְרָם אֲמַר לִשְׁמַעְתָּא קַמֵּיהּ דְּרַב אָשֵׁי. מִי אָמַר אַבָּיֵי הָכִי? וְהָאָמַר אַבָּיֵי: ״נְכָסַי לִיךְ וְאַחֲרַיִךְ לִפְלוֹנִי״, עָמְדָה וְנִיסֵּת — בַּעַל לוֹקֵחַ הָוֵי, וְאֵין לְ״אַחֲרַיִךְ״ בִּמְקוֹם בַּעַל כְּלוּם.
+*Translation:* **Rafram went and stated this *halakha* before Rav Ashi** and then asked him: **Did Abaye** actually **say this? Didn’t Abaye say:** If a man said to a woman: **My property** is hereby bequeathed **to you, and after you** die it will pass **to so-and-so,** and the woman **went and married** someone, **her husband is** considered **a purchaser, and** the individual that the man had designated to receive the property **after you,** i.e., after the woman, receives **nothing** in a case **where there is a husband.** If the husband is considered to be a purchaser, why, according to Abaye’s second ruling, does the later purchaser receive the property?
+
+**11.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: הָתָם דְּאָמַר לַהּ כְּשֶׁהִיא פְּנוּיָה, הָכָא דְּאָמַר לַהּ כְּשֶׁהִיא נְשׂוּאָה. מַאי קָאָמַר לַהּ — ״אַחֲרַיִךְ״ לִיקְנֵי, בַּעַל לָא לִיקְנֵי.
+*Translation:* Rav Ashi **said to him: There,** in the case where the husband acquires exclusive rights to the property, it is **where** the original owner **spoke to** the woman **while she was** still **unmarried,** while **here,** in the latter case, **he spoke to her when she was** already **married. What he is saying to her** by making this statement even though she is already married and her husband is her heir, is that the individual designated to receive the property **after you shall acquire** the property, and your **husband shall not acquire** it. Consequently, the husband does not attain rights to this property.
+
+**12.**
+*Hebrew/Aramaic:* וְכֵן בַּעַל חוֹב. תָּנָא: וְכֵן בַּעַל חוֹב וּשְׁנֵי לָקוֹחוֹת.
+*Translation:* § The mishna taught: **And so too,** with regard to **a creditor,** and so too, with regard to a female creditor. The Gemara explains this phrase based upon what was **taught** in a *baraita*: **And so too,** in a case where one owes one hundred dinars to **a creditor** and he sells property worth fifty dinars each to **two purchasers.** If the creditor waives his right to repossess the property from the second purchaser, he can still repossess the property from the first purchaser. The first purchaser can then repossess from the second purchaser, the creditor can repossess that property from the first purchaser, and the second purchaser can reclaim it from the creditor. This cycle continues until they reach a compromise.
+
+**13.**
+*Hebrew/Aramaic:* וְכֵן אִשָּׁה בַּעֲלַת חוֹב וּשְׁנֵי לָקוֹחוֹת.
+*Translation:* **And so too,** in the case of **a female creditor,** i.e., a woman who seeks to collect her marriage contract from her husband’s estate, **and two purchasers** who purchased his property from him.
+
+**14.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ מִי שֶׁהָיָה נָשׂוּי
+*Translation:* May we return to you, chapter “One who was married.”
+
+**15.**
+*Hebrew/Aramaic:* אַלְמָנָה נִיזּוֹנֶת מִנִּכְסֵי יְתוֹמִים — מַעֲשֵׂה יָדֶיהָ שֶׁלָּהֶן, וְאֵין חַיָּיבִין בִּקְבוּרָתָהּ. יוֹרְשֶׁיהָ יוֹרְשֵׁי כְתוּבָּתָהּ חַיָּיבִין בִּקְבוּרָתָהּ.
+*Translation:* MISHNA: **A widow is sustained from the property of orphans. Her earnings belong to them, and they are not obligated** to see **to her burial. Her heirs,** who **inherit her marriage contract, are obligated** to see **to her burial.**
+
+**16.**
+*Hebrew/Aramaic:* גְּמָ׳ אִיבַּעְיָא לְהוּ: ״נִיזּוֹנֶת״ תְּנַן אוֹ ״הַנִּיזּוֹנֶת״ תְּנַן? נִיזּוֹנֶת תְּנַן, וּכְאַנְשֵׁי גָלִיל, וְלָא סַגִּי דְּלָא יָהֲבִי לַהּ,
+*Translation:* GEMARA: **A dilemma was raised before** the Sages: Did **we learn** in the mishna: A widow **is sustained, or** did **we learn** in the mishna: A widow **who is sustained?** There is a difference between the two versions. If **we learned** in the mishna: A widow **is sustained,** that means that every widow is sustained by her husband’s heirs. **And** the mishna is **in accordance with** the custom of **the people of Galilee,** who write a clause in the marriage contract stipulating that it is the widow’s right to remain in her husband’s house after his death and to be supported from his estate as long as she does not remarry. **And it is impossible** for the heirs **not to give her** sustenance.
+
+**17.**
+*Hebrew/Aramaic:* אוֹ דִלְמָא ״הַנִּיזּוֹנֶת״ תְּנַן, וּכְאַנְשֵׁי יְהוּדָה, וְאִי בָּעוּ לָא יָהֲבִי לַהּ.
+*Translation:* **Or perhaps, we learned** in the mishna: A widow **who is sustained,** meaning that not all widows are sustained by their husbands’ heirs. **And** the mishna is **in accordance with** the custom of **the people of Judea,** who write a clause in the marriage contract stipulating that it is the widow’s right to remain in her husband’s house and be sustained by the heirs until they pay her marriage contract. **And if they** so **desire,** they can pay her marriage contract and then **they** need **not give her** sustenance any longer.

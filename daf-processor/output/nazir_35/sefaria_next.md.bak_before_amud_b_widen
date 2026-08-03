@@ -1,0 +1,21 @@
+### Nazir 36a
+
+**1.**
+*Hebrew/Aramaic:* זְעֵירִי אָמַר: אַף שְׂאוֹר בְּבַל תַּקְטִירוּ. כְּמַאן — כְּרַבִּי אֶלְעָזָר, דְּדָרֵישׁ ״כֹּל״?
+*Translation:* **Ze’eiri says:** Permitted and forbidden substances combine with regard to **the prohibition against offering leaven** on the altar, **as well,** as it states: “For any [*kol*] leaven and any [*kol*] honey shall not be offered as a burnt-offering before the Lord” (Leviticus 2:11). This indicates that one is also liable for sacrificing leaven in a mixture in addition to the liability for sacrificing pure leaven. The Gemara asks: **In accordance with whose** opinion did Ze’eiri issue his ruling? It is **in accordance with** the opinion of **Rabbi Eliezer, who derives** from the term ***kol*** in the verse “You shall eat nothing [*kol*] leavened” (Exodus 12:20) that a mixture with part leaven is forbidden on Passover.
+
+**2.**
+*Hebrew/Aramaic:* אִי הָכִי לְעִנְיַן חָמֵץ נָמֵי! אִין הָכִי נָמֵי. אֶלָּא לְאַפּוֹקֵי מֵאַבָּיֵי דְּאָמַר: יֵשׁ הַקְטָרָה בְּפָחוֹת מִכְּזַיִת, קָא מַשְׁמַע לַן: אֵין הַקְטָרָה בְּפָחוֹת מִכְּזַיִת.
+*Translation:* The Gemara raises a difficulty: **If so,** then with regard **to the matter of leavened bread** on Passover, one should **also** be liable for eating leaven combined with a permitted substance, e.g., less than an olive-bulk of bread soaked in wine, so that the volume is now an olive-bulk. The Gemara answers: **Yes, indeed it is so. Rather,** when Ze’eiri specifies that the prohibition applies with regard to sacrificing leaven in offerings, he meant **to exclude** the statement **of Abaye, who says: There is** significance to **sacrificing less than an olive-bulk** of leaven on the altar, i.e., one is flogged for sacrificing an offering of that kind. By noting that one is liable due to the fact that permitted substances combine with forbidden substances, Ze’eiri **teaches us** that **there is no** significance to **sacrificing less than an olive-bulk,** and therefore this is not punishable by lashes.
+
+**3.**
+*Hebrew/Aramaic:* יָתֵיב רַב דִּימִי וְקָאָמַר לַהּ לְהָא שְׁמַעְתָּא. אֵיתִיבֵיהּ אַבָּיֵי: הַמִּקְפָּה שֶׁל תְּרוּמָה, וְהַשּׁוּם וְהַשֶּׁמֶן שֶׁל חוּלִּין, וְנָגַע טְבוּל יוֹם בְּמִקְצָתָן — פָּסַל אֶת כּוּלָּן. מִקְפָּה שֶׁל חוּלִּין, וְהַשּׁוּם וְהַשֶּׁמֶן שֶׁל תְּרוּמָה, וְנָגַע טְבוּל יוֹם בְּמִקְצָתָן — לֹא פָּסַל אֶלָּא מְקוֹם מַגָּעוֹ.
+*Translation:* § **Rav Dimi sat and stated this *halakha*** of Rabbi Yoḥanan that a permitted substance does not combine with a forbidden substance except in the case of a nazirite. **Abaye raised an objection to his** opinion from a mishna (*Tevul Yom* 2:3): In a case where **the thick soup** was made with produce that had the status **of *teruma* but the garlic and oil** therein were **of non-sacred** produce, **and one** who was ritually impure **who immersed that day** and is waiting for nightfall for the purification process to be completed **touched some of** the contents, **he** has **disqualified all** the contents of the pot from being eaten, as it all is considered *teruma* soup. However, if **the thick soup** was made with **produce of non-sacred** status **but the garlic and the oil** had the status **of *teruma*** produce, **and one who immersed himself that day touched some of them, he** has **disqualified only** the contents in the **place that he touched.**
+
+**4.**
+*Hebrew/Aramaic:* וְהָוֵינַן בַּהּ: מְקוֹם מַגָּעוֹ אַמַּאי פָּסוּל? וְאָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: מָה טַעַם — הוֹאִיל וְזָר לוֹקֶה עָלֶיהָ בִּכְזַיִת.
+*Translation:* Abaye continues: **And we discussed** this issue: **Why** are the contents in the **place that he touched disqualified?** Since the primary ingredients of the dish are of non-sacred produce, it should not be disqualified by contact with one who immersed himself that day. **And Rabba bar bar Ḥana says** that **Rabbi Yoḥanan says: What is the reason** that the contents become disqualified? It is **due to** the fact that **a non-priest is flogged for** eating **an olive-bulk** of the soup, as anything into which *teruma* is mixed is considered *teruma* by Torah law.
+
+**5.**
+*Hebrew/Aramaic:* מַאי טַעְמֵיהּ?
+*Translation:* Abaye concludes his question: **What is** Rabbi Yoḥanan’s **reason** that one is flogged for eating this mixture?

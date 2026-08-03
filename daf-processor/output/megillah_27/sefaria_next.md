@@ -99,3 +99,80 @@
 **25.**
 *Hebrew/Aramaic:* גְּמָ׳ תָּנוּ רַבָּנַן: בָּתֵּי כְנֵסִיּוֹת אֵין נוֹהֲגִין בָּהֶן קַלּוּת רֹאשׁ. אֵין אוֹכְלִין בָּהֶן, וְאֵין שׁוֹתִין בָּהֶן,
 *Translation:* GEMARA: **The Sages taught** in a *baraita*: With regard to **synagogues: One may not act inside them with frivolity.** Therefore, **one may not eat in them; nor may one drink in them;**
+
+
+---
+
+### Megillah 28b
+
+**1.**
+*Hebrew/Aramaic:* וְאֵין נֵיאוֹתִין בָּהֶם, וְאֵין מְטַיְּילִין בָּהֶם, וְאֵין נִכְנָסִין בָּהֶן בַּחַמָּה מִפְּנֵי הַחַמָּה, וּבַגְּשָׁמִים מִפְּנֵי הַגְּשָׁמִים. וְאֵין מַסְפִּידִין בָּהֶן הֶסְפֵּד שֶׁל יָחִיד. אֲבָל קוֹרִין בָּהֶן, וְשׁוֹנִין בָּהֶן, וּמַסְפִּידִין בָּהֶן הֶסְפֵּד שֶׁל רַבִּים,
+*Translation:* **and one may not adorn oneself inside them; nor may one wander about inside them; nor may one enter them in the sun** for protection **from the sun, or in the rain** to find shelter **from the rain; nor may one offer a eulogy inside them for an individual,** which is a private event. **However, one may read** the Bible **inside them, and one may study** *halakhot* **inside them, and one may offer a eulogy inside them for** a Torah scholar, if **the public** attends the eulogy.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יְהוּדָה: אֵימָתַי — בְּיִשּׁוּבָן, אֲבָל בְּחוּרְבָּנָן — מַנִּיחִין אוֹתָן וְעוֹלִין בָּהֶן עֲשָׂבִים, וְלֹא יִתְלוֹשׁ מִפְּנֵי עׇגְמַת נֶפֶשׁ.
+*Translation:* **Rabbi Yehuda said: When** does this apply? **When** the synagogues are **occupied** by the people using them. **But when they are in** a state of **ruin, they should be left alone** so that **grass will sprout up inside them. And** that grass **should not be picked** and removed, **due to** the **anguish** that it will bring to those who see it. It will remind them of the disrepair of the synagogue and the need to rebuild it.
+
+**3.**
+*Hebrew/Aramaic:* עֲשָׂבִים מַאן דְּכַר שְׁמַיְיהוּ? חַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: וּמְכַבְּדִין אוֹתָן וּמַרְבִּיצִין אוֹתָן כְּדֵי שֶׁלֹּא יַעֲלוּ בָּהֶן עֲשָׂבִים. אָמַר רַבִּי יְהוּדָה: אֵימָתַי — בְּיִשּׁוּבָן, אֲבָל בְּחוּרְבָּנָן — מַנִּיחִין אוֹתָן לַעֲלוֹת. עָלוּ בָּהֶן עֲשָׂבִים — לֹא יִתְלוֹשׁ, מִפְּנֵי עׇגְמַת נֶפֶשׁ.
+*Translation:* The Gemara asks: Why did Rabbi Yehuda discuss the *halakha* about **grass? Who mentioned** anything **about it?** The Gemara explains: The text of the *baraita* **is incomplete and is teaching the following: And** among the other things that may be done in synagogues, **they should** also be sure to **sweep them and** to **sprinkle** their floors with water, **in order that grass not sprout up in them. Rabbi Yehuda said: When** does this apply? **When** the synagogues are **occupied** by the people using them, **but when they are in** a state of **ruin, they should be left alone** so that grass **will sprout up inside them.** If **grass did sprout up, it should not be removed, due to** the **anguish** that this will bring to those who see it.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַב אַסִּי: בָּתֵּי כְנֵסִיּוֹת שֶׁבְּבָבֶל, עַל תְּנַאי הֵן עֲשׂוּיִין. וְאַף עַל פִּי כֵן, אֵין נוֹהֲגִין בָּהֶן קַלּוּת רֹאשׁ. וּמַאי נִיהוּ — חֶשְׁבּוֹנוֹת.
+*Translation:* **Rav Asi said: Synagogues in Babylonia are built** from the outset **with a stipulation** that they not have the full sanctity of a synagogue, in order that it be permitted to use them for the community’s general needs. **But nevertheless,** one **should not act inside them with frivolity.** The Gemara explains: **What is** meant by **this?** One should not make business **calculations** in a synagogue.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב אַסִּי: בֵּית הַכְּנֶסֶת שֶׁמְּחַשְּׁבִין בּוֹ חֶשְׁבּוֹנוֹת — מְלִינִין בּוֹ אֶת הַמֵּת. מְלִינִין סָלְקָא דַעְתָּךְ? לָא סַגִּי דְּלָאו הָכִי? אֶלָּא, לְסוֹף שֶׁיָּלִינוּ בּוֹ מֵת מִצְוָה.
+*Translation:* **Rav Asi said:** With regard to **a synagogue in which** people **make** business **calculations, they will** eventually **keep a corpse inside it overnight.** The Gemara questions the wording of this dictum: **Can it** really **enter your mind** to say that **they will** ever actually **keep a corpse inside it overnight?** Could it really be that **there will not be any other alternative? Rather,** Rav Asi means that as a punishment for acting with frivolity people in the community will die, including those who have no family, and so **ultimately they will** have to **keep a corpse with no one to bury it [*met mitzva*] overnight** in the synagogue.
+
+**6.**
+*Hebrew/Aramaic:* וְאֵין נֵיאוֹתִין בָּהֶן. אָמַר רָבָא: חֲכָמִים וְתַלְמִידֵיהֶם מוּתָּרִין, דְּאָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: מַאי בֵּי רַבָּנַן — בֵּיתָא דְרַבָּנַן.
+*Translation:* § The *baraita* taught: **And one may not adorn oneself inside them. Rava said:** The prohibition applies only to laypeople, but **Torah scholars and their disciples are permitted** to do so, **as Rabbi Yehoshua ben Levi said: What** is the meaning of the term: ***Bei* of the Sages,** which is used to describe a study hall? It is a shortened form of **house [*beita*] of the Sages.** In order to facilitate the constant presence of the Torah scholars in the study hall, it is permitted for them to use the hall as though it were their home.
+
+**7.**
+*Hebrew/Aramaic:* וְאֵין נִכְנָסִין בָּהֶן בַּחַמָּה מִפְּנֵי הַחַמָּה וּבַגְּשָׁמִים מִפְּנֵי הַגְּשָׁמִים. כִּי הָא דְּרָבִינָא וְרַב אַדָּא בַּר מַתְנָה הֲווֹ קָיְימִי וְשָׁאֲלִי שְׁאֵילְתָּא מֵרָבָא, אֲתָא זִילְחָא דְמִיטְרָא, עָיְילִי לְבֵי כְנִישְׁתָּא אָמְרִי: הַאי דְּעָיְילִינַן לְבֵי כְנִישְׁתָּא לָאו מִשּׁוּם מִיטְרָא, אֶלָּא מִשּׁוּם דִּשְׁמַעְתָּא בָּעֲיָא צִילּוּתָא כְּיוֹמָא דְאִסְתָּנָא.
+*Translation:* The *baraita* continued: **And nor may one enter them in the sun** for protection **from the sun, or in the rain** to find shelter **from the rain.** The Gemara explains: This **is similar to that** case of **Ravina and Rav Adda bar Mattana. They were standing and asking a question of Rava,** when **a shower [*zilḥa*] of rain began** to fall upon them. **They** all **entered the synagogue, saying: Our having entered the synagogue is not due to the rain,** that we stay dry; **rather, it is due to** the fact that **the *halakha*** we were discussing **requires clarity like the day the north wind [*istena*]** blows and the sky is perfectly clear. Therefore, we are entering the synagogue for the sake of studying Torah, which is certainly permitted.
+
+**8.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: אִי אִצְטְרִיךְ לֵיהּ לְאִינִישׁ לְמִיקְרֵי גַּבְרָא מִבֵּי כְנִישְׁתָּא, מַאי? אֲמַר לֵיהּ: אִי צוּרְבָּא מֵרַבָּנַן הוּא — לֵימָא הִלְכְתָא, וְאִי תַּנָּא הוּא — לֵימָא מַתְנִיתִין, וְאִי קָרָא הוּא — לֵימָא פְּסוּקָא. וְאִי לָא, לֵימָא לֵיהּ לְיָנוֹקָא: אֵימָא לִי פְּסוּקָיךְ. אִי נָמֵי, נִישְׁהֵי פּוּרְתָּא וְנֵיקוּם.
+*Translation:* **Rav Aḥa, son of Rava, said to Rav Ashi: If a person needs to summon an individual from** inside **a synagogue, what** should he do, since it is not permitted to enter a synagogue just for that purpose? Rav Ashi **said to him: If he is a young Torah scholar, let him recite a *halakha*** upon entering the synagogue; **and if he is a *tanna*** who memorizes large numbers of *mishnayot*, **let him recite** various ***mishnayot*; and if he is an expert in** the **Bible, let him recite a verse; and if** he is **not** able to do even this, **let him say to a child: Recite for me a verse** that you have learned today. **Alternatively, he should remain** in the synagogue **for a short** time **and** only afterward **stand up** and leave.
+
+**9.**
+*Hebrew/Aramaic:* וּמַסְפִּידִין בָּהֶן הֶסְפֵּד שֶׁל רַבִּים. הֵיכִי דָּמֵי הֶסְפֵּידָא דְרַבִּים? מַחְוֵי רַב חִסְדָּא: כְּגוֹן הֶסְפֵּידָא דְּקָאֵי בֵּיהּ רַב שֵׁשֶׁת. מַחְוֵי רַב שֵׁשֶׁת: כְּגוֹן הֶסְפֵּידָא דְּקָאֵי בֵּיהּ רַב חִסְדָּא.
+*Translation:* The *baraita* continues: **And one may offer a eulogy inside them for** a Torah scholar if **the public** attends the eulogy. The Gemara asks: **What are the circumstances of a eulogy for the public? Rav Ḥisda depicted** a case: **For example, a eulogy** for a Torah scholar **at which Rav Sheshet is present.** Owing to his presence, many people will come. **Rav Sheshet** himself **depicted** another case: **For example, a eulogy at which Rav Ḥisda is present.**
+
+**10.**
+*Hebrew/Aramaic:* רַפְרָם אַסְפְּדַהּ לְכַלְּתֵיהּ בְּבֵי כְנִישְׁתָּא, אָמַר: מִשּׁוּם יְקָרָא דִּידִי וּדְמִיתָא אָתוּ כּוּלֵּיהּ עָלְמָא. רַבִּי זֵירָא סַפְדֵיהּ לְהָהוּא מֵרַבָּנַן בְּבֵי כְנִישְׁתָּא, אֲמַר: אִי מִשּׁוּם יְקָרָא דִּידִי, אִי מִשּׁוּם יְקָרָא (דִּידֵיהּ) דְּמִיתָא, אָתוּ כּוּלֵּי עָלְמָא.
+*Translation:* The Gemara offers another example: **Rafram** once **eulogized his daughter-in-law inside a synagogue. He said: Due to my honor and** the honor **of the deceased, everyone will come** to the eulogy. It will consequently be a public event, and it is therefore permitted to hold it in a synagogue. Similarly, **Rabbi Zeira** once **eulogized a certain Sage inside a synagogue. He said: Whether due to my honor, or whether due to the honor of the deceased, everyone will come** to the eulogy.
+
+**11.**
+*Hebrew/Aramaic:* רֵישׁ לָקִישׁ סַפְדֵיהּ לְהָהוּא צוּרְבָּא מֵרַבָּנַן דִּשְׁכִיחַ בְּאַרְעָא דְיִשְׂרָאֵל דַּהֲוָה תָּנֵי הִלְכָתָא בְּעֶשְׂרִים וְאַרְבַּע שׁוּרָתָא, אֲמַר: וַוי חָסְרָא אַרְעָא דְיִשְׂרָאֵל גַּבְרָא רַבָּה.
+*Translation:* **Reish Lakish** once **eulogized a certain young Torah scholar who was frequently** present **in Eretz Yisrael and who used to study *halakha* in the twenty-fourth row** of the study hall. He sat so far back because he was not one of the principal scholars. Nevertheless, when he died, Reish Lakish **said: Alas, Eretz Yisrael has lost a great man.**
+
+**12.**
+*Hebrew/Aramaic:* הָהוּא דַּהֲוָה תָּנֵי הִלְכְתָא סִיפְרָא וְסִיפְרֵי וְתוֹסֶפְתָּא וּשְׁכֵיב, אֲתוֹ וַאֲמַרוּ לֵיהּ לְרַב נַחְמָן: לִיסְפְּדֵיהּ מָר! אֲמַר: הֵיכִי נִסְפְּדֵיהּ? הֵי צַנָּא דִּמְלֵי סִיפְרֵי דַּחֲסַר?!
+*Translation:* In contrast, there was **a certain man who used to study *halakha*, the *Sifra*, and the *Sifrei*, and the *Tosefta*, and he died.** People **came and said to Rav Naḥman: Let the Master eulogize him. He said** to them: **How can I eulogize him?** Should I say: **Alas, a basket filled with books is lost?** This would not be true. Although the man studied many areas of Torah, he was not proficient in them.
+
+**13.**
+*Hebrew/Aramaic:* תָּא חֲזִי מָה בֵּין תַּקִּיפֵי דְּאַרְעָא דְיִשְׂרָאֵל לַחֲסִידֵי דְבָבֶל.
+*Translation:* The Gemara compares the conduct of Reish Lakish in Eretz Yisrael to that of Rav Naḥman in Babylonia. **Come** and **see what** the difference is **between the harsh** scholars **of Eretz Yisrael and the saintly ones of Babylonia.** Although Reish Lakish was known for his harsh nature, he was still more respectful than Rav Naḥman, who was known for his saintliness.
+
+**14.**
+*Hebrew/Aramaic:* תְּנַן הָתָם: וּדְאִשְׁתַּמַּשׁ בְּתָגָא — חָלֵף. תָּנֵי רֵישׁ לָקִישׁ: זֶה הַמִּשְׁתַּמֵּשׁ בְּמִי שֶׁשּׁוֹנֶה הֲלָכוֹת כִּתְרָהּ שֶׁל תּוֹרָה.
+*Translation:* **We learned** in a mishna **there** (*Avot* 1:13): **And one who makes use of the crown [*taga*]** of Torah learning **will perish** from the world. **Reish Lakish taught: This** is referring to **one who** allows himself to be **served by one who studies *halakhot*,** which is **the crown of the Torah.**
+
+**15.**
+*Hebrew/Aramaic:* וְאָמַר עוּלָּא: לִשְׁתַּמַּשׁ אִינִישׁ בְּמַאן דְּתָנֵי אַרְבְּעָה, וְלָא לִשְׁתַּמַּשׁ בְּמַאן דְּמַתְנֵי אַרְבְּעָה. כִּי הָא דְּרֵישׁ לָקִישׁ הֲוָה אָזֵיל בְּאוֹרְחָא מְטָא עוּרְקְמָא דְמַיָּא, אֲתָא הָהוּא גַּבְרָא אַרְכְּבֵיהּ אַכַּתְפֵּיהּ וְקָא מְעַבַּר לֵיהּ. אֲמַר לֵיהּ: קְרֵית? אֲמַר לֵיהּ: קָרֵינָא. תְּנֵית? תָּנֵינָא אַרְבָּעָה סִידְרֵי מִשְׁנָה. אֲמַר לֵיהּ: פְּסַלְתְּ לָךְ אַרְבְּעָה טוּרֵי וְטָעֲנַתְּ בַּר לָקִישׁ אַכַּתְפָּךְ?! שְׁדִי בַּר לָקִישָׁא בְּמַיָּא!
+*Translation:* **And Ulla said:** It is better that **a person should be served by one who studies four** orders of the Mishna, **and he should not** allow himself to **be served by one who teaches** to others **four** orders of the Mishna, **as in that** case **of Reish Lakish. He was traveling along the road** when **he reached** a deep **puddle of water. A certain man came** and **placed him upon his shoulders and** began **transferring him** to the other side. Reish Lakish **said to him: Have you read** the Bible? **He said to him: I have read** it. He then asked: **Have you studied** the Mishna? He answered him: **I have studied four orders of the Mishna.** Reish Lakish then **said to him: You have hewn** these **four mountains and** yet **you bear the weight of the son of Lakish upon your shoulders?** It is inappropriate for you to carry me; **throw the son of Lakish into the water.**
+
+**16.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: נִיחָא לִי דַּאֲשַׁמְּעֵיהּ לְמָר. אִי הָכִי, גְּמוֹר מִינִּי הָא מִלְּתָא דְּאָמַר רַבִּי זֵירָא: בְּנוֹת יִשְׂרָאֵל הֵן הֶחֱמִירוּ עַל עַצְמָן שֶׁאֲפִילּוּ רוֹאוֹת טִיפַּת דָּם כְּחַרְדָּל יוֹשְׁבוֹת עָלָיו שִׁבְעָה נְקִיִּים.
+*Translation:* The man **said to** Reish Lakish: **It is pleasing for me to serve the Master** in this way. Reish Lakish said to him: **If so, learn from me this matter that Rabbi Zeira said.** In this way you will be considered my disciple, and it will then be appropriate for you to serve me. **Jewish women were strict upon themselves in that even if they see a spot of** menstrual **blood** that is only the size **of a mustard seed they wait on its account seven clean** days before immersing themselves in a ritual bath to purify themselves.
+
+**17.**
+*Hebrew/Aramaic:* תָּנָא דְּבֵי אֵלִיָּהוּ: כׇּל הַשּׁוֹנֶה הֲלָכוֹת, מוּבְטָח לוֹ שֶׁהוּא בֶּן עוֹלָם הַבָּא, שֶׁנֶּאֱמַר: ״הֲלִיכוֹת עוֹלָם לוֹ״, אַל תִּקְרֵי ״הֲלִיכוֹת״ אֶלָּא ״הֲלָכוֹת״.
+*Translation:* **The school of Eliyahu taught: Anyone who studies *halakhot*** every day, **he is guaranteed that he is destined for the World-to-Come, as it is stated: “His ways [*halikhot*] are eternal”** (Habakkuk 3:6): **Do not read** the verse as ***halikhot* [ways]; rather,** read it as ***halakhot*.** Consequently, the verse indicates that the study of the *halakhot* brings one to eternal life.
+
+**18.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן:
+*Translation:* **The Sages taught** in a *baraita*:

@@ -1,0 +1,61 @@
+### Zevachim 80a
+
+**1.**
+*Hebrew/Aramaic:* הַנִּיתָּנִין בְּמַתָּנָה אַחַת שֶׁנִּתְעָרְבוּ בַּנִּיתָּנִין בְּמַתָּנָה אַחַת – יִנָּתְנוּ בְּמַתָּנָה אֶחָת. (מֵהֶן) מַתַּן אַרְבַּע בְּמַתַּן אַרְבַּע – יִנָּתְנוּ בְּמַתַּן אַרְבַּע.
+*Translation:* In a case of the blood of an offering **that is** to be **placed** on the altar **with one placement that was mixed with** the blood of another offering **that is** to be **placed** on the altar **with one placement,** e.g., the blood of a firstborn offering with the blood of another firstborn offering or the blood of an animal tithe offering, the blood **shall be placed with one placement.** In a case of the blood of an offering that is to be placed on the altar with **four placements** that was mixed with the blood of another offering that is to be placed on the altar **with four placements,** e.g., the blood of a sin offering with that of another sin offering, or the blood of a burnt offering with that of a peace offering, the blood **shall be placed with four placements.**
+
+**2.**
+*Hebrew/Aramaic:* מַתַּן אַרְבַּע בְּמַתָּנָה אַחַת – רַבִּי אֱלִיעֶזֶר אוֹמֵר: יִנָּתְנוּ בְּמַתַּן אַרְבַּע, רַבִּי יְהוֹשֻׁעַ אוֹמֵר: יִנָּתְנוּ בְּמַתָּנָה אֶחָת.
+*Translation:* If the blood of an offering that is to be placed on the altar with **four placements** was mixed with the blood of an offering that is to be placed on the altar **with one placement, Rabbi Eliezer says:** The blood **shall be placed with four placements. Rabbi Yehoshua says:** The blood **shall be placed with one placement,** as the priest fulfills the requirement with one placement after the fact.
+
+**3.**
+*Hebrew/Aramaic:* אָמַר לוֹ רַבִּי אֱלִיעֶזֶר: הֲרֵי הוּא עוֹבֵר עַל בַּל תִּגְרַע! אֲמַר לֵיהּ רַבִּי יְהוֹשֻׁעַ: הֲרֵי הוּא עוֹבֵר עַל בַּל תּוֹסִיף!
+*Translation:* **Rabbi Eliezer said to** Rabbi Yehoshua: According to your opinion, the priest **violates** the prohibition of: **Do not diminish,** as it is written: “All these matters that I command you, that you shall observe to do; you shall not add thereto, nor diminish from it” (Deuteronomy 13:1). One may not diminish the number of required placements from four to one. **Rabbi Yehoshua said to** Rabbi Eliezer: According to your opinion, the priest **violates** the prohibition of: **Do not add,** derived from the same verse. One may not add to the one required placement and place four.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר לוֹ רַבִּי אֱלִיעֶזֶר: לֹא נֶאֱמַר בַּל תּוֹסִיף אֶלָּא כְּשֶׁהוּא בְּעַצְמוֹ. אָמַר לוֹ רַבִּי יְהוֹשֻׁעַ: לֹא נֶאֱמַר בַּל תִּגְרַע אֶלָּא כְּשֶׁהוּא בְּעַצְמוֹ! וְעוֹד אָמַר רַבִּי יְהוֹשֻׁעַ: כְּשֶׁנָּתַתָּ – עָבַרְתָּ עַל בַּל תּוֹסִיף, וְעָשִׂיתָ מַעֲשֶׂה בְּיָדֶךָ. כְּשֶׁלֹּא נָתַתָּ – עָבַרְתָּ עַל בַּל תִּגְרַע, לֹא עָשִׂיתָ מַעֲשֶׂה בְּיָדֶךָ.
+*Translation:* **Rabbi Eliezer said to** Rabbi Yehoshua: The prohibition of: **Do not add, is stated only** in a case **where** the blood **is by itself,** not when it is part of a mixture. **Rabbi Yehoshua said to** Rabbi Eliezer: Likewise, the prohibition of: **Do not diminish, is stated only** in a case **where** the blood **is by itself. And Rabbi Yehoshua also said: When you placed** four placements, **you transgressed** the prohibition of: **Do not add, and you performed a direct action. When you did not place** four placements but only one, although **you transgressed** the prohibition of: **Do not diminish, you did not perform a direct action.** An active transgression is more severe than a passive one.
+
+**5.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַבִּי אֶלְעָזָר: לֹא הִכְשִׁיר רַבִּי אֱלִיעֶזֶר אֶלָּא שְׁנַיִם שְׁנַיִם, אֲבָל אֶחָד אֶחָד – לָא.
+*Translation:* GEMARA: The mishna teaches that according to the opinion of Rabbi Eliezer, if a cup containing the blood of blemished animals became intermingled with cups holding the blood of fit offerings, and the blood in one of the cups was sacrificed, all the remaining cups are fit. **Rabbi Elazar says: Rabbi Eliezer permitted** the rest of the cups **only** if they were sacrificed **two** by **two,** as at least one of them is certainly permitted; **but** he did **not** permit them to be sacrificed **one** by **one,** as he may be found to have presented the blood of the prohibited cup by itself.
+
+**6.**
+*Hebrew/Aramaic:* מֵתִיב רַב דִּימִי, וַחֲכָמִים אוֹמְרִים: אֲפִילּוּ קָרְבוּ כּוּלָּן חוּץ מֵאֶחָד מֵהֶן – יִשָּׁפֵךְ לְאַמָּה. אֲמַר לֵיהּ רַבִּי יַעֲקֹב לְרַבִּי יִרְמְיָה בַּר תַּחְלִיפָא, אַסְבְּרַהּ לָךְ: מַאי אֶחָד – זוּג אֶחָד.
+*Translation:* **Rav Dimi raises an objection** from the mishna: **And the Rabbis say** that **even** if the blood in **all** the cups **was sacrificed except for** the blood in **one of them,** the blood **shall be poured into the** Temple courtyard **drain.** This indicates that even in this case, where only one cup remains, Rabbi Eliezer disagrees with the Rabbis and permits the blood in the cup to be presented. **Rabbi Ya’akov said to Rabbi Yirmeya bar Taḥlifa: I will explain** it **to you: What** does the mishna mean when it states: Except for the blood in **one** of them? It means except for **one pair,** i.e., two cups, as even Rabbi Eliezer did not permit the presentation of the cups one by one.
+
+**7.**
+*Hebrew/Aramaic:* וּצְרִיכָא; דְּאִי אִיתְּמַר בְּהָא – בְּהָא קָאָמַר רַבִּי אֱלִיעֶזֶר, מִשּׁוּם דְּאִיתְעֲבִיד בֵּיהּ כַּפָּרָתוֹ; אֲבָל בְּהָא – אֵימָא מוֹדֵי לְהוּ לְרַבָּנַן.
+*Translation:* § The dispute between Rabbi Eliezer and the Rabbis was also stated above with regard to a mixture of limbs from fit and unfit offerings. The Gemara notes: **And** it is **necessary** for the mishna to teach this dispute with regard to both cases, **as, if it were stated** only **with regard to that** case of the limbs, one would have said that it is **in that** case alone that **Rabbi Eliezer says** that the rest of the limbs are sacrificed, **because** the offering’s **atonement,** i.e., the presenting of the blood, **has** already **been performed,** as the limbs are sacrificed after the blood has been presented. **But in this** case of the blood in the cups, **say** that Rabbi Eliezer **concedes to the Rabbis** that the rest of the blood is unfit to be presented.
+
+**8.**
+*Hebrew/Aramaic:* וְאִי אִיתְּמַר בְּהָא – בְּהָא קָאָמְרִי רַבָּנַן, אֲבָל בְּהָא אֵימָא מוֹדוּ לְרַבִּי אֱלִיעֶזֶר; צְרִיכָא.
+*Translation:* **And** conversely, **if** the dispute **were stated** only **with regard to this** case of the cups, one would have said that it is **in this** case alone that **the Rabbis say** that the blood in the rest of the cups is unfit, **but in that** case of the limbs, **say** that the Rabbis **concede to Rabbi Eliezer** that the rest of the limbs are fit to be sacrificed, as the blood has already been presented. Therefore, it is **necessary** for the mishna to state that the dispute applies in both cases.
+
+**9.**
+*Hebrew/Aramaic:* תְּנַן הָתָם: צְלוֹחִית שֶׁנָּפְלוּ לְתוֹכָהּ מַיִם כׇּל שֶׁהוּ – רַבִּי אֱלִיעֶזֶר אוֹמֵר: יַזֶּה שְׁתֵּי הַזָּאוֹת, וַחֲכָמִים פּוֹסְלִין.
+*Translation:* § The Gemara continues its discussion of the dispute between Rabbi Eliezer and the Rabbis. **We learned** in a mishna **there** (*Para* 9:1): With regard to **a flask** containing water of purification **into which any amount of** regular **water fell, Rabbi Eliezer says:** The priest **should sprinkle two sprinklings** on the ritually impure person, as in this manner he ensures that he will be sprinkled with some of the water of purification; **but the Rabbis disqualify** the mixture for purification.
+
+**10.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא רַבָּנַן – סָבְרִי יֵשׁ בִּילָּה, וְהַזָּאָה צְרִיכָה שִׁיעוּר, וְאֵין מִצְטָרְפִין לְהַזָּאוֹת.
+*Translation:* The Gemara clarifies: **Granted,** one can understand why **the Rabbis** disqualify the mixture, as **they hold** three opinions: They hold that **there is mixing,** i.e., when two substances are mixed together each drop is assumed to contain a bit of each of them. **And** they hold that an act of **sprinkling** of the water of purification **requires** a minimum **measure** of water of purification, and in this case each sprinkling contained some of the regular water. **And** they hold that it is of no help to sprinkle the water twice, as **one cannot combine sprinklings,** i.e., two acts of sprinkling the water of purification do not combine to render one pure. Therefore, the person is not purified.
+
+**11.**
+*Hebrew/Aramaic:* אֶלָּא רַבִּי אֱלִיעֶזֶר – מַאי קָסָבַר? אִי קָסָבַר אֵין בִּילָּה, כִּי מַזֶּה שְׁתֵּי הַזָּאוֹת מַאי הָוֵי? דִּילְמָא תַּרְוַיְיהוּ מַיָּא קָא מַזֵּי! אֶלָּא קָא סָבַר יֵשׁ בִּילָּה. אִי קָסָבַר אֵין הַזָּאָה צְרִיכָה שִׁיעוּר, לְמָה לִי שְׁתֵּי הַזָּאוֹת? אֶלָּא קָסָבַר הַזָּאָה צְרִיכָה שִׁיעוּר. וְאִי קָסָבַר אֵין מִצְטָרְפִין לְהַזָּאוֹת, כִּי מַזֶּה שְׁתֵּי הַזָּאוֹת מַאי הָוֵי? וְאִי נָמֵי מִצְטָרְפִין לְהַזָּאוֹת, מִי יֵימַר דִּמְלֵא לֵיהּ שִׁיעוּרָא?
+*Translation:* **But what** does **Rabbi Eliezer hold? If he holds** that **there is no mixing,** i.e., when two substances are mixed together each drop is not assumed to contain a bit of each of them, then even **if one sprinkles two sprinklings, what of it? Perhaps** on **both** occasions **he sprinkles** regular **water. Rather,** one must say that Rabbi Eliezer **holds** that **there is mixing. If he holds** that the act of **sprinkling does not require** a minimum **measure, why do I** need **two sprinklings?** One act of sprinkling would be enough. **Rather,** you must say that Rabbi Eliezer **holds** that the act of **sprinkling requires** a minimum **measure. And if** Rabbi Eliezer **holds** that **one cannot combine sprinklings,** then even **if one sprinkles two sprinklings, what of it? And alternatively,** if he holds that **one combines sprinklings, who says that** the two sprinklings will **amount to** the minimum **measure?** Perhaps most of the water he sprinkled was regular water.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רֵישׁ לָקִישׁ: לְעוֹלָם יֵשׁ בִּילָּה, וְהַזָּאָה צְרִיכָה שִׁיעוּר; וְהָכָא בְּמַאי עָסְקִינַן – כְּגוֹן שֶׁנִּתְעָרְבוּ אַחַת בְּאַחַת.
+*Translation:* **Reish Lakish says: Actually,** Rabbi Eliezer holds that **there is mixing, and sprinkling requires** a minimum **measure. And here we are dealing with** a case **where** the two types of water **were mixed** together in a ratio of **one to one,** and therefore by performing two sprinklings the priest ensures that he has sprinkled the minimum measure of one sprinkling of water of purification.
+
+**13.**
+*Hebrew/Aramaic:* רָבָא אָמַר: לְעוֹלָם יֵשׁ בִּילָּה, וְהַזָּאָה אֵין צְרִיכָה שִׁיעוּר; וּקְנָסָא קְנַסוּ רַבָּנַן, כִּי הֵיכִי דְּלָא (מִשְׁתָּרֵשׁ) [נִשְׁתָּרֵשׁ] לֵיהּ.
+*Translation:* **Rava says: Actually,** Rabbi Eliezer maintains that **there is mixing, and sprinkling does not require** a minimum **measure.** Consequently, it should suffice for the priest to perform one sprinkling. **And** the requirement to sprinkle twice is **a penalty** that **the Sages imposed, so that** one who mixes regular water with the water of purification **would not benefit from this** act by diluting the valuable water of purification.
+
+**14.**
+*Hebrew/Aramaic:* רַב אָשֵׁי אָמַר: אֵין בִּילָּה; יַזֶּה שְׁתֵּי הַזָּאוֹת.
+*Translation:* **Rav Ashi states** a different explanation: Rabbi Eliezer holds that **there is no mixing,** and therefore if the priest sprinkles only once there is a concern that he might not have sprinkled any water of purification at all, and therefore he **sprinkles two sprinklings.**
+
+**15.**
+*Hebrew/Aramaic:* מֵיתִיבִי, רַבִּי אוֹמֵר: לְדִבְרֵי רַבִּי אֱלִיעֶזֶר – הַזָּאָה כׇּל שֶׁהוּא מְטַהֶרֶת; הַזָּאָה אֵין צְרִיכָה שִׁיעוּר; הַזָּאָה מֶחֱצָה כָּשֵׁר וּמֶחֱצָה פָּסוּל.
+*Translation:* The Gemara **raises an objection** from a *baraita* against Reish Lakish’s opinion that Rabbi Eliezer holds that sprinkling requires a minimum measure. **Rabbi** Yehuda HaNasi **says: According to the statement of Rabbi Eliezer** that if the priest performs two sprinklings the purification ritual is valid, **a sprinkling of any amount renders** the impure person **ritually pure,** as **sprinkling does not require** a minimum **measure,** and even **a sprinkling** that contains **half fit** water **and half unfit** water renders the individual ritually pure.

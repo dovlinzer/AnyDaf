@@ -75,3 +75,64 @@
 **19.**
 *Hebrew/Aramaic:* וְזוֹג דִּבְהֵמָה אֵין מְקַבְּלִין טוּמְאָה? וּרְמִינְהוּ: זוֹג שֶׁל בְּהֵמָה — טְמֵאָה,
 *Translation:* The Gemara asks: **And does a bell of an animal not become ritually impure?** The Gemara proceeds to **raise a contradiction** from that which was taught in another *baraita*: **The bell of an animal** can become **ritually impure,**
+
+
+---
+
+### Shabbat 58b
+
+**1.**
+*Hebrew/Aramaic:* וְשֶׁל דֶּלֶת — טָהוֹר.
+*Translation:* **and** the bell **of a door is ritually pure.** The door itself is not considered a vessel. It is considered part of the house, and therefore its status is like that of the house. The house is attached to the ground, and therefore it cannot become ritually impure. Everything connected to it, including the bell, assumes that status.
+
+**2.**
+*Hebrew/Aramaic:* שֶׁל דֶּלֶת וַעֲשָׂאוֹ לִבְהֵמָה — טָמֵא. שֶׁל בְּהֵמָה וַעֲשָׂאוֹ לְדֶלֶת, אַף עַל פִּי שֶׁחִבְּרוֹ לַדֶּלֶת וּקְבָעוֹ בְּמַסְמְרִים — טָמֵא, שֶׁכׇּל הַכֵּלִים יוֹרְדִין לִידֵי טוּמְאָתָן בְּמַחְשָׁבָה, וְאֵין עוֹלִין מִידֵּי טוּמְאָתָן אֶלָּא בְּשִׁנּוּי מַעֲשֶׂה!
+*Translation:* If one took the bell **of a door and converted it** into a bell **for an animal, it** can become **ritually impure;** however, if one took the bell **of an animal and converted it** into a bell **for a door, even though he attached it to the door and** even **fastened it with nails, it** can still become **ritually impure because all utensils descend into their** state of **ritual impurity by means of thought** alone, i.e., as a result of a decision to designate them for a specific purpose through which they will become susceptible to ritual impurity, they receive that status immediately. **However, they only ascend from their** state of **ritual impurity by means of an action** that effects physical **change** to the vessel itself. A change in designation alone is ineffective. This *baraita* states that an animal bell can become ritually impure, contrary to that which was taught in the previous *baraita*.
+
+**3.**
+*Hebrew/Aramaic:* לָא קַשְׁיָא: הָא דְּאִית לֵיהּ עִינְבָּל, הָא דְּלֵית לֵיהּ עִינְבָּל.
+*Translation:* The Gemara answers: This is **not difficult. This** *baraita*, where it was taught that the bell can become ritually impure, is referring to a case **where it has a clapper [*inbal*]. That** *baraita*, where it was taught that the bell cannot become ritually impure, is referring to a case **where it does not have a clapper.**
+
+**4.**
+*Hebrew/Aramaic:* מָה נַפְשָׁךְ: אִי מָנָא הוּא, אַף עַל פִּי דְּלֵית לֵיהּ עִינְבָּל. אִי לָאו מָנָא הוּא — עִינְבָּל מְשַׁוֵּי לֵיהּ מָנָא?!
+*Translation:* The Gemara asks: **Whichever** way **you** look at it, this is difficult. **If** the bell **is a vessel,** then **even though it has no clapper** it should be susceptible to ritual impurity. **If it is not a vessel, does a clapper render it a vessel?**
+
+**5.**
+*Hebrew/Aramaic:* אִין, כִּדְרַבִּי שְׁמוּאֵל בַּר נַחְמָנִי אָמַר רַבִּי יוֹנָתָן. דְּאָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָנִי אָמַר רַבִּי יוֹנָתָן: מִנַּיִן לְמַשְׁמִיעַ קוֹל בִּכְלֵי מַתָּכוֹת שֶׁהוּא טָמֵא, שֶׁנֶּאֱמַר: ״כׇּל דָּבָר אֲשֶׁר יָבֹא בָאֵשׁ תַּעֲבִירוּ בָאֵשׁ״ — אֲפִילּוּ דִּבּוּר, יָבֹא בָּאֵשׁ.
+*Translation:* The Gemara answers: **Yes,** the clapper can determine the bell’s status with regard to ritual impurity, **in accordance with** that which **Rabbi Shmuel bar Naḥmani said** that **Rabbi Yonatan said. As Rabbi Shmuel bar Naḥmani said** that **Rabbi Yonatan said: From where** is it derived **that a metal vessel that produces sound is** considered a vessel and can become **ritually impure? As it is stated: “Every thing that passes through the fire, you shall make it pass through the fire,** and it shall be clean; nevertheless, it shall be purified with the water of sprinkling; and all that does not pass through the fire you shall make to go through water” (Numbers 31:23). And the Sages interpret the verse homiletically: Every thing [*davar*], **even speech [*dibbur*];** in other words, even an object that makes a sound you **shall pass through fire** to purify it because it is a vessel.
+
+**6.**
+*Hebrew/Aramaic:* בְּמַאי אוֹקִימְתָּא — בִּדְלֵית לֵיהּ עִינְבָּל? אֵימָא מְצִיעֲתָא: וְלֹא בְּזוֹג שֶׁבְּצַוָּארוֹ, אֲבָל יוֹצֵא הוּא בְּזוֹג שֶׁבִּכְסוּתוֹ, וְזֶה וָזֶה מְקַבְּלִין טוּמְאָה. אִי דְּלֵית לֵיהּ עִינְבָּל מִי מְקַבְּלִי טוּמְאָה?
+*Translation:* However, the matter can be clarified further. **In what** case **did you establish** the *baraita*; in the case of a bell **that does not have a clapper?** If so, **say the middle** clause of that *baraita*: **And** he may **not** go out **with a bell that is** hung **around his neck; however, he may go out with a bell that is on his clothes,** and both **this and that can become ritually impure. If** it is referring to a bell that **does not have a clapper, can it become ritually impure?**
+
+**7.**
+*Hebrew/Aramaic:* וּרְמִינְהוּ: הָעוֹשֶׂה זֹגִין לְמַכְתֶּשֶׁת וְלַעֲרִיסָה וּלְמִטְפְּחוֹת סְפָרִים וּלְמִטְפְּחוֹת תִּינוֹקוֹת, יֵשׁ לָהֶם עִינְבָּל — טְמֵאִין, אֵין לָהֶם עִינְבָּל — טְהוֹרִין, נִיטְּלוּ עִינְבְּלֵיהֶן — עֲדַיִן טוּמְאָתָן עֲלֵיהֶם.
+*Translation:* The Gemara **raises a contradiction** from the *Tosefta*: **One who makes bells for the mortar** used to crush spices, **and for the cradle, and for mantles of** Torah **scrolls, and for coverings of small children,** if **they have a clapper they** can become **ritually impure,** and if **they do not have a clapper they are ritually pure** and cannot become impure. If after they became ritually impure **their clappers were removed, their ritual impurity still** remains **upon them.** Apparently, even with regard to bells used by people, the original existence of a clapper determines whether or not the bell is considered a vessel.
+
+**8.**
+*Hebrew/Aramaic:* הָנֵי מִילֵּי בְּתִינוֹק, דִּלְקָלָא עָבְדִי לֵיהּ. אֲבָל גָּדוֹל — תַּכְשִׁיט הוּא לֵיהּ, אַף עַל גַּב דְּלֵית לֵיהּ עִינְבָּל.
+*Translation:* The Gemara answers: **This applies only to** the bells of **a small child, since they are placed** on **him to** produce **sound.** If the bell does not make a sound, it serves no purpose and, consequently, cannot become ritually impure. **However,** with regard to **an adult,** the bell **is an ornament for him even though it does not have a clapper.**
+
+**9.**
+*Hebrew/Aramaic:* אָמַר מָר: נִיטְּלוּ עִינְבְּלֵיהֶן עֲדַיִן טוּמְאָתָן עֲלֵיהֶן. לְמַאי חֲזוּ? אָמַר אַבָּיֵי: הוֹאִיל שֶׁהַהֶדְיוֹט יָכוֹל לְהַחֲזִירוֹ.
+*Translation:* It was taught in the *Tosefta* that **the Master said:** If **their clappers were removed** after they became ritually impure, **their ritual impurity still** remains **upon them.** The Gemara wonders: **For what** use **are they suited** after their clappers are removed? They are essentially broken and should therefore become ritually pure. **Abaye said:** The reason that their impurity remains is **because a common person is able to replace** the clapper into the bell. According to Abaye, with regard to any vessel that comes apart, if a common person is capable of reassembling it and it does not require the expertise of a craftsman, it is not considered broken and its ritual impurity is not nullified.
+
+**10.**
+*Hebrew/Aramaic:* מֵתִיב רָבָא: הַזּוּג וְהָעִינְבָּל חִבּוּר.
+*Translation:* **Rava raised an objection** to this explanation from that which was taught: The connection between **the bell and the clapper,** this **is a connection.** Therefore, if they are detached from each other, the bell should be considered broken.
+
+**11.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא, הָכִי קָאָמַר: אַף עַל גַּב דְּלָא מְחַבַּר — כְּמַאן דִּמְחַבַּר דָּמֵי. וְהָתַנְיָא: מַסְפּוֹרֶת שֶׁל פְּרָקִים וְאִיזְמֵל שֶׁל רָהִיטְנֵי — חִבּוּר לַטּוּמְאָה וְאֵין חִבּוּר לַהַזָּאָה.
+*Translation:* And he adds: **And if you say that** when employing the term connection, **it is saying as follows: Even though it is not connected, it** has the legal status **as if it were connected. Wasn’t it taught** in a *baraita*: The connection between the different parts of **scissors** made **of** different **parts** that are made to come apart **and** the connection between **the blade of a** carpenter’s **plane,** which can be removed from its handle, and its handle **are** considered **a connection with regard to** contracting **ritual impurity?** If one part becomes ritually impure, the other parts become ritually impure as well. The *baraita* continues: **However,** they are **not** considered **a connection with regard to** the **sprinkling** of the waters of a purification offering. When waters of purification are sprinkled on these implements in order to purify them from ritual impurity imparted by a corpse (see Numbers 19:17–19), the water must be sprinkled on each part individually.
+
+**12.**
+*Hebrew/Aramaic:* וְאָמְרִינַן: מָה נַפְשָׁךְ, אִי חִבּוּר הוּא — אֲפִלּוּ לְהַזָּאָה, וְאִי לָא חִבּוּר הוּא — אֲפִילּוּ לְטוּמְאָה נָמֵי לָא!
+*Translation:* The Gemara asks: **Whichever** way **you** look at it, there is a difficulty: **If** it is considered **a connection,** they should be considered connected **even** with regard **to sprinkling;** and **if** they are **not** considered **a connection,** they should **not** be so considered **even** with regard **to ritual impurity.**
+
+**13.**
+*Hebrew/Aramaic:* וְאָמַר רַבָּה: דְּבַר תּוֹרָה, בִּשְׁעַת מְלָאכָה — חִבּוּר בֵּין לְטוּמְאָה בֵּין לְהַזָּאָה. שֶׁלֹּא בִּשְׁעַת מְלָאכָה — אֵינוֹ חִבּוּר לֹא לְטוּמְאָה וְלֹא לְהַזָּאָה. וְגָזְרוּ עַל טוּמְאָה שֶׁלֹּא בִּשְׁעַת מְלָאכָה מִשּׁוּם טוּמְאָה שֶׁהִיא בִּשְׁעַת מְלָאכָה, וְעַל הַזָּאָה שֶׁהִיא בִּשְׁעַת מְלָאכָה מִשּׁוּם הַזָּאָה שֶׁלֹּא בִּשְׁעַת מְלָאכָה.
+*Translation:* **And Rabba said: By Torah law, when in use,** they are considered **a connection, both** with regard **to ritual impurity** and with regard **to sprinkling. And when not in use,** even if the parts are connected, since they are made to come apart and they are commonly dismantled, they are **neither** considered **a connection** with regard **to ritual impurity nor** with regard **to sprinkling. And** the Sages **issued a decree** that they should be considered a connection **with regard to ritual impurity** even **when not in use, due to ritual impurity when in use.** If one component becomes ritually impure, the other component becomes ritually impure as well. **And,** as a further stringency, they issued a decree that they should not be considered a connection **with regard to sprinkling** even **when in use, due to sprinkling when not in use.** The waters of purification must be sprinkled on each part individually. Nevertheless, this type of connection with regard to ritual impurity is only relevant when the two parts are actually connected. When the parts are separate, even if they can be reattached easily, the vessel is considered broken. This contradicts Abaye’s explanation.
+
+**14.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רָבָא:
+*Translation:* **Rather, Rava said:** It should be explained differently:

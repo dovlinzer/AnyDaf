@@ -51,3 +51,20 @@
 **13.**
 *Hebrew/Aramaic:* שֶׁפָּקְקוּ אֶת הַמָּאוֹר בַּטָּפִיחַ וְקָשְׁרוּ אֶת הַמְּקִידָּה בְּגֶמִי. אָמַר רַב יְהוּדָה אָמַר רַב: הִילְקָטִי קְטַנָּה הָיְתָה בֵּין שְׁנֵי בָתִּים, [וְטוּמְאָה הָיְתָה שָׁם]
 *Translation:* The mishna related: They **sealed a window using an earthenware vessel and tied an earthenware shard with a** long **reed-grass. Rav Yehuda said** that **Rav said** in explanation: **There was a small alleyway [*heilketei*] between two houses, and there was ritual impurity** imparted by a corpse **there** in the alleyway,
+
+
+---
+
+### Shabbat 157b
+
+**1.**
+*Hebrew/Aramaic:* וְגִיגִית סְדוּקָה מוּנַּחַת עַל גַּבָּן. וּפָקְקוּ אֶת הַמָּאוֹר בַּטָּפִיחַ, וְקָשְׁרוּ אֶת הַמְּקִידָּה בְּגֶמִי לֵידַע אִם יֵשׁ שָׁם בְּגִיגִית פּוֹתֵחַ טֶפַח אִם לָאו.
+*Translation:* **and** there was **a cracked roofing placed atop** the two houses. If the roofing was intact it would have the legal status of a tent over a corpse, rendering everything in the alleyway, and, through the windows, everything in the houses, ritually impure. However, since the roofing was cracked and the corpse was directly beneath the opening, if the opening was the size of a handbreadth or more, the entire alleyway and the houses would not become impure. Only the area directly over the corpse extending through the opening is impure. **And** that is the reason that **they sealed the window** of the house **with an earthenware vessel,** so that the ritual impurity would not enter the houses, **and they tied an earthenware shard with a** long **reed-grass** inserted into the opening in the roofing in order **to ascertain whether or not there is an opening there in the roofing the size of a handbreadth.**
+
+**2.**
+*Hebrew/Aramaic:* וּמִדִּבְרֵיהֶם לָמַדְנוּ שֶׁפּוֹקְקִין וּמוֹדְדִין וְקוֹשְׁרִין בְּשַׁבָּת. עוּלָּא אִיקְּלַע לְבֵי רֵישׁ גָּלוּתָא. חַזְיֵיהּ לְרַבָּה בַּר רַב הוּנָא דְּיָתֵיב בְּאַוּוֹנָא דְמַיָּא וְקָא מָשַׁח לֵיהּ. אֲמַר לֵיהּ: אֵימַר דְּאָמְרִי רַבָּנַן מְדִידָה דְמִצְוָה, דְּלָאו מִצְוָה מִי אֲמוּר? אֲמַר לֵיהּ: מִתְעַסֵּק בְּעָלְמָא אֲנָא.
+*Translation:* The mishna concludes: **And from their statements** and their actions, **we derived that one may seal** a window, **and measure, and tie** a knot **on Shabbat.** The Gemara relates: **Ulla happened** to come **to the house of the Exilarch. He saw Rabba bar Rav Huna sitting in a tub [*avna*] of water and measuring it.** He **said to** Rabba bar Rav Huna: **Say that the Sages said** that it is permitted to measure on Shabbat only **a measurement for a mitzva.** However, with regard to a measurement like this one, **which is not** for **a mitzva, did they say** that it is permitted? Rabba bar Rav Huna **said to him: I am merely acting unawares** and am not at all interested in the measurements. Therefore, it is not prohibited.
+
+**3.**
+*Hebrew/Aramaic:* הדרן עלך מי שהחשיך וסליקא לה מסכת שבת
+*Translation:* 

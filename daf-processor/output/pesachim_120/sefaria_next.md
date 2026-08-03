@@ -23,3 +23,20 @@
 **6.**
 *Hebrew/Aramaic:* לְדִבְרֵי רַבִּי עֲקִיבָא: לֹא שְׁפִיכָה בִּכְלַל זְרִיקָה, וְלֹא זְרִיקָה בִּכְלַל שְׁפִיכָה.
 *Translation:* By contrast, **according to** the opinion of **Rabbi Akiva,** these are two separate mitzvot: **Pouring is not included in sprinkling, and sprinkling is not included in pouring.** Therefore, Rabbi Akiva maintains that each offering requires its own blessing.
+
+
+---
+
+### Pesachim 121b
+
+**1.**
+*Hebrew/Aramaic:* רַבִּי שִׂמְלַאי אִיקְּלַע לְפִדְיוֹן הַבֵּן, בְּעוֹ מִינֵּיהּ: פְּשִׁיטָא עַל פִּדְיוֹן הַבֵּן ״אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל פִּדְיוֹן הַבֵּן״ — אֲבִי הַבֵּן מְבָרֵךְ. ״בָּרוּךְ ... שֶׁהֶחֱיָינוּ וְקִיְּימָנוּ וְהִגִּיעָנוּ לַזְּמַן הַזֶּה״, כֹּהֵן מְבָרֵךְ, אוֹ אֲבִי הַבֵּן מְבָרֵךְ?
+*Translation:* The Gemara discusses another case concerning the order of the blessings: **Rabbi Simlai attended a redemption of the** firstborn **son.** The celebrants **raised a dilemma before him** with regard to the blessings. First they noted that it is **obvious** that the blessing **over the redemption of** a firstborn **son,** which is: **Who sanctified us with His mitzvot and commanded us over the redemption of the** firstborn **son,** is certainly **recited by the father of the son,** as he is the one obligated to redeem his son. However, with regard to the second blessing: **Blessed** are You, Lord our God, King of the universe, Who has given us life [***sheheḥeyanu***], **sustained us, and brought us to this time,** does the **priest recite** this blessing, **or** does **the father of the son recite** it?
+
+**2.**
+*Hebrew/Aramaic:* כֹּהֵן מְבָרַךְ — דְּקָמָטֵי הֲנָאָה לִידֵיהּ, אוֹ אֲבִי הַבֵּן מְבָרֵךְ — דְּקָא עָבֵיד מִצְוָה? לָא הֲוָה בִּידֵיהּ, אֲתָא שְׁאֵיל בֵּיהּ מִדְרְשָׁא. אֲמַרוּ לֵיהּ: אֲבִי הַבֵּן מְבָרֵךְ שְׁתַּיִם. וְהִלְכְתָא: אֲבִי הַבֵּן מְבָרֵךְ שְׁתַּיִם.
+*Translation:* The Gemara explains the two sides of the dilemma. It can be suggested that the **priest recites the blessing, as he benefits** from the five *sela* he receives when the boy is redeemed. The blessing of *sheheḥiyanu* is generally recited by the one who receives the benefit. **Or,** perhaps **the father of the son recites** *sheheḥeyanu*, **as he** is the one who **performs the mitzva.** Rabbi Simlai **did not have** an answer readily available, and he **went to ask** this question **in the study hall.** The scholars **said to him** that **the father of the son recites** the **two blessings:** Over the redemption of the son and *sheheḥeyanu*. The Gemara concludes: **And the *halakha* is** that **the father of the son recites two blessings.**
+
+**3.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ עַרְבֵי פְסָחִים וּסְלִיקָא לַהּ מַסֶּכֶת פְּסָחִים
+*Translation:* 

@@ -95,3 +95,92 @@
 **24.**
 *Hebrew/Aramaic:* גְּמָ׳ תָּנוּ רַבָּנַן: לוֹקְחִין מוֹכִין מִן הַכּוֹבֵס, מִפְּנֵי שֶׁהֵן שֶׁלּוֹ. הַכּוֹבֵס נוֹטֵל שְׁנֵי חוּטִין הָעֶלְיוֹנִים – וְהֵן שֶׁלּוֹ.
 *Translation:* GEMARA: **The Sages taught** in a *baraita* (*Tosefta* 11:13): **One may purchase strands** of wool **from a launderer, because they are** assumed to be **his. A launderer may take the two upper threads** of a garment, **and they are his.**
+
+
+---
+
+### Bava Kamma 119b
+
+**1.**
+*Hebrew/Aramaic:* וְלֹא יָטִיל בּוֹ יוֹתֵר מִשְּׁלֹשָׁה חוּבִּין, וְלֹא יִסְרוֹק הַבֶּגֶד לְשִׁתְיוֹ אֶלָּא לְעֶרְבּוֹ. וּמַשְׁוֵיהוּ לְאׇרְכּוֹ, אֲבָל לֹא לְרׇחְבּוֹ. וְאִם בָּא לְהַשְׁווֹתוֹ עַד טֶפַח – רַשַּׁאי.
+*Translation:* **And** a carder **should not place in** a piece of cloth **more than three stitches** for each loop that he attaches to the cloth in order to stretch it out, as this causes the cloth to overstretch and require trimming. **And he should not card the cloth** along **its warp,** i.e., vertically, **but** along **its weft,** i.e., horizontally. **And he may even out** the cloth by cutting it along **its length, but not** along **its width, and if he comes to even out** the cloth by removing **up to a handbreadth** of material, it is **permitted** for him to do so.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר מָר: שְׁנֵי חוּטִין. וְהָאֲנַן תְּנַן: שָׁלֹשׁ! לָא קַשְׁיָא; הָא בְּאַלִּימֵי, וְהָא בְּקַטִּינֵי.
+*Translation:* The Gemara analyzes the *baraita*: **The Master said** in the *baraita* that the launderer may take **two threads. But didn’t we learn** in the mishna that the launderer may take **three** threads? The Gemara answers: This is **not difficult:** The ruling of **this** *baraita*, which allows only two threads, is stated **with regard to thick** threads, **and** the ruling of **that** mishna, which allows three threads, is stated **with regard to thin** ones.
+
+**3.**
+*Hebrew/Aramaic:* וְלֹא יִסְרוֹק הַבֶּגֶד לְשִׁתְיוֹ, אֶלָּא לְעֶרְבּוֹ. וְהָתַנְיָא אִיפְּכָא! לָא קַשְׁיָא; הָא בִּגְלִימָא, הָא בְּסַרְבָּלָא.
+*Translation:* It was also stated in the *baraita*: **And he should not card the cloth** along **its warp but** along **its weft.** The Gemara asks: **But isn’t it taught** in another *baraita* that **the opposite** is the *halakha*? The Gemara answers: This is **not difficult:** The ruling of **this** *baraita*, which prohibits carding along the warp, is stated **with regard to** an ordinary **garment,** which is designed for durability, and one should therefore avoid wearing out the material by carding along the warp. The ruling of **that** *baraita*, which allows one to card along the warp, is stated **with regard to** an elegant **cape [*besarbela*],** which is made for aesthetic appearance and is therefore improved by carding in this manner.
+
+**4.**
+*Hebrew/Aramaic:* וְלֹא יָטִיל בּוֹ יוֹתֵר מִשְּׁלֹשָׁה חוּבִּין. בָּעֵי רַבִּי יִרְמְיָה: אַמְטוֹיֵי וְאֵתוֹיֵי חַד, אוֹ דִּלְמָא אַמְטוֹיֵי וְאֵתוֹיֵי תְּרֵי? תֵּיקוּ.
+*Translation:* The Gemara examines the next clause of the *baraita*: **And** a carder **should not place in** a cloth **more than three stitches** for each loop. **Rabbi Yirmeya raised a dilemma** with regard to the definition of the term stitch in this context: Does drawing the needle **in and out** constitute **one** stitch, **or perhaps** does drawing the needle **in and out** constitute **two** stitches? The Gemara responds: The question **shall stand** unresolved.
+
+**5.**
+*Hebrew/Aramaic:* וּמַשְׁוֵיהוּ לְאׇרְכּוֹ אֲבָל לֹא לְרׇחְבּוֹ. וְהָתַנְיָא אִיפְּכָא! לָא קַשְׁיָא; הָא בִּגְלִימָא, הָא בְּהֶמְיוֹנֵי.
+*Translation:* It was further stated in the *baraita*: **And he may even out** the cloth by cutting it along **its length, but not** along **its width.** The Gemara asks: **But isn’t it taught** in another *baraita* that **the opposite** is true? The Gemara answers that this is **not difficult:** The statement of **this** *baraita*, which rules that one should even out the cloth along its length, is stated **with regard to a garment,** where an uneven length would be conspicuous. The statement of **that** *baraita*, which rules that one should even it out along its width, is stated **with regard to a belt,** as the width of a belt is more noticeable than its length while it is being worn.
+
+**6.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אֵין לוֹקְחִין מִן הַסּוֹרֵק מוֹכִין, מִפְּנֵי שֶׁאֵינוֹ שֶׁלּוֹ. וּבִמְקוֹם שֶׁנָּהֲגוּ לִהְיוֹת שֶׁלּוֹ – לוֹקְחִין. וּבְכׇל מָקוֹם לוֹקְחִין מֵהֶן כַּר מָלֵא מוֹכִין וְכֶסֶת מְלֵאָה מוֹכִין. מַאי טַעְמָא? קְנָנְהוּ בְּשִׁינּוּי.
+*Translation:* § The Gemara cites a *baraita* that discusses which items may be purchased from a carder. **The Sages taught** in a *baraita* (*Tosefta* 11:12): **One may not purchase strands** of thread **from a carder, because** it is assumed that **they are not his. And in a place where** the residents **were accustomed** to allow carders to retain strands, the strands may be presumed **to be his** and **one may purchase** them. **And in every place, one may purchase from them a cushion full of** stuffing made from **strands, or a mattress full of** stuffing made from **strands. What is the reason** that it is permitted? The reason is that even if the carder had stolen the strands, once he uses them to make a cushion or mattress, **he has acquired** them **through a change** of form.
+
+**7.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אֵין לוֹקְחִין מִגַּרְדִּי לֹא אִירִין, וְלֹא נִירִין, וְלֹא פּוּנְקָלִין, וְלֹא שִׁיּוּרֵי פַּקְיעִיּוֹת.
+*Translation:* § Apropos the *halakhot* pertaining to weaving, the Gemara cites a *baraita* that discusses which items may be purchased from various craftsmen. **The Sages taught** in a *baraita* (*Tosefta* 11:11): **One may purchase from a weaver neither** woolen **wads [*irin*],** which are used to hold the bobbin in place on a shuttle, **nor heddles [*nirin*], nor threads of the bobbin [*punkalin*], nor remnants of** coils of thread that were left on the **spool,** as there is a concern that these items were taken from the customer without his consent.
+
+**8.**
+*Hebrew/Aramaic:* אֲבָל לוֹקְחִין מֵהֶן בֶּגֶד מְנוּמָּר, עֵרֶב, וּשְׁתִי, טְוִוי, וְאָרִיג.
+*Translation:* **But one may purchase a spotted garment from them,** even though the design indicates that it was made from strands of different colors, which the weaver may have stolen from other garments that he was weaving. It is also permitted to purchase **warp** threads **and weft** threads from them, as well as wool that was **spun** into thread **or woven.** All of these items may be purchased from the weaver because they have undergone a physical change, and have therefore been acquired by the weaver even if he did steal them.
+
+**9.**
+*Hebrew/Aramaic:* אָמְרִי: הַשְׁתָּא טְוִוי שָׁקְלִי, אָרוּג מִבַּעְיָא? מַאי ״אָרִיג״ – תִּיכֵי.
+*Translation:* The Gemara asks: **Say: Now** that the *baraita* taught that one **may purchase spun** wool despite the fact that it has undergone only a minor physical change, **is** it **necessary** to teach that one may purchase **woven** wool, which has undergone a greater change of form? The Gemara answers: **What** does the *baraita* mean when it mentions **woven** wool? It is not referring to wool woven into a garment, but to wool that was twisted into **chains,** which is also a minor physical change.
+
+**10.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אֵין לוֹקְחִין מִן הַצַּבָּע לֹא אוֹתוֹת וְלֹא דּוּגְמוֹת וְלֹא תְּלוּשִׁים שֶׁל צֶמֶר, אֲבָל לוֹקְחִין מֵהֶן בֶּגֶד צָבוּעַ, טְוִוי, בְּגָדִים. הַשְׁתָּא טְוִוי שָׁקֵיל, בְּגָדִים מִיבַּעְיָא? מַאי ״בְּגָדִים״ – נַמְטֵי.
+*Translation:* The Gemara examines which items may be bought from a dyer. **The Sages taught** in a *baraita*: **One may purchase from a dyer neither** pieces of wool used for **tests, nor** pieces used as a color **sample [*dugmut*], nor detached** pieces **of wool,** as these might have been stolen. **But one may purchase from him a colored garment, spun** threads, and **clothes** fashioned from the aforementioned pieces of material. The Gemara asks: **Now** that the *baraita* taught that one **may purchase spun** threads from the dyer, **is** it **necessary** to teach that one may purchase **clothes?** It is obvious that one may purchase clothes, as the clothes themselves are made of spun threads. The Gemara explains: **What** does the *baraita* mean when it mentions **clothes?** It is referring to **felt** garments, which are not made of spun thread.
+
+**11.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: הַנּוֹתֵן עוֹרוֹת לְעַבְּדָן; הַקִּיצּוּעִין וְהַתְּלוּשִׁין – הֲרֵי אֵלּוּ שֶׁל בַּעַל הַבַּיִת, וְהָעוֹלֶה וּמִשַּׁטֵּף בְּמַיִם – הֲרֵי אֵלּוּ שֶׁלּוֹ.
+*Translation:* **The Sages taught** in a *baraita* (*Tosefta* 11:16): In the case of **one who gives hides to a tanner, the trimmings** of hide **and the detached** hairs **belong to the customer, but** the substance that **comes up** while being **washed in water belongs to him,** the tanner.
+
+**12.**
+*Hebrew/Aramaic:* אִם הָיָה שָׁחוֹר [וְכוּ׳]. אָמַר רַב יְהוּדָה: קַצָּרָא שְׁמֵיהּ, וְקַצְרָא שָׁקֵיל לֵיהּ. אָמַר רַב יְהוּדָה: הַכֹּל עוֹלִין לְמִנְיַן תְּכֵלֶת; וְיִצְחָק בְּרִי קָפֵיד עֲלַיְיהוּ.
+*Translation:* § The mishna teaches that **if** the threads **were black** on a white garment, the launderer may take all of them. **Rav Yehuda said:** A launderer **is called a *katzra*** in Aramaic, **and he takes the short [*katzra*]** shreds of wool **for himself. Rav Yehuda** also **said: All** the threads, even those usually removed from the garment, **are counted toward the** minimum **number of** thumb-lengths between the hole through which the **sky-blue wool** is inserted for ritual fringes and the edge of the garment. **But Yitzḥak, my son, is particular about these** threads, and makes sure that the garment is of the proper measurement even if the threads were to be removed.
+
+**13.**
+*Hebrew/Aramaic:* הַחַיָּיט שֶׁשִּׁיֵּיר (מִן) [אֶת] הַחוּט כּוּ׳. וְכַמָּה לִתְפּוֹר? אָמַר רַב אַסִּי: מְלֹא מַחַט חוּץ לַמַּחַט. אִיבַּעְיָא לְהוּ: מְלֹא מַחַט, וְחוּץ לַמַּחַט כִּמְלֹא מַחַט; אוֹ דִלְמָא מְלֹא מַחַט, וְחוּץ לַמַּחַט מַשֶּׁהוּ?
+*Translation:* The mishna teaches: In the case of **a tailor who left** enough **thread** attached to the cloth in order to sew with it, this thread belongs to the customer. The Gemara asks: **And how much** thread is necessary in order to be able **to sew? Rav Asi said: The length of a needle outside the needle. A dilemma was raised before** the Sages: Did Rav Asi mean that the thread must be **the size of** the **needle and** that **beyond the needle** there must be an additional amount of thread **equivalent to the size of** the **needle? Or perhaps** he meant that it must be **the size of** the **needle, and** that **beyond the needle** there must be **any** minimal **amount** of additional string. In other words, was Rav Asi saying that the thread must be two needle lengths, or slightly more than one needle length?
+
+**14.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, דְּתַנְיָא: הַחַיָּיט שֶׁשִּׁיֵּיר אֶת הַחוּט פָּחוֹת מִכְּדֵי לִתְפּוֹר בּוֹ, וּמַטְלֵית שֶׁהִיא פְּחוּתָה מִשָּׁלֹשׁ עַל שָׁלֹשׁ – בִּזְמַן שֶׁבַּעַל הַבַּיִת מַקְפִּיד עֲלֵיהֶן, הֲרֵי אֵלּוּ שֶׁל בַּעַל הַבַּיִת; אֵין בַּעַל הַבַּיִת מַקְפִּיד עֲלֵיהֶן, הֲרֵי אֵלּוּ שֶׁלּוֹ.
+*Translation:* The Gemara responds: **Come** and **hear** a resolution, **as it is taught** in a *baraita*: In the case of **a tailor who left the thread** attached to the cloth, but it was **less than** the length necessary **in order to sew with it, or** if there was **a patch** of cloth **that is less than three** fingerbreadths **by three** fingerbreadths left from the cloth given to the tailor by the customer, the *halakha* is dependent upon the customer’s inclination: **When the customer is particular about** such items, **these** items **belong to the customer,** but if **the customer is not particular about them, these** items **belong to** the tailor.
+
+**15.**
+*Hebrew/Aramaic:* אִי אָמְרַתְּ בִּשְׁלָמָא מְלֹא מַחַט, וְחוּץ לַמַּחַט כִּמְלֹא מַחַט – פָּחוֹת מִכָּאן חֲזֵי לְסִיכְּתָא; אֶלָּא אִי אָמְרַתְּ מְלֹא מַחַט, וְחוּץ לַמַּחַט מַשֶּׁהוּ – פָּחוֹת מִכָּאן לְמַאי חֲזֵי?
+*Translation:* The Gemara analyzes the *baraita* to deduce the answer: **Granted, if you say** that Rav Asi meant to say that the thread must be **the size of** the **needle and** that **beyond the needle** there must be an additional amount of thread **equivalent to the size of** the **needle,** then the ruling in the *baraita* that a slightly shorter thread belongs to the customer if he wishes to keep it is reasonable, since a thread which is **less than that** length **is** still **fit for** use as the stitching of **a loop. But if you say** that Rav Asi meant that the thread must be **the size of** the **needle and** that **beyond the needle** there must be **any amount** of additional string, then with regard to a thread that is even **less than that,** for what use **is** it **fit** that the customer might wish to keep it?
+
+**16.**
+*Hebrew/Aramaic:* אֶלָּא שְׁמַע מִינַּהּ: מְלֹא מַחַט, וְחוּץ לַמַּחַט כִּמְלֹא מַחַט. שְׁמַע מִינַּהּ.
+*Translation:* **Rather, learn from** the *baraita* that Rav Asi meant that the thread must be **the size of** the **needle and** that **beyond the needle** there must be an additional amount of thread **equivalent to the size of** the **needle,** so that the thread must be a total of two needle lengths. The Gemara affirms: **Conclude from** the *baraita* that this is so.
+
+**17.**
+*Hebrew/Aramaic:* מַה שֶּׁהֶחָרָשׁ כּוּ׳. וּרְמִינְהִי: מַה שֶּׁהֶחָרָשׁ מוֹצִיא בְּמַעֲצָד, וְהַנִּפְסָק בִּמְגֵירָה – הֲרֵי אֵלּוּ שֶׁל בַּעַל הַבַּיִת; וְהַיּוֹצֵא מִתַּחַת מַקְדֵּחַ וּמִתַּחַת רָהִיטְנֵי, וְהַנִּגְרָר בִּמְגֵירָה – הֲרֵי אֵלּוּ שֶׁלּוֹ!
+*Translation:* § The mishna teaches: **That which the carpenter** removes with an adze belongs to him, but what he removes with an ax belongs to the customer. The Gemara **raises a contradiction** to this ruling based upon a *baraita*: **That which the carpenter removes with an adze and that which is severed with a saw belong to the customer. But** with regard to **that which comes out from under a drill or under a plane [*rehitni*], and that which is scraped by the saw,** i.e., sawdust, **these belong to** the carpenter. Whereas the mishna rules that the carpenter may keep what is removed with an adze, the *baraita* rules that it belongs to the customer.
+
+**18.**
+*Hebrew/Aramaic:* אָמַר רָבָא: בְּאַתְרָא דְּתַנָּא דִּידַן אִיכָּא תַּרְתֵּי חֲצִינֵי, לְרַבָּתִי קָרֵי לַהּ ״כַּשִּׁיל״, וּלְזוּטַרְתִּי קָרֵי לַהּ ״מַעֲצָד״. בְּאַתְרָא דְּתַנָּא בָּרָא חַד הוּא דְּאִיכָּא, וְקָרוּ לַהּ ״מַעֲצָד״.
+*Translation:* The Gemara presents an answer: **Rava said: In the place of the *tanna* of our** mishna, **there are two** kinds of **blades** used by carpenters: **The larger** blade **is called an ax, and the smaller** one **is called an adze.** By contrast, **in the place of the *tanna* of the *baraita*, there is** only **one** carpenter’s **blade, and they called it an adze.** Consequently, the adze referred to in the *baraita* is actually an ax and the rulings are therefore congruent.
+
+**19.**
+*Hebrew/Aramaic:* וְאִם הָיָה עוֹשֶׂה אֵצֶל כּוּ׳. תָּנוּ רַבָּנַן: מְסַתְּתֵי אֲבָנִים – אֵין בָּהֶם מִשּׁוּם גָּזֵל. מְפַסְּגֵי אִילָנוֹת, מְפַסְּגֵי גְפָנִים, מְנַקְּפֵי הִיגֵי, מְנַכְּשִׁי זְרָעִים וְעוֹדְרֵי יְרָקוֹת – בִּזְמַן שֶׁבַּעַל הַבַּיִת מַקְפִּיד עֲלֵיהֶם, יֵשׁ בָּהֶן מִשּׁוּם גָּזֵל; אֵין בַּעַל הַבַּיִת מַקְפִּיד עֲלֵיהֶן, הֲרֵי אֵלּוּ שֶׁלּוֹ.
+*Translation:* The mishna teaches: **And if he was doing** his work **in** the domain of the customer, then even the sawdust belongs to the customer. **The Sages taught** in a *baraita* (*Tosefta* 11:18): **Stone chiselers are not in** violation of a transgression **due to** the prohibition against **robbery** if they take the leftover chips of rock. Furthermore, with regard to **those who prune trees, those who prune vines, those who trim shrubs, those who weed plants, and those who hoe vegetables,** the *halakha* is dependent upon the owner’s inclination: **When the owner is particular about** the plant trimmings, the workers **are in** violation of a transgression **due to** the prohibition against **robbery** if they take the trimmings, but if **the owner is not particular about them,** then **these** items **belong to** the workers.
+
+**20.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה: כְּשׁוּת וַחֲזִיז – אֵין בָּהֶם מִשּׁוּם גָּזֵל. בְּאַתְרָא דְּקָפְדִי – יֵשׁ בָּהֶן מִשּׁוּם גָּזֵל. אָמַר רָבִינָא: וּמָתָא מַחְסֵיָא – אַתְרָא דְּקָפְדִי הוּא.
+*Translation:* **Rav Yehuda says: Dodder [*keshut*] and green grain [*veḥaziz*], are not subject to** the prohibition against **robbery,** as they grow on their own and no one tends to them. But **in a place where** people **are particular** about the ownership of dodder and green grain, **they are subject to** the prohibition against **robbery. Ravina said: And the city** of **Meḥasya is a city where** the residents **are particular** about dodder and green wheat.
+
+**21.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ הַגּוֹזֵל בָּתְרָא וּסְלִיקָא לַהּ מַסֶּכֶת בָּבָא קַמָּא
+*Translation:* 

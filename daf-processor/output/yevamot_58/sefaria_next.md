@@ -55,3 +55,52 @@
 **14.**
 *Hebrew/Aramaic:* הֵיכִי דָּמֵי? אִלֵּימָא בִּכְדַרְכָּהּ, מַאי אִירְיָא מִשּׁוּם אַלְמָנָה? תִּיפּוֹק לֵיהּ מִשּׁוּם דְּהָוְיָא לַהּ בְּעוּלָה, אֶלָּא לָאו: שֶׁלֹּא כְּדַרְכָּהּ, וּמִשּׁוּם אַלְמָנָה — אִין, מִשּׁוּם בְּעוּלָה — לָא!
 *Translation:* The Gemara clarifies: **What are the circumstances** of this *halakha*? **If we say** that the High Priest raped her by engaging **in typical** intercourse, **why** does the *baraita* **specifically** state that she is forbidden to him **because** she is **a widow? Let him derive** this *halakha* **from** the fact **that she is** now **a non-virgin. Rather,** is it **not** that he had **atypical** intercourse with her, **and due to** the fact that she is **a widow, yes,** that is the reason she is forbidden, but **due to** the fact that she is **a non-virgin, no,** that is not the reason she is forbidden? This indicates that a woman who had intercourse in an atypical manner is not considered a non-virgin and is not disqualified from marrying a High Priest.
+
+
+---
+
+### Yevamot 59b
+
+**1.**
+*Hebrew/Aramaic:* הָא מַנִּי — רַבִּי מֵאִיר הִיא, וְרַב דְּאָמַר כְּרַבִּי אֶלְעָזָר.
+*Translation:* The Gemara refutes this proof: In accordance with **whose** opinion **is this** *baraita*? **It is** in accordance with the opinion of **Rabbi Meir,** who maintains that a woman who engaged in atypical intercourse is permitted to a High Priest, **and when Rav said** his statement, it was **in accordance with** the opinion of **Rabbi Elazar,** who holds that such a woman is disqualified from marrying a High Priest.
+
+**2.**
+*Hebrew/Aramaic:* אִי כְּרַבִּי אֶלְעָזָר, מַאי אִירְיָא מִשּׁוּם בְּעוּלָה? תִּיפּוֹק לֵיהּ דְּהָוְיָא לַהּ זוֹנָה! דְּהָא אָמַר רַבִּי אֶלְעָזָר: פָּנוּי הַבָּא עַל הַפְּנוּיָה שֶׁלֹּא לְשֵׁם אִישׁוּת — עֲשָׂאָהּ זוֹנָה.
+*Translation:* The Gemara asks: **If** Rav’s statement is **in accordance with** the opinion of **Rabbi Elazar, why** did he **specifically** state that she is forbidden to him **because** she is **a non-virgin? Let him derive** it **from** the fact **that she is a *zona*, as Rabbi Elazar said:** Even in the case of **an unmarried man who had intercourse with an unmarried woman not for the purpose of marriage, he has** thereby **caused her to become a *zona*.**
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רַב יוֹסֵף: כְּגוֹן שֶׁנִּבְעֲלָה לִבְהֵמָה, דְּהָתָם מִשּׁוּם בְּעוּלָה אִיכָּא, מִשּׁוּם זוֹנָה לֵיכָּא.
+*Translation:* **Rav Yosef said:** When Rav said that a woman who had anal intercourse is disqualified from marrying a High Priest, he was referring **to** a woman **who had intercourse with an animal, as there** she **is** disqualified **because** she is **a non-virgin,** but she **is not** disqualified **because** of the prohibition of **a *zona*.**
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ אַבָּיֵי, מִמָּה נַפְשָׁךְ: אִי בְּעוּלָה הָוְיָא — זוֹנָה נָמֵי הָוְיָא. וְאִי זוֹנָה לָא הָוְיָא — בְּעוּלָה נָמֵי לָא הָוְיָא. וְכִי תֵּימָא: מִידֵי דְּהָוֵיא אַמוּכַּת עֵץ שֶׁלֹּא כְּדַרְכָּהּ, אִם כֵּן, אֵין לְךָ אִשָּׁה שֶׁכְּשֵׁרָה לַכְּהוּנָּה, שֶׁלֹּא נַעֲשֵׂית מוּכַּת עֵץ עַל יְדֵי צְרוֹר.
+*Translation:* **Abaye said to him: Whichever way you** look at it, there is a difficulty with this answer: **If she is** considered **a non-virgin, she is** also **a *zona*, and if she is not a *zona* she is** also **not a non-virgin. And lest you say** that it is **analogous to** a case of **a woman who lost her virginity via penetration by a foreign object atypically,** i.e., anally, whose hymen was therefore not damaged and she is not forbidden as a *zona*, yet she is no longer considered a virgin, that is not correct: **If so,** if such a woman is considered a non-virgin and forbidden to a High Priest, **you** would **have no woman who is fit for the** High **Priesthood, who has not lost her virginity via penetration by a foreign object** atypically, i.e., **by a pebble** used to clean herself in the lavatory.
+
+**5.**
+*Hebrew/Aramaic:* אֶלָּא, אָמַר רַבִּי זֵירָא: בִּמְמָאֶנֶת.
+*Translation:* **Rather, Rabbi Zeira said** that Rav was referring **to one who refused** her husband after having only atypical intercourse with him. Although the act of intercourse was not licentious, as she was married at the time, she is nevertheless disqualified from marrying into the priesthood because she is not a virgin.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַב שִׁימִי בַּר חִיָּיא: נִבְעֲלָה לִבְהֵמָה — כְּשֵׁרָה לַכְּהוּנָּה. תַּנְיָא נָמֵי הָכִי: נִבְעֲלָה לְמִי שֶׁאֵינוֹ אִישׁ, אַף עַל פִּי שֶׁבִּסְקִילָה — כְּשֵׁרָה לַכְּהוּנָּה.
+*Translation:* § **Rabbi Shimi bar Ḥiyya said:** A woman who **had intercourse with an animal** is like one whose hymen was torn accidentally. Consequently, she is not a *zona* and is **fit for the priesthood. This is also taught** in a *baraita*: If a woman **had intercourse with one who is not a man,** i.e., an animal, **although** she is liable to **stoning** if she did so intentionally and in the presence of witnesses who forewarned her of her punishment, she is nevertheless **fit for the priesthood.**
+
+**7.**
+*Hebrew/Aramaic:* כִּי אֲתָא רַב דִּימִי, אָמַר: מַעֲשֵׂה בְּרִיבָה אַחַת בְּהַיְתָלוֹ שֶׁהָיְתָה מְכַבֶּדֶת אֶת הַבַּיִת, וּרְבָעָהּ כֶּלֶב כּוּפְרִי מֵאַחֲרֶיהָ, וְהִכְשִׁירָהּ רַבִּי לַכְּהוּנָּה. אָמַר שְׁמוּאֵל: וּלְכֹהֵן גָּדוֹל. בִּימֵי רַבִּי כֹּהֵן גָּדוֹל מִי הֲוָה? אֶלָּא — רְאוּיָה לְכֹהֵן גָּדוֹל.
+*Translation:* **When Rav Dimi came** from Eretz Yisrael **he said:** There was **an incident** involving **a certain girl [*riva*] in** the village of **Hitlu who was sweeping the house, and a village [*kufri*] dog** used for hunting **sodomized her from behind. And Rabbi** Yehuda HaNasi **permitted her to the priesthood,** as she was not considered a *zona*. **Shmuel said: And** Rabbi Yehuda HaNasi permitted her even **to a High Priest,** as she was still considered a virgin. The Gemara is puzzled by this comment: **Was there a High Priest in the days of Rabbi** Yehuda HaNasi? **Rather,** Shmuel meant that **she is fit for a High Priest.**
+
+**8.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא מִפַּרְזַקְיָא לְרַב אָשֵׁי: מְנַָא הָא מִילְּתָא דַּאֲמוּר רַבָּנַן אֵין זְנוּת לִבְהֵמָה? דִּכְתִיב: ״לֹא תָבִיא אֶתְנַן זוֹנָה וּמְחִיר כֶּלֶב״.
+*Translation:* **Rava of Pirkin said to Rav Ashi: From where is this matter** derived **that the Sages stated** that **there is no harlotry with regard to an animal?** Rav Ashi responded that it is **as it is written: “You shall not bring the hire of a harlot or the price of a dog** into the House of the Lord your God for any vow; for both of them are an abomination to the Lord your God” (Deuteronomy 23:19). This verse prohibits one from sacrificing an animal as an offering if that animal was ever used to pay a harlot for her services, or if it was ever used as payment in the purchase of a dog.
+
+**9.**
+*Hebrew/Aramaic:* וּתְנַן: אֶתְנַן כֶּלֶב וּמְחִיר זוֹנָה — מוּתָּרִין, (מִשּׁוּם) שֶׁנֶּאֱמַר: ״גַּם שְׁנֵיהֶם״ — שְׁנַיִם וְלֹא אַרְבָּעָה.
+*Translation:* **And we learned** in a mishna (*Temura* 30a): **The hire of a dog,** i.e., a kosher animal that a man or woman gave as payment to the owner of a dog in order to have sexual intercourse with it, **and** similarly **the price of a prostitute,** a kosher animal used to purchase a prostitute as a maidservant, **are permitted** to be sacrificed as offerings. This is **because it is stated** that **both of them,** the specific items listed in the verse, are abominations. Consequently, only **two** items are prohibited, i.e., the payment given to a prostitute for her services, and the payment used in the purchase of a dog, **and not four,** as the reverse cases are excluded from this *halakha*.
+
+**10.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אֲנוּסַת עַצְמוֹ וּמְפוּתַּת עַצְמוֹ — לֹא יִשָּׂא, וְאִם נָשָׂא — נָשׂוּי. אֲנוּסַת חֲבֵירוֹ וּמְפוּתַּת חֲבֵירוֹ — לֹא יִשָּׂא, וְאִם נָשָׂא, רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר: הַוָּלָד חָלָל, וַחֲכָמִים אוֹמְרִים: הַוָּלָד כָּשֵׁר.
+*Translation:* § **The Sages taught:** A High Priest **may not marry** a woman that **he himself raped and** a woman that **he himself seduced,** as he is commanded to marry a virgin. **And if he married** her, **he is married.** With regard to a woman who was **raped by another** man **and** a woman **seduced by another** man, **he may not marry** her. **And if he married** her, **Rabbi Eliezer ben Ya’akov says** that **the child** born from this union **is a *ḥalal*, and the Rabbis say** the lineage of **the offspring is unflawed.**
+
+**11.**
+*Hebrew/Aramaic:* אִם נָשָׂא — נָשׂוּי, אָמַר רַב הוּנָא אָמַר רַב: וּמוֹצִיא בְּגֵט. וְאֶלָּא הָא דְּקָתָנֵי: אִם נָשָׂא נָשׂוּי! אָמַר רַב אַחָא בַּר יַעֲקֹב: לוֹמַר
+*Translation:* The Gemara analyzes this *baraita*. It states that **if he married** the woman that he himself raped or seduced, **he is married. Rav Huna said** that **Rav said: And he must divorce** her **with a bill of divorce.** The Gemara asks: **But** consider **that which** the *baraita* **teaches: If he married** her, **he is married.** Since it is obvious that the marriage is technically valid, it must be saying that they are permitted to remain married. **Rav Aḥa bar Ya’akov said:** No, it means **to say**

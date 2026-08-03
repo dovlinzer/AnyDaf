@@ -35,3 +35,72 @@
 **9.**
 *Hebrew/Aramaic:* מַתְנִי׳ הַכְּחָל – קוֹרְעוֹ וּמוֹצִיא אֶת חֶלְבּוֹ. לֹא קְרָעוֹ – אֵינוֹ עוֹבֵר עָלָיו. הַלֵּב – קוֹרְעוֹ וּמוֹצִיא אֶת דָּמוֹ, לֹא קְרָעוֹ – אֵינוֹ עוֹבֵר עָלָיו.
 *Translation:* MISHNA: One who wants to eat **the udder** of a slaughtered animal **tears it and removes its milk,** and only then is it permitted to cook it. If **he did not tear** the udder before cooking it, **he does not violate** the prohibition against cooking and eating meat and milk and does not receive lashes **for it,** as the halakhic status of the milk in the udder is not that of milk. One who wants to eat **the heart** of a slaughtered animal **tears it and removes its blood,** and only then may he cook and eat it. If **he did not tear** the heart before cooking and eating it, **he does not violate** the prohibition against consuming blood and is not liable to receive *karet* **for it.**
+
+
+---
+
+### Hullin 109b
+
+**1.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַבִּי זֵירָא אָמַר רַב: אֵינוֹ עוֹבֵר עָלָיו וּמוּתָּר. וְהָא אֲנַן תְּנַן אֵינוֹ עוֹבֵר עָלָיו – מִיעְבָּר הוּא דְּלָא עָבַר, הָא אִיסּוּרָא אִיכָּא!
+*Translation:* GEMARA: The mishna teaches that if one did not tear the udder of a slaughtered animal before cooking it he does not violate the biblical prohibition against eating meat and milk. **Rabbi Zeira says** that **Rav says: He does not violate** the prohibition, **and** it is altogether **permitted** to eat the cooked product *ab initio*. The Gemara objects: **But didn’t we learn** in the mishna: **He does not violate** the prohibition, i.e., he is not held liable after the fact. One can infer from here as follows: **He does not violate** a prohibition by Torah law, **but there is** nevertheless **a prohibition** *ab initio* by rabbinic law.
+
+**2.**
+*Hebrew/Aramaic:* בְּדִין הוּא דְּאִיסּוּרָא נָמֵי לֵיכָּא, וְאַיְּידֵי דִּבְעָא לְמִיתְנֵא סֵיפָא: הַלֵּב קוֹרְעוֹ וּמוֹצִיא אֶת דָּמוֹ, לֹא קְרָעוֹ – אֵינוֹ עוֹבֵר עָלָיו. הָתָם מִיעְבָּר הוּא דְּלָא עָבַר, הָא אִיסּוּרָא אִיכָּא, תְּנָא נָמֵי רֵישָׁא אֵינוֹ עוֹבֵר עָלָיו.
+*Translation:* The Gemara explains: **By right** the mishna **should have** taught **that there is no prohibition** here by rabbinic law **either. But** the *tanna* of the mishna uses this language **since he wants to teach** in **the latter clause:** One who wants to eat **the heart** of a slaughtered animal **tears it and removes its blood,** but if **he did not tear** the heart before cooking and eating it, **he does not violate** the prohibition. **There** it is true that although **he does not violate** a prohibition by Torah law **there is a prohibition** by rabbinic law. To preserve linguistic symmetry, **he teaches the first clause** in this manner **as well,** stating: **He does not violate** the prohibition.
+
+**3.**
+*Hebrew/Aramaic:* לֵימָא מְסַיַּיע לֵיהּ: הַכְּחָל – קוֹרְעוֹ וּמוֹצִיא אֶת חֶלְבּוֹ, לֹא קְרָעוֹ – אֵינוֹ עוֹבֵר עָלָיו. הַלֵּב – קוֹרְעוֹ וּמוֹצִיא אֶת דָּמוֹ, לֹא קְרָעוֹ – קוֹרְעוֹ לְאַחַר בִּשּׁוּלוֹ וּמוּתָּר. לֵב הוּא דְּבָעֵי קְרִיעָה, אֲבָל כְּחָל לָא בָּעֵי קְרִיעָה.
+*Translation:* The Gemara suggests: **Let us say** that the following *baraita* **supports** this opinion: One who wants to eat **the udder** of a slaughtered animal **tears it and removes its milk.** If **he did not tear** the udder before cooking it, **he does not violate** the prohibition against cooking and eating meat and milk and does not receive lashes **for it.** One who wants to eat **the heart** of a slaughtered animal **tears it and removes its blood.** If **he did not tear** the heart before cooking and eating it, **he tears it after its cooking, and it is permitted.** One can infer from the *baraita* that **it is** only the **heart that requires tearing** after cooking if it was not torn beforehand. **But** the **udder does not require tearing** after being cooked unlawfully. Evidently, it is permitted as is.
+
+**4.**
+*Hebrew/Aramaic:* דִּלְמָא לֵב הוּא דְּסַגִּי לֵיהּ בִּקְרִיעָה, אֲבָל כְּחָל – לָא סַגִּי לֵיהּ בִּקְרִיעָה.
+*Translation:* The Gemara rejects this: **Perhaps** one should infer the opposite, that **tearing** after cooking **is sufficient** only **to** render the **heart** permitted, as the heart does not absorb blood through cooking. **But tearing** after cooking **is not sufficient to** render the **udder** permitted, as the meat of the udder absorbs the milk through cooking, and tearing will not remove the absorbed milk.
+
+**5.**
+*Hebrew/Aramaic:* וְאִיכָּא דְּאָמְרִי, אָמַר רַבִּי זֵירָא אָמַר רַב: אֵינוֹ עוֹבֵר עָלָיו, וְאָסוּר. לֵימָא מְסַיַּיע לֵיהּ: ״אֵינוֹ עוֹבֵר עָלָיו״ – מִיעְבָּר הוּא דְּלָא עָבַר, הָא אִיסּוּרָא אִיכָּא.
+*Translation:* **And some say** a different version of the above exchange, based on a different version of Rav’s statement: **Rabbi Zeira says** that **Rav says:** If one does not tear the udder of a slaughtered animal before cooking it, **he does not violate** the Torah prohibition, **but** it is **prohibited** to eat the cooked product by rabbinic law. The Gemara suggests: **Let us say** that the mishna **supports** this opinion, as it states: **He does not violate** the prohibition, indicating that although **he does not violate** a Torah prohibition and is not flogged, **there is** nevertheless **a prohibition** by rabbinic law.
+
+**6.**
+*Hebrew/Aramaic:* בְּדִין הוּא דְּאִיסּוּרָא נָמֵי לֵיכָּא, וְאַיְּידֵי דִּבְעָא לְמִיתְנֵא סֵיפָא: הַלֵּב קוֹרְעוֹ וּמוֹצִיא אֶת דָּמוֹ, לֹא קְרָעוֹ – אֵינוֹ עוֹבֵר עָלָיו, דְּהָתָם מִיעְבָּר הוּא דְּלָא עָבַר, הָא אִיסּוּרָא אִיכָּא, תְּנָא נָמֵי רֵישָׁא ״אֵינוֹ עוֹבֵר עָלָיו״.
+*Translation:* The Gemara responds: **By right** the mishna **should have** taught **that there is not even a prohibition** by rabbinic law. **But** the *tanna* of the mishna uses this language **since he wants to teach the latter clause:** One who wants to eat **the heart** of a slaughtered animal **tears it and removes its blood,** but if **he did not tear** the heart before cooking and eating it, **he does not violate** the prohibition **for it. There,** it is true that although **he does not violate** a Torah prohibition **there is a prohibition** by rabbinic law. **He** therefore **teaches** in **the first clause** in this manner **as well,** stating: **He does not violate** the prohibition **for it.**
+
+**7.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: הַכְּחָל – קוֹרְעוֹ וּמוֹצִיא אֶת חֶלְבּוֹ, לֹא קְרָעוֹ – אֵינוֹ עוֹבֵר עָלָיו. הַלֵּב – קוֹרְעוֹ וּמוֹצִיא אֶת דָּמוֹ, לֹא קְרָעוֹ – קוֹרְעוֹ לְאַחַר בִּשּׁוּלוֹ, וּמוּתָּר. לֵב הוּא דְּבָעֵי קְרִיעָה, אֲבָל כְּחָל – לָא בָּעֵי קְרִיעָה!
+*Translation:* The Gemara suggests: **Come** and **hear** a proof from a *baraita*: One who wants to eat **the udder** of a slaughtered animal **tears it and removes its milk.** If **he did not tear** the udder before cooking it, **he does not violate** the prohibition **for it.** One who wants to eat **the heart** of a slaughtered animal **tears it and removes its blood.** If **he did not tear** the heart before cooking and eating it, **he tears it after its cooking, and it is permitted.** One can infer from the *baraita* that **it is** only the **heart that requires tearing** after cooking if it was not torn beforehand, **but** the **udder does not require tearing** after being cooked unlawfully. Evidently, it is permitted as is.
+
+**8.**
+*Hebrew/Aramaic:* דִּלְמָא לֵב הוּא דְּסַגִּי לֵיהּ בִּקְרִיעָה, אֲבָל כְּחָל לָא סַגִּי לֵיהּ בִּקְרִיעָה.
+*Translation:* The Gemara rejects this: **Perhaps** one should infer the opposite, that **tearing** after cooking **is sufficient** only **to** render the **heart** permitted, as the heart does not absorb blood through cooking. **But tearing** it after cooking **is not sufficient to** render the **udder** permitted, as the meat of the udder absorbs the milk through cooking, and tearing will not remove the absorbed milk. This concludes the second version of the Gemara’s discussion.
+
+**9.**
+*Hebrew/Aramaic:* תַּנְיָא כְּלִישְׁנָא קַמָּא דְּרַב: כְּחָל שֶׁבִּשְּׁלוֹ בַּחֲלָבוֹ – מוּתָּר, קֵבָה שֶׁבִּשְּׁלָהּ בַּחֲלָבָהּ – אָסוּר.
+*Translation:* The Gemara comments: **It is taught** in a *baraita* **in accordance with the first version of Rav’s** statement: **An udder that one cooked,** i.e., roasted, **in its milk is permitted.** By contrast, the **stomach** of a suckling lamb or calf **that one cooked,** i.e., roasted, together **with** the **milk** it contains is **prohibited** for consumption.
+
+**10.**
+*Hebrew/Aramaic:* וּמָה הֶפְרֵשׁ בֵּין זֶה לָזֶה? זֶה כָּנוּס בְּמֵעָיו, וְזֶה אֵין כָּנוּס בְּמֵעָיו.
+*Translation:* The *baraita* explains: **And what** is the **distinction between this** stomach **and that** udder? The milk **this** calf suckled was considered milk the moment it left the mother’s teat, and it was merely **collected in** the calf’s **innards. But that** milk in the udder is not defined as milk, since it was **never collected in** the animal’s **innards** from outside but is found in the flesh. Consequently, this meat of the udder is not prohibited if it is roasted with the milk it contains, although one should still tear it by rabbinic law *ab initio*.
+
+**11.**
+*Hebrew/Aramaic:* כֵּיצַד קוֹרְעוֹ? אָמַר רַב יְהוּדָה: קוֹרְעוֹ שְׁתִי וָעֵרֶב, וְטָחוֹ בַּכּוֹתֶל. אֲמַר לֵיהּ רַבִּי אֶלְעָזָר לְשַׁמָּעֵיהּ: קְרַע לִי, וַאֲנָא אֵיכוֹל. מַאי קָא מַשְׁמַע לַן? מַתְנִיתִין הִיא! הָא קָא מַשְׁמַע לַן: דְּלָא בָּעֵינַן שְׁתִי וָעֵרֶב וְטָחוֹ בַּכּוֹתֶל.
+*Translation:* § The Gemara inquires: **How must one tear** an udder before cooking it? **Rav Yehuda says: One tears it lengthwise and widthwise [*sheti va’erev*] and smears it against a wall** to remove all the milk. The Gemara relates: **Rabbi Elazar said to his attendant: Tear** an udder **for me** before you roast it, **and I will eat** it. The Gemara asks: **What is** this episode **teaching us? It is** explicitly stated in **the mishna** that one must do this. The Gemara answers: **This** story **teaches us that** according to Rabbi Elazar **we do not require** one to tear it **lengthwise and widthwise and smear it against a wall.** Rather, it is enough simply to tear it once, either lengthwise or widthwise.
+
+**12.**
+*Hebrew/Aramaic:* אֲמַרָה לֵיהּ יַלְתָּא לְרַב נַחְמָן: מִכְּדֵי, כֹּל דַּאֲסַר לַן רַחֲמָנָא שְׁרָא לַן כְּוָותֵיהּ, אֲסַר לַן דְּמָא – שְׁרָא לַן כַּבְדָּא, נִדָּה – דַּם טוֹהַר.
+*Translation:* § **Yalta said to** her husband **Rav Naḥman: Now** as a rule, for **any** item **that the Merciful One prohibited to us, He permitted to us a similar** item. He **prohibited to us** the consumption of **blood,** yet **He permitted to us** the consumption of **liver,** which is filled with blood and retains the taste of blood. Likewise, God prohibited sexual intercourse with **a menstruating woman,** but permitted sexual intercourse with one’s wife while she discharges **the blood of purity.** During a particular period after giving birth, even if she experiences a flow of blood she is not rendered ritually impure and remains permitted to her husband by Torah law.
+
+**13.**
+*Hebrew/Aramaic:* חֵלֶב בְּהֵמָה – חֵלֶב חַיָּה, חֲזִיר – מוֹחָא דְּשִׁיבּוּטָא, גֵּירוּתָא – לִישָּׁנָא דִּכְוָורָא.
+*Translation:* Furthermore, the Torah prohibits the consumption of the forbidden **fat of a domesticated animal,** but permitted the **fat of an undomesticated animal,** which has the same flavor. It is prohibited to eat **pork,** but one may eat **the brain of a *shibuta*** fish, which has a similar taste. One may not eat ***giruta*,** a non-kosher fish, but one may eat the **tongue of a fish,** which tastes similar.
+
+**14.**
+*Hebrew/Aramaic:* אֵשֶׁת אִישׁ – גְּרוּשָׁה בְּחַיֵּי בַעְלָהּ, אֵשֶׁת אָח – יְבָמָה, גּוֹיָה – יְפַת תֹּאַר, בָּעֵינַן לְמֵיכַל בִּשְׂרָא בַּחֲלָבָא.
+*Translation:* Likewise, the Torah prohibits sexual intercourse with **the wife of** another **man** but permitted one to marry **a divorced woman in her** previous **husband’s lifetime.** The Torah prohibits sexual intercourse with one’s **brother’s wife,** and yet it permits one to marry his ***yevama*,** i.e., his brother’s widow when the brother dies childless. Finally, the Torah prohibits sexual intercourse with **a gentile woman** but permitted one to marry **a beautiful woman** who is a prisoner of war (see Deuteronomy 21:10–14). Yalta concluded: The Torah prohibits the consumption of meat cooked in milk; **I wish to eat** a dish that tastes like **meat** cooked **in milk.**
+
+**15.**
+*Hebrew/Aramaic:* אֲמַר לְהוּ רַב נַחְמָן לְטַבָּחֵי: זַוִּיקוּ לַהּ כַּחְלֵי. וְהָאֲנַן תְּנַן: קוֹרְעוֹ! הָהוּא לִקְדֵרָה.
+*Translation:* Upon hearing this, **Rav Naḥman said to** his **cooks: Roast udders on a spit for her.** The Gemara asks: **But didn’t we learn** in the mishna that one must **tear** the udder first? Rav Naḥman did not tell his cooks to tear the udders. The Gemara answers: **That** requirement was stated only **with regard to** cooking in **a pot,** not roasting.
+
+**16.**
+*Hebrew/Aramaic:* וְהָא קָתָנֵי: שֶׁבִּשְּׁלוֹ – דִּיעֲבַד אִין, לְכַתְּחִלָּה לָא? הוּא הַדִּין דַּאֲפִילּוּ לְכַתְּחִלָּה, וְאַיְּידֵי דְּקָא בָעֵי לְמִיתְנֵא סֵיפָא קֵבָה
+*Translation:* The Gemara asks: **But isn’t it taught** in the *baraita* cited above: An udder **that one cooked** in its milk is permitted? This indicates that **after the fact, yes,** it is permitted, but one may **not** roast it ***ab initio*** without tearing it. The Gemara answers: **The same is true even** of roasting ***ab initio*,** i.e., it is permitted, **and** the *tanna* of the *baraita* uses this language **since he wants to teach** in **the latter clause: A stomach**

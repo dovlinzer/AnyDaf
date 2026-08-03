@@ -1,4 +1,4 @@
-### Hullin 14a
+### Chullin 14a
 
 **1.**
 *Hebrew/Aramaic:* מַתְנִי׳ הַשּׁוֹחֵט בְּשַׁבָּת וּבְיוֹם הַכִּיפּוּרִים, אַף עַל פִּי שֶׁמִּתְחַיֵּיב בְּנַפְשׁוֹ – שְׁחִיטָתוֹ כְּשֵׁרָה.
@@ -27,3 +27,72 @@
 **7.**
 *Hebrew/Aramaic:* הַלּוֹקֵחַ יַיִן מִבֵּין הַכּוּתִים, אוֹמֵר: ״שְׁנֵי לוּגִּין שֶׁאֲנִי עָתִיד לְהַפְרִישׁ הֲרֵי הֵן תְּרוּמָה, עֲשָׂרָה מַעֲשֵׂר רִאשׁוֹן, תִּשְׁעָה מַעֲשֵׂר שֵׁנִי״, וּמֵיחֵל וְשׁוֹתֶה מִיָּד, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה וְרַבִּי יוֹסֵי וְרַבִּי שִׁמְעוֹן אוֹסְרִין.
 *Translation:* It is taught in a *baraita* (*Tosefta*, *Demai* 8:7): In the case of **one who purchases wine from among the Samaritans** just before Shabbat, and presumably *teruma* and tithes were not separated, he acts as follows: If there are one hundred *log* of wine in the barrels, **he says: Two *log* that I will separate in the future are *teruma*,** as the mandated average measure of *teruma* is one-fiftieth; **ten** *log* are **first tithe;** and a tenth of the remainder, which is **nine** *log*, are **second tithe. And he deconsecrates** the second tithe that he will separate in the future, transferring its sanctity to money, **and** he may **drink** the wine **immediately,** relying on the separation that he will perform later, which will clarify retroactively which *log* he designated for the tithes and for *teruma*. This is **the statement of Rabbi Meir. Rabbi Yehuda and Rabbi Yosei and Rabbi Shimon prohibit** this practice. Apparently, Rabbi Yehuda does not accept the principle of retroactive designation.
+
+
+---
+
+### Chullin 14b
+
+**1.**
+*Hebrew/Aramaic:* הָתָם כִּדְקָתָנֵי טַעְמָא, אָמְרוּ לוֹ לְרַבִּי מֵאִיר: ״אִי אַתָּה מוֹדֶה שֶׁמָּא יִבָּקַע הַנּוֹד וְנִמְצָא שׁוֹתֶה טְבָלִים לְמַפְרֵעַ?״ אָמַר לָהֶן: ״לִכְשֶׁיִּבָּקַע״.
+*Translation:* The Gemara comments: That is no proof, as **there, the reason** for the opinion of Rabbi Yehuda is **as is taught** in the latter clause of the *baraita*: The Rabbis **said to Rabbi Meir: Don’t you concede** that **perhaps the wineskin will burst** before he manages to separate the *teruma*, **and** this person **will have been found retroactively** to be **drinking untithed produce?** Rabbi Meir **said to** the Rabbis: The mere possibility that this may occur is not a concern. **When it** actually **bursts,** I will be concerned. Evidently, Rabbi Yehuda’s opinion is not due to his rejection of the principle of retroactive designation, but due to his concern that the wineskin will burst before the tithes are actually separated.
+
+**2.**
+*Hebrew/Aramaic:* אֶלָּא מִדְּתָנֵי אַיּוֹ.
+*Translation:* **Rather,** the fact that Rabbi Yehuda does not accept the principle of retroactive designation is learned **from that which Ayo teaches** with regard to the joining of Shabbat boundaries in a case where one knows that two Torah scholars are planning to deliver lectures on Shabbat outside the city limits, one east of the city and one west of the city, and on Shabbat eve one has not yet decided which of the lectures he wishes to attend. In that case, he may place the food for the joining of boundaries on both sides of the city and stipulate that he will be able to go beyond the city limits in whichever direction he chooses.
+
+**3.**
+*Hebrew/Aramaic:* דְּתָנֵי אַיּוֹ, רַבִּי יְהוּדָה אוֹמֵר: אֵין אָדָם מַתְנֶה עַל שְׁנֵי דְּבָרִים כְּאֶחָד, אֶלָּא אִם בָּא חָכָם לַמִּזְרָח – עֵירוּבוֹ לַמִּזְרָח, לַמַּעֲרָב – עֵירוּבוֹ לַמַּעֲרָב, וְאִילּוּ לְכָאן וּלְכָאן – לָא.
+*Translation:* **As Ayo teaches** that **Rabbi Yehuda says: A person may not stipulate** that his joining of the boundaries will take effect **on two matters as one. Rather,** he may stipulate that **if** one **Sage comes to the east, his joining** of the boundaries takes effect **to the east,** and if he comes **to the west, his joining** takes effect **to the west, while** if he stipulates that it should take effect **to here or to there** and he will go in whichever direction he chooses, in that case, the joining does **not** take effect.
+
+**4.**
+*Hebrew/Aramaic:* וְהָוֵינַן בַּהּ: מַאי שְׁנָא לְכָאן וּלְכָאן דְּלָא, דְּאֵין בְּרֵירָה? מִזְרָח וּמַעֲרָב נָמֵי אֵין בְּרֵירָה!
+*Translation:* **And we discussed** this *baraita*: **What is different** in a case where one stipulates that it should take effect **to here or to there** such **that** the joining does **not** take effect? It is **because there is no** retroactive **designation.** If so, stipulating that the joining will take effect to the **east or west,** depending upon where the Sage goes, should **also** not take effect **because there is no** retroactive **designation.**
+
+**5.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי יוֹחָנָן: וּכְבָר בָּא חָכָם.
+*Translation:* **And Rabbi Yoḥanan said:** This is a case **where** when he makes the stipulation, **the Sage has already come** to either the east or the west, and the joining takes effect in that direction. He makes a stipulation because he does not know where the Sage came. The joining takes effect without the principle of retroactive designation. Nevertheless, since it is clear from the first case of Ayo that Rabbi Yehuda does not accept the principle of retroactive designation, the question remains: From where is it derived that an animal that is slaughtered on Shabbat or Yom Kippur is forbidden for the day that it was slaughtered?
+
+**6.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב יוֹסֵף: רַבִּי יְהוּדָה דְּכֵלִים הִיא, דִּתְנַן: כׇּל הַכֵּלִים הַנִּיטָּלִין בַּשַּׁבָּת, שִׁבְרֵיהֶן נִיטָּלִין, וּבִלְבַד שֶׁיְּהוּ עוֹשִׂין מֵעֵין מְלָאכָה. שִׁבְרֵי עֲרֵיבָה – לְכַסּוֹת בָּהֶן פִּי חָבִית, שִׁבְרֵי זְכוּכִית – לְכַסּוֹת בָּהֶן פִּי הַפַּךְ.
+*Translation:* **Rather, Rav Yosef said:** When Rav said that the *halakha* that consumption of the animal is prohibited for that day is the opinion of Rabbi Yehuda, the reference **is** to the opinion of **Rabbi Yehuda with regard to vessels, as we learned** in a mishna (*Shabbat* 124b): With regard to **all vessels that may be moved on Shabbat, their shards may be moved** as well, **provided that they are suited for** some **type of labor. Shards of** a large **bowl** may be used **to cover the mouth of a barrel. Shards of a glass** vessel may be used **to cover the mouth of a cruse.**
+
+**7.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: וּבִלְבַד שֶׁיְּהוּ עוֹשִׂין מֵעֵין מְלַאכְתָּן, שִׁבְרֵי עֲרֵיבָה – לָצוּק לְתוֹכָן מִקְפָּה, שִׁבְרֵי זְכוּכִית – לָצוּק לְתוֹכָן שֶׁמֶן.
+*Translation:* **Rabbi Yehuda says: And** it is permitted to use the shards **provided that they are suited for a type of labor** similar to **their** original use. In the case of **shards of** a large **bowl,** it must be possible **to pour** a thick **broth into them,** and in the case of **shards of a glass** vessel, it must be possible **to pour oil into them.**
+
+**8.**
+*Hebrew/Aramaic:* מֵעֵין מְלַאכְתָּן – אִין, מֵעֵין מְלָאכָה אַחֶרֶת – לָא; אַלְמָא, כֵּיוָן דְּלָא אִיתְּכַן מֵאֶתְמוֹל לְהָךְ מְלָאכָה – אֲסִירִי; הָכָא נָמֵי, כֵּיוָן דְּלָא אִיתְּכַן מֵאֶתְמוֹל – אֲסוּרָה.
+*Translation:* The Gemara infers: If they are suited for **a type of labor** similar to **their** original use, **yes,** they may be moved; but if they are suitable for **another type of labor,** they may **not** be moved. **Apparently, since** the shard **was not prepared from yesterday for this** type of **labor,** it is **prohibited** to move it. **Here too, since** the animal that was slaughtered **was not prepared from yesterday,** it is **prohibited** to eat it.
+
+**9.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ אַבָּיֵי: מִי דָּמֵי? הָתָם מֵעִיקָּרָא כְּלִי, וְהַשְׁתָּא שֶׁבֶר כְּלִי, וְהָוֵה לֵיהּ נוֹלָד, וְאָסוּר. הָכָא מֵעִיקָּרָא אוּכְלָא, וּלְבַסּוֹף אוֹכֶל, אוּכְלָא דְּאִיפְּרַת הוּא.
+*Translation:* **Abaye said to** Rav Yosef: **Are** the cases **comparable? There,** in the mishna with regard to vessels, **initially** it was **a vessel and now** it is **the shard of a vessel, and it is** a case of an item that **came into being, and** it is therefore **prohibited** to move it. **Here,** in the case of an animal slaughtered on Shabbat, **initially,** during its lifetime, it was designated as **food, and ultimately,** after slaughter, it is **food,** so it **is** merely **food that was separated [*de’ifrat*].**
+
+**10.**
+*Hebrew/Aramaic:* וְשָׁמְעִינַן לֵיהּ לְרַבִּי יְהוּדָה דְּאָמַר: אוּכְלָא דְּאִיפְּרַת שַׁפִּיר דָּמֵי, דִּתְנַן: אֵין סוֹחֲטִין אֶת הַפֵּירוֹת לְהוֹצִיא מֵהֶן מַשְׁקִין, וְאִם יָצְאוּ מֵעַצְמָן – אֲסוּרִין.
+*Translation:* **And we heard** that it is **Rabbi Yehuda who says: Food that was separated** is **permitted, as we learned** in a mishna (*Shabbat* 143b): **One may not squeeze fruits** on Shabbat in order **to extract liquids from them. And if** liquids **seeped out on their own, it is prohibited** to use them on Shabbat, lest one come to squeeze fruit on Shabbat.
+
+**11.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: אִם לָאֳכָלִין – הַיּוֹצֵא מֵהֶן מוּתָּר, וְאִם לְמַשְׁקִין – הַיּוֹצֵא מֵהֶן אָסוּר.
+*Translation:* **Rabbi Yehuda says: If** the fruits were designated **for eating,** the liquid **that seeped from them** on Shabbat **is permitted. And if** the fruits were designated **for** their **liquids,** the liquids **that seeped from them** on Shabbat **are forbidden,** lest he come to squeeze them on Shabbat. With regard to fruits that are designated for consumption, the liquid is considered food that was separated and is permitted. The same *halakha* applies with regard to an animal slaughtered on Shabbat: Since it was designated for consumption, its meat is food that was separated and should be permitted according to Rabbi Yehuda.
+
+**12.**
+*Hebrew/Aramaic:* לָאו אִתְּמַר עֲלַהּ, אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: מוֹדֶה הָיָה רַבִּי יְהוּדָה לַחֲכָמִים בְּסַלֵּי זֵיתִים וַעֲנָבִים.
+*Translation:* The Gemara rejects that interpretation and states that, on the contrary, there is proof that Rabbi Yehuda would prohibit eating an animal that was slaughtered on Shabbat. **Wasn’t it stated with regard to** that mishna that **Rav Yehuda says** that **Shmuel says: Rabbi Yehuda conceded to the Rabbis in** the case of **baskets of olives and grapes** that are typically designated for their liquids, even though one had planned to eat them, that liquid that seeps from them is forbidden?
+
+**13.**
+*Hebrew/Aramaic:* אַלְמָא, כֵּיוָן דְּלִסְחִיטָה קָיְימִי – יָהֵיב דַּעְתֵּיהּ; הָכָא נָמֵי, כֵּיוָן דְּלִשְׁחִיטָה קָיְימָא – יָהֵיב דַּעְתֵּיהּ.
+*Translation:* **Apparently, since** olives and grapes are typically **designated for squeezing,** one **sets his mind** to use them for their liquids, and were it permitted for him to use their liquids that seep out on Shabbat, the concern is that he will come to squeeze them on Shabbat. Therefore, the Sages decreed that the liquids are forbidden. **Here too, since** the animal is **designated for slaughter,** a person **sets his mind** to eat it. Therefore, were it permitted for him to eat the meat on Shabbat, the concern is that he will come to slaughter it on Shabbat. Consequently, the Sages decreed that the meat is prohibited.
+
+**14.**
+*Hebrew/Aramaic:* מִידֵּי הוּא טַעְמָא, אֶלָּא לְרַב, הָאָמַר רַב: חָלוּק הָיָה רַבִּי יְהוּדָה אֲפִילּוּ בְּסַלֵּי זֵיתִים וַעֲנָבִים.
+*Translation:* The Gemara justifies Abaye’s interpretation of the mishna: **This explanation is** valid **only according to Rav,** who said that the ruling that it is prohibited to eat an animal slaughtered on Shabbat until after Shabbat is according to the opinion of Rabbi Yehuda. **Didn’t Rav say: Rabbi Yehuda was in disagreement** with the Rabbis **even in** the case of **baskets of olives and grapes?** According to Rav himself, just as Rabbi Yehuda deems permitted liquids that seeped from olives and grapes on their own, Rabbi Yehuda should have also deemed an animal that was slaughtered on Shabbat permitted for that day.
+
+**15.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב שֵׁשֶׁת בְּרֵיהּ דְּרַב אִידִי: רַבִּי יְהוּדָה דְּנֵרוֹת הִיא, דְּתַנְיָא: מְטַלְטְלִין נֵר חָדָשׁ, אֲבָל לֹא יָשָׁן, דִּבְרֵי רַבִּי יְהוּדָה.
+*Translation:* **Rather, Rav Sheshet, son of Rav Idi, said:** When Rav said that the *halakha* that it is prohibited to consume the animal that day is the opinion of Rabbi Yehuda, the reference **is** to the opinion of **Rabbi Yehuda with regard to lamps, as it is taught** in a *baraita*: **One may move,** for purposes other than lighting it, **a new** earthenware **lamp** that was never used. **But** one may **not** move **an old** lamp covered with residue of oil and soot, because a person sets it aside from use due to repugnance. Since it was set aside at the beginning of Shabbat, it is set aside for the entire Shabbat and it may not be moved even if a need to move it arises; this is **the statement of Rabbi Yehuda.** The same *halakha* applies with regard to an animal slaughtered on Shabbat: Since it was prohibited when Shabbat began as the limb of a living being, it remains prohibited for the entire Shabbat.
+
+**16.**
+*Hebrew/Aramaic:* אֵימַר דְּשָׁמְעַתְּ לֵיהּ לְרַבִּי יְהוּדָה בְּמוּקְצֶה מֵחֲמַת מִיאוּס, מוּקְצֶה מֵחֲמַת אִיסּוּר מִי שָׁמְעַתְּ לֵיהּ? אִין, דִּתְנַן: רַבִּי יְהוּדָה אוֹמֵר:
+*Translation:* The Gemara rejects that analogy. **Say that you heard Rabbi Yehuda** rule that it is prohibited for the entire Shabbat **in** a case where it is **set aside due to repugnance,** like the old lamp. **Did you hear** that **he** said that it is prohibited for the entire Shabbat in a case where it is **set aside due to a prohibition,** like the animal? The Gemara answers: **Yes, as we learned** in a *baraita* that **Rabbi Yehuda says:**

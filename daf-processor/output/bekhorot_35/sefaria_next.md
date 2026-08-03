@@ -83,3 +83,96 @@
 **21.**
 *Hebrew/Aramaic:* שָׁאנֵי הָתָם,
 *Translation:* The Gemara answers: **It is different there,**
+
+
+---
+
+### Bekhorot 36b
+
+**1.**
+*Hebrew/Aramaic:* דְּאִית לֵיהּ לְאִשְׁתְּמוֹטֵי.
+*Translation:* **as he has** the easy option **of extricating himself** from the accusation that he did not fulfill the condition of the one who appointed him, by claiming that in his opinion the individual from whom he purchased the produce was to be trusted. Since the issue of the third party’s trustworthiness is subjective, the agent is not afraid to lie.
+
+**2.**
+*Hebrew/Aramaic:* סֵיפָא וַדַּאי מְסַיְּיעָא לֵיהּ: מֵאִישׁ פְּלוֹנִי — הֲרֵי זֶה נֶאֱמָן.
+*Translation:* The Gemara suggests: The **latter clause** of this mishna **certainly supports** the ruling of Rav, that people do not lie with regard to any matter that will be revealed. How so? The latter clause states that if the one instructed the agent to purchase produce specifically **from so-and-so,** who is reliable with regard to tithes, then **this** agent **is deemed credible** to claim that he adhered to the instructions. Since the one who appointed him mentioned a specific individual, the agent is not suspected of lying, as that individual can be subsequently questioned.
+
+**3.**
+*Hebrew/Aramaic:* הָתָם, כֵּיוָן דְּאִית לֵיהּ תּוֹבֵעַ, מִירְתַת.
+*Translation:* The Gemara rejects this proof: **There,** in the mishna, **since** the agent **has a claimant, he is afraid** to lie. In other words, since the one who appointed him specified an individual, the agent presumes that he intends to verify the matter, and therefore he will not risk lying. By contrast, in Rav’s case, since it was the priest who volunteered the information that a specific Israelite gave him an already blemished firstborn animal, he is not concerned that the examiner might seek out the Israelite to confirm the actual facts.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִרְמְיָה בַּר אַבָּא: מְנָא לֵיהּ לִיהוּדָה הָא? אֲנָא בְּגִידּוּל קְבַעְתָּיהּ, וְגִידּוּל קְבַע בְּדִידֵיהּ. וְהָכִי אָמְרִי לֵיהּ: נֶאֱמָן יִשְׂרָאֵל לוֹמַר ״בְּכוֹר זֶה נָתַתִּי לְכֹהֵן בְּמוּמוֹ״.
+*Translation:* Upon hearing Rav Yehuda’s statement in the name of Rav, **Rabbi Yirmeya bar Abba said: From where does Yehuda** know **this** *halakha*? Actually, **I taught this** *halakha* **to Giddul** in Rav’s name **and Giddul,** in turn, **taught it to** Rabbi Yehuda. **But** Giddul corrupted my statement, as **this is how I said it to him: An Israelite is deemed credible to say: I gave this firstborn** animal **to a priest with its blemish** already inflicted upon it, and it may be slaughtered and eaten.
+
+**5.**
+*Hebrew/Aramaic:* יִשְׂרָאֵל? פְּשִׁיטָא! לָא צְרִיכָא בְּקָטָן וְהִגְדִּיל, מַהוּ דְּתֵימָא: לָא קִים לֵיהּ? קָא מַשְׁמַע לַן.
+*Translation:* The Gemara asks: **An Israelite?** It is **obvious** that he is deemed credible to issue this claim, as he has no use for the firstborn animal. The Gemara answers: **No,** this ruling is **necessary,** as it is referring **to** an animal that was **young** when the Israelite gave it to the priest **and it grew older** by the time of his testimony. This ruling is necessary, **lest you say** that as the animal grew older in the interim, perhaps the Israelite **does not recognize it** and mistakenly assumes that it was the animal he gave the priest, when in fact it is a different firstborn animal upon which the priest intentionally caused a blemish. Rabbi Yirmeya bar Abba therefore **teaches us** that the Israelite is trusted to recognize the animal he gave the priest.
+
+**6.**
+*Hebrew/Aramaic:* בְּסוּרָא מַתְנוּ כְּלִשָּׁנָא בָתְרָא, בְּפוּמְבְּדִיתָא כְּלִשָּׁנָא קַמָּא, וְהִלְכְתָא אֲפִילּוּ כְּלִשָּׁנָא קַמָּא.
+*Translation:* The Gemara notes: **In Sura, they teach** the *halakha* **in accordance with the latter version,** as stated by Rabbi Yirmeya bar Abba, that an Israelite is deemed credible to testify. **In Pumbedita,** they teach the *halakha* **in accordance with the first version,** as taught by Rav Yehuda, citing Rav, that even a priest is deemed credible if he claims that an Israelite gave him an already blemished firstborn animal. The Gemara concludes: **And the *halakha*** is **in accordance with even the first version.**
+
+**7.**
+*Hebrew/Aramaic:* רַפְרָם בְּפוּמְבְּדִיתָא הֲוָה לֵיהּ בּוּכְרָא, וְיַהֲבֵיהּ לֵיהּ לְכֹהֵן בְּלָא מוּמָא. אֲזַל שְׁדָא בֵּיהּ מוּמָא. יוֹמָא חַד חֲלַשׁ בְּעֵינֵיהּ, אַיְיתְיֵהּ לְקַמֵּיהּ. אֲמַר לֵיהּ: בְּכוֹר זֶה נָתַן לִי יִשְׂרָאֵל בְּמוּמוֹ. אַרְפְּסִינֵיהּ לְעֵינֵיהּ, חַזְיֵיהּ בְּשִׁקְרֵיהּ. אֲמַר לֵיהּ: לָאו אֲנָא דִּיהֵיבְתֵּיהּ לָךְ?
+*Translation:* In this regard, the Gemara relates that **Rafram,** who resided **in Pumbedita, had a firstborn** animal **and he gave it to a priest** in **an unblemished** state. The priest **went and caused a blemish in it. One day,** Rafram **had an affliction in his eyes,** which rendered it difficult for him to open them. The priest to whom Rafram had given the firstborn animal **brought it before him,** as an expert examiner, for him to deem the animal permitted. The priest **said to him: An Israelite gave me this firstborn** animal **with its blemish** upon it. Rafram **forced his eyes open** and **saw** the animal and **recognized it [*bashkerei*]** as the one he himself had given the priest. Rafram **said to** the priest: **Is it not I who gave this** firstborn animal **to you?**
+
+**8.**
+*Hebrew/Aramaic:* וַאֲפִילּוּ הָכִי לָא חַשׁ לַהּ לְמִילְּתָא, הַאי הוּא דַּחֲצִיף, כּוּלֵּי עָלְמָא לָא חֲצִיפִי.
+*Translation:* The Gemara notes: **And even so,** Rafram **was unconcerned by the matter** of the priest’s attempted chicanery, as he maintained that it is only **this** priest **who is impudent,** but **all other** priests **are not impudent.** This scenario did not cause Rafram to discredit any other priest’s claim that he received a blemished firstborn animal from an Israelite, as this was an exceptional case. This priest demonstrated extreme impudence by bringing it to be examined by Rafram himself, and therefore one cannot draw conclusions about the behavior of other priests from this incident.
+
+**9.**
+*Hebrew/Aramaic:* הָהוּא שָׂרוּעַ דַּאֲתָא לְקַמֵּיהּ דְּרַב אָשֵׁי, אָמַר: לְמַאי נֵיחוּשׁ לֵיהּ? אִי כֹּהֵן הוּא, אִי יִשְׂרָאֵל הוּא — הֲרֵי בְּכוֹר וּמוּמוֹ עִמּוֹ.
+*Translation:* § The Gemara relates that there was **a certain** firstborn animal, **one** of whose eyes **was larger than the other, whose** owner **came before Rav Ashi** to have it deemed fit for slaughter on account of its blemish. Uncertain as to who brought the animal for examination, Rav Ashi **said: For what should we be concerned with regard to this** animal? In a case of such a blemish, **whether it is a priest** who brought it for examination, or **whether it is an Israelite,** there is no concern that the blemish might have been intentionally caused, as **this is** clearly **a firstborn** animal **whose blemish** was already **with it** naturally.
+
+**10.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי: וְדִלְמָא יִשְׂרָאֵל הוּא, וְאָמַר רַב יְהוּדָה: אֵין רוֹאִין בְּכוֹר יִשְׂרָאֵל אֶלָּא אִם כֵּן כֹּהֵן עִמּוֹ!
+*Translation:* **Ravina said to Rav Ashi: But perhaps it is an Israelite** who brought the firstborn animal, **and Rav Yehuda says** that **one may not examine the firstborn** animal **of an Israelite unless a priest is** present **with him** in order to receive the animal if it is established as fit for slaughter. Rav Yehuda is concerned that if the Israelite’s firstborn animal is deemed fit for slaughter when no priest is present, the Israelite might improperly use the animal for his own purposes. If so, how can you, Rav Ashi, say that there is no problem if this animal was brought by an Israelite?
+
+**11.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: הָכִי הַשְׁתָּא?! הָתָם, נְהִי דְּקָדָשִׁים בְּחוּץ לָא אָכֵיל, אַמָּמוֹנֵיהּ דְּכֹהֵן חֲשִׁיד.
+*Translation:* Rav Ashi **said to** Ravina in response: **How can** these cases **be compared? There,** where the presence of a priest is required, it is referring to a case where the halakhic status of the blemish has yet to be determined. Now, **granted** an Israelite **will not** risk **eating sacrificial** meat **outside** the Temple courtyard, as that incurs a penalty of *karet*, and he therefore would have the blemish’s status determined by an expert. But **he is suspected with regard to the property of a priest.** Although the Israelite will have the status of the animal confirmed before risking a prohibition that entails *karet*, he might steal the firstborn offering if it is established as fit for consumption.
+
+**12.**
+*Hebrew/Aramaic:* הָכָא, מִכְּדֵי יָדַע דְּהַאי מוּם מוּבְהָק הוּא, מַאי טַעְמָא אַתְיוּהּ קַמֵּיהּ רַבָּנַן? מִשּׁוּם כְּבוֹדוֹ דְּחָכָם; עַל כְּבוֹדוֹ דְּחָכָם לָא עָבֵיד, אִיסּוּרָא עָבֵד?!
+*Translation:* Conversely, **here,** in the case of the animal that had one eye larger than the other, **since** even an Israelite **knows that this is a clear-cut blemish** and the animal is clearly fit for slaughter, **what is the reason he brought** the animal **before the Sages** for examination? He brought it **out of respect for the Sage.** Now, if this Israelite **does not neglect the respect due a Sage,** would **he commit a transgression** and steal the possession of the priest? Certainly not. Therefore, in our case an Israelite would be trustworthy, and the presence of a priest is unnecessary.
+
+**13.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַכֹּל נֶאֱמָנִין עַל מוּמֵי מַעֲשֵׂר.
+*Translation:* MISHNA: **Everyone is deemed credible** to testify **about the blemishes of** an animal **tithe** offering, even the owner who is the beneficiary of a ruling that it is blemished.
+
+**14.**
+*Hebrew/Aramaic:* גְּמָ׳ מַאי טַעְמָא? דְּאִי בָּעֵי שָׁדֵי בֵּיהּ מוּמָא מֵעִיקָּרָא! מִי יָדַע הֵי נָפֵיק?
+*Translation:* GEMARA: **What is the reason** that even the owner is deemed credible to testify? The reason is **that had he wanted, he could have caused a blemish in it initially,** in a permitted manner, before tithing his animals. The Gemara raises a difficulty: But when he leads his animals out of the gate in order to tithe them, **does he know which** of them **will emerge** as the tenth, that you say he could have initially blemished that specific animal before it assumed the tithe status?
+
+**15.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא מַפֵּיק לֵיהּ בְּרֵישׁ עַשְׂרָה, ״לֹא יְבַקֵּר בֵּין טוֹב לָרַע״ אָמַר רַחֲמָנָא! אֶלָּא דְּאִי בָּעֵי שָׁדֵי בֵּיהּ מוּמָא (בכולי) [בְּכוּלֵּיהּ] עֶדְרֵיהּ.
+*Translation:* **And if you would say** that **he** intentionally **leads** an animal **out as the head of the ten,** i.e., so that it is the last of ten to emerge, one may not do so, as **the Merciful One states: “He shall not search whether it be good or bad”** (Leviticus 27:33), which teaches that the animal tithe may not be led out intentionally but must exit of its own accord. **Rather,** this is the meaning of the Gemara’s initial answer: The reason is **that had he wanted, he could have caused a blemish in his entire flock,** in a permitted manner, before leading them through the gate in order to tithe them.
+
+**16.**
+*Hebrew/Aramaic:* מַתְנִי׳ בְּכוֹר שֶׁנִּסְמֵית עֵינוֹ, וְשֶׁנִּקְטְעָה יָדוֹ, וְשֶׁנִּשְׁבְּרָה רַגְלוֹ — הֲרֵי זֶה יִשָּׁחֵט עַל פִּי שְׁלֹשָׁה בְּנֵי הַכְּנֶסֶת. רַבִּי יוֹסֵי אוֹמֵר: אֲפִילּוּ יֵשׁ שָׁם עֶשְׂרִים וּשְׁלֹשָׁה, אֵינוֹ נִשְׁחָט אֶלָּא עַל פִּי מוּמְחֶה.
+*Translation:* MISHNA: With regard to **a firstborn** animal **whose eye was blinded or whose foreleg was severed or whose hind leg was broken,** all of which obviously render the animal permanently blemished, that animal **may be slaughtered on the basis of** the ruling of **three** regular Jews **who attend the synagogue,** and it does not require a ruling by one of the Sages. **Rabbi Yosei** disagrees and **says: Even if there is** a court of **twenty-three** Sages **there, it may be slaughtered only on the basis of** the ruling of **an expert** in judging blemishes.
+
+**17.**
+*Hebrew/Aramaic:* גְּמָ׳ רַבִּי שִׂמְלַאי וְרַבִּי יְהוּדָה נְשִׂיאָה תַּרְוַיְיהוּ מִשְּׁמֵיהּ דְּרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי אָמְרִי, וְאָמְרִי לַהּ: רַבִּי שִׂמְלַאי וְרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי תַּרְוַיְיהוּ מִשּׁוּם רַבִּי יְהוּדָה נְשִׂיאָה אָמְרִי: הַתָּרַת בְּכוֹר בְּחוּצָה לָאָרֶץ עַל פִּי שְׁלֹשָׁה בְּנֵי הַכְּנֶסֶת. אָמַר רָבָא: וּבְמוּמִין מוּבְהָקִין.
+*Translation:* GEMARA: The Gemara relates that **Rabbi Simlai and Rabbi Yehuda Nesia both say in the name of Rabbi Yehoshua ben Levi, and some say** that **Rabbi Simlai and Rabbi Yehoshua ben Levi both say in the name of Rabbi Yehuda Nesia: The permitting of** the slaughter of **a firstborn** animal **outside** of **Eretz** Yisrael, where a firstborn offering is unfit for sacrifice even when the Temple is standing, may be performed **on the basis of** the ruling of **three** regular Jews **who attend the synagogue. Rava said: And** this ruling applies specifically in a case **of clear-cut blemishes,** i.e., those blemishes which clearly permit the slaughter of the firstborn animal.
+
+**18.**
+*Hebrew/Aramaic:* מַאי קָא מַשְׁמַע לַן? תְּנֵינָא: בְּכוֹר שֶׁנִּסְמֵית עֵינוֹ, וְשֶׁנִּקְטְעָה יָדוֹ, וְשֶׁנִּשְׁתַּבְּרָה רַגְלוֹ — הֲרֵי זֶה יִשָּׁחֵט עַל פִּי שְׁלֹשָׁה בְּנֵי הַכְּנֶסֶת!
+*Translation:* The Gemara asks: **What is** Rava **teaching us** by this statement? **We** already **learn** this in the mishna: With regard to **a firstborn** animal **whose eye was blinded or whose foreleg was severed or whose hind leg was broken,** that animal **may be slaughtered on the basis of** the ruling of **three** regular Jews **who attend the synagogue.** The mishna is referring to clear-cut blemishes in contemporary times, in the absence of the Temple, when a firstborn animal is unfit to be brought as an offering. What, then, is the novelty of Rava’s statement?
+
+**19.**
+*Hebrew/Aramaic:* אִי מִמַּתְנִיתִין הֲוָה אָמֵינָא: בְּחוּצָה לָאָרֶץ אֲפִילּוּ מוּמִין שֶׁאֵין מוּבְהָקִין, וְהַאי דְּקָתָנֵי מוּבְהָקִין — לְהוֹדִיעֲךָ כֹּחוֹ דְּרַבִּי יוֹסֵי, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara answers: **If** the *halakha* that three regular Jews may permit the slaughter of a firstborn animal is learned **from the mishna** alone, **I would say** that according to the mishna, the power invested in three regular Jews to permit the slaughter of a firstborn animal in the absence of the Temple nowadays, or **outside** of **Eretz** Yisrael during Temple times, applies **even** to a firstborn animal that has **blemishes that are not clear-cut. And** the reason **that** the mishna specifically **teaches** a case of **clear-cut** blemishes is **to convey the far-reaching nature** of the opinion **of Rabbi Yosei,** who requires the examination of an expert even in such a case. Rava therefore **teaches us** that this is not so; rather, the mishna’s ruling is referring specifically to a case of clear-cut blemishes.
+
+**20.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר רַבִּי יִרְמְיָה בַּר אַבָּא, סָפֵק מִשְּׁמֵיהּ דְּרַב, סָפֵק מִשְּׁמֵיהּ דִּשְׁמוּאֵל: שְׁלֹשָׁה מַתִּירִין אֶת הַבְּכוֹר בִּמְקוֹם שֶׁאֵין מוּמְחֶה. מַאי קָא מַשְׁמַע לַן? תְּנֵינָא: הֲרֵי זֶה יִשָּׁחֵט עַל פִּי שְׁלֹשָׁה בְּנֵי הַכְּנֶסֶת!
+*Translation:* § **Rav Yehuda says** that **Rabbi Yirmeya bar Abba says** the following *halakha*, but he was **uncertain** whether Rabbi Yirmeya bar Abba said it **in the name of Rav** and **uncertain** whether he said it **in the name of Shmuel: Three** regular Jews **may permit a firstborn** animal with clear-cut blemishes **in a place where there is no expert.** The Gemara asks: **What is** Rav Yehuda **teaching us** by this statement? **We** already **learn** this in the mishna: That animal **may be slaughtered on the basis of** the ruling **of three** regular Jews **who attend the synagogue.**
+
+**21.**
+*Hebrew/Aramaic:* אִי מִמַּתְנִיתִין הֲוָה אָמֵינָא: בִּמְקוֹם מוּמְחֶה, קָא מַשְׁמַע לַן: בִּמְקוֹם שֶׁאֵין מוּמְחֶה — אִין, בִּמְקוֹם שֶׁיֵּשׁ מוּמְחֶה — לָא.
+*Translation:* The Gemara answers: **If** the *halakha* is learned **from the mishna** alone, **I would say** that three laymen may permit a firstborn animal with clear-cut blemishes even **in a place** where there is **an expert.** Rav Yehuda therefore **teaches us** that **in a place where there is no expert, yes,** three laymen may permit it. But **in a place where there is an expert,** three laymen are **not** invested with this power.
+
+**22.**
+*Hebrew/Aramaic:* אָמַר רַב חִיָּיא בַּר עַמְרָם: שְׁלֹשָׁה מַתִּירִין אֶת הַבְּכוֹר בִּמְקוֹם שֶׁאֵין מוּמְחֶה, שְׁלֹשָׁה מַתִּירִין אֶת הַנֶּדֶר בִּמְקוֹם שֶׁאֵין חָכָם. שְׁלֹשָׁה מַתִּירִין אֶת הַבְּכוֹר בִּמְקוֹם שֶׁאֵין מוּמְחֶה
+*Translation:* **Rav Ḥiyya bar Amram says:** A group of **three** laymen may **permit** a blemished **firstborn** animal **in a place where there is no expert** to consult, and likewise a group of **three** laymen may **dissolve a vow in a place where there is no Sage.** The Gemara explains: The ruling that a group of **three** laymen may **permit** a blemished **firstborn** animal **in a place where there is no expert** to consult

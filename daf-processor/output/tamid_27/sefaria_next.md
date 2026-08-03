@@ -55,3 +55,48 @@
 **14.**
 *Hebrew/Aramaic:* אֵין אָדָם נִכְנָס עִמּוֹ. וְלֹא נֵר בְּיָדוֹ, אֶלָּא מְהַלֵּךְ לְאוֹר הַמַּעֲרָכָה. לֹא הָיוּ רוֹאִין אוֹתוֹ,
 *Translation:* **No person would enter with** the priest who was removing the ashes, as it was permitted to enter the area between the Entrance Hall of the Sanctuary and the altar only when performing the Temple service. **And** there was **no lamp in his hand** when he went to fetch the coal pan. **Rather, he would walk by the light of the arrangement** of wood on the altar, upon which the portions of the offerings sacrificed the previous day were burned during the night. The other priests **would not see him,** as the altar hid him from their sight,
+
+
+---
+
+### Tamid 28b
+
+**1.**
+*Hebrew/Aramaic:* וְלֹא הָיוּ שׁוֹמְעִין אֶת קוֹלוֹ, עַד שֶׁהָיוּ שׁוֹמְעִין קוֹל הָעֵץ שֶׁעָשָׂה בֶּן קָטִין מוּכְנִי לַכִּיּוֹר. וְהֵן אוֹמְרִים: הִגִּיעַ עֵת! קִידֵּשׁ יָדָיו וְרַגְלָיו מִן הַכִּיּוֹר, נָטַל מַחְתַּת הַכֶּסֶף וְעָלָה לְרֹאשׁ הַמִּזְבֵּחַ.
+*Translation:* **nor could they hear the sound of his** steps. They were therefore unaware of his progress **until they heard** the **sound of the wood that ben Katin crafted** into **a mechanism [*mukhani*]** of pulleys that was used **to** sink **the Basin** into flowing water during the night, so that its water would not be disqualified by remaining overnight. When the priests heard the sound of the pulleys raising the Basin from the water, **they said** to each other: **The time** for sanctifying hands and feet **has come.** The priest **sanctified his hands and his feet** with water **from the Basin** after he raised it. **He** then **took the silver coal pan** from the corner between the ramp and the altar, **and ascended to the top of the altar.**
+
+**2.**
+*Hebrew/Aramaic:* פִּינָּה אֶת הַגֶּחָלִים הֵילָךְ, חוֹתֶה אֶת הַמְאוּכָּלוֹת הַפְּנִימִיּוֹת. יָרַד הִגִּיעַ לָרִצְפָּה, הָפַךְ פָּנָיו לַצָּפוֹן, הוֹלֵךְ בְּמִזְרָחוֹ שֶׁל כֶּבֶשׁ כְּעֶשֶׂר אַמּוֹת. צָבַר אֶת הַגֶּחָלִים עַל גַּבֵּי הָרִצְפָּה רָחוֹק מִן הַכֶּבֶשׁ שְׁלֹשָׁה טְפָחִים, מָקוֹם שֶׁנּוֹתְנִים מוּרְאַת הָעוֹף, וְדִישּׁוּן מִזְבֵּחַ הַפְּנִימִי, וְדִישּׁוּן הַמְּנוֹרָה.
+*Translation:* The priest **cleared the** upper layer of **coals to this side** and to that side and **scooped** into the coal pan **the inner** coals that were completely **consumed.** He then **descended** the ramp. When **he reached the floor,** in the southeast of the Temple courtyard, **he turned his face toward the north. He** would **walk along the east** side **of the ramp** toward the south side of the altar, walking a distance of **about ten cubits** from the bottom of the ramp, which was twenty cubits from the altar. **He** then **heaped the coals upon the floor** in a location **three handbreadths distant from the ramp,** in the **place where** the priests would **place the crop of the bird** burnt offering, **the ashes** removed **from the inner,** golden **altar, and the ashes** removed **from the Candelabrum.**
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ וּמִי הֲווֹ אַכְסַדְרָאוֹת בָּעֲזָרָה? וְהָא תַּנְיָא, רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר: מִנַּיִן שֶׁאֵין עוֹשִׂין אַכְסַדְרָאוֹת בָּעֲזָרָה – תַּלְמוּד לוֹמַר: ״לֹא תִטַּע לְךָ אֲשֵׁרָה כָּל עֵץ אֵצֶל מִזְבַּח ה׳ אֱלֹהֶיךָ״,
+*Translation:* GEMARA: The mishna teaches that the priests would walk along the portico surrounding the Temple courtyard. Since porticoes were usually made of wood, the Gemara asks: **And were there porticoes in the courtyard? But isn’t it taught** in a *baraita* that **Rabbi Eliezer ben Ya’akov says: From where** is it derived **that one may not build** wooden **porticoes in the** Temple **courtyard? The verse states: “You shall not plant for yourself an *ashera* of any kind of tree beside the altar of the Lord your God”** (Deuteronomy 16:21).
+
+**4.**
+*Hebrew/Aramaic:* הָכִי קָאָמַר: ״לֹא תִטַּע לְךָ אֲשֵׁרָה״, ״לֹא תִטַּע לְךָ כׇּל עֵץ אֵצֶל מִזְבַּח ה׳ אֱלֹהֶיךָ״! אָמַר רַב חִסְדָּא: בְּאַכְסַדְרָאוֹת שֶׁל בִּנְיָן.
+*Translation:* The Gemara explains that **this** is what the verse **is saying: You shall not plant for yourself an *ashera*,** i.e., a tree used as part of idolatrous rites. Moreover, **you shall not plant** or otherwise place **for yourself any kind of tree** or wood **beside the altar of the Lord your God. Rav Ḥisda says:** The mishna is referring **to porticoes** made **of building** materials, i.e., stone, whereas the prohibition of erecting porticoes in the Temple courtyard applies only to porticoes of wood.
+
+**5.**
+*Hebrew/Aramaic:* הָיוּ בּוֹדְקִין וְהוֹלְכִין כּוּ׳. לְמֵימְרָא דַּחֲבִיתִּין הֲווֹ קְדִימִי?
+*Translation:* § The mishna teaches: Both groups **would continue inspecting** the vessels until they reached the place where the Chamber of the Preparer of the Griddle-Cake Offering was located. They would then set the preparer of the Griddle-Cake Offering to prepare the griddle-cake offering. The Gemara asks: Is this **to say that** the **griddle-cake** offering **was** sacrificed **before** the other rites of the Temple service were performed?
+
+**6.**
+*Hebrew/Aramaic:* וְהַתַּנְיָא: מִנַּיִן שֶׁאֵין דָּבָר קוֹדֵם לְתָמִיד שֶׁל שַׁחַר – תַּלְמוּד לוֹמַר: ״וְעָרַךְ עָלֶיהָ הָעֹלָה״, וְאָמַר רַבָּה: ״הָעֹלָה״, עוֹלָה רִאשׁוֹנָה! אָמַר רַב יְהוּדָה: לְהָחֵם חַמִּין לִרְבִיכָה.
+*Translation:* **But isn’t it taught** in a *baraita*: **From where** is it derived **that there is nothing** that is sacrificed on the altar **prior to the daily morning offering? The verse states:** “And the fire on the altar shall be kept burning on it, it shall not be extinguished; and the priest shall kindle wood upon it every morning, **and he shall prepare the burnt offering upon it** and shall cause the fats of the peace offerings to go up in smoke upon it” (Leviticus 6:5). **And Rabba says** that the term: **The burnt offering,** with the definite article, indicates that the **burnt offering** is important and is the **first** offering sacrificed each day. **Rav Yehuda says:** The griddle-cake offering was not burned on the altar at that early hour. Rather, it was necessary to set the preparers of the griddle-cake offering **to heat hot water for** preparing **the parboiled** griddle cakes.
+
+**7.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ בִּשְׁלֹשָׁה מְקוֹמוֹת
+*Translation:* 
+
+**8.**
+*Hebrew/Aramaic:* מַתְנִי׳ רָאוּהוּ אֶחָיו שֶׁיָּרַד, וְהֵם רָצִים וּבָאִים. מִהֲרוּ וְקִדְּשׁוּ יְדֵיהֶם וְרַגְלֵיהֶם מִן הַכִּיּוֹר, נָטְלוּ אֶת הַמַּגְרֵפוֹת וְאֶת הַצִּינּוֹרוֹת וְעָלוּ לְרֹאשׁ הַמִּזְבֵּחַ.
+*Translation:* MISHNA: The previous mishna described the performance of the removal of the ashes by the priest who was selected to perform this task. This mishna continues: **The brethren** of the priest who removed the ashes, i.e., the other members of the patrilineal family, **saw that he had descended** from the altar with the coal pan, **and they** would **run and come** to the Basin. **They made haste and sanctified their hands and their feet with** the water in **the Basin,** and then **they took the shovels and the forks and ascended** with them **to the top of the altar.** The shovels were for shoveling the ashes to the center of the altar, while the forks were required to remove from the altar those limbs that had not been consumed.
+
+**9.**
+*Hebrew/Aramaic:* הָאֵבָרִים וְהַפְּדָרִים שֶׁלֹּא נִתְעַכְּלוּ מִבָּעֶרֶב – סוֹלְקִין אוֹתָן עַל צִדֵּי הַמִּזְבֵּחַ, אִם אֵין צְדָדִים מַחְזִיקִין – סוֹדְרִים אוֹתָם בַּסּוֹבֵב עַל הַכֶּבֶשׁ.
+*Translation:* With regard to **the limbs** of burnt offerings **and the fats** of other offerings **that had not been consumed** and burned to ashes during the time **from the** previous **evening,** the priests would **clear them to the sides of the altar. If** the remaining limbs and fats were so abundant that the **sides** of the altar were **unable to hold** them, the priests would **arrange them on the ramp, opposite the surrounding ledge** of the altar.
+
+**10.**
+*Hebrew/Aramaic:* הֵחֵלּוּ מַעֲלִין בָּאֵפֶר עַל גַּב תַּפּוּחַ. תַּפּוּחַ הָיָה בְּאֶמְצַע הַמִּזְבֵּחַ, פְּעָמִים שֶׁהָיוּ עָלָיו כִּשְׁלֹשׁ מֵאוֹת כּוֹר. וּבָרְגָלִים לֹא הָיוּ מְדַשְּׁנִין אוֹתוֹ, מִפְּנֵי שֶׁהוּא נוֹי לַמִּזְבֵּחַ. וּמִיָּמָיו
+*Translation:* The priests then **began raising the ashes onto** the **circular heap** upon which the ashes were piled. The **circular heap was in the middle of the altar. Sometimes there was** as much **as three hundred *kor*** of ashes **upon it.** When the heap of ashes became excessively large, the priests would remove the ashes and pour them outside the city. **But during the Festivals they would not remove the ashes** from the altar, **as** the ashes **were** considered **an adornment to the altar,** since they were a sign of the great number of offerings that were sacrificed on it. **In all the days** of the altar, even when there was an abundance of ashes upon it,

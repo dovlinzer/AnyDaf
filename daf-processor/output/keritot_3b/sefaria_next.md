@@ -131,3 +131,132 @@
 **33.**
 *Hebrew/Aramaic:* מְחַיְּיכוּ עֲלַהּ בְּמַעְרְבָא: וְנוֹקְמַהּ כְּגוֹן חֵלֶב דְּשׁוֹר וְכֶשֶׂב וָעֵז, וְרַבִּי יִשְׁמָעֵאל הִיא, דְּאָמַר: לוֹקֶה שְׁלֹשׁ!
 *Translation:* The Gemara comments: **They laughed at this** suggestion **in the West,** i.e., Eretz Yisrael: **And let us interpret** this *baraita* as referring to a case **where** he ate the forbidden **fat of an ox, and** of **a sheep, and** of **a goat, and** explain that **it is** in accordance with the opinion of **Rabbi Yishmael, who says** that he **is flogged** with **three** sets of lashes for the different types of fat, if he did so intentionally and was forewarned.
+
+
+---
+
+### Keritot 4b
+
+**1.**
+*Hebrew/Aramaic:* אַלְמָא לָא אוֹקְמַהּ כְּרַבִּי יִשְׁמָעֵאל, דְּאָמַר רַבִּי חֲנִינָא: מוֹדֶה הָיָה רַבִּי יִשְׁמָעֵאל לְעִנְיַן קׇרְבָּן שֶׁאֵינוֹ חַיָּיב אֶלָּא חַטָּאת אַחַת, הַשְׁתָּא נָמֵי כְּרַבִּי יְהוּדָה לָא מִתּוֹקְמָא, דְּהָא אָמַר רַבִּי אֱלִיעֶזֶר: מוֹדֶה הָיָה רַבִּי יְהוּדָה לְעִנְיַן קׇרְבָּן שֶׁאֵין מֵבִיא אֶלָּא חַטָּאת אַחַת!
+*Translation:* **Why** does one **not interpret** the *baraita* **in accordance with** the opinion of **Rabbi Yishmael?** The reason is **as Rabbi Ḥanina says:** Although **Rabbi Yishmael** maintains that one who eats the fat of an ox, a sheep, and a goat is liable to receive a separate set of lashes for each one, he **would concede with regard to** bringing **an offering that** if he ate those types of forbidden fat in a single lapse of awareness **he is liable** to bring **only one sin offering. Now too,** the *baraita* **should not be interpreted in accordance with** the opinion of **Rabbi Yehuda, as doesn’t Rabbi Eliezer say: Rabbi Yehuda would concede with regard to** bringing **an offering that** if one ate forbidden fat of sacrificial animals he **brings only one sin offering?**
+
+**2.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רֵישׁ לָקִישׁ מִשּׁוּם בַּר תּאוּטֵנִי: הָכָא בְּמַאי עָסְקִינַן – כְּגוֹן שֶׁאֲכָלָן בִּשְׁנֵי תַמְחוּיִין, וְאַלִּיבָּא דְּרַבִּי יְהוֹשֻׁעַ, דְּאָמַר: תַּמְחוּיִין מְחַלְּקִים.
+*Translation:* **Rather, Reish Lakish said in the name of** the Sage **bar Ta’utni: What are we dealing with here,** where one is liable to bring two sin offerings for eating forbidden fat of two categories? We are dealing with a case **in which he ate** the forbidden fat **from two dishes,** i.e., where each part was prepared in a different manner, **and** this is **in accordance with** the opinion **of Rabbi Yehoshua, who says** that **dishes** serve to **separate** the acts of eating. One who eats forbidden food from two different dishes in the course of a single lapse of awareness is considered to have transgressed two prohibitions and is liable to bring a sin offering for each one.
+
+**3.**
+*Hebrew/Aramaic:* גּוּפָא: אָכַל חֵלֶב נְבֵילָה – לוֹקֶה שְׁתַּיִם, חֵלֶב מוּקְדָּשִׁין – לוֹקֶה שְׁתַּיִם, רַבִּי יְהוּדָה אוֹמֵר: חֵלֶב מוּקְדָּשִׁין – לוֹקֶה שָׁלֹשׁ.
+*Translation:* § The Gemara returns to discuss **the** matter **itself:** If one **ate** forbidden **fat of an animal carcass** he **is flogged** with **two** sets of lashes for transgressing the prohibitions of eating forbidden fat and consuming an animal carcass. If he **ate** forbidden **fat of sacrificial** animals, he **is flogged** with **two** sets of lashes, for both eating forbidden fat and transgressing the prohibition forbidding a non-priest to partake of sacrificial animals. **Rabbi Yehuda says:** If one **ate** forbidden **fat of sacrificial** animals, he **is flogged** with **three** sets of lashes.
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב שֵׁיזְבִי לְרָבָא: בִּשְׁלָמָא לְרַבִּי יְהוּדָה, הַיְינוּ דִּכְתִיבִי קְרָאֵי: ״חֻקַּת עוֹלָם״. ״כׇּל חֵלֶב שׁוֹר וְכֶשֶׂב וָעֵז לֹא תֹאכֵלוּ״, ״וְכׇל זָר לֹא יֹאכַל קֹדֶשׁ״ – הָא תְּלָתָא לָאוִין. אֶלָּא לְרַבָּנַן, מַאי טַעְמַיְיהוּ?
+*Translation:* **Rav Sheizevi said to Rava: Granted, according to** the opinion of **Rabbi Yehuda, this is** the meaning of the three **verses that are written: “It shall be a perpetual statute** throughout your generations in all your dwellings, that you shall eat neither fat nor blood” (Leviticus 3:17); **“You shall eat no fat, of ox, or sheep, or goat”** (Leviticus 7:23); **“And no non-priest shall partake of the sacred food”** (Leviticus 22:10), as **these** are **three prohibitions,** two for eating forbidden fat of sacrificial animals, as the two verses that mention fat are discussing sacrificial animals, and one for the prohibition forbidding a non-priest to partake of consecrated food. **But according to** the opinion of **the Rabbis, what is their reasoning?** Why is one liable to receive only two sets of lashes?
+
+**5.**
+*Hebrew/Aramaic:* קָסָבְרִי: לָאו דְּ״חֻקַּת עוֹלָם״ בְּקָדָשִׁים, וְלָאו דְּ״חֵלֶב שׁוֹר״ בְּחוּלִּין. וּצְרִיכִי,
+*Translation:* The Gemara answers: The Rabbis **maintain** that the **prohibition of: “It shall be a perpetual statute,”** was stated **with regard to sacrificial** animals, **but the prohibition of:** “You shall eat no **fat of ox,”** was stated **with regard to non-sacred** animals. Therefore, if one ate forbidden fat of sacrificial animals he is liable to receive only two sets of lashes. **And** both verses **are necessary,** as one could not have been derived from the other.
+
+**6.**
+*Hebrew/Aramaic:* דְּאִי כְּתַב רַחֲמָנָא בְּקָדָשִׁים, הֲוָה אָמֵינָא: קָדָשִׁים הוּא דַּחֲמִירִי, דְּאָסוּר חֶלְבּוֹ, אֲבָל חוּלִּין – אֵימָא לָא, מִשּׁוּם הָכִי כְּתַב רַחֲמָנָא: ״כׇּל חֵלֶב שׁוֹר״.
+*Translation:* **As, had the Merciful One written** the prohibition against eating forbidden fat only **with regard to sacrificial** animals **I would say: It is** only in the case of **sacrificial** animals, **whose** prohibitions are generally **stringent, that** their **fat is forbidden. But** with regard to **non-sacred** animals one might **say** their fat is **not** forbidden. It is **due to that** reason that **the Merciful One writes:** “You shall eat **no fat of ox.”**
+
+**7.**
+*Hebrew/Aramaic:* וְאִי כְּתַב: ״כׇּל חֵלֶב שׁוֹר״, הֲוָה אָמֵינָא: חֵלֶב דְחוּלִּין הוּא דְּאָסוּר מִשּׁוּם דְּלֹא הוּתַּר מִכְּלָלוֹ, אֲבָל חֵלֶב מוּקְדָּשִׁין דְּהוּתַּר מִכְּלָלוֹ, הֲוָה אָמֵינָא: מִדְּהוּתַּר בְּשָׂרָן אִישְׁתְּרִי נָמֵי חֶלְבָּן, צְרִיכִי.
+*Translation:* **And** by contrast, **had the Merciful One written** only: “You shall eat **no fat of ox,” I would say: It is** only the **fat** of **non-sacred** animals **that is forbidden, since** there are **no** circumstances in **which its general prohibition was permitted,** i.e., those fats of domesticated animals are always forbidden. **But** with regard to **sacrificial** animals, **whose general prohibition was permitted** in certain circumstances, i.e., with regard to the rest of its meat after the blood has been sprinkled, **I would say** that **from** the fact **that their meat was permitted, their fat was permitted as well.** Therefore, both verses **are necessary,** in order to teach that the prohibition against eating forbidden fat applies equally to sacrificial animals and non-sacred animals.
+
+**8.**
+*Hebrew/Aramaic:* וְרַבִּי יְהוּדָה סָבַר: כִּי כְּתִיב ״חֵלֶב שׁוֹר״, בָּעִנְיָינָא דְקָדָשִׁים כְּתִיב.
+*Translation:* **And Rabbi Yehuda maintains** that **when it is written:** “You shall eat no **fat of ox,” it is** also **written with regard to the matter of sacrificial** animals, as it is stated after the prohibition against eating forbidden fat: “For whoever eats the fat of the animal, of which men present an offering of fire to the Lord, even the soul that eats it shall be cut off from his people” (Leviticus 7:25), and this is derived by employing the hermeneutical principle: A matter is derived from its context.
+
+**9.**
+*Hebrew/Aramaic:* אֶלָּא מִכְּלָל דְּרַבָּנַן סָבְרִי: לָא יָלְפִינַן דָּבָר הַלָּמֵד מֵעִנְיָינוֹ?
+*Translation:* The Gemara raises a difficulty: **But** can one conclude from here **by inference that the Rabbis maintain we do not derive** *halakhot* by employing the hermeneutical principle of: **A matter** is **derived from its context?** This cannot be correct, as it is an accepted, basic principle of exegesis.
+
+**10.**
+*Hebrew/Aramaic:* לָא, דְּכוּלֵּי עָלְמָא דָּבָר הַלָּמֵד מֵעִנְיָינוֹ, וּבְהָא קָמִיפַּלְגִי, רַבִּי יְהוּדָה סָבַר: לְמֵידִין לָאו מִלָּאו וְלָאו מִכָּרֵת, וְרַבָּנַן סָבְרִי: לָאו מִלָּאו יָלְפִינַן, לָאו מִכָּרֵת לָא יָלְפִינַן.
+*Translation:* The Gemara answers: **No; everyone** agrees we do derive *halakhot* by employing the hermeneutical principle of: **A matter** is **derived from its context. And** it is **about this** issue **that they disagree: Rabbi Yehuda maintains** that **we derive** the *halakhot* of one **prohibition from** the *halakhot* of another **prohibition, and** we derive the *halakhot* of **a prohibition from** the punishment of ***karet*,** and therefore he derives that the prohibition: “You shall eat no fat of ox,” is also written with regard to sacrificial animals from the nearby verse concerning *karet*, which is referring to sacrificial animals. **And the Rabbis** maintain that generally **we derive** the *halakhot* of one **prohibition from** the *halakhot* of another **prohibition,** but **we do not derive** the *halakhot* of **a prohibition from** the punishment of ***karet*,** and one is liable to receive *karet* for eating forbidden fat of sacrificial animals.
+
+**11.**
+*Hebrew/Aramaic:* אֶלָּא לְרַבִּי יְהוּדָה, ״כׇּל חֵלֶב וְכׇל דָּם לֹא תֹאכֵלוּ״, לְמַאי אֲתָא? מִיבְּעֵי לֵיהּ לְהַקִּישׁ, דְּתַנְיָא: ״כׇּל חֵלֶב וְכׇל דָּם לֹא תֹאכֵלוּ״, מָה חֵלֶב לוֹקֶה שְׁתַּיִם – אַף דָּם לוֹקֶה שְׁתַּיִם, דִּבְרֵי רַבִּי יְהוּדָה. וַחֲכָמִים אוֹמְרִים: אֵין בּוֹ אֶלָּא אַזְהָרָה אֶחָת.
+*Translation:* The Gemara asks: **But** if so, then **according to Rabbi Yehuda, for what** purpose does the verse: “It shall be a perpetual statute throughout your generations in all your dwellings, that **you shall eat neither fat nor blood”** (Leviticus 3:17), **come?** After all, he has already derived the prohibition against eating the forbidden fat of sacrificial animals from the verse: “You shall eat no fat of ox.” The Gemara answers: **He requires it to juxtapose** the prohibition against consuming blood to the prohibition against eating forbidden fat. **As it is taught** in a *baraita*: **“You shall eat neither fat nor blood,”** which teaches that **just as** for eating forbidden **fat** one **is flogged** with **two** sets of lashes, **so too,** for eating **blood** one **is flogged** with **two** sets of lashes. This is **the statement of Rabbi Yehuda. And the Rabbis say: Only one prohibition applies to** blood.
+
+**12.**
+*Hebrew/Aramaic:* וּמַאי שְׁנָא חֵלֶב דְּלוֹקֶה שְׁתַּיִם בְּלָא הֶיקֵּישָׁא, דִּכְתַב בֵּיהּ תְּרֵי קְרָאֵי ״כׇּל חֵלֶב וְכׇל דָּם לֹא תֹאכֵלוּ״, ״כׇּל חֵלֶב שׁוֹר וְכֶשֶׂב״? דָּם נָמֵי בְּלָאו הֶיקֵּישָׁא נִילְקֵי שְׁתַּיִם, דִּכְתִיב בֵּיהּ תְּרֵי לָאוִין ״כׇּל חֵלֶב וְכׇל דָּם לֹא תֹאכֵלוּ״, ״וְכׇל דָּם לֹא תֹאכְלוּ בְּכֹל מוֹשְׁבֹתֵיכֶם לָעוֹף וְלַבְּהֵמָה״!
+*Translation:* The Gemara asks: Why is the juxtaposition necessary according to Rabbi Yehuda? **And what is different** about forbidden **fat that** the *baraita* states that one who eats it **is flogged** with **two** sets of lashes even **without** needing to derive the double punishment from **a juxtaposition?** The reason must be **that two verses are written with regard to it: “You shall eat neither fat nor blood,”** and: **“You shall eat no fat of ox or sheep.”** With regard to **blood as well,** even **without** deriving the *halakha* from **a juxtaposition,** one who consumes it **should be flogged** with **two** sets of lashes, **as two prohibitions are written with regard to it: “You shall eat neither fat nor blood,”** and the verse: **“And you shall eat no manner of blood, whether it is of fowl or of animal, in any of your dwellings”** (Leviticus 7:26).
+
+**13.**
+*Hebrew/Aramaic:* אֶלָּא אֵימָא: מָה חֵלֶב לוֹקֶה שָׁלֹשׁ, אַף דָּם לוֹקֶה שָׁלֹשׁ.
+*Translation:* **Rather, say** that the *baraita* states the following: The juxtaposition teaches that **just as** for eating forbidden **fat** one **is flogged** with **three** sets of lashes, two for eating forbidden fat of sacrificial animals and one for the prohibition of a non-priest partaking of sacrificial food, from the verse: “And no non-priest shall partake of the sacred food” (Leviticus 22:10), **so too,** for eating **blood** one **is flogged** with **three** sets of lashes.
+
+**14.**
+*Hebrew/Aramaic:* וּמַאי שְׁנָא חֵלֶב דְּלוֹקֶה שָׁלֹשׁ? דִּכְתִיב בֵּיהּ הָלֵין תְּרֵי לָאוִין וְלָאו דְּזָרוּת – הָא תְּלָתָא? דָּם נָמֵי!
+*Translation:* The Gemara again asks: **And what is different** about forbidden **fat that** it is obvious that one who eats it **is flogged** with **three** sets of lashes? The reason must be **that these two prohibitions are written with regard to it, and** there is also the **prohibition of a non-priest** partaking of consecrated food, as explained earlier, which totals **three.** The same can be said with regard to **blood as well:** The two verses stated above, together with the prohibition of a non-priest partaking of consecrated food, likewise render one liable to receive three sets of lashes. If so, the juxtaposition is unnecessary.
+
+**15.**
+*Hebrew/Aramaic:* אִיצְטְרִיךְ, סָלְקָא דַּעְתָּךְ אָמֵינָא: הוֹאִיל וְאִיתְמְעִיט דָּם מִטּוּמְאָה – לִיתְמְעִיט מִזָּרוּת, קָא מַשְׁמַע לַן הֶיקֵּישָׁא.
+*Translation:* The Gemara answers: The juxtaposition **was necessary,** as it might **enter your mind to say: Since blood is excluded from** the *halakha* of **ritual impurity,** as one who consumes the blood of sacrificial animals in a state of ritual impurity has not transgressed the prohibition against consuming sacrificial food while impure, **let it** also **be excluded from** the prohibition of consumption as **a non-priest.** To counter this, Rabbi Yehuda **teaches us** that it is derived from the **juxtaposition** that one receives three sets of lashes for consuming the blood of sacrificial animals, including for transgressing the prohibition of a non-priest.
+
+**16.**
+*Hebrew/Aramaic:* וְאֶלָּא לְרַבָּנַן, הֶקֵּישָׁא לְמַאי אֲתָא?
+*Translation:* The Gemara asks: **But according to the Rabbis,** who maintain that only one prohibition applies to the consumption of the blood of sacrificial animals and that one is not liable to receive lashes for partaking of it as a non-priest, **for what** purpose does this **juxtaposition come?**
+
+**17.**
+*Hebrew/Aramaic:* מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: ״כׇּל חֵלֶב וְכׇל דָּם לֹא תֹאכֵלוּ״, מָה חֵלֶב מְיוּחָד שֶׁחֶלְבּוֹ חָלוּק מִבְּשָׂרוֹ, וְאֵין מִצְטָרְפִין זֶה עִם זֶה – אַף דָּם, שֶׁדָּמוֹ חָלוּק מִבְּשָׂרוֹ.
+*Translation:* The Gemara answers that **they require it for that which is taught** in a *baraita*: The verse states: **“You shall eat neither fat nor blood,”** which teaches that **just as** forbidden **fat** is **unique** in **that** the **fat of** the animal **is discrete from its flesh,** i.e., the fat is forbidden and the flesh is permitted, **and** therefore **they do not combine with each other,** i.e., if one ate half an olive-bulk of forbidden fat and half an olive-bulk of permitted meat he is not liable for eating an olive-bulk of forbidden food, **so too,** the prohibition concerning **blood** does not combine with the flesh of non-kosher animals to constitute the volume of an olive-bulk in the case of an animal **whose blood is discrete from its flesh,** as the penalty of *karet* applies only to the animal’s blood, whereas its flesh is prohibited by a standard prohibition.
+
+**18.**
+*Hebrew/Aramaic:* אוֹצִיא דַּם שְׁרָצִים, הוֹאִיל דְּאֵין דָּמָן חָלוּק מִבְּשָׂרָן – מִצְטָרְפִין.
+*Translation:* The *baraita* continues: Accordingly, **I will exclude** from this *halakha* the **blood of** the carcasses of **creeping animals, since their blood is not discrete from their flesh,** i.e., no separate prohibition applies to the blood of creeping animals, and consequently their flesh and blood **combine** with each other to form the volume of an olive-bulk of a creeping animal.
+
+**19.**
+*Hebrew/Aramaic:* וְהָא מֵהָכָא נָפְקָא? מֵהָתָם נָפְקָא: ״וְזֶה לָכֶם הַטָּמֵא״ – לִימֵּד עַל דַּם הַשֶּׁרֶץ וְהַשֶּׁרֶץ שֶׁמִּצְטָרְפִין זֶה עִם זֶה!
+*Translation:* The Gemara asks: **But** is this *halakha* **derived from here,** i.e., from the derivation from the verse: “You shall eat neither fat nor blood”? **It is derived from there,** from a different verse, as it is taught in a *baraita*: The verse states: **“And these are they that are impure** for you among the creeping animals” (Leviticus 11:29). This **teaches with regard to** the **blood of** one of **the** eight **creeping animals** listed in the Torah **and** the flesh of **the creeping animal, that they combine with each other** to constitute the minimum volume.
+
+**20.**
+*Hebrew/Aramaic:* אִי לָאו הֶיקֵּישָׁא, סָלְקָא דַּעְתָּךְ אָמֵינָא: הָנֵי מִילֵּי לְטוּמְאָה, אֲבָל לַאֲכִילָה – אֵימָא לָא, אַשְׁמְעִינַן הֶיקֵּישָׁא לַאֲכִילָה.
+*Translation:* The Gemara answers: **If not** for the **juxtaposition,** it might **enter your mind to say this statement** applies **with regard to ritual impurity,** that the blood of one of the creeping animals listed in the Torah and its flesh combine with each other to constitute the lentil-bulk measure required to impart impurity. **But with regard to consumption,** one might **say** they do **not** combine with each other. Therefore, the **juxtaposition teaches us** that they combine even **with regard to consumption.**
+
+**21.**
+*Hebrew/Aramaic:* אָמַר רָבִינָא: הִילְכָּךְ, דַּם נָחָשׁ וּבְשָׂרוֹ מִצְטָרְפִין. מַאי קָא מַשְׁמַע לַן? הַיְינוּ הֶיקֵּישָׁא! סָלְקָא דַּעְתָּךְ אָמֵינָא: שֶׁרֶץ, דְּאִיתְרַבִּי לְטוּמְאָה – אִיתְרַבִּי לַאֲכִילָה. נָחָשׁ, דְּלָא אִיתְרַבִּי לְטוּמְאָה – לָא אִיתְרַבִּי לַאֲכִילָה, קָא מַשְׁמַע לַן הֶיקֵּישָׁא: כׇּל מִילֵּי דְּאֵין דָּמוֹ חָלוּק מִבְּשָׂרוֹ מַשְׁמַע.
+*Translation:* **Ravina said: Therefore,** the **blood of a snake and its flesh combine** with each other to constitute the volume of an olive-bulk. The Gemara asks: **What is** Ravina **teaching us? This is** exactly the derivation from the **juxtaposition.** The Gemara explains: It might **enter your mind to say** that with regard to **a creeping animal, whose** blood **is included with regard to ritual impurity,** it is also **included with regard to consumption;** whereas **a snake, whose** blood **is not included with regard to ritual impurity,** as it is not one of the eight creeping animals that are ritually impure (see Leviticus 11:29–30), is **not included with regard to consumption.** Therefore, the **juxtaposition teaches us** that **every item whose blood is not discrete from its flesh is included** in the derivation that its blood and flesh combine with each other.
+
+**22.**
+*Hebrew/Aramaic:* אָמַר רָבָא: שָׁלֹשׁ כָּרֵיתוֹת הָאֲמוּרוֹת בַּדָּם. לְמַאי? אַחַת לְדַם חוּלִּין, וְאַחַת לְדַם קָדָשִׁים, וְאַחַת לְדַם הַתַּמְצִית.
+*Translation:* § **Rava says:** Concerning the **three** mentions of ***karet* that are stated with regard to blood** (Leviticus 7:27, 17:10, 17:14), **about what** types of blood do they teach? **One** is **for** the **blood of non-sacred** animals, **one** is **for** the **blood of sacrificial** animals, **and one** is **for** the **blood of exudate,** i.e., which exudes from the neck of the animal after the initial spurt of its slaughter.
+
+**23.**
+*Hebrew/Aramaic:* הָנִיחָא לְרַבִּי יְהוּדָה, דְּתַנְיָא: דַּם הַתַּמְצִית בְּאַזְהָרָה, רַבִּי יְהוּדָה אוֹמֵר: בְּכָרֵת.
+*Translation:* The Gemara comments: **This works out well according to** the opinion of **Rabbi Yehuda, as it is taught** in a *baraita*: There is **a prohibition** stated **with regard to** the **blood of exudate,** but one is not punished with *karet* for consuming it. This is not as severe as consuming regular blood, for which one is liable to receive *karet*. **Rabbi Yehuda says:** One is liable **to** receive ***karet*** for the blood of exudate, as this blood is regarded as full-fledged blood.
+
+**24.**
+*Hebrew/Aramaic:* אֶלָּא לְרַבָּנַן, הַהִיא לְמַאי אֲתָא? וַאֲפִילּוּ לְרַבִּי יְהוּדָה, כָּרֵת נָפְקָא לֵיהּ מִן ״כׇּל דָּם״!
+*Translation:* The Gemara continues: **But according to** the opinion of **the Rabbis,** who say there is no punishment of *karet* for consuming blood of exudate, **for what** purpose does **that** third mention of *karet* concerning blood come? The Gemara adds: **And even according to** the opinion of **Rabbi Yehuda, he derives** the ***karet*** that one receives for this blood **from** a different source, from the superfluous phrase: “Who eats **any manner of blood”** (Leviticus 17:10).
+
+**25.**
+*Hebrew/Aramaic:* דְּתַנְיָא: רַבִּי יְהוּדָה אוֹמֵר: ״דָּם״, מָה תַּלְמוּד לוֹמַר ״כׇּל דָּם״?
+*Translation:* **As it is taught** in a *baraita* concerning the verse: “And whatever man there be of the house of Israel, or of the strangers that sojourn among them, that eats any manner of blood, I will set My face against that soul that eats blood, and will cut him off from among his people” (Leviticus 17:10), that **Rabbi Yehuda says:** The verse could have stated in the first part of the verse: That eats **blood. What** is the meaning when **the verse states** there: “That eats **any manner of blood”?**
+
+**26.**
+*Hebrew/Aramaic:* אֵין לִי אֶלָּא דַּם קָדָשִׁים שֶׁהַנֶּפֶשׁ יוֹצֵא בּוֹ, דַּם חוּלִּין וְדַם הַתַּמְצִית, מִנַּיִן? תַּלְמוּד לוֹמַר: ״כׇּל דָּם״!
+*Translation:* **I have** derived **only** the punishment of *karet* concerning the **blood of sacrificial** animals with regard to which **the soul** of the animal **leaves** the body when it emerges, as atonement is achieved through this blood, and the next verse states: “For the life of the flesh is in the blood, and I have given it to you upon the altar to make atonement for your souls” (Leviticus 17:11). Rabbi Yehuda continues: **From where** do I derive that the same punishment of *karet* applies to the **blood of a non-sacred** animal **and the blood of exudate? The verse states: “Any manner of blood.”** Rava’s statement, that the punishment of *karet* for consuming blood of exudate is derived from a different verse, does not accord with the opinion of Rabbi Yehuda either.
+
+**27.**
+*Hebrew/Aramaic:* אֶלָּא אֵימָא: אֶחָד לְדַם חוּלִּין, וְאֶחָד לְדַם קָדָשִׁים, וְאֶחָד לְדַם כִּיסּוּי.
+*Translation:* **Rather, say** that this is what Rava means: **One** mention of *karet* is **for** the **blood of non-sacred** animals, **and one** is **for** the **blood of sacrificial** animals, **and one is for** the **blood of covering,** i.e., the blood of an undomesticated animal or a bird, with regard to which there is a mitzva to cover their blood (see Leviticus 17:13).
+
+**28.**
+*Hebrew/Aramaic:* וְאָמַר רָבָא: חֲמִשָּׁה לָאוִין הָאֲמוּרִין בְּדָם לָמָּה? אַחַת לְדַם חוּלִּין, וְאַחַת לְדַם קָדָשִׁים, וְאַחַת לְדַם כִּיסּוּי, וְאַחַת לְדַם אֵיבָרִין, וְאַחַת לְדַם הַתַּמְצִית.
+*Translation:* **And Rava** further **says: Why** are there **five prohibitions stated with regard to blood** (Leviticus 3:17, 7:26, 17:14; Deuteronomy 12:16–23)? **One** is **for** the **blood of non-sacred** animals, **and one** is **for** the **blood of sacrificial** animals, **and one** is **for** the **blood of covering, and one** is **for** the **blood** left **in the limbs** of the animal, **and one is for the blood of exudate.**
+
+**29.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אִילָא: אָכַל מַעֲשֵׂר דָּגָן וְתִירוֹשׁ וְיִצְהָר – לוֹקֶה שָׁלֹשׁ. וְהָא אֵין לוֹקִין עַל לָאו שֶׁבִּכְלָלוֹת! שָׁאנֵי הָכָא, דִּמְיַיתְּרִי קְרָאֵי –
+*Translation:* § **Rabbi Illa says:** If one **ate** outside Jerusalem the second **tithe of grain, wine, and oil,** he **is flogged** with **three** sets of lashes (see Deuteronomy 12:17). The Gemara raises a difficulty: **But one is not flogged for** transgressing **a general prohibition.** The prohibition concerning consuming second tithe outside Jerusalem is a general one, as it includes all of these categories. The Gemara explains: **It is different here, as the verses are superfluous.**
+
+**30.**
+*Hebrew/Aramaic:* מִכְּדִי כְּתַב רַחֲמָנָא: ״וְאָכַלְתָּ לִפְנֵי ה׳ אֱלֹהֶיךָ מַעְשַׂר דְּגָנְךָ תִּירֹשְׁךָ וְיִצְהָרֶךָ״, בִּפְנִים – אִין, בַּחוּץ – לָא, לְמָה לִי דִּכְתַב רַחֲמָנָא: ״לֹא תוּכַל לֶאֱכֹל בִּשְׁעָרֶיךָ מַעְשַׂר דְּגָנְךָ וְתִירֹשְׁךָ וְיִצְהָרֶךָ״? לְחַלֵּק.
+*Translation:* The Gemara elaborates: **Since the Merciful One writes: “And you shall eat before the Lord your God,** in the place where He shall choose to cause His name to dwell there, **the tithe of your grain, of your wine, and of your oil”** (Deuteronomy 14:23), from which it is derived that **inside** the chosen place, Jerusalem, **yes,** one may eat second tithe, but **outside** Jerusalem, **no,** one may not eat second tithe; **why do I** need **the Merciful One to write: “You may not eat within your gates the tithe of your grain, or of your wine, or of your oil”** (Deuteronomy 12:17)? This verse serves **to separate** the prohibitions concerning tithes, to teach that one is separately liable to receive lashes for consuming each type of produce.
+
+**31.**
+*Hebrew/Aramaic:* אִי מֵהָהוּא, הֲוָה אָמֵינָא: הָנֵי מִילֵּי בַּעֲשֵׂה, אֲבָל בְּלָאו אֵימָא לָא, אַמְּטוּ לְהָכִי
+*Translation:* The Gemara refutes this proof: **If** the *halakha* were derived only **from that** verse, i.e., “And you shall eat before the Lord your God,” **I would say this statement** applies only **to** the extent that there is a prohibition derived by inference from **a positive mitzva,** for which one does not receive lashes, as it has the status of a positive mitzva. **But** one might **say that** one does **not** transgress **a prohibition.** It is **due to this**

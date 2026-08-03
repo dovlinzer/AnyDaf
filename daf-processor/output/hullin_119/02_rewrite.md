@@ -142,7 +142,7 @@ The Gemara brings a *beraita* as a possible proof. Rabbi Elazar ben Azarya decla
 
 The Gemara notes that this is a significant step: combining two separate *shomrim* that each protect their own food may differ from combining two half-*shomrim* that protect portions of a single piece of food. Nevertheless, Rashi treats the *beraita* as bearing on Rabbi Oshaya's question. Tosafot reads it differently, but that reading is not developed at length here.
 
-### Multiple Foods OK → Grain Row Union
+### Grain Row Union
 
 Before resolving the question, the Gemara pursues the *beraita* about *kitnit* further and offers a different solution: *be-kulcha u-mishum yad* — we are not talking about the shells as *shomrim* at all; we are talking about the stalk connecting all the pods, which is functioning as a *yad* (as discussed above in the minimum size section). Rabbi Oshaya's unresolved question about combined *shomrim* therefore cannot be resolved from that source.
 

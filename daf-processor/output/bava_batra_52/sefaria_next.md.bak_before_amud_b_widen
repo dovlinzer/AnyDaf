@@ -1,0 +1,33 @@
+### Bava Batra 53a
+
+**1.**
+*Hebrew/Aramaic:* שֶׁלֹּא בְּפָנָיו – צָרִיךְ לְמֵימַר לֵיהּ: ״לֵךְ חֲזֵק וּקְנִי״.
+*Translation:* But if the act was performed **not in** the seller’s **presence,** the seller **must say to him: Go, take possession and** thereby **acquire** the property for him to acquire it.
+
+**2.**
+*Hebrew/Aramaic:* בָּעֵי רַב: מַתָּנָה – הֵיאַךְ? אָמַר שְׁמוּאֵל: מַאי תִּבְעֵי לֵיהּ לְאַבָּא? הַשְׁתָּא וּמָה מֶכֶר, דְּקָא יָהֵיב לֵיהּ זוּזֵי, אִי אֲמַר לֵיהּ: ״לֵךְ חֲזֵק וּקְנִי״ – אִין, אִי לָא – לָא; מַתָּנָה, לֹא כׇּל שֶׁכֵּן?! וְרַב סָבַר: מַאן דְּיָהֵיב מַתָּנָה, בְּעַיִן יָפָה יָהֵיב.
+*Translation:* **Rav raises a dilemma: How** does one acquire **a gift,** i.e., is it necessary for the giver to say: Go, take possession and thereby acquire? **Shmuel said: What dilemma is raised to Abba,** i.e., Rav? **Now** one could say the following: **And what** is the *halakha* with regard to **a sale, where** the buyer **is giving money** to the seller? **If** the seller **says to** the buyer: **Go, take possession and** thereby **acquire** the property, the acquisition **does** take effect, but **if** he did **not** say this, it does **not.** Therefore, with regard to **a gift,** where no money is given to the seller, is it **not all the more so** reasonable that the acquisition not take effect without a clear directive from the seller? The Gemara answers: **And Rav holds** that it is possible to say that **one who gives a gift gives** it **generously,** and would allow the acquisition even absent a clear directive.
+
+**3.**
+*Hebrew/Aramaic:* וְכַמָּה כׇּל שֶׁהוּא? כְּדִשְׁמוּאֵל – דְּאָמַר שְׁמוּאֵל: גָּדַר גָּדֵר וְהִשְׁלִימוֹ לַעֲשָׂרָה, וּפָרַץ פִּרְצָה כְּדֵי שֶׁיִּכָּנֵס וְיֵצֵא בָּהּ – הֲרֵי זוֹ חֲזָקָה.
+*Translation:* § The mishna teaches that taking possession can be performed by building a fence or breaching a fence even a bit. The Gemara clarifies: **And how much** is the measure of **a bit?** It is **in accordance with** the statement **of Shmuel, as Shmuel says:** If one had previously **built a fence, and** now **completed it to** a height of **ten** handbreadths, which is the height of a halakhically significant barrier; **or** similarly, if one had previously **breached a breach,** and now expanded it **in order** that it be large enough **that** a person can **enter and exit through it, this is** considered **taking possession.**
+
+**4.**
+*Hebrew/Aramaic:* הַאי גָּדֵר הֵיכִי דָמֵי? אִילֵּימָא דְּמֵעִיקָּרָא לָא הֲווֹ סָלְקִי לַהּ, וְהַשְׁתָּא נָמֵי לָא סָלְקִי לַהּ – מַאי עֲבַד? וְאֶלָּא דְּמֵעִיקָּרָא הֲווֹ סָלְקִי לַהּ, וְהַשְׁתָּא לָא סָלְקִי לַהּ – טוּבָא עֲבַד! לָא צְרִיכָא, דְּמֵעִיקָּרָא הֲווֹ סָלְקִי לַהּ בְּרַוְוחָא, וְהַשְׁתָּא קָא סָלְקִי לַהּ בְּדוּחְקָא.
+*Translation:* The Gemara asks: **What are the circumstances** of **this fence? If we say that initially** one could **not climb over it** to enter the field, **and now too** one still could **not climb over it, what did he accomplish?** Nothing has changed through his completing the height of the fence. **And alternatively,** if it was such **that initially** one **could climb over it** to enter the field, **and now** one could **not climb over it,** he has **accomplished a great deal,** and the mishna should not have referred to this addition as: A bit. The Gemara answers: **No,** it is **necessary to** state this ruling if the height of the fence was such **that initially** one **could climb over it with ease, and now** one **could climb over it** only **with effort.**
+
+**5.**
+*Hebrew/Aramaic:* הַאי פִּרְצָה – הֵיכִי דָמֵי? אִילֵּימָא דְּמֵעִיקָּרָא הֲווֹ עָיְילִי בַּהּ, וְהַשְׁתָּא נָמֵי עָיְילִי בַּהּ – מַאי עֲבַד? וְאֶלָּא דְּמֵעִיקָּרָא לָא הֲווֹ עָיְילִי בַּהּ, וְהַשְׁתָּא קָא עָיְילִי בַּהּ – טוּבָא עֲבַד! לָא צְרִיכָא, דְּמֵעִיקָּרָא הֲווֹ עָיְילִי בַּהּ בְּדוּחְקָא, וְהַשְׁתָּא עָיְילִי בַּהּ בְּרַוְוחָא.
+*Translation:* The Gemara similarly asks: **What are the circumstances** of **this breach? If we say that initially,** one **could enter** the field **through it, and now too** one **could enter** the field **through it, what did** he **accomplish?** Nothing has changed through his expanding the breach? **And alternatively,** if it was such **that initially** one **could not enter** the field **through it, and now** one **could enter** the field **through it,** he has **accomplished a great deal,** and the mishna should not have referred to this as: A bit. The Gemara answers: **No,** it is **necessary** to state this ruling if the size of the breach was such **that initially** one **could enter** the field **through it with effort, and now** one **could enter** the field **through it with ease.**
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַב אַסִּי אָמַר רַבִּי יוֹחָנָן: נָתָן צְרוֹר וְהוֹעִיל, נָטַל צְרוֹר וְהוֹעִיל – הֲרֵי זוֹ חֲזָקָה. מַאי ״נָתַן״ וּמַאי ״נָטַל״?
+*Translation:* **Rav Asi says** that **Rabbi Yoḥanan says:** If one **placed a stone and** it **helps** to serve some objective, or if one **removed a stone and** it **helps** to serve some objective, **this** act **is** considered **taking possession.** The Gemara asks: **What** is the meaning of **placed, and what** is the meaning of **removed?**
+
+**7.**
+*Hebrew/Aramaic:* אִילֵּימָא נָתַן צְרוֹר – וּסְכַר מַיָּא מִינַּהּ, נָטַל צְרוֹר – וְאַפֵּיק מַיָּא מִינַּהּ; הַאי מַבְרִיחַ אֲרִי מִנִּכְסֵי חֲבֵרוֹ הוּא! אֶלָּא נָתַן צְרוֹר – דְּצַמֵּד לַהּ מַיָּא, נָטַל צְרוֹר – וְאַרְוַח לַהּ מַיָּא.
+*Translation:* **If we say** that he **placed a stone** in the fence **and stopped the water from** flooding the field, or he **removed a stone** from the fence **and** thereby fashioned an opening that **released water** that had been flooding the field, **this** is analogous to one who **chases away a lion from another’s property.** In other words, these acts prevent damage to the field, which one is obligated to prevent even in the case of the property of another, and accordingly, they do not constitute a demonstration of ownership. **Rather,** it means that he **placed a stone that connected water to** the field and irrigated it, or he **removed a stone and enhanced** the flow of **water to it.**
+
+**8.**
+*Hebrew/Aramaic:* וְאָמַר רַב אַסִּי אָמַר רַבִּי יוֹחָנָן: שְׁתֵּי שָׂדוֹת וּמֶצֶר אֶחָד בֵּינֵיהֶן, הֶחְזִיק בְּאַחַת מֵהֶן לִקְנוֹתָהּ – קְנָאָהּ.
+*Translation:* § The Gemara cites another statement of the same *amora* with regard to taking possession. **And Rav Asi says** that **Rabbi Yoḥanan says:** If there were **two fields with one boundary between them,** and one **took possession of one of** the fields in order **to acquire it,** he has **acquired it.**

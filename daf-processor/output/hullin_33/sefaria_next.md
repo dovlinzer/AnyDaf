@@ -2,7 +2,7 @@
 
 **1.**
 *Hebrew/Aramaic:* בְּחוּלִּין שֶׁנַּעֲשׂוּ עַל טׇהֳרַת תְּרוּמָה, וְרַבִּי יְהוֹשֻׁעַ? לָא סָלְקָא דַּעְתָּךְ, דְּקָתָנֵי ״בָּשָׂר״, דְּאִי בִּתְרוּמָה – בָּשָׂר מִי אִיכָּא?
-*Translation:* **with regard to** the case of **non-sacred** food items **that were prepared on the** level of **purity of *teruma* and** in accordance with the opinion of **Rabbi Yehoshua.** The Gemara responds: **It** should **not enter your mind** that the mishna is referring to a case of the level of purity of *teruma*, **as** the mishna **teaches** a case of the slaughter of animals and birds and consumption of their **meat.** And **if** the mishna is taught **with regard to** non-sacred food items that were prepared on the level of purity of ***teruma*, is there meat** eaten with the level of purity of *teruma*? The practice of preparing non-sacred food items on the level of purity of *teruma* is done only so that one will not treat actual *teruma* in the correct manner, and *teruma* is separated only from produce that grows in the ground.
+*Translation:* **with regard to** the case of **non-sacred** food items **that were prepared on the** level of **purity of *teruma* and** in accordance with the opinion of **Rabbi Yehoshua.** The Gemara responds: **It** should **not enter your mind** that the mishna is referring to a case of the level of purity of *teruma*, **as** the mishna **teaches** a case of the slaughter of animals and birds and consumption of their **meat.** And **if** the mishna is taught **with regard to** non-sacred food items that were prepared on the level of purity of ***teruma*, is there meat** eaten with the level of purity of *teruma*? The practice of preparing non-sacred food items on the level of purity of *teruma* is done only so that one will treat actual *teruma* in the correct manner, and *teruma* is separated only from produce that grows in the ground.
 
 **2.**
 *Hebrew/Aramaic:* אֶלָּא מַאי, בְּקָדָשִׁים? חַיָּה בְּקָדָשִׁים מִי אִיכָּא? בָּשָׂר בְּבָשָׂר מִיחַלַּף, בָּשָׂר בְּפֵירֵי לָא מִיחַלַּף.
@@ -47,3 +47,48 @@
 **12.**
 *Hebrew/Aramaic:* אָמַר לוֹ: אַף אֲנִי לֹא אָמַרְתִּי אֶלָּא בִּתְרוּמָה, שֶׁטׇּהֳרָתָהּ
 *Translation:* Rabbi Yehoshua **said to** Rabbi Eliezer: **I too stated** that one who eats food with third-degree impurity assumes second-degree impurity vis-à-vis sacrificial food **only with regard to** one who eats non-sacred food items that were prepared on the level of purity of ***teruma*, as its** state of **purity**
+
+
+---
+
+### Hullin 34b
+
+**1.**
+*Hebrew/Aramaic:* טוּמְאָה הִיא אֵצֶל הֶקְדֵּשׁ.
+*Translation:* **is impurity vis-à-vis sacrificial** food. The Sages issued a decree that even one who is vigilant to partake of his *teruma* in a state of ritual purity is considered impure vis-à-vis one partaking of sacrificial food. Therefore, one who ate a food item that was prepared on the level of purity of *teruma* that had become impure with third-degree impurity assumes second-degree impurity, and he renders sacrificial food impure.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַבִּי זֵירָא אָמַר רַבִּי אַסִּי אָמַר רַבִּי יוֹחָנָן אָמַר רַבִּי יַנַּאי: הָאוֹכֵל שְׁלִישִׁי שֶׁל חוּלִּין שֶׁנַּעֲשׂוּ עַל טׇהֳרַת הַקֹּדֶשׁ – נַעֲשָׂה גּוּפוֹ שֵׁנִי לַקֹּדֶשׁ.
+*Translation:* **Rabbi Zeira says** that **Rabbi Asi says** that **Rabbi Yoḥanan says** that **Rabbi Yannai says:** With regard to **one who eats non-sacred** food items **that were prepared on the** level of **purity of sacrificial** food, and these items had become impure with **third-degree** impurity, **his body becomes** impure with **second-degree** impurity **vis-à-vis sacrificial** food. He renders sacrificial food with which he comes into contact impure with third-degree impurity, and that food in turn disqualifies sacrificial food with which it comes into contact.
+
+**3.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רַבִּי זֵירָא לְרַבִּי אַסִּי: שְׁלִישִׁי שֵׁנִי לַקֹּדֶשׁ, וְאֵין שֵׁנִי לַתְּרוּמָה, בְּחוּלִּין שֶׁנַּעֲשׂוּ עַל טׇהֳרַת תְּרוּמָה. עַל טׇהֳרַת תְּרוּמָה – אִין, עַל טׇהֳרַת הַקֹּדֶשׁ – לָא!
+*Translation:* **Rabbi Zeira raised an objection to** the statement of **Rabbi Asi** from the statement of Rabbi Yehoshua: One who eats food with **third-degree** impurity assumes **second-degree** impurity **vis-à-vis sacrificial** food **but** does **not** assume **second-degree** impurity **vis-à-vis *teruma*.** This is stated **in** the case of **non-sacred** food items **that were prepared on the** level of **purity of *teruma*.** The Gemara infers: **Yes,** one is able to prepare items **on the** level of **purity of *teruma*,** but one is **not** able to prepare items **on the** level of **purity of sacrificial** food, as in the latter case the non-sacred food does not become impure at all.
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: לָא מִיבַּעְיָא קָאָמַר.
+*Translation:* Rabbi Asi **said to** Rabbi Zeira: That inference is incorrect, as Rabbi Yehoshua **is speaking** utilizing the style of: **It is not necessary.** It is not necessary to say that in the case of non-sacred food items that were prepared on the level of purity of sacrificial food, which is stringent, they have the capacity of assuming third-degree impurity. Rabbi Yehoshua teaches that non-sacred food items that were prepared on the level of purity of *teruma* also have the capacity of assuming third-degree impurity.
+
+**5.**
+*Hebrew/Aramaic:* וְהָא ״אַף אֲנִי לֹא אָמַרְתִּי אֶלָּא בִּתְרוּמָה״ קָאָמַר, אָמוֹרָאֵי נִינְהוּ, וְאַלִּיבָּא דְּרַבִּי יוֹחָנָן.
+*Translation:* The Gemara objects: **But didn’t** Rabbi Yehoshua **say** to Rabbi Eliezer according to the explanation that Rabba bar bar Ḥana said that Rabbi Yoḥanan said: **I too stated** this **only with regard to** non-sacred food items that were prepared on the level of purity of ***teruma*,** indicating that he was not referring to non-sacred food items that were prepared on the level of purity of sacrificial food. The Gemara explains: Rabba bar bar Ḥana and Rabbi Asi **are *amora’im*, and** disagree **with regard to** the opinion **of Rabbi Yoḥanan,** and they disagree about whether the statement of Rabbi Yehoshua was stated specifically with regard to non-sacred food items that were prepared on the level of purity of *teruma*, or whether it includes even those prepared on the level of purity of sacrificial food.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר עוּלָּא: הָאוֹכֵל שְׁלִישִׁי שֶׁל חוּלִּין שֶׁנַּעֲשׂוּ עַל טׇהֳרַת תְּרוּמָה – נִפְסַל גּוּפוֹ מִלֶּאֱכוֹל בִּתְרוּמָה.
+*Translation:* § **Ulla says: One who eats non-sacred** food items **that were prepared on the** level of **purity of *teruma*** and that are impure with **third-degree** impurity, **his body is disqualified from** the right **to partake of *teruma*.**
+
+**7.**
+*Hebrew/Aramaic:* מַאי קָא מַשְׁמַע לַן? תְּנֵינָא: שְׁלִישִׁי שֵׁנִי לַקֹּדֶשׁ, וְאֵין שֵׁנִי לַתְּרוּמָה, בְּחוּלִּין שֶׁנַּעֲשׂוּ עַל טׇהֳרַת תְּרוּמָה. שֵׁנִי הוּא דְּלָא הָוֵי, הָא שְׁלִישִׁי הָוֵי.
+*Translation:* The Gemara asks: **What is** Ulla **teaching us? We** already **learn** in the mishna cited earlier (33b) from tractate *Teharot*: One who eats food with **third-degree** impurity assumes **second-degree** impurity **vis-à-vis sacrificial** food, **but** does **not** assume **second-degree** impurity **vis-à-vis *teruma*.** This is stated **in** the case of **non-sacred** food items **that were prepared on the** level of **purity of *teruma*.** The Gemara infers: It is **second-degree** impurity **that he does not assume, but third-degree** impurity **he assumes,** and he is therefore disqualified from partaking of *teruma*.
+
+**8.**
+*Hebrew/Aramaic:* אִי מֵהַהִיא, הֲוָה אָמֵינָא: לָא שֵׁנִי הָוֵי וְלָא שְׁלִישִׁי הָוֵי, וְאַיְּידֵי דְּאָמַר ״שֵׁנִי בַּקֹּדֶשׁ״ – אָמַר נָמֵי ״אֵין שֵׁנִי בִּתְרוּמָה״, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara answers: It was necessary for Ulla to teach this *halakha*, **as if** it was learned **from that** mishna, **I would say** that vis-à-vis *teruma* **he assumes neither second-degree nor third-degree** impurity, as there is no reason to deem the status of one who eats like that of the food that he ate. **And** perhaps it was only **since** Rabbi Yehoshua **said** that he assumes **second-degree** impurity **vis-à-vis sacrificial** food that he **also said** that he does **not** assume **second-degree** impurity **vis-à-vis *teruma*.** Therefore, Ulla **teaches us** that he assumes third-degree impurity and is disqualified from partaking of *teruma*.
+
+**9.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רַב הַמְנוּנָא לְעוּלָּא: הָרִאשׁוֹן שֶׁבַּחוּלִּין טָמֵא וּמְטַמֵּא, וְהַשֵּׁנִי פּוֹסֵל וְאֵינוֹ מְטַמֵּא, וְהַשְּׁלִישִׁי נֶאֱכָל בִּנְזִיד הַדֶּמַע.
+*Translation:* **Rav Hamnuna raised an objection to** the statement of **Ulla** from a mishna (*Teharot* 2:3): **Non-sacred** food that is impure with **first-degree** impurity is **impure and renders** *teruma* **impure** in the sense that this *teruma* disqualifies other *teruma* with which it comes into contact. Non-sacred food that is impure with **second-degree** impurity **disqualifies** *teruma*, **but** it does **not** render *teruma* **impure,** meaning that it renders the *teruma* itself impure, but not to the extent that the *teruma* can render other *teruma* impure. **And** food that is impure with **third-degree** impurity may be **eaten** by a priest **in a stew** that is **a mixture** containing spices of *teruma*.
+
+**10.**
+*Hebrew/Aramaic:* וְאִי אָמְרַתְּ נִפְסַל גּוּפוֹ מִלֶּאֱכוֹל בִּתְרוּמָה, סָפֵינַן לֵיהּ מִידֵּי דְּפָסֵיל לֵיהּ לְגוּפֵיהּ? אֲמַר לֵיהּ: הַנַּח לִנְזִיד הַדֶּמַע,
+*Translation:* **And if you say** that by partaking of food that is impure with third-degree impurity **his body is disqualified from** the right **to partake of *teruma*,** do **we feed him a matter that invalidates his body** from the right to partake of *teruma*? According to this, when eating the stew that contains food that is impure with third-degree impurity, he is disqualified from partaking of the spices of *teruma* that the mishna permits him to add to the stew. Ulla **said to him: Leave** the matter of **stew** that is **a mixture** containing spices of *teruma*,

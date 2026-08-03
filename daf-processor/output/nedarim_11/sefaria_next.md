@@ -31,3 +31,44 @@
 **8.**
 *Hebrew/Aramaic:* אָמַר רָבִינָא, תָּא שְׁמַע: ״כְּחַלַּת אַהֲרֹן״, ״וְכִתְרוּמָתוֹ״ — מוּתָּר. הָא ״כִּתְרוּמַת לַחְמֵי תוֹדָה״ — אָסוּר.
 *Translation:* The Gemara cites another attempted proof. **Ravina said: Come** and **hear** that which was taught in the mishna (13b): If one declares an item to be **like the *ḥalla* of Aaron,** i.e., the portion of dough given to the priests, **or like his *teruma*,** the portion of agricultural produce given to priests, the item remains **permitted.** Although these items are prohibited to non-priests as soon as they are designated, they are considered forbidden by the Torah rather than forbidden by a vow. The Gemara infers: **But** if one declares an item to be **like the *teruma* of the loaves of the thanks-offering,** i.e., the four loaves of the thanks-offering that were eaten by the priests, the item is **forbidden.**
+
+
+---
+
+### Nedarim 12b
+
+**1.**
+*Hebrew/Aramaic:* וְהָא תְּרוּמַת לַחְמֵי תוֹדָה — לְאַחַר זְרִיקַת דָּמִים הִיא.
+*Translation:* Having made this inference, Ravina comments: **But the *teruma* of the loaves of the thanks-offering is** designated only **after the sprinkling of the blood.** Consequently, the individual must have made his vow after the sprinkling of the blood, when these loaves are permitted to priests. If the vow nevertheless takes effect, it must be because the individual is referring to the original forbidden status of the loaves before the sprinkling of the blood. This indicates that one has in mind the original status of the item rather than its current status.
+
+**2.**
+*Hebrew/Aramaic:* אֵימָא: ״כִּתְרוּמַת הַלִּשְׁכָּה״ — אָסוּר.
+*Translation:* The Gemara refutes this: **Say** that when the mishna specifies that if one said the food should be like the *teruma* of Aaron it remains permitted it thereby indicates that if he said it should be **like the collection of the** Temple treasury **chamber,** which is also called a *teruma* and is always forbidden, the food becomes **forbidden.** However, one cannot infer from the mishna that if one declares the food to be like the *teruma* of the loaves of the thanks-offering the food becomes forbidden.
+
+**3.**
+*Hebrew/Aramaic:* אֲבָל תְּרוּמַת לַחְמֵי תוֹדָה מַאי — מוּתָּר? לִיתְנֵי לַחְמֵי תוֹדָה, וְכׇל שֶׁכֵּן תְּרוּמָתוֹ! הָא קָא מַשְׁמַע לַן תְּרוּמַת לַחְמֵי תוֹדָה — תְּרוּמָתוֹ הִיא.
+*Translation:* The Gemara asks: **But** according to this, if one said the food should be like **the *teruma* of the loaves of the thanks-offering, what,** does the food remain **permitted?** If so, **let it teach** in the mishna that if one said the food should be like the *teruma* of **the loaves of the thanks-offering** it remains permitted even though the thanks-offering is forbidden by means of a vow, **and** one would know on his own that if he says the food should be like the ***teruma* of** Aaron, **all the more so** the food remains permitted. The Gemara responds: It **teaches us this: *Teruma* of the loaves of the thanks-offering** is also referred to as **his *teruma*** and is therefore included in the mishna.
+
+**4.**
+*Hebrew/Aramaic:* וְאִי בָּעֵית אֵימָא: תְּרוּמַת לַחְמֵי תוֹדָה נָמֵי קוֹדֶם זְרִיקַת דָּמִים הוּא. כְּגוֹן דְּאַפְרְשִׁינְהוּ בְּלֵישָׁה.
+*Translation:* The Gemara offers an alternative response to Ravina’s attempted proof from the case of the *teruma* of the loaves of the thanks-offering, that one has in mind the original status of an item when one expresses a vow. **And if you wish, say** that the ***teruma* of the loaves of the thanks-offering** can **also** be designated **before the sprinkling of the blood, for example, when he separated** the *teruma* **during the kneading** of the dough. Consequently, the case may be where one makes the vow before the sprinkling of the blood, when the loaves are forbidden to all, and that is the reason the vow takes effect.
+
+**5.**
+*Hebrew/Aramaic:* וְכִי הָא דְּאָמַר רַב טוֹבִי בַּר קִיסְנָא אָמַר שְׁמוּאֵל: לַחְמֵי תוֹדָה שֶׁאֲפָאָן בְּאַרְבַּע חַלּוֹת — יָצָא. וְהָכְתִיב אַרְבָּעִים! לְמִצְוָה.
+*Translation:* **And** this is **in accordance with that which Rav Tovi bar Kisna said** that **Shmuel said:** If **one baked the loaves of the thanks-offering as four loaves** rather than the forty loaves that should ideally be baked, **he has fulfilled** his obligation. The Gemara asks: **Isn’t it written** that **forty** loaves must be brought with the thanks-offering, ten loaves of each of the four different types? The Gemara answers: One must bake forty loaves in order **to** fulfill the **mitzva** in the optimal fashion, but he has nevertheless fulfilled his obligation with four loaves, one of each type.
+
+**6.**
+*Hebrew/Aramaic:* וְהָא בָּעֵי לְמִשְׁקַל תְּרוּמָה! וְכִי תֵּימָא דְּשָׁקֵיל חֲדָא רִיפְתָּא עַל כּוּלַּהּ — וְהָתְנַן: אֶחָד מִכׇּל קׇרְבָּן. שֶׁלֹּא יִטּוֹל מִקׇּרְבָּן עַל חֲבֵירוֹ! וְכִי תֵּימָא דְּשָׁקֵיל פְּרוּסָה מִכׇּל חַד וְחַד, וְהָתְנַן: ״אֶחָד״, שֶׁלֹּא יִטּוֹל פְּרוּסָה!
+*Translation:* The Gemara asks: **But he is required to take *teruma*,** i.e., designate one loaf of each type to be given to the priests. **And if you would say that he takes one** loaf of **bread** of the four as *teruma* **for all** the others, **but didn’t we learn** in a mishna (*Menaḥot* 77b) with regard to the verse “And of it he shall present **one out of each offering** for a gift to the Lord; it shall be the priest’s” (Leviticus 7:14), that it indicates **that he should not take from one offering,** i.e., one type of loaf, **for another? And if you would say that he takes a slice from each one** of the four loaves and gives them to the priest, **but didn’t we learn** in that mishna that the word **one** in the verse indicates **that he may not take a slice** but rather a complete loaf?
+
+**7.**
+*Hebrew/Aramaic:* אֶלָּא דְּאַפְרְשִׁינְהוּ בְּלֵישָׁה. דְּשָׁקֵיל חֲדָא מֵחָמֵץ, וַחֲדָא מִן חַלּוֹת, וַחֲדָא מִן רְקִיקִים, וַחֲדָא מִן רְבוּכָה.
+*Translation:* **Rather,** it must be **that he separated** the *teruma* **during** the time of **kneading. He took one** piece of dough **from the leavened bread, one from the loaves, one from the wafers, and one from the flour mixed with water and oil.** After separating one tenth of each type of dough for the priest, he then baked the remainder into four loaves. Since it is possible to separate the *teruma* at the time of the kneading, before the sprinkling of the blood of the offering, it is possible that the case is one where he expressed the vow at this time. Consequently, there is no proof that one has in mind the original status of an offering rather than its current status when one expresses a vow after the sprinkling of the blood.
+
+**8.**
+*Hebrew/Aramaic:* לֵימָא כְּתַנָּאֵי: ״הֲרֵי עָלַי כִּבְכוֹר״, רַבִּי יַעֲקֹב אוֹסֵר, וְרַבִּי יְהוּדָה מַתִּיר.
+*Translation:* The Gemara suggests: **Let us say** that this question, whether one intends to extend the original or current status of an offering, is **parallel to** a dispute between ***tanna’im*.** If one says: **This** meat is prohibited **to me** like the meat of **a firstborn, Rabbi Ya’akov renders** the meat **forbidden and Rabbi Yehuda renders** it **permitted.**
+
+**9.**
+*Hebrew/Aramaic:* הֵיכִי דָמֵי? אִי נֵימָא לִפְנֵי זְרִיקַת דָּמִים, מַאי טַעְמָא דְמַאן דְּשָׁרֵי. וְאִי לְאַחַר זְרִיקַת דָּמִים, מַאי טַעְמָא דְּמַאן דְּאָסַר? אֶלָּא לָאו,
+*Translation:* The Gemara clarifies: **What are the circumstances** of this case? **If we say** that he associates the object of his vow with the status of a firstborn animal **before the sprinkling of the blood,** when it is forbidden as a consecrated item, **what is the rationale of the one who renders** it **permitted? And if** he associates the object of his vow with the status of a firstborn animal **after the sprinkling of the blood,** when it belongs to the priest and is permitted to be eaten, **what is the rationale of the one who renders** it **forbidden? Rather, is it not**

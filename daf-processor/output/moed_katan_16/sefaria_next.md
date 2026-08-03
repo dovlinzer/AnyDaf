@@ -103,3 +103,84 @@
 **26.**
 *Hebrew/Aramaic:* אֲמַר לֵיהּ: שְׁקֵיל פְּתִיחָא עֲלֵיהּ. כׇּל שֶׁכֵּן דְּמִסְתְּפֵינָא מִינֵּיהּ. אֲמַר לֵיהּ: שִׁקְלֵיהּ, אַחֲתֵיהּ בְּכַדָּא,
 *Translation:* Rav Yosef **said to him: Take** out, i.e., publish **a written** ostracism **against him.** The Torah scholar said to him: **All the more so I am fearful of him,** for if I publicize the matter he will certainly come after me. Rav Yosef **said to him** to do as follows: **Take** the written ostracism **and place it in a jug,**
+
+
+---
+
+### Moed Katan 17b
+
+**1.**
+*Hebrew/Aramaic:* וְאַחֲתֵיהּ בֵּי קִבְרֵי, וּקְרִי בֵּיהּ אַלְפָּא שִׁפּוּרֵי בְּאַרְבְּעִין יוֹמִין. אָזֵיל עָבֵיד הָכִי, פְּקַע כַּדָּא וּמִית אַלָּמָא. מַאי שִׁפּוּרֵי — שֶׁנִּפְרָעִין מִמֶּנּוּ.
+*Translation:* **and set it down in a cemetery,** where nobody is found, **and sound a thousand,** i.e., many, ***shofar* blasts over the course of forty days.** That man **went and did this. The jug burst and the violent man died.** The Gemara asks: **What** is the reason that ***shofarot*** are sounded when a decree of ostracism is pronounced? The *shofarot* allude to the fact **that they extract punishment [*shenifra’in*] from** the excommunicated person.
+
+**2.**
+*Hebrew/Aramaic:* מַאי תְּבָרָא? אָמַר רַב יִצְחָק בְּרֵיהּ דְּרַב יְהוּדָה: תָּבְרִי בָּתֵּי רָמֵי. דְּתַנְיָא, אָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל: כׇּל מָקוֹם שֶׁ״נָּתְנוּ חֲכָמִים עֵינֵיהֶם״, אוֹ מִיתָה אוֹ עוֹנִי.
+*Translation:* The Gemara asks further: **What** is the reason that **broken** blasts are sounded on the *shofar* when the excommunication is pronounced? **Rav Yitzḥak, son of Rav Yehuda, said: It breaks tall buildings,** i.e., a decree of ostracism can harm and break even the high and mighty, **as it is taught** in a *baraita*: **Rabban Shimon ben Gamliel said: Wherever** it says that **the Sages set their eyes** in anger upon a particular person, it causes **either death or poverty.**
+
+**3.**
+*Hebrew/Aramaic:* וְהַנָּזִיר וְהַמְּצוֹרָע מִטּוּמְאָתוֹ לְטׇהֳרָתוֹ. בְּעָא מִינֵּיהּ רַבִּי יִרְמְיָה מֵרַבִּי זֵירָא: בְּשֶׁלֹּא הָיָה לָהֶם פְּנַאי, אוֹ דִלְמָא אַף בְּשֶׁהָיָה לָהֶם פְּנַאי?
+*Translation:* § It is taught in the mishna: **And the nazirite** whose term of naziriteship ended on the intermediate days of a Festival, **and the leper** who needs to purify himself on the intermediate days and must shave his entire body in order to leave **his** state of ritual **impurity** and regain **his** ritual **purity,** these people are permitted to cut their hair on the intermediate days of the Festival because they were not able to do so on the eve of the Festival. **Rabbi Yirmeya raised a question before Rabbi Zeira:** Is this allowance limited to the case **where they did not have the time** to cut their hair before the Festival, as it was prohibited for them to do so beforehand? **Or perhaps** they may cut their hair **even** in a case **where they had the time** to do so beforehand.
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ, תְּנֵינָא: כׇּל אֵלּוּ שֶׁאָמְרוּ מוּתָּרִין לְגַלֵּחַ בַּמּוֹעֵד — בְּשֶׁלֹּא הָיָה לָהֶם פְּנַאי, אֲבָל הָיָה לָהֶם פְּנַאי — אֲסוּרִים.
+*Translation:* **He said to him: We** already **learned** this in a *baraita*: With regard to **all those** about whom **the** Sages **said** that they **are permitted to cut their hair on** the intermediate days of **a Festival,** they may do so only **if they did not have time** to cut their hair before the Festival. **But** if **they had time** before the Festival began, then **they are prohibited** from doing so.
+
+**5.**
+*Hebrew/Aramaic:* נָזִיר וּמְצוֹרָע, אַף עַל פִּי שֶׁהָיָה לָהֶם פְּנַאי — מוּתָּרִים, שֶׁלֹּא יְשַׁהוּ קׇרְבְּנוֹתֵיהֶן.
+*Translation:* However, **a nazirite and a leper, even if they had the time** to do so before the Festival, **they are permitted** to cut their hair. Why are they granted this special allowance? So **that they will not delay** bringing **their offerings.** Both a nazirite and a leper must cut their hair before sacrificing their offerings in completion of their purification process. Therefore, if they are not permitted to cut their hair, they will not be able to sacrifice their offerings at the proper time.
+
+**6.**
+*Hebrew/Aramaic:* תָּנָא: הַכֹּהֵן וְהָאָבֵל מוּתָּרִין בְּגִילּוּחַ. הַאי אָבֵל הֵיכִי דָמֵי? אִילֵּימָא שֶׁחָל שְׁמִינִי שֶׁלּוֹ בְּעֶרֶב הָרֶגֶל — אִיבְּעִי לֵיהּ לְגַלּוֹחֵי בָּעֶרֶב הָרֶגֶל! אֶלָּא, שֶׁחָל שְׁמִינִי שֶׁלּוֹ לִהְיוֹת בְּשַׁבָּת עֶרֶב הָרֶגֶל.
+*Translation:* In was **taught** in a *baraita*: **A priest and a mourner are permitted to cut their hair** during the intermediate days of a Festival. The Gemara asks: **What are the circumstances** when the **mourner** is permitted to do so? **If we say that the eighth** day of **his** mourning **occurred on the eve of the Festival,** then **he should have cut his hair on the eve of the Festival,** as the more stringent restrictions of his mourning no longer applied. **Rather,** it must be that we are dealing with a case **where the eighth** day of **his** mourning **occurred on a Shabbat that was the eve of the Festival,** and so he could not have cut his hair on the Festival eve.
+
+**7.**
+*Hebrew/Aramaic:* אִיבְּעִי לֵיהּ לְגַלּוֹחֵי עֶרֶב שַׁבָּת, דְּאָמַר רַב חִסְדָּא אָמַר רָבִינָא בַּר שֵׁילָא: הֲלָכָה כְּאַבָּא שָׁאוּל, וּמוֹדִים חֲכָמִים לְאַבָּא שָׁאוּל בְּשֶׁחָל שְׁמִינִי שֶׁלּוֹ לִהְיוֹת בְּשַׁבָּת עֶרֶב הָרֶגֶל שֶׁמּוּתָּר לְגַלֵּחַ בְּעֶרֶב שַׁבָּת!
+*Translation:* But if this is the case, **he should have cut his hair on Friday, for Rav Ḥisda said** that **Ravina bar Sheila said: The *halakha* is in accordance with** the opinion of **Abba Shaul.** If the deceased was buried seven days before the Festival, then not only has the mourner completed the seven-day mourning period, but he is even regarded as having begun the thirty-day mourning period, and so the Festival cancels this thirty-day period of mourning. **And the Rabbis concede** to the opinion of **Abba Shaul when the eighth** day of **his** mourning **occurs on a Shabbat that is the eve of the Festival,** and they maintain **that he is permitted to cut his hair on Friday.** Since he is unavoidably prevented from cutting his hair on the eighth day, the Rabbis allowed him to cut it already on the seventh day.
+
+**8.**
+*Hebrew/Aramaic:* לָא צְרִיכָא, שֶׁחָל שְׁבִיעִי שֶׁלּוֹ לִהְיוֹת בְּשַׁבָּת עֶרֶב הָרֶגֶל.
+*Translation:* The Gemara answers: **No,** the ruling of the *baraita* is **necessary** in the case **where the seventh** day of **his** mourning **occurs on a Shabbat that is the eve of the Festival.** In that case, he certainly cannot cut his hair on Friday because it is only the sixth day of his mourning, and so he is permitted to cut his hair on the intermediate days of the Festival.
+
+**9.**
+*Hebrew/Aramaic:* תַּנָּא בָּרָא סָבַר לַהּ כְּאַבָּא שָׁאוּל, דְּאָמַר: מִקְצָת הַיּוֹם כְּכוּלּוֹ, וְיוֹם שְׁבִיעִי עוֹלֶה לוֹ לְכָאן וּלְכָאן. וְכֵיוָן דְּשַׁבָּת הָוֵי — אָנוּס הוּא.
+*Translation:* The Gemara comments: **The *tanna* of the *baraita*,** who permits a mourner to cut his hair during the intermediate days of the Festival, **holds in accordance with** the opinion of **Abba Shaul, who said:** The legal status of **part of the day is like** that of **an entire** day, **and** therefore **the seventh** day **counts as both** the final day of the seven-day mourning period and the first day of the thirty-day mourning period. From the perspective of the *halakhot* of mourning, one would be permitted to cut his hair; however **since** this day **is Shabbat, he is unavoidably prevented** from doing so, and therefore he is permitted to cut his hair during the intermediate days of the Festival.
+
+**10.**
+*Hebrew/Aramaic:* תַּנָּא דִידַן סָבַר לַהּ כְּרַבָּנַן, דְּאָמְרִי: לָא אָמְרִינַן מִקְצָת הַיּוֹם כְּכוּלּוֹ, וְאַכַּתִּי לָא שְׁלִים אֲבֵילוּת דְּשִׁבְעָה.
+*Translation:* **The *tanna*** of **our** mishna, on the other hand, who does not mention that a mourner is permitted to cut his hair on the intermediate days of a Festival, **holds in accordance with** the opinion of the **Rabbis, who say: We do not say** that the legal status of **part of the day is like** that of **an entire** day for a mourner. Therefore, **he has not yet completed** his **seven-**day period of **mourning,** and consequently he will not be permitted to cut his hair even after the Festival, until the completion of the thirty-day mourning period.
+
+**11.**
+*Hebrew/Aramaic:* הַאי כֹּהֵן הֵיכִי דָּמֵי? אִילֵּימָא דִּשְׁלִים מִשְׁמַרְתּוֹ עֶרֶב הָרֶגֶל — אִיבְּעִי לֵיהּ לְגַלּוֹחֵי עֶרֶב הָרֶגֶל!
+*Translation:* The Gemara continues and asks: The case of **this priest,** who is permitted to cut his hair during the intermediate days of a Festival, **what are the circumstances? If we say that he completed his watch on the eve of the Festival,** then **he should have cut his hair on the eve of the Festival.**
+
+**12.**
+*Hebrew/Aramaic:* לָא צְרִיכָא, דִּשְׁלִים מִשְׁמַרְתּוֹ בָּרֶגֶל. תַּנָּא דִידַן סָבַר, כֵּיוָן דִּתְנַן: בִּשְׁלֹשָׁה פְּרָקִים בַּשָּׁנָה הָיוּ כׇּל הַמִּשְׁמָרוֹת שָׁווֹת, בְּאֵימוּרֵי הָרְגָלִים, וּבְחִילּוּק לֶחֶם הַפָּנִים — כְּמַאן דְּלָא שְׁלִים מִשְׁמַרְתּוֹ בָּרֶגֶל דָּמֵי. וְתַנָּא בָּרָא סָבַר: אַף עַל גַּב דְּשָׁיֵיךְ בְּהָנָךְ מִשְׁמָרוֹת, מִשְׁמַרְתֵּיהּ מִיהָא שְׁלִימָא לֵיהּ.
+*Translation:* The Gemara answers: **No,** the ruling of the *baraita* is **necessary** in the case **where one completed his watch during the Festival** week itself. **The *tanna*** of **our** mishna **holds** that **since we learned** in a mishna (*Sukka* 55b): **At the year,** i.e., the three pilgrimage Festivals, **all of the priestly watches share equally in the Festival offerings and in the division of the shewbread** among the priests on Shabbat that occurs on the Festival, therefore, **he is** considered **like one whose watch was not completed during the Festival,** and he may not cut his hair until after the Festival. **And the *tanna* of the *baraita* holds that although** he **belongs** also **to those** other **watches** serving during the Festival, **nevertheless, his own watch was completed** before the Festival, and so he is permitted to cut his hair.
+
+**13.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: כׇּל אֵלּוּ שֶׁאָמְרוּ מוּתָּרִין לְגַלֵּחַ בַּמּוֹעֵד — מוּתָּרִין לְגַלֵּחַ בִּימֵי אֶבְלָן.
+*Translation:* § **The Sages taught** the following *baraita*: **All those about whom it was said** that they **are permitted to cut their hair on** the intermediate days of **a Festival** because they were unable to do so beforehand, **they may** similarly **cut their hair during the period of their mourning** if they had been unable to do so beforehand.
+
+**14.**
+*Hebrew/Aramaic:* וְהָתַנְיָא: אֲסוּרִים! אָמַר רַב חִסְדָּא אָמַר רַב שֵׁילָא: כִּי תַּנְיָא הָכָא מוּתָּרִין — בְּשֶׁתְּכָפוּהוּ אֲבָלָיו.
+*Translation:* The Gemara asks: **But isn’t it taught** in another *baraita*: **They are** nevertheless **prohibited** from cutting their hair during the period of their mourning? **Rav Ḥisda said** that **Rav Sheila said: When it is taught** in the *baraita* that **they are permitted** to cut their hair, it is referring to one **for whom** two periods of **mourning applied in succession.** In other words, this person was required to practice one period of mourning immediately following another period of mourning, and he is unable to endure the prescribed restrictions for such an extended period.
+
+**15.**
+*Hebrew/Aramaic:* אִי בְּשֶׁתְּכָפוּהוּ אֲבָלָיו, מַאי אִירְיָא כׇּל אֵלּוּ שֶׁאָמְרוּ, אֲפִילּוּ כּוּלֵּי עָלְמָא נָמֵי? דְּתַנְיָא: תְּכָפוּהוּ אֲבָלָיו זֶה אַחַר זֶה, הִכְבִּיד שְׂעָרוֹ — מֵיקֵל בְּתַעַר, וּמְכַבֵּס כְּסוּתוֹ בְּמַיִם.
+*Translation:* The Gemara asks: **If** this is referring to a case **where his mourning applied in succession,** then **why specifically** does the *baraita* discuss **all those about whom it was said** that they may cut their hair? The allowance should apply **even to everyone,** not only to those who had been unavoidably prevented from cutting their hair in the preceding period, **as it is taught** in a *baraita*: If **one’s mourning** periods **applied in succession, one after the other,** and **his hair** grew long and **became heavy, he may lighten** it by cutting his hair **with a razor, and he may wash his garment in water,** so that he does not suffer for such a long time without cutting his hair or washing his clothes.
+
+**16.**
+*Hebrew/Aramaic:* הָא אִתְּמַר עֲלַהּ, אָמַר רַב חִסְדָּא: בְּתַעַר וְלֹא בְּמִסְפָּרַיִם, בְּמַיִם וְלֹא בְּנֶתֶר וְלֹא בְּאָהָל. אָמַר רַב חִסְדָּא: זֹאת אוֹמֶרֶת אָבֵל אָסוּר בְּתִכְבּוֹסֶת.
+*Translation:* The Gemara answers: **But wasn’t it said with regard to that** *baraita*: **Rav Ḥisda said:** When it states that one may cut his hair, it means that he may do so **with a razor, but not with scissors?** Similarly, when it states that one may wash his clothes, it means that he may launder them **with water, but not with *neter* or soap.** Therefore, the *baraita* teaches that if one had been unavoidably prevented from performing these actions beforehand and then had to observe a double mourning period, he may cut his hair in an ordinary manner, without performing these actions in an altered way. **Rav Ḥisda said: That is to say** that, generally speaking, **a mourner is prohibited from laundering** his clothes.
+
+**17.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: כְּשֵׁם שֶׁאָמְרוּ אָסוּר לְגַלֵּחַ בַּמּוֹעֵד, כָּךְ אָסוּר לִיטּוֹל צִפּוֹרְנַיִם בַּמּוֹעֵד, דִּבְרֵי רַבִּי יְהוּדָה. וְרַבִּי יוֹסֵי מַתִּיר.
+*Translation:* **The Sages taught** the following *baraita*: **Just as** the Sages **said** that **it is prohibited to cut one’s hair during the** intermediate days of **a Festival, so too it is prohibited to cut one’s nails during the** intermediate days of **a Festival;** this is **the statement of Rabbi Yehuda, whereas Rabbi Yosei permits** cutting nails.
+
+**18.**
+*Hebrew/Aramaic:* וּכְשֵׁם שֶׁאָמְרוּ אָבֵל אָסוּר לְגַלֵּחַ בִּימֵי אֶבְלוֹ — כָּךְ אָסוּר לִיטּוֹל צִפּוֹרְנַיִם בִּימֵי אֶבְלוֹ, דִּבְרֵי רַבִּי יְהוּדָה. וְרַבִּי יוֹסֵי מַתִּיר.
+*Translation:* **And just as** the Sages **said** that **a mourner is prohibited from cutting his hair during the period of his mourning, so too he is prohibited from cutting his nails during the period of his mourning;** this is **the statement of Rabbi Yehuda, whereas Rabbi Yosei permits** a mourner to cut his nails.
+
+**19.**
+*Hebrew/Aramaic:* אָמַר עוּלָּא: הֲלָכָה כְּרַבִּי יְהוּדָה בְּאֵבֶל, וַהֲלָכָה כְּרַבִּי יוֹסֵי בַּמּוֹעֵד. שְׁמוּאֵל אָמַר:
+*Translation:* **Ulla said: The *halakha* is in accordance with** the opinion of **Rabbi Yehuda with regard to mourning, but the *halakha* is in accordance with** the opinion of **Rabbi Yosei with regard to the** intermediate days of the **Festival. Shmuel said:**

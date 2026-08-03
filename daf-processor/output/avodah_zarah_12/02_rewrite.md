@@ -114,7 +114,7 @@ And had the *baraita* stated only those two cases, one might have drawn an even 
 
 ## Marit Ayin vs. Sakana
 
-### Peshat: Yehareg ve'al Ya…
+### Peshat: Yehareg Avodah Z.
 
 This brings us to a striking implication of the *gemara*. The *baraita* states that even when there is a danger (*sakana*) — specifically, the danger of dying of thirst — one may not bend down and drink from the water flowing before the idol. A straightforward reading of this *gemara* suggests something quite extreme: that *maris ayin* of *avodah zarah* carries the status of *yehareg v'al ya'avor* — one must be prepared to die rather than perform an action that merely *appears* to be *avodah zarah*, even when the underlying act is entirely permitted.
 

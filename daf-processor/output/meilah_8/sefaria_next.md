@@ -75,3 +75,48 @@
 **19.**
 *Hebrew/Aramaic:* תְּנַן: מוֹעֲלִין בָּהֶן עַד שֶׁתֵּצֵא לְבֵית הַדֶּשֶׁן, קַשְׁיָא לְרַב! אָמַר לְךָ רַב: עַד שֶׁתֵּרָאֶה לְבֵית הַדֶּשֶׁן.
 *Translation:* The Gemara raises a difficulty against the opinion of Rav. **We learned** in the mishna, with regard to the bird burnt offering: **One is** liable for **its misuse until it leaves to the place of the ashes,** where it is burned. This indicates that the *halakhot* of misuse apply while the ashes remain on the altar, even after the removal of ashes, which is **difficult for** the opinion of **Rav.** The Gemara answers that **Rav** could have **said to you:** The mishna means that one is liable **until** the ash **is fit** to be taken out **to the place of ashes,** i.e., once it is burned on the altar and has had a shovel of ashes removed from it.
+
+
+---
+
+### Meilah 9b
+
+**1.**
+*Hebrew/Aramaic:* מֵיתִיבִי: וְכוּלָּן, שֶׁפָּקְעוּ מֵעַל גַּבֵּי הַמִּזְבֵּחַ – לֹא יַחֲזִיר, וְכֵן גַּחֶלֶת שֶׁפָּקְעָה מֵעַל גַּבֵּי הַמִּזְבֵּחַ – לֹא יַחֲזִיר. הָא עַל גַּבֵּי הַמִּזְבֵּחַ – יַחֲזִיר.
+*Translation:* The Gemara **raises an objection** to Rav’s explanation from a mishna (*Zevaḥim* 86a): **And all of** those unfit offerings, with regard to which it was taught that if they ascended to the altar they do not descend, in a case **where they were dislodged from upon the altar,** the priest **does not restore** them to the altar. **And likewise,** with regard to **an ember that was dislodged from upon the altar,** the priest **does not restore** it to the altar. It can be inferred from the mishna that if the ember was still **on the altar,** then the priest must **restore** it.
+
+**2.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְרַבִּי יוֹחָנָן, נִיחָא, אֶלָּא לְרַב, קַשְׁיָא! אָמַר לְךָ רַב: שָׁאנֵי גַּחֶלֶת, דְּאִית בַּיהּ מְשָׁשָׁא.
+*Translation:* The Gemara explains the objection: **Granted, according to Rabbi Yoḥanan** this **works out well,** as he maintains that even after the shovelful of ashes has been removed, an ember on the pile of ashes still retains its sanctity. **But according to Rav** this is **difficult.** The Gemara answers that **Rav** could have **said to you: An ember is different, as it has substance [*meshasha*]** and is therefore still fit to be burned on the altar.
+
+**3.**
+*Hebrew/Aramaic:* אִיכָּא דְּאָמַר לַהּ לְהָךְ גִּיסָא: טַעְמָא מִשּׁוּם גַּחֶלֶת, דְּאִית בַּיהּ מְשָׁשָׁא, הָא אֵפֶר דְּלֵית בֵּיהּ מְשָׁשָׁא, אֲפִילּוּ לְגַבֵּי מִזְבֵּחַ – אֵין מוֹעֲלִין בּוֹ. בִּשְׁלָמָא לְרַב, נִיחָא, אֶלָּא לְרַבִּי יוֹחָנָן, קַשְׁיָא!
+*Translation:* **There is** a Sage **who stated** this objection **in** the opposite **manner:** The mishna indicates that **the reason** that the priest must return it to the altar is **because** it is **an ember,** and **that it has substance.** It can be inferred **from this** that one who derives benefit **from ash, which does not have substance, is not** liable for **misuse** of consecrated property **even** when it is **on the top of the altar. Granted, according to Rav** this works out **well, but according to Rabbi Yoḥanan** it is **difficult.**
+
+**4.**
+*Hebrew/Aramaic:* אָמַר לָךְ רַבִּי יוֹחָנָן: הוּא הַדִּין דַּאֲפִילּוּ אֵפֶר, וְהַיְינוּ טַעְמָא דְּקָתָנֵי גַּחֶלֶת – קָאָתֵי לְאַשְׁמוֹעִינַן דַּאֲפִילּוּ גַּחֶלֶת, דְּאִית בַּהּ מְשָׁשָׁא, כִּי פָּקְעָה מֵעַל גַּבֵּי הַמִּזְבֵּחַ – לֹא יַחֲזִיר.
+*Translation:* The Gemara answers that **Rabbi Yoḥanan** could have **said to you: The same is true that even ash** that was dislodged must be returned. **And this is the reason that** the mishna **teaches an ember,** and not ash: It **is coming to teach us that even** in the case of **an ember, which has substance, if it is dislodged from upon the altar** the priest does **not return** it.
+
+**5.**
+*Hebrew/Aramaic:* אִיתְּמַר: הַנֶּהֱנֶה מִבְּשַׂר קׇדְשֵׁי קָדָשִׁים לִפְנֵי זְרִיקַת דָּמִים, וְאֵמוּרֵי קָדָשִׁים קַלִּים לְאַחַר זְרִיקַת דָּמִים, רַב אָמַר: מַה שֶׁנֶּהֱנָה – יִפְּלוּ לִנְדָבָה. וְלֵוִי אָמַר: יָבִיא דָּבָר שֶׁכּוּלּוֹ לַמִּזְבֵּחַ.
+*Translation:* § One of the *halakhot* of misuse is that the violator must pay the value of the benefit he derived and add an extra one-fifth. It **was stated** that there is a dispute between *amora’im* with regard to this money: In the case of **one who derives benefit from meat of an offering of the most sacred order before the sprinkling of the blood** on the altar, **or** who derives benefit from **sacrificial portions,** such as the fats **of offerings of lesser sanctity, after the sprinkling of the blood, Rav says:** The value of **that benefit which he derived** is **allocated for** communal **gift** offerings, **and Levi says:** One must **bring an item that is entirely** consumed **on the altar,** e.g., incense. One does not bring a burnt offering with this money, as the hide of a burnt offering belongs to the priests.
+
+**6.**
+*Hebrew/Aramaic:* תַּנְיָא כְּווֹתֵיהּ דְּלֵוִי: מְעִילָה זוֹ לְהֵיכָן הוֹלֶכֶת? הַלְּמֵידִין לִפְנֵי חֲכָמִים אוֹמְרִים: יָבִיא דָּבָר שֶׁכּוּלּוֹ לַמִּזְבֵּחַ. מַאי נִיהוּ? קְטֹרֶת.
+*Translation:* It **is taught** in a *baraita* **in accordance with** the opinion **of Levi: This** money paid for **misuse** of consecrated items, **to where does it go?** The Rabbis who are called: **Those who learn before the Sages, say:** One must **bring an item that is entirely** consumed **on the altar,** and **what is that? Incense,** which is burned on the altar in its entirety.
+
+**7.**
+*Hebrew/Aramaic:* תַּנְיָא כְּווֹתֵיהּ דְּרַב: הַנֶּהֱנֶה מִדְּמֵי חַטָּאת וּמִדְּמֵי אָשָׁם, עַד שֶׁלֹּא קָרְבָה חַטָּאתוֹ – יוֹסִיף וְיָבִיא חַטָּאתוֹ. וְעַד שֶׁלֹּא קָרְבָה אֲשָׁמוֹ – יוֹסִיף וְיָבִיא אֲשָׁמוֹ. קָרַב חַטָּאתוֹ – יֵלְכוּ לְיָם הַמֶּלַח. כְּבָר קָרַב אֲשָׁמוֹ – יִפְּלוּ לִנְדָבָה.
+*Translation:* It **is taught** in another *baraita* **in accordance** with the opinion **of Rav:** In the case of one **who derives benefit from money** set aside for the purchase of **a sin offering or** set aside **as money** set aside for the purchase of **a guilt offering,** if he pays **before his sin offering is sacrificed he** must **add** the amount of the benefit he derived and an additional fifth **and bring** with that money a more expensive animal as **his sin offering. And** likewise, if he pays **before his guilt offering is sacrificed, he** must **add** the amount of the benefit he derived and an additional fifth **and bring** with that money a more expensive animal as **his guilt offering.** If **his sin offering** has already been **sacrificed,** the money **is cast into the Dead Sea.** If **his guilt offering** has **already** been **sacrificed,** the money is **allocated for** communal **gift** offerings.
+
+**8.**
+*Hebrew/Aramaic:* הַנֶּהֱנֶה מִקׇּדְשֵׁי קָדָשִׁים לִפְנֵי זְרִיקַת דָּמִים, וְאֵימוּרֵי קָדָשִׁים קַלִּים לְאַחַר זְרִיקַת דָּמִים – מַה שֶּׁנֶּהֱנָה יִפְּלוּ לִנְדָבָה. כׇּל קׇרְבְּנוֹת הַמִּזְבֵּחַ – לַמִּזְבֵּחַ. קׇרְבְּנוֹת קׇדְשֵׁי בֶּדֶק הַבַּיִת – לְבֶדֶק הַבַּיִת. קׇרְבְּנוֹת צִבּוּר – לְנִדְבַת צִבּוּר.
+*Translation:* The *baraita* continues: **One who derives benefit from meat of an offering of the most sacred order before the sprinkling of the blood** on the altar, **or** if he derives benefit from **sacrificial portions,** such as the fats **of offerings of lesser sanctity, after the sprinkling of the blood,** the value of **that benefit which he derived** is **allocated for** communal **gift** offerings. The *baraita* summarizes: The reimbursement for misuse of **all offerings** which are sacrificed on **the altar** is used to purchase items **for the altar,** whereas the reimbursement for misuse of all **offerings which are consecrated for Temple maintenance** is donated **to Temple maintenance.** And the reimbursement for misuse of all **communal offerings** is allocated **for communal gift** offerings.
+
+**9.**
+*Hebrew/Aramaic:* הָא גּוּפַהּ קַשְׁיָא, עַד שֶׁלֹּא קָרְבָה חַטָּאתוֹ – יוֹסִיף וְיָבִיא חַטָּאתוֹ, מִשֶּׁקָּרְבָה חַטָּאתוֹ – יֵלְכוּ לְיָם הַמֶּלַח. וְקָתָנֵי כׇּל קׇרְבְּנוֹת הַמִּזְבֵּחַ – לַמִּזְבֵּחַ, וְלָא שְׁנָא דְּאִיכַּפּוּר בְּעָלִים, וְלָא שְׁנָא הֵיכָא דְּלָא אִיכַּפּוּר!
+*Translation:* The Gemara notes that **this** *baraita* **itself** is **difficult,** i.e., it is apparently self-contradictory. In the first clause it teaches that if he pays **before his sin offering is sacrificed he** must **add** the amount of the benefit he derived and an additional fifth **and bring** a more expensive animal as **his sin offering,** and **if his sin offering** has already been **sacrificed** the money **is cast into the Dead Sea. But it is taught** in the latter clause of the *baraita*: The reimbursement for misuse of **all offerings** that are sacrificed **on the altar** must be used to purchase items **for the altar.** The Gemara further explains the contradiction: **And** it can be inferred from this last statement that there **is no difference if the owner has** already **achieved atonement** through his sin offering **and** there **is no difference if** the owner has **not** yet **achieved atonement** through his sin offering.
+
+**10.**
+*Hebrew/Aramaic:* רֵישָׁא רַבִּי שִׁמְעוֹן הִיא, דְּאָמַר: כׇּל חַטָּאת שֶׁכִּיפְּרוּ בְּעָלֶיהָ – תָּמוּת.
+*Translation:* The Gemara answers that **the first clause is** in accordance with the opinion of **Rabbi Shimon, who says: Any sin offering whose owners achieved atonement** by means of another animal must be **left to die.** Therefore, if the owner has achieved atonement, the money for misuse must be cast into the Dead Sea.

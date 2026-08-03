@@ -14,7 +14,7 @@ The *Mishnah* constructs precisely that scenario. Consider a woman who has just 
 
 *Beit Shammai* rules that this blood is *tahor* and does not have the status of a *metzora'at*'s bodily fluids. *Beit Hillel* rules that it is *tamei* — that the uterine blood does in fact carry the halachic status of such a fluid. The debate between them turns on how to read a verse in *Parashat Zav*.
 
-### Drasha: Lazachar Velanek…
+### Drasha: Lazachar Velan
 
 The *Gemara* introduces the position of *Beit Hillel* via a *drasha* transmitted by *Rabbi Yitzchak*. At the conclusion of the *parashah* dealing with *zav* and *zavah*, the verse states: *"Hazav vezovo lazachar velanekevah ule'ish asher tetzei mimenu shichvat zara"* — this is the *tumah* of the flow, for the male and the female, and for a man from whom semen issues. The redundancy is striking: the entire preceding passage has been discussing men and women with flows, so why does the verse now add "for the male and for the female"? *Rabbi Yitzchak* teaches: *lazachar lerabot metzora lema'ayanotav* — the word "male" comes to include the *metzora*, that his bodily fluids likewise carry this elevated status of impurity. Similarly, *velanekevah lerabot metzora'at lema'ayanoteha* — "and female" comes to include the *metzora'at*, that her wellspring fluids are *tamei* as well.
 
@@ -36,7 +36,7 @@ Finally, *Beit Shammai* offers an alternative account of what *lazachar* comes t
 
 ## Rav Yosef on Zav Katan
 
-### Reiyah Rishonah Shel Zav…
+### Zav Minor Reiyah Rishonah
 
 The *Gemara* now shifts to a series of related conceptual questions — questions that are, as one might say, more structurally interesting than the *drasha* debate just concluded. *Rav Yosef* reports that whenever *Reish Lakish* would teach the laws of *zav*, he would invariably pose the following question: *re'iyah rishonah shel zav katan mahu shet'tamei bemaga* — does the first flow of a minor *zav* cause impurity through contact?
 
@@ -54,7 +54,7 @@ Having resolved the question about the minor *zav*, *Rav Yosef* poses an analogo
 
 ## Makom Ziva Ma'ayan
 
-### Metzora's First Flow Sta…
+### Metzora Ziva Flow Status
 
 The question posed is: *re'iyah rishonah shel metzora mahu shet'titma bemasa* — does the first *zov* flow of a *metzora* render *tamei* through carrying (*masa*)? The conceptual structure here is directly analogous to the question we explored regarding a woman's uterine blood. Normally, a man's *zov* flow poses no question about its fluid status: it is the source of *tumah*, making him a *zav* or at minimum a *ba'al keri*, so of course it is *tamei*. But if the man is already a *metzora*, the question becomes tractable: the *zov* flow does not meaningfully change his *tumah* status, since he is already *tamei* from *tzara'at*. It is at best making him a *ba'al keri* in addition to being a *metzora*, but it is not causing him to become a *zav*. So — is this first flow, which is not generating a new category of *tumah* for him, nevertheless considered one of the *ma'ayanot* of the *metzora*, such that it carries *tumah* through *masa*?
 

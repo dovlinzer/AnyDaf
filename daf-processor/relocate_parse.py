@@ -112,6 +112,7 @@ def build_windows(blocks: list[Block]) -> list[dict]:
             "quote_indices": run,
             "hebrew": " / ".join(blocks[i].hebrew for i in run),
             "translation": " ".join(blocks[i].translation for i in run),
+            "items": [{"hebrew": blocks[i].hebrew, "translation": blocks[i].translation} for i in run],
             "current_heading": current_heading,
             "candidates": candidates,
         })

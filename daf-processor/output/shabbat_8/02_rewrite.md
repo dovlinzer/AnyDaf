@@ -58,7 +58,7 @@ Abaye introduces a new case: *zarak kaveret li-reshut ha-rabim* — you threw a 
 
 A *reshut hayachid* must measure four *tefachim* by four *tefachim* — not in one direction, but as a square area. For a circular object, the relevant question is what diameter is needed to contain a four-by-four square. By basic geometry, the diagonal of a four-by-four square equals four times the square root of two, which is approximately 5.6. Abaye rounds this to six, as Rashi notes. So: if the beehive is less than approximately 5.6 *tefachim* in diameter, the interior does not contain the requisite four-by-four area, and it does not qualify as a *reshut hayachid*. If it reaches or exceeds that diameter, the hollow interior — bounded by walls and standing ten *tefachim* high — constitutes a *reshut hayachid*.
 
-### Rashi: Objects vs. Domai…
+### Rashi: Not Objects
 
 Rashi explains the ruling as follows: the Torah obligates one for carrying *objects*, not for carrying *domains*. You carry within a domain; you do not carry a domain itself. If the beehive meets the parameters of a *reshut hayachid* — ten *tefachim* high and four by four in area — it is classified as a domain rather than an object, and one is therefore not *chayav* for throwing it. Once it is smaller than those dimensions, it is simply an object, and carrying it across four *amot* in *reshut harabim* constitutes a full violation.
 
@@ -186,7 +186,7 @@ The practical application is immediately evident: a very tall object can, in pri
 
 Tosafot raises a significant practical question: what about a baby carriage? One never picks it up; one merely rolls it. Two separate questions arise. The first, addressed in a *Gemara* in *Ketubot*, is whether lifting is required for *akira*: the answer is no — dragging an object out of its place constitutes *akira* even without lifting. The second question, which Tosafot raises here, is whether continuous rolling (without any moment of rest) is more like the bundle case (separate acts, each under four *amot*) or more like continuous dragging. Because the baby carriage rolls without stopping, Tosafot argues this is a single continuous act — not a series of separate acts. The object started here and ended there, and the movement never broke.
 
-### Dragging vs. Separate Ac…
+### Dragging vs. Separate Act
 
 The contrast with dragging (*kovel*) clarifies the principle. When one drags an object continuously out of its original place — even without lifting — that constitutes *akira*, and the continuous motion through four *amot* in *reshut harabim* makes one *chayav*. The baby carriage, rolled continuously, is similarly one unbroken act. The bundle case is different: each segment of movement ends with the bundle at rest, constituting a genuine break between acts. Tosafot notes, but does not fully resolve, the apparent parallel to the case where someone stops to switch an object from one shoulder to the other — which the Gemara elsewhere rules does not count as a break. The precise line between a meaningful rest and a momentary pause for readjustment remains an open question.
 

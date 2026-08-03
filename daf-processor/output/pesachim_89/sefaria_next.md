@@ -87,3 +87,116 @@
 **22.**
 *Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב יְהוּדָה אָמַר רַב: שׁוֹחֲטִין וְזוֹרְקִין עַל טְבוּל יוֹם וּמְחוּסַּר כִּפּוּרִים,
 *Translation:* GEMARA: **Rav Yehuda said** that **Rav said: One slaughters** the Paschal lamb **and sprinkles** its blood **on behalf of one who has immersed himself during the day** due to a type of ritual impurity from which he will become fully ritually pure upon nightfall. If he immerses on the fourteenth of Nisan, a Paschal lamb may be offered on his behalf. **And** a Paschal lamb may be offered on behalf of one who is ritually impure with a type of ritual impurity that requires that he also bring an atonement offering to fully complete his purification process, even if he still **lacks** the **atonement** offering, i.e., it has not yet been offered. Since he will be ritually pure and able to partake of the Paschal lamb by the evening, the Paschal lamb may be slaughtered on his behalf during the day, although at the time of slaughter he has not yet completed his purification process.
+
+
+---
+
+### Pesachim 90b
+
+**1.**
+*Hebrew/Aramaic:* וְאֵין שׁוֹחֲטִין וְזוֹרְקִין עַל טְמֵא שֶׁרֶץ. וְעוּלָּא אָמַר: אַף שׁוֹחֲטִין וְזוֹרְקִין עַל טְמֵא שֶׁרֶץ.
+*Translation:* **And one does not slaughter** the Paschal lamb **and sprinkle** its blood **on behalf of one who is ritually impure** due to contact with a **creeping animal,** although he could immerse that day and thereby ensure he will be ritually pure for the evening. **And Ulla said: One slaughters** the Paschal lamb **and sprinkles** its blood **even for one who is ritually impure** due to contact with **a creeping animal.**
+
+**2.**
+*Hebrew/Aramaic:* לְרַב, מַאי שְׁנָא טְבוּל יוֹם — דַּחֲזֵי לְאוּרְתָּא? טְמֵא שֶׁרֶץ נָמֵי חֲזֵי לְאוּרְתָּא! מְחוּסָּר טְבִילָה.
+*Translation:* The Gemara discusses the rationale behind Rav’s ruling: **According to Rav, what is different** about **one who** is ritually impure with a type of ritual impurity such that once he **has immersed himself during the day** he will become fully ritually pure upon nightfall that, despite presently being impure, one may offer the Paschal lamb on his behalf? It is due to the fact **that he is fit** to eat it **by night.** But why, then, is the Paschal lamb not offered on behalf of **one who is ritually impure** due to contact with a **creeping animal?** He can **also be fit** to eat it **by night** by immersing in a ritual bath. The Gemara answers: **He lacks immersion** in a ritual bath.
+
+**3.**
+*Hebrew/Aramaic:* טְבוּל יוֹם נָמֵי — מְחוּסָּר הֶעֱרֵב שֶׁמֶשׁ! שִׁמְשָׁא מִמֵּילָא עָרְבָא.
+*Translation:* But **one who immersed himself during the day** and will become ritually pure upon nightfall **also lacks the setting of the sun,** i.e., nightfall. The Gemara explains the distinction: **The sun sets by itself,** and no action on the part of the one who is ritually impure is required to complete the purification process. A Paschal lamb may therefore be brought on his behalf.
+
+**4.**
+*Hebrew/Aramaic:* מְחוּסַּר כִּפּוּרִים נָמֵי — הָא מְחוּסַּר כַּפָּרָה! שֶׁקִּינּוֹ בְּיָדוֹ.
+*Translation:* But **one who** still **lacks an atonement** offering to complete his purification process **also lacks** an action, because he must still bring **his atonement** offering. Why may he nevertheless be registered for a Paschal lamb? The Gemara answers: **His nest,** i.e., the pair of doves he will offer as his atonement, **is** already **in his possession,** ready to be offered. It is therefore presumed he will immediately do so.
+
+**5.**
+*Hebrew/Aramaic:* טְמֵא שֶׁרֶץ נָמֵי — הֲרֵי מִקְוֶה לְפָנָיו! דִּילְמָא פָּשַׁע. אִי הָכִי, מְחוּסַּר כִּפּוּרִים נָמֵי דִּילְמָא פָּשַׁע! כְּגוֹן דְּמַסְרִינְהוּ לְבֵית דִּין,
+*Translation:* But **one ritually impure** due to contact with **a creeping animal** is **also** immediately able to become ritually pure, because **the ritual bath is before him** and he can immerse in it. Why does this not permit him to be registered for a Paschal lamb? The Gemara answers: The reason a Paschal lamb may not be brought on his behalf is due to concern that **perhaps he will be neglectful** and not immerse. Therefore, it cannot be assumed with certainty that by the evening he will be ritually pure. **If so,** in the case of **one who** still **lacks an atonement** offering, shouldn’t there **also** be concern that **perhaps he will be neglectful** and will not bring his offering? The *baraita* deals with a case **such as** one in which **he** has already **handed over** his pair of doves **to the court** of priests, in order that they offer them on his behalf. Therefore, it may be assumed with certainty that by the evening he will be ritually pure.
+
+**6.**
+*Hebrew/Aramaic:* וְכִדְרַב שְׁמַעְיָה, דְּאָמַר: חֲזָקָה אֵין בֵּית דִּין שֶׁל כֹּהֲנִים עוֹמְדִין מִשָּׁם עַד שֶׁיִּכְלוּ מָעוֹת שֶׁבַּשּׁוֹפָרוֹת.
+*Translation:* **And** this is **in accordance with** the teaching of **Rav Shemaya, who said** that **there is a presumption that the court of priests will not stand up from there,** i.e., their place of meeting in the Temple, **until all the money in the collection boxes,** which was placed there in order that the priests should use the money to bring offerings on the donors’ behalf, **is used up.** The priests ensure that any money they receive for offerings is used to purchase the offering and sacrifice it that same day. Certainly, if they were actually entrusted with an animal in order to sacrifice it, they would also do that on the very same day.
+
+**7.**
+*Hebrew/Aramaic:* וּלְרַב, מִדְּאוֹרָיְיתָא מִיחְזֵא חֲזֵי וְרַבָּנַן הוּא דִּגְזַרוּ בֵּיהּ, אַלְּמָה אָמַר רַב מְטַמְּאִין אֶחָד מֵהֶן בְּשֶׁרֶץ.
+*Translation:* The Gemara asks: **And according to Rav,** it would appear that **by Torah law one** who is **ritually impure** due to contact with **a creeping animal** is **fit** to have the Paschal lamb slaughtered on his behalf, **and it is the Sages who decreed that he** is unfit, out of concern that he will be negligent. If so, **why did Rav say** with regard to a community that was half ritually pure and half impure: **We contaminate one of them with a creeping animal** so that the majority will be ritually impure, which will permit the entire community to offer the Paschal lamb in a state of ritual impurity? If, by Torah law, one who is ritually impure due to contact with a creeping animal is fit to have an offering brought on his behalf, how then can he tip the balance of the entire community such that the majority is considered ritually impure and unfit to bring the Paschal lamb in purity?
+
+**8.**
+*Hebrew/Aramaic:* אֶלָּא, לְרַב מִדְּאוֹרָיְיתָא נָמֵי לָא חֲזֵי, דִּכְתִיב: ״אִישׁ אִישׁ כִּי יִהְיֶה טָמֵא לָנֶפֶשׁ״. מִי לָא עָסְקִינַן שֶׁחָל שְׁבִיעִי שֶׁלּוֹ לִהְיוֹת בְּעֶרֶב הַפֶּסַח, דְּהַיְינוּ טוּמְאַת שֶׁרֶץ, וְאָמַר רַחֲמָנָא: נִידְּחֵי!
+*Translation:* **Rather, according to Rav, by Torah law he is also unfit** to have an offering brought on his behalf, **as it is written: “If any man of you or of your posterity shall be ritually impure due to a dead body...** he shall still offer the Paschal lamb to the Lord. The fourteenth day of the second month…they shall offer it” (Numbers 9:10–11). **Are we not dealing with** all who are “ritually impure due to a dead body”? This includes one **whose seventh** day **occurred on Passover eve.** If they sprinkle on him that day he will immediately become ritually pure, **which is** the same situation as **ritual impurity** caused by a **creeping animal, and** nonetheless **the Torah states that he shall be deferred,** as he is considered unfit.
+
+**9.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא מִמַּאי דְּהָכִי?
+*Translation:* **And if you say: From where** do we know **that this** is so, that the verse is referring to those who are able to become ritually pure by that evening? Perhaps it is referring specifically to one who is ritually impure from a corpse before the completion of his seven-day purification process and will therefore not be ritually pure that evening.
+
+**10.**
+*Hebrew/Aramaic:* סָבַר לַהּ כְּרַבִּי יִצְחָק, דְּאָמַר: טְמֵאֵי מֵת מִצְוָה הָיוּ, שֶׁחָל שְׁבִיעִי שֶׁלָּהֶן לִהְיוֹת בְּעֶרֶב הַפֶּסַח, שֶׁנֶּאֱמַר: ״וְלֹא יָכְלוּ לַעֲשֹׂת הַפֶּסַח בַּיּוֹם הַהוּא״, בְּיוֹם הַהוּא הוּא דְּאֵינָן יְכוֹלִין לַעֲשׂוֹת, אֲבָל לְמָחָר יְכוֹלִין לַעֲשׂוֹת, וְאָמַר רַחֲמָנָא: נִדְּחוֹ.
+*Translation:* **He holds in accordance with the opinion of Rabbi Yitzḥak, who said:** The ritually impure people in the desert asked Moses what they should do concerning their obligation to bring a Paschal lamb. It is about them that the verses pertaining to the second *Pesaḥ* were originally stated. **They were ritually impure from a corpse that had no one to bury it [*met mitzva*],** and **their seventh day occurred on Passover eve, as it is stated: “They could not perform the Paschal lamb on that day”** (Numbers 9:6). By inference, **it was** only **on that day that they were unable to perform** it, **but the next day they would** have been **able to perform it** by completing their purification process; **and** nonetheless **the Torah said that they should be deferred.**
+
+**11.**
+*Hebrew/Aramaic:* תְּנַן: זָב שֶׁרָאָה שְׁתֵּי רְאִיּוֹת — שׁוֹחֲטִין עָלָיו בַּשְּׁבִיעִי. מַאי לָאו — דְּלָא טָבֵיל, וּשְׁמַע מִינַּהּ: שׁוֹחֲטִין וְזוֹרְקִין עַל טְמֵא שֶׁרֶץ!
+*Translation:* The Gemara presents a challenge from the mishna to the opinion of Rav that a Paschal lamb may not be offered on behalf of someone who is ritually impure from a creeping animal: **We learned** in the mishna: In the case of **a *zav* who saw two sightings** of gonorrheal discharge, **one slaughters** the Paschal lamb **on his behalf** if Passover eve is **on his seventh** day. The Gemara suggests: **What, is it not** referring to a case in which **he has not** yet **immersed** in a ritual bath, **and** we may therefore **learn from it that we** also may **slaughter and sprinkle on behalf of one who is ritually impure from a creeping animal,** since his level of impurity is identical to a *zav* who saw two sightings?
+
+**12.**
+*Hebrew/Aramaic:* לָא, דְּטָבֵיל. אִי טָבֵיל, מַאי קָא מַשְׁמַע לַן! הָא קָא מַשְׁמַע לַן, דְּאַף עַל גַּב דִּמְחוּסַּר הֶעֱרֵב הַשֶּׁמֶשׁ, קָא מַשְׁמַע לַן דְּשִׁמְשָׁא מִמֵּילָא עָרְבָא.
+*Translation:* **No,** the mishna is referring to a *zav* **who** already **immersed.** But **if he** already **immersed, what is it teaching us?** Since he will become ritually pure upon nightfall, surely it is obvious that a Paschal lamb may be offered on his behalf. **It teaches us this: That even though he** still **lacks the setting of the sun,** a Paschal lamb may nevertheless be brought on his behalf. **It** therefore **teaches us that** since **the sun sets by itself,** and no action of his own is required to complete his purification process, the fact that he currently has still not completed his purification process does not disqualify him.
+
+**13.**
+*Hebrew/Aramaic:* הָכִי נָמֵי מִסְתַּבְּרָא, מִדְּקָתָנֵי סֵיפָא: רָאָה שָׁלֹשׁ רְאִיּוֹת — שׁוֹחֲטִין עָלָיו בַּשְּׁמִינִי. אִי אָמְרַתְּ בִּשְׁלָמָא זָב שֶׁרָאָה שְׁתֵּי רְאִיּוֹת שׁוֹחֲטִין עָלָיו בַּשְּׁבִיעִי, דְּטָבֵיל — אִיצְטְרִיךְ.
+*Translation:* **So too, it is reasonable** to establish the mishna as referring to a *zav* who had already immersed, **from** the fact **that the last clause** of the mishna **taught:** With regard to a *zav* who **saw three sightings, one slaughters** the Paschal lamb **on his behalf on the eighth** day. **Granted, if you say** that the first clause, which states: With regard to **a *zav* who saw two sightings, one slaughters on his behalf on the seventh day,** is referring to a case in which **he** had already **immersed,** then it is **necessary** to teach the last clause for the following reason:
+
+**14.**
+*Hebrew/Aramaic:* סָלְקָא דַּעְתָּךְ אָמֵינָא, רָאָה שְׁתֵּי רְאִיּוֹת בִּשְׁבִיעִי הוּא דְּלָא מְחוּסַּר מַעֲשֶׂה, אֲבָל רָאָה שָׁלֹשׁ בַּשְּׁמִינִי, דִּמְחוּסַּר מַעֲשֶׂה — מְחוּסַּר כַּפָּרָה, לָא. קָא מַשְׁמַע לַן דְּאַף עַל גַּב דִּמְחוּסַּר כַּפָּרָה, שׁוֹחֲטִין וְזוֹרְקִין עִילָּוֵיהּ.
+*Translation:* **It could enter your mind to say that it is** true only with regard to a *zav* who **saw two sightings** and is now **on his seventh** day, **for he,** having already immersed, **does not lack** any **action; but** a *zav* who **saw three sightings** and is now **on his eighth** day, **who lacks an action** in that he still **lacks** his **atonement** offering, **no,** a Paschal lamb may not be offered on his behalf. The last clause therefore must **teach us that although he** still **lacks** his **atonement** offering, **one slaughters and sprinkles on his behalf.**
+
+**15.**
+*Hebrew/Aramaic:* אֶלָּא אִי אָמְרַתְּ רָאָה שְׁתֵּי רְאִיּוֹת בִּשְׁבִיעִי, דְּלָא טָבֵיל — רָאָה שָׁלֹשׁ בַּשְּׁמִינִי לְמָה לִי?
+*Translation:* **But if you say** that the first clause, which states: With regard to **a *zav* who saw two sightings,** one slaughters on his behalf **on the seventh day,** is referring to a case in which **he** had **not** already **immersed,** then **why do I need** the last clause, which states: With regard to **a *zav* who saw three sightings,** one slaughters on his behalf **on the eighth day?** This clause could be logically deduced from the first one, as follows:
+
+**16.**
+*Hebrew/Aramaic:* הַשְׁתָּא יֵשׁ לוֹמַר רָאָה שְׁתֵּי רְאִיּוֹת בַּשְּׁבִיעִי, דְּלָא טָבֵיל, דְּטָמֵא מְעַלְּיָא הוּא — שָׁחֲטִינַן וְזָרְקִינַן עִילָּוֵיהּ. רָאָה שָׁלֹשׁ בַּשְּׁמִינִי, דְּטָבֵיל לֵיהּ בַּשְּׁבִיעִי, דִּקְלִישָׁא טוּמְאָה — לֹא כׇּל שֶׁכֵּן דְּשָׁחֲטִינַן וְזָרְקִינַן עִילָּוֵיהּ!
+*Translation:* **Now, it can be said:** In the case of a *zav* who **saw two sightings** and is **on** his **seventh** day and **has not** yet **immersed,** and **he is** therefore still **completely impure, one** nevertheless **slaughters and sprinkles** the Paschal lamb **on his behalf,** since he can become pure by the evening. So too, with regard to a *zav* who **saw three** sightings and is now **on** his **eighth** day, and **who has** already **immersed on the seventh** day, and his **impurity** is therefore **weakened** in that he does not impart impurity to that which he touches, despite the fact that he is still prohibited to enter the Temple or partake of offerings until he brings his atonement offering, **is it not all the more so** true **that one** should **slaughter and sprinkle on his behalf?** Therefore, the last clause would be superfluous.
+
+**17.**
+*Hebrew/Aramaic:* אֶלָּא לָאו, שְׁמַע מִינַּהּ: רָאָה שְׁתֵּי רְאִיּוֹת בַּשְּׁבִיעִי דְּשָׁחֲטִינַן עִילָּוֵיהּ, דְּטָבֵיל.
+*Translation:* **Rather, must one not conclude from** the preceding analysis that the first clause, which states: With regard to a *zav* who **saw two sightings,** one slaughters on his behalf **on the seventh day,** is referring to a case in which **he** has already **immersed?**
+
+**18.**
+*Hebrew/Aramaic:* לָא, לְעוֹלָם אֵימָא לָךְ דְּלָא טָבֵיל, וְאִיצְטְרִיךְ. סָלְקָא דַּעְתָּךְ אָמֵינָא בַּשְּׁבִיעִי הוּא דִּבְיָדוֹ לְתַקֵּן,
+*Translation:* **No,** one should not come to such a conclusion. **Actually, I can say to you that** the mishna is referring to a case in which **one did not** yet **immerse, and it is necessary** to teach the last clause concerning a *zav* who saw three sightings, because **it could enter your mind to say** that **it is** only for a *zav* who saw two sightings that the Paschal lamb may be offered on his behalf **on the seventh, for it is within his ability to remedy** the situation and purify himself by immersing in a ritual bath.
+
+**19.**
+*Hebrew/Aramaic:* אֲבָל בַּשְּׁמִינִי דְּאֵין בְּיָדוֹ לְהַקְרִיב קׇרְבָּן, אֵימָא פָּשְׁעִי בֵּיהּ כֹּהֲנִים, קָא מַשְׁמַע לַן כִּדְרַב שְׁמַעְיָה.
+*Translation:* **But** then, **on the eighth** day of a *zav* who saw three sightings, **when it is not within his ability to sacrifice** the necessary **offering,** as he is dependent upon the priests to do it for him, **say** that perhaps **the priests will be negligent with him.** Perhaps his offering will not be brought, leaving him unfit for the Paschal lamb. Due to this concern, a Paschal lamb should not be offered on his behalf. The last clause therefore **teaches us** that there is no such concern, **in accordance with** the teaching of **Rav Shemaya,** who maintains that the court of the priests may be relied upon with certainty.
+
+**20.**
+*Hebrew/Aramaic:* וְהַזָּבָה שׁוֹחֲטִין וְכוּ׳. תָּנֵי תַּנָּא קַמֵּיהּ דְּרַב אַדָּא בַּר אַהֲבָה: ״וְהַזָּבָה שׁוֹחֲטִין עָלֶיהָ בַּשְּׁבִיעִי שֶׁלָּהּ״. אֲמַר לֵיהּ: זָבָה בַּשְּׁבִיעִי שֶׁלָּהּ מִי חַזְיָא? אֲפִילּוּ לְמַאן דְּאָמַר שׁוֹחֲטִין וְזוֹרְקִין עַל טְמֵא שֶׁרֶץ, הָנֵי מִילֵּי טְמֵא שֶׁרֶץ — דַּחֲזֵי לְאוּרְתָּא, הָא — עַד לִמְחַר דְּמַתְיָא כַּפָּרָה לָא חַזְיָא! אֵימָא: ״בַּשְּׁמִינִי״.
+*Translation:* **We learned** in the mishna: **And** with regard to **a *zava*; one slaughters** a Paschal lamb on her behalf on the eighth day after her sightings. **The *tanna* taught** a *baraita* **before Rav Adda bar Ahava: And** with regard to **a *zava*, one slaughters** a Paschal lamb **on her behalf on her seventh** day. **He said to him: Is a *zava* fit** to have a Paschal lamb offered on her behalf **on her seventh day? Even according to the one who says one slaughters and sprinkles on behalf of one who is impure from a creeping animal, this applies only to one who is ritually impure from a creeping animal, who will be fit** to eat the Paschal lamb **by the evening,** but **this** *zava* **will not be fit until the following day, when she brings her atonement** offering. Rather, emend the *baraita* you quoted and **say:** Her **eighth** day instead of: Her seventh day.
+
+**21.**
+*Hebrew/Aramaic:* פְּשִׁיטָא! מַהוּ דְּתֵימָא כֵּיוָן דִּמְחַסְּרָא כַּפָּרָה — לָא, קָא מַשְׁמַע לַן כִּדְרַב שְׁמַעְיָה.
+*Translation:* The Gemara asks: It is **obvious** that a Paschal lamb may be offered on behalf of a *zava* on her eighth day. It is necessary to teach this *halakha* **lest you say** that **since she lacks** the offering of an **atonement** to complete her purification process, there is a concern that the priests will be negligent and she will not be ritually pure by the evening. This *halakha* therefore **teaches us** that there is no such concern, **in accordance with** the teaching of **Rav Shemaya** that the court of the priests may be relied upon with certainty.
+
+**22.**
+*Hebrew/Aramaic:* רָבִינָא אָמַר — ״נִדָּה״ תְּנָא קַמֵּיהּ: ״וְהַנִּדָּה שׁוֹחֲטִין עָלֶיהָ בַּשְּׁבִיעִי״.
+*Translation:* **Ravina said:** The *tanna* didn’t teach the case of a *zava*; rather, he **taught** the case of **a menstruating woman** who is ritually impure due to her menstruation. She must count seven days from her first flow of blood, and then from the following night she can become ritually pure by immersing in a ritual bath. According to this, the *baraita* teaches: **And** with regard to **a menstruating woman, one slaughters for her on the seventh** day of her impurity.
+
+**23.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: נִדָּה בַּשְּׁבִיעִי מִי חַזְיָא? אֲפִילּוּ לְמַאן דְּאָמַר שׁוֹחֲטִין וְזוֹרְקִין עַל טְמֵא שֶׁרֶץ, דַּחֲזֵי לְאוּרְתָּא, נִדָּה לְאוּרְתָּא דִשְׁבִיעִי הוּא דְּטָבְלָה, עַד שְׁמִינִי דְּעָבְדָה הֶעֱרֵב שֶׁמֶשׁ לָא חַזְיָא! אֶלָּא אֵימָא: ״בַּשְּׁמִינִי״.
+*Translation:* **He said to him: Is a menstruating woman fit on the seventh? Even according to the one who says one slaughters and sprinkles on behalf of one who is impure from a creeping animal,** this is because **he will be fit** to eat the Paschal lamb **by the evening.** But **a menstruating woman** only **immerses** on **the night** following the **seventh** day, and **until the eighth** day, **when she experiences the setting of the sun, she is not** fully ritually pure and is not **fit** to partake of offerings. **Rather,** emend the *baraita* you quoted and **say:** Her **eighth** day, instead of: Her seventh day.
+
+**24.**
+*Hebrew/Aramaic:* פְּשִׁיטָא! הַשְׁתָּא וּמָה זָבָה דִּמְיחַסְּרָא כַּפָּרָה — שׁוֹחֲטִין וְזוֹרְקִין עָלֶיהָ בַּשְּׁמִינִי, נִדָּה דְּלָא מְיחַסְּרָא כַּפָּרָה — צְרִיכָה לְמֵימַר דְּשָׁחֲטִינַן וְזָרְקִינַן עֲלַהּ?!
+*Translation:* The Gemara asks: It is **obvious** that a Paschal lamb may be offered on behalf of a menstruating woman on her eighth day, as demonstrated by the following argument: **Now, just as** in the case of **a *zava* who lacks** the offering of an **atonement** to complete her purification process, **one slaughters and sprinkles on her behalf on the eighth** day, so too, with regard to **a menstruating woman, who does not lack** the offering of an **atonement** to complete her purification process, **is it necessary to say that one slaughters and sprinkles on her behalf?**
+
+**25.**
+*Hebrew/Aramaic:* נִדָּה אִיצְטְרִיכָא לֵיהּ, הָא קָא מַשְׁמַע לַן: בַּשְּׁמִינִי אִין, בַּשְּׁבִיעִי לָא, כִּדְתַנְיָא: כׇּל חַיָּיבֵי טְבִילוֹת טְבִילָתָן בַּיּוֹם, נִדָּה וְיוֹלֶדֶת טְבִילָתָן בַּלַּיְלָה.
+*Translation:* The Gemara explains that **it was necessary for** the *baraita* to teach the case of **a menstruating woman** because **it teaches us** that **on the eighth** day, **yes,** a Paschal lamb is offered on her behalf, but **on the seventh** day, **no, as it was taught** in a *baraita*: With regard to **all** those who are ritually impure and **are obligated to immerse, their immersion is in the day,** except for **a menstruating woman and a woman after childbirth,** whose **immersion is at night.**
+
+**26.**
+*Hebrew/Aramaic:* דְּתַנְיָא: יָכוֹל תְּהֵא טוֹבֶלֶת מִבְּעוֹד יוֹם? תַּלְמוּד לוֹמַר: ״שִׁבְעַת יָמִים תִּהְיֶה בְּנִדָּתָהּ״ — תְּהֵא בְּנִדָּתָהּ כׇּל שִׁבְעָה. וְיוֹלֶדֶת אִיתַּקַּשׁ לְנִדָּה.
+*Translation:* **As it was taught** in a different *baraita*: **I might** have thought that a menstruating woman or a woman after childbirth **should immerse while still day,** like others who are obligated to immerse. Therefore, **the verse states:** “And if a woman should have an issue, and her issue in her flesh be blood, **she shall be in her impurity seven days”** (Leviticus 15:19), which indicates that **she shall be in her** state of **impurity** for a **full seven** days and doesn’t immerse until the night following the seventh day. **And** this is also true of **a woman after childbirth,** who **is compared** in the Torah **to a menstruating woman** in the verse “If a woman conceives and gives birth to a male, then she shall be unclean seven days, as in the days of her menstrual flow shall she be unclean” (Leviticus 12:2).
+
+**27.**
+*Hebrew/Aramaic:* מַתְנִי׳ הָאוֹנֵן,
+*Translation:* MISHNA: **An acute mourner,** i.e., a mourner on the day of the death of an immediate relative;

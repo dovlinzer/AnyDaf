@@ -59,3 +59,76 @@
 **15.**
 *Hebrew/Aramaic:* הָיְתָה פְּחוּתָה מֵעֲשָׂרָה טְפָחִים, וְחָקַק בָּהּ כְּדֵי לְהַשְׁלִימָהּ לַעֲשָׂרָה, אִם יֵשׁ מִשְּׂפַת חֲקָק וְלַכּוֹתֶל שְׁלֹשָׁה טְפָחִים — פְּסוּלָה.
 *Translation:* If the *sukka* **was less than ten handbreadths** high **and he dug** out an area **inside** the *sukka* **in order to complete** the requisite height of the *sukka* **to ten** handbreadths, **if from the edge of the dug-**out **area to the wall there is** a distance of **three handbreadths, it is unfit,** as in that case the edge of the dug-out area is not joined to the wall of the *sukka*. Therefore, even though the interior space is ten handbreadths high, its walls are not the requisite height to be considered a fit *sukka*.
+
+
+---
+
+### Sukkah 4b
+
+**1.**
+*Hebrew/Aramaic:* פָּחוֹת מִשְּׁלֹשָׁה טְפָחִים — כְּשֵׁרָה.
+*Translation:* If the distance from the edge of the dug-out area to the wall was **less than three handbreadths** then it is **fit,** as the edge of the dug-out area is joined to the wall of the *sukka* based on the principle of *lavud*.
+
+**2.**
+*Hebrew/Aramaic:* מַאי שְׁנָא הָתָם, דְּאָמְרַתְּ פָּחוֹת מֵאַרְבַּע אַמּוֹת, וּמַאי שְׁנָא הָכָא, דְּאָמְרַתְּ פָּחוֹת מִשְּׁלֹשָׁה טְפָחִים?
+*Translation:* The Gemara asks: **What is different there,** in the case of a *sukka* with a platform in its center, **that you said** that it is a fit *sukka* if the wall is at a distance of **less than four cubits** from the edge of the platform, **and what is different here that you said** the wall must be at a distance of **less than three handbreadths** for the *sukka* to be fit?
+
+**3.**
+*Hebrew/Aramaic:* הָתָם, דְּאִיתֵיהּ לְדוֹפֶן, פָּחוֹת מֵאַרְבַּע אַמּוֹת — סַגִּיא, הָכָא, לְשַׁוּוֹיֵי לְדוֹפֶן, פָּחוֹת מִשְּׁלֹשָׁה טְפָחִים — אִין, אִי לָא — לָא.
+*Translation:* The Gemara answers: **There,** in the case of the *sukka* more than twenty cubits high, **where there** already **is a wall,** but it is removed from the platform, as long as the wall is at a distance of **less than four cubits,** it is **sufficient** to render the *sukka* fit. **Here,** where the *sukka* is less than ten handbreadths high, its wall is not a fit wall. In order **to render it a wall** by adding the height of the dug-out area, if the distance between them is **less than three handbreadths, yes,** the dug-out area is considered joined to the wall, as based on the principle of *lavud* two objects are considered joined if the gap between them is less than three handbreadths; and if **not, no,** they are not considered joined.
+
+**4.**
+*Hebrew/Aramaic:* הָיְתָה גְּבוֹהָה מֵעֶשְׂרִים אַמָּה, וּבָנָה בָּהּ עַמּוּד שֶׁהוּא גָּבוֹהַּ עֲשָׂרָה טְפָחִים, וְיֵשׁ בּוֹ הֶכְשֵׁר סוּכָּה — סָבַר אַבָּיֵי לְמֵימַר, גּוּד אַסֵּיק מְחִיצָתָא.
+*Translation:* If a *sukka* **was more than twenty cubits high, and one built a pillar in** the *sukka*, far from the walls, **that is ten handbreadths high,** and the distance from the top of the column to the roofing was less than twenty cubits, **and on** the horizontal surface of the column **there is** a bit more than seven by seven handbreadths, the minimum area required for **fitness of a *sukka*, Abaye thought to say** that this is a fit *sukka* because of the principle: **Extend and raise the partitions** of this pillar. Given that the column is at least ten handbreadths high, its four sides are therefore considered partitions, and the *halakha* is that the legal status of a partition is as if it extends and continues upwards indefinitely. Based on that perspective, the surface of the column is supported by four partitions at least ten handbreadths high that extend upward indefinitely, and from the top of the pillar to the roof is less than twenty cubits; therefore, this squared column forms a fit *sukka*.
+
+**5.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא: בָּעֵינַן מְחִיצוֹת הַנִּיכָּרוֹת, וְלֵיכָּא.
+*Translation:* **Rava said to** Abaye: That is not so, since in order to have a fit *sukka* **we require conspicuous partitions, and there are none,** as the sides of the column do not actually project above the surface.
+
+**6.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: נָעַץ אַרְבָּעָה קוּנְדֵּיסִין וְסִיכֵּךְ עַל גַּבָּן, רַבִּי יַעֲקֹב מַכְשִׁיר וַחֲכָמִים פּוֹסְלִין.
+*Translation:* § **The Sages taught:** If **one inserted four posts [*kundeisin*]** into the floor **and placed roofing over them** but no walls, **Rabbi Ya’akov deems it** a **fit** *sukka* **and the Rabbis deem it unfit.**
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַב הוּנָא: מַחְלוֹקֶת עַל שְׂפַת הַגָּג, דְּרַבִּי יַעֲקֹב סָבַר: אָמְרִינַן גּוּד אַסֵּיק מְחִיצָתָא, וְרַבָּנַן סָבְרִי: לָא אָמְרִינַן גּוּד אַסֵּיק מְחִיצָתָא, אֲבָל בָּאֶמְצַע הַגָּג — דִּבְרֵי הַכֹּל פְּסוּלָה. וְרַב נַחְמָן אָמַר: בְּאֶמְצַע הַגָּג מַחְלוֹקֶת.
+*Translation:* **Rav Huna said:** The **dispute** between the Rabbis and Rabbi Ya’akov is in a case where the four posts are aligned **on the edge of the roof,** directly above the exterior walls of a house, **as Rabbi Ya’akov holds** that **we say** the principle: **Extend and raise the partitions.** Since the exterior walls of the house are full-fledged partitions, they are considered as extending upward indefinitely, constituting the walls of the *sukka*. **And the Rabbis hold** that **we do not say** the principle: **Extend and raise the partitions. However,** if the posts are placed **in the center of the roof,** then the walls of the house are irrelevant and **everyone agrees** that **it is** an **unfit** *sukka*. **And Rav Naḥman said: The dispute** is in the case of a *sukka* **in the center of the roof,** as according to Rabbi Ya’akov, if the posts themselves are one handbreadth wide, they serve as the partitions, while the Rabbis hold that it is not a fit *sukka* until it has two complete walls and a partial third wall.
+
+**8.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: בְּאֶמְצַע הַגָּג מַחְלוֹקֶת, אֲבָל עַל שְׂפַת הַגָּג דִּבְרֵי הַכֹּל כְּשֵׁרָה, אוֹ דִלְמָא, בֵּין בָּזוֹ וּבֵין בָּזוֹ מַחְלוֹקֶת? תֵּיקוּ.
+*Translation:* **A dilemma was raised before** the Sages: Is Rav Naḥman saying that only if the *sukka* is **in the center of the roof** there is **a dispute** between Rabbi Ya’akov and the Rabbis, **but** if it is **at the edge of the roof everyone agrees** that **it is fit? Or perhaps** he is saying that there is a **dispute both in this** case **and in that** case? No resolution was found, so the dilemma **shall stand** unresolved.
+
+**9.**
+*Hebrew/Aramaic:* מֵיתִיבִי: נָעַץ אַרְבָּעָה קוּנְדֵּיסִין בָּאָרֶץ וְסִיכֵּךְ עַל גַּבָּן, רַבִּי יַעֲקֹב מַכְשִׁיר וַחֲכָמִים פּוֹסְלִין.
+*Translation:* The Gemara **raises an objection** from another *baraita*: If **one drove four posts into the ground and placed roofing over them, Rabbi Ya’akov deems it fit and the Rabbis deem it unfit.**
+
+**10.**
+*Hebrew/Aramaic:* וְהָא אֶרֶץ, דִּכְאֶמְצַע הַגָּג דָּמֵי, וְקָא מַכְשִׁיר רַבִּי יַעֲקֹב! תְּיוּבְתָּא דְרַב הוּנָא, תְּיוּבְתָּא.
+*Translation:* **But isn’t** the legal status of **the ground like** that of **the center of the roof,** as it is not surrounded by partitions that extend upward, **and** nevertheless **Rabbi Ya’akov deems it fit?** This is **a conclusive refutation of** the opinion of **Rav Huna,** who said that everyone agrees that a *sukka* in the center of the roof is unfit. The Gemara concludes: Indeed, it is **a conclusive refutation** of Rav Huna’s opinion.
+
+**11.**
+*Hebrew/Aramaic:* וְעוֹד: בָּאֶמְצַע הוּא דִּפְלִיגִי, אֲבָל עַל שְׂפַת הַגָּג דִּבְרֵי הַכֹּל כְּשֵׁרָה! לֵימָא תֶּיהְוֵי תְּיוּבְתֵּיהּ דְּרַב הוּנָא בְּתַרְתֵּי.
+*Translation:* **And furthermore,** there is an additional refutation of the opinion of Rav Huna. It is apparent from this *baraita* **that they disagree** with regard to the case of posts inserted **in the center** of the roof; **however,** in the case of the posts inserted **on the edge of the roof everyone agrees** that it is **fit. Let us say,** then, that **this is a conclusive refutation of** the opinion of **Rav Huna on two** counts. First, with regard to his statement that everyone agrees in the case of a *sukka* in the center of the roof that it is unfit, while the *baraita* cites a dispute on the matter; second, with regard to his statement that there is a dispute in the case of a *sukka* on the edge of the roof, while the *baraita* indicates that everyone agrees that it is fit.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר לְךָ רַב הוּנָא: פְּלִיגִי בְּאֶמְצַע הַגָּג, וְהוּא הַדִּין עַל שְׂפַת הַגָּג. וְהַאי דְּקָמִיפַּלְגִי בְּאֶמְצַע הַגָּג, לְהוֹדִיעֲךָ כֹּחוֹ דְּרַבִּי יַעֲקֹב, דַּאֲפִילּוּ בְּאֶמְצַע הַגָּג נָמֵי מַכְשִׁיר.
+*Translation:* The Gemara rejects this: **Rav Huna** could have **said to you** that there is no proof from the *baraita* with regard to the second matter, as it is possible that **they disagree in** the case of a *sukka* in **the center of the roof and** that **the same is true in** the case of a *sukka* **on the edge of the roof. And** the fact **that they** specifically **dispute** the case of a *sukka* **in** the **center of the roof** is **to convey to you the far-reaching** nature of the opinion **of Rabbi Ya’akov, who deems** the *sukka* **fit even in the center of the roof.**
+
+**13.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: נָעַץ אַרְבָּעָה קוּנְדֵּיסִין בָּאָרֶץ וְסִיכֵּךְ עַל גַּבָּן, רַבִּי יַעֲקֹב אוֹמֵר: רוֹאִין כׇּל שֶׁאִילּוּ יֵחָקְקוּ וְיֵחָלְקוּ, וְיֵשׁ בָּהֶן טֶפַח לְכָאן וְטֶפַח לְכָאן — נִידּוֹנִין מִשּׁוּם דְּיוֹמָד, וְאִם לָאו — אֵין נִידּוֹנִין מִשּׁוּם דְּיוֹמָד. שֶׁהָיָה רַבִּי יַעֲקֹב אוֹמֵר: דְּיוֹמְדֵי סוּכָּה טֶפַח, וַחֲכָמִים אוֹמְרִים: עַד שֶׁיְּהוּ שְׁתַּיִם כְּהִלְכָתָן, וּשְׁלִישִׁית אֲפִילּוּ טֶפַח.
+*Translation:* **The Sages taught:** If **one inserted four posts into the ground and placed a roof over them, Rabbi Ya’akov says: One considers** whether the posts are wide enough that **if they were grooved and split,** forming a piece of wood with two segments at a right angle, **and they have a handbreadth to here,** in this direction, **and a handbreadth to there,** in that direction, then they **are considered a double post [*deyumad*].** With regard to certain *halakhot*, the status of a double post positioned at a corner is that of two full-fledged partitions. **And if not,** if after splitting them they are narrower than that, **they are not considered a double post, as Rabbi Ya’akov would say:** The minimum measure of **double posts of a *sukka*** to be considered full-fledged partitions is one **handbreadth. And the Rabbis say:** The *sukka* is fit **only if it has two** full-fledged partitions **in the standard sense,** completely closing each of those two sides, **and a third** wall, which, based on a *halakha* transmitted to Moses from Sinai, measures **even a handbreadth.**
+
+**14.**
+*Hebrew/Aramaic:* וְשֶׁאֵינָהּ גְּבוֹהָה עֲשָׂרָה טְפָחִים. מְנָלַן?
+*Translation:* § The mishna continues: A *sukka* **that is not** even **ten handbreadths high** is unfit. The Gemara asks: **From where do we** derive this *halakha*?
+
+**15.**
+*Hebrew/Aramaic:* אִתְּמַר, רַב וְרַבִּי חֲנִינָא וְרַבִּי יוֹחָנָן וְרַב חֲבִיבָא מַתְנוּ.
+*Translation:* **It was stated** that **Rav, and Rabbi Ḥanina, and Rabbi Yoḥanan, and Rav Ḥaviva taught** the matter below.
+
+**16.**
+*Hebrew/Aramaic:* בְּכוּלֵּהּ סֵדֶר מוֹעֵד, כָּל כִּי הַאי זוּגָא — חַלּוֹפֵי רַבִּי יוֹחָנָן וּמְעַיְּילִי רַבִּי יוֹנָתָן.
+*Translation:* As an aside, the Gemara notes: **Throughout the entire order of *Mo*’*ed*, wherever this** second **pair** of Sages is mentioned, there are some *amora’im* who **replace Rabbi Yoḥanan and** do so by **inserting Rabbi Yonatan** in his place.
+
+**17.**
+*Hebrew/Aramaic:* אָרוֹן תִּשְׁעָה, וְכַפּוֹרֶת טֶפַח — הֲרֵי כָּאן עֲשָׂרָה, וּכְתִיב: ״וְנוֹעַדְתִּי לְךָ שָׁם וְדִבַּרְתִּי אִתְּךָ מֵעַל הַכַּפּוֹרֶת״,
+*Translation:* And this is what they taught: The **Ark** of the Covenant was itself **nine** handbreadths high, as it is stated explicitly in the Torah that it was one and a half cubits high and the cubit used to measure Temple vessels consisted of six handbreadths. **And** the **Ark cover** was one **handbreadth** thick. **There** is a total height of **ten** handbreadths **here. And it is written: “I will meet with you there and I will speak with you from above the Ark cover”** (Exodus 25:22),

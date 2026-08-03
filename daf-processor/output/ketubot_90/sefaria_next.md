@@ -83,3 +83,80 @@
 **21.**
 *Hebrew/Aramaic:* אֲמַר לְהוּ: אִי לָא מְפַיְּיסִיתוּ לְהוּ, מָחֵינָא לְכוּ בְּסִילְוָא דְּלָא מַבַּע דְּמָא. שַׁדְּרִינְהוּ לְקַמֵּיהּ דְּרַב נַחְמָן, אָמַר לָהֶן: כְּשֵׁם שֶׁמְּרוּבִּין וְנִתְמַעֲטוּ
 *Translation:* **He said to them: If you will not appease them, I will strike you with a thorn [*silva*] that does not draw blood,** i.e., I will excommunicate you. **He sent them before Rav Naḥman.** Rav Naḥman **said to them: Just as** the *halakha* is that if the properties were **abundant but depreciated,**
+
+
+---
+
+### Ketubot 91b
+
+**1.**
+*Hebrew/Aramaic:* זָכוּ בָּהֶן יוֹרְשִׁין — כָּךְ מוּעָטִין וְנִתְרַבּוּ זָכוּ בָּהֶן יוֹרְשִׁין.
+*Translation:* **the heirs acquired rights to** the mothers’ marriage contracts due to the value of the estate when their father died, **so too,** in a case where the properties were **few and** the value subsequently **appreciated, the heirs have acquired rights** to divide the entire estate equally, due to the value of the estate when their father died.
+
+**2.**
+*Hebrew/Aramaic:* (סִימַן: אֶלֶף וּמֵאָה מִצְוָה בִּכְתוּבָּה יַעֲקֹב זָקַף שְׂדוֹתָיו בִּדְבָרִים עֲסִיקִין).
+*Translation:* § This is **a mnemonic** device for the following *halakhot*, which are connected in one way or another to the problem being dealt with in the mishna: **One thousand, and one hundred, mitzva, in the marriage contract, Ya’akov, set up, his fields, with words, disputants.**
+
+**3.**
+*Hebrew/Aramaic:* הָהוּא גַּבְרָא דַּהֲווֹ מַסְּקִי בֵּיהּ אַלְפָּא זוּזֵי, הֲווֹ לֵיהּ תְּרֵי אַפַּדְנֵי, זַבְּנִינְהוּ חֲדָא בַּחֲמֵשׁ מְאָה וַחֲדָא בַּחֲמֵשׁ מְאָה. אֲתָא בַּעַל חוֹב טַרְפַאּ לַחֲדָא מִינַּיְיהוּ, הֲדַר קָטָרֵיף לְאִידַּךְ.
+*Translation:* There was **a certain man who** had a creditor with **a claim** of **one thousand dinars against him. He had two mansions [*appedanei*]. He sold them, one for five hundred and the other** one also **for five hundred. The creditor came and repossessed one of them** from the purchaser, as the repayment of part of his debt. **He subsequently** sought to **repossess the other** mansion as well, in payment for the remainder of his debt.
+
+**4.**
+*Hebrew/Aramaic:* שְׁקַל אַלְפָּא זוּזֵי וְקָא אָזֵיל לְגַבֵּיהּ, אֲמַר לֵיהּ: אִי שַׁוְיָא לָךְ אַלְפָּא זוּזֵי — לְחַיֵּי, וְאִי לָא — שְׁקֹיל אַלְפָּא זוּזֵי וְאִיסְתַּלַּק.
+*Translation:* The purchaser **took one thousand dinars and went to** the creditor. **He said to him: If** the first mansion that you repossessed is **worth one thousand dinars to you, very well,** let it be yours in exchange for the entire sum that is owed to you, **and if not, take** these **one thousand dinars and abrogate** your rights to both of the mansions, leaving them both in my possession.
+
+**5.**
+*Hebrew/Aramaic:* סְבַר רָמֵי בַּר חָמָא לְמֵימַר: הַיְינוּ מַתְנִיתִין אִם אָמְרוּ יְתוֹמִים ״הֲרֵי אָנוּ מַעֲלִין עַל נִכְסֵי אָבִינוּ יָפֶה דִּינָר״.
+*Translation:* **Rami bar Ḥama thought to say** that **this** case **is** identical to that which is taught in **the mishna: If the orphans say: We inflate** the value of **our father’s property by a dinar,** the court does not listen to them. This appears to be the case here as well, and the value of the mansion should not be assessed at higher than its market value.
+
+**6.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא: מִי דָּמֵי? הָתָם — אִית לְהוּ פְּסֵידָא לְיַתְמֵי, הָכָא — מִי אִית לֵיהּ פְּסֵידָא? אַלְפָּא יָהֵיב וְאַלְפָּא שָׁקֵיל!
+*Translation:* **Rava said to him: Are** the two cases **comparable? There,** in the mishna, **the** other **orphans** whose mother’s marriage contract was of lesser value will suffer a financial **loss** if the property is assessed at a value greater than it is actually worth. **Here,** in the case of the creditor, **does he incur a loss? He lent one thousand** dinars **and took one thousand** dinars; consequently, it would be cruel on his part to refuse to take the money and to insist on taking the second mansion from the purchaser.
+
+**7.**
+*Hebrew/Aramaic:* וְטִירְפָא, בְּכַמָּה כָּתְבִינַן?
+*Translation:* The Gemara asks: If the creditor decided to hold on to the first mansion and to forgive the remainder of the debt, **what amount is written** in the document of **authorization to repossess** liened property, through which the purchaser will claim compensation from the seller? The purchaser had paid only five hundred dinars for the mansion that was repossessed, but the repossession of that mansion earned the seller one thousand dinars, as his entire debt was paid off.
+
+**8.**
+*Hebrew/Aramaic:* רָבִינָא אָמַר: בְּאַלְפָּא. רַב עַוִּירָא אָמַר: בַּחֲמֵשׁ מְאָה. וְהִלְכְתָא: בַּחֲמֵשׁ מְאָה.
+*Translation:* **Ravina said:** It is written **for one thousand** dinars. **Rav Avira said:** It is written **for five hundred** dinars; the fact that the creditor forgave the full amount of the debt in exchange for this house was his own personal decision and does not reflect an increase in the property value of the house. The Gemara concludes: **The *halakha* is** that it is written **for five hundred** dinars.
+
+**9.**
+*Hebrew/Aramaic:* הָהוּא גַּבְרָא דַּהֲווֹ מַסְּקִי בֵּיהּ מְאָה זוּזֵי. הֲווֹ לֵיהּ תְּרֵי קַטִּינֵי דְאַרְעָא, (חַד זַבֵּינְהוּ) [זַבְּנִינְהוּ לְחַד] בְּחַמְשִׁין וְחַד בְּחַמְשִׁין. אֲתָא בַּעַל חוֹב טַרְפַאּ לְחַד מִינַּיְיהוּ, הֲדַר אֲתָא וְקָטָרֵיף לְאִידַּךְ.
+*Translation:* It is also related that there was **a certain man who** had a creditor with **a claim** of **one hundred dinars against him. He had two small** tracts **of land. He sold one for fifty and** he also sold the other **one for fifty. The creditor came and repossessed one of them** from the purchaser as the collection of part of his debt. **He subsequently came,** seeking to **repossess the other** tract of land as well, as payment for the rest of the debt owed to him.
+
+**10.**
+*Hebrew/Aramaic:* שְׁקַל מְאָה זוּזֵי וְקָאָזֵיל לְגַבֵּיהּ וַאֲמַר לֵיהּ: אִי שָׁוְיָא לָךְ מְאָה זוּזֵי — לְחַיֵּי, וְאִי לָא — שְׁקוֹל מְאָה זוּזֵי וְאִיסְתַּלַּק.
+*Translation:* The purchaser **took one hundred dinars and went to** the creditor. **He said to him: If** this tract is **worth one hundred dinars to you, very well, and if not, take one hundred dinars and abrogate** your rights to both of the tracts, leaving them both in my possession.
+
+**11.**
+*Hebrew/Aramaic:* סָבַר רַב יוֹסֵף לְמֵימַר: הַיְינוּ מַתְנִיתִין אִם אָמְרוּ יְתוֹמִים כּוּ׳. אֲמַר לֵיהּ אַבָּיֵי: מִי דָּמֵי? הָתָם — אִית לְהוּ פְּסֵידָא לְיַתְמֵי, הָכָא — מַאי פְּסֵידָא אִית לֵיהּ? מְאָה יָהֵיב, מְאָה שָׁקֵיל.
+*Translation:* **Rav Yosef thought to say** that this case **is** identical to that which is taught in **the mishna,** whereby **if the orphans say:** We inflate the value of our father’s property by a dinar, the court does not listen to them. **Abaye said to him: Are** the two cases **comparable? There,** in the mishna, **the** other **orphans** suffer **a** financial **loss** if the property is assessed at a value greater than it is actually worth; **here, what loss** does the creditor **incur? He lent one hundred** dinars **and took one hundred** dinars. It would be cruel on his part to refuse to take the money and to insist on taking the land from the purchaser.
+
+**12.**
+*Hebrew/Aramaic:* וְטִירְפָּא בְּכַמָּה כָּתְבִינַן? רָבִינָא אָמַר: בִּמְאָה, רַב עַוִּירָא אָמַר: בְּחַמְשִׁין. וְהִלְכְתָא בְּחַמְשִׁין.
+*Translation:* The Gemara asks: If the creditor decided to hold on to the first tract of land and to forgive the remainder of the debt, **what amount is written** in the document of **authorization to repossess** liened property, through which the purchaser will claim compensation from the seller? **Ravina said** that it is written **for one hundred. Rav Avira said** it is written **for fifty.** The Gemara concludes: **The *halakha* is** that it is written **for fifty** dinars.
+
+**13.**
+*Hebrew/Aramaic:* הָהוּא גַּבְרָא דַּהֲווֹ מַסְּקִי בֵּיהּ מְאָה זוּזֵי. שָׁכֵיב, שְׁבַק קַטִּינָא דְּאַרְעָא דַּהֲוָה שָׁוְיָא חַמְשִׁין זוּזֵי. אֲתָא בַּעַל חוֹב וְקָטָרֵיף לֵיהּ, אֲזוּל יַתְמֵי יְהַבוּ לֵיהּ חַמְשִׁין זוּזֵי, הֲדַר קָטָרֵיף לַהּ.
+*Translation:* The Gemara relates that there was **a certain man who** had a creditor with **a claim of one hundred dinars against him. He died** and **left a small** tract **of land worth fifty dinars. The creditor came and repossessed it. The orphans came** and **gave him fifty dinars** and redeemed the property from him. **He returned** and **repossessed it** again in order to collect the remainder of the debt.
+
+**14.**
+*Hebrew/Aramaic:* אֲתוֹ לְקַמֵּיהּ דְּאַבָּיֵי. אָמַר לָהֶן: מִצְוָה עַל הַיְּתוֹמִים לִפְרוֹעַ חוֹב אֲבִיהֶן. הָנֵי קַמָּאֵי מִצְוָה עָבְדִיתוּ, הַשְׁתָּא כִּי טָרֵיף — בְּדִין קָטָרֵיף.
+*Translation:* **They came before Abaye** to complain. **He said to them: It is a mitzva for orphans to settle their father’s debt.** Consequently, with the money you paid the creditor **initially, you performed a mitzva,** as you partially settled a debt your father owed. However, this payment did not cancel the lien on the property, and so **now, when he repossesses** the land, **he is repossesses** it **lawfully.**
+
+**15.**
+*Hebrew/Aramaic:* וְלָא אֲמַרַן דְּלָא אֲמַרוּ לֵיהּ: ״הָנֵי חַמְשִׁין זוּזֵי דְּמֵי דְּאַרְעָא קַטִּינָא״, אֲבָל אֲמַרוּ לֵיהּ: ״הָנֵי חַמְשִׁין זוּזֵי דְּמֵי אַרְעָא קַטִּינָא״ — סַלּוֹקֵי סַלְּקוּהּ.
+*Translation:* The Gemara notes: **And we said** this ruling only in a case **where** the orphans **did not say to** the creditor: **These fifty dinars are payment** for **the small** tract **of land. However,** if **they said to him: These fifty dinars are payment** for **the small** tract **of land, they have** successfully **removed him** from the land and he has no further claim to it.
+
+**16.**
+*Hebrew/Aramaic:* הָהוּא גַּבְרָא דְּזַבְּנַהּ לִכְתוּבְּתַהּ דְּאִימֵּיהּ בְּטוֹבַת הֲנָאָה, וַאֲמַר לֵיהּ: אִי אָתְיָא אֵם וּמְעַרְעֲרָא, לָא מְפַצֵּינָא לָךְ.
+*Translation:* § The Gemara relates that there was **a certain man who sold** the rights to **his mother’s marriage contract for** a certain **financial advantage,** i.e., he received a certain sum on the condition that if he would inherit his mother’s marriage contract, which would occur if his mother’s husband would die prior to his mother, the purchaser would obtain the right to collect the money. **And he told** the purchaser: **If** my **mother comes and objects** to the sale, **I will not reimburse you** for your purchase.
+
+**17.**
+*Hebrew/Aramaic:* שְׁכִיבָא אִימֵּיהּ וְלָא (אִי)עַרְעַרָא, וַאֲתָא אִיהוּ וְקָא מְעַרְעַר. סְבַר רָמֵי בַּר חָמָא לְמֵימַר: אִיהוּ בִּמְקוֹם אִימֵּיהּ קָאֵי. אֲמַר לֵיהּ רָבָא: נְהִי דְּאַחְרָיוּת דִּידַהּ לָא קַבֵּיל עֲלֵיהּ, אַחְרָיוּת דִּידֵיהּ מִי לָא קַבֵּיל?
+*Translation:* **His mother died** after her husband died, **and** had **not objected** to the sale. **He,** however, **came and contested** the sale. **Rami bar Ḥama thought to say** that **he stands in his mother’s place** and since he is her proxy, he has the right to object to the sale. **Rava said to him: Granted that he did not take upon himself** to **guarantee** the sale against his mother’s objections, but **did he not take upon himself** to **guarantee** it against **his own** objections? When he sold the right to collect the marriage contract, he most certainly guaranteed that he would not renege on the sale.
+
+**18.**
+*Hebrew/Aramaic:* אָמַר רָמֵי בַּר חָמָא: רְאוּבֵן שֶׁמָּכַר שָׂדֶה לְשִׁמְעוֹן שֶׁלֹּא בְּאַחְרָיוּת, וַאֲתָא שִׁמְעוֹן וּמְכָרָהּ לִרְאוּבֵן בְּאַחְרָיוּת,
+*Translation:* The Gemara relates a similar discussion. Rami **bar Ḥama said:** If **Reuven sold a field to Shimon without a guarantee, and Shimon came and sold** the field back **to Reuven,** but he sold it **with a guarantee** that if the field is repossessed, he will compensate the buyer for his loss,

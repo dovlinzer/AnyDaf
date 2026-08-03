@@ -42,7 +42,7 @@ The underlying point across all these approaches is consistent: how can one wear
 
 The *gemara* now raises a further possibility. Perhaps the debate is not about *kavanah* at all, but about something even more basic: *vekhakha be-la'avor shelo bizmano kamiflgi* — can one even be *over* on *bal tosif* when performing an act *shelo bizmano*, outside the time when the *mitzvah* applies? The earlier reasoning assumed that if *Shabbat* is not the *zman tefillin*, one is entirely safe, because the act is not even viewed through the *mitzvah* lens — comparable to taking a *lulav* during an ordinary weekday. But the *gemara* now questions whether that is actually so. Is it possible to violate *bal tosif shelo bizmano*?
 
-### Intent Outside Appointed…
+### Intent Outside Time
 
 The *gemara* suggests that this is precisely what *Tanna Kamma* and *Rabban Gamliel* disagree about. *Tanna Kamma* holds that even outside the *mitzvah*'s proper time, one can be *over* on *bal tosif* without *kavanah* — the mere act of wearing two pairs of *tefillin* on *Shabbat*, even if *Shabbat* is not the *zman tefillin*, suffices to constitute a transgression. *Rabban Gamliel* holds that outside the *mitzvah*'s time, *kavanah* is specifically required to be *over* — and since there is no such intent here, two pairs may be worn freely.
 
@@ -56,7 +56,7 @@ The *gemara* concludes from this that clearly, *shelo bizmano*, one cannot be *o
 
 This discussion also raises an interesting question about a case where one does have *kavanah*: if one sat in the *sukkah* on *Shemini Atzeret* with the explicit intention that the biblical *mitzvah* of *sukkah* should apply for eight days, that would indeed be *bal tosif*. Similarly, if one put on *tefillin* on *Shabbat* with the intention that the *mitzvah* applies seven days a week, one would be *over*. But if one took a *lulav* today — many months removed from *Sukkos* — and declared it a *mitzvah* on its own terms, that might not be *bal tosif* at all, since one has not expanded the base *mitzvah* from its natural scope; one has simply created an entirely new and separate ritual. *Bal tosif*, as *Chazal* understand it, is defined narrowly as expanding a *mitzvah* from its base — not inventing a new observance entirely unmoored from the original. If, however, one were to do it on the day immediately following *Sukkos*, or on each successive day until it connected back, then one would be expanding the *mitzvah*'s scope and might indeed be *over*.
 
-### Original Approach Confir…
+### Original Approach Wins
 
 The *gemara* concludes: *ela mehvarta keshaninan mei'ikara* — it is better to understand the matter as originally stated. If *Shabbat* is definitively not the *zman tefillin*, one is entirely safe with no *bal tosif* concerns whatsoever. All the debates reduce to: either *Shabbat* is not the *zman tefillin* — in which case wearing two pairs carries no *bal tosif* risk — or *Shabbat* is the *zman tefillin*, in which case the question is what is required to constitute *bal tosif* and whether the second pair without intent triggers it.
 

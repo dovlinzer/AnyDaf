@@ -55,3 +55,72 @@
 **14.**
 *Hebrew/Aramaic:* רַב הוּנָא בַּר מָנוֹחַ וְרַב שְׁמוּאֵל בַּר אִידִי וְרַב חִיָּיא מִוּוֹסְתַּנְיָא הֲווֹ שְׁכִיחִי קַמֵּיהּ דְּרָבָא. כִּי נָח נַפְשֵׁיהּ דְּרָבָא, אֲתוֹ לְקַמֵּיהּ דְּרַב פָּפָּא, כׇּל אֵימַת דַּהֲוָה אָמַר לְהוּ שְׁמַעְתָּא וְלָא הֲוָה מִסְתַּבְּרָא לְהוּ, הֲווֹ מְרַמְּזִי אַהֲדָדֵי. חֲלַשׁ דַּעְתֵּיהּ.
 *Translation:* The Gemara relates a story concerning the aforementioned verse from Zechariah. **Rav Huna bar Manoaḥ, Rav Shmuel bar Idi, and Rav Ḥiyya from Vastanya were** often **found before Rava,** as they were among his most distinguished students. **When Rava died, they came before Rav Pappa** to learn from him. However, as also they were great Sages, **whenever Rav Pappa would say a *halakha* that did not** sound **reasonable to them, they would gesture to each other** that Rav Pappa was not equal in stature to Rava. Rav Pappa **was offended** by their behavior.
+
+
+---
+
+### Taanit 9b
+
+**1.**
+*Hebrew/Aramaic:* אַקְרְיוּהּ בְּחֶלְמֵיהּ: ״וָאַכְחִד אֶת שְׁלֹשֶׁת הָרֹעִים״. לִמְחַר, כִּי הֲווֹ מִיפַּטְרִי מִינֵּיהּ, אֲמַר לְהוּ: לֵיזְלוּ רַבָּנַן בִּשְׁלָמָא.
+*Translation:* A verse **was read to** Rav Pappa **in a dream: “And I cut off the three shepherds in one month”** (Zechariah 11:8). **The next day, when they took their leave from him,** Rav Pappa **said to them: May the Rabbis go in peace,** a hint that this would be their final parting. Rav Pappa thought that the three Sages would die as punishment for their behavior and he would never see them again.
+
+**2.**
+*Hebrew/Aramaic:* רַב שִׁימִי בַּר אָשֵׁי הֲוָה שְׁכִיחַ קַמֵּיהּ דְּרַב פָּפָּא, הֲוָה מַקְשֵׁי לֵיהּ טוּבָא. יוֹמָא חַד חַזְיֵיהּ דִּנְפַל עַל אַפֵּיהּ, שַׁמְעֵיהּ דְּאָמַר: רַחֲמָנָא לִיצְּלַן מִכִּיסּוּפָא דְשִׁימִי. קַבֵּיל עֲלֵיהּ שְׁתִיקוּתָא, וְתוּ לָא אַקְשִׁי לֵיהּ.
+*Translation:* The Gemara relates a similar incident: **Rav Shimi bar Ashi was** often **found before Rav Pappa** and **would raise many objections against** the opinions of Rav Pappa. **One day** Rav Shimi bar Ashi saw Rav Pappa **fall on his face** after prayer. **He heard him say: May the Merciful One save me from the embarrassment of Shimi, and** as a result Rav Shimi bar Ashi **resolved to be silent and not to raise any further objections** against Rav Pappa, as he saw how greatly they pained his teacher.
+
+**3.**
+*Hebrew/Aramaic:* וְאַף רֵישׁ לָקִישׁ סָבַר מָטָר בִּשְׁבִיל יָחִיד, דְּאָמַר רֵישׁ לָקִישׁ: מִנַּיִן לַמָּטָר בִּשְׁבִיל יָחִיד, דִּכְתִיב: ״שַׁאֲלוּ מֵה׳ מָטָר בְּעֵת מַלְקוֹשׁ ה׳ עֹשֶׂה חֲזִיזִים וּמְטַר גֶּשֶׁם יִתֵּן לָהֶם לְאִישׁ עֵשֶׂב בַּשָּׂדֶה״.
+*Translation:* § The Gemara returns to the issue of rain. **And Reish Lakish also maintains** that **rain** can fall **for the sake of an individual, as Reish Lakish said: From where** is it derived **that rain** falls even **for the sake of an individual? As it is written: “Ask of the Lord rain at the time of the last rain; even of the Lord who makes thunderclouds, and He will give them showers of rain; for a man grass in the field”** (Zechariah 10:1).
+
+**4.**
+*Hebrew/Aramaic:* יָכוֹל לַכֹּל — תַּלְמוּד לוֹמַר ״לְאִישׁ״. וְתַנְיָא: אִי לְאִישׁ, יָכוֹל לְכׇל שְׂדוֹתָיו — תַּלְמוּד לוֹמַר: ״שָׂדֶה״. אִי שָׂדֶה, יָכוֹל לְכׇל הַשָּׂדֶה — תַּלְמוּד לוֹמַר: ״עֵשֶׂב״.
+*Translation:* One **might** have thought that rain falls **for** the sake of **all** the Jewish people. **The verse** therefore **states: “For a man,”** i.e., for the needs of an individual **And it was** further **taught** in a *baraita*: **If** rain falls **“for a man,”** one **might** have thought that the rain is **for all his fields.** Therefore **the verse states: “Field,”** which indicates that at times it rains on only one field. **If** it rains on one **field,** one **might** have thought that the rain is **for the entire field.** This is why **the verse states: “Grass”;** rain can fall for the sake of even a single plant in the field.
+
+**5.**
+*Hebrew/Aramaic:* כִּי הָא דְּרַב דָּנִיאֵל בַּר קַטִּינָא הֲוָה לֵיהּ הָהִיא גִּינְּתָא. כׇּל יוֹמָא הֲוָה אָזֵיל וְסָיַיר לַהּ. אָמַר: הָא מֵישְׁרָא בָּעֲיָא מַיָּא, וְהָא מֵישְׁרָא לָא בָּעֲיָא מַיָּא. וַאֲתָא מִיטְרָא וְקָמַשְׁקֵי כׇּל הֵיכָא דְּמִיבְּעֵי לֵיהּ מַיָּא.
+*Translation:* This is **like** the practice **of Rav Daniel bar Ketina,** who **had a certain garden. Every day he would go and inspect it,** to see what it needed. He would **say: This bed requires water and this bed does not require water, and rain would come and water everywhere that required water,** but nowhere else.
+
+**6.**
+*Hebrew/Aramaic:* מַאי ״ה׳ עֹשֶׂה חֲזִיזִים״? אָמַר רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: מְלַמֵּד שֶׁכׇּל צַדִּיק הַקָּדוֹשׁ בָּרוּךְ הוּא עוֹשֶׂה לוֹ חֲזִיז בִּפְנֵי עַצְמוֹ. מַאי ״חֲזִיזִים״? אָמַר רַב יְהוּדָה: פּוֹרְחוֹת. אָמַר רַבִּי יוֹחָנָן: סִימָן לַמָּטָר — פּוֹרְחוֹת. מַאי פּוֹרְחוֹת? אָמַר רַב פָּפָּא: עֵיבָא קְלִישָׁא תּוּתֵי עֵיבָא סְמִיכְתָּא.
+*Translation:* With regard to the aforementioned verse, the Gemara asks: **What** is the meaning of the phrase: **“The Lord** Who **makes thunderclouds”? Rabbi Yosei, son of Rabbi Ḥanina, said:** This **teaches** that for **every righteous person, the Holy One, Blessed be He, prepares a separate thundercloud.** The Gemara asks: **What** is the precise meaning of **“thunderclouds”? Rav Yehuda said: Flying** clouds. **Rabbi Yoḥanan said: A sign of** approaching **rain is flying** clouds. The Gemara asks: **What** are **flying** clouds? **Rav Pappa said:** A flying cloud is **a thin cloud under a thick cloud.**
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה: נְהִילָא מִקַּמֵּי מִיטְרָא — אָתֵי מִיטְרָא. בָּתַר מִיטְרָא — פָּסֵיק מִיטְרָא. מִקַּמֵּי מִיטְרָא — אָתֵי מִיטְרָא. וְסִימָנָיךְ: מַהוֹלְתָּא. דְּבָתַר מִיטְרָא — פָּסֵיק מִיטְרָא. וְסִימָנָיךְ: חַרְיָא דְעִיזֵּי.
+*Translation:* **Rav Yehuda said** that there is another sign of imminent rain: **Drizzle before rain** means that **rain is coming.** However, drizzle that falls **after rain** is a sign that the **rain is stopping.** Rav Yehuda provides an analogy by way of explanation: Drizzle **before rain** means that **rain is coming, and your mnemonic is a sieve:** Just as small quantities of flour drop from the sieve even before one begins to actively sift it, so too drizzle falls before rain. Conversely, drizzle **that** falls **after rain** signifies that the **rain is stopping, and your mnemonic is goat dung.** A goat’s initial droppings are large, whereas its latter droppings are small.
+
+**8.**
+*Hebrew/Aramaic:* עוּלָּא אִיקְּלַע לְבָבֶל, חֲזָא פּוֹרְחוֹת, אֲמַר לְהוּ: פַּנּוּ מָאנֵי, דְּהַשְׁתָּא אָתֵי מִיטְרָא. לְסוֹף לָא אָתֵי מִיטְרָא. אָמַר: כִּי הֵיכִי דִּמְשַׁקְּרִי בַּבְלָאֵי, הָכִי מְשַׁקְּרִי מִיטְרַיְיהוּ.
+*Translation:* The Gemara relates that when **Ulla happened to** come **to Babylonia, he saw flying** clouds. **He said to** the local residents: **Put away** your **vessels, as** the **rain is coming now. Ultimately,** despite the presence of flying clouds, **rain did not fall. He said: Just as Babylonians are liars, so too, their rains are liars,** as flying clouds are a reliable sign of rain in Eretz Yisrael, but not in Babylonia.
+
+**9.**
+*Hebrew/Aramaic:* עוּלָּא אִיקְּלַע לְבָבֶל, חָזֵי מְלָא צַנָּא דְתַמְרֵי בְּזוּזָא. אֲמַר: מְלָא צַנָּא דְּדוּבְשָׁא בְּזוּזָא, וּבַבְלָאֵי לָא עָסְקִי בְּאוֹרָיְיתָא? בְּלֵילְיָא צַעֲרוּהוּ, אָמַר: מְלָא צַנָּא דְסַכִּינֵי בְּזוּזָא, וּבַבְלָאֵי עָסְקִי בְּאוֹרָיְיתָא!
+*Translation:* The Gemara recounts another incident that occurred when **Ulla happened to** come **to Babylonia.** He **saw a basket full of dates** on sale **for** one **dinar, and** he said: One can buy **a basket full of honey dates for a dinar, and** yet these **Babylonians do not occupy themselves with Torah.** In a place where excellent food is so inexpensive, and where there is no need to engage in hard labor for one’s material needs, the inhabitants should be able to occupy themselves with Torah. Ulla himself ate many dates, but **during the night they caused him pain** and diarrhea. **He** subsequently **said: A basket full of knives for a dinar, and** yet somehow these **Babylonians** are able to **occupy themselves with Torah,** despite the trouble these dates cause.
+
+**10.**
+*Hebrew/Aramaic:* תַּנְיָא, רַבִּי אֱלִיעֶזֶר אוֹמֵר: כׇּל הָעוֹלָם כּוּלּוֹ מִמֵּימֵי אוֹקְיָינוֹס הוּא שׁוֹתֶה, שֶׁנֶּאֱמַר: ״וְאֵד יַעֲלֶה מִן הָאָרֶץ וְהִשְׁקָה אֶת כׇּל פְּנֵי הָאֲדָמָה״. אָמַר לוֹ רַבִּי יְהוֹשֻׁעַ: וַהֲלֹא מֵימֵי אוֹקְיָינוֹס מְלוּחִין הֵן! אָמַר לוֹ: מִתְמַתְּקִין בֶּעָבִים.
+*Translation:* § The Gemara discusses the source of rain. It **is taught** in a *baraita* **that Rabbi Eliezer says: The entire world drinks from the waters of the ocean [*okeyanos*],** i.e., evaporated ocean water is the source of rain. **As it is stated: “And there went up a mist from the earth and watered the whole face of the ground”** (Genesis 2:6). **Rabbi Yehoshua said to him: But the waters of the ocean are salty,** whereas rainwater is sweet. Rabbi Eliezer **said to** Rabbi Yehoshua: The waters **are sweetened in the clouds,** before they fall to the earth.
+
+**11.**
+*Hebrew/Aramaic:* רַבִּי יְהוֹשֻׁעַ אוֹמֵר: כׇּל הָעוֹלָם כּוּלּוֹ מִמַּיִם הָעֶלְיוֹנִים הוּא שׁוֹתֶה, שֶׁנֶּאֱמַר: ״לִמְטַר הַשָּׁמַיִם תִּשְׁתֶּה מָּיִם״, אֶלָּא מָה אֲנִי מְקַיֵּים ״וְאֵד יַעֲלֶה מִן הָאָרֶץ״? מְלַמֵּד שֶׁהָעֲנָנִים מִתְגַּבְּרִים וְעוֹלִים לָרָקִיעַ, וּפוֹתְחִין פִּיהֶן כְּנוֹד, וּמְקַבְּלִין מֵי מָטָר, שֶׁנֶּאֱמַר: ״יָזֹקּוּ מָטָר לְאֵדוֹ״.
+*Translation:* In contrast, **Rabbi Yehoshua says: The entire world drinks from the upper waters, as it is stated: “And it drinks water as the rain of heaven comes down”** (Deuteronomy 11:11). The *baraita* asks: **But** according to the opinion of Rabbi Yehoshua, **how do I uphold** the verse: **“And there went up a mist from the earth”?** Rabbi Yehoshua could answer that this verse **teaches that the clouds grow stronger, and rise to the firmament, and open their mouths like** a leather **bottle, and receive the rain waters** from above, **as it is stated:** “For He draws away the drops of water, **which distill rain from His vapor”** (Job 36:27).
+
+**12.**
+*Hebrew/Aramaic:* וּמְנוּקָּבוֹת הֵן כִּכְבָרָה, וּבָאוֹת וּמְחַשְּׁרוֹת מַיִם עַל גַּבֵּי קַרְקַע, שֶׁנֶּאֱמַר: ״חַשְׁרַת מַיִם עָבֵי שְׁחָקִים״. וְאֵין בֵּין טִיפָּה לְטִיפָּה אֶלָּא כִּמְלֹא נִימָא, לְלַמֶּדְךָ שֶׁגָּדוֹל יוֹם הַגְּשָׁמִים כְּיוֹם שֶׁנִּבְרְאוּ בּוֹ שָׁמַיִם וָאָרֶץ.
+*Translation:* **And** the clouds **are perforated like a sieve, and they come and sprinkle water onto the ground, as it is stated: “Gathering of waters, thick clouds of the skies”** (II Samuel 22:12). **And between each and every drop there is only a hairbreadth,** and yet each drop emerges individually. This serves **to teach you that the day of rains is as great as the day on which Heaven and Earth were created,** i.e., rainfall is as miraculous as creation.
+
+**13.**
+*Hebrew/Aramaic:* שֶׁנֶּאֱמַר: ״עֹשֶׂה גְדֹלוֹת וְאֵין חֵקֶר״, וּכְתִיב: ״הַנֹּתֵן מָטָר עַל פְּנֵי אָרֶץ״, וּכְתִיב לְהַלָּן: ״הֲלוֹא יָדַעְתָּ אִם לֹא שָׁמַעְתָּ אֱלֹהֵי עוֹלָם ה׳ אֵין חֵקֶר לִתְבוּנָתוֹ״, וּכְתִיב: ״מֵכִין הָרִים בְּכֹחוֹ וְגוֹ׳״.
+*Translation:* **As it is stated,** with regard to the creation of the world: **“Who does great things past finding out”** (Job 9:10), **and** as an example of this **it is written: “Who gives rain upon the earth”** (Job 5:9–10). **And it is written below: “Have you not known? Have you not heard that the everlasting God, the Lord,** the Creator of the ends of the earth, does not faint and is not weary; **His discernment is past finding out”** (Isaiah 40:28). The repetition of “past finding out” indicates that rainfall is as wondrous as the creation of the world. The Gemara adds: **And it is written** in a psalm that deals with rainfall: **“Who by Your strength sets fast the mountains;** Who is girded about with might” (Psalms 65:7).
+
+**14.**
+*Hebrew/Aramaic:* כְּמַאן אָזְלָא הָא דִּכְתִיב: ״מַשְׁקֶה הָרִים מֵעֲלִיּוֹתָיו״, וְאָמַר רַבִּי יוֹחָנָן: מֵעֲלִיּוֹתָיו שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, כְּמַאן — כְּרַבִּי יְהוֹשֻׁעַ.
+*Translation:* The Gemara asks: **In accordance with whose** opinion **is that** verse **which is written: “Who waters the mountains from His upper chambers”** (Psalms 104:13)? **And Rabbi Yoḥanan said:** This phrase indicates that the water comes **from the upper chambers of the Holy One, Blessed be He. In accordance with** whose opinion is this statement? It is **in accordance with** the opinion of **Rabbi Yehoshua,** who maintains that rain falls from above the sky.
+
+**15.**
+*Hebrew/Aramaic:* וְרַבִּי אֱלִיעֶזֶר, כֵּיוָן דְּסָלְקִי לְהָתָם — ״מַשְׁקֶה מֵעֲלִיּוֹתָיו״ קָרֵי לְהוּ. דְּאִי לָא תֵּימָא הָכִי, ״אָבָק וְעָפָר מִן הַשָּׁמַיִם״ הֵיכִי מַשְׁכַּחַתְּ לַהּ? אֶלָּא כֵּיוָן דְּמִדְּלֵי לְהָתָם — ״מִן הַשָּׁמַיִם״ קָרֵי לֵיהּ. הָכִי נָמֵי: דְּסָלְקִי לְהָתָם — ״מֵעֲלִיּוֹתָיו״ קָרֵי לֵיהּ.
+*Translation:* The Gemara asks: **And Rabbi Eliezer,** how does he explain this verse? The Gemara answers: According to Rabbi Eliezer, **since** the clouds **ascend there,** to the heavens, the verse **“who waters the mountains from His upper chambers” calls** and describes rainfall as descending from the heavens. **As, if you do not say so,** with regard to the verse: **“Powder and dust from the heavens”** (Deuteronomy 28:24), **where do you find** this phenomenon? Is there powder and dust in Heaven? **Rather,** you must say that **since** dust **rises up there, they are called** dust: **“From the heavens.” So too,** as the clouds **ascend there, they are called** and described: “Who waters the mountains **from His upper chambers.”**
+
+**16.**
+*Hebrew/Aramaic:* כְּמַאן אָזְלָא הָא דְּאָמַר רַבִּי חֲנִינָא: ״כֹּנֵס כַּנֵּד מֵי הַיָּם נֹתֵן בְּאוֹצָרוֹת תְּהוֹמוֹת״. מִי גָּרַם לָאוֹצָרוֹת שֶׁיִּתְמַלְּאוּ בָּר — תְּהוֹמוֹת, כְּרַבִּי אֱלִיעֶזֶר. וְרַבִּי יְהוֹשֻׁעַ: הָהוּא
+*Translation:* The Gemara asks: **In accordance with whose** opinion **is that which Rabbi Ḥanina said,** concerning the verse: **“He gathers the waters of the sea together as a heap; he lays up the deep in storerooms”** (Psalms 33:7): **What caused the storerooms to be filled with produce?** It was **the deep,** which is the source of the water that nourishes the produce. The Gemara answers: This explanation is **in accordance with** the opinion of **Rabbi Eliezer. And Rabbi Yehoshua,** how does he explain this verse? Rabbi Yehoshua would say: **That**

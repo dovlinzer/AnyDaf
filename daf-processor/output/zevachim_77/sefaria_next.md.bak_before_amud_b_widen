@@ -1,0 +1,33 @@
+### Zevachim 78a
+
+**1.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: אֵין דָּם מְבַטֵּל דָּם.
+*Translation:* **Rabbi Yehuda says: Blood does not nullify blood.** Therefore, the priest presents the blood of the mixture on the altar.
+
+**2.**
+*Hebrew/Aramaic:* נִתְעָרֵב בְּדַם פְּסוּלִין – יִשָּׁפֵךְ לָאַמָּה. בְּדַם הַתַּמְצִית – יִשָּׁפֵךְ לָאַמָּה; רַבִּי אֱלִיעֶזֶר מַכְשִׁיר. אִם לֹא נִמְלַךְ וְנָתַן – כָּשֵׁר.
+*Translation:* If blood fit for presentation **was mixed with the blood of unfit** offerings, there is no remedy. Therefore, the entire mixture **shall be poured into the drain** running through the Temple courtyard. Likewise, if blood fit for presentation was mixed **with blood of exudate,** i.e., that exudes from the neck after the initial spurt following its slaughter concludes, which is unfit for presentation, the entire mixture **shall be poured into the** Temple courtyard **drain. Rabbi Eliezer deems** this mixture **fit** for presentation. Even according to the first *tanna*, **if** the priest **did not consult** the authorities **and placed** the blood on the altar, the offering is **fit.**
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: לֹא שָׁנוּ אֶלָּא שֶׁנָּפְלוּ מַיִם לְתוֹךְ דָּם, אֲבָל נָפַל דָּם לְתוֹךְ מַיִם – רִאשׁוֹן רִאשׁוֹן בָּטֵל.
+*Translation:* GEMARA: The mishna teaches that in a case where water became mixed with the blood of an offering, if the mixture has the appearance of blood it is fit, despite the fact that there is more water than blood. Concerning this **Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says: They taught** this *halakha* **only** in a case **where** the **water fell into** the **blood. But** in a case where the **blood fell into** the **water,** the **first** drop of blood, and then the next **first** drop of blood, is **nullified** in the water, i.e., each drop is nullified in turn. Consequently, the mixture is unfit for presentation, regardless of whether it has the appearance of blood.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַב פָּפָּא: וּלְעִנְיַן כִּיסּוּי אֵינוֹ כֵּן, לְפִי שֶׁאֵין דִּחוּי בְּמִצְוֹת.
+*Translation:* **Rav Pappa says: But with regard to** the mitzva of **covering** the blood of birds or undomesticated animals that are slaughtered, **it is not so.** In this case, even if the blood fell into water, the mitzva of covering applies to it, provided that the mixture has the appearance of blood. The blood is not nullified by the water **because there is no** permanent **rejection with regard to mitzvot,** i.e., its nullification was merely temporary, but once there is enough blood in the water, it reassumes its status of blood.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רֵישׁ לָקִישׁ: הַפִּיגּוּל וְהַנּוֹתָר וְהַטָּמֵא שֶׁבְּלָלָן זֶה בָּזֶה וַאֲכָלָן – פָּטוּר; אִי אֶפְשָׁר שֶׁלֹּא יַרְבֶּה מִין עַל חֲבֵירוֹ וִיבַטְּלֶנּוּ.
+*Translation:* § The Gemara continues to discuss various mixtures. **Reish Lakish says:** With regard to meat of ***piggul*,** i.e., an offering that was sacrificed with the intent to consume it beyond its designated time, **and** meat of ***notar*,** an offering whose designated time for consumption has passed, **and ritually impure** sacrificial meat, each of which was an olive-bulk, the minimum size for which one is liable to be flogged for its consumption, **that one mixed together and ate them** as a mixture, he is **exempt** from being flogged. The reason is that it is **impossible that** while eating them one **type would not be greater than another** type **and nullify it.** Since it is unknown which prohibition will nullify the other, one cannot forewarn the offender as to which prohibition he is about to transgress, and in order to be liable to be flogged one must receive a forewarning concerning a specific prohibition.
+
+**6.**
+*Hebrew/Aramaic:* שְׁמַע מִינַּהּ תְּלָת: שְׁמַע מִינַּהּ אִיסּוּרִין מְבַטְּלִין זֶה אֶת זֶה, וּשְׁמַע מִינַּהּ נוֹתֵן טַעַם בְּרוֹב לָאו דְּאוֹרָיְיתָא, וּשְׁמַע מִינַּהּ הַתְרָאַת סָפֵק לֹא שְׁמָהּ הַתְרָאָה.
+*Translation:* The Gemara comments: **Conclude three** *halakhot* **from** this statement of Reish Lakish. **Conclude from it** that **prohibitions nullify one another** in a majority, just as permitted items nullify a prohibited item. **And conclude from it** that the *halakha* that when a prohibited food **imparts flavor** to a permitted substance it prohibits it even **when** the permitted substance is the **majority** does **not** apply **by Torah law,** but by rabbinic law. The proof is that if this principle were applied by Torah law, then one should be flogged for this consumption, as the meats are of different types and therefore one of them must have imparted flavor to the other. **And** finally, **conclude from it** that **an uncertain forewarning,** e.g., one in which the witnesses cannot be sure which prohibition the transgressor is about to violate, **is not considered a forewarning.**
+
+**7.**
+*Hebrew/Aramaic:* מֵתִיב רָבָא: עָשָׂה עִיסָּה מִן חִיטִּין וּמִן אוֹרֶז – אִם יֵשׁ בָּהּ טַעַם דָּגָן, חַיֶּיבֶת בְּחַלָּה. וְאַף עַל גַּב דְּרוּבָּא אוֹרֶז!
+*Translation:* Concerning the inference that the *halakha* that when a prohibited food imparts flavor to a permitted substance it prohibits it even when the permitted substance is the majority does not apply by Torah law, **Rava raises an objection** from a mishna (*Ḥalla* 3:7): In a case where one **prepared a dough from wheat and from rice, if** this mixture **has the taste of wheat,** it is **obligated in** the separation of ***ḥalla*,** a portion of dough that must be given to a priest (see Numbers 15:17–21). *Ḥalla* is separated only from one of the five species of grain, not rice. Rava explains his objection: **And** this *halakha* applies **even though the majority** of the mixture is flour from **rice.** Apparently, the fact that the wheat imparts flavor to the dough renders it obligated in *ḥalla* even if the wheat is the minority.
+
+**8.**
+*Hebrew/Aramaic:* מִדְּרַבָּנַן. אִי הָכִי, אֵימָא סֵיפָא: אָדָם יוֹצֵא בָּהּ יְדֵי חוֹבָתוֹ בַּפֶּסַח!
+*Translation:* The Gemara answers: The obligation to set aside *ḥalla* in this case applies **by rabbinic law,** not by Torah law. Rava raises a difficulty: **If so, say the latter clause** of that same mishna: **A person can fulfill his obligation with** *matza* from this type of dough **on** the first night of **Passover.** Since by Torah law this mitzva must be fulfilled with *matza* made from a grain, evidently the principle that one substance that imparts flavor to a greater amount of a different substance affects its status applies by Torah law.

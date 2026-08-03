@@ -67,3 +67,76 @@
 **17.**
 *Hebrew/Aramaic:* אָמַר רַב חִסְדָּא: הַשּׁוֹחֵט אֶת הַטְּרֵפָה, וּמָצָא בָּהּ בֶּן תִּשְׁעָה חַי –
 *Translation:* **Rav Ḥisda said:** With regard to **one who slaughtered a *tereifa* and found inside it a live nine-**month**-old** fetus,
+
+
+---
+
+### Hullin 75b
+
+**1.**
+*Hebrew/Aramaic:* טָעוּן שְׁחִיטָה, וְחַיָּיב בִּזְרוֹעַ וְהַלְּחָיַיִם וְהַקֵּבָה, וְאִם מֵת – טָהוֹר מִלְּטַמֵּא בְּמַשָּׂא.
+*Translation:* the fetus **requires** its own **slaughter** to permit its consumption, **and it is subject to the obligation to** give **the foreleg and the jaw and the maw** to a priest, as is required for a non-sacred animal that is slaughtered. **But** nevertheless, **if it dies,** the fact that its mother was slaughtered serves to render it **pure with regard to imparting impurity** to people **through** their **carrying** of it, as it does not impart the impurity of a carcass.
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא: טָעוּן שְׁחִיטָה – כְּמַאן? כְּרַבִּי מֵאִיר, וְאִם מֵת טָהוֹר מִלְּטַמֵּא בְּמַשָּׂא – כְּמַאן? כְּרַבָּנַן.
+*Translation:* **Rava said to** Rav Ḥisda: Your ruling is inconsistent. When you say it **requires slaughter, in accordance with whose** opinion is that? It is **in accordance with** the opinion of **Rabbi Meir,** that a live nine-month-old fetus is not permitted by virtue of its mother’s slaughter. **But** when you say that **if it dies,** it is **pure with regard to imparting impurity through carrying, in accordance with whose** opinion is that? It is **in accordance with** the opinion of **the Rabbis.**
+
+**3.**
+*Hebrew/Aramaic:* וְלִיטַעְמָיךְ, הָא דְתָנֵי רַבִּי חִיָּיא: הַשּׁוֹחֵט אֶת הַטְּרֵפָה וּמָצָא בָּהּ בֶּן תִּשְׁעָה חַי – טָעוּן שְׁחִיטָה, וְחַיָּיב בִּזְרוֹעַ וְהַלְּחָיַיִם וְהַקֵּבָה, וְאִם מֵת – טָהוֹר מִלְּטַמֵּא בְּמַשָּׂא. טָעוּן שְׁחִיטָה כְּמַאן? כְּרַבִּי מֵאִיר, וְאִם מֵת – טָהוֹר מִלְּטַמֵּא בְּמַשָּׂא, כְּרַבָּנַן.
+*Translation:* Rav Ḥisda replied: **And according to your reasoning,** the same difficulty arises with **that which Rabbi Ḥiyya teaches** in a *baraita*: With regard to **one who slaughtered** an animal that is **a *tereifa* and found inside it a live nine-**month**-old** fetus, it **requires** its own **slaughter, and it is subject to the obligation to** give **the foreleg and the jaw and the maw** to a priest. **But** nevertheless, **if it dies,** it is **pure with regard to imparting impurity through carrying.** When he says that it **requires slaughter, in accordance with whose** opinion is that? It is **in accordance with** the opinion of **Rabbi Meir. But** when he says that **if it dies,** it is **pure with regard to imparting impurity through carrying,** it is **in accordance with** the opinion of **the Rabbis.**
+
+**4.**
+*Hebrew/Aramaic:* הָא לָא קַשְׁיָא, רַבִּי חִיָּיא אִם כְּבָר מְצָאוֹ מֵת קָאָמַר, אֶלָּא לְדִידָךְ קַשְׁיָא!
+*Translation:* Rava responded: **That** is **not difficult,** as it is possible that **Rabbi Ḥiyya was speaking** about **if one found** that the fetus **had already died** inside the mother. In such a case, Rabbi Meir concedes that its mother’s slaughter renders it pure, as stated in the mishna. Accordingly, the *baraita* is entirely in accordance with the opinion of Rabbi Meir. **But according to your** opinion, that even if it was found alive and died later it is pure from the impurity of a carcass, it is **difficult.**
+
+**5.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: לְדִידִי נָמֵי לָא קַשְׁיָא, אַרְבָּעָה סִימָנִים אַכְשַׁר בֵּיהּ רַחֲמָנָא.
+*Translation:* Rav Ḥisda **said to** Rava: **According to my** opinion **also** it is **not difficult,** as I claim that the entire *baraita* is in accordance with the opinion of the Rabbis, and although the slaughter of its mother permits the fetus, its own slaughter can also permit it, as **the Merciful One considers four *simanim* to be fit** for slaughter, two of the mother and two of the fetus, the fetus being permitted through the cutting of either pair.
+
+**6.**
+*Hebrew/Aramaic:* כִּי סָלֵיק רַבִּי זֵירָא, אַשְׁכְּחֵיהּ לְרַב אַסִּי דְּיָתֵיב וְקָאָמַר לֵיהּ לְהָא שְׁמַעְתָּא. אֲמַר לֵיהּ: יִישַׁר, וְכֵן אָמַר רַבִּי יוֹחָנָן. מִכְּלָל דִּפְלִיג עֲלֵיהּ רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ?
+*Translation:* The Gemara relates: **When Rabbi Zeira ascended** to Eretz Yisrael, **Rav Asi found him sitting and saying this *halakha*** of Rav Ḥisda, i.e., that the Merciful One considers four *simanim* to be fit for slaughter. Rav Asi **said to him: That is correct, and so says Rabbi Yoḥanan.** Rabbi Zeira asked him: Can I conclude **by inference** from your statement **that Rabbi Shimon ben Lakish,** Rabbi Yoḥanan’s colleague, **disagrees with him?**
+
+**7.**
+*Hebrew/Aramaic:* מִשְׁהָא הֲוָה שָׁהֵי לֵיהּ וְשָׁתֵיק לֵיהּ, וְאִיכָּא דְּאָמְרִי: מִשְׁתָּא הֲוָה שָׁתֵי וְשָׁתֵיק לֵיהּ.
+*Translation:* Rav Asi answered: I do not know, as after Rabbi Yoḥanan made his statement, Rabbi Shimon ben Lakish **was waiting for him** to see if he would retract, **and** he therefore **remained silent** about whether or not he disagreed. But it is possible that after I left, he disagreed. **And some say** that Rav Asi said: At that time, Rabbi Shimon ben Lakish **was drinking, and** that is why he **remained silent.** Therefore, I do not know whether or not he disagreed.
+
+**8.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן שֵׁזוּרִי אוֹמֵר: אֲפִילּוּ וְכוּ׳. הַיְינוּ תַּנָּא קַמָּא! אָמַר רַב כָּהֲנָא: הִפְרִיס עַל גַּבֵּי קַרְקַע אִיכָּא בֵּינַיְיהוּ.
+*Translation:* § The mishna teaches that **Rabbi Shimon Shezuri says: Even** if a nine-month-old fetus emerged alive and is now five years old and plowing in the field it does not require slaughter. The Gemara asks: This opinion of Rabbi Shimon Shezuri **is** identical to that of **the first *tanna*,** i.e., the Rabbis. What difference is there between them? **Rav Kahana said:** The difference **between them** is a case where the fetus **stood upon the ground.** According to the opinion of the first *tanna*, once the fetus walks on the ground there is a rabbinic decree requiring that it be slaughtered before it is consumed, lest people mistakenly permit other animals without slaughter. Rabbi Shimon Shezuri disagrees and holds that it does not require slaughter.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רַב מְשַׁרְשְׁיָא: לְדִבְרֵי הָאוֹמֵר חוֹשְׁשִׁין לְזֶרַע הָאָב, בֶּן פְּקוּעָה הַבָּא עַל בְּהֵמָה מְעַלַּיְיתָא – הַוָּלָד אֵין לוֹ תַּקָּנָה.
+*Translation:* **Rav Mesharshiyya said: According to the statement of the one who says** that when defining the status of an animal **one** needs **to be concerned with its paternity,** if **a *ben pekua* copulated with a full-fledged animal, the offspring has no rectification.** Although when the mother and father are each a *ben pekua* the offspring is permitted without ritual slaughter, if the father is a *ben pekua* but the mother is not, the offspring is simultaneously defined as requiring slaughter, based on the mother, and being excluded from the requirement for slaughter, based on the father. Therefore, no act of slaughter can permit it.
+
+**10.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: הַכֹּל מוֹדִים בְּקָלוּט בֶּן פְּקוּעָה שֶׁמּוּתָּר, מַאי טַעְמָא? כֹּל מִלְּתָא דִּתְמִיהָא מִידְכָּר דְּכִירִי לַהּ אִינָשֵׁי. אִיכָּא דְּאָמְרִי: אָמַר אַבָּיֵי: הַכֹּל מוֹדִים בְּקָלוּט בֶּן קְלוּטָה בֶּן פְּקוּעָה שֶׁמּוּתָּר, מַאי טַעְמָא? תְּרֵי תְּמִיהֵי מִידְכָּר דְּכִירִי אִינָשֵׁי.
+*Translation:* **Abaye says: Everyone,** i.e., even the first *tanna*, who requires the slaughter of a *ben pekua* that stood upon the ground, **agrees with regard to a *ben pekua*** with **non-cloven** hooves that was found inside a kosher animal, **that it is permitted** by virtue of the slaughter of its mother. **What is the reason** for this? It is that **people remember any bizarre matter,** and there is no concern that if it is permitted without slaughter, people will mistakenly permit regular animals without slaughter. **Some say** that **Abaye said: Everyone agrees with regard to a *ben pekua*** with **non-cloven** hooves found inside an animal with **non-cloven** hooves that was itself born to a kosher animal, **that** the fetus **is permitted** without slaughter even if it stood on the ground. **What is the reason?** It is that **people remember two bizarre matters.**
+
+**11.**
+*Hebrew/Aramaic:* אָמַר זְעֵירִי אָמַר רַבִּי חֲנִינָא: הֲלָכָה כְּרַבִּי שִׁמְעוֹן שֵׁזוּרִי, וְכֵן הָיָה רַבִּי שִׁמְעוֹן שֵׁזוּרִי מַתִּיר בִּבְנוֹ וּבֶן בְּנוֹ עַד סוֹף כׇּל הַדּוֹרוֹת. רַבִּי יוֹחָנָן אָמַר: הוּא מוּתָּר, וּבְנוֹ אָסוּר.
+*Translation:* **Ze’eiri says** that **Rabbi Ḥanina says:** The ***halakha*** is **in accordance with** the opinion of **Rabbi Shimon ben Shezuri** that a *ben pekua* is permitted without slaughter even if it stood upon the ground. **And similarly, Rabbi Shimon Shezuri would permit** without slaughter **the offspring** of a *ben pekua* **and the offspring of its offspring,** and so on **to the end of all** future **generations. Rabbi Yoḥanan says: It,** the *ben pekua* itself, **is permitted, but its offspring is prohibited** unless it is slaughtered.
+
+**12.**
+*Hebrew/Aramaic:* אַדָּא בַּר חָבוּ הֲוָה לֵיהּ בֶּן פְּקוּעָה דִּנְפַל דֵּיבָא עֲלֵיהּ, אֲתָא לְקַמֵּיהּ דְּרַב אָשֵׁי. אֲמַר לֵיהּ: זִיל שַׁחְטֵיהּ. אֲמַר לֵיהּ: הָאָמַר זְעֵירִי אָמַר רַבִּי חֲנִינָא: הֲלָכָה כְּרַבִּי שִׁמְעוֹן שֵׁזוּרִי, וְכֵן הָיָה רַבִּי שִׁמְעוֹן שֵׁזוּרִי מַתִּיר בִּבְנוֹ וּבֶן בְּנוֹ עַד סוֹף כׇּל הַדּוֹרוֹת, וַאֲפִילּוּ רַבִּי יוֹחָנָן לָא קָאָמַר אֶלָּא בְּנוֹ, אֲבָל אִיהוּ לָא!
+*Translation:* The Gemara relates: **Adda bar Ḥavu had a *ben pekua* that was attacked by a bear** and was about to die. **He came before Rav Ashi** to inquire what to do. Rav Ashi **said to him: Go** and **slaughter it** before it dies so that you can eat it, in accordance with the opinion of the first *tanna* that if a *ben pekua* stood upon the ground it requires slaughter. Adda bar Ḥavu **said to** Rav Ashi: **But doesn’t Ze’eiri say** that **Rabbi Ḥanina says:** The ***halakha*** is **in accordance with** the opinion of **Rabbi Shimon Shezuri** that a *ben pekua* is permitted without slaughter even if it stood upon the ground, **and similarly, Rabbi Shimon Shezuri would permit** without slaughter **the offspring** of a *ben pekua* **and the offspring of its offspring,** and so on **to the end of all** future **generations? And even Rabbi Yoḥanan,** who disagreed, **said** his dissenting opinion **only** with regard to **its offspring, but** with regard to a *ben pekua* **itself,** he did **not** disagree that it is permitted.
+
+**13.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: רַבִּי יוֹחָנָן לְדִבְרֵי רַבִּי שִׁמְעוֹן שֵׁזוּרִי קָאָמַר.
+*Translation:* Rav Ashi **said to** Adda bar Ḥavu: **Rabbi Yoḥanan was speaking according to the statement of Rabbi Shimon Shezuri,** i.e., he said that even Rabbi Shimon Shezuri permits only a *ben pekua* itself, but not its offspring. But Rabbi Yoḥanan himself agrees with the first *tanna* that a *ben pekua* that stood upon the ground is prohibited without slaughter.
+
+**14.**
+*Hebrew/Aramaic:* וְהָאָמַר רָבִין בַּר חֲנִינָא אָמַר עוּלָּא אָמַר רַבִּי חֲנִינָא: הֲלָכָה כְּרַבִּי שִׁמְעוֹן שֵׁזוּרִי, וְלֹא עוֹד, אֶלָּא כׇּל מָקוֹם שֶׁשָּׁנָה רַבִּי שִׁמְעוֹן שֵׁזוּרִי בְּמִשְׁנָתֵנוּ – הֲלָכָה כְּמוֹתוֹ!
+*Translation:* Adda bar Ḥavu persisted: **But didn’t Ravin bar Ḥanina say** that **Ulla says** that **Rabbi Ḥanina says** with regard to a different issue: The ***halakha*** is **in accordance with** the opinion of **Rabbi Shimon Shezuri; and moreover,** not only is the *halakha* in accordance with his opinion with regard to this matter, but in **any place where Rabbi Shimon Shezuri taught** a *halakha* **in our Mishna,** the ***halakha*** is **in accordance with his** opinion?
+
+**15.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: אֲנָא כִּי הָא סְבִירָא לִי, דְּאָמַר רַבִּי יוֹנָתָן: הֲלָכָה כְּרַבִּי שִׁמְעוֹן שֵׁזוּרִי בִּמְסוּכָּן, וּבִתְרוּמַת מַעֲשֵׂר שֶׁל דְּמַאי.
+*Translation:* Rav Ashi **said to** Adda bar Ḥavu: **I hold in accordance with this** statement of Rabbi Yonatan, **as Rabbi Yonatan says:** The ***halakha*** is **in accordance with** the opinion of **Rabbi Shimon Shezuri in** the case of one who is **dangerously ill, and in** the case of ***teruma* of the tithe of doubtfully tithed produce [*demai*],** but not in other cases, e.g., in the case of his disagreement with the first *tanna* concerning a *ben pekua*.
+
+**16.**
+*Hebrew/Aramaic:* מְסוּכָּן, דִּתְנַן: בָּרִאשׁוֹנָה הָיוּ אוֹמְרִים, הַיּוֹצֵא בְּקוֹלָר וְאָמַר: ״כִּתְבוּ גֵּט לְאִשְׁתִּי״, הֲרֵי אֵלּוּ יִכְתְּבוּ וְיִתְּנוּ. חָזְרוּ לוֹמַר: אַף הַמְפָרֵשׁ וְהַיּוֹצֵא בִּשְׁיָירָא. רַבִּי שִׁמְעוֹן בֶּן שֵׁזוּרִי אוֹמֵר: אַף הַמְסוּכָּן.
+*Translation:* The Gemara now elaborates on these two cases. The case of one who is **dangerously ill** is **as we learned** in a mishna (*Gittin* 65b): **Initially,** the Sages **would say** that in the case of **one who is taken out in a neck chain [*bekolar*]** to be executed **and** who **said: Write a bill of divorce for my wife, these** people who hear **should write** the document **and give** it to her. Although there was no explicit instruction to give it to her, this is understood to have been his intention, in order to release her from the obligation to perform levirate marriage or the ritual through which she becomes free of her levirate bonds [*ḥalitza*]. **They then said** that this *halakha* applies **even** to **one who sets sail and one who departs in a caravan** to a distant place. A bill of divorce is given to his wife under these circumstances even if her husband said only: Write a bill of divorce for my wife. **Rabbi Shimon ben Shezuri says: Even** in the case of **one who is dangerously ill** who gives that instruction, they write the bill of divorce and give it to his wife.
+
+**17.**
+*Hebrew/Aramaic:* תְּרוּמַת מַעֲשֵׂר שֶׁל דְּמַאי, דִּתְנַן: תְּרוּמַת מַעֲשֵׂר שֶׁל דְּמַאי שֶׁחָזְרָה לִמְקוֹמָהּ, רַבִּי שִׁמְעוֹן בֶּן שֵׁזוּרִי אוֹמֵר: אַף בַּחוֹל שׁוֹאֲלוֹ וְאוֹכְלוֹ עַל פִּיו.
+*Translation:* The case of ***teruma* of the tithe of *demai*** is **as we learned** in a mishna (*Demai* 4:1): With regard to ***teruma* of the tithe of *demai*,** i.e., *teruma* of the tithe that was separated from the produce of an *am ha’aretz*, who is suspected of not separating tithes properly, **that** fell and **returned to its** original **place,** becoming mingled with the rest of produce from which it had been separated, **Rabbi Shimon ben Shezuri says: Even on a weekday one may ask** the *am ha’aretz* whether or not he separated the necessary tithes **and** then **eat based on his statement.**

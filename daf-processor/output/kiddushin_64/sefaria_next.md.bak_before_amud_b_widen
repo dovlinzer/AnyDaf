@@ -1,0 +1,93 @@
+### Kiddushin 65a
+
+**1.**
+*Hebrew/Aramaic:* אֶמְצָעִית שֶׁבְּכַת שְׁנִיָּה תִּשְׁתְּרֵי! הָכָא בְּמַאי עָסְקִינַן, בְּשֶׁאֵין שָׁם אֶלָּא גְּדוֹלָה וּקְטַנָּה.
+*Translation:* with regard to one who said: I betrothed my elder daughter, **the middle** daughter **of the** younger **second group should be permitted,** as he would have called her by name rather than referring to her as: The elder one. The Gemara answers: **Here we are dealing with** a case **where there are only** two daughters, **an adult woman and a minor girl,** but no middle daughter.
+
+**2.**
+*Hebrew/Aramaic:* וְהָכִי נָמֵי מִסְתַּבְּרָא, דְּאִם אִיתָא דְּאִיכָּא, לִיתְנְיַיהּ. וּלְטַעְמָיךְ, אֶמְצָעִית שֶׁבְּכַת רִאשׁוֹנָה, דְּוַדַּאי סְפֵיקָא וַאֲסִירָא לֵיהּ, מִי קָתָנֵי לַהּ?
+*Translation:* The Gemara adds: **And so too, it is reasonable** that this is the case, **as, if it is so, that there is** a middle daughter, **let** the mishna **teach** its *halakha* with a direct reference to **her** as well, as the uncertainty also applies to this daughter. In other words, the mishna should have stated: And I do not know if it was the middle of the younger group of daughters. The fact that the mishna does not refer to this daughter indicates that there are only two women in each group. The Gemara rejects this suggestion: **But according to your reasoning, the middle one of the first group is definitely** included in the **uncertainty and is forbidden to** the prospective husband, and yet **does** the mishna **teach** its *halakha* with a direct reference to **her?**
+
+**3.**
+*Hebrew/Aramaic:* הָכִי הַשְׁתָּא?! הָתָם תַּנָּא קְטַנָּה דִּידַהּ לְאִיסּוּרָא, וְהוּא הַדִּין לְהָךְ דְּקַשִּׁישָׁא מִינַּהּ,
+*Translation:* The Gemara questions this argument: **How can** these cases **be compared? There it taught** its *halakha* with a direct reference to a daughter who is **younger than** the middle daughter of the older group, and that daughter is mentioned **for a prohibition,** as the mishna states that the uncertainty applies even to the youngest of the older group; **and** if so, **the same is true of this** middle daughter, **who is older than** the youngest of the older group, i.e., it is evident that the same uncertainty applies to her, and therefore there is no reason to mention the middle daughter of the older group.
+
+**4.**
+*Hebrew/Aramaic:* הָכָא, אִם אִיתָא דְּאִיכָּא – נִיתְנְיַיהּ.
+*Translation:* Conversely, **here,** with regard to the younger group, **if it is so that there is** uncertainty with regard to the middle daughter and she is forbidden, the mishna **should teach** its *halakha* with a direct reference to **her,** as one might think she is excluded from the uncertainty because she is not the eldest. Consequently, the fact that the mishna omits all reference to the middle daughter from the second group proves that the second wife has only two daughters.
+
+**5.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ לְרָבָא: הָא פֶּסַח, דְּכִי כַת אַחַת דָּמֵי, וּפְלִיגִי!
+*Translation:* **Rav Huna, son of Rav Yehoshua, said to Rava:** But there is the case of **Passover, which is comparable to one group** of daughters, as all the days of the Festival are part of a single group, **and** yet Rabbi Meir and Rabbi Yosei **disagree** with regard to it. This apparently contradicts Abaye’s opinion that everyone agrees in the case of a single group.
+
+**6.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: הָתָם בְּלִישָּׁנָא דְעָלְמָא קָמִיפַּלְגִי. מָר סָבַר: ״עַד פְּנֵי הַפֶּסַח״ – עַד קַמֵּי פִיסְחָא, וּמָר סָבַר: עַד דְּמִיפְּנֵי פִּיסְחָא.
+*Translation:* Rava **said to him: There they disagree with regard to the general** usage of **language.** In other words, their dispute in that case does not concern the basic issue of whether or not one places himself in a position of uncertainty. Rather, they disagree over the way people speak. One **Sage,** Rabbi Yosei, **holds** that the phrase: **Until before Passover,** means: **Until** just **before Passover, and** one **Sage,** Rabbi Meir, **holds** that it means **until Passover passes** and ends.
+
+**7.**
+*Hebrew/Aramaic:* מַתְנִי׳ הָאוֹמֵר לְאִשָּׁה: ״קִדַּשְׁתִּיךְ״ וְהִיא אוֹמֶרֶת: ״לֹא קִדַּשְׁתַּנִי״ – הוּא אָסוּר בִּקְרוֹבוֹתֶיהָ וְהִיא מוּתֶּרֶת בִּקְרוֹבָיו. הִיא אוֹמֶרֶת ״קִדַּשְׁתַּנִי״ וְהוּא אוֹמֵר ״לֹא קִדַּשְׁתִּיךְ״ – הוּא מוּתָּר בִּקְרוֹבוֹתֶיהָ וְהִיא אֲסוּרָה בִּקְרוֹבָיו.
+*Translation:* MISHNA: With regard to **one who says to a woman: I betrothed you, and she says: You did not betroth me, he is forbidden to her relatives,** as his claim that he has betrothed her renders himself forbidden to her relatives. **And she is permitted to his relatives,** in accordance with her stance that she is not betrothed to him. If **she says: You betrothed me, and he says: I did not betroth you, he is permitted to her relatives and she is forbidden to his relatives** by the same reasoning.
+
+**8.**
+*Hebrew/Aramaic:* ״קִידַּשְׁתִּיךְ״ וְהִיא אוֹמֶרֶת ״לֹא קִידַּשְׁתָּ אֶלָּא בִּתִּי״ – הוּא אָסוּר בִּקְרוֹבוֹת גְּדוֹלָה וּגְדוֹלָה מוּתֶּרֶת בִּקְרוֹבָיו. הוּא מוּתָּר בִּקְרוֹבוֹת קְטַנָּה וּקְטַנָּה מוּתֶּרֶת בִּקְרוֹבָיו.
+*Translation:* If a man says to a woman: **I betrothed you, and she says: You betrothed only my daughter, he is forbidden to the relatives of the older** woman, the mother, whom he claims to have betrothed, **and the older** woman **is permitted to his relatives. He is permitted to the relatives of the younger** woman, the daughter, as he maintains that he did not betroth her, **and the younger** woman **is permitted to his relatives,** since her mother’s statement is insufficient to render her forbidden.
+
+**9.**
+*Hebrew/Aramaic:* ״קִדַּשְׁתִּי אֶת בִּתִּךְ״ וְהִיא אוֹמֶרֶת ״לֹא קִדַּשְׁתָּ אֶלָּא אוֹתִי״ – הוּא אָסוּר בִּקְרוֹבוֹת קְטַנָּה וּקְטַנָּה מוּתֶּרֶת בִּקְרוֹבָיו. הוּא מוּתָּר בִּקְרוֹבוֹת גְּדוֹלָה וּגְדוֹלָה אֲסוּרָה בִּקְרוֹבָיו.
+*Translation:* Similarly, if he says: **I betrothed your daughter, and she,** the mother, **says: You betrothed only me, he is forbidden to the relatives of the younger** woman, **and the younger** woman **is permitted to his relatives; he is permitted to the relatives of the older** woman, **and the older** woman **is forbidden to his relatives.**
+
+**10.**
+*Hebrew/Aramaic:* גְּמָ׳ הָאוֹמֵר לְאִשָּׁה קִדַּשְׁתִּיךְ וְכוּ׳. וּצְרִיכָא, דְּאִי אַשְׁמְעִינַן גַּבֵּיהּ דִּידֵיהּ, מִשּׁוּם דְּגַבְרָא לָא אִיכְפַּת לֵיהּ וּמִיקְּרֵי אָמַר.
+*Translation:* GEMARA: The mishna taught that with regard to **one who says to a woman: I betrothed you,** and she denies his claim, he is forbidden to her relatives while she remains permitted to his. The mishna then provides several examples illustrating the same principle. The Gemara comments: **And** it is **necessary** for the mishna to specify all these cases. The Gemara elaborates: **As, had** the mishna **taught us** the *halakha* only **with regard to himself,** i.e., the case where he claims to have betrothed the woman, one might have said that he is not deemed credible at all, **because a man does not care** if **he happens to say** that he betrothed a woman even if he did not do so, as he can betroth another woman.
+
+**11.**
+*Hebrew/Aramaic:* אֲבָל אִיהִי, אֵימָא: אִי לָאו דְּקִים לַהּ בְּדִיבּוּרַהּ, לָא הֲוָת אָמְרָה, וְלִיתְּסַר אִיהוּ בִּקְרוֹבוֹתֶיהָ, קָא מַשְׁמַע לַן.
+*Translation:* **But** in a case where **she** claims to have been betrothed by him, one might **say** that **if her statement was not certain to her she would not have said** it. Since her claim that he betrothed her renders her forbidden to everyone else, it is likely that it is true, **and** therefore one might think that **he should** also **be forbidden to her relatives** on the basis of this assumption. The mishna therefore **teaches us** that this is not the case.
+
+**12.**
+*Hebrew/Aramaic:* ״קִידַּשְׁתִּיךְ״ וְהִיא אוֹמֶרֶת וְכוּ׳. הָא תּוּ לְמָה לִי? אִיצְטְרִיךְ, סָלְקָא דַּעְתָּךְ אָמֵינָא: מִדְּאוֹרָיְיתָא הֵימְנֵיהּ רַחֲמָנָא לְאָב, מִדְּרַבָּנַן הֵימְנוּהָ לְדִידַהּ וְתִיתְּסַר בְּרַתַּהּ בְּדִיבּוּרַהּ, קָא מַשְׁמַע לַן.
+*Translation:* Likewise, with regard to one who says: **I betrothed you, and she says:** You betrothed only my daughter, in which case he is forbidden to her relatives but she is permitted to his, the Gemara asks: **Why do I** need **this as well?** The principle has already been established. The Gemara answers: It **was necessary** to state this case too, as it might **enter your mind to say:** Since **by Torah law, the Merciful One deems credible a father** who claims to have betrothed his daughter to a particular person, perhaps the Sages **deem** a mother **credible by rabbinic law, and** therefore **her daughter should be forbidden** based **on her statement.** The mishna therefore **teaches us** that a mother is not believed with regard to her daughter.
+
+**13.**
+*Hebrew/Aramaic:* ״קִידַּשְׁתִּי אֶת בִּתִּךְ״ וְכוּ׳. הָא תּוּ לְמָה לִי? אַיְּידֵי דִּתְנָא הָא, תְּנָא נָמֵי הָא.
+*Translation:* The Gemara continues this line of questioning. With regard to the case where a man says: **I betrothed your daughter,** and she replies: You betrothed only me, **why do I** need **this as well?** What novelty is taught in this case? The Gemara answers: **Since** the mishna **taught this** other case, of a man claiming he betrothed a woman and the woman replying that it was her daughter, **it also taught this** last case, so that it mentions all the permutations, despite the fact that this particular case provides no novelty.
+
+**14.**
+*Hebrew/Aramaic:* אִיתְּמַר, רַב אָמַר: כּוֹפִין, וּשְׁמוּאֵל אָמַר: מְבַקְּשִׁין. אַהֵיָיא? אִילֵּימָא אַרֵישָׁא – לָאו ״כּוֹפִין״ אִיכָּא וְלָא ״מְבַקְּשִׁין״ אִיכָּא! אֶלָּא אַסֵּיפָא.
+*Translation:* § **It was stated** that *amora’im* disagreed over how the court should proceed in practice with regard to the cases described in the mishna. **Rav says:** The court **forces** the man to give her a bill of divorce, **and Shmuel says:** The court **requests** that he give a bill of divorce. The Gemara asks: **With regard to which** case of the mishna is this referring? **If we say** it is referring **to the first clause,** where he says: I betrothed you, and she replies: You did not betroth me, **no** ruling of: The court **forces, is** relevant here, **nor is** the ruling: The court **requests,** relevant. Since she is permitted to marry even his relatives, she is certainly permitted to marry anyone else. Why, then, would it be necessary for him to give her a bill of divorce? **Rather,** the dispute applies **to the latter clause** of the mishna, where he denies her claim that he betrothed her. To allow her to marry somebody else, the court either forces or requests of him to give her a bill of divorce.
+
+**15.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא ״מְבַקְּשִׁין״ – לְחַיֵּי, אֶלָּא ״כּוֹפִין״ אַמַּאי?! אָמַר: לָא נִיחָא לִי דְּאִיתְּסַר בְּקָרִיבֶיהָ.
+*Translation:* The Gemara asks: **Granted,** according to the opinion that the court **requests** that he give a bill of divorce, **it is well.** Since she has rendered herself forbidden to everyone, one can ask him to release her. **But why** should the court **force** him to issue a bill of divorce? Can’t he **say: It is not satisfactory for me to be forbidden to her relatives?** His giving her a bill of divorce is an admission that he betrothed her, which means that he may not marry her relatives.
+
+**16.**
+*Hebrew/Aramaic:* אֶלָּא: שְׁמַעְתָּתָא אַהֲדָדֵי אִיתְּמַר, אָמַר שְׁמוּאֵל: מְבַקְּשִׁין מִמֶּנּוּ לִיתֵּן גֵּט. אָמַר רַב: אִם נָתַן גֵּט מֵעַצְמוֹ – כּוֹפִין אוֹתוֹ לִיתֵּן כְּתוּבָּה.
+*Translation:* **Rather,** the Gemara offers a different explanation: These ***halakhot* were stated together,** as follows: **Shmuel says** that the court **requests of him to give a bill of divorce. Rav says: If he gave a bill of divorce of his own accord,** without being asked to do so but merely in response to her claim, the court **forces him to give** her payment for her **marriage contract** as well. By giving her a bill of divorce of his own volition, he has effectively admitted that he betrothed her, despite the fact that he has not said so explicitly. Consequently, he must also provide her with payment for her marriage contract.
+
+**17.**
+*Hebrew/Aramaic:* אִיתְּמַר נָמֵי: אָמַר רַב אַחָא בַּר אַדָּא אָמַר רַב, וְאָמְרִי לַהּ אָמַר רַב אַחָא בַּר אַדָּא אָמַר רַב הַמְנוּנָא אָמַר רַב: כּוֹפִין וּמְבַקְּשִׁין. תַּרְתֵּי?! הָכִי קָאָמַר: מְבַקְּשִׁין מִמֶּנּוּ לִיתֵּן גֵּט, וְאִם נָתַן מֵעַצְמוֹ – כּוֹפִין אוֹתוֹ לִיתֵּן כְּתוּבָּה.
+*Translation:* **It was also stated: Rav Aḥa bar Adda says** that **Rav says, and some say Rav Aḥa bar Adda says** that **Rav Hamnuna says** that **Rav says:** The court **forces** him **and requests** of him. The Gemara expresses puzzlement at this statement: How can these **two** statements be reconciled? Rather, it must be that **this is** what Rav Aḥa bar Adda **is saying:** The court **requests of him to give a bill of divorce, and if he gave a bill of divorce of his own accord** the court **forces him to give** her payment for **her marriage contract.**
+
+**18.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה: הַמְקַדֵּשׁ בְּעֵד אֶחָד – אֵין חוֹשְׁשִׁין לְקִידּוּשָׁיו. בְּעוֹ מִינֵּיהּ מֵרַב יְהוּדָה: שְׁנֵיהֶם מוֹדִים, מַאי? אִין וְלָא וְרַפְיָא בִּידֵיהּ. אִיתְּמַר, אָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: הַמְקַדֵּשׁ בְּעֵד אֶחָד – אֵין חוֹשְׁשִׁין לְקִידּוּשָׁיו, וַאֲפִילּוּ שְׁנֵיהֶם מוֹדִים.
+*Translation:* § **Rav Yehuda says:** With regard to **one who betroths** another **with,** i.e., in the presence of, **one witness, one** need **not be concerned that his betrothal** has taken effect. The students **raised a dilemma before Rav Yehuda:** If **both** the man and the woman **concede** that it was a betrothal, **what** is the *halakha*? Is the betrothal valid? Rav Yehuda did not provide a clear answer. He said: **Yes and no, and** the matter was **uncertain to him. It was stated** that *amora’im* discussed this point. **Rav Naḥman says** that **Shmuel says:** With regard to **one who betroths** a woman **with one witness, one** need **not be concerned that his betrothal** has taken effect, **and** this is the *halakha* **even if both** parties **concede** that there was a betrothal.
+
+**19.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רָבָא לְרַב נַחְמָן: הָאוֹמֵר לְאִשָּׁה ״קִדַּשְׁתִּיךְ״ וְהִיא אוֹמֶרֶת ״לֹא קִדַּשְׁתַּנִי״ – הוּא אָסוּר בִּקְרוֹבוֹתֶיהָ וְהִיא מוּתֶּרֶת בִּקְרוֹבָיו. אִי דְּאִיכָּא עֵדִים – אַמַּאי מוּתֶּרֶת בִּקְרוֹבָיו? וְאִי דְּלֵיכָּא עֵדִים – אַמַּאי אָסוּר בִּקְרוֹבוֹתֶיהָ? אֶלָּא לָאו בְּעֵד אֶחָד!
+*Translation:* **Rava raised an objection to** the opinion of **Rav Naḥman** from the mishna: With regard to **one who says to a woman: I betrothed you, and she says: You did not betroth me, he is forbidden to her relatives and she is permitted to his relatives.** Rava proceeds to analyze the exact circumstances of this case. **If** the case is one **where there are witnesses, why** is **she permitted to his relatives?** It is a full-fledged betrothal performed in the presence of witnesses. **And if there are no witnesses** at all, **why** is **he forbidden to her relatives** without any testimony to that effect? **Rather, is it not** referring **to** a case where there was **one witness?**
+
+**20.**
+*Hebrew/Aramaic:* הָכָא בְּמַאי עָסְקִינַן – כְּגוֹן דַּאֲמַר לַהּ ״קִידַּשְׁתִּיךְ בִּפְנֵי פְּלוֹנִי וּפְלוֹנִי״, וְהָלְכוּ לָהֶם לִמְדִינַת הַיָּם.
+*Translation:* The Gemara answers: **Here we are dealing with** a case **where he said to her: I betrothed you in the presence of so-and-so and so-and-so,** i.e., there were two witnesses, **but they went overseas** and there is no way of clarifying what really occurred. Consequently, there are only the conflicting accounts of the man and woman, and therefore he is prohibited from marrying her relatives while she is permitted to marry his.
+
+**21.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ: הַמְגָרֵשׁ אֶת אִשְׁתּוֹ וְלָנָה עִמּוֹ בְּפוּנְדְּקִי, בֵּית שַׁמַּאי אוֹמְרִים: אֵינָהּ צְרִיכָה הֵימֶנּוּ גֵּט שֵׁנִי, וּבֵית הִלֵּל אוֹמְרִים: צְרִיכָה הֵימֶנּוּ גֵּט שֵׁנִי. הֵיכִי דָּמֵי? אִי דְּאִיכָּא עֵדִים – מַאי טַעְמַיְיהוּ דְּבֵית שַׁמַּאי? וְאִי דְּלֵיכָּא עֵדִים – מַאי טַעְמַיְיהוּ דְּבֵית הִלֵּל? אֶלָּא לָאו בְּעֵד אֶחָד!
+*Translation:* Rava **raised an objection to** the opinion of Rav Naḥman from a mishna (*Eduyyot* 4:7): If **one divorces his wife, and she** subsequently **lodged with him in an inn, Beit Shammai say: She does not require a second bill of divorce from him, and Beit Hillel say: She requires a second bill of divorce from him.** The Gemara clarifies: **What are the circumstances** of this case? **If there are witnesses** who saw them engage in sexual intercourse for the purpose of betrothal, **what is the reason that Beit Shammai** do not require a second bill of divorce? **If there are no witnesses, what is the reason that Beit Hillel** require a second bill of divorce? **Rather, is it not** referring **to** a case where there was **one witness** who saw them engage in intercourse for the purpose of betrothal?
+
+**22.**
+*Hebrew/Aramaic:* וְלִיטַעְמָיךְ, אֵימָא סֵיפָא: וּמוֹדִים בְּנִתְגָּרְשָׁה מִן הָאֵירוּסִין שֶׁאֵין צְרִיכָה הֵימֶנּוּ גֵּט שֵׁנִי, מִפְּנֵי שֶׁאֵין לִבּוֹ גַּס בָּהּ. וְאִי סָלְקָא דַעְתָּךְ עֵד אֶחָד מְהֵימַן – מָה לִי מִן הָאֵירוּסִין, מָה לִי מִן הַנִּשּׂוּאִין?
+*Translation:* Rav Naḥman responds: **And according to your reasoning,** that there was one witness, **say the latter clause** of that mishna: **And** Beit Hillel **concede with regard to** a woman **who was divorced after betrothal that she does not require a second bill of divorce from him, due to** the fact that **he is not accustomed to her.** Since he had not previously been intimate with her, there is no concern that they engaged in intercourse, even though they lodged together at the inn. **And if it enters your mind** that **one witness is deemed credible** in this case, **what** difference is it **to me** whether it was **after** her **betrothal,** and **what** difference is it **to me** if it occurred **after** her **marriage?**
+
+**23.**
+*Hebrew/Aramaic:* אֶלָּא, הָכָא בְּמַאי עָסְקִינַן – כְּגוֹן דְּאִיכָּא עֵדֵי יִחוּד וְלֵיכָּא עֵדֵי בִיאָה. בֵּית שַׁמַּאי סָבְרִי: לָא
+*Translation:* **Rather,** it is clear that the mishna is not referring to when there is one witness, and **here we are dealing with** a case **where there are witnesses to** their **seclusion, but there are no witnesses to** their engaging in **intercourse.** The dispute is based on the implications of this seclusion. **Beit Shammai hold:** One does **not**

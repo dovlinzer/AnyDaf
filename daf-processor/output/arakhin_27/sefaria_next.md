@@ -67,3 +67,64 @@
 **17.**
 *Hebrew/Aramaic:* אָמַר רַבִּי חִיָּיא בַּר אָבִין: הֶחְרִים מְטַלְטְלִין — נוֹתְנָן לְכׇל כֹּהֵן שֶׁיִּרְצֶה, שֶׁנֶּאֱמַר: ״כׇּל חֵרֶם בְּיִשְׂרָאֵל
 *Translation:* § **Rabbi Ḥiyya bar Avin says:** One who **dedicated movable property may give it to any priest that he wishes, as it is stated: “Everything dedicated in Israel**
+
+
+---
+
+### Arakhin 28b
+
+**1.**
+*Hebrew/Aramaic:* לְךָ יִהְיֶה״. הֶחְרִים שְׂדוֹתָיו — נוֹתְנָן לַכֹּהֵן שֶׁבְּאוֹתוֹ מִשְׁמָר, שֶׁנֶּאֱמַר: ״כִּשְׂדֵה הַחֵרֶם לַכֹּהֵן תִּהְיֶה אֲחֻזָּתוֹ״, וְגָמַר ״לַכֹּהֵן״ ״לַכֹּהֵן״ מִגֶּזֶל הַגֵּר.
+*Translation:* **shall be yours”** (Numbers 18:14), i.e., for Aaron and any of his descendants. But if one **dedicated his fields, he gives them to a priest of that** priestly **watch** which is currently serving in the Temple, **as it is stated: “As a field dedicated; its possession shall be to the priest”** (Leviticus 27:21). **And one derives** a verbal analogy between **“to the priest”** here and **“to the priest” from** a verse (Numbers 5:8) discussing property **robbed** from **a convert.** The *halakha* in that case is that if one took an oath that he did not rob a convert, and then after the convert died and left no descendants he admitted to taking a false oath, he must give the stolen property to the priests of the priestly watch currently serving in the Temple.
+
+**2.**
+*Hebrew/Aramaic:* וְהָתָם מְנָלַן? דְּתַנְיָא: ״לַה׳ לַכֹּהֵן״ — קְנָאוֹ הַשֵּׁם וּנְתָנוֹ לַכֹּהֵן שֶׁבְּאוֹתוֹ מִשְׁמָר.
+*Translation:* The Gemara asks: **And there,** in the case of property robbed from a convert, **from where do we** derive that it is given to the priests of the current priestly watch? **As it is taught** in a *baraita*: In the verse: “But if the man has no kinsman to whom restitution may be made for the guilt, the restitution for guilt that is made shall be the Lord’s, to the priest” (Numbers 5:8), the phrase: **“Shall be the Lord’s, to the priest,”** indicates that **God** has **acquired** the restitution for the guilt **and** has **given it to the priest of that** priestly **watch.**
+
+**3.**
+*Hebrew/Aramaic:* אַתָּה אוֹמֵר לַכֹּהֵן שֶׁבְּאוֹתוֹ מִשְׁמָר, אוֹ אֵינוֹ אֶלָּא לְכׇל כֹּהֵן שֶׁיִּרְצֶה? כְּשֶׁהוּא אוֹמֵר: ״מִלְּבַד אֵיל הַכִּיפֻּרִים אֲשֶׁר יְכַפֶּר בּוֹ עָלָיו״, הֲרֵי בְּכֹהֵן שֶׁבְּאוֹתוֹ מִשְׁמָר הַכָּתוּב מְדַבֵּר.
+*Translation:* The Gemara objects: **Do you say** the restitution is given **to the priest of that** priestly **watch; or** perhaps **is it** necessary **only** for it to be given **to any priest to** whom the robber **wishes** to give it. The Gemara explains that **when** the same verse **says: “Besides the ram of the atonement, whereby atonement shall be made for him,”** this indicates that **the verse speaks of a priest of that priestly watch,** i.e., the watch that is currently involved in sacrificing offerings.
+
+**4.**
+*Hebrew/Aramaic:* שָׂדֶה הַיּוֹצְאָה לַכֹּהֲנִים בַּיּוֹבֵל, נוֹתְנָהּ לַמִּשְׁמָר שֶׁפָּגַע בּוֹ יוֹבֵל. אִיבַּעְיָא לְהוּ: פָּגַע בּוֹ בְּשַׁבָּת, מַאי? אָמַר רַב חִיָּיא בַּר אַמֵּי מִשְּׁמֵיהּ דְּחוּלְפָּנָא: נוֹתְנָהּ לַמִּשְׁמָר הַיּוֹצֵא.
+*Translation:* § Rabbi Ḥiyya bar Avin states another *halakha* involving property that is given to the priests. With regard to **a field** that was consecrated by its owner and was not redeemed by him, **which goes out** of his possession and passes **to** the possession of **the priests at the Jubilee** Year, **one gives it to the** members of the priestly **watch** serving **when the Jubilee** Year **occurred,** i.e., the watch serving at the beginning of the Jubilee Year. **A dilemma was raised before** the Sages: If the beginning of the Jubilee Year **occurred on Shabbat,** which is the day on which the priestly watches rotate, **what** is the *halakha*? Which priestly watch receives the property? **Rav Ḥiyya bar Ami says in the name of Ḥulfana: One gives it to the watch that leaves** the service of the Temple on that Shabbat.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן בַּר יִצְחָק: תַּנְיָא, נִמְצֵאתָ אַתָּה אוֹמֵר, אֶחָד יוֹבֵל וְאֶחָד שְׁבִיעִית מְשַׁמְּטִין כְּאֶחָד, אֶלָּא שֶׁיּוֹבֵל בִּתְחִילָּתוֹ וְהַשְּׁמִטָּה בְּסוֹפָהּ.
+*Translation:* **Rav Naḥman bar Yitzḥak says: It is taught** in a *baraita* in accordance with these statements: **You are found** to **say** that **both the Jubilee** Year, when fields that were sold are returned to their owners, **and the Sabbatical** Year, when debts are canceled, **abrogate at once,** i.e., at the same time, **except that the Jubilee** Year abrogates **at its beginning and the Sabbatical** Year abrogates **at its end.** In other words, the evening of Rosh HaShana at the conclusion of the Sabbatical Year, which is the forty-ninth year of the Jubilee cycle, is also the beginning of the Jubilee Year, which is the fiftieth year. At this time, all debts and land purchases are abrogated, and consecrated fields that were not redeemed become the property of the priests. Accordingly, if Rosh HaShana occurs on a Shabbat, the priestly watch that ends their service receives the fields, as the priestly watches rotate only in the morning.
+
+**6.**
+*Hebrew/Aramaic:* אַדְּרַבָּה, מִשּׁוּם הָכִי הֲוַאי! אֵימָא: מִפְּנֵי שֶׁהַיּוֹבֵל כּוּ׳.
+*Translation:* The Gemara questions the terminology of the *baraita*: Why does the *baraita* state: Except that? This statement indicates that the Sabbatical Year and the Jubilee Year abrogate simultaneously despite the fact that the Jubilee Year abrogates at its beginning. **On the contrary,** this *halakha* **is due to that** very reason, i.e., they abrogate simultaneously because the Jubilee Year abrogates at its beginning and the Sabbatical Year at its end. The Gemara explains that in fact one should **say** the *baraita* as follows: They abrogate at the same time, **due to** the fact **that the Jubilee** Year abrogates at its beginning and the Sabbatical Year at its end.
+
+**7.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא שְׁבִיעִית בְּסוֹפָהּ, דִּכְתִיב: ״מִקֵּץ שֶׁבַע שָׁנִים תַּעֲשֶׂה שְׁמִטָּה״, אֶלָּא יוֹבֵל בִּתְחִילָּתוֹ? בְּיוֹם הַכִּיפּוּרִים הוּא, דִּכְתִיב: ״בַּיּוֹם הַכִּיפּוּרִים תַּעֲבִירוּ שׁוֹפָר בְּכׇל אַרְצְכֶם״! הָא מַנִּי? רַבִּי יִשְׁמָעֵאל בְּנוֹ שֶׁל רַבִּי יוֹחָנָן בֶּן בְּרוֹקָה הִיא, דְּאָמַר: מֵרֹאשׁ הַשָּׁנָה הוּא דְּחָיֵיל יוֹבֵל.
+*Translation:* The Gemara asks: **Granted,** it is clear that the **Sabbatical** Year abrogates **at its end, as it is written: “At the end of every seven years you shall make a release”** (Deuteronomy 15:1). **But** does the **Jubilee** Year abrogate **at its** very **beginning? It** abrogates only ten days later, **on Yom Kippur, as it is written: “On Yom Kippur shall you make proclamation with the shofar throughout all your land**…and you shall return every man to his possession” (Leviticus 25:9–10). The Gemara explains: In accordance with **whose** opinion **is this** *baraita*? **It is** in accordance with the opinion of **Rabbi Yishmael, son of Rabbi Yoḥanan ben Beroka, who says: It is from Rosh HaShana that the Jubilee** Year **takes effect.**
+
+**8.**
+*Hebrew/Aramaic:* שַׁמְעַהּ חִזְקִיָּה בַּר בִּילְוָטִי, וַאֲזַל אֲמַר קַמֵּיהּ דְּרַבִּי אֲבָהוּ: וְלַיקֵּישׁ מִטַּלְטְלֵי לְקַרְקָעוֹת!
+*Translation:* The Gemara returns to the statement of Rabbi Ḥiyya bar Avin that one who dedicates his movable property may give it to a priest of his choosing, whereas one who dedicates his land gives it to members of the current priestly watch. The Gemara relates that **Ḥizkiyya bar Biluto heard this** statement **and went** and **said** the following difficulty **before Rabbi Abbahu: But let one juxtapose movable property to land,** as the verse states: “That a man may dedicate to the Lord of all that he has, whether of man or animal, or of his ancestral field” (Leviticus 27:28). If so, movable property must also be given to members of the current priestly watch.
+
+**9.**
+*Hebrew/Aramaic:* לָאו תַּנָּאֵי הִיא? דְּאִיכָּא דְּמַקֵּישׁ, וְאִיכָּא דְּלָא מַקֵּישׁ, כְּמַאן דְּאָמַר: ״לָא מַקְּשִׁינַן״.
+*Translation:* Rabbi Abbahu responded: **Is it not** a dispute between ***tanna’im*? As there are** those **who juxtapose and there are** those **who do not juxtapose,** in accordance with the earlier explanation of the Gemara that this is the basis for the dispute between Rabbi Yehuda and Rabbi Shimon with regard to whether or not Levites may dedicate movable property. Rabbi Ḥiyya bar Avin holds **in accordance with** the opinion of **the one who says we do not juxtapose** movable property and land.
+
+**10.**
+*Hebrew/Aramaic:* מַתְנִי׳ חֶרְמֵי כֹּהֲנִים, אֵין לָהֶם פִּדְיוֹן, אֶלָּא נִותָּנִים לַכֹּהֲנִים כִּתְרוּמָה. רַבִּי יְהוּדָה בֶּן בְּתֵירָא אוֹמֵר: סְתַם חֲרָמִים לְבֶדֶק הַבַּיִת, שֶׁנֶּאֱמַר: ״כׇּל חֵרֶם קֹדֶשׁ קָדָשִׁים הוּא לַה׳״.
+*Translation:* MISHNA: **Dedications** of property for **priests,** unlike consecrations of property for Temple maintenance, **have no redemption; rather, one gives** it **to the priests,** and it is their property in every sense, **like *teruma*. Rabbi Yehuda ben Beteira says: Dedications** dedicated **without specification** of their purpose are designated **for Temple maintenance, as it is stated: “Every dedicated item is most sacred to the Lord”** (Leviticus 27:28).
+
+**11.**
+*Hebrew/Aramaic:* וַחֲכָמִים אוֹמְרִים: סְתַם חֲרָמִים לַכֹּהֲנִים, שֶׁנֶּאֱמַר: ״כִּשְׂדֵה הַחֵרֶם לַכֹּהֵן תִּהְיֶה אֲחֻזָּתוֹ״. אִם כֵּן, לָמָּה נֶאֱמַר ״כׇּל חֵרֶם קֹדֶשׁ קָדָשִׁים הוּא לַה׳״? שֶׁחָל עַל קׇדְשֵׁי קָדָשִׁים וְעַל קָדָשִׁים קַלִּים.
+*Translation:* **And the Rabbis say: Dedications** dedicated **without specification** of their purpose are designated **for priests, as it is stated** with regard to one who consecrated a field and did not redeem it: **“As a field dedicated; its possession shall be to the priest”** (Leviticus 27:21), indicating that a non-specific dedication belongs to the priest. **If so, why is it stated: “Every dedicated item is most sacred to the Lord”?** This comes to teach **that** dedication **takes effect on offerings of the most sacred order and offerings of lesser sanctity.** If one consecrated an animal for sacrifice and then dedicated it, the dedication takes effect. Nevertheless, it does not take effect on the body of the animal; rather, it applies to the owner’s financial stake in the offering.
+
+**12.**
+*Hebrew/Aramaic:* מַחְרִים אָדָם אֶת קֳדָשָׁיו, בֵּין קׇדְשֵׁי קָדָשִׁים בֵּין קָדָשִׁים קַלִּים, אִם נֶדֶר — נוֹתֵן דְּמֵיהֶן.
+*Translation:* As the Sages delineated: **A person may dedicate his sacrificial animals, both offerings of the most sacred order and offerings of lesser sanctity. If** the offering he dedicated was the object of **a vow,** e.g., if he said: It is incumbent upon me to sacrifice a burnt offering, since he is obligated to replace such offerings they are considered his property, and therefore **he gives their value** to the priests.
+
+**13.**
+*Hebrew/Aramaic:* וְאִם נְדָבָה, נוֹתֵן אֶת טוֹבָתָן. ״שׁוֹר זֶה עוֹלָה״ — אוֹמְדִין כַּמָּה אָדָם רוֹצֶה לִיתֵּן בְּשׁוֹר זֶה לְהַעֲלוֹתוֹ עוֹלָה, אַף עַל פִּי שֶׁאֵינוֹ רַשַּׁאי.
+*Translation:* **And if** the offering he dedicated was **a gift offering,** e.g., if he said: This animal is a burnt offering, in which case he is not obligated to replace the animal, **he gives** the monetary **benefit** that he has in **them.** For example, if he said: **This bull is a burnt offering, one estimates how much** money **a person** would be **willing to give** in order to **sacrifice** the animal as a voluntary **burnt offering, even though he is not permitted** to do so.
+
+**14.**
+*Hebrew/Aramaic:* הַבְּכוֹר, בֵּין תָּם בֵּין בַּעַל מוּם — מַחְרִימִין אוֹתוֹ, וְכֵיצַד פּוֹדִים אוֹתוֹ? אוֹמְדִין כַּמָּה אָדָם רוֹצֶה לִיתֵּן בִּבְכוֹר זֶה לִיתְּנוֹ לְבֶן בִּתּוֹ אוֹ לְבֶן אֲחוֹתוֹ.
+*Translation:* With regard to **a firstborn** animal, **whether** it is **unblemished** or **whether** it is **blemished,** its owner **may dedicate it. And how does one** assess the payment required to **redeem it? One estimates how much** an Israelite **person** would **be willing to give in** exchange for **that firstborn** in order **to give it to** a priest who is **his daughter’s son or to** a priest who is **his sister’s son.**

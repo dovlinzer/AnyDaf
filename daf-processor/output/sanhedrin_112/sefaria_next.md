@@ -63,3 +63,24 @@
 **16.**
 *Hebrew/Aramaic:* דָּרֵשׁ רַבִּי יוֹסֵי בְּצִיפּוֹרִי: אַבָּא אֵלִיָּהוּ
 *Translation:* **Rabbi Yosei of Tzippori taught: Father Elijah,** a deferential and affectionate characterization for Elijah the prophet,
+
+
+---
+
+### Sanhedrin 113b
+
+**1.**
+*Hebrew/Aramaic:* קַפְּדָן הֲוָה. רְגִיל לְמֵיתֵי גַּבֵּיהּ. אִיכַּסִּי מִינֵּיהּ תְּלָתָא יוֹמֵי, וְלָא אֲתָא. כִּי אֲתָא, אֲמַר לֵיהּ: אַמַּאי לָא אֲתָא מָר? אֲמַר לֵיהּ: קַפְּדָן קָרֵית לִי! אֲמַר לֵיהּ: הָא דְּקַמַּן, דְּקָא קָפֵיד מָר!
+*Translation:* was **difficult.** Elijah **was accustomed to coming** and revealing himself **before** Rabbi Yosei each day. **He was obscured from him for three days and did not come. When he came** again, Rabbi Yosei **said to him: Why did the Master not come?** Elijah **said to him:** You denigrated me when **you called me difficult.** Rabbi Yosei **said to** Elijah: **This** example **that is before us** illustrates the point, **as my Master was** being **difficult** by not coming during those days.
+
+**2.**
+*Hebrew/Aramaic:* ״וְלֹא יִדְבַּק בְּיָדְךָ מְאוּמָה מִן הַחֵרֶם״ – כׇּל זְמַן שֶׁרְשָׁעִים בָּעוֹלָם, חֲרוֹן אַף בָּעוֹלָם וְכוּ׳. מַאן רְשָׁעִים? אָמַר רַב יוֹסֵף: גַּנָּבֵי.
+*Translation:* § The mishna teaches with regard to the verse: **“And there shall cleave nothing of that which was devoted to your hand”** (Deuteronomy 13:18), **as long as the wicked** exist **in the world,** there is **wrath in the world.** The Gemara asks: **Who are** these **wicked** people mentioned in the mishna? **Rav Yosef said:** They are **thieves.**
+
+**3.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: רָשָׁע בָּא לָעוֹלָם – חָרוֹן בָּא לְעוֹלָם, שֶׁנֶּאֱמַר: ״בְּבוֹא רָשָׁע בָּא גַם בּוּז וְעִם קָלוֹן חֶרְפָּה״. רָשָׁע אָבֵד מִן הָעוֹלָם – טוֹבָה בָּאָה לְעוֹלָם, שֶׁנֶּאֱמַר: ״וּבַאֲבֹד רְשָׁעִים רִנָּה״. צַדִּיק נִפְטָר מִן הָעוֹלָם – רָעָה בָּאָה לְעוֹלָם, שֶׁנֶּאֱמַר: ״הַצַּדִּיק אָבָד וְאֵין אִישׁ שָׂם עַל לֵב וְאַנְשֵׁי חֶסֶד נֶאֱסָפִים בְּאֵין מֵבִין כִּי מִפְּנֵי הָרָעָה נֶאֱסַף הַצַּדִּיק״. צַדִּיק בָּא לָעוֹלָם – טוֹבָה בָּאָה לְעוֹלָם, שֶׁנֶּאֱמַר: ״זֶה יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ וּמֵעִצְּבוֹן יָדֵינוּ״.
+*Translation:* **The Sages taught** in a *baraita*: When **a wicked** person **comes into the world, wrath comes into the world, as it is stated: “When the wicked comes into the world, contempt also comes, and with ignominy, reproach”** (Proverbs 18:3). When **a wicked** person **is eliminated from the world, good comes into the world, as it is stated: “And when the wicked perish there is jubilation”** (Proverbs 11:10). When **a righteous** person **passes from the world, evil comes into the world, as it is stated: “The righteous perishes and no man lays it to heart; and merciful men are taken, none understand that due to the evil the righteous is taken”** (Isaiah 57:1) When **a righteous** person **comes into the world, good comes into the world** with him, **as it is stated** with regard to Noah: **“This is one who shall comfort us for our work and the toil of our hands”** (Genesis 5:29).
+
+**4.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ כׇּל יִשְׂרָאֵל יֵשׁ לָהֶם חֵלֶק וּסְלִיקָא לַהּ מַסֶּכֶת סַנְהֶדְרִין
+*Translation:* 

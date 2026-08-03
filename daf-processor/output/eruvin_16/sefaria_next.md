@@ -87,3 +87,88 @@
 **22.**
 *Hebrew/Aramaic:* לָא צְרִיכָא, אַף עַל גַּב
 *Translation:* The Gemara answers: **No,** this ostensibly obvious statement is indeed **necessary** to teach that this principle applies in the case of a military camp, **even though**
+
+
+---
+
+### Eruvin 17b
+
+**1.**
+*Hebrew/Aramaic:* דְּאִית לֵיהּ קוֹבְרִין, דְּתַנְיָא: אֵיזֶהוּ מֵת מִצְוָה? כֹּל שֶׁאֵין לוֹ קוֹבְרִין. קוֹרֵא וַאֲחֵרִים עוֹנִין אוֹתוֹ — אֵין זֶה מֵת מִצְוָה.
+*Translation:* **there are** people available **to bury it. As it was taught** in a *baraita*: **Which is** the corpse that is considered **a *met mitzva*?Any** corpse **that has no one** available **to bury it.** If, however, the deceased has friends or relatives to tend to his burial, his corpse is not considered a *met mitzva*. Likewise, if the body is in a place where if **one calls out, others** can **answer him, this is not a *met mitzva*.** The *Tosefta* teaches a novel ruling applicable to the case of a military camp: A solider is buried where he was killed, even if the conditions for *met mitzva* are not met there.
+
+**2.**
+*Hebrew/Aramaic:* וּמֵת מִצְוָה קָנָה מְקוֹמוֹ? וְהָתַנְיָא: הַמּוֹצֵא מֵת מוּטָל בִּסְרַטְיָא — מְפַנֵּיהוּ לִימִין אִסְרַטְיָא אוֹ לִשְׂמֹאל אִסְרַטְיָא.
+*Translation:* With regard to the *halakha* itself, the Gemara asks: **And does a *met mitzva*** actually **acquire its place? Wasn’t it taught** in a *baraita*: **One who finds a corpse laid out on a main street evacuates it** for burial either **to the right of the street or to the left of the street,** but it may not be buried under the main street itself?
+
+**3.**
+*Hebrew/Aramaic:* שְׂדֵה בוּר וּשְׂדֵה נִיר — מְפַנֵּיהוּ לִשְׂדֵה בוּר. שְׂדֵה נִיר וּשְׂדֵה זֶרַע — מְפַנֵּיהוּ לִשְׂדֵה נִיר. הָיוּ שְׁתֵּיהֶן נִירוֹת, שְׁתֵּיהֶן זְרוּעוֹת, שְׁתֵּיהֶן בּוּרוֹת — מְפַנֵּהוּ לְכׇל רוּחַ שֶׁיִּרְצֶה!
+*Translation:* If one can move the corpse either to **an uncultivated field or** to **a plowed field, he evacuates it to the uncultivated field.** If the choice is between **a plowed field and a sown field, he evacuates it to the plowed field.** If **both** fields **are plowed,** or if **both are sown,** or if **both are uncultivated, he evacuates it to any side that he wishes** to move it. Apparently, a *met mitzva* is not necessarily buried where it is found. It may be moved elsewhere.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַב בִּיבִי: הָכָא בְּמֵת מוּטָּל עַל הַמֵּיצַר עָסְקִינַן. מִתּוֹךְ שֶׁנִּיתְּנָה רְשׁוּת לְפַנּוֹתוֹ מִן הַמֵּיצַר — מְפַנֵּיהוּ לְכׇל רוּחַ שֶׁיִּרְצֶה.
+*Translation:* **Rav Beivai said: Here we are dealing with a corpse laid out across on the side** of a public path, and it stretches across the path and reaches the other side. Were the corpse buried there, it would prohibit passage by priests. **Since permission was** already **granted to evacuate it from the side** of a public path, **one may evacuate it to any side he wishes.** If, however, the corpse was in a field, moving it would be prohibited.
+
+**5.**
+*Hebrew/Aramaic:* וּפְטוּרִין מֵרְחִיצַת יָדַיִם. אָמַר אַבָּיֵי: לֹא שָׁנוּ אֶלָּא מַיִם רִאשׁוֹנִים, אֲבָל מַיִם אַחֲרוֹנִים חוֹבָה.
+*Translation:* We learned in the mishna that in a military camp **one is exempt from** ritual **washing** of the **hands. Abaye said: They taught** this exemption **only** with regard to **first waters,** i.e., hand-washing before eating. **However, final waters,** i.e., hand-washing after eating and before reciting Grace after Meals, **is an obligation** even in a military camp.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַב חִיָּיא בַּר אָשֵׁי: מִפְּנֵי מָה אָמְרוּ מַיִם אַחֲרוֹנִים חוֹבָה? מִפְּנֵי שֶׁמֶּלַח סְדוֹמִית יֵשׁ, שֶׁמְּסַמֵּא אֶת הָעֵינַיִם.
+*Translation:* **Rav Ḥiyya bar Ashi said: For what** reason **did** the Sages **say that the final waters are an obligation?** It is **due to** the fact **that there is the presence of Sodomite salt, which blinds the eyes** even in a small amount. Since Sodomite salt could remain on one’s hands, one must wash them after eating. This obligation is binding even in a camp because soldiers are also obligated to maintain their health.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: וּמִשְׁתַּכְחָא כְּקוּרְטָא בְּכוֹרָא. אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: כָּיֵיל מִילְחָא, מַאי? אֲמַר לֵיהּ: [הָא] לָא מִיבַּעְיָא.
+*Translation:* **Abaye said: And** this type of dangerous salt **is present** in the proportion of a single **grain [*korta*] in an** entire ***kor*** of innocuous salt. **Rav Aḥa, son of Rava, said to Rav Ashi:** If **one measured salt** and came into contact with Sodomite salt not during mealtime, **what** is the *halakha*? Is there an obligation to wash his hands afterward? **He said to him: It was unnecessary** to say **this,** as he is certainly obligated to do so.
+
+**8.**
+*Hebrew/Aramaic:* וּמִדְּמַאי. דִּתְנַן: מַאֲכִילִין אֶת הָעֲנִיִּים דְּמַאי וְאֶת אַכְסַנְיָא דְּמַאי. אָמַר רַב הוּנָא: תָּנָא, בֵּית שַׁמַּאי אוֹמְרִים: אֵין מַאֲכִילִין אֶת הָעֲנִיִּים דְּמַאי וְאֶת אַכְסַנְיָא דְּמַאי, וּבֵית הִלֵּל אוֹמְרִים: מַאֲכִילִין אֶת הָעֲנִיִּים דְּמַאי וְאֶת אַכְסַנְיָא דְּמַאי.
+*Translation:* The mishna continues: **And** in a military camp, one is exempt **from** the separation of tithes from **doubtfully tithed produce [*demai*]. As we learned** in a mishna: **One may feed the poor *demai*, and** one may also feed **quartered soldiers [*akhsanya*] *demai*. Rav Huna said:** A *tanna* **taught** in a *baraita*: **Beit Shammai say** that **one may neither feed the poor *demai*, nor** may one feed **quartered soldiers *demai*. And Beit Hillel say** that **one may feed the poor *demai*, and** one may also feed **quartered soldiers *demai*.**
+
+**9.**
+*Hebrew/Aramaic:* וּמִלְּעָרֵב. אָמְרִי דְּבֵי רַבִּי יַנַּאי: לֹא שָׁנוּ אֶלָּא עֵירוּבֵי חֲצֵירוֹת, אֲבָל עֵירוּבֵי תְּחוּמִין חַיָּיבִין.
+*Translation:* We learned in the mishna: **And** in a military camp, one is exempt **from establishing an *eiruv*.** The Sages of **the school of Rabbi Yannai said: They taught** that this exemption applies **only** with regard to **the joining of** houses in **courtyards. However,** even those in a military encampment **are obligated** to establish an *eiruv* if they desire to effect **a joining of Shabbat boundaries,** whereby one extends the Shabbat limits beyond which one may not walk on Shabbat.
+
+**10.**
+*Hebrew/Aramaic:* דְּתָנֵי רַבִּי חִיָּיא: לוֹקִין עַל עֵירוּבֵי תְּחוּמִין דְּבַר תּוֹרָה.
+*Translation:* **As Rabbi Ḥiyya taught** a *baraita*: **One is flogged by Torah law for** going beyond the Shabbat limit if there is no **joining of Shabbat boundaries.** The Torah states: “No man shall go out [*al yetze*] of his place on the seventh day” (Exodus 16:29). Since this is a Torah prohibition, leniency is possible only in life-threatening circumstances.
+
+**11.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַבִּי יוֹנָתָן: וְכִי לוֹקִין עַל לָאו שֶׁבְּ״אַל״? מַתְקֵיף רַב אַחָא בַּר יַעֲקֹב: אֶלָּא מֵעַתָּה דִּכְתִיב: ״אַל תִּפְנוּ אֶל הָאוֹבוֹת וְאֶל הַיִּדְּעוֹנִים״, הָכִי נָמֵי דְּלָא לָקֵי?!
+*Translation:* **Rabbi Yonatan strongly objects: Is one flogged for** violating **a prohibition that is** expressed in the Torah with the negative ***al*,** rather than the negative *lo*? **Rav Aḥa bar Ya’akov strongly objects** to the question: **If** what you say is **so,** with regard to **that which is written: “Turn you not [*al*] unto the ghosts, nor unto familiar spirits”** (Leviticus 19:31), is the *halakha* there **too that one is not flogged?**
+
+**12.**
+*Hebrew/Aramaic:* רַבִּי יוֹנָתָן הָכִי קַשְׁיָא לֵיהּ: לָאו שֶׁנִּיתַּן לְאַזְהָרַת מִיתַת בֵּית דִּין. וְכׇל לָאו שֶׁנִּיתַּן לְאַזְהָרַת מִיתַת בֵּית דִּין — אֵין לוֹקִין עָלָיו.
+*Translation:* Rather, **this is** the **difficulty for Rabbi Yonatan:** The prohibition against overstepping the Shabbat limits is **a prohibition that was given** primarily **as a warning of court-imposed capital punishment,** i.e., a prohibition which, under certain conditions, is punishable by the death and not merely by lashes, as is the case with most prohibitions. In fact, the prohibition against carrying objects out to the public domain is derived from that same verse, and one who violates that prohibition is liable for execution by the court. **And** this principle applies: **Any prohibition that was given** primarily **as a warning of court-imposed capital punishment one is not flogged,** even if the death penalty does not apply in that particular case.
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַב אָשֵׁי: מִי כְּתִיב ״אַל יוֹצִיא״? ״אַל יֵצֵא״ כְּתִיב.
+*Translation:* **Rav Ashi said: Is it written** in the Torah: **No** man **shall carry out [*yotzi*],** indicating a prohibition against carrying objects from one domain to another on Shabbat? **“No** man **shall go out [*yetze*]” is written.** Indeed, according to its plain meaning, the verse deals exclusively with the prohibition of going beyond the Shabbat limits and not with the prohibition of carrying out. Everyone agrees that there is no death penalty administered by the court in overstepping the Shabbat limit.
+
+**14.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ מָבוֹי
+*Translation:* 
+
+**15.**
+*Hebrew/Aramaic:* מַתְנִי׳ עוֹשִׂין פַּסִּין לְבֵירָאוֹת.
+*Translation:* MISHNA: **One may arrange** upright **boards [*passin*] around a well** in the public domain in order to permit drawing water from the well on Shabbat. A well is usually at least four handbreadths wide and ten handbreadths deep. Therefore, it is considered a private domain, and it is prohibited to draw water from it on Shabbat, as that would constitute a violation of the prohibition to carry from a private domain into a public one. The Sages therefore instituted that a virtual partition may be built in the area surrounding the well, so that the enclosed area could be considered a private domain, thus permitting use of the well and carrying of the water within the partitioned area.
+
+**16.**
+*Hebrew/Aramaic:* אַרְבָּעָה דְּיוֹמְדִין נִרְאִין כִּשְׁמוֹנָה, דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי מֵאִיר אוֹמֵר: שְׁמוֹנָה נִרְאִין כִּשְׁנֵים עָשָׂר — אַרְבָּעָה דְּיוֹמְדִים וְאַרְבָּעָה פְּשׁוּטִין.
+*Translation:* In this specific instance, the Sages demonstrated special leniency and did not require a proper partition to enclose the entire area. For this purpose, it suffices if there are **four double posts [*deyomadin*] that look like eight** single posts, i.e., four corner pieces, each comprised of two posts joined together at right angles; this is **the statement of Rabbi Yehuda. Rabbi Meir says:** There must be **eight** posts that **look like twelve.** How so? There must be **four double posts,** one in each corner, with **four plain** posts, one between each pair of double posts.
+
+**17.**
+*Hebrew/Aramaic:* גּוֹבְהָן עֲשָׂרָה טְפָחִים, וְרוֹחְבָּן שִׁשָּׁה וְעוֹבְיָים כׇּל שֶׁהוּא. וּבֵינֵיהֶן כִּמְלֹא שְׁתֵּי רְבָקוֹת שֶׁל שָׁלֹשׁ שָׁלֹשׁ בָּקָר, דִּבְרֵי רַבִּי מֵאִיר.
+*Translation:* **The height** of the double posts must be at least **ten handbreadths, their width** must be **six** handbreadths, **and their thickness** may be even **a minimal amount. And between them,** i.e., between the posts, there may be a gap **the size of two teams [*revakot*] of three oxen each;** this is **the statement of Rabbi Meir.**
+
+**18.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: שֶׁל אַרְבַּע, קְשׁוּרוֹת וְלֹא מוּתָּרוֹת, אַחַת נִכְנֶסֶת וְאַחַת יוֹצֵאת.
+*Translation:* **Rabbi Yehuda** disagrees and **says:** There may be a slightly larger gap, the size of two teams **of four** oxen each, and this gap is measured with the cows being **tied** together **and not untied,** and with the minimal space necessary for **one** team to be **entering** while the other **one is leaving.**
+
+**19.**
+*Hebrew/Aramaic:* מוּתָּר לְהַקְרִיב לַבְּאֵר, וּבִלְבַד שֶׁתְּהֵא פָּרָה רֹאשָׁהּ וְרוּבָּהּ בִּפְנִים וְשׁוֹתָה.
+*Translation:* **It is permitted to bring** the posts **closer to the well, provided that** the enclosed area is large enough for **a cow to** stand with **its head and the majority of its** body **inside** the partitioned space while **it drinks.**
+
+**20.**
+*Hebrew/Aramaic:* מוּתָּר
+*Translation:* **It is permitted**

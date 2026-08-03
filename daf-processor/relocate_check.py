@@ -31,22 +31,27 @@ from relocate_parse import parse_blocks, build_windows
 client = anthropic.Anthropic()
 
 def build_prompt(w):
+    items = w["items"]
+    n = len(items)
     lines = [
         "You are checking whether a piece of quoted Talmudic text (Gemara/mishna/baraita) "
         "sits under the right section heading in an assembled essay. The essay was built by "
         "an automated pipeline that sometimes places a passage under the wrong nearby heading.",
         "",
-        "Below is the Hebrew/Aramaic passage and its English translation, followed by the "
-        "candidate headings it could belong under — every heading between the previous quoted "
-        "passage and the next one in the essay (so the true home is guaranteed to be in this "
-        "list; you are not searching the whole essay). Each candidate shows that section's own "
-        "prose (what the essay author actually wrote/said about that topic).",
+        f"Below is the passage, broken into its {n} individual textual item(s) in order, "
+        "followed by the candidate headings it could belong under — every heading between "
+        "the previous quoted passage and the next one in the essay (so the true home is "
+        "guaranteed to be in this list; you are not searching the whole essay). Each "
+        "candidate shows that section's own prose (what the essay author actually wrote/said "
+        "about that topic).",
         "",
-        f"HEBREW/ARAMAIC: {w['hebrew']}",
-        f"ENGLISH TRANSLATION: {w['translation']}",
-        "",
-        "CANDIDATES (in order as they appear in the essay):",
     ]
+    for i, it in enumerate(items, 1):
+        lines.append(f"ITEM {i} of {n}:")
+        lines.append(f"  HEBREW/ARAMAIC: {it['hebrew']}")
+        lines.append(f"  ENGLISH TRANSLATION: {it['translation']}")
+    lines.append("")
+    lines.append("CANDIDATES (in order as they appear in the essay):")
     for i, c in enumerate(w["candidates"]):
         cur = "  [this is where it currently sits]" if c["is_current"] else ""
         prose = c["prose"] if c["prose"] else "(no prose under this heading)"
@@ -54,21 +59,53 @@ def build_prompt(w):
     lines.append("")
     lines.append(
         "Which candidate does this passage's content actually belong under, based on what "
-        "the prose is discussing? Reply with ONLY a JSON object: "
-        '{"best_index": <int>, "confidence": "high"|"medium"|"low", "reason": "<one sentence>"}. '
-        "If the current placement is genuinely correct, return its own index. If several "
-        "prose sections plausibly discuss related material and none is clearly the best "
-        "match, prefer the CURRENT placement and mark confidence low — only recommend moving "
-        "it when a different candidate's prose is a clearly better match for THIS passage's "
-        "specific content."
+        "the prose is discussing? Almost always all items above belong together under ONE "
+        "heading — reply with FORM 1 in that case. If the current placement is genuinely "
+        "correct, return its own index. If several prose sections plausibly discuss related "
+        "material and none is clearly the best match, prefer the CURRENT placement and mark "
+        "confidence low — only recommend moving when a different candidate's prose is a "
+        "clearly better match for THIS passage's specific content."
     )
+    if n > 1:
+        lines.append(
+            "\nFORM 2 is for a SPECIFIC pipeline bug: an automated matching step sometimes "
+            "glues together a short sentence that WRAPS UP one topic with the ENTIRE START "
+            "of the next, unrelated topic, because they happened to sit next to each other "
+            "in the source text. Use FORM 2 only when there is a genuine STRUCTURAL seam "
+            "between the items — a new Mishnah beginning (look for 'MISHNA:' or similar), "
+            "an entirely new case/scenario with its own new facts, or a shift to a different "
+            "dispute that does not depend on what came before. A real example: item 1 is the "
+            "closing line of a resolved dispute ('the halakha follows X'), and items 2 "
+            "onward are the opening Mishnah and Gemara of a completely different case that a "
+            "reader would recognize as its own self-contained unit even with item 1 deleted.\n"
+            "Do NOT use FORM 2 for: multiple Amoraim disputing or refining the SAME point; a "
+            "challenge followed by its resolution; one Amora's ruling followed by another "
+            "Amora's elaboration, qualification, or exception to that SAME ruling; or a "
+            "single chain of question-objection-answer even if several named Sages speak in "
+            "turn. All of those are one continuous topic, however many sub-points or "
+            "speakers it contains — reply FORM 1. If you're not confident the seam is a real "
+            "structural break rather than just a shift in emphasis, prefer FORM 1."
+        )
+    lines.append(
+        '\nFORM 1 (the whole passage belongs under one heading):\n'
+        '{"action": "single", "best_index": <int>, "confidence": "high"|"medium"|"low", '
+        '"reason": "<one sentence>"}'
+    )
+    if n > 1:
+        lines.append(
+            '\nFORM 2 (items 1..split_after belong under one heading, the rest under another):\n'
+            '{"action": "split", "split_after": <int, 1 to ' + str(n - 1) + '>, '
+            '"first_index": <int>, "first_confidence": "high"|"medium"|"low", "first_reason": "<one sentence>", '
+            '"second_index": <int>, "second_confidence": "high"|"medium"|"low", "second_reason": "<one sentence>"}'
+        )
+    lines.append("\nReply with ONLY the JSON object, no other text.")
     return "\n".join(lines)
 
 def check_window(w):
     prompt = build_prompt(w)
     resp = client.messages.create(
         model=REWRITE_MODEL,
-        max_tokens=300,
+        max_tokens=800,
         messages=[{"role": "user", "content": prompt}],
     )
     text = resp.content[0].text
@@ -79,9 +116,41 @@ def check_window(w):
         data = json.loads(m.group())
     except Exception:
         return None
+
+    n = len(w["quote_indices"])
+    if data.get("action") == "split" and n > 1:
+        split_after = data.get("split_after")
+        fi, si = data.get("first_index"), data.get("second_index")
+        if not (isinstance(split_after, int) and 1 <= split_after < n):
+            return None
+        if fi is None or not (0 <= fi < len(w["candidates"])):
+            return None
+        if si is None or not (0 <= si < len(w["candidates"])):
+            return None
+        first_heading = w["candidates"][fi]["heading"]
+        second_heading = w["candidates"][si]["heading"]
+        if first_heading == second_heading:
+            # Not actually a split (both halves landed on the same heading) --
+            # collapse to a single move so downstream code has one shape to handle.
+            data = {"best_index": fi}
+        else:
+            return {
+                "action": "split",
+                "split_after": split_after,
+                "first_heading": first_heading,
+                "first_confidence": data.get("first_confidence"),
+                "first_reason": data.get("first_reason"),
+                "second_heading": second_heading,
+                "second_confidence": data.get("second_confidence"),
+                "second_reason": data.get("second_reason"),
+                "current_heading": w["current_heading"],
+                "moved": True,
+            }
+
     idx = data.get("best_index")
     if idx is None or not (0 <= idx < len(w["candidates"])):
         return None
+    data["action"] = "single"
     data["chosen_heading"] = w["candidates"][idx]["heading"]
     data["current_heading"] = w["current_heading"]
     data["moved"] = data["chosen_heading"] != w["current_heading"]
@@ -96,5 +165,6 @@ if __name__ == "__main__":
         if len(w["candidates"]) <= 1:
             continue
         result = check_window(w)
-        status = "MOVE" if result and result["moved"] else "stay"
+        status = "SPLIT" if result and result.get("action") == "split" else \
+                 ("MOVE" if result and result["moved"] else "stay")
         print(f"[{status}] run={w['quote_indices']} current={w['current_heading']!r} -> {result}")

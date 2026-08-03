@@ -27,3 +27,32 @@
 **7.**
 *Hebrew/Aramaic:* אָמַר אַבָּיֵי: אֲפִילּוּ תֵּימָא רַבִּי עֲקִיבָא,
 *Translation:* **Abaye said: Even** if **you say** that the mishna is in accordance with the opinion of **Rabbi Akiva,**
+
+
+---
+
+### Nedarim 54b
+
+**1.**
+*Hebrew/Aramaic:* מִי לָא מוֹדֶה רַבִּי עֲקִיבָא דִּצְרִיךְ אִימְּלוֹכֵי? אִיתְּמַר שְׁמַעְתָּא קַמֵּיהּ דְּרָבָא. אֲמַר לְהוֹן: שַׁפִּיר אָמַר נַחְמָנִי.
+*Translation:* **doesn’t Rabbi Akiva concede that** the agent **must consult** his employer? Because he failed to do so and acted on his own, he is not considered to have performed his mission. This *halakha* **was stated before Rava. He said to** those who stated the *halakha* before him: **Naḥmani,** i.e., Abaye, **spoke well.**
+
+**2.**
+*Hebrew/Aramaic:* מַאן תַּנָּא דִּפְלִיג עֲלֵיהּ דְּרַבִּי עֲקִיבָא — רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל הִיא. דְּתַנְיָא: הַנּוֹדֵר מִן הַבָּשָׂר — אָסוּר בְּכׇל מִינֵי בָשָׂר, וְאָסוּר בָּרֹאשׁ וּבָרַגְלַיִם וּבַקָּנֶה וּבַכָּבֵד וּבַלֵּב, וּבְעוֹפוֹת, וּמוּתָּר בִּבְשַׂר דָּגִים וַחֲגָבִים.
+*Translation:* § The Gemara asks: **Who is the *tanna* who disagrees with** the opinion **of Rabbi Akiva** in the mishna here? The Gemara answers: **It is Rabban Shimon ben Gamliel, as it is taught** in a dispute in the *baraita*: For **one who vows** that **meat** is forbidden **to** him, it **is prohibited** to eat **all types of meat, and** it **is prohibited** for him to eat meat **of the head, and of the feet, and of the windpipe, and of the liver, and of the heart,** although people do not typically eat meat from those parts of the body. **And** it is prohibited for him to eat meat **of birds,** as it too is popularly called meat. **However,** it **is permitted** for him to eat **of the meat of fish and grasshoppers,** as their flesh is not called meat.
+
+**3.**
+*Hebrew/Aramaic:* רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: הַנּוֹדֵר מִן הַבָּשָׂר — אָסוּר בְּכׇל מִינֵי בָשָׂר, וּמוּתָּר בָּרֹאשׁ וּבָרַגְלַיִם וּבַקָּנֶה וּבַכָּבֵד וּבַלֵּב וּבְעוֹפוֹת, וְאֵין צָרִיךְ לוֹמַר בְּשַׂר דָּגִים וַחֲגָבִים. וְכֵן הָיָה רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: קְרָבַיִים לָאו בָּשָׂר, וְאוֹכְלֵיהֶן לָאו בַּר אִינָשׁ. אוֹכְלֵיהֶן כְּבָשָׂר, לְעִנְיַן זְבִינֵי — לָאו בַּר אִינָשׁ.
+*Translation:* **Rabban Shimon ben Gamliel says: One who vows** that **meat** is forbidden **to** him, **is forbidden in all types of meat, and is permitted** to eat meat **of the head, and of the feet, and of the windpipe, and of the liver, and of the heart and of birds, and needless to say** he may also partake of **fish and grasshoppers. And Rabban Shimon ben Gamliel would likewise say: Innards are not** considered **meat, and one who eats them is not a person,** meaning that the innards are not fit for human consumption. The Gemara elaborates: With regard to **one who eats them,** in terms of the *halakhot* related to their consumption, e.g., vows, they are considered **as meat.** However, **with regard to purchase,** one who purchases them **is not a person.** In any case, apparently, Rabban Shimon ben Gamliel disagrees with Rabbi Akiva, as he maintains that although if an agent fails to find meat he is required to consult his employer before replacing it with liver, it is not considered meat with regard to vows.
+
+**4.**
+*Hebrew/Aramaic:* מַאי שְׁנָא בְּשַׂר עוֹף לְתַנָּא קַמָּא דַּאֲסִיר — דַּעֲבִיד שְׁלִיחָא דְּמִימְּלִיךְ עֲלֵיהּ. בְּשַׂר דָּגִים נָמֵי עָבֵיד שְׁלִיחָא, דְּאִי לָא מַשְׁכַּח בִּישְׂרָא, מִימְּלִיךְ עֲלֵיהּ, דְּאָמַר: אִי לָא מַשְׁכַּחְנָא בִּישְׂרָא אַיְיתֵי דָּגִים, וְלִיתַּסְרוּ!
+*Translation:* The Gemara asks: **What is different** about **the meat of a bird according to the first *tanna*, that he prohibits it** since it is considered meat, due to the fact **that** when **the agent** fails to find meat, **he tends to consult** his employer **about it?** The same should be true of the **meat of fish too. If the agent does not find meat, he tends to consult** his employer **about it, as he says: If I do not find meat, should I bring fish? And** therefore, **let** fish also **be forbidden** according to the first *tanna*.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: כְּגוֹן שֶׁהִקִּיז דָּם, דְּלָא אָכֵיל דָּגִים. אִי הָכִי, אֲפִילּוּ עוֹפוֹת נָמֵי לָא אָכֵיל. דְּאָמַר שְׁמוּאֵל: דִּמְסוֹכַר וְאָכֵיל בִּישְׂרָא דְצִפְּרָא — פָּרַח לִבֵּיהּ כְּצִפְּרָא! וְתַנְיָא: אֵין מַקִּיזִין לֹא עַל דָּגִים, וְלֹא עַל עוֹפוֹת, וְלֹא עַל בָּשָׂר מָלִיחַ. וְתַנְיָא: הִקִּיז דָּם — לֹא יֹאכַל לֹא חָלָב, וְלֹא גְּבִינָה, וְלֹא בֵּיצִים, וְלֹא שַׁחֲלַיִים, וְלֹא עוֹפוֹת, וְלֹא בָּשָׂר מָלִיחַ! שָׁאנֵי עוֹפוֹת, דְּאֶפְשָׁר עַל יְדֵי שְׁלִיקָה.
+*Translation:* **Abaye said:** This is referring to a case **where he let** his **blood** when he vowed, **as** a person in that condition **does not eat fish.** It was common knowledge then that eating fish after bloodletting is harmful. The Gemara asks: **If so, he** would **not eat birds either, as Shmuel said:** With regard to one **who lets blood and eats the meat of a bird, his heart** rate accelerates and **flies like a bird.** Clearly, bird meat too is deleterious for his health. **And it is taught** in a *baraita*: **One neither lets blood before** eating **fish, nor before** eating **birds, nor before** eating **salted meat. And it is taught** in another *baraita*: If one **let blood, he may eat neither milk, nor cheese, nor eggs, nor cress, nor birds, nor salted meat.** The Gemara answers: Meat of **birds is different, as** it **is possible** to eat it safely after bloodletting **by means of** thoroughly **boiling** it.
+
+**6.**
+*Hebrew/Aramaic:* אַבָּיֵי אָמַר: כְּגוֹן דְּכָיְיבִין לֵיהּ עֵינֵיהּ, דְּדָגִים קָשִׁין לָעֵינַיִם. אִי הָכִי אָכֵיל דָּגִים, דְּהָא אָמַר שְׁמוּאֵל: נוּן סָמֶךְ עַיִן — נוּנָא סַמָּא לְעֵינַיִם! הָהוּא סוֹף אוּכְלָא.
+*Translation:* **Abaye said:** This is referring to a case **where his eyes hurt him, as fish are harmful for eyes.** Therefore, meat of birds is permitted, but not fish. The Gemara asks: **If so,** and he is suffering from eye pain, he should **eat fish, as Shmuel said** an acronym: ***Nun*, *samekh*, *ayin*,** which stands for: ***Nuna samma la’einayim*,** which means: Fish is a medicine for eyes. The Gemara answers: **That** statement of Shmuel is referring to the **latter** stages **of the** eye **infection.**

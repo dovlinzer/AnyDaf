@@ -79,3 +79,84 @@
 **20.**
 *Hebrew/Aramaic:* וְכִי אֵין בְּפָחוֹת מִשְּׁלֹשָׁה סָמוּךְ לַגַּג טֶפַח נָמֵי, לָא אֲמַרַן אֶלָּא שֶׁאֵין
 *Translation:* And even **where it is less than a handbreadth** wide **within three** handbreadths **of** its **top, we said** this leniency **only where**
+
+
+---
+
+### Eruvin 102b
+
+**1.**
+*Hebrew/Aramaic:* בְּשִׁיפּוּעָהּ טֶפַח, אֲבָל יֵשׁ בְּשִׁיפּוּעָהּ טֶפַח — שִׁיפּוּעֵי אֹהָלִים כְּאֹהָלִים דָּמוּ.
+*Translation:* **its incline does not extend a handbreadth** from the center to each side. **However, if its incline extends a handbreadth** from the center to the side, the *halakha* is that **the inclines of tents are considered like tents,** and it is therefore prohibited to suspend them.
+
+**2.**
+*Hebrew/Aramaic:* וְאָמַר רַב שִׁישָׁא בְּרֵיהּ דְּרַב אִידִי: סְיָינָא — שְׁרֵי. וְהָתַנְיָא אָסוּר! לָא קַשְׁיָא: הָא — דְּאִית בֵּיהּ טֶפַח, הָא — דְּלֵית בֵּיהּ טֶפַח.
+*Translation:* **And Rav Sheisha, son of Rav Idi, said:** With regard to a stiff **felt hat [*sayna*], it is permitted** to wear it on Shabbat. The Gemara raises a difficulty: **But wasn’t it taught** in a *baraita* that wearing this hat **is prohibited?** The Gemara answers: It is **not difficult. This** *baraita*, which prohibits wearing a felt hat, is referring to a case **where** the hat extends **a handbreadth** from the person’s head and is therefore regarded as a tent; whereas **that** statement by Rav Sheisha, who permits doing so, is referring to a case **where it does not** extend **a handbreadth** from one’s head.
+
+**3.**
+*Hebrew/Aramaic:* אֶלָּא מֵעַתָּה: שַׁרְבֵּיב בִּגְלִימֵיהּ טֶפַח, הָכִי נָמֵי דְּאָסוּר?
+*Translation:* The Gemara is surprised at this answer: **But if that is so,** one who **pulled his cloak a handbreadth** beyond his head, **is it also prohibited** for him to do so? This is unreasonable, as it is an article of clothing, not a tent.
+
+**4.**
+*Hebrew/Aramaic:* אֶלָּא, לָא קַשְׁיָא: הָא — דְּמִיהַדַּק, הָא — דְּלָא מִיהַדַּק.
+*Translation:* **Rather,** the previous explanation must be rejected, as the issue with regard to a felt hat is not whether it is considered a tent, but whether there is concern that one might come to carry it in the public domain if it falls from his head. This is **not difficult; this** statement of Rav Sheisha, which permits it, is referring to a case **where** the hat **fits snugly** on his head. There is no concern lest the hat fall and one will come to carry it; therefore it is permitted to wear it. Conversely, **that** *baraita*, which prohibits wearing this hat, is referring to a case **where it does not fit snugly** on his head. It is therefore liable to fall, and one might come to carry it in the public domain.
+
+**5.**
+*Hebrew/Aramaic:* מַתְנִי׳ מַחְזִירִין צִיר הַתַּחְתּוֹן בַּמִּקְדָּשׁ, אֲבָל לֹא בַּמְּדִינָה. וְהָעֶלְיוֹן — כָּאן וְכָאן אָסוּר. רַבִּי יְהוּדָה אוֹמֵר: הָעֶלְיוֹן — בַּמִּקְדָּשׁ, וְהַתַּחְתּוֹן — בַּמְּדִינָה.
+*Translation:* MISHNA: **One** may **restore** the **lower hinge pin** of the door of a carriage, box, or cupboard that becomes dislocated to its place on Shabbat **in the Temple,** as this action is prohibited by rabbinic decree, which is not in effect in the Temple; **but** it may **not** be restored to its place **in** the rest of **the country. And** restoring **the upper** hinge pin **is prohibited in both** places, as this is considered building, a labor prohibited by Torah law, which applies everywhere. **Rabbi Yehuda says:** Restoring **the upper** hinge pin to its place is permitted **in the Temple, while** one may restore **the lower one** to its place even **in** the rest of **the country.**
+
+**6.**
+*Hebrew/Aramaic:* גְּמָ׳ תָּנוּ רַבָּנַן: צִיר דֶּלֶת שִׁידָּה תֵּיבָה וּמִגְדָּל, בַּמִּקְדָּשׁ — מַחֲזִירִין, בַּמְּדִינָה — דּוֹחֲקִין. וְהָעֶלְיוֹן — כָּאן וְכָאן לֹא יַחֲזִיר, גְּזֵרָה שֶׁמָּא יִתְקַע. וְאִם תָּקַע — חַיָּיב חַטָּאת.
+*Translation:* GEMARA: **The Sages taught** a *baraita*: With regard to the lower **hinge pin of the door of a carriage, box, or cupboard, one** may **restore** it to its place **in the Temple; in the** rest of the **country one** may only push it **back** into place, provided that it did not come out of its socket entirely. As for **the upper** hinge, **one** may **not restore** it **in either** place. This is prohibited as **a preventive measure, lest** one come to **bang** it in forcefully, thereby performing an actual labor prohibited by Torah law. **And if he** actually **banged** it in, **he is liable** to bring **a sin-offering,** as his action is considered building.
+
+**7.**
+*Hebrew/Aramaic:* שֶׁל בּוֹר וְשֶׁל דּוּת וְשֶׁל יָצִיעַ — לֹא יַחְזִיר, וְאִם הֶחְזִיר חַיָּיב חַטָּאת.
+*Translation:* With regard to the hinge pin of the door of **a pit, cistern, or an extension** to a building, **one** may **not restore** it to its place at all. **And if** one **restored** it to its place, **he is liable** to bring **a sin-offering.** The above distinction applies only to movable utensils, whereas anything attached to the ground may certainly not be fixed in place, as this is regarded as prohibited building.
+
+**8.**
+*Hebrew/Aramaic:* מַתְנִי׳ מַחְזִירִין רְטִיָּה בַּמִּקְדָּשׁ, אֲבָל לֹא בַּמְּדִינָה. אִם בַּתְּחִילָּה — כָּאן וְכָאן אָסוּר.
+*Translation:* MISHNA: **One** may **return** to its place **a bandage** that became detached from a wound on Shabbat **in the Temple.** In the Temple, this is not prohibited as a preventive measure, lest one come to spread the ointment and thereby perform the prohibited labor of smoothing. **However,** one may **not** return a bandage to its place **in** the rest of **the country. If** one sought to apply the bandage **for the first time** to an untreated wound on Shabbat, **it is prohibited in both** places.
+
+**9.**
+*Hebrew/Aramaic:* גְּמָ׳ תָּנוּ רַבָּנַן: רְטִיָּה שֶׁפֵּרְשָׁה מֵעַל גַּבֵּי מַכָּה — מַחְזִירִין בְּשַׁבָּת. רַבִּי יְהוּדָה אוֹמֵר: הוּחְלְקָה לְמַטָּה — דּוֹחֲקָהּ לְמַעְלָה, לְמַעְלָה — דּוֹחֲקָהּ לְמַטָּה, וּמְגַלֶּה מִקְצָת הָרְטִיָּה וּמְקַנֵּחַ פִּי הַמַּכָּה, וְחוֹזֵר וּמְגַלֶּה מִקְצָת רְטִיָּה וּמְקַנֵּחַ פִּי הַמַּכָּה.
+*Translation:* GEMARA: **The Sages taught** a *baraita*: With regard to a **bandage that became detached from a wound, one** may **return** it to its place **on Shabbat** in all cases. **Rabbi Yehuda says:** If **it slipped downward, one** may **push it upward;** if it slipped **upward, one** may **push it** downward. **One** may also **uncover part of the bandage and clean the opening of the wound** on one side, **and then uncover another part of the bandage** on the other side **and clean the opening of the wound** on that side.
+
+**10.**
+*Hebrew/Aramaic:* וּרְטִיָּה עַצְמָהּ לֹא יְקַנֵּחַ, מִפְּנֵי שֶׁהוּא מְמָרֵחַ. וְאִם מֵירַח — חַיָּיב חַטָּאת.
+*Translation:* However, **one** may **not clean the bandage itself, because** that would involve **spreading** the ointment, which is a subcategory of the prohibited labor of smoothing, **and if one spread** the ointment **he is liable** to bring **a sin-offering.** Actually restoring a bandage that was completely detached from the wound is prohibited in all cases.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הֲלָכָה כְּרַבִּי יְהוּדָה. אָמַר רַב חִסְדָּא: לֹא שָׁנוּ אֶלָּא שֶׁפֵּירְשָׁה עַל גַּבֵּי כְּלִי, אֲבָל פֵּירְשָׁה עַל גַּבֵּי קַרְקַע — דִּבְרֵי הַכֹּל אָסוּר.
+*Translation:* **Rav Yehuda said** that **Shmuel said: The *halakha* is in accordance with** the opinion of **Rabbi Yehuda. Rav Ḥisda said:** The Sages **taught** that it is permitted to restore the bandage to the wound **only where it became detached** and fell **onto a utensil,** in which case one may immediately pick it up and replace it. **However,** if **it became detached** and fell **onto the ground, everyone agrees it is prohibited,** as this is considered as though one were bandaging the wound for the first time.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר מָר בַּר רַב אָשֵׁי: הֲוָה קָאֵימְנָא קַמֵּיהּ אַבָּא, נְפַלָה לֵיהּ אַבֵּי סַדְיָא, וְקָא מַהְדַּר לֵיהּ. אָמֵינָא לֵיהּ: לָא סָבַר לַהּ מָר לְהָא דְּאָמַר רַב חִסְדָּא: מַחְלוֹקֶת שֶׁפֵּירְשָׁה עַל גַּבֵּי כְּלִי, אֲבָל פֵּירְשָׁה עַל גַּבֵּי קַרְקַע — אָסוּר, וְאָמַר שְׁמוּאֵל: הֲלָכָה כְּרַבִּי יְהוּדָה!
+*Translation:* **Mar bar Rav Ashi said: I was standing before Father,** and his bandage **fell onto a pillow and he replaced it. I said to him: Doesn’t the Master hold that which Rav Ḥisda said: The dispute** is restricted to a case **where** the bandage **became detached** and fell **onto a utensil, but if it became detached** and fell **onto the ground,** everyone agrees that **it is prohibited; and** furthermore, **Shmuel said: The *halakha* is in accordance with** the opinion of **Rabbi Yehuda,** that it is prohibited to replace even a bandage that fell onto a utensil?
+
+**13.**
+*Hebrew/Aramaic:* אָמַר לִי: לָא שְׁמִיעַ לִי, כְּלוֹמַר לָא סְבִירָא לִי.
+*Translation:* **He said to me: I did not hear this** teaching; **that is to say, I do not agree** with Rav Ḥisda’s interpretation that the dispute is only in a case where the bandage fell onto a utensil. Rather, they disagree even if it fell onto the ground, and the *halakha* is that the bandage may be restored to the wound.
+
+**14.**
+*Hebrew/Aramaic:* מַתְנִי׳ קוֹשְׁרִין נִימָא בַּמִּקְדָּשׁ, אֲבָל לֹא בַּמְּדִינָה. וְאִם בַּתְּחִילָּה — כָּאן וְכָאן אָסוּר.
+*Translation:* MISHNA: **One** may **tie up** on Shabbat **a string [*nima*]** that came loose from a harp used **in the Temple, but not in** the rest of **the country. And** tying the string to the harp for **the first time is prohibited** both **here and there.**
+
+**15.**
+*Hebrew/Aramaic:* גְּמָ׳ וּרְמִינְהוּ: נִימַת כִּנּוֹר שֶׁנִּפְסְקָה — לֹא הָיָה קוֹשְׁרָהּ אֶלָּא עוֹנְבָהּ! לָא קַשְׁיָא: הָא — רַבָּנַן, וְהָא — רַבִּי אֱלִיעֶזֶר.
+*Translation:* GEMARA: **And** the Gemara **raises a contradiction** from a *baraita*: If **a harp string broke, one would not tie it up** with a knot, **but fashion a bow.** This teaching indicates that tying up a harp string is prohibited even in the Temple. The Gemara answers: It is **not difficult; this** *baraita*, which prohibits tying, was taught **in accordance with** the opinion of **the Rabbis; and that** mishna is in accordance with the opinion of **Rabbi Eliezer.**
+
+**16.**
+*Hebrew/Aramaic:* לְרַבִּי אֱלִיעֶזֶר דְּאָמַר מַכְשִׁירֵי מִצְוָה דּוֹחִין אֶת הַשַּׁבָּת, קוֹשְׁרָהּ. לְרַבָּנַן דְּאָמְרִי אֵין דּוֹחִין, עוֹנְבָהּ.
+*Translation:* The Gemara clarifies this answer: **According to Rabbi Eliezer, who said** that **the preparations** that enable the performance **of a mitzva override** the prohibitions of **Shabbat,** one may **tie** even the broken harp string, as this is for the purpose of the mitzva of accompanying the Temple service with music. However, **according to the Rabbis, who say** that preparations for a mitzva **do not override** Shabbat prohibitions, **one** may only **fashion a bow.**
+
+**17.**
+*Hebrew/Aramaic:* אִי רַבִּי אֱלִיעֶזֶר, אֲפִילּוּ לְכַתְּחִילָּה נָמֵי!
+*Translation:* The Gemara raises a difficulty: **If** in fact the mishna is in accordance with the opinion of **Rabbi Eliezer,** who permits facilitating performance of a mitzva even when it involves desecration of Shabbat, **even** in a case where the string did not break and one is tying it **for the first time,** this **too** should be permitted, as he is acting for the purpose of a mitzva.
+
+**18.**
+*Hebrew/Aramaic:* אֶלָּא, לָא קַשְׁיָא: הָא — רַבִּי יְהוּדָה, וְהָא — רַבָּנַן.
+*Translation:* **Rather,** the Gemara provides a different resolution of the contradiction: It is **not difficult. This,** the mishna that permits tying the broken string, was taught in accordance with the opinion of **Rabbi Yehuda,** who maintains that making a bow is considered tying, and there is no difference between the two actions; **and that,** the *baraita* that prohibits it, is in accordance with the opinion of **the Rabbis,** who rule that fashioning a bow is not prohibited by Torah law, and therefore it is permitted to fashion a bow.
+
+**19.**
+*Hebrew/Aramaic:* וְרַבִּי יְהוּדָה אַלִּיבָּא דְּמַאן?
+*Translation:* The Gemara asks: **And Rabbi Yehuda, in accordance with whose** opinion did he express his view?

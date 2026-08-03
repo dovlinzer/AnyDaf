@@ -63,3 +63,80 @@
 **16.**
 *Hebrew/Aramaic:* וְרַבִּי עֲקִיבָא נָמֵי, בָּשָׂר בְּחָלָב חִידּוּשׁ הוּא? אֶלָּא
 *Translation:* The Gemara asks: **And Rabbi Akiva too,** he certainly agrees that the *halakha* of **meat** cooked **in milk is a novelty.** How can he derive a general principle from this case? **Rather,**
+
+
+---
+
+### Nazir 37b
+
+**1.**
+*Hebrew/Aramaic:* יָלֵיף מִגִּיעוּלֵי גוֹיִם, דְּאָמַר רַחֲמָנָא: ״כׇּל דָּבָר אֲשֶׁר יָבֹא בָאֵשׁ״, לְמֵימְרָא דַּאֲסִירִי. גִּיעוּלֵי גוֹיִם לָאו טַעְמָא בְּעָלְמָא הוּא וְאָסוּר, הָכָא נָמֵי לָא שְׁנָא.
+*Translation:* Rabbi Akiva **derives** the principle: The legal status of the flavor of forbidden food is like that of the substance itself, **from** the vessels **of gentiles** that require **purging [*gi’ulei*],** where the Jews were commanded to purge the non-kosher flavor from the vessels they seized from the Midianites. **As the Merciful One states** in the section of the Torah that deals with the spoils of Midian: **“Every thing that passes through the fire,** you shall make it pass through the fire” (Numbers 31:23). **That is to say that** the vessels **of gentiles** that require **purging are forbidden** to be used until they have been purged through fire and purified. **Isn’t** there **mere taste** absorbed in the vessels through the process of cooking? **And** even so, these vessels are **forbidden** if this purging was not performed. **Here, too,** with regard to other matters of Torah law, it **is no different;** and the legal status of the flavor is like that of the substance itself.
+
+**2.**
+*Hebrew/Aramaic:* וּלְרַבָּנַן נָמֵי תִּיפּוֹק לְהוּ מִגִּיעוּלֵי גוֹיִם? אֲמַר לֵיהּ: הָתָם חִידּוּשׁ הוּא. דְּהָא בְּכׇל הַתּוֹרָה כּוּלָּהּ נוֹתֵן טַעַם לִפְגָם מוּתָּר,
+*Translation:* Rav Aḥa further suggested to Rav Ashi: **And according to** the opinion of **the Rabbis,** who derive this principle from the verse: “Neither shall he drink anything soaked” (Numbers 6:3), **let them also derive** it **from** the vessels of **gentiles** that require **purging,** as does Rabbi Akiva. Rav Ashi **said to him:** The Rabbis maintain that **there** the *halakha* of purging vessels of gentiles **is** also **a novelty.** What is the novelty of this *halakha*? **As** with regard **to all** dietary laws in the **Torah, anything that gives flavor,** i.e., contributes taste, that renders the food **tainted,** is **permitted.** If the taste added by the forbidden food does not enhance the permitted food, it does not render that food forbidden.
+
+**3.**
+*Hebrew/Aramaic:* וְגַבֵּי גִּיעוּלֵי גוֹיִם אָסוּר.
+*Translation:* **But** here, **with regard to** the *halakha* of vessels of **gentiles** that require **purging,** the Torah states that even if they contribute taste that renders the food tainted, nevertheless they are **forbidden.** If twenty-four hours have passed since food was cooked in a pot, the assumption is that the flavor released from the pot will contribute a deleterious taste to any foods subsequently cooked in the pot. Even so, vessels taken from gentiles remain forbidden until they have been purged, despite the fact that the taste they contribute taints the food.
+
+**4.**
+*Hebrew/Aramaic:* וּלְרַבִּי עֲקִיבָא נָמֵי הָא חִידּוּשׁ הוּא! אָמַר רַב הוּנָא בַּר חִיָּיא: לֹא אָסְרָה תּוֹרָה אֶלָּא לִקְדֵירָה בַּת יוֹמָא, דְּלָאו נוֹתֵן טַעַם לִפְגָם הוּא.
+*Translation:* The Gemara asks: **And according to** the opinion of **Rabbi Akiva too,** the case of vessels of gentiles that require purging **is** apparently **a novelty.** Rabbi Akiva derives this principle from the required purging of the vessels of gentiles. How then does he respond to the previous claim? **Rav Huna, son of Ḥiyya, said: The Torah prohibited** the use of unpurged vessels of gentiles **only in** the case of **a pot** that was used **on that day, which is not** a case where the pot **gives flavor** that renders the food **tainted.** Accordingly, it is not a novelty that the vessels were forbidden.
+
+**5.**
+*Hebrew/Aramaic:* וְרַבָּנַן? קְדֵירָה בַּת יוֹמָא נָמֵי, אִי אֶפְשָׁר דְּלָא פָּגְמָה פּוּרְתָּא.
+*Translation:* The Gemara asks: **And** why don’t **the Rabbis** derive the *halakha* from there, as it is no longer a novelty? The Gemara answers: They hold that **even** in the case of **a pot** used **on that day, it is impossible that** the vessel **does not slightly taint** the food absorbed in the vessel. Consequently, the *halakha* of purging vessels of gentiles is a novelty, from which general principles cannot be derived.
+
+**6.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרַב אַוְיָא לְרַב אָשֵׁי: מִדְּרַבָּנַן נִשְׁמַע לְרַבִּי עֲקִיבָא. לָאו אָמְרִי רַבָּנַן הַאי ״מִשְׁרַת״ — לִיתֵּן טַעַם כְּעִיקָּר, וּמִכָּאן אַתָּה דָּן לְכׇל אִיסּוּרִין שֶׁבַּתּוֹרָה. לְרַבִּי עֲקִיבָא נָמֵי, דְּקָא מוֹקֵים לֵיהּ לְהַאי ״מִשְׁרַת״ לְהֶיתֵּר מִצְטָרֵף לְאִיסּוּר — לֵימָא מִכָּאן אַתָּה דָּן לְכׇל אִיסּוּרִין שֶׁבַּתּוֹרָה!
+*Translation:* § **Rav Aḥa, son of Rav Avya, said to Rav Ashi: From** the opinion of **the Rabbis, we infer** the proper understanding of the opinion of **Rabbi Akiva. Don’t the Rabbis say** that the term **“soaked” teaches** that the principle that the legal status of the **flavor** of forbidden food is **like** that of its **substance** applies not only to a nazirite, but that **from here you derive** the *halakha* with regard **to all prohibitions of the Torah? According to Rabbi Akiva as well, who establishes this** term: **“Soaked,” as** teaching that **the permitted** substance **combines with the forbidden** substance with regard to a nazirite, **let us say** that **from here you derive** the *halakha* with regard **to all prohibitions of the Torah.** This explanation runs counter to the opinion of Rabbi Yoḥanan, who applies this principle only to a nazirite.
+
+**7.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: מִשּׁוּם דְּהָוֵי נָזִיר וְחַטָּאת שְׁנֵי כְתוּבִין הַבָּאִין כְּאֶחָד, וְכׇל שְׁנֵי כְתוּבִין הַבָּאִין כְּאֶחָד אֵין מְלַמְּדִין: נָזִיר — הָא דַּאֲמַרַן. חַטָּאת מַאי הִיא?
+*Translation:* Rav Ashi **said to him:** This cannot serve as a proof, **due to** the fact **that** the *halakhot* of **a nazirite and** those of **a sin-offering** are from **two verses that come as one,** i.e., to teach the same matter, **and any two verses that come as one do not teach** their common aspect to apply to other cases. The Gemara comments: The derivation that a permitted substance joins together with a forbidden substance in the case of **a nazirite** is **that which we stated,** from the term “soaked.” With regard to **a sin-offering, what is** the derivation that a permitted substance combines with a forbidden substance?
+
+**8.**
+*Hebrew/Aramaic:* דְּתַנְיָא: ״כֹּל אֲשֶׁר יִגַּע בִּבְשָׂרָהּ יִקְדָּשׁ״. יָכוֹל אֲפִילּוּ שֶׁלֹּא בָּלַע — תַּלְמוּד לוֹמַר: ״בִּבְשָׂרָהּ״, עַד שֶׁיִּבָּלַע בִּבְשָׂרָהּ.
+*Translation:* It is **as it is taught** in a *baraita* with regard to the verse discussing a sin-offering **“Anything that touches in its flesh shall become consecrated”** (Leviticus 6:20). One **might** have thought that non-sacred meat that touched any part of a sin-offering is consecrated **even if it did not absorb** the taste of the sin-offering it touched. Therefore, **the verse states: “In its flesh,”** to teach that this meat is not consecrated **until** the taste of the sin-offering **is absorbed within its flesh.**
+
+**9.**
+*Hebrew/Aramaic:* ״יִקְדָּשׁ״ — לִהְיוֹת כָּמוֹהָ, שֶׁאִם פְּסוּלָה הִיא — יִפָּסֵל, וְאִם כְּשֵׁרָה — תֵּאָכֵל כֶּחָמוּר שֶׁבָּהּ.
+*Translation:* The *baraita* continues: **“Shall become consecrated,”** means that its legal status **becomes like** that of the sin-offering itself; **that** is, **if** the sin-offering **is disqualified,** the non-sacred meat that touched it **will** also **be disqualified. And if** the sin-offering **is valid,** the non-sacred meat that touched it **may be eaten in accordance with the more stringent** standards **of** a sin-offering, with regard to when and where it may be eaten. The principle that a permitted substance combines with a forbidden substance is thereby stated in the case of a sin-offering as well. Consequently, the principle cannot be extended to the entire Torah, as a *halakha* stated in two cases is not applied elsewhere.
+
+**10.**
+*Hebrew/Aramaic:* וְרַבָּנַן: צְרִיכִי, דְּאִי כְּתַב רַחֲמָנָא גַּבֵּי חַטָּאת, הֲוָה אָמֵינָא: נָזִיר לָא אָתֵי מִינַּהּ, מִשּׁוּם דְּנָזִיר מִקֳּדָשִׁים לָא יָלְפִינַן.
+*Translation:* **And the Rabbis,** who disagree with Rabbi Akiva, would maintain that both these sources **are necessary,** as neither the case of a nazirite nor the case of a sin-offering could be derived from the other. Therefore, this is not a case of two verses that come as one. The Gemara elaborates: **For had the Merciful One written** this *halakha* only **with regard to a sin-offering, I would say** that the case of **a nazirite cannot be derived from it, due to** the fact that **we do not derive** the *halakha* of **a nazirite from** that of **consecrated** items. This is because the prohibitions of naziriteship are unrelated to the Temple and offerings, and therefore it is possible that the *halakha* in question is unique to consecrated items.
+
+**11.**
+*Hebrew/Aramaic:* וְאִי כְּתַב רַחֲמָנָא גַּבֵּי נָזִיר, הֲוָה אָמֵינָא: מִנָּזִיר לָא יָלְפִינַן, מִשּׁוּם דַּחֲמִיר אִיסּוּרֵיהּ, דַּאֲפִילּוּ חַרְצָן אֲסִיר לֵיהּ, הִלְכָּךְ לָא אָתְיָא מִינֵּיהּ.
+*Translation:* **And** conversely, **had the Merciful One written** this *halakha* only **with regard to a nazirite, I would say** that **we do not derive** the *halakha* of a sin-offering **from** that of **a nazirite due to** the fact **that its prohibition is stringent.** In what way? It is stringent **as even a grape seed is forbidden to** a nazirite, although the seeds are not usually eaten. **Therefore,** the *halakha* of a sin-offering **cannot be derived from** the case of a nazirite, which means that this is not a case of two verses that come as one. Consequently, one can derive a general *halakha* from them.
+
+**12.**
+*Hebrew/Aramaic:* וְרַבִּי עֲקִיבָא אָמַר לָךְ: לְמַאי צְרִיכִי? בִּשְׁלָמָא אִי כְּתַב רַחֲמָנָא חַטָּאת, לָא גָּמַר נָזִיר מִינַּהּ — דְּחוּלִּין מִקֳּדָשִׁים לָא גָּמְרִינַן. אֶלָּא לִכְתּוֹב רַחֲמָנָא בְּנָזִיר, וְתֵיתֵי חַטָּאת מִינֵּיהּ, דְּהָא כׇּל אִיסּוּרִין שֶׁבַּתּוֹרָה קָא גָמְרִי מִנָּזִיר.
+*Translation:* **And Rabbi Akiva** could have **said to you,** in rebuttal of this claim: **Why are** these cases both **necessary? Granted, if the Merciful One had written** this principle only with regard **to a sin-offering,** one would **not derive** the *halakha* of **a nazirite from it,** as **we do not derive** *halakhot* of **non-sacred** items **from** those of **consecrated** items. Certain stringencies and strictures apply only to consecrated property. **However, let the Merciful One write** this principle **with regard to a nazirite, and you** could **derive** the case of the **sin-offering from** that of a nazirite, just **as** the application of this principle to **all prohibitions in the Torah is derived from** the *halakha* of **a nazirite.** Since it is not necessary to state this principle in both cases, one cannot derive a general principle from them.
+
+**13.**
+*Hebrew/Aramaic:* וְרַבָּנַן אָמְרִי לָךְ: חַטָּאת לְהֶיתֵּר מִצְטָרֵף לְאִיסּוּר, וְחוּלִּין מִקֳּדָשִׁים לָא גָּמְרִינַן.
+*Translation:* The Gemara asks: **And the Rabbis,** who maintain that the principle that the legal status of the flavor of a forbidden substance is like that of the substance itself is not limited to these two cases, **would say to you** that both sources are required. The case of **a sin-offering** is necessary **to** derive the principle **that a permitted** substance **combines with a forbidden** substance, **and** this stringency is not extrapolated to other prohibitions, in accordance with the principle that **one cannot derive** the *halakhot* of **non-sacred** items **from consecrated** items.
+
+**14.**
+*Hebrew/Aramaic:* וּ״מִשְׁרַת״ — לִיתֵּן טַעַם כְּעִיקָּר, מִכָּאן אַתָּה דָּן לְכׇל אִיסּוּרִין שֶׁבַּתּוֹרָה.
+*Translation:* **And** the term **“soaked,”** which appears in the context of a nazirite, **teaches** the principle that the legal status of the **flavor** of forbidden food is **like** that of its **substance.** Since both examples are necessary, they are not considered two verses that come as one, and it is therefore possible to derive a general principle from them. **And** consequently, **from here you derive** the *halakha* with regard **to all of the prohibitions of the Torah.**
+
+**15.**
+*Hebrew/Aramaic:* וְרַבִּי עֲקִיבָא, תַּרְוַיְיהוּ לְהֶיתֵּר מִצְטָרֵף לְאִיסּוּר, וְהָווּ לְהוּ שְׁנֵי כְתוּבִין הַבָּאִין כְּאֶחָד, וְכׇל שְׁנֵי כְתוּבִין הַבָּאִים כְּאֶחָד — אֵין מְלַמְּדִין.
+*Translation:* The Gemara asks: **And** how would **Rabbi Akiva** respond to this claim? The Gemara answers: Rabbi Akiva would say that **both** cases teach the principle **that a permitted** substance **combines with a forbidden** substance, **and they are two verses that come as one,** to teach about the same issue. **And** the rule is that **any two verses that come as one do not teach** their common aspect to apply to other cases.
+
+**16.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אָשֵׁי לְרַב כָּהֲנָא: אֶלָּא הָא דְּתַנְיָא: ״מִכֹּל אֲשֶׁר יֵעָשֶׂה מִגֶּפֶן הַיַּיִן״, לִימֵּד עַל אִיסּוּרֵי נָזִיר שֶׁהֵן מִצְטָרְפִין זֶה עִם זֶה, לְרַבִּי עֲקִיבָא, הַשְׁתָּא יֵשׁ לוֹמַר הֶיתֵּר מִצְטָרֵף לְאִיסּוּר, אִיסּוּר לְאִיסּוּר מִבַּעְיָא?
+*Translation:* § **Rav Ashi said to Rav Kahana: But** consider **that which is taught** in a *baraita*. The verse “He shall not eat **anything that is made of the grapevine”** (Numbers 6:4) **taught with regard to prohibitions of a nazirite that** these substances **combine with each other.** If a nazirite ate only a small amount of each substance, which together amount to the measure that determines liability, he is liable. **According to** the opinion of **Rabbi Akiva, now** that **one says** that **permitted** substances **combine with forbidden** substances, **is it necessary** to teach that one **forbidden** substance **combines with** another **forbidden** substance? According to Rabbi Akiva’s opinion, this derivation is apparently unnecessary.
+
+**17.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: הֶיתֵּר לְאִיסּוּר — בְּבַת אַחַת, אִיסּוּר לְאִיסּוּר — אֲפִילּוּ בְּזֶה אַחַר זֶה.
+*Translation:* Rav Kahana **said to** Rav Ashi that this derivation is necessary because the two cases are not identical: **Permitted** substances combine **with forbidden** substances only when they are eaten **simultaneously,** whereas **forbidden** substances **combine with** other **forbidden** substances **even** when eaten **one after the other.** Therefore, according to the opinion of Rabbi Akiva, if a nazirite eats half an olive-bulk of grape skins and then eats half an olive-bulk of grape seeds, he is liable.
+
+**18.**
+*Hebrew/Aramaic:* וְרַבִּי שִׁמְעוֹן
+*Translation:* The Gemara asks: **And Rabbi Shimon,**

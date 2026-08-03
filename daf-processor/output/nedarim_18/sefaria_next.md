@@ -47,3 +47,52 @@
 **12.**
 *Hebrew/Aramaic:* וְרָמֵי דְּרַבִּי יְהוּדָה אַדְּרַבִּי יְהוּדָה: מִי אָמַר רַבִּי יְהוּדָה לָא מְעַיֵּיל אִינִישׁ נַפְשֵׁיהּ לִסְפֵיקָא? וּרְמִינְהִי, רַבִּי יְהוּדָה אוֹמֵר: סְתַם תְּרוּמָה בִּיהוּדָה — אֲסוּרָה, וּבַגָּלִיל — מוּתֶּרֶת, שֶׁאֵין אַנְשֵׁי הַגָּלִיל מַכִּירִין אֶת תְּרוּמַת הַלִּשְׁכָּה. טַעְמָא דְּאֵין מַכִּירִין,
 *Translation:* And the Gemara **raises a contradiction** between the statement **of Rabbi Yehuda and** another statement **of Rabbi Yehuda. Did Rabbi Yehuda** actually **say** that **a person does not enter himself into** a state of **uncertainty,** and therefore as long as the volume of the heap is unknown, naziriteship does not take effect? **And** the Gemara **raises a contradiction** from the mishna, where **Rabbi Yehuda says: Unspecified *teruma* in Judea is forbidden but in the Galilee it is permitted, as the people of the Galilee are not familiar with the collection of the chamber.** The Gemara infers: **The reason** it is permitted is **that they are not familiar;**
+
+
+---
+
+### Nedarim 19b
+
+**1.**
+*Hebrew/Aramaic:* הָא מַכִּירִין — אֲסוּרִין!
+*Translation:* **but** where **they are familiar,** it is **forbidden,** even if the person mentioned *teruma* without specification, and there is still uncertainty with regard to which *teruma* he was referring.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רָבָא: גַּבֵּי כְּרִי קָסָבַר כׇּל שֶׁסְּפֵיקוֹ חָמוּר מִוַּדַּאי — לָא מְעַיֵּיל נַפְשֵׁיהּ לִסְפֵיקָא, דְּאִילּוּ גַּבֵּי נָזִיר וַדַּאי, מְגַלֵּחַ וּמֵבִיא קׇרְבָּן וְנֶאֱכָל. עַל סְפֵיקוֹ, לָא מָצֵי מְגַלַּח.
+*Translation:* **Rava said** that the contradiction can be resolved as follows: **With regard to** the case of a vow conditioned on the volume of **a heap,** Rabbi Yehuda **holds** that **wherever uncertainty is more stringent than certainty, one does not enter himself into** a state of **uncertainty.** Uncertain naziriteship is more stringent than definite naziriteship, **as while a definite nazirite** has a remedy, i.e., at the end of his naziriteship he **shaves** his hair **and brings an offering and it is eaten, one cannot shave** his hair **for uncertain** naziriteship. He cannot bring an offering in case he is not a nazirite, which would render his offering a non-sacred animal in the Temple courtyard. Since he cannot bring an offering he may not shave.
+
+**3.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב הוּנָא בַּר יְהוּדָה לְרָבָא: אָמַר ״הֲרֵינִי נְזִיר עוֹלָם״, מַאי?
+*Translation:* **Rav Huna bar Yehuda said to Rava:** According to your answer, that Rabbi Yehuda holds that he is not a nazirite only because uncertain naziriteship is more stringent than definite naziriteship, if one **said:** If there are a hundred *kor* in this heap **I am hereby a permanent nazirite, what** is the *halakha*? In this case, uncertainty is apparently not more stringent than certainty, as the naziriteship will never end even if it is definite.
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: נְזִיר עוֹלָם נָמֵי סְפֵיקוֹ חָמוּר מִוַּדַּאי, דְּאִילּוּ וַדַּאי הִכְבִּיד שְׂעָרוֹ — מֵיקֵל בְּתַעַר, וּמֵבִיא שָׁלוֹשׁ בְּהֵמוֹת. וְאִילּוּ סְפֵיקוֹ — לֹא.
+*Translation:* Rava **said to him: Even** with regard to **a permanent nazirite, his uncertainty is more stringent than certainty** with regard to a different *halakha*: **As** when **the hair of a definite** nazirite **is** too **heavy** for him **he may lighten** the hair **with a razor and bring** the **three animal** offerings that a nazirite brings when he has completed his term of naziriteship, before continuing to observe naziriteship; **whereas** in a case of **uncertainty** he **cannot** do so. Since it is not certain that he is a nazirite, he cannot bring these offerings and is therefore prohibited from shaving. Therefore, uncertainty is more stringent than certainty with regard to a permanent nazirite as well.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר ״הֲרֵינִי נְזִיר שִׁמְשׁוֹן״ מַאי?
+*Translation:* Rav Huna further asked him: If one **said:** If there are one hundred *kor* in this heap, **I am hereby a nazirite like Samson** (Judges, chapters 13–16), i.e., he would be like Samson, whose permanent naziriteship could not be dissolved and who had no remedy at all, even by bringing offerings, and therefore could never shave, **what** is the *halakha*? Uncertainty is definitely not more stringent than certainty in this case.
+
+**6.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: נְזִיר שִׁמְשׁוֹן לָא תַּנְיָא. אֲמַר לֵיהּ: וְהָאָמַר רַב אַדָּא בַּר אַהֲבָה: תַּנְיָא נְזִיר שִׁמְשׁוֹן! אֲמַר לֵיהּ: אִי תַּנְיָא — תַּנְיָא.
+*Translation:* Rava **said to him:** The concept of **a nazirite** like **Samson is not taught.** It was not mentioned at all by the Sages, as the naziriteship of Samson could not have been created through a vow. It was a one-time, divine order that cannot be emulated. Rav Huna **said to him: But didn’t Rav Adda bar Ahava say** that the concept of **a nazirite** like **Samson is taught** in a *baraita*, which shows that it takes effect? Rava **said to him: If** this *baraita* **is taught,** it **is taught,** and I cannot take issue with it. Apparently, Rabbi Yehuda acknowledges that in this case even uncertain naziriteship takes effect.
+
+**7.**
+*Hebrew/Aramaic:* רַב אָשֵׁי אָמַר: הָהִיא — רַבִּי יְהוּדָה מִשּׁוּם רַבִּי טַרְפוֹן הִיא. דְּתַנְיָא, רַבִּי יְהוּדָה מִשּׁוּם רַבִּי טַרְפוֹן אוֹמֵר: אֵין אֶחָד מֵהֶם נָזִיר — לְפִי שֶׁלֹּא נִיתְּנָה נְזִירוּת אֶלָּא לְהַפְלָאָה.
+*Translation:* **Rav Ashi said** a different resolution to the contradiction between the statements of Rabbi Yehuda. **That** *baraita*, in which Rabbi Yehuda treats uncertain naziriteship leniently, **is** the statement of **Rabbi Yehuda in the name of Rabbi Tarfon. As it is taught** in a *baraita*: If a number of people wager on the truth of a statement, and they stipulate that whoever is correct will be a nazirite, **Rabbi Yehuda says in the name of Rabbi Tarfon: None of them is a nazirite** no matter who is correct, **because naziriteship was given** to take effect **only through explicitness** of intent. A vow of naziriteship takes effect only if it is taken unconditionally. Therefore, in the case of the heap, since the speaker was uncertain of its volume at the time the vow of naziriteship was taken, the vow does not take effect.
+
+**8.**
+*Hebrew/Aramaic:* אִי הָכִי מַאי אִירְיָא שֶׁנִּגְנַב אוֹ שֶׁאָבַד? אֶלָּא, לְהוֹדִיעֲךָ כֹּחוֹ דְּרַבִּי שִׁמְעוֹן, דְּאַף עַל גַּב דְּנִגְנַב אוֹ שֶׁאָבַד, קָסָבַר מְעַיֵּיל אִינִישׁ נַפְשֵׁיהּ לִסְפֵיקָא.
+*Translation:* The Gemara asks: **If so, why** is it **specifically** stated **that** the heap **was stolen or that it was lost?** Even if it was still present and measured, the naziriteship would not have taken effect as it was conditioned and was not a clear expression. The Gemara answers: **Rather,** that detail was established **to convey the far-reaching nature** of the opinion **of Rabbi Shimon, that even** if it is the case **that it was stolen or that it was lost** and consequently cannot be measured, nevertheless **he holds** that **a person enters himself into uncertainty,** and therefore the vow takes effect.
+
+**9.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: סְתָם תְּרוּמָה בִּיהוּדָה כּוּ׳. הָא מַכִּירִין — אֲסוּרִין, אַלְמָא סְפֵיקָא לְחוּמְרָא.
+*Translation:* § It is stated in the mishna that **Rabbi Yehuda says: Unspecified *teruma* in Judea** is forbidden, but in the Galilee it is permitted, as the people of the Galilee are unfamiliar with the collection of the Temple treasury chamber. The Gemara infers: Where **they are familiar** with the collection of the chamber, it is **forbidden. Apparently, uncertainty** with regard to vows **is** treated **stringently.**
+
+**10.**
+*Hebrew/Aramaic:* אֵימָא סֵיפָא: סְתָם חֲרָמִים בִּיהוּדָה — מוּתָּרִין, וּבַגָּלִיל — אֲסוּרִין, שֶׁאֵין אַנְשֵׁי הַגָּלִיל מַכִּירִין אֶת חֶרְמֵי הַכֹּהֲנִים. הָא מַכִּירִין — מוּתָּרִין. אַלְמָא סְפֵיקָא לְקוּלָּא!
+*Translation:* However, **say the latter clause** of the mishna: **Unspecified dedications in Judea are permitted, but in the Galilee they are forbidden, because the people of the Galilee are unfamiliar with dedications allotted to the priests.** It may be inferred that where **they are familiar** with dedications allotted to the priests **they are permitted,** due to the uncertainty. **Apparently, uncertainty** with regard to vows **is** treated **leniently.**
+
+**11.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: סֵיפָא רַבִּי אֶלְעָזָר בְּרַבִּי צָדוֹק הִיא. דְּתַנְיָא, רַבִּי יְהוּדָה אוֹמֵר: סְתַם תְּרוּמָה בִּיהוּדָה — אֲסוּרָה, רַבִּי אֶלְעָזָר בְּרַבִּי צָדוֹק אוֹמֵר: סְתַם חֲרָמִים בַּגָּלִיל — אֲסוּרִין.
+*Translation:* **Abaye said: The latter clause is** the opinion of **Rabbi Elazar, son of Rabbi Tzadok,** not of Rabbi Yehuda, **as it is taught** in a *baraita*: **Rabbi Yehuda says** that **unspecified *teruma* in Judea is forbidden. Rabbi Elazar, son of Rabbi Tzadok, says** that **unspecified dedications in the Galilee are forbidden.**

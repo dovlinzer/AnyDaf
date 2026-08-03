@@ -55,3 +55,64 @@
 **14.**
 *Hebrew/Aramaic:* מַחְזִירָהּ: פְּשִׁיטָא!
 *Translation:* The Gemara asks with regard to the second part of the interpretation of Rabbi Yosei, son of Rabbi Ḥanina, that **he may remarry her:** It is **obvious** that he may remarry her if the couple chooses to do so.
+
+
+---
+
+### Ketubot 82b
+
+**1.**
+*Hebrew/Aramaic:* מַהוּ דְּתֵימָא: מִצְוָה דִּרְמָא רַחֲמָנָא עֲלֵיהּ עַבְדַּהּ, וְהַשְׁתָּא תֵּיקוּם עֲלֵיהּ בְּאִיסּוּר אֵשֶׁת אָח, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara explains: It is necessary **lest you say** that **he has performed** the **mitzva the Merciful One placed upon him** by means of levirate marriage, **and now** that he has divorced her **she should** once again **stand** in relation **to him with the prohibition** proscribing **a brother’s wife,** which was her status before the mitzva of levirate marriage came into effect. The *tanna* therefore **teaches us** that since he performed levirate marriage with her, the prohibition proscribing a brother’s wife no longer applies at all.
+
+**2.**
+*Hebrew/Aramaic:* וְאֵימָא הָכִי נָמֵי! אָמַר קְרָא ״וּלְקָחָהּ לוֹ לְאִשָּׁה״. כֵּיוָן שֶׁלְּקָחָהּ — נַעֲשֵׂית כְּאִשְׁתּוֹ.
+*Translation:* The Gemara asks: **And say** that **indeed,** the prohibition proscribing a brother’s wife should be in force once again. The Gemara explains: **The verse states: “And he will take her to him to be his wife”** (Deuteronomy 25:5), which indicates that once **he has taken her, she has become like his** regular **wife** in all respects.
+
+**3.**
+*Hebrew/Aramaic:* בִּלְבַד שֶׁתְּהֵא כְּתוּבָּתָהּ עַל נִכְסֵי בַּעְלָהּ הָרִאשׁוֹן. מַאי טַעְמָא — אִשָּׁה הִקְנוּ לוֹ מִן הַשָּׁמַיִם.
+*Translation:* § The mishna taught: She has the status of his wife in all respects after levirate marriage, **except that** the responsibility for **her marriage contract is upon the property of her first husband.** The Gemara inquires: **What is the reason** for this? It is that **from Heaven they acquired a wife for him.** Since he did not choose her but married her by force of a Torah commandment, he is not obligated to set aside for her a marriage contract of his own. Rather, he relies upon his brother’s marriage contract.
+
+**4.**
+*Hebrew/Aramaic:* וְאִי לֵית לַהּ מֵרִאשׁוֹן, אִית לַהּ מִשֵּׁנִי. כְּדֵי שֶׁלֹּא תְּהֵא קַלָּה בְּעֵינָיו לְהוֹצִיאָהּ.
+*Translation:* The Gemara adds: **And if she does not have** anything **from the first** husband, e.g., if he owned no property, **she** nevertheless **has** a marriage contract **from the second** one, for the same reason that any wife is entitled to a marriage contract in the first place: **So that she will not be demeaned in his eyes such that** he will easily **divorce her.**
+
+**5.**
+*Hebrew/Aramaic:* לֹא יֹאמַר לָהּ ״הֲרֵי כְּתוּבָּתִיךְ״. מַאי וְכֵן?
+*Translation:* The mishna further stated that the *yavam* **may not say to her: Here is your marriage contract,** and similarly, a man may not make such a statement to his wife. Rather, all of his property is mortgaged for her marriage contract. The Gemara asks: **What** is the relevance of the phrase: **And similarly,** here? The *halakha* in both cases appears to be identical.
+
+**6.**
+*Hebrew/Aramaic:* מַהוּ דְּתֵימָא: הָתָם הוּא דְּלָא כְּתַב לָהּ ״דִּקְנַאי וּדְקָנֵינָא״, אֲבָל הָכָא דִּכְתַב לַהּ ״דִּקְנַאי וּדְקָנֵינָא״, אֵימָא סָמְכָה דַּעְתַּהּ — קָא מַשְׁמַע לַן.
+*Translation:* The Gemara explains: It is necessary **lest you say** that this **is** the *halakha* only **there,** with regard to a *yevama*, **where** the *yavam* did **not write** a marriage contract **for her** and therefore never wrote: All property **that I have bought and that I will buy** is mortgaged to the marriage contract. **But here,** with regard to a regular wife, **where he did write** a marriage contract **for her** that included the clause: **That I have bought and that I will buy, say that she relies** upon that which he has set aside, and therefore there is no need for a full lien on all his property. The *tanna* therefore **teaches us** that this is not the case.
+
+**7.**
+*Hebrew/Aramaic:* גֵּרְשָׁהּ — אֵין לָהּ אֶלָּא כְּתוּבָּתָהּ. גֵּרְשָׁהּ — אִין, לֹא גֵּרְשָׁהּ — לָא. קָא מַשְׁמַע לַן כִּדְרַבִּי אַבָּא.
+*Translation:* § The mishna states that if **he divorced her she has only her marriage contract.** There is no lien upon the property, and he may therefore sell it. The Gemara infers: If **he divorced her, yes,** that is the case, but if **he did not divorce her, no,** it is not. The *tanna* here **teaches us** indirectly that the *halakha* is **in accordance with Rabbi Abba,** who claims that the only way he can gain full control of all the property is by divorcing her.
+
+**8.**
+*Hebrew/Aramaic:* הֶחְזִירָה — הֲרֵי הִיא כְּכׇל הַנָּשִׁים, וְאֵין לָהּ אֶלָּא כְּתוּבָּתָהּ. הֶחְזִירָה, מַאי קָא מַשְׁמַע לַן? תְּנֵינָא: הַמְגָרֵשׁ אֶת הָאִשָּׁה וּמַחְזִירָה, עַל מְנָת כְּתוּבָּה רִאשׁוֹנָה מַחְזִירָהּ!
+*Translation:* It was further taught in the mishna that if he **remarried her, she is like all women, and she has nothing other** than **her marriage contract.** The Gemara asks: **What is** the *tanna* **teaching us** by mentioning the possibility that he **remarried her? We** already **learned** this: With regard to **one who divorces a woman and remarries her, he remarries her on the basis of** her **first marriage contract,** and he need not write her a new one. Why is it necessary to emphasize this *halakha* in the case of a *yevama*?
+
+**9.**
+*Hebrew/Aramaic:* מַהוּ דְּתֵימָא: אִשְׁתּוֹ הוּא דְּאִיהוּ כְּתַב לַהּ כְּתוּבָּה מִינֵּיהּ, אֲבָל יְבִמְתּוֹ דְּלָא אִיהוּ כְּתַב לַהּ, הֵיכָא דְּגָרְשַׁהּ וְאַהְדְּרַהּ — אֵימָא כְּתוּבְּתַהּ מִינֵּיהּ, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara answers: It is necessary **lest you say** that **it is** the *halakha* in the case of **a wife, since he writes for her a marriage contract from him,** and therefore when he remarries her he does so on the basis of the first marriage contract. **But** as for **his *yevama*, where he did not write for her** the marriage contract but it was written by his brother, in a case **where he divorced her and remarried her, say** that **her marriage contract** should be **from him** and he should write a new one using his own property. Therefore, the *tanna* **teaches us** that this is not required.
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה: בָּרִאשׁוֹנָה הָיוּ כּוֹתְבִין לִבְתוּלָה מָאתַיִם וּלְאַלְמָנָה מָנֶה, וְהָיוּ מַזְקִינִין וְלֹא הָיוּ נוֹשְׂאִין נָשִׁים, עַד שֶׁבָּא שִׁמְעוֹן בֶּן שָׁטַח וְתִיקֵּן, כׇּל נְכָסָיו אַחְרָאִין לִכְתוּבָּתָהּ.
+*Translation:* § The Gemara discusses the background for the rule that the husband’s property is mortgaged for the marriage contract. **Rav Yehuda said: At first they would write for a virgin two hundred** dinars **and for a widow one hundred dinars.** They would then demand that this amount be available in cash, **and** then the men **would grow old and would not marry women,** as they did not all possess such large sums of money, **until Shimon ben Shataḥ came and instituted** an ordinance that a man need not place the money aside in practice. Rather, **all of his property is guaranteed for her marriage contract.**
+
+**11.**
+*Hebrew/Aramaic:* תַּנְיָא נָמֵי הָכִי: בָּרִאשׁוֹנָה הָיוּ כּוֹתְבִין לִבְתוּלָה מָאתַיִם וּלְאַלְמָנָה מָנֶה, וְהָיוּ מַזְקִינִין וְלֹא הָיוּ נוֹשְׂאִין נָשִׁים. הִתְקִינוּ שֶׁיִּהְיוּ מַנִּיחִין אוֹתָהּ בְּבֵית אָבִיהָ. וַעֲדַיִין: כְּשֶׁהוּא כּוֹעֵס עָלֶיהָ, אוֹמֵר לָהּ: ״לְכִי אֵצֶל כְּתוּבָּתִיךְ״,
+*Translation:* The Gemara comments: **That** opinion **is also taught** in a *baraita*: **At first they would write for a virgin two hundred and for a widow one hundred dinars, and they would grow old and would not marry women,** since the women were concerned that their marriage contract money would be wasted or lost, and they had no guarantee that it would be collected. The Sages therefore **instituted** an ordinance **that they should place it,** the sum of the marriage contract, **in her father’s house,** thereby ensuring its safekeeping. **And still** problems arose, as **when he was angry at** his wife, he would **say to her: Go to your marriage contract,** as it was too easy for them to divorce.
+
+**12.**
+*Hebrew/Aramaic:* הִתְקִינוּ שֶׁיִּהְיוּ מַנִּיחִין אוֹתָהּ בְּבֵית חָמִיהָ. עֲשִׁירוֹת עוֹשׂוֹת אוֹתָהּ קְלָתוֹת שֶׁל כֶּסֶף וְשֶׁל זָהָב, עֲנִיּוֹת הָיוּ עוֹשׂוֹת אוֹתָהּ עָבִיט שֶׁל מֵימֵי רַגְלַיִם.
+*Translation:* Therefore, the Sages **instituted** an ordinance **that they would place it in her father-in-law’s house,** i.e., in her husband’s house. And **wealthy** women **would craft** their marriage contract money into **baskets of silver and of gold,** while **poor** ones **would craft it** into **a large vessel** for the collection **of urine,** as their marriage contract was large enough only for a small vessel.
+
+**13.**
+*Hebrew/Aramaic:* וַעֲדַיִין, כְּשֶׁכּוֹעֵס עָלֶיהָ אוֹמֵר לָהּ: ״טְלִי כְּתוּבָּתִיךְ וָצֵאִי״. עַד שֶׁבָּא שִׁמְעוֹן בֶּן שָׁטַח וְתִיקֵּן, שֶׁיְּהֵא כּוֹתֵב לָהּ: כׇּל נְכָסַי אַחְרָאִין לִכְתוּבָּתָהּ.
+*Translation:* **And still, when he was angry at her he** would **say to her: Take your marriage contract and leave, until Shimon ben Shataḥ came and instituted** an ordinance **that** he does not actually give her the money for her marriage contract. Rather, **he should write to her: All my property is guaranteed for her marriage contract,** and it is not localized to a particular place or object. Consequently, he would need to sell some of his property if he wished to divorce her, and would therefore think carefully before undertaking such a drastic course of action.
+
+**14.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ הָאִשָּׁה
+*Translation:* May we return to you, chapter “Ha’Ishah”

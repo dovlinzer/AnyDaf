@@ -103,3 +103,104 @@
 **26.**
 *Hebrew/Aramaic:* אֲמַר לְהוּ, תְּנֵינָא: בַּמָּה דְּבָרִים אֲמוּרִים — בְּשֶׁאֵין שָׁם
 *Translation:* **He said to them: It was taught** in a *baraita*: **In what** case **is this statement,** that the money is returned when the people leave, **said? When there is no**
+
+
+---
+
+### Megillah 27b
+
+**1.**
+*Hebrew/Aramaic:* חֲבֵר עִיר, אֲבָל יֵשׁ שָׁם חֲבֵר עִיר — תִּינָּתֵן לַחֲבֵר עִיר. וְכׇל שֶׁכֵּן דְּעַנְיֵי דִּידִי וְדִידְכוּ עֲלַי סְמִיכִי.
+*Translation:* **town scholar** supervising the handling of the community’s needs, in the town in which the charity was collected. **However,** if **there is a town scholar there,** the money **should be given to the town scholar,** and he may use it as he sees fit. Since, in this case, the money had been given to Rav Huna, the use of the money should be up to his discretion. Rav Huna added: **And all the more so** in this instance, **as both my poor** in my town **and your** poor in your town **rely upon me** and my collections of charity. Rav Huna was also in charge of distributing charity for the surrounding area. It was certainly proper to leave the money with him, so that he could distribute it among all those in need.
+
+**2.**
+*Hebrew/Aramaic:* מַתְנִי׳ אֵין מוֹכְרִין אֶת שֶׁל רַבִּים לְיָחִיד, מִפְּנֵי שֶׁמּוֹרִידִין אוֹתוֹ מִקְּדוּשָּׁתוֹ, דִּבְרֵי רַבִּי מֵאִיר. אָמְרוּ לוֹ: אִם כֵּן אַף לֹא מֵעִיר גְּדוֹלָה לְעִיר קְטַנָּה.
+*Translation:* MISHNA: **They may not sell** a sacred object **belonging to the community to an individual,** even if the object will still be used for the same purpose, **due to** the fact **that** by doing so **they downgrade its** degree of **sanctity,** as an item used by fewer people is considered to have a lower degree of sanctity than one used by many; this is **the statement of Rabbi Meir.** The Rabbis **said to him: If so,** by your logic, it should **also not** be permitted to sell a sacred object **from a large town to a small town.** However, such a sale is certainly permitted, and therefore it must also be permitted to sell such an object to an individual.
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ שַׁפִּיר קָאָמְרִי לֵיהּ רַבָּנַן לְרַבִּי מֵאִיר! וְרַבִּי מֵאִיר, מֵעִיר גְּדוֹלָה לְעִיר קְטַנָּה — מֵעִיקָּרָא קַדִּישָׁא, הַשְׁתָּא נָמֵי קַדִּישָׁא. מֵרַבִּים לְיָחִיד לֵיכָּא קְדוּשָּׁה.
+*Translation:* GEMARA: The Gemara asks: **The Rabbis are saying well to Rabbi Meir,** as they provided a rational argument for their opinion. How could Rabbi Meir counter their claim? The Gemara answers: **Rabbi Meir** holds that when a sacred object is transferred **from a large town to a small town,** there is no significant downgrade in the degree of sanctity, **as at the outset it was sacred** for a community and **now too it is sacred** for a community. But when it is transferred **from a community to an individual,** there is a significant downgrade in the degree of sanctity, as **there is no** longer **the** degree of **sanctity** that existed beforehand.
+
+**4.**
+*Hebrew/Aramaic:* וְרַבָּנַן — אִי אִיכָּא לְמֵיחַשׁ, כִּי הַאי גַוְונָא נָמֵי אִיכָּא לְמֵיחַשׁ, מִשּׁוּם ״בְּרוֹב עָם הַדְרַת מֶלֶךְ״.
+*Translation:* **And the Rabbis,** how could they respond to Rabbi Meir’s claim? **If there is** cause **to be concerned** about the decrease in the number of people who will use the object when it is transferred from a community to an individual, then **in a case like this as well,** where the object is transferred to a smaller community, **there** should be cause **to be concerned** about this **due to** the principle expressed in the verse: **“In the multitude of people is the king’s glory”** (Proverbs 14:28). The verse teaches that the larger the assembly involved in a mitzva, the greater the honor to God. However, it is apparent that this principle does not prevent the sale of a synagogue to a smaller community, and therefore it should not prevent the selling of a synagogue to an individual.
+
+**5.**
+*Hebrew/Aramaic:* מַתְנִי׳ אֵין מוֹכְרִין בֵּית הַכְּנֶסֶת אֶלָּא עַל תְּנַאי, שֶׁאִם יִרְצוּ יַחְזִירוּהוּ, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים: מוֹכְרִין אוֹתוֹ מִמְכַּר עוֹלָם, חוּץ מֵאַרְבָּעָה דְּבָרִים: לְמֶרְחָץ, וּלְבוּרְסְקִי, לִטְבִילָה, וּלְבֵית הַמַּיִם. רַבִּי יְהוּדָה אוֹמֵר: מוֹכְרִין אוֹתָהּ לְשֵׁם חָצֵר, וְהַלּוֹקֵחַ — מַה שֶּׁיִּרְצֶה יַעֲשֶׂה.
+*Translation:* MISHNA: **They may sell a synagogue only with a stipulation that if** the sellers so **desire it,** the buyers **will return it** to them; this is **the statement of Rabbi Meir. And the Rabbis say: They may sell a synagogue with a permanent sale** for any usage, **except** the following **four things,** which would be an affront to the synagogue’s previous sanctity: **For a bathhouse,** where people stand undressed; **or for a tannery [*burseki*],** due to the foul smell; **for immersion,** i.e., to be used as a ritual bath, where people also stand undressed; **or for a lavatory. Rabbi Yehuda says: They may sell** a synagogue **for** the generic purpose of **serving as a courtyard, and** then **the buyer may** then **do** with it **as he wishes,** even if that is one of the above four purposes.
+
+**6.**
+*Hebrew/Aramaic:* גְּמָ׳ וּלְרַבִּי מֵאִיר, הֵיכִי דָּיְירִי בַּהּ? הָא הָוְיָא לַהּ רִבִּית!
+*Translation:* GEMARA: The Gemara asks: **But according to Rabbi Meir, how may** those who purchased the synagogue **live in it? Isn’t** living there **tantamount** to taking **interest?** If the sellers demand the synagogue’s return, the payment given for it would be returned to the buyers. Accordingly, in a broad view of things, that sum of money may be considered as a loan that was given from the buyers to the sellers, until the synagogue was demanded back. The buyers benefited from giving that loan by being able to live in the synagogue building. However, gaining any benefit from a loan is prohibited as interest.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: רַבִּי מֵאִיר בְּשִׁיטַת רַבִּי יְהוּדָה אֲמָרָהּ, דְּאָמַר: צַד אֶחָד בְּרִבִּית מוּתָּר.
+*Translation:* **Rabbi Yoḥanan said: Rabbi Meir stated** his opinion **in** accordance with **the opinion of Rabbi Yehuda, who said: Uncertain interest,** i.e., a transaction that will not certainly result in a situation of interest, **is permitted.**
+
+**8.**
+*Hebrew/Aramaic:* דְּתַנְיָא: הֲרֵי שֶׁהָיָה נוֹשֶׁה בַּחֲבֵירוֹ מָנֶה, וְעָשָׂה לוֹ שָׂדֵהוּ מֶכֶר, בִּזְמַן שֶׁמּוֹכֵר אוֹכֵל פֵּירוֹת — מוּתָּר, לוֹקֵחַ אוֹכֵל פֵּירוֹת — אָסוּר.
+*Translation:* In the case of the mishna, the sale might never be undone, and then there would be no loan to speak of. It should therefore be permitted as a case of uncertain interest, **as it is taught** in a *baraita*: If **one had a debt of one hundred dinars against his fellow, and** the borrower **made** a conditional **sale of his field** because he did not have any money to repay the loan, stipulating that if he later comes into the possession of money with which to repay the loan, the field reverts back to his ownership, then **as long as the seller** of the field **consumes the produce** of that field, such an arrangement **is permitted.** If the **buyer consumes the produce,** the arrangement is **prohibited,** as if the sale were to be reverted, then the money given for it would be considered a loan from the buyer to the seller, and therefore any benefit the buyer gains due to that loan should be prohibited as interest.
+
+**9.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: אֲפִילּוּ לוֹקֵחַ אוֹכֵל פֵּירוֹת — מוּתָּר. וְאָמַר רַבִּי יְהוּדָה: מַעֲשֶׂה בְּבַיְתוֹס בֶּן זוֹנִן שֶׁעָשָׂה שָׂדֵהוּ מֶכֶר עַל פִּי רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה, וְלוֹקֵחַ אוֹכֵל פֵּירוֹת הָיָה. אָמְרוּ לוֹ: מִשָּׁם רְאָיָה?! מוֹכֵר אוֹכֵל פֵּירוֹת הָיָה וְלֹא לוֹקֵחַ.
+*Translation:* **Rabbi Yehuda says: Even** if the **buyer consumes the produce, it is permitted.** Since it is possible that the sale might never be undone, in which case there would be no loan to speak of, it is a case of uncertain interest, which is permitted. **And Rabbi Yehuda said:** There was **an incident involving Baitos ben Zunen, who made** a conditional **sale of his field** in a similar arrangement **under the direction of Rabbi Elazar ben Azarya, and the buyer was consuming the produce** in accordance with Rabbi Yehuda’s ruling. The Rabbis **said to him:** Do you seek to bring **a proof from there?** In that case, it was actually **the seller who was consuming the produce and not the buyer.**
+
+**10.**
+*Hebrew/Aramaic:* מַאי בֵּינַיְיהוּ? צַד אֶחָד בְּרִבִּית אִיכָּא בֵּינַיְיהוּ. מָר סָבַר: צַד אֶחָד בְּרִבִּית מוּתָּר, וּמָר סָבַר: צַד אֶחָד בְּרִבִּית אָסוּר.
+*Translation:* The Gemara analyses the dispute: **What is** the practical difference **between them?** The permissibility of **an uncertain interest** agreement **is the** practical difference **between them.** One **Sage,** Rabbi Yehuda, **holds** that **uncertain interest is permitted and** one **Sage,** i.e., the Rabbis, **holds** that **uncertain interest is prohibited.**
+
+**11.**
+*Hebrew/Aramaic:* רָבָא אָמַר: דְּכוּלֵּי עָלְמָא צַד אֶחָד בְּרִבִּית אָסוּר, וְהָכָא רִבִּית עַל מְנָת לְהַחֲזִיר אִיכָּא בֵּינַיְיהוּ. מָר סָבַר: רִבִּית עַל מְנָת לְהַחֲזִיר מוּתָּר, וּמָר סָבַר: אָסוּר.
+*Translation:* **Rava said** a different explanation of the dispute: **According to everyone, uncertain interest is prohibited, and here** it is the question of the permissibility of **interest** given **on the condition that it will be returned** that **is** the practical difference **between them.** In addition to the arrangement described in the *baraita*, the parties in this case agreed that the buyer would consume the produce; if the sale would later be reverted, then the buyer would reimburse the seller for the value of the produce. One **Sage,** Rabbi Yehuda, **holds** that **interest** that is given **on condition that it will be returned is permitted;** this is because even if the sale is reverted and the sale becomes a loan retroactively, the buyer-lender will not benefit from that loan since he reimbursed the seller-borrower for the value of the produce. **And** one **Sage,** i.e., the Rabbis, **holds** that **it is prohibited.**
+
+**12.**
+*Hebrew/Aramaic:* וַחֲכָמִים אוֹמְרִים מוֹכְרִין אוֹתוֹ מִמְכַּר עוֹלָם וְכוּ׳. אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: מוּתָּר לָאָדָם לְהַשְׁתִּין מַיִם בְּתוֹךְ אַרְבַּע אַמּוֹת שֶׁל תְּפִלָּה.
+*Translation:* § The mishna states: **And the Rabbis say: They may sell a synagogue with a permanent sale.** However, it may not be sold if it will be used for activities that would be an affront to the synagogue’s previous sanctity. The Gemara considers a related *halakha*: **Rav Yehuda said** that **Shmuel said: It is permitted for a person to urinate within four cubits of** where one has just offered **a prayer,** i.e., one may urinate even in the same place as he prays.
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַב יוֹסֵף: מַאי קָא מַשְׁמַע לַן? תְּנֵינָא, רַבִּי יְהוּדָה אוֹמֵר: מוֹכְרִין אוֹתָהּ לְשׁוּם חָצֵר, וְלוֹקֵחַ — מַה שֶּׁיִּרְצֶה יַעֲשֶׂה. וַאֲפִילּוּ רַבָּנַן לָא קָאָמְרִי אֶלָּא בֵּית הַכְּנֶסֶת, דִּקְבִיעַ קְדוּשְׁתֵּיהּ. אֲבָל אַרְבַּע אַמּוֹת, דְּלָא קְבִיעַ קְדוּשְׁתַּיְיהוּ — לָא.
+*Translation:* **Rav Yosef said: What is he teaching us? We** already **learned** this in the mishna: **Rabbi Yehuda says: They may sell** a synagogue for the generic purpose of serving **as a courtyard, and the buyer may** then **do with it as he wishes,** even if he wishes to make it into a lavatory. **And even the Rabbis,** who disagree with Rabbi Yehuda, **say** their ruling **only** with regard to **a synagogue whose sanctity is permanent. However,** with regard to the **four cubits** of where one happened to stand in prayer, **whose sanctity is not permanent, no,** even the Rabbis would be lenient.
+
+**14.**
+*Hebrew/Aramaic:* תָּנֵי תַּנָּא קַמֵּיהּ דְּרַב נַחְמָן: הַמִּתְפַּלֵּל — מַרְחִיק אַרְבַּע אַמּוֹת וּמַשְׁתִּין, וְהַמַּשְׁתִּין — מַרְחִיק אַרְבַּע אַמּוֹת וּמִתְפַּלֵּל.
+*Translation:* **A *tanna* taught** a *baraita* **before Rav Naḥman: One who prayed should distance himself four cubits** from where he was standing, **and** only then **may he urinate. And one who urinated should distance himself four cubits, and** only then **may he pray.**
+
+**15.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: בִּשְׁלָמָא הַמַּשְׁתִּין מַרְחִיק אַרְבַּע אַמּוֹת וּמִתְפַּלֵּל — תְּנֵינָא: כַּמָּה יַרְחִיק מֵהֶן וּמִן הַצּוֹאָה, אַרְבַּע אַמּוֹת.
+*Translation:* Rav Naḥman **said to him: Granted,** the second clause of the *baraita*, that **one who urinated should distance himself four cubits and** only then **may he pray,** makes sense, as **we** already **learned** in a mishna (*Berakhot* 22b): **How far must one distance** oneself **from** urine **and excrement? Four cubits.**
+
+**16.**
+*Hebrew/Aramaic:* אֶלָּא: הַמִּתְפַּלֵּל מַרְחִיק אַרְבַּע אַמּוֹת וּמַשְׁתִּין לְמָה לִי? אִי הָכִי, קַדֵּשְׁתִּינְהוּ לְכוּלְּהוּ שְׁבִילֵי דִנְהַרְדְּעָא. תְּנִי: יִשְׁהֶה.
+*Translation:* **But** the first clause of the *baraita*, that **one who prayed should distance** himself **four cubits** from where he was standing **and** only then **may he urinate, why should I** require this? How could there be such a *halakha*? **If that is so, you have sanctified all the streets of the city of Neharde’a,** for people have certainly prayed on every one of its streets. According to this *halakha*, it should be prohibited to urinate everywhere. The Gemara answers: Emend and **teach** the *baraita* as saying not that one should distance himself four cubits, but that **one should wait the time** it takes to walk four cubits.
+
+**17.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא מַשְׁתִּין יִשְׁהֶה כְּדֵי הִילּוּךְ אַרְבַּע אַמּוֹת, מִשּׁוּם נִיצוֹצוֹת. אֶלָּא: מִתְפַּלֵּל יִשְׁהֶה כְּדֵי הִילּוּךְ אַרְבַּע אַמּוֹת, לְמָה לִי? אָמַר רַב אָשֵׁי: שֶׁכֹּל אַרְבַּע אַמּוֹת תְּפִלָּתוֹ סְדוּרָה בְּפִיו, וְרַחוֹשֵׁי מְרַחֲשָׁן שִׂפְווֹתֵיהּ.
+*Translation:* The Gemara addresses the emended version of the *baraita*: **Granted,** its second clause, that **one who urinated waits the time it takes to walk four cubits** and only then may he pray, makes sense. This is **due to the droplets** of urine that may still be issuing from him; he should wait until they cease entirely. **However,** with regard to the first clause, that **one who prayed should wait the time it takes to walk four cubits** and only then may he urinate, **why should I** require this? **Rav Ashi said: Because** for **all** the time it takes to walk **four cubits, his prayer is** still **arranged in his mouth, and his lips are** still **articulating** them.
+
+**18.**
+*Hebrew/Aramaic:* זַלְפָ״‎ן סִימָן.
+*Translation:* § The Gemara cites a series of Sages who explained the reasons they were blessed with longevity and provides **a mnemonic** device, indicating the order in which the Sages are cited: ***Zayin*, *lamed*, *peh*, *nun*.** *Zayin* for Rabbi Zakkai; *lamed* for Rabbi Elazar; *peh* for Rabbi Perida; *nun* for Rabbi Neḥunya.
+
+**19.**
+*Hebrew/Aramaic:* שָׁאֲלוּ תַּלְמִידָיו אֶת רַבִּי זַכַּאי: בַּמָּה הֶאֱרַכְתָּ יָמִים? אָמַר לָהֶם: מִיָּמַי לֹא הִשְׁתַּנְתִּי מַיִם בְּתוֹךְ אַרְבַּע אַמּוֹת שֶׁל תְּפִלָּה, וְלֹא כִּנִּיתִי שֵׁם לַחֲבֵירִי, וְלֹא בִּיטַּלְתִּי קִידּוּשׁ הַיּוֹם. אִמָּא זְקֵינָה הָיְתָה לִי, פַּעַם אַחַת מָכְרָה כִּפָּה שֶׁבְּרֹאשָׁהּ וְהֵבִיאָה לִי קִידּוּשׁ הַיּוֹם.
+*Translation:* The Gemara presents the first incident: **Rabbi Zakkai was** once **asked by his disciples: In** the merit of **which** virtue **were you** blessed with **longevity? He said to them: In** all **my days, I never urinated within four cubits of** a place that had been used for **prayer. Nor did I** ever **call my fellow by a nickname. And I never neglected** the mitzva of **sanctifying the day** of Shabbat over wine. I was meticulous about this mitzva to the extent that **I had an elderly mother,** and **once,** when I did not have wine, **she sold the kerchief that was on her head, and** from the proceeds **she brought me** wine upon which to do the mitzva of **sanctifying the day.**
+
+**20.**
+*Hebrew/Aramaic:* תָּנָא: כְּשֶׁמֵּתָה, הַנִּיחָה לוֹ שְׁלוֹשׁ מֵאוֹת גַּרְבֵי יַיִן. כְּשֶׁמֵּת הוּא, הִנִּיחַ לְבָנָיו שְׁלֹשֶׁת אֲלָפִים גַּרְבֵי יַיִן.
+*Translation:* **It was taught** concerning Rabbi Zakkai: **When** his mother **died, she left him three hundred barrels of wine. When he died, he left his sons three thousand barrels of wine.** Since they were so meticulous in the mitzva of sanctifying the day of Shabbat with wine, God rewarded them with wealth and an abundance of wine.
+
+**21.**
+*Hebrew/Aramaic:* רַב הוּנָא הֲוָה אָסַר רִיתָא וְקָאֵי קַמֵּיהּ דְּרַב, אָמַר לֵיהּ: מַאי הַאי? אֲמַר לֵיהּ: לָא הֲוָה לִי קִידּוּשָׁא, וּמַשְׁכַּנְתֵּיהּ לְהֶמְיָינַאי וְאֵתַאי בֵּיהּ קִידּוּשָׁא. אֲמַר לֵיהּ: יְהֵא רַעֲוָא דְּתִיטּוּם בְּשִׁירָאֵי.
+*Translation:* In a related incident, it once happened that **Rav Huna was girded with** a piece of **straw [*rita*] and was standing before Rav.** Rav **said to him: What is this?** Why are you dressed in this way? **He said** to him: **I had no** wine for **sanctifying** the day of Shabbat, **so I pawned my belt [*hemyanai*], and with** the proceeds **I brought** wine for **sanctifying** the day. Rav **said to him: May it be** God’s **will** that **you be enveloped in silk [*shira’ei*]** in reward for such dedication.
+
+**22.**
+*Hebrew/Aramaic:* כִּי אִיכַּלַּל רַבָּה בְּרֵיהּ, רַב הוּנָא אִינִישׁ גּוּצָא הֲוָה, גְּנָא אַפּוּרְיָא. אָתְיָין בְּנָתֵיהּ וְכַלָּתֵיהּ שָׁלְחָן וְשָׁדְיָין מָנַיְיהוּ עֲלֵיהּ עַד דְּאִיטּוּם בְּשִׁירָאֵי. שְׁמַע רַב וְאִיקְּפַד, אֲמַר: מַאי טַעְמָא לָא אֲמַרְתְּ לִי כִּי בָּרֵכְתָּיךְ: ״וְכֵן לְמָר״.
+*Translation:* **When Rabba, his son, was married, Rav Huna,** who **was a short man, was lying on** his **bed,** and owing to his diminutive size he went unnoticed. **His daughters and daughters-in-law came** into the room and **removed and threw their** silk **garments upon him until he was** entirely **enveloped in silk.** With this, Rav’s blessing was fulfilled to the letter. When **Rav heard** about this, **he became angry** with Rav Huna, and **said: What is the reason** that **when I blessed you, you did not** respond in kind and **say to me: And likewise to** the **Master?** Had you done so, I would have also benefitted from the blessing.
+
+**23.**
+*Hebrew/Aramaic:* שָׁאֲלוּ תַּלְמִידָיו אֶת רַבִּי אֶלְעָזָר בֶּן שַׁמּוּעַ: בַּמָּה הֶאֱרַכְתָּ יָמִים? אָמַר לָהֶם: מִיָּמַי לֹא עָשִׂיתִי קַפֶּנְדַּרְיָא לְבֵית הַכְּנֶסֶת, וְלֹא פָּסַעְתִּי עַל רָאשֵׁי עַם קָדוֹשׁ, וְלֹא נָשָׂאתִי כַּפַּי בְּלֹא בְּרָכָה.
+*Translation:* The Gemara discusses the second occasion where a Sage explained his longevity: **Rabbi Elazar ben Shammua was** once **asked by his disciples: In** the merit of **which** virtue **were you** blessed with **longevity? He said to them: In** all **my days, I never made a shortcut through a synagogue. Nor did I** ever **stride over** the **heads of** the **sacred people,** i.e., I never stepped over people sitting in the study hall in order to reach my place, so as not to appear scornful of them. **And I never raised my hands** in the Priestly Benediction **without** reciting **a blessing** beforehand.
+
+**24.**
+*Hebrew/Aramaic:* שָׁאֲלוּ תַּלְמִידָיו אֶת רַבִּי פְּרִידָא: בַּמָּה הֶאֱרַכְתָּ יָמִים? אָמַר לָהֶם: מִיָּמַי לֹא קְדָמַנִי אָדָם לְבֵית הַמִּדְרָשׁ,
+*Translation:* On the third occasion, **Rabbi Perida was** once **asked by his disciples: In** the merit of **which** virtue **were you** blessed with **longevity? He said to them: In** all **my days, no person** ever arrived **before me to the study hall,** as I was always the first to arrive.

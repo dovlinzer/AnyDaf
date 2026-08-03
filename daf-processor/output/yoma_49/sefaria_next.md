@@ -63,3 +63,68 @@
 **16.**
 *Hebrew/Aramaic:* תָּא שְׁמַע, דְּבָעֵי רַבִּי (אֱלִיעֶזֶר):
 *Translation:* The Gemara offers another solution to the question. **Come** and **hear, as Rabbi Elazar raised** the following **dilemma:**
+
+
+---
+
+### Yoma 50b
+
+**1.**
+*Hebrew/Aramaic:* לְדִבְרֵי הָאוֹמֵר פַּר יוֹם הַכִּפּוּרִים קׇרְבַּן יָחִיד, עוֹשֶׂה תְּמוּרָה אוֹ אֵינוֹ עוֹשֶׂה תְּמוּרָה. לָאו מִכְּלָל דְּאִיכָּא לְמַאן דְּאָמַר דְּצִבּוּר?
+*Translation:* According **to** Rabbi Meir, **who says** that the **bull of Yom Kippur** is **an offering** of **an individual,** can one **perform substitution** for this animal **or** can one **not perform substitution** in this case? In other words, if the High Priest violated a prohibition and designated a substitute by saying that this bull should be switched with another, does the substitution take effect or not? Is it **not** correct to say **by inference** from the wording of Rabbi Elazar’s dilemma **that there is one who says that** these offerings are **communal?**
+
+**2.**
+*Hebrew/Aramaic:* לָא, מִכְּלָל דְּאִיכָּא לְמַאן דְּאָמַר דְּשׁוּתָּפִין.
+*Translation:* The Gemara rejects this contention: **No,** this is no proof, as one can say **by inference that there is one who says that** these offerings are **of partners.** There is no definitive proof that the bull of Yom Kippur is a communal sacrifice. In any event, the question of why the bull is not invalidated upon the death of the High Priest has been resolved, as the reason is either because it is a communal sacrifice or because it is a sacrifice of partners.
+
+**3.**
+*Hebrew/Aramaic:* גּוּפָא. בָּעֵי רַבִּי (אֱלִיעֶזֶר): לְדִבְרֵי הָאוֹמֵר פַּר יוֹם הַכִּפּוּרִים קׇרְבַּן יָחִיד, עוֹשֶׂה תְּמוּרָה אוֹ אֵינוֹ עוֹשֶׂה תְּמוּרָה. מַאי קָא מִיבַּעְיָא לֵיהּ?
+*Translation:* § Since the Gemara has mentioned Rabbi Elazar’s dilemma, the Gemara addresses **the matter itself. Rabbi Elazar asked:** According **to** Rabbi Meir, **who says** that the **bull of Yom Kippur** is **an individual offering,** can one **perform substitution** for this animal **or** can one **not perform substitution?** The Gemara asks: **What is the dilemma he is raising?** What is the basis of his inquiry?
+
+**4.**
+*Hebrew/Aramaic:* אִי בָּתַר מַקְדִּישׁ אָזְלִינַן, אִי בָּתַר מִתְכַּפֵּר אָזְלִינַן.
+*Translation:* The Gemara suggests that his dilemma is as follows: **Do we follow** the one **who consecrates** the animal, i.e., the High Priest, as he was the one who paid for it, in which case it is considered an individual sacrifice and his substitution is effective? **Or do we follow** the one **who seeks atonement** by the offering, and as this bull atones both for the High Priest and the entire community of his fellow priests, it is considered a communal sacrifice, and therefore his substitution is not effective? The question is: Which party is followed for the purposes of substitution?
+
+**5.**
+*Hebrew/Aramaic:* פְּשִׁיטָא דְּבָתַר מִתְכַּפֵּר אָזְלִינַן, דְּאָמַר רַבִּי אֲבָהוּ אָמַר רַבִּי יוֹחָנָן: הַמַּקְדִּישׁ — מוֹסִיף חוֹמֶשׁ, וְהַמִּתְכַּפֵּר — עוֹשֶׂה (בָּהּ) תְּמוּרָה.
+*Translation:* The Gemara expresses surprise at this possible interpretation of Rabbi Elazar’s dilemma: It is **obvious that we follow** the one **who seeks atonement, as Rabbi Abbahu said** that **Rabbi Yoḥanan said:** With regard to **one who consecrates** his animal for an offering but intends it for someone else’s atonement, if he subsequently redeems the animal, **he adds a fifth** to it. This is in accordance with the *halakha* that one who redeems an animal that he himself dedicated must add a fifth of its value to the redemption, whereas if the person for whom it atones redeems it, he does not add a fifth. **And the one for whom** the sacrifice **atones** can **perform substitution for it,** whereas the one who consecrated the animal cannot effect substitution, as he is not considered its owner for the *halakhot* of substitution.
+
+**6.**
+*Hebrew/Aramaic:* וְהַתּוֹרֵם מִשֶּׁלּוֹ עַל שֶׁל חֲבֵירוֹ — טוֹבַת הֲנָאָה שֶׁלּוֹ!
+*Translation:* **And** likewise, with regard to **one who separates** *teruma* **from his** wheat **for** the wheat **of another,** to spare his friend from having to separate his own *teruma*, although the friend’s produce is now exempt from the obligation of *teruma*, the **benefit of discretion is his,** the one who separated the *teruma*. The one who separated the *teruma* is entitled to determine which priest receives the *teruma*, despite the fact that the *teruma* was separated for the crop of another. Similarly, when someone consecrates an animal for another person, it is the one who gains atonement that can perform substitution. If so, there is no place for Rabbi Elazar’s dilemma.
+
+**7.**
+*Hebrew/Aramaic:* לְעוֹלָם פְּשִׁיטָא לֵיהּ דְּבָתַר מִתְכַּפֵּר אָזְלִינַן, וְהָכִי קָא מִיבַּעְיָא לֵיהּ: אֶחָיו הַכֹּהֲנִים בִּקְבִיעוּתָא מִתְכַּפְּרִי, אוֹ דִילְמָא בְּקוּפְיָא מִתְכַּפְּרִי.
+*Translation:* The Gemara rejects this suggested explanation of Rabbi Elazar’s dilemma: **Actually,** it is **obvious to** Rabbi Elazar **that we follow** the one **who seeks atonement** by the offering, **and this is his dilemma:** Do **his fellow priests achieve atonement by the essence** of the offering, i.e., part of the offering is sacrificed on their behalf, which means they are partners in the bull? **Or perhaps they achieve atonement incidentally,** while the main atonement is that of the High Priest. If the atonement of the other priests is merely incidental, the High Priest can effect substitution with this bull.
+
+**8.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: חוֹמֶר בְּזֶבַח מִבִּתְמוּרָה, וְחוֹמֶר בִּתְמוּרָה מִבְּזֶבַח. חוֹמֶר בְּזֶבַח: שֶׁהַזֶּבַח נוֹהֵג בְּיָחִיד כִּבְצִבּוּר, וְדוֹחֶה אֶת הַשַּׁבָּת וְאֶת הַטּוּמְאָה, וְעוֹשֶׂה תְּמוּרָה — מַה שֶּׁאֵין כֵּן בִּתְמוּרָה.
+*Translation:* The Gemara suggests: **Come** and **hear** a resolution to this dilemma: There is **a stricture** that applies **to the** initial **sacrifice, beyond** the strictures that apply **to the** designated **substitute; and** there is **a stricture** that applies **to the substitution, beyond** the strictures that apply **to the sacrifice.** The *baraita* elaborates: There is **a stricture** that applies **to the** initial **sacrifice, as** the sanctity of **the sacrifice applies to an individual as** it does **to a community, and** the sacrifice **overrides Shabbat and ritual impurity,** and one can **perform substitution** for the original sacrifice, **which is not** the case with regard **to the substitute,** to which these halakhot do not apply.
+
+**9.**
+*Hebrew/Aramaic:* חוֹמֶר בִּתְמוּרָה מִבְּזֶבַח: שֶׁהַתְּמוּרָה חָלָה עַל בַּעַל מוּם קָבוּעַ, וְאֵינָהּ יוֹצְאָה לְחוּלִּין לִיגָּזֵז וְלֵיעָבֵד — מַה שֶּׁאֵין כֵּן בְּזֶבַח.
+*Translation:* The *baraita* continues: There is **a stricture** that applies **to the substitute beyond** the strictures that apply **to the** initial **sacrifice,** in **that** the sanctity of the **substitution takes effect** even **on a permanently blemished animal. And** the substitute **cannot vacate** its sanctified status and assume **non-sacred** status; that is, it may only be sacrificed as an offering and eaten but under no circumstance can it be redeemed for its wool **to be sheared and to be worked, which is not** the case with regard **to the** initial **sacrifice,** as it can be redeemed in certain situations.
+
+**10.**
+*Hebrew/Aramaic:* הַאי זֶבַח הֵיכִי דָמֵי? אִילֵּימָא דְּיָחִיד — מִי דָּחֵי שַׁבָּת וְטוּמְאָה? אֶלָּא דְּצִבּוּר — מִי עוֹשֶׂה תְּמוּרָה? אֶלָּא לָאו דְּפַר, וְדוֹחֶה אֶת הַשַּׁבָּת וְאֶת הַטּוּמְאָה — דִּקְבִיעַ לֵיהּ זְמַן, וְעוֹשֶׂה תְּמוּרָה — דְּקָרְבַּן יָחִיד הוּא.
+*Translation:* The Gemara explains: **What are the circumstances** of **this sacrifice?** What exactly is the sacrifice referred to in this *baraita*? **If we say** it is the sacrifice **of an individual, does** the sacrifice of an individual **override Shabbat and ritual impurity? Rather,** if you say that we are dealing with the sacrifice **of a community, can** one **perform substitution** for a communal sacrifice? **Rather, is it not** the case that we are dealing here **with** the Yom Kippur **bull,** which **overrides Shabbat and ritual impurity, as** it is a sacrifice **that** has **a fixed time? And** likewise, one can **perform substitution** for this offering, **as it is an offering** of **an individual.** This interpretation resolves Rabbi Elazar’s dilemma.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַב שֵׁשֶׁת: לָא, בְּאֵילוֹ שֶׁל אַהֲרֹן.
+*Translation:* The Gemara rejects this contention. **Rav Sheshet said: No,** this is no proof, as it can be claimed that the *baraita* is referring **to** the **ram of Aaron** that the High Priest sacrifices as a burnt-offering on Yom Kippur, as the verse states: “With this Aaron shall come into the sacred place, with a young bull for a sin-offering and a ram for a burnt-offering” (Leviticus 16:3). This offering is certainly the High Priest’s alone and is therefore classified as the offering of an individual.
+
+**12.**
+*Hebrew/Aramaic:* הָכִי נָמֵי מִסְתַּבְּרָא, דְּאִי סָלְקָא דַעְתָּךְ דְּפָרוֹ, תְּמוּרָה דְּפַר שַׁבָּת וְטוּמְאָה הוּא דְּלָא דָּחֲיָא, הָא בְּחוֹל מִיקְרָב קָרְבָה?! הָא תְּמוּרַת חַטָּאת הִיא, וּתְמוּרַת חַטָּאת לְמִיתָה אָזְלָא!
+*Translation:* The Gemara comments: **So, too, it is reasonable** that this is the offering referred to in the *baraita*, **for if it should enter your mind** to say that we are dealing **with the bull of** the High Priest, consider the following: Is **it** only **Shabbat and ritual impurity** that the **substitution of the bull does not override,** which indicates that **one** may **sacrifice** this substitute **on a weekday? It is a substitute for a sin-offering, and** the *halakha* is that **the substitute for a sin-offering is left to die.** Rather, we certainly must be dealing with the ram for a burnt-offering, as the substitute for a burnt-offering cannot be sacrificed.
+
+**13.**
+*Hebrew/Aramaic:* לָא, לְעוֹלָם פָּרוֹ. וּמַאי תְּמוּרָה — שֵׁם תְּמוּרָה.
+*Translation:* The Gemara rejects this supporting argument: **No,** it is **actually** possible that the offering referred to in the *baraita* is the Yom Kippur **bull of** the High Priest, **and what is the substitution** that was mentioned? It does not refer to a substitution of the bull, but rather the *baraita* deals with the general **category** of **substitution,** i.e., it means that the phenomenon of substitution in general includes *halakhot* that do not apply to offerings.
+
+**14.**
+*Hebrew/Aramaic:* אִי הָכִי, זֶבַח נָמֵי — שֵׁם זֶבַח? שֵׁם זֶבַח לָא קָתָנֵי.
+*Translation:* The Gemara asks: **If so,** one can **also** say that the **sacrifice** mentioned in the *baraita* means the general **category** of **sacrifices,** rather than a specific offering. The Gemara rejects this suggestion: The *baraita* is **not teaching** about a general **category** of **sacrifices,** i.e., it is definitely not dealing with the phenomenon of offerings in general.
+
+**15.**
+*Hebrew/Aramaic:* מִמַּאי — מִדְּקָתָנֵי: חוֹמֶר בִּתְמוּרָה, שֶׁהַתְּמוּרָה חָלָה עַל בַּעַל מוּם קָבוּעַ, וְאֵינָהּ יוֹצְאָה לְחוּלִּין לִיגָּזֵז וְלֵיעָבֵד. וְאִי סָלְקָא דַּעְתָּךְ: מַאי זֶבַח — שֵׁם זֶבַח, וְהָא אִיכָּא
+*Translation:* The Gemara continues: **From where** do I know that this is so? **From** the fact **that it is taught:** There is **a stricture** that applies **to the** substitution beyond the strictures that apply to the initial offering, in **that** the sanctity of the **substitution takes effect** even **on a permanently blemished animal, and** the substitute **cannot vacate** its sanctified status and assume **non-sacred** status for its wool **to be sheared and to be worked. And should it enter your mind** to say: **What is** the **sacrifice** mentioned here, it means the general **category** of **sacrifices;** this cannot be the case, as **there is** an example of an offering to which these *halakhot* also apply,

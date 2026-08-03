@@ -39,3 +39,56 @@
 **10.**
 *Hebrew/Aramaic:* הָא ״וְכֵן״ קָתָנֵי!
 *Translation:* The Gemara asks: But **doesn’t it state: And likewise,** indicating that the legal status of the mourner and the legal status of the groom whose wife is menstruating are the same?
+
+
+---
+
+### Ketubot 4b
+
+**1.**
+*Hebrew/Aramaic:* הָכִי קָאָמַר: וְכֵן מִי שֶׁפֵּירְסָה אִשְׁתּוֹ נִדָּה וְלֹא בָּעַל — הוּא יָשֵׁן בֵּין הָאֲנָשִׁים, וְאִשְׁתּוֹ יְשֵׁנָה בֵּין הַנָּשִׁים.
+*Translation:* **This is what** the *tanna* **is saying: And likewise,** with regard to a groom **whose wife began to menstruate, and he had not** yet **engaged in intercourse** with her, **he sleeps among the men, and his wife sleeps among the women.** However, in the case of a mourner, even if they already engaged in sexual relations, he sleeps among the men and she sleeps among the women.
+
+**2.**
+*Hebrew/Aramaic:* לְמֵימְרָא דַּאֲבֵילוּת קָיְלָא לֵיהּ מִנִּדָּה?
+*Translation:* The Gemara asks: **Is that to say that** the prohibition against relations during **mourning is more lenient in his** opinion **than** the prohibition against relations with **a menstruating woman?** That is apparently the case, as after engaging in the initial intercourse, he may enter into seclusion with his menstruating wife but not with his wife when either of them is in mourning.
+
+**3.**
+*Hebrew/Aramaic:* וְהָאָמַר רַבִּי יִצְחָק בַּר חֲנִינָא אָמַר רַב הוּנָא: כׇּל מְלָאכוֹת שֶׁאִשָּׁה עוֹשָׂה לְבַעְלָהּ — נִדָּה עוֹשָׂה לְבַעְלָהּ, חוּץ מִמְּזִיגַת הַכּוֹס וְהַצָּעַת הַמִּטָּה, וְהַרְחָצַת פָּנָיו יָדָיו וְרַגְלָיו. וְאִלּוּ גַּבֵּי אֲבֵילוּת תַּנְיָא: אַף עַל פִּי שֶׁאָמְרוּ אֵין אָדָם רַשַּׁאי לָכוֹף אֶת אִשְׁתּוֹ לִהְיוֹת כּוֹחֶלֶת וְלִהְיוֹת פּוֹקֶסֶת, בֶּאֱמֶת אָמְרוּ: מוֹזֶגֶת לוֹ הַכּוֹס, וּמַצַּעַת לוֹ הַמִּטָּה, וּמַרְחֶצֶת לוֹ פָּנָיו יָדָיו וְרַגְלָיו.
+*Translation:* The Gemara continues: **But didn’t Rav Yitzḥak bar Ḥanina say** that **Rav Huna said: All tasks that a woman** typically **performs for her husband, a menstruating woman performs for her husband, except for pouring** his drink into the **cup; arranging** his **bed; and washing his face, hands, and feet,** as these actions are particularly intimate. **Whereas with regard to mourning, it is taught** in a *baraita*: **Although they said that a man may not compel his** mourning **wife, to paint** her eyes **blue or to rouge [*pokeset*]** her face, **in truth they said that she may pour** his drink into **the cup; arrange his bed; and wash his face, hands, and feet.** Apparently, the concern lest they come to engage in relations while in mourning is less pressing than the concern while she is menstruating.
+
+**4.**
+*Hebrew/Aramaic:* לָא קַשְׁיָא: כָּאן — בַּאֲבֵילוּת דִּידֵיהּ, כָּאן — בַּאֲבֵילוּת דִּידַהּ.
+*Translation:* The Gemara answers: This is **not difficult. Here,** where the Sages required them to sleep apart, it is **in** a case of the husband’s **mourning; there,** where the Sages allowed her to pour his drink and perform other intimate activities, it is **in** a case of the wife’s **mourning.** The prohibition against relations when one is mourning is not perceived to be as severe as the prohibition against relations with a menstruating woman. However, when his wife is mourning, even were he unable to restrain himself, his wife would not be complicit. Therefore, the Sages did not restrict their interaction.
+
+**5.**
+*Hebrew/Aramaic:* וְהָא אָבִיו שֶׁל חָתָן אוֹ אִמָּהּ שֶׁל כַּלָּה קָתָנֵי! כִּי קָתָנֵי, אַשְּׁאָרָא.
+*Translation:* The Gemara asks: **But isn’t it taught** in that *baraita*: **The father of the groom and the mother of the bride?** This indicates that it makes no difference which of them was in mourning. **When** the *tanna* **teaches** that there is no distinction between which of them was in mourning, it was **concerning the rest** of the mourning practices cited there, not with regard to prohibiting their seclusion.
+
+**6.**
+*Hebrew/Aramaic:* וּמִי שָׁאנֵי בֵּין אֲבֵילוּת דִּידֵיהּ לַאֲבֵילוּת דִּידַהּ? וְהָתַנְיָא: מִי שֶׁמֵּת חָמִיו אוֹ חֲמוֹתוֹ — אֵינוֹ יָכוֹל לָכוֹף אֶת אִשְׁתּוֹ לִהְיוֹת כּוֹחֶלֶת וְלִהְיוֹת פּוֹקֶסֶת, אֶלָּא כּוֹפֶה מִטָּתוֹ, וְנוֹהֵג עִמָּהּ אֲבֵילוּת. וְכֵן הִיא שֶׁמֵּת חָמִיהָ אוֹ חֲמוֹתָהּ — אֵינָהּ רַשָּׁאָה לִהְיוֹת כּוֹחֶלֶת וְלִהְיוֹת פּוֹקֶסֶת, אֶלָּא כּוֹפָה מִטָּתָהּ וְנוֹהֶגֶת עִמּוֹ אֲבֵילוּת.
+*Translation:* The Gemara asks: **And do** the Sages **distinguish between his mourning and her mourning? But isn’t it taught** in a *baraita*: With regard to **one whose father-in-law or mother-in-law died, he may not compel his wife to paint** her eyes **blue or to rouge** her face. **Rather, he overturns his bed,** as was the practice among mourners, **and observes** the **mourning** period **with her. And likewise, if** a wife’s **father-in-law or mother-in-law dies, she is not allowed to paint** her eyes **blue or to rouge** her face. **Rather, she overturns her bed and observes** the **mourning** period **with him.** There is no mention in the context of his mourning that he must not be alone with his wife.
+
+**7.**
+*Hebrew/Aramaic:* תְּנִי בַּאֲבֵילוּת דִּידֵיהּ: הוּא יָשֵׁן בֵּין הָאֲנָשִׁים וְאִשְׁתּוֹ יְשֵׁנָה בֵּין הַנָּשִׁים. הָא ״וְכֵן״ קָתָנֵי! כִּי קָתָנֵי, אַכִּיחוּל וְאַפִּירְכּוּס. וְהָא ״עִמּוֹ״ קָתָנֵי, מַאי לָאו עִמּוֹ בַּמִּטָּה! לֹא, עִמּוֹ בַּבַּיִת. וּכְדַאֲמַר לֵיהּ רַב לְחִיָּיא בְּרֵיהּ: בְּאַפַּהּ נְהוֹג אֲבִילוּתָא, דְּלָא בְּאַפַּהּ לָא תִּנְהוֹג אֲבִילוּתָא.
+*Translation:* The Gemara emends the *baraita*. **Teach with regard to his mourning: He sleeps among the men and his wife sleeps among the women.** The Gemara asks: But **doesn’t** the *tanna* **teach: And likewise?** This indicates that there is no difference between the two cases. The Gemara answers: **When** the *tanna* **teaches** that there is no distinction between which of them is mourning, it is with regard to **painting and rouge.** The Gemara asks: But **doesn’t** the *tanna* **teach: With him? What,** does **it not** mean **with him** together **in bed,** and there is no concern that it will lead to sexual relations? **No,** it means **with him at home, and** it is **as that which Rav said to Ḥiyya, his son,** when his wife’s father died: **Before her, observe mourning** practices; **not before her, do not observe mourning** practices. Understood in this context, the term: With him, means in his presence.
+
+**8.**
+*Hebrew/Aramaic:* רַב אָשֵׁי אָמַר: מִי קָמְדַמֵּית אֲבִילוּתָא דְהָכָא לַאֲבִילוּתָא דְעָלְמָא? אֲבִילוּתָא דְעָלְמָא חֲמִיר, וְלָא אָתֵי לְזַלְזוֹלֵי בֵּיהּ. אֲבֵילוּת דְהָכָא, כֵּיוָן דְּאַקִּילוּ רַבָּנַן, אָתֵי לְזַלְזוֹלֵי בֵּיהּ.
+*Translation:* **Rav Ashi said** that the question was based on a mistaken premise: **Can you compare the mourning here with mourning in general? Mourning in general is stringent, and one will not come to take it lightly.** However, with regard to **mourning here,** immediately following the wedding, **since the Sages were lenient, one will come to take it lightly.**
+
+**9.**
+*Hebrew/Aramaic:* מַאי קוּלָּא? אִילֵּימָא דְּקָתָנֵי בּוֹעֵל בְּעִילַת מִצְוָה וּפוֹרֵשׁ — הָתָם מִשּׁוּם דְּלֹא חָל עָלָיו אֲבִילוּתָא, אִי לְרַבִּי אֱלִיעֶזֶר עַד שֶׁיֵּצֵא מִפֶּתַח הַבַּיִת, אִי לְרַבִּי יְהוֹשֻׁעַ עַד שֶׁיִּסָּתֵם הַגּוֹלֵל.
+*Translation:* **What leniency** did the Sages enact in this case? **If we say** it is that **which** the *tanna* **teaches:** The groom **engages in** the initial **intercourse** with the bride to fulfill the **mitzva** and then he **withdraws** from his wife, then **there,** where the corpse is placed into a room in the house, it is **due to** the fact **that mourning has not yet taken effect upon him.** Consequently, there is no leniency with regard to mourning practices. **If** it is according to the opinion of **Rabbi Eliezer,** mourning does not take effect **until the** corpse **emerges from the entrance of the house** for burial. **If** it is according to the opinion of **Rabbi Yehoshua,** mourning does not take effect **until the covering of the grave is sealed.**
+
+**10.**
+*Hebrew/Aramaic:* אֶלָּא דְּקָתָנֵי: נוֹהֵג שִׁבְעַת יְמֵי הַמִּשְׁתֶּה, וְאַחַר כָּךְ נוֹהֵג שִׁבְעַת יְמֵי אֲבֵילוּת.
+*Translation:* **Rather,** the leniency is that **which** the *tanna* **teaches:** And the groom then **observes the seven days of feast** following the wedding, **and thereafter he observes the seven days of mourning.** Since the Sages were lenient and allowed him to observe the wedding feast, despite the fact that he is a mourner, they prohibited his being alone with his wife so he would be less likely to practice additional leniencies in his mourning.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר מָר: בֵּין כָּךְ וּבֵין כָּךְ לֹא יִבְעוֹל, לֹא בָּעֶרֶב שַׁבָּת וְלֹא בְּמוֹצָאֵי שַׁבָּת. בִּשְׁלָמָא בְּעֶרֶב שַׁבָּת — מִשּׁוּם חַבּוּרָה. אֶלָּא בְּמוֹצָאֵי שַׁבָּת, אַמַּאי לָא?
+*Translation:* § **The Master said** in the *baraita*: **In any event, the** groom **may not engage in intercourse** with his virgin bride, **neither on Shabbat evening, nor** at the **conclusion of Shabbat. Granted, on Shabbat evening** he may not engage in intercourse **due to the** prohibition against inflicting **a wound** on Shabbat. **However, at the conclusion of Shabbat, why** may he **not** engage in intercourse with his virgin bride?
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַבִּי זֵירָא:
+*Translation:* **Rabbi Zeira said:**

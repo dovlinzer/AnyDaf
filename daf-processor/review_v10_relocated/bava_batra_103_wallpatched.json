@@ -1,0 +1,231 @@
+[
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Logic of Separation",
+    "candidates": [
+      "Daf 103 Opening",
+      "Perek Structure",
+      "Future Sections",
+      "Beit Kor Conversions",
+      "Se'ah & Mishkan",
+      "Mishnah Setup",
+      "Rashbam 4x4",
+      "Domain Separation",
+      "Rock Ownership Q&A",
+      "Tannaim Source",
+      "Rashbam Girsa",
+      "Logic of Separation",
+      "Rav Ukva Untillable"
+    ],
+    "result": {
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text itself (tnan hatam from Arakhin) that introduces the hekdesh parallel case, and candidate 9 ('Tannaim Source') is specifically the prose that introduces and describes this very Gemara passage \u2014 'The Gemara now adduces a parallel case from an entirely different domain \u2014 the laws of hekdesh' \u2014 whereas candidate 11 ('Logic of Separation') describes the Gemara's subsequent challenge and analysis that follows this quoted text.",
+      "chosen_heading": "Tannaim Source",
+      "current_heading": "Logic of Separation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Rav Ukva Untillable",
+    "candidates": [
+      "Rav Ukva Untillable",
+      "Bumps in Field",
+      "Buyer Expectations",
+      "Permafrost Discussion",
+      "Rav Papa Flat Land"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Rav Ukva bar \u1e24ama's resolution involving water-filled crevices being untillable, the linguistic support from rocks, and the follow-up question about smaller crevices with the answer about 'cracks of the earth' \u2014 all of which are explicitly covered in candidate 0's prose and nowhere else.",
+      "chosen_heading": "Rav Ukva Untillable",
+      "current_heading": "Rav Ukva Untillable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Rav Papa Flat Land",
+    "candidates": [
+      "Bumps in Field",
+      "Buyer Expectations",
+      "Permafrost Discussion",
+      "Rav Papa Flat Land",
+      "Rav Yitzchak 4 Kav",
+      "Math of 4 Kav",
+      "Concentration Rule"
+    ],
+    "result": {
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Papa's ruling that crevices are excluded from a sale even when not filled with water, along with his reasoning about buyer expectations of a single contiguous plot, followed by Ravina's objection and its resolution \u2014 precisely the content described in the 'Rav Papa Flat Land' section's prose.",
+      "chosen_heading": "Rav Papa Flat Land",
+      "current_heading": "Rav Papa Flat Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Concentration Rule",
+    "candidates": [
+      "Rav Yitzchak 4 Kav",
+      "Math of 4 Kav",
+      "Concentration Rule",
+      "Majority Distribution",
+      "Density Question"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions together (Rabbi Yitzchak's 4-kav rule, Rav Ukva's 5-kav concentration rule, and Rabbi Yochanan's majority distribution rule), making it the source text for all three sections, but it most naturally belongs under 'Rav Yitzchak 4 Kav' which is the first section introducing these rules \u2014 the current placement under 'Concentration Rule' only covers Rav Ukva's portion, while the full passage introduces Rabbi Yitzchak's ruling first and should be anchored there.",
+      "chosen_heading": "Rav Yitzchak 4 Kav",
+      "current_heading": "Concentration Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Density Question",
+    "candidates": [
+      "Majority Distribution",
+      "Density Question",
+      "Shape Scenarios"
+    ],
+    "result": {
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24iyya bar Abba's unresolved dilemma about majority rocks in the smaller part of the field versus minority rocks in the larger part \u2014 exactly the density/distribution paradox described in the 'Density Question' prose, which is where it currently sits and which precisely describes this teiku scenario.",
+      "chosen_heading": "Density Question",
+      "current_heading": "Density Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Shape Scenarios",
+    "candidates": [
+      "Shape Scenarios",
+      "Edge & Solo Rocks"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Shape Scenarios' directly discusses Rabbi Yirmiah's geometric configuration questions (circle, straight line, angled, zigzag) and the Gemara's teiku response, which is precisely the content of this passage.",
+      "chosen_heading": "Shape Scenarios",
+      "current_heading": "Shape Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Edge & Solo Rocks",
+    "candidates": [
+      "Edge & Solo Rocks",
+      "Rashbam Edge",
+      "Tosafot Named Rock",
+      "Dirt Gap Question",
+      "Subterranean Shape"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the two rules about solitary rocks and boundary-adjacent rocks not being measured with the field, which is exactly what the 'Edge & Solo Rocks' prose describes, making the current placement correct.",
+      "chosen_heading": "Edge & Solo Rocks",
+      "current_heading": "Edge & Solo Rocks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Subterranean Shape",
+    "candidates": [
+      "Rashbam Edge",
+      "Tosafot Named Rock",
+      "Dirt Gap Question",
+      "Subterranean Shape",
+      "Precision Promise",
+      "Deficit & Overage",
+      "Approximate Sale",
+      "7.5 Kav Tolerance",
+      "Return Remedy"
+    ],
+    "result": {
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Pappa's dilemma about earth intervening between rock and boundary AND Rav Ashi's dilemma about layered earth/rock configurations, meaning it covers both the 'Dirt Gap Question' (candidate 2) and 'Subterranean Shape' (candidate 3) content \u2014 but since candidate 2's prose explicitly describes Rav Pappa's question which opens this passage, and the current placement under candidate 3 only covers Rav Ashi's portion, the passage should be placed under candidate 2 where it begins, with Rav Ashi's question naturally following as part of the same Talmudic unit.",
+      "chosen_heading": "Dirt Gap Question",
+      "current_heading": "Subterranean Shape",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Return Remedy",
+    "candidates": [
+      "Precision Promise",
+      "Deficit & Overage",
+      "Approximate Sale",
+      "7.5 Kav Tolerance",
+      "Return Remedy",
+      "Money Default",
+      "9 Kav Threshold",
+      "Usable Minimums",
+      "Total Return"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna's content \u2014 introducing the 'beit kor ani mocher lecha mida bechevel' formula and its consequences \u2014 directly matches the 'Precision Promise' section's prose, which explicitly discusses this exact formula and its meaning as a commitment to precision measurement.",
+      "chosen_heading": "Precision Promise",
+      "current_heading": "Return Remedy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Total Return",
+    "candidates": [
+      "Money Default",
+      "9 Kav Threshold",
+      "Usable Minimums",
+      "Total Return"
+    ],
+    "result": {
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's central content is about the default return being money and the rationale 'liyafot kocho shel mocher' (to enhance the seller's power), which directly matches the 'Money Default' section's prose about monetary restitution as the default and the same rationale \u2014 the current placement under 'Total Return' only matches the final clause of the passage, while the bulk of the passage belongs under 'Money Default'.",
+      "chosen_heading": "Money Default",
+      "current_heading": "Total Return",
+      "moved": true
+    }
+  }
+]

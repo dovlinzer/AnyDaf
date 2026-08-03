@@ -43,3 +43,56 @@
 **11.**
 *Hebrew/Aramaic:* וְאָמַר שְׁמוּאֵל: אֵין לְךָ תְּקוּפַת נִיסָן שֶׁנּוֹפֶלֶת בְּצֶדֶק, שֶׁאֵינָהּ מְשַׁבֶּרֶת אֶת הָאִילָנוֹת. וְאֵין לְךָ תְּקוּפַת טֵבֵת שֶׁנּוֹפֶלֶת בְּצֶדֶק, שֶׁאֵינָהּ מְיַיבֶּשֶׁת אֶת הַזְּרָעִים. וְהוּא, דְּאִיתְיְלִיד לְבָנָה אוֹ בִּלְבָנָה אוֹ בְּצֶדֶק.
 *Translation:* **And Shmuel said: There is no** instance when the **vernal equinox occurs in** the planetary hour of **Jupiter** and **it does not break the trees** with its strong winds; **and there is no** instance when **the winter solstice occurs in** the planetary hour of **Jupiter** and **it does not dry up the seeds. And this** applies only **where the new moon appeared either at** the hour of the **Moon or at** the hour of **Jupiter.**
+
+
+---
+
+### Eruvin 56b
+
+**1.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: הַמְרַבֵּעַ אֶת הָעִיר, עוֹשֶׂה אוֹתָהּ כְּמִין טַבְלָא מְרוּבַּעַת. וְחוֹזֵר וּמְרַבֵּעַ אֶת הַתְּחוּמִין, וְעוֹשֶׂה אוֹתָן כְּמִין טַבְלָא מְרוּבַּעַת.
+*Translation:* **The Sages taught: One who squares a city** in order to determine its Shabbat limit **renders it like a square tablet, and then** he also **squares the** Shabbat **boundaries and renders them like a square tablet.** Consequently, after squaring the city, he adds additional squares of two thousand cubits to each of its sides.
+
+**2.**
+*Hebrew/Aramaic:* וּכְשֶׁהוּא מוֹדֵד, לֹא יִמְדּוֹד מֵאֶמְצַע הַקֶּרֶן אַלְפַּיִם אַמָּה מִפְּנֵי שֶׁהוּא מַפְסִיד אֶת הַזָּוִיּוֹת. אֶלָּא מֵבִיא טַבְלָא מְרוּבַּעַת שֶׁהִיא אַלְפַּיִם אַמָּה עַל אַלְפַּיִם אַמָּה, וּמַנִּיחָהּ בְּקֶרֶן בַּאֲלַכְסוֹנָהּ.
+*Translation:* **And when he measures** the Shabbat limit, **he should not measure** the **two thousand cubits** diagonally **from the middle of** each **corner** of the city, **because** if he were to do so, **he would lose the corners,** i.e., the limit would extend only two thousand cubits on the diagonal from each of the corners. **Rather,** he measures the boundary as though **he brought a square tablet that is two thousand cubits by two thousand cubits, and places it at** each **corner at its diagonal.**
+
+**3.**
+*Hebrew/Aramaic:* נִמְצֵאתָ הָעִיר מִשְׂתַּכֶּרֶת אַרְבַּע מֵאוֹת אַמּוֹת לְכָאן וְאַרְבַּע מֵאוֹת אַמּוֹת לְכָאן. נִמְצְאוּ תְּחוּמִין מִשְׂתַּכְּרִין שְׁמוֹנֶה מֵאוֹת אַמּוֹת לְכָאן וּשְׁמוֹנֶה מֵאוֹת לְכָאן. נִמְצְאוּ הָעִיר וּתְחוּמִין מִשְׂתַּכְּרִין אֶלֶף וּמָאתַיִם לְכָאן וְאֶלֶף וּמָאתַיִם לְכָאן.
+*Translation:* As a result, **it will be found** that **the city gains four hundred cubits in this** corner **and** another **four hundred cubits in the** opposite corner. Assuming that the city itself is round and has a diameter of two thousand cubits, as will be explained below, when the borders of the city are squared, approximately four hundred cubits are added to the city at each corner. When one then squares the Shabbat boundaries, **it is found** that the Shabbat **boundaries gain eight hundred cubits in this** corner **and eight hundred cubits in the** opposite corner. Consequently, by squaring both the city itself and its Shabbat boundaries, **it is found** that **the city and the** Shabbat **boundaries** together **gain 1,200** cubits **in this** corner **and 1,200** cubits **in the** opposite corner.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: וּמַשְׁכַּחַתְּ לַהּ בְּמָתָא דְּהָוְיָא תְּרֵי אַלְפֵי אַתְּרֵי אַלְפֵי.
+*Translation:* **Abaye said: And you find this** projection of the additions to the city’s borders and Shabbat boundaries to be correct **in** the case of a round **city that is two thousand** cubits **by two thousand** cubits.
+
+**5.**
+*Hebrew/Aramaic:* תַּנְיָא, אָמַר רַבִּי אֱלִיעֶזֶר בְּרַבִּי יוֹסֵי: תְּחוּם עָרֵי לְוִיִּם אַלְפַּיִם אַמָּה. צֵא מֵהֶן אֶלֶף אַמָּה מִגְרָשׁ — נִמְצָא מִגְרָשׁ רְבִיעַ, וְהַשְּׁאָר שָׂדוֹת וּכְרָמִים.
+*Translation:* The Gemara cites a similar discussion with regard to the Levite cities, the forty-eight cities given to the Levites in Eretz Yisrael instead of a tribal inheritance. **It was taught** in a *baraita* that **Rabbi Eliezer, son of Rabbi Yosei, said: The boundary of the cities of the Levites** extends **two thousand cubits** in each direction beyond the inhabited section of the city. **Remove from them a thousand cubits of open space** just beyond the inhabited area, which must be left vacant. **Consequently, the open space is one quarter** of the extended area, **and the rest is fields and vineyards.**
+
+**6.**
+*Hebrew/Aramaic:* מְנָא הָנֵי מִילֵּי? אָמַר רָבָא: דְּאָמַר קְרָא: ״מִקִּיר הָעִיר וָחוּצָה אֶלֶף אַמָּה סָבִיב״, אָמְרָה תּוֹרָה: סַבֵּב אֶת הָעִיר בְּאֶלֶף, נִמְצָא מִגְרָשׁ רְבִיעַ.
+*Translation:* The Gemara asks: **From where are these matters?** From where is it derived that the open space surrounding the cities of the Levites measured a thousand cubits? **Rava said: As the verse states:** “And the open spaces of the cities, that you shall give to the Levites, **shall be from the wall of the city and outward a thousand cubits round about”** (Numbers 35:4). **The Torah states: Surround the city with a thousand** cubits on all sides to serve as an open space. **Consequently, the open space is one quarter** of the area.
+
+**7.**
+*Hebrew/Aramaic:* רְבִיעַ?! פַּלְגָא הָוֵי! אָמַר רָבָא: בַּר אַדָּא מָשׁוֹחָאָה אַסְבְּרַהּ לִי — מַשְׁכַּחַתְּ לַהּ בְּמָתָא דְּהָוְיָא תְּרֵי אַלְפֵי אַתְּרֵי אַלְפֵי. תְּחוּם כַּמָּה הָוְיָא? שִׁיתְּסַר. קְרָנוֹת כַּמָּה הָוְיָין? שִׁיתְּסַר. דַּל תְּמָנְיָא דִתְחוּמִין וְאַרְבְּעָה דִקְרָנוֹת, כַּמָּה הָוֵי? תְּרֵיסַר.
+*Translation:* The Gemara asks: Is it **one quarter? It is one half.** One thousand cubits is exactly half of the two thousand cubits incorporated into the boundary of the cities of the Levites. **Rava said: Bar Adda the surveyor explained** the calculation **to me: You will find** this **in a city that is two thousand** cubits **by two thousand** cubits. **How many** cubits is the extended **boundary** of the city itself, without the corners? **Sixteen** million square cubits. Squares measuring two thousand by two thousand cubits are appended to each of the four sides of the city. The area of each of these squares is four million square cubits, and the total area of all the additional squares is sixteen million square cubits. **How many** cubits **are the corners? Sixteen** million square cubits, as additional squares of two thousand by two thousand cubits are appended to the corners of the outer boundaries of the cities. **Subtract eight** million square cubits **from the** area of the extended **boundary** for the open space around the city; the first thousand cubits beyond the inhabited part of the city must be left as open space, which amounts to areas measuring one thousand by two thousand cubits on each of the four sides of the city, for a total of eight million square cubits. **And** subtract another **four** million square cubits **from the corners,** as sections of the corners are parallel to the open spaces. **How much is** the sum total of the area of the open spaces? **Twelve** million square cubits.
+
+**8.**
+*Hebrew/Aramaic:* נִמְצָא מִגְרָשׁ רְבִיעַ? טְפֵי מִתִּלְתָּא נִינְהוּ!
+*Translation:* The Gemara asks: According to this calculation, how is **the open space found** to be **one quarter** of the area? **It is more than one-third.** The entire area of the extended boundary is thirty-two million square cubits and the open space occupies twelve million square cubits, which is more than one-third of the total area of the extended boundary.
+
+**9.**
+*Hebrew/Aramaic:* אַיְיתִי אַרְבְּעָה דְמָתָא, שְׁדִי עֲלַיְיהוּ. אַכַּתִּי תִּילְתָּא הָוֵי!
+*Translation:* The Gemara explains: **Bring the four** million square cubits **of the city** itself and **add them** to the area of the limit, and you will arrive at the correct ratio. The Gemara asks: The opens space **is still one-third,** as the total area of the city and its extended boundary is thirty-six million square cubits, and the area of the open space is twelve million square cubits.
+
+**10.**
+*Hebrew/Aramaic:* מִי סָבְרַתְּ בְּרִיבּוּעָא קָאָמַר? בְּעִיגּוּלָא קָאָמַר.
+*Translation:* The Gemara answers: **Do you think** that this *halakha* **was stated** with regard **to a square** city? **It was** in fact **stated** with regard **to a round** city. The open space beyond the city is also round; however, the total extended boundary is squared, so that the total area of a round city with a diameter of two thousand cubits and its extended boundary is thirty-six million square cubits.
+
+**11.**
+*Hebrew/Aramaic:* כַּמָּה מְרוּבָּע יָתֵר עַל הֶעָגוֹל? רְבִיעַ, דַּל רְבִיעַ מִינַּיְיהוּ — פָּשׁוּ לְהוּ תִּשְׁעָה. וְתִשְׁעָה מִתְּלָתִין וְשִׁיתָּא, רִיבְעָא הָוֵי.
+*Translation:* The Gemara explains the calculation: **How much larger is** the area of **a square than** the area of **the circle? One quarter. Subtract one quarter from** the twelve million square cubits of open space, and **nine** million square cubits **are left; and nine is** precisely **one quarter of thirty-six.**
+
+**12.**
+*Hebrew/Aramaic:* אַבָּיֵי אָמַר: מַשְׁכַּחַתְּ לַהּ נָמֵי בְּמָתָא דְּהָוְיָא אַלְפָא בְּאַלְפָא. תְּחוּמִין כַּמָּה הָווּ? תְּמָנְיָא. קְרָנוֹת כַּמָּה הָוֵי? שִׁיתְּסַר.
+*Translation:* **Abaye said: You will also find** that the open space is one quarter of the total area **in a city that is a thousand** cubits **by a thousand** cubits. **How many** cubits **is the** extended **boundary** of the city without the corners? It is **eight** million square cubits. Additional areas are appended along each side of the city and extending two thousand cubits beyond the city itself. Each of these areas is two thousand cubits by one thousand cubits, for a total area of two million square cubits. Since there are four of these zones, their total area is eight million square cubits. **How many** cubits **are the corners?** They are **sixteen** million square cubits, as squares of two thousand cubits by two thousand cubits are added to each of the four corners.

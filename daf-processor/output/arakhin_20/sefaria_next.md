@@ -59,3 +59,76 @@
 **15.**
 *Hebrew/Aramaic:* מֵיתִיבִי: ״חַטָּאתוֹ וַאֲשָׁמוֹ שֶׁל פְּלוֹנִי עָלַי״
 *Translation:* The Gemara **raises an objection** from a *baraita*: With regard to one who says: It is incumbent **upon me** to bring **the sin offering or the guilt offering of so-and-so,**
+
+
+---
+
+### Arakhin 21b
+
+**1.**
+*Hebrew/Aramaic:* לְדַעַת — יָצָא, שֶׁלֹּא לְדַעַת — לֹא יָצָא.
+*Translation:* if he does so **with** the **consent** of the one obligated to bring the offering **he has fulfilled** his obligation, but if he does so **without** the **consent** of the one obligated to bring the offering **he has not fulfilled** his obligation.
+
+**2.**
+*Hebrew/Aramaic:* ״עוֹלָתוֹ וּשְׁלָמָיו שֶׁל פְּלוֹנִי עָלַי״, בֵּין לְדַעַת בֵּין שֶׁלֹּא לְדַעַת — יָצָא.
+*Translation:* With regard to one who says: It is incumbent **upon me** to bring **the burnt offering or the peace offering of so-and-so, whether** he does so **with** the latter’s **consent** or **without** his **consent,** the one obligated to bring the offering **has fulfilled** his obligation. This apparently contradicts the statement of Shmuel, who said the bringing of a burnt offering requires the consent of the one obligated to bring the offering.
+
+**3.**
+*Hebrew/Aramaic:* אָמַר לְךָ שְׁמוּאֵל: כִּי תַּנְיָא הָהִיא בִּשְׁעַת כַּפָּרָה, דְּאִירַצִּי בִּשְׁעַת הַפְרָשָׁה, כִּי קָאָמֵינָא אֲנָא בִּשְׁעַת הַפְרָשָׁה.
+*Translation:* **Shmuel** could have **said to you: When that** *baraita* **is taught,** and states that one fulfills his obligation for his burnt offering without his consent, it is referring **to the time of atonement,** i.e., the sacrifice. At that stage, his consent is not necessary, **as he** already **consented at the time of separating** the animal as an offering. **When I said** the consent of the one receiving atonement is required, I was speaking **of the time of separating** the animal as an offering.
+
+**4.**
+*Hebrew/Aramaic:* וּפְלִיגָא דְּעוּלָּא, דְּאָמַר עוּלָּא: לֹא חִילְּקוּ בֵּין חַטָּאת לְעוֹלָה, אֶלָּא שֶׁחַטָּאת צְרִיכָה דַּעַת בִּשְׁעַת הַפְרָשָׁה, וְעוֹלָה אֵין צְרִיכָה דַּעַת בִּשְׁעַת הַפְרָשָׁה, אֲבָל בִּשְׁעַת כַּפָּרָה — אִידֵּי וְאִידֵּי לְדַעַת — יָצָא, שֶׁלֹּא לְדַעַת — לֹא יָצָא.
+*Translation:* **And** Shmuel **disagrees with** the opinion of **Ulla, as Ulla says:** The Sages **distinguish between** the consent required for **a sin offering** or a guilt offering **and** the consent required for **a burnt offering** or a peace offering **only** in **that a sin offering** and a guilt offering **require** the **consent** of the one obligated to bring the offering **at the time** the other person **separates** the animal for an offering on his behalf, **and a burnt offering** and a peace offering **do not require** his **consent at the time of separating** the animal. **But** with regard to both **this** pair of offerings **and that** pair of offerings **at the time of atonement,** the requisite consent is the same for all offerings: If the offering was sacrificed **with** his **consent he has fulfilled** his obligation; if it was **not** sacrificed **with** his **consent he has not fulfilled** his obligation.
+
+**5.**
+*Hebrew/Aramaic:* מֵיתִיבִי: חַטָּאתוֹ וַאֲשָׁמוֹ עוֹלָתוֹ וּשְׁלָמָיו שֶׁל פְּלוֹנִי עָלַי, לְדַעַת — יָצָא, שֶׁלֹּא לְדַעַת — לֹא יָצָא!
+*Translation:* The Gemara **raises an objection** to the opinions of both Shmuel and Ulla from a *baraita*: One who says: It is incumbent **upon me** to bring **the sin offering or the guilt offering** or **the burnt offering or the peace offering of so-and-so,** if he does this **with** the **consent** of the one who is obligated to bring the offering, then that individual **has fulfilled** his obligation. If he does so **without** the **consent** of the one who is obligated to bring the offering, that person **has not fulfilled** his obligation. This *baraita* is difficult for the opinion of Shmuel, who holds that one who brings a burnt offering on behalf of another does not require consent at the time of atonement, and it is also difficult according to the opinion of Ulla, who maintains that one who brings a burnt offering on behalf of another does not need consent when the animal is set aside as an offering.
+
+**6.**
+*Hebrew/Aramaic:* שְׁמוּאֵל מוֹקֵי לַהּ בִּשְׁעַת הַפְרָשָׁה, עוּלָּא מוֹקֵי לַהּ בִּשְׁעַת כַּפָּרָה. אָמַר רַב פָּפָּא: מַתְנְיָיתָא אַהֲדָדֵי לָא קַשְׁיָין, הָא בִּשְׁעַת כַּפָּרָה, הָא בִּשְׁעַת הַפְרָשָׁה.
+*Translation:* The Gemara answers: **Shmuel establishes** the *baraita*, which requires consent, as referring **to the time of separating** the animal, and **Ulla establishes** the *baraita* as dealing **with** the required consent at **the time of atonement. Rav Pappa says,** in summary: **The *baraitot* are not difficult,** as they do not contradict **each other. This** one is referring to consent at **the time of atonement,** and **that** one is referring to consent at **the time of separating** the animal.
+
+**7.**
+*Hebrew/Aramaic:* (וְאָמוֹרָאֵי) [לְאָמוֹרָאֵי] נָמֵי לָא קַשְׁיָא: שְׁמוּאֵל מוֹקֵי קַמַּיְיתָא בִּשְׁעַת כַּפָּרָה, בָּתְרָיְיתָא בִּשְׁעַת הַפְרָשָׁה, עוּלָּא מוֹקֵי אִיפְּכָא. אָמוֹרָאֵי וַדַּאי פְּלִיגִי. פְּשִׁיטָא!
+*Translation:* **And** Rav Pappa adds that the *baraitot* **also** are **not difficult** for the opinions of **the *amora’im*. Shmuel establishes the first** *baraita*, which does not require consent for a burnt offering and a peace offering, as referring **to the time of atonement,** and **the last** *baraita*, which requires consent for those offerings, as speaking **of the time of separating** the animal. **Ulla establishes** the *baraitot* in the **reverse** manner: The first *baraita*, which does not require consent for a burnt offering and a peace offering, is dealing with the time of separating the animal, whereas the second *baraita* is referring to the time of atonement. But **the *amora’im*** themselves, Shmuel and Ulla, **certainly disagree** with each other. The Gemara asks: Isn’t this summary of the opinions of Shmuel and Ulla **obvious?**
+
+**8.**
+*Hebrew/Aramaic:* מַהוּ דְּתֵימָא: מַאי ״בִּשְׁעַת הַפְרָשָׁה״ דְּקָאָמַר שְׁמוּאֵל? אַף בִּשְׁעַת הַפְרָשָׁה, וְאַף עַל גַּב דְּהָךְ קַמַּיְיתָא תְּיוּבְתֵּיהּ, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara answers: Rav Pappa’s summary is necessary, **lest you say: What** is the meaning of **that** which **Shmuel says,** that the consent of the one obligated to bring the offering is required at **the time of separating** the animal? Shmuel means that consent is required not only at the stage of atonement but **even at the time of separating** the animal. **And even though** according to this interpretation **the first** *baraita*, which says that consent is not required for a burnt offering and for a peace offering, would be **a refutation** of the opinion of Shmuel, that difficulty would not deter him from holding such an opinion. Therefore, Rav Pappa **teaches us** that the *baraitot* do not contradict the opinions of Shmuel and Ulla, which indicates that Shmuel holds that consent is required only when the animal is separated, but not at the time of atonement.
+
+**9.**
+*Hebrew/Aramaic:* וְכֵן בְּגִיטֵּי נָשִׁים כּוֹפִין וְכוּ׳. אָמַר רַב שֵׁשֶׁת: הַאי מַאן דְּמָסַר מוֹדָעָא אַגִּיטָּא — מוֹדָעֵיהּ מוֹדָעָא. פְּשִׁיטָא?
+*Translation:* § The mishna teaches: **And likewise, you say** the same **with regard to women’s bills of divorce.** Although one can divorce his wife only of his own volition, in any case where the Sages obligated a husband to divorce his wife, the court **coerces** him until he says: I want to do so. **Rav Sheshet says:** Concerning **one who delivered a declaration** preemptively invalidating **a bill of divorce** by announcing before giving the bill of divorce that he is not doing so of his own free will, **his declaration is** a valid **declaration** that cancels the bill of divorce. The Gemara asks: Isn’t that **obvious?**
+
+**10.**
+*Hebrew/Aramaic:* לָא צְרִיכָא, דְּעַשְּׂאוּהּ וְאִירַצִּי, מַהוּ דְּתֵימָא: בַּטּוֹלֵי בַּטְּלֵיהּ, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara answers: **No,** the statement of Rav Sheshet is **necessary** in a case **where they coerced him** to give a bill of divorce and he declared that he was not giving it of his own free will, **but** later **he agreed** to give the bill of divorce of his own volition without explicitly retracting his original declaration that he was coerced. **Lest you say:** Merely by giving the bill of divorce **he has canceled** his earlier declaration that he was coerced, Rav Sheshet therefore **teaches us** that his original declaration that he was coerced is still in effect and the bill of divorce is canceled.
+
+**11.**
+*Hebrew/Aramaic:* דְּאִם כֵּן, לִיתְנֵי: עַד שֶׁיִּתֵּן! מַאי עַד שֶׁיֹּאמַר? עַד דִּמְבַטֵּל לֵיהּ לְמוֹדָעֵיהּ.
+*Translation:* The Gemara explains how Rav Sheshet derives his conclusion from the mishna. The reason is **that if it were so,** i.e., if his original declaration is canceled even without an explicit retraction, **let** the mishna **teach:** The court coerces him **until he gives** the bill of divorce of his own volition. **What** is the significance of the clause: The court coerces him **until he says:** I want to do so? This indicates that the court coerces him **until he** explicitly **cancels his** original **declaration.**
+
+**12.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ הָאוֹמֵר מִשְׁקָלִי.
+*Translation:* 
+
+**13.**
+*Hebrew/Aramaic:* מַתְנִי׳ שׁוּם הַיְּתוֹמִים — שְׁלֹשִׁים יוֹם, וְשׁוּם הַהֶקְדֵּשׁ — שִׁשִּׁים יוֹם, וּמַכְרִיזִין בַּבֹּקֶר וּבָעֶרֶב.
+*Translation:* MISHNA: One proclaims, i.e., publicly announces, **the appraisal of the** property inherited by minor **orphans,** which is being sold to repay their father’s debt, for **thirty days,** in order to receive the maximal price. **And** one proclaims **the appraisal of consecrated** property that is being sold by the Temple treasury for **sixty days, and one proclaims** it **in the morning and in the evening.**
+
+**14.**
+*Hebrew/Aramaic:* גְּמָ׳ מַאי שְׁנָא בַּבֹּקֶר וּבָעֶרֶב? אָמַר רַב יְהוּדָה אָמַר רַב: בִּשְׁעַת הוֹצָאַת פּוֹעֲלִים וּבִשְׁעַת הַכְנָסַת פּוֹעֲלִים. בִּשְׁעַת הוֹצָאַת פּוֹעֲלִים — דְּאִיכָּא דְּנִיחָא לְמִיזְבַּן, אֲמַר לְהוּ לְפוֹעֲלִים: אֵיזִילוּ סַיְּירוּ לַהּ נִיהֲלַי. בִּשְׁעַת הַכְנָסַת פּוֹעֲלִים — דְּנִידְּכַר דְּאָמַר לְהוּ: נֵיזִיל נִישַׁיְּילִינְהוּ.
+*Translation:* GEMARA: The Gemara asks: **What is different** about those times that one proclaims the appraisal of the property specifically **in the morning and in the evening? Rav Yehuda says** that **Rav says:** One proclaims **during the time** that **workers leave** to work in the fields **and during the time** that **workers enter** the city after completing their workday. Rav Yehuda elaborates: One proclaims **during the time** that **workers leave** to work in the fields, so **that** if **there is** a person **who is amenable to purchasing** the property, he may **say to** the **workers: Go** and **examine** the property **for me.** And one proclaims **during the time** that **workers enter** the city so **that** that individual **will be reminded that he said to** the workers that they should inspect the property, and he will **go** and **ask them** for their opinion of it.
+
+**15.**
+*Hebrew/Aramaic:* תַּנְיָא נָמֵי הָכִי: שׁוּם הַיְּתוֹמִים שְׁלֹשִׁים יוֹם, וְשׁוּם הַהֶקְדֵּשׁ שִׁשִּׁים יוֹם, וּמַכְרִיזִין בַּבֹּקֶר וּבְעָרֵב, בִּשְׁעַת הוֹצָאַת פּוֹעֲלִים וּבִשְׁעַת הַכְנָסַת פּוֹעֲלִים.
+*Translation:* The Gemara notes: **That** explanation **is also taught** in a *baraita*: One proclaims **the appraisal of the** property inherited by minor **orphans** for **thirty days, and** one proclaims **the appraisal of consecrated** property for **sixty days. And one proclaims** it **in the morning and in the evening, during the time** that **workers leave** to work in the fields **and during the time** that **workers enter** the city after completing their workday.
+
+**16.**
+*Hebrew/Aramaic:* אוֹמֵר: שְׂדֵה פְלוֹנִי בְּסִימָנֶיהָ וּבִמְצָרֶיהָ, כָּךְ הִיא יָפָה, וְכָךְ הִיא שׁוּמָא, כׇּל הָרוֹצֶה לִיקַּח יָבֹא וְיִקַּח, עַל מְנָת לִיתֵּן לְאִשָּׁה בִּכְתוּבָּתָהּ, וּלְבַעַל חוֹב בְּחוֹבוֹ.
+*Translation:* The *baraita* adds that the one who proclaims **states:** The **field** of **so-and-so** that is identifiable **by its markers and by its borders, such is its quality,** i.e., it produces such-and-such quantities of grain annually, **and such is** its **appraisal; anyone who wishes to purchase** the field let **him come and purchase** it. He adds that the field is being sold **in order to give** the proceeds **to a wife** as payment **of her marriage contract, or** in order **to** give **a creditor** payment **of** a deceased man’s **debt.**
+
+**17.**
+*Hebrew/Aramaic:* לְמָה לִי לְמֵימַר ״עַל מְנָת לִיתֵּן לְאִשָּׁה כְּתוּבָּתָהּ וּלְבַעַל חוֹב חוֹבוֹ״? דְּאִיכָּא דְּנִיחָא לֵיהּ בְּבַעַל חוֹב, דְּמֵיקֵל בְּזוּזֵי, וְאִיכָּא דְּנִיחָא לֵיהּ בְּאִשָּׁה, דְּשָׁקְלָה עַל יָד עַל יָד.
+*Translation:* The Gemara asks: **Why do I** need the one making the proclamation **to say** that the field is being sold **in order to give** the proceeds **to a wife** as payment of **her marriage contract or** in order **to** give **a creditor** payment of **his debt?** The Gemara responds: This declaration is necessary **as there are** individuals **for whom** it is **preferable** to do business **with a creditor, as he is lenient with dinars** and will accept even damaged coins, **and there are** others **for whom** it is **preferable** to deal **with a wife, as she takes** her money **bit by bit,** i.e., in incremental payments.

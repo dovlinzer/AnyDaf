@@ -1,0 +1,21 @@
+### Bava Batra 33a
+
+**1.**
+*Hebrew/Aramaic:* זוּזִי אַחֲרִינֵי גַּבֵּיהּ, וַאֲכַלְתַּהּ שְׁנֵי מַשְׁכַּנְתָּא.
+*Translation:* **other money with him,** i.e., he owed me money for a different reason, for which I had no collateral, **and I profited from** the land **for** the duration of the **years of** the **collateral.**
+
+**2.**
+*Hebrew/Aramaic:* אָמֵינָא: אִי מַהְדַּרְנָא לַהּ אַרְעָא לְיַתְמֵי, וְאָמֵינָא דְּאִית לִי זוּזִי אַחֲרִינֵי גַּבֵּי דַּאֲבוּכוֹן – אֲמוּר רַבָּנַן: הַבָּא לִיפָּרַע מִנִּכְסֵי יְתוֹמִים – לֹא יִפָּרַע אֶלָּא בִּשְׁבוּעָה. אֶלָּא אֶכְבְּשֵׁיהּ לִשְׁטַר מַשְׁכַּנְתָּא, וְאוֹכְלַהּ שִׁיעוּר זוּזֵי, דְּמִיגּוֹ דְּאִי בָּעֵינָא אָמֵינָא לְקוּחָה הִיא בְּיָדִי – מְהֵימַנָּא, כִּי אָמֵינָא דְּאִית לִי זוּזִי גַּבַּיְיכוּ – מְהֵימַנְנָא.
+*Translation:* **I** then **said** to myself: **If I return the land to the orphans** now that the years of collateral have finished, **and I say that I have other money with your** late **father,** I will not be able to collect it, as **the Sages say** that **one who comes to collect** a debt **from** the **property of orphans can collect only by** means of **an oath,** and I do not wish to take an oath. **Rather** than do that, **I will suppress** the **document** detailing the terms **of the collateral, and profit from** the land up to the **measure** of the **money** that their father owed me. This is legitimate, **since if I** so **desire I can say: It is purchased,** and that is why it is **in my possession,** and **I** would have been **deemed credible,** as I profited from the land for the years necessary to establish the presumption of ownership, so **when I say that I have money with you, I** am also **deemed credible.**
+
+**3.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: ״לְקוּחָה בְּיָדִי״ לָא מָצֵית אָמְרַתְּ – דְּהָא אִיכָּא עֲלַהּ קָלָא דְּאַרְעָא דְיַתְמֵי הִיא. אֶלָּא זִיל אַהְדְּרַהּ נִיהֲלַיְיהוּ, וְכִי גָּדְלִי יַתְמֵי – אִשְׁתַּעִי דִּינָא בַּהֲדַיְיהוּ.
+*Translation:* Abaye **said to** Rava bar Sharshom: Your reasoning is incorrect. You would **not have been able to say: It is purchased,** and that is why it is **in my possession, as** there **is publicity concerning it that** it **is land of orphans.** Therefore, you are unable to collect your debt based on the fact that you could have made a more advantageous claim [*miggo*]. **Rather, return** the land **to** the orphans now, **and when the orphans become adults,** then **litigate with them,** as you have no other option.
+
+**4.**
+*Hebrew/Aramaic:* קְרִיבֵיהּ דְּרַב אִידִי בַּר אָבִין שְׁכֵיב, וּשְׁבַק דִּיקְלָא. רַב אִידִי בַּר אָבִין אָמַר: אֲנָא קָרִיבְנָא טְפֵי; וְהָהוּא גַּבְרָא אֲמַר: אֲנָא קָרִיבְנָא טְפֵי. לְסוֹף אוֹדִי לֵיהּ דְּאִיהוּ קָרִיב טְפֵי, אוֹקְמַהּ רַב חִסְדָּא בִּידֵיהּ.
+*Translation:* The Gemara relates: **A relative of Rav Idi bar Avin died and left a date tree** as an inheritance. Another relative took possession of the tree, claiming to be a closer relative than Rav Idi bar Avin. **Rav Idi bar Avin said: I am closer** in relation to the deceased than he, **and that man said: I am closer** in relation to the deceased than Rav Idi bar Avin. **Ultimately,** the other man **admitted to** Rav Idi bar Avin **that,** in fact, Rav Idi was **closer** in relation to the deceased. **Rav Ḥisda established** the date tree **in the possession of** Rav Idi bar Avin.
+
+**5.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: לַיהְדַּר לִי פֵּירֵי דַּאֲכַל מֵהָהוּא יוֹמָא עַד הַשְׁתָּא! אָמַר: זֶה הוּא שֶׁאוֹמְרִים עָלָיו אָדָם גָּדוֹל הוּא? אַמַּאן קָא סְמִיךְ מָר – אַהַאי; הָא קָאָמַר דַּאֲנָא מְקָרַבְנָא טְפֵי! אַבָּיֵי וְרָבָא לָא סְבִירָא לְהוּ הָא דְּרַב חִסְדָּא,
+*Translation:* Rav Idi bar Avin **said to** Rav Ḥisda: The value of the **produce that he consumed** unlawfully **from that day** when he took possession of the tree **until now should be returned to me.** Rav Ḥisda **said:** Is **this he about** whom people **say: He is a great man? On whom is the Master basing** his claim to receive the value of the produce? **On this** other relative. **But he was saying** until this point: **I am closer** in relation to the deceased than he. Therefore, you have ownership of the tree only from the time of his admission, and not from when he took possession of the tree. The Gemara comments: **Abaye and Rava do not hold** in accordance with **this** opinion **of Rav Ḥisda,**

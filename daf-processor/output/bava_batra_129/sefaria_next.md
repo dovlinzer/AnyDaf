@@ -43,3 +43,60 @@
 **11.**
 *Hebrew/Aramaic:* הַהוּא מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא, אַבָּא חָנָן אָמַר מִשּׁוּם רַבִּי אֱלִיעֶזֶר:
 *Translation:* The Gemara answers: **That** clause in the verse is **necessary for that which is taught** in a *baraita*: **Abba Ḥanan says in the name of Rabbi Eliezer:**
+
+
+---
+
+### Bava Batra 130b
+
+**1.**
+*Hebrew/Aramaic:* מָה תַּלְמוּד לוֹמַר: ״לֹא יוּכַל לְבַכֵּר״?
+*Translation:* **Why** must **the verse state: “He may not make** the son of the beloved **the firstborn”** (Deuteronomy 21:16)?
+
+**2.**
+*Hebrew/Aramaic:* לְפִי שֶׁנֶּאֱמַר: ״וְהָיָה בְּיוֹם הַנְחִילוֹ אֶת בָּנָיו״. שֶׁיָּכוֹל וַהֲלֹא דִין הוּא – וּמָה פָּשׁוּט, שֶׁיִּפָּה כֹּחוֹ, שֶׁנּוֹטֵל בָּרָאוּי כִּבְמוּחְזָק – הַתּוֹרָה נָתְנָה רְשׁוּת לָאָב לְהַנְחִיל לְכׇל מִי שֶׁיִּרְצֶה; בְּכוֹר, שֶׁהוֹרַע כֹּחוֹ, שֶׁאֵינוֹ נוֹטֵל בָּרָאוּי כִּבְמוּחְזָק – לֹא כׇּל שֶׁכֵּן? תַּלְמוּד לוֹמַר: ״לֹא יוּכַל לְבַכֵּר״.
+*Translation:* Abba Ḥanan explains: It is necessary **because** it **is stated** previously in the verse: **“Then it shall be, in the day that he causes his sons to inherit,” as** one **might** have thought: **Could this not** be derived through an *a fortiori* **inference,** as follows: **And if** with regard to **an ordinary** son, one who is not a firstborn, **whose power is enhanced** in **that he takes** in inheritance the property **due** the deceased **as** he does the property the deceased **possessed** at the time he died, nevertheless, **the Torah gave the father permission to bequeath** his estate **to whichever** of his sons **he wishes,** depriving his other sons of their portions, then with regard to **a firstborn, whose power is diminished** in **that he does not take** a double portion of the property **due** his father **as** he takes of the property the deceased **possessed** at the time of his death, is it **not** clear **all the more so** that his father can deprive him of the double portion he receives as a firstborn? Therefore, **the verse states: “He may not make** the son of the beloved **the firstborn.”**
+
+**3.**
+*Hebrew/Aramaic:* וְיֹאמַר ״לֹא יוּכַל לְבַכֵּר״; מָה תַּלְמוּד לוֹמַר: ״וְהָיָה בְּיוֹם הַנְחִילוֹ אֶת בָּנָיו״?
+*Translation:* Abba Ḥanan continues: **And let** the verse **state** only the prohibition of: **“He may not make** the son of the beloved **the firstborn.” Why** must **the verse state: “Then it shall be, in the day that he causes his sons to inherit”?**
+
+**4.**
+*Hebrew/Aramaic:* שֶׁיָּכוֹל וַהֲלֹא דִּין הוּא – וּמָה בְּכוֹר, שֶׁהוֹרַע כֹּחוֹ, שֶׁאֵינוֹ נוֹטֵל בָּרָאוּי כִּבְמוּחְזָק – אָמְרָה תּוֹרָה: ״לֹא יוּכַל לְבַכֵּר״; פָּשׁוּט, שֶׁיִּפָּה כֹּחוֹ, שֶׁנּוֹטֵל בָּרָאוּי כִּבְמוּחְזָק – לֹא כׇּל שֶׁכֵּן?!
+*Translation:* It is necessary **because** one **might** have thought: **Could this not** be derived through an *a fortiori* **inference,** as follows: **And if** with regard to **a firstborn, whose power is diminished** in **that he does not take** a double portion of the property **due** his father **as** he takes of the property the deceased **possessed,** nevertheless **the Torah states: “He may not make** the son of the beloved **the firstborn,”** i.e., the firstborn may not be deprived of his double portion, then with regard to **an ordinary** son, **whose power is enhanced** in **that he takes** in inheritance the property **due** the deceased **as** he does the property the deceased **possessed,** is it **not** clear **all the more so** that his father cannot deprive him of his portion of the inheritance?
+
+**5.**
+*Hebrew/Aramaic:* תַּלְמוּד לוֹמַר: ״וְהָיָה בְּיוֹם הַנְחִילוֹ אֶת בָּנָיו״ – הַתּוֹרָה נָתְנָה רְשׁוּת לָאָב לְהַנְחִיל לְכׇל מִי שֶׁיִּרְצֶה.
+*Translation:* Therefore, **the verse states: “Then it shall be, in the day that he causes his sons to inherit,”** indicating that **the Torah gave the father permission to bequeath** his estate **to whichever** of his sons **he wishes.** Consequently, the prohibition “he may not make the son of the beloved the firstborn” is not available to prove that one may bequeath his estate to whichever of his sons he wishes.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַבִּי זְרִיקָא אָמַר רַבִּי אַמֵּי אָמַר רַבִּי חֲנִינָא אָמַר רַבִּי: הֲלָכָה כְּרַבִּי יוֹחָנָן בֶּן בְּרוֹקָה. אֲמַר לֵיהּ רַבִּי אַבָּא: ״הוֹרָה״ אִיתְּמַר.
+*Translation:* § The Gemara resumes discussion of the halakhic ruling: **Rabbi Zerika says** that **Rabbi Ami says** that **Rabbi Ḥanina says** that **Rabbi** Yehuda HaNasi **says:** The ***halakha*** is **in accordance with** the opinion of **Rabbi Yoḥanan ben Beroka. Rabbi Abba said to** Rabbi Zerika: **It was stated** that Rabbi Yehuda HaNasi **ruled** in an actual case in accordance with the opinion of Rabbi Yoḥanan ben Beroka.
+
+**7.**
+*Hebrew/Aramaic:* בְּמַאי קָמִיפַּלְגִי? מָר סָבַר: הֲלָכָה עֲדִיפָא, וּמָר סָבַר: מַעֲשֶׂה רַב.
+*Translation:* The Gemara asks: **With regard to what** principle **do they disagree?** Since both Rabbi Zerika and Rabbi Abba agree that the *halakha* is in accordance with the opinion of Rabbi Yoḥanan ben Beroka, why did Rabbi Abba state that Rabbi Yehuda HaNasi ruled as much in an actual case? The Gemara answers: One **Sage,** Rabbi Zerika, **holds** that a ruling in principle is **a preferable** source for **a *halakha*,** rather than a ruling from an incident; **and** one **Sage,** Rabbi Abba, **holds** that a specific **incident** ruled upon by **a Sage** is a preferable source.
+
+**8.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אֵין לְמֵדִין הֲלָכָה לֹא מִפִּי תַלְמוּד, וְלֹא מִפִּי מַעֲשֶׂה, עַד שֶׁיֹּאמְרוּ לוֹ הֲלָכָה לְמַעֲשֶׂה. שָׁאַל וְאָמְרוּ לוֹ הֲלָכָה לְמַעֲשֶׂה – יֵלֵךְ וְיַעֲשֶׂה מַעֲשֶׂה, וּבִלְבַד שֶׁלֹּא יְדַמֶּה.
+*Translation:* The Gemara examines which source is preferable. **The Sages taught** in a *baraita*: **One may derive** the ***halakha* neither from a statement nor from an incident** where one saw a ruling issued in a certain manner, **unless** the Sages explicitly **tell him** that it is the **practical *halakha*.** If he **asked** the Sages **and they told him** the **practical *halakha*, he may go and act** upon the ruling in those circumstances, **provided that he does not compare** between cases and apply the ruling to other circumstances.
+
+**9.**
+*Hebrew/Aramaic:* מַאי ״וּבִלְבַד שֶׁלֹּא יְדַמֶּה״? וְהָא כׇּל הַתּוֹרָה כּוּלָּהּ דַּמּוֹיֵי מְדַמֵּינַן לַהּ!
+*Translation:* The Gemara asks: **What** is the meaning of the statement: **Provided that he does not compare? But don’t we compare** cases throughout **the entire Torah?** The main method of halakhic derivation is through comparing cases where the *halakha* was already established to cases where the *halakha* is unclear.
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַב אָשֵׁי, הָכִי קָאָמַר: וּבִלְבַד שֶׁלֹּא יְדַמֶּה בִּטְרֵפוֹת.
+*Translation:* **Rav Ashi said** that **this** is what the *baraita* **is saying: Provided that he does not compare between** various cases of **animals with wounds that will cause them to die within twelve months [*tereifot*],** which are forbidden for consumption. In general, one may compare cases, but with regard to the definition of a *tereifa*, one may not compare.
+
+**11.**
+*Hebrew/Aramaic:* דְּתַנְיָא: אֵין אוֹמְרִים בִּטְרֵפוֹת זוֹ דּוֹמָה לָזוֹ. וְאַל תִּתְמַהּ, שֶׁהֲרֵי חוֹתְכָהּ מִכָּאן וּמֵתָה, חוֹתְכָהּ מִכָּאן וְחָיְתָה.
+*Translation:* This is **as it is taught** in a *baraita*: **With regard to *tereifot*, one does not say: This** wound **is similar to that** wound. Every type of wound has its own *halakhot*. **And do not wonder** about this principle, **as there are** organs with regard to which one **cuts it from here,** i.e., one side, **and** the animal **dies** within twelve months, but one **cuts it from there,** i.e., another side, **and it lives.**
+
+**12.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַבִּי אַסִּי לְרַבִּי יוֹחָנָן: כִּי אָמַר לַן מָר ״הֲלָכָה הָכִי״, נַעֲבֵיד מַעֲשֶׂה? אָמַר: לָא תַּעְבְּידוּ עַד דְּאָמֵינָא הֲלָכָה לְמַעֲשֶׂה.
+*Translation:* **Rabbi Asi said to Rabbi Yoḥanan: When the Master,** i.e., Rabbi Yoḥanan, **says to us: This is** the ***halakha*, should we act** upon the ruling? Rabbi Yoḥanan **said: Do not act** upon the ruling **unless I say** that it is **a practical *halakha*.**
+
+**13.**
+*Hebrew/Aramaic:* אֲמַר לְהוּ רָבָא לְרַב פָּפָּא וּלְרַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: כִּי אָתֵי פִּסְקָא דְּדִינָא דִּידִי לְקַמַּיְיכוּ, וְחָזֵיתוּ בֵּיהּ פִּירְכָא – לָא תִּקְרְעוּהוּ עַד דְּאָתֵיתוּ לְקַמַּאי; אִי אִית לִי טַעְמָא – אָמֵינָא לְכוּ, וְאִי לָא – הָדַרְנָא בִּי. לְאַחַר מִיתָה, לָא מִיקְרָע תִּקְרְעוּהוּ, וּמִגְמָר נָמֵי לָא תִּגְמְרוּ מִינֵּיהּ. לָא מִיקְרָע תִּקְרְעוּנֵיהּ – דְּאִי הֲוַאי הָתָם דִּלְמָא הֲוָה אָמֵינָא לְכוּ טַעְמָא;
+*Translation:* **Rava said to Rav Pappa and to Rav Huna, son of Rav Yehoshua: When a legal ruling of mine comes before you and you perceive a refutation of it, do not tear it up until you come before me** to discuss it. **If I have** a valid **explanation, I will tell you, and if not, I will retract** my ruling. If a ruling of mine comes before you **after** my **death,** when you can no longer discuss it with me, **do not tear it up, but do not learn from it either,** i.e., do not rule in accordance with it. **Do not tear it up, as had I been there, perhaps I would have told you** a valid **explanation** that you would have accepted;

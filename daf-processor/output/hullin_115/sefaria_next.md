@@ -67,3 +67,76 @@
 **17.**
 *Hebrew/Aramaic:* מַתְנִי׳ קֵבַת גּוֹי וְשֶׁל נְבֵלָה – הֲרֵי זוֹ אֲסוּרָה. הַמַּעֲמִיד בְּעוֹר שֶׁל קֵבָה כְּשֵׁרָה,
 *Translation:* MISHNA: The congealed milk in **the stomach** of the animal **of a gentile and of an** unslaughtered **animal carcass is prohibited.** With regard to **one who curdled milk by** using **the skin of the stomach of a kosher** animal as a coagulant to make cheese, which may then have the taste of meat cooked in milk,
+
+
+---
+
+### Hullin 116b
+
+**1.**
+*Hebrew/Aramaic:* אִם יֵשׁ בְּנוֹתֵן טַעַם – הֲרֵי זוֹ אֲסוּרָה. כְּשֵׁרָה שֶׁיָּנְקָה מִן הַטְּרֵפָה – קֵבָתָהּ אֲסוּרָה. טְרֵפָה שֶׁיָּנְקָה מִן הֶכְשֵׁרָהּ – קֵבָתָהּ מוּתֶּרֶת, מִפְּנֵי שֶׁכָּנוּס בְּמֵעֶיהָ.
+*Translation:* **if** the measure of the skin is enough **to impart flavor** to the milk, **that** cheese **is prohibited.** In the case of **a kosher** animal **that suckled** milk **from a *tereifa*,** the milk in **its stomach is prohibited,** as the milk is from the *tereifa*. If it was **a *tereifa* that suckled** milk **from a kosher** animal, the milk in **its stomach is permitted,** as the milk is from the kosher animal. In both cases, the milk that an animal suckles has the status of the animal from which it was suckled, and not that of the animal which suckled, **because** the milk **is collected in its innards** and is not an integral part of its body.
+
+**2.**
+*Hebrew/Aramaic:* גְּמָ׳ אַטּוּ קֵבַת גּוֹי לָאו נְבֵלָה הִיא? אָמַר רַב הוּנָא: הָכָא בְּלוֹקֵחַ גְּדִי מִן הַגּוֹי עָסְקִינַן, וְחָיְישִׁינַן שֶׁמָּא יָנַק מִן הַטְּרֵפָה.
+*Translation:* GEMARA: The mishna makes reference to the stomach of the animal of a gentile and that of an unslaughtered carcass. The Gemara asks: **Is that to say** that **the stomach of** an animal slaughtered by **a gentile is not** itself **a carcass?** Why does the *tanna* of the mishna differentiate between them? **Rav Huna said:** The mishna **here** is not referring to an animal slaughtered by a gentile. Rather, **we are dealing with** a Jew who **purchases a kid from a gentile** and slaughters it himself. Therefore, the kid is not prohibited as a carcass, **but we are concerned** that **perhaps it suckled from a *tereifa*** animal, and it is therefore prohibited.
+
+**3.**
+*Hebrew/Aramaic:* וּמִי חָיְישִׁינַן שֶׁמָּא יָנַק מִן הַטְּרֵפָה? וְהָתְנַן: לוֹקְחִים בֵּיצִים מִן הַגּוֹיִם, וְאֵין חוֹשְׁשִׁין לֹא מִשּׁוּם נְבֵלָה וְלֹא מִשּׁוּם טְרֵפָה! אֶלָּא אֵימָא: חָיְישִׁינַן שֶׁמָּא יָנַק מִן הַטְּמֵאָה.
+*Translation:* The Gemara asks: **And are we concerned** that **perhaps it suckled from** an animal that is **a *tereifa*? But didn’t we learn** in a *baraita* (*Tosefta* 3:8): **One may purchase eggs from gentiles, and we are not concerned** that perhaps the eggs came **from a carcass nor** that they came **from a *tereifa*.** The Gemara answers: Indeed, there is no concern that the kid might have suckled from a *tereifa*. **Rather, say** that **we are concerned** that **perhaps it suckled from a non-kosher** animal, and therefore the milk in its stomach is prohibited.
+
+**4.**
+*Hebrew/Aramaic:* וּמַאי שְׁנָא טְרֵפָה דְּלָא חָיְישִׁינַן, וּמַאי שְׁנָא טְמֵאָה דְּחָיְישִׁינַן? טְרֵפָה לָא שְׁכִיחָא, טְמֵאָה שְׁכִיחָא.
+*Translation:* The Gemara asks: **And what is different** about **a *tereifa* that we are not concerned** that perhaps the animal suckled from it, **and what is different** about **a non-kosher** animal **that we are concerned?** The Gemara answers: **A *tereifa*** animal **is not common,** whereas **a non-kosher** animal **is common,** and it is therefore more likely that the young animal suckled from one.
+
+**5.**
+*Hebrew/Aramaic:* אִי שְׁכִיחָא, אֲפִילּוּ גַּבֵּי דִּידַן נֵיחוּשׁ! אֲנַן דְּבָדְלִינַן מִינַּיְיהוּ, וְכִי חָזֵינַן לְהוּ מַפְרְשִׁינַן לְהוּ – לָא גְּזַרוּ בְּהוּ רַבָּנַן. אִינְהוּ דְּלָא בְּדִילִי מִינַּיְיהוּ, וְכִי חָזוּ לְהוּ לָא מַפְרְשִׁי לְהוּ – גְּזַרוּ בְּהוּ רַבָּנַן.
+*Translation:* The Gemara raises a difficulty: **If** suckling from a non-kosher animal is **common,** then **let us be concerned even with regard to our** own animals. The Gemara responds: **We** Jews, **who separate ourselves from** non-kosher animals, **when we see them we** immediately **distance** our suckling animals from them. Therefore, **the Sages did not issue a decree with regard to** animals purchased from Jews. But as for the gentiles, **who do not separate themselves from** non-kosher animals, **when they see them they do not distance** their kosher animals from them. Consequently, **the Sages issued a decree with regard to** animals purchased from a gentile.
+
+**6.**
+*Hebrew/Aramaic:* וּשְׁמוּאֵל אָמַר: חֲדָא קָתָנֵי, קֵבַת שְׁחִיטַת גּוֹי – נְבֵלָה.
+*Translation:* **And Shmuel said** a different explanation of the mishna’s language: The *tanna* of the mishna **is teaching** only **one** *halakha*: The congealed milk in **the stomach of** an animal **slaughtered by a gentile is** like **a carcass,** and it is therefore prohibited.
+
+**7.**
+*Hebrew/Aramaic:* וּמִי אָמַר שְׁמוּאֵל הָכִי? וְהָאָמַר שְׁמוּאֵל: מִפְּנֵי מָה אָסְרוּ גְּבִינַת הַגּוֹיִם – מִפְּנֵי שֶׁמַּעֲמִידִין אוֹתָהּ בְּעוֹר קֵבַת נְבֵלָה. הָא קֵבָה גּוּפַהּ שַׁרְיָא!
+*Translation:* The Gemara asks: **And did Shmuel** actually **say this?** Does he hold that the milk in the stomach of an unslaughtered animal is prohibited as if it were part of its body? **But didn’t Shmuel say: For what** reason did the Sages **prohibit the cheese of gentiles?** It is **because they curdle it with the skin of the stomach of a carcass.** One may infer **consequently** that congealed milk, or rennet, from the **stomach** of a gentile’s animal **is itself permitted** and would not render the cheese prohibited if used as a coagulant.
+
+**8.**
+*Hebrew/Aramaic:* לָא קַשְׁיָא: כָּאן – קוֹדֶם חֲזָרָה, כָּאן – לְאַחַר חֲזָרָה.
+*Translation:* The Gemara answers: That is **not difficult.** Elsewhere (*Avoda Zara* 29b), Rabbi Yehoshua teaches two reasons for the prohibition on gentile cheese. Initially, he held it to be prohibited because it is curdled using rennet from the stomach of an animal carcass. He later adopted the opinion that such rennet is permitted, and that the cheese is prohibited because it is curdled using rennet from the stomach of calves used for idol worship, which is prohibited. Therefore, the mishna **here,** which states that the rennet in a carcass’s stomach is itself prohibited, was taught **before** Rabbi Yehoshua’s **retraction,** while Shmuel’s statement **there,** that the Sages prohibited gentile cheese only because it is curdled with the skin of the stomach of a carcass, was **after** Rabbi Yehoshua’s **retraction.**
+
+**9.**
+*Hebrew/Aramaic:* כְּשֵׁרָה שֶׁיָּנְקָה מִן הַטְּרֵפָה [וְכוּ׳]. וְהָא קָתָנֵי רֵישָׁא: קֵבַת גּוֹי וְשֶׁל נְבֵלָה הֲרֵי זוֹ אֲסוּרָה?
+*Translation:* § The mishna teaches: In the case of **a kosher** animal **that suckled** milk **from a *tereifa*,** the milk in its stomach is prohibited, whereas if a *tereifa* suckled milk from a kosher animal, the milk in its stomach is permitted. The Gemara raises a difficulty: **But doesn’t the first clause** of the mishna **teach:** The congealed milk in **the stomach** of the animal **of a gentile and of a carcass is prohibited?** What is the difference between the milk found in the stomach of a *tereifa* in the second clause and the milk found in the stomach of an unslaughtered carcass in the first clause?
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַב חִסְדָּא: רֵישָׁא נִרְאֶה כְּאוֹכֵל נְבֵלוֹת, הָכָא אִיכָּא שְׁחִיטָה.
+*Translation:* **Rav Ḥisda said:** In fact, milk found in the stomach of a carcass is not itself prohibited. **The first clause** of the mishna prohibits it only because one who partakes of it **looks like one who eats carcasses,** which is repulsive. By contrast, **here,** with regard to a *tereifa*, the consumption of milk found in its stomach is less repulsive, as here **there is** at least **slaughter** of the animal.
+
+**11.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא: וְלָאו כֹּל דְּכֵן הוּא? וּמָה נְבֵלָה דִּמְאִיסָה, דְּאִי שָׁרֵית לֵיהּ קֵבָתָהּ לָא אָתֵי לְמֵיכַל מִינַּהּ, אָמְרַתְּ לָא. טְרֵפָה שְׁחוּטָה, דְּאִי שָׁרֵית אָתֵי לְמֵיכַל מִינַּהּ, לֹא כׇּל שֶׁכֵּן?
+*Translation:* **Rava said to** Rav Ḥisda: **But is it not** possible to claim ***a fortiori*** that milk found in the stomach of a *tereifa* should be prohibited? **Just as** with regard to **a carcass, which is** so **repulsive that** even **if you permit** the milk in **its stomach** people **will not come to partake of** the meat, **you** nevertheless **said** the milk is **not** permitted for consumption, is it **not all the more so** with regard to **a *tereifa*** that has been **slaughtered,** which is not as repulsive, **such that if you permit** the milk in its stomach people might **come to partake of it?**
+
+**12.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב יִצְחָק, אָמַר רַבִּי יוֹחָנָן: לָא קַשְׁיָא, כָּאן קוֹדֶם חֲזָרָה, כָּאן לְאַחַר חֲזָרָה, וּמִשְׁנָה לֹא זָזָה מִמְּקוֹמָהּ.
+*Translation:* **Rather, Rav Yitzḥak said** that **Rabbi Yoḥanan says:** This question is **not difficult.** The first clause of the mishna **here,** which teaches that the milk in the stomach of a carcass is prohibited, was taught **before** Rabbi Yehoshua’s **retraction** cited above, whereas the latter clause **there,** that milk from the stomach of a *tereifa* is permitted, was taught **after** Rabbi Yehoshua’s **retraction.** A mishna can sometimes preserve an older ruling and then immediately teach a contradictory later ruling, because **a mishna does not move from its place.** Since the first clause of the mishna was already canonized, it was not removed, despite Rabbi Yehoshua’s change of opinion.
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַבִּי חִיָּיא בַּר אַבָּא, אָמַר רַבִּי יוֹחָנָן: מַעֲמִידִין בְּקֵבַת נְבֵלוֹת, וְאֵין מַעֲמִידִין בְּקֵבַת שְׁחִיטַת גּוֹי. אָמַר לְפָנָיו רַבִּי שִׁמְעוֹן בַּר אַבָּא: כְּמַאן? כְּרַבִּי אֱלִיעֶזֶר, דְּאָמַר סְתָם מַחְשֶׁבֶת גּוֹי לַעֲבוֹדָה זָרָה.
+*Translation:* § **Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says: One may curdle** milk **with** rennet extracted from **the stomach of carcasses, but one may not curdle** milk **with** rennet from **the stomach of** animals **slaughtered by a gentile. Rabbi Shimon bar Abba said before** Rabbi Ḥiyya bar Abba: **In accordance with whose** opinion is this ruling? It is **in accordance with** the opinion of **Rabbi Eliezer, who said: A gentile’s presumed intention** during slaughter **is for idol worship.** Therefore, the prohibition against deriving benefit from an animal slaughtered in idol worship applies to it, and this prohibition includes the contents of its stomach that are not actually part of its body. By contrast, a carcass is prohibited only for consumption, and the prohibition does not extend to the contents of its stomach.
+
+**14.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: וְאֶלָּא כְּמַאן?
+*Translation:* Rabbi Ḥiyya bar Abba **said to** Rabbi Shimon bar Abba: **Rather, in accordance with whose** opinion could this ruling be? Of course it is the opinion of Rabbi Eliezer.
+
+**15.**
+*Hebrew/Aramaic:* כִּי אֲתָא רַב שְׁמוּאֵל בַּר רַב יִצְחָק, אָמַר רַבִּי יוֹחָנָן: מַעֲמִידִין בֵּין בְּקֵבַת נְבֵלָה, בֵּין בְּקֵבַת שְׁחִיטַת גּוֹי, שֶׁלֹּא לָחוֹשׁ לְדִבְרֵי רַבִּי אֱלִיעֶזֶר.
+*Translation:* The Gemara relates: **When Rav Shmuel bar Rav Yitzḥak came** from Eretz Yisrael to Babylonia, he said that **Rabbi Yoḥanan said: One may curdle** milk **both with** rennet from **the stomach of a carcass and with** rennet from **the stomach of** an animal **slaughtered by a gentile, as** there is **no** need **to be concerned for the statement of Rabbi Eliezer.** According to this account, Rabbi Yoḥanan does not maintain that a gentile’s presumed intention is for idol worship.
+
+**16.**
+*Hebrew/Aramaic:* וְהִלְכְתָא: אֵין מַעֲמִידִין בָּעוֹר קֵבַת נְבֵלָה, אֲבָל מַעֲמִידִין בְּקֵבַת נְבֵלָה, וּבְקֵבַת שְׁחִיטַת גּוֹי, וּבְקֵבַת כְּשֵׁרָה שֶׁיָּנְקָה מִן הַטְּרֵפָה, וְכׇל שֶׁכֵּן בְּקֵבַת טְרֵפָה שֶׁיָּנְקָה מִן הַכְּשֵׁרָה. מַאי טַעְמָא? חָלָב הַמְכוּנָּס בָּהּ פִּירְשָׁא בְּעָלְמָא הוּא.
+*Translation:* The Gemara concludes: **And** the ***halakha*** is: **One may not curdle** milk **with the skin of the stomach of a carcass, but one may curdle** milk **with** rennet from **the stomach of a carcass and with** rennet from **the stomach of** an animal **slaughtered by a gentile, and with** rennet from **the stomach of a kosher** animal **that suckled from a *tereifa*, and all the more so with** rennet from **the stomach of a *tereifa*** animal **that suckled from a kosher** animal. **What is the reason** for these lenient rulings? **The milk collected in** a stomach **is merely secretion** and is not considered food that can be prohibited.
+
+**17.**
+*Hebrew/Aramaic:* מַתְנִי׳ חוֹמֶר בַּחֵלֶב מִבַּדָּם, וְחוֹמֶר בַּדָּם מִבַּחֵלֶב. חוֹמֶר בַּחֵלֶב – שֶׁהַחֵלֶב
+*Translation:* MISHNA: Although animal fats and blood are similar in that they are both prohibited by Torah law and punishable by *karet*, there are elements more **stringent in** the prohibition of **fat than in** that of **blood, and** likewise there are elements more **stringent in** the prohibition of **blood than in** that of **fat.** The elements more **stringent in** the prohibition of **fat are** the following: The first is **that** with regard to **fat** of an offering,

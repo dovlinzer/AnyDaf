@@ -67,3 +67,20 @@
 **17.**
 *Hebrew/Aramaic:* אוֹ כְּלָךְ לְדֶרֶךְ זוֹ – דְּהָא אָמְרָה תּוֹרָה: לָן יִשָּׂרֵף, וְיוֹצֵא יִשָּׂרֵף; מָה יוֹצֵא – כָּשֵׁר בְּבָמָה, אַף לָן – כָּשֵׁר בְּבָמָה. וְלָאו קַל וָחוֹמֶר הוּא מֵעוֹפוֹת:
 *Translation:* **Or go this way,** and say that **because the Torah stated:** An offering that was **left overnight must be burned, and** likewise, the Torah stated that an offering that **leaves** the Temple courtyard **must be burned,** the following conclusion may be drawn: **Just as** an offering that **leaves** the Temple courtyard is **valid in** the case of a private **altar** because it has no set perimeter, **so too,** an offering that was **left overnight** is **valid in** the case of a private **altar,** and it may therefore be concluded that the *halakha* of time does not apply to offerings on a private altar. The Gemara asks: **And is it not an *a fortiori*** inference **from** the *halakha* of **bird** offerings that in the case of a private altar, time should render an offering disqualified?
+
+
+---
+
+### Zevachim 120b
+
+**1.**
+*Hebrew/Aramaic:* מָה עוֹפוֹת, שֶׁאֵין הַמּוּם פּוֹסֵל בָּהֶן – זְמַן פּוֹסֵל בָּהֶן; קׇדְשֵׁי בָּמָה קְטַנָּה, שֶׁהַמּוּם פּוֹסֵל בָּהֶן – אֵינוֹ דִּין שֶׁזְּמַן פּוֹסֵל בָּהֶן?!
+*Translation:* **If bird** offerings, whose *halakhot* are more lenient in **that a blemish does not disqualify them, are** nevertheless **disqualified by time,** then with regard to **sacrificial** animals **of a small** private **altar, which are disqualified by a blemish, is it not logical that they** should be **disqualified by time?**
+
+**2.**
+*Hebrew/Aramaic:* מָה לְעוֹפוֹת – שֶׁכֵּן אֵין הַזָּר כָּשֵׁר בָּהֶן; תֹּאמַר בְּבָמָה קְטַנָּה, שֶׁהַזָּר כָּשֵׁר בָּהּ – לֹא יְהֵא זְמַן פָּסוּל בָּהּ?! תַּלְמוּד לוֹמַר: ״וְזֹאת תּוֹרַת זֶבַח הַשְּׁלָמִים״ – לַעֲשׂוֹת זְמַן בָּמָה קְטַנָּה כִּזְמַן בָּמָה גְּדוֹלָה.
+*Translation:* The Gemara questions the inference: **What** is notable **about bird** offerings? They are notable **in that a non-priest is not fit to** sacrifice **them. Shall you say** the same **with regard to** offerings sacrificed on **a small** private **altar, where a non-priest is fit?** No, and consequently they **should not be disqualified by time.** Therefore, **the verse states: “And this is the law of the sacrifice of peace offerings”** (Leviticus 7:11), which equates all peace offerings, **to render** the *halakha* of **time** with regard to **a small** private **altar identical to** the *halakha* of **time** with regard to **a great** public **altar.**
+
+**3.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ פָּרַת חַטָּאת, וּסְלִיקָא לַהּ מַסֶּכֶת זְבָחִים
+*Translation:* 
