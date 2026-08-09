@@ -1400,6 +1400,26 @@ of a parallel tree, with `promote_to_final.py` doing an in-directory rename/copy
 after the hand-patch check. Same safety gate, one directory tree instead of two. Not done
 tonight — didn't want to touch scripts the corpus-wide run was actively depending on.
 
+**Tried and rejected: `find_amud_b.py`'s `nearest_heading` walk-back extension, 2026-08-09.**
+User caught a real placement issue on `bava_batra_174`: the amud-b marker landed under
+`### Rav Pappa: Two Readings` (the heading containing the first-matched amud-B blockquote), but
+the immediately preceding `### Orphans Case: Rav Pappa` was already an English paraphrase of that
+exact same passage — the marker should have landed one heading earlier. Built a bounded "one-hop"
+extension: if the found `###` heading's immediately preceding sibling (same parent `##`, so it
+never crosses a macro boundary) has zero blockquotes of its own, use that one instead — capped at
+one hop, no chaining. Corpus-wide `--dry-run` comparison against the last real run: **740 of 2,240
+dafim would shift** — far more than expected for a narrow case. Spot-checked 5 by reading the
+actual content on both sides of the shift: 3 were genuine improvements (clean paraphrase-then-quote
+of the identical passage, same shape as BB174), 1 was a real regression (`Hullin_13`'s
+`"### Objection to Intent"` is a *separate* Gemara point in the same sugya, not a preview of what
+follows — the tweak pulled the marker back into unrelated amud-A content), 1 was ambiguous. **"No
+blockquote in the preceding section" isn't reliable evidence that it's thematically a preview of
+what's next** — most no-blockquote sections are ordinary commentary/discussion unrelated to the
+upcoming quote, and a heading-position heuristic can't tell the two apart from structure alone.
+Reverted (`git checkout -- daf-processor/find_amud_b.py`), nothing written to any daf. A real fix
+would need actual content/topic matching between the candidate section and the upcoming quote —
+plausible via an LLM call per candidate, not attempted.
+
 ### Amud-b relabeling — analyzed and applied, 2026-08-03
 
 **Conclusion: the existing directory-suffix-driven `.5` numbering system (see `parse_dir_name()`/`daf_to_float()` in `upload_to_supabase.py`) was already correct for the large majority of the corpus.** Only a small number of "Xb" directories turned out to be mislabeled full dapim.
