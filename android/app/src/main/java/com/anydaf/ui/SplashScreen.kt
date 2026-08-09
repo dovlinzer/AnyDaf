@@ -40,10 +40,14 @@ import kotlinx.coroutines.delay
 private val SplashBlue = Color(red = 0.106f, green = 0.227f, blue = 0.541f)
 private val SubtitleBlue = Color(red = 0.75f, green = 0.85f, blue = 1f)
 
+// yct_splash.mp4 is cropped to the YCT logo's own proportions (836x514) so the
+// rounded box matches the logo's shape instead of leaving empty space above/below it.
+private const val LogoAspectRatio: Float = 836f / 514f
+
 @Composable
 fun SplashScreen(onDone: () -> Unit) {
     LaunchedEffect(Unit) {
-        delay(3200)
+        delay(4200)
         onDone()
     }
 
@@ -53,7 +57,10 @@ fun SplashScreen(onDone: () -> Unit) {
     val isTablet = configuration.smallestScreenWidthDp >= 600
 
     val rabbiImageSize = (shortDp * if (isTablet) 0.21f else 0.28f).dp
-    val logoWidth = (shortDp * if (isTablet) 0.325f else 0.50f).dp
+    // Matches AnyTorah's fixed 200dp logo size (AnyTorah isn't proportional to screen
+    // width) on a typical phone; tablet keeps the same relative scale-down.
+    val logoWidth = (shortDp * if (isTablet) 0.42f else 0.65f).dp
+    val logoHeight = logoWidth / LogoAspectRatio
     val logoBottomPad = (screenHeightDp * 0.075f).dp
 
     Box(
@@ -120,7 +127,7 @@ fun SplashScreen(onDone: () -> Unit) {
                 },
                 modifier = Modifier
                     .width(logoWidth)
-                    .height(logoWidth)
+                    .height(logoHeight)
                     .clip(RoundedCornerShape(16.dp))
             )
             Spacer(Modifier.height(logoBottomPad))

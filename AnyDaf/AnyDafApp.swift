@@ -53,7 +53,7 @@ struct AnyDafApp: App {
                 }
             }
             .onAppear {
-                DispatchQueue.main.asyncAfter(deadline: .now() + 3.2) {
+                DispatchQueue.main.asyncAfter(deadline: .now() + 4.2) {
                     withAnimation(.easeOut(duration: 0.5)) {
                         showSplash = false
                     }

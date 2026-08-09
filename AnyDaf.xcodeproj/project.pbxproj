@@ -43,6 +43,7 @@
 		FEE5E3A22F5649FF00E38810 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE5E3A12F5649FF00E38810 /* SplashView.swift */; };
 		FEE5E3A42F564C7C00E38810 /* ZoomableAsyncImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE5E3A32F564C7C00E38810 /* ZoomableAsyncImage.swift */; };
 		FEE5E3A72F564C8900E38810 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEE5E3A52F564C8900E38810 /* Preview Assets.xcassets */; };
+		A364AF572162A160780DFFF7 /* yct_splash.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0BC091BBC8FB9340A83E270 /* yct_splash.mp4 */; };
 		FEF848E52F6CC18100D40DD1 /* BookmarkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF848E42F6CC18100D40DD1 /* BookmarkManager.swift */; };
 		FEF848E62F6CC18100D40DD1 /* Bookmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF848E12F6CC18100D40DD1 /* Bookmark.swift */; };
 		FEF848E72F6CC18100D40DD1 /* BookmarkEditSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF848E22F6CC18100D40DD1 /* BookmarkEditSheet.swift */; };
@@ -91,6 +92,7 @@
 		FEF848E22F6CC18100D40DD1 /* BookmarkEditSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarkEditSheet.swift; sourceTree = "<group>"; };
 		FEF848E32F6CC18100D40DD1 /* BookmarkListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarkListView.swift; sourceTree = "<group>"; };
 		FEF848E42F6CC18100D40DD1 /* BookmarkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarkManager.swift; sourceTree = "<group>"; };
+		B0BC091BBC8FB9340A83E270 /* yct_splash.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = yct_splash.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				BB0000000000000000000006 /* Assets.xcassets */,
 				FE1E2F6D2F55143200B18755 /* Launch Screen.storyboard */,
 				FEE5E39F2F56497B00E38810 /* TalmudPageManager.swift */,
+				B0BC091BBC8FB9340A83E270 /* yct_splash.mp4 */,
 			);
 			path = AnyDaf;
 			sourceTree = "<group>";
@@ -237,6 +240,7 @@
 				FE1E2F6E2F55143200B18755 /* Launch Screen.storyboard in Resources */,
 				BB000000000000000000000E /* Assets.xcassets in Resources */,
 				FEE5E3A72F564C8900E38810 /* Preview Assets.xcassets in Resources */,
+				A364AF572162A160780DFFF7 /* yct_splash.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

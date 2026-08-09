@@ -14,6 +14,11 @@ private class _PlayerContainer: UIView {
         player.replaceCurrentItem(with: AVPlayerItem(url: url))
         player.isMuted = true
         let layer = AVPlayerLayer(player: player)
+        // yct_splash.mp4 is a square (1:1) video with its rounded corners already
+        // baked in (matted to the splash blue). Rounding via CALayer/clipShape on
+        // AVPlayerLayer's hardware-composited content isn't reliable, and previously
+        // the video's non-square source meant .resizeAspect letterboxed it inside
+        // the square frame anyway, leaving the video's own sharp rectangle visible.
         layer.videoGravity = .resizeAspect
         self.layer.addSublayer(layer)
         playerLayer = layer
@@ -40,12 +45,19 @@ struct SplashView: View {
     // #1B3A8A → R=0.106, G=0.227, B=0.541
     static let background = Color(red: 0.106, green: 0.227, blue: 0.541)
 
+    // yct_splash.mp4 is cropped to the YCT logo's own proportions (836×514) so the
+    // rounded box matches the logo's shape instead of leaving empty space above/below it.
+    private static let logoAspectRatio: CGFloat = 836.0 / 514.0
+
     @Environment(\.horizontalSizeClass) private var sizeClass
 
     var body: some View {
         GeometryReader { geo in
             let short = min(geo.size.width, geo.size.height)
             let isPad = sizeClass == .regular
+            // Matches AnyTorah's fixed 260pt logo size (AnyTorah isn't proportional to
+            // screen width) on a typical iPhone; iPad keeps the same relative scale-down.
+            let logoWidth = short * (isPad ? 0.42 : 0.65)
             ZStack(alignment: .bottom) {
                 SplashView.background.ignoresSafeArea()
 
@@ -71,8 +83,7 @@ struct SplashView: View {
 
                 // Logo pinned near the bottom
                 YCTLogoAnimated()
-                    .frame(width: short * (isPad ? 0.325 : 0.50),
-                           height: short * (isPad ? 0.325 : 0.50))
+                    .frame(width: logoWidth, height: logoWidth / Self.logoAspectRatio)
                     .clipShape(RoundedRectangle(cornerRadius: 16))
                     .padding(.bottom, geo.size.height * 0.075)
             }
